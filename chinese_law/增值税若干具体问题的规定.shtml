@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[1993]154<BR>&nbsp;&nbsp;【发布日期】1993-12-28<BR>&nbsp;&nbsp;【生效日期】1993-12-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>增值税若干具体问题的规定<br>
+ </font></p><p align='center'><font class='STitle'>（1993年12月28日国税发＜1993＞154）</font></p><br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>征税范围<br>    （一）货物期货（包括商品期货和贵金属期货），应当征收增值税。<br>    （二）银行销售金银的业务，应当征收增值税。<br>    （三）融资租赁业务，无论租赁的货物的所有权是否转让给承租方，均不征收增值税。<br>    （四）基本建设单位和从事建筑安装业务的企业附设的工厂、车间生产的水泥预制构件、其他构件或建筑材料，用于本单位或本企业的建筑工程的，应在移送使用时征收增值税。但对其在建筑现场制造的预制构件，凡直接用于本单位或本企业建筑工程的，不征收增值税。<br>    （五）典当业的死当物品销售业务和寄售业代委托人销售寄售物品的业务，均应征收增值税。<br>    （六）因转让著作所有权而发生的销售电影母片、录像带母带、录音磁带母带的业务，以及因转让专利技术和非专利技术的所有权而发生的销售计算机软件的业务，不征收增值税。<br>    （七）供应或开采未经加工的天然水（如水库供应农业灌溉用水，工厂自采地下水用于生产），不征收增值税。<br>    （八）邮政部门销售集邮邮票、首日封，应当征收增值税。<br>    （九）缝纫，应当征收增值税。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>计税依据<br>    （一）纳税人为销售货物而出租出借包装物收取的押金，单独记帐核算的，不并入销售额征税。但对因逾期未收回包装物不再退还的押金，应按所包装货物的适用税率征收增值税。<br>    （二）纳税人采取折扣方式销售货物，如果销售额和折扣额在同一张发票上分别注明的，可按折扣后的销售额征收增值税；如果将折扣额另开发票，不论其在财务上如何处理，均不得从销售额中减除折扣额。<br>    （三）纳税人采取以旧换新方式销售货物，应按新货物的同期销售价格确定销售额。<br>    纳税人采取还本销售方式销售货物，不得从销售额中减除还本支出。    <br>    （四）纳税人因销售价格明显偏低或无销售价格等原因，按规定需组成计税价格确定销售额的，其组价公式中的成本利润率为10％。但属于应从价定率征收消费税的货物，其组价公式中的成本利润率，为《消费税若干具体问题的规定》中规定的成本利润率。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>小规模纳税人标准<br>    （一）增值税细则第二十四条关于小规模纳税人标准的规定中所提到的销售额，是指该细则第二十五条所说的小规模纳税人的销售额。<br>    （二）该细则第二十四条所说的以从事货物生产或提供应税劳务为主，并兼营货物的批发或零售的纳税人，是指该类纳税人的全部年应税销售额中货物或应税劳务的销售额超过50％，批发或零售货物的销售额不到50％。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>固定业户到外县（市）销售货物，应当向其机构所在地主管税务机关申请开具外出经营活动税收管理证明，回其机构所在地向税务机关申报纳税。未持有其机构所在地主管税务机关核发的外出经营活动税收管理证明的，销售地主管税务机关一律按6％的征收率征税。其在销售地发生的销售额，回机构所在地后，仍应按规定申报纳税，在销售地缴纳的税款不得从当期应纳税额中扣减。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

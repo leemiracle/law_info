@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】邮电部/交通部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1993-02-09<BR>&nbsp;&nbsp;【生效日期】1993-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 邮电部、交通部关于印发海事卫星<br>
+电信业务操作和帐务结算协议的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1993年2月9日）</font></p>    我国海事卫星地面站已于1991年6月投产使用，并已开通了海事卫星电话和用户电报业务。为加强对上述业务的管理，搞好两部间的协作配合，现将《邮电部、交通部海事卫星电信业务操作和帐务结算协议》印发给你们，自1993年1月1日起施行。对过去发生的上述业务，亦按此协议的规定进行帐务结算。<br>    有关本协议的具体实施细则，由两部分别另行通知。<br><br><p class='zhang'>  附件：  邮电部、交通部海事卫星电信业务操作和帐务结算协议</p><br>    交通部北京海事卫星地面站已于1991年6月3日起正式启用。邮电、交通两部经过协商，对我国海事卫星地面站启用后两部间的电信业务操作和帐务结算等有关问题达成一致协议。<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>海事卫星地面站通信服务洋区的范围<br>    目前，我国北京海事卫星地面站的通信服务范围为太平洋和印度洋两个洋区（太平洋地区电话编码872，用户电报编码582；印度洋地区电话编码873，用户电报编码583），连接航行在上述洋区的船舶之间、船舶与我国大陆各地之间、船舶与各国之间的电信通信联系（船舶上必须装有海事卫星船站设备并按规定办理相关手续）。<br>    海事卫星电话、用户电报基本上有下列七种：<br>    1、船→舶（不经电信部门公众网）；<br>    2、船→岸（国内各地）；<br>    3、岸（国内各地）→船；<br>    4、船→岸站→国际交换机→第三国；<br>    5、第三国→国际交换机→岸站→船；<br>    6、船→我国岸站→国际交换机→第三国岸站→船；<br>    7、船→第三国岸站→国际交换机→我国岸站→船。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>通信接口及信号方式<br>    北京海事卫星地面站与北京市电信管理局国际交换机（以下简称国际局）接口并进入公众电信网。电话网和用户电报网的接口分别采用国际电信联盟报话咨委会规定的“5”号信号和“Ｃ”型信号或以后双方同意使用的其他信号。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>开放电信业务种类及中断电路数量<br>    开放的电信业务种类为：电话、用户电报。目前，船→岸，开放自动电话、用户电报，不开放人工或半自动电话；岸→船，开放自动和半自动（国际话务员拨船）电话、用户电报。<br>    岸站与国际局间的中断电路数量为：<br>    1、电话，岸站与国际局间开通双向音频话路11条；<br>    2、用户电报，岸站与国际局间开一套载报，开双向用户电报电路12条。<br>    今后，视业务的发展经两部协商可适当增减报、话电路数量。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>经转路由<br>    在业务条件合适的情况下，双方同意：<br>    1、我国陆地或经转各国发至太平洋、印度洋地区船舶的海事电话、用户电报业务，统一以交通部北京海事卫星地面站为正常路由经转，美国ＡＴＴ和ＭＣＩ分别为发至太平洋地区电话、用户电报业务的备用路由，日本ＫＤＤ为发至印度洋地区业务的备用路由。<br>    2、对上述洋区船舶经交通部北京海事卫星地面站发至我国内地或其他国家的海事卫星电话、用户电报业务，统一经国际局进国内公众网或国际公众网。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>资费及两部间帐务结算<br>    1、资费<br>    海事卫星电话、用户电报业务的资费由海事费（包括空间段费和岸站费）和陆线费（或国际报、话费）两部分组成。费率如下表（每分钟）：<br><pre><font size=+1><br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>｜        ｜      电    话        ｜      用户电报        ｜        ｜<br>｜  项目  ｜－－－－－－－－－－－｜－－－－－－－－－－－｜        ｜<br>｜        ｜  金法郎  ｜合人民币  ｜  金法郎  ｜合人民币  ｜  备注  ｜<br>｜        ｜（ＧＦ）  ｜  （元）  ｜（ＧＦ）  ｜  （元）  ｜        ｜<br>｜－－－－｜－－－－－｜－－－－－｜－－－－－｜－－－－－｜－－－－｜<br>｜海｜国际｜19．00｜41．80｜11．02｜24．24｜归交通部｜<br>｜事｜－－｜－－－－－｜－－－－－｜－－－－－｜－－－－－｜及海事卫｜<br>｜费｜国内｜17．92｜39．42｜10．22｜22．48｜星组织所｜<br>｜  ｜    ｜          ｜          ｜          ｜          ｜得      ｜<br>｜－｜－－｜－－－－－－－－－－－－－－－－－－－－－－－｜－－－－｜<br>｜陆｜国际｜        按发至相关国家或地区的报话费计收      ｜归邮电部｜<br>｜线｜－－｜－－－－－－－－－－－－－－－－－－－－－－－｜及相关国｜<br>｜费｜国内｜1．08  ｜2．38  ｜0．80  ｜1．76  ｜家所得  ｜<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br></font></pre><br>    2、两部间资费的结算<br>    （1）资费结算方式<br>    Ａ、船→岸（国内各地），交通部分别付北京长途电话局、北京电报局陆线费每分钟电话2．38元，用户电报1．76元。<br>    Ｂ、岸（国内各地）→船，北京长途电话局、北京电报局分别付交通部海事费每分钟电话39．42元，用户电报22．48元。<br>    Ｃ、船→岸站→国际局→第三国或地区（包括我国台湾省），交通部按邮电部电信总局编印的《国际和港澳台电话价目及路由表》、《国际和港澳台用户电报价目及路由表》中规定的相关国家或地区的电话、用户电报每分钟价目分别付北京长途电话局、北京电报局。<br>    Ｄ、第三国或地区→国际局→我国岸站→船，北京长途电话局、北京电报局分别付交通部海事费每分钟电话41．80元，用户电报24．24元。<br>    Ｅ、船→我国岸站→国际局→第三国岸站→船，交通部按《国际和港澳台电话价目及路由表》、《国际和港澳台用户电报价目及路由表》中规定的相关国家的电话、用户电报每分钟价目及第三国海事费每分钟电话41．80元，用户电报24．24元分别付北京长途电话局、北京电报局。<br>    Ｆ、船→第三国岸站→国际局→我国岸站→船，北京长途电话局、北京电报局分别付交通部海事费每分钟电话41．80元，用户电报24．24元。<br>    （2）帐单的编造<br>    经交通部北京海事卫星地面站进入公众电信网（包括发至我国及世界各地）的船→岸方向的报、话业务，由交通部北京船舶通信导航公司计费，并按日历月（1－30日或31日）编造报、话帐单。经公众电信网进入交通部海事卫星地面站并发至船舶的海事报、话业务，由北京长途电话局结算组和北京电报局计费中心分别计费，并按上述日历月编造报、话帐单。<br>    （3）计费单位<br>    计费以分钟为单位。计费时间以秒为单位累计计算，尾数不足1分钟的，按1分钟计算。计价单位用金法郎，总数折合成人民币。<br>    （4）帐单的交换<br>    每月月底前，发方应将上月发出的报、话业务，包括发、收方号码、日期、时间、张数、分钟数、金额、业务种类等内容形成帐单（总、分帐单见附表），一式两份，寄至收方核对（双方核对单位分别为：北京电报局、北京长途电话局、交通部北京船舶通信导航公司），核对无误后，签字盖章，将其中一份用挂号信寄回或送回发方作帐部门。如经核对发现有不符之处，应立即进行查询（如分钟数误差不超过1％，可按无误认可）。<br>    （5）死帐的处理<br>    对因国内外用户某种原因而收不到费的任何一方，都不能因本方收不到费而付对方应得费用。两部间帐务结算照常进行。<br>    （6）付费期限<br>    两帐务部门间按月进行帐务差额结算，当月的差额应于该月之后的六个月之内由债务方将款额结付给债权方。如不按时付款，应付对方5％的滞纳金。付费方式采用银行划拨。<br>    （7）双方帐务部门银行帐号及地址：<br>    北京电报局：<br>    开户银行：中国工商银行北京市分行营业部<br>    银行帐号：054004－6<br>    单位地址：北京市西长安街11号<br>    邮政编码：100031<br>    北京长途电话局：<br>    开户银行：中国工商银行北京市分行营业部<br>    银行帐号：054045－07<br>    单位地址：北京市复兴门内大街97号<br>    邮政编码：100800<br>    交通部北京船舶通信导航公司：<br>    开户银行：中国工商银行北京市分行营业部<br>    银行帐号：044038－42<br>    单位地址：北京市安定门外外馆后身1号<br>    邮政编码：100011<br>    3、其它帐务结算<br>    除上述海事卫星报、话业务外，现行的国际船舶公众通信业务的帐务结算，仍由上海市长途电信局国际帐务室与交通部北京船舶通信导航公司按原规定办理。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>协议修改<br>    本办法在今后执行中如需修改，将由两部协议之。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

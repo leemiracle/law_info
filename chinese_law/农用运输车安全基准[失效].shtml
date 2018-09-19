@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】公安部<BR>&nbsp;&nbsp;【发布文号】公安部令第12号<BR>&nbsp;&nbsp;【发布日期】1993-05-13<BR>&nbsp;&nbsp;【生效日期】1993-05-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国人民共和国公安部令<br>
+第12号</font></p><br>    《农用运输车安全基准》，已经1993年4月28日公安部部务会议通过，现予以发布施行。<br>                                              公安部长  陶驷驹<br>                                                1993年5月13日<br><br>                              农用运输车安全基准<br><br><p class='zhang'>第一章  总则</p><br><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  为了保障道路交通的安全与畅通，特制定本基准。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  本基准所称农用运输车分为三轮农用运输车和四轮农用运输车两种。<br>    三轮农用运输车是指发动机为柴油机，功率不大于7．4kw，载质量不大于500ｋｇ，最高车速不大于40ｍｋ／ｈ的三个车轮的机动车。<br>    四轮农用运输车是指发动机为柴油机，功率不大于28ＫＷ，载质量不大于1500ｋｇ，最高车速不大于50ＫＭ／ｈ的四个车轮的机动车。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  本基准是公安机关交通管理部门对农用运输车进行安全技术检验，核发准予上道路行驶号牌与行驶证的技术标准。<br><p class='zhang'>第二章  三轮农用运输车</p><br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  车辆的认定标记<br>    （一）商标或厂牌标志应设在车身前部易见部位。<br>    （二）车辆金属铭牌应标明厂牌型号、发动机型号、发动机功率、总质量、载质量、出厂编号、出厂年月和厂名，并固定在易见部位。<br>    （三）发动机、底盘的编号应分别打印在发动机气缸体和车架易见部位，字体高度应大于7ｍｍ。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  驾驶室只准乘坐驾驶员一人。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>  载质量按审定的吨位核定。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>  车辆外廓长、宽高分别不大于4ｍ．1．5ｍ、2ｍ。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>  车辆空载状态时，左右侧倾稳定角应大于25°。<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>  发动机起动性能应良好，动转正常，熄火装置有效，便于操作。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>  转向系<br>    （一）方向把应操纵轻便灵活，不得有摆振、阻滞或其他异常现象。<br>    （二）转向系应有转向限位装置，向左或向右最大转角均不得超过45°。<br>    （三）转向系各部位应安装牢固，锁止可靠，无裂纹和其他损伤，转向时各部件不得发生刮碰。<br>    （四）最小转向圆直径不大于7ｍ。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>  制动系<br>    （一）应有独立的行车和驻车制动操纵装置。<br>    （二）车辆空载状态，车速20ｋｍ／ｈ，在附着系数为0．7的平坦水泥或沥青路面上进行紧急制动时，踏板力不大于700Ｎ，制动距离应不大于4ｍ，跑偏量不大于80ｍｍ。<br>    用检测制动力设备检验制动效能时，承载轴的制动力应大于轴荷的60％；左右制动力差不大于轴荷的8％。<br>    （三）驻车制动装置应能使车辆空载时在20％的坡道上稳定停放。<br>    用检测制动力设备检验驻车制动效能时，在车辆空载状态下制动力应不小于整车质量的20％。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>  照明、信号装置、仪表及其他设备<br>    （一）应有前照灯、前位灯、后位灯，转向灯、制动灯、号牌灯和反射器等装置。<br>    （二）前照灯远、近光可以变换，近光要防眩目。<br>    （三）前照灯远光灯的发光强度不小于8000ｃｄ。<br>    （四）应有发电机、蓄电池、电流表等设备和仪表。<br>    （五）喇叭声级在车前2ｍ，离地面高1．5ｍ处测量为90至105ｄｂ（Ａ）。<br>    （六）各种照明、信号装置、仪表应安装牢固，工作可靠。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>  其他<br>    （一）车辆的任何部位不允许有使人致伤的尖锐突起物。<br>    （二）车厢前端应有安全架。有驾驶室的，其高度应高出驾驶室；无驾驶室的，其高度应高出驾驶员座垫平面0．8至1ｍ。<br>    （三）车辆应有前后号牌安装架。有驾驶室的，前号牌安装架应设在驾驶室正面；无驾驶室的，前号牌安装架应设在车厢正面右侧。后号牌架应安装在车架后面中间或左侧。<br>    （四）驾驶室挡风玻璃应用认证合格的安全玻璃，并有自动刮水器。<br>    （五）驾驶操纵件应布置合理，保证驾驶员正常操作。<br>    （六）左右各设置一面后视镜。<br>    （七）发动机动力传动装置应设置安全防护罩。<br>    （八）轮胎型号应与载质量相匹配；前轮胎花纹深度不得小于3ｍｍ，后轮胎花纹深度不得小于2ｍｍ。<br>    （九）车厢、车架、车桥、悬架、轮毂、轮辋等部件无开焊、裂纹；铆钉、螺栓应齐全并联结可靠。<br>    （十）车身应无掉漆、锈蚀现象。<br>    （十一）除后视镜外，其他部件不得超出车身。<br><p></p><a name='14'><font class='TiaoNoA'>第十四条</font></a>  车辆排放及噪声应符合国家标准。<br><p></p><a name='15'><font class='TiaoNoA'>第十五条</font></a>  车辆使用年限不得超过5年。<br><p class='zhang'>第三章  四轮农用运输车</p><br><p></p><a name='16'><font class='TiaoNoA'>第十六条</font></a>  车辆的认定标记<br>    （一）商标或厂牌应设在车身前部易见部位。<br>    （二）车辆金属铭牌应标明厂牌型号、发动机型号、发动机功率，总质量、载质量、出厂编号、出厂年月和厂名，并固定在易见部位。<br>    （三）发动机和底盘编号应分别打印在发动机气缸体和车架易见部位，字体高度应大于7ｍｍ。<br><p></p><a name='17'><font class='TiaoNoA'>第十七条</font></a>  驾驶室前排座乘坐两人的，座位长度应不小于1200ｍｍ；驾驶室后排座乘人，每一人座位宽不小于400ｍｍ。<br><p></p><a name='18'><font class='TiaoNoA'>第十八条</font></a>  载质量按审定的吨位核定。<br><p></p><a name='19'><font class='TiaoNoA'>第十九条</font></a>  车辆外廓长、宽、高分别不大于5．5ｍ、2ｍ、2．5ｍ。<br><p></p><a name='20'><font class='TiaoNoA'>第二十条</font></a>  发动机起动性能应良好，运转正常、熄火装置有效。<br><p></p><a name='21'><font class='TiaoNoA'>第二十一条</font></a>  转向系<br>    （一）方向盘设在左侧并转动灵活，操作轻便。方向盘自由行程不大于30°。<br>    （二）转向轮不得有摆振或其他异常现象。转向系应有自动回正能力。转向时各部件不得发生刮碰。<br>    （三）最小转向圆直径不大于11ｍ。<br>    （四）前轮侧滑量不大于5ｍ／ｋｍ。<br><p></p><a name='22'><font class='TiaoNoA'>第二十二条</font></a>  制动系<br>    （一）有独立的行车和驻车制动装置。<br>    （二）行车制动应采用双管路制动。<br>    （三）车辆在空载状态，车速30ｋｍ／ｈ，在附着系数为0．7平坦的水泥或沥青路面上进行紧急制动时，踏板力不大于600Ｎ，制动距离应不大于6．5ｍ，跑偏量不大于80ｍｍ。<br>    用检测制动力设备检验制动效能时，空载状态下，前、后轴的制动力应分别不小于前、后轴轴荷的60％，左右轮制动力差应分别不大于前、后轴轴荷的5％和8％。<br>    （四）驻车制动装置应能使车辆空载时在20％的坡道上稳定停放。<br>    用检测制动力设备检验驻车制动效能时，车辆空载状态下制动力不小于整车质量的20％。<br><p></p><a name='23'><font class='TiaoNoA'>第二十三条</font></a>  照明、信号装置、仪表和其他设备。<br>    （一）前照灯、前位灯、后位灯、转向灯、制动灯、号牌灯、反射器等装置的数量、位置、光色应符合国家标准。<br>    （二）前照灯应有远、近光变换性能，近光要防眩目。<br>    （三）前照灯远光灯的发光强度应大于10000ｃｄ。<br>    （四）应有发电机、蓄电池、电流表、车速表等设备和仪表。<br>    （五）喇叭声级在车前2ｍ，离地面高1．5ｍ处测量为90至105ｄｂ（Ａ）。<br><p></p><a name='24'><font class='TiaoNoA'>第二十四条</font></a>  其他<br>    （一）车辆的任何部位不允许有使人致伤的尖锐突起物。<br>    （二）驾驶室内部各操纵件应布置合理，保证驾驶员正常操作。<br>    （三）驾驶室挡见玻璃应用认证合格的安全玻璃，并有自动刮水器。<br>    （四）左右各设备一面后视镜。<br>    （五）车辆后悬应不大于轴距的55％。<br>    （六）除后视镜外，其他部件不得超出车身。<br>    （七）空载静态时，左右侧倾稳定角应大于35°。<br>    （八）轮胎型号应与载质量相匹配。左右轮胎花纹应一致，前轮胎花纹深度不得小于3ｍｍ，后轮胎花纹深度不得小于2ｍｍ。<br>    （九）后车轮为单胎。<br>    （十）货厢、车架、车桥、悬架、轮毂、轮辋等部件无开焊、裂纹，铆钉、螺栓应齐全并联结可靠。<br>    （十一）车身无掉漆、锈蚀现象。<br>    （十二）车辆前面保险杠右侧有号牌固定位置，车架后面中间或左侧有号牌安装架。<br><p></p><a name='25'><font class='TiaoNoA'>第二十五条</font></a>  车辆排放及噪声应符合国家标准。<br><p></p><a name='26'><font class='TiaoNoA'>第二十六条</font></a>  车辆使用年限不得超过8年。<br><p class='zhang'>第四章  附则</p><p></p><a name='27'><font class='TiaoNoA'>第二十七条</font></a>  本基准所指不大于或不小于均含本数。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[1994]106号<BR>&nbsp;&nbsp;【发布日期】1994-04-21<BR>&nbsp;&nbsp;【生效日期】1994-04-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于境外团体或个人在<br>
+我国从事文艺及体育演出有关税收问题的通知<br>
+</font></p><p align='center'><font class='STitle'>（1994年4月21日国税发＜1994＞106号）</font></p>各省、自治区、直辖市、计划单列市税务局、文化厅（局）、体委：<br>    1993年9月20日我局与文化部、国家体委联合下发了国税发＜1993＞089号《关于来我国从事文艺演出及体育表演收入应严格依照税法规定征税的通知》，现对外国及港、澳、台地区团体或个人在我国（大陆）从事文艺演出和体育表演所取得收入征税的具体政策业务问题，明确如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>外国或港、澳、台地区演员、运动员以团体名义在我国（大陆）从事文艺、体育演出，对该演出团体及其演员或运动员个人取得的收入，应按照以下规定征税：<br>    （一）对演出团体应依照《<a href=javascript:ROF(18557,0) class=alink>中华人民共和国营业税暂行条例</a>》（以下简称<a href=javascript:ROF(18557,0) class=alink>营业税暂行条例</a>）的有关规定，以其全部票价收入或者包场收入减去付给提供演出场所的单位、演出公司或经纪人的费用后的余额为营业额，按3％的税率征收营业税。<br>    （二）演出团体凡能够提供完整、准确费用支出凭证的，依照《<a href=javascript:ROF(12610,0) class=alink>中华人民共和国外商投资企业和外国企业所得税法</a>》（以下简称企业所得税法）的有关规定，应对演出团体的收入总额减除实际支出的费用后的余额，按30％的税率征收企业所得税，并按3％的税率征收地方所得税；对演出团体实际支付给演员或运动员个人的报酬部分，依照《<a href=javascript:ROF(18325,0) class=alink>中华人民共和国个人所得税法</a>》（以下简称<a href=javascript:ROF(18325,0) class=alink>个人所得税法</a>）的有关规定征收个人所得税。<br>    （三）演出团体不能提供完整、准确的费用支出凭证，不能正确计算应纳税所得额的，在计算征收企业所得税时，根据企业所得税法实施细则第十六条规定的原则，应以其收入总额减除支付给演员、运动员个人的报酬部分和相当于收入总额30％的其他演出费用后的余额，依照企业所得税法规定的税率征收企业所得税和地方所得税；对上述支付给演员、运动员个人的报酬部分，依照<a href=javascript:ROF(18325,0) class=alink>个人所得税法</a>的规定，由演出团体支付报酬时代扣代缴个人所得税。对没有申报支付给演员、运动员个人报酬额的或未履行代扣代缴义务的，应以其收入总额减除上述相当于收入总额30％的其他演出费用的余额视为该演出团体的应纳税所得额，依照企业所得税法计算征收企业所得税和地方所得税。对演员或运动员个人不再征收个人所得税。<br>    （四）对本条第（二）、（三）款中所述演出团体支付给演员、运动员个人的报酬，凡是演员、运动员属于临时聘请，不是该演出团体雇员的，应依照<a href=javascript:ROF(18325,0) class=alink>个人所得税法</a>的规定，按劳务报酬所得，减除规定费用后，征收个人所得税；凡是演员、运动员属该演出团体雇员的，应依照<a href=javascript:ROF(18325,0) class=alink>个人所得税法</a>的规定，按工资、薪金所得，减除规定费用后，征收个人所得税。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>对外国或港．澳、台地区演员、运动员以个人名义在我国（大陆）从事演出、表演所取得的收入，应以其全部票价收入或者包场收入减去支付给提供演出场所的单位、演出公司或者经纪人的费用后的余额为营业额，依3％的税率征收营业税；依照<a href=javascript:ROF(18325,0) class=alink>个人所得税法</a>的有关规定，按劳务报酬所得征收个人所得税。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>对演出团体或个人应向演出所在地主管税务机关申报缴纳应纳税款的，具体可区别以下情况处理：<br>    （一）演出团体及个人应缴纳的营业税，应以其在一地的演出收入，依照<a href=javascript:ROF(18557,0) class=alink>营业税暂行条例</a>的有关规定，向演出所在地主管税务机关申报缴纳。<br>    （二）演出团体应缴纳的企业所得税和地方所得税，应以其在一地的演出收入，依照企业所得税法及其实施细则和本通知的有关规定，计算应纳税所得额及税款，并向演出所在地主管税务机关申报缴纳。按本通知第一条第二款所述依实际费用支出计算纳税的演出团体，在全部演出活动结束后，可在与其签订演出合同的中方接待单位所在地主管税务机关，办理企业所得税结算手续。<br>    （三）演员、运动员个人应缴纳的个人所得税，应以其在一地演出所得报酬，依照<a href=javascript:ROF(18325,0) class=alink>个人所得税法</a>的有关规定，在演出所在地主管税务机关申报缴纳。属于劳务报酬所得的，在一地演出多场的，以在一地多场演出取得的总收入为一次收入，计算征收个人所得税。<br>    （四）主管税务机关可以指定各承包外国、港、澳、台地区演出、表演活动的演出场、馆、院或中方接待单位，在其向演出团体、个人结算收入中代扣代缴该演出团体或个人的各项应纳税款。凡演出团体或个人未在演出所在地结清各项应纳税款的，其中方接待单位应在对外支付演出收入时代扣代缴该演出团体或个人所欠应纳税款。对于未按本通知有关规定代扣代缴应纳税款的单位，应严格依照《<a href=javascript:ROF(15733,0) class=alink>中华人民共和国税收征收管理法</a>》的规定予以处理。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>各中方接待单位在对外签订演出或表演合同后的七日内，应将合同、资料报送各有关演出、表演活动所在地主管税务机关，对于逾期不提供合同资料的，可依照企业所得税法及有关法规予以处理。<br>    本通知自文到之日起执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

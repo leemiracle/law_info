@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】工商行政管理总局<BR>&nbsp;&nbsp;【发布文号】工商企字[1991]第259号<BR>&nbsp;&nbsp;【发布日期】1991-07-25<BR>&nbsp;&nbsp;【生效日期】1991-07-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家工商行政管理局《关于建立企事业和社团统一代码标识制度几个<br>
+ 问题的请示》的答复<br>
+ </font></p><p align='center'><font class='STitle'>（工商企字〔1991〕第259号）</font></p><br>四川省工商行政管理局：<br>    你局《关于建立企事业和社团统一代码标识制度几个问题的请示》〔川工商函（1991）127号〕收悉。现就有关问题答复如下：<br>    一九八九年十一月经国务院批准发布《全国企业、事业单位和社会团体代码编制规则》（以下简称《代码编制规则》），其目的是使全国各企业、事业单位和社会团体均获得一个唯一的、始终不变的法定代码，为政府部门的管理和业务单位实现计算机自动化管理提供技术手段。根据《全国企业、事业单位和社会团体代码的编制和管理办法》（以下简称《管理办法》）规定，国家技术监督局中国标准化与信息分类编码研究所是国家自动化管理系统管理单位，负责全国企业、事业单位和社会团体代码区段的分配、控制、管理以及代码数据库的建设。各级企业法人登记主管机关、机构编制主管机关、社会团体登记主管机关分别是企业法人、事业单位和社会团体的代码赋予机关。据反映，有些地方的技术监督部门或标准计量部门，以保障代码编码区段为由，建立不属《代码编制规则》规定范围（如：单位名称、行政区划、主管部门、行业分类、经济性质、邮政编码、开业日期、规模大小等项目）的数据库，这与《代码编制规则》的建库要求是不相符的。另外，一些地方的技术监督部门将企业法人代码赋予机关理解为替技术监督部门提供代码信息、采集企业法人登记管理事项的机关，这也是与《管理办法》的规定不相符的。<br>    按照《代码编制规则》的建库要求，技术监督部门或标准计量部门建库的目的应是立足保证代码赋予机关对代码区段或代码数量的赋予需要，加强代码编码区段或代码数量方面的分配、控制和管理。<br>    请你局继续严格执行国务院批准的《代码编制规则》中的有关规定。同时，严防在企业法人代码赋予工作中，向企业乱收费、乱摊派、乱罚款。<br>    望你们认真执行《<a href=javascript:ROF(7852,0) class=alink>中华人民共和国企业法人登记管理条例</a>》的有关规定，建好企业法人登记档案和登记统计制度，及时、准确掌握企业法人登记有关的基础信息，充分发挥企业法人登记管理信息的综合效能，更好的为社会服务。<br>    经与国家技术监督局商定，各级工商行政管理机关赋予企业的代码区段及数量，已由国家技术监督局委托我局分配下达，不再受当地技术监督部门或标准计量部门代码区段及数量分配的影响。<br>                                                一九九一年七月二十五日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

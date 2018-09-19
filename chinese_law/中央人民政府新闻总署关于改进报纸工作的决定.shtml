@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】新闻出版署<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1950-05-01<BR>&nbsp;&nbsp;【生效日期】1950-05-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 关于改进报纸工作的决定<br>
+ </font></p><p align='center'><font class='STitle'>（1950年5月1日中央人民政府新闻总署发布）</font></p>    （一）适应全国逐步转入以生产建设为中心任务的情况，全国报纸应当用首要的篇幅来报道人民生产劳动的状况，宣传生产工作和经济财政管理工作中成功的经验和错误的教训，讨论解决这些工作中所遇到的各项困难的办法。报纸的新闻、通讯、评论、信箱、专门性的或一般性的副刊，都应当尽可能地服从于这个任务。在进行土地改革工作的地方，关于土地改革的报道和讨论也应当占据首要的地位。<br>    地方的报纸应当有力求适应本地人民群众的需要。除了最重要的国内外大事，一般电讯在省级或省级以下地方报纸上可以采取摘要和加以通俗解释的方法。<br>    无论是中央的、大行政区的或省以下的报纸，都应当减少关于会议、机关活动、负责人员的不重要的言论行动，没有广泛重要性的文告文电的篇幅。对于重要的会议和文告应当力求用适当的新闻通信和评论加以生动而通俗的解释，以便为人民群众所了解。<br>    （二）为了加强报纸在国家建设事业中的作用，报纸的编辑、采访、评论人员必须通晓社会科学的基本知识，通晓国家和地方建议事业的政策、情况和问题，养成调查研究实事求是的作风，并力求与人民群众、机关和干部保持亲密的联系。应当改革报社的组织形式和工作方法，改变现有的妨碍联系实际的编辑采访通讯联络等项工作各自为政的状态，建立编辑部门统一集中的领导，并应按照社会生活的不同方面（例如公私营工商业与工人问题、农业与农民问题、军事与军队、思想文化与教育出版等）实行适当的分组，以便各组的编辑采访人员可以获得关于各该方面的专门知识，并将编辑采访的工作联合在一起。<br>    （三）报纸应当把建立和领导通讯员网和读报组的工作当作重要的政治任务。报纸的通讯员网应当以人民群众中的积极分子为主体，除工人农民中的积极分子外，也要吸收政府机关中的积极的工作人员和进步的知识分子参加。报纸编辑部应当经常地用通讯和开会等方法去指导和鼓励通讯员的工作，帮助他们学习写出重要的、公正的和迅速的报道，并写出群众中的和他们自已的对于政府工作、生产建设事业和其他社会生活的意见。<br>    读报组应当是报纸内容的经常的和有组织的学习者和宣传者。读报组同时应当向报纸报告地方情况和群众意见。报纸为了鼓励读报组的活动，应当在订阅条件或其他方面给以适当的优待。<br>    （四）报纸对于政府机关及其工作人员、经济组织及其工作人员的工作中的缺点和错误，应负批评的责任。这种批评应当是积极的，富于建设性的，实事求是的，和与人为善的。报纸所发表的批评应当要求被批评者作适当的声明，以便向人民群众报告批评的结果。<br>    报纸应当用很大的注意来发表和答复读者的来信，特别是关于政府工作、经济建设事业和其他社会生活的批评、建议和询问的信件。这些信件中最重要的可以编入新闻版，其他的可以编入副刊，作为一般报纸副刊的主要内容。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

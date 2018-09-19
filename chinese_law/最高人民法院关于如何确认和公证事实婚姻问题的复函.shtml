@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民法院<BR>&nbsp;&nbsp;【发布文号】(82)法研字第10号<BR>&nbsp;&nbsp;【发布日期】1982-10-05<BR>&nbsp;&nbsp;【生效日期】1982-10-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>最高人民法院<br>
+关于如何确认和公证事实婚姻问题的复函<br>
+ </font></p><p align='center'><font class='STitle'>（1982年10月5日（82）法研字第10号）</font></p>司法部：<br>    你部（82）司发公字第268号《关于如何确认和公证事实婚姻问题的函》已收悉。<a href=javascript:ROF(2273,0) class=alink>民事诉讼法（试行）</a>规定由人民法院确认的非讼案件，仅限于宣告失踪人死亡、认定公民无行为能力和认定财产无主三类，对于在没有发生诉讼的情况下，确认男女双方的事实婚姻关系，不属于人民法院的审判业务范围，人民法院不便处理。<br>    据我们了解，关于是否承认事实婚姻的问题，对什么情况予以承认，什么情况不予承认，现在各方面意见很不一致，目前遇到的对华侨、港澳同胞的事实婚姻如何办理公证的问题，我们建议，请你部邀请民政、外交、法委及我院等有关部门共同研究，找出适当的办法来解决这一问题。<br>    随函送还福建省司法厅闽司公（1982）93号请示、福建省司法厅公证律师处闽司证字第41号请示和香港同胞杨卓锐、李梅英的来信。<br>    此复<br><br>    附：司法部关于如何确认和公证事实婚姻问题的函1982年9月22日（82）司发公字第268号<br>最高人民法院：<br>    最近我部陆续接到各地关于如何办理华侨、港澳同胞的事实婚姻公证问题的请示。从反映的情况看，这类人大多数属于按我国旧的风俗习惯结婚的，他们中有的是符合结婚条件而因种种原因未办理结婚登记的，也有的是因为未到法定婚龄而同居的。他们都以夫妻相待，生儿育女，并得到周围邻居的承认。现在他们有的是在出境后，有的是在申办出境手续时，要求补办结婚登记手续，以承认他们以前的婚姻关系，并申办《结婚证明书》。为此美国驻广州总领事馆多次来函，询问在何种情况下中国公证处才给未登记结婚的夫妇签发结婚公证书。<br>    经与民政部联系，他们认为，结婚时间是以登记时间为准，没有登记以前的婚姻关系是非法的，不予承认。根据公证必须符合真实、合法的原则，公证处制作结婚证明书，必须以民政部门所发的当事人的结婚证为准。如果按登记时间确定为结婚时间，那么当事人登记前所生的子女就被视为非婚生子女，在国外非婚生子女受到社会歧视，而要确认上述情况为事实婚姻，宜由人民法院来确认，不属于公证处的职能。<br>    为保障我国华侨和港澳同胞的合法权益，在不违反我国政策和法律的前题下，应有一个妥善的解决办法，为此建议请你院研究，并将研究结果函复我部。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

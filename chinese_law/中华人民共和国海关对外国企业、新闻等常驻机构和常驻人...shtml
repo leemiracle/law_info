@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1984-04-20<BR>&nbsp;&nbsp;【生效日期】1984-05-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中华人民共和国海关对外国企业、<br>
+新闻等常驻机构和常驻人员进出口物品的管理规定<br>
+</font></p><p align='center'><font class='STitle'>（一九八四年四月二十日发布）</font></p><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  根据中华人民共和国国务院《<a href=javascript:ROF(1597,0) class=alink>关于管理外国企业常驻代表机构的暂行规定</a>》、《<a href=javascript:ROF(1767,0) class=alink>关于管理外国新闻机构常驻记者的暂行规定</a>》和《海关对进出国境旅客行李物品监管办法》等有关法规，特制订本规定。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  下列常驻机构进口办公用品，常驻人员进出口行李物品，按本规定办理。<br>（一）  外国企业和其他经济组织常驻机构和常驻人员；<br>（二）  外国民间经济贸易团体常驻机构和常驻人员；<br>（三）  外国常驻新闻机构和常驻记者；<br>（四）  中外合资（包括中外合作勘探、开采石油等）企业外方常驻人员；<br>（五）  在华外资企业外方常驻人员；<br>（六）  其他外国常驻机构和常驻人员。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  常驻人员在取得中华人民共和国主管部门签发的长期居留证件之前，入境携带的行李物品，按海关对短期旅客的规定办理。<br>    常驻人员在取得长期居留证件后，可持居留证件、本人身份证件和入境时经海关签章的“旅客行李申报单”，向所在地海关（所在地未设海关的，按指定的海关，以下简称主管海关）提出进口自用物品的书面申请。此项申请只限一次。<br>    申请进口的自用物品，经海关审核，在自用合理数量范围内，准予免税进口。其中海关重点管理物品（如家用电器等耐用消费品），应与本人首次入境时携带进口和分离运输进口的重点管理物品合并计算，在海关规定限量内准予免税进口。超出免税范围的物品，仍属自用的，经海关核准，准予征税进口。常驻人员进口自用机动交通工具（小汽车、摩托车）每人各限一辆，征税放行。<br>    经海关核准进口的自用物品，应自批准之日起六个月内运进。<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  常驻人员在取得长期居留证件后，短期进出境（或来往香港、澳门地区）携带行李物品，海关只免税放行旅途必需的生活用品。出境时携带经海关免税放行的物品（如手表、照相机、收录音机、摄影机等物品），如要复带入境，应当在“旅客行李申报单”上申明。回程时，海关凭以查核免税放行。出境时未向海关申明，回程时所带海关重点管理物品照章征税。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  常驻人员携带出境的行李物品，除金银、货币、文物等限制出口的物品外，在自用合理数量范围内，予以放行。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>  常驻机构进口办公用品和机动交通工具，应事先向主管海关提出书面申请，经海关审核，在自用合理数量范围内，准予免领进口许可证进口。上述办公用品和机动交通工具进口时，应填具“进口货物报关单”连同“申请表”、发票等有关单证向海关申报，由海关查验征税放行。<br>    外国政府同中华人民共和国政府订有协定的，按协定规定办理。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>  常驻机构和常驻人员进口的办公用品、自用物品和机动交通工具，只限自用，不准在中华人民共和国境内私自出售。 如需出售， 应事先向主管海关提出申请，经批准后，售予当地人民政府指定的外货收购部门，并按章补税。违者按有关法规处理。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>  常驻机构和常驻人员申报进出口的物品，属海关禁止进出口的，由海关扣留，限期退运出境或退回原地。 过期不退， 即由海关处理。对中华人民共和国政治、文化、道德、卫生有害而被扣留的物品，都不发还，由海关按照有关法规处理。<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>  华侨、港澳同胞、台湾同胞经营的企业常驻机构和常驻人员进出口物品也按照本规定办理。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>  本规定不适用于经济特区。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>  本规定未列事项，按海关有关法规办理。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>  本规定自一九八四年五月一日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

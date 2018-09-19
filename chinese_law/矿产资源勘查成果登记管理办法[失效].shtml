@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】地质部<BR>&nbsp;&nbsp;【发布文号】地质矿产部令第19号<BR>&nbsp;&nbsp;【发布日期】1994-10-17<BR>&nbsp;&nbsp;【生效日期】1994-10-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>矿产资源勘查成果登记管理办法<br>
+</font></p><p align='center'><font class='STitle'>（中华人民共和国地质矿产部令<br>
+ 第19号）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为维护矿产资源探矿权人的合法权益，促进矿产资源勘查市场的发育，根据《<a href=javascript:ROF(5030,0) class=alink>中华人民共和国矿产资源法</a>》、《<a href=javascript:ROF(19375,0) class=alink>中华人民共和国矿产资源法实施细则</a>》、《<a href=javascript:ROF(20202,0) class=alink>国务院关于进一步加强知识产权保护工作的决定</a>》和其他有关法律、法规，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  探矿权人在中华人民共和国领域及管辖的其他海域内进行矿产资源勘查，获得可供进一步勘查和开发利用的勘查成果（以下简称“成果”），可依据本办法向矿产资源勘查成果登记管理机关申请登记，以获得矿产资源勘查成果登记证书，享有优先取得成果登记范围内新发现矿种的探矿权（以下简称“优先探矿权”）、优先取得成果登记范围内矿产资源的采矿权（以下简称“优先采矿权”）。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  地质矿产部和省、自治区、直辖市人民政府地质矿产主管部门是矿产资源勘查成果登记管理机关。<br>    大型矿床及地质矿产部规定矿种的勘查成果由地质矿产部负责登记；其他矿产资源勘查成果由省、自治区、直辖市人民政府地质矿产主管部门负责登记；省、自治区、直辖市人民政府地质矿产主管部门可以委托市（地）、县人民政府地质矿产主管部门负责部分矿种的小型矿床、零星分散资源的勘查成果登记。<br>    成果登记范围跨越行政区的，由有关行政区的共同上级地质矿产主管部门负责登记。<br>    市（地）、县人民政府地质矿产主管部门颁发成果登记证书后的30日内报省、自治区、直辖市人民政府地质矿产主管部门备案。省、自治区、直辖市人民政府地质矿产主管部门负责本行政区内所有成果登记项目的备案。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  申请办理成果登记的探矿权人，应当在勘查许可证有效期终止前40日之内向成果登记管理机关提出申请，并提交下列文件和资料：<br>    一、地质勘查单位资格证书和勘查项目的勘查许可证；<br>    二、成果登记申请书；<br>    三、成果说明及相应的图表；<br>    四、以下两组图件资料中的一组：<br>    （一）实际工程控制的矿床（体）平面图及其文字说明；<br>    （二）比例尺大于1∶5万（含1∶5万）地球物理或地球化学图件，标有有找矿价值的异常，并附相应的推断解释图件及说明；<br>    五、以座标标定的勘查工作区范围内的矿体平面投影范围、物化探异常推断圈定的矿体范围以及申请登记范围及其文字说明；<br>    六、成果鉴定、评审意见书。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  属于下列范围内的成果，不进行登记。<br>    一、依法直接转入下一阶段勘查的；<br>    二、依法直接转入矿产开发的。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  成果登记管理机关在收到成果登记申请书30日之内，应当对申请单位提交的文件和资料进行核实，审定成果登记范围，颁发成果登记证书。<br>    成果登记范围，根据勘查工程实际控制的矿体平面投影范围和进一步勘查或开发这些矿床所需的区域划定。<br>    第四条第四款第二项规定的成果登记范围，以推断解释引起异常的矿体范围及进一步探矿所需的范围为准。<br>    申请单位对登记管理机关核定的登记范围持有异议的，可向上级登记管理机关申请裁定。地质矿产部是最终裁定机关。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  申请登记的勘查成果中，有共生或者伴生矿产的，应当遵循矿产勘查综合评价的原则，与主矿种勘查成果一并登记。<br>    对于共生的矿产，确有独立勘查、开发条件的，应当作为独立成果单独申请登记。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  由两个或两个以上单位合资、合作勘查项目，其成果的申请登记由合资、合作方自行商定登记人，登记后的权益归属以原经济合同为依据。<br>    投资者和勘查者不是同一民事主体的，按双方自行商定的协议或签定的合同申请成果登记。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  优先探矿权和优先采矿权的保护，实行有限期制。期限与成果登记证书有效期一致。<br>    大型矿床的勘查成果登记证书有效期为三年；中小型矿床的勘查成果登记证书有效期二年，有找矿价值的地球物理和地球化学勘查异常登记证书有效期一年。<br>    成果登记证书有效期，自勘查许可证终止日开始计算。<br>    在成果登记证有效期内，可以申请延长有效期，但不得超过原登记有效期年限。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  探矿权人申请成果登记时，应当按成果价值和申请登记有效期年限交纳登记费。收费的具体办法由地质矿产部商财政部另行制定。<br>    获得成果登记证书的单位或个人，要求登记成果发布招商引资公告信息的，需经国家有关部门批准，并承担公告信息费用。<br>    申请成果登记证书有效期延长的，应当按以上原则交纳登记费和公告信息费。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  在成果登记证书有效期内，获得成果登记证书的单位或个人需要转入下一价段勘查工作时，勘查登记管理机关在审核颁发勘查许可证的同时，由成果登记机关注销成果登记证。<br>    获得成果登记证书的单位或个人在其有效期内需要转入矿产开采的，在办理采矿登记申请并获得采矿许可证时，应当到成果登记管理机关办理成果登记证注销手续。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  申请登记并取得成果登记证书的单位或个人享有成果登记证书限定范围内的矿种的优先探矿权。<br>    申请在他人获得成果登记证书的矿产地进行勘查时，必须向拥有成果登记证书的单位或个人购买成果，并向勘查登记管理机关出具获得勘查成果的文字证据，勘查登记管理机关方能受理勘查登记申请。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  取得成果登记证书的单位或个人享有成果登记证书限定范围内的矿种的优先采矿权。<br>    取得成果登记证书的单位或个人，具备办矿条件的，采矿登记管理机关应当优先受理其采矿申请。<br>    申请在他人获得成果登记证书的矿产地采矿，在立项建设矿山时，应当按照有偿转让的原则向拥有成果登记证书的单位或个人获得已有的勘查成果。立项报告中，应当附获得勘查成果使用的合同或协议。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  获得成果登记证书的单位或个人可以用已获得的勘查成果作为投资、合资、合作勘查或开发矿产资源。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  由两个或两个以上单位合资、合作勘查获得的成果，在取得成果登记证书后，若一方转让其成果，同等条件下，合资、合作方有优先购买权。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  在成果登记证书有效期内，拥有成果登记证书的单位变更的，其相应权益由变更后的单位享有；单位解散的，其相应的权益由其合法承继单位或上级主管部门享有；其成果登记证书的有效期限及登记的范围不变，但单位变更的文件或证明应当报成果登记管理机关备案。<br>    拥有成果登记证书的个人，其权益可以依法继承。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  取得成果登记证书的单位或个人，其成果转让或与合资、合作方协议作为投资参与开发，当事人应当持成果转让或以成果作为投资合资、合作开发的协议或合同，按《<a href=javascript:ROF(6339,0) class=alink>矿产资源勘查登记管理暂行办法</a>》规定和程序，申请办理勘查登记手续，领取勘查许可证；按照矿山企业采矿登记管理办法和有关办法规定的程序，申请办理采矿登记手续。领取采矿许可证。领取勘查许可证或采矿许可证后，应当到成果登记管理机关办理成果登记证注销手续。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  本办法施行以前，已经结束的矿产资源勘查项目，符合第九条规定时限的，矿产地勘查权属或开采权属没有明确的，可以按照本办法的有关规定，从本办法施行之日起六个月内到成果登记管理机关申请补办成果登记手续。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  成果登记管理机关的工作人员应当保守勘查成果的国家秘密和工作秘密。违反本规定者，按《<a href=javascript:ROF(17887,0) class=alink>国家公务员暂行条例</a>》规定予以处分。构成犯罪的，依法追究刑事责任。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  矿产资源勘查成果登记证书由地质矿产部统一印制。任何单位或个人不得冒用、擅自印制或者伪造矿产资源勘查成果登记证书。<br>    冒用、擅自印制或伪造成果登记证书的，由成果登记管理机关没收其印制、伪造的证件，并根据国家有关规定予以处罚。情节严重构成犯罪的，依法追究刑事责任。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  勘查单位违反本办法有下列情形之一的，视情节轻重给予警告、通报或取消矿产资源勘查成果登记证书的处罚。<br>    一、虚报文件和资料，骗取成果登记证书的；<br>    二、逾期不办理成果登记证书注销手续的；<br>    三、违反本办法第十六条规定的。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  本办法所列行政处罚，由原颁发成果登记证的管理机关决定，地方人民政府地质矿产主管部门所作的处罚决定应当报上一级人民政府地质矿产主管部门备案。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  当事人对行政处罚不服的，可以在收到处罚决定通知之日起十五日之内向作出处罚决定的上一级人民政府地质矿产主管部门申请复议，也可以直接向人民法院起诉。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  外商独资、中外合资或合作勘查的矿产资源勘查成果可按照本办法的有关规定申请办理登记手续。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  各省、自治区、直辖市人民政府地质矿产主管部门可根据本办法制定实施办法或细则。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  本办法由地质矿产部负责解释。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  本办法自发布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

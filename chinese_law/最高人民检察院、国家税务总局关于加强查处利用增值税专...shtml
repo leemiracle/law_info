@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民检察院/税务总局<BR>&nbsp;&nbsp;【发布文号】高检会[1995]23号<BR>&nbsp;&nbsp;【发布日期】1995-06-14<BR>&nbsp;&nbsp;【生效日期】1995-06-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>最高人民检察院国家税务总局<br>
+关于加强查处利用增值税专用发票犯罪案件协查工作的通知<br>
+</font></p><p align='center'><font class='STitle'>（高检会［1995］23号）</font></p>各省、自治区、直辖市人民检察院、国家税务局，军事检察院，各计划单列市人民检察院、国家税务局：<br>    当前，随着新税制的实施运行，各种利用增值税专用发票（以下简称专用发票）犯罪，特别是虚开、代开专用发票犯罪活动愈来愈突出，使国家税收蒙受巨大损失，并对税制改革的成败构成严重威胁。有力打击和遏制此类犯罪，是各级检察、税务机关的共同任务。在查处利用专用发票犯罪案件中，检察机关与税务机关紧密配合开展协查工作，对充分获取犯罪证据，提高办案工作效率，加快办案工作进度，及时发现和查处利用专用发票进行偷税、骗税犯罪案件，以及最大限度地避免和挽回国家的经济损失，都具有重要意义。<br>    去年以来，各级检察、税务机关在开展协查工作方面作了大量卓有成效的工作，但是仍存在一些不容忽视的问题。一是有的检察院办理发票案件协查中转环节偏多，拖延了办案进度。二是有的检察院对外地委托协查的材料，存在“就协查办协查”的问题，未能根据协查材料提供的线索主动发现和查处本地用票单位利用专用发票偷税、骗税案件。三是有的税务局对在发票协查中发现的利用专用发票偷税、骗税犯罪案件线索，未能移送检察机关依法追究刑事责任，而仅作停止抵扣或补税罚款处理了事，造成对用票环节犯罪的打击不力。<br>    为进一步加大对利用专用发票犯罪的打击力度，各级检察机关与税务机关必须进一步加强发票协查工作，努力形成合力打击的良好局面，特通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>提高思想认识，切实加强发票协查工作的组织领导。利用专用发票犯罪是一种有组织、多环节、跨地区的智能型犯罪活动，必须采取有组织的查处措施，才能适应反发票犯罪斗争的需要。各级检察、税务机关必须牢固树立全局观念，把发票协查工作当作反发票犯罪的重要对策和义不容辞的责任，切实加强领导，紧密配合，精心组织，打破地区和部门间的界限，认真负责地办理外地检察、税务机关来人来函请求协查的事项，力求做到单单有着落，件件有回音。要坚持排除地方保护主义的干扰，对于以各种借口拒不协查、阻挠办案或有意拖延、贻误战机造成严重后果的，要依法追究有关人员的责任。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>充分发挥检察、税务工作的职能和手段，进一步理顺协查工作关系，提高协查工作效率。各级检察、税务机关应当本着“打破部门界限，减少中转环节”的原则组织发票协查工作。检察机关查处的利用专用发票犯罪案件，需要查明发票有关情况的，可以直接函请有关地区检察院办理协查事项；如检察机关协查有困难，可以转请当地税务机关协查。各有关税务机关应当充分运用发票交叉稽核的手段给予认真协查，并及时将协查结果函复请求协查单位。税务机关发现和查处的案件，如认为可能构成犯罪的，要及时向检察机关移送，各级检察机关要给予积极配合，及时受理或立案侦查。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>加大对用票环节的偷税、骗税犯罪的打击力度，最大限度地挽回和避免国家税款损失。利用非法取得的进项扣税凭证进行偷税、骗税活动，是伪造、倒卖、虚开、代开专用发票犯罪行为赖以存在的市场，对这两个方面的犯罪活动必须同时给予有力打击，才能有效遏制其发展蔓延。各级税务机关在发票协查工作中发现用票单位和个人使用非法取得的进项扣税凭证抵扣（退）税的案件线索，要及时停止抵扣（退）税并进行查处；对达到犯罪数额标准的，必须移送检察机关按偷税罪或骗取出口退税罪追究刑事责任。各级检察机关在办理虚开、代开专用发票犯罪案件中，要立足于查清本地区开票单位和个人虚开、代开增值税发票的犯罪事实，及时侦结起诉。同时要根据发票的非法流向，通过发票协查或其他方式，主动将案件线索向有关涉案地的检察、税务机关通报，推动各有关地区协同作战，有力打击利用专用发票偷税、骗税案件，最大限度地避免和挽回国家的税款损失。<br><br>                                                    1995年6月14日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

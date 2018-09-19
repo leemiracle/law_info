@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民法院/最高人民检察院/公安部<BR>&nbsp;&nbsp;【发布文号】公发[1993]10号<BR>&nbsp;&nbsp;【发布日期】1993-12-01<BR>&nbsp;&nbsp;【生效日期】1993-12-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>最高人民法院最高人民检察院公安部<br>
+ 关于严厉打击盗窃、破坏铁路、油田、电力、通讯等<br>
+器材设备的犯罪活动的通知<br>
+ </font></p><p align='center'><font class='STitle'>（公发〔1993〕10号）</font></p>各省、自治区、直辖市高级人民法院，人民检察院，公安厅（局）：<br>    近一时期，盗窃、破坏铁路、油田、电力、通讯等器材设备的犯罪活动十分猖獗，严重危害公共安全，影响国家经济建设，今年1至4月，安徽省境内的五个工务段共发生拆盗铁路器材、盗割通讯线路的案件100余起，仅破案收缴的钢轨、桥梁等铁路器材就达110吨。今年5月，某沿海地区的一条军用通讯电缆被盗割2万多米。1月至5月，胜利油田所属的陈庄油田被盗窃抽油杆9820米，油管、输油气管线6730米，电力线1520米和3口油井重10余吨的整套抽油机。7月13日，胜利油田东营至幸店的一条输油管道，在广绕县花官乡张杨村境内因2个阀门被盗割，导致6896吨原油外泄，污染面积近百亩。6月25日，安徽省芜湖市广播电视局中波转播台的馈线被盗割1000多米，导致转播停机。<br>    上述违法犯罪活动日趋严重的主要原因，一是打击不力。一些地方对这类案件没有引起重视，破案率不高；对一些犯罪分子处罚偏轻，甚至罚款了事，没有震慑力。二是一些个体收购人员唯利是图，非法收购废旧金属；有些废旧金属收购站、点公然违反国家有关收购规定，对出售物品者不登记、不验证，明知赃物也照收不误；还有一些乡镇办的冶炼、熔炼厂擅自收购废旧金属，这些都在一定程度上诱发和助长了盗窃、破坏财产的违法犯罪活动。三是部分群众法制观念淡薄，把盗窃铁路、油田、电力、通讯等器材设备作为发财致富的门路，使盗窃、破坏风愈演愈烈。<br>    为维护公共安全、保护国家财产，保障经济建设的顺利进行，现就依法打击盗窃、破坏铁路、油田、电力、通讯等器材设备违法犯罪活动通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>要以高度的责任感、紧迫感，认真开展严厉打击盗窃、破坏铁路、油田、电力、通讯等器材设备违法犯罪活动的斗争。各级公、检、法机关务必高度重视，把此项工作列入重要议事日程，密切配合，共同采取果断措施，坚决打击盗窃、破坏铁路、油田、电力、通讯等器材设备的违法犯罪活动，整顿废旧金属收购站、点，堵塞收赃、销赃渠道，遏制这类违法犯罪活动的蔓延。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>加强侦查破案，依法从重从快惩处犯罪分子。公安机关对发生的此类案件要及时立案，迅速侦破；同时要通过清理整顿废旧金属收购业，及时发现可疑线索，深挖犯罪团伙，对查获的犯罪分子，只要基本事实清楚，基本证据确凿，公安机关要及时移送检察机关，检察机关要及时批捕、起诉，人民法院要依法从重从快判处。凡盗窃、破坏正在使用中的电力设备的，应以破坏电力设备罪追究刑事责任；盗窃、破坏铁路线路上的器材或者行车设施的零件、部件，危及行车安全的，应以破坏交通设施罪追究刑事责任；盗窃、破坏正在使用中的油田机器设备的，应以破坏易燃易爆设备罪追究刑事责任；盗窃通讯设备价值数额不大，但危害公共安全已构成破坏通讯设备罪的，或者盗窃通讯设备造成严重后果的，应以破坏通讯设备罪追究刑事责任；盗窃通讯设备情节特别严重，罪该判处无期徒刑或者死刑的，按照《全国人民代表大会常务委员会<a href=javascript:ROF(2272,0) class=alink>关于严惩严重破坏经济的罪犯的决定</a>》第<a href=javascript:ROF(2272,1) class=alink>一</a>条第（一）项的规定，以盗窃罪处罚。处理这类案件，要防止处罚偏轻的现象，更不得以治安处罚代替刑事制裁。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>大力整顿废旧金属收购业，坚决堵住销赃渠道。各级公安机关要会同工商行政管理、商业、物资部门对废旧金属收购站、点进行一次集中清理整顿，对个体和没有特种行业许可证的收购站、点非法收购废旧金属的，要一律坚决取缔。对收购站、点和小轧钢厂、冶铁厂等非法收购的铁路、油田、电力、通讯等器材设备，由公安机关依法追缴，并根据情节轻重，责令其停业整顿、吊销其特种行业许可证，直至取缔，可以并处一万元以下罚款；构成犯罪的，依法追究刑事责任。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>积极配合有关部门，加强法制宣传。各地公、检、法机关要主动配合铁路、油田、电力、邮电等部门广泛宣传《<a href=javascript:ROF(11400,0) class=alink>铁路法</a>》、《<a href=javascript:ROF(10392,0) class=alink>军事设施保护法</a>》、《<a href=javascript:ROF(6854,0) class=alink>电力设施保护条例</a>》等法律、法规，向群众讲清盗窃、破坏铁路、油田、电力、通讯等器材设备的严重危害，增强群众的法制观念和守法的自觉性，发动群众积极同这类违法犯罪活动作斗争。要注意选择典型案例，公开处理，并通过中央和地方的新闻媒介公开报道，以形成一定的规模和声势，教育群众，震慑违法犯罪。对有关部门管理上存在的问题，要及时通报或者提出司法建议、检察建议，督促他们采取措施，堵塞漏洞，加强防范，保护国家财产安全。<br>    各地接到此通知后，要及时将贯彻执行情况分别报最高人民法院、最高人民检察院和公安部。<br><br>                                                    1993年12月1日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

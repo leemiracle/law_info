@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国专利局<BR>&nbsp;&nbsp;【发布文号】中国专利局公告第9号<BR>&nbsp;&nbsp;【发布日期】1985-09-10<BR>&nbsp;&nbsp;【生效日期】1985-09-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国专利文献服务</font></p><p align='center'><font class='STitle'>（公布）网点（第一批公布）<br>
+（1985年9月10日中国专利局公告第9号发布）</font></p>序  号     网  点                          地  址<br>1  北京市专利事务所                    北京市海淀区花园路3号<br>2  北京市科学技术情报研究所            北京市西直门外南路19号<br>3  天津市专利事务所                    天津市河西区气象台路92号<br>4  天津市科学技术情报研究所            天津市河西区吴家窑街22号<br>5  上海市专利管理局                    上海市湖南路121号<br>6  中国专利局上海分局                  上海市龙吴路1500号<br>7  上海市科学技术情报研究所            上海市淮海中路1634号<br>8  辽宁省专利事务所                    沈阳市和平区三好街二段2号<br>9  辽宁省科学技术情报研究所            沈阳市和平区和平大街三段9号<br>10  吉林省专利服务中心                长春市民康路8号<br>11  吉林省科学技术情报研究所          长春市斯大林大街108号<br>12  黑龙江省专利管理处                哈尔滨市南岗银行街30号<br>13  黑龙江省专利服务中心              哈尔滨市中山路204号<br>14  河北省石家庄市专利事务管理所      石家庄市裕华路富强街33号<br>15  山西省专利服务中心                太原市迎泽大街60号<br>16  内蒙古自治区专利服务中心          呼和浩特市区政府大院4号楼118号<br>17  内蒙古自治区科学技术情报研究所    呼和浩特市文化宫街16号<br>18  陕西省发明专利服务中心            西安市雁塔路11号<br>19  甘肃省专利服务中心                兰州市平凉路101－1号<br>20  宁夏回族自治区发明专利服务中心    银川市解放西街区科委院内<br>21  宁夏回族自治区科学技术情报研究所  银川市公园街6号<br>22  新疆维吾尔自治区专利服务中心      乌鲁木齐市北京路自治区科委院内<br>23  青海省专利服务中心                西宁市五四大街90号<br>24  河南省专利代理中心                郑州市纬二路3号楼<br>25  河南省科学技术情报研究所          郑州市行政区纬二路73号楼<br>26  湖北省科学技术情报研究所          武汉市汉口南京路2号<br>27  湖北省专利管理局                  武汉市武昌小洪山<br>28  湖南省专利服务中心                长沙市五一路65号<br>29  湖南省科学技术情报研究所          长沙市五一路65号<br>30  广东省科学技术情报研究所          广州市东风中路省科学馆院内<br>31  山东省专利服务处                  济南市山大路<br>32  山东省科学技术情报研究所          济南市经士路372号<br>33  江苏省专利服务中心                南京市北京东路29号<br>34  江苏省科学技术情报研究所          南京市北京东路29号<br>35  安徽省科学技术情报研究所          合肥市巢湖路145号<br>36  安徽省专利服务中心                合肥市巢湖路145号<br>37  江西省科学技术情报研究所          南昌市省府大院北二路东<br>38  江西省专利管理局                  南昌市省府大院科委楼内<br>39  浙江省科学技术情报研究所          杭州市孤山路22号<br>40  浙江省专利管理处                  杭州市孤山路22号<br>41  福建省专利事务所                  福州市省科委院内<br>42  福建省科学技术情报研究所          福州市湖东路52号<br>43  厦门市专利管理处                  厦门市升平路49号<br>44  四川省专利管理局                  成都市一环路南二段22号<br>45  四川省专利服务中心                成都市东风路一段32号<br>46  广西壮族自治区科学技术情报研究所  南宁市星湖路<br>47  贵州省专利管理处                  贵阳市科学路68号<br>48  云南省专利事务所                  昆明市人民东路18号<br>49  云南省科学技术情报研究所          昆明市人民东路19号<br>50  鞍山钢铁总公司专利事务所          辽宁省鞍山市<br>51  邮电部科学技术情报研究所          北京市海淀区学院路40号<br>52  城乡建设环境保护部中国<br>      建筑技术发展中心                  北京市西城区车公庄大街19号<br>53  航天工业部专利事务所              北京市海淀区紫竹院路潘庄1号<br>54  石油工业部科学技术情报研究所      北京市和平里7区16楼<br>55  铁道部科学技术情报研究所          北京市西直门外大柳树北站<br>56  化学工业部科学技术情报研究所      北京市和平里7区16楼<br>57  冶金工业部科学技术情报研究所      北京市东城区灯市口74号<br>58  煤炭工业部科学技术情报研究所      北京市和平里北街21号<br>59  轻工业部科学技术情报研究所        北京市西城区阜成路3号<br>60  中国科学技术情报研究所重庆分所    重庆市人民路356号<br>61  湖南省衡阳市专利事务所            湖南省衡阳市科委院内<br>62  河北省石家庄地区科学技术<br>      情报研究所                        石家庄市<br>63  长春第一汽车制造厂专利科          长春市<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>
