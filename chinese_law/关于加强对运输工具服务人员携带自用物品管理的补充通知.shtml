@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1988-11-18<BR>&nbsp;&nbsp;【生效日期】1988-12-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于加强对运输工具服务人员<br>
+携带自用物品管理的补充通知<br>
+</font></p><p align='center'><font class='STitle'>（1988年11月18日）</font></p>    根据国务院要求限制高档消费品进口的精神，加强海关对运输工具服务人员进出境携带物品的监管，现就（85）署行字第330号《海关对我国运输工具服务人员进出境行李物品的管理规定》执行中的若干问题作如下补充通知：<br>    一、根据（88）署行字第951号文精神，对国际间运营的运输工具服务人员自用物品的验放应严格按实际在外累计天数满九十天（即一个验放季度），才准予免税验放《限量表》第四、五项物品其中各一件；满一百八十天方可免税放行各两件，并取消征税限量，以此类推。每个验放年度内，满一个验放季度，准许一次性免税进口录像带十盘（其中限两盘有故事内容的）。每个验放年度日数满360日后，逢公休时再次出境前，应将该验放年度内的免税限量全部结清，逾期作废。《限量表》第四、五项未列名的物品，进口时一律依其价值分别按《限量表》规定计入免税限量。<br>    二、验放物品以累计在外日数为依据，即在外日数累计九十日为一个“验放季度”，在外日数累计三百六十日为一个“验放年度”，可以跨公历“年”，不受公历“年”影响。<br>    三、对所谓“包干天数”、“奖励天数”、“南北航线天数”、海关不予承认，并严格按实际在外天数掌握，海关不办理在外日数互相转让手续。<br>    四、对调离不再承担国际间运营的运输工具服务人员，应按规定由公司人事部门出具证明，方可按实际在外天数每个验放季度余十五日以上（含十五日），才准予照顾进口《限量表》第四、五项物品各一件，并限半年内一次结清。<br>    五、因公休而离开运输工具的服务人员，应凭运输工具负责人的批准公休的书面证明，可按实际在外累计天数每一验入季度余十五日，提前照顾验放进口《限量表》第四、五项物品各一件，但应计入下一个验放季度免税限量，其不足天数应在下一航次在外实际天数中扣除。<br>    六、为适当照顾运输工具服务人员的实际需要，允许运输工具服务人员购买经海关总署批准的“境外售券，境内取货”商品的货券，海关凭《运输工具服务人员出入境携带物品登记证》，办理验放手续，并在货券上加盖验讫章后方可取货。为保护人民身体健康和维护国家利益，对旧衣物、旧地毯、旧床上用品、旧沙发、旧纺（编）织制品，一律一准进口。<br>    七、运输工具服务人员存入中国银行的外币，凭中国银行开具的《携带外及外汇票证出境许可证》携带出境。人民币禁止出口。交运输工具负责人统一保管，由出境地海关加封，入境地海关启封。<br>    运输工具服务人员申报带进的外汇，准许在国内外汇商品供应部门购买外汇商品。<br>    八、船员首次上船或公休后重新上船时，携带出境长期留船自用的物品，限手表、照相机和便携式收录机每种各一件。船员公休时，其在船上的所有物品必须结清海关手续并全部携带下地。<br>    九、运输工具服务人员不得相互委托他人或接受他人委托携带物品出入境。<br>    十、为方便运输工具服务人员领取《运输工具服务人员出入境携带物品登记证》，现将发证海关列明如下：<br>    北京海关，天津海关，上海海关，大连海关，青岛海关，南京海关，杭州海关，福州海关，广州海关，海口海关，南宁海关，武汉海关。<br>    十一、对未经港澳地区的小型船舶等运输工具服务人员携带的自用物品，请广东分署根据本通知规定的精神，拟定实施办法，报总署审核后公布实行。<br>    十二、本规定于一九八八年十二月一日起实行。总署行邮司（87）行一字第1号、2号文同时废止。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

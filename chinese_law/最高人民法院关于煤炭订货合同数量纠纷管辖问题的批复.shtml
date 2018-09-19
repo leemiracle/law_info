@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民法院<BR>&nbsp;&nbsp;【发布文号】法(经)复[1986]11号<BR>&nbsp;&nbsp;【发布日期】1986-03-26<BR>&nbsp;&nbsp;【生效日期】1986-03-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>最高人民法院关于<br>
+ 煤炭订货合同数量纠纷管辖问题的批复<br>
+ </font></p><p align='center'><font class='STitle'>（1986年3月26日<br>
+ 法（经）复〔1986〕11号）</font></p>吉林省高级人民法院：<br>    你院吉法经字（85）第9号“关于煤炭订货合同数量纠纷的管辖问题的请示报告”收悉。关于水电部吉林热电厂诉煤炭部鸡西矿务局到着煤亏吨纠纷案的管辖问题。经研究：我们同意你院关于到站验收地即为合同履行地的意见。1984年9月，我院《关于在经济审判工作中贯彻执行〈<a href=javascript:ROF(2273,0) class=alink>民事诉讼法（试行）</a>〉若干问题的意见》中规定：“合同履行地是指合同规定履行义务和接受该义务的地点，主要是合同标的物交接的地点”。根据这个规定，吉林市中级人民法院对该案有管辖权。<br>    此复<br><br>  附：吉林省高级人民法院关于煤炭订货合同数量纠纷的管辖问题的请示报告吉法经字（85）第9号<br>最高人民法院经济审判庭：<br>    吉林市中级人民法院于1984年8月受理水利电力部吉林热电厂（以下简称热电厂）诉煤炭工业部鸡西矿务局（以下简称矿务局）关于到着煤亏吨纠纷一案，矿务局曾于去年12月以“产品履行地在鸡西”拒绝应诉（经工作已答辩）。今年10月又以最高法院法（经）复（1985）39号文件中“合同履行地为产品发运地”为由，要求撤回原应诉的一切法律文书。吉林中院请示对此案应如何理解和执行39号文件批复中关于“合同履行地为产品发运地”，现将我们的意见报上，请答复。<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于煤炭订货合同的履行地问题。根据1965年国务院批转煤炭部、铁道部修订的《<a href=javascript:ROF(658,0) class=alink>煤炭送货办法</a>》（简称办法）第<a href=javascript:ROF(658,15) class=alink>十五</a>条“煤车到站后，用煤单位可以采取抽查的办法对煤炭的重量和质量进行验收”我们认为，到站验收地即为合同履行地。而《办法》第<a href=javascript:ROF(658,14) class=alink>十四</a>条“车站对煤矿装好的煤车，必须逐车检查。合格的，与煤矿办理交接手续”，此条是指发货人和承运人在履行运输合同中办理货物交接手续，不能代替煤炭这种大宗商品的特殊性所决定的合同履行地。和39号文件中提到的“具体到<a href=javascript:ROF(2147,0) class=alink>经济合同法</a>中的工矿产品购销合同或农副产品的购销合同，其合同履行地除供需双方在合同中有特殊约定的以外”的含义，并无矛盾。更不能置“特殊约定”于不顾，而只以“合同履行地为产品发运地”一概而论。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于煤炭订购合同纠纷的管辖问题。根据<a href=javascript:ROF(2273,0) class=alink>民事诉讼法（试行）</a>第<a href=javascript:ROF(2273,24) class=alink>二十四</a>条“铁路……运输中发生的诉讼，由负责查处该项的管理机构所在地人民法院管辖”，1981年国家经委颁发并实施的《工矿产品合同试行条例》第<a href=javascript:ROF(2273,17) class=alink>十七</a>条“产品实行送货的，中央主管部门有送货办法的，按办法规定执行”。经向当地铁路运输法院查询，答复是：在铁路运输中发生的合同纠纷，均以到站所在地法院管辖。对其中被告方是铁路的，则由运输法院管辖：其中双方都是地方企业的，应由地方法院管辖。另据《办法》第<a href=javascript:ROF(2273,16) class=alink>十六</a>条和煤炭部、铁道部、交通部联合颁发的《<a href=javascript:ROF(658,0) class=alink>煤炭送货办法</a>实施细则》中之十关于抽查标记状态没有变化的煤车的重量问题之（四），均规定，到站的煤车，标记状态没有变化的，用煤单位可以进行抽查，短少的重量，由煤矿补发煤炭，或者退还价款和运费。现，双方当事人争执的到着煤亏吨纠纷，均有到站和用煤单位共同抽查时的记录，并均记载“标记状态良好”。基此，我们认为，此案吉林市中院有管辖权。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>矿务局要求撤回应诉和不出庭应诉的处理意见。基于验收地为合同履行地和到站所在地人民法院有管辖权，根据<a href=javascript:ROF(2273,0) class=alink>民事诉讼法（试行）</a>第<a href=javascript:ROF(2273,122) class=alink>一百二十二</a>条第（三）项裁定不准矿务局撤回答辩；如被告矿务局经人民法院两次合法传唤，无正当理由拒不到庭时，可根据<a href=javascript:ROF(2273,0) class=alink>民事诉讼法（试行）</a>第<a href=javascript:ROF(2273,113) class=alink>一百一十三</a>条之规定，按缺席判决。<br>    以上请示妥否，请予批复。<br><br>                                                1985年12月12日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

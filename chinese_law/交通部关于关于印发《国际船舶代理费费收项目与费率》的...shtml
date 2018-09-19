@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】(90)交财字324号<BR>&nbsp;&nbsp;【发布日期】1990-06-01<BR>&nbsp;&nbsp;【生效日期】1990-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于印发《国际船舶代理费费收项目与费率》的通知<br>
+ </font></p><p align='center'><font class='STitle'>（（90）交财字324号1990年6月1日）</font></p>中国外轮代理总公司、中国对外贸易运输总公司：<br>    根据部（90）交财字92号《关于同意调高外籍船舶理货费、救捞费、船舶吨税、代理费的批复》及部财会司（90）财便函字44号函，现将调整后的《国际船舶代理费费收项目与费率》发给你们，请按此对外公布，自一九九0年九月一日零时起施行。<br><br>                      国际船舶代理费费收项目与费率<br><br><p class='zhang'>                               代理费</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>船舶委托方代理费<br>    按下述四种计算方法兼收：<br>    （一）按船舶吨位或马力计收：<br>    船舶每登记净吨（拖轮每马力）0．48元，进出口各收一次，最低收费每次216元。<br>    科研船、工程船（包括钻井平台）及其辅助船舶，除进出口各收一次外，进口一个月以后，每月加收600元。<br>    旅游船和不装卸货物、不上下旅客的船舶，进出口合并一次计收。<br>    （二）按装卸货物吨数计收：<br>    件杂货（包括非整船散货）                        1．92元／吨<br>    整船散货（包括同类货物压包）<br>    1～30000吨                                0．95元／吨<br>    30001～60000吨<br>    （超过3万吨的部分）                            0．80元／吨<br>    60001～100000吨<br>    （超过6万吨的部分）                            0．65元／吨<br>    100001吨以上（超过10万吨的部分）        0．40元／吨<br>    油轮装原油或其成品油<br>    1～30000吨                                0．55元／吨<br>    30001～60000吨<br>    （超过3万吨的部分）                            0．45元／吨<br>    60001～100000吨<br>    （超过6万吨的部分）                            0．35元／吨<br>    100001吨以上（超过10万吨的部分）        0．20元／吨<br>    （三）按装卸集装箱箱数计收：<br>    每箱24元。带有底盘车者，每箱加收9．6元。箱内货物，按（二）计收。<br>    （四）按旅客人数计收：<br>    客船按上下旅客人数、旅游船按旅游客人数，每人7．2元。<br>    旅游船每艘次最低收费720元。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>第二委托方代理费<br>    按装卸货物吨数计收，每吨0．18元，最高收费1800元，最低收费240元。<br>    与货物无关者，收费240元。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>期租船船东代理费<br>    每艘次收费1200元。<br><br><p class='zhang'>                               手续费</p><br><br><p></p><a name='4'><font class='TiaoNoA'>  一、</font></a>组织货载、洽订舱位：<br>    按运费总额（包括各类附加费）的5％计收。<br><p></p><a name='5'><font class='TiaoNoA'>  二、</font></a>代算、代收运费：<br>    按运费总额（包括各类附加费）的0．75％计收，由本公司揽货订舱的免收。<br><p></p><a name='6'><font class='TiaoNoA'>  三、</font></a>代售国际海运客票：<br>    按票价的5％计收。<br><p></p><a name='7'><font class='TiaoNoA'>  四、</font></a>洽办船舶买卖、交接：<br>    船舶买卖，按售价的1％向卖方计收。<br>    船舶交按，每船向委托双方各收1800元。<br><p></p><a name='8'><font class='TiaoNoA'>  五、</font></a>洽办租船及期租船交接：<br>    期租船按租金、程租船按运费总额的5％向出租方计收。<br>    期租船交接，每次向委托双方收费900元。<br><p></p><a name='9'><font class='TiaoNoA'>  六、</font></a>办理船舶滞期费与速遣费的计算与结算：<br>    按每航次滞期费或速遣费金额的5％向收入方计收，最低收费60元。<br><p></p><a name='10'><font class='TiaoNoA'>  七、</font></a>洽办海损事故处理：<br>    按救助费用和赔偿金额的2％向各委托方分别计收，最低收费240元。<br>    办理共同海损担保手续，每份提单向委托方收费12元，最低收费60元。<br><p></p><a name='11'><font class='TiaoNoA'>  八、</font></a>代办船舶通过琼州海峡申请手续：<br>    每艘次收费720元，申请后又撤销的，减半计收。<br><p></p><a name='12'><font class='TiaoNoA'>  九、</font></a>办理集装箱租、还箱交接：<br>    按本公司与各有关公司协议规定计收。<br><p></p><a name='13'><font class='TiaoNoA'>  十、</font></a>洽办船舶修理：<br>    按修理费金额的1％计收，每船每港最低收费72元。<br><p></p><a name='14'><font class='TiaoNoA'>  十一、</font></a>办理船员调换、遣送和陪同旅行、游览、就医等：办理调换、遣送手续，按船员人次，每人次24元；<br>    陪同旅行、游览、就医等，按所需陪同人数，每人每日48元，节假日加倍计收。<br><br><p class='zhang'>                                其他</p><br>    其他费收项目与费率由本公司酌定。<br>    以上费率均以人民币为计算单位，按中国银行认收的外币及规定的正式比价进行结算。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

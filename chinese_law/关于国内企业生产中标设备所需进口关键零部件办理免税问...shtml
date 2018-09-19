@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1984-05-03<BR>&nbsp;&nbsp;【生效日期】1984-05-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于国内企业生产中标设备<br>
+所需进口关键零部件办理<br>
+免税问题的补充通知<br>
+</font></p><p align='center'><font class='STitle'>（1984年5月3日）</font></p>    关于利用外国政府和国际金融组织的贷款，用国际招标方式采购设备，我国内企业中标后，为生产中标设备所需进口关键零部件，可凭中标证明等文件申请予以免税问题，我署已以（82）署税字第1095号文通知你们。现经与国家经委、财政部、中国技术进口总公司研究，就办理免税的若干具体补充通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>一、</font></a>关于免税的范围问题：（82）署税字第1095号文规定，生产中标设备所需进口的关键零、部件可予以免税。在具体掌握、执行中，只要是国内中标企业的主管部批准进口生产中标设备所需要的零、部件和配件，都可视为关键零、部件予以免税。至于生产中标设备进口的材料，除报海关总署、财政部会商国家经委特准予以免税外，其余的都应照章征收进口关税和工商税。<br><p></p><a name='2'><font class='TiaoNoA'>二、</font></a>关于免税手续问题：生产中标设备所需的零部件进口时，中标单位应向口岸海关交验中标证明书（见附件一）、主管部门批准书（见附件二）和进口合同副本（含订货通知单），海关凭以免税。如一个合同分几个口岸进口，口岸海关都应在合同上批注实际进口情况，并将有关单证交由中标单位传递，由最后一个进口地海关将有关单证收存。如上述零部件委托实行集中纳税的外贸专业进出口总公司订购进口，则中标单位应将上述单证和订货卡片，送我署关税统计司审核，并在订货卡片上加盖免税专用章后，送有关总公司凭以办理免税。<br>    上述准予免税进口的零、部件，不得移作他用。否则，海关按有关规定处理。<br>    本通知自一九八四年五月十六日起执行。（82）署税字第1095号通知中，有关申请免税手续部分应予废止。<br>    附：一、中标证明书<br>        二、国内企业生产中标设备进口必需的关键零、部件批准书<br>    附件一：<br>                                  中标证明书<br>    ××××（单位名称）利用××××贷款在××××项目招标中，已经中标该项目的第×××项。中标设备的品名、数量如下：<br><br>━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━┳━━━━━━━<br>        品    名    ┃      数    量    ┃    单    价    ┃    总金额<br>━━━━━━━━━━╋━━━━━━━━━╋━━━━━━━━╋━━━━━━━<br>                    ┃                  ┃                ┃<br>                    ┃                  ┃                ┃<br>                    ┃                  ┃                ┃<br>                    ┃                  ┃                ┃<br>                    ┃                  ┃                ┃<br>                    ┃                  ┃                ┃<br>                    ┃                  ┃                ┃<br>━━━━━━━━━━┻━━━━━━━━━┻━━━━━━━━┻━━━━━━━<br>    特此证明<br>                                                  中国技术进出口总公司<br>                                                    一九八四年  月  日<br>    附件二：<br>                国内企业生产中标设备进口必需的关键零、部件批准书<br>    我部××××（单位名称）利用××××贷款，在××××项目，中标××××设备。为生产上述中标设备，已经我部批准进口以下的零部件：<br><br>━━━━━━━┳━━━━━━━┳━━━━━━━━┳━━━━━━┳━━━━━━<br>    合同号    ┃    品  名    ┃    数    量    ┃  单    价  ┃  总金额━━━━━━━╋━━━━━━━╋━━━━━━━━╋━━━━━━╋━━━━━━<br>              ┃              ┃                ┃            ┃<br>              ┃              ┃                ┃            ┃<br>              ┃              ┃                ┃            ┃<br>              ┃              ┃                ┃            ┃<br>              ┃              ┃                ┃            ┃<br>              ┃              ┃                ┃            ┃<br>              ┃              ┃                ┃            ┃<br>━━━━━━━┻━━━━━━━┻━━━━━━━━┻━━━━━━┻━━━━━━<br>                                                主管部章<br>                                                    年      月      日<br>    注：本表按规定格式（长二十六公分，宽十九公分）自行印刷使用。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

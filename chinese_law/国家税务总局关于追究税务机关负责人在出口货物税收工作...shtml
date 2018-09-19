@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税函发[1994]619号<BR>&nbsp;&nbsp;【发布日期】1994-11-18<BR>&nbsp;&nbsp;【生效日期】1994-11-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于追究税务机关负责人在<br>
+出口货物税收工作中违纪责任的通知<br>
+</font></p><p align='center'><font class='STitle'>（1994年11月18日国税函发［1994］619号）</font></p>各省、自治区、直辖市国家税务局、地方税务局，各计划单列市国家税务局、地方税务局：<br>    近几年来，社会上一些不法分子利用国家对出口货物实行退税的政策，采取各种非法手段骗取国家出口退税。特别是今年新税制实施以来，这些人利用新的增值税专用发票弄虚作假，采取填写假票或者真票假开等手段，继续从事骗取国家出口退税的犯罪活动，给国家造成了重大的经济损失。为了强化进出口货物税收的严格管理，严厉打击骗取出口退税的犯罪活动，确保国家出口退税政策正确执行，经国务院领导批准，对造成国家出口退税被骗的税务机关，除依照国家税务总局《税务人员违反税务法纪行政处分暂行规定》给予直接责任人处分外，还必须追究其所在机关主要行政负责人的责任，现就此通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>凡与骗税分子通谋，指使下属为其提供虚假征税证明，虚开、代开发票等退税凭证或者支付骗税款的，一律给予撤职或者开除处分。构成犯罪的，移送检察机关追究其刑事责任。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>明知有假，但为了局部或者小团体利益，指使下属为他人提供虚假征税证明，虚开、代开发票等退税凭证或者支付骗税款的，视情节轻重和造成国家税款损失大小，给予其降级至开除处分。构成犯罪的，移送检察机关追究其刑事责任。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>迫于外界压力，但不请示、不报告，指使下属为他人提供虚假征税证明，虚开、代开发票等退税凭证或者支付骗税款的，视情节轻重和造成国家税款损失大小，给予其记大过至撤职处分。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>未严格执行出口退税管理制度，工作严重不负责任，不检查，不督促，致使其下属为他人提供虚假征税证明，虚开、代开发票等退税凭证或者支付骗税款的，视情节轻重和造成国家税款损失大小，给予其警告直至撤职处分。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>发现骗取出口退税案件，没有积极采取有效措施，不认真组织追查，挽回损失，情节严重，造成国家税款损失数额巨大的，给予其记过至撤职处分。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>有下列情形之一的，应当从重处理；<br>    （一）订立攻守同盟，拒不承认错误的；<br>    （二）伪造或者销毁证据，抗拒检查的；<br>    （三）对举报人、证人或者办案人员打击报复的；<br>    （四）不及时采取措施，致使损失增大的。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>有下列情形之一的，可以从轻处理：<br>    （一）情节轻微的；<br>    （二）主动坦白交待的；<br>    （三）认错态度好，积极退赔非法所得的；<br>    （四）主动采取措施，未给国家税款造成损失或者已全部挽回损失的。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>对因在出口退税工作中，通谋参与、索贿受贿、玩忽职守的共产党员，在给予其政纪处分的同时，建议所在党组织给予其相应的党纪处分。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>税务机关对各级主要行政负责人在出口退税工作中的违法违纪行为性质的认定，可以商请当地检察机关以及上级纪检监察部门予以协助。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>对发生利用假增值税发票或虚开、代开增值税专用发票偷税、骗税的税务机关，除追究直接责任人的党、政纪处分外，对其主要行政负责人比照上述各条款进行处理。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>本通知所适用对象，是指县以上（含县）各级税务机关的主要行政负责人。<br>    以上各项，望各地认真贯彻执行，并将执行中的有关情况和问题及时报告总局。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

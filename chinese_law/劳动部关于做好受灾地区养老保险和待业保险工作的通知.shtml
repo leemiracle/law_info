@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动部<BR>&nbsp;&nbsp;【发布文号】劳险字(1991)8号<BR>&nbsp;&nbsp;【发布日期】1991-07-24<BR>&nbsp;&nbsp;【生效日期】1991-07-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 劳动部关于做好<br>
+受灾地区养老保险和待业保险工作的通知<br>
+</font></p><p align='center'><font class='STitle'>（1991年7月24日劳险字（1991）8号）</font></p>各省、自治区、直辖市及计划单列市劳动（劳动人事）厅（局）：<br>    今年入夏以来，严重的洪涝灾害，使许多地区的工农业生产和人民生命财产受到重大损失，一些企业被迫停工停产。首先应努力恢复生产，这是救灾最根本的措施。同时，为了保障受灾地区退休职工和待业职工的基本生活，维护社会安定，特做如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>必须切实保证受灾企业退休职工的退休金和待业职工按规定应享受的待业救济金的及时、如数发放，并主动上门服务，了解情况，帮助解决困难；对特别困难的待业职工，可以酌情延长救济期限。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>对于企业因停工停产确实无力缴纳养老保险基金和待业保险基金的，报经市（地）级劳动部门核准，可以缓缴。对于两项基金因收支不平衡而出现赤字的，可以动用积累基金进行支付；固定职工养老保险基金，可以与劳动合同制工人的养老保险基金合并使用。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>鉴于有些地区目前尚未实行退休费用省级统筹，养老保险基金还由各市县分散管理，而各市县的基金积累多少不一，受灾程度也不相同，因此，各受灾地区省级社会保险管理机构要及时调查了解各市县的实际情况，并在省政府的统筹安排下组织全省范围内基金调剂，援助那些积累较少、受灾较重、支付退休金有困难的市县。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>对参加待业保险的企业，因受灾严重、恢复生产确需扶持的，根据实际情况，可从待业保险基金中，提取部分生产自救费，按照有偿使用的原则，扶持企业开展生产自救。具体办法由各省制定。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各级社会保险管理机构和就业服务机构的负责人必须坚守岗位，带领全体工作人员保护好帐、表、卡、册等各类社会保险档案，严防散落和丢失，以保证两项基金管理工作的正常进行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

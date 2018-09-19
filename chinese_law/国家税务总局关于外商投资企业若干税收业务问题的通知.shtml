@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[1995]019号<BR>&nbsp;&nbsp;【发布日期】1995-01-28<BR>&nbsp;&nbsp;【生效日期】1994-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局<br>
+ 关于外商投资企业若干税收业务问题的通知<br>
+</font></p><p align='center'><font class='STitle'>（1995年1月28日国税发［1995］019号）</font></p><br>各省、自治区、直辖市和计划单列市国家税务局：<br>    外商投资企业实行新流转税制以来，各地陆续反映了一些执行中出现的问题，经研究，现将有关问题明确如下；<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于执行［94］财税字第058号《<a href=javascript:ROF(20557,0) class=alink>关于外商投资企业出口货物税收问题的通知</a>》（以下简称《通知》）所涉及的有关问题<br>    （一）关于出口货物不得抵扣的进项税额的范围问题。<br>    《通知》第三条中“出口货物中，购买国内原材料所负担的进项税额”，是指出口货物耗用的购进货物所发生的全部进项税额，包括准予抵扣的运输费用所含进项税额。<br>    （二）关于不得抵扣的进项税额的计算问题。<br>    根据《通知》第四条所列计算公式计算出的不得抵扣的进项税额，年终应进行清算、调整。<br>    （三）关于委托代理出口的确定问题。<br>    《通知》第二条规定：“外商投资企业生产的货物销售给国内出口企业或委托国内出口企业代理出口的，一律视同内销”。这里所称“委托国内出口企业代理出口”是指委托方与受托方双方签订代理出口合同（协议），受托方负责办理出口货物报关、结汇等出口手续，报关单、结汇单上经营单位均列明是受托方，委托方向受托方开据增值税专用发票，受托方可以凭上述单证办理出口退税或出口免税。其他形式的委托代理出口应按自营出口处理。<br>    上述所称“国内出口企业”是指有进出口经营权的企业，包括外商投资企业。<br>    （四）关于收购货物出口的税收问题。<br>    外商投资企业经有关部门批准收购货物出口的，可比照自营加工生产的出口货物的税收规定处理。<br>    （五）关于出口货物发生退货、退关的税务处理问题。<br>    当出口货物发生退货、退关而转作内销时，应将已计入产品成本的进项税额分离出来，转作准予抵扣的进项税额，在当期作调整或冲减下期不得抵扣的进项税额。<br>    （六）关于《通知》的适用范围和执行日期问题。<br>    《通知》适用于1993年12月31日以前已办理工商登记的外商投资企业；执行日期应为1994年1月1日。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于执行国税发［1994］115号《国家税务总局关于退还外商投资企业改征增值税、消费税后多缴税款的若干具体问题的通知》所涉及的有关问题<br>    （一）关于应取得但未取得增值税专用发票，如何计算税负增加返还问题。<br>    外商投资企业购进货物时应取得但未取得增值税专用发票或者违反增值税专用发票管理有关规定的，对其所涉及的销售额不计算税负增加，不予退税返还。<br>    （二）关于设立分支机构、扩大生产经营规模等是否计算税负增加返还的问题。<br>    外商投资企业1994年1月1日以后设立分支机构或扩大生产经营规模的，凡属新办理工商登记或变更工商登记的，不予计算税负增加返还。<br>    （三）关于几个税负增加返还的计算口径问题。<br>    1．应征收工商统一税的“中间产品”用于本企业生产的，原工商统一税税负为中间产品应征收的工商统一税和最终产品应征收的工商统一税的合计。<br>    2．“同一税目加工改制”的产品应按原工商统一税规定的“其他工业产品”5％的税率确定原工商统一税税负。<br>    3．原工商统一税规定准予扣除包装物后的销售收入缴纳工商统一税的，如白酒、黄酒、啤酒、复制酒、果木酒、汽水、酸（盐酸、硫酸、硝酸）、碱、焦油和漂白粉等确定原工商统一税负时，仍准予扣除包装物。准予扣除的包装物，属于自制或委托加工的，应按照该包装物的生产成本或委托加工成本额扣除，并依照包装物适用的税率确定原工商统一税税负；属于采购的，应按照购进价计算扣除，该购进价包括包装物的买价、外地运杂费、运输中的合理损耗、入库前的挑选整理费用及大宗市内运输费。<br>    4．销售商品房仍按国税函发［1990］505号的有关规定计算原工商统一税税负，即，建筑物连同土地使用权一并转让的，划分清楚的，分别按3％和5％的税率计算，划分不清的，一律按5％的税率计算。<br>    5．企业销售生产加工产品后的边角余料、副产品等，一律按照“其他工业产品”5％的税率确定原工商统一税税负。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>本通知自1994年1月1日起执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

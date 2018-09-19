@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家旅游局/国家物价局/国家外汇管理总局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1986-09-26<BR>&nbsp;&nbsp;【生效日期】1986-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 国家旅游局、国家物价局、国家外汇管理局<br>
+ 关于实施外汇保值措施的几项暂行规定<br>
+</font></p><p align='center'><font class='STitle'>（1986年9月26日）</font></p>各省、自治区、直辖市、计划单列旅游局、物价局（委）、外汇管理局、各一类旅行社：<br>    为实施经国务院批准的（国办1232签批件）外汇保值措施，维护国家的根本利益，处理好对外销售和对内承付问题，特作如下具体规定：<br>    （一）实施外汇保值是国家的一项政策，是保证国家外汇不受损失的重要措施。近年来，由于人民币与外币的汇价不断调整，使旅游收入受到了损失。为了改变这种状况，经国务院批准，从1987年开始，旅游对外售价实施外汇保值措施。<br>    （二）外汇保值，采用年度固定汇率，每年确定一次，1987年旅游年度固定汇率为3．7元人民币比1美元，2．298元人民币比100日元，47元人民币比100港币。<br>    （1）对美国、西欧、北美和其他西方国家（除日本外）一律以美元保值。其他非美元国家以美元保值，原则上算收美元，如对方坚持要求以等值本国货币支付时，也可接受，可按伦敦（或纽约）外汇市场前一个营业日收盘中间价将美元款额折成本国货币汇款。但必须是国家外汇管理局公布的自由兑换外币。<br>    （2）对日本以日元保值，算收日元。<br>    （3）对港澳地区的华侨等四种人及当地居民以港币保值，算收港币。这类旅行团中，外籍游客不得超过10％。港澳地区的旅行社组织日本人旅行团以日元保值，其他外国人旅行团以美元保值。多国籍外国人旅行团中的日本旅客人数超过50％，该团以日元保值。不超过50％的以美元保值。<br>    （4）对澳大利亚可暂不以美元保值。<br>    （5）一年内国家外汇牌价发生任何变化，均不得改变已确定的固定汇率。<br>    （6）非旅游部门接待自费旅行团（者）也要执行此规定，采取保值措施。<br>    （三）每年固定汇率确定后，与我对外销售的旅游路线价格一起公布。<br>    （四）全国凡有外联权的各旅行社对外招徕客人签发协议时，一律按1987年旅游价格按固定汇率保值。已用人民币对外报价的一律无效，改用外币保值。国家旅游局、国家物价局和省、自治区、直辖市旅游局、物价局对实施外汇保值进行监督检查。各旅行社要向国家旅游局、国家物价局呈报外联报价的保值方案。<br>    （五）对不执行外汇保值措施而对外销售旅游路线的旅行社，将分别给予以下处罚：<br>    （1）对年内造成外汇损失1万美元以下者给予通报批评。<br>    （2）对年内造成外汇损失1万至10万美元者，由国家旅游局、国家外汇管理局联合通知各地外汇管理分局在旅行社或主管部门外汇留成总额中扣留10％，或根据国家物价局（1985）价检字206号文件给予经济制裁。<br>    （3）对年内造成外汇损失10万美元以上者，除给予经济处罚外，取消其外联权。<br>    （六）按固定汇率实施外汇保值后，由于国家外汇牌价的变化，外联社所收取的人民币可能出现有盈有亏。为了平衡盈亏，决定实行由外联社与接团社共同承担盈亏。<br>    （七）外联社与接团社如何分配因汇价差额出现的盈亏，可按下列原则，由外联社制定具体的拨款方案，由接团社实施，并报国家旅游局备案：<br>    （1）对拨接团社的综合服务费进行保值（包括饭店、车队），盈拨亏扣。拨款时仍以人民币计拨，有外汇留成的单位，按拨款额计算留成额度。<br>    （2）机票、火车票、交通游船票按物价部门批准的价格付费。<br>    （3）各旅行社要设汇价差价专户，发生盈亏记入汇差专户内，以盈补亏。如此后仍有盈余款额如何使用将重新规定。<br>    （八）实行外汇保值是一项新的工作，各地要注意总结经验，分派专门人员研究处理这方面的问题，遇到原则性问题，可提出解决办法并报国家旅游局、国家物价局审定。<br>    文件注解：<br>    （1）如对方坚持要求以本国货币付款，各外联社与外国旅行社签订协议时，可接受国家外汇管理局公布的十四个国家的货币，即：奥地利先令、金融比利时法朗、加拿大元、丹麦克朗、挪威克朗、瑞典克朗、德意志联邦马克、法国法朗、意大利里拉、荷兰盾、瑞士法朗、英镑、新加坡元、澳大利亚元。<br>    （2）关于伦敦（或纽约）外汇市场收盘中间价，即伦敦（或纽约）外汇市场美元对该国货币汇率的收盘中间价。协议中应订明按照汇款前一个营业日伦敦《金融时报》（Ｆｉｎａｎｃｉａｌ  ｔｉｍｅｓ）或者纽约《华尔街日报》（Ｗａｌｌ<br>Ｊｏ－ｕｒｎａｌ）公布的伦敦（或纽约）外汇市场收盘中间价，将美元款项折成该国货币汇款。<br>    （3）“旅游年度”指每年4月1日至次年3月31日。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民法院<BR>&nbsp;&nbsp;【发布文号】法(经)函[1991]65号<BR>&nbsp;&nbsp;【发布日期】1991-06-07<BR>&nbsp;&nbsp;【生效日期】1991-06-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>最高人民法院关于上海社会科学院应否对<br>
+中外中小企业科技经济信息联合体的债务承担责任的函<br>
+ </font></p><p align='center'><font class='STitle'>（1991年6月7日法（经）函〔1991〕65号）</font></p>上海市高级人民法院：<br>    你院沪高法经字（1991）3号《关于处理以中外中小企业科技经济信息联合体为被告的经济纠纷案件的请示报告》收悉。经研究，答复如下：<br>    根据《国务院<a href=javascript:ROF(11895,0) class=alink>关于在清理整顿公司中被撤并公司债权债务清理问题的通知</a>》精神，开办企业的党政机关及其所属编制序列的事业单位，只有对其开办的企业审核不当或从其开办的企业收取资金和实物的才承担相应的经济责任。中外中小企业科技经济信息联合体（以下简称联合体）是经国务院上海经济区规划办公室批准成立的。该规划办公室撤销后，联合体挂靠到上海社会科学院。在此期间，上海社科院并未从联合体获取过利益。因此，同意你院意见，责成上海社科院对联合体的债权债务予以清理，但上海社科院对联合体的债务不承担责任。<br>    此复<br><br>    附：上海市高级人民法院关于处理以中外中小企业科技经济信息联合体为被告的经济纠纷案件的请示报告沪高法经字［1991］3号<br>最高人民法院：<br>    本市中级法院向我院请示称：该院于1989年10月受理了原告杨浦区跃化五金模具厂、昆山县永乐机械配件厂、浙江省奉化县白松塑料二厂、苏州市吴县镇湖西村滴塑瓶盖厂、上海市黄浦区双佳医疗器研究所等分别诉被告中外中小企业科技经济信息联合体（下称联合体）的五件居间合同纠纷案。因联合体在1988年6至9月间为各原告介绍业务信息，收取介绍服务费。但其介绍的业务不实，致各原告向法院起诉，要求返还介绍服务费。由于联合体已经自行解体，案件无法审理。<br>    经查，1987年7月16日，经国务院上海经济区规划办公室（下称规划办）研究，同意筹建联合体，作为独立法人，自筹开办经费，向有关工商管理部门办理注册登记，1988年5月21日，联合体书面报告规划办科技组：联合体筹建工作已告结束，拟定于同年7月16日召开成立大会，联合体属事业法人。5月30日，规划办科技组批复同意。联合体成立后，既未向工商行政管理机关注册登记，也未向编制委员会备案。同年6月15日，因规划办撤销，联合体书面报告上海社会科学院（下称社科院），要求暂挂靠社科院。7月29日，社科院批复同意挂靠，联合体的日常工作由中国管理科学研究院上海分院（下称上海分院）代管。1990年3月14日，上海分院书面报告社科院，要求与社科院脱钩，而挂靠到上海市社会科学联合会。3月22日，社科院批文同意上海分院脱钩，由上海分院代管的联合体也一并脱钩。此外，中国管理科学院是由国家科委批准的民办科研机构。上海分院由该院在1987年10月19日批准成立，地方行政挂靠社科院领导，但在上海没有编制。<br>    上列案件的原告经走访了原国务院上海经济区规划办公室秘书长韦明同志后认为：规划办无权批准成立一个事业单位，故联合体既非企业法人，也非依法成立的事业单位，不具备法人资格，上海分院在上海没有自己的编制，也不具备法人资格，其与社科院间就联合体的转挂靠无效，故要求变更联合体的挂靠单位社科院为被告，承担民事责任。本市中级法院根据原告的举证和请求于去年11月变更社科院为上列五案的被告。<br>    社科院对此不服，提出：1．联合体系由规划办批准成立，公安部门据此准许刻制公章，原上海市市长汪道涵及其他一些领导同志都在其中担任重要职务。因此，是依法成立的事业单位，具备法人资格，不能凭韦明个人意见而否定。2．联合体有其独立的财产和经费（自筹），有名称，组织机构，章程和场所，根据《<a href=javascript:ROF(5138,0) class=alink>民法通则</a>》第<a href=javascript:ROF(5138,50) class=alink>五十</a>条第二款的规定，符合法人的条件。3．联合体的直接批准成立单位是规划办，社科院既非其再办呈报单位，也非直接批准成立单位。4．联合体从挂靠到脱钩，从未与社科院发生过人事、财务、业务方面的实质性联系，一直由上海分院行使管理职权，何况上海分院也已与社科院脱钩。因此，变更社科院为被告无法律依据。<br>    本市中级法院认为：联合体系由规划办批准成立，虽未经工商行政管理机关注册登记，也未取得国家的正式编制，但已作为事实上的事业单位在从事民事活动。联合体解体后，本应由规划办来处理其债权债务事宜，但是规划办早已撤销。社科院在接受联合体挂靠前曾经过认真审查，虽确定由上海分院代管，但上海分院本身也无法人资格。故仍应视社科院为联合体的上级主管部门，鉴于社科院系由国家行政拨款的事业单位，作为联合体的上级并未获取过利益。以联合体为被告的债务纠纷案件，除上列五件案件外，尚有一批在本市基层法院，或已审结无法执行，或尚未审结，总计债务高达100余万元。不宜也无法由社科院来承担这样巨额的债务。故拟参照国务院《<a href=javascript:ROF(11895,0) class=alink>关于在清理整顿公司中被撤并公司债权债务清理问题的通知</a>》的精神，责令社科院对联合体的债权债务予以清理。现在审理的这批案件（包括本市基层法院受理的）全部转为债务清偿程序处理。<br>    我院经审核研究，拟同意本市中级法院的处理意见。<br>    当否，请予批示。<br><br>                                                  1991年1月11日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

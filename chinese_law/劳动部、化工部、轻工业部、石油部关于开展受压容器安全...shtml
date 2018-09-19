@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动部/化工部/轻工业部/石油部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1962-04-29<BR>&nbsp;&nbsp;【生效日期】1962-04-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>劳动部、化工部、轻工业部、石油部<br>
+ 关于开展受压容器安全检查的联合通知<br>
+</font></p><p align='center'><font class='STitle'>（1962年4月29日）</font></p>    近几年来，随着生产建设的发展，轻工、化工、石油等工业系统的受压容器大量增加。但是，不少企业对这些设备的技术管理较差，规章制度废弛，以致受压容器本体失修、安全附件不齐不灵的情况相当严重，爆炸事故时有发生，给生产的正常进行和职工的安全带来不小的影响。因此，在各地开展一次受压容器的安全检查，改进这种设备的技术管理工作，消除事故隐患，是十分必要的，现把有关安全检查的几个问题，通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>安全检查的重点应该放在0．7表压力以上的中、低压受压容器上（不包括气瓶和槽车），在这个范围内着重检查：<br>    （1）装有易燃、易爆、有毒介质和有强烈腐蚀性物质的受压容器；<br>    （2）近几年来一直没有进行彻底检查和修理的容器。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>安全检查的内容是：<br>    （1）容器的本体是否有腐蚀、裂纹、变形、材料变质和强度降低等缺陷；<br>    （2）安全附件是否有不全和失灵等情况；<br>    以上（1）及（2）项的检查，以化工部“化工受压容器（0．7～50公斤／平方厘米）制造，安装、维护和检验技术规程（草案）”为标准；<br>    （3）受压容器运行管理规程、设备定期检修、交接班等安全管理的规章制度是否健全，贯彻情况如何；<br>    （4）受压容器操作地点的照明情况如何；<br>    （5）近几年来是否发生过受压容器的爆炸事故和设备事故，是否认真进行了调查、分析和处理，有什么经验教训。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>这次安全检查，主要在直辖市和省辖市的范围内，按产业系统为单位，由企业自行检查。组织领导的方式是：以各省、自治区、直辖市、省辖市劳动部门为主，会同化工、轻工、石油部门组成安全检查领导小组，制订计划，负责领导所管区域内的检查工作。各产业部门则负责推动本系统内各企业的检查工作。在省市没有建立主管部门的石油企业，应由当地劳动部门和石油部直属管理局共同组织检查。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>安全检查定于第三季度内进行，所有关企业应在这一期间内结合检修计划完成检查工作。在七月份以前已进行检查的企业，应根据本通知的精神和检查结果，进行复查，发现有不足的地方，应进行补查个别企业如因某种原因，确实不能在第三季度内进行检查的，须经当地安全检查领导小组批准，延期至第四季度内完成。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>通过检查，应对长期失修和有严重缺陷、影响安全生产的受压容器，立即进行检查。虽有缺陷，但由于各种条件限制不能立即检修的，应经当地安全检查领导小组批准，酌情延期修理。受压容器上的安全阀、压力表、液面计、减压阀、防爆膜等安全附件，应该根据设备的需要配备齐全，并且符合规格、安装正确、保持灵敏可靠。如有某些材料、附件供应有困难，本企业无法解决时，可向直属上级主管部门提出。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>在检查当中发现疑难的重大技术问题，本企业解决有困难时，可由产业内部组织力量解决，必要时，可由当地安全检查领导小组协助解决。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>通过检查，每个企业必须建立受压容器设备的安全运行管理规程、定期检修和交接班制度，并坚决贯彻执行。已经建立这些规程制度的企业，应认真检查贯彻执行情况，对不符安全生产需要的规定，应及时进行修订。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>受压容器管理工作薄弱的企业，应根据需要建立和健全专管或兼管的机构，配备适当人员，加强这方面的工作。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>每个地区应选择一些有条件的企业，在这次检查的基础上，进行受压容器的登记和建立技术档案的试点工作，为今后全面开展受压容器的登记工作和建立技术档案创造条件。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>有受压容器的其他产业部，可参考本联合通知的精神在所属企业内开展安全检查工作。<br>    各省、市、自治区接到本联合通知后，应立即组织安全检查领导小组，并把本通知转发给各有关企业，根据要求拟定计划，作好检查的准备工作，于六月二十日以前把准备工作情况写一简要报告，分别报送劳动、化工、轻工、石油四部。在检查工作结束以后，应写出检查总结报告，于十月底以前，报送上述四部。<br><br><p class='zhang'>  附：                受压容器技术检验注意事项</p><br><p></p><a name='11'><font class='TiaoNoA'>  （一）</font></a>检验前的准备工作<br>    1．检验前，应使容器停下来冷却，把里面的介质排除干净并且用盲板把连接压源的管道（包括与其它容器连接的管道）堵住。<br>    2．对装有易燃、易爆、有毒等有危害人体健康的介质的容器，在作内部检查前，除了按前项要求处理外，还必须进行中和、消毒、冲洗等专门处理。<br>    3．容器里的妨碍检验的可拆装置，应在检验前全部拆去。<br>    4．容器上电气设备的电源，在检验前应予切断。<br><p></p><a name='12'><font class='TiaoNoA'>  （二）</font></a>内外部检查<br>    5．作内外部检查时，凡是能够检查到的容器内外金属表面，都要进行详细检查。<br>    6．在容器里面进行检查时（包括在内部进行修理、清洗等），应该用安全电源照明设备，电压不得超过12伏。不准许用煤油灯以及其它易燃物质为燃料的照明灯。<br>    7．作内外部检查时，应注意容器上是否有以下缺陷：<br>    （1）容器的内外表面上有无裂纹、裂缝和裂口，要特别注意焊缝及铆缝处。<br>    （2）容器的内部，在介质流动速度大的金属壁上及其附近有无腐蚀和磨损。<br>    （3）受火加热或用电来加热的容器上有无鼓包。<br>    （4）铸造的容器有无气孔、裂缝及壁厚极不均匀的缺陷。<br>    （5）有内衬砖的容器，其内衬砖是否损坏、开裂和脱离；有涂有阿拉伯树胶、镀铝、焊铅、搪瓷及其它物质的内衬物上，有无鼓包裂缝和裂纹；在镶入的金属内衬套（如不锈钢衬套、铝衬套）上有无裂缝、裂纹和裂口。凡是发现内衬损坏的地方，应把内衬部分或全部拆去，检查容器的内壁有无腐蚀。<br>    （6）凡是容器的外层绝热材料发生脱落、开裂或粘得不牢时，应把这些绝热材料部分或全部拆除，检查容器外壁上有无腐蚀。<br>    （7）凡是用水泥作支座，使支座的支承面和容器外壁接触两面者之间有可能渗入或流入地下水或滴漏水的，应检查容器外壁有无腐蚀。<br>    （8）对经常拆装的螺栓，要检查螺栓上有无磨损和裂纹。<br>    8．发现容器的金属壁严重磨损或腐蚀，应该测量壁厚，复核强度。如果用一般方法无法测量壁厚时，可以用钻孔的方法来测量。如果有钻孔方法测量也有困难时，可用超声波来确定厚度。<br>    9．检查铆接容器时，应该用小锤敲打铆钉头。如果敲打后有铆钉头脱落，可能是铆缝发生苛性脆化，这时应该用检查苛性脆化的方法（如拆去有怀疑的铆钉，用磁粉进行铆缝探伤等）来详细检查铆缝。<br>    10．发现容器壁上有小裂纹时，应该用放大镜来检查。检查前要把准备检查的地方磨光和酸洗，然后用放大镜进行仔细观察。必要时，还要用超声波探伤法检查裂纹深度或用磁粉探伤法检查裂纹深度或用磁粉探伤法检查裂纹范围。<br>    11．对轻微的磨损和腐蚀，虽然暂时不用修理，但检查时应仔细测量这些缺陷，把它们的位置和损坏程度记录下来。这样做，对以后检验时确定这些缺陷发展的速度以及正确规定下次检验日期有很大的参考价值。<br><p></p><a name='13'><font class='TiaoNoA'>  （三）</font></a>水压试验<br>    12．焊接、浇铸、锻造和铆接的容器，水压试验的试验压力应照下表规定：<br><pre><font size=+1><br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>｜                    ｜  工作压力    ｜                                    ｜<br>｜    容  器  名  称  ｜              ｜    定期检验时的试验压力            ｜<br>｜                    ｜公斤／平方厘米｜                                    ｜<br>｜－－－－－－－－－－｜－－－－－－－｜－－－－－－－－－－－－－－－－－－｜<br>｜除铸造外的一切容器  ｜      ＜5    ｜1．5倍工作压力，但不小于2个表压力｜<br>｜－－－－－－－－－－｜－－－－－－－｜－－－－－－－－－－－－－－－－－－｜<br>｜    同        上    ｜      ≥5    ｜1．25倍工作压力，但不小于工作压力｜<br>｜                    ｜              ｜＋3个表压力                        ｜<br>｜－－－－－－－－－－｜－－－－－－－｜－－－－－－－－－－－－－－－－－－｜<br>｜  铸  造  的  容  器｜不管压力的大小｜1．25倍工作压力                  ｜<br>｜－－－－－－－－－－｜－－－－－－－｜－－－－－－－－－－－－－－－－－－｜<br>｜    搪  瓷  容  器  ｜  同      上  ｜按出厂说明书中规定的压力，但不小于工｜<br>｜                    ｜              ｜作压力。                            ｜<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br></font></pre><br>    有专门技术条件规定的容器，应按技术条件中规定的压力进行试验。<br>    13．容器应在试验压力下持续5分钟，然后降到工作压力作检查。在检查时间内应保持与工作压力相等。<br>    把压力升高到试验压力以及把试验压力降低到工作压力都应缓慢地进行。<br>    14．灌水时应把容器内的空气全部排走，升压时，如果容器还能大量进水，说明其中还有很多空气，在这种情况下不准许进行水压试验。<br>    15．灌满水的容器在进行试验时如果破裂，会使试验人员受到伤害（特别是在高压的情况下）为此，当容器处于试验压力时，试验人员不得靠近，只有等压力降到工作压力后才准许靠近检查。<br>    16．凡是从容器上拆卸下来的附件，应单独进行试验。<br>    17．有夹层的容器，每个夹层都应单独作水压试验，其试验压力应根据夹层的工作压力来规定。<br>    18．容器里灌满水后，如果容器壁上出现了露水时，应等露水蒸发后才能进行水压试验。<br>    19．有衬板、耐酸砖等内衬的容器，在进行水压试验时其内衬要吸收一定的水分，压力可能下降，因此，应在灌水后的一定时间内，保持压力不超过工作压力，等内衬饱和后再提高压力到试验压力。<br>    20．在进行水压试验时，如果听到容器里面有冲击声，或者试验压力突然显著下降，可能是容器的部件裂断或变形，在水压试验后必须作详细的内外部检查，找出原因。<br>    21．进行和经过水压试验符合以下情况的容器，即认为合格：<br>    （1）不漏水。但对于铆接容器，从铆缝中渗出来的水珠、水雾以及由于附件安装不严而渗出的水，在降至工作压力后，不再渗水，则可认为合格。<br>    （2）水压试验后无残余变形及部件破裂。<br>    22．容器进行水压试验时，所有焊缝都不允许有任何水珠和水雾。<br><p></p><a name='14'><font class='TiaoNoA'>  （四）</font></a>密封性气压试验<br>    23．对装有易燃、易爆、有毒等有危害人体健康的介质的容器，除作水压试验外还要作气压试验来检验容器的密封性。这种试验必须采用空气或其他惰性气体、试验压力等于容器的工作压力。<br>    24．气压试验时严禁敲击容器。<br>    25．检查时应在焊缝及可拆卸地方的连接处涂上肥皂液，检查这些地方的严密性。肥皂液可按2升水100克肥皂的比例来配制。温度低于0℃时，可用60％酒精或其它不冻溶液来代替水配制肥皂液。<br>    26．试验时升压和降压都应缓慢。当压力达到试验压力时，检查焊缝及可拆卸地方的连接处是否产生肥皂泡。<br>    27．容器进行密封性气压试验时，如果不漏气即认为合格。<br><p></p><a name='15'><font class='TiaoNoA'>  （五）</font></a>安全附件的检查<br>    28．检查容器上的安全附件是否齐全以及这些安全附件的工作情况。<br>    29．压力表除每隔6个月至少检验一次外，在容器运行时还要用经过检验合格的压力表来校对装在容器上及管系上的压力表。校对时应尽可能利用三通考克。<br>    30．对装有减压阀的容器，应照前条所述的方法对高压侧和低压侧的压力表进行校对，还应检查低压侧的安全阀是否失灵。<br>    31．检查安全阀时，应作手动和自动排放介质的试验，试验安全阀的动作是否灵敏准确。<br>    32．对装有易燃、易爆、有毒介质的容器，应检查容器上的安全阀及爆破片有无排气管或疏液管。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部/邮电部<BR>&nbsp;&nbsp;【发布文号】(57)邮运字第8号等<BR>&nbsp;&nbsp;【发布日期】1957-05-23<BR>&nbsp;&nbsp;【生效日期】1957-05-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部邮电部<br>
+公路汽车运送邮件原则规定<br>
+交公运</font></p><p align='center'><font class='STitle'>（57）稂字第81号<br>
+（57）邮运字第8号</font></p>主送：（略）<br>    几年来，各地邮电部门与公路运输部门在运邮工作上相互协作，对加强城乡联系，便利人民往来通信，提高广大群众的文化生活等方面，已取得不少成绩与经验。为了进一步加强今后公路运邮工作，以适应客观形势发展的需要，现经我们两部协商规定下列五项原则：<br><p></p><a name='1'><font class='TiaoNoA'>（一）</font></a>  邮方托运信函、报纸、杂志、军事邮件四项，及一公斤以下的快递小包，以交客运班车或客货混合班车及时运送为原则。每袋每班承运邮量由各省（自治区、直辖市。以下同）公路运输部门与邮电管理局，根据运力、运量情况协商定之。<br><p></p><a name='2'><font class='TiaoNoA'>（二）</font></a>  印刷品及邮政包裹 （包据邮政公物） 以交零担班车或客货混合班车运送为原则。如客车有剩余运力，或货车有空余吨位可以利用时，得酌量附载。<br><p></p><a name='3'><font class='TiaoNoA'>（三）</font></a>  邮件运费率：信函、报纸、杂志、军事邮件、印刷品五项按零担五等品运价（未分等地区按零担运价）十足计收。快递小包邮政包裹、邮政公物按公路包裹运价十足计收；轻浮包裹按公路规定办理（轻浮包裹如双方另有协议时，从其协议）。邮运量不大的地区，如经路、邮双方同意，各类邮件与包裹可综合装袋，统按包裹运价十足计收。整车托运，按各省公路运输部门现行整车费率办理。<br><p></p><a name='4'><font class='TiaoNoA'>（四）</font></a>  邮局交运邮件须分类各用坚固的邮袋盛装（特殊情况经当地路、邮双方协商同意后，可用坚固的纸包装，捆扎妥当交运）。交接时应力求迅速，不能延误车辆原定开行时间。运方对承运的邮件应妥慎保护，防止潮湿及遗失。邮件交收，凡袋口、绳口、封志及袋皮（包皮）完好，即作为原件送达。运方不负内容短少或不负责任。公路运输部门承运的邮件，除人力所不能抗拒的事故外，如遗失、毁损，运方所负赔偿责任与邮方对寄件人所负责任相同，但保价邮件不负保价责任。邮政包裹、邮政公物概按公路规定的包裹赔偿办法办理。<br><p></p><a name='5'><font class='TiaoNoA'>（五）</font></a>  各省公路运输部门及邮电管理局可根据上述原则签订具体的运邮合约。合约内未列举事项，根据公路汽车客货运输规则及各省实施细则办理。<br>    以上各点，希即结合当地具体情况，签订运邮合约贯彻执行。并经常教育职工，互信互谅，加强邮、运双方协作，为共同搞好邮件运输而努力。在执行中如遇具体问题，希随时协商，求得解决。执行情况，仍希随时分别上报。<br>                                                  一九五七年五月二十三日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

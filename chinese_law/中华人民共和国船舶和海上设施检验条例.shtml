@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院<BR>&nbsp;&nbsp;【发布文号】国务院令第109号<BR>&nbsp;&nbsp;【发布日期】1993-02-14<BR>&nbsp;&nbsp;【生效日期】1993-02-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中华人民共和国船舶和海上设施检验条例<br>
+</font></p><p align='center'><font class='STitle'>（1993年2月14日国务院令第109号发布）</font></p><br><p class='zhang'>第一章  总则</p><br><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  为了保证船舶、海上设施和船运货物集装箱具备安全航行、安全作业的技术条件，保障人民生命财产的安全和防止水域环境污染，制定本条例。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  本条例适用于：<br>    （一）中华人民共和国登记或者将在中华人民共和国登记的船舶（以下简称中国籍船舶）；<br>    （二）根据本条例或者国家有关规定申请检验的外国籍船舶；<br>    （三）在中华人民共和国沿海水域内设置或者将在中华人民共和国沿海水域内设置的海上设施（以下简称海上设施）；<br>    （四）在中华人民共和国登记的企业法人所拥有的船运货物集装箱（以下简称集装箱）。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  中华人民共和国船舶检验局（以下简称船检局）是依照本条例规定实施各项检验工作的主管机构。<br>    经国务院交通主管部门批准，船检局可以在主要港口和工业区设置船舶检验机构。<br>    经国务院交通主管部门和省、自治区、直辖市人民政府批准，省、自治区、直辖市人民政府交通主管部门可以在所辖港口设置地方船舶检验机构。<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  中国船级社是社会团体性质的船舶检验机构，承办国内外船舶、海上设施和集装箱的入级检验、鉴证检验和公证检验业务；经船检局授权，可以代行法定检验。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  实施本条例规定的各项检验，应当贯彻安全第一、质量第一的原则，鼓励新技术的开发和应用。<br><p class='zhang'>第二章  船舶检验</p><br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>  船舶检验分别由下列机构实施：<br>    （一）船检局设置的船舶检验机构；<br>    （二）省、自治区、直辖市人民政府交通主管部门设置的地方船舶检验机构；<br>    （三）船检局委托、指定或者认可的检验机构。<br>    前款所列机构，以下统称船舶检验机构。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>  中国籍船舶的所有人或者经营人，必须向船舶检验机构申请下列检验：<br>    （一）建造或者改建船舶时，申请建造检验；<br>    （二）营运中的船舶，申请定期检验；<br>    （三）由外国籍船舶改为中国籍船舶的，申请初次检验。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>  中国籍船舶所使用的有关海上交通安全的和防止水域环境污染的重要设备、部件和材料，须经船舶检验机构按照有关规定检验。<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>  中国籍船舶须由船舶检验机构测定总吨位和净吨位，核定载重线和乘客定额。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>  在中国沿海水域从事钻探、开发作业的外国籍钻井船、移动式平台的所有人或者经营人，必须向船检局设置或者指定的船舶检验机构申请下列检验：<br>    （一）作业前检验；<br>    （二）作业期间的定期检验。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>  中国沿海水域内的移动式平台、浮船坞和其他大型设施进行拖带航行，起拖前必须向船检局设置的或者指定的船舶检验机构申请拖航检验。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>  中国籍船舶有下列情形之一的，船舶所有人或者经营人必须向船舶检验机构申请临时检验：<br>    （一）因发生事故，影响船舶适航性能的；<br>    （二）改变船舶证书所限定的用途或者航区的；<br>    （三）船舶检验机构签发的证书失效的；<br>    （四）海上交通安全或者环境保护主管机关责成检验的。<br>    在中国港口内的外国籍船舶，有前款（一）、（四）项所列情形之一的，必须向船检局设置或者指定的船舶检验机构申请临时检验。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>  下列中国籍船舶，必须向中国船级社申请入级检验：<br>    （一）从事国际航行的船舶；<br>    （二）在海上航行的乘客定额一百人以上的客船；<br>    （三）载重量一千吨以上的油船；<br>    （四）滚装船、液化气体运输船和散装化学品运输船；<br>    （五）船舶所有人或者经营人要求入级的其他船舶。<br><p></p><a name='14'><font class='TiaoNoA'>第十四条</font></a>  船舶经检验合格后，船舶检验机构应当按照规定签发相应的检验证书。<br><p class='zhang'>第三章  海上设施检验</p><br><p></p><a name='15'><font class='TiaoNoA'>第十五条</font></a>  海上设施的所有人或者经营人，必须向船检局设置或者指定的船舶检验机构申请下列检验，但是本条例第三十一条规定的除外：<br>    （一）建造或者改建海上设施时，申请建造检验；<br>    （二）使用中的海上设施，申请定期检验；<br>    （三）因发生事故影响海上设施安全性能的，申请临时检验；<br>    （四）海上交通安全或者环境保护主管机关责成检验的，申请临时检验。<br><p></p><a name='16'><font class='TiaoNoA'>第十六条</font></a>  海上设施经检验合格后，船舶检验机构应当按照规定签发相应的检验证书。<br><p class='zhang'>第四章  集装箱检验</p><br><p></p><a name='17'><font class='TiaoNoA'>第十七条</font></a>  集装箱的所有人或者经营人，必须向船检局设置或者指定的船舶检验机构申请下列检验：<br>    （一）制造集装箱时，申请制造检验；<br>    （二）使用中的集装箱，申请定期检验。<br><p></p><a name='18'><font class='TiaoNoA'>第十八条</font></a>  集装箱经检验合格后，船舶检验机构应当按照规定签发相应的检验证书。<br><p class='zhang'>第五章  检验管理</p><br><p></p><a name='19'><font class='TiaoNoA'>第十九条</font></a>  船舶、海上设施、集装箱的检验制度和技术规范，除本条例第三十一条规定的外，由船检局制订，经国务院交通主管部门批准后公布施行。<br><p></p><a name='20'><font class='TiaoNoA'>第二十条</font></a>  船舶检验机构的检验人员，必须具备相应的专业知识和检验技能，并经考核合格。<br><p></p><a name='21'><font class='TiaoNoA'>第二十一条</font></a>  检验人员执行检验任务或者对事故进行技术分析调查时，有关单位应当提供必要的条件。<br><p></p><a name='22'><font class='TiaoNoA'>第二十二条</font></a>  船舶检验机构实施检验，按照规定收取费用。收费办法由国务院交通主管部门会同国务院物价主管部门、国务院财政主管部门制定。<br><p></p><a name='23'><font class='TiaoNoA'>第二十三条</font></a>  当事人对船舶检验机构的检验结论有异议的，可以向上一级检验机构申请复验；对复验结论仍有异议的，可以向船检局提出再复验，由船检局组织技术专家组进行检验、评议，作出最终结论。<br><p></p><a name='24'><font class='TiaoNoA'>第二十四条</font></a>  任何单位和个人不得涂改、伪造检验证书，不得擅自更改船舶检验机构勘划的船舶载重线。<br><p></p><a name='25'><font class='TiaoNoA'>第二十五条</font></a>  关于外国船舶检验机构在中国境内设置常驻代表机构或者派驻检验人员的管理办法，由国务院交通主管部门制定。<br><p class='zhang'>第六章  罚则</p><br><p></p><a name='26'><font class='TiaoNoA'>第二十六条</font></a>  涂改检验证书、擅自更改船舶载重线或者以欺骗行为获取检验证书的，船检局或者其委托的检验机构有权撤销已签发的相应证书，并可以责令改正或者补办有关手续。<br><p></p><a name='27'><font class='TiaoNoA'>第二十七条</font></a>  伪造船舶检验证书或者擅自更改船舶载重线的，由有关行政主管机关给予通报批评，并可以处以相当于相应的检验费一倍至五倍的罚款；构成犯罪的，由司法机关依法追究刑事责任。<br><p></p><a name='28'><font class='TiaoNoA'>第二十八条</font></a>  船舶检验机构的检验人员滥用职权、徇私舞弊、玩忽职守、严重失职的，由所在单位或者上级机关给予行政处分或者撤销其检验资格；情节严重，构成犯罪的，由司法机关依法追究刑事责任。<br><p class='zhang'>第七章  附则</p><p></p><a name='29'><font class='TiaoNoA'>第二十九条</font></a>  本条例下列用语的定义：<br>    （一）船舶，是指各类排水或者非排水船、艇、水上飞机、潜水器和移动式平台。<br>    （二）海上设施，是指水上水下各种固定或者浮动建筑、装置和固定平台。<br>    （三）沿海水域，是指中华人民共和国沿海的港口、内水和领海以及国家管辖的一切其他海域。<br><p></p><a name='30'><font class='TiaoNoA'>第三十条</font></a>  除从事国际航行的渔业辅助船舶依照本条例进行检验外，其他渔业船舶的检验，由国务院渔业主管部门另行规定。<br><p></p><a name='31'><font class='TiaoNoA'>第三十一条</font></a>  海上设施中的海上石油天然气生产设施的检验，由国务院石油主管部门会同国务院交通主管部门另行规定。<br><p></p><a name='32'><font class='TiaoNoA'>第三十二条</font></a>  下列船舶不适用本条例：<br>    （一）军用舰艇、公安船艇和体育运动船艇；<br>    （二）按照船舶登记规定，不需要登记的船舶。<br><p></p><a name='33'><font class='TiaoNoA'>第三十三条</font></a>  本条例由交通部负责解释。<br><p></p><a name='34'><font class='TiaoNoA'>第三十四条</font></a>  本条例自发布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】[88]国税地字第028号<BR>&nbsp;&nbsp;【发布日期】1988-12-12<BR>&nbsp;&nbsp;【生效日期】1988-12-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务局关于对金融系统营业帐簿贴花问题的具体规定<br>
+</font></p><p align='center'><font class='STitle'>（1988年12月12日＜88＞国税地字第028号）</font></p>各省、自治区、直辖市税务局，各计划单列市税务局，加发南京、成都市税务局，海洋石油税务管理局各分局：<br>    根据《<a href=javascript:ROF(8054,0) class=alink>中华人民共和国印花税暂行条例</a>》及其施行细则的规定，结合金融系统财务会计核算的实际情况，现对银行所用营业帐簿征收印花税的问题，具体规定如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于营业帐簿与非营业帐簿划分的问题<br>    凡银行用以反映资金存贷经营活动、记载经营资金增减变化、核算经营成果的帐簿，如各种日记帐、明细帐和总帐都属于营业帐簿，应按照规定征收印花税。银行根据业务管理需要设置的各种登记簿，如空白重要凭证登记簿、有价单证登记簿、现金收付登记簿等，其记载的内容与资金活动无关，仅用于内部备查，属于非营业帐簿，均不贴花。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于营业帐簿如何贴花的问题<br>    依照<a href=javascript:ROF(8054,0) class=alink>印花税暂行条例</a>的规定，银行的帐簿应在启用时贴花。对资金总帐，按固定资产原值与自有流动资金总额的万分之五计税贴花。以后每年更换新帐时，应按帐面结转资金总额比已贴花资金总额增加的部分计税贴花。对其他帐簿，按件定额贴花五元。<br>    对银行使用的日常单页记载而按月、按季或按年装订成册的活页帐簿，如分户帐等，可在装订成册时，按册贴花五元。<br>    为了支持城乡储蓄事业的发展，对银行、城乡信用社开展储蓄业务设置的储蓄分户卡帐，暂免贴印花，对其他帐簿应按照规定贴花。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>关于使用计算机记帐如何贴花的问题<br>    银行使用计算机记帐，按照电子计算机会计核算的帐务组织和帐簿设置要求，输入计算机的核算资料（包括综合、明细核算资料），需要输出打印帐页、装订成册，具有帐簿的作用。对通过计算机输出打印帐页，装订帐册的，应按照规定贴花。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>关于自有流动资金的确定<br>    按照银行现行的资金供应和分配体制规定，下列资金属于银行自有流动资金，应按照规定缴纳印花税：<br>    （一）各级财政拨付的信贷基金和每年按一定比例从利润中提留的信贷基金；<br>    （二）实行股份制的金融组织，集资入股形成的信贷基金；<br>    （三）用于经营外汇资金业务的外汇信贷基金。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>关于纳税地点<br>    根据银行系统的机构设置，银行所用营业帐簿的印花税，由各级独立核算的行、处在其所在地缴纳。对记载固定资产原值与自有流动资金的帐簿，由各级行、处按其帐面记载的自有资金数额计税贴花；对附属核算的处、所使用的其他帐簿，由独立核算的行、处负责贴花。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

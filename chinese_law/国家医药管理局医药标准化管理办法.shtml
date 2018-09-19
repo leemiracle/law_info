@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家医药管理总局<BR>&nbsp;&nbsp;【发布文号】国家医药管理局令7号<BR>&nbsp;&nbsp;【发布日期】1991-04-12<BR>&nbsp;&nbsp;【生效日期】1991-10-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家医药管理局医药标准化管理办法<br>
+</font></p><p align='center'><font class='STitle'>（1991年4月12日国家医药管理局令7号发布）</font></p><p class='zhang'>第一章  总则</p><br><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  为了加强医药行业的标准化工作，促进医药行业技术进步，保证医疗器械、制药机械、药用中间体等医药产品质量，提高经济效益，根据《<a href=javascript:ROF(8581,0) class=alink>中华人民共和国标准化法</a>》、《<a href=javascript:ROF(10619,0) class=alink>中华人民共和国标准化法实施条例</a>》及国家技术监督局发布的《<a href=javascript:ROF(11307,0) class=alink>国家标准管理办法</a>》、《<a href=javascript:ROF(11308,0) class=alink>行业标准管理办法</a>》、《<a href=javascript:ROF(11309,0) class=alink>企业标准化管理办法</a>》，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  国家医药管理局主管医药行业标准化的管理工作，负责在全行业组织制定标准、贯彻执行标准，对标准的实施进行监督，指导和推动企业开展标准化工作。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  国家医药管理局归口管理行业标准的范围<br>    医疗器械类<br>    （一）医疗器械通用性标准和综合性标准；<br>    （二）普通外科与专科手术器械；<br>    （三）普通诊察与注射穿刺器具；<br>    （四）医用电子仪器设备；<br>    （五）医用光学仪器设备与内窥镜；<br>    （六）医用超声、激光、高频仪器设备；<br>    （七）理疗与中医仪器设备；<br>    （八）医用射线、高能和核设备；<br>    （九）医用生化仪器及化验设备；<br>    （十）体外循环设备、人工脏器及其功能辅助装置；<br>    （十一）医用卫生材料及用品；<br>    （十二）医用高分子制品（如：输血输液器、一次性注射器等医用高分子器具）；<br>    （十三）手术室设备；<br>    （十四）公共医疗设备。<br>    制药机械类<br>    （一）制药机械与设备；<br>    （二）药品包装机械；<br>    （三）制药用监测及药品检测仪器；<br>    医药包装类<br>    （一）药品包装用材料、容器及相关的生产设备（包括玻璃、塑料、橡胶、金属、胶囊等制品的生产设备）及药品包装检测、试验仪器；<br>    （二）药品包装标准；<br>    制药用原料、辅料类<br>    （一）制药用原料（中间体）；<br>    （二）制药用辅料；<br>    （三）食品添加剂；<br>    （四）饲料添加剂；<br>    医药工业环境保护类<br>    （一）产品生产过程中废弃污染物限量标准；<br>    （二）污染物排放标准；<br>    （三）新工艺技术的污染物控制及治理标准；<br>    医药能源管理类<br>    （一）医药行业能源管理标准；<br>    （二）产品用能标准；<br>    （三）节能技术标准；<br>    医药工业、商业质量管理标准类。<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  医药行业制定标准的主要内容<br>    （一）质量技术指标：<br>    （二）产品规格、生产工艺、检验规则、仓储保管，产品养护；<br>    （三）安全要求，通用试验方法，生产、销售、使用规范；<br>    （四）术语、符号、代号、通用技术语言要求。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  医药技术标准是从事生产和商品流通的共同技术依据，凡作为商品出售的医药产品，其安全要求，生产中应当统一的技术指标、方法都必须制定标准。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>  医药标准化的规划、计划、科学研究、机构建设、人员配备要纳入各级医药部门经济和社会发展计划。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>  制定医疗器械、制药机械、医药包装材料及容器、制药用原料（中间体）、辅料等医药标准要采用国际标准化组织（ＩＳＯ）和国际电工委员会（ＩＥＣ）的国际标准，以及工业发达国家的先进标准或先进样机。<br><p class='zhang'>第二章  标准分类</p><br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>  医药国家、行业标准分为强制性标准和推荐性标准。强制性标准主要是指由于技术性能、制造质量的原因会直接或间接危害人身安全的产品标准及指导正确生产、使用以保护生命安全的通用要求，重要的技术管理规范。其他标准是推荐性标准。<br>    下列产品或标准应当制定强制性标准：<br>    （一）代替和修复人体脏器、肢体的产品；直接参与人体生理功能的人工脏器；急救设备；用于治疗、诊断的医疗设备及器具；直接用于手术的设备和器具；计划生育器械；直接作用于人体的医疗器具和材料；重要的医用检查和辅助设备；<br>    （二）直接与药物接触的包装材料及容器；<br>    （三）直接与药物接触的机械设备、药检仪器、医药用压力容器；<br>    （四）医药工业环境保护标准；<br>    （五）节约能源、资源标准；<br>    （六）国家需要控制的产品通用技术要求；<br>    （七）法律、行政规章规定必须执行的标准。<br>    下列标准是推荐性标准：<br>    （一）技术指标高于国家、行业强制性标准的产品标准；<br>    （二）产品质量分等细则；<br>    （三）一般技术管理规范；<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>  进口或出口转为国内销售的产品，必须符合我国标准的要求。出口产品的技术要求由合同双方商定。<br><p class='zhang'>第三章  标准化工作的管理</p><br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>  国家医药管理局负责管理医药行业的标准化工作，履行下列职责：<br>    （一）组织贯彻国家有关标准化工作的法律、法规、方针、政策，制定医药行业标准化工作的具体方针、政策和管理办法；<br>    （二）组织编制和实施医药行业的标准化工作规划和年度计划；<br>    （三）审批、发布医药行业标准，审核医药国家标准（报批稿）并办理报批手续；<br>    （四）指导省、自治区、直辖市医药行政主管部门的标准化工作，协调和处理行业有关标准化工作问题；<br>    （五）组织实施标准；<br>    （六）对标准实施情况进行监督检查；<br>    （七）经国务院标准化行政主管部门授权，管理医药行业的产品质量认证工作；<br>    （八）组织重大医药新产品和引进项目的标准化审查工作；<br>    （九）组织管理与医药行业对口的国际标准化工作；<br>    （十）组织标准化科技成果奖评选，负责医药标准化工作的表彰奖励；<br>    （十一）管理医药标准化工作经费。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>  省、自治区、直辖市医药管理部门分工管理地方的医药标准化工作，履行下列职责：<br>    （一）贯彻国家、行业、地方标准化工作的法律、法规、方针、政策，并制定实施的具体办法；<br>    （二）制定地方医药标准化工作的规划和计划；<br>    （三）承担省、自治区、直辖市人民政府下达的草拟地方标准的任务；<br>    （四）组织本行业行政区域内的医药企业、事业单位实施标准；<br>    （五）对医药标准实施情况进行监督检查；<br>    （六）受理医药企业标准备案工作；<br>    （七）审查、监督地方科研产品执行强制性标准。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>  国家设立上海、辽宁、武汉、天津、广东、山东、北京、浙江、北医口腔医学院九个医疗器械标准化技术归口单位；设立天津制药用原料（中间体）、辅料标准化技术归口单位；设立上海药用包装标准化技术归口单位；设立天津制药机械标准化技术归口单位。全国、行业的标准化技术委员会按专业分工设立在各技术归口单位。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>  各归口单位履行下列职责：<br>    （一）宣传贯彻国家、行业标准化工作的法律、法规、政策；<br>    （二）负责提出本归口范围内的标准制定、修订及科研课题的长远规划和年度计划的建议；<br>    （三）承担医药国家、行业标准的制定、修订任务，进行医药标准化科学研究工作；<br>    （四）承担医药标准化业务的技术性指导，协助起草单位贯彻有关基础标准和相关标准；<br>    （五）承担医药标准化技术委员会秘书处的工作；<br>    （六）承担医药标准（报批稿）的整理校核、编辑修改工作，负责向国家医药管理局办理标准报批手续；<br>    （七）协助行政主管部门处理标准执行中的技术问题；<br>    （八）负责收集、研究和交流国内外医药标准情报资料工作，建立医药标准化技术档案；<br>    （九）组织医药标准化的宣传、普及、学术交流活动，协助行政主管部门培训标准化技术人员；<br><p></p><a name='14'><font class='TiaoNoA'>第十四条</font></a>  标准化工作人员属专业技术人员，其工作成果视同其他科技成果。标准化专业人员享受与其他科技人员同等的经济及技术职称待遇，工作成绩显著或做出重要贡献者，应予以奖励。<br><p class='zhang'>第四章  标准的制定</p><br><p></p><a name='15'><font class='TiaoNoA'>第十五条</font></a>  根据全国医药工业生产和科学技术的发展，适时地编制医药行业标准化五年规划和年度计划，医药标准化工作按年度计划实施。<br><p></p><a name='16'><font class='TiaoNoA'>第十六条</font></a>  制定标准项目由年度计划正式下达，负责起草单位应对所定标准的质量及其技术内容全面负责。按《标准化工作导则》（ＧＢ1）的要求起草标准征求意见稿，编写《编制说明》及有关附件，其内容应包括：<br>    （一）工作简况，包括任务来源、参加单位、起草人及所做主要工作；<br>    （二）标准编制的原则，确定主要内容（如技术指标、参数、公式、性能要求、试验办法、检验规则等）的论据（包括试验、统计数据）。修订标准应增列新旧标准水平的对比；<br>    （三）试验证验的分析、综述报告；经济效果、技术经济论证报告；<br>    （四）采用国际、国外先进标准的程度、水平对比，与国外样机测试数据对比；<br>    （五）与有关的现行法律、法规和强制性国家标准的关系；<br>    （六）重大分歧意见的处理依据和经过；<br>    （七）作为强制性或推荐性标准的建议；<br>    （八）贯彻标准的要求和措施建议；<br>    （九）废止现行有关标准的建议；<br>    （十）其他应予说明的事项。<br><p></p><a name='17'><font class='TiaoNoA'>第十七条</font></a>  标准征求意见稿及其有关附件，经起草单位负责人审查后，印发各有关单位征求意见。征求意见期限为两个月，逾期不复函者，按无异议处理。<br><p></p><a name='18'><font class='TiaoNoA'>第十八条</font></a>  负责起草单位对应征集意见进行归纳整理，填写《意见汇总处理表》（格式与<a href=javascript:ROF(11307,0) class=alink>国家标准管理办法</a>所列一致），同时附修改后的标准预审稿，技术委员会秘书处或技术归口单位审阅确定后，可以组纸正式审查。<br><p></p><a name='19'><font class='TiaoNoA'>第十九条</font></a>  国家、行业标准要经过预审和正式审查。审查会由各专业标准化技术委员会组织，没有标准化技术委员会的，由医药行政主管部门或委托技术归口单位组织。送审稿及有关资料应在审查会前一个月（函审须提前两个月）发送给参加审查单位。<br><p></p><a name='20'><font class='TiaoNoA'>第二十条</font></a>  会议审查标准，原则上应协商一致。如需表决，必须有不少于出席代表人数四分之三同意为通过。会议出席率和函审回函率应大于三分之二审查才有效。<br><p></p><a name='21'><font class='TiaoNoA'>第二十一条</font></a>  审定后的国家、行业标准由标准起草单位按ＧＢ1的要求修改、整理。报送相应专业标准化技术归口单位进行校核、修改、编辑整理。<br><p></p><a name='22'><font class='TiaoNoA'>第二十二条</font></a>  国家标准报送国家技术监督局审批、发布。行业标准由国家医药管理局审批发布。<br><p></p><a name='23'><font class='TiaoNoA'>第二十三条</font></a>  标准实施后，制定标准部门根据医药行业科学技术发展和经济建设的需要适时进行复查，以确定现行标准继续有效或者予以修订、废止。标准复查周期一般不超过五年。<br><p></p><a name='24'><font class='TiaoNoA'>第二十四条</font></a>  地方、企业医药标准的制定，应执行相应的有关规定。地方医药标准由地方标准化行政主管部门审批、编号、发布，企业医药标准送地方医药主管部门和地方标准化行政主管部门备案。<br><p class='zhang'>第五章  标准的实施与监督</p><br><p></p><a name='25'><font class='TiaoNoA'>第二十五条</font></a>  强制性标准一经批准发布，就是技术法规。各级医药主管部门、企业、事业单位都必须严格执行。任何单位不得擅自更改和降低标准。对因违反标准造成不良后果以致重大事故者，按《<a href=javascript:ROF(8581,0) class=alink>中华人民共和国标准化法</a>》第四章规定执行。<br><p></p><a name='26'><font class='TiaoNoA'>第二十六条</font></a>  国家、行业级医药产品质量检测机构承担贯彻标准的检测工作。受行政主管部门委托，处理有关产品是否符合标准的争议。<br><p></p><a name='27'><font class='TiaoNoA'>第二十七条</font></a>  贯彻强制性标准时，除涉及产品主要性能和会造成人身危害的技术要求以外，对执行其他技术要求确有困难的，要说明理由，提出暂缓执行期限，贯彻措施报告，经医药行政主管部门逐级同意。国家标准报请国家技术监督局批复，行业标准由国家医药管理局批复。<br><p></p><a name='28'><font class='TiaoNoA'>第二十八条</font></a>  医药科研新产品试制、鉴定前必须制定相应的技术标准，并进行标准化审查。未经标准化审查的新产品不准组织技术鉴定，不准组织批量生产。<br><p></p><a name='29'><font class='TiaoNoA'>第二十九条</font></a>  国家医药管理局负责全国医药行业标准实施的监督。<br>    （一）配合国务院标准化行政主管部门组织医药产品质量监督抽查工作；<br>    （二）编制全国医药行业标准实施的监督检查计划，并组织实施；<br>    （三）在组织医药行业评优、认证、发放生产许可证和企业升级中，负责产品符合标准情况的审查；<br>    （四）根据对标准实施进行监督检查的情况，定期或不定期发布标准实施监督检查公告，通报监督检查结果，对实施标准情况好的予以表扬，对实施标准情况不好的予以批评和限期改进。<br><p></p><a name='30'><font class='TiaoNoA'>第三十条</font></a>  医药行业首先在医药器械产品中实行质量和安全认证工作，各种安全标准是进行安全认证的技术依据。<br><p class='zhang'>第六章  附则</p><p></p><a name='31'><font class='TiaoNoA'>第三十一条</font></a>  凡与本办法不符的规章，均以本办法为准。<br><p></p><a name='32'><font class='TiaoNoA'>第三十二条</font></a>  本办法由国家医药管理局负责解释。<br><p></p><a name='33'><font class='TiaoNoA'>第三十三条</font></a>  本办法于一九九一年十月一日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

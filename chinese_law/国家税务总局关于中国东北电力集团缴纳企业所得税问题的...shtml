@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1995-06-09<BR>&nbsp;&nbsp;【生效日期】1995-06-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于中国东北电力集团缴纳企业所得税问题的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1995年6月9日）</font></p>内蒙古自治区国家税务局，辽宁、吉林、黑龙江省国家税务局，大连市国家税务局：<br>    中国东北电力集团是经国务院批准成立的56家大型企业集团之一，核心企业是中国东北电力集团公司。按国家税务总局国税发〔1994〕027号、国税发〔1995〕062号文件规定，经审核，同意东北电力集团核心层、100％控股的紧密层企业共89户（名单附后），1995年度企业所得税暂由核心企业在沈阳合并缴纳。<br>    东北电力集团投资的股份制、联营企业以及其他中央企业，东北电力集团所属的事业单位，均应按国家税务总局统一规定，以独立经济核算的企业为纳税人，税款就地缴入中央金库。<br><br>附件：          东北电力集团集中缴纳所得税的成员企业名单<br><br>      名      称                    详细地址<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>核心层企业：<br>        辽宁省<br>    1．沈阳电业局                  沈阳市和平区八经街94号<br>    2．抚顺电业局                  抚顺市西一路<br>    3．大连电业局                  大连市中山路103号<br>    4．本溪电业局                  本溪市平山区解放路中段<br>    5．丹东电业局                  丹东市振兴区五经街8号<br>    6．鞍山电业局                  鞍山市铁东区南胜利路33号<br>    7．营口电业局                  营口市站前区电业局1号<br>    8．盘锦电业局                  盘锦市兴隆台<br>    9．两锦电业局                  锦州市阜康街<br>    10．阜新电业局                阜新市经卫路17号<br>    11．朝阳电业局                朝阳市朝南大街三段13号<br>    12．辽阳电业局                辽阳市民主路四段<br>    13．铁岭电业局                铁岭市文化路<br>    14．辽宁发电厂                抚顺市露天区章党<br>    15．抚顺发电厂                抚顺市西五街19号<br>    16．北票发电厂                北票市建设路7号<br>    17．锦州发电厂                锦州区太和区<br>    18．阜新发电厂                阜新市红树路火电街10号<br>    19．清河发电厂                铁岭清河区<br>    20．朝阳发电厂                朝阳市龙城区马山街<br>    21．沈阳热电厂                沈阳市铁西区北二路<br>    22．大连发电总厂              大连市西安路40号<br>    23．桓仁发电厂                桓仁县泡子沿<br>    24．太平哨电厂                丹东市宽甸县<br>          吉林省<br>    25．吉林电业局                吉林市昌邑区重庆街9号<br>    26．长春电业局                长春市斯大林大街64号<br>    27．四平电业局                四平市中央西路64号<br>    28．通化电业局                通化市新华大街43号<br>    29．延边电业局                延吉市光明街14号<br>    30．白城电业局                白城市延庆北街1号<br>    31．辽源电业局                辽源市龙山区新兴街<br>    32．白山电业局                浑江市浑江大街182号<br>    33．吉林热电厂                吉林市龙潭区瑞金街1号<br>    34．长山热电厂                前郭县长山镇<br>    35．浑江发电厂                浑江市八道江区光明街<br>    36．二道江发电厂              通化市二道江区东卫路27号<br>    37．辽源发电厂                辽源市龙山区北寿大街110号<br>    38．榆树川发电厂              安图县榆树川<br>    39．长春热电一厂              长春市宽城区铁北二路31号<br>    40．白城发电厂                白城市铁东区电厂路56号<br>    41．龙井发电厂                龙井市安民街<br>    42．蛟河发电厂                蛟河市铁东街39号<br>    43．丰满发电厂                吉林市丰满街<br>    44．白山发电厂                桦甸县通江街<br>          黑龙江省<br>    45．佳木斯电业局              佳木斯保卫路286号<br>    46．哈尔滨电业局              哈尔滨市道里区买卖街197号<br>    47．齐齐哈尔电业局            齐齐哈尔市府路21号<br>    48．牡丹江电业局              牡丹江市太平路1号<br>    49．大庆电业局                大庆市大庆让区中央大街77号<br>    50．鸡西电业局                鸡西市兴国中路207号<br>    51．黑河电业局                北安市光明路<br>    52．绥化电业局                绥化县西直南路<br>    53．鹤岗电业局                鹤岗市工农区工厂路2号<br>    54．牡丹江发电厂              牡丹江市<br>    55．牡丹江第二发电厂          牡丹江市光荣街1号<br>    56．牡丹江水电发电总厂        牡丹江市<br>    57．哈尔滨发电厂              哈尔滨市南岗区文景街38号<br>    58．佳木斯发电厂              佳木斯市东风区工农路1号<br>    59．佳木斯第二发电厂          佳木斯市<br>    60．富拉尔在发电总厂          齐齐哈尔市富拉尔基区新电街<br>    61．新华发电厂                大庆市新华屯<br>    62．鸡西发电厂                鸡西市鸡冠区<br>    63．北安发电厂                北安市光明路<br>    64．双鸭山发电厂              双鸭山市友谊县七星镇<br>    65．哈尔滨热电厂              哈尔滨市动力区安通街1号<br>          内蒙古自治区<br>    66．赤峰电业局                赤峰市红山区<br>    67．哲里木电业局              内蒙通辽市新建大街48号<br>    68．元宝山发电厂              赤峰市元宝山区<br>    69．赤峰热电厂                赤峰市红山区青街东段<br>    70．通辽发电厂总厂            哲里木盟通辽市<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>紧密层企业（100％  控股）<br>        辽宁省<br>    71．沈阳电力机械总厂          沈阳市肇工街1段2号<br>    72．鞍山铁塔制造总厂          鞍山市灵小区<br>    73．朝阳电力设备厂            朝阳市桃山路109号<br>    74．阜新电力修造厂            阜新市东风路<br>    75．瓦房店电力线路器材厂      瓦房市岭东<br>    76．东北电力开发公司          沈阳市宁波路十八号<br>    77．东北电力科技开发公司      沈阳市宁波路十八号<br>    78．东北电力集团龙源电力科技开发公司      沈阳市宁波路十八号<br>    79．东北电力机械总公司        沈阳市宁波路十八号<br>    80．东北电力燃料总公司        沈阳市宁波路十八号<br>        吉林省<br>    81．长春发电设备总厂          长春二道河子区怀仁路11号<br>    82．四平电力线路器材厂        四平市铁东北一马路23号<br>    83．长春华电电力设备厂        长春市朝阳区湖光路9号<br>    84．吉林省电力工业局          长春市朝阳区湖光路9号<br>            燃料经销公司<br>    85．吉林省电力工业局农电局    长春市朝阳区湖光路9号<br>    86．吉林省电力机械制造总公司  长春市朝阳区湖光路9号<br>        黑龙江省<br>    87．哈尔滨电力设备制造厂      哈尔滨市动力区巴安里街1号<br>    88．黑龙江省电力线路器材厂    五常县五常镇<br>    89．黑龙江省电力焊条厂        哈尔滨市哈啊路零公里处<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

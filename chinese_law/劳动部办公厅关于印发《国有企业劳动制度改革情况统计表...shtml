@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动部<BR>&nbsp;&nbsp;【发布文号】劳办发[1993]14号<BR>&nbsp;&nbsp;【发布日期】1993-04-24<BR>&nbsp;&nbsp;【生效日期】1993-04-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 劳动部办公厅关于印发《国有企业劳动<br>
+ 制度改革情况统计表》的通知<br>
+</font></p><p align='center'><font class='STitle'>（劳办发〔1993〕14号）</font></p>各省、自治区、直辖市及计划单列市劳动（劳动人事）厅（局）：<br>    为了及时了解和掌握劳动、工资、社会保险三项制度改革的进展情况，为制定有关政策提供依据，现将修改后的《国有企业劳动制度改革情况统计表》印发给你们，从今年第二季度起使用此表，请认真组织实施，并按要求的时间上报。<br>    附件：国有企业劳动制度改革情况统计表<br><br>                                  劳动部办公厅  一九九三年四月二十四日<br><br>                       国有企业劳动制度改革情况统计表<br><br>    制表机关：劳动部  批准机关：国家统计局  文号：劳办发〔1993〕14号<br>    填报单位名称：  1993年  季<br><pre><font size=+1><br>───────────────┬──────────┬────┬──────<br>                              │ 地（市）、县（市） │ 企业数 │职工季末<br>                              │ 数（个）           │  （个）│人数（人）<br>────────────┬──┼──────────┼────┼──────<br>          甲            │序号│         1         │  2    │    3<br>────────────┼──┼──────────┼────┼──────<br>一、实行三项制度综合配  │ 1 │          －        │        │<br>     套改革             │    │                    │        │<br>二、企业用工制度改革    │    │                    │        │<br>    1．实行全员劳动合  │2  │                    │        │<br>         同制           │    │          －        │        │<br>    2．实行全员劳动合  │ 3 │          －        │        │<br>      同化管理          │    │                    │        │<br>三、企业工资制度改革    │    │                    │        │    <br>    岗位技能工资制试点  │ 4 │          －        │        │<br>四、社会保险制度改革    │    │                    │        │<br>    1．退休费计发办法  │    │                    │        │<br>     改革试点           │ 5 │                    │        │<br>    2．实行基本养老保  │ 6 │                    │        │<br>        险个人缴费      │    │                    │        │<br>    3．实行企业补充养老│    │                    │        │<br>        保险试点        │ 7 │                    │        │    <br>    4．实行工伤保险制度│ 8 │                    │        │<br>        改革            │    │                    │        │<br>    5．实行职工大病医疗│ 9 │                    │        │<br>        费用统筹        │    │                    │        │<br>    6．实行退休人员医疗│    │                    │    －  │      <br>        费用统筹        │10│        －          │        │<br>    7．缴纳待业保险金  │11│        －          │        │<br>    8．实际享受待业保险│12│                    │        │<br>        金              │    │                    │        │      <br>────────────┴──┴──────────┴────┴──────<br>    单位负责人签章  处（科）  负责人签章  填表人签章  报出日期：  年  月  日<br></font></pre><br>填表说明：<br>    1．本表由劳动部门填报：<br>    2．“实行三项制度综合配套改革”是指“全员劳动合同制”、“岗位技能工资制”、养老保险（以个人缴费为主）三项制度都已实行改革的企业；<br>    3．实行三项制度综合配套改革的企业除填写“一”栏外，所实行的各单项改革还须分别填入“二、三、四、”栏；<br>    4．“地（市）、县（市）数”是指地区、省辖市或县、地辖市，以县级为一个计量单位，如果地级市直属企业实行改革的就算一个县数；<br>    5．各省、自治区、直辖市和计划单列市劳动部门填报本表时，应包括由水利部、铁道部、邮电部、中国建筑工程总公司、中国石油天然气总公司、中国企业电力联合会实行养老保险系统统筹的数据；<br>    6．季度截止日期为每季度最后一个月的20日，上报时间为每季后5日前，通过数据远程通讯网络或传真报送。<br>                        <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

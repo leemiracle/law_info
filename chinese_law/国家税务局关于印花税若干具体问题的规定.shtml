@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】[88]国税地字第025号<BR>&nbsp;&nbsp;【发布日期】1988-12-12<BR>&nbsp;&nbsp;【生效日期】1988-12-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务局关于印花税若干具体问题的规定<br>
+</font></p><p align='center'><font class='STitle'>（1988年12月12日＜88＞国税地字第025号）</font></p>各省、自治区、直辖市税务局，各计划单列市税务局，加发南京、成都市税务局，海洋石油税务管理局各分局：<br>    根据《<a href=javascript:ROF(8054,0) class=alink>中华人民共和国印花税暂行条例</a>》及其施行细则的规定，结合各地反映的实际情况，现对印花税的若干具体问题规定如下：<br>    1、对由受托方提供原材料的加工、定作合同，如何贴花？<br>    由受托方提供原材料的加工、定作合同，凡在合同中分别记载加工费金额与原材料金额的，应分别按“加工承揽合同”、“购销合同”计税，两项税额相加数，即为合同应贴印花；合同中不划分加工费金额与原材料金额的，应按全部金额，依照“加工承揽合同”计税贴花。<br>    2、对商店、门市部的零星加工修理业务开具的修理单，是否贴花？<br>    对商店、门市部的零星加工修理业务开具的修理单，不贴印花。<br>    3、房地产管理部门与个人订立的租房合同，应否贴花？<br>    对房地产管理部门与个人订立的租房合同，凡用于生活居住的，暂免贴花；用于生产经营的，应按规定贴花。<br>    4、有些技术合同、租赁合同等，在签订时不能计算金额的，如何贴花？<br>    有些合同在签订时无法确定计税金额，如技术转让合同中的转让收入，是按销售收入的一定比例收取或是按实现利润分成的；财产租赁合同，只是规定了月（天）租金标准而却无租赁期限的，对这类合同，可在签订时先按定额五元贴花，以后结算时再按实际金额计税、补贴印花。<br>    5、对货物运输单、仓储保管单、财产保险单、银行借据等单据，是否贴花？<br>    对货物运输、仓储保管、财产保险、银行借款等，办理一项业务既书立合同，又开立单据的，只就合同贴花；凡不书立合同，只开立单据，以单据作为合同使用的，应按照规定贴花。<br>    6、运输部门承运快件行李、包裹开具的托运单据，是否贴花？<br>    对铁路、公路、航运、水路承运快件行李、包裹开具的托运单据，暂免贴花。<br>    7、不兑现或不按期兑现的合同，是否贴花？<br>    依照<a href=javascript:ROF(8054,0) class=alink>印花税暂行条例</a>规定，合同签订时即应贴花，履行完税手续。因此，不论合同是否兑现或能否按期兑现，都一律按照规定贴花。<br>    8、1988年10月1日开征印花税以前签订的合同，10月1日以后修改合同增加金额的，是否补贴印花？<br>    凡修改合同增加金额的，应就增加部分补贴印花。对印花税开征前签订的合同，开征后修改合同增加金额的，亦应按增加金额补贴印花。<br>    9、某些合同履行后，实际结算金额与合同所载金额不一致的，应否补贴印花？<br>    依照<a href=javascript:ROF(8054,0) class=alink>印花税暂行条例</a>规定，纳税人应在合同签订时按合同所载金额计税贴花。因此，对已履行并贴花的合同，发现实际结算金额与合同所载金额不一致的，一般不再补贴印花。<br>    10、企业租赁承包经营合同，是否贴花？<br>    企业与主管部门等签订的租赁承包经营合同，不属于财产租赁合同，不应贴花。<br>    11、企业、个人出租门店、柜台等签订的合同，是否贴花？<br>    企业、个人出租门店、柜台等签订的合同，属于财产租赁合同，应按照规定贴花。<br>    12、什么是副本视同正本使用？<br>    纳税人的已缴纳印花税凭证的正本遗失或毁损，而以副本替代的，即为副本视同正本使用，应另贴印花。<br>    13、如何确定纳税人的自有流动资金？    <br>    对纳税人的自有流动资金，应据其所适用的财务会计制度确定。适用国营企业财务会计制度的纳税人，其自有流动资金包括国家拨入的、企业税后利润补充的、其他单位投入以及集资入股形成的流动资金。<br>    适用其他财务会计制度的纳税人，其自有流动资金由各省、自治区、直辖市税务局按照上述原则具体确定。<br>    14、设置在其他部门、车间的明细分类帐，如何贴花？<br>    对采用一级核算形式的，只就财会部门设置的帐簿贴花；采用分级核算形式的，除财会部门的帐簿应贴花外，财会部门设置在其他部门和车间的明细分类帐，亦应按规定贴花。<br>    车间、门市部、仓库设置的不属于会计核算范围或虽属会计核算范围，但不记载金额的登记簿、统计簿、台帐等，不贴印花。<br>    15、对会计核算采用以表代帐的，应如何贴花？<br>    对日常用单页表式记载资金活动情况，以表代帐的，在未形成帐簿（册）前，暂不贴花，待装订成册时，按册贴花。<br>    16、对记载资金的帐簿、启用新帐未增加资金的，是否按定额贴花？<br>    凡是记载资金的帐簿，启用新帐时，资金未增加的，不再按件定额贴花。<br>    17、对有经营收入的事业单位使用的帐簿，应如何贴花？<br>    对有经营收入的事业单位，凡属由国家财政部门拨付事业经费、实行差额预算管理的单位，其记载经营业务的帐簿，按其他帐簿定额贴花，不记载经营业务的帐簿不贴花；凡属经费来源实行自收自支的单位，其营业帐簿，应对记载资金的帐簿和其他帐簿分别按规定贴花。<br>    18、跨地区经营的分支机构，其营业帐簿应如何贴花？<br>    跨地区经营的分支机构使用的营业帐簿，应由各分支机构在其所在地缴纳印花税。对上级单位核拨资金的分支机构，其记载资金的帐簿按核拨的帐面资金数额计税贴花，其他帐簿按定额贴花；对上级单位不核拨资金的分支机构，只就其他帐簿按定额贴花。为避免对同一资金重复计税贴花，上级单位记载资金的帐簿，应按扣除拨给下属机构资金数额后的其余部分计税贴花。<br>    19、对企业兼并的并入资金是否补贴印花？<br>    经企业主管部门批准的国营、集体企业兼并，对并入单位的资产，凡已按资金总额贴花的，接收单位对并入的资金不再补贴印花。<br>    20、对微利、亏损企业，可否减免税？<br>    对微利、亏损企业不能减免印花税。但是，对微型、亏损企业记载资金的帐簿，第一次贴花数额较大，难以承担的，经当地税务机关批准，可允许在三年内分次贴足印花。<br>    21、对营业帐簿，应在什么位置上贴花？<br>    在营业帐簿上贴印花税票，须在帐簿首页右上角粘贴，不准粘贴在帐夹上。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

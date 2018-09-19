@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】工商行政管理总局<BR>&nbsp;&nbsp;【发布文号】工商企字[1993]第322号<BR>&nbsp;&nbsp;【发布日期】1993-10-19<BR>&nbsp;&nbsp;【生效日期】1993-10-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家工商行政管理管理局关于加强对会计师事务所登记和监督管理的通知<br>
+ </font></p><p align='center'><font class='STitle'>（工商企字＜1993＞第322号）</font></p>各省、自治区、直辖市及计划单列市工商行政管理局：<br>    为加强对会计师事务所的监督管理，促进其健康发展，充分发挥其在经济体制改革中的作用，现作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>成立会计师事务所，应报财政主管机关审查批准，并经工商行政管理机关核准登记注册。未经核准登记，不得以会计师事务所名义从事活动。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>各级工商行政管理机关，要严格按照有关企业法人登记管理的规定，对会计师事务所进行登记管理。对不符合登记条件的一律不予登记。会计师事务所除从事会计业务外，不得从事其它与会计业务无关的经营活动。会计师事务所的专职从业人员必须在8人以上，其中有注册会计师资格的不得少于5人。会计师事务所要有固定的办公地点，未经核准变更登记不得擅自迁址。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>会计师事务所设立分支机构，应按企业法人设立分支机构的有关规定进行登记，一般应从严控制。在登记时应提交财政主管机关批准成立分支机构的文件。分支机构应当有具有注册会计师资格的会计人员和其他专职人员。不具备企业法人资格的分所，不得以自己的名义受理会计业务、与委托人签订委托协议或出具审计及验资报告；其人、财、物由设立分所的会计师事务所统一管理，并承担相应的责任。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>会计师事务所出具的有关财务证明文件必须真实准确。对于提供虚假证明的，工商行政管理机关应予制止，同时通报有关机关或部门，并可根据《<a href=javascript:ROF(7852,0) class=alink>企业法人登记管理条例</a>》第<a href=javascript:ROF(7852,30) class=alink>三十</a>条第（六）款和《<a href=javascript:ROF(36313,0) class=alink>企业法人登记管理条例施行细则</a>》第<a href=javascript:ROF(36313,66) class=alink>六十六</a>条第四款、第<a href=javascript:ROF(36313,67) class=alink>六十七</a>条的规定对会计师事务所和有关单位进行处理。对于经教育、制止和处理仍不改正的，可按拒绝监督检查的行为进行处罚，直至吊销其营业执照。对于提供虚假证明，情节严重，造成恶劣影响的，应吊销其营业执照。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各级工商行政管理机关应加强对会计师事务所的年度检验。对不按期参加年检，或者长期不开展经营活动的会计师事务所，应依据《<a href=javascript:ROF(7852,0) class=alink>企业法人登记管理条例</a>》及《<a href=javascript:ROF(36313,0) class=alink>企业法人登记管理条例施行细则</a>》的有关规定处理。对于以收取分支机构管理费为收入，不直接从事会计业务的会计师事务所，应限期改正。<br>    按照财政部规定，通过清理整顿，凡是没有列入清册的会计师事务所，一律不得继续从事会计业务，工商行政管理部门应限期要求其办理注销登记；逾期不办的，应吊销其营业执照。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>本通过下发前已经设立的不符合本通知要求的会计师事务所，应按本通知的精神进行整顿和纠正。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>会计师事务所的主办单位，应加强对所属会计师事务所的管理、监督，并协助有关行政机关做好监督管理工作。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>有会计业务的审计事务所、资产评估机构，参照本通知的有关规定执行。<br>                                                一九九三年十月十九日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

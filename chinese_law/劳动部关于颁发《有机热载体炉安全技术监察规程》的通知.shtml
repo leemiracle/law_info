@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动部<BR>&nbsp;&nbsp;【发布文号】劳部发[1993]356号<BR>&nbsp;&nbsp;【发布日期】1993-11-28<BR>&nbsp;&nbsp;【生效日期】1994-05-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>劳动部关于颁发《有机热载体炉安全技术监察规程》的通知<br>
+ </font></p><p align='center'><font class='STitle'>（劳部发〔1993〕356号）</font></p>各省、自治区、直辖市劳动（劳动人事）厅（局）：<br>    近几年来，有机热载体炉在我国使用的范围越来越广，数量不断增多，因泄漏引起的火灾事故多有发生。根据《<a href=javascript:ROF(2229,0) class=alink>锅炉压力容器安全监察暂行条例</a>》的规定，为了保证有机热载体炉安全运行，在调研和广泛征求意见的基础上，制定了《有机热载体炉安全技术监察规程》，现颁发实施。<br>    各有关设计、制造、使用等单位应认真学习并贯彻执行本规程。各级劳动部门应负责监督本规程的实施。在执行过程中遇有问题请及时告我部职业安全卫生与锅炉压力容器监察局。<br><br>                                            一九九三年十一月二十八日<br><br>                      有机热载体炉安全技术监察规程<br><br><p class='zhang'>                            第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第1条</font></a>  为了提高有机热载体炉设计、制造、使用等方面安全技术管理水平，保证有机热载体炉安全运行，根据《<a href=javascript:ROF(2229,0) class=alink>锅炉压力容器安全监察暂行条例</a>》的要求，制订本规程。<br><p></p><a name='2'><font class='TiaoNoA'>  第2条</font></a>  本规程适用于固定式的有机热载体气相炉（以下简称气相炉）和有机热载体液相炉（以下简称液相炉）。<br>    本规程也适用于以电加热的有机热载体炉，但电器加热部分除外。<br><p></p><a name='3'><font class='TiaoNoA'>  第3条</font></a>  本规程规定了有机热载体炉的特殊要求。有机热载体炉的设计、制造、安装、使用、检验、修理、改造等环节应符合《<a href=javascript:ROF(2229,0) class=alink>锅炉压力容器安全监察暂行条例</a>》和本规程的规定。此外，气相炉还应符合《<a href=javascript:ROF(6086,0) class=alink>蒸汽锅炉安全技术监察规程</a>》有关要求；液相炉还应符合《热水锅炉安全技术监察规程》有关要求。<br>    各级劳动行政主管部门负责监督本规程的执行。<br><p></p><a name='4'><font class='TiaoNoA'>  第4条</font></a>  生产有机热载体炉的单位，须持有有机热载体炉专用制造许可证。<br><br><p class='zhang'>                       第二章  结构与技术要求</p><br><br><p></p><a name='5'><font class='TiaoNoA'>  第5条</font></a>  有机热载体炉的强度应按照《水管锅炉受压元件强度计算》标准、《锅壳式锅炉受压元件强度计算》标准进行计算，其设计计算压力应为工作压力加0．3ＭＰａ，且不低于0．59ＭＰａ。<br><p></p><a name='6'><font class='TiaoNoA'>  第6条</font></a>  受压元件焊接与探伤应符合下列要求：<br>    1．管子与锅筒、集箱、管道应采用焊接连接。<br>    2．锅筒筒体的纵缝、环缝和封头拼接缝必须采用埋弧自动焊，当受工装限制时锅筒最后一道环缝的内侧允许采用手工电弧焊。<br>    3．有机热载体炉的受热面管的对接焊缝应采用气体保护焊。<br>    4．锅筒的纵焊缝、封头的拼接缝应进行100％的射线探伤或100％超声波探伤加至少25％的射线探伤；受热面管的对接焊缝应进行射线探伤抽查，其数量为：辐射段不低于接头数的10％，对流段不低于5％。抽查不合格时，应以双倍数量进行复查。<br>    5．批量生产的气相炉的锅筒每10台做一块（不足10台也做一块）纵缝焊接检查试板；液相炉的锅筒及管子、管道对接接头可免做焊接检查试板。<br>    有机热载体炉的<a href=javascript:ROF(36533,0) class=alink>焊接工艺评定</a>应按《<a href=javascript:ROF(6086,0) class=alink>蒸汽锅炉安全技术监察规程</a>》的规定执行。<br><p></p><a name='7'><font class='TiaoNoA'>  第7条</font></a>  受压元件必须采用法兰连接时，应采用公称压力（ＰＮ）不小于1．6ＭＰａ的榫槽式法兰或平焊钢法兰，其垫片应采用金属网缠绕石墨垫片或膨胀石墨复合垫片。<br><p></p><a name='8'><font class='TiaoNoA'>  第8条</font></a>  有机热载体炉的受压元件以及管道附件不得采用铸铁或有色金属制造。<br><p></p><a name='9'><font class='TiaoNoA'>  第9条</font></a>  为了防止液相炉中有机热载体过热分解与积碳，必须保证受热面管中有机热载体的流速，辐射受热面不低于2ｍ／ｓ，对流受热面不低于1．5ｍ／ｓ。对于卧式外燃液相炉的锅筒，应采取可靠措施，以防止锅筒过热和有机热载体过早老化。<br><p></p><a name='10'><font class='TiaoNoA'>  第10条</font></a>  带锅筒气相炉宜采用水管式锅炉结构，其下降管截面之和与上升管截面之和的比值、引出的管截面之和与上升管截面之和的比值均不应低于40％，否则应进行流体动力计算。<br><p></p><a name='11'><font class='TiaoNoA'>  第11条</font></a>  有机热载体的供货单位应提供有机热载体可靠的物理数据和化学性能资料，如最高使用温度、粘度、闪点、残碳、酸值等。<br><p></p><a name='12'><font class='TiaoNoA'>  第12条</font></a>  有机热载体炉设计和运行时，有机热载体炉出口处有机热载体的温度不得超过有机热载体最高使用温度。<br><p></p><a name='13'><font class='TiaoNoA'>  第13条</font></a>  有机热载体炉及回流管线结构应保证有机热载体自由流动以及有利于有机热载体从锅炉中排出。<br><p></p><a name='14'><font class='TiaoNoA'>  第14条</font></a>  在锅筒和管网最低处应装设排污装置，排污管应接到安全地点。<br><p></p><a name='15'><font class='TiaoNoA'>  第15条</font></a>  整装出厂的有机热载体炉，在制造厂应按1．5倍工作压力进行水压试验。对于气相炉还应按工作压力或系统循环压力进行气密性试验，以检查有机热载炉非焊接部位如法兰连接处、入孔、手孔、检查孔等部位密封情况。<br>    水压试验后应将水分排净，气密试验以氮气为宜。<br>    <br><p class='zhang'>                       第三章  安全附件与仪表</p><br><br><p></p><a name='16'><font class='TiaoNoA'>  第16条</font></a>  安全阀应符合下列要求：<br>    1．每台气相炉至少应安装两只不带手柄的全启式弹簧式安全阀。安全阀与筒体连接的短管上应串连一只爆破片。<br>    无论是采用注入式或拍吸式强制循环的液相炉，液相炉本体上可不装安全阀。<br>    2．气相炉安全阀和爆破片爆破时的排放能力，应不小于气相炉额定蒸发量。<br>    3．气相炉安全阀开启时排出的有机热载体汽化物应通过导管进入用水冷却的面式冷凝器，再接入单独的有机热载体储存罐，以便脱水净化。<br>    冷凝器的背压应不超过0．03ＭＰａ。<br>    4．安全阀至少每年一次从气相炉上拆下进行检验，检验定压后应进行铅封。检验结果应存入有机热载体炉技术档案。<br>    5．爆破片与锅筒或集箱连接的短管上应安装一只截止阀，在气相炉运行时截止阀必须处于全开位置。<br><p></p><a name='17'><font class='TiaoNoA'>  第17条</font></a>  压力表应符合下列要求：<br>    1．气相炉的锅筒和出口集箱、液相炉进出口管道上应装压力表。<br>    2．压力表至少每年校验一次，校验后应进行铅封。<br>    3．压力表与锅筒、集箱、管道采用存液弯管连接，存液弯管存液上方应装截止阀或针形阀。<br><p></p><a name='18'><font class='TiaoNoA'>  第18条</font></a>  液面计应符合下列要求：<br>    1．气相炉的锅筒上应装两只彼此独立的液面计；液相炉的膨胀器应安装一只液面计。<br>    2．有机热载体炉上不允许采用玻璃管式液面计，应采用板式液面计。<br>    3．液面计的放液管必须接到储存罐上，放液管上应装有放液旋塞。有机热载体炉运行时，放液旋塞必须处于关闭状态。<br><p></p><a name='19'><font class='TiaoNoA'>  第19条</font></a>  有机热载体炉出口的气相或液相有机热载体输送管道上，在截止阀前靠近有机热载体炉的地方应安装温度显示和记录仪表；有机热载体炉热功率不超过2．8ＭＷ时，可只装温度显示仪表。在液相炉回路的入口处应装温度显示仪表。<br><p></p><a name='20'><font class='TiaoNoA'>  第20条</font></a>  自动控制和自动保护装置应符合下列要求：<br>    1．液相炉有机热载体的出口处，应装有超温报警和差压报警装置，气相炉有机热载体的出口处应装有超压报警装置。<br>    2．采用液体或气体燃料的有机热载体炉，应有下列装置：<br>    （1）根据有机热载体炉出口有机热载体温度和蒸发量变化而自动调节燃烧器燃烧负荷的装置。<br>    （2）热功率≥2．8ＭＷ时，必须装有点火程序控制装置。<br>    （3）炉膛熄火保护装置。<br>    3．有机热载体炉应装有自动调节保护装置，并在下列情况时应能自动停炉：<br>    （1）液位下降到低于极限位置时；<br>    （2）有机热载体炉出口热载体温度超过允许值时；<br>    （3）有机热载体炉出口热载体压力超过允许值时；<br>    （4）循环泵停止运转时。<br>  <br><p class='zhang'>                       第四章  辅助装置和阀门</p><br><br><p></p><a name='21'><font class='TiaoNoA'>  第21条</font></a>  膨胀器应符合下列要求：<br>    1．液相炉和管网系统应装有接收受热膨胀有机热载体的膨胀器。膨胀器可以是封闭式的或是敞口式的。<br>    2．膨胀器的调节容积应不小于液相炉和管网系统中有机热载体在工作温度下因受热膨胀而增加的容积的1．3倍。<br>    3．封闭式的膨胀器上应装压力表和安全泄放装置。泄放物应通过泄放管导入储存罐。  <br>    膨胀器上应装有溢流管，溢流管应接到储存罐上。溢流管的直径与膨胀管直径一样，且溢流管上不准安装阀门。<br>    4．膨胀器一般不得安装在有机热载体炉的正上方，以防因膨胀而喷出的有机热载体引起火灾。膨胀器的底部与有机热载体炉顶部的垂直距离应不小于1．5ｍ。<br>    5．锅炉管网系统与膨胀器连接的膨胀管应符合下列要求：<br>    （1）膨胀管需要转弯时，其弯曲角度不宜小于120°；<br>    （2）膨胀管上不得安装阀门，且不得有缩颈部分；<br>    （3）膨胀管的直径应不小于下列数值：<br>    额定热功率（ＭＷ）：0．7  1．4  2．8  5．6  11．2  22．4  33．6<br>    公称直径ＤＮ（ｍｍ）：32  40  50  70  80  100  150<br>    6．膨胀器和膨胀管不得采取保温措施，膨胀器内的有机热载体的温度不应超过70℃。<br><p></p><a name='22'><font class='TiaoNoA'>  第22条</font></a>  有机热载体储存罐应尽可能放在加热系统最低位置，以便放净锅炉中的有机热载体。储存罐与有机热载体炉之间应用隔墙隔开。储存罐应符合下列要求：<br>    1．储存罐的容积应不小于有机热载体炉中有机热载体总量的1．2倍。<br>    2．储存罐应装一只液面计，储存罐上部应装有排气管，排气管应接到安全地点，其直径应比膨胀管（按本规程第21条规定的系列）大一档次。<br><p></p><a name='23'><font class='TiaoNoA'>  第23条</font></a>  有机热载体炉的执载体进出口管道上均应安装截止阀，当泵与锅炉之间距离不超过5ｍ时，在锅炉进口处可不装截止阀。阀门连接处应选用不泄漏型的密封材料，不准采用石棉制品。<br><p></p><a name='24'><font class='TiaoNoA'>  第24条</font></a>  有机热载体炉及管网最高处应有必要数量的排气阀，以便有机热载体炉在运行中定期排放形成的气体产物。排汽阀应符合下列要求：<br>    1．排气阀的形状位置应便于操作。<br>    2．排气阀的排气管应与固定容器相连，液相炉的排气管可直接与大气相通。固定容器、排气管口与明火热源的距离应不小于5ｍ。<br><p></p><a name='25'><font class='TiaoNoA'>  第25条</font></a>  单机运行的气相炉，每台炉一般应安装两台供给泵，一台为工作泵，一台为备用泵。对于冷凝液可以自动回流的气相炉，可不装供给泵。<br>    液相炉的循环系统至少安装两台电动循环泵，一台为工作泵，一台为备用泵。循环泵的流量与扬程的选取应保证有机热载体在有机热载体炉中必要的流速。<br>    停电频繁的地区，锅炉房内应有备用电源或采取其他措施，以保证泵的正常运转。<br>    在循环泵的入口处应装过滤器，且应定期清理过滤器。<br><br><p class='zhang'>                          第五章  使用管理</p><br><br><p></p><a name='26'><font class='TiaoNoA'>  第26条</font></a>  有机热载体炉的操作人员，应经过有机热载体炉方面知识的培训，并经当地锅炉安全监察机构考核发证。<br><p></p><a name='27'><font class='TiaoNoA'>  第27条</font></a>  有机热载体炉使用单位，必须制订有机热载体炉使用操作规程。操作规程应包括有机热载体炉启动、运行、停炉、紧急停炉等操作方法和应注意事项。操作人员必须按操作规程进行操作。<br><p></p><a name='28'><font class='TiaoNoA'>  第28条</font></a>  有机热载体炉范围内的管道应采取保温措施，但法兰连接处不宜采用包覆措施。<br><p></p><a name='29'><font class='TiaoNoA'>  第29条</font></a>  有机热载体炉在点火升压过程中，应多次打开锅炉上的排气阀，以排净空气、水及有机热载体混合蒸汽。对于气相炉，当有机热载体的温度与压力符合对应关系后，应停止排气，进入正常运行。<br><p></p><a name='30'><font class='TiaoNoA'>  第30条</font></a>  有机热载体必须经过脱水后方可使用。不同的有机热载体不宜混合使用。需要混合使用时，混用前应由有机热载体生产单位提供混用条件和要求。<br><p></p><a name='31'><font class='TiaoNoA'>  第31条</font></a>  使用中的有机热载体每年应对其残碳、酸值、粘度、闪点进行分析，当有两项分析不合格或热载体分解成份的含量超过10％时，应更换热载体或对热载体进行再生。<br><p></p><a name='32'><font class='TiaoNoA'>  第32条</font></a>  有机热载体炉受热面应定期进行检查和清洗，应将检查和清洗情况存入锅炉技术档案。    <br><p></p><a name='33'><font class='TiaoNoA'>  第33条</font></a>  有机热载体炉安装或重大修理后，在投入运行前应由使用单位和安装或修理单位进行1．5倍工作压力的液压试验，对于气相炉应按第15条进行气密性试验。合格后才能投入运行。液压试验与气密试验时，当地锅炉安全监察机构应派人参加。<br><p></p><a name='34'><font class='TiaoNoA'>  第34条</font></a>  锅炉房应有有效的防火和灭火措施。<br><br><p class='zhang'>                            第六章  附则</p><br><p></p><a name='35'><font class='TiaoNoA'>  第35条</font></a>  有机热载体炉有关规则、规定低于规程要求的，应以本规程为准。<br><p></p><a name='36'><font class='TiaoNoA'>  第36条</font></a>  本规程由劳动部负责解释。<br><p></p><a name='37'><font class='TiaoNoA'>  第37条</font></a>  本规程自一九九四年五月一日开始实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

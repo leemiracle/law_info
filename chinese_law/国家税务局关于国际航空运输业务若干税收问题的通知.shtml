@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[1993]第097号<BR>&nbsp;&nbsp;【发布日期】1993-05-14<BR>&nbsp;&nbsp;【生效日期】1993-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 国家税务局关于国际航空运输业务若干税收问题的通知<br>
+</font></p><p align='center'><font class='STitle'>（1993年5月14日国税发〔1993〕第097号）</font></p>各省、自治区、直辖市税务局，各计划单列市税务局：<br>    为加强对经营国际航空运输业务的外商投资企业、外国航空公司及其驻华办事处人员的税收管理工作，经研究，现对有关问题明确如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于国际航空运输业务收入、利润及驻华办事处人员报酬征免税的问题<br>    外商投资企业、外国航空公司从事国际航空运输业务从我国取得的收入、利润，以及外国航空公司驻华办事处人员的工资、薪金和其它类似报酬，应按我国现行税法及有关规定纳税。<br>    凡我国对外签署的协议已明确减税、免税的，应按协议规定执行。本条所称协议，是指避免双重征税协定、互免航空运输业务收入税收协定和民用航空运输协定及其它有关的协定、换文等。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于国际航空运输收入的确定问题<br>    外商投资企业、外国航空公司经营国际航空运输业务，仅就从我国境内始发旅客、货物、邮件的收入总额（以下称“航空运输收入”）征收工商统一税及其附加。<br>    对于不组成企业法人的中外合作经营企业或外国航空公司经营联程航空运输，应依据从我国境内始发旅客、货物、邮件的第一承运人仓单，计算其航空运输收入。<br>    航空运输收入，系指每次从我国境内始发旅客、货物、邮件的客票收入、货运收入及逾重行李收入等的总和，不得扣除机场使用费等项支出。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>关于外商投资企业经营国际航空运输业务的税收问题<br>    外商投资企业从事国际航空运输业务所取得的航空运输收入，应按2．5％的税率征收工商统一税，并随其应纳税额征收1％的地方附加。<br>    总机构设在我国境内的外商投资企业从事国际航空运输，其从境内外取得的收入总额减除成本、费用后的余额，作为应纳税所得额，征收企业所得税及地方所得税。企业所得税及地方所得税的税率，应按税法及有关规定，以外商投资企业所在地适用的税率为准。<br>    外商投资企业不能提供经营国际航空运输业务完整、准确的成本费用凭证，不能正确计算应纳税所得额的，当地税务机关可按不低于5％的利润水平核定其利润率，并计算应纳税所得额。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>关于外国航空公司经营国际航空运输业务的税收问题<br>    外国航空公司经营国际航空运输业务所取得的航空运输收入，应按2．5％的税率征收工商统一税，并随其应纳税额征收1％的地方附加。在计算所得税时，外国航空公司以其航空运输收入的5％作为应纳税所得额，分别按照30％和3％的税率征收企业所得税及地方所得税。为简化计征，对外国航空公司的航空运输收入，可统一按4．175％的综合计征率征税。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>关于不组成企业法人的中外合作经营企业经营国际航空运输业务的税收问题<br>    对于不组成企业法人的中外合作经营企业经营国际航空运输业务所取得的收入、利润，应分别情况，采用不同的征税方法。<br>    （一）如合作经营合同规定，中、外双方分取运输收入的，除中方分得的运输收入，应按其所适用的税收法规征税外，对外方分得的航空运输收入，应按2．5％的税率征收工商统一税，并随其应纳税额征收1％的地方附加；对外方取得的利润应按<a href=javascript:ROF(12610,0) class=alink>外商投资企业和外国企业所得税法</a>计征所得税。<br>    （二）如合作经营合同规定，中、外双方分取运输利润的，应对合作经营的航空运输收入，按2．5％的税率征收工商统一税，并随其应纳税额征收1％的地方附加。对中、外双方各自分得的利润，应分别依照国家有关税收法律、法规，计算征收所得税。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>关于采用包机形式从事国际航空运输业务的税收问题<br>    对于采用包机形式从事国际航空运输业务的收入，应分别情况按以下规定征税：<br>    （一）外商投资企业采用包机形式从事国际航空运输业务所取得的航空运输收入，应按2．5％的税率征收工商统一税，并随其应纳税额征收1％的地方附加；其运输收入总额减除包机费及有关经营费用后的余额，作为企业应纳税所得额，征收企业所得税、地方所得税。如果外商投资企业兼营包机业务从事国际航空运输，其生产经营所得及国际航空运输所得，应汇总计算缴纳企业所得税、地方所得税。<br>    （二）不组成企业法人的合作经营企业或外国航空公司采用包机形式从事国际航空运输所取得的航空运输收入，应按2．5％的税率征收工商统一税，并随其应纳税额征收1％的地方附加；其应纳税收入额的5％，应作为应纳税所得额，征收企业所得税、地方所得税。<br>    （三）外商投资企业包机从事国际航空运输，其租用外国航空公司飞机而支付的包机费，除我国对外签署的协议中另有规定外，应作为发包方收取的租金按照<a href=javascript:ROF(12610,0) class=alink>外商投资企业和外国企业所得税法</a>的规定征税。<br>    （四）外商投资企业或外国航空公司，在采用核定利润率的方法确定应纳税所得额，或采用综合计征率的方法对国际航空运输收入总额征税时，对包机支付给发包方的包机费，在计算征税时不再予以扣除。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>关于外国航空公司支付的佣金、手续费问题<br>    外国航空公司委托中方代售机票而向中方支付的佣金、手续费等，在按综合计征率的方法征税时，不得从航空运输收入中扣除。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>关于纳税期限问题<br>  <a href=javascript:ROF(337,0) class=alink>工商统一税条例</a>、<a href=javascript:ROF(12610,0) class=alink>外商投资企业和外国企业所得税法</a>对纳税期限规定不同，为便于征管，对按4．175％的综合计征率征税的外国企业，经企业申请，当地税务机关批准，在按季预缴企业所得税及地方所得税时，可在季度终了后十五日内，同时按季缴纳工商统一税及其附加。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>关于外国航空公司及其驻华办事处人员纳税地点问题<br>    为加强对外国航空公司及其驻华办事处人员的税务管理，外国航空公司驻华办事处应在所在地，向当地税务机关办理税务登记，并就地申报纳税。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>关于委托代征问题<br>    外国航空公司未在我国境内设立驻华办事处，或虽设有驻华办事处但无自办业务权的，对其取得应在我国纳税的国际航空运输业务收入、利润，当地税务机关可委托中方协议伙伴或代售机票单位代征应纳税款。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>关于香港、澳门、台湾的航空公司从内地取得运输收入征税问题<br>    香港、澳门、台湾的航空公司从内地取得的航空运输收入，利润，以及派驻办事处人员工资、薪金等报酬征税问题，除另有协议规定外，应比照本通知有关规定办理。<br><p></p><a name='12'><font class='TiaoNoA'>  十二、</font></a>本通知自1993年7月1日起执行。凡过去有关国际航空运输业务收入征税的规定与本通知不一致的，均以本通知为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

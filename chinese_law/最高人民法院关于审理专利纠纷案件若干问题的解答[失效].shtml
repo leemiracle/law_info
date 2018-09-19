@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民法院<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1992-12-31<BR>&nbsp;&nbsp;【生效日期】1992-12-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>最高人民法院关于审理专利纠纷案件若干问题的解答<br>
+</font></p><p align='center'><font class='STitle'>（1992年12月31日最高人民法院发布）</font></p><br><p class='zhang'>一、关于专利权属纠纷案件的受理问题</p><br>    专利权属纠纷案件，是指在发明创造被授予专利权之后，公民之间、法人之间、以及公民与法人之间就谁应当是真正的专利权人所发生的确权纠纷案件，这类案件人民法院应当依法受理；由各省、自治区、直辖市人民政府所在地的中级人民法院、经济特区的中级人民法院、经济特区的中级人民法院和经最高人民法院同意的开放城市的中级人民法院作为第一审法院，各省、自治区、直辖市高级人民法院作为第二审法院。<br>    人民法院对专利权属纠纷案件经过审理，判决变更专利权属的，应当将判决书副本抄送中国专利局；当事人凭人民法院的生效判决书，向中国专利局申请变更著录项目。<br><p class='zhang'>二、关于在发明专利申请日至公布日期间，是否给予专利保护的问题</p><br>    在发明专利申请日至公布日期间，<a href=javascript:ROF(15736,0) class=alink>专利法</a>对提出专利申请的技术未规定给予保护。在此期间，他人将独立研制出的与申请专利的技术相同的发明付诸实施或者转让的，不承担侵权责任；但是，专利申请公布以后，继续使用该项技术的，依据<a href=javascript:ROF(15736,0) class=alink>专利法</a>规定，则应支付适当的费用。<br><p class='zhang'>三、关于专利侵权诉讼因侵权人请求宣告专利权无效而中止审理的问题</p><br>    在人民法院审理专利侵权案件中，经常发生侵权人利用请求宣告专利权无效故意拖延诉令，继续实施侵权行为。为了有效地依法保护专利权人的合法权益，避免侵权损害的扩大，特规定如下：<br><p></p><a name='1'><font class='TiaoNoA'>（一）</font></a>人民法院受理实用新型或外观设计专利侵权案件后，在向被告送达起诉状副本时，应当通知被告如欲请求宣告该项专利权无效，须在答辩期间内向专利复审委员会提出。<br>    被告在答辩期间内请求宣告该项专利无效的，人民法院应当中止诉讼。专利权人提出财产保全申请并提供担保的，人民法院认为必要时，在裁定中止诉讼的同时责令被告停止侵权行为或者采取其他制止侵权损害继续扩大的措施。<br>    被告在答辩期间内未请求宣告该项专利权无效，而在其后的审理过程中提出无效请求的，人民法院可以不中止诉讼。<br><p></p><a name='2'><font class='TiaoNoA'>（二）</font></a>人民法院受理的发明专利侵权案件或者经专利复审委员会审查维持专利权的实用新型专利侵权案件，被告在答辩期间请求宣告该项专利无效的，人民法院可以不中止诉讼。<br><p class='zhang'>四、关于专利侵权的损害赔偿问题</p><br>    专利侵权的损害赔偿，应当贯彻公正原则，使专利权人因侵权行为受到的实际损失能够得到合理的赔偿。<br>    专利侵权的损失赔偿额可按照以下方法计算：<br><p></p><a name='3'><font class='TiaoNoA'>（一）</font></a>以专利权人因侵权行为受到的实际经济损失作为损失赔偿额。<br>    计算方法是：因侵权人的侵权产品（包括使用他人专利方法生产的产品）在市场上销售使专利权人的专利产品的销售量下降，其销售量减少的总数乘以每件专利产品利润所得之积，即为专利权人的实际经济损失。<br><p></p><a name='4'><font class='TiaoNoA'>（二）</font></a>以侵权人因侵权行为获得的全部利润作为损失赔偿额。<br>    计算方法是：侵权人从每件侵权产品（包括使用他人专利方法生产的产品）获得的利润乘以在市场上销售的总数所得之积，即为侵权人所得的全部利润。<br><p></p><a name='5'><font class='TiaoNoA'>（三）</font></a>以不低于专利许可使用费的合理数额作为损失赔偿额。<br>    对于上述三种计算方法，人民法院可以根据案情的不同情况选择适用。<br>    当事人双方商定用其他计算方法计算损失赔偿额的，只要是公平合理的，人民法院可予准许。<br><p class='zhang'>五、关于专利管理机关已经受理尚未调处完结的案件，当事人又向人民法院起诉的，人民法院是否受理的问题</p><br>    当事人一方向专利管理机关请求调处，专利管理机关已经立案并向另一方发出答辩通知书，而另一方拒绝答辩并向人民法院起诉的，只要起诉符合<a href=javascript:ROF(12609,0) class=alink>民事诉讼法</a>第<a href=javascript:ROF(12609,108) class=alink>一百零八</a>条的规定和最高人民法院关于审理专利案件的有关规定，人民法院应予受理；如果另一方接到专利管理机关的答辩通知书后作了实质性答辩，在专利管理机关调处过程中又向人民法院起诉的，人民法院不予受理。<br>    在专利管理机关调处过程中，当事人双方都向人民法院起诉的，人民法院应予受理，并告知其向专利管理机关办理撤回请求调处手续。<br><p class='zhang'>六、关于对专利管理机关的处理决定不服应当向何地何级法院起诉的问题</p><br>    根据最高人民法院关于专利案件的管辖规定，，如果做出处理决定的专利管理机关所在地的中级人民法院对专利案件有管辖权，当事人不服处理决定的，可以向专利管理机关所在地的中级人民法院起诉；如果做出处理决定的专利管理机关所在地的中级人民法院对专利案件无管辖权，当事人不服处理决定的，可以向专利管理机关所属省、自治区、直辖市人民政府所在地的中级人民法院起诉。有关人民法院应当作为行政案件受理。<br><p class='zhang'>七、关于经专利管理机关调解达成调解协议的专利纠纷案件，当事人一方反悔的，可否向人民法院起诉的问题</p><br>    专利纠纷案件经专利管理机关调解达成调解协议的，在调解书送达前或送达后当事人一方反悔向人民法院起诉的，人民法院应予受理。<br><p class='zhang'>关于专利管理机关作出的处理决定申请强制执行问题</p>    依照<a href=javascript:ROF(8969,0) class=alink>行政诉讼法</a>第<a href=javascript:ROF(8969,66) class=alink>六十六</a>条和<a href=javascript:ROF(15736,0) class=alink>专利法</a>第<a href=javascript:ROF(15736,60) class=alink>六十</a>条的规定，专利管理机关作出的处理决定，当事人期满不起诉又不履行的，专利管理机关可以向被执行人所在地或者被执行人财产所在地的对专利案件有管辖权的中级人民法院请求执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

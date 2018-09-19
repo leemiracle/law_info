@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家气象局<BR>&nbsp;&nbsp;【发布文号】中气科字[1980]第036号<BR>&nbsp;&nbsp;【发布日期】1980-08-09<BR>&nbsp;&nbsp;【生效日期】1980-08-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>科技三项费用管理的暂行办法<br>
+</font></p><p align='center'><font class='STitle'>（1980年8月9日<br>
+（中气科字〔1980〕第036号））</font></p><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  气象部门科研经费主要是：<br>    1．科技三项费用：由国家科委、地方科委划拨。<br>    2．科研事业费：根据1979年全国气象局长会议有关文件规定，“各级气象部门每年暂由气象事业费中划3－5％的经费作为科研事业费，由科技管理部门统一管理，或者采用人头费的计算办法。根据目前情况，中央气象局所属科研单位（包括工资、办公费、旅差费和一般科研费等）暂定3000－3500元，省（市、区）气象局所属科研单位暂定2500－3000元”。<br>    随着国民经济情况的好转，科研事业费应逐年有所增加，增加的比例高于事业费增长比例。<br>    3．科研基建费：用于科研单位的土建和购置两万元以上的大型设备。由计划财务部门统筹分配。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  科技三项费用的使用范围。<br>    1．气象部门的科学技术三项费用，是气象方面新产品试制、中间试验和重要科学研究项目的补助费。<br>    2．新产品试制费，是指全国范围内从未研制、生产过的气象仪器和气象专用设备的研制费。<br>    常规气象仪器的一般性技术革新、改造、仿制等费用，工厂在更新改造资金中开支，其它单位在事业费中开支。<br>    3．中间试验费，是指已有科学研究成果，尚未取得必要数据，不能在气象工作中直接采用，必须建立一定装置或试验场地，进行扩大规模试验或较长期试验、验证、改进，经批准纳入计划的项目。<br>    中间试验费的使用范围，包括必需的土建、安装、设备仪器购置和试验经费等。<br>    4．重要科学研究补助费，是指比较重大的和国民经济迫切需要解决的关键项目，已列入国家、部门和地方重点科研项目计划的补助费。<br>    5．科技三项费用只能用于计划内项目，购置必需的原材料、仪器、设备以及资料费、计算费、试验费等。两万元以上的大型设备由科研基建费中支出，科研工作所需的旅差费、会议费、印刷费原则上由各单位科研事业费中开支。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  科技三项费用预算的编制和审批程序。<br>    1．各项目负责单位（指承担气象部门重点项目的负责单位。有两个以上负责单位时，指第一负责单位。下同）于每年7月底以前，对下年度所承担的科研任务，提出经费预算，报中央气象局科教部。<br>    2．中央气象局科教部根据国家科委有关规定和气象科技发展规划，汇审各项目负责单位报来的经费预算，报国家科委审批。并根据国家科委核定的科技三项费用预算指标，编制年度科技三项费用的分配方案，报局领导审核批准后与年度科研计划一起于当年2月前下达。<br>    3．中央气象局科教部根据年度科技三项费用分配方案和项目进展情况将科技三项费用1次或分几次拨给项目负责单位，由项目负责单位统筹安排使用，如有重大变动，报中央气象局审定。<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  科技三项费用的管理。<br>    1．科技三项费用要指定专人兼管，在财务部门单列户头（或单独建帐）、单独核算，必须专款专用，不得与单位其它资金混淆，更不得挪用。<br>    2．科技三项费用应根据国家四化建设的需要和可能，首先保证国家、部门重点项目，其它项目根据经费情况适当安排。<br>    3．项目完成或因故中止、撤销时，由项目负责单位做出决算。未签订合同的项目，其剩余经费和物资的处理根据具体情况留用或上交原拨款单位。如超支时，需查明原因，提出具体意见报中央气象局审定。年终未完项目，其经费结余部分可结转下年度继续使用。<br>    4．用科技三项费用购置的仪器、设备等凡属固定资产的都要建立和健全固定资产的明细帐卡，按固定资产进行核算和管理，并列入年终决算。<br>    5．凡使用科技三项费用的单位，每年编报年度计划时，同时填报“科研费用预算表”（略）。在每年1月底以前编报上一年度“科研费用支出决算表”、“资金活动情况表”及文字说明。除说明经费使用情况外，应重点总结科研费用管理经验、经济效益及存在问题等。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  使用科技三项费用的单位，要认真贯彻勤俭建国的方针，严格执行本规定，并依靠科技、财会人员加强财务监督，严肃财经纪律，检查经费使用效果。<br>    对于严格执行财会制度、少花钱多出成果的单位与个人进行表扬或奖励；对挪用、滥用和浪费科技三项费用的单位和个人进行通报批评，情节严重的要予以处理。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

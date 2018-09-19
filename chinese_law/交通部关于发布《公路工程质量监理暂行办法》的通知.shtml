@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】(85)交公路字1459号<BR>&nbsp;&nbsp;【发布日期】1985-07-05<BR>&nbsp;&nbsp;【生效日期】1985-07-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于发布《公路工程质量监理暂行办法》的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1985年7月5日（85）交公路字1459号）</font></p>各省、自治区交通厅（局），北京市交通运输局，天津市市政工程局，上海市市政工程管理局，西安、重庆、大连、沈阳、哈尔滨、武汉市交通局，广州市公路局，第一、二公路工程局：<br>    为加强公路工程质量管理，确保工程质量，我们在总结各地实行质量监理的基础上，制订了《公路工程质量监理暂行办法》。经过审议修改，现印发给你们。希在执行中认真总结，有何意见，请及时函告我部公路局，以便逐步完善。<br><br><p class='zhang'>  附：                公路工程质量监理暂行办法</p><br><br>    为了适应四化建设的需要，搞好公路工程建设，确保工程质量，在公路工程建设中应全面执行工程质量监理制度。为此，特制定本办法。本办法适用于所有新建、改建的公路工程。养路大中修工程可参照使用。<br><br><p class='zhang'>                              一、总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  工程质量监理机构代表建设单位负责对工程质量进行监督，监理人员应对建设单位负责，维护国家利益。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  监理的依据是上级颁布的有关法令、批准的设计文件和有关的技术标准、规范等。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  监理工作是一项艰巨、细致的工作。监理人员，应挑选坚持原则、责任心强、办事认真并具有一定技术水平和实践经验的技术人员担任。监理工作所需费用列入建设单位管理费。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  施工单位应对所施工的工程质量全面负责，各级技术人员必须履行岗位职责，严格执行施工技术规范和技术操作规程，确保工程质量。<br><br><p class='zhang'>                           二、组织与权限</p><br><br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  各省、自治区、直辖市交通厅（局）或公路管理局以及部属工程局应设置专职工程质量监理机构，配备专职质量监理人员负责管理质量监理工作、审批工程项目质量监理人员。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  建设单位应向所负责的工程建设项目派出驻工地的工程质量监理人员（也可委托或聘请），上述监理人员应经交通厅工程质量监理机构批准并抄送建设银行。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  工程质量监理人员有权参与所监理工程的技术讨论会和事故处理，掌握本项工程质量情况，分析质量动态，并定期向上级监理机构报告。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  工程质量监理人员有权调阅施工单位关于本工程的一切技术文件，施工原始记录、试验报告和测试报告及有关资料。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  凡属下列情况之一（或类似情况）者，监理人员有权通知施工单位及时纠正或返工并有权制止施工：<br>    1．不按设计施工，又未经规定程序审批；<br>    2．使用的原材料、构件不符合质量要求；<br>    3．工程质量低劣，数量、尺寸不符合设计要求；<br>    4．采用未经鉴定又无法保证质量的新工艺；<br>    5．应经监理人员检查而未经检查签证的隐蔽工程。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  工程质量监理人员检查上述不合格的工程，不予计入当月完成的工作量。经返工检查合格后再计入工作量。未经监理人员签字的工作量，建设银行拒绝拨款。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  工程竣工资料必须经质量监理人员审查和签认，否则竣工资料无效。<br><br><p class='zhang'>                       三、质量监理人员的职责</p><br><br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  质量监理人员应认真履行自己的职责，坚守岗位，搞好监理工作。<br>    1．熟悉监理工程项目的设计意图、设计文件、施工方案、施工工艺以及有关的规范、规程和标准。<br>    2．参加设计文件的会审。<br>    3．参加采用新技术、新工艺、新结构工程的鉴定工作。<br>    4．参加大桥、隧道、大型防护和其他大型构造物定位、基坑检验以及路基压实、路面厚度、主要构件尺寸等工程关键部位的质量抽查。<br>    5．检查原材料规格、质量和各项施工（试验）原始记录资料。<br>    6．参加重大工程质量事故的调查处理。<br>    7．负责对分部（项）工程主要隐蔽部分的检查签证。<br>    8．参加工程交竣工验收。<br>    9．负责检查签署当月实际完成的工作量和工程量。<br>    10．建立监理日志，承办监理报表，定期向上级报告工程质量情况（“工程质量监理月报表”表格附后）。<br><br><p class='zhang'>                              四、其它</p><br><br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  施工单位应及时向监理人员填送路基、路面各层压实度试验记录和混凝土强度试验报告等资料和报表。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  施工单位认为需要变更设计时，应按变更手续报批，并及时通知监理人员。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  施工单位应根据监理人员的要求，提供必要的设计、施工资料及需要的仪器、用具、人力和交通工具等，协助监理人员的检查工作。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  凡在监理人员监理职责范围内的工程，施工单位应及时通知监理人员检查，未通知监理人员检查而造成的损失由施工单位负责。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  施工单位和监理人员对工程质量产生分歧不能达成一致意见时，应及时报上一级监理机构或主管部门处理。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  监理人员应树立对工程认真负责的精神，实事求是地提出意见。凡由于监理人员失职而造成工程重大损失浪费，应由监理人员相应承担一定责任；情节严重者，应由主管部门予以追究，严肃处理。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  监理人员在工作中认真负责，对保证工程质量作出重大贡献，应给予奖励或表彰。有特殊贡献的，应建议上级主管部门给予晋级或奖励。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  实行招标的工程项目的监理，应按照我部制定的《公路工程施工招标、投标试行办法》中的规定执行。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  各省、自治区、直辖市交通厅（局）、公路主管部门应根据本办法的原则制定本地区的实施细则。<br><br><p class='zhang'>  附：                   工程质量监理月报表</p><br><br>                                          表    号：交统监01<br>                                          文    号：<br>ＮＯ：                                    制表机关：交通部公路局<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>                  （承包）                                    （业主）<br>  项目名称：      施工单位名称：      项目地址            建设单位名称：－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－设  设计（合同）文号：            合同标价（预算）：        开工日期：<br>计文－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－⌒  批准设计（授与合同）日期：              本月计划完成工作量：<br>合件－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－同  建设单位（业主）代表：      本月实际完成工作量：      计划竣工日期：<br>    －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>    施工（承包）单位代表：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>                                          本  月  工  作  简  要  小  结－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>  （一）工程质量的一般评价：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>  （二）质量事故统计：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （1）发生原因、时间、部位<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （2）处理结果：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>  （三）变更设计项目名称：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （1）原因：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （2）监理工程师（代表）评价：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （3）预计增减价值：                    （4）实际增减价值：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>  （四）自然灾害统计：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （1）受灾情况描述：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （2）损失价值<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>        （3）处理结果<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>  （五）监理工作中存在问题及其建议：<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br><p class='zhang'>  附：                   工程质量监理月报表</p><br>                                                      表  号：交统监02<br>                                                      文  号：<br>  项目名称：              填报日期：  年  月  日  制表机关：交通部公路局<br><pre><font size=+1><br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>      工程内容        ｜自开工至本月｜本月完  ｜完成百｜对本月  ｜处理意<br>                      ｜末累计完成工｜成工程量｜分比％｜完成工程｜见或建<br>                      ｜程量（  ）  ｜量（  ）｜      ｜程的评价｜议<br>－－－－－－－－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜土    方｜            ｜        ｜      ｜        ｜<br>路        基｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜石    方｜            ｜        ｜      ｜        ｜<br>－－－－－－｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜土    方｜            ｜        ｜      ｜        ｜<br>防护工程    ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜石    方｜            ｜        ｜      ｜        ｜<br>－－－－－－｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜垫    层｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜底  基层｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜基    层｜            ｜        ｜      ｜        ｜<br>路      面  ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜结  合层｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜面    层｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜磨  耗层｜            ｜        ｜      ｜        ｜<br>－－－－－－｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜上部结构｜            ｜        ｜      ｜        ｜<br>桥      梁  ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜下部结构｜            ｜        ｜      ｜        ｜<br>－－－－－－｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜上部结构｜            ｜        ｜      ｜        ｜<br>涵      洞  ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜基    础｜            ｜        ｜      ｜        ｜<br>－－－－－－｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜信    号｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>交通工程    ｜标志标线｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜通    讯｜            ｜        ｜      ｜        ｜<br>－－－－－－｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜        ｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜        ｜            ｜        ｜      ｜        ｜<br>其他设施    ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜        ｜            ｜        ｜      ｜        ｜<br>            ｜－－－－｜－－－－－－｜－－－－｜－－－｜－－－－｜－－－<br>            ｜        ｜            ｜        ｜      ｜        ｜<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br></font></pre><br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>  填表说明：（1）本表工程内容未包括在内的，请自行在项目栏内增改；<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br>            （2）本表统由监理工程代表指定专人填报。经监理工程师签字后方能生效。<br>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－项目办公室：（盖章）项目经理：（签字）监理工程师：（签字）制表人：（签字）<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

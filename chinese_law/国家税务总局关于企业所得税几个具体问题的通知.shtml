@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[1994]229号<BR>&nbsp;&nbsp;【发布日期】1994-10-24<BR>&nbsp;&nbsp;【生效日期】1994-10-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于企业所得税几个具体问题的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1994年10月24日国税发［1994］229号）</font></p>各省、自治区、直辖市国家税务局、地方税务局，各计划单列市国家税务局、地方税务局：<br>    根据各地的反映和要求，现对统一的<a href=javascript:ROF(18558,0) class=alink>企业所得税暂行条例</a>实施以来有关政策的具体执行等问题明确如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于企业所得税减免税政策交叉问题<br>    财政部、国家税务总局《<a href=javascript:ROF(19624,0) class=alink>关于企业所得税若干优惠政策的通知</a>》［财税字（94）001号］中规定的减免税优惠措施，这对一个企业可能会有减免税政策交叉的情况，在具体执行时，可选择适用其中一项最优惠的政策，不能两项或几项优惠政策累加执行。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于从联营企业分回利润及股息、红利补税问题<br>    财政部、国家税务总局关于《<a href=javascript:ROF(19768,0) class=alink>企业所得税若干政策问题的规定</a>》［财税字（1994）009号］中所说的投资方从联营企业分回的利润及股息、红利补税问题，是指对由于地区间所得税适用税率存在差异问题的处理，如果投资方企业的适用税率高于联营企业的适用税率，为了计算简便，投资方企业从联营企业分回的利润及股息、红利可以不并入投资方企业应纳税所得额，而按上述文件所列计算公式补缴所得税。如果联营企业的适用税率与投资方企业适用税率一致，但由于联营企业享受税收优惠而实际执行税率低于投资方企业的，则投资方从联营企业分回的利润及股息、红利不再补税。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>企业转让投资损益计税问题<br>    企业中途转让对外投资所取得的款项，高于其帐面价值的差额，应计入投资收益，照章缴纳所得税；其低于帐面价值的差额，计入投资损失。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>公益性、救济性捐赠的计算<br>    <a href=javascript:ROF(18558,0) class=alink>企业所得税暂行条例</a>规定，企业的公益性、救济性捐赠可以在应纳税所得额3％以内的部分予以扣除，为计算简便，现将具体计算程序明确如下：<br>    （一）调整所得额，即将企业已在营业外支出中的列支的捐赠额剔除，计入企业的所得额；<br>    （二）将调整后的所得额乘以3％，计算出法定公益性、救济性捐赠扣除额；<br>    （三）将调整后的所得额减去法定的公益性、救济性捐赠扣除额，其差额为应纳税所得额。<br>    企业当期发生的公益性、救济性捐赠不足所得额的3％的，应据实扣除。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>关于享受优惠政策的乡镇企业的范围<br>    财政部、国家税务总局《<a href=javascript:ROF(19624,0) class=alink>关于企业所得税若干优惠政策的通知</a>》中规定乡镇企业可按应缴税款减征10％，用于补助社会性开支的费用。这里的乡镇企业不包括乡镇企业与其他企、事业单位兴办的联营企业、股份制企业。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>新办企业的概念<br>    新办企业必须符合下列条件：<br>    （一）从无到有组建起来的。原有企业一分为几、改组、扩建、搬迁、转产、合并后继续经营，或者吸收新成员、改变领导关系、改变企业名称的，都不能视为新办企业；<br>    （二）应是1994年1月1日以后建立的。对于1993年底以前建立的企业，其享受的减免税优惠尚未到期，而该项减免税优惠又属继续保留的，则其减免税期限应连续计算，执行到期为止。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

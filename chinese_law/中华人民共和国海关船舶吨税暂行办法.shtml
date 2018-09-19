@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1952-09-29<BR>&nbsp;&nbsp;【生效日期】1952-09-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中华人民共和国海关船舶吨税暂行办法<br>
+</font></p><p align='center'><font class='STitle'>（一九五二年九月十六日政务院财政经济委员会批准<br>
+一九五二年九月二十九日海关总署发布施行）</font></p><br><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  在中华人民共和国港口行驶的外国籍船舶和外商租用的中国籍船舶，以及中外合营企业使用的中外国籍船舶（包括专在港内行驶的上项船舶），均按本办法由海关征收船舶吨税（以下简称吨税）。<br>    前项应完吨税船舶，毋庸另向税务机关完纳车船使用牌照税。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  吨税分三个月期缴纳与三十天期缴纳两种，由纳税人于申请完税时自行选报，其税级税率列明如下：<br><pre><font size=+1><br>┎──────┰──────────┰───────┰───────────┒<br>┃船舶种类    ┃   吨         位    ┃ 每 吨 吨 税  ┃     附       注      ┃<br>┃            ┃                    ┃  （人民币）  ┃                      ┃<br>┠──┰───╂──────────╂───────╂───────────┨<br>│机  │  轮  │    50吨以下        │    3角       │按净吨位计征，尾数在半│<br>│    │      │    51吨至   150吨  │    3角5分    │吨以下者免征其尾数，半│<br>│    │      │   151吨至   300吨  │    4角       │吨及超过半吨但不及一  │<br>┃    ┃      ┃   301吨至   500吨  ┃    4角5分    ┃吨者则晋按一吨计算；又┃<br>┃    ┃  汽  ┃   501吨至 1,000吨  ┃    6角       ┃不及一吨的小型船舶，除┃<br>┃ 动 ┃      ┃ 1,001吨至 1,500吨  ┃    7角5分    ┃经海关总署特准免征者  ┃<br>┃    ┃  船  ┃ 1,501吨至 2,000吨  ┃    9角       ┃外，应一律按一吨计征。┃<br>┃    ┃      ┃ 2,001吨至 3,000吨  ┃ 1元1角       ┃                      ┃<br>┃    ┃  拖  ┃ 3,001吨至 4,000吨  ┃ 1元3角       ┃                      ┃<br>┃    ┃      ┃ 4,001吨至 5,000吨  ┃ 1元5角       ┃                      ┃<br>┃ 船 ┃  船  ┃   5,001吨以上      ┃ 1元8角       ┃                      ┃<br>┠──╂───╂──────────╂───────╂───────────┨<br>┃ 非 ┃各驾驳┃      10吨以下      ┃    1角5分    ┃                      ┃<br>┃ 机 ┃种驶船┃      11吨至50吨    ┃    2角       ┃                      ┃<br>┃ 动 ┃人船帆┃      51吨至150吨   ┃    2角5分    ┃                      ┃<br>┃ 船 ┃力及船┃     151吨至300吨   ┃    3角       ┃                      ┃<br>┃    ┃      ┃     301吨以上      ┃    3角5分    ┃                      ┃<br>┖──┸───┸──────────┸───────┸───────────┚<br></font></pre><br>（一）  按三个月期缴纳者：<br>（二）  按三十天期缴纳者，照前表税率减半征收。<br>    进口船舶应自申报进口之日起征，如所领吨税执照满期后尚未驶离中国，则应自原照满期之次日起续征。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  应征吨税船舶的国籍，如属于同中华人民共和国签有条约或协定，规定对船舶的税费相互给予最惠国待遇的国家，该船舶的吨税按优惠税率计征。其按三个月期缴纳的吨税税率如下：<br><pre><font size=+1><br>┎───────┰─────────┰────────┰──────────┒<br>┃ 船 舶 种 类  ┃    吨      位    ┃  每 吨 吨 税   ┃     附      注     ┃<br>┃              ┃                  ┃  （人民币）    ┃                    ┃<br>┠───────╂─────────╂────────╂──────────┨<br>┃  机  动  船  ┃   50 吨以下      ┃      3角      ┃ 计征办法同前表     ┃<br>┃  （轮船、汽  ┃ 51   吨至  150吨 ┃      3角5分  ┃                    ┃<br>┃  船、拖船）  ┃ 151  吨至  300吨 ┃      4角      ┃                    ┃<br>┃              ┃ 301  吨至  500吨 ┃      4角5分  ┃                    ┃<br>┃              ┃ 501  吨至1,000吨 ┃      5角5分  ┃                    ┃<br>┃              ┃ 1,001吨至1,500吨 ┃      6角5分  ┃                    ┃<br>┃              ┃ 1,501吨至2,000吨 ┃      8角      ┃                    ┃<br>┃              ┃ 2,001吨至3,000吨 ┃      9角5分  ┃                    ┃<br>┃              ┃ 3,001吨以上      ┃  1元1角      ┃                    ┃<br>┠───────╂─────────╂────────╂──────────┨<br>┃ 非 机 动 船  ┃    10吨以下      ┃      1角5分  ┃                    ┃<br>┃ （各 种 人   ┃    11吨至50吨    ┃      2角      ┃                    ┃<br>┃  力 驾 驶 船 ┃    51吨至150吨   ┃      2角5分  ┃                    ┃<br>┃  及 帆 船、  ┃   151吨至300吨   ┃      3角      ┃                    ┃<br>┃  驳 船）     ┃   301吨以上      ┃      3角5分  ┃                    ┃<br>┖───────┸─────────┸────────┸──────────┚<br></font></pre><br>    按本条规定纳税之船舶，如申请按照前条办法按三十天期缴纳，照上表减半征收。<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  外国籍及外商租用的中国籍船舶，在到达及驶离设关港口，按海关规定须向关申报进口与结关者， 应将船舶吨税执照一并交验。 如进口时原照已经满期或前未完纳吨税者，应并在申报进口时填送申报单，交验（一）船舶国籍证书（或港务机关签发的收存此项证书之证明书）；<br>    （二）船舶吨位证明，向关申报完税。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  前项船舶，其吨税执照之有效期间在申报进口后满期者，及专在港内行驶者，均应于原照满期时按前条规定向关申报纳税领照。  倘自满期次日起五日内不向关申报完税，应按本办法第十四条规定论罚。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>  特准行驶未设关地方之外国籍船舶，应同按本办法第四条规定在到达或驶离港口时向当地港务机关交验船舶吨税执照  （无港务机关地方应向当地边防公安机关或部队交验），在原照满期时，并应按照本办法第四、五条规定报由当地税务局依本办法代征税务给照，逾期不报按第十四条论罚。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>  纳税人应自海关（或税务局）签发吨税缴款书之次日起五日内（星期日及规定放假日除外）缴清税款，由关（或局）填发船舶吨税执照，逾期由关（或局）自第六天起至缴清税款之日止按日征收应纳税额千分之一的滞纳金，作为海关罚款入库。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>  外商租用的中国籍船舶，及中国公私营企业租用的外国籍船舶，在租用关系开始或解除时，其原纳车船使用牌照税或船舶吨税，如尚未满期，得仍继续有效。惟期满后应即按照当时使用关系向关报完吨税或向税务局报完车船使用牌照税。<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>  船舶因经修理， 原净吨位有所增减， 在原领吨税执照有效期内，不再调整税额。惟于下期完纳吨税时应按吨位变更后的吨位证书，申请核定税额。如吨位增高而匿不申报，希图漏税者，按本办法第十四条规定处罚。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>  已完吨税之船舶，具有下列情形之一者，海关得验凭所交港务机关证明文件，按其实际日数，将执照有效日期，批注延长：<br>（一）  船舶驶入我国港口避难、修理者；<br>（二）  船舶因防疫隔离不能上下客货者；<br>（三）  船舶经中央或地方人民政府征用或租用者。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>  下列各种外籍船舶，免征吨税：<br>（一）  与我国建立外交关系国家之大使馆、公使馆、领事馆使用的船舶；<br>（二）  有当地港务机关证明之避难、修理、停驶或拆毁的船舶，并不上下客货者；<br>（三）  专供上下客货及存货之泊定趸船、浮桥趸船及浮船；<br>（四）  中央或地方人民政府征用或租用的船舶；<br>（五）  合于暂行<a href=javascript:ROF(35450,0) class=alink>海关法</a>第<a href=javascript:ROF(35450,27) class=alink>二十七</a>条规定毋庸向关申报进口的国际航行船舶。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>  船舶使用人如于该船未到达港口以前办理结关手续者，  须向关递送书面保证，担保俟船舶驶入港口后交验吨税执照，或遵章完纳吨税请领执照。此项执照的有效日期，亦应自船舶申报进口之日起算。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>  船舶使用人所领吨税执照，在有效期间内，如有毁损或遗失时，得向原发执照海关（或税务局）书面声明，并请另发吨税执照副本，不再补税。<br><p></p><a name='14'><font class='TiaoNoA'>第十四条</font></a>  不按本办法规定申报纳税领照者，除限期办理外，并处以应纳税额三倍以下之罚金，以海关罚款入库。<br><p></p><a name='15'><font class='TiaoNoA'>第十五条</font></a>  本办法自公布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

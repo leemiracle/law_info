@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交基公(62)于字第39号<BR>&nbsp;&nbsp;【发布日期】1962-01-20<BR>&nbsp;&nbsp;【生效日期】1962-01-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部<br>
+关于颁发试行 《公路渡口管理办法》</font></p><p align='center'><font class='STitle'>（草案）的通知<br>
+交基公（62）于字第39号</font></p><br>各省、自治区交通厅（局、处），北京市市政工程局、上海市城市建设局：<br>    关于公路渡口管理的章则制度，我部曾于1955年11月21日以交公养55字第1735号文颁发了“公路渡口管理暂行办法”对做好渡运工作，收到了一定效果，后鉴于某些条件规定不切合实际情况，乃于1958年10月17日以交公办（58）晋字第81号文通知废止，迄今未建立新的办法。从几年来的公路渡口管理情况来看，部分地区的公路渡口，由于放松了管理，不断发生事故，对汽车运输和人民生命财产造成了一定损失。为了加强渡运管理确保渡运安全，提高渡运效率，兹将新制定《公路渡口管理办法》（草案）随文颁发，希即遵照试行。<br><br>附：<br>                          公路渡口管理办法（草案）<br>                          （一九六二年一月二十日）<br><br><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>：  为了更好的贯彻执行安全生产的方针，加强公路渡口的管理，确保人民生命财产的安全，提高渡运效率，适应公路运输需要，特制定本办法。<br>    本办法所称公路渡口，系指经常渡运汽车的渡口。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>：  公路渡口应根据统一领导分级管理的原则，按照渡运任务繁简等条件，由县以下交通部门分别设置渡口管理机构专责管理，  其编制由省（市、自治区）或专区（州市）交通部门核定。所需经费，本“以渡养渡”原则，由征收车辆过渡费内开支（已将渡费合并在养路费内征收的则由养路费开支）。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>：  公路渡口管理单位应建立和健全责任制度，明确规定每个工作人员的分工和职责，克服和防止工作中的无人负责和瞎指挥的现象。<br>    公路渡口管理单位应遵守节约原则，逐步推行班组核算，尽可能的节约人力和物资消耗，降低成本。并依靠群众，积极进行技术革新，改善劳动组织，不断提高渡运效率。<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>：  公路渡口设备如渡轮（包括机动船），码头设备（包括趸船，码头架、升降跳板、引渡便桥等）、缆索、练系桩、标志等，应根据运量、河流情况，和汽车拖挂运输的要求，予以适当配置，有关安全消防、救生和其他必要设备等也应配置齐全。河面宽阔的渡口，两岸得酌设通话设备和候渡室（亭）、停车场等。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>：  公路渡口工作人员对渡口各种设备，应爱护使用，经常进行检查保养，定期检修，并应及时进行必要的加固、更换和改善，以保证安全渡运。在航行前，必须对各种安全措施，做好检查。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>：  公路渡口两岸码头引道应加强经常养护、 冬季随时消除冰雪， 汛期（或潮汛）水退后随时清除淤积泥沙，以免车辆溜滑肇事。<br>    ?符合技术标准的码头引道，应逐步改善提高其技术状况。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>：  机动船和渡船须按照有关船舶检验规定，核定其载重、车数和乘客人员，经检验后认为不合使用条件的渡运船舶应立即停驶修理。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>：  渡船应标明载重限制的吃水线，不准超载，渡口工作人员应对渡船所载车辆人员的载重分布严加控制，务求航行平稳。<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>：  机动船驾驶和渡船的工作人员，必须身体健康，具有一定技术水平并熟习内河航行规则（如信号、灯号、声号等）机动船驾驶人员须经航运管理部门（或交通部门）考试合格，持有驾驶执照者，始得充任。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>：  运输繁忙或重要国防线路上的渡口，在两岸和渡船上须装有照明设备，昼夜渡运。一般渡口应根据当地情况和季节， 规定每天渡运起迄时间， 力争做到车辆随到随渡，夜间如不能保证渡运安全的渡口，应一律停渡。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>：  遇有浓雾、大风、暴雨、水流过急等情况，航行有危险时，公路渡口管理单位应即公告停渡，严禁强迫或恂情渡运，情况好转后，立即恢复渡运。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>：  候渡车辆均应按到达先后依次过渡， 不得争先抢渡， 但有紧急任务的军运车、消防车、救护车、工程抢险车、警备车、公务小座车、客运班车和邮政车等得优先过渡。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>：  车辆和乘客上、下渡船和渡船航行时应服从渡口工作人员的指挥，指挥人员须配备红绿旗，工作人员须佩戴符号， 上下渡船应遵守下列次序： 上船时先车辆后人畜；下船时先人畜后车辆。车上乘客除伤病员等外，一律下车过渡。过渡时汽车驾驶人员不得擅离驾驶室；畜力车驾驶员应照管好牲畜。<br>  在一般情况下，畜力车不应与客车、小座车同船过渡，以免影响安全。<br><p></p><a name='14'><font class='TiaoNoA'>第十四条</font></a>：  车辆载运易燃或爆炸等危险品时， 车辆负责人员应于过渡前， 向渡口管理单位报告，以便采取适当的安全措施，渡口工作人员有权查验渡运物资。过渡时严禁煤炭车在船上清除炉渣，以免发生火灾。<br><p></p><a name='15'><font class='TiaoNoA'>第十五条</font></a>：  公路渡口工作人员应随时向车辆驾驶员和乘客等进行渡口安全宣传，并维护乘客、牲畜、车辆和运载物资的安全， 万一发生事故采取紧急措施抢救<br>。 必须首先救人，并立即报告上级处理，对奋勇抢救有功者，应予适当奖励。<br><p></p><a name='16'><font class='TiaoNoA'>第十六条</font></a>：  为确保渡运安全和维护渡口秩序，必须规定在渡口码头上、下游各适当的距离内，不得停泊其他船只或排筏；禁止利用渡口码头、引道装卸或堆放物资。<br><p></p><a name='17'><font class='TiaoNoA'>第十七条</font></a>：  公路渡口工作人员对渡运情况，应严守秘密做好保卫工作，重要渡口须商请当地公安部门或驻军单位派员协同保护。<br><p></p><a name='18'><font class='TiaoNoA'>第十八条</font></a>：  公路渡口管理单位应将水位、渡运车辆种类、数量、渡运次数、机动船耗用燃润料等有关记录，按日记载，定期上报主管部门考查。<br><p></p><a name='19'><font class='TiaoNoA'>第十九条</font></a>：  各级交通部门应对所属公路渡口工作人员加强思想政治教育，  建立和健全有关船舶保养、安全操作、技术责任及奖励等各项制度，督促贯彻执行；并对渡运和管理情况，进行定期检查和考核。<br><p></p><a name='20'><font class='TiaoNoA'>第二十条</font></a>：  公路渡口管理单位应依靠群众， 实行民主管理， 在工人中推选人员，负责管理安全、生产、生活福利等方面的工作；组织渡口工作人员利用业余时间，进行副业生产，改善生活。<br><p></p><a name='21'><font class='TiaoNoA'>第二十一条</font></a>：  各省、市、 自治区交通部门， 应特制订有关公共遵守的公路渡口管理规则，报请省、市、自治区人民委员会批准，并公告于渡口码头及渡船的显著位置，务使群众周知。<br><p></p><a name='22'><font class='TiaoNoA'>第二十二条</font></a>：  各省、市、自治区交通部门可根据本办法，结合当地具体情况，制定本地区公路渡口管理实施细则，报省、市、自治区人民委员和交通部备案。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

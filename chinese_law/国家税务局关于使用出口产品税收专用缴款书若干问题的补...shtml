@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[1993]046号<BR>&nbsp;&nbsp;【发布日期】1993-03-12<BR>&nbsp;&nbsp;【生效日期】1993-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 国家税务局关于使用出口产品税收专用缴款书若干<br>
+ 问题的补充规定的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1993年3月12日国税发〔1993〕046号）</font></p>各省、自治区、直辖市税务局，各计划单列市税务局，各直属进出口税收管理处：<br>    《<a href=javascript:ROF(16351,0) class=alink>国家税务局关于使用出口产品税收专用缴款书若干问题的规定</a>》〔国税发（1992）271号〕下发后，各地都认真进行了贯彻。在执行中，有些地区反映了一些具体问题。经研究，特作如下补充规定：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>从1993年3月1日起，对属于增值税征收范围的出口产品允许在纳税时按整体税金的百分之六十的比例预扣其它应扣税金，即按整体税金的百分之四十计算纳税并开具专用税票。国税发（1992）271号文件第二条第三款“对属于增值税征收范围的出口产品按整体税金纳税，全额缴入国库。其应扣税金，暂不作扣除”的规定同时废止。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>生产企业销售的出口产品按整体税金的百分之四十纳税而少缴的增值税款，应在征收当期内销产品增值税时补征入库；多缴的增值税款，经税务机关审查确属自产产品并核实购进原材料等数额后，可允许抵扣当期内销产品的应纳税款或退还给生产企业。特别是在企业生产数量超过设备能力，产品成本、价格发生较大变化等情况下，核实原材料是否真实须注意查清以下内容：（1）生产企业购进原材料的发票合法，原材料品种、数量、价格、金额情况正常，并据实记入有关帐户；（2）确有进货发票所列的原料购进；（3）生产企业按发票金额付款给供货单位；（4）企业设备、产品结构与供货的情况确实发生了相应的变化。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>非生产性出口企业购进原材料委托生产企业加工收回的产品，生产企业在代扣代缴税款时，一律按上述第一条规定计算纳税，开具专用税票。对按增值税整体税金的百分之四十计算纳税而多缴的税款，经所在地的县级税务局（分局）局长核实批准，可从当地金库中退给生产企业，而少缴的税款生产企业应及时补缴入库。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>农林牧水产品的收购单位是指经营农林牧水产品的所有企业单位和个体工商业者，包括直接收购农林牧水产品的出口企业。农林牧水产品的收购单位销售给出口企业的应税农林牧水产品，在收购时按收购价全额缴纳产品税。<br>    农林牧水产品的收购单位购进的应税农林牧水产品，属于按与出口企业签定的购货合同购进且按购进的批次和数量，一次全部销售给出口企业的，纳税时须开具专用税票；凡不属上述情况的，则应开具普通税票，在收购单位销售给出口企业时，须在产品均以全额纳税入库，经主管征税的县级税务局（分局）核实普通税票后，开具专用税票分割单。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>国家规定免税或特案批准减免税的产品，除国税发（1992）271号文件第二条规定的十三种产品继续实行不征税（不包括外商投资企业生产的产品）不退税政策外，其他产品和地方批准减免税的产品（包括新产品，华侨农场、福利企业和校办工厂生产的产品，以税还贷产品，外商投资企业生产的产品，增值税全国统一减额征税的产品，三废治理等政策性减免税产品），如销售给出口企业出口的，一律不得减免税，产品出口后按全额退税。<br>    对出口用已税的毛茶连续生产的精制茶、用已税的烟叶加工的复烤烟叶继续实行免征产品税的政策，不实行专用税票的管理。对茶叶进出口公司（或土畜产进出口公司、土产进出口公司）出口的茶叶和烟草进出口公司出口的烟叶可退还已纳的产品税。对其他企业经营出口的茶叶和烟叶不得退税。<br>    出口的猪皮革按国家的统一规定实行生产环节征税、出口后退税的政策。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>生产企业销售的内销产品，凡符合减免税规定的继续执行。属于增值税征收范围的内销产品的应纳税款，应先抵扣（或加计）出口产品按整体税金的百分之四十计算纳税而多缴或少缴的税款，然后按规定办理内销产品的减免税。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>生产企业出口或销售给出口企业和市县外贸企业的自产产品，包括扩散产品、协作生产产品。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>外轮供应公司、对外承包工程公司和对外修理修配企业出口的产品，不实行专用税票管理，仍按原规定办理退税。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>实行“定期定率”征收增值税的小型企业销售的属于增值税征收范围的出口产品，应按增值税整体税金的百分之四十计算缴纳增值税并开具专用税票。对因按增值税整体税金的百分之四十计算纳税而少缴或多缴的税款，按本规定第二条处理。不允许在每批产品按增值税整体税金的百分之四十计算纳税开具专用税票时，同时开具“收入退还书”退还多缴的税款。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>生产企业销售出口产品缴纳产品税、增值税的同时，须按规定缴纳城建税和教育费附加。对采用“收入退还书”退还多缴税款的，可同时退还多缴的城建税和教育费附加。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>生产企业和农林牧水产品的收购单位销售给本省、自治区、直辖市税务局列明的本地区出口企业、市县外贸企业和出具工商营业执照（复印件）有出口经营权的外地出口企业的产品，才能开具专用税票或分割单。销售给其他企业的，一律不得开具专用税票或分割单。<br><p></p><a name='12'><font class='TiaoNoA'>  十二、</font></a>有出口经营权的生产企业如经国家批准在其经营范围内允许收购其他生产企业产品出口的，对这部分外购产品申请退税时须附送专用税票。<br><p></p><a name='13'><font class='TiaoNoA'>  十三、</font></a>出口企业将购进的产品销售给其他出口企业的，可按国税发（1992）271号文件第三条的规定，由主管其出口退税的税务机关在专用税票或专用税票分割单上盖章或开具专用税票分割单，其他出口企业可凭此申请退税。<br><p></p><a name='14'><font class='TiaoNoA'>  十四、</font></a>生产企业、农林牧水产品的收购单位、市县外贸企业、出口企业调拨销售的出口产品，已开具专用税票或分割单的，如发生退货或改变销售对象的，调拨销售企业应负责收回专用税票或专用税票分割单，并交还给开出专用税票和分割单的税务机关。否则按偷税处理。<br><p></p><a name='15'><font class='TiaoNoA'>  十五、</font></a>出口产品专用税票及分割单，一律附送给主管出口退税的税务机关审核留存，不得留存出口企业。出口企业可留存专用税票及分割单的复印件或在有关帐薄中记录专用税票及分割单号码，以便核对<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

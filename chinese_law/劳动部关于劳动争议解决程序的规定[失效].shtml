@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1950-11-26<BR>&nbsp;&nbsp;【生效日期】1950-11-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>劳动部关于劳动争议解决程序的规定<br>
+</font></p><p align='center'><font class='STitle'>（一九五○年十一月十六日政务院批准一九五○年十一月二十六日发布）</font></p><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>    为明确解决劳动争议的手续，以贯彻“公私兼顾、劳资两利、发展生产、繁荣经济”的方针，特作以下程序的规定。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>    一切国营、公营、私营、公私合营及合作社经营的企业中之劳动争议，均须依照本规定之程序处理之。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>    确定各级人民政府之劳动行政机关为处理劳动争议之机关。发生争议双方之任何一方，均可依照本规定直接向当地劳动行政机关进行申诉．<br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>    本规定所指劳动争议之范围如下：<br>    一、关于职工劳动条件事项（如工资、工时、生活待遇等）；<br>    二、关于职工之雇用、解雇及奖罚事项；<br>    三、关于劳动保险及劳动保护事项；<br>    四、关于企业内部劳动纪律与工作规则事项；<br>    五、关于集体合同、劳动契约事项；<br>    六、其他劳动争议事项。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>    各企业内发生劳动争议时，应先由争议双方协商解决：<br>    一、双方能协商解决者，成立协议后，申请当地劳动行政机关审查备案。劳动行政机关如认为该项协议有违反政府劳动政策和法令时，得令其修改或废止之。<br>    二、双方不能协商解决者，国营、公营、公私合营与合作社经营之企业，应由争议双方之上级工会组织与上级企业主管机关协商解决；私营企业应由该产业之工会组织及同业公会协助解决。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>    劳动争议依前条第二项方式处理如仍不能解决，得申请当地劳动行政机关调解；调解不成，由劳动争议仲裁委员会仲裁之。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>    劳动争议经仲裁后，如当事人之一方仍不服时，须于仲裁决定书送达后五日内通知劳动行政机关， 并向人民法院提出控诉， 请求判决。否则，仲裁决定即具有法律效力。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>    争议双方或任何一方对劳动争议仲裁委员会之仲裁，既不按期向人民法院控诉，又不服从执行时，由劳动行政机关转送法院处理。<br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>    劳动争议发生后，在协商、调解及仲裁过程中，除经政府许可者外，双方均应维持生产原状，厂方不得有关厂、停薪、停伙及其他减低待遇之处置，劳方亦应照常生产与遵守劳动纪律。经劳动行政机关仲裁后，即使有一方表示不服，而要求提请人民法院处理时，在人民法院未判决前，双方仍应遵照仲裁之决定执行。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>    劳动行政机关有对争议双方及其有关人员传讯之权。当事人接到劳动行政机关之传讯通知后，须按时到达指定地点，听候讯问。若传讯三次不到者，可实行“缺席仲裁”；如当事人确不能出席时可指定代理人，但须得劳动行政机关认可。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>    劳动行政机关在调解、仲裁争议过程中，发现争议双方或任何一方有违法行为时，得移送人民法院处理。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>    自本规定发布施行后，各地所发布之“劳动争议解决程序的暂行规定”，有与本规定条文相抵触者，一律无效。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>    本规定由中华人民政府政务院批准发布施行。<br><br>  * 已被1993年7月6日国务院发布的《<a href=javascript:ROF(17630,0) class=alink>中华人民共和国企业劳动争议处理条例</a>》代替。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

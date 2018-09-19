@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1989-06-15<BR>&nbsp;&nbsp;【生效日期】1989-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务局关于出口产品退税几个具体问题的补充规定<br>
+</font></p><p align='center'><font class='STitle'>（1989年6月15日发布）</font></p>    为了正确贯彻出口产品退税政策，针对目前执行中存在的问题，对出口退税若干具体规定做如下补充：<br><p></p><a name='1'><font class='TiaoNoA'>一、</font></a>对国家禁止出口的产品，如有出口，不予退税。<br><p></p><a name='2'><font class='TiaoNoA'>二、</font></a>进料加工复出口产品按以下规定计算退税：<br>    （一）对加工复出口属于增值税征税范围的产品，在计算退税时，应将进出口料、件在生产环节计算征税时已抵扣的税款予以扣除。<br>    （二）对加工复出口属于产品税征税范围并按综合退税率退税的产品，在计算退税时，应扣除进口料、件在进口环节已减免的税款；对属于产品税征税范围而按产品税税率退税的产品，在计算退税时，对其所用进口料、件已减免的税款不做扣除。<br>    （三）计算扣除已减免进口料、件税款的公式如下：<br>    扣除税款＝（进口料、件的到岸价×外汇人民币牌价＋实纳关税＋实纳产品税或增值税＋口岸费用）×进口料、件的产品税适用税率或增值税的扣除税率－进口环节实纳产品税、增值税。<br>    （四）进料加工复出口产品所用进口料、件的减免税金额，原则上在购进月份办理退税时一次扣除。个别企业因进口料、件量大，生产周期长，一次扣除确有困难的，经主管出口退税的税务机关批准，可根据实际情况，在退税时分期扣除。<br>    （五）对外贸包装公司用进口料、件包装产品出口或加工成包装物出口的，在计算退税时，应扣除进口料、件在进口环节减免的产品税、增值税金额。<br><p></p><a name='3'><font class='TiaoNoA'>三、</font></a>对出口以无税或低税产品为原料生产的产品，各地应当按照产品的实际税负核定退税率，据以计算退税。外贸企业提供不了有关资料或者实际税负不清的，按照不高于5％的税率计算退税。<br><p></p><a name='4'><font class='TiaoNoA'>四、</font></a>对外承包工程公司购买国内生产的施工设备到国外施工使用，不予退税。<br><p></p><a name='5'><font class='TiaoNoA'>五、</font></a>对工贸与外贸企业互相委托出口的产品，在申报退税时，必须提供“代理出口产品证明”；对委托两个以上企业共同办理出口代理业务的，受托方均应开具“代理出口产品证明”。<br>    “代理出口产品证明”须经受托企业所在地市、县以上税务局审核盖章，方可据以办理退税。<br><p></p><a name='6'><font class='TiaoNoA'>六、</font></a>对于代理出口的产品，应将所退税款退给承担出口盈亏的企业。对于委托者与代理者实行出口盈亏包干的代理出口业务，如明确规定将税款退给代理者的，可退税给代理方，委托方不得办理退税。<br><p></p><a name='7'><font class='TiaoNoA'>七、</font></a>两个以上企业联营出口产品，由负责报关的出口企业凭进货发票、出口发票、报关单等有关证明在报关企业所在地统一办理退税。<br><p></p><a name='8'><font class='TiaoNoA'>八、</font></a>出口企业从生产企业购进产品出口的，在申请退税时必须提供生产企业开具的发票；从外贸系统内部调拨产品出口的，每个调拨环节都必须在调拨单上分别列明进货原价和费用；税务机关可以根据外贸公司（包括工贸公司）提供的上述凭证，确定费用扣除率。对出口企业从商业等非生产企业购进产品出口的，凡提供不出生产企业发票的，一律按不低于15％的费用扣除率计算退税；对出口企业提供的出口产品的进货价格明显高于生产企业出厂价格的，主管出口退税的税务机关有权根据实际情况核定退税价格。<br>    外轮供应公司办理退税，其计算退税的产品价格和费用扣除也按上述规定执行。<br><p></p><a name='9'><font class='TiaoNoA'>九、</font></a>税务机关在核定产品退税率或费用扣除率时，出口企业应提供产品纳税等有关资料。办理退税的税务机关如对提供的资料需要核定的，可用信函等形式向生产企业所在地的税务机关进行调查，有关税务机关必须予以配合。<br><p></p><a name='10'><font class='TiaoNoA'>十、</font></a>出口产品退税一律以产品在财务上做出口销售的时间为准。出口产品退税的规定如有变更，其执行时间也按此规定办理。<br><p></p><a name='11'><font class='TiaoNoA'>十一、</font></a>本规定从1989年7月1日起执行。过去的规定与本规定抵触的，以本规定为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

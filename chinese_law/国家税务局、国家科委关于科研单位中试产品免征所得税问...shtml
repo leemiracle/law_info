@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局/国家计委<BR>&nbsp;&nbsp;【发布文号】(89)国税所字第220号<BR>&nbsp;&nbsp;【发布日期】1989-12-23<BR>&nbsp;&nbsp;【生效日期】1990-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 国家税务局国家科委关于科研单位中试产品免征所得税问题的若干规定<br>
+</font></p><p align='center'><font class='STitle'>（1989年12月23日（89）国税所字第220号）</font></p>各省、自治区、直辖市税务局、科委，各计划单列省辖市税务局、科委：<br>    为了深化科技体制改革，运用税收经济杠杆，促进科技与经济的紧密结合，推动科研单位的科技成果迅速转化为生产力，增强科研单位的经济实力和发展能力，加速科学技术和经济建设的发展，鉴于科技活动的特点，现对科研单位的中试产品免征所得税问题作如下规定：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>中间试验是指经初步技术鉴定或实验室阶段研试取得成功的科技成果到生产定型（生产鉴定）以前的科技活动。应包括：<br>    1．科研单位独立进行的中间试验：<br>    2．科研单位进入大中型企业和租凭承包中小企业或与企业形成科研生产联合体后进行的中间试验。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>中试产品的范围是指经初步技术鉴定或实验室阶段研试成功的科技成果，为验证、补充相关数据，确定、完善技术规范（即产品标准和产品工艺规程）或解决工业化、商品化规模生产关键技术而进行的试验或试生产阶段的产品。应包括：<br>    1．经初步技术鉴定或实验室阶段研试成功的样机（或样品），为了稳定、完善、提高性能而进行的试验或试生产阶段的产品；<br>    2．经初步技术鉴定或实验室阶段研试成功的新工艺、新材料、新设备等科技成果为了用于工业化生产而进行的试验或试生产阶段的产品；<br>    3．为了消化、吸收、推广国外先进技术（系指能填补国内空白的）而进行的试验或试生产阶段的产品；<br>    4．对原系统的性能有较大改进的系统性项目，经初步技术鉴定后所进行的试验或试生产阶段的产品；<br>    5．农、林、牧、渔、水利、医药卫生、社会福利、能源、环保等科技成果，经初步技术鉴定或实验室阶段研试成功后在试验场、基地、室、车间（农业包括小面积试验成功后区域试验、生产试验，医药包括临床试验）进行的试验或试生产阶段的产品；<br>    6．对已有产品在产品结构、性能、工艺上有重大改进，经初步技术鉴定或实验室阶段研试成功后所进行的试验或试生产阶段的产品。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>对国民经济或国防建设有重大影响，技术难度大、批量小、企业难以安排生产的或能替代进口且国家急需的或直接用于科研试验用的产品（或化学试剂等），可视同中试产品享受免税或减税优惠。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>凡属于下列情况之一者，不属于中试产品免税范围：<br>    1．已经生产鉴定的批量生产产品；<br>    2．一般生产过程中的技术维修、技术措施、技术革新和安全防护的设备；<br>    3．科研或中试过程中使用的试验设施。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>科研单位的科技成果经初步技术鉴定或实验室阶段研试成功后，可向所在省、自治区、直辖市和计划单列省辖市科委申报《中试产品立项免税申请表》，经上述科委审查确定后，报同级税务部门审查批准，免征中试产品所得税。<br>    国务院各部委和中国科学院所属科研单位也可以在主管部门立项，由主管部门（包括中国科学院）统一向国家科委申报《中试产品立项免税申请表》，经国家科委审查确定后，报国家税务局审查批准，免征中试产品所得税。<br>    中试产品立项免税申报时间由各地自行确定。《中试产品立项免税申请表》的内容应包括：<br>    1．中试产品试制单位全称及行业主管单位；<br>    2．中试产品名称；<br>    3．中试产品的性能、作用简介；<br>    4．科技成果研制起止日期；<br>    5．科技成果鉴定的批准单位和日期；<br>    6．专家鉴定主要意见；<br>    7．申请中试免税期限；<br>    8．填表日期。<br>    并附：（1）科技成果鉴定或研试情况报告；<br>    （2）中间试验可行性报告（含投入经营情况、资金回收预测）。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>中试产品的免税期限应根据不同行业和产品的特点确定，一般为一至三年。主要依据如下：<br>    1．中试周期长短；<br>    2．技术难度及规模大小；<br>    3．中试产品类别；<br>    4．投资获利程序＜指科研单位对中试的总投入（包括资金、中试装置、设备仪器和原材料、相应的人员工资、管理费用等）与该项中试盈利之比，在中试产品免税年限到期后，允许科研单位在中试产品的纯收入开始超过总投入后再开征所得税，但最长免税年限不能超过本规定的免税期限＞；<br>    5．科研成果经中试后投入工业化生产的作用大小；<br>    6．国家政策需要鼓励和扶植的项目及薄弱的专业、学科等。<br>    中试产品免税期满后，按国家有关规章纳税。对中试周期长、投入大、盈利低微、纳税确有困难的项目（指那些根据技术要求中试期必须超过三年的项目；那些因中试需要，总投入不能在免税期内全部回收的项目）按税收管理权限，报经税务部门批准后，可酌情给予延长一年的减税或免税照顾。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>中试产品的免税期按税务部门批准的日期计算。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>中试产品的减免的税款应用于事业发展。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>为便于执行，科研单位中试产品的免税期限内的所得应同其他所得划分清楚，分别计帐，单独计算盈亏。划分不清的，不能享受本规定的照顾。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>本规定的适用范围为：由中央或地方财政拨付科学事业费（包括减拨事业费以前由财政拨付事业费）的全民所有制的独立的科研单位（含军口各部所属的科研单位）；经国家科委或各省、市、自治区、计划单列市科委新批准的而中央或地方财政不拨付事业费的全民所有制的独立的科研单位。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>本规定自1990年1月1日起执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

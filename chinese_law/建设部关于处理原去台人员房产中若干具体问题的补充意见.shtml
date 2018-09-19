@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】建房[1993]487号<BR>&nbsp;&nbsp;【发布日期】1993-07-03<BR>&nbsp;&nbsp;【生效日期】1993-07-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 建设部关于<br>
+ 办理原去台人员房产中若干具体问题的补充意见<br>
+</font></p><p align='center'><font class='STitle'>（1993年7月3日建房［1993］487号）</font></p>为了更好地贯彻落实中共中央办公厅、国务院办公厅中办发［1991］9号文件《关于处理原去台人员房产问题的通知》及我部建房［1992］44号文件《关于印发（关于处理原去台人员房产问题的实施细则）的通知》（以下简称“两文”），现对贯彻执行中需要进一步明确的若干具体问题的处理、提出下列补充意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于接管、没收房产的确权<br>    （一）原去台人员房，当时已明令接管、没收，但是具体接管手续不完备的、按以下不同情况处理：<br>    1．已由当地人民政府房地产主管部门或其它部门作为公有房屋管理使用的，不再变动、产权属于国家或集体所有。<br>    2．房产一直由产权所有人的亲友或其委托的代理人管理使用，并已经由房地产管理部门登记发证的，可以不再按接管、没收处理。<br>    （二）“文革”前，城市郊区、小城市或集镇的地主的多余房屋，按照《城市郊区土地改革条例》及当时各大行政区军政委员会和省、自治区、直辖市人民政府有关政策、规定没收的房产，均不再变动；<br>    （三）对原去台人员已经接管、没收的房产，一律不再重新处理。按当时政策规定如确属错误接管、没收的，允许房屋产权人向房屋所在地的人民政府落实房屋政策主管部门或人民法院申诉，经原批准接管、没收的省（自治区、直辖市）、市人民政府或人民法院（包括上级人民政府和人民法院）复查纠正后，按照“两文”及本补充意见处理。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于产权人身份的确认<br>    （一）原去台人员的代管房产，属于历史遗留问题，对产权人去台身份的确认，应以其房产被代管时本人已经去台为准；<br>    （二）原去台人员，须持有台湾主管部门出具的本人去台定居时间的有效证明，予以认定；<br>    （三）原国民党起义投诚人员（包括少数高层人士）的身份，以县以上人民政府所发的起义投诚人员证件或证明，予以确认；少数没有证件的，以县以上人民政府台办或统战等有关部门出具的确认证明，予以认定。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>关于残值补偿及补收、补扣维修费用<br>    （一）残值是指对代管房产按当地核实的重置价格扣除使用年限折旧后的余值。计算折旧一般应以落实房屋政策主管部门批准处理到户的时间为准；<br>    （二）原去台人员的房产，在代管期间已交换产权的，如原房尚在，按照原房现状补偿残值；原房不在的，可参照交换的房产残值给予补偿；<br>    （三）按政策规定可以发还原房，但因特殊需要而由用房单位安置住房并给予产权的，则应参照原房，酌情补收维修费用。<br>    （四）对不发还原房，也不安置住房的，其残补偿进，可减免应补扣的维修费用。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>关于处理范围及发还原房<br>    （一）原去台人员的代管房产，现仍为其直系亲属居住使用的部分，可以发还其原房产权；<br>    （二）由于历史的原因，原去台人员近亲属的房产按去台人员代管的，参照“两文”及本补充意见处理；<br>    （三）原去台人员代管的房产，属于共同共有的，需经共有人共同申请，按“两文”及本补充意见处理；<br>    （四）房屋产权人产权证件遗失，产权人提不出任何证件或证件不足，经查内部档案也不能认定产权的，暂缓办理。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>关于私房改造中的出租房屋<br>    （一）出租房屋应以代管时是否出租来认定；<br>    （二）对代管房产中属于改造范围的出租房屋（在当地开展私房改造以前已拆除的除外），在处理时应执行有起点改造。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>关于处理中需注意的政策衔接<br>    （一）中办发［1991］9号文件下发前，按照中央有关规定，已经由当地人民政府落实房屋政策主管部门提出处理意见，现在办理取证等事宜尚未结案的，可仍按原意见继续处理。不属上述情况的、一律按“两文”及本补充意见规定处理；<br>    （二）根据中央“可承认其产权但不发还原房，对残值给予适当补偿”的规定精神，原去台人员不属改造范围的代管房产，因城市建设或国家特殊需要必须及时处理的，在尚未处理到户的情况下，可在做好“证据保全”工作后、由当地落实房屋政策主管部门按“两文”及本补充意见规定确定补偿，并报经县以上人民政府批准；<br>    （三）未经处理代管的房产，不准进行买卖、赠与、交换、抵押等产权处分，原产权人私人处分的，亦属无效。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>关于对去台人员房产应实行统管的问题<br>    根据国务院国发［1983］139号文件的规定：“对原拨给单位使用的代管房产，为了便于落实政策、应由房管部门统一经营管理。如需继续使用的，要建立租赁关系，按规定交纳房租”；原代管房产如需改用于经营第三产业或其它改变使用性质或转租使用的，应报经当地人民政府落实房屋政策主管部门批准；<br>    部门住用的代管房产的管理，仍按国务院、中央军委国发［1988］46号文件有关规定执行。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>关于对代管房产处理所需资金<br>    处理原去台人员的代管房产所需资金，应按照国家和省、市人民政府有关财政规定，结合各地实际多方筹措，开辟资金来源。<br>    （一）历年国家建设拆除或有偿调拨的代管房产，由应发未发的补偿款或作价款中列专项拨给；<br>    （二）由历年上缴财政代管房产变价收入中拨出一部分或全部。<br>    （三）近年来、在土地供应中含有代管房产宅基地的，可从有偿使用土地收入中提取相应部分；<br>    （四）少数地区经多方筹集资金尚有缺口的，由当地人民政府负责解决。<br>    当地人民政府筹措到的资金，应由落实房屋政策主管部门统一管理，亏款专用。此项资金，经当地人民政府同意、可以通过参与房地产经营活动，滚动增殖，以解决和扩大落实房屋政策资金来源，减轻国家财政负担。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

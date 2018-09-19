@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】税务总局<BR>&nbsp;&nbsp;【发布文号】国税发(1994)238号<BR>&nbsp;&nbsp;【发布日期】1994-11-03<BR>&nbsp;&nbsp;【生效日期】1994-11-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】国家法律法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于<br>
+ 海洋石油税务系统管理体制调整问题的通知<br>
+</font></p><p align='center'><font class='STitle'>（1994年11月3日国税发（1994）238号）</font></p>天津市、上海市、广东省国家税务局，海洋石油税务管理局天津、上海、广州、湛江分局、深圳征收处，加发广州、深圳、湛江市国家税务局：<br>    海洋石油税务系统是适应改革开放，吸引外资，合作开发我国海上石油资源的需要而建立的一个专业税收机构。成立十多年来，在贯彻党和国家的方针政策，宣传、执行税法，完善海洋石油税收政策，以及征收管理和干部队伍建设等方面都做出了显著的成绩。为了进一步适应当前财税体制改革和国家税务局系统实行垂直管理的新情况，经国家税务总局党组研究，决定1995年1月1日起调整海洋石油税务系统管理体制。现将有关问题通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>调整的原则<br>    （一）这次对海洋石油税务系统的调整只是管理体制和机构规格的调整。调整后的海洋石油税务系统对外仍保留原有的框架，对内统一纳入国家税务局系统的垂直管理序列，划归所在市国家税务局管理。<br>    （二）调整后的海洋石油税务系统保持四个不变，即对外名称不变、机构不变、办公地点不变和国务院规定的业务范围不变。根据国务院国函字（82）159号文件和财政部财税字（83）129号文件规定，调整后的海洋石油税务系统的征管范围仍为：中国海洋石油总公司及其所属地区公司和专业公司；与我国海洋石油公司合作开采海洋石油的外国公司；专为开采海洋石油承包海上生产、生活服务项目的外国公司或企业；专为海洋石油开采工程作业的中国海洋石油公司和外商合资经营的公司或企业。这些公司或企业，机构不设在海洋石油税务分局所在地的，其有关税收的征收管理工作，由就近的海洋石油税务分局负责办理。此外，中国石油天然气勘探开发公司及机构设在分局所在地的参与合作开采陆地石油天然气的外国公司的税收，也比照前述规定，由有关分局征收管理。<br>    （三）海洋石油税收工作有其自身的特点，调整既要符合当前的实际情况，又要考虑到今后海洋石油税收的变化和发展。因而，调整过程中要妥善安排好各级干部，确保干部队伍特别是业务骨干的相对稳定。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>调整的内容<br>    （一）在总局机关内部，海洋石油税务管理局与涉外税务管理司合署办公，对外保留两个单位的名称。海洋石油税务管理局税政处、征管处整建制划归涉外税务管理司，更名为石油税政处、征管处；综合处与涉外税务管理司综合处合并；撤销办公室和人事监察处，其人员调整到总局内其他单位。<br>    （二）天津、上海、广州、湛江分局及深圳征收处划归所在市国家税务局管理，其机构规格均为正处级。管理体制变更后，对外仍分别保留国家税务总局海洋石油税务管理局天津、上海、广州、湛江分局牌子；由于调整后深圳征收处与广州分局不再有隶属关系，其保留的牌子变更为“国家税务总局海洋石油税务管理局深圳征收处”。<br>    （三）各分局（处）原有财、物划归所在市国家税务局统一管理。移交前，要认真清理，登记造册，严格交接手续，并进行必要的审计。<br>    （四）为了解决目前海洋石油税务系统各单位业务不饱满的问题，调整后，有关市国家税务局根据工作情况，适当安排其它涉外税收业务。为了便于开展工作，可再挂一个机构的牌子，具体名称由所在省（市）国家税务局确定。<br>    （五）海洋石油税收业务划归有关省市国家税务局后，其税政工作由各局涉外税收管理机构负责。<br>    （六）各分局原正副局长的工作安排由总局统筹考虑。调整后的各分局及征收处负责人由海洋石油税务局系统内部产生。为尽量安排好现有处级干部，可适当增加副职和非领导职数。处级干部的调整，由人事司、海洋石油税务管理局商有关省、市国家税务局确定；干部的任命及调整后干部的管理均按所在省（市）国家税务局的干部管理权限办理。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>具体要求<br>    （一）有关省、市国家税务局领导要高度重视这次调整工作，切实加强领导，精心组织实施，确保调整工作的顺利进行。<br>    （二）要采取有力措施，加强组织纪律性，强化管理工作，确保业务工作不受影响，业务资料不流失，公共财产不受损失和人员的平稳过渡。<br>    （三）调整过程中，要注意充分发挥各级领导和党、团组织的作用，加强思想政治工作，提高广大职工对调整工作重要性的认识，增强以大局为重的自觉性。<br>    （四）此次调整工作任务重、时间紧、难度大，因此，有关省、市国家税务局要在总局统一部署下，积极主动地做好接收、安置和管理工作，以便尽快建立起新的海洋石油税收运行机制。1994年底以前的各项工作仍按原管理体制运行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>
