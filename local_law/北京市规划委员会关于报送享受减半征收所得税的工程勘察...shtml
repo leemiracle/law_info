@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80103<BR>&nbsp;&nbsp;【发布文号】市规发[2001]859号<BR>&nbsp;&nbsp;【发布日期】2001-08-16<BR>&nbsp;&nbsp;【生效日期】2001-08-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市规划委员会关于报送享受减半征收<br>
+所得税的工程勘察设计单位名单的函<br>
+</font></p><p align='center'><font class='STitle'>（市规发［2001］859号）</font></p>市地税局：<br>    现将落实京政办发［2001］48号文件《北京市人民政府办公厅转发市规划委等部门关于市属工程勘察设计单位体制改革若干意见的通知》，享受扶持政策第四条第三款的单位名单提供给贵局，恳请转告其所在地区税务部门，协助予以逐一落实减半征收企业所得税和技术开发、技术转让以及在技术转让过程中发生的技术咨询、技术服务、技术培训所得年净收入在30万元以下的暂免征收企业所得税的政策。<br><br>                                                  二00一年八月十六日<br><br><p class='zhang'>  附：            北京市市属勘察测绘设计事业单位名单</p><br><pre><br>序号             单位名称             单位性质  资格  纳税      注册<br>                                                等级  地点      字号 <br>1   北京市建筑设计研究院              自收自支  甲级  西城区  01533     <br>2   北京市市政设计研究总院            自收自支  甲级  西城区  00912     <br>3   北京市城市规划设计研究院          差额拨款  甲级  西城区  00604     <br>4   北京市工业设计研究院              差额拨款  甲级  宣武区  01378     <br>5   北京市维拓时代建筑研究院          自收自支  甲级  朝阳区  00333     <br>6   北京市建筑材料工业设计院          自收自支  甲级  朝阳区  00493     <br>7   北京市煤气热力工程设计院          自收自支  甲级  西城区  00486     <br>8   北京市水利规划设计研究院          自收自支  甲级  海淀区  01099     <br>9   北京市园林古建设计研究院          自收自支  甲级  海淀区  00514     <br>10  北京市第一轻工业设计所            自收自支  乙级  西城区  00014     <br>11  北京市粮食工程设计院              自收自支  乙级  宣武区  00965     <br>12  北京市公路局公路设计研究院        自收自支  乙级  宣武区  00741     <br>13  北京市丰台区建筑市政设计院        自收自支  乙级  丰台区  06-476    <br>14  北京市昌平科海建筑设计院          自收自支  乙级  昌平区  21-0461   <br>15  北京市勘察设计研究院              自收自支  甲级  海淀区  01487     <br>16  北京市测绘设计研究院              差额拨款  甲级  海淀区  01343     <br>17  北京市文物建筑保护设计院          全额拨款  乙级  无登记  01444     <br>18  北京自动化系统工程设计院          自收自支  甲级  西城区  00100     <br>19  北京市水利水电设计中心            自收自支  丙级  海淀区  01111     <br>20  北京市科技建筑设计所              自收自支  丙级  西城区  01696     <br>21  北京市电子工业建筑设计所          自收自支  丙级  东城区  00392     <br>22  北京市民政局建筑设计所            自收自支  丙级  东城区  00398     <br>23  北京京耀医药工程设计所            自收自支  丙级  西城区  01566     <br>24  北京市华宇星园林古建设计所        自收自支  丙级  西城区  00517     <br>25  北京北节能湖设计所                自收自支  丙级  朝阳区  1110000742<br>26  北京房地产勘察测绘所              差额拨款  乙级  东城区  00316     <br>27  北京市宣武区建筑勘察设计所        自收自支  丙级  宣武区  04-0004   <br>28  北京宣美园林绿化设计所            自收自支  丙级  宣武区  04-0044   <br>29  北京市朝阳区水利设计室            自收自支  丙级  朝阳区  05-0411   <br>30  北京市海淀区建筑设计所            自收自支  丙级  海淀区  08-0088   <br>31  北京市海淀区园林工程设计所        自收自支  丙级  海淀区  08-0051   <br>32  北京市房山区建筑勘察所            自收自支  丙级  房山区  11-0379   <br>33  北京市房山区建筑设计所            自收自支  丙级  房山区  11-0160   <br>34  北京市房山区城乡规划设计所        自收自支  丙级  房山区  11-0162   <br>35  北京市通州区建筑勘察设计所        自收自支  丙级  通州区  23-0223   <br>36  北京市通州区市政工程设计所        自收自支  丙级  通州区  23-0154   <br>37  北京市顺义区建筑设计所            自收自支  丙级  顺义区  22-0092   <br>38  北京市顺义区工程勘察所            自收自支  丙级  顺义区  22-0093   <br>39  北京市顺建市政设计所              自收自支  丙级  顺义区  22-0254   <br>40  北京市顺义区园林规划设计所        自收自支  丙级  顺义区  22-0059   <br>41  北京市顺义区规划测绘设计所        自收自支  丙级  顺义区  22-0094   <br>42  北京市怀柔利时规划勘察设计所      自收自支  丙级  怀柔县  27-0063   <br>43  北京市怀柔县测绘所                自收自支  丙级  怀柔县  27-0064   <br>44  北京市密云县水利勘察设计所        自收自支  丙级  密云县  28-0159   <br>45  北京市密云县建筑设计所            自收自支  丙级  密云县  28-0003   <br>46  北京市延庆县建筑设计所            自收自支  丙级  延庆县  29-0170   <br>47  北京市延庆县工程勘察所            自收自支  丙级  延庆县  29-0252   <br>48  北京市大兴县建筑勘察设计所        自收自支  丙级  大兴区  24-0015   <br>49  北京市大兴县市政工程设计所        自收自支  丙级  大兴区  24-0072   <br>50  北京市远大规划设计所              自收自支  丙级  大兴区  24-0261   <br>51  北京市平谷县水资源局工程勘察所    自收自支  丙级  平谷县  26-0258   <br>52  北京市平谷县建筑设计所            自收自支  丙级  平谷县  26-0151   <br>53  北京市平谷县城乡规划设计所        自收自支  丙级  平谷县  26-0207   <br>54  北京市平谷工程勘察所              自收自支  丙级  平谷县  26-0152   <br>55  北京市昌平县工程勘察所            自收自支  丙级  昌平区  21-0337   <br>56  北京市昌平县水资源局勘察设计所    自收自支  丙级  昌平区  21-0144   <br>57  北京市昌平县城镇规划设计所        自收自支  丙级  昌平区  21-0451   <br>58  北京市昌平县工程测量所            自收自支  丙级  昌平区  21-0065   <br>59  北京市密云县规划设计所            自收自支  丙级  密云县  110228-   <br>                                                              <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

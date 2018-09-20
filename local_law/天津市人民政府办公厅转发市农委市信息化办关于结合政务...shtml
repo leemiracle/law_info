@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政办发〔2003〕042号<BR>&nbsp;&nbsp;【发布日期】2003-07-29<BR>&nbsp;&nbsp;【生效日期】2003-07-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅转发市农委市信息化办<br>关于结合政务专网建设建立农村“非典”<br>疫情信息网络系统实施方案的通知<br><br></font>(津政办发〔2003〕042号)</p><br><br><br>有农业的区及各县人民政府，有关单位：<br><br>    市农委、市信息化办《关于结合政务专网建设建立农村非典疫情信息网络系统的实施方案》已经市人民政府领导同志同意，现转发给你们，请照此执行。<br><br><br>                              二ＯＯ三年七月二十九日<br><br>    关于结合政务专网建设建立农村非典疫情信息网络系统的实施方案<br><br><br>    为了更好地贯彻落实党中央、国务院和市委、市政府关于切实做好农村非典型肺炎防治工作的一系列指示精神，及时准确地上报全市农村“非典”疫情信息，对“非典”疫情进行实时监测，保证信息渠道畅通，现就结合政务专网建设建立农村“非典”疫情信息网络系统提出如下实施方案。<br><br>    一、指导思想<br><br>    认真贯彻党中央、国务院和市委、市政府关于防治“非典”的一系列指示精神，总结抗击“非典”工作的经验，结合农口政务专网建设，充分利用郊区现有的信息网络资源，建立农村非典疫情信息网络系统，为市领导和有关部门全面、及时、准确地掌握农村疫情提供信息服务。逐步建立农村重大突发事件信息报送机制，为农村经济发展、农民增加收入和农村社会稳定提供可靠保障。<br><br>    二、主要工作目标<br><br>    （一）利用政务专网、公共通信网和各区县的网络资源，建立从市到区县、乡镇、行政村（下同）的四级网络构架。政务网实现宽带到区县，乡镇、村以拨号方式接连到区县，有条件的乡镇、村也可采用宽带接入。<br><br>    （二）实现乡镇、村两级“非典”疫情的远程数据上传到区县，区县进行汇总并通过市“非典”疫情报告网传送到市防病中心。<br><br>    （三）区县及乡镇人民政府要紧密结合2003年市政府关于改善农村人民生活十项工作的决定，抓紧农村信息服务站点的建设，积极开展以农业科技、市场信息和政务信息为重点的网络信息服务， 推动农村、 企业、农户“三上网”工程，提前实现“村村通”。<br><br>    三、各级节点任务及要求<br><br>    （一）区县级网络中心：利用各区县网络中心或公共通信系统的设施，建立服务平台。<br><br>    1．为乡镇、村提供远程登录服务，并以浏览器／服务器方式接收乡镇、村上报疫情数据；<br><br>    2．建立本地区疫情数据库；<br><br>    3．接受区县防疫站的登录，对乡镇、村报送疫情进行查询、统计、汇总、审核、上报；<br><br>    4．推进面向乡镇、村、农民和企业的信息服务；<br><br>    5．负责乡镇、村有关人员的操作培训。<br><br>    （二）乡镇级信息报送点：<br><br>    1．乡镇信息报送点可设在乡镇政府办公室；<br><br>    2．配置上网终端，采用专线、ＡＤＳＬ、ＩＳＤＮ或拨号登录本区县网络中心；<br><br>    3．通过区县网络中心服务器，审核本乡镇各村上报数据，并汇总上报到区县网络中心。<br><br>    （三）村级信息报送点：<br><br>    1．村级信息报送点由村党支部或村委会负责；<br><br>    2．配置上网终端，采用专线、ＡＤＳＬ、ＩＳＤＮ或拨号登录本区县网络中心；<br><br>    3．汇总、审核本村上报数据，并通过浏览器传送到区县网络中心；<br><br>    4．对于个别偏僻村，由于特殊原因不具备计算机上网条件的，可采用传真等方式，将数据上报到所属乡镇，由乡镇代为登录汇总信息。<br><br>    四、项目资金筹措<br><br>    项目所需资金由市信息化办安排300万元，市农委安排300万元，12个有农业的区县人民政府共安排300万元，乡镇、村节点自筹300万元，总计1200万元。<br><br>    各节点计算机的购置以区县为单位采取政府采购的方式解决。计算机配置标准不得低于Ｃ1．3Ｇ／128Ｍ／20Ｇ／52ＸＣＤ／1．44Ｍ／56Ｋ／10－100Ｍ／15′。市级资金为每个村节点购置设备补助1200元。<br><br>    已有计算机且具备联网条件的村，可以不再购置计算机。其配置要求：最低要达到586以上机型，内存64ＭＢ、硬盘1ＧＢ以上、ＳＶＧＡ彩显、调制解调器33．6Ｋ以上（或10Ｍ网卡）、操作系统Ｗｉｎｄｏｗｓ98以上。<br><br>    五、组织分工<br><br>    （一）市信息化办负责协调与公共通信、卫生防疫等有关方面的合作。<br><br>    （二）市农委负责组织各区县进行现场条件调研、信息报送点设置、资金筹集、设备采购、补贴计划编制等具体实施工作。市农委、市信息化办参与各区县的政府采购过程。<br><br>    （三）由市信息化办会同市农委负责组织有关部门和专家制定项目标准和组织工程验收。<br><br>    （四）由天津通信公司负责为没有网络中心的区县提供虚拟服务器。<br><br>    六、项目验收方法及标准<br><br>    （一）项目验收以区县为单位。市信息化办、市农委委托区县人民政府组织有关部门及专家组成验收组进行验收。<br><br>    （二）验收分两步进行。第一步验收农村“非典”疫情信息网络系统；第二步验收“村村通”农村信息服务系统。<br><br>    （三）在区县信息平台实施现场验收，由乡镇、村进行模拟数据传送，然后进行区县级模拟数据汇总。<br><br>    （四）区县的信息平台必须保证所属乡镇、村都能够顺利登录，并具备为其传送疫情信息报告等功能。<br><br>    （五）各乡镇、村必须配备符合要求的计算机，保证设备完好、运行稳定、能登录区县网络平台。<br><br>    （六）区县、乡镇、村要落实三级“非典”疫情信息网络的责任人和农村信息服务站点的负责人。<br><br><br>                            天津市农村工作委员会<br>                        天津市人民政府信息化办公室<br>                            二ＯＯ三年六月十三日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

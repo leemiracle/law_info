@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81903<BR>&nbsp;&nbsp;【发布文号】粤价[2001]79号<BR>&nbsp;&nbsp;【发布日期】2001-04-19<BR>&nbsp;&nbsp;【生效日期】2001-06-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 广东省物价局关于旅业代办电信业务收费有关问题的通知<br>
+</font></p><p align='center'><font class='STitle'>（二00一年四月十九日粤价〔2001〕79号）</font></p>各市、县（区）、自治县物价局：<br>    根据国家计委的有关规定，以及电信资费结构性调整的实际情况，为规范我省宾馆、饭店、招待所代办电信业务收费行为，维护企业和用户合法权益，现就有关问题通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>各宾馆、饭店、招待所在安装经有关部门检验合格的电信计费设备的前提下，住（租）客拨打本地网市县行政区间、营业区间、营业区内的电话、传呼台、移动电话以及长途电话，通话费由住（租）客负担；住（租）客上网的通信费由住（租）客负担；住（租）客拨打电话声讯台的信息服务资费由住（租）客负担。凡没有安装计费设施的，不得向住（租）客收取上述费用。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>规范代办电信服务费收费方式和收费标准。代办电信（除代办传真服务外）服务费统一采用定比法计费，取消定额法计费方式。代办电信服务除按国家规定的电信资费标准向使用者收取电信资费外，还可按实收资费的一定比例收取服务费，其中五、四星级宾馆（饭店）为15％，三星级为13％，二、一星级为10％，没有评定星级的宾馆、饭店、招待所一律按7％计收代办电信服务费。个别没有评定星级，但设备与服务档次较高的宾馆（饭店），报同级物价主管部门批准后，可按相当星级（原则上应低靠一个星级）宾馆的标准计收电信服务费。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>宾馆（饭店、招待所）长包房的代办电信服务费由供需双方在不超过散客标准的范围内协商议定。客户拥有使用权的直拨电话，凡由用户直接向电信企业缴交电信资费的，不必缴交电信服务费。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>调整代办传真服务费收费标准。代客户办理传真服务除收取实际通话资费外，可按收、发传真（以每张Ａ4纸计）页数收取服务费，其中五、四星级宾馆（饭店）每张5元，三星级每张4元，二、一星级每张3元，没有评定星级的宾馆、饭店、招待所每张2元。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>宾馆、饭店、招待所要做好代办电信业务服务收费的明码标价工作，在客房内要有明显标示，让每一住（租）客清楚地了解收费规定。收费时必须向住（租）客提供收费发票和计费帐单。对违反上述规定引起住（租）客投诉的价格违法行为，由物价部门依法查处。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>各收费单位应到同级物价局申领《广东省经营服务性收费许可证》。<br>    上述规定自2001年6月1日零时起执行，过去规定与本通知不符的，一律以本通知为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

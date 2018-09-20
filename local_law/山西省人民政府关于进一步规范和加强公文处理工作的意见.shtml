@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政发〔2003〕18号<BR>&nbsp;&nbsp;【发布日期】2003-09-11<BR>&nbsp;&nbsp;【生效日期】2003-09-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府关于进一步规范和加强公文处理工作的意见<br><br></font>(晋政发〔2003〕18号)</p><br> <br><br>吕梁地区行政公署，各市、县人民政府，省人民政府各委、厅，各直属机构： <br>    《国务院关于发布〈国家行政机关公文处理办法〉的通知》（国发〔2000〕23号，以下简称《办法》）下发以来，我省认真贯彻执行，并结合实际，先后下发了《山西省人民政府办公厅关于认真贯彻〈国家行政机关公文处理办法〉做好公文处理工作有关事项的通知》（晋政办发〔2001〕18号，以下简称《通知》）和《山西省人民政府关于进一步做好公文处理工作的意见》（晋政发〔2001〕34号，以下简称《意见》）。各级、各部门根据《办法》、《通知》和《意见》精神认真改进公文处理工作，着力提高工作的质量和效率，取得了一定的成绩。但是，仍存在着一些问题不容忽视。 <br>    这些问题主要表现在：一些地方和部门向省人民政府报送的文件格式不规范，行文关系不规则，错漏频出；以文件落实文件、多头发文、任意提高文件等级和紧急程度等，形式主义、文牍主义的现象依然存在，甚至有的还比较严重；不少文件因人为因素而延误时机，平急公文变成紧急公文并草草上报；有的部门保密工作尚不够落实，在涉及国家秘密公文的草拟、审批、报送等环节上存在不同程度的失密隐患；还有的属于部门职能和该办的事项，仍上交给省人民政府办公厅代办，有的甚至直接报送给省人民政府领导同志个人，有些把两个文件合在一起，称请示报告，给文秘部门处理公文增加了难度，误时、误事。诸如此类问题，尽管只是个别情况，但却屡禁不止，长而久之，必将影响全局。为此，从着眼于建立并完善行为规范、运转协调、公正透明、廉洁高效、奋发有为的行政管理体制出发，应尽快加以解决。 <br>    为进一步规范公文处理，促进政务工作有序开展，现提出如下意见： <br>    一、各级、各部门要加强领导、明确责任，严格执行《办法》及我省有关公文处理工作的规定，建立、健全并落实公文处理工作的各项制度。 <br>    各级、各部门要把规范公文处理工作，纳入政务建设的内容，主要负责人要重视此项工作，并分工专人，具体负责。要高度重视，模范遵守《办法》及我省的有关规定，加强对本机关公文处理工作的指导、监督和检查，确保《办法》的精神和省人民政府及办公厅有关公文处理的规定落到实处。 <br>    各级、各部门的办公厅（室）要认真履行职责，进一步转变工作职能、工作方式和工作作风，严谨细致、认真负责地加强公文的审核把关，进一步提高公文处理工作的质量和效率。 <br>    二、各市（地）、各部门向省人民政府及办公厅报送文件必须规范、有序，努力提高质量和效率。 <br>   （一）报送省人民政府的请示、报告、意见等应由主要负责人或主持工作的负责人签发，并注明联系人及联系方式，文件的体例、格式、内容等必须符合要求，有附件的，附件要齐全。属于相关部门职能范围的事项，应直接送有关部门处理，不得要求省人民政府办公厅代转；需省人民政府最后批准的，主办部门要主动征求所涉及部门意见，汇总提出建设性意见后方可报省人民政府及办公厅；相关部门对所提事项如有分歧，应列明各方理据（或会议纪要），报省人民政府裁定。省人民政府办公厅不代部门征求意见。严禁使用部门内部使用的“请示报告卡片”向省人民政府及办公厅报送公文。坚决杜绝以函的格式向省人民政府报送公文。 <br>    （二）要求省人民政府及办公厅作发文处理的请示性文件，随文所附的代拟稿，要客观、准确、全面、规范，符合有关法律、法规。对于部门报送的涉及其他部门职能范围未征求相关部门意见的公文，省人民政府办公厅不予受理。属于部门职能范围或经协商有关部门可以解决的事项，由部门自行行文或联合行文，省人民政府及办公厅不作发文处理。今后，凡省直部门提请省人民政府批转或转发涉及全局性的政策性、法规类公文，事先应征求省人民政府法制办公室意见。 <br>    （三）不是省人民政府领导交办的事项，一般不得将公文直接报送省人民政府领导个人。 <br>    （四）各市（地）、各部门向省人民政府及办公厅报送公文的份数：法规类请示30份，其他请示、意见5份，报告10份。 <br>    （五）各级、各部门制发公文应符合《办法》规定。各部门报送省人民政府的请示、意见，只限于请求省人民政府批准、批转、转发。凡请示省人民政府部门解决的问题，一般不要呈请省人民政府领导批转部门办理。 <br>    （六）凡不符合《办法》、省人民政府及办公厅有关公文处理规定的公文，省人民政府办公厅将作退文处理。 <br>    三、严格控制紧急公文。 <br>    各部门要加强工作的计划性和前瞻性，杜绝人为形成紧急文件。凡向省人民政府及办公厅报送的紧急文件，应标明紧急程度，并在上报的公文中说明紧急的原因及在本部门的办理情况。 <br>    四、加强部门负责制。 <br>    （一）凡属于部门职能范围内的事务，一律由部门自行行文或相关部门间联合行文，部门不得要求以省人民政府或办公厅名义行文。须经省人民政府或省人民政府领导批准的事项，经省人民政府或省人民政府领导批准后可由部门自行行文，文中注明“经省人民政府同意”或“经省人民政府领导批准”并抄报省人民政府办公厅。要严格控制省人民政府办公厅代部门下发会议通知及其他事项的文件。部门召开的会议，由部门自行通知。要严格控制邀请市（地）政府负责人出席省直各种部门性的会议，如确有必要邀请的，须报省人民政府批准。 <br>    （二）属于省人民政府交办的事项，主办部门要切实负起责任，积极主动地开展工作。各部门要积极配合主办部门完成省人民政府交办的任务。对于主办部门征求本部门意见的公文，应按期限认真负责地及时回复，不得推诿塞责、敷衍了事。如不能如期回复，应及时反馈有关情况，说明原因。 <br>    （三）坚持民主集中制。在省人民政府制定政策或作出决定之前，各部门要充分行使民主权利，省人民政府作出决定后，各级、各部门务必要维护决策的严肃性，必须坚决贯彻执行，做到有令必行，有禁必止，确保政令畅通。各级各部门在执行决策中，有意见或建议，可按组织程序及时反馈，严禁各取所需，自行其是。 <br>   （四）强调维护树立“廉洁、勤政、务实、高效、有作为政府”的良好形象。各部门务必树立全局观念，切实扭转文牍主义的趋向，力戒官僚主义和形式主义，把精力集中到研究和解决实际问题上来，努力创造全省经济与社会发展的良好环境。 <br>    自本意见下发之日起，省人民政府办公厅将依照规定进一步加强对各市（地）、省直各部门报送省人民政府及办公厅公文的审核把关，对相关情况进行汇总视情予以通报，并适时派出工作组检查、指导相关市（地）和省直部门的公文处理工作。各市（地）和省人民政府各委、厅，各直属机构将落实本通知的情况及时反馈省人民政府办公厅秘书五处。 <br><br><br>                 二○○三年九月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

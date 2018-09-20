@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广东省<BR>&nbsp;&nbsp;【发布文号】广东省人民政府令第81号<BR>&nbsp;&nbsp;【发布日期】2003-04-08<BR>&nbsp;&nbsp;【生效日期】2003-04-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省计算机信息系统安全保护管理规定<br><br></font>(广东省人民政府令第81号)</p><br><br><br>2003年4月8日 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了保护计算机信息系统的安全，促进信息化建设的健康发展，根据《<a href=javascript:ROF(19079,0) class=alink>中华人民共和国计算机信息系统安全保护条例</a>》和《<a href=javascript:ROF(29407,0) class=alink>计算机信息网络国际联网安全保护管理办法</a>》规定，结合本省实际，制定本规定。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本省行政区域内计算机信息系统的安全保护，适用本规定。 <br><br>    未联网的微型计算机的安全保护办法，按国家有关规定执行。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本规定所称的计算机信息系统，是指由计算机及其相关的和配套的设备、设施(含网络)构成的，按照一定的应用目标和规则对信息进行采集、加工、存储、传输、检索等处理的人机系统。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 县级以上人民政府公安机关主管本行政区域内的计算机信息系统安全保护工作。 <br><br>    国家安全机关、保密工作部门和政府其他有关部门，在各自职责范围内做好计算机信息系统安全保护工作。 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 公安机关、国家安全机关为保护计算机信息系统安全，在紧急情况下，可采取24小时内暂时停机、暂停联网、备份数据等措施，有关单位和个人应当如实提供有关信息和资料，并提供相关技术支持和必要的协助。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 地级以上市公安机关应当有专门机构负责计算机信息系统中发生的案件和重大安全事故报警的接受和处理，为计算机信息系统使用单位和个人提供安全指导，并向社会公布举报电话和电子邮箱。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 计算机信息系统使用单位应当确定计算机安全管理责任人，建立健全安全保护制度，落实安全保护技术措施，保障本单位计算机信息系统安全，并协助公安机关做好安全保护管理工作。 <br><br>    提供电子公告、个人主页等信息服务的使用单位，应当设立信息审查员，负责信息审查工作。 <br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 计算机信息系统使用单位应当建立并执行以下安全保护制度： <br><br>    (一)计算机机房安全管理制度； <br><br>    (二)安全管理责任人、信息审查员的任免和安全责任制度； <br><br>    (三)网络安全漏洞检测和系统升级管理制度； <br><br>    (四)操作权限管理制度； <br><br>    (五)用户登记制度； <br><br>    (六)信息发布审查、登记、保存、清除和备份制度，信息群发服务管理制度。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 计算机信息系统使用单位应当落实以下安全保护技术措施： <br><br>    (一)系统重要部分的冗余或备份措施； <br><br>    (二)计算机病毒防治措施； <br><br>    (三)网络攻击防范、追踪措施； <br><br>    (四)安全审计和预警措施； <br><br>    (五)系统运行和用户使用日志记录保存60日以上措施； <br><br>    (六)记录用户主叫电话号码和网络地址的措施； <br><br>    (七)身份登记和识别确认措施； <br><br>    (八)信息群发限制和有害数据防治措施。 <br><br>    向公众提供上网服务的场所以及其他从事国际联网业务的单位应当安装国家规定的安全管理软件。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 对计算机信息系统中发生的重大安全事故，使用单位应当采取应急措施，保留有关原始记录，在24小时内向当地县级以上人民政府公安机关报告。 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 任何单位和个人不得利用计算机信息系统从事下列行为： <br><br>    (一)制作、复制、查阅、传播有害信息； <br><br>    (二)侵犯他人隐私，窃取他人账号，假冒他人名义发送信息，或者向他人发送垃圾信息； <br><br>    (三)以营利或者非正常使用为目的，未经允许向第三方公开他人电子邮箱地址； <br><br>    (四)未经允许修改、删除、增加、破坏计算机信息系统的功能、程序及数据； <br><br>    (五)危害计算机信息系统安全的其他行为。 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 计算机信息系统及计算机机房应当按照国家有关规定以及国家标准进行安全保护设计和建设。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 销售的计算机信息系统安全专用产品(含计算机信息系统安全检测产品)应当取得公安部颁发的《计算机信息系统安全专用产品销售许可证》。密码产品的管理，按国家有关规定执行。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 下列计算机信息系统使用单位为重点安全保护单位： <br><br>    (一)县级以上国家机关、国防单位； <br><br>    (二)银行、证券、能源、交通、邮电通信单位； <br><br>    (三)国家及省重点科研、教育单位； <br><br>    (四)国有大中型企业； <br><br>    (五)互联单位、接入单位及重点网站； <br><br>    (六)向公众提供上网服务的场所。 <br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 重点安全保护单位计算机安全管理责任人和信息审查员应当参加县级以上人民政府公安机关认可的安全技术培训，并取得安全技术培训合格证书。 <br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 重点安全保护单位计算机信息系统及计算机机房安全保障体系的设计、建设和检测应当由有安全服务资质的机构承担。 <br><br>    重点安全保护单位计算机信息系统及计算机机房应当由有安全服务资质的机构检测合格后，方可投入使用。 <br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 申请安全服务资质，应当具备以下条件： <br><br>    (一)取得相应经营范围的营业执照； <br><br>    (二)取得安全技术培训合格证书的专业技术人员不少于10人，其中大学本科以上学历的人员所占比例不少于70%； <br><br>    (三)负责安全服务工作的管理人员应当具有2年以上从事计算机信息系统安全技术领域企业管理工作经历，并取得安全技术培训合格证书； <br><br>    (四)有与其从事的安全服务业务相适应的技术装备； <br><br>    (五)有与其从事的安全服务业务相适应的组织管理制度； <br><br>    (六)法律法规规定的其他条件。 <br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 申请安全服务资质，应当持下列资料向地级以上市公安机关提出申请： <br><br>    (一)申请书； <br><br>    (二)营业执照(复印件)； <br><br>    (三)管理人员和专业技术人员的身份证明、学历证明和安全技术培训合格证书； <br><br>    (四)技术装备情况及组织管理制度报告。 <br><br>    地级以上市公安机关应当自接到申请资料之日起15日内进行初审。初审合格的，报送省公安机关核准；初审不合格的，退回申请并说明理由。 <br><br>    省公安机关应当自接到初审意见之日起15日内进行审查，符合条件的，核发资质证书。不符合条件的，作出不予核准的决定并说明理由。 <br><br>    资质证书实行年审制度。年审不得收费。 <br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 计算机信息系统使用单位应当将计算机信息系统安全保护工作纳入内部检查、考核、评比内容。对在工作中成绩突出的部门和个人，应当给予表彰奖励。对未依法履行安全保护职责或违反本单位安全保护制度的，应当依照有关规定对责任人员给予行政处分。 <br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 违反本规定，有下列行为之一的，由县级以上人民政府公安机关给予警告，并责令限期整改；逾期不改的，可以给予6个月以内停机整顿或者停止联网的处罚，并可对单位处以5000元以下罚款，对安全管理责任人处以500元以下罚款。国家另有规定的，从其规定。 <br><br>    (一)未按规定建立安全保护制度的； <br><br>    (二)未按规定落实安全保护技术措施的； <br><br>    (三)计算机信息系统及计算机机房未按国家有关规定和国家标准进行安全保护设计和建设的； <br><br>    (四)重点安全保护单位计算机安全管理责任人和信息审查员未经县级以上人民政府公安机关认可的安全技术培训并取得合格证书的； <br><br>    (五)重点安全保护单位将本单位计算机信息系统及计算机机房安全保障体系的设计、建设和检测交由未具有安全服务资质的机构承担的，或者未经有安全服务资质的机构检测合格即投入使用的。 <br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 计算机信息系统使用单位对计算机信息系统中发生的重大安全事故，未在规定时间内报告公安机关的，由县级以上人民政府公安机关处以警告或者停机整顿。 <br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 利用国际联网的计算机信息系统从事本规定第十一条所规定行为的，依照国家有关规定进行处理。 <br><br>    利用未国际联网的计算机信息系统从事本规定第十一条所规定行为的，由县级以上人民政府公安机关给予警告，对单位可处以1000元以下罚款，对个人可处以100元以下罚款。 <br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 计算机信息系统安全专用产品未取得《计算机信息系统安全专用产品销售许可证》进行销售的，依照国家有关规定进行处理。 <br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 未取得安全服务资质的机构，承担重点安全保护单位计算机信息系统及计算机机房安全保障体系的设计、建设和检测的，由县级以上人民政府公安机关责令限期整改，并处以1万元以下罚款。 <br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 行政管理部门的工作人员违反本规定，玩忽职守、滥用职权的，由主管部门依照有关规定给予行政处分；构成犯罪的，由司法机关依法追究刑事责任。 <br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 军队的计算机信息系统安全保护工作，按照军队的有关规定执行。 <br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 计算机信息系统的保密管理，依照国家和省的有关规定执行。 <br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 本规定自2003年6月1日起施行。 
+
+<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

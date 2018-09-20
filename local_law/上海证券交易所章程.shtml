@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80903<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1993-03-01<BR>&nbsp;&nbsp;【生效日期】1993-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 上海证券交易所章程<br>
+ </font></p><p align='center'><font class='STitle'>（1993年3月修改稿上海证券交易所发布）</font></p><p class='zhang'>                            第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为促进社会主义市场经济的发展，创建公平、稳定、高效的证券市场，维护投资者的合法权益特设立本所。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  本所中文全称为上海证券交易所，英文全称为：ＳＨＡＮＧＨＡＩ  ＳＴＯＣＫ  ＥＸＣＨＡＮＧＥ，英文简称为ＳＳＥ。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  本所是不以盈利为目的，实行自律性管理的会员制事业法人。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  本所及交易市场所在地在上海市。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  本所公告登载于公开发行的报刊。<br><br><p class='zhang'>                            第二章  资本</p><br><br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  本所注册资本为人民币三亿元。<br><br><p class='zhang'>                            第三章  职能</p><br><br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  本所职能包括：<br>    （一）提供证券集中交易的场所和设施；<br>    （二）组织、管理上市证券的交易活动；<br>    （三）依法对上市公司和会员的业务经营活动进行监管；<br>    （四）国家证券主管机关许可或委托的其它职能。<br><br><p class='zhang'>                            第四章  会员</p><br><br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  同时具备下列条件的法人，提供必要文件，并向本所提出申请，经理事会批准后，可成为本所的会员：<br>    （一）经有权部门依法批准设立，具有经营证券业务资格的金融机构；<br>    （二）注册资本在人民币五百万元以上（含五百万元）；<br>    （三）具有良好的信誉和经营业绩；<br>    （四）组织机构和业务人员符合证券主管机关和本所规定的条件；<br>    （五）承认本所章程和业务规则，按规定交纳各项会员经费。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  本所会员享有下列权利：<br>    （一）参加会员大会；<br>    （二）选举权和被选举权；<br>    （三）对本所事务的提议权和表决权；<br>    （四）参加本所的场内交易，享受本所提供的服务；<br>    （五）对本所事务和其它会员的活动进行监督；<br>    （六）在保留至少一个交易席位的情况下，有权转让交易席位；<br>    （七）其它相应的权利。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  本所会员承担下列义务：<br>    （一）遵守国家的有关法律、法规和规章，依法开展证券经营活动；<br>    （二）遵守本所章程、各项规章制度，执行本所决议；<br>    （三）派遣合格代表入场从事证券交易活动；<br>    （四）维护投资者的合法权益，促进交易市场的稳定发展；<br>    （五）按规定交纳各项经费和提供有关信息资料；<br>    （六）接受本所的监管。<br>    （七）其他相关的义务。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  会员因下列事由可退出本所：<br>    （一）由会员提出并经本所理事会批准；<br>    （二）会员法人实体解散；<br>    （三）其他法定事由。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  对违反本所章程、业务规则及其他规定的会员，本所给予下列处分：<br>    （一）警告；<br>    （二）罚款；<br>    （三）通报；<br>    （四）暂停参加场内交易；<br>    （五）取消会员资格。<br>    以上处分可根据情节轻重，给予一项或数项并处。<br><br><p class='zhang'>                          第五章  会员大会</p><br><br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  会员大会是本所的最高权力机构。本所会员为会员大会的当然会员。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  会员大会行使下列职权：<br>    （一）制定、修改或废除本所章程；<br>    （二）选举和罢免理事；<br>    （三）审议批准总经理的工作报告；<br>    （四）审议批准本所的财务预算、决算报告；<br>    （五）决定本所的其他重大事项。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  会员大会每年召开一次，须有三分之二以上会员出席。在会员大会闭会期间，经理事会或半数以上会员提议，可召开会员大会特别会议。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  会员大会由理事长召集，主席由理事长担任，理事长缺席时，由理事长指定的常务理事担任。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  会员向会员大会提交议案，至少需由十名会员联名提出，方可付诸审议。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  会员大会的决定事项以出席会员过半数以上表决同意始算通过。表决采用无记名投票方式，每一会员一票。<br><br><p class='zhang'>                           第六章  理事会</p><br><br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  本所设理事会，为会员大会日常事务的决策机构，对会员大会负责。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  理事会具有下列职责：<br>    （一）执行会员大会的决议；<br>    （二）拟定、修改本所的业务规则；<br>    （三）聘任总经理和根据总经理的提名聘任副总经理；<br>    （四）批准接纳会员；<br>    （五）决定对会员“暂停参加场内交易”以上的处分；<br>    （六）决定设立专门委员会；<br>    （七）会员大会授予的其他职责。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  理事会成员不少于十三人，其中理事人数不少于九人，非会员理事人数不少于四人。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  会员理事由会员大会选举产生，非会员理事由国家规定的有权机关提名，会员大会选举产生。会员理事，非会员理事任期三年，可连选连任。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  理事会设理事长一人，常务理事五人。理事长由国家规定的有权机关提名，理事会选举产生。理事长、总经理为理事会的当做常务理事，其他常务理事由理事会选举产生。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  理事长主持理事会工作。理事长因故临时不能履行职责时，由理事长指定的常务理事代其履行职责。<br>    理事会一般每季度召开一次会议。遇特殊情况，由理事长决定召开特别会议。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  理事会会议须有三分之二以上理事出席，其决议须出席会议的理事过半数以上表决通过方为有效。<br><br><p class='zhang'>                           第七章  总经理</p><br><br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  本所设总经理一人，为本所法定代表人；设副总经理若干人，协助总经理工作。总经理、副总经理任期三年，可以连任。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  总经理由理事长按国家规定的程序提名，理事会聘任。副总经理由总经理提名，理事会聘任。<br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>  本所实行理事会领导下的总经理负责制。总经理具有下列职责：<br>    （一）组织实施会员大会和理事会决议，并向其报告工作；<br>    （二）主持本所的日常工作；<br>    （三）提名副总经理和聘任本所部门负责人；<br>    （四）代表本所对外处理有关事务；<br>    （五）理事会授予的其他职责。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>  总经理因故不能履行职责时，由总经理指定的副总经理代其履行职责。<br><br><p class='zhang'>                       第八章  财务与会计制度</p><br><br><p></p><a name='30'><font class='TiaoNoA'>  第三十条</font></a>  本所根据国家有关法律和财务会计制度的规定，制定本所财务会计制度。<br><p></p><a name='31'><font class='TiaoNoA'>  第三十一条</font></a>  本所按国家有关法律规定编制具有证券从业资格的会计师事务所注册会计师查核鉴证的年度财务报告。<br><p></p><a name='32'><font class='TiaoNoA'>  第三十二条</font></a>  本所按照国家有关法律、法规进行财务年度决算。<br><br><p class='zhang'>                         第九章  解散与清算</p><br><br><p></p><a name='33'><font class='TiaoNoA'>  第三十三条</font></a>  本所遇有下列情况之一，并经国家规定的有关权力机关批准后，予以解散：<br>    （一）因变更不符法律规定的设立条件；<br>    （二）会员大会决议解散；<br>    （三）遇有不可抗力或意外事件，致使本所长时期无法正常运转；<br>    （四）法律规定的其他原因。<br><p></p><a name='34'><font class='TiaoNoA'>  第三十四条</font></a>  本所解散时，按国家规定的程序进行清算。<br>    清偿债务后的剩余财产，按会员拥有交易席位的比例进行分配。<br><br><p class='zhang'>                            第十章  附则</p><br><p></p><a name='35'><font class='TiaoNoA'>  第三十五条</font></a>  本章程如有未尽事宜，除依照国家有关法律、法规办理外，本所将及时修改补充。<br><p></p><a name='36'><font class='TiaoNoA'>  第三十六条</font></a>  本章程的解释权属于本所理事会。<br><p></p><a name='37'><font class='TiaoNoA'>  第三十七条</font></a>  本章程经会员大会通过，报请国家规定的有权机关批准后生效。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

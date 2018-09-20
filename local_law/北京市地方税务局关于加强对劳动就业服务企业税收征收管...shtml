@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京地税企[1995]225号<BR>&nbsp;&nbsp;【发布日期】1995-04-11<BR>&nbsp;&nbsp;【生效日期】1995-04-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市地方税务局关于加强对劳动就业服务企业税收征收管理问题的通知<br><br></font>(京地税企[1995]225号)</p><br><br><br>各区、县地方税务局、燕山支局，市局直属分局：<br><br>     财政部、国家税务总局对财税字（1994）001号文件中关于劳动就业服务税收优惠政策下发后，各区、县地方税务局反映了一些劳动就业服务企业税收征收管理方面的问题，为了各区、县局正确贯彻、执行有关政策，加强对劳动就业服务企业减免税的管理，除严格按照财政部、国家税务总局财税字（1994）001号文件第（七）条的规定执行外，现就文件第（七）条中的其他有关问题明确如下：<br><br>     一、“新办的劳动就业服务企业”是指：经有关部门批准从无到有新组建起来的劳动就业服务企业。凡在原有企业基础上进行调整改组，如企业分合、拆建、搬迁、变更经营项目、改变隶属关系和企业名称等，均不属于新办范围。<br><br>     二、“当年安置待业人员”是指：在一个年度内（指对头一年）所安置的待业人员人数，不是逐年安置待业人数的累计。<br><br>     三、“劳动就业服务企业免税期满后”是指：1994年1月1日以后新办的劳动就业服务企业免税期满后；1994年1月1日以前批准享受免税照顾期满的劳动就业服务企业，不能再享受减税照顾。<br><br>     四、劳动就业服务企业在享受减免税优惠政策期间，对待业人比例的考核，实行“按季考核，年度平均计算”的办法。从业人员在本企业工作15天以上的，按1个月计算；15天以下的，不计算人数。季度考核时，按照企业每月待业人员人数平均计算；年终按四个季度人数平均计算。企业安置待业人员人数达不到规定比例的季度、年度不予免税照顾。<br><br>     考核的办法，按照所得税征收时间，由企业于每季末向当地税务机关申报职工总人数及安置待业人员人数比例，税务机关根据企业申报和提供的资料，经核实后，确定本季度的征免税，年度终了后进行汇算，办理退补税。<br><br>     五、对享受安置待业人员减免税的劳动就业服务企业，在减免税期间将待业人员转为企业固定工的，税务部门在考核安置待业人员人数时，仍将这部分人员继续计入待业人员人数，企业安置待业人员人数达到规定比例的，可按现行规定继续享受减免税照顾，到期满时为止。<br><br>     六、关于劳动就业服务企业在享受减免税期间调整改组后，如何继续给予减免税照顾问题。<br><br>     （一）凡原属一个享受减免税照顾的劳动就业服务企业，经批准分为几个，对分出来的企业达到减免税规定标准的，不能视为新办企业而仍按原来批准的减免税期限、范围不变，继续享受到期满为<br><br>     （二）凡原属几个正在享受减免税照顾的劳动就业服务企业，经批准合并改组为一个企业，合并后不能视为新办企业而一律视同原有企业，但考虑到原有企业减免税尚未到期，所得税按照合并后安置待业人员人数比例重新计算，凡达到规定标准的，其减免税期限，连同原有企业已经享受减免税的年限，免税企业最长不得超过3年，减税企业最长不得超过2年，并需重新申请办理减免税手续。<br><br>     七、“待业青年”一般指学校毕业后5年内没有正式工作的人员（不包括辞职人员），但每个待业青年享受安置待业人员减免税照顾的时间，累计不得超过3年。<br><br>     八、劳动就业服务企业，在申请减免税及享受减免税期间考核待业人员人数时，“农转非人员”必须具备有关部门农转非的证明；“两劳释放人员”必须具有公安部门的释放证明；“富余职工、富余人员”必须持有原单位劳资部门开具的证明。<br><br>     九、享受减免税照顾的劳动就业服务企业采取弄虚作假、更换企业名称等手段，偷税、漏税的，要追回应缴税款，并按有关规定严肃处理。<br><br>     十、企业应将因享受优惠政策而减免的税款，用于企业的生产及扩大再生产，不能用于个人分配。对不按规定使用减免税款的，应停止其减免税照顾，并按《征管法》的规定，予以处罚。<br><br>     十一、对国营企业为安置富余人员举办的劳动就业服务企业，其财务管理要符合财政部（86）财工字153号文件的规定执行。如违反规定，挖走国家财产和财政收入的，应立即纠正，补交应上交国家的收入，并停止其减免税照顾。<br><br>     十二、本文下发后，如原规定与本规定有抵触的，以本规定为准。<br>    <br>  一九九五年四月十一日  <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

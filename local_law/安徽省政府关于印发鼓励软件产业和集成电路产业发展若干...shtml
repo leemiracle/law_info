@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81202<BR>&nbsp;&nbsp;【发布文号】皖政[2001]25号<BR>&nbsp;&nbsp;【发布日期】2001-04-03<BR>&nbsp;&nbsp;【生效日期】2001-04-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 安徽省人民政府关于印发鼓励软件产业<br>
+和集成电路产业发展若干政策规定的通知<br>
+ </font></p><p align='center'><font class='STitle'>（皖政〔2001〕25号）</font></p>各市、县人民政府，省政府各部门、各直属机构：<br>    现将《<a href=javascript:ROF(37283,0) class=alink>鼓励软件产业和集成电路产业发展的若干政策</a>规定》印发你们，请认真贯彻执行。<br><br>                                                        安徽省人民政府<br>                                                      二00一年四月三日<br>              <a href=javascript:ROF(37283,0) class=alink>鼓励软件产业和集成电路产业发展的若干政策</a>规定<br><br>    为了进一步促进我省软件产业和集成电路产业快速、健康发展，增强信息产业的创新能力和市场竞争力，加速推进我省国民经济和社会信息化进程，实现“十五”计划纲要的目标。根据《国务院鼓励软件产业和集成电路产业发展若干政策》（国发〔2000〕18号）要求，结合我省实际，制定本规定。<br><br><p class='zhang'>                         第一章  投融资政策</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  多渠道融资，加大对软件产业的投入。<br>    （一）“十五”期间，省计委、省科技厅、省信息产业厅在安排年度计划时，从其掌握的资金中各拿出一部分，用于软件和集成电路产业的基础设施建设和产业化项目。<br>    （二）设立风险投资基金，建立软件产业风险投资机制。在省政府扶持下，省科技产业投资公司在一定时期内每年安排部分种子资金，同时通过社会定向募股和吸引国内外风险投资资金方式筹措风险资金。风险投资基金按风险投资的运作规律，以企业化方式运作和管理。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  省、市有关部门要加强指导，积极为软件企业在国内外上市融资创造条件。软件企业不分所有制性质，凡符合证券市场主板和创业板上市条件的应优先予以推荐申报，支持企业进一步做大、做强。<br><br><p class='zhang'>                          第二章  税收政策</p><br><br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  鼓励省内外投资者在我省开发生产软件产品和创办软件生产企业。<br>    （一）2010年底以前，对增值税一般纳税人销售其自行开发的软件产品，按17％的法定税率征税增值税后，对其增值税实际税负超过3％的部分实行即征即退政策。对于将进口的软件进行本地化改造后对外销售的，其销售的软件可以按照自行开发的软件产品的有关规定享受即征即退的税收优惠政策。所退税款由企业用于研究开发软件产品和扩大再生产，不作为企业所得税应税收入，不予征收企业所得税。<br>    （二）新创办软件生产企业经认定后，自开始获利年度起，享受企业所得税“两免三减半”的优惠政策，即第一年和第二年免征企业所得税，第三年至第五条减半征收企业所得税。<br>    （三）对国家规划布局内的重点软件生产企业以及省级认定的重点软件企业，当年未享受免税优惠的，减按10％的税率征收企业所得税。<br>    （四）软件企业人员薪酬和培训费可按实际发生额在企业所得税税前列支。<br>    （五）对单位和个人从事软件技术转让、软件技术开发业务和与之相关的技术咨询，技术服务业所取得收入免征营业税。<br>    （六）软件企业的所得税减免及税前扣除核准事项，按规定程序报经税务部门审核批准。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  对软件企业进口所需的自用设备，以及按照合同随设备进口的技术（含软件）及配套件、备件，除列入国务院国发〔1997〕37号文《<a href=javascript:ROF(29496,0) class=alink>外商投资项目不予免税的进口商品目录</a>》和《<a href=javascript:ROF(35815,0) class=alink>国内投资项目不予免税的进口商品目录</a>》外，免征关税和进口环节增值税。<br><br><p class='zhang'>                        第三章  产业技术政策</p><br><br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  重点支持对我省软件产业发展具有带动性的、有产业特色的软件产品，主要包括网络平台、开发平台，信息安全、嵌入式系统、大型应用软件系统等。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  鼓励有条件的省内企业、科研院所、高等院校与外国企业联合设立软件研究与开发中心，积极支持软件研究与开发中心参与国家项目的竞标，对取得国家经费支持的项目，项目主管部门或当地政府应提供一定比例的配套资金予以支持。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  加快软件园区建设。软件园区应具有明确的目标和技术特色，避免重复建设。支持有基础、有优势的软件园区申报国家重点扶持的软件园区。各有关市及部门要研究制定政策，对软件园区的企业在建设用地、工作场所的租用、企业注册登记、银行信贷等方面予以优惠，使软件业发展有一个比较宽松的环境。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  规范软件产品的研究开发与推广应用。<br>    （一）省科技厅、省经贸委、省信息产业厅、省教育厅、省计委负责组织我省软件产品研究开发中重大关键共性技术的联合攻关以及软件产品的推广应用工作。<br>    （二）省重点支持的软件研究开发项目，应以企业为主体，产学研用结合，通过公开招标方式，择优选定项目承担单位。<br>    （三）软件产品的研究开发、生产应符合我国技术标准和技术规范。软件企业要加快采用国际标准的步伐，瞄准国际先进标准。鼓励和支持我省软件企业积极参与制定国家标准和行业标准。<br>    鼓励软件企业通过ＧＢ／Ｔ19000－ＩＳＯ9000系列质量保证体系认证和ＣＭＭ（能力成熟度模型）认证。由省外经贸厅会同有关部门积极帮助出口企业，争取中央外贸发展基金支持，以解决部分认证费用。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  大力加强高等院校、科研院所软件学科（专业）的建设和发展。<br>    （一）支持在皖有条件的高等院校设立软件学院。高等重点学科建设要向软件专业倾斜，有基础、有优势的软件学科要尽快建成省级重点学科、国家级重点学科及重点实验室。扩大高级软件人才的培养规模，办好中等专业学校计算机软件专业，抓好在职人员的再教育，大力培养多层次的软件人才和复合型人才。<br>    （二）依托我省教育和科研资源的基础，采取军地共建、部省共建方式，建立若干个具有国内先进水平的软件教学、科研基地。加强国际间的学术与技术交流，支持高层次软件科研人员出国进修和聘请外国专家来我省讲学和工作，力争使我省软件和集成电路设施达到国际先进水平。<br><br><p class='zhang'>                        第四章  人才激励政策</p><br><br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  软件企业可依照国家有关法律法规，根据本企业经济效益和社会平均工资，自主决定企业工资总额和工资水平。鼓励企业对作出重大贡献的科技人员给予重奖重酬。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  允许群体或个人从企业外带入的技术专利和科技成果作价入股，股份给予发明者和贡献者。对科技人员在本企业创造的科技成果，根据《<a href=javascript:ROF(25355,0) class=alink>中华人民共和国促进科技成果转化法</a>》及省有关规定，软件企业可以用股权或期权期股等形式奖励有贡献的人员。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  鼓励和支持企业、高校、科研院所采取优厚待遇吸引人才。对进入省级软件园区的软件系统分析员和系统工程师，凡具有中级以上技术职称，或有重大发明的，由本单位申请并经省有关部门审核，准予本人和配偶及未成年子女在该软件园区所在地落户，各地各部门不得收取任何落实费用。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  积极吸引国内外软件科技人员、留学回国人员在我省创办软件企业。有关部门应在创业资金、创业环境和人才流动政策以及生活条件等方面给予支持、提供方便。来皖及在皖高校、科研院所的科技人员创办软件企业，可优先获得省软件产业种子资金的支持。<br>    根据软件企业的实际需要，对承担项目的科技人员和商务人员因公出国出境、符合条件的可办理一次审批一年内多次出国的有效批件。对来皖进行国际合作与交流的人员提供往来方便。对留学回国人员再次出国工作或学习的，根据来去自由的原则可简化审批手续。具体办法由省外事办会同有关部门制定。<br><br><p class='zhang'>                     第五章  培育和开拓软件市场</p><br><br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  大力推进我省国民经济和社会<a href=javascript:ROF(35695,0) class=alink>信息化建设</a>，拉动我省软件产业发展。由政府投资的重大信息化工程、重点应用系统以及列入基本建设投资项目中的信息化项目，采取招标方式进行，在同等条件下优先由省内企业承担，其软件项目优先由省内软件企业承担。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  严格规范政府软件采购工作。政府机构购买软件，涉及国家主权和经济安全的，应当采用政府采购的方式进行。<br>    对省内各机关、企事业单位使用财政资金采购信息化产品，企业利用政府拨款或专项优惠贷款进行技术改造，在同等质量、性能和服务的前提下，应优先选购、使用本省产品特别是软件产品。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  企事业单位所购软件，凡购置成本达到固定资产标准或构成无形资产的，可以按固定资产或无形资产进行核算，经税务部门批准，其折旧或摊销年限可以缩短，最短为2年。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  加强软件产品和技术交易市场建设。以省会合肥为重点，建立我省软件产品和软件知识产权交易市场，推动我省软件产业市场化进程。<br>    各有关部门要加强知识产权保护的力度，鼓励软件企业著作权登记，建立企业自主的知识产权。依法对已登记的软件予以保护，严厉打击软件盗版行为。对软件企业从事制作、生产、销售盗版软件活动，一经发现，除由有关机关依法处理外，软件企业认定机构应报请信息产业主管部门，取消其软件企业资格。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  鼓励软件企业与国外企业合作开拓国际市场。由省对外贸易厅会同省信息产业厅，指导有条件的软件企业申请在境外设立窗口。<br>    落实国家有关软件产品出口的各项政策措施，支持软件产品出口。根据软件产品交易（含软件包外加工）的特点，对软件产品出口实行不同于其他产品的外贸、海关和外汇管理办法，以适应软件企业从事国际商务活动的需要。各有关金融机构，要帮助软件出口企业争取中国进出口银行优惠利率的信贷支持，积极代理中国进出口银行对我省软件出口的专项优惠贷款业务，落实软件出口企业外汇收入结算的有关规定，争取国家出口信用保险机构提供出口信用保险等。海关要为软件企业的开发生产业务提供快速便捷的服务，对出口的软件产品优先办理出口退税。<br>    注册资金在100万元人民币以上的软件企业，可享有软件自营出口权。<br><br><p class='zhang'>                   第六章  行业管理和软件企业认定</p><br><br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  省信息产业主管部门对全省软件产业实行行业管理和监督，并会同计划、科技、财税、经贸等部门组织专家，开展对全省软件企业的认定工作。认定工作要做到公平、公开、公正，并向社会公布，接受监督。凡经认定的软件企业，均可享受本规定的有关政策。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  省信息产业主管部门要充分发挥软件行业协会在市场调查、信息交流、咨询评估、行业自律、知识产权保护、资质认定、软件产品登记、政策研究等方面的作用，促进软件产业的健康发展。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  软件企业必须经过认定并经年审合格，方可享受有关优惠政策。年审不合格的企业或未经年审的企业，当年不再享受有关优惠政策。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  将软件产品产值和出口额等主要经济指标纳入省有关统计范围，并在信息产业目录中单独列出。<br><br><p class='zhang'>                      第七章  集成电路产业政策</p><br><br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  集成电路设计企业视同软件企业，适用软件产业有关政策。集成电路设计产品视同软件产品，受知识产权方面的保护。国家对集成电路设计产品实行登记制度。<br>    鼓励和支持我省电子整机产品生产企业与集成电路设计企业联合开发新产品。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  新建的芯片、掩膜、封装、测试等集成电路生产及相关项目，经认定，属于技术先进、市场前景好的，由地方财税部门比照鼓励外商对能源、交通投资的税收优惠政策给予扶持。<br>    对增值税一般纳税人销售其自行生产的集成电路产品（含单晶硅片），2010年底以前，按17％的法定税率征收增值税后，对其增值税实际税负超过6％的部分实行即征即退政策。所退税款由企业用于研究开发集成电路和扩大再生产。不作为企业所得税应税收入，不予征收企业所得税。<br>    集成电路生产企业引进集成电路技术和成套生产设备，单项进口的集成电路专用设备和仪器，按《<a href=javascript:ROF(22921,0) class=alink>外商投资产业指导目录</a>》和《<a href=javascript:ROF(35558,0) class=alink>当前国家重点鼓励发展的产业、产品和技术目录</a>》的有关规定办理，免征关税和进口环节增值税。<br>    集成电路设计企业设计的集成电路，如在境内确实无法生产，可在境外生产芯片，其加工合同（包括规格、数量）经行业主管部门认定后，进口时按优惠暂定税率征收关税。<br>    经税务部门核准，集成电路生产企业的生产性设备的折旧年限最短可为3年。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  集成电路企业的认定，由集成电路项目审批部门征求财税部门意见后确定。<br>    从事集成电路封装企业，经认定，可视为集成电路生产企业。<br><br><p class='zhang'>                            第八章  附则</p><br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  凡在我省境内设立的软件企业和集成电路企业，不分所有制性质，均可按规定享受国家和省有关政策。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  本政策规定自发布之日起正式实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

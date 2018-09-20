@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80902<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1980-12-15<BR>&nbsp;&nbsp;【生效日期】1980-12-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上海市无线电收发信区管理暂行规定<br>
+</font></p><p align='center'><font class='STitle'>（1980年12月15日上海市人民政府批转）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  根据国务院、中央军委关于设置使用无线电台和大城市划分无线电收发信区的规定，为合理安排无线电台、站的布局，加强管理，防止干扰，充分发挥无线电设备的效能，以利加强战备和适应四化建设的需要，现结合上海地区的情况，对一九六三年划定的无线电收发信区作了调整，并制定本规定。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  经调整，本市划为北郊、西郊、东郊三个收信区、西郊、南郊、东郊三个发信区，真如、共青苗圃两个电台保护区，以及市区中山环路以内作为一个居民集中区；各区之间以及工业区、城镇之间的地带为缓冲区（见附图）。一般应保持收信区边缘距发信区、工业区边缘在四公里以上，距居民集中区边缘二公里以上。发信区边缘距工业区、居民集中区边缘在二公里以上。关于虹桥地区现有电台，随着城市建设的发展，逐步予以调整、迁出。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  新建的各类长、中、短波无线电台和卫星地面站等，都应按本规定建在收发信区内。只有电路少、功率小、对通信环境要求不高的小型电台，经批准后，可以设在缓冲区和居民集中区。设在居民集中区内的发信机，最大功率不得超过一百五十瓦；设在缓冲区内的发信机，最大功率不得超过二百五十瓦。如功率超过上述规定，但对设置地点有特殊要求的电台，如导航、实验、电视和军事、公安等部门的电台，以及超短波、微波、雷达站等，经批准后，可以越区设置，但应不影响周围已建电台的工作。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  为确保电台的正常工作，市规划管理部门及电台所在地的有关单位，应按电台环境保护要求予以保护，在发生矛盾时，原则上应照顾电台工作，由有关方面协商解决。<br>    设在收发信区和电台保护区的电台一般保护要求是，以电台天线技术区边缘起，在一百米范围内不得新建房屋；在五百米范围内不得建造房屋群；在一千米范围内的建筑物高度，应不超过技术区边缘的仰角二点五度；在二公里范围内不得兴建拥有大量烟灰、腐蚀性气体和污水的工厂。个别电台如因工作需要，必须增加保护内容和提高保护要求的，应由主管单位提出意见，征得市无线电管理委员会和市规划管理部门同意。<br>    对已建微波、雷达站及有特殊要求的超短波台的净空要求，在征得市无线电管理委员会和市规划管理部门同意后，应予保护。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  设在收信区和保护区的收集台保护技术要求：<br>    长、中波发信机到达收信台技术区的场强不得超过100毫伏／米。<br>    中、短波发信台技术区边缘（不定向天线）到收信台技术区边缘最小距离为：<br><pre><font size=+1><br>───────────┬─────┬────┬───┬───┬─────<br>  发信机功率(千瓦)    │ 0.2--5   │  10    │ 25   │ 120  │ 120以上  <br>───────────┼─────┼────┼───┼───┼─────<br>  最小距离(公里)      │ 4        │  8     │ 14   │ 20   │ 20以上  <br>───────────┴─────┴────┴───┴───┴─────<br>各种干扰源与收信台之间的最小距离为：<br>──────────────────────────────┬─────<br>                   干扰源名称                               │最小距离<br>                                                            │(公里)  <br>──────────────────────────────┼─────<br>  3万5千伏以下的输电线在一切方向                            │1.0      <br>──────────────────────────────┼─────<br>  3万5--11万伏的输电线在一切方向                            │1.0--2.0  <br>──────────────────────────────┼─────<br>  11万伏以上的输电线在一切方向                              │2.0      <br>──────────────────────────────┼─────<br>  高压变电站                                                │1.5      <br>──────────────────────────────┼─────<br>  一般公路                                                  │0.3      <br>──────────────────────────────┼─────<br>  汽车行驶繁忙公路                                          │1.0      <br>──────────────────────────────┼─────<br>  电气化铁路和电车道                                        │2.0      <br>──────────────────────────────┼─────<br>  装有电疗器械的医院                                        │1.0      <br>──────────────────────────────┼─────<br>  在接收方向的架空通信线                                    │1.0      <br>──────────────────────────────┼─────<br>  在非接收方向的架空通信线                                  │0.2      <br>──────────────────────────────┼─────<br>  工业企业、拖拉机站、大汽车场、汽车修理厂及有关Ｘ光设备的  │3.0      <br>  医院                                                      │          <br>──────────────────────────────┼─────<br>  有高频设备的工厂                                          │5.0      <br>──────────────────────────────┴─────<br>特殊情况经测试后商定。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  发信台技术区边缘到高压输电线和架空通信线的最小距离：<br>────────┬──────┬───────────┬────────<br>      天线名称  │距架空通信线│距1千伏以下输电线的最 │距1千伏以上输<br>                │的最小距离  │小距离(米)            │电线的最小距离  <br>                │(米)        │                      │(米)            <br>────────┼──────┼───────────┼────────<br>  长、中波无线发│            │按电业部门规定允许在天│按电业部门规定  <br>  射电力超过150 │    500     │线设备进行维护工作的距│允许在天线设备  <br>  千瓦以下      │            │离                    │进行维护工作的<br>                │            │                      │距离            <br>────────┼──────┼───────────┼────────<br>  长、中波无线发│            │                      │                <br>  射电力超过150 │   1,000    │       同上           │    同上        <br>  千瓦          │            │                      │                <br>────────┼──────┼───────────┼────────<br>  短波天线的发射│ 不小于300  │       同上           │  不小于300    <br>  主向          │            │                      │                <br>────────┼──────┼───────────┼────────<br>  短波天线其他方│   50       │       同上           │    50          <br>  向            │            │                      │                <br>────────┼──────┼───────────┼────────<br>  短波弱向天线  │   200      │       同上           │    200        <br>────────┴──────┴───────────┴────────<br>    如在场地附近有载波通信线路时，应考虑相互间的有害影响，必要时由设计单<br>位进行测试或计算确定距离。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  为保护收发信区和居民集中区，在收信区内不得设置影响收信的高频<br>设备和干扰性电气设备，如必须设置时，应征得市无线电管理委员会的同意。新建<br>十一万伏以上的高压输电线路，要尽量避免穿越收发信区，必须穿越时，应向市规<br>划管理部门提出申请，并征得市无线电管理委员会同意。<br>    东郊发信区由于周围条件所限，要求设在该区内的发射机最大功率不得超过三<br>千瓦。<br>    居民集中区的保护要求：<br>    中、长波发信台到达居民集中区边缘的场强不得超过200毫伏／米。<br>    短波发信台技术区边缘（不定向天线）到居民集中区边缘的最小距离为：<br>───────────┬─────┬────┬───┬───┬─────<br>  发信机功率(千瓦)    │ 0.1--5   │  10    │ 25   │ 120  │ 120以上  <br>───────────┼─────┼────┼───┼───┼─────<br>  最小距离(公里)      │ 2        │  4     │ 7    │ 10   │ 10以上  <br>───────────┴─────┴────┴───┴───┴─────<br></font></pre><br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  新建各类固定无线电台、站，应按国务院、中央军委关于颁发《无线电管理规则》的通知（国发［1978］122号），向市无线电管理委员会办理台址审批手续，经批准后，方准设置。<br>    业经批准的无线电台站的台址变更或增大发射功率、加高天线、扩大天线场地时，应重新申请；停建或撤除时，应及时向批准单位报告。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  业已启用的固定台、站，如其设置地点、发信机功率等不符合本规定，而且已经产生影响的，一般只能维持现状，不得继续增大发信机功率或者增开电路。有关各方要创造条件，逐步做到本规定提出的要求；一时达不到要求的，通过协商解决。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  市无线电管理委员会对固定无线电台、站的布局、设置、使用进行监督管理；市规划管理部门对收发信区和固定台、站工作环境的保护进行监督管理。各有关单位要给予支持协助。<br>    附：上海市无线电收发信划区示意图（略）<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

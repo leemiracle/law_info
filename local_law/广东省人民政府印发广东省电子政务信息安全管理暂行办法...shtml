@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广东省<BR>&nbsp;&nbsp;【发布文号】粤府〔2003〕52号<BR>&nbsp;&nbsp;【发布日期】2003-06-24<BR>&nbsp;&nbsp;【生效日期】2003-06-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省人民政府印发广东省电子政务信息安全管理暂行办法的通知<br><br></font>(粤府〔2003〕52号)</p><br><br><br>各市、县、自治县人民政府，省府直属有关单位：?<br><br>    现将《广东省电子政务信息安全管理暂行办法》印发给你们，请按照执行。执行中遇到问题，请迳向省信息产业厅反映。??<br><br><br>                                             广东省人民政府?<br>                                            二○○三年六月二十四日<br><br><br>广东省电子政务信息安全管理暂行办法<br><br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为了促进我省电子政务的发展，保障我省电子政务健康运行，根据《国家信息化领导小组关于我国电子政务建设指导意见》，并结合我省实际情况，制定本办法。?<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  电子政务信息安全工作应遵循注重实效、促进发展、强化管理和积极防范的原则。?<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  省信息化工作领导小组办公室根据省信息化工作领导小组关于电子政务信息安全工作的决策，负责组织协调全省电子政务信息安全工作，并对执行情况进行检查监督。省直各有关部门根据各自职能分工负责电子政务信息安全的具体工作。各市电子政务主管部门负责本市电子政务信息安全工作。?<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  由省信息化工作领导小组办公室牵头，会同省信息产业厅、保密局、公安厅、科技厅组成省电子政务信息安全工作小组，负责制定全省电子政务信息安全策略和工作规范，建立全省电子政务信息安全风险评估体系。各单位要制定本单位电子政务信息安全措施，定期进行安全风险评估，落实信息安全工作责任制，建立健全信息安全工作规章制度，并于每年6月份书面报本级电子政务主管部门备案。?<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  电子政务网络由政务内网和政务外网构成，两网之间物理隔离。电子政务内网是政务部门的办公专网，连接包括省四套班子和省直各部门。电子政务内网信息安全管理要严格执行国家有关规定。?<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  电子政务外网是政府的业务专网。全省建设一个统一的电子政务外网，凡是不涉及国家秘密的、面向社会的专业性服务业务系统和不需在内网上运<br><br>    行的业务系统必须接入或建在电子政务外网上，并采用电子政务外网上所要求的信息安全措施。?<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  电子政务外网必须与国际互联网和其他公共信息网络实行逻辑隔离。全省统一管理电子政务外网的国际互联网出口。凡接入电子政务外网的电子政务应用系统，不得擅自连接到国际互联网。在国际互联网上运行的政府网站，要采取必要的信息安全措施方可接入电子政务外网。?<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  在电子政务外网上建立统一的数字证书认证体系，建立电子政务安全信任机制和授权管理机制。凡接入电子政务外网的应用系统必须采用省电子政务认证中心发放的数字证书。各市可直接采用省电子政务认证中心提供的数字证书注册服务，也可根据实际应用情况建立本市数字证书注册服务中心，负责本市范围内数字证书的登记注册。?<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  各级电子政务外网网络管理单位负责本级电子政务外网的公共安全工作，建立信息网络安全责任制。要对所管理的本级外网网络进行实时监控，定期进行安全性能检测，定期向主管部门通报网络安全状况信息，并向其网络用户单位提供安全预警服务。?<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  电子政务外网要建立应急处理和灾难恢复机制。应急支援中心和数据灾难备份中心要制定数据备份制度，制定事故应急响应和支援处理措施，制定数据灾难恢复策略和灾难恢复预案，并报本级电子政务信息安全主管部门备案。全省性电子政务应用系统的主要数据库和重要的基础性数据库，必须在应急支援中心和数据灾难备份中心实现异地备份。?<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  各单位要根据国家有关信息安全保护等级的保护规范，明确本单位电子政务应用系统的安全等级，并按照保护规范进行安全建设、安全管理和边界保护。各单位负责其应用系统接入电子政务外网之前的所有安全工作，并配合网络管理单位进行网络安全管理和检查工作。?<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  各单位要明确信息采集、发布、维护的规范程序，确保其电子政务应用系统运行的数据信息真实准确、安全可靠。各单位要按照“谁上网谁负责”的原则，保证其在电子政务外网上运行的数据信息真实可靠，且不得涉及国家秘密。?<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  各单位的电子政务应用系统要建立数据信息的存取访问控制机制，按数据信息的重要程度进行分类，划分访问和存储等级，设立访问和存储权限，防止越权存取数据信息。?<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  各单位的电子政务应用系统要建立信息审计跟踪机制，对用户每次访问系统的情况以及系统出错和配置修改等信息均应有详细记录。?<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  各单位的电子政务应用系统应当建立计算机病毒防范机制，要定期使用经国家有关部门检测认可的防病毒软件进行检测。?<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  各单位应根据国家《计算机场地安全要求》和《计算机场地技术条件》等国家标准，对其电子政务应用系统的场地和设施进行安全建设和管理。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  各单位要加强电子政务信息安全教育，普及信息安全基本知识，增强全体工作人员的信息安全意识。要定期对从事信息安全工作人员进行专业技术培训，实行上岗资格认定和年度审查制度。?<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  涉及国家秘密的电子政务应用系统的建设必须经地级以上保密、机要、公安和电子政务主管部门审查批准，经地级以上公安部门进行系统的安全检测和安全审验，并按保密规定进行管理。?<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

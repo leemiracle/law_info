@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81102<BR>&nbsp;&nbsp;【发布文号】浙江省人民政府令第41号<BR>&nbsp;&nbsp;【发布日期】1994-02-16<BR>&nbsp;&nbsp;【生效日期】1994-02-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>浙江省人民政府令</font></p><p align='center'><font class='STitle'>（第41号）</font></p>    现发布《浙江省行政复议实施办法（试行）》，自发布之日起施行。<br><br>                                                      省长  万学远<br>                                                  一九九四年二月十六日<br><br>                     浙江省行政复议实施办法（试行）<br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为了维护和监督行政机关依法行使职权，防止和纠正违法或者不当的具体行政行为，保护公民、法人和其他组织的合法权益，保证行政复议机关合法、准确、及时地审理复议案件，提高办案质量和效率，根据国务院《<a href=javascript:ROF(11941,0) class=alink>行政复议条例</a>》（以下简称《条例》）及其他法律、法规的规定，结合本省实际情况，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  本省各级复议机关在办理复议案件时，必须全面、正确地执行《条例》和本办法。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  公民、法人或其他组织对下列具体行政行为可以申请复议：<br>    （一）对行政机关根据法律、法规规定有权处理的民事权益争议作出的除调解、仲裁以外的处理决定不服的；<br>    （二）对强制收容审查，强制收容教育，强制戒毒，强制收容遣送、扣留，强制隔离传染病人，强制约束酗酒者，或者对财产的查封、扣押、冻结等行政强制措施不服的；<br>    （三）公民、法人或其他组织认为行政机关没有法律、法规、规章为依据的摊派、收费和罚款，或者违反法定程序行使行政权力要求其履行义务的；<br>    （四）行政机关侵犯法律、法规和规章规定的企业经营自主权的。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  对省人民政府的工作部门和省人民政府所在地的市、经国务院批准的较大的市的人民政府工作部门在没有法律、行政法规作为依据的情况下，根据同级人民代表大会及其常务委员会制定的地方性法规或本级人民政府制定的规章作出的具体行政行为不服申请的复议，由本级人民政府管辖。<br>    对自治县人民政府工作部门根据自治条例和单行条例作出的具体行政行为不服申请的复议，由本级人民政府管辖。<br>    对市、县（市、区）人民政府工作部门根据本级人民政府制定，报经上级人民政府备案，具有普遍约束力的决定、命令作出的具体行政行为不服申请的复议，由本级人民政府管辖。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  对地区行政公署所辖的县（市）人民政府作出的具体行政行为不服申请的复议，由地区行政公署管辖。<br>    对地区行政公署所辖的县级人民政府的工作部门作出的具体行政行为不服申请的复议，由地区行政公署相应的工作部门管辖。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  对两个以上行政机关以共同的名义作出的具体行政行为不服申请的复议，按以下规定确定管辖：<br>    （一）各行政机关隶属于同一级人民政府的，由该人民政府管辖；<br>    （二）各行政机关分属于两个人民政府，且不隶属于同一上级主管部门的，由其中最高级别的行政机关的同级人民政府管辖；<br>    （三）各行政机关不隶属于同一级人民政府，但隶属于同一上级主管部门的，由其共同的上一级主管部门管辖；<br>    （四）各行政机关不隶属于同一级人民政府，并且不属于本条（二）、（三）两种情形的，由省辖市人民政府或地区行政公署管辖；跨省辖市或地区的，由省人民政府管辖。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  对乡、镇人民政府自行设立的组织或者委托村民委员会作出的具体行政行为不服申请的复议，由乡、镇人民政府的上一级人民政府管辖。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  不服县以上人民政府所属的行政性公司和非常设机构作出的具体行政行为申请的复议，其管辖应按照该机构此项职责的来源确定，分别适用授权或委托的有关规定。如果无职责来源或职责来源不清的，由其从属的人民政府管辖。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  对被撤销的行政机关在其被撤销前作出的具体行政行为不服申请的复议，由继续行使其职权的行政机关的上一级行政主管部门管辖；如果没有上一级行政主管部门的，由同级人民政府管辖。如果被撤销的行政机关其职权没有相应的机关或组织继续行使的，由决定撤销的行政机关的上一级行政机关管辖。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  行政机关因复议管辖权发生争议，复议期间自确定管辖之日起计算。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  复议机关发现受理的案件不属于本机关管辖，应当移送有管辖权的复议机关，移送机关应制作移送书，写明移送理由、依据和移送时间并附送复议申请书和有关材料，同时将移送管辖通知书发送申请人。<br>    受移送的复议机关对属于本机关管辖的案件，要依法审理。复议期间自收到移送管辖通知书之日起计算。对不属于本机关管辖的案件，应报请上一级行政机关处理，不得自行再次移送。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  凡有复议任务的行政机关应当设置复议机构或者设置专（兼）职复议员。<br>    复议机构是复议机关设置的负责行政复议工作的机构，对外可以直接受理公民、法人或其他组织的复议申请。<br>    复议机关应保证复议机构和复议员的工作条件以及办案所需的经费。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  复议机构在复议机关领导下工作，除履行《条例》第二十五条规定的职责外，还应承担下列任务：<br>    （一）指导下级复议机关开展行政复议和行政应诉工作；<br>    （二）协调有关复议管辖争议，并向复议机关提出处理意见；<br>    （三）组织起草开展复议工作的配套制度及有关规范性文件；<br>    （四）组织复议、应诉人员的培训、考核；<br>    （五）对复议、应诉案件进行调查统计、分析研究、上报备案，并及时向复议机关和上级机关的复议机构反映情况和问题。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  对人民政府的派出机关作出的具体行政行为不服申请复议，该派出机关是被申请人。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  同申请复议的具体行政行为有利害关系的其他公民、法人或者其他组织，可以作为第三人申请参加复议或者由复议机关通知参加复议。<br>    第三人不参加复议的，不影响复议案件的审理。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  申请人、被申请人、第三人、法定代理人可以委托一至二人代为参加复议。<br>    律师、社会团体、申请复议的公民的近亲属或者所在单位推荐的人，以及经复议机关认可的其他公民，可以受委托为复议代理人。<br>    委托他人代为参加复议，必须向复议机关提交由委托人签名或者盖章的授权委托书。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  申请人、被申请人一方或者双方为二人以上，因同一具体行政行为发生的行政复议案件，或者因同样的具体行政行为发生的行政复议案件，复议机关认为可以合并审理的，为共同复议。<br>    共同复议申请的提出有先有后的，自收到最后的复议申请书之日起计算复议期间。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  有共同请求权的申请人，人数在十人以上时，可以书面推荐一至三人为代表申请复议。代表人参加复议的行为对其所代表的当事人发生效力。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  申请人必须按《条例》规定的申请复议的范围、期限和条件申请复议，按被申请人数提交副本。并在申请书中说明是否已向人民法院起诉，是否已向其他行政机关申请复议。没有写明的，复议机关应当向申请人询问，并记入笔录。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  申请人因不可抗力或者由于作出具体行政行为的行政机关未告知当事人复议机关和复议期限，或因信访机关未按《条例》第二十一条规定及时告知等特殊情况耽误法定申请期限而申请延长期限的，延长的期限应等于法定申请期限减去障碍发生前已过去的期限。申请延长期限，是否准许，由复议机构决定。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  《条例》第二十九条所称“知道具体行政行为之日”按以下方式确定：<br>    （一）具体行政行为是当场作出的，书面决定注明的日期为知道具体行政行为之日；<br>    （二）作出具体行政行为的书面决定是送达的，送达书面决定的日期为知道具体行政行为之日；<br>    （三）认为行政机关对申请颁发许可证、执照或者申请履行保护人身权、财产权的法定职责不予答复的，规定的答复期限的最后一日的次日为知道具体行政行为之日；<br>    （四）具体行政行为未按法定程序作出的，该行为实际执行之日为知道具体行政行为之日。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  申请人向人民法院起诉，人民法院尚未作出决定是否受理的，不得申请复议；人民法院超过法定受理期限未作出受理决定的，可以在法定复议申请期限内申请复议。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  行政机关根据两个或两个以上法律、法规和规章作出的一个具体行政行为，如果法律、法规和规章规定的申请复议的期限不一致，当事人申请复议时，只要未超过其中最长的申请复议期限，复议机关应予受理。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  行政机关作出具体行政行为时，不制作、不送达决定书，当事人对具体行政行为不服，向行政机关申请复议时，只要能证实具体行政行为的存在并符合其他申请复议条件的，复议机关应予受理。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  复议机关应对复议申请书认真审查，对不符合《条例》规定的，按以下不同情况处理：<br>    （一）不属于申请复议范围的，不予受理，并告知申请人向有关部门要求处理；<br>    （二）不属于本机关管辖的，不予受理，并告知申请人向有管辖权的机关申请复议；<br>    （三）已向其他有复议管辖权的机关申请复议的，不予受理。<br>    复议机关裁决不予受理的，应当在法定期限内发出不予受理裁决书<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

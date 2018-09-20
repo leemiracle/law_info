@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京政办发［2003］20号<BR>&nbsp;&nbsp;【发布日期】2003-05-14<BR>&nbsp;&nbsp;【生效日期】2003-05-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市人民政府办公厅关于进行第二次第三产业普查的通知<br> <br></font>(京政办发［2003］20号)</p><br> <br> <br>各区、县人民政府，市政府各委、办、局，各市属机构：<br><br>    根据《<a href=javascript:ROF(81709,0) class=alink>国务院办公厅关于进行第二次全国第三产业普查的通知</a>》（国办发[2002]44号），市政府决定2003年在全市开展第二次第三产业普查。现将有关事项通知如下：<br><br>    一、普查的目的和意义<br><br>    普查的目的主要是查清本市第三产业发展的基本状况，掌握其规模、结构、效益等信息。认真搞好第三产业普查，加快第三产业的发展，对于优化本市发展环境，全面建设小康社会，实现“新北京、新奥运”战略构想，率先基本实现现代化，具有重要的意义；对于研究制定首都服务业发展规划，优化服务业结构，改进和加强宏观调控，开拓新的就业渠道和提高人民生活水平，具有重要作用；对于进一步规范和统一全市服务业的财务核算制度和统计调查制度，逐步完善服务业发展的监测、预警和信息发布制度，将发挥重要的促进作用。<br><br>     二、普查对象和范围<br><br>    普查的对象是在本市从事第三产业的全部法人单位、产业活动单位和个体工商户。具体范围包括：农、林、牧、渔服务业，交通运输、仓储和邮政业，信息传输、计算机服务和软件业，批发和零售业，住宿和餐饮业，金融业，房地产业，租赁和商务服务业，科学研究、技术服务和地质勘查业，水利、环境资源和公共设施管理业，居民服务业，教育，卫生、社会保障和社会福利业，文化、体育和娱乐业，以及公共管理和社会组织等。<br><br>    三、普查的内容和时间<br><br>    普查的主要内容：单位标志、从业人员、财务收支、资产状况等。<br><br>    普查的时期资料是2003年度，标准时点为2003年12月31日。<br><br>    四、普查的组织和实施<br><br>    第三产业普查是一项涉及面广、技术要求高、参与部门多、工作难度大的重大社会系统工程。为了加强对此项工作的组织和领导，经市政府批准，成立北京市第二次第三产业普查领导小组，负责全市普查工作的组织和实施。市三产普查领导小组办公室设在市统计局。各有关部门要各司其职，各负其责，通力协作，密切配合，及时协调解决普查中出现的各种问题，确保普查工作顺利进行。<br><br>    按照全市统一领导、部门分工协作、地方分级负责、各方共同参与的原则，各区县和街道、乡镇要建立相应的普查机构，负责本地区普查的组织和实施。各地区要切实加强对普查工作的领导，充分发挥街道办事处、乡镇政府、居民委员会、村民委员会的作用，广泛动员和组织社会力量，积极参与、密切配合做好普查工作。<br><br>    五、普查经费<br><br>    此次普查所需经费，由中央财政和地方财政分级负担，并列入相应年度财政预算。各级财政要积极支持普查工作，按时拨付普查经费，确保到位，并重点解决街道、乡镇的普查经费问题。<br><br>    六、依法普查，做好宣传工作<br><br>    凡在本市辖区内从事第三产业的法人单位、产业活动单位和个体工商户，必须遵照《中华人民共和国统计法》的有关规定及此次普查工作的具体要求，按时、如实地填报普查表，不得虚报、瞒报、拒报、迟报，不得伪造、篡改。<br><br>    各级普查机构和有关宣传部门，要充分利用广播、电视、报刊等新闻媒体，采取多种形式，广泛深入地宣传第三产业普查的重要意义、主要内容和有关要求，动员被调查单位积极配合普查工作，为普查创造良好的社会环境。<br><br><br><br>    附件：北京市第二次第三产业普查领导小组组成人员名单<br><br><br><br>                          （厅  印）<br>                      二00三年五月十四日<br><br><br>附件：<br><br>            北京市第二次第三产业普查领导小组组成人员名单<br><br>组  长：翟鸿祥  副市长<br>副组长：唐  龙  市政府副秘书长兼市政府研究室主任<br>        丁向阳  市计委主任<br>        崔述强  市统计局局长<br>成  员：肖  培  市委宣传部副部长<br>        周  凯  市编办副主任<br>        霍学文  市委金融工委副书记<br>        常  青  市经委总经济师<br>        程  红  市商委副主任<br>        周  河  市外经贸委副主任<br>        张凤福  市农委副主任<br>        范魁元  市建委总经济师<br>        林雪梅  市市政管委副主任<br>        线联平  市教委副主任<br>        张卫华  市公安局副局长<br>        李新京  市民政局副局长<br>        王晓明  市财政局副局长<br>        郭克利  市劳动保障局副局长<br>        王  珠  市文化局副局长<br>        杨志强  市地税局副局长<br>        罗文阁  市工商局副局长<br>        景晓东  市质量技术监督局副局长<br>        温子吉  市旅游局副局长<br>        简保义  市国税局总经济师<br>        顾兖州  市统计局副局长（兼普查办公室主任）<br><br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

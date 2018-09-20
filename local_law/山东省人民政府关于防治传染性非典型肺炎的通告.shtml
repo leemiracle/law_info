@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山东省<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2003-04-26<BR>&nbsp;&nbsp;【生效日期】2003-04-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山东省人民政府关于防治传染性非典型肺炎的通告</font></p><br><br><br>    为进一步加强全省防治传染性非典型肺炎（以下简称非典）工作，严密防范控制非典在我省的传播，保障全省人民身体健康，根据《<a href=javascript:ROF(8773,0) class=alink>中华人民共和国传染病防治法</a>》、《<a href=javascript:ROF(31654,0) class=alink>国内交通卫生检疫条例</a>》和国家有关部门的规定，通告如下：<br><br>    一、传染性非典型肺炎是一种新发现的呼吸道传染病，可防、可治、可控制。对于这种疾病既不要惊慌失措，又不要麻痹大意，只要做到早发现、早报告、早隔离、早治疗，就能有效控制疫情。<br><br>    二、对进入山东境内的人员实行测量体温和填写健康登记表制度。凡抵达本省的飞机在着陆前，所有乘客和机组人员都必须如实填写健康登记表，测量体温；对发热病人要做好记录。飞机着陆后，由机组人员统一收齐健康登记表，交检疫人员。凡来自有非典病例地区的火车、船舶等交通工具在进站、进港前，所有乘客和乘务人员都必须如实填写健康登记表，测量体温；对发热病人要做好记录。在到站进港后，由乘务人员统一收齐，交检疫人员。省界各道口对来自有非典病例地区的客货车及其他车辆的人员，必须进行防疫检验，测量体温，督其填写健康登记表；对发热病人要做好记录。机场、码头、车站、道口均设置留验站，对经检测证实有发热、咳嗽等症状的人员，应在留验站做初步检查、治疗观察；对与其同行的密切接触者实施医学观察，并及时报告所在地疾病预防控制机构。<br><br>    三、各类饭店、宾馆、招待所必须严格消毒、通风换气；入住的人员必须如实填写健康登记表，测量体温。对来自有非典病例地区的入住人员，要集中安排楼层住宿，每日测量体温，并严密观察。如发现有发热、咳嗽等症状者，要立即报告所在地疾病预防控制机构，并实施隔离检查。各洗浴场所禁止外来人员留宿。擅自留宿的，由公安部门责令停业整顿。<br><br>    四、凡从有非典病例地区返乡和探亲访友的人员，要主动向所在单位、居委会、村委会报告，并自觉在家庭接受医学观察两周。期间所在单位、街道办事处和乡镇政府要组织对其进行健康检查，如发现可疑病人要立即向当地疾病预防控制机构报告，并及时实施隔离治疗。<br><br>    五、严格限制举办大型活动，控制外出开会、旅游、考察等活动。各地各单位原则上不得组织大型会议和活动，对已确定的大型活动，能取消的取消，不能取消的要延期举行。各单位、各旅行社要禁止组织人员赴外地旅游。各类娱乐场所禁止组织大型娱乐活动。<br><br>    六、乘坐公共交通工具的人员，要保存好机票、船票和各种车票，一旦发现自己染上传染性非典型肺炎，应立即向有关方面提供发病前乘坐过的公共交通工具的票据，以便有关方面查找其他可能被传染的乘客。<br><br>    七、加强各类学校和幼儿园、托儿所的防范措施。各类中小学校和幼儿园、托儿所要继续严格执行晨检制度，对有发热症状的学生和儿童立即送相关医院检查诊治。高等院校要严格控制外来人员入内，保持学校稳定，教室、食堂、宿舍、图书馆、阅览室等要严格消毒并保持良好通风，要实施以班为单位的晨检制度，如有发热症状的学生，应立即采取措施进行隔离观察治疗，并对与之密切接触者实施医学观察。各级教育行政部门要对各类学校非典防治工作承担全面责任，各类学校主要领导要对本校的非典防治工作承担主要责任。<br><br>    八、严格执行对公共交通工具和公共场所的消毒制度。对进出山东境内的飞机、火车、客货车、船舶等交通工具，抵达后和始发前必须进行严格消毒。省内各类交通工具以及机场、车站、码头、机关、企事业单位、商场、集贸市场和专业批发市场等，每天必须按规定严格消毒。各市政府要加强领导和督促检查，各级疾病预防控制机构要加强技术指导和监督检查。对不符合消毒防护规定的，有关执法部门应责令停业整治或限期纠正。进入山东境内的飞机、火车、汽车、轮船等交通工具到站（港）后清理卫生的垃圾及其他遗弃物，必须焚烧，各地环境保护部门要加强监督检查。医院污物、废水也必须依法进行处理。<br><br>    九、省、市、县各级疾病预防控制机构的咨询电话，要认真接受群众的咨询和报告。任何单位和个人一旦发现周围有可疑病人或与非典患者密切接触者，必须立即报告当地疾病预防控制机构。对瞒报、漏报、迟报疫情的，要追究有关人员责任。发热病人要自觉戴上口罩，到医院发热门诊就诊；对故意隐瞒病情并造成疾病蔓延者，以及知情瞒报或容留可疑病人者，将依照《中华人民共和国传染病防治法》有关规定，追究其法律责任。<br><br>    十、各级政府和卫生行政部门、各类医疗卫生机构要切实做好医护人员的自身防护工作，落实各项防护措施，切实保护医护人员健康不受损害。<br><br>    十一、要切实维护市场秩序和社会稳定，对制售假冒伪劣预防非典相关商品、囤积居奇、哄抬物价、牟取暴利的非法行为要依法予以处罚；对造谣惑众、借机破坏社会秩序的违法犯罪活动要严厉打击。省委宣传部和省卫生厅将及时向社会发布疫情通报，请广大人民群众不要听信谣言。<br><br>    十二、对违反本通告行为，拒绝检查、阻碍防疫工作人员执行公务的，由卫生行政部门会同公安机关依法进行处理。构成犯罪的，移交司法机关依法追究刑事责任。<br><br>    十三、本通告自发布之日起实施，终止日期由省人民政府另行通告。          <br><br>    二○○三年四月二十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

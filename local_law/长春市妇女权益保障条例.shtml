@@ -1,0 +1,20 @@
+﻿<b>Zend_Controller_Exception</b> : session has already been started by session.auto-start or session_start()#0 /var/www/library/Zend/Session/Namespace.php(143): Zend_Session::start(true)
+#1 /var/www/library/Zend/Auth/Storage/Session.php(87): Zend_Session_Namespace->__construct('Zend_Auth')
+#2 /var/www/library/Zend/Auth.php(91): Zend_Auth_Storage_Session->__construct()
+#3 /var/www/library/Zend/Auth.php(141): Zend_Auth->getStorage()
+#4 /var/www/application/controller/CustomController.php(116): Zend_Auth->hasIdentity()
+#5 /var/www/application/controller/FrontController.php(21): CustomController->init()
+#6 /var/www/library/Zend/Controller/Action.php(133): FrontController->init()
+#7 /var/www/library/Zend/Controller/Dispatcher/Standard.php(268): Zend_Controller_Action->__construct(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http), Array)
+#8 /var/www/library/Zend/Controller/Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#9 /var/www/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()
+#10 /var/www/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()
+#11 /var/www/application/vhost.php(122): Zend_Application->run()
+#12 /var/www/vhost/w/www/index.php(3): require_once('/var/www/applic...')
+#13 {main}<br />
+#0 /var/www/library/Zend/Controller/Front.php(965): Zend_Controller_Plugin_Broker->postDispatch(Object(Zend_Controller_Request_Http))<br />
+#1 /var/www/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()<br />
+#2 /var/www/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()<br />
+#3 /var/www/application/vhost.php(122): Zend_Application->run()<br />
+#4 /var/www/vhost/w/www/index.php(3): require_once('/var/www/applic...')<br />
+#5 {main}

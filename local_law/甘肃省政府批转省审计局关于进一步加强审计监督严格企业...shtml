@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82602<BR>&nbsp;&nbsp;【发布文号】甘政发[1994]143号<BR>&nbsp;&nbsp;【发布日期】1994-12-31<BR>&nbsp;&nbsp;【生效日期】1994-12-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府批转省审计局关于进一步<br>
+ 加强审计监督严格企业财经纪律意见的通知<br>
+</font></p><p align='center'><font class='STitle'>（甘政发〔1994〕143号一九九四年十二月三十一日）</font></p>    省政府同意省审计局《关于进一步加强审计监督严格企业财经纪律的意见》，现转发给你们，请认真贯彻执行。<br><br>              关于进一步加强审计监督严格企业财经纪律的意见<br><br>省人民政府：<br>    近年来，我省国有大中型企业认真贯彻党的十四大精神，积极落实“<a href=javascript:ROF(17470,0) class=alink>两则</a>”的有关规定，抓住改革开放机遇，加快发展步伐，使我省经济得到持续稳步发展。但是，在各项改革政策措施的实施过程中，少数企业规章制度还不够配套完备，弄虚作假，截留利润、隐瞒税收、虚盈实亏等违纪现象时有发生。从近几年审计监督的情况看，主要存在6个方面的问题：（一）一些企业采取划小核算单位、建立内部结算制度的方式，将实现的部分利润不如数入帐，放帐外保存。（二）不充分体现经营成果，以往来帐方式挂帐。一些企业为了截留税收，人为调减利润，形成损亏。（三）在会计制度改革过程，截留税利。一些企业不按照有关规定如实地进行成本核算，将不应计入当期财务费用、管理费用、销售费用的其它业务支出、营业外支出的费用挤入成本，导致减少企业利润，借以逃避所得税。（四）一些企业法人不能很好地承担为国有资产保值、增值的使命，采用大头小尾、虚列品名、涂改发票等手段侵夺国有资产，以弥补企业正常收益的不足。还有的企业利用核销债权的办法转移私分资金，甚至与不法分子勾结，假称债务人破产、亏损、无偿还能力，将应收帐款列入损失核销，转移或私分资金。（五）会计报表不真实。一些企业通过采取对该作收入的不作收入，或对该列成本不进成本等手段，隐匿报告期财务实绩，钻国家经济政策制度尚欠完善的空子，以骗取亏损补贴或利润留成。有的企业为了不同的需要，针对不同的呈报对象，编造多套会计报表。如报送财税的，即少体现销售和利润；呈送上级的，则多反映有关成果；自用的又是另一套。部分企业为了防备检查，甚至连帐簿、传票都制作两套或多套。（六）一些效益差的企业利用递延资产帐户搞虚盈实亏，把递延资产帐户当成调节利润的“蓄水池”，千方百计利用递延资产帐户隐匿费用，有的把往来款中的呆帐损失、库存商品盘亏损失、支付的利息，以及产品和产成品应负担的管理费等，全部挂在递延资产帐上，不按规定摊销，不仅削弱了企业的发展后劲，而且造成国有资产的流失。<br>    形成以上问题的因素是多方面的，主要是，部分企业法人法制观念还比较淡薄，主管和职能部门的监督管理工作没有完全跟上。要解决和纠正企业经营核算中存在的违纪问题，制止这些行为的蔓延和扩大，只靠少数几个职能部门的监督是不够的，必须在政府的统一领导下，充分发挥企业主管部门、审计、财政、税务、工商、银行等部门的共同监督作用，进行综合治理，才能收到好的效果。为了保证我省国民经济健康顺利发展，促进商品生产经营活动有条不紊地进行，保障社会资源的合理配置并取得好的效益，更好地发挥各个职能部门的管理和监督作用，促使企业遵纪守法，切实搞好财务核算，现提出以下几点意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>审计机关要认真履行《审计法》规定的对国有企业的资产、负债和损益进行审计监督的职责，增强审计执法的力度。  要以国家颁布的经济法规和<a href=javascript:ROF(36506,0) class=alink>企业会计制度</a>为依据，对企业的资产、负债及损益进行审计，严格依法办事。查明由于企业违纪、违规、管理不善和其他原因造成的虚增、虚减、隐匿、帐实不符、乱摊乱提、虚盈实亏、分配不当等影响企业资产负债和损益真实性、合法性的问题。对那些违反财经法纪，弄虚作假，为谋求部门、单位和地方利益而严重损害国家利益的问题，必须依法严肃处理。要区分责任，对直接责任人员按照转换企业经营机制条例中的有关条款进行必要的处罚。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>财政部门要切实加强对国有大中型企业及其下属机构的财务审核监督。  充分发挥监督管理企业财务的职能作用，加强定期检查。要着重检查企业是否将应转作国家资本金的各项基金、资金按规定如数转作国家资本金；将应入帐的收入是否做了记帐处理；企业对外投资净收益，下属机构缴来的利润等是否计入利润总额；企业的成本、费用的列支范围是否符合新制度的有关规定；企业所得税后的利润分配是否符合新制度和国家其他有关规定。要认真查处和纠正财税改革和新财会制度执行中存在的各类违法违纪行为，促进企业提高法制观念，把企业的一切生产经营活动纳入法制化的轨道。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>企业主管部门要认真抓好本系统、本部门所属企业的会计核算工作。  主管领导要亲自过问，深入基层，调查研究，及时解决财务管理工作中存在的问题，力求做到核算真实、准确。企业的各项业务收入都要纳入当年的会计决算，都要按会计制度规定在有关会计项目中反映，不得截留、侵占和隐瞒。任何单位不得巧立名目搞“小家当”，不得以任何名义将各项收入挂在帐上。要严格按照财务会计制度的规定进行成本费用核算，不得乱列成本，乱摊费用；不得任意减少利润或增加亏损；不得将应由税后利润列支的各项赔偿金、违约金、滞纳金、超支的业务招待费和罚款等列入成本费用；不得假借预提和待摊费用的名义虚增或虚减当期的成本费用。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>充分发挥企业内审和财会部门的职能作用，强化企业自我约束力。  企业财会人员必须遵守法律、法规，严格按照会计法的规定办理会计事务，进行会计核算，实行会计监督。要认真纠正成本核算中的随意性，企业要本着对投资者负责的态度，认真区分各项费用性质，正确核算成本费用，强化成本管理；要尽快建立与“<a href=javascript:ROF(17470,0) class=alink>两则</a>”相配套的规章制度，重新规范企业自身行为，加强对生产耗费的控制，灵活调度使用资金，科学统筹生产经营；要确保会计资料合法、真实、准确、完整，会计凭证、会计帐簿、会计报表和其他会计资料必须符合国家统一的会计制度的规定，不得伪造、变造会计凭证、会计帐簿，不得报送虚假会计报表。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>国有资产管理部门要加强对企业资产管理和清仓查库工作，把流动资产的核查放在重要位置。  企业流动资产中，存货所占比重大，存货的日常核算及期末库存的真实性，对于如实反映企业经营成果，考核企业经营责任，确保国有资产的保值增值，具有重要意义。企业的“材料”和“产成品”帐簿设置必须完整合格，要做到全部实物必须置于财务监督控制之下，记录要真实，正确反映实物增减结存情况，各类帐簿定期核对，保证实物金额与数量一致。要健全保管制度、出入库手续制度，对已查明的盘盈或盘亏，要及时进行帐务处理，并记入当期损益。要坚决杜绝少转“产成品”成本，多留“在产品”成本等违规违纪的做法。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>专业银行要加强对企业工资及福利基金的审核监督，坚决按现金管理条例规定办事，严格控制消费基金过快增长。  要加强现金管理，各企业只能在一定银行开设一个基本帐户，一切现金支出只能在基本帐户内支取。企业不得套取现金搞消费基金支出，任何单位不得发行、购买和使用代币购物券，严禁用公款搞个人消费或把公款转化为个人消费基金，严格控制会议费和业务招待费支出。<br>    以上意见如无不妥，请批转各地和有关部门执行。<br><br>                                                    甘肃省审计局<br>                                              一九九四年十一月十八日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

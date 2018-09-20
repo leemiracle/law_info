@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81703<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2001-02-12<BR>&nbsp;&nbsp;【生效日期】2001-02-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 湖南省物价局、湖南省通信管理局关于<br>
+部分电信资费结构性调整的通告<br>
+</font></p><p align='center'><font class='STitle'>（2001年2月12日）</font></p>    根据信息产业部、国家计委、财政部《关于电信资费结构性调整的通知》（信部联清（2000）1255号）精神，经省人民政论批准，决定对我省现行部分电信资费进行结构性调整，现通告如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>降低国内、港澳台地区和国际电话资费，改革计费单元<br>    国内长途电话资费标准由现行的每分钟0．60元、0．80元和1．00元三级计费统一调整为一级计费，将计费单元由1分钟缩短为6秒钟，资费标准为每6秒钟0．07元。<br>    国际及港澳台电话计费单元由1分钟缩短为6秒钟，国际电话不再区分被叫地点，统一调整为每6秒钟0．80元、港澳台电话统一调整为每6秒钟0．20元。<br>    上述资费调整后，国内、国际及港澳台电话继续实行分时段优惠，具体优惠时段、优惠幅度及优惠范围由中国电信集团公司报经信息产业部批准后统一安排执行。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>降低出租电路资费<br>    （一）大幅度降低国内出租电路资费，简化计费档次<br>    将国内出租电路的本地网营业区内、营业区间、省内、省际800公里（及以内）和省际800公里以上5档资费合并为本地网营业区内、营业区间、长途3档资费，同时大幅度降低国内出租电路资费标准。<br>    帧中继业务资费执行中国电信集团公司报信息产业部批准后的标准。<br>    （二）降低国际及港澳台出租电路资费<br>    国际及港澳台出租电路资费在现行标准的基础上平均下调72．8％<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>调整固定本地电话资费结构，改革计费单元<br>    （一）改革固定本地电话基本月租费的计费办法<br>    固定本地电话的基本月租费不再按交换机容量（本地网营业区内的固定电话交换机总容量划分级次，统一归并为住宅电话省会城市每月部20元、市州县每月部18元、农村每月部15元，办公电话全省统一为每月部30元。其中小交换机用户及专网用户内的办公电话月租费不得高于25元。市内用户中断线也不再划分级次及区分经营性和非经营性中继线，基本月租费统一调整为每月100元。<br>    （二）调整固定电话本地网营业区内通话费，改革计费单元<br>    1、在一个行政县范围内实行城乡通话费同价，降低农村用户通话费用。<br>    将固定电话的本地网营业区范围扩大到行政县（含县级市、下同），在同一行政县内通话均执行本地网营业区内（市话）资费标准。<br>    2、调整本地网营业区内电话（市话）资费<br>    本地网营业区内电话资费进行结构性调整，营业区内通话费计费单元由按3分钟一次计费改为按首次3分钟，以后每1分钟计费1次，首次3分钟资费标准为0．22元，以后每分钟资费标准为0．11元。<br>    （三）本地网固定电话营业区间通话费维持现行标准，仍按每分钟0．5元计费。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>降低互联网业务资费<br>    为进一步促进互联网业务的发展，将用于互联网业务的数字中断线月租费由4500元调整到2000元。<br>    为鼓励互联网用户的发展，拨号上网用户的通信费一律由现行按市话资费减半收取（每3分钟1次每次0．11元），统一调整为每分钟0．02元。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>取消电信业务附加费<br>    为规范电信资费，切实减轻用户负担，现行所有附加在电信业务基本资费上的附加费（包括各级政府出台的由电信企业代收的各项费用）一律取消。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>放开部分电信业务资费，实行市场调节价<br>    在加强政府监管力度的前提下，对以下三项已经形成充分竞争的电信业务，实行经营者定价。<br>    （一）ＩＰ电话业务资费<br>    （二）服务器托管业务<br>    （三）其他增值业务：如过户费、呼叫转移、来电显示、短消息等增值业务资费，具体项目国家另行公布。对于明令不得收费的项目，企业不得擅自定价收费。<br>    上述实行市场调节价的电信业务资费，一律实行申报备案费。经营全国性电信业务的公司，资费调整报信息产业部、国家计委备案；经营地方性电信业务的公司，资费调整报各省、自治区、直辖市通信管理局和物价主管部门备案。对企业上报的各项业务资费标准，经主管部门审议后，如认为存在与成本背离或与其他业务价格比价关系不符等情况，可否决其资费方案；对低于成本竞争，可否决其资费方案；对低于成本竞争，扰乱正常价格秩序的不正当价格行为，由价格主管部门按相关法律、法规查处。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>其他<br>    1、取消固定电话话机代维费、区外线路建设费、区外线路月租费。<br>    2、出租电话业务中，租用电话用户月租费按办公电话档次即每部每月30元收取，其他规定仍按湘价重定（2000）57号文执行。<br>    3、固定本地电话月租费划分的四档中，省会城市、市州县、农村电话专指住宅电话，农村电话的界定是县城以下的住宅电话（依据当地政府行政区划），办公电话的界定为除安装在住宅用户家中的及公用电话以外的电话。<br>    4、长途人工电话、人工叫人电话、传呼电话、加急电话、会议电话、交互式会议电话、电视会议业务计费方式不变，维持现行按“分钟”计费不变，资费标准为0．7元／分钟。<br>    5、资费调整后，全国智能网业务本地通话费标准及计费方式仍维持不动，即300业务本地通话费仍为每分钟0．5元、800业务本地通话费仍为每分钟0．15元，国际及港澳台、国内长途通话费按本次资费调整执行；省内本地智能网业务执行本次资费调整相关内容。<br>    6、公用电话、电线市话业务资费调整另文明确。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>资费调整执行时间<br>    自2001年1月1日起执行出租电路（含帧中断业务）及市内用户中断线调整后的资费标准。<br>    自2001年1月21日起执行因特网专线上网网络使用费及拨号上网网络使用费、专线上网通信费调整后的资费标准。<br>    自2001年2月21日起执行国内长途电话、国际及港澳台电话、固定本地电话通话费、智能网业务和拨号上网通话费调整后的资费标准，取消长途附加费。<br>    2001年3月1日起执行固定本地电话月租费。<br>    2001年6月1日前执行公用电话（不含201）调整后的资费标准。<br>    特此通告。<br><br>                                          湖南省物价局  湖南省通信管理局<br>                                                  2001年2月12日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

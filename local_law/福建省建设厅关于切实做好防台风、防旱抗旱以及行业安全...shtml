@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽建电〔2003〕9号<BR>&nbsp;&nbsp;【发布日期】2003-08-04<BR>&nbsp;&nbsp;【生效日期】2003-08-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省建设厅关于切实做好防台风、<br>防旱抗旱以及行业安全生产工作的紧急通知<br><br></font>(闽建电〔2003〕9号)</p><br><br>     <br>各设区市建设局、房管局、市政局、园林局：<br><br>    自7月份以来，我省持续高温干旱，对人民群众生产生活造成较大影响。据省气象台8月3日预报，今年第9号台风“莫拉克”将于8月4日下午到夜里，在广东东部到我省南部一带登陆。省委、省政府高度重视，8月3日上午卢省长主持召开专门会议，部署防台风、防旱抗旱及安全生产工作。林坚飞厅长8月3日下午立即召开专题会议，迅速进行贯彻落实。根据省委、省政府关于坚持两手抓，一手抓防抗9号台风，一手继续抓抗旱的部署，现结合建设行业实际，就建设行业防台风、防旱抗旱及安全生产工作紧急通知如下：<br><br>    一、要确保人民群众生活用水。一要按照“先生活后生产，先节水后调水，先地表后地下，先重点后一般”的    原则实施城市供水，优先保证人民生活和部队、重点工业企业、重点社会事业单位用水；二要采取各种有效措施解决水源问题。对水源紧张的取水口，可采取围堰、挖低河床、拦坎截留、延伸取水管等维持供水。严重受旱地区可通过打井，充分利用地下水资源，采取打浅水井或管道井等手段抽取地下水，补充解决水源问题；三要建立健全供水的应急预案。特别是水源已经发生困难的市、县，要做好临时应急供水的方案，提前落实必要的供水物资，对原已报废或停产的取水泵房、水厂进行必要的设备维修维护，以备应急使用；四要强化节水工作。要加强宣传，引导居民节约用水；对非居民用水实行计划用水。对洗浴、桑拿、洗车等行业严格控制用水，旱情严重地方可暂停供水。污水处理厂已正常运行的城市必须进行中水回用，用于城市绿化、市政、环卫用水；五要加强自来水生产和服务。要组织抢修技术力量，加强生产设备设施的维修维护，及时排除故障，确保水厂设备设施的完好运行。加强110联动工作，建立健全报修热线值班制度，及时处理市民的求助和投诉。对地势高、供水压力不足的地段要准备送水车送水上门，服务群众。<br><br>    根据省政府的要求，全省要建立供水情况日报制度。各设区市主管部门和各企业都要指定专人负责，及时填报所辖各市、县和重点镇的城市供水情况，由各设区市行政主管部门“一把手”签发后准时于每日下午5：00前上报省厅城建处（传真：0591-7616855）。对不及时、不准确报送的，或出现重大事故不报告的，将根据有关规定追究有关单位和责任人的责任。<br><br>    二、要高度重视燃气安全。高温酷暑对燃气的安全生产影响很大，要加强对液化气设施及供应站点、钢瓶的管理，确保安全。各燃气企业要重点做好液化气储罐的喷淋降温，增加对温度表、液位计的检查频率，至少每小时检查记录一次，实时掌握、控制储罐容量和温度；要保持消防水池水位达到规定要求，加强对液化气储配站的各类设施的检查、养护和维修，加强对从业人员的安全教育，提高安全防范意识。<br><br>    三、要搞好公交、轮渡安全生产。要严格车辆保养维修制度，加强车辆进出场的检验和车辆的日检、趟检工作，坚决杜绝病车（船）上路。要做好驾、乘人员的防暑工作，合理调度，杜绝高温酷暑而引发的疲劳开车酿成事故。<br><br>    四、要狠抓施工安全。要合理调整建筑施工工地和露天作业时间，施工一线人员要避开高温时段外出作业、疲劳作业，做好防暑降温工作。同时，要充分认识台风可能带来的破坏，克服麻痹思想，对容易受台风、洪水攻击倒塌的塔吊、井字架、脚手架、工棚等重点部位和设施，要严格执行操作规范，确保安全。对工地围墙、城市广告牌和建筑工地的搁置物、县挂物等，要早准备、早预防、早防范，组织检查，不符合安全要求的，要予以加固、转移或拆除。<br><br>    五、要防范危旧房、山体滑坡等造成的灾害。由于持续干旱，土地龟裂，台风暴雨极易引发地质灾害事故。要配合国土资源部门，对容易遭受地质灾害破坏地段的村镇房屋要做好防范工作，并加大宣传和普及山地灾害防御知识，提高群众的防范意识，避免因山体滑坡造成人员伤亡。对危旧房屋要进行检查，防止房屋倒塌造成人员伤亡。<br><br>    六、要加强领导，落实责任。各级领导要按照卢省长关于防灾抗灾“领导干部要靠前、保障服务须置前、群众利益摆在前、防灾抗灾重事前”的指示精神，深入第一线，科学指导，检查各项措施的落实情况；要按照工作预案，强化行政领导责任制，各司其职，各负其责。要加强值班，领导要带班，密切关注和掌握灾情的发展变化。<br>各地要认真组织开展一次防台风、防旱抗旱及安全生产工作的自查检查活动，对自查检查过程中发现的问题及时进行整改。省厅将在8月中旬组织开展防旱抗旱工作及工程质量安全生产工作检查。<br><br>二○○三年八月四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

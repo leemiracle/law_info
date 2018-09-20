@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82305<BR>&nbsp;&nbsp;【发布文号】昆政发[1986]44号<BR>&nbsp;&nbsp;【发布日期】1986-03-11<BR>&nbsp;&nbsp;【生效日期】1986-03-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>昆明市关于加强企业技术开发的暂行办法<br>
+ </font></p><p align='center'><font class='STitle'>（1986年3月11日昆政发〔1986〕44号）</font></p>    为了加强我市企业技术开发和技术吸收能力，增强企业的应变能力，促进生产发展，提高经济效益和社会效益，根据《<a href=javascript:ROF(4143,0) class=alink>中共中央关于科学技术体制改革的决定</a>》和中央有关部门的规定精神，结合我市的实际，特制订本暂行办法。<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>企业技术开发的内容与任务<br>    企业技术开发的主要内容是：新产品开发、消化吸收引进技术、新技术推广应用和资源综合利用、企业技术储备开发及其它科技攻关项目。<br>    企业技术开发的任务是进行新产品试制、中间试验、半工业性试验的工艺技术等问题，达到增加产品品种、提高质量、减少消耗、降低成本、保护环境、增加自我发展能力、提高经济效益的目的。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>加强企业技术开发的组织领导<br>    各企业的领导，要把科技工作纳入领导议事日程，领导班子中要有专人分管或兼管科技工作。企业要在充分依靠社会上科学技术力量的同时，积极充实和增强自身的技术开发能力，在“七．五”期间逐步建立起一个与本企业发展相适应的具有一定技术骨干及试验场所和手段的技术开发部门或科研机构。公司及大型企业应建立技术开发中心或研究所，中小型企业可成立技术开发部或中心实验室（组），企业的科技开发机构由主管部门审批，报市科委、市经委备案。<br>    为了加强企业技术吸收开发能力，企业可根据自愿互利的原则，同科研、设计、教育等单位建立各种形式的联合体，在联合体的基础上，有的可以逐步发展成为经济实体。<br>    对于技术力量薄弱的小型企业，可以联合组织技术开发机构，或者委托有关科研部门作为自已的开发机构。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>企业技术开发的资金来源及设备材料<br>    企业技术开发资金来源有以下几种：<br>    （1）企业税后留利提取10％－20％；<br>    （2）新产品免税留利所得资金；<br>    （3）企业收取的技术转让费、咨询费、设计费、试验费提取30％－50％；<br>    （4）技术开发所支付的技术转让费、样品费、样机构置费和一般的测试仪器购置费，价值在五万元以下的，可摊入当年成本，超过五万元的，允许分三至五年摊入新产品成本或全部产品成本；<br>    （5）企业科技人员的技术培训费，可摊入成本，出国培训费由专项资金开支；<br>    （6）国家酌情拔款。国家、省、市主管部门下达计划列为技术开发的项目费用，由下达任务的部门拔款补助、贷款或划拔贷款指标，银行发放技术开发低息贷款或主管部门批给贴息贷款。<br>    企业技术开发所需要的设备、原材料，原则上由企业自行解决。<br>    属于计划下达的项目，主管部门应给予大力支持，优先安排解决。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>企业技术开发项目免税、留利<br>    为使企业不断增强技术开发能力，（1）凡经市科委、市经委、市财政、税务部门审批确认的新产品、新技术，达到国际水平的，可免征产品税、增值税三年；达到国内先进水平的免征产品税、增值税二年；属食品、轻纺、医药、民用电子等生活资料的免征产品税、增值税一年。在免税期间获国家奖及省一等奖的技术项目可再免一年税。（2）企业收取的技术转让费、设计费、试验费、咨询费等在10万元以下的免征所得税，全部留给单位；超过10万元的征收超过部份的所得税。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>企业技术开发自主权<br>    （1）企业可根据国家设计要求和市场需求，制定技术发展方向和技术开发规则（计划）及成果、信息等科技管理办法。使企业的技术开发工作既有正常的年度计划，又有近期的发展规则。<br>    （2）企业有权使用技术开发基金（作技术开发专用，不得挪作他用），企业与企业之间，企业与科研、设计、教育单位之间可开展多种渠道的技术贸易与多种形式的技术转让，技术转移一般实行有偿转让，有偿转让按照国务院《<a href=javascript:ROF(4013,0) class=alink>关于技术转让的暂行规定</a>》执行。<br>    （3）新产品在试销期间，企业有权拟定试销产品价格，正式投产后按规定报物价部门审批定价。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>企业技术开发的考核与奖励<br>    企业技术开发的考核内容主要是：技术开发所取得的经济效益（包括增加的产值、利润占企业总产值、总利润的比例）；推广新技术、消化吸收引进技术和技术攻关取得的增收节支金额；企业技术开发产值、利税与当年总产值、总利税的比例；技术开发项目的水平（国际、国内、省、市水平）和社会效益；新产品创汇率。<br>    为了鼓励企业技术开发，对有成效的单位、集体、个人应给予奖励，其办法是：<br>    （1）按国家、省、市规定可申报技术进步奖（包括计划外的）；<br>    （2）企业可从技术开发项目取得的纯利润中（包括技术转让、设计费、咨询费、试验费）提取5％－10％作奖励费用，对直接从事研究、开发该项新产品或新技术的人员给予奖励。贡献大的多奖（项目主要技术负责人的奖励应高于其他人员的奖励）。不得平均分配奖金，与项目无的人员不奖。此项奖金不计入企业的奖金总额<br>。<br>    （3）每年由市经委、市科委联合进行一次优秀技术开发项目评选活动，对在技术开发工作中做出显著成绩的集体或个人，应给予奖励，奖金由市财政拔款开支。<br>    本暂行规定自公布之日起执行，解释权由昆明市科委负责。<br><br>                                                    昆明市科学技术委员会<br>                                                    1986年3月10日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

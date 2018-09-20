@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】南京市<BR>&nbsp;&nbsp;【发布文号】宁政发〔2003〕192号<BR>&nbsp;&nbsp;【发布日期】2003-09-30<BR>&nbsp;&nbsp;【生效日期】2003-09-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>南京市政府关于进一步改善南京投资环境的若干意见<br><br></font>(宁政发〔2003〕192号)</p><br><br><br>各区县人民政府，市府各委办局，市各直属单位：<br><br>    为激活民间资本，吸引外资、外地资本来我市投资发展，加快全市“两个率先”进程，实现争先进位的奋斗目标，现就进一步改善南京投资环境提出如下意见：<br><br>    一、进一步放宽市场准入条件<br><br>    1、坚决破除行政垄断和行业垄断，鼓励社会资本进入各类经营领域。（1）对各种所有制一视同仁，实行同等待遇。凡是不涉及国家安全和国家限制的投资领域，全部向社会资本开放；凡是国有资本可以退出的领域，允许和鼓励社会资本进入；凡是向外资开放的领域，都向民间资本开放。（2）近期重点开放经营性基础设施和社会事业的建设、运营市场，推进经营性基础设施和社会事业项目投资主体多元化、融资方式多样化和建设行为市场化。（3）全市城市建设领域各个行业、各类项目建设和经营一律向社会资本开放，鼓励外资、民资、外地资本投资城市建设项目，参与改组改造城建领域存量资产，逐步建立多元化的城市建设投资体制。<br>    <br>    2、放宽投资创业条件，最大限度地激活民间资本。（1）放宽投资者身份的限制，扩大出资者范围。除法律、法规禁止从事经营活动的人员外，允许在职人员向除外商投资企业以外的各类企业出资入股。（2）支持高校毕业生从事个体经营，除国家限制的行业外，自核准经营之日起，1年内免交个体工商户登记费、个体工商户管理费、集贸市场管理费、经济合同鉴证费、经济合同示范文本工本费。（3）鼓励以高新技术成果、资本、技术以及人力资本、字号名称等无形资产按一定比例作价入股。高新技术成果经专门评估、约定后，其占企业注册资本的比例可不受限制，由投资各方约定。（4）提高增值税和营业税的起征点。增值税销售货物的起征点为月销售额5000元；销售应税劳务的起征点调整为月销售额3000元；按次纳税的起征点调整为每次（日）销售额200元。营业税按期纳税的起征点调整为月营业额5000元；个人出租房屋采用按期纳税方式的起征点调整为月营业额1000元；按次纳税的起征点调整为每次（日）营业额100元。<br><br>    3、积极吸引外地资本进入南京。（1）鼓励国内各地各种经济成份企业、事业单位、社会团体及自然人来宁投资，注册设立企业。特别是投资兴办符合本市产业发展导向和城市功能性质的各类企业或项目。（2）鼓励外地大中型企业（集团）总部迁到南京，或在南京注册登记设立公司，建立生产基地，创办营销中心、研发中心、技术中心、信息中心等机构。（3）外地来宁投资者在劳动就业、社会保障、子女入学、出国考察等方面，与本市企业享受同等待遇。<br><br>    二、进一步深化行政审批制度改革，简化审批程序<br><br>    4、取消社会投资项目审批。对同时符合下列条件的社会投资项目，不再进行项目建议书、可行性研究报告、初步设计、开工报告等多道程序审批，改为实行登记备案一道程序：（1）不使用政府性资金的项目；（2）不需要新征用土地的生产性项目；（3）不属于国家产业政策限制发展的项目；（4）不超越市级审批权限的项目；（5）不涉及公众利益和国家实行控制、专营的项目（包括公路、水厂、电厂、电网、污水处理厂、废物处理厂等）；（6）通过招标、拍卖方式获得土地使用权的项目（不含主城和一城三区以内的房地产项目）；（7）不影响生态环境的项目；（8）不属于法律、行政法规规定审批的项目。 <br><br>    5、减少前置审批。（1）在我市国家级开发区和沿江化工园区试行前置审批告知承诺制，由审批机关书面告知投资者的权利义务和法律责任。投资者提供承担民事责任的书面承诺，企业登记机关依据企业承诺可先核发营业执照，后办理相关审批手续。（2）除国家级开发区和沿江化工园区外，对企业登记中涉及需要前置审批，只要有审批机关在审批意见栏内签署同意意见，或凭政府批准文件、有关部门准予开业的会议纪要，可予以核发营业执照。<br><br>    三、进一步鼓励工业项目投资，落实工业项目优惠政策<br><br>    6、优先保证工业项目用地。（1）对社会资本投资建设工业项目的，土地管理部门优先安排用地计划，确保土地供应。（2）对市政府认定的工业重点项目，土地管理部门提前介入，并提供从项目选址、用地预审、征地报批、地价评估、土地供应、登记发证全程服务。<br><br>    7、加强对工业项目的规划服务。（1）按照全市沿江开发和五大产业布局规划，积极引导各类资本投资工业项目，城市规划部门要积极支持，做好服务，以促成项目落户为原则，尽最大可能积极解决项目选址等规划技术性问题，要切实从投资者的角度出发，协助做好规划安排，确有重大矛盾的，也要提出可行方案，帮助择址另建。（2）对市政府认定的工业重点项目，建立规划工作专责联系人制度，建立定人、定期的服务和联系渠道，为工业项目的建设发展提供及时服务。<br><br>    8、认真落实工业项目的优惠政策。凡符合产业导向的工业投资项目，按企业的产业结构和投资规模，分别执行市委、市政府《关于促进沿江开发的若干政策措施的意见》（宁委发〔2003〕39号）、市政府《关于加快发展私营工业企业若干政策的通知》（宁政发〔2002〕210号）、市政府《关于进一步加快重点乡镇企业园区建设的意见》（宁政发〔2002〕13号）等文件规定的各项优惠政策。<br><br>    四、进一步完善综合配套服务体系，提高服务效率<br><br>    9、实施口岸大通关工程，提高通关效率。（1）大力提升口岸运力，努力开辟国际客货运航线，加快沿江开放水域码头对外开放以及开放码头的社会化进程。（2）加强口岸基础设施建设和查验设施建设，提升口岸生产作业效率，创造良好的通关环境。（3）改革通关作业模式，推广提前报检、提前报关、实货放行的并联通关模式。对出口加工区企业实施“快速通关”管理模式，对高科技、高创汇、高资信、大型出口企业实行“便捷通关”管理模式。（4）建立通关信用管理体系，实行差别化通关流程操作，对高资信企业开辟通关绿色通道。（5）加快建设资源共享的统一电子通关平台，实行通关数据的联网传输，实现24小时无纸化电子通关的高效模式。<br><br>    10、加强重大项目协调，实行全过程服务。（1）各有关部门对各类重点园区和技术水平高、符合全市产业结构升级方向、关联效应大的重大项目给予重点支持。（2）对重大项目建立全过程、全方位的跟踪服务链，对其在项目选址、开工建设和生产经营过程中遇到的问题实行个案协调，特事特办，急事急办。外商投资企业由市外经贸局负责，外地在宁企业由市经协办负责，本市企业由市经委负责。<br><br>    11、完善社会保障制度，优化非公经济发展环境。（1）外资、民资、外地资本投资企业业主及其职工按规定参加我市社会保险。（2）外资、民资、外地资本投资企业招聘下岗失业人员，根据相关政策享受国家、省、市有关税费减免的政策。<br><br>    12、加大政策落实力度，提高政策执行水平。各部门、各区县要认真学习研究市委、市政府出台的一系列改善投资环境、加快全市经济发展的政策措施，并结合本部门、本地区实际，将各项政策措施真正落到实处。鼓励各类企业将政策执行过程中遇到的各种问题和障碍，通过各种渠道向市委、市政府反映，市委、市政府将责成有关部门认真加以改进。<br><br>    二○○三年九月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2002-08-14<BR>&nbsp;&nbsp;【生效日期】2002-08-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳市市级软件园认定办法（试行）<br><br></font>（深圳市信息化办公室 2002年8月14日）</p><br><br><font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为进一步贯彻落实国务院颁布的《<a href=javascript:ROF(35354,0) class=alink>鼓励软件产业和集成电路产业发展的若干政策</a>》（国发〔2000〕18号），促进我市软件产业发展，创造软件产业发展的良好环境，推动我市软件园的建设和发展，特制定本办法。<br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 市信息化办公室（以下简称市信息办）会同市财政局负责深圳市市级软件园（以下简称市级软件园）的认定工作。<br><br><font class='zhang'>第二章</font> 认定条件<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 符合下列条件的软件园，可以向市信息办申请认定为市级软件园：<br>    （一）软件园发展思路清晰，规划切实可行，中远期发展目标明确，并已制定相应的投资和实施计划；<br>    （二）软件园地理边界明确，产权清晰，建筑面积不小于2万平方米，园区的建设、管理和发展与国际接轨； <br>    （三）软件园建设和发展环境优越，具有软件产业发展的技术支撑体系和后勤服务体系，以及相配套的基础设施和通信网络设施，可为软件企业提供100M的宽带接入网；<br>    （四）软件园管理规范，设有独立、完善的管理机构，专职管理人员不少于5人，有能力配合软件产业主管部门做好重点项目申报、推荐、管理和统计等方面的工作；<br>    （五）软件园以软件产业为支柱产业，注册入驻软件园区的软件企业数不少于30家，形成一定的产业规模；<br>    （六）软件园具有培育孵化中、小型软件企业和培育骨干企业的条件，软件园内软件产值增长显著，年增长幅度不低于30%；<br>    （七）具有自主知识产权的国产软件在软件园区产品结构中占有一定的比例，并拥有拳头软件产品，具备一定的软件出口能力。<br><br><font class='zhang'>第三章</font> 认定程序<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 凡符合第二章所列条件的深圳市区域内的软件园均可向市信息办申报，并到市信息办网站（网址：www.szio.gov.cn）下载《深圳市市级软件园认定申请表》。<br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 申请单位应向市信息办提交下列材料：<br>    （一）《深圳市市级软件园认定申请表》；<br>    （二）软件园概况（包括软件园区土地面积和建筑面积及软件园区的布局，规划国土及有关部门的批件）；<br>    （三）软件园发展规划及管理制度；<br>    （四）软件园服务体系的建设及网络基础设施建设情况的说明；<br>    （五）软件园入驻企业目录、软件企业基本情况表、入驻软件企业工商登记证书、软件企业认定证书及软件企业入驻合同。<br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 对申请单位的申报材料审查合格后，市信息办组织专家小组到现场进行调查和评审，并将评审意见报市信息办认定。<br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 通过认定的软件园，由市信息办会同市财政局颁发市级软件园证书。 <br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 入驻市级软件园内的软件企业（已通过认定），享受深圳市软件产业扶持优惠政策，并同时享受房租补贴待遇。<br><br><font class='zhang'>第四章</font> 软件园管理<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 市级软件园实行定期检查和动态考评制度，市信息办根据本办法每年对已认定的软件园进行检查和动态考评。检查和动态考评不合格的软件园，市信息办取消其市级软件园资格，不再享受市级软件园的各项优惠政策和资金扶持。<br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 市级软件园应积极吸引软件企业入驻，园区内的其他企业也必须是与IT产业相关的企业，并在两年内使软件企业入驻数不少于软件园区企业数的百分之六十。<br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 市级软件园每个季度应向市信息化办公室提交软件园发展情况的报告，并如实提交入驻软件企业基本情况。<br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 市级软件园因故需变更建设规划或发生其他重大事项时，应及时报告市信息办，市信息办会同市财政局根据情况决定是否进行重新认定。<br><br><font class='zhang'>第五章</font> 附 则<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 本办法自2002年9月1日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

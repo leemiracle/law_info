@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80802<BR>&nbsp;&nbsp;【发布文号】黑政办发[2001]37号<BR>&nbsp;&nbsp;【发布日期】2001-06-01<BR>&nbsp;&nbsp;【生效日期】2001-06-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 黑龙江省人民政府办公厅转发省公安厅<br>
+ 关于在全省印章业建立治安管理信息系统意见的通知<br>
+ </font></p><p align='center'><font class='STitle'>（黑政办发〔2001〕37号）</font></p>各行政公署，各市、县人民政府，省政府各直属单位：<br>    经省政府同意，现将省公安厅《关于在全省印章业建立治安管理信息系统的意见》转发给你们，请认真贯彻执行。<br><br>                                                      2001年7月3日<br>               关于在全省印章业建立治安管理信息系统的意见<br>                   （省公安厅  2001年6月20日）<br><br>    为进一步加强印章业治安管理，推动印章业治安管理信息系统（以下简称印章系统）建设工作，公安部于2000年4月1日以公共安全行业强制性标准形式颁布实施了《印章治安管理信息系统标准》，并下发了《公安部关于贯彻执行〈印章治安管理信息系统标准〉的通知》（公通字〔2000〕36号），要求各地必须在统一规划的前提下，从实际出发，分步实施，在印章业实行计算机系统管理、刻制公章，到2002年底以前，全国要建立印章系统，并实现全国联网。为做好我省印章系统的建设工作，加强公安机关现代化管理手段，增大科技投入，实现全省、全国联网，针对我省的实际情况，现对印章系统建设的有关事项提出如下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>印章系统是公安综合信息系统的信息源之一，是公安机关科技强警发展战略规划的组成部分，建立印章系统是现实“严打”整治斗争和社会发展的需要，对提高公安机关预防、发现、打击伪造印章及利用伪造印章进行违法犯罪的能力，整顿和规范市场经济秩序具有重要意义。各地公安机关要在当地政府的领导下，积极做好印章系统的建设工作，加大宣传力度，取得工商、税务、银行、海关等部门的大力支持和配合，加快工作进程。要以确保社会稳定、化解社会矛盾为前提，针对本地现有印章业的实际情况，结合印章系统的技术要求，合理确定承制印章的企业数量，报当地政府审定。在这方面，既要坚持积极稳妥的原则，又要态度坚决，实行公平竞争、优胜劣汰的原则，按市场经济规律办事，确保印章质量符合部颁标准。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>印章系统实现了印章从审批、制作、使用到服务全过程的电脑化、网络化，具有安全、高效、防伪、快速查询、自动识别等功能。全省印章系统分为省、地市二级管理，在省公安厅设立全省印章系统管理总中心，负责对全省印章业信息进行管理，主要具有统计汇总、查询等功能。统计数据由各地市公安局按规定时间向省公安厅印章系统进行上载。同时，省公安厅印章系统还具有全省的信息发布等功能。各地市公安局建立印章系统管理中心，主要具有印章信息审批、变更、缴销与挂失，印章管理信息系统的数据管理、维护、统计、查询以及对印章制作单位的管理功能；各地市建立印章制作中心，承担公章制作业务。县（市、区）公安局建立信息终端，主要具有印章信息审批、变更、缴销与挂失等功能。各地工商、税务、银行、海关等部门，经报当地公安局审批后，可与管理中心联网，建立查询终端，有权对相关客户印章进行识别。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>根据公安部对印章系统软件公司的评估结果，为实现全省印章系统联网、信息共享，我省确定广东国盾防伪技术实业开发有限公司开发的软件作为全省印章系统统一使用的软件。黑龙江省国质防伪技术开发有限公司作为广东国盾防伪技术实业开发有限公司在黑龙江省的唯一授权公司，该公司全权代表广东国盾防伪技术实业开发有限公司，负责我省印章系统的培训、安装、维护、网络管理等工作。黑龙江省国盾防伪技术开发有限公司要在各地建立办事机构，设立技术服务部，负责培训系统建设所需的管理技术人员以及负责日常维护和其他售后保障工作。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>按照公安部“金盾工程”的总体部署以及印章系统建设规划，我省印章系统建设从现在开始至2002年底前结束，分两批进行，第一批为大庆市、佳木斯市、伊春市、黑河市，第二批为其他地市及农垦、林业系统。整个系统建设工作分5个阶段：一是调查摸底阶段。各地要深入细致地对本地区印章业特别是公章制作企业的数量、规模、经营状况、经营性质等基本情况做好调查，全面掌握情况，并在此基础上制定适合本地区的规划和具体实施方案。二是清理整顿阶段。各地要结合“严打”整治斗争对印章业进行一次彻底的清理整顿，对非法刻字摊点、非法承制公章的企业要坚决予以取缔。通过清理整顿，打击违法犯罪活动，保护合法经营，规范市场经营秩序，为顺利建设印章系统打好基础。三是宣传发动阶段。在系统建设中，各要结合进展情况，不断加大宣传力度，利用报纸、电视、广播、标语、宣传单位等多种新闻媒体，采取灵活多样的方式，向广大群众和社会各界广泛宣传印章系统的管理规定和对伪造印章、利用伪造印章进行违法犯罪活动依法打击等情况，预防和减少利用假印章、假文凭、假证件进行诈骗的案件发生，维护群众和企事业单位的切身利益，使群众、企事业单位积极支持和配合印章系统建设工作。四是安装试用阶段。各地要积极配合黑龙江省国盾防伪技术开发有限公司分批做好系统的安装、试用工作，组织管理人员认真学习部颁标准及计算机网络知识，熟练掌握系统的操作功能，确保系统正常安全运行。五是联网阶段。在系统硬件和软件安装、试用后，各县（市、区）公安局印章系统要与地市公安局印章系统实现联网。2002年底前，全省各地建成联网后，各地市印章系统要实现与省公安厅印章系统联网。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各地市印章制作中心制作印章，按规定的收费标准向刻制印章的用户收取；工商、税务、银行、海关等部门使用印章网络系统查询应交纳查询服务费。印章收费标准和查询服务费标准由省公安部门提出报省物价部门审定后实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

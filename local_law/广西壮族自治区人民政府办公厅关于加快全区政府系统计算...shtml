@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82002<BR>&nbsp;&nbsp;【发布文号】桂政办发[2001]77号<BR>&nbsp;&nbsp;【发布日期】2001-05-24<BR>&nbsp;&nbsp;【生效日期】2001-05-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广西壮族自治区人民政府办公厅关于<br>
+加快全区政府系统计算机信息网络建设的通知<br>
+ </font></p><p align='center'><font class='STitle'>（桂政办发〔2001〕77号）</font></p>各地区行署，各市、县、自治县人民政府，柳铁，区直各委、办、厅、局，各高等院校：<br>    根据国务院办公厅关于建设以现代计算机技术和通信技术为主要手段的全国行政首脑机关办公决策服务系统的要求，结合我区政府系统办公自动化建设的实际情况，自治区人民政府办公厅先后下发了《关于建立自治区政府系统信息计算机远程通讯网的通知》（桂政办函〔1995〕23号）、《自治区人民政府办公厅关于建设全区政府系统计算机通信网络的通知》（桂政办发〔1998〕33号）等文件，组建了全区政府系统计算机通信网络。目前，全区部分地、市、县和区直部门已与自治区人民政府办公厅实现了计算机联网，从而提高了全区政府系统信息报送及文件资料传递的速度。为了进一步加快全区政府系统办公自动化建设，完善全区政府系统计算机信息网络，实现全区政府系统无密级公文计算机网络化传输，现将有关事项通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>按照国务院办公厅建设全国政府系统办公业务资源网的总体规划，自治区政府系统的计算机信息网络将实施以下几项措施：<br>    （―）根据国务院办公厅的规定，自治区人民政府办公厅将从2002年1月1日起，使用全区政府系统计算机信息网络传输自治区人民政府无密级文件，不再印发纸质文件。<br>    （二）全区政府系统信息报送将从2001年7月1日起采用计算机信息网络传递，取消传真机接收信息方式。<br>    （三）从2001年第2季度开始统一使用全区政府系统第二代电子邮件传递电子数据，加快全区政府系统各单位电子数据传输速度，全面提高全区政府系统办公自动化进程。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>尚未与自治区人民政府办公厅计算机信息网络联网的单位（见附件1），务必于2001年7月1日以前与自治区人民政府办公厅进行计算机联网。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>根据国务院办公厅的规定，自治区人民政府办公厅原来使用的第一代ＰＥＭ400电子邮件系统将从2001年7月1日终止使用，使用该系统联网的单位（见附件2）必须升级为新的第二代电子邮件系统，请各有关单位尽快与自治区人民政府办公厅信息处联系有关软件升级事宜。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>全区政府系统计算机信息网络是按照国务院办公厅的统一规定实施建设的，是传达政令、传递信息的主要渠道，各地、市、县，各单位领导务必高度重视，加强领导，指定专人负责，落实建设经费，按要求抓紧建设，按时完成，保证全区政府系统计算机通信网络建设和政府工作的正常进行。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>自治区人民政府办公厅负责全区政府系统计算机信息网络建设的组织和协调工作，具体实施和管理、培训工作由自治区人民政府办公厅信息处承担，联系电话：0771－2807778、 2836367，联系人：蔡振军  杨俭。<br><br>                                            广西壮族自治区人民政府办公厅<br>                                               二00一年五月二十四日<br><br><p class='zhang'>  附件1          全区未联网的地、市、县，区直单位</p><br>                    （含政府驻外机构）和高等院校名单<br><br><p></p><a name='6'><font class='TiaoNoA'>  一、</font></a>未联网的地、市、县名单（共62个）<br>    南宁市：<br>    武鸣县人民政府<br>    邕宁县人民政府<br>    柳州市：<br>    柳城县人民政府<br>    柳州地区：<br>    金秀瑶族自治县人民政府<br>    融安县人民政府<br>    三江侗族自治县人民政府<br>    融水苗族自治县人民政府<br>    桂林市：<br>    阳朔县人民政府<br>    临桂县人民政府<br>    灵川县人民政府<br>    全州县人民政府<br>    兴安县人民政府<br>    永福县人民政府<br>    灌阳县人民政府<br>    龙胜各族自治县人民政府<br>    资源县人民政府<br>    平乐县人民政府<br>    荔浦县人民政府<br>    恭城瑶族自治县人民政府<br>    梧州市：<br>    苍梧县人民政府<br>    藤县人民政府<br>    蒙山县人民政府<br>    岑溪市人民政府<br>    贺州地区：<br>    贺州市人民政府<br>    富川瑶族自治县人民政府<br>    钟山县人民政府<br>    昭平县人民政府<br>    玉林市：<br>    兴业县人民政府<br>    玉林市福绵管理区管理委员会<br>    贵港市：<br>    贵港市港北区人民政府<br>    贵港市港南区人民政府<br>    贵港市覃塘管理区管理委员会<br>    北海市：<br>    合浦县人民政府<br>    防城港市：<br>    东兴市人民政府<br>    上思县人民政府<br>    防城港市防城区人民政府<br>    防城港市港口区人民政府<br>    钦州市：<br>    灵山县人民政府<br>    浦北县人民政府<br>    钦州市钦北区人民政府<br>    钦州市钦南区人民政府<br>    百色地区：<br>    百色市人民政府<br>    田东县人民政府<br>    平果县人民政府<br>    德保县人民政府<br>    靖西县人民政府<br>    那坡县人民政府<br>    凌云县人民政府<br>    乐业县人民政府<br>    田林县人民政府<br>    隆林各族自治县人民政府<br>    西林县人民政府<br>    河池地区：<br>    宜州市人民政府<br>    罗城仫佬族自治县人民政府<br>    环江毛南族自治县人民政府<br>    南丹县人民政府<br>    天峨县人民政府<br>    凤山县人民政府<br>    东兰县人民政府<br>    巴马瑶族自治县人民政府<br>    都安瑶族自治县人民政府<br>    大化瑶族自治县人民政府<br><p></p><a name='7'><font class='TiaoNoA'>  二、</font></a>未联网的区直单位名单（共51个）<br>    自治区发展计划委员会<br>    自治区国家安全厅<br>    自治区监察厅<br>    自治区民政厅<br>    自治区人事厅<br>    自治区劳动和社会保障厅<br>    自治区国土资源厅<br>    自治区建设厅<br>    自治区交通厅<br>    自治区水利厅<br>    自治区农业厅<br>    自治区环境保护局<br>    自治区国家税务局<br>    自治区工商行政管理局<br>    自治区林业局<br>    自治区质量技术监督局<br>    自治区旅游局<br>    自治区水产畜牧局<br>    自治区信息产业局<br>    自治区检验检疫局<br>    自治区监狱管理局<br>    自治区外事办公室<br>    自治区侨务办公室<br>    自治区政策法规室<br>    自治区机关事务管理局<br>    自治区气象局<br>    自治区农垦局<br>    自治区供销社<br>    自治区华侨企业管理局<br>    自治区地质勘查局<br>    自治区测绘局<br>    自治区机械设备成套局<br>    自治区物价局<br>    自治区黄金局<br>    自治区储备局<br>    自治区打击走私综合治理领导小组办公室<br>    自治区通志馆<br>    自治区少数民族语言文字工作委员会<br>    自治区经济技术协作办公室<br>    自治区人民政府经济研究中心<br>    自治区农业区划委员会<br>    自治区残疾人联合会<br>    自治区人民政府驻北京办事处<br>    自治区人民政府驻天津办事处<br>    自治区人民政府驻南京办事处<br>    自治区人民政府驻深圳办事处<br>    自治区人民政府驻重庆办事处<br>    自治区人民政府驻沈阳办事处<br>    自治区人民政府驻武汉办事处<br>    自治区人民政府驻海南办事处<br>    自治区人民政府驻珠海办事处<br><p></p><a name='8'><font class='TiaoNoA'>  三、</font></a>未联网的高等院校名单（共31个）<br>    广西大学<br>    广西医科大学<br>    广西师范大学<br>    广西工学院<br>    广西中医学院<br>    广西民族学院<br>    广西艺术学院<br>    广西师范学院<br>    桂林工学院<br>    桂林电子工业学院<br>    桂林医学院<br>    右江民族医学院<br>    玉林师范学院<br>    广西财政高等专科学校<br>    广西体育高等专科学校<br>    广西商业高等专科学校<br>    桂林旅游高等专科学校<br>    桂林航天工业高等专科学校<br>    南宁师范高等专科学校<br>    柳州师范高等专科学校<br>    梧州师范高等专科学校<br>    河池师范高等专科学校<br>    右江民族师范高等专科学校<br>    钦州师范高等专科学校<br>    广西教育学院<br>    广西广播电视大学<br>    广西经济管理干部学院<br>    广西政法干部管理学院<br>    广西卫生干部管理学院<br>    广西公安管理干部学院<br>    自治区直属机关干部业余大学<br><br><p class='zhang'>  附件2       全区使用第一代ＰＥＭ400电子邮件系统</p>                                单位名单<br><br><p></p><a name='9'><font class='TiaoNoA'>  一、</font></a>地、市、县名单（共14个）<br>    南宁市：<br>    南宁市人民政府<br>    柳州市：<br>    柳江县人民政府<br>    桂林市：<br>    桂林市人民政府<br>    玉林市：<br>    玉林市人民政府<br>    玉林市玉州区人民政府<br>    北流市人民政府<br>    容县人民政府<br>    博白县人民政府<br>    陆川县人民政府<br>    贵港市：<br>    贵港市人民政府<br>    桂平市人民政府<br>    平南县人民政府<br>    贺州地区：<br>    贺州地区行署<br>    百色地区：<br>    百色地区行署<br><p></p><a name='10'><font class='TiaoNoA'>  二、</font></a>区直单位和柳铁名单（共5个）<br>    自治区经济贸易委员会<br>    自治区对外贸易经济合作厅<br>    自治区统计局<br>    自治区人民政府驻广州办事处<br>    柳州铁路局<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

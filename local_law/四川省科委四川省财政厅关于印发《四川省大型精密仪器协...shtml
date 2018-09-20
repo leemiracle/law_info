@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82103<BR>&nbsp;&nbsp;【发布文号】川科委条[84]第12号<BR>&nbsp;&nbsp;【发布日期】1984-10-05<BR>&nbsp;&nbsp;【生效日期】1984-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 四川省科学技术委员会<br>
+ 四川省财政厅文件<br>
+ </font></p><p align='center'><font class='STitle'>（川科委条〔84〕第12号）</font></p>                关于印发《四川省大型精密仪器协作共用测试机时券<br>                           （试行）管理办法》的通知<br><br>各市、地、州、县（市、区）科委、财政局，省级有关厅局（公司），设计、科研、大专院校及有关企事业单位：<br>    大型精密仪器是促进科技事业发展，提高经济效益的重要实验手段。据不完全统计，我省现有大型精密仪器一千五百余台。这些仪器为多出成果、出人才，提高科研水平和经济效益发挥了重要作用。目前存在的问题是；一方面仪器使用效率不高，另一方面缺乏现代化实验手段的单位又迫切要求购置有关仪器。为减少重复购置，节省国家资金，充分发挥现有大型精密仪器的效益，调动拥有仪器单位和承担外协任务测试技术人员的积极性，拟对大型精密仪器的管理进行一些必要的改革。现将《四川省大型精密仪器协作共用测试机机时券（试行）管理办法》印发给你们，从十一月一日起试行。在试行中有何问题和经验，望及时总结上报。<br>                                                  四川省科学技术委员会<br>                                                  四川省财政厅<br>                                                  一九八四年十月五日<br><br>                     四川省大型精密仪器协作共用测试机时券<br>                               （试行）管理办法<br><br>    为了充分发挥现代化大型精密仪器在“四化”建设中的作用，运用经济手段调动广大分析测试技术人员的积极性，更好地为中小型企业服务，保证科研、教学和生产建设对分析测试、产品质量检测的需要，为我省“富民”“升位”作出贡献。根据国家科委颁发《大型精密停业管理暂行办法》的有关规定，北京、湖南、湖北、河北、山西等省、市以及成都市试点经验，结合我省具体情况，特制定国家科委统管二十三种大型精密仪器协作共用测试机时券（试行）管理办法：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>根据国家科委一九八二年颁发《大型精密仪器管理暂行办法》有关规定，我省决定对国家科委统管23种大型精密仪器（以下简称大型仪器）对外协作共用，实行低收测试费原则，即：只收取直接消耗性的原材料费，如试剂、易损零配件、原器件及水、电、燃料等费用，由拥有大型仪器单位收取。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>对协作共用大型仪器所需另配件和消耗性材料，由省科学器材公司组织进口，保证优先供应。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>测试券由四川省分析测试服务中心大型精密仪器管理办公室（以下简称仪管办）统一负责制。券而为2元／1小时、4元／2小时、10元／5小时、20元／10小时四种，测试券盖有省仪管办收费专用章，统一发放使用，地、市一级设有大型精密仪器管理机构的可代为发放。<br>    测试券一式三联，第一联送交单位作财务报销凭证，第二联交仪器所在单位作接收送样凭证，第三联留仪管办作结算凭证，并保存备查。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>送样分析测试以上机测试时间为核算依据，均以每小时2元为计算单位，样品上机分析测试不足1小时的按1小时收券，超过1小时不足一个半小时的仍按1小时收券，超过一个半小时不足两小时的按两小时收券，以此类推。样品前处理、图谱解析、仪器安装维修及其它技术服务工作可比照计算收取测试券。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>拥有大型仪器的单位，根据可能对外提供协作共用能力，于每年元月和六月到省仪管办办理借用测试券手续。<br>    新安装仪器，可随时办理借用测试券手续。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>各需用大型仪器单位，要提前向拥有仪器单位联系，征得同意后按预约单位送去样品，并随时结算费用。<br>    计划外临时需要送样测试的，在商得仪器所在单位同意后，也可随时送样测试和购交测试券。<br>    测试券预约不足者，可补购补交。预约有余者在年度范围内可留着下次使用，也可于当年十二月十五日前到仪管办退券，过期作废。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>测试券收入不上交财政，作为预算外资金管理，30％用作技术服务补贴，70％留省仪管办作为技术交流，技术培训、学术讲座，协作共用，成果鼓励、印发资料汇编等经办费用。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>借用测试券的单位，按季度或半年度（结算周期在借用测试券时确定）向省仪管办结算一次，技术补贴发给直接和有关的测试技术人员、管理人员，多劳多得。具体办法由各单位自行商定。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>其它大型仪器对外提供协作共用，可参照本办法执行，具体管理由各地科委，各有关主管部门自行拟定，报省仪管办备案。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>需用大型仪器的单位，在完成课题、分析测试任务或阶段性任务后，要及时填写协作共用效果考核表，并按季或半年向四川省分析测试服务中心大型精密仪器办公室汇报一次。<br>                            四川省分析测试服务中心地址，成都西胜街24号<br>                                              电话号码  23413<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

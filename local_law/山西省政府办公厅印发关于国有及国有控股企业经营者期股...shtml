@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80402<BR>&nbsp;&nbsp;【发布文号】晋政办发[2000]54号<BR>&nbsp;&nbsp;【发布日期】2000-06-15<BR>&nbsp;&nbsp;【生效日期】2000-06-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 山西省人民政府办公厅印发关于国有及国有控股企业<br>
+ 经营者期股激励试点的指导意见</font></p><p align='center'><font class='STitle'>（试行）的通知<br>
+（晋政办发〔2000〕54号二000年六月十五日）</font></p>各地区行政公署，各市、县人民政府，省直各委、办、厅、局，各大中型企业：<br>    为贯彻党的十五届四中全会精神和中共山西省委关于贯彻《<a href=javascript:ROF(33663,0) class=alink>中共中央关于国有企业改革和发展若干重大问题的决定</a>》的实施意见，推进“375”攻坚计划的落实，加快建设适应社会主义市场经济要求的高素质的经营管理者队伍，建立和完善对国有及国有控股企业经营者有效的激励和约束机制，经省人民政府同意，现将《关于国有及国有控股企业经营者期股激励试点的指导意见（试行）》印发给你们，请遵照执行。<br><br>                         关于国有及国有控股企业<br>                  经营者期股激励试点的指导意见（试行）<br><br>    为建立和完善对国有企业经营者有效的激励和约束机制，将企业经营者的收入与企业业绩及发展较为紧密地结合起来，实现经营者行为长期化，激励经营者有效配置资源，最大限度地提高企业的经济效益，我省决定对国有及国有控股企业经营者进行期股激励试点。现提出以下指导意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>经营者期股的含义和试点原则<br>    （一）经营者期股是指企业出资者同经营者商定在任期内由经营者按既定价格获取适当比例的本企业股份，收益延期兑现，并享有相应权利和义务的一种激励方法。<br>    （二）期股试点必须遵循如下原则：<br>    1、坚持公开、公平、公正的原则；<br>    2、经营者期股按比例有偿认购的原则；<br>    3、经营者权责利相结合的原则；<br>    4、经营者短期利益与长期利益相结合的原则；<br>    5、按劳分配和按生产要素分配相结合的原则；<br>    6、大胆探索与稳妥操作相结合的原则。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>期股激励试点的范围<br>    （三）期股激励试点适用于建立了现代企业制度，国有及国有控股的股份有限公司和有限责任公司。企业进行经营者期股激励试点，须经企业出资人或公司股东会同意。<br>    期股激励试点可先选择省委、省人民政府表彰的在“375”攻坚计划中做出显著成绩的优秀企业和优秀企业经营者所在企业。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>期股激励的对象及实现方式<br>    （四）期股激励的对象是董事长与总经理（建议包括党委书记）。<br>    对董事长的期股激励主体是企业出资人或公司股东会。对总经理实行期股激励的主体是公司董事会。涉及公司股权结构变动的，需经股东会同意。<br>    （五）实现期股激励的董事长和总经理承担的具体职责必须以契约形式明确规定。公司必须严格执行国家有关财务监督管理、领导人员任期经济责任审计及国有资产保值增值考核等办法。<br>    （六）尚未改制的国有企业要首先改组为股份有限公司或有限责任公司。在改组过程中，通过国有资产协议转让等方式，形成董事长、总经理的期股股权。<br>    改组为非上市的股份有限公司或有限责任公司的，经股东会同意，可从国家股股本中划出相应股份，形成董事长、总经理的期股股权。<br>    改组为上市股份有限公司的，由上市公司通过增资配股、增发新股、国有股配售等方式，形成董事长与总经理的期股股权。<br>    （七）经公司股东会或出资人同意，公司其他高级管理人员应以现金投入获得股权形成经营者群体持股。公司其它高级管理人员个人持股的额度由公司自行确定。<br>    （八）实行期股激励的董事长和总经理必须用现金先购买本企业股份。董事长、总经理首次认购股份的出资额视企业规模大小而定，一般不得低于如下标准：特大型企业为20万元；大型企业为10万元；中型企业为5万元。经营者所持期股股份一般以其首次出资额的1－－4倍确定。<br>    （九）经营者在未补足所持有的全部期股之前，其所持有的未补足的股份只有表决权和收益权，没有所有权，该股份仍归原出资者所有。待全额补足后，其所有权归经营者。<br>    （十）经营者所获红利，要按协议规定首先补足期股。实行年薪制的企业，同时实行期股激励试点的，经营者的年薪收入中风险收入（除基薪收入外部分）的70％原则上用于购买期股。各级政府对经营者的物质奖励应首先与期股激励结合，政府奖励董事长或总经理的奖金，必须先用于购买本企业股份，不得挪作它用。<br>    （十一）经营者期股的获取方式是根据与出资人签订的期股认购协议，以既定价格认购，分期补入。期股的既定价格是实施期股激励试点企业在基期的股价。基期的股价是指试点企业首先选择一个实施期股的基准日，以基准日资产评估或清产核资确认的净资产为标准确定。基期股价一旦确定，不论以后年度企业净资产价值是增是减，分期购买期股时均以基期股价（既定价格）偿付期股价款。<br>    （十二）经营者出资成为公司股东，公司股本结构发生变化的，应按照有关规定办理股权变更等手续。<br>    （十三）经营者在任职期满或正常调离岗位时，经考核其业绩指标达到双方协议规定的水平，经有关审计、监察等部门查实，出资人确认后，按协议规定，经营者拥有的补足部分的期股可按期终经评估后的每股净资产价值变现；也可留在企业继续参与年度分红；也可由公司出资人受让或向他人转让其所持有的全部股份。<br>    （十四）经营者任期未满而主动要求离任，或在任期内未能达到协议规定的考核指标水平，均属违约行为，应按契约规定依法从其所持有的期股股权和现金认购的股权中扣除。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>期股激励试点的组织领导<br>    （十五）期股激励是一项政策性较强的工作，必须加强领导，试点先行，稳步推进。在试点阶段，成立省期股激励试点领导小组。组长由分管副省长担任，副组长由省经贸委、省财政厅、省劳动厅一位副主任（厅长）出任。成员单位有省委组织部、省企业工委、省委教研室、省人事厅、省工商局、省审计厅、省财政厅、太原证券特派办等部门。领导小组办公室设在省经贸委，负责组织对试点方案的论证初审及有关日常工作。<br>    （十六）凡列入试点范围的企业，按本指导意见制定并上报试点方案。试点方案的内容主要包括：企业基本情况，现有股权结构，期股激励的具体形式，出资人、股东会和董事会同意试点的意见，经营者与出资人签订的契约及期股认购协议等。<br>    （十七）试点范围内的国有独资企业，要由出资人明确对董事长及总经理的期股激励办法。<br>    试点范围内上市公司的具体操作细则，待中国证监会出台有关上市公司期股激励办法后，按规定获取期股股权。<br>    非国有企业及非国有经济控股的公司实行期股激励的办法由企业自行确定。省人民政府奖给非国有企业及其控股企业经营者的奖金由经营者个人支配。<br>    附：试点企业名单<br><br><p class='zhang'>  附：                      试点企业名单</p><br>    太原钢铁（集团）有限公司<br>    长治钢铁集团有限公司<br>    太原重型机器集团有限公司<br>    榆次液压集团有限公司<br>    大同齿轮集团有限公司<br>    山西汽车工业集团有限公司<br>    太原化学工业集团有限公司<br>    山西天脊煤化工集团有限责任公司<br>    山西焦化集团工业有限公司<br>    山西合成橡胶集团有限公司<br>    山西原平化学工业集团有限公司<br>    山西杏花村汾酒集团公司<br>    大同糖业集团有限公司<br>    山西三维集团股份有限公司<br>    山西云岗水泥集团有限公司<br>    山西龙华纺织集团股份有限公司<br>    山西光华玻璃有限公司<br>    大同煤矿集团有限公司<br>    阳泉矿业集团有限公司<br>    潞安矿业集团有限公司<br>    晋城无烟煤矿业集团有限公司<br>    西山煤电集团有限公司<br>    山西汾西矿业集团有限公司<br>    霍州矿务局<br>    山西南风集团股份有限公司<br>    山西关铝集团股份有限公司<br>    山西丰喜肥业股份有限公司<br>    山西亚宝药业股份有限公司<br>    长治澳瑞特健身器材有限公司<br>    太原双塔刚玉股份有限公司<br>    晋城兰花煤炭实业集团公司<br>    山西梅花丝麻集团有限公司<br>    大同同风农业股份有限公司<br>    山西云岗啤酒集团有限公司<br>    太原狮头水泥（集团）有限责任公司<br>    山西梨花春酿酒集团有限公司<br>    山西康宝生物制品股份有限公司<br>    通宝能源股份有限公司<br>    太原五一百货集团股份有限公司<br>    太原天龙集团股份有限公司<br>    山西临汾染化（集团）有限责任公司<br>    大同市蓝浪洗涤剂厂<br>    山西省地方电力公司<br>    山西省柳林同德焦煤有限公司<br>    阳泉市南庄煤矿<br>    山西金恒化工股份有限公司<br>    晋城市煤气化有限责任公司<br>    山西忻州云河集团有限公司<br>    霍州市化学工业公司<br>    朔州亚麻纺织厂<br>    山西晋新制药集团股份有限公司<br>    山西省祁县六曲香酒厂<br>    乡宁县台头煤矿<br>    柳林县兴无煤矿<br>    广灵县化工总公司<br>    太钢集团临汾钢铁有限公司<br>    义兴寨金矿<br>    山西省糖酒副食有限责任公司<br>    华宇商贸集团有限公司<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

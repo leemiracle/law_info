@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2004〕46号<BR>&nbsp;&nbsp;【发布日期】2004-04-07<BR>&nbsp;&nbsp;【生效日期】2004-04-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=84163" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于进一步加强放射源管理工作的通知<br><br></font>(甘政办发〔2004〕46号)</p><br><br><br>各市、自治州人民政府，陇南行署，省政府有关部门：<br>  <br>    2002年以来，我省先后发生6起放射源被盗和丢失事件，有些至今尚未追回，给人民群众健康安全和社会稳定造成严重威胁。2002年12月15日，甘肃农业大学黄羊镇农场1枚钴60源被盗，经公安、卫生、环保等部门全力查找后追回。2003年7月18日，金川集团公司2枚铯137源被盗，经公安、卫生、环保等部门全力查找后追回1枚，1枚尚未追回。2003年12月24日，靖远煤业有限公司1枚钴60源和3枚镭刻度器源被盗，至今尚未追回。2004年2月11日，白银公司厂坝铅锌矿1枚铯137源丢失，现已追回。2004年3月1日，甘肃煤田地质局张掖145队2枚钴60源和2枚钴60刻度器源被盗，至今尚未追回。2004年3月18日，天水麦积山水泥有限责任公司1枚铯137源被盗，经公安、卫生等部门全力查找，现已追回。我省接连发生此类事件，暴露出有的地方对放射源管理工作重视不够，有关执法部门监管不力，一些放射源使用单位管理松散等问题。<br><br>    对此，省委、省政府高度重视，特别是3月18日天水麦积山水泥有限责任公司发生1枚铯137源被盗事件后，省政府领导作出重要批示，要求各有关方面要全面加强放射源管理工作，建立更严格的管理制度，严肃追究有关责任人的责任，坚决杜绝此类事件的发生。为了切实保护广大人民群众的健康安全，维护社会稳定，现就进一步加强放射源管理工作有关事项通知如下：<br><br>    一、要从践行“三个代表”重要思想、维护社会稳定的高度，进一步提高对加强放射源安全管理工作重要性的认识。随着经济社会的发展，放射性同位素的使用越来越广泛。放射源是一种对人体的安全与健康具有很强危害性的物质。科学的应用放射性同位素和射线技术，对保护人民群众健康安全和促进经济发展具有重要作用。如果管理不善，就会严重威胁人民群众的身体健康。各级政府和有关部门要充分认识加强放射源管理工作的重要性和紧迫性，促进放射性同位素和射线技术的科学应用和发展。<br><br>    二、加强领导，明确责任，切实做好放射源安全管理工作。各级政府和卫生、环保、公安、安监等有关部门要严格按照《放射性污染防护法》、《职业病防治法》和《放射性同位素与射线装置放射防护条例》的规定，认真履行监督管理的职责。各级政府要切实负起责任，定期组织有关部门检查放射源安全管理工作，及时作出工作安排，积极协调解决存在的突出问题，加强相关执法力量。政府相关部门要紧密配合，各负其责，齐抓共管。各级卫生部门负责对放射工作进行监督检查，组织实施放射防护法律法规，严格执行放射源管理申请许可制度，会同有关部门调查处理放射事故，开展放射防护知识的宣传、培训。各级环保部门负责审批环境影响报告书，对废水、废气、固体废物排放、处理进行审查、验收，并实施监督监测，会同有关部门处理放射性环境污染事故。各级公安部门负责登记放射性同位素和放射源，检查放射性同位素及放射源存放的安全性，参与放射事故的处理。安全生产监管部门要把放射源的管护作为安全监督工作的一项重要内容，督促有关生产企业做好放射源管理工作。<br><br>    三、建立健全内部管理制度，提高放射源管护水平。从事放射源生产、销售、使用、贮存和处置的单位要加强对放射源的安全管理。已办理放射卫生和环保许可的生产、销售、使用和贮存单位，要进一步明确放射源管理的责任制和事故追究制，建立专人管理和严格的交接制度，健全工作档案。仍未办理放射卫生许可证的单位，经当地卫生和公安部门初审后，限期在省卫生部门办理放射卫生工作许可证，同时在省公安部门备案登记。逾期未办理的单位，按非法生产、销售和使用放射源予以处理。涉及到放射性废水、废气、固体废物排放的单位，必须事先向当地环保部门递交环境影响报告书，经批准后，向市、省卫生部门申请办理许可证，并在同级公安部门申报登记。对已退役的放射源，使用单位要向当地环保部门申请，送到指定的放射源库保存，不得自行保存，以免丢失。运输放射性同位素及其容器，必须按国家有关规定进行包装和剂量检测，经交通和卫生部门核查后方可运输。放射源使用单位要严格执行国家有关规定，加强对放射工作人员个人剂量监测和健康管理，做好放射防护知识培训和法规教育工作，提高放射工作人员的法律意识、安全意识，增强工作责任心和自我保护能力。<br><br>    四、加强监督检查，进行专项整治。近期，在全省组织开展放射源安全管理专项整治活动。整治工作的重点是辖区内放射源生产和销售单位，工业企业、医疗机构、科研机构等使用单位，特别是目前正在或已经转制、重组和破产的企业。整治工作要坚持标本兼治、重在治本、注重实效的原则，围绕管理制度是否健全、管理责任是否落实等突出问题进行整治。具体安排和要求是：第一阶段为自查阶段，从4月10日开始，4月30日前结束。各市（州、地）政府（行署）组织卫生、环保、公安、安监等部门成立联合执法组，划片划区，分片包干，对本地放射源的管理和使用情况进行全面摸底排查，并登记造册。对放射源管理不善的单位，要督促其完善有关管理制度，确定专人负责，加强管护工作。各地要于5月15日前向省政府专题报告专项整治情况。第二阶段为督查和总结阶段，从5月16日开始，5月30日前结束。省政府将组织有关部门对各市州地开展专项治理工作情况进行抽查。对整治工作重视不够、进展缓慢、整治不力的地区和单位将进行通报批评，并责令限期整改。<br>   <br><br>二○○四年四月七日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

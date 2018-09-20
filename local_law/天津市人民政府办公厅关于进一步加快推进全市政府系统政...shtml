@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政办发〔2004〕057号<BR>&nbsp;&nbsp;【发布日期】2004-08-06<BR>&nbsp;&nbsp;【生效日期】2004-08-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tj.gov.cn/szf/tjzb.nsf/zb3/884E3463D5EA89A5C8256F0B00006F50?opendocument" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅<br>关于进一步加快推进全市政府系统政务信息化建设的意见<br><br></font>(津政办发〔2004〕057号)</p><br> <br><br>各区、县人民政府，各委、局，各直属单位：<br><br>    为适应形势发展的要求，落实国务院办公厅关于加快电子政务建设的精神，现就进一步加快推进我市政府系统政务信息化建设工作提出以下意见：<br><br>    一、加快我市电子政务专网一期工程建设<br><br>    按照总体规划和建设方案，认真抓好我市电子政务专网的一期工程建设。加快建设市与区、县和局以上单位政府机关的宽带网络平台，基本建成覆盖全市的电子政务专网骨干网。各区县政府、市政府各部门要根据各自所处的核心节点、汇聚节点或接入节点，落实业务部门和人员、落实资金、落实接入地点。认真做好电子政务专网应用平台的建设和应用规划，统一整合网络应用平台，逐步实现不同政务部门之间的信息交换与共享，实现数据交换功能及政务部门间的网上办公。纳入第一期工程的部门要做好将市政府办公厅业务网由拨号上网切换到我市电子政务专网的准备工作。<br><br>    二、搞好各区县、各部门内部办公局域网的建设<br><br>    各区县、各部门的内部局域网是实现内部网上办公、业务流转、信息资源共享以及为各单位互联网网站实现数据支持的基础。目前已建有内部办公局域网的，要充分利用和整合各部门现有的内部网络资源，按照统一规范的要求，适时调整和规范内部局域网络。还没有建成内部办公局域网的部门，要按照规范要求抓紧建设。各部门的内部局域网经过测评认证后，逐步接入市电子政务专网，以满足面向社会管理和社会服务的需要。要坚持网络规划和建设的备案制度。各区县、各委局新建网络，要向市政府办公厅备案。<br><br>    三、加强《天津政务网》网站建设<br><br>    按照戴相龙市长关于“瞄准京沪、争创一流”的指示精神，进一步加强《天津政务网》网站建设，完善和提升网站功能，不断创新，提高面向社会、面向公众服务的水平。要认真贯彻落实《中华人民共和国行政许可法》，并按照《天津市电子政务管理办法》的要求，除涉及国家机密、商业秘密和个人隐私等不宜公开的事项外，各级政府及部门所掌握的政府信息都应通过《天津政务网》或子网站向社会公众和利益相关人公开。要建立与群众利益密切相关的重大事项的社会公示制度，保障公众的知情权、参与权、监督权。各部门重要政务信息的公开、与群众利益密切相关重大事项的公示及征求意见的内容，都要及时在《天津政务网》上刊发。要大力推进网上在线办公服务，加快实施审批职能、监管职能的网上公开、网上办公。增强网上办公的深度，加快实施认证管理体系和网上办公项目的软件开发与应用。各级政府和政府各部门要对各级网站建设给予大力支持。  各部门所负责的《天津政务网》主网站和本级子网站的数据更新要及时、准确。<br><br>    四、做好文件、资料的数字文档工作<br><br>    各区县政府、 市政府各部门， 要按照市政府办公厅下发的《关于上报市人民政府和市人民政府办公厅的文件应附带电子数据文件的通知》（津政办发〔2002〕16号）的要求，在报送纸质文件的同时，一律按统一格式的要求，上报电子数据，并由此逐步向只报电子数据过渡。同时，各区县、各部门要做好电子公文数据平台与档案部门数字文档系统的衔接，并做好电子公文归档的准备工作。<br><br>    五、做好市政府办公厅与国务院办公厅全国办公业务资源网（政府专网）的接入及应用建设<br><br>    完成利用政府专网开展“金审工程”的试点工作，并根据国务院办公厅及国务院有关部门业务应用的需要，协调本市有关部门与国务院相应部门利用专网开展应用系统建设。完成国务院督查管理系统在我市政府的接入以及全国性会议通知和报名无纸化传输应用及电子公文的传输接收等项工作。<br><br>    六、以我市电子政务专网为支撑，建立政务资源共享平台<br><br>    充分利用我市基础数据库、各部门数据库和其他相关数据库的信息资源，建立统一的资源共享应用平台，建立信息交换体系和目录服务体系，建立政府系统共建共享数据库，实现政务信息资源共享。<br><br>    七、不断健全和完善信息安全保障体系<br><br>    要根据系统安全保护等级的需求，制定和完善政务信息化建设中安全保密措施和有关制度，落实安全保密工作责任制。积极采用经国家有关部门审核认定的措施和手段，确保政府系统网络安全和信息的保密。<br><br>    八、切实加强对政务信息化的领导<br><br>    全市政府系统政务信息化建设工作要在市信息化领导小组的统一领导下，按照国务院办公厅的统一部署，由市政府办公厅与市信息化办统一规划指导，共同负责组织、协调和推进。要把提高网络建设水平和应用效能作为目标，把网络利用率作为考评指标，列入目标管理考核内容。各区县、各部门要十分重视专业管理人员和技术人员的培养与使用，提高专业技术队伍网络规划、建设和服务的能力。要按照中央办公厅、国务院办公厅下发的中办发〔2002〕17号文件精神，加大对政务信息化建设和应用工作的经费投入，将其列入同级财政年度预算，确保落实系统建设和运行维护专项经费。<br><br>                                    二ＯＯ四年八月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

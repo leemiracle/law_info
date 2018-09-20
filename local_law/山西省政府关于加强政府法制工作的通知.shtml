@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80402<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1987-09-26<BR>&nbsp;&nbsp;【生效日期】1987-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府关于加强政府法制工作的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1987年9月26日晋政发〔1987〕87号）</font></p>各地区行政公署，各市、县人民政府，省直各部门，有关高等学校：<br>    党的十一届三中全会以来，我省各级人民政府贯彻一手抓建设，一手抓法制的方针，在加强法制建设上做了大量工作，有了显著的进步。自一九七九年至今年八月底，省人民政府共制定颁发了地方性规章一百八十五件，起草了地方性法规草案二十二件，其中已经省人大常委会公布了十八件。这些法规、规章的颁布实施，对于推动我省经济体制改革的深入开展，保证能源重化工基地建设的顺利进行，起了重要的作用。各级人民政府在自己的工作中重视了学法、执法、守法，通过法律手段管理经济和社会事业。根据国务院的统一部署，对建国以后到一九八四年底省人民政府（包括原省人委、省革委）颁发的法规性文件和规章进行了清理，对过时和失效的公布废止，需要修改的列入计划进行修改，继续有效的汇编为《山西省法规规章汇编》。省人民政府办公厅于一九八三年设立了法制处，省政府的一些部门也建立了法制工作机构，加强了对这一工作的具体指导。<br>    我省政府法制工作虽然取得了一定成绩，但是，离中央、国务院的要求尚有很大的差距，还不能适应改革、开放、搞活和现代化建设的需要。我们的立法准备工作还比较薄弱；执法和对法律执行情况的检查、监督做得不够，许多地方存在着有法不依和执法不严的现象；政府法制机构还不够健全，干部数量和业务素质与所承担的日益繁重的工作任务不相适应。这些问题都亟待在今后的工作中加以解决。<br>    为了贯彻执行国务院于今年四月召开的全国政府法制工作会议精神，把我省的政府法制工作向前推进一步，特作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>各级人民政府和政府各部门，要充分认识进一步加强政府法制工作的重要性和紧迫性，加强对这一工作的领导。经济体制改革和政治体制改革的深入开展，要求政府工作的职能由过去的以行政手段管理为主转变为以经济手段和法律手段管理为主，我们应该自觉地、积极地适应这一转变。改革需要通过法律、法规为之开拓道路，改革的成果又需要通过立法来加以巩固。各级人民政府领导干部应该充分认识政府法制工作是整个政府工作的一个重要组成部分，应将法制工作列入政府的重要议事日程，经常讨论法制工作中的重要问题，并做到有一个主要领导人抓，要有机构管，有专职干部具体做这项工作。根据修改后的《<a href=javascript:ROF(5827,0) class=alink>中华人民共和国地方各级人民代表大会和地方各级人民政府组织法</a>》的规定，太原市、大同市人民代表大会和人民政府，可以分别制定地方性法规和规章。因此，太原市、大同市人民政府应当尽快建立政府法制工作机构，做好草拟法规草案和制定规章的工作。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>协助立法机关加快经济立法和行政立法工作的步伐。经省直有关部门充分协商后编制的我省今明两年草拟制定地方性法规、规章计划，已于今年六月二十二日以省人民政府办公厅文件发出，各主办单位要抓紧起草工作，按计划的进度完成。这种定一年、预测一年的两年滚动式计划，省人民政府将每年编制、修订一次。各部门应充分调查研究，加强法制建设的计划性和预见性，于每年年末将下年度的立法打算报省人民政府办公厅，以便统筹安排。<br>    为了使我省草拟法规、制定规章的工作科学化、制度化，提高工作效率和工作质量，根据国务院办公厅发布的《<a href=javascript:ROF(6314,0) class=alink>行政法规制定程序暂行条例</a>》，省人民政府发布了《关于起草地方性法规草案和制定行政规章程序的暂行规定》。今后，凡由省人民政府发布的规章和提出的法规草案，应严格按程序办理。特别应注意从全局利益出发，充分听取各有关部门的意见，密切协调配合，防止本位主义和片面性。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>认真开展执法监督检查工作。执法监督检查是政府法制工作的主要任务之一。凡涉及本部门的法律、法规、规章，都要严格贯彻实施并对实施情况进行经常的检查和监督，真正做到有法必依，执法必严，违法必究。各地市、各部门应深入研究法律、法规、规章在实施中遇到的新情况、新问题，并不断向省人民政府办公厅反映。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>继续做好法规、规章的清理、编纂工作。省人民政府办公厅于每年年末将当年省人大及其常委会通过公布的法规和省人民政府颁布的规章汇编成册，供各级人民政府工作人员工作之需。各地市、各部门除协助省人民政府逐年做好规章清理、编纂工作外，对本地区、本部门制定的规范性文件，亦应每年清理一次，需要修改和应予废止的文件应及时地修改和宣告废止。通过清理、汇编法规、规章工作，进一步完善我省的经济、行政法制建设。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>加紧法制人才培养，进一步提高政府法制工作人员的素质。山西大学、山西经济管理学院、山西财经学院等院校，应加强法律系科的教学力量，增加招生数量，培养更多的合格的法律工作者。各地市、各部门应抓紧一切机会，选派优秀的人员参加各种法律进修和培训。省人民政府办公厅将同有关部门和院校一起举办法律干部培训班。各地市、各部门也应积极创造条件，采取短期培训和结合工作实践组织自学等多种形式，不断提高法制工作人员的业务素质。通过多种办法，逐步培养一支政府法制工作队伍。<br>    各地市、省直各部门在接到此通知后，应专门学习一次全国政府法制工作会议文件，对本通知的各项要求进行认真的讨论，统一思想，提高认识，制定措施，狠抓落实，进一步搞好本地区、本部门的法制工作。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

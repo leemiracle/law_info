@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2000-11-21<BR>&nbsp;&nbsp;【生效日期】2000-11-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府办公厅关于严格控制地下水超采加强地下水保护的通知</font></p><br> <br>  <br>各地区行政公署，各市、县人民政府，省直各委、办、厅、局：<br><br>    近年来，由于地表径流减少、地下水过度开采，造成超采区和严重超采区面积逐年扩大，地下水位下降，水环境进一步恶化，使我省大中城市及部分地区出现了严重的供水矛盾。为有效地保护和合理开发利用地下水，保证我省有限的水资源永续利用，适应我省经济和社会可持续发展的要求，现就严格控制地下水超采，进一步做好地下水保护工作做如下通知：<br>    一、认真做好地下水资源开发利用规划工作<br>    开发利用地下水，必须在水资源调查评价的基础上，实行统一规划。地下水开发利用规划由水行政主管部门会同建设、环保等有关行政主管部门编制，报同级人民政府批准，并报上一级水行政主管部门备案。经批准的规划是开发利用地下水的基本依据。各地要结合当地水资源状况和开发利用现状，合理布局，优化配置，实行分区分层开发，不允许擅自违背规划，盲目开发或过量开采。<br>    二、严格地下水开发利用管理<br>    水资源实行统一管理与分级、分部门管理相结合的制度。省水行政主管部门负责全省水资源的统一管理工作。省人民政府其他有关部门按照省人民政府规定的职责分工，协同省水行政主管部门，负责有关的水资源管理工作。各级水行政主管部门必须在水资源调查论证的基础上，严格按照规定程序审批和发放取水许可证，不得以任何借口擅自违背程序或越权审批。任何部门、单位和个人，在申请开采利用地下水资源之前，必须进行环境影响评价。在有地表水可供利用的地区，应优先利用地表水；在地下水超采区和严重超采区（详见附件）、城市规划确定的公共供水水源地和城市公共供水管网到达的地区，一律不准审批新井增加地下水取水量；并要根据当地生产、生活情况，制定地下水恢复性措施，调配核减取水量，逐步达到采补平衡；对不符合国家产业政策的建设项目不批准取水许可申请，已发放取水许可的，应予以收回。各级水行政主管部门要加强对取水许可的监督管理，对擅自凿井、转让取水许可证、取水权和私自买卖水资源的，要根据有关法律、法规的规定，予以坚决查处；要结合取水许可年审，核定取水定额，下达年度取水计划。在地下水超采区和严重超采区以及城市规划区内公共供水管网到达地区的地下水取水户必须严格按照取水计划取水，严禁超计划、超定额取水；要调整水资源费，对在上述范围内取用地下水的水资源费，参照城市商品水价格，使之同商品水价格相统一；对超计划取水的，要加价征收水费，具体标准由省物价部门核定。<br>    需要取用城市规划区地下水的，须经建设行政主管部门审核同意并签署意见后，由水行政主管部门审批。<br>    三、开展城市地下水取水专项治理整顿工作<br>    为切实贯彻国务院《取水许可制度实施办法》、《山西省水资源管理条例》、《山西省泉域水资源保护条例》、《山西省城市供水和节约用水管理条例》，强化地下水的管理和保护，近期要在全省开展一次城市地下水开发利用专项治理整顿工作。治理整顿的主要内容是：<br>    （一）对在地下水超采区、严重超采区及其城市规划确定的公共供水水源地取水的水井，在有替代水源（如城市自来水、地表水、污水处理水等）的条件下，要根据实际，在保证用水需要的情况下，依法限期封井或吊销取水许可证；在替代水源供水不足的情况下，要通过强化节水措施，逐渐减少地下水井取水量。<br>    （二）对影响城市总体规划和功能布局，严重影响地面沉降和建筑物安全的水井，要结合供水取水布局调整并依法限期封井。<br>    （三）对于擅自转让取水许可证或转供水的，要依法吊销取水许可证。<br>    治理整顿工作，由省水行政主管部门负责，会同建设、环境保护等有关部门进行。要制定实施方案，明确政策界限，周密安排部署，认真组织实施，各城市人民政府和各有关部门要积极支持与配合。此次治理整顿结束后，要向省人民政府进行专题报告。<br>    四、加强地下水资源保护，防治污染，涵养水源，改善生态环境<br>    各级人民政府要严格执行建设项目环境保护的法律、法规，加强水资源污染的防治工作，在开发利用水资源时，充分注意对自然生态的影响。各级环境保护部门要会同水行政主管部门做好环境影响评价工作。对城乡生活和工农业集中取水水源地，水行政主管部门要会同环境保护、国土资源、卫生、建设等有关行政主管部门，根据饮用水水源地所处的地理位置、水文地质条件、供水量、开采方式和污染源的分布提出划定生活饮用水地下水源保护区的方案，报同级人民政府批准。要在水源保护区建立地下水水位、水量、水质监测网络，制定保护措施，实施重点保护。<br>    各级计划、水、建设、环境保护等行政主管部门要协同配合，严把建设项目审批关，在水源地禁止新建无污染防治设施的建设项目。严格执行建设项目的环境影响评价和污染防治设施与主体工程同时设计、同时施工、同时投产的法律规定。同时，要加强对现有水污染环境的治理，保证所有向水体超标排放污染物的企业和单位都要做到达标排放。<br>    在防治水污染的同时，各级人民政府要保护自然植被，特别是要搞好退耕还林还草，大力植树造林，涵养水源，防止水土流失，改善生态环境。<br>    五、坚决贯彻开源节流的方针，加大节水力度，加快污水治理<br>    在合理开发利用地下水的同时，必须把节约用水作为解决山西水资源严重短缺的重要战略问题来抓，加强节水工作政策调研，建立健全各项节水制度，推行各种先进节水技术，运用经济、行政、法律等手段，加大节水工作的力度，努力把我省建设成为节水型社会。各城市人民政府必须多方筹措资金，加快城市污水处理工程建设，提高水资源的重复利用率和使用效益，实现城市污水资源化。<br>    六、切实加强对地下水资源保护工作的组织领导<br>    各级人民政府要把加强地下水开发利用保护列入实施可持续发展战略的重要内容，提到重要的议事日程，纳入任期目标责任制。各级水利、建设、环境保护等行政主管部门要各司其职，加强协调配合。要严格执行法律、法规的规定，实行政务公开，对取水许可审批、水污染防治等工作要做到公开透明，充分发挥新闻舆论的监督作用，加强对地下水开发利用的检查、规范工作，对一切违法行为予以坚决查处，使各项法律、法规真正贯彻到实处，保障山西有限的地下水资源的可持续利用。<br><br>    山西省人民政府办公厅<br>    二OOO年十一月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

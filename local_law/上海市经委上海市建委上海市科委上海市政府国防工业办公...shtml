@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80903<BR>&nbsp;&nbsp;【发布文号】沪府技干[80]第16号<BR>&nbsp;&nbsp;【发布日期】1980-06-27<BR>&nbsp;&nbsp;【生效日期】1980-06-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 上海市经济委员会</font></p>                             上海市基本建设委员会<br>                             上海市科学技术委员会<br>                         上海市人民政府国防工业办公室<br>                     上海市人民政府科学技术干部处（通知）<br>                           （沪经（80）222号）<br>                          （沪建（80）第553号）<br>                           （沪科（80）253号）<br>                        （沪府国防办（80）第76号）<br>                         （沪府技干（80）第16号）<br><br>             颁发《关于总工程师职权范围的暂行规定（试行）》的通知<br><br>各区、县、局、大专院校、有关公司：<br>    现将《关于总工程师职权范围的暂行规定（试行）》发给你们，望你们贯彻执行，并将执行过程中遇到的情况、问题及时向我们反映。<br>                                                    上海市经济委员会<br>                                                    上海市基本建设委员会<br>                                                    上海市科学技术委员会<br>                                            上海市人民政府国防工业办公室<br>                                            上海市人民政府科学技术干部处<br>                                                  一九八○年六月二十七日<br>                    关于总工程师职权范围的暂行规定（试行）<br><br>    为了加强党对科学技术工作的领导，加强技术管理，充分发挥科技人员的作用，促进社会主义经济建设和科学技术事业发展，根据上海的实际情况，特制定本暂行规定（试行）。<br>  一、建立和健全厂长（院、所长）领导下的总工程师技术责任制，是加速实现四个现代化的必要措施。各工业局、公司、大中型工矿企、事业和某些应用技术研究所（县团级以上单位）可按照自己的任务、规模和技术复杂程度，设立总工程师一人，副总工程师若干人，并根据需要，可以配备一定数量的科技干部组成总工程师办公室，协助总工程师处理日常工作。<br>    在产品种类较多、技术密集程度较高的一些县团级以下单位，经过主管部门批准，也可配备总工程师和副总工程师。<br><p class='zhang'>  二、总工程师是技术管理职务，是同级行政领导成员，参与讨论和决定本单位的重大事宜。其任命手续按同级副厂（院、所）长办理。（局级单位配备的总工程师，是否是同级行政领导成员，视总工程师本人的具体条件而定。有的可作为同级干部对待，有的可低于同级干部。）</p><br>  三、总工程师是本单位科学技术工作的总负责人，一般应同时兼任技术副厂（院、所）长。总工程师不兼任技术副厂（院、所）长的单位，一般不另配技术副厂（院、所）长，以便于统一管理技术工作。工厂（院、所）对科学技术问题有争议时，应由总工程师主持仲裁。工厂（院、所）科学技术工作上有优异成绩或发生重大问题时，总工程师应受到奖励或处分。<br><p class='zhang'>  四、总工程师应由本单位技术水平较高，有较强组织管理工作能力的高级工程师或工程师担任。</p><br>    其政治条件是坚持社会主义道路，坚持无产阶级专政，坚持党的领导，坚持马列主义、毛泽东思想，热心四个现代化建设，懂得党和国家的经济政策和科学技术政策。<br>    其业务条件是有较扎实的科学技术理论知识，熟悉本行业生产与技术工作的全过程以及国内外发展动态，有比较丰富的实际工作经验，有从事技术管理工作和组织科技人员解决复杂技术问题的能力。<br>    其身体条件应能胜任所担负的工作。<br>    对于在科学技术工作上有突出贡献的科技人员或者某个专业领域内的拔尖人才，应充分保证他们的研究时间，鼓励他们在专业上继续刻苦钻研，不断取得新的科研成果，一般可不让他们担任总工程师职务。<br><p class='zhang'>  五、各级领导应该重视选拔和培养总工程师接班人的工作，还应挑选优秀的科技干部担任总工程师的助手，协助总工程师开展工作。</p><br><p class='zhang'>  六、总工程师的主要职责是：</p><br><p></p><a name='1'><font class='TiaoNoA'>  1、</font></a>组织贯彻执行国家有关的科学技术政策和上级颁发的各项管理制度、技术标准、规范、规程等。<br><p></p><a name='2'><font class='TiaoNoA'>  2、</font></a>领导编制并组织实施本单位的科学技术发展规划、年度计划。根据国内外科学技术发展动态，组织引进和推广国内外的先进科学技术。根据国家需要和本单位的条件，决定提高产品质量、增加品种的工作计划。提出企业挖潜、革新、改造的方案和技术措施。组织处理重大科研、生产技术问题，从技术上保证生产、设计和科研等国家任务的完成。不断提高本单位的科学技术水平。<br><p></p><a name='3'><font class='TiaoNoA'>  3、</font></a>主持制定本单位技术管理、工艺标准、技术操作规程、环境保护等方面的规章制度。审定和签署各种重要技术文件，包括重要技术总结、科研报告、重大工程的设计方案以及技术改造的项目和方案等。<br><p></p><a name='4'><font class='TiaoNoA'>  4、</font></a>参加或参与领导本单位学术（技术）委员会的工作。主持本单位科研成果的鉴定和学术论文的评价以及其它学术、科研、技术活动。组织群众的技术革新活动，推广先进经验和创造发明，不断提高职工的技术素质。<br><p></p><a name='5'><font class='TiaoNoA'>  5、</font></a>参与领导本单位技术职称评定委员会的工作。提出科技人员培养进修的规划和意见。主持对科技人员的技术考核工作，提出科技人员使用、调配、奖惩和晋升的意见。<br><p class='zhang'>  七、总工程师对技术科室和车间的技术工作实行统一管理。在技术工作上，各职能机构必须服从总工程师的指挥和调度。</p><br><p class='zhang'>  八、副总工程师协助总工程师并分工负责一部分技术领导工作。</p>    此暂行规定一上海试行，并请把试行情况及时告诉我们。如国务院另有规定，以国务院规定为准。<br>                                                  上海市经济委员会<br>                                                  上海市基本建设委员会<br>                                                  上海市科学技术委员会<br>                                          上海市人民政府国防工业办公室<br>                                          上海市人民政府科学技术干部处<br>                                                一九八○年六月二十七日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

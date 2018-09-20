@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80901<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1992-08-20<BR>&nbsp;&nbsp;【生效日期】1992-08-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上海市人民代表大会常务委员会关于修改《关于本市区、县及乡、镇<br>
+人民代表大会代表直接选举的实施细则》的决定<br>
+</font></p><p align='center'><font class='STitle'>（1992年8月19日上海市第九届人民代表大会<br>
+常务委员会第35次会议通过）</font></p>    上海市第九届人民代表大会常务委员会第35次会议，审议了主任会议提出的《关于修改＜关于本市区、县及乡、镇人民代表大会代表直接选举的实施细则＞的决定（草案）》的议案，根据《<a href=javascript:ROF(5829,0) class=alink>中华人民共和国全国人民代表大会和地方各级人民代表大会选举法</a>》和《全国人民代表大会常务委员会关于县级以下人民代表大会代表直接选举的若干规定》，以及本市直接选举的实践经验和市九届人大常委会第34次会议已制定、颁布《上海市罢免和补选各级人民代表大会代表程序的规定》的情况，决定对《关于本市区、县及乡、镇人民代表大会代表直接选举的实施细则》的个别条款作如下修改：<br><p></p><a name='1'><font class='TiaoNoA'>一、</font></a>第三十五条  “正在取保候审或者被监视居住的人员，可到户口所在地的选区参加选举。被判处有期徒刑、拘役、管制而没有附加剥夺政治权利的；被羁押，正在受侦查、起诉、审判，人民检察院或者人民法院没有决定停止行使选举权利的；正在被劳动教养的；正在受拘留处罚的人员，一般可以委托有选举权的亲属或者其他选民在原工作单位或者住地的选区代为投票，无亲属或者其他选民可以委托的，也可以在流动票箱投票。”修改为：“正在取保候审或者被监视居住的；被判处管制而没有附加剥夺政治权利的人员，在现工作单位或者户口所在地的选区参加选举。被判处有期徒刑而没有附加剥夺政治权利的；正在被劳动教养的人员，参加所在劳改、劳教单位的选举。被判处拘役而没有附加剥夺政治权利的；被羁押，正在受侦查、起诉、审判，人民检察院或者人民法院没有决定停止行使选举权利的；正在受拘留处罚的人员，一般可以委托有选举权的亲属或者其他选民在原工作单位或者住地的选区代为投票，无亲属或者其他选民可以委托的，也可以在流动票箱投票。”<br><p></p><a name='2'><font class='TiaoNoA'>二、</font></a>删去第九章“对代表的罢免和补选”。<br>附<br>          上海市人民代表大会常务委员会关于本市区、县及乡、镇<br>                  人民代表大会代表直接选举的实施细则<br>    （1987年1月8日上海市第八届人民代表大会常务委员会第二十五次会议通过，<br>    根据1989年11月18日上海市第九届人民代表大会常务委员会第十二次会议《关于修改＜关于本市区、县及乡、镇人民代表大会代表直接选举的实施细则＞的决定》第一次修正；<br>    根据1992年8月19日上海市第九届人民代表大会常务委员会第三十五次会议《关于修改＜关于本市区、县及乡、镇人民代表大会代表直接选举的实施细则＞的决定》第二次修正）<br>                          目      录<br><br>第一章  总则<br>第二章  选举机构<br>第三章  代表的名额和分配<br>第四章  选区划分<br>第五章  选民登记<br>第六章  选民资格审查<br>第七章  代表候选人的提出<br>第八章  选举程序<br>第九章  对破坏选举的制裁<br>第十章  附则<br><p class='zhang'>第一章  总则</p><br><p></p><a name='3'><font class='TiaoNoA'>第一条</font></a>  根据《<a href=javascript:ROF(5829,0) class=alink>中华人民共和国全国人民代表大会和地方各级人民代表大会选举法</a>》（以下简称《选举法》）和《全国人民代表大会常务委员会关于县级以下人民代表大会代表直接选举的若干规定》（以下简称《直接选举的若干规定》），结合本市具体情况，制定本实施细则。<br><p></p><a name='4'><font class='TiaoNoA'>第二条</font></a>  中华人民共和国年满十八周岁的公民，不分民族、种族、性别、职业、家庭出身、宗教信仰、教育程度、财产状况和居住期限，都有选举权和被选举权。<br>    依照法律被剥夺政治权利的人没有选举权和被选举权。<br><p></p><a name='5'><font class='TiaoNoA'>第三条</font></a>  中国人民解放军驻沪部队选举区、县人民代表大会代表按照《<a href=javascript:ROF(1906,0) class=alink>中国人民解放军选举全国人民代表大会和地方各级人民代表大会代表的办法</a>》办理。<br><p class='zhang'>第二章  选举机构</p><br><p></p><a name='6'><font class='TiaoNoA'>第四条</font></a>  市设立区县乡镇选举工作委员会，在市人民代表大会常务委员会的领导下，指导区、县及乡、镇人民代表大会代表的选举工作。选举工作委员会下设办公室。<br>    区、县设立选举委员会，在区、县人民代表大会常务委员会的领导下，主持本级人民代表大会代表的选举。<br>    区、县选举委员会一般由十五人至二十九人组成，由各政党、各人民团体和有关主管部门的负责人参加。区、县选举委员会组成人员，由区、县人民代表大会常务委员会任命。<br>    区、县选举委员会下设办公室，负责有关选举的具体工作。办公室工作人员从人大常委会机关、民政、公安等有关部门抽调。<br>    乡、镇设立选举委员会，在区、县选举委员会的领导下，主持本级人民代表大会代表的选举，并负责本行政区域内区、县人民代表大会代表的选举工作。<br>    乡、镇选举委员会一般由九人至十三人组成，由区、县人民代表大会常务委员会任命。乡、镇选举委员会根据需要可以设立办事机构。<br><p></p><a name='7'><font class='TiaoNoA'>第五条</font></a>  区、县、乡、镇选举委员会的职责任务是：<br>    （一）制定本级人民代表大会代表的选举工作计划；<br>    （二）规定选举日期；<br>    （三）划分选区，分配各选区应选代表的名额；<br>    （四）宣传《选举法》、《地方组织法》和有关直接选举的规定，训练选举工作人员；<br>    （五）进行选民登记，审查选民资格，公布选民名单；受理对于选民名单不同意见的申诉，并作出决定；<br>    （六）汇总和公布代表候选人名单，并根据较多数选民的意见，确定和公布正式代表候选人名单；<br>    （七）委派人员主持各选区投票站和选举大会的选举；<br>    （八）确定选举结果是否有效，公布当选代表名单；<br>    （九）受理对选举中违法行为的检举和控告。<br><p></p><a name='8'><font class='TiaoNoA'>第六条</font></a>  经区、县选举委员会批准，街道、企业事业单位或者系统可以设立五至十一人的选举工作组，作为区、县选举委员会的派出机构，负责所辖选区的选举工作。<br>    选区成立选举工作小组，由有关单位派人员参加，负责本选区的选举工作。选区的选举工作小组由乡、镇选举委员会批准，或者由区、县选举委员会委托选举工作组批准，报<br><p class='zhang'>、县选举委员会备案<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

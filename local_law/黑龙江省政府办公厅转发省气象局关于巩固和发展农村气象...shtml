@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80802<BR>&nbsp;&nbsp;【发布文号】黑政办发[1994]44号<BR>&nbsp;&nbsp;【发布日期】1994-11-28<BR>&nbsp;&nbsp;【生效日期】1994-11-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 黑龙江省人民政府办公厅转发省气象局<br>
+关于巩固和发展农村气象服务网工作的报告的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1994年11月28日黑政办发［1994］44号）</font></p>    经省政府同意，现将省气象局《关于巩固和发展农村气象服务网工作的报告》转发给你们，请认真贯彻执行。<br><br>                 关于巩固和发展农村气象服务网工作的报告<br><br>省政府：<br>    自1989年12月省政府办公厅《转发省气象局关于建设农村气象服务网的报告的通知》（黑政办发［1989］101号）下发以来，全省主要农业地区全部建成了以“两网一助理”（气象警报网、乡镇雨量网、乡镇兼职气象助理）为格局的农村气象服务网。目前，我省农村气象服务网正向村延伸，向双向通讯多功能发展。农村气象服务网的建设，丰富了科教兴农的内容，在农业生产特别是在防灾、减灾中发挥了重要作用。解决了多年来广大农民收听不到当地天气预报和农业气象情报的问题，为县乡领导指挥生产、抗旱、防汛提供了决策依据；建设农村气象服务网络，还向农村普及了科学种田知识，为乡镇培养了精通气象知识的人才；许多市县还利用气象警报网设备召开乡、村电话会议，发布各种通知和防灾指挥令等。农村气象服务网的社会、经济效益日益显著。据统计，全省农村气象服务网每年可使农村减少损失、增加效益1．5亿元。<br>    我省是全国最早建设农村气象服务网的省，其首创经验被中国气象局推广到全国，并得到国务院的肯定。但是，同其它农业社会化服务体系相比，气象服务网建设还存在不少困难和问题。主要是：部分市县尚未将农村气象服务网作为农业社会化服务体系纳入政府工作日程，组织、领导关系不够明确；已建的网络缺少经费保证，正常消耗、设备更新无经费保障；乡镇气象工作人员不稳定，影响了农村气象服务网效益的发挥。为了贯彻中共中央、国务院和省委、省政府关于办好农业社会化服务体系的精神，进一步巩固发展农村气象服务网，现提出如下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>加强对农村气象服务网的领导。各级政府应将建设农村气象服务网纳入工作日程，并明确由政府领导，农业行政主管部门主抓，气象部门主办。政府主要负责组织领导，制定规划、安排经费；农业行政主管部门负责抓好管理、协调和农村气象服务网的使用；气象部门负责网络建设，保障日常运行，做好各项服务以及业务人员的培训和管理。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>建立稳定的经费保障制度。根据国务院和省政府关于农业社会化服务体系经费保障的有关规定，各级计委、财政等有关部门对农村气象服务网日常建设及更新改造资金要给予支持。天气警报接收机的使用租金可从农村使用警报接收机的单位收取，收费标准按省农委、财政厅、物价局、气象局联合下发的黑气天字［1994］129号文件规定执行，由各地农经管理站代收（有关办法另行通知）。<br>    对建设农村气象服务网有关项目所需经费，如购置气象警报通信网无线差转设备及维护设备等消耗费用，建议在省政府科技兴农经费中统筹考虑，适当安排。  <br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>关于乡镇气象服务人员问题<br>    根据中央印发的《关于党政机构改革的方案和关于党政机构改革方案的实施意见的通知》（中发［1993］7号）精神，乡镇政府不再实行助理员制，设综合性办事机构（股室）对乡镇政府工作实行综合管理，各地可在综合办事机构内确定一名适当人选，承担气象服务工作，目前可暂时维持不变。各地要加强对乡镇气象服务工作人员的教育和培训，并建立适当的奖惩机制，为发展当地经济，防灾减灾做好工作。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>为了全面解决我省农村气象服务网存在的问题，建议各市县对农村气象服务网进行一次整顿。通过整顿进一步理顺关系，明确职责，落实省农委、省气象局联合下发的关于印发《黑龙江省农村气象服务网管理办法》（黑气天［1993］26号）的通知精神；进一步树立为农业和发展农村经济服务的思想，加强服务网的业务建设，增加为农业服务的科技含量，为发展我省农村经济发挥更大的作用。<br>    以上报告如无不当，请批转各地执行。<br><br>                                                      黑龙江省气象局<br>                                                  1994年11月17日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

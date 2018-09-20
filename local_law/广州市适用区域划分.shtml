@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81905<BR>&nbsp;&nbsp;【发布文号】以穗府[1995]58号<BR>&nbsp;&nbsp;【发布日期】1995-05-26<BR>&nbsp;&nbsp;【生效日期】1995-05-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 广州市＜城市区域环境噪声标准＞适用区域划分<br>
+ </font></p><p align='center'><font class='STitle'>（广州市人民政府1995年5月26日以穗府<br>
+ ［1995］58号文批转印发）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为有效控制环境噪声污染，改善本市声环境质量，根据《<a href=javascript:ROF(9668,0) class=alink>中华人民共和国环境噪声污染防治条例</a>》、国家《<a href=javascript:ROF(2323,0) class=alink>城市区域环境噪声标准</a>》（ＧＢ3096－93）的有关规定，结合本市实际，制定本适用区域划分。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  广州市适用国家《<a href=javascript:ROF(2323,0) class=alink>城市区域环境噪声标准</a>》区域划分为四类：<br>    （一）1类区：指以居住、文教、机关为主的区域；旅游风景区套划该类区域。<br>    （二）2类区：指居住、商业、工业混合区。<br>    （三）3类区：指城市区域中明确确定的工业区。<br>    （四）4类区：指城市中的交通干线道路两侧区域。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  广州市各类区域划分的环境噪声标准值列于下表：<br><br>                                                  等效声级ＬＡｅｑ：ｄＢ<br><pre><font size=+1><br>┌────┬──────────────┬───────────────┐<br>│类别    │          昼间              │            夜间              │<br>├────┼──────────────┼───────────────┤<br>│1类区  │          55              │            45              │<br>├────┼──────────────┼───────────────┤<br>│2类区  │          60              │            50              │<br>├────┼──────────────┼───────────────┤<br>│3类区  │          65              │            55              │<br>├────┼──────────────┼───────────────┤<br>│4类区  │          70              │            55              │<br>└────┴──────────────┴───────────────┘</font></pre><br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  广州市适用国家《<a href=javascript:ROF(2323,0) class=alink>城市区域环境噪声标准</a>》的昼间时间为北京时间6时到22时，夜间时间为北京时间22时到翌日6时。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  广州市适用国家《<a href=javascript:ROF(2323,0) class=alink>城市区域环境噪声标准</a>》的具体区域划分范围包括市属建成区和主要规划发展区，即：越秀区、东山区、荔湾区、海珠区、天河区、芳村区、广州经济技术开发区的全部，白云区、黄埔区的大部分区域。县级市辖区内的《<a href=javascript:ROF(2323,0) class=alink>城市区域环境噪声标准</a>》适用区域划分，由县级市人民政府按照国家规定具体划定，报广州市人民政府备案。未划定适用区域的，暂适用2类区的环境噪声标准值。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  各类适用区域具体划分范围如下：<br>    （一）1类区的地带范围。<br>    1．省府大院、中山纪念堂及越秀公园区域。<br>    2．越秀北路为东边界和北边界；法政路为南边界；小北路为西边界的市委及周围区域。<br>    3．寺右一马路接杨箕涌到珠江为东边界；珠江杨箕涌口至海印桥为南边界；东湖路为西边界；新河浦涌接恤孤院路、烟墩路、保安前街、寺右新石路至寺右一马路为北边界的省委、广州军区、东山湖公园、珠江宾馆及周围区域。<br>    4．华侨新村友爱路接团结路至爱国路及东侧相邻的黄花岗公园区域。<br>    5．二沙岛区域。<br>    6．中山大学区域。<br>    7．珠江官洲河为东边界；小洲、芒窖、沥窖、池窖以北；广州大道为西边界；敦和路、大塘、东边坑、新村、台涌、石榴岗、赤沙接黄埔涌至官洲河为北边界的海珠果园区。<br>    8．登峰街行政区域范围。<br>    9．暨南大学、华南师范大学、华南师范大学附属中学区域。<br>    10．天河东路为东边界；中山大道为南边界；体育西路为西边界；天河北路为北边界的区域范围。<br>    11．华南路北段（规划路段）接五山街东界为东边界；瘦狗岭路为南边界；东莞庄路、岑村路接广汕公路至华南路为西边界和北边界的华南理工大学、华南农业大学、华南植物园及周围区域。<br>    12．花地河接渔尾桥、花地大道、东沙开发区、海南加工区西边界至珠江为东边界；珠江芳村区区界为南边界和西边界；秀水涌为北边界的葵蓬洲、东教花卉保护区范围。<br>    13．黄埔区红山街的广州石化总厂生活区及文冲船厂生活区范围。<br>    14．黄埔区长洲岛黄埔军校旧址及东征烈士纪念公园等文化旅游风景范围。<br>    15．流花湖公园、荔湾湖公园、广州动物园、广州烈士陵园、东郊公园、白山风景区等区域范围。<br>    16．广州经济开发区的普晖高级住宅区，南围小区住宅区范围。<br>    （二）3类区的地带范围。<br>    1．广州发电厂、广州木材综合厂、南岸煤场、广州铁路南站所在区域。<br>    2．田心村涌边接京广铁路、站西路、西湾路为东边界；环市西路接东风西路为南边界；增步河至田心村涌边为西边界和北边界的区域。其中的增步住宅小区、华业里、供水公司宿舍、市五十九中学、工人体育场、广州师范学校等区域适用“2类区”标准。<br>    3．永福村以西；黄花岗公园、科学院宿舍以北；广深铁路为西边界和北边界的太和岗工业小区。<br>    4．工业大道北、工业大道中、工业大道南至广播汽车渡口为东边界；珠江广番渡口至海珠涌边为南边界和西边界；新民八街接小桃源、梅园西路为北边界的区域。其中的南边住宅区、广纸北二路以南至人民造纸厂西北部边界的纸厂生活区，南石头，南箕村、石溪等居民住宅区适用“2类区”标准。<br>    5．礼岗路、南泰路、泰沙路、沙溪接广州农药厂东围墙至工业大道南为东边界；工业大道南、工业大道中为南边界和西边界；昌岗中路为北边界的区域。其中的庄头、昌岗中路住宅区、珠江医院、泉塘、市四十五中学、沙溪新村等区域适用“2类区”标准。<br>    6．车陂路接黄埔大道至德胜围珠江边为东边界；珠江前航道德胜围至华南路（规划路）为南边界；华南路为西边界；黄埔大道接东郊公园东部边界、中山大道至车陂路为北边界的区域。其中的员村生活区、东郊公园东侧包括珠江造纸厂宿舍在内的东郊住宅区适用“2类区”标准。<br>    7．广州氮肥厂东围墙为东边界；广深铁路车陂路至广氮专用铁路口为南边界；广氮专用铁路为西边界和北边界的区域。<br>    8．珠江下芳村渡口至鹤洞路渡口为东边界；鹤洞路为南边界；鹤洞路接鹤翔路、沙涌、聚龙村、接龙里、芳村涌至下芳村渡口为西边界和北边界的范围。<br>    9．珠江鹤洞路渡口至东风磨粉厂为东边界；东风磨粉厂沿珠江至沙尾桥为南边界；沙尾桥接海中村工业区、东沙经济开发区、海南加工区西界、花地大道南、鹤洞路至珠江边为西边界和北边界范围。其中区域中的东朗、西朗、南教、沙洛自然村和东沙经济开发区的商住区、管理区适用“2类区”标准。<br>    10．黄埔区的大田山、吉山、庙头、南岗工业区。<br>    11．白云区、黄埔区、增城市交界处的云埔工业区。<br>    12．广州经济技术开发区的桥头、东基、西基、北围、港前工业小区、秀丽开发小区转口贸易区及东江大道两侧工业区。<br>    （三）4类区的地带范围。<br>    1．广州市属八区范围内目前交通干线道路共376条。（见附件1）<br>    2．4类标准适用区域是指沿干线两侧与其它类型区域紧密相连的地带。<br>    当交通干线道路两侧分别与1类区、2类区、3类区相邻时，4类区地带范围是自车道与人行道交界处为起点，分别向道路两侧纵深40米、30米、25米的区域范围。<br>    当纵深范围内有高于3层楼房以上（含3层）的建筑物时，建筑物面向道路一侧的区域划为4类标准适用区域；建筑物背向道路一侧适用相邻区域标准。<br>    3．长途汽车站、市内公共汽车、电车总站、大型停车场及码头区套划为4类标准适用区，并比照交通干线两侧与其它类型区域相邻时的处理办法，划分4类标准适用区。<br>    4．穿越市内的铁路（含干线、专用线、铁路站场、机务段、车辆段等），当沿线分别与1类区、2类区、3类区相邻时，其路轨两侧分别纵深70米、60米、50米的范围，划分为4类标准适用区域。<br>    5．穿过市区的河道，当河岸分别与1类区、2类区、3类区相邻时，从岸边为起点分别纵深35米、25米、20米的范围，划分为4类标准适用区域。<br>    （四）2类区的地带范围。<br>    除“1类区”、“3类区”、“4类区”标准适用区以外的区域，均为2类标准适用区域。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  由于道路建设或车流量变化，交通干线道路的增加或减少，原定的区域划分范围可适当调整。由市环境保护办公室确定公布，并报市人民政府备案。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  本区域划分自颁布之日起实施，1992年8月26日市人民政府《颁发＜广州市声环境功能区区划＞的通知》（穗府［1992］83号）同时废止。<br>    附件：一、交通干线道路名称<br>          二、广州市《<a href=javascript:ROF(2323,0) class=alink>城市区域环境噪声标准</a>》适用区域划分示意图<br><br>附件一<br>                            交通干线道路名称<br><br>            越秀区<br><br>沿江中路  沿江西路  长堤大马路<br>南堤二马路  泰康路  一德路<br>仁济西路  大新路  大南路<br>大德路  同乐路  观绿路<br>惠福东路  惠路西路  西湖路<br>光塔路  中山五路  中山六路<br>广卫路  公园路  豪贤路  越华路<br>府前路  百灵路  净慧路  东风中路<br>东风西路  法政路  应元东路<br>应元路  流花路  环市中路<br>环市西路  桂花路  越秀北路<br>仓边路  小北路  北京路  广大路<br>广仁路  正南路  教育路  吉祥路<br>回龙路  侨光路  起义路  连新路<br>解放南路  解放中路  解放北路<br>靖海路  朝天路  六榕路  海珠南路<br>海珠中路  海珠北路  盘福路<br>仁济路  天成路  诗书路  纸行路<br>光孝路  人民南路  人民中路<br>人民北路<br><br>            东山区<br><br>八旗二马路  沿江中路  大沙头路<br>大沙头二马路  沿东东路  广九大马路<br>东圆横路  美华北路  合群一马路<br>新河浦路  东湖西路  永胜上沙<br>万福路  寺右新马路  保安前街<br>烟墩路  庙前直街  庙前西街  均益路<br>东华东路  东华西路  文明路<br>寺贝通津  中山一路  中山二路<br>中山三路  中山四路  三育路<br>竹丝岗二马路  东风东路  东风中路<br>华乐路  北较场横路  环市东路<br>梅花路  水荫路  梅东路  东环路<br>达道路  农林东路  培正路  恤孤院路<br>署前路  农林下路  东湖路  东华南路<br>东华北路  菜园东路  百子横路<br>执信南路  先烈南路  先烈中路<br>永福路  白云路  东川路  较场西路<br>陵园西路  建设六马路  建设大马路<br>淘金路  黄华路  北较场路  麓湖路<br>东濠涌高架路  东沙角路  挹翠路<br>越秀南路  越秀中路  越秀北路<br>东园路  湛塘路  德政南路  德政中路<br>德政北路  文德南路  文德路<br><br>            荔湾区<br><br>沿江西路  西堤二马路  六二三路<br>沙面新西桥  十三行路  杉木栏路<br>梯云东路  和平东路  和平中路<br>和平西路  浆栏路  十八甫路<br>十三甫路  上九路  下九路<br>第十甫路  恩宁路  多宝路<br>长寿东路  长寿西路  宝源路<br>龙津东路  龙津中路  龙津西路<br>如意坊路  粤南大街  中山七路<br>中山八路  双侨路  西华路<br>东风西路  流花路  环市西路<br>人民中路  人民北路  光复南路<br>光复中路  光复北路  镇安路<br>长乐路  扬巷路  德光路<br>带河路  十八甫北路  十八甫南路<br>文昌南路  文昌北路  珠玑路<br>大同路  宝华路  华贵路  荔湾路<br>丛桂路  蓬莱路  逢源路  黄沙大道<br>南岸路  站前路  陈岗路  西湾路<br>西湾东路  广园西路  西增路<br><br>            海珠区<br><br>滨江东路  滨江中路  滨江西路<br>纺织路  草芳园  南华东路<br>南华中路  南华西路  同福东路<br>同福中路  同福西路  厚德路<br>梅园西路  基立北街  前进路<br>江南西路  荔福路  金沙路<br>沙园路  沙渡路  新港东路<br>新港中路  新港西路  昌岗东路<br>昌岗中路  昌岗西路  南泰路<br>礼岗路  燕子岗路  广纸路<br>艺苑路  广州大道南  滨江横路<br>滨江横二路  怡乐路  东晓路<br>晓港中马路  泰沙路  基立西街<br>小港路  江南大道北  江南大道中<br>江南大道南  江燕路  同庆路<br>南村路  福场路  宝岗路<br>新凤祥大街  洪德路  革新路<br>工业大道南  工业大道中  工业<br>大道北  南边路  南石路  南箕路<br>石岗路  洪德路（引桥）<br><br>        天河区<br><br>黄埔大道  中山大道  天河南一路<br>天河南二路  天河路  天河北路<br>水荫横路  水荫四横路  瘦狗岭路<br>禺东西路  沙河大街  先烈东路<br>永福路  恒福路  光华路  沙和路<br>沙河横马路  广园东路  广园路<br>岑村公路  东圃大马路  车陂路<br>员村二横路  员村四横路<br>下塘西路  五山路  龙口东路<br>龙口西路  猎德路  天河东路<br>体育东路  体育西路  东莞庄路<br>林和中路  林和西路  广州大道<br>广汕公路  广从公路  水荫路<br>濂泉路  麓湖路  麓景路  淘金路<br>童心路  岳洲路  沙太路<br>东郊公园西侧<br><br>        芳村区<br><br>广佛路  广佛高速公路  芳村大道<br>塞坝路  石围塘路  洞企石路<br>山村路  陆居路  明心路<br>东教南路  东教北路  鹤洞路  过江隧道路<br>花地大道  龙溪路  芳信路<br>桥西路  鹤翔路<br><br>        黄埔区<br><br>港前路  广深公路  大沙东路<br>大沙西路  蟹山路  石化路<br>丰乐中路  港湾路  荔香路<br>鱼珠东路  志诚大道  友谊路北段<br>青年路东段  夏港大道  宝石路<br><br>        白云区<br><br>广园中路  广园西路  走马岗路<br>黄石路  石沙路  望石路  江同路<br>北太路  九佛公路  钟落潭路<br>竹汉路  珠水路  竹料商业街<br>萝岗路  萝南路  广汕公路<br>沙太公路  广从公路  广清路<br>大金钟路  石潭路  松柏路<br>景泰直街  机场路  广花公路<br>增槎路  新广从公路  下塘西路<br>西槎路  石槎路  菜园路<br>尖彭路  桥中路<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

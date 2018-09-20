@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80902<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1989-05-11<BR>&nbsp;&nbsp;【生效日期】1989-12-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上海市工业废水排放补充标准<br>
+</font></p><p align='center'><font class='STitle'>（1989年5月11日上海市人民政府批准）</font></p><p class='zhang'>1 总则</p><br><p></p><a name='1'><font class='TiaoNoA'>1．1  </font></a>为控制上海市地面水污染，根据《<a href=javascript:ROF(10121,0) class=alink>中华人民共和国环境保护法</a>（试行）》、《<a href=javascript:ROF(3542,0) class=alink>中华人民共和国水污染防治法</a>》及《上海市黄浦江上游水源保护条例》的规定，结合本市实际情况，制定本标准。<br><p></p><a name='2'><font class='TiaoNoA'>1．2  </font></a>本标准适用于在上海市范围内直接或间接向水体排放废水的一切单位及个体经营者。<br><p></p><a name='3'><font class='TiaoNoA'>1．3  </font></a>本标准包括第一类标准（表1）和第二类标准（表2）：<br>    表1              上海市工业废水排放补充标准（第一类）   单位：毫克／升<br><br>────┬───────────────────┬──────────────<br>  序号  │         污染物                       │    最高容许排放浓度<br>────┼───────────────────┼──────────────<br>    1  │可溶性钡（1）                        │       20<br>────┼───────────────────┼──────────────<br>    2  │阴离子合成洗涤剂（ＬＡＳ）（1）      │   15      10（2）<br>────┼───────────────────┼──────────────<br>    3  │黄磷（按Ｐ计）                        │       0．1<br>────┼───────────────────┼──────────────<br>    4  │甲醛                                  │   5．0      3．0（2）<br>────┼───────────────────┼──────────────<br>    5  │氯苯类（按氯苯计）                    │        4．0<br>────┼───────────────────┼──────────────<br>    6  │甲醇                                  │        15<br>────┼───────────────────┼──────────────<br>    7  │烷基汞                                │       不得检出<br>────┼───────────────────┼──────────────<br>    8  │吡啶                                  │        2．0<br>────┼───────────────────┼──────────────<br>    9  │二硫化碳                              │         10<br>────┼───────────────────┼──────────────<br>    10│铍及其化合物（按Ｂｅ计）              │       0．04<br>────┼───────────────────┼──────────────<br>    11│钒及其化合物（按Ｖ计）                │       2．0<br>────┼───────────────────┼──────────────<br>    12│硒及其化合物（按Ｓｅ计）              │        0．5<br>────┼───────────────────┼──────────────<br>    13│动植物油                              │  30    20（2）<br>────┼───────────────────┼──────────────<br>    14│悬浮物（1）（水力排灰、洗煤水，水力  │       250<br>        │  冲渣除外）                          │       200（2）<br>────┴───────────────────┴──────────────<br>    注：（1）指工厂废水总出口。<br>        （2）指新建、改建、扩建（包括引进）项目执行的排放 标准。<br>表2                  上海市工业废水排放补充标准（第二类）<br>                  单位：毫克／升<br><br>────┬───────────────────┬──────────────<br>  序号  │            污染物                    │    最高容许排放浓度<br>────┼───────────────────┼──────────────<br>    1  │四氯化碳                              │        3．0<br>────┼───────────────────┼──────────────<br>    2  │乙腈                                  │        3．0<br>────┼───────────────────┼──────────────<br>    3  │丙烯腈                                │        4．0<br>────┼───────────────────┼──────────────<br>    4  │丙烯醛                                │        0．1<br>────┼───────────────────┼──────────────<br>    5  │苯并（ａ）芘                          │        0．00003────┼───────────────────┼──────────────<br>    6  │水合肼                                │        2．0<br>────┼───────────────────┼──────────────<br>    7  │硼及其化合物（按Ｂ计）（1）          │        3．0<br>────┼───────────────────┼──────────────<br>    8  │锡及其化合物（按Ｓｎ计）              │        10<br>────┼───────────────────┼──────────────<br>    9  │银及其化合物（按Ａｇ计）              │        0．5<br>────┼───────────────────┼──────────────<br>    10│钴及其化合物（按Ｃｏ计 ）             │        0．5<br>────┴───────────────────┴──────────────<br>  注：（1）指工厂废水总出口。<br><p class='zhang'>2  标准的执行</p><br><p></p><a name='4'><font class='TiaoNoA'>2．1  </font></a>对现有的污染源必须执行《上海市工业“废水”排放试行标准》和第一类标准。<br><p></p><a name='5'><font class='TiaoNoA'>2．2  对新建、</font></a>改建和扩建项目（包括引进项目）的新污染源，除执行《上海市工业“废水”排放试行标准》和第一类标准外，还须执行第二类标准。<br><p class='zhang'>3  其他排放标准</p><br><p></p><a name='6'><font class='TiaoNoA'>3．1  </font></a>对排放含有放射性物质的废水，除执行本标准之外，其放射性物质的浓度必须符合国家《放射防护规定》（ＧＢＪ8－74）。<br><p></p><a name='7'><font class='TiaoNoA'>3．2  </font></a>禁止船舶向水源保护区和准水源保护区排放污水，对向其它水域排放的污水，须执行国家《船舶污染物排放标准》（ＧＢ3552－83）。<br><p></p><a name='8'><font class='TiaoNoA'>3．3  </font></a>对含有病原体的污水，除执行本标准之外，还须执行国家《医院污水排放标准》（ＧＢＪ48－83）。<br><p></p><a name='9'><font class='TiaoNoA'>3．4  </font></a>对本标准中未定标的污染物，可按国家有关行业排放标准执行。<br><p class='zhang'>4  标准的实施</p><br><p></p><a name='10'><font class='TiaoNoA'>4．1  本标准由市和区、</font></a>县环境保护管理部门组织有关部门实施，并监督执行。<br><p></p><a name='11'><font class='TiaoNoA'>4．2  </font></a>在水源保护区与准水源保护区的单位须按照《上海市黄浦江上游水源保护条例》，实行污染物排放总量控制和浓度控制相结合的管理办法。<br><p></p><a name='12'><font class='TiaoNoA'>4．3  </font></a>在执行本标准时某些项目不能满足本地区饮用水源的水质要求的，区、县环境保护管理部门应根据受纳水体的允许纳污量，规定污染物排放总量控制指标，并报市环保局批准。<br><p class='zhang'>5  取样与监测</p><p></p><a name='13'><font class='TiaoNoA'>5．1  </font></a>监测取样点应布设在车间或处理设施（包括区域性二级处理）排出口（除注明的个别指标之外）。<br><p></p><a name='14'><font class='TiaoNoA'>5．2  </font></a>本标准统一使用国家颁布的标准分析方法，对国家尚未颁布测定方法的污染物项目，采用本标准提出的测定方法，见附表。<br><p></p><a name='15'><font class='TiaoNoA'>附加说明<br>  </font></a>   本标准由上海市环境保护局提出。<br>     本标准由上海市环境保护科学研究所编制。<br>     本标准由上海市环境保护局负责解释。<br>     本标准自一九八九年十二月一日起施行。<br> <p></p><a name='16'><font class='TiaoNoA'>附表  </font></a>  上海市废水污染物测定方法（略）<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

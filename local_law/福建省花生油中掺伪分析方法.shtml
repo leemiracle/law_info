@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2002-12-16<BR>&nbsp;&nbsp;【生效日期】2002-12-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省花生油中掺伪分析方法<br> <br></font>(2002年12月16日)</p><br> <br> <br>                                        前    言<br>    本标准是在《气相色谱法鉴别食用植物油脂掺伪试验》的课题研究成果的基础上，采用GB/T  17376－1998《动植物油脂  脂肪酸甲酯制备》及GB/T17377－1998《动植物油脂  脂肪酸甲酯的气相色谱分析》两个标准方法进行色谱分析，得出花生油的特征脂肪酸组成，以此作为实际样品鉴别的基础。<br>    本标准的编写与表述按照GB/T  1.1－1993《标准化工作导则第1单元：标准的起草与表述规则  第1部分：标准编写的基本规定》。<br>    本标准由福建省粮食厅提出并归口。<br>    本标准起草单位：厦门市粮油质量监督检验站、福建省粮油质量监测所、福建省粮油科学技术研究所。<br>    本标准主要起草人：杨天保、尤柳芳、黄建立、庄彪。<br><br>                                  福建省地方标准<br><br>                                  花生油中掺伪分析方法<br>                                    DB35/T99－1999<br>                                                                                      <br>    1  范围<br>    本标准规定了花生油中掺伪的分析方法原理、试剂、仪器和设备、样品预处理、样品测定方法和判定规则。<br>    本标准适用于食用花生油中掺入棕榈油、低芥酸菜籽油、大豆油、棉籽油、葵花籽油等其中一种食用植物油的分析方法。<br>    2  引用标准<br>    下列标准所包含的条文，通过在本标准中引用而构成为本标准的条文。本标准出版时，所示版本均为有效。所有标准都会被修订，使用本标准的各方应探讨使用下列标准最新版本的可能性。<br>    GB/T17376-1998  动植物油脂  脂肪酸甲酯制备  <br>    GB/T17377-1998  动植物油脂  脂肪酸甲酯的气相色谱分析<br>    3  原理<br>    每一种植物油都有其特征的脂肪酸组成（包括脂肪酸种类和相对百分含量），混入其他油种则导致脂肪酸组成变化。油脂经甲酯化处理后，用气相色谱法测定其脂肪酸组成，据此可判定油脂是否掺伪和掺伪程度。<br>    4  试剂<br>    按GB/T  17376及GB/T  17377规定。<br>    5  仪器和设备<br>    按GB/T  17377规定、色谱柱为填充柱。<br>    6  样品的预处理<br>    6.1  试样预处理<br>    按GB/T  17376规定进行。<br>    6.2  脂肪酸标准样品处理<br>    按GB/T  17376规定进行。<br>    7  样品测定<br>    7.1  按GB/T  17377-1998中5.1－5.3规定进行。<br>    7.2  通过对照脂肪酸标准样品的保留时间，对样品中各脂肪酸组成进行定性，并以归一化法求出各组分的相对百分含量。<br>    7.3  同一试样进行两次平行测定，如果油酸（C18:1）及亚油酸（C18:2）测定结果的相对偏差分别不大于3％时，则取其算术平均值作为测定结果，计算结果保留小数点后一位。<br>    8  判定规则<br>    8.1  定性分析<br>    以待测样品的脂肪酸组成对照表1（附后）中所列纯花生油的脂肪酸组成范围，若符合则为纯油，若有一项或多项组分超出，则有掺伪，应参照表中所列“掺入其他植物油的脂肪酸组成变化提示”确定掺入油种。<br>    8.2  掺入量的计算<br>    8.2.1  在定性分析的基础上，根据所确定掺伪油种参照表1中对应的“花生油含量（近似值）计算公式”，计算花生油的百分含量，计算结果取十位整数。<br>    则掺伪量（N）按式（1）计算<br>    N=1-Y……（1）<br>    式中Y为花生油的百分含量。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

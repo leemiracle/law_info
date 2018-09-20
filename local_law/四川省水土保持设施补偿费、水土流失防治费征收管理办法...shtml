@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】四川省<BR>&nbsp;&nbsp;【发布文号】川价非[1995]118号<BR>&nbsp;&nbsp;【发布日期】1995-09-01<BR>&nbsp;&nbsp;【生效日期】1995-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>四川省水土保持设施补偿费、水土流失防治费征收管理办法（试行）<br><br></font>（1995年9月1日四川省物价局、四川省水利电力厅川价非[1995]118号发布）</p><br><br>    一、为保护水土资源、地貌植被和水土保持设施、防止在资源开发、生产建设等活动中造成新的水土流失，根据《<a href=javascript:ROF(13048,0) class=alink>中华人民共和国水土保持法</a>》和《<a href=javascript:ROF(67095,0) class=alink>四川省〈中华人民共和国水土保持法〉实施办法</a>》，结合四川实际，制定本办法。<br><br>    二、任何单位和个人在四川省境内从事资源开发和生产建设过程中造成了新的水土流失的，必须采取水土保持措施，须按批准的水土保持方案对造成的水土流失负责治理。确因技术等原因而无力进行治理的单位和个人，应按规定交纳防治费，并由水土保持监督管理机构统一安排组织治理。<br><br>    任何单位和个人在建设和生产过程中，因建设和生产确需而不得不损坏水土保持设施的，应当向直接管理水保设施的水行政主管部门交纳所损坏部分的补偿费。其补偿费必须专项用于水土保持设施建设。<br><br>    已发挥效益的水利、水电工程，应根据自身水土流失防治的需要，每年从收取的水费、电费中提取部分资金，由该水利、水电工程掌握，专项用于工程管护范围内的水土保持。该水土保持工作由水行政主管部门分级负责组织检查验收。<br><br>    农民建房暂不收取水土流失防治费，但必须按规定采取水土保持措施；凡经有权部门批准农民建房而不得不破坏水土保持设施的，应责令其恢复设施。<br><br>    对在河道采砂的单位和个人不收取水土流失防治费。<br><br>    三、收费标准<br><br>    （一）防治费<br><br>    1．有水土保持方案的资源开发、生产建设项目，应按水行政主管部门批准的水土保持方案中水土保持措施建成所需实际费用交纳水土流失防治费。<br><br>    2．对于没有水土保持方案而从事采矿、修路、办厂、烧制砖瓦、石灰等生产建设的单位和个人，对其造成水土流失的，只能按下列规定中的某一种收费方式收取水土流失防治费，但不得重复收费。<br><br>    （1）按破坏地表植被和废物占地面积，每平方米收取防治费0．5～1.0元。<br><br>    （2）按倾倒废（弃）土、弃渣等物质体积，每立方米收取防治费1～3元。<br><br>    （3）采矿、烧制砖瓦、石灰、水泥等弃土渣量按其折算的产品产量计收。<br><br>    （4）对以上不便以面积或体积计算收取的，可按产品销售收入的0．5％～1.2％计收防治费。<br><br>    （二）补偿费<br><br>    补偿费应依据资源开发、生产建设项目单位和个人对水土保持设施的损毁和占用情况计收。对损坏水土保持林草的每平方米收取补偿费0.5～2元。对固定观测设施和坡改梯、蓄（排、引）水拦沙等小型水利水保工程设施，按其恢复同等标准的工程造价计收补偿费。<br><br>┌─────┬──────┬──────┬──────┬──────┬────┐<br>│       名 │  水泥      │  石灰      │  煤炭      │  铁矿石    │    金  │<br>│标准   称 │            │            │            │            │        │<br>├─────┼──────┼──────┼──────┼──────┼────┤<br>│  计收单位│  元／吨    │  元／吨    │  元／吨    │  元／吨    │  元／克│<br>├─────┼──────┼──────┼──────┼──────┼────┤<br>│  收费标准│  0．5～1．5│  0．5～1   │    0．5～1 │  0．2～0．6│    1   │<br>└─────┴──────┴──────┴──────┴──────┴────┘<br><br>    （三）证照费<br><br>    水行政主管部门水土保持监督机构对造成水土流失的单位和个人发放的《四川省水土保持方案批准合格证》，其最终收取标准为10元/证（含合格证、表册），各市、地、州、县不得层层加码，随意提高收费标准。<br><br>    四、水土流失防治费由县（市、区）级水行政主管部门水土保持监督机构负责征收。由地、市、州和省管理的水土保持设施，其补偿费委托县级水行政主管部门水土保持监督机构负责征收的，由县级水行政主管部门负责恢复的治理。<br><br>    五、各地的具体收费标准应在以上规定的幅度内由各市、地、州物价局、财政局会同主管部门，根据当地实际情况确定。<br><br>    六、水土保持监督机构在征收费用时，必须持有物价部门颁发的收费许可证，实行亮证收费，并使用财政部门统一印制和发放的四川省行政事业性收费专用收据。<br><br>    七、费用的使用与管理<br><br>    水土流失防治费、水土保持设施补偿费属于预算外资金，按照《四川省预算外资金管理条例》的规定，纳入同级财政专户存储管理，使用时由水行政主管部门水土保持监督机构提出用款计划，具体开支范围经同级财政部门审核后拨付使用，主要用于以下几个方面：<br><br>    （一）水土保持工程建设、恢复、维修、管理和养护，水土保持林、草种籽和栽植与补植的补助；<br><br>    （二）水土流失的普查，水土保持勘测规划和设计；<br><br>    （三）水土保持宣传培训，技术咨询等；<br><br>    （四）水保工作监测仪器设备购置、维修；<br><br>    （五）水土保持试验研究和科技成果的推广等以及经县级以上财政部门审核同意的其他开支。<br><br>    所收费用的80％用于上述（一）、（二）项，20％用于（三）至（五）项。<br><br>    县级征收的水土流失防治费，水土保持设施补偿费上交省、地、（市、州）各为10％；80％留县（市、区）；地、市、州级征收的水土保持设施补偿费上交省10％。水土流失防治费，水土保持设施补偿费可连续使用，年终结余，结转下年继续用于水保工作，不得截留或挪作它用。<br><br>    已发挥效益的水利水电工程提取的水保资金，由该水利、水电工程自行掌握，建立专账，其水保工作由水行政主管部门分级负责验收。<br><br>    八、凡应纳入防治费、补偿费的单位和个人，必须在规定期限内缴纳，同时不免除应承担的法律规定的其他责任；对无故拒交者，依照《中华人民共和国水土保持法》第<a href=javascript:ROF(13048,36) class=alink>三十六</a>条、《<a href=javascript:ROF(17789,0) class=alink>中华人民共和国水土保持法实施条例</a>》第<a href=javascript:ROF(17789,30) class=alink>三十</a>条、《四川省〈中华人民共和国水土保持法〉实施办法》第<a href=javascript:ROF(67095,33) class=alink>三十三</a>条、第<a href=javascript:ROF(67095,34) class=alink>三十四</a>条、第<a href=javascript:ROF(67095,35) class=alink>三十五</a>条的规定处理。<br><br>    九、本办法自一九九五年九月一日起执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

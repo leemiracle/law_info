@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82002<BR>&nbsp;&nbsp;【发布文号】桂政发[1989]65号<BR>&nbsp;&nbsp;【发布日期】1989-05-27<BR>&nbsp;&nbsp;【生效日期】1989-05-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 广西壮族自治区人民政府批转区邮电管理局<br>
+关于加快我区邮电通信发展的意见的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1989年5月27日桂政发〔1989〕65号）</font></p>    现将自治区邮电管理局《关于加快我区邮电通信发展的意见》转发给你们，请认真贯彻执行。<br>    各级政府和邮电部门可根据本通知精神，制定具体的贯彻实施办法。<br>    <br>                     关于加快我区邮电通信发展的意见<br><br>    邮电通信是社会的一项基础设施，是生产力的重要组成部分和社会发展必要条件。为了加快发展我区邮电通信事业，适应我区经济社会发展的需要，根据“统筹规划，条块结合，分层负责，联合建设”发展邮电的方针，提出如下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>全区邮电通信建设实行分层负责的体制：国际通信、中央到省和省际的通信，由邮电部负责；区内通信建设实行自治区、地（市）、县分级负责，即南宁到地（市）和地（市）间的通信网路设施，由自治区负责；地（市）到县的通信网设施，由地（市）负责；地（市）的市内电话由自治区和地（市）共同负责；县（市）的市内电话由地（市）和县共同负责；农村电话由县（市）负责。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>各级政府要加强对邮电工作的领导，把发展邮电通信纳入地方政府议事日程，纳入社会经济发展及城乡建设总体规划。各级邮电部门要在当地政府领导下，积极主动地按照发展邮电通信，必须坚持先重点后一般，无干线后支线，先城市后乡村的原则，做好本地通信网的发展规划。邮电网点的设备、市话线路管道的建设应和市政设施同步规划、同步建设，避免重复建设，造成浪费。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>各级政府要在社会集资、银行贷款、发行债券、联合建设等方面给予政策扶持，邮电部门可按国家有关规定，采用集股、发行债券等多种办法，多渠道、多形式地筹集邮电通信建设资金。<br>    近年来各地采取支持邮电通信发展的政策措施，仍需继续执行。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>各有关部门和金融机构，应在资金、信贷、物资等方面支持邮电通信事业的发展。对邮电通信建设所需的外汇额度，要在地方留成外汇中优先安排解决。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各地、各部门应尽量利用现有邮电通信设施（军队、铁路部门除外），避免重复建设。确需建设的，要同邮电部门联合建设，实行联合投资、统一经营、利益分享、风险共担的原则。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>自建的专用通信设施要符合国家颁布的有关政策和技术标准，经邮电部门审核批准后，才能进入公用通信网。专用通信网进入公用通信网的，收取进网费。公用通信网容量不够需要扩建时，新入公用通信网的单位要分担部分建设费用。公用通信网发展或改制时，专用通信网要同步进行技术改造和建设，以适应进入国内、国际通信网的要求，保证全网通信畅通。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>鼓励各部门、企业、事业、服务业、机关团体以集资和联合建设等多种形式合作发展邮电通信，以增加全区通信能力。对投资和联合建设的单位和个人，在使用邮电通信上给予优惠。<br>    鼓励乡镇企业、集体、个人投资或集资兴办乡镇和乡镇以下的通信设施，开办农村电话交换点，承办邮政代办所，承包邮路等。谁兴办，谁受益。邮电部门要在技术、业务管理和人员培训方面予以指导和帮助。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>国家和地方重点工程项目、大型工矿企业、港口、机场、文化体育设施、大专院校等建设工程必须配套建设邮电通信设施（包括邮电局（所）、电话设施）。配套设施应列入工程建设计划，按照邮电部门的要求和技术标准进行建设。<br>    新建办公楼、高层建筑和需要安装电话的宿舍楼，在设计时应安排电话布线及电话插座。新建住宅楼房要安装与住户相对应的信报箱，列入建设总概算，并作为竣工验收项目。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>根据城市经济发展和居民的通信需要，须在城市街道和公共场所新设置邮电服务网点（包括邮亭、电话亭、报刊零售亭以及信箱、信筒等）时，城建、土地、工商等部门要给予支持。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>要认真组织贯彻《<a href=javascript:ROF(5825,0) class=alink>邮政法</a>》和《<a href=javascript:ROF(2550,0) class=alink>国务院、中央军委关于保护通信线路的规定</a>》（国发〔1982〕28）及其他有关法规，依法办邮电。除因国家安全或者追查刑事犯罪的需要，由国家安全机关、公安机关和人民检察院依照法律规定的程序检查通信外，任何部门、单位、个人不得以任何理由擅自拦截邮车、扣留邮件。任何部门、单位、个人不得损坏通信线路设备或有危害通信安全的行为，确保通信畅通。违者视情节轻重，分别给予经济处罚、行政处分，以至追究刑事责任。<br>    以上意见如无不当，请批转各地执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

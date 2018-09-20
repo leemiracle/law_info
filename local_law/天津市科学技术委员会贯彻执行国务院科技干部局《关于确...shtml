@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80203<BR>&nbsp;&nbsp;【发布文号】[1981]津科干字第9号<BR>&nbsp;&nbsp;【发布日期】1981-01-24<BR>&nbsp;&nbsp;【生效日期】1981-01-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 天津市科学技术委员会</font></p><p align='center'><font class='STitle'>（通知）<br>
+（1981）津科干字第9号</font></p>                   贯彻执行国务院科技干部局《关于确定和晋升<br>                      科技管理干部技术职称的意见》的通知<br><br>各局、区、县，各有关院、校：<br>    为了更好地贯彻国务院科技干部局一九八0年八月十四日颁发的《关于确定和晋升科技管理干部技术职称的意见》和《科技管理干部考核、晋升的业务标准条件》，现结合我市实际情况，就执行中的有关问题通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>由于在科技管理干部中确定和晋升技术职称，是一项新的工作，对准确地掌握各级技术职称的标准和各项规定，大家都缺乏经验，一下子都铺开，会产生矛盾，容易造成被动，因此，在确定和晋升技术职称中，必须从严掌握，待经过一段实践，总结了经验，再逐步扩大。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于划分确定科技管理干部的范围问题，由于各部门科技管理机构设置情况很不一样，确定科技管理干部范围不能简单的按部门来划分，具体岗位、名称也不可能一一列出。按照国务院科技干部局的规定，科技管理干部是指专职从事科学技术管理工作的干部，主要是指专职从事设计、生产、施工管理；科学研究管理；科技情报管理；科技人员管理；学术、技术交流管理等具有科技专业性质的管理干部。非科技管理工作，非专职人员，不得确定、晋升科技管理干部的技术职称。工作岗位与其他系列技术职称界限不清的，目前也暂不要按科技管理干部考核晋升技术职称。各单位可结合具体情况确定具体范围，但必须严格控制。<br>    凡在中专以上理工科学历，一直从事技术工作的技术干部，提拔到领导岗位以后，仍从事科技管理工作，可根据规定标准，经评定委员会考核评定，确定和晋升技术职称。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>必须坚持确定和晋升科技管理干部技术职称，只在具有中专毕业以上学历或原已取得技术职称的人员范围内进行。最近国务院科技干部局通知，中专以上学历是指理工科中专以上学历。“原已取得技术职称”是指一九六六年底以前取得技术职称的人员。如是文科中专以上毕业，现从事科技管理工作，评定技术职称时，应按照《说明之三》第十五条规定，除霉其工作成绩、业务能力外，还应进行必要的测验，这种“必要的测验”，主要是根据工作需要测验必要的专业技术知识，不必测验基础理论。<br>    《说明之三》第七条关于不具备规定学历确定技术职称的精神，只适用于在第一线从事技术工作的技术干部，不适用于科技管理干部。《说明之三》第八条、第九条所说的简化考核手续确认技术职称的技术九级、技术十三级技术人员，是指一九六六年底以前已经确定的国家技术九、国家技术十三级的技术人员，不是指工资额相当的或其他企业级别的人员。有的在一九六六年底以前虽然确定是国家技术九级、国家技术十三级，但不具备规定学历也没有技术职称的科技管理干部，也不适用。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>确定和晋升科技管理干部的技术职称，必须严格按照国务院科技干部局《关于确定和晋升科技管理干部技术职称的意见》和科技管理干部考核、晋升的业务标准条件》，由各级评定委员会进行考核评定。主要依据他们的工作成绩、科技管理、专业技术水平、业务组织能力。并适当考虑学历及从事科技管理工作或科技工作的资历。本人应向评定委员会提供反映自己科技知识、科技管理水平、业务组织能力的工作总结、技术报告、著作、论文等科技管理材料。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>凡是确定和晋升科技管理干部技术职称的科技干部，必须具备以上（二）、（三）、（四）条规定，缺一不可。不具备以上三条规定，而在一九六七年以后确定和晋升了科技管理技术职称，应予撤消，不得发给证书。<br>                                            天津市科学技术委员会<br>                                                一九八一年一月二十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

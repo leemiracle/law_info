@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】济宁市<BR>&nbsp;&nbsp;【发布文号】济政办发〔2003〕88号<BR>&nbsp;&nbsp;【发布日期】2003-08-01<BR>&nbsp;&nbsp;【生效日期】2003-08-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>济宁市关于印发全市政府系统电子公文传输管理暂行规定的通知<br><br></font>(济政办发〔2003〕88号)</p><br><br><br>各县市区人民政府,济宁高新区、曲阜新区管委会,市政府各部门，各大企业:<br><br>    现将《全市政府系统电子公文传输管理暂行规定》印发给你们,望 认真执行。<br>    <br><br>                                                              济宁市人民政府办公室<br>                                                              二○○三年八月一日<br><br>                      全市政府系统电子公文传输管理暂行规定<br><br>                              <font class='zhang'>第一章</font>    总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  根据国务院《<a href=javascript:ROF(6095,0) class=alink>国家行政机关公文处理办法</a>》(国办发〔2000〕23号)和《电子公文传输管理暂行办法》,为进 一步做好全市政府系统电子公文传输工作,更好地发挥政府办公网络的 作用,确保电子公文传输科学、规范和安全有效,制定本规定。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  电子公文是指各地区、各部门按照国务院《国家行政机 关公文处理办法》制发公文时形成的,并符合本规定规范格式的电子数据。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  电子公文传输指电子公文的生成、发送、签收过程。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  济宁市人民政府办公室电子政务管理科(以下简称电子政 务科)负责全市政府系统电子公文传输的管理和指导工作。各县市区政 府办公室、市政府各部门办公室(秘书科)主管本地、本部门的电子公 文传输工作。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  电子公文传输工作主管部门要建立健全电子公文办理制 度和管理岗位责任制。管理人员要有高度的责任感,认真负责,切实做到不错不漏,不迟不误,确保电子公文及时传输和办理。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  市政府办公室通过政府办公网络向联网单位发送的公文 、传真电报、便函及各县市区人民政府、市政府各部门通过政府办公 网络上报市政府的请示、报告等,一律视为正式公文,与相同内容的纸 质公文具有同等法律效力,应按有关规定程序和要求及时办理。<br><br>                            <font class='zhang'>第二章</font>    电子公文传输 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  政府电子公文传输的内容:<br><br>    (一)国务院及国务院办公厅文件;<br><br>    (二)省政府及省政府办公厅文件及传真电报;<br><br>    (三)市政府及市政府 办公室文件、传真电报、信函等;<br><br>    (四)各县市区人民政府、市政府各部 门上报市政府的请示、报告等。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  电子公文一般采用S2格式或其他指定格式。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  电子公文传输设备(联网工作站)一般包括: <br><br>    (一)计算机、打印机和网络接入设备; <br><br>    (二)联网和公文处理软件; <br><br>    (三)汉字传呼机。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  电子公文传输日常管理。<br><br>    (一)市政府办公室文秘科负责国务院、省政府、市政府文件以及 各县市区人民政府、市政府各部门上报市政府的请示、报告(非急办件 )的传输工作。<br><br>    (二)市政府办公室电子政务科负责市政府急办公文(传真电报、会 议通知等)的传输工作。<br><br>    (三)各县市区政府办公室和市政府各部门、各单位办公室(秘书科 )负责电子公文日常接收、发送和办理工作。各级政府、各部门要选配 1―2名懂技术、责任心强的人员负责政府联网工作站的管理工作;每个 工作日上、下午各联网一次,收到公文应及时签收和办理;管理人员要 随身携带传呼机并保持24小时正常开机,收到应急寻呼信息时要尽快上 网收文处理,不得延误。<br><br>    (四)电子政务科要随时监控公文传输系统运行情况;当联网工作站 出现设备和系统故障或设备配置不全、传呼欠费停机及无专人管理等 情况,造成无法正常接收公文时,应及时对该单位暂停传输,按非联网单 位发文;如10日内仍不能正常接收,将取消该单位收文用户。<br><br>    (五)不属于本规定传输范围的电子公文的传输申请,需经市政府办 公室分管领导签字同意或授权,由电子政务科按有关程序办理。<br><br>    (六)对擅自越权传输的电子文件,受文单位不予办理。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  市政府一般电子公文的传输程序。<br><br>    (一)发文前要将电子公文主要内容和受文单位进行登记;<br><br>    (二)按照技术要求对电子公文进行规范化处理;<br><br>    (三)将电子公文归档政府电子数据库;<br><br>    (四)通过政府网络向受文单位发送电子公文。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  市政府急办电子公文的传输程序。<br><br>    (一)发文前管理人员要将电子公文与纸质件进行核对,确认完整准 确无误后方可受理;<br><br>    (二)公文承办人员应认真对文件的主要内容、承办 单位及联系人和电话进行登记,发文管理人员和分管领导签字后进入发 文程序; <br><br>    (三)发文时要严格按照文件要求范围发送,并认真核对受文单位( 未联网单位由公文承办方印发纸质件);对时限在48小时内或节假日、 公休日及星期一的电子公文,要立即传呼通知受文单位尽快接收;     (四)发文后必须随时调度公文接收情况,对接收迟缓的单位要及时 传呼催办;对已到最后时限尚未接收公文的单位要进行登记,并尽快通 知公文承办单位采取补救措施;<br><br>    (五)急办公文接收的最后时限,县市区为电文时限前2小时,市直单 位为电文时限前半小时;     (六)发文管理人员对特殊相关事宜,应及时报告科室领导并妥善处理。<br><br>                            <font class='zhang'>第三章</font>    通信和技术保障<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  政府电子公文传输必须在政府办公网络电子邮件系统 平台上进行,使用市政府统一配置的办公应用软件和相关程序;市政府 办公室按照统一规范为联网单位配置公文收发专用邮箱。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  各县市区政府,市政府各部门、各单位要加强对政府通 信平台、传输网络及电子公文收发设备的管理,充实技术力量,提供资 金支持;对电子公文传输系统出现的故障要及时处理,确实无法修复时 ,应采取必要的应急措施,并报告电子政务科。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  电子政务科要根据电子公文传输工作实际需要,做好联 网工作站管理人员的技术培训工作,不断提高管理人员的技术水平和操 作能力,确保电子公文传输工作健康发展。<br><br>                              <font class='zhang'>第四章</font>    安全保密 <br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  各县市区政府,市政府各部门、各单位在电子公文传输 工作中要严格遵守国家保密制度,密级以上文件不得在计算机网络上传输。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  电子公文一般不得加电子公章,确需时,要进行加密处理。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  要妥善保管联网软件和操作说明,不得复制或借给他人 ,电子公文传输系统用户密码应定期更换,并严格保密。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  用于电子公文传输的计算机必须专机专用,不得与国际 互联网联接,未经批准也不得与其他网络相连接。联网工作站要安装防 病毒软件,随时对数据盘进行杀毒。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  电子公文的归档应按照国家档案部门的有关规定办理 。<br><br>                                    <font class='zhang'>第五章</font>    检查指导 <br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  电子政务科定期对各单位电子公文传输工作进行检 查指导,重点检查制度建设、设备配置、人员管理、安全措施等,对不 符合要求的限期整改。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  实行电子公文接收情况月通报制度,对未按时接收公 文的单位给予批评,对因主观原因殆误工作的严肃处理。<br><br>                                    <font class='zhang'>第六章</font>    其他 <br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  各县市区政府、市政府各部门在本地区或本系统内 开展电子公文传输工作参照此规定执行。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  本规定由市政府办公室负责解释。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  本规定自发布之日起执行<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】83103<BR>&nbsp;&nbsp;【发布文号】重档联发[1986]8号<BR>&nbsp;&nbsp;【发布日期】1986-06-12<BR>&nbsp;&nbsp;【生效日期】1986-06-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>重庆市经委<br>
+ 重庆市档案局文件<br>
+ </font></p><p align='center'><font class='STitle'>（重档联发〔1986〕8号）</font></p>                    转发《国家经委、国家档案局关于做好技术<br>                  改造和技术引进中档案资料工作的通知》的通知<br><br>市级各有关单位，区县经委、档案局：<br>    现将国家经委、国家档案局《关于做好技术改造和技术引进中档案资料工作的通知》转发给你们，请遵照执行。<br>    通知中提到的在技术改造和技术引进工作中不重视档案资料工作的种种情况，在我市都有不同程度的表现，应该引起各级领导的高度重视。请各单位在收到通知后，立即对本企业、本系统的技术改造和技术引进的档案资料工作全面检查一次。切实加强对该项工作的领导，保证在技术改造和技术引进工作中同时做好档案资料的收集整理工作，把技术改造和技术引进中形成的大量档案资料集中管理好，并发挥其社会、经济效益。<br>                                                      重庆市经济委员会<br>                                                        重庆市档案局<br>                                                    一九八六年六月十二日<br>                                   国家经委<br>                                国家档案局文件<br>                         （国档联发〔1986〕4号）<br><br>                关于做好技术改造和技术引进中档案资料工作的通知<br><br>各省、自治区、直辖市、计划单列市、沿海开放城市经委、档案局，国务院有关部门：<br>    根据《中共中央关于制定国民经济和社会发展第七个五年计划的建议》，加强对现有老企业技术改造和运用先进技术武装国民经济各部门，是我国“七五”期间经济建设的重要方针之一。在技术改造、技术引进以及对引进技术的消化、吸收，以至同外商洽谈与交涉解决有关技术经济纠纷等工作中，档案资料发挥着重要的凭证依据作用。积累和管理好档案资料，既是当前生产建设的需要，又是国家长远建设的需要。各地区、各部门及企业各级领导，应当把做好技术改造和技术引进中的档案资料工作，摆到议事日程上，作为贯彻上述方针不可缺少的重要一环，抓紧抓好。<br>    相当长一段时间以来，一些单位不重视技术改造、技术引进中的技术档案工作，给正常生产带来了困难，给国家造成了经济损失。有的单位引进的技术资料被个人据为已有，不落不明；有的单位档案资料在机构变动中被分散，不能成龙配套；有的工程竣工后，大量档案资料被施工单位带走；有的企业在技术改造中缺乏过去的档案资料作依据，盲目施工，造成返工和浪费。这种档案资料丢失、损坏、散乱、不全的混乱状态，与现代化生产、管理的要求极不适应。这种局面必须予以改变。<br>    为了加强现有企业技术改造和技术引进中的技术档案资料工作，根据国务院批准的《<a href=javascript:ROF(1679,0) class=alink>科学技术档案工作条例</a>》的要求，特作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>技术档案资料管理是企业现代化管理的重要内容之一。凡进行技术改造和技术引进的企业，应自始至终地做好技术档案资料的管理工作，保证技术档案资料的完整、准确和安全。各企业要有一位副厂长（副经理）分工管这项工作，加强对这一工作的领导。重要档案资料如有丢失或严重损坏，要追查有关干部的责任，并视其情节予以严肃处理。请各地经委和国务院有关部门加强督促检查工作。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>企业在技术改造和技术引进中形成的各种技术档案资料，都应分期分批地向企业档案部门移交，统一管理，不得散失。技术改造项目完成，进行竣工验收时，要同时验收竣工资料和有关档案资料的归档工作；出国学习、考察和谈判人员回国后，应把外商或对方提交的各种资料主动向档案部门登记或归档。对归档不合格的企业，上级主管机关和档案管理机关应责成其限期完成。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>进行技术改造的企业档案部门，应主动及时做好提供档案资料的工作，设计和施工部门应事先充分查阅有关档案资料，以减少设计和施工中的盲目性，避免造成返工和浪费。对于主动提供或使用档案资料，并在技术改造和技术引进工作中发挥了明显经济效益的档案部门或工程技术人员，企业应给予表扬或奖励。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>进行大规模技术改造的国家和省（市）重点企业，应适当开展档案资料管理方面的技术改造，新建档案资料库房，置换现代化管理设备等，使档案资料管理现代化与企业管理现代化同步进行。所需资金，可以纳入企业技术改造总预算一并上报。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各级档案管理机关和各部门档案机构，应加强对企业技术改造和技术引进档案资料工作的业务指导和监督检查工作，必要时可进行通报表扬或批评，务使企业做好这项工作。<br>                                                            国家经委<br>                                                            国家档案局<br>                                                      一九八六年四月一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81606<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1988-12-01<BR>&nbsp;&nbsp;【生效日期】1988-12-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 郑州市技术合同仲裁委员会办案暂行规则<br>
+ </font></p><p align='center'><font class='STitle'>（一九八八年十二月一日）</font></p>    为了认真贯彻中华人民共和国《<a href=javascript:ROF(6520,0) class=alink>技术合同法</a>》和《<a href=javascript:ROF(7559,0) class=alink>技术合同管理暂行规定</a>》，正确处理技术开发、技术转让，技术咨询、技术服务合同争议纠纷，维护技术合同当事人的合法权益，特制定本规则。<br><p class='zhang'>  第一章  申诉与受理</p><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>：仲裁申请。当事人申请仲裁应当向本仲裁机关递交申请书，并附仲裁协议，申请书应当按照被诉人数提交副本。<br>    申请书应当写明下列事项：<br>    1、申诉人的名称或者姓名、地址、电话，申诉人是法人的，应写明法定代表人的姓名，职务；<br>    2、被诉人的名称或者姓名、地址、电话，被诉人是法人的，应写明法定代表人的姓名，职务；<br>    3、申请的理由（事实和经过）和要求；<br>    4、证据、证人姓名和地址、电话，并附有原技术合同副本，来往信件、单据，有关技术资料和技术评价鉴定文件等。委托代理人申请仲裁的，应有授权委托并注明代理期限。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>：案件的受理<br>    1、受理仲裁案件应同时具备以下两个条件：<br>    （1）争议双方在技术合同中有仲裁约定，或事后达成了仲裁协议，局面约定将技术合同争议提交本仲裁机关进行仲裁。<br>    （2）争议双方中一方向本仲裁机关提出仲裁申请。<br>    2、本仲裁机关不受理下列案件：<br>    （1）原技术合同中没有仲裁约定，事后又没有达成仲裁协议。<br>    （2）约定仲裁的机关不是本机关；<br>    （3）超过技术合同争议的诉讼时效和申请仲裁有效期限。（有效期限为一年，自当事人得知或者应当得知其合法权益受到侵害之日起计算。）<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>：立案<br>    本仲裁机关收到申请书后，经审查符合受理条件的，应当在七天内立案，并通知申诉方按争议技术合同金额的比例予交案件受理费。不符合受理条件的，应在七天内通知申请人不予受理并说明理由。<br><p class='zhang'>  第二章  庭审准备</p><br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>：仲裁庭组成或独任仲裁员的确定。<br>    本机关受案后，仲裁委员会主任或者副主任认为核案件可以使用简易程序时，可确定独任仲裁员人一人对案件进行仲裁。不宜使用简易程序时，应指定首席仲裁员一人和仲裁员二人组成仲裁庭进行仲裁。被指定的仲裁员认为办案不适宜时，应当自行提出回避，当事人发现仲裁人员与本案有利害关系，有权申请他们回避。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>：本仲裁机关受案后，应当在五日内将申诉书副本发送被诉人，通知其在收到申诉书副本之日起十五日内提交答辩书和有关证据，提交法定代表人证明书或者代理人委托代理书、被诉人没有按时提交答辩书的，不影响案件的处理。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>：调查取证<br>    办案人员应当认真审阅申诉书、答辩书和所提供的技术资料及有关证据。弄清争议的焦点，理顺经济技术关系，确定需要调查的问题，拟定调查提纲，进行调查研究收集证据。<br>    证据主要包括：一、书证。二、物证。三、视听资料。四、证人证言。五、当事人的陈述。六、鉴定结论。七、勘验笔录等。以上证据必须经过查证属实，才能作为认定事实的根据。调查取证应当有两名工作人员进行。<br>    本仲裁机关可以委托有关单位作技术评价和鉴定，直至查清技术合同争议发生的时间、地点、原因、经过、结果、当事人的过错和责任。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>：办案人员在调查取证的基础上，对案件事实是否清楚，证据是否完备，责任是否明确，适用何种法律、行政法规政策等应进行认真的讨论研究，疑难案件及诉讼金额在十万元以上的案件应先提交技术合同仲裁委员会讨论研究。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>：为避免造成严重的损失，本机关可以根据当事人的申请，做出保全措施的裁定，保全措施仅限于中止合同的履行，查封或扣压技术文件、资料。本仲裁机关决定采取保安措施时，可以令申请人提供担保，拒绝提供的，本机关可以驳回申请。采取保全措施时应制作裁定书。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>：调解<br>    对技术合同争议案件查明事实，分清责任后，应先对当事人进行法律、政策教育，对合同争议进行调解，尽可能使争议双方互相谅解，达成协议，调解达成的协议应制作调解书。调解书应写明当事人的名称或者姓名、地址、电话，当事人是法人的应写明法定代表人的姓名和职务；合同争议的主要事实、责任、协议的内容和有关费用的承担。调解书由当事人签名、盖章，仲裁员、书记员署名，报经技术合同仲裁委员会批准，加盖仲裁机关公章。<br><p class='zhang'>  第三章  庭审</p><br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>：本仲裁机关对技术合同争议案件调解不成，或不调解书送达前，一方或双方当事人翻悔的，本机关将开庭仲裁。<br>    仲裁开庭前，应拟好详细的庭审提纲，并将开庭时间、地点、以书面方式通知当事人人，当事人经二次通知，无正当理由拒不到庭的，仲裁庭可以缺席进行仲裁。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>：本机关受理技术合同争议案件，一般不公开。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>：仲裁庭开庭时，书记员应查明当事人和其他诉讼参加人是否到庭，宣布庭审纪律，并向首席仲裁员报告仲裁庭准备就绪。<br>    仲裁庭纪律：一、当事人应服从仲裁庭的呼唤和询问；二、当事人陈述事实、辩论问题，要实事求是，文明礼貌，非经首席仲裁员允许不得发言。三、未经仲裁庭允许不准录音、录像和摄影，不得随意退出仲裁庭。四、不得大声喧哗，不准鼓掌、呼号，对仲裁活动有意见，可在闭庭后又口头或书面方式向仲裁委员会反映。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>：首席仲裁员核对当事人身份和代理权限：公布案由宣布仲裁员、书记员名单，告知当事人的诉讼权利和义务，询问当事人是否回避，如果当事人不申请回避，即可开庭审理；如果当事人申请回避，可宣布休庭，待查明原因后，再做处理，首席仲裁员的回避由仲裁委员会决定，仲裁员的回避由仲裁委员会主任或副主任决定。书记员、翻译人员的回避，由仲裁庭或独任仲裁员决定。<br>    一、当事人的诉讼权利：<br>    1、有申诉、答辩、反诉和变更诉讼请求的权利；<br>    2、有委托律师和其他人代为诉讼、申请回避的权利。<br>    3、有申请保全的权利以及使用本民族语言文字的权利。<br>    二、当事人的诉讼义务：<br>    1、有遵守仲裁程序的义务。<br>    2、有如实陈述案情，实事求是地提供证据的义务。<br>    3、有按规定交纳仲裁费以及自动履行文书的义务。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>：仲裁庭应当认真听取申诉人的申诉和被诉人的答辩，并就当事人争执的焦点进行询问，以查清事实。<br>    庭审时，申诉人增加诉讼请求，被诉人提出反诉，第三人提出与本案有关的诉讼请求，可以合并审理。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>：在审理案件中发现无效技术合同或利用技术合同进行违法活动的，应当终止仲裁程序，转交工商管理部门处理。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>：仲裁庭可就当事人争议的事实出示书证、物证和视听资料等给当事人辩认。<br>    宣读勘验、鉴定结论。<br>    根据需要可通知证人出庭作证。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>：庭审调查结束后，当事人进行辩论、辩论时，首席仲裁员应引导当事人将辩论集中在案件必须解决的问题上。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>：辩论结束后，由首席仲裁员依申诉人、被诉人的顺序征询双方最后意见，再进行调解。调解达不成协议的，由仲裁庭评议后裁决。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>：仲裁庭评议案件，实行少数服从多数的原则。评议中的不同意见应如实记入笔录。评议笔录由仲裁庭成员、书记员签名。疑难案件或诉讼金额在十万元以上的案件还可提交仲裁委员会讨论决定。仲裁委员会的决定，仲裁庭必须执行。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>：书记员将庭审的全部活动记入笔录，经首席仲裁员核准后，由当事人签名，拒绝签名的，应当记录在案。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>：案件审理终结后，承办人应当制作裁决书，填写结案审批表，写出结案报告，报请技术同仲裁委员会审批，仲裁决定应包括以下内容：<br>    1、申诉人和被申诉人的名称或姓名、地址、电话。法定代表人或者代理人的姓名、职务、电话；<br>    2、申请的理由，争议的事实和要求；<br>    3、裁决认定的事实和理由，适用的法律和裁决的结果；<br>    4、仲裁费用的负担（参照经济合同仲裁收费标准和使用范围执行）。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>：仲裁庭评议后，可以当庭口头宣布裁决结果；闭庭后十日内将裁决书送达当事人；定期公布裁决结果的，公布后应立即将裁决书送达当事人。<br>    宣布裁决时，应当告知当事人：本仲裁机关的裁决是终局裁决，当事人在规定的期限内必须履行，当事人一方在规定的期限内不履行仲裁决定的，另一方可以申请人民法院强制执行。<br><p class='zhang'>  第四章  简易程序</p><br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>：本机关对于事实清楚、情节简单、争议不大的技术合同争议案件，可以适用简易程序。<br>    实行简易程序，可以指定一名仲裁员或派出仲裁员就地审理。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>：实行简易程序，首先要进行调解，调解不成时再行裁决。但调解书或裁决书必须经仲裁委员会指定的仲裁员审核签名，报技术合同仲裁委员会审批盖章。调解书或裁决书送达后即发生法律效力。<br><p class='zhang'>  第五章  送达</p><br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>：仲裁文书应当直接送达当事人，直接送达有困难的可以挂号邮寄送达，但当事人必须在送达回证上签名盖章后退还本仲裁机关，当事人在回证上的签收日期为送达日期。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>：当事人拒绝接收调解书的，视为翻悔。当事人拒绝接收保全裁定书或仲裁决定书的，送达人应当邀请有关组织代表或他人到场，说明情况，在送达回证上注名拒收理由和日期，由送达人、见证人签名或盖章，把仲裁文书留在当事人单位或住处，即视为送达。<br>    属个体或合伙性质的单位，当事人不在的，可交他的同住成年家属或者指定代收的人签收。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>：受送达人下落不明或者用本办法第二十五条规定的方式无法送达的，可公告送达自发出公告之日起，经过三个月，即视为送达。公告送达应当在案卷中记明原因和经过。<br><p class='zhang'>  第六章：仲裁监督</p><br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>：争议合同当事人认为本仲裁机关已发生法律效力的仲裁确有错误，可以申请复议一次。复议期间不影响原裁决的执行。如果其它组织或个人发现已生效的仲裁文书确有错误，可以向仲裁委员会提出建议，非经法定程序，任何组织或个人都无权改变仲裁文书。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>：仲裁委员会主任、副主任对本委员会已发生法律效力的裁决，发现确有错误，需要重新处理时，可以提交仲裁委员会讨论决定；本仲裁委员会委员中有半数以上成员提出本委员会已发生法律效力的裁决确有错误的，应报告主任或副主任批准重新组成仲裁庭伸仪。<br><p class='zhang'>  第七章  归档</p><br><p></p><a name='30'><font class='TiaoNoA'>  第三十条</font></a>：案件处理终结后，书记员应按时间顺序将案件审理中形成的档案材料装订成册归档，并妥善保管。<br>    案卷分正卷和副卷装订；<br>    正卷包括：申诉书、答辩书、法定代表人证明书、委托代理书、技术合同书（副本）、调查证据、勘验笔录、鉴定结论、谈话笔录、保全措施、庭审笔录、调查笔录、裁定书、调解书和仲裁书、送达回证等。<br>    副卷包括：立案审批表、调查提纲、庭审提纲、阅卷笔录、汇报笔录、请示报告、上级批示、内部联系笔录、仲裁委员会讨论笔录、仲裁庭评议笔录、结案审批表、裁定书、调解书、裁决书底稿、结案报告等。<br><p class='zhang'>  第八章  回访</p><br><p></p><a name='31'><font class='TiaoNoA'>  第三十一条</font></a>：案件审理终结后，应当有重点地进行回访，听取当事人的意见，检查办案效果，总结办案经验，提高办案质量。<br><p class='zhang'>  第九章  附则</p><p></p><a name='32'><font class='TiaoNoA'>  第三十二条</font></a>：本办法自发布之日起执行。<br><p></p><a name='33'><font class='TiaoNoA'>  第三十三条</font></a>：本办法如与国家有关规定不符时，按国家规定执行。<br><p></p><a name='34'><font class='TiaoNoA'>  第三十四条</font></a>：本办法由郑州市技术合同仲裁委员会解释。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

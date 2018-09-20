@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82602<BR>&nbsp;&nbsp;【发布文号】甘政发[1985]114号<BR>&nbsp;&nbsp;【发布日期】1985-06-17<BR>&nbsp;&nbsp;【生效日期】1985-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 甘肃省关于征收超标排污费的若干规定<br>
+</font></p><p align='center'><font class='STitle'>（1985年6月17日甘政发〔1985〕114号）</font></p>    为了强化环境管理，进一步搞好征收超标排污费工作，根据国务院国发〔1982〕21号文“关于发布《征收排污费的暂行办法》的通知”和国家城乡建设环境保护部、财政部〔84〕城环字第453号文“关于印发《征收超标排污费财务管理和会计核算办法》的通知”（以下简称《办法》）精神，结合我省实际，制定本规定。<br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  我省征收超标排污费工作按排污单位的隶属关系，分别由省、地（州、市）、县三级管理，由地、县两级具体实施征收，省环保部门负责统一领导。<br>    地（州、市）属及其以上排污单位（包括中央、省属、外省驻甘单位和部队），原则上由所在地（州、市）环保部门负责收费。<br>    县（区）属及其以下的排污单位（包括城镇企业、乡镇企业、个体户等）由县（区）环保部门负责收费。<br>    县（区）没有环保机构或人员的，由地（州、市）环保部门直接征收。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  征收超标排污费，一律使用统一印制的《甘肃省征收排污费通知单》（即五联单），原《甘肃省征收排污费交款单》（即六联单）同时废止。各级环保收费部门应在当地人民银行开立“征收超标排污费专户”。超标排污单位应在接到缴费通知单后按规定的日期和数额，向环保部门指定的开户银行的“征收超标排污费专户“缴款并及时回报有关环保部门，逾期不缴的，每日增收千分之一的滞纳金。地（州、市）、县（区）环保部门应在每月十日前，将上月征收的排污费按隶属关系转交入上级环保部门开户银行的“征收超标排污费专户”。省、地、县环保部门应按月用金库缴款书将已征得的排污费悉数解缴同级财政。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  征收超标排污费应以地方排放标准为准。在我省未颁布地方排放标准以前，仍按国家《工业“三废”排放试行标准》及《放射性防护规定》等标准执行。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  除第三条所述标准中规定的项目外，增加对废水中色度、放射性物质、甲醛、镍及其化合物、细菌、病原菌及废气中沥清烟等项目的收费。有关排放标准及收费标准，由省环保局会同有关部门制定下发执行。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  对缴纳超标排污费后仍未达到排放标准的排污单位，从开征第三年起，每年提高征收标准百分之五。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  有下列情况之一的，应视情节和危害程度，增收一倍至二倍的排污费，也可实行补偿性罚款。<br>    （一）没有执行“三同时”规定，有污染物处理设施而不运行或擅自拆除，排放污染物又超过标准的；<br>    （二）排放非正常高浓度污染物或不按国家和地方环保部门有关规定排放、贮存、弃置、倾倒污染物的；<br>    （三）超标排放影响当地环境突出的污染物，如排入黄河兰州段的石油类物质，排放兰州市大气中的烟尘等；<br>    （四）有意隐瞒、伪造、拒报排放污染物种类数量和浓度，妨碍征收工作正常开展的。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  提高征收标准费、加倍收费、滞纳金和补偿性罚款等不得计入成本，由排污单位自留资金中支付。这一部分资金亦应按隶属关系随超标排污费全部缴入相应环保部门的征收超标排污费专户，并悉数解缴同级财政，单独立帐。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  环境保护补助资金的使用。<br>    缴入各级财政的排污费，分别纳入各级财政预算，不参与体制分成，作为各级环境保护补助专项资金。省级环境保护补助资金的使用原则及方法如下：<br>    （一）污染源治理补助费，主要用于补助缴费单位治理污染源。数额不超过其缴纳排污费总额的80％（在兰州市的单位分出20％集中用于区域性综合治理）。具体方法是：缴费单位提出治理方案向主管部门申请，由主管部门审查汇总，提出项目安排计划。经省环保局和财政厅会签下达。可一次拨入省级主管部门在建设银行开立的环保补助资金专户，也可分别拨入污染源治理单位在当地建设银行的专户。污染源治理项目应实行责任制（合同制），有奖有罚。省环保局可从提高收费标准、加倍收费、滞纳金和补偿性罚款部分，提取少量资金用于环保业务活动补助费或对污染源治理单位的奖励。<br>    中央、部队、外省驻甘单位在甘肃没有相应主管部门的，可直接向省环保局申请，由省环保局审查汇总后会同省财政厅下达执行。<br>    （二）环境保护补助资金除污染源治理补助费外的其余部分和提高征收标准、加倍收费、滞纳金、补偿性罚款部分，由省财政厅根据环保部门的业务进度和用款计划，一次或按季拨给省环保局，由省环保局按规定的用项拨给用款单位。拟补助给地（州、市）环保部门的部分，应由地（州、市）环保部门向省环保局提出申请，经审核后，会同省财政厅联合下达。<br>    （三）以上各项费用，严格按照《办法》第五条规定执行，不得挪用、占用。各级财政部门应加强监督检查，各级环保部门要主动接受检查。并按照《办法》规定的财务管理和会计核算办法填报有关报表。抄送同级财政部门。<br>    地（州、市）可参照上述规定，拟定地（州、市）级、县（区）级环境保护补助资金的使用办法。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  为切实收好、管好、用好排污费，必须建立健全各级排污收费监理所（站），在不增加行政、事业编制的情况下，人员由各地自行调剂解决或实行招聘，人员经费应由地方事业费中解决，不足部分，从环境保护补助资金中给予适当补助。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  征收超标排污费工作要建立岗位责任制，定期考核，建立切实可行的奖罚制度。具体办法由省环保局另定。<br>    本规定由省环保局负责解释并组织实施，自1985年7月1日起执行。过去规定中与本规定不符的，以本规定为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

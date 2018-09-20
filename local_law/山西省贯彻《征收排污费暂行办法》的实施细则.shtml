@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80402<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1985-05-16<BR>&nbsp;&nbsp;【生效日期】1985-05-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 山西省贯彻《征收排污费暂行办法》的实施细则<br>
+ </font></p><p align='center'><font class='STitle'>（1985年5月16日晋政发〔1985〕51号）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  根据国务院颁发的《<a href=javascript:ROF(2226,0) class=alink>征收排污费暂行办法</a>》，结合我省实际情况，特制定本细则。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  凡在我省辖区内的全民、集体以及乡、镇、街道企、事业（包括联营户、专业户、个体户）单位，排放污染物超过《工业“三废”排放试行标准》等有关规定的，一律征收排污费。对采暖锅炉要收取烟尘排污费。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  排污费征收标准，除按《<a href=javascript:ROF(2226,0) class=alink>征收排污费暂行办法</a>》的附表规定执行外，根据我省的环境特征，对煤矸石、土焦、土硫磺征收排污费。<br>    煤矿堆放的煤矸石，已自燃的，每排放二氧化硫一公斤，收费零点零四元，无专用堆放场所或超越堆放范围，任意堆放煤矸石，每吨一次性征收排污费零点三元。<br>    每炼一吨土焦收费五元。每炼一吨土硫磺，按销售价的百分之十收取排污费。严禁在名胜古迹、自然保护区、风景游览区、水源保护区、温泉、疗养区以及城镇近郊和人口稠密区炼土焦、土硫磺。在公路干线、铁路两旁、河流沿岸、林区等三公里范围内炼土焦、土硫磺，要按征收标准的三倍至五倍收费。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  排污单位缴纳排污费后，并不免除其承担污染治理、赔偿损害和法律规定的其他责任。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  排污费按月征收。排污单位每月应按国家规定的统一监测方法如实向当地环保部门申报，登记排放污染物的种类、数量和浓度。监测手段不完备者，可采用物料衡算方法提供数据，经环保部门或其指定单位核实后，作为收费的依据。如限期内不报，按环保部门的监测数据征收。排污单位申报的数据，如与环保部门复核实查数据不符，按环保部门的数据缴纳排污费。如排污单位有异议，可提请上一级环保部门或双方共同委托监测单位复核裁定。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  排污单位所排放的污染物，在同一排污口含两种以上有害物质时，应按最高一种计算排污费。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  排污单位有下列情形之一者，应加倍征收排污费：<br>    1、《<a href=javascript:ROF(10121,0) class=alink>中华人民共和国环境保护法</a>（试行）》公布后，竣工投产的新建、改建、扩建工程和技术改造工程排放污染物超标者；<br>    2、国家或地方确定限期治理项目，无正当理由逾期未能完成，排放污染物超标者；<br>    3、在划定的水源保护区、居民稠密区、名胜古迹、风景游览区、自然保护区超标排放者；<br>    4、有污染处理设施而不运行或擅自拆除设施，排放污染物超标者；<br>    5、伪造隐瞒排放污染物数量或监测数据者；<br>    6、采用渗井、渗坑、裂隙、溶洞排放有毒有害污染物者。<br>    凡属4、5、6项情况之一，除对排污单位加倍征收排污费外，并对作出决定的领导人和责任者扣罚当月百分之二十的工资和全部奖金。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  排污单位有下列情形之一者，应实行罚款：<br>    1、排污单位排放污染物，引起污染事故，危害人体健康，造成经济损失者；<br>    2、建设项目违反“三同时”规定，擅自投产，“三废”排放超标者，除加倍征收排污费外，对造成污染事故的，还应进行一次性罚款。<br>    罚款不足二万元，由当地环保部门决定；罚款二万元，不足四万元，由所在地、市环保部门决定，并报省环保局备案；罚款四万元以上，由省环保局批准。<br>    罚款由环保部门按规定安排使用，受同级财政部门监督。对省营以上企业的罚款，百分之六十交省环保局，百分之四十留当地环保部门。如对罚款有异议，可由上一级，环保部门仲裁或提请经济法庭裁决。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  排污单位不积极进行污染源治理，未达到排放标准，从征收排污费的第三年起，每年提高征收标准的百分之五。排污单位经过治理和加强环境管理，减少排污量或达到排放标准者，可向当地环保部门申请，经监测核实后，减征或不征收排污费。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  地、市营以上单位的排污费，由所在地、市环保部门征收。有条件的县（市、区）除征收县（市、区）以下单位的排污费外，也可以征收地、市营以上单位的排污费。对无监测条件的县（区），暂由地、市环保部门征收。<br>    排污单位接到征收排污费通知单后，应在二十日内将排污费直接交征收部门指定的开户银行。逾期不交者，每天加收滞纳金千分之一；逾期两个月不交，由环保部门通知排污单位的开户银行，连同滞纳金一并从排污单位存款中扣留。如对缴款金额有异议，由环保部门和排污单位协商解决，解决不了的可提请经济法庭裁决。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  企业缴纳的排污费，从生产成本中列支，提高征收标准部分，全民所有制企业在利润留成或企业基金中列支；集体所有制（包括乡、镇）企业，在缴纳所得税后从利润中列支。事业单位缴纳的排污费，从单位包干经费和预算外资金中开支。<br>    污染造成的罚款，由企业基金中支付，不得摊入成本。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  各级人民政府应健全环境保护机构，配备熟悉业务的排污收费监理人员和会计，负责收费工作。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  排污费的使用：各地、市、县（区），将所收排污费总额的百分之八十，按企业的隶属关系安排交费单位治理污染源。其中省营以上企业的排污费交省财政，由省主管厅（局）提出安排意见，征得省环保局和财政厅同意后使用；地、市营企业缴纳的排污费，交地、市财政，由地、市主管部门提出安排意见，征得环保部门和财政部门同意后使用。县营以下企业缴纳的排污费，由县环保部门和财政部门安排。其余百分之二十属县（区）征收的，百分之八归县环保部门掌握使用；百分之七交地、市财政，由地、市环保部门掌握使用；百分之五上缴省财政，由省环保局掌握使用；属地、市征收的，除百分之五缴省财政，由省环保局掌握使用外，其余百分之十五留地、市财政，由地、市环保部门使用。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  太原市征收的排污费，除收费总额的百分之五缴省财政，由省环保局安排外，其余由市安排。其中向省营以上企业征收的排污费的百分之八十应安排给缴费企业治理污染。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  各级环保部门掌握的环保补助资金应按城乡建设环境保护部和财政部（84）城环字第453号文件印发的《征收超标排污费财政管理和会计核算办法》执行。各级环保部门于每月十日前将上月所缴排污费如数按规定分别缴各级金库，逾期由银行扣缴。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  各级环保部门和财政部门，都要认真执行征收排污费和管好用好环境保护补助资金的有关规定，违者按其情节轻重，追究当事人和领导人的责任。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  本细则自颁布之日起施行，由省城乡建设环境保护厅环境保护局负责解释。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

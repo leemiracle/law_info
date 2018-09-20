@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82305<BR>&nbsp;&nbsp;【发布文号】昆政复[1995]34号<BR>&nbsp;&nbsp;【发布日期】1995-07-10<BR>&nbsp;&nbsp;【生效日期】1995-07-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>昆明市计算机信息系统安全监察暂行办法<br>
+ </font></p><p align='center'><font class='STitle'>（1995年7月10日市政府<br>
+ 以昆政复〔1995〕34号文批复同意）</font></p><p class='zhang'>                            第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为加强计算机信息系统的安全，促进计算机的应用和发展，保障社会主义现代化建设的顺利进行，依据《<a href=javascript:ROF(19079,0) class=alink>中华人民共和国计算机信息系统安全保护条例</a>》，结合昆明市实际，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  本办法所称的计算机信息系统，是指由计算机及其相关配套设备、设施（含网络）构成的，按一定的应用目标和规则对信息进行采集、加工、存储、传输、检索等处理的人机系统。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  本办法所称的计算机信息系统安全专用产品，是指用于保护计算机信息系统安全的专用硬件和软件产品。<br>    本办法所称的计算机病毒，是指编制或者在计算机程序中插入的破坏计算机功能或者毁坏数据，影响计算机使用，并能自我复制的一组计算机指令或代码。<br>    本办法所称的计算机犯罪，是指针对计算机硬件和软件的盗窃、破坏行为，或利用计算机或计算机知识窃取公私财产、情报数据和制造计算机病毒的行为。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  计算机信息系统的安全保护，应当保障计算机及其相关的和配套的设奋、设施（含网络）的安全，运行环境的安全，保障信息的安全，保障计算机功能的正常发挥，以维护计算机信息系统的安全运行。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  计算机信息系统的安全保护工作，重点维护国家事务、经济建设、国防建设、尖端科学技术等重要领域的计算机信息系统的安全。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  本办法适用于昆明市行政区域内的计算机信息系统的安全保护。<br><br><p class='zhang'>                       第二章  组织机构及职责</p><br><br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  昆明市公安局主管昆明地区计算机信息系统的安全监察工作，其日常办公机构设在昆明市公安局计算机安全监察处，负责计算机安全监察的具体工作。各县区公安机关根据实际相应设立计算机安全监察机构，负责本县区的计算机信息系统的安全监察工作。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  市、县区公安机关计算机安全监察机构的职责是：<br>    （一）对建立和应用计算机信息系统的单位和个人，依照本办法的规定进行计算机安全监察工作。<br>    （二）审核计算机系统和计算机站场的设计和执行规范。<br>    （三）审核发放计算机安全信息系统安全专用产品的经营许可证。<br>    （四）培训计算机安全管理人员，开展计算机安全宣传教育，组织计算机安全学术交流。<br>    （五）侦破和查处计算机犯罪案件。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  建立和应用计算机信息系统的单位，应设立由分管领导、内部保卫和计算机技术部门组成的计算机安全管理组织，并指定专职或兼职安全管理人员，履行下述安全管理职责：<br>    （一）配合和接受公安计算机安全监察机构对计算机安全监察工作的指导和<br>监督。<br>    （二）制定本单位的计算机信息系统安全管理规章制度，并严格执行。<br>    （三）协助公安计算机安全监察机构侦破、查处计算机犯罪案件。<br><br><p class='zhang'>                          第三章  监察管理</p><br><br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  建立和应用计算机信息系统的单位所配备的专职或兼职计算机安全管理人员，须经昆明市公安局计算机安全监察处进行计算机安全管理培训，并持有计算机安全监察机构发给的《计算机安全管理员合格证》。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  拥有计算机信息系统的单位须将本单位机房规模、计算机配置的规模、应用范围、管理规章制度等有关文档资料报当地公安计算机安全监察机构审核备案，并持有计算机安全监察机构发给的《计算机系统安全许可证》后，方可投入应用。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  计算机系统运行后，机房规模、计算机配置的规模，应用范围和规章制度有变动的，或者进行国内、国际联网的计算机系统，计算机使用单位须及时到当地公安安全监察机构重新备案。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  计算机应用单位在购置、使用计算机时，必须配备昆明市公安局计算机安全监察处认可的防病毒或检测、清除病毒的工具。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  公安计算机安全监察机构发现计算机信息系统有不安全因素，应及时向有关单位发出限期整改的通知或提出停机整顿的建议。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  新建、改建、扩建计算机场、站，必须遵照《电子计算机系统安全规范》、《计算站场地技术要求》（ＧＢ2887－89）、《计算场地安全要求》（ＧＢ9361－88）的规定，并报经当地公安计算机安全监察机构审核同意，方可进行新建、改建、扩建工程。对擅自进行新建、改建、扩建计算机场、站的，经发现后，由公安计算机监察机构会同规划或城建部门做出停止施工的决定。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  在公安计算机监察机构确定的重要计算机场、站附近进行的工程施工或设备运转，不得危害计算机信息系统安全；对产生危害作用的，由公安计算机监察机构会同规划或城建部门做出停止工程施工或拆除设备的决定。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  任何单位和个人发现计算机犯罪行为和现象，包括政治性、黄色病毒及其它可能对社会或计算机系统有严重危害的，应保护好现场，并在24小时内向县级以上公安计算机安全监察机构报案。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  未经公安计算机安全监察机构批准，任何单位和个人不得从事下列活动：<br>    （一）收集、研制、宣传或变相宣传计算机病毒，组织计算机病毒研讨会等。<br>    （二）编辑、出版、印制、销售、出租计算机病毒机理、计算机病毒源程序的书籍。<br>    （三）生产、销售、复制、交换计算机病毒检测、清除工具。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  经营（含出租）计算机信息系统安全专用产品的单位和个人，必须向当地公安计算机安全监察机构提出申请，经当地公安计算机安全监察机构审核合格并发给许可证后，方可进行经营。<br><br><p class='zhang'>                         第四章  奖励和处罚</p><br><br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  对认真执行本办法，成绩显著的单位和个人，由昆明市公安局表彰和奖励。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  对违反本办法，有下列情况之一的，由公安计算机安全监察机构对单位处5000元以上的罚款，对个人处1000元以下的罚款；构成犯罪的，依法追究刑事责任：<br>    （一）对公安计算机监察机构提出限期整改或停机整顿拒不执行的；<br>    （二）擅自收集、研制、宣传或变相宣传计算机病毒或组织计算机病毒研讨会的；<br>    （三）本单位计算机信息系统管理不善而发生了治安案件或刑事案件的；<br>    （四）本单位计算机信息系统未向公安计算机安全监察机构办理安全许可证的；<br>    （五）计算机配置规模、应用范围和规章制度有变动，未及时向公安计算机安全监察机构重新备案的；<br>    （六）进行国内、国际联网未及时到公安计算机安全监察机构备案的；<br>    （七）故意制造、传播计算机病毒包括政治性计算机病毒的；<br>    （八）故意输入针对计算机信息系统的有害数据或破坏性指令的；<br>    （九）发现计算机犯罪和政治性计算机病毒未进行现场保护，或未及时向公安计算机安全监察机构报告，而造成重大损失和严重影响的；<br>    （十）擅自进行新建、改建、扩建计算机场、站，或在国家重要领域内的计算机场、站附近进行危害计算机信息系统安全施工的。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  对擅自编辑、出版、印制、销售有关计算机病毒的书籍，或生产、销售、复制、交换计算机病毒检测、清除工具的，公安计算机安全监察机构除没收其书籍或产品及违法所得外，可按违法所得三倍以内并处罚款。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  对擅自经营生产、销售计算机信息系统安全专用产品的，除比照执行第二十一条处罚外，由公安计算机安全监察机构建议有关部门责令其停业、停产或提请工商部门吊销其营业执照。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  拒绝、阻碍公安计算机安全监察机构依法行使监察职责的，按《<a href=javascript:ROF(19759,0) class=alink>中华人民共和国治安管理处罚条例</a>》第<a href=javascript:ROF(19759,19) class=alink>十九</a>条处罚。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  罚款及没收的钱物，上缴同级财政部门。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  当事人对处罚不服的，可依照《<a href=javascript:ROF(8969,0) class=alink>中华人民共和国行政诉讼法</a>》和《<a href=javascript:ROF(11941,0) class=alink>行政复议条例</a>》的有关规定申请行政复议或提出诉讼。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  公安计算机安全监察人员应严格执行本办法，不得徇私舞弊，违者给予行政处分；构成犯罪的，依法追究其法律责任。<br><br><p class='zhang'>                            第五章  附则</p><br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>  本办法由昆明市公安局负责解释并组织实施。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>  本办法自公布之日起施行。<br>    <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

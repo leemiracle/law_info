@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京信息办[2002]127号<BR>&nbsp;&nbsp;【发布日期】2002-09-18<BR>&nbsp;&nbsp;【生效日期】2002-09-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于发布《北京市信息安全服务单位资质等级评定条件（试行）》的通知<br><br></font>(京信息办[2002]127号)</p><br><br><br>市政府各委、办、局，各区、县信息化工作主管部门，各有关单位： <br><br>    为了加强对我市信息安全服务活动的规范化管理，保障“数字北京”和“数字奥运”建设的安全，根据《北京市信息安全工作组工作职责、组成人员和成员单位职责分工的通知》（京信发[2001]1号）、《<a href=javascript:ROF(40589,0) class=alink>北京市党政机关计算机网络与信息安全管理办法</a>》（京办发[2001]27号）和《〈北京市政务与公共服务信息化工程建设管理办法〉实施细则》等相关规定，结合本市实际，制定了《北京市信息安全服务单位资质等级评定条件（试行）》。<br><br>    现将《北京市信息安全服务单位资质等级评定条件（试行）》予以发布，自发布日起执行。<br><br><br>北京市信息安全服务单位资质等级评定条件（试行）<br><br>    该评定条件适用于在北京市范围内从事非涉及国家秘密的信息安全服务的单位。信息安全服务单位资质等级划分为一级、二级、暂定级，每级含系统安全建设与维护和培训两大类。信息安全服务单位资质等级的评定条件为：<br><br>    一级系统安全建设与维护类（包括与建设维护有关的咨询培训）应具备的资质条件：<br><br>    1、独立的法人单位，注册资本200万元以上；<br><br>    2、有固定的工作场所，且具有相当的信息安全试验开发环境；<br><br>    3、有健全的组织机构、管理体系和服务规范；<br><br>    4、独立开展信息安全服务3年以上，近3年至少完成了5个系统安全建设与维护类项目，其安全服务合同总额3年累计为800万元以上，其中至少有一个安全服务合同额在100万元以上；<br><br>    5、负责信息安全服务的技术主管人员必须具备信息安全服务高级工程师资格，且须与所在单位签订3年以上聘用合同；<br><br>    6、有稳定的技术队伍，信息安全服务工程师不少于20名，其中信息安全服务高级工程师不少于5名。<br><br>    一级培训类应具备的资质条件：<br><br>    1、独立的法人单位，注册资本100万元以上；<br><br>    2、有固定的工作场所、设备和良好的试验环境；<br><br>    3、有系统的培训方案及教材、课件和相应的参考资料；<br><br>    4、有健全的组织机构、管理体系和服务规范；<br><br>    5、独立开展信息安全服务3年以上，近3年信息安全培训收入累计额为500万元以上；<br><br>    6、本单位教师队伍中，信息安全服务工程师不少于10名，<br><br>    其中信息安全服务高级工程师不少于5名；<br><br>    7、外聘教师必须具有副高以上职称。<br><br>    二级系统安全建设与维护类（包括与建设维护有关的咨询培训）应具备的资质条件：<br><br>    1、独立的法人单位，注册资本100万元以上。<br><br>    2、有固定的工作场所，且具有必要的信息安全试验开发环境；<br><br>    3、有健全的组织机构、管理体系和服务规范；<br><br>    4、独立开展信息安全服务2年以上，近2年至少完成了3个系统安全建设与维护类项目，其安全服务合同总额2年累计为300万元以上，其中至少有一个安全服务合同额在50万元以上；<br><br>    5、负责信息安全服务的技术主管人员必须具备信息安全服务高级工程师资格，且须与所在单位签订3年以上聘用合同；<br><br>    6、有稳定的技术队伍，信息安全服务工程师不少于10名，其中信息安全服务高级工程师不少于2名。<br><br>    二级培训类应具备的资质条件：<br><br>    1、独立的法人单位，注册资本50万元以上；<br><br>    2、有健全的组织机构、管理体系和服务规范；<br><br>    3、有固定的工作场所、必要的试验环境；<br><br>    4、有系统的培训方案及教材、课件和相应的参考资料；<br><br>    5、独立开展信息安全服务3年以上，近3年信息安全培训收入累计额为200万元以上；<br><br>    6、本单位教师队伍中，信息安全服务工程师不少于5名，其中信息安全服务高级工程师不少于2名；<br><br>    7、外聘教师必须具有副高以上职称。<br><br>    暂定级应具备的资质条件：<br><br>    1、独立的法人单位，注册资本30万元以上；<br><br>    2、有固定的工作场所，且具有必要的信息安全试验环境或必要的培训方案；<br><br>    3、有必要的组织机构、管理制度和服务规范；<br><br>    4、负责信息安全服务的技术主管人员必须具备信息安全服务高级工程师资格，且须与所在单位签订3年以上聘用合同；<br><br>    5、信息安全服务工程师不少于5名，其中信息安全服务高级工程师不少于2名。<br><br>    <br><br>    附件：《信息安全服务工程师、高级工程师资格申请条件》<br><br><br><br><br>                                                                 二○○二年九月十八日<br><br><br>信息安全服务工程师、高级工程师资格申请条件<br><br><br>    一、申请信息安全服务工程师资格应具备下列条件：<br><br>    （一）取得中专学历，从事计算机或通信方面的工作七年以上；或取得大专学历，从事计算机或通信方面的工作五年以上；或取得本科学历，从事计算机或通信方面的工作三年以上；或取得中专、大专、本科学历的人员，如果获得一个以上计算机或通信专业市级以上科研成果奖，其从事计算机或通信方面的工作时间可减少两年；或取得硕士以上学位，从事计算机或通信方面的工作一年以上；<br><br>    （二）了解计算机、网络、安全等方面的基本知识、工程方法和主流产品；<br><br>    （三）熟悉国家和本市有关信息安全的政策法规；<br><br>    （四）了解主要的信息安全国际标准和国家标准；<br><br>    （五）遵守中华人民共和国宪法和法律，具备良好的职业道德和敬业精神。<br><br>    具备以上条件，通过北京信息安全测评中心组织的信息安全服务工程师资格考试后，方可取得信息安全服务工程师资格。<br><br>    二、申请信息安全服务高级工程师资格应具备下列条件：<br><br>    （一）取得大专学历，从事计算机或通信方面的工作七年以上；或取得本科学历，从事计算机或通信方面的工作五年以上；或取得大专、本科学历的人员，如果获得一个以上计算机或通信专业市级以上科研成果奖，其从事计算机或通信方面的工作时间可减少两年；或取得硕士以上学位，从事计算机或通信方面的工作两年以上；<br><br>    （二）熟悉计算机、网络、通信等方面的基本知识；<br><br>    （三）系统地掌握信息安全基础理论和工程方法；<br><br>    （四）熟悉并掌握信息安全有关政策法规；<br><br>    （五）熟悉并掌握主要的信息安全国际标准和国家标准；<br><br>    （六）负责至少三个以上信息安全服务项目，或参与过至少两个以上信息安全类科研项目；<br><br>    （七）遵守中华人民共和国宪法和法律，具备良好的职业道德和敬业精神。<br><br>    具备以上条件，通过北京信息安全测评中心组织的信息安全服务高级工程师资格考试后，方可取得信息安全服务高级工程师资格。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

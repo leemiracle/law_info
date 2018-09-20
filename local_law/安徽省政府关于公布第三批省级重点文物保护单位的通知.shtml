@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81202<BR>&nbsp;&nbsp;【发布文号】皖政[1989]34号<BR>&nbsp;&nbsp;【发布日期】1989-05-27<BR>&nbsp;&nbsp;【生效日期】1989-05-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 安徽省人民政府关于公布第三批省级重点文物保护单位的通知<br>
+</font></p><p align='center'><font class='STitle'>（1989年5月27日皖政〔1989〕34号）</font></p>    根据《<a href=javascript:ROF(2624,0) class=alink>中华人民共和国文物保护法</a>》的有关规定，省人民政府审定新四军七师司令部旧址等四十六处为我省第三批省级重点文物保护单位，现予公布。<br><br><p class='zhang'>  附件：     安徽省第三批省级重点文物保护单位（46处）</p><br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>革命旧址、革命纪念建筑物（3处）<br><pre><font size=+1><br>编  号  分类号    名  称            时    代          地    址<br>  1      1    新四军七师    1941－1945年  无为县徐岗乡三<br>                司令部旧址                              水涧村<br>  2      2    冯玉祥故居          近    代        巢湖市夏阁镇竹柯村<br>  3      3    张治中故居          近    代        巢湖市建麓乡<br>                                                    拱家町村<br></font></pre><br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>石刻、石窟及塑像（4处）<br><pre><font size=+1><br>编  号  分类号    名  称            时    代            地    址<br>  4      1    小孤山石刻        南北朝－清        宿松县套口乡小<br>                                                    孤山<br>  5      2    齐山摩崖石刻          宋－清        贵池市齐山<br>  6      3    吴复墓石刻            明            肥东县肖圩乡享<br>                                                    堂任村<br>  7      4    油由敦墓石刻          清            休宁县溪口镇木<br>                                                    干村<br></font></pre><br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>古建筑、历史纪念建筑及其它（23处）<br><pre><font size=+1><br>编  号  分类号    名  称            时    代            地    址<br>  8      1    杏花村古井            唐            贵池市<br>  9      2    禹王宫              唐－清          怀远县涂山<br>10      3    渔梁坝              唐－清          歙县徽城镇<br>11      4    伟溪塔              南  宋          祁门县胥岭乡<br>12      5    六角楼                明            黄山市黄山区<br>13      6    冯村进土坊            明            绩溪县浩寨乡冯<br>                                                    村<br>14      7    鼓楼基座              明            凤阳县府城镇<br>15      8    程大位故居            明            黄山市屯溪区屯<br>                                                    光乡<br>16      9    江宁会馆            明－清          亳州市古泉路<br>17    10    霍山文庙            明－清          霍山县城关<br>18    11    镇淮楼              明－清          和县历阳镇<br>19    12    南谯楼              明－清          歙县徽城镇<br>20    13    舒余庆堂            明－清          黟县龙江乡屏山<br>                                                    村<br>21    14    道德中宫            明－清          亳州市老祖殿街<br>22    15    旌德文庙              清            旌德县城关<br>23    16    文昌阁                清            泾县陈村乡翟村<br>24    17    资福寺                清            阜阳市大寺街<br>25    18    沫河口关卡            清            五河县沫河口集<br>26    19    余庆堂古戏台          清            祁门县新安乡珠<br>                                                    林村<br>27    20    显通寺                清            淮北市相山<br>28    21    半山阁                清            桐城县桐城中学<br>29    22    建德文庙大城殿      清－民国        东至县梅城镇<br>30    23    黄宾虹故居          清－民国        歙县郑村乡潭渡<br>                                                    村<br></font></pre><br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>古遗址（9处）<br><pre><font size=+1><br>编  号  分类号    名  称            时    代          地    址<br>31      1    陈山旧石器出      旧石器时代        宣州市向阳乡<br>                土地点<br>32      2    傅庄遗址          新石器时代        亳州市傅庄<br>33      3    石山孜遗址        新石器时代        濉溪县平山乡石<br>                                                    山孜村<br>34      4    红墩寺遗址        新石器时代        霍邱县姚李镇红<br>                                    －商周          石桥村<br>35      5    石梁土城遗址      商周－唐宋        天长县石梁乡土<br>                                                    城村<br>36      6    大工山古矿冶        西周－宋        南陵县大工山<br>                遗址<br>37      7    古昭关遗址            春  秋        含山县小岘山<br>38      8    霞间窑址            五代－北宋      绩溪县高迁乡霞<br>                                                    间村<br>39      9    清流关              南唐－宋        滁州市关山<br></font></pre><br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>古墓葬（7处）<br><pre><font size=+1><br>编  号  分类号    名  称            时    代          地    址<br>40      1    皋陶墓                              六安县城东乡<br>41      2    万牛墩土墩墓群          周          繁昌县平铺乡、<br>                                                    新林乡<br>42      3    周瑜墓                三国          庐江县城关<br>43      4    郑之珍墓                明          祁门县渚口乡清<br>                                                    溪村<br>44      5    刘大槐墓                清          枞阳县金社乡向<br>                                                    荣村<br>45      6    梅文鼎墓                清          宣州市杨林乡柏<br>                                                    枧村<br>46      7    姚莹墓                  清          桐城县龙眠山<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81202<BR>&nbsp;&nbsp;【发布文号】皖政办[2000]33号<BR>&nbsp;&nbsp;【发布日期】2000-06-24<BR>&nbsp;&nbsp;【生效日期】2000-06-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 安徽省人民政府办公厅关于切实加强统计基础工作的通知<br>
+</font></p><p align='center'><font class='STitle'>（皖政办〔2000〕33号）</font></p>各市人民政府、行政公署，各县（市）人民政府，省政府各部门、各直属机构：<br>    统计基础工作是开展统计调查和保证统计数据质量的重要环节。近年来，我省统计基础工作逐步加强，各方面都有了明显的改进。但是部分地区和单位基层统计机构不健全，原始记录、统计台帐不齐全，统计人员业务素质不高，法制观念淡漠，少数地方虚报、瞒报、迟报、拒报统计资料现象时有发生，影响了统计调查活动的正常开展和统计数据的质量。为确保统计数据的及时性、准确性、真实性，增强政府宏观决策的科学性，省政府决定，进一步采取措施，切实加强全省统计基础工作。现将有关事项通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>强化统计基础工作管理，确保数据源洁流清<br>    各级统计部门和统计调查单位，要严格按照《<a href=javascript:ROF(25357,0) class=alink>统计法</a>》及其实施细则、《安徽省统计管理监督条例》和《安徽省统计基础工作规范化管理办法》的规定，建立健全切实可行、便于操作的统计登记制度、统计人员持证上网制度、统计岗位责任制度、统计调查报表管理制度、统计数据管理制度、统计台帐规范化制度、统计档案资料管理制度等统计基础工作管理制度，加强对统计数据质量的评估和监控，按照“下管一级”的原则，加强对本辖区内主要统计指标数据的评估审核，做到数出有据，从总体上保证统计数据的准确性和可靠性。要以基本单位普查资料为基础，建立省、市（地）、县（市、区）统一的、资料互相衔接的、覆盖全社会的基本统计调查单位名录库，并以此规范各种统计调查。对有关经济总量指标和主要专业统计指标数据的公布使用，必须以上级统计部门评估核实的数据为准。未经省统计局审核批准，各级不得以任何理由擅自变更、修改或调整历史数据。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>坚持实事求是、依法统计，强化统计执法检查<br>    各地、各部门要深入学习和贯彻中共中央办公厅、国务院办公厅《关于坚持反对和制止在统计上弄虚作假的通知》（中办发〔1998〕7号）精神，认真贯彻执行统计法律、法规。在制定经济和社会发展规划、建立目标管理责任制时，一定要注意运用统计数据进行科学预测，正确把握发展趋势，从实际出发，确定预期目标。在考察工作时，要坚持全面、客观、公正的原则，看实数、观实情、察实效，坚持发展速度、规模与质量、效益相统一。各级统计部门要建立和完善统计执法责任制，充实统计执法力量，强化统计执法工作。要善于运用统计法律手段，保障统计行为，维护统计工作秩序，发挥<a href=javascript:ROF(25357,0) class=alink>统计法</a>制工作在统计改革中的引导、规范和保障作用。对那些统计基础薄弱、工作不规范、数据质量存在严重问题的单位，各级统计执法机构要定期跟踪检查，发现问题要通过统计行政处罚手段，督促其改正。对于在统计上弄虚作假的案件，各级统计、监察、人事和政府法制部门，要依照国家法律、法规的有关规定严肃查处，构成犯罪的应移交司法机关依法惩处。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>加快信息工程建设，实现统计手段现代化<br>    广泛应用现代信息技术，加快统计信息工程建设，是促进决策科学化和国民经济信息化的必然要求，也是提高统计工作效率和统计数据质量的重要途径。各地要根据统计工作任务和统计事业发展的需要，制定本地区统计信息工程建设“十五”规划，加大工作力度，尽快实现统计办公自动化和统计信息处理、传输的现代化，以增强统计对国民经济和社会发展的快速监测能力。各级政府要按照全省的统一部署，把统计信息工程建设纳入本地区信息工程总体规划，统筹安排，落实建设资金。各级业务主管部门、企事业单位，要逐步创造条件，建立统计信息网络，加快实现统计手段的现代化。要大力开发统计信息应用软件，建立和完善各类统计数据库，逐步实现统计信息资源的社会共享。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>加强组织建设，健全基层统计网络<br>    统计组织机构是统计工作的组织者和具体承担者，组织机构是否健全，直接关系到各项统计任务的完成和统计数据的质量。各级、各部门要高度重视统计组织机构的建设工作。<br>    基层是统计工作的源头。各级政府和统计部门要在巩固我省农村统计改革成果的基础上，高度重视农村统计基础工作，切实加强对基层统计工作的领导和规范化管理，不断健全完善乡（镇）、村统计网络。<br>    各部门、各行业要本着统一、协调、互补、共享的原则，大力加强部门、行业的统计基础工作，切实转变部门统计职能，综合协调本部门各职能机构的统计工作，对本系统统计工作进行组织管理和督促检查。在地方机构改革中，凡属撤销、合并或精简的部门（行业），要确保统计工作任务和统计资料、档案的妥善交接，做到统计工作不断，统计资料不乱。<br>    各级各类企事业单位，要根据统计工作任务的需要设立综合设立机构或配备统计人员，组织指导和协调本单位及下属机构的统计工作，会同有关职能部门，建立健全统计台帐、原始记录及有关统计管理制度。大中型企业在改制、重组、股份制改造中，要积极探索加强企业统计工作的新途径。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>重视统计队伍建设，提高政治业务素质<br>    随着社会经济事业的发展和统计改革的不断深入，统计工作面临着许多新情况、新问题。各级统计部门要适应新形势的要求，加强统计队伍的政治思想教育、统计职业道德教育和业务技术培训，努力造就一支政治强、业务精、作风正的统计干部队伍。要严格按照德才兼备、年富力强、懂经济、善管理的要求选拔领导干部，充实和加强统计机构领导班子。各级、各部门、各企事业单位，要重视统计人员政治、业务素质的培养和提高，严格实施统计人员持证上岗制度，凡进入统计岗位的人员，都要经过统计专业知识考试或考核，并取得《统计人员资格证》。各级统计部门要按照《安徽省统计管理监督条例》的规定，加强对统计人员持证上岗制度执行情况的督促和检查。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>加强对统计工作的领导，改善统计外部环境<br>    各级政府要从讲学习、讲政治、讲正气的高度，切实加强对统计工作的领导。各级领导干部要坚持实事求是的思想路线，支持统计机构和统计人员依法独立行使统计调查、统计报告和统计监督职权，旗帜鲜明地反对弄虚作假，注意听取统计部门的建议，重视发挥统计的职能作用，科学地运用统计数据指导工作，努力提高决策和管理水平。要加强城市、农村、企业调查队的建设和管理，充分发挥统计局和调查队的整体效能。要切实帮助解决统计机构和统计人员在工作中遇到的矛盾和困难，根据统计工作任务，按照分级负担的原则，认真落实统计经费，并列入地方财政预算。各级编制、工商行政、民政、税务、技术监督等部门，要积极支持、配合统计部门依法开展各项统计工作，定期向同级统计部门提供各类单位年检及经常性增减变动的名录资料，共同做好统计调查单位名录库的更新维护工作，为提高全省统计基础工作水平创造良好的外部环境。<br><br>                                                    安徽省人民政府办公厅<br>                                                  二000年六月二十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

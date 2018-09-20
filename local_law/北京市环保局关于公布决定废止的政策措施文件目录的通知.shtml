@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京环保法字[2002] 91号<BR>&nbsp;&nbsp;【发布日期】2002-04-03<BR>&nbsp;&nbsp;【生效日期】2002-04-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市环保局关于公布决定废止的政策措施文件目录的通知<br><br></font>(京环保法字[2002] 91号)</p><br><br>各区、县环保局，各有关单位：<br><br>    为适应我国加入世界贸易组织新形势的需要，根据《<a href=javascript:ROF(54693,0) class=alink>中共中央办公厅、国务院办公厅关于适应我国加入世界贸易组织进程清理地方性法规、地方政府规章和其他政策措施的意见</a>》和市政府的相关要求，市环保局对截至2001年10月底以前发布的局发文件进行了清理，现决定：对主要内容与现行国家法律、法规不相适应的，以及属一次性或阶段性工作措施实际已经失效或者已被新的法规和政策措施取代的68件政策措施文件，予以废止，宣布失效。（文件目录见附件）<br><br>    附件：北京市环保局决定废止的政策措施文件目录<br><br><br>                            二OO二年四月三日 <br><br>  <br><br>北京市环保局决定废止的政策措施文件目录<br><br>序号<br>文件名称<br>文号<br>制发单位<br>制发时间<br>清理办法<br><br>1<br>《关于三个环境保护法规执行中若干问题的说明》的通知<br>京环保策字49号<br>北京市环保局<br>1984<br>废止<br><br>2<br>关于加强对医院污水处理设计管理的通知<br>京环保治字55号<br>北京市环保局<br>1984<br>废止<br><br>3<br>关于颁布《关于保护青蛙的通告》的通知<br>京环保法字92号<br>北京市环保局<br>1984<br>废止<br><br>4<br>关于加强型煤炉具、二次风灶产品的管理的通知<br>京环保监二字第87号<br>北京市环保局<br>1990<br>废止<br><br>5<br>关于加强防治污染设施运行管理的规定<br>京环保监一字第91号<br>北京市环保局<br>1990<br>废止<br><br>6<br>关于加强对全市施工现场环境保护管理的通知<br>京环保监二字第119号<br>北京市环保局<br>1992<br>废止<br><br>7<br>关于严格执行排污申报登记收费标准的通知<br>京环保监一字第167号<br>北京市环保局<br>1993<br>废止<br><br>8<br>关于在北京市生产、销售机动车排放污染物申报登记的通知<br>京环保监三字第96号<br>北京市环保局<br>1994<br>废止<br><br>9<br>关于颁布《北京市关于加强烟尘控制区管理的规定》的通知<br>京环保气字第160号<br>北京市环保局<br>1994<br>废止<br><br>10<br>北京市烟尘控制区监测工作管理暂行办法<br>京环保监测字第261号<br>北京市环保局<br>1994<br>废止<br><br>11<br>关于发布《北京市环境保护最佳实用技术推广管理办法》的通知<br>京环保科字第330号<br>北京市环保局<br>1994<br>废止<br><br>12<br>关于北京市开始执行机动车排气新标准的函<br>京环保气字[1995]41号<br>北京市环保局<br>1995<br>废止<br><br>13<br>关于通报经审批同意1995年度在京销售的机动车车型名单<br>京环保气字[1995]83号<br>北京市环保局<br>1995<br>废止<br><br>14<br>关于执行建设项目管理细则有关问题的复函<br>京环保法字[1995]105号<br>北京市环保局<br>1995<br>废止<br><br>15<br>关于加强对“炉、窑、灶、除尘器风机生产和销售审批证书”管理的通知<br>京环保气字[1995]247号<br>北京市环保局<br>1995<br>废止<br><br>16<br>关于加强污染源监督管理的紧急通知<br>京环保综字[1995]244号<br>北京市环保局<br>1995<br>废止<br><br>17<br>关于对在京生产、销售机动车实行排污申报登记制度说明的通知<br>京环保气字[1995]245号<br>北京市环保局<br>1995<br>废止<br><br>18<br>关于加强汽车排气污染测试数据管理的通知<br>京环保气字[1995]272号<br>北京市环保局<br>1995<br>废止<br><br>19<br>关于禁止焚烧枯草、树叶、垃圾有关工作的通知<br>京环保监察字[1995]310号<br>北京市环保局<br>1995<br>废止<br><br>20<br>关于执行《北京市加强烟尘控制区管理的规定》有关问题的补充说明<br>京环保气字[1995]181号<br>北京市环保局<br>1995<br>废止<br><br>21<br>关于符合排放标准1996年度可在京销售机动车类型名单的通报<br>京环保气字[1996]27号<br>北京市环保局<br>1996<br>废止<br><br>22<br>关于在部分企业开展清洁生产工作的通知<br>京环保控字[1996]66号<br>北京市环保局<br>1996<br>废止<br><br>23<br>关于印发经审查批准可在京销售的机动车净化产品名单的通知<br>京环保气字[1996]141号<br>北京市环保局<br>1996<br>废止<br><br>24<br>北京市环保产品认定工作的通知<br>京环保科字[1996]193号<br>北京市环保局<br>1996<br>废止<br><br>25<br>关于加强啤酒行业环境管理的通知<br>京环保监察字[1996]223号<br>北京市环保局<br>1996<br>废止<br><br>26<br>关于禁止焚烧枯草、树叶、垃圾有关工作的通知<br>京环保监察字[1996]341号<br>北京市环保局<br>1996<br>废止<br><br>27<br>关于在京生产、销售机动车车型排放污染物申报登记的通知<br>京环保气字[1996]354号<br>北京市环保局<br>1996<br>废止<br><br>28<br>关于加强北京市医药行业建设项目环境保护管理工作的通知<br>京环保办字[1997]011号 北京市环保局 1997<br>废止<br><br>29<br>关于委托北京市环保监测中心配合出租车年审进行尾气监测的函<br>京环保气字[1997]016号 北京市环保局 1997<br>废止<br><br>30<br>关于开展危险废物申报登记及其变更工作的通知<br>京环保控字[1997]039号 北京市环保局<br>1997<br>废止<br><br>31<br>关于开展总量排污收费新标准模拟试点的通知<br>京环保监理字[1997]105号<br>北京市环保局<br>1997<br>废止<br><br>32<br>关于对全市加油站改售无铅汽油下达限期治理通知书的通知<br>京环保气字[1997]158号<br>北京市环保局<br>1997<br>废止<br><br>33<br>关于颁发锅炉房排污许可证的通知<br>京环保气字[1997]163号<br>北京市环保局<br>1997<br>废止<br><br>34<br>关于对废弃的一次性塑制餐盒必须回收利用的通告<br>170号<br>北京市环保局<br>1997<br>废止<br><br>35<br>关于加强建设项目施工期间环境管理的通知<br>京环保开字[1997]188号<br>北京市环保局<br>1997<br>废止<br><br>36<br>关于进一步加强在京生产、销售除尘、脱硫设备审批的通知<br>京环保气字[1997]200号<br>北京市环保局<br>1997<br>废止<br><br>37<br>关于对一轻系统部分工业企业工业废水排放执行标准的批复<br>京环保控字[1997]216号<br>北京市环保局<br>1997<br>废止<br><br>38<br>关于加强出租汽车排气污染监督管理的通知<br>京环保气字[1997]255号<br>北京市环保局<br>1997<br>废止<br><br>39<br>关于开展废弃的塑制快餐盒回收利用试行工作的通知<br>京环保控字[1997]295号<br>北京市环保局<br>1997<br>废止<br><br>40<br>关于锅炉房排污许可证有关问题的说明<br>京环保气字[1998]031号<br>北京市环保局<br>1998<br>废止<br><br>41<br>关于试行排放超标机动车安装净化产品的原则的通知<br>京环保气字[1998]120号<br>北京市环保局<br>1998<br>废止<br><br>42<br>关于试行《维修治理及安装净化器的操作规范》的通知<br>京环保气字[1998]121号<br>北京市环保局<br>1998<br>废止<br><br>43<br>关于印发北京市机动车尾气监测收费专用发票管理制度的通知（试行）<br>京环保计财字[1998]144号<br>北京市环保局<br>1998<br>废止<br><br>44<br>关于对承担机动车排放限期治理工作单位管理规定的通知<br>京环保气字[1998]163号<br>北京市环保局<br>1998<br>废止<br><br>45<br>关于禁止焚烧秸杆的紧急通知<br>京环保水字[1998]248号<br>北京市环保局<br>1998<br>废止<br><br>46<br>关于对部分特排污许可证单位进行年审监测的通知<br>京环保监测字[1998]315号<br>北京市环保局<br>1998<br>废止<br><br>47<br>关于办理冷却塔推荐工作的通知<br>京环保辐字[1998]324号<br>北京市环保局<br>1998<br>废止<br><br>48<br>关于区县环保局开展对排放超标机动车进行限期治理限期安装净化装置工作的通知<br>京环保气字[1998]328号<br>北京市环保局<br>1998<br>废止<br><br>49<br>关于公布第三批具备安装机动车排气净化装置资格单位的通知<br>京环保气字[1998]330号<br>北京市环保局<br>1998<br>废止<br><br>49<br>关于公布第三批具备安装机动车排气净化装置资格单位的通知<br>京环保气字[1998]330号<br>北京市环保局<br>1998<br>废止<br><br>50<br>关于对新车排放污染情况进行申报的通知<br>京环保气字[1998]415号<br>北京市环保局<br>1998<br>废止<br><br>51<br>关于对新车尾气超标治理的通知<br>京环保气字[1998]455号<br>北京市环保局<br>1998<br>废止<br><br>52<br>关于加强采暖期大气环境管理的通知<br>京环保气字[1998]494号<br>北京市环保局<br>1998<br>废止<br><br>53<br>关于燃煤炉灶改用清洁燃料的通告<br>京环保气字[1998]556号<br>北京市环保局<br>1998<br>废止<br><br>54<br>关于加强对餐饮、文化娱乐业环境管理的通知<br>京环保法字[1999]56号<br>北京市环保局<br>1999<br>废止<br><br>55<br>关于取缔露天烧烤摊位有关问题的通知<br>京环保气字[1999]262号<br>北京市环保局<br>1999<br>废止<br><br>56<br>关于塑料餐具回收利用工作中有关要求的通知<br>京环保控字[1999]267号<br>北京市环保局<br>1999<br>废止<br><br>57<br>关于加强空调制冷设备安装使用环境保护管理的通知<br>京环保法字[1999]413号<br>北京市环保局<br>1999<br>废止<br><br>58<br>关于加强对机动车检测场高排放车辆尾气检测监督的通知<br>京环保气字[1999]459号<br>北京市环保局<br>1999<br>废止<br><br>59<br>关于对尾气排放超标率较高车型进行尾气季度监测的通告<br>京环保气字[1999]461号<br>北京市环保局<br>1999<br>废止<br><br>60<br>关于煤粉锅炉排污申报登记的通知<br>京环保气字[1999]478号<br>北京市环保局<br>1999<br>废止<br><br>61<br>关于对路检机动车排气超标收费有关问题说明的函<br>京环保法字[1999]623号<br>北京市环保局<br>1999<br>废止<br><br>62<br>关于限期恢复在用车治理工作的通知<br>京环保气字[1999]812号<br>北京市环保局<br>1999<br>废止<br><br>63<br>关于下放外商直接投资建设项目环境保护审批权限的通知<br>京环保监督字[1999]934号<br>北京市环保局<br>1999<br>废止<br><br>64<br>关于退还汽车尾气违规收取检查监测费的通知<br>京环保计财字[2000]78号<br>北京市环保局<br>2000<br>废止<br><br>65<br>关于向辖区内机动车检测场派环保驻场点的通知<br>京环保气字[2000]90号<br>北京市环保局<br>2000<br>废止<br><br>66<br>关于开展在用车治理质量跟踪服务月活动的通知<br>京环保气字[2000]186号<br>北京市环保局<br>2000<br>废止<br><br>67<br>关于调整建设项目审批权限的通知（暂定）<br>京环保监督字[2000]319号<br>北京市环保局<br>2000<br>废止<br><br>68<br>关于执行《北京市环境保护局建设项目环境保护审批工作程序（试行）》的通知<br>京环保监督字[1999]63号<br>北京市环保局<br>1999<br>废止<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】办字[2001]33号<BR>&nbsp;&nbsp;【发布日期】2001-04-03<BR>&nbsp;&nbsp;【生效日期】2001-04-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省政府信息化建设2001―2005年规划纲要<br><br></font>(办字[2001]33号)</p><br><br><br>各设区市人民政府，各县（市、区）人民政府，省政府各部门： <br><br>    现将《河北省政府信息化建设2001―2005年规划纲要》印发给你们，请认真贯彻执行。 <br><br>    二○○一年四月三日 <br><br><br>    河北省政府信息化建设2001―2005年规划纲要<br><br>    根据《国务院办公厅关于进一步推进全国政府系统办公自动化建设和应用工作的通知》（国办发〔2000〕36号），现编制《河北省政府信息化建设2001―2005年规划纲要》。 <br>    一、指导思想和实施原则 <br>    （一）指导思想 <br>    以需求为导向，以应用促发展，统一规划，共同建设，讲求实效，安全保密，加强管理，加快发展。（二）实施原则 <br>    我省政府信息化建设，一要继续遵循国务院办公厅“以需求为导向，以应用促发展”的原则；二要结合实际，坚持统一规划，集中指导，协调发展的原则，网络建设、信息资源建设与应用开发并重，相互促进，协调发展。 <br>    二、工作目标 <br>    用3至5年时间，完善各地、各部门的办公业务网（简称“内网”）和以省政府办公厅为枢纽的办公业务资源网（简称“专网”），逐步建立面向社会的政府公众信息网（简称“外网”）和门类齐全、内容丰富、更新及时的政府办公业务信息资源数据库（简称“一库”），最终建成以“三网一库”为基本结构的“电子政府”的枢纽框架，实现我省政府系统及涵盖全省各级机关办公业务的电子化、自动化和网络化，为省政府和各地、各部门宏观管理和科学决策服务。 <br>    三、主要任务和技术标准 <br>    （一）切实搞好我省政府系统办公业务资源网网络和各级政府、部门的办公业务网网络的建设。省政府办公厅负责统一指导和建设我省政府系统内部高速办公业务资源网网络系统，现有的省政府办公业务资源网网络通信环境将逐步升级至高速办公业务资源网网络。全省政府系统高速办公业务资源网网络系统包括省、市、县三级长途骨干网，省、市、县三级城域网及各级行政机关内部局域网。随着现代科学技术的发展，省政府办公厅除进行自身办公业务网网络的升级建设外，还将加强对各级政府、部门办公业务网网络建设的业务指导力度。各地、各部门机关内部局域网建设应按照先进的综合布线技术进行线路建设，网络设备的选型应接受本级政府办公厅（室）的指导。各地、各部门的内部办公业务网网络要逐步完成与省政府系统办公业务资源网网络的互通互连，成为省政府系统办公业务资源网网络的一个组成部分，主要综合部门应加快实现办公业务系统与省政府系统办公业务资源网网络的互通互连，为各级政府的决策提供全面、及时、准确的信息资源服务和良好的技术保障。（二）大力抓好系统应用开发工作。当前要加强政府信息化应用系统开发工作，省政府办公厅统一负责日常办公及信息管理系统软件的开发和推广工作，整个系统包括：依托电子认证、电子印章、数字签名等技术的公文、信息无纸化传输和处理系统；依托办公业务资源网，为政府系统提供电视电话会议、可视电话和视频点播等语音图像信息服务的多媒体系统；依托“三网一库”，共建包括政府值班应急指挥系统、城市经济与发展动态管理系统、防灾减灾信息系统和国民经济指标信息系统等在内的办公决策服务系统。省政府办公厅负责统一制定和指定用于政府信息化工作的数据标准，包括符合大字符集国家标准的字库、数据交换格式、文件印刷格式等。各级政府和部门应使用统一开发的程序并遵守统一制定的标准，以避免重复开发、重复建设、浪费投资等问题的发生。 <br>    （三）积极稳妥地推进办公业务信息资源网和政府公众信息网网站建设，不断完善政府系统共享信息资源数据库体系。在省政府办公厅的统一规划指导下，各地、各部门要依据统一的标准完成办公业务资源网网站建设，结合实施政府职能转变和政务公开，积极引导并适时推进政府公众信息网建设。省、市、县三级政府根据各自的实际情况建设既符合安全保密要求，又促进本地经济建设的因特网政府网站。要逐步建立和推进政府公文库、法律法规库、经济信息库、影视信息库等内部信息资源库建设，切实搞好共享信息资源数据库的更新维护工作，并以内部网站的形式实现资源共享，为领导机关办公决策提供及时、准确、全面的信息资源服务。 <br>    （四）加强政府信息化系统安全保密体系建设。由省政府办公厅按照国家有关保密规定负责制定全省政府信息化系统安全保密措施。各级政府及部门应结合自身实际，指定专人负责此项工作，建立健全安全保密责任制。 <br>    由省政府办公厅负责选用国家密码管理委员会等有关部门认可的通用加密设备和安全认证技术。各级政府及部门办公业务网必须在物理上与因特网隔离。（五）加强技术培训工作。省政府办公厅统一负责指导全省政府系统信息化技术培训工作；并负责组织设区市政府和贫困县政府的信息化技术培训工作。每年年初制定年度培训计划，抓好组织实施。各级政府要在上级政府办公厅（室）的指导下负责组织本级政府机关和部门的信息化技术培训工作。由国务院办公厅或省政府办公厅组织开发的应用系统，由省政府办公厅组织培训。 <br>    四、保障措施 <br>    （一）加强政府信息化建设的组织与领导。成立全省政府系统信息化建设领导小组，负责全省政府信息化建设的协调、指导工作，办公室设在省政府办公厅。各级政府及部门的主要负责同志要进一步增强信息化意识，认真抓好本部门、本系统的网络化、信息化建设。各设区市政府按照国办发〔2000〕36号和冀政办〔2000〕47号文件要求，将政府信息化建设作为本级政府办公厅（室）的基本职能加以强化，建立健全专门的办公自动化工作机构，配备必要的业务技术人员。各地、各部门的办公业务网和政府公众信息网必须由本级政府办公厅（室）负责建设和管理。全省政府系统办公业务资源网的建设与管理由省政府办公厅负责指导。各地、各部门向下延伸的系统建设，由各地、各部门办公厅（室）负责组织协调。 <br>    （二）加强组织实施工作。省政府办公厅技术处定期下发建设指导书及相关技术规范、标准，大力推广成熟的应用软件，在部分地区及部门进行必要的建设和应用试点。 <br>    （三）确保建设经费落实。各级政府要根据财力情况加大对政府信息化建设的投入力度，确保系统建设经费落实，并将系统日常运行及维护经费列入同级政府财政预算。 <br>    五、实施步骤 <br>    （一）第一阶段（2001年） <br>    1、上半年完成省直电视电话会议室建设工作；并着手推进各设区市政府电视会议系统的建设工作。2、上半年完善省政府办公厅办公业务网建设，搞好设备更新配置。 <br>    3、筹措资金，重点支持贫困县完成联网工作任务。 <br>    4、上半年完成全国政府系统文件无纸化传输试点工作，搞好系统配套建设。 <br>    5、完成国办高速专网平台工程的配套建设工作。制定全省政府系统高速专网平台工程实施方案。 <br>    6、参加全国城市经济资源网络系统试点，完成全省省市主页及11个设区市城市系统指标体系上网工作，并逐步建设城市经济与发展动态管理系统。 <br>    7、扩大政府公文无纸化传输范围，试行非密级文件网上传输。 <br>    8、启动并争取完成全省政府系统办公业务资源网通信加密工作。 <br>    9、完成全省办公业务资源网数据标准和管理规范的制定工作。 <br>    10、启动政府办公业务信息资源数据库建设，筹建省政府公众信息网。 <br>    （二）第二阶段 <br>    1、完成全省政府系统机密等级以下文件上网工作，实现公文无纸化传输目标。 <br>    2、实施全省政府系统高速专网平台工程。 <br>    3、进行省政府办公业务资源网网站和公众信息网网站建设。 <br>    4、推进全省政府系统省市两级电视会议系统的建设。 <br>    5、继续完成2001年以“三网一库”建设为重点各项结转工程的收尾完善工作。 <br>    （三）第三阶段 <br>    1、建设包括各级领导桌面视频应用系统、图像信息点播系统等在内的多媒体应用系统。 <br>    2、建设包括全省政府值班应急指挥系统、国民经济指标信息系统和防灾减灾系统等在内的办公决策服务系统。 <br>    3、基本完成政府办公业务信息资源数据库建设，实现信息资源共享。 <br>    4、初步完成以“三网一库”为基本结构的河北“电子政府”枢纽框架，争取实现本规划纲要确定的工作目标。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

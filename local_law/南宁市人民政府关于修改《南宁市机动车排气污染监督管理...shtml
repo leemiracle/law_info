@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】南宁市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-05-23<BR>&nbsp;&nbsp;【生效日期】2005-05-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nanning.gov.cn/3075/2005_6_29/3075_65982_1120014473792.html" target=_blank>南宁市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>南宁市人民政府关于修改《南宁市机动车排气污染监督管理暂行规定》的决定</font></p><br><br><br>    市人民政府根据《中华人民共和国行政许可法》等法律、法规的规定，决定对《南宁市机动车排气污染监督管理暂行规定》作如下修改：<br><br>    一、第一条“为了加强对机动车排气污染的监督管理，保护和改善环境质量，保障人体健康，根据《中华人民共和国环境保护法》第十六条、《中华人民共和国大气污染防治法》第三十七条规定，结合本市实际，制定本规定”修改为“为了加强对机动车排气污染的监督管理，保护和改善环境质量，保障人体健康，根据《中华人民共和国环境保护法》和《中华人民共和国大气污染防治法》的规定，结合本市实际，制定本规定”。<br><br>    二、第五条“自1999年7月1日起，全市（包括两县一郊）范围一律停止生产、销售、使用车用含铅汽油”修改为“南宁市行政区域范围内禁止生产、销售、使用车用含铅汽油”。<br><br>    三、删除第十条第一款“市交通、公安部门必须将机动车排气污染检测纳入年度检验内容”。<br><br>    四、第十条第二款“机动车年检排气达标的，发给由市环境保护部门监制的《机动车排气合格证》；凡年检未达标的车辆，限期到具有合法资格的维修单位（点）治理，复测达标后，再发给年检《机动车排气合格证》”修改为“环境保护部门可以委托依法成立的机动车安全技术检验机构，按照规范对机动车排气污染进行年度检测。经检测不符合国家规定污染物排放标准的机动车，不得继续行驶”。<br><br>    五、第十一条第一款“由市环境保护部门组织相关部门对在用机动车排气污染进行道路行驶抽检。”修改为：“环境保护部门可以在机动车停放地对在用机动车的污染物排放状况进行监督抽测”。<br><br>    六、删除第十一条第二款“经检测排气污染物超标的机动车，由市公安交通管理部门处以罚款，限期到具有合法资格的维修单位（点）治理，直至复测达标”。<br><br>    七、删除第十三条“机动车排气污染物超标经过维修治理与复测仍未达标的，由市公安部门同市环境保护部门实施强制安装机动车排气净化装置；安装排气净化装置后检测达标的，由市环境保护部门发给《广西机动车排气污染防治合格证》。 <br><br>    强制安装使用的机动车排气净化产品执行自治区物价部门批准的限价；在产品质量保证期内存在问题的产品可进行更换”。<br><br>    八、删除第十四条“凡在本市生产、销售、使用的机动车排气净化产品，必须经自治区技术监督部门和环境保护部门产品认证，并向市环境保护部门登记备案”。<br><br>    九、第十六条“市建成区内逐步限制在用的二冲程发动机的车辆和使用柴油为燃料的公共汽车在道路上行驶”修改为“市建成区内限制在用的二冲程发动机车辆在道路上行驶”。<br><br>    十、删除第十七条第二款“经过维修治理和强制安装排气净化装置仍未达标的机动车（含机动摩托车）终止运行”。<br><br>    十一、删除第十八条第二款“承担在用机动车排气污染维修治理的单位，由市交通运输行政管理部门会同环境保护部门审查认定，发给《资格证书》”。<br><br>    十二、第十九条第一款“承担在用机动车污染维修治理的单位必须具备符合规范的机动车排气污染检测手段，按维修规范进行维修治理，车辆维修后必须经过检测合格方可交用户使用；经维修后仍不合格的，交由市公安部门会同市环境保护部门按本规定第十三条第一款处理”修改为“承担在用机动车污染维修治理的单位必须具备符合规范的机动车排气污染检测手段，按维修规范进行维修治理，车辆维修后必须经过检测合格方可交用户使用”。<br><br>    十三、第二十二条第一款“市环境保护部门会同技术监督部门对承担机动车排气污染物检测业务的单位和有关检测人员进行审查认定，发给《南宁市机动车排气污染检测资格证书》，无《南宁市机动车排气污染检测资格证书》的单位不得从事机动车排气污染物检测”修改为“环境保护部门应对承担机动车尾气排放检测的单位（检测场、站）的机动车排气检测仪器设备进行检查，并对其检测工作进行监督”。<br><br>    十四、删除第二十四条“机动车排气污染物检测仪器的定期检查、标定，按技术监督管理部门规定执行”。<br><br>    十五、第二十五条“ 申办《南宁市机动车排气污染物检测资格证书》须符合下列要求：（一）机动车污染物检测仪器有市技术监督部门检定合格证书；（二）有机动车排气污染物检测仪器、设备清单；（三）有机动车排气污染物检测人员的资质及考核合格证书；（四）有机动车排气污染物检测操作规程；（五）其它与机动车排气污染物检测有关的资料”修改为“开展机动车排气污染物检测的单位，应具备下列条件：（一）有经质量技术监督部门检定合格的机动车污染物检测仪器、设备；（二）有经技术培训的检测人员；（三）有机动车排气污染物检测操作规程；（四）其它与机动车排气污染物检测有关的资料”。<br><br>    十六、删除第三十条“违反本规定第十一条第二款规定，经检测排气污染物超标的机动车，由市公安交通管理部门处以二十元以下罚款”。<br><br>    十七、第三十五条第一款“防治机动车污染的执法部门和工作人员依照《中华人民共和国行政处罚法》规定的程序实施行政处罚。当事人对行政处罚决定不服，可在接到处罚决定通知之日起十五日内向作出处罚决定的机关的上一级行政机关申请复议或直接向当地人民法院起诉”修改为“防治机动车污染的执法部门和工作人员依照《中华人民共和国行政处罚法》规定的程序实施行政处罚。当事人对行政处罚决定不服的，可依法申请行政复议或提起行政诉讼”。<br><br>    十八、本规定中的“市环境保护部门”修改为“环境保护部门”；“市公安部门”修改为“公安部门”；将“市交通运输行政管理部门”修改为“交通运输行政管理部门”。<br><br>    此外，根据本决定对部分条文顺序和文字作相应调整。<br><br>    本决定自公布之日起施行。<br><br>    《南宁市机动车排气污染监督管理暂行规定》根据本决定作相应修正，重新公布。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

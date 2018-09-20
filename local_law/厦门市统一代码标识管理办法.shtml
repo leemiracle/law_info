@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81308<BR>&nbsp;&nbsp;【发布文号】厦府[1993]综163号<BR>&nbsp;&nbsp;【发布日期】1993-06-29<BR>&nbsp;&nbsp;【生效日期】1993-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 厦门市统一代码标识管理办法<br>
+</font></p><p align='center'><font class='STitle'>（1993年6月29日厦府〔1993〕综163号）</font></p><p class='zhang'>                            第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为加强对我市机关、人民团体以及企事业单位、社会团体的管理，根据国务院关于建立企业事业单位和社会团体统一代码标识制度的规定及有关精神，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  凡市、区（县）级党政机关、人民团体及经市、区（县）级工商行政管理局、机构编制委员会和民政局分别核准登记或批准设立的企业事业单位和社会团体（含外地驻厦单位）均按照本办法规定，实行统一代码标识和管理。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  凡属第二条规定设立的企业事业单位和社会团体以及党政机关、人民团体均应获得一个在全国唯一的、始终不变的、结构符合国家标准ＧＢ11714规定并受本办法保护的法定代码标识及作为该代码标识凭证的代码证书。<br><br><p class='zhang'>                         第二章  管理与赋码</p><br><br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  市标准化行政主管部门是本市代码标识的管理机关，履行以下职责<br>：<br>    （一）指导本市统一代码标识的管理工作，并组织制定有关的工作规范；<br>    （二）负责向国家代码标识管理机关申请码段，组织制作代码标识和分配码段；<br>    （三）颁发经本市各级工商行政管理局、机构编制委员会和民政局核准设立的企业事业单位和社会团体以及党政机关人民团体的代码证书；<br>    （四）负责收集、整理代码标识的有关数据工作，建立和维护本市机关、人民团体、企业事业单位和社会团体代码数据库；<br>    （五）协助有关部门强制推行代码标识。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  市、区（县）工商行政管理局是本市、区（县）企业代码标识赋予机关，市、区（县）机构编制委员会是本市、区（县）党政机关、人民团体、事业单位代码赋予机关，市、区（县）民政局是本市、区（县）社会团体代码标识赋予机关，赋码机关履行以下职责：<br>    （一）贯彻执行国家和本市的有关标准和规定；<br>    （二）负责各自赋码对象的代码标识赋予工作，赋码应与核准或批准工作同时进行；<br>    （三）分别将代码标识标注于被赋码单位的机构设立批准文件或注册登记证书；<br>    （四）在完成赋码后15日内填写《厦门市统一代码赋码清单》报送市标准化行政主管部门备案。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  代码赋予机关应按代码标识本体数值的大小、按顺序赋予代码，不得出现重码。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  经注销（撤销）的单位，代码赋予机关应废置其代码。代码一经废置，不得重新赋予。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  未经市标准化行政主管部门同意，代码赋予机关不得擅自变更编码区段范围。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  代码赋予机关应按各自赋码范围的单位的实际数量，向市标准化行政主管部门提出分配代码区段申请。在用完码段的前六个月内提出分配新码段的申请，市标准化行政主管部门在受理申请的六个月内完成新码段的申请、制作和分配。<br><p class='zhang'>                 第三章  代码证书的申领、换领和注销</p><br><br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  党政机关和人民团体应在其建立后15日内，企业、事业单位、社会团体及外地驻厦单位应在其获准注册登记或获准设立后15日内，到市标准化行政主管部门办理申领代码证书手续。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  向市标准化行政主管部门申领代码证书，应办理下列手续：<br>    （一）分别提交机构设立批准文件、登记证书或营业执照；<br>    （二）领取并填交《厦门市党政机关和人民团体代码申报表》或《厦门市企业事业单位和社会团体代码申报表》。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  市标准化行政主管部门审查核准后，分别颁发党政机关、人民团体、企事业单位和社会团体代码证书。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  代码证书分为正本和副本，具有同样法律效力。市标准化行政主管部门根据申领代码证书单位的申请，颁发代码证书副本若干份。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  凡获得代码证书的单位均须按国家统一规定向代码证书颁发机关交正本和副本代码证书工本费和技术服务费。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  企业事业单位和社会团体以及党政机关、人民团体应当在工商行政管理局、机构编制委员会和民政局等部门核准变更、注销（撤销）后十五日内，到市标准化行政主管部门办理换领或注销代码证书手续。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  办理换领或注销代码证书手续时应提交有关登记证书或批准文件，并填交有关的申报表，经市标准化行政主管部门审查核准后，换发或收缴代码证书。<br><br><p class='zhang'>                         第四章  应用与监督</p><br><br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  本市的企业事业单位、社会团体以及党政机关、人民团体代码是强制应用的代码，各有关单位必须贯彻执行。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  本市的银行（金融机构）、财税、计划、统计、公安等为负责强制推行代码标识的部门，其业务工作应逐步使用代码标识，具体实施办法由市标准化行政主管部门会同上述部门另行制定。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  任何组织或个人不得伪造、涂改、转让和出借代码证书，违者由标准化行政主管部门按有关法规处罚；利用统一代码标识进行违法活动，构成犯罪的，由司法机关依法追究刑事责任。<br><br><p class='zhang'>                            第五章  附则</p><br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  本办法由市标准化行政主管部门负责解释。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  本办法自1993年7月1日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

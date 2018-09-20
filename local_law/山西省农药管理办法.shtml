@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80402<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1998-05-08<BR>&nbsp;&nbsp;【生效日期】1998-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 山西省农药管理办法<br>
+</font></p><p align='center'><font class='STitle'>（一九九八年五月八日山西省人大常委会发布）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为了加强农药管理，保护农业生产、人畜安全和生态环境，根据国务院《<a href=javascript:ROF(28142,0) class=alink>农药管理条例</a>》（以下简称《条例》），结合本省实际，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  在本省行政区域内从事农药生产（含原药生产、制剂加工和分装，下同）、经营和使用者，应遵守本办法。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  省人民政府农业行政主管部门负责本行政区域内的农药登记和农药监督管理工作。<br>    各市（地）、县（市、区）农业行政主管部门具体负责本行政区域内的农药监督管理工作。<br>    省人民政府化学工业行政管理部门具体负责本行政区域内的农药生产监督管理工作。<br>    县级以上各级人民政府的工商行政管理、技术监督等有关部门在各自的职责范围内负责有关农药监督管理工作。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  企业生产农药，投产前应当向省人民政府农业行政主管部门所属的农药检定共农药的产品化学、毒理学、药效、残留、环境影响、标准、研制报告或技术转让等方面的资料和样品进行初审。<br>    初审合格后，按规定向国务院农业行政主管部门所属的农药检定机构申请登记，并取得农药登记证。<br>    农药登记证有效期届满需继续生产的，应当在有效期限届满前一个月内向原登记单位申请续展登记。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  生产企业分装已登记的农药产品的，应持农药生产许可证或农药生产批准文件，到省农业行政主管部门申请办理农药分装登记。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  农药登记有效期内的农药产品，在改变剂型、含量（配比）或者使用范围、使用方法变更登记前，应向省农业行政主管部门的农药检定机构申请田间药效试验。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  农药生产企业为农药登记进行的田间药效试验和相当于田间试验性质的室内试验，应按规定由国务院农业行政主管部门所属的农药检定机构指定的单位承担。企业自行安排的试验结果，不得作为农药登记田间药效试验的依据。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  省化学工业行政管理部门按规定负责受理农药生产的核准和申请农药生产许可证或生产批准文件的初审。<br>    农药生产企业生产农药必须取得农药生产许可证或农药生产批准文件。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  农药生产企业生产的农药没有国家标准、行业标准的，应当制定企业标准。企业标准应经省有关部门指定的化工标准化技术委员会论证后，经企业法定代表人签发，按有关规定进行备案。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  农药生产企业应当按农药产品标准组织生产，完善管理制度，执行工艺操作规程，加强计量器具管理。产品出厂应经企业质检部门按标准进行全项分析，达到标准要求的，方可出据质量检验合格证。不合格产品不得出厂。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  农药产品的包装上必须贴有标签或附产品说明书。农药标签或说明书应载明下列内容：<br>    （一）农药名称、通用名；<br>    （二）农药的有效成分含量、净重量（净容量）和剂型；<br>    （三）农药登记证号、生产许可证号（生产批准文件号）和产品标准代号；<br>    （四）农药类别和毒性标志；<br>    （五）产品性能、使用说明和注意事项；<br>    （六）生产日期（批号）和产品质量保证期；<br>    （七）企业名称、地址、电话、邮政编码。<br>    农药分装的，还应当注明分装单位。<br>    农药标签应清晰准确，与农药登记证内容相符并用中文说明。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  农药生产企业必须具备与生产农药产品相适应的分析化验仪器、设备和设施，并设立质量监督检验机构。其质量监督检验机构应通过三级以上质检机构认证。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  经营植物性农药、性诱剂农药和生物农药的，可按规定直接到工商行政管理部门申请登记，领取营业执照。<br>    经营具有毒性农药的，按国家规定实行农药经营许可证制度，由县级以上农业行政主管部门负责审核发证，农药经营单位凭农药经营许可证到工商行政管理部门申请登记，领取营业执照。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  除《条例》第十七条规定的农药经营单位外，其他任何单位和个人不得经营农药。<br>    县级以上农业行政主管部门应对本行政区域内经营农药的人员进行上岗培训。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  农药经营单位购进农药，应向生产企业（或批发单位）索取农药登记证、农药生产许可证（或生产批准文件）和农药产品合格证的复印件，经货证核对无误方可进货。未提供以上三证复印件的，不得进货。<br>    农药经营单位经营的农药品种，应当向所在地的县级农业行政主管部门备案。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  县级以上各级人民政府农业行政主管部门，应当根据本行政区域内的病、虫、草、鼠害发生情况，组织推广安全、高效农药，并对本系统农药监督管理人员开展业务培训。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  县级以上农业行政主管部门负责本行政区域内农药安全使用的宣传指导工作，防止污染农产品和农药中毒事故的发生。<br>    林业、粮食、卫生行政主管部门，应当加强对林木、储粮和卫生用农药安全、合理使用的指导。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  使用农药，应当遵守国家有关农药安全、合理使用的规定。<br>    农药使用者应当严格按照产品标签内容使用农药，不得随意扩大使用范围。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  禁止生产、经营和使用下列农药：<br>    （一）国家明令禁止生产或撤销农药登记的；<br>    （二）农药登记证有效期届满未办理续展登记的；<br>    （三）以微肥冒充农药的；<br>    （四）产品包装上未附标签，标签内容不齐全或标签残缺不清的。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  县级以上各级人民政府农业行政主管部门负责本行政区域内同级报纸、期刊、广播、电视以及其它广告媒体发布农药广告内容的审查。未经审查同意的，广告刊播单位不得发布。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  农业、化工、工商行政管理、技术监督等行政部门的农药管理执法人员按照各自的职责对辖区内的农药生产企业、经营单位和使用者的农药进行监督检查，必要时可按照规定抽取样品和索取有关资料，有关单位和个人不得拒绝和隐瞒。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  违反本办法有关农药登记、农药标签和农药使用规定的，依据《条例》第三十九条的规定，由县级以上农业行政主管部门给予处罚。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  生产、经营未经批准登记农药产品的，由县级以上农业行政主管部门依据《条例》第三十九条的规定给予处罚，并责令停止生产、经营。剩余产品经省农业行政主管部门所属的农药检定机构检验和大田药效试验，确认有使用价值的，由企业更换标签，标明“处理品”字样，并在当地农业行政主管部门的监督下限期使用。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  违反本办法有关农药生产规定的，依据《条例》第四十条的规定，由省化学工业行政管理部门给予处罚。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  违反本办法有关规定，假冒、伪造或者转让农药登记证、农药登记证号，假冒、伪造或者转让农药生产许可证或者农药生产批准文件、农药生产证号或者农药生产批准文件号的，依据《条例》第四十一条的规定，分别由农业行政主管部门或化学工业行政管理部门给予处罚。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  生产、经营假农药、劣质农药的，由县级以上农业行政主管部门、化学工业行政管理部门或者法律、法规规定的其他有关部门依照《条例》第四十二条的规定和其他有关规定给予处罚。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  违反本办法第二十条的规定，未经县级以上农业行政主管部门审查批准发布农药广告的，由县级以上工商行政管理部门责令负有责任的广告主、广告经营者、广告发布者停止发布，没收广告费用，并处广告费用1倍以上5倍以下的罚款。<br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>  农药监督管理工作人员玩忽职守、徇私舞弊、索贿受贿的，依法给予行政处分；构成犯罪的，依法追究刑事责任。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>  本办法自发布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

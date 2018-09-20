@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80602<BR>&nbsp;&nbsp;【发布文号】辽政办发[1994]92号<BR>&nbsp;&nbsp;【发布日期】1994-11-01<BR>&nbsp;&nbsp;【生效日期】1994-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>辽宁省人民政府办公厅转发省经贸委<br>
+ 关于国有企业破产试点意见的通知<br>
+</font></p><p align='center'><font class='STitle'>（辽政办发〔1994〕92号<br>
+ 一九九四年十一月一日）</font></p>    为了进一步推进《<a href=javascript:ROF(5823,0) class=alink>中华人民共和国企业破产法</a>》的贯彻实施，建立符合市场经济规律的优胜劣汰机制，促进企业资产的流动与重组，加速产业结构、企业组织结构调整的步伐，使企业切实担负起自负盈亏的责任，同时保护企业的合法权益，经省政府同意，现将省经贸委《关于国有企业破产试点的意见》转发给你们，请在试点中参照执行。<br><br>                       关于国有企业破产试点的意见<br><br>    为进一步推进《<a href=javascript:ROF(5823,0) class=alink>中华人民共和国企业破产法</a>》的实施，建立符合社会主义市场经济的优胜劣汰机制，针对我省企业破产实施中的具体问题，提出如下意见。<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>破产申请<br>    （一）债务人不能清偿到期债务，债权人可申请宣告债务人破产。<br>    （二）债务人不能清偿到期债务，可申请宣告本企业破产。<br>    （三）债务人不能清偿到期债务，债务人或债权人的双方主管部门均可提出破产申请。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>破产财产的构成<br>    破产财产是指企业在破产程序终结前所拥有的全部财产以及应当由破产企业行使的其他财产权利。具体包括流动资产、长期投资、固定资产、无形资产、递延资产和其他资产。<br>    （一）破产企业土地按照取得方式确定。依法出让、转让和作价入股取得土地使用权的计入破产财产；无偿划拨取得土地使用权的不计入破产财产。<br>    （二）破产企业兴办的学校、医院、托幼园所及职工住房等福利性和非经营性设施原则上不计入破产财产。<br>    （三）破产企业兴办的福利性和非经营性设施登记注册、投资参股的资产计入破产财产。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>财产抵押<br>    （一）固定资产或全部资产已办理财产抵押，债权人不放弃优先受偿权利的企业破产，用剔除财产抵押后的剩余财产实行破产清偿。若财产清偿不足以支付破产费用的，由法院在宣告该企业破产的同时，宣告破产程序终结。未清偿债务不再清偿，并办理工商注销登记。<br>    （二）破产企业出现重复抵押的财产，其债权依抵押顺序依次受偿。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>信用担保<br>    （一）行政性担保以1993年2月23日《国务院办公厅关于严禁行政机关为经济活动提供担保的通知》（国办发〔1993〕11号文件）为限，《通知》下发前提供行政性担保的，鉴于其不具备代偿债务能力，可作免责处理。《通知》下发后提供的行政性担保一律无效，违者要追究批准人和直接责任人的相应责任。<br>    （二）企业间相互担保的一律负有连带清偿责任。对符合产业政策，效益较好的信用担保企业，因被担保企业破产可能导致连带亏损乃至破产的，政府要采取适当措施予以扶持。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>财产处置<br>    （一）破产财产变现，应在资产评估的基础上，以评估价格作底价，通过竞价拍卖和协议转让的方式进行。<br>    （二）破产企业依法出让、转让和作价入股取得土地使用权的土地可以作为破产财产变现；无偿取得土地使用权的土地（国家划拨的土地），扣除企业对土地的投资及土地增值资金后，由土地管理部门依法作价再行出让，所得收入主要用于职工安置。债权人可优先购买。对整体购买者，破产企业土地转让费从优。<br>    （三）破产企业职工住房若出售给职工或划归当地房产部门的，其收入可计入破产财产；若不能出售，其房产由政府委托社会保险部门及其中介机构管理，房租收入除交中介机构管理费外，其余部分列入社会保险基金。学校、托幼园所和医院原则上划归当地教育、卫生部门，整体转让，协调解决。若企业破产后，上述设施无需续办，可视为破产财产折价后参与清偿债务。<br>    （四）破产企业的对外投资（有价让券及其他投资）应依法转让，转让收入计入破产财产。<br>    （五）由海关、税务、工商扣压的破产企业的物资，法院、检察院冻结的企业在银行的存款，待结论前属破产财产。<br>    （六）破产企业职工集资款按性质分类：作为借款的视同职工工资欠款处理；作为资本金投资的，依照破产法的清偿顺序受偿。<br>    （七）破产财产变现难的企业，经债权人同意，可进行财务重组，使债务资本化。企业债权人可将其债权直接转为股权，银行债权的处理按有关规定处置。<br>    （八）整体收买破产企业，可按照人民银行等五总行《关于整顿被兼并解散和破产企业贷款停减缓利息处理的通知》（银发〔1993〕113号文件）享受兼并企业的政策，即破产企业所欠利息可计息缓收；转入“三产”后，由开户行提出处理意见，逐级报各自省分行审批。申请得到批准的，自开业之日起，其原欠银行贷款实行二年停息，三年减半收息。贷款的归还要严格按银发〔1993〕113号文件办理。<br>    （九）发展规范化的产权交易市场和中介组织，按照市场规则处置破产财产，拓宽破产财产变现渠道，鼓励各种资金所有者投资产权市场，收购破产企业。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>银行贷款处理<br>    企业破产造成银行贷款损失的，损失金额应按照法院终审计算。<br>    银行贷款本金损失应严格按照财政部《关于国家专业银行建立贷款呆帐准备金暂行规定》和《关于修订〈关于国家专业银行建立贷款呆帐准备金暂行规定〉通知》（〔92〕财商字第232号文件）办理。<br>    银行贷款利息损失应按照财政部《<a href=javascript:ROF(16592,0) class=alink>金融保险企业财务制度</a>》冲销坏帐准备金。不足时计入当期成本，未计提坏帐准备金的企业据实计入成本。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>职工安置<br>    破产企业职工的生活救济和就业安置采取分流办法。职工的再就业要按照自谋职业、自愿组织起来就业和有关部门介绍就业相结合的原则进行。<br>    （一）临时工（农民工）依协议遣散。<br>    （二）全民合同工按照《国务院关于<a href=javascript:ROF(17118,0) class=alink>国有企业富余职工安置规定</a>》（国发〔1993〕111号文件）解除劳动合同的有关规定办理。<br>    （三）距退休年龄不足5年的职工，经本人申请可提前退休，并按国家规定领取退休金，其余职工在再就业前按待业处理。<br>    （四）参加社会待业保险的在职职工待业期间，按《辽宁省待业保险条例》享受待业保险；未参加社会待业保险的，补办待业保险手续，其费用在破产财产中优先安排。<br>    （五）对自谋职业职工，可一次性发放安置费，不再保留全民企业职工身份。<br>    （六）离退休人员的离、退休费由社会保险机构支付；医疗费暂由养老保险基金垫付，待建立医疗保险基金后返还。<br>    （七）工伤残疾职工的抚恤金由工伤社会保险基金中解决；完全丧失劳动能力的病残职工可办理退休手续，由社会保险机构支付退休金。<br>    （八）职工遗属困难生活补助费，退养、退职职工生活费由社会保险机构解决。<br>    （九）精简职工生活补助费由民政部门负责解决。<br>    （十）破产企业及主管部门应筹集职工安置费，并交当地劳动部门，由劳动部门负责调剂和处置。<br>    上述费用来源无保证的，按照国家经贸委关于发放国有企业流动资金贷款的紧急通知》（银传〔1994〕34号）规定，从破产财产转让和拍卖所得中优先安排；仍不敷使用的，由同级财政予以补助。<br>    建立企业破产制度，推动企业破产实施，是一项涉及面广、政策性强、难度很大的工作。各级政府要加强领导，精心组织，根据当地社会的承受能力，采取积极稳妥的措施，切实搞好破产试点，并做好破产预案。要发挥中介组织的作用，提高破产工作的专业化、社会化程度；要结合当地实际，制定具体实施办法；要及时协调解决破产实施中的重点难点问题。实施中遇有紧急情况和重大问题，要及时上报，以确保破产工作的顺利进行。<br><br>                                                          省经贸委<br>                                                    一九九四年八月十日<br><br>                      企业破产试点工作程序（试行）<br><br><p></p><a name='8'><font class='TiaoNoA'>  一、</font></a>破产申请和破产前的准备工作<br>    1、由企业向主管部门提出破产申请，经企业主管部门审查同意后，报市破产办。同时还要报送企业职工大会决议和主管部门意见及在职职工、退休职工、资产、负债、亏损明细表等文件和资料。<br>    2、市破产办会同有关部门对企业进行全面调查并提出企业破产处理意见和破产实施方案，提交市企业破产指导组研究审定，并报送省企业破产指导组备案。<br>    3、市企业破产指导组研究决定后，再由企业向法院正式提出破产申请，破产办将有关资料移送给法院，由法院立案审理。<br>    4、债权人及其主管部门依法向法院提请破产申请时，事先应同市破产办进行沟通，经协调后由法院立案审理。<br><p></p><a name='9'><font class='TiaoNoA'>  二、</font></a>破产工作的实施<br>    1、法院作出企业破产的裁定和公告，并组建企业破产工作组进驻企业（工作组可由市破产办、经贸委、计委、体改委、法院、工商、税务、劳动、国有资产局、土地局、银行、人寿保险公司、企业主管部门等有关部门派人组成），对企业的人员、财产、债权、债务进行清理核定。<br>    2、由市破产办召开新闻发布会，向外界宣布企业破产，同时由工作组按照《中华人民共和国破产法》的程序和时间要求通报债权人申报债权并确定召开债权人会议的时间。<br>    3、由工作组请具有国有资产评估资格的社会中介组织对破产企业进行资产评估，并提出下列报表：<br>    （1）债务清理汇总表（含明细表）；<br>    （2）债权清理汇总表（含明细表）；<br>    （3）固定资产清理明细表；<br>    （4）流动资产清理明细表；<br>    （5）在职职工及离退休职工自然情况和工资情况明细表；<br>    （6）资产评估表；<br>    （7）准备工作完成情况明细表。<br>    4、由工作组组织召开债权人会议，讨论破产财产分配方案。<br>    5、由工作组组织将退休职工明细表转交给人寿保险公司，并办理退休职工救济金领取证。<br>    6、由工作组组织有关部门办理在职职工安置工作和待业培训工作。<br>    7、由工作组会同有关部门对破产企业资产进行拍卖，并办理公证手续。<br>    8、由工作组组织有关人员对债权、债务进行清缴，在此基础上由会计师事务所或审计师事务所对企业财产进行验查，提出财产处理建议，由法院裁定财产处理及债务偿还比例，并具体实施偿还债务。<br>    9、由企业主管部门对企业法人进行责任追究，限在宣布破产2个月内拿出处理意见。<br>    10、由工作组组织企业主管部门进行破产工作总结，并整理有关资料归档，报有关部门。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

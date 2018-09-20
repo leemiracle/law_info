@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】浙江省<BR>&nbsp;&nbsp;【发布文号】浙地税发〔2002〕114号<BR>&nbsp;&nbsp;【发布日期】2002-10-16<BR>&nbsp;&nbsp;【生效日期】2002-10-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>浙江省地方税务局关于推进现代化纳税申报方式的意见<br><br></font>(浙地税发〔2002〕114号)</p><br><br><br>各市、县（市、区）地方税务局（不发宁波），省地方税务局直属一分局、直属二分局：<br><br>    为适应信息化发展要求，进一步加快我省税收征管现代化的工作进程，充分利用现代信息技术，最大限度地方便纳税人纳税，降低征纳税成本，提高税收征管质量和效率，特制定全省推进现代化纳税申报方式的工作意见，请认真组织实施。<br><br>    一、推进现代化纳税申报方式的指导思想<br><br>    推进纳税申报方式现代化的指导思想是：根据税收征管改革的发展进程，充分利用现代计算机网络技术和现代支付手段，逐步实现税款（费、基金，下同）申报缴库电子网络化，为纳税人申报纳税提供方便快捷的服务，提高申报征收和核算工作效率，加强税收征管。<br><br>    二、推进现代化纳税申报方式的总体目标<br><br>    推进纳税申报方式现代化的总体目标是：以新《征管法》及其实施细则为依据，以《浙江地税信息系统》为管理平台，依托高速发展的因特网、数据通讯网，积极引导纳税人采用非接触式的现代化纳税申报方式；通过税银联网实现税款申报缴库网络化；通过税库联网实现税款划解入库和收入对帐电子化；通过税务机关内部各征管环节的计算机联网，实现税收会计统计核算的电子化。从而在纳税人、税务机关、银行、国库之间纵横向联网的基础上，实现纳税申报、征收、核算、处理的网络化、集约化和一体化。<br><br>    三、现代化纳税申报方式的选择<br><br>    为降低纳税成本，提高工作效率，优化纳税服务，各级地税机关在原有以上门申报、邮寄申报、代理申报为主要申报方式的基础上，要及时转变观念，积极支持和鼓励广大纳税人采用以现代化通讯技术和计算机网络为依托、以电子货币为介质的纳税申报方式，逐步推行以网上申报、电话申报等非接触式数据电文申报方式为主要形式的管理模式。<br><br>    1、网上申报：帐证健全、实行查帐征收的纳税人、扣缴义务人（尤其是电算化财会核算的纳税人），可经申请认定后，通过浙江地税因特网“网上申报”模块进行纳税申报，所有申报数据通过因特网传输到当地主管税务机关，实现自动办理纳税申报手续。<br><br>    2、电话申报：按定期定额方式征收税款的个体工商户（以下统称“定期定额户”），发生超定额税款时，应由纳税人（或委托代理人）通过“12366”语音电话拨号进入税务机关的电话申报自动接收系统，根据电话语音提示输入申报数据办理纳税申报。<br><br>    对网上申报的纳税人、扣缴义务人定期报送的纸质申报资料和无能力采用数据电文申报的纳税人、扣缴义务人以及远离办税服务厅的城郊或农村的纳税人、扣缴义务人，可经申请认定后，通过浙江地税专邮办理邮寄纳税申报；对无条件或不方便办理数据电文申报方式的纳税人、扣缴义务人，还可委托有税务代理资格的社会中介机构代理申报纳税。<br><br>    四、现代化纳税申报、缴库方式的工作程序<br><br>    （一）现代化纳税申报工作程序为：<br><br>    1、申请网上申报的纳税人、扣缴义务人，按规定填报《纳税申报方式审核认定表》，并经主管地税机关核准后，产生注册码，由纳税人、扣缴义务人通过浙江地税因特网“网上申报”模块进行注册登录。纳税人、扣缴义务人在规定的纳税申报期限内进行纳税申报，填报纳税申报表、财务会计报表及其他应报送的资料，把申报数据通过网上传输给主管地税机关完成纳税申报过程；主管地税机关以自动申报接收系统接收的数据作为纳税人履行纳税申报义务的依据。<br><br>    在当前我国法律对电子数据不具备法律效力的前提下，网上申报的纳税人、扣缴义务人应当按照税务机关规定的期限和要求保存有关资料。对正常纳税人、扣缴义务人可以定期书面报送主管税务机关；对年度内需进行税务检查或注销等的纳税人、扣缴义务人，主管税务机关可责成其限期对以前尚未申报的月份进行书面申报确认。<br><br>    2、申请电话申报的纳税人，按规定填报《纳税申报方式审核认定表》并经主管地税机关核准后，在规定的纳税申报期限内，通过“12366”语音电话拨号进入主管地税机关的电话申报自动接收系统，根据电话语音提示输入申报数据办理纳税申报；主管地税机关以电话申报自动接收系统接收的数据作为纳税人履行纳税申报义务的依据。<br><br>    （二）现代化缴库工作程序，按《浙江省地方税务局关于启用税收转账专用完税证（通用版）的通知》（浙地税函[2002]202号）规定执行。<br><br>    五、推进现代化纳税申报方式的工作步骤<br><br>    推进纳税申报方式现代化是根据我省信息化建设，特别是税务管理和货币金融电子化的发展方向，并结合各地申报缴库方法改革的实际情况而提出的实现全省税款申报缴库和核算管理现代化的必由之路。鉴于目前全省各地的信息化发展水平还不平衡，省局对各地纳税申报方式现代化的改革进程和改革方法暂不作统一的要求，各单位可根据本地的具体条件并参考上述发展模式逐步试行。今后2-3年全省纳税申报方式现代化改革的工作目标为：<br><br>    至2002年底前，各地在定期定额户全面推行“税银联网、实时扣税”办法的基础上，以“12366”语音特服系统为载体，努力争取开展个体税收超定额电话申报纳税的试点工作；各地级市要同时选择部分符合上网条件、财务会计核算水平较高、帐证健全且实行查帐征收的企业纳税人、扣缴义务人进行网上申报纳税的试点工作。<br><br>    至2003年底前，普遍推广符合条件的纳税人、扣缴义务人进行网上申报和地税专邮报送纸质资料，要求大部分企业纳税人、扣缴义务人实现现代化申报、缴税方式；同时，要求全面实施定期定额户通过12366语音电话超定额申报。<br><br>    至2004年底前，全省全面实施现代化纳税申报、缴税方式。初步建立定期定额户简化纳税，超定额电话申报纳税，企业纳税人、扣缴义务人以网上申报为主体，邮寄申报、代理申报、上门申报方式为补充的纳税申报管理模式。<br><br>    各地在实施过程中有什么问题，请及时报告省局。<br><br>    <br><br>                                                                        二ОО二年十月十六日    <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

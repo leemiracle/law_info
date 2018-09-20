@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京劳社养发[2002]206号<BR>&nbsp;&nbsp;【发布日期】2002-12-24<BR>&nbsp;&nbsp;【生效日期】2002-12-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于对间断缴纳基本养老保险费等有关问题的处理办法<br><br></font>(京劳社养发[2002]206号)</p><br><br><br>各区、县劳动和社会保障局，市属各委、办、局、总公司劳资处，各计划单列企业，中央在京企业：<br><br>    为贯彻实施《<a href=javascript:ROF(40272,0) class=alink>北京市企业城镇劳动者养老保险规定</a>》（市政府1998年第2号令，以下简称《规定》），完善企业职工基本养老保险制度，现将对间断缴纳基本养老保险费等有关问题的处理办法通知如下：<br><br>    一、企业和被保险人应当按照国家和本市有关规定，参加基本养老保险并按时足额缴纳基本养老保险费。自2003年1月起，凡企业或被保险人间断缴纳基本养老保险费的（失业人员领取失业保险金期间或按有关规定不缴费的人员除外），被保险人符合国家规定的养老条件，计算基本养老金时，其基础性养老金的计算基数，按累计间断的缴费时间逐年前推至相应年度上一年的本市职工平均工资计算（累计间断的缴费时间，按每满12个月为一个间断缴费年度计算，不满12个月不计算）。<br><br>    二、被保险人符合国家规定的养老条件时，用人单位应在被保险人达到养老条件的当月到劳动保障行政部门为其办理享受基本养老金的审批手续。劳动保障行政部门应于当月受理，当月审批，社会保险经办机构按劳动保障行政部门批准退休日期的次月开始支付基本养老金。<br><br>    被保险人确因工作需要继续留用的，用人单位与超龄留用人员双方应签定相关合同或协议，明确留用时间及有关事项，书面报市或区、县劳动保障行政部门批准，被保险人超龄留用期间，用人单位和被保险人应继续按《规定》缴纳基本养老保险费，其缴费按规定计入被保险人个人帐户并计算缴费年限，留用期结束时，按当期养老金计算办法计发。<br><br>    因用人单位原因延误为被保险人办理审批手续及未经劳动保障行政部门批准擅自延长退休年龄的，社会保险经办机构除拒收超龄部分缴纳的养老保险费外，其基本养老金计算办法，由劳动保障行政部门按被保险人符合《规定》的养老条件时的办法进行核算，基本养老金自审批日期的次月开始支付，不补发。由此使被保险人产生的损失由用人单位承担。<br><br>    在职介中心、人才中心以及在街道参加了基本养老保险的被保险人，符合国家规定的养老条件时，本人应提前一个月提出退休申请。职介中心、人才中心、街道劳动部门应及时为其办理相应手续，劳动保障行政部门按其符合规定的养老条件的当月予以审核批准，社会保险经办机构按劳动保障行政部门批准的退休日期的次月开始支付基本养老金。因被保险人个人原因（不可抗力的原因除外）延误审批的，由此产生的损失由个人承担。<br><br>    三、因用人单位原因使被保险人不能按时缴纳基本养老保险费，按《<a href=javascript:ROF(82666,0) class=alink>北京市劳动局关于实施<北京市企业城镇劳动者养老保险规定>有关问题的处理办法</a>》（京劳险发[1998]69号）规定补缴间断期间基本养老保险费的，由被保险人工作过的原单位向劳动保障行政部门提出申请，并提交被保险人在该单位工作期间的有效证明及在该单位工作期间历年的原始工资收入凭证，以此作为补缴基本养老保险费的基数（无法提供有效工资收入凭证的，以相应缴费年度上一年本市职工平均工资为基数），经核准后可以补缴基本养老保险费。基本养老保险费由单位与被保险人按《规定》的标准分别补缴，同时加收按照个人帐户记帐利率计算的利息，并按国务院《<a href=javascript:ROF(32125,0) class=alink>社会保险费征缴暂行条例</a>》的规定对单位按日加收2‰滞纳金。其中，发生在1999年1月22日以前的欠缴额，自1999年1月22日起加收滞纳金；发生在1999年1月22日以后的欠缴额，按实际欠缴时间加收滞纳金。<br><br>    四、符合国家规定劳动年龄范围内的人员，1992年9月30日前在企业、机关、事业单位工作过，至今未按规定参加基本养老保险的，应自2003年1月1日起参加，并按规定缴纳基本养老保险费。其1992年9月30日前符合国家或本市有关规定计算的连续工龄可视同缴费年限，与其参加基本养老保险以后的实际缴费年限合并计算，1992年10月1日以后，因个人原因未缴纳的基本养老保险费，不再补缴。<br><br>    五、本通知自2003年1月1日起施行。<br><br>    北京市劳动和社会保障局 二○○二年十二月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

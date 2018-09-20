@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80301<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1996-09-11<BR>&nbsp;&nbsp;【生效日期】1997-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民代表大会常务委员会<br>
+关于实行法律监督书的决定<br>
+</font></p><p align='center'><font class='STitle'>（1996年9月11日河北省第八届人民代表大会<br>
+ 常务委员会第二十二次会议通过）</font></p>    为了加强社会主义民主和法制建设，健全和完善人民代表大会常务委员会对人民政府、人民法院、人民检察院的监督机制，强化监督职能，有效地保证宪法、法律、法规和各级人民代表大会及其常务委员会决议、决定的贯彻执行，根据国家有关法律的规定，结合我省实际，特作如下决定：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>各级人民代表大会常务委员会可以根据本决定，以《法律监督书》的方式，对本级人民政府、人民法院、人民检察院以及人民代表大会选举和常务委员会任命的国家工作人员的工作进行监督。人民政府、人民法院、人民检察院以及人民代表大会选举和常务委员会任命的国家工作人员应当接受这种监督。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>各级人民代表大会常务委员会，对本级人民政府、人民法院、人民检察院以及人民代表大会选举和常务委员会任命的国家工作人员违反宪法、法律、法规规定，违反上级或者本级人民代表大会及其常务委员会决议、决定的下列行为，可以发出《法律监督书》：<br>    （一）执行上级或者本级人民代表大会及其常务委员会的决议、决定不力的；<br>    （二）对视察、执法检查或者评议中指出的重大违反宪法、法律、法规事件不予纠正的；<br>    （三）对本级或者上级人民代表大会及其常务委员会责成处理的重大事项逾期不予办理的；<br>    （四）对有重大影响的冤案、错案不予纠正的；<br>    （五）国家工作人员有失职、渎职、徇私枉法行为不予纠正和处理的；<br>    （六）应当发出《法律监督书》的其他行为。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>省、设区的市的人民代表大会常务委员会组成人员五人以上联名，县级人民代表大会常务委员会组成人员三人以上联名，人民代表大会各专门委员会，特定问题调查委员会，可以向本级人民代表大会常务委员会书面建议发出《法律监督书》，由主任会议提请常务委员会审议决定。<br>    在人民代表大会常务委员会闭会期间，主任会议可以决定发出《法律监督书》，但须向下一次常务委员会会议报告。<br>    各级人民代表大会常务委员会发出的《法律监督书》，须向上一级人民代表大会常务委员会备案。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>《法律监督书》应当载明的主要事项是：<br>    （一）发出《法律监督书》的机关名称、文件编号；<br>    （二）接受《法律监督书》的机关名称及其违法事实；<br>    （三）人民代表大会常务委员会的监督意见；<br>    （四）接受《法律监督书》的机关向常务委员会报告纠正和处理结果的限期；<br>    （五）其他事项。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>需要核查发出《法律监督书》建议中提出的违法事实时，由人民代表大会有关专门委员会、主任会议指定的常务委员会组成人员三至五人组成的核查小组或工作委员会进行。<br>    根据需要，可以邀请、聘请具有某方面专业知识或者其他熟悉情况的人员参加核查。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>接受《法律监督书》的机关，应当在《法律监督书》规定的限期内将执行情况报告本级人民代表大会常务委员会。在执行过程中，常务委员会主任会议，有关的专门委员会，受主任会议委托的工作委员会，可以听取受书机关主要负责人关于执行《法律监督书》情况的汇报。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>发现《法律监督书》认定的受书机关的违法事实确实有误时，按下列规定办理：<br>    （一）上级人民代表大会常务委员会可以撤销下一级人民代表大会常务委员会发出的《法律监督书》；<br>    （二）本级人民代表大会常务委员会应当撤销主任会议、常务委员会发出的《法律监督书》。由主任会议决定发出的《法律监督书》，也可以由主任会议决定撤销，并向常务委员会报告。<br>    发现《法律监督书》认定的受书机关的违法事实部分有误时，发书机关可以先  <br>行撤销《法律监督书》，并在纠正后，重新发出。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>省、设区的市的人民代表大会常务委员会组成人员五人以上联名，县级人民代表大会常务委员会组成人员三人以上联名，主任会议，人民代表大会各专门委员会，特定问题调查委员会，接受《法律监督书》的人民政府、人民法院、人民检察院，可以向本级人民代表大会常务委员会书面建议撤销发出的《法律监督书》，由人民代表大会常务委员会主任会议提请常务委员会审议决定。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>对拒不执行《法律监督书》的机关负责人，人民代表大会常务委员会按照干部任免程序，做如下处理：<br>    （一）属于人民代表大会常务委员会任命的，撤销其职务；<br>    （二）属于人民代表大会选举的，依法向本级人民代表大会提出罢免案。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>本决定自一九九七年一月一日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

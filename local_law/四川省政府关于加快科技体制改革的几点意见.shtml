@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82102<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1984-08-02<BR>&nbsp;&nbsp;【生效日期】1984-08-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>四川省人民政府关于加快科技体制改革的几点意见<br>
+</font></p><p align='center'><font class='STitle'>（1984年8月2日川委发〔1984〕27号）</font></p>    为了更好地贯彻“经济振兴必须依靠科学技术进步，科学技术必须面向经济建设”的战备方针，加快科学技术的发展，加快四化建设步伐，迎接世界新的技术革命，在改革经济体制的同时，必须进行科技体制改革，使两者同步进行，互相促进。我省自然科学研究单位，需要进一步扩大自主权，普遍推广成都电子研究所的经验，推行科研承包责任制；在技术开发和推广应用科研单位，应积极试行有偿合同制，逐步取消事业费。具体改革意见如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>在自然科学研究单位，实行科研经济责任制，进一步扩大自主权，放宽政策。<br>    1．建立以“课题承包”、“课题核算”为核心的责任制，把责、权、利结合起来。由课题组向所签订“课题承包合同”，核算课题经费。对管理人员实行岗位责任制和考核记分。<br>    2．扩大计划权。在确保国家任务的前提下，允许科研所面向社会，承担跨行业、跨地区的科研任务和技术服务项目；允许自选课题；允许科研单位与厂矿企业、农村专业户、科技示范户结合，组织多种形式的科研生产联合体，可以入股分红，可以收取技术转让费用。<br>    3．扩大财权。事业费包干后，允许科研单位通过横向的科技服务，包括接受委托研制，成果转让、技术咨询和科研产品销售等，组织收入。收入不上缴，大部分用于建立科技基金，少部分用作职工集体福利和个人奖励基金。全年发放人平奖金总额不超过全所职工年标准平均工资的百分之三十（统按一百八十元计算）。超过奖金总额部分，采取累进加大科技基金提取比例的办法。其计算办法为，全年发放人平奖金超过年标准平均工资百分之三十而未超过百分之四十的，提取率为百分之三十；超过百分之四十而未超过百分之五十的，提取率为百分之一百；超过百分之五十的，提取率为百分之三百。要根据精神鼓励和物质鼓励相结合的原则，对目前部分院所执行的综合奖励办法进行改革。个人奖金上不封顶，下不保底。如有结余，可结转下年，以丰补欠，继续使用。对于有突出贡献的职工，可以晋升一级工资，在本单位组织的纯收入中开支。<br>    对长期完不成计划任务的单位和有关人员要追究责任；对玩忽职守、造成严重损失的，要根据情节，进行惩处。<br>    4．扩大人事权。科研单位有权对分配来的人员（包括科技人员和行政后勤人员）进行考核，择优录用，不适于在院所工作的，可以拒绝接受。按照流向合理的原则，允许科研单位从外地、外单位招聘科技人员和科技管理人员，并自行确定报酬。增加科技骨干，可以不受编制限制。超编人员的工资、资金、福利，由自有资金开支。科研院所长有权对职工进行奖惩，包括给予晋级奖励和各种行政、经济处分，直至开除；对于不适合搞科研的多余人员，可采取多种渠道另行安排；对本单位多余人员，经过领导批准，可以允许辞职。<br>    5．科研单位的技术收入，包括出售中试科研产品不收税。科研单位利用自己的科研成果进行试生产的产品，实行减免税两年；试行有偿合同制的科研单位，可以减免税三年。<br>    6．银行对科研单位经济效益好，具有偿还能力的开发、应用性研究项目，可给予低息科技贷款。<br>    7．有条件的研究院所可参照中办发〔1983〕29号文件建立休假制度。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>试行有偿合同制全部或逐步取消事业费的技术开发和推广应用科研单位，除实行上述规定外，奖励总额可适当高于一般研究单位百分之五至十，奖励形式由各试点单位自行掌握。所级领导完成上级各项考核指标，成绩显著的，经批准，晋升一级工资，并进行职务工资制和岗位津贴试点。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>科研单位试行所长负责制度。所长由上级任命。副所长、总工程师，由所长提名，报请上级任命。行政业务科、室领导由所长任命。所和科室领导任期三年，可以连任。所长全权指挥本所科研、行政、人事、财务、中试生产任务等工作。所长工作的好坏，由上级主管部门进行考核、奖惩。所长的政治生活待遇，实行老人老办法，新人新办法制度。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>对从事基础研究和部分应用研究的单位逐步试行基金制。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>对个省科技攻关项目，试行招标制，允许科研单位或科技人员投标承担，由招标单位择优确定承担单位或承担人。经费和奖励办法在合同中规定，完成任务好的，可从项目经费中提取一定比例作为奖励；也可实行经费包干办法，节余部分归承担单位课题组或承担人，所在的研究所可从中提成。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>对于用非所学、用非所长的专业技术干部，本单位要尽可能根据需要和本人专长予以调整和合理的安排；确实无法解决的，可在本系统、本地区调整；少数在本系统、本地区不能解决的，可以跨系统、跨地区调整。用人单位急需的人才，可以按照工作需要、专业对口和流向合理的原则实行招聘。凡用人单位愿意聘用，本人要求调整的专业技术人员，如果原单位对其安排明显不当，又不愿意调整，经过做工作还卡住不放的，允许本人辞职，由人事部门办理手续，到急需人才的单位工作，其工资级别和工龄不受影响。公安、粮食部门根据人事部门的调动通知办理户口、粮食关系，原单位应迅速移交调离人员的档案，办理有关手续。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>允许科技人员辞职后，与街道工业、乡镇企业、农村专业户、重点户联合经营，成立民间科研机构或咨询服务机构，经费自理。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>改善科技成果管理。成果鉴定要讲求实效，避免形式主义，应用和开发研究方面的科技成果，要把成果投入生产使用后，经实践证明技术上成熟、有明显经济效益作为评价和奖励的主要依据，要吸收使用成果的单位参加评定工作，使用成果的单位有责任提供有关资料。科技成果的应用和推广，应按照有计划地推广和通过市场转让相结合的原则，采用多渠道和多种方式进行，使科技成果尽快转化为生产力。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>发展多种形式的联合体，把不同建制、不同隶属关系的科研、设计、生产单位和高等院校等各方面的科技力量，用“科研设计、生产、服务一条龙”，“科研、设计、生产联合体”，农业现代化综合试验基地，科技开发交流中心，技术咨询服务等多种形式组织起来，更好地为经济建设服务。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>建立科技情报信息网络，沟通科技信息，创造多形式的机动灵活、行之有效的服务方式，逐步试行有偿使用科技情报，逐步实现科技情报手段的现代化，使科技情报工作有效地为经济建设服务。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>对科技管理干部应则科技人员一样，建立健全考核、奖惩办法。对在管理工作中推动科学技术进步，提高经济效益或社会效益，进行创造性劳动，做出显著成绩或重大贡献者，应予以精神和物质奖励。<br>    “四川省自然科学研究机构实行科研承包责任制的有关规定”和“四川省开发研究单位由事业费开支改为有偿合同制的改革试点意见”由四川省科委制定具体办法下发执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

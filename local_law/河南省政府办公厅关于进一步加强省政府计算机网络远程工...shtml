@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81602<BR>&nbsp;&nbsp;【发布文号】豫政办[2000]39号<BR>&nbsp;&nbsp;【发布日期】2000-05-18<BR>&nbsp;&nbsp;【生效日期】2000-05-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府办公厅关于<br>
+ 进一步加强省政府计算机网络远程工作站管理的通知<br>
+ </font></p><p align='center'><font class='STitle'>（豫政办〔2000〕39号二000年五月十八日）</font></p>    近年来，国务院及省政府对全国政府系统办公自动化网络建设非常重视，采取了多种有效措施，有力促进了政府系统工作效率和质量的提高。《河南省人民政府办公厅关于印发＜河南省政府机关远程网络系统邮件传输管理暂行规定＞的通知》（豫政办〔2000〕4号）要求，自今年3月1日起，省政府及办公厅下发的内部传真电报，在办理纸质公文的同时，在网上发送电子邮件；5月1日起停止纸质公文下发。3月1日内部传真电报网上发送试运行以来，多数市地和部门采用一系列措施，确保省政府系统远程网络正常运行，保证了各项工作任务的完成。但是仍有一些市地和部门未引起足够的重视，存在不少问题。5月8日下发的《湖南省人民政府办公厅关于召开2000年河南产品（乌鲁木齐）展销会筹备工作汇报会的通知》（豫政办明电〔2000〕62号号，豫计网〔2000〕35号）是省政府办公厅按国务院办公厅要求正式实行在计算机网络上发送内部传真电报以来的第一份电子文件，由于一些市地和部门对落实国务院办公厅、省政府及办公厅的有关要求措施不力，致使5月8日18时04分已全部传送完毕、通知5月10日上午9时开会的这份电子文件，截止到5月10日上午11时仍有信阳、许昌、漯河、焦作、平顶山5市和省经贸委、外经贸厅、财政厅、地税局、粮食厅、乡镇企业局、石化厅、冶金厅、机械厅、广电厅、工商银行、国税局、供销社、烟草局、医药局、轻工总会等16个部门未从网上接收，造成有的市地和部门未经按要求参加会议的后果，妨碍了省政府工作的正常进行。上述有关市地和部门，要从此次事件中吸取教训，认真整改，不得再发生类似问题。<br>    为进一步加强管理，保障全省政府计算机网络系统远程工作站高效安全畅通地运行，现就有关问题再次通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>更新观念，提高认识，加强领导。全省政府系统远程网络的建设是在国务院办公厅的统一部署下进行的，是全国行政首脑机关网络系统的重要组成部分，是保障政令畅通、提高办公办事效率和质量、精简文件的重要手段，也是新时期政府工作的发展方向，决非权宜之计或只图形式。各地、各部门必须充分认识全省政府系统远程网络建设的重要性和必要性，主要负责同志要亲自过问，把办公自动化建设和网络应用问题作为一项重要日常工作常抓不懈，认真落实豫政办〔2000〕4号文件精神，确保资金、技术的有效投入，加强队伍建设，强化督促检查，切实搞好远程工作站的建设、管理与维护工作。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>理顺关系，明确职责，合理分工。各地、各单位要按照豫政办〔2000〕4号文件要求和单位工作实际，理顺工作关系，确定1至2名政治可靠、具有计算机应用基础的同志担任远程工作站系统管理员，把责任落实到人，并将机关分管领导及系统管理员名单、联系电话书面报省政府办公厅秘书处技术科备案（县级远程站的名单由所属市地政府、行署统一报送）。因工作需要人员变动时，要认真交接工作并及时向省政府办公厅报告。系统管理员要尽职尽责，加强业务学习，以严肃认真的态度办理网上传送的电子文件。对网络运行中的问题，要随时报告，主动衔接，及时解决，确保本单位远程工作站的安全可靠运行。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>建立健全规章制度，制定切实可行的措施，保障政令畅通，确保各项工作任务的完成。各单位要加强对远程工作站的管理，认真查找工作上的漏洞，建立健全远程工作站管理的规章制度。各远程工作站管理员在上班时间要注意接收省政府及办公厅的电子文件，工作日时间每天至少要保证两次开机（每日上班后、下班前）入网查收电子文件。<br>    为确保节假日期间内部传真电报的接收，决定对省政府各部门、18个市地政府、行署系统管理员实行配备集群寻呼的办法。具体办理办法另行通知。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】青岛市<BR>&nbsp;&nbsp;【发布文号】青劳社[2002]216号<BR>&nbsp;&nbsp;【发布日期】2002-09-29<BR>&nbsp;&nbsp;【生效日期】2002-09-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>青岛市劳动和社会保障局关于进一步规范就业管理的通知<br><br></font>(青劳社[2002]216号)</p><br>    <br><br>各区、市劳动和社会保障局,各企业主管部门（公司），市直企业，各有关单位：<br><br>    为进一步拓宽就业渠道，鼓励多种形式就业，促进我市城镇就业与再就业工作，根据市委、市政府《关于“十五”期间促进城镇就业工作的意见》（青发[2001]22号）文件精神，现就进一步规范我市就业管理有关事项通知如下：<br><br>    一、规范用人单位招用失业人员的就业管理<br><br>    用人单位招用失业人员后，应在失业人员第一个工作日前，持双方签订的劳动合同、《招用人员登记表》和失业人员的《失业证》等相关资料，到市职业介绍中心或各区、市劳动就业服务机构通过计算机系统办理就业备案手续，并在《招用人员登记表》和《失业证》上加盖就业备案专用章。对招用正在领取失业保险金的失业人员，劳动就业服务机构在办理就业备案手续时应通过计算机系统对失业人员领取失业保险金记录予以封存，并在《失业证》上加盖封存章。用人单位持《失业证》提取失业人员档案的同时交回《失业证》，对已加盖了失业保险金封存章的《失业证》应装入失业人员档案。<br><br>    二、规范应自谋职业失业人员的就业管理<br><br>    失业人员在领取失业保险金期间自谋职业从事个体经营，领取营业执照或其他许可证明后，应持相关资料到户口所在街道劳动保障服务中心（五市三区失业人员到所在区、市劳动就业服务机构）提出申请。街道劳动保障服务中心应对失业人员自谋职业情况进行核实，指导失业人员填写《自谋职业申请表》，连同失业人员申报资料及《失业证》，经区（市）劳动就业服务机构审查后，报市劳动就业服务机构审核。经市劳动就业服务机构审核同意后，收回《失业证》，由各区、市劳动就业服务机构通过计算机系统为自谋职业失业人员办理就业手续，并将失业人员未领完的失业保险金一次性发放给本人。<br><br>    三、规范非正规就业劳动组织和公益性岗位就业的人员管理<br><br>    失业人员及符合“4045”条件的失业人员、协保人员，通过街道劳动保障服务中心安置在非正规就业劳动组织或公益性岗位工作的，并依法签订了劳动合同或劳动协议后，街道劳动保障服务中心将失业人员的《失业证》、协保人员的《协保证》和《失业保险金申领卡》全部收回，到所在区劳动就业服务机构办理就业手续，纳入就业管理，区劳动就业服务机构到市劳动就业服务机构申办政策性补贴时，应持有关资料和收回的失业、协保人员的证、卡，交市劳动就业服务机构集中存放。对正在领取失业保险金的失业、协保人员，由街道劳动保障服务中心通过计算机系统予以封存。失业、协保人员终止非正规就业劳动组织或公益性岗位工作的，由街道劳动保障服务中心发还其《失业证》或《协保证》和《失业保险金申领卡》，并通过计算机系统恢复失业、协保人员领取失业保险金的信息。<br><br>    四、规范个人从事非正规就业项目失业人员的就业管理<br><br>    失业人员在失业期间从事社区便民利民服务、社会公共管理和服务等非正规就业服务项目工作的，由本人申请，街道劳动保障服务中心核实，报区（市）劳动就业服务机构为其办理就业手续，收回《失业证》，核发《青岛市非正规就业证书》，享受非正规就业有关优惠政策。对正在领取失业保险金的失业人员，由区（市）劳动就业服务机构通过计算机系统封存失业保险金。失业人员终止从事非正规就业项目的，由街道劳动保障服务中心收回《青岛市非正规就业证书》，重新核发《失业证》。<br><br>    五、规范其他灵活形式就业人员的管理<br><br>    失业人员在失业期间从事非全日制就业或临时性、季节性工作等灵活就业，并取得合法劳动报酬，都应纳入就业管理。由街道劳动保障服务中心开具《临时用工通知单》，并在《失业证》上做好就业去向记载，同时通过计算机系统将失业人员基本信息从资源库转入“非正规就业库”，纳入就业管理。对正在领取失业保险金的失业人员，由街道劳动保障服务中心负责通过计算机系统封存其失业保险金领取记录，并在其《失业证》上做好封存记载。失业人员终止从事灵活就业后由街道劳动保障中心负责通过计算机系统将失业人员基本信息从“非正规就业库”转入资源库，纳入失业人员管理。对享受失业保险待遇的失业人员，恢复其继续申领失业保险金。<br><br>    六、规范失业人员缴纳社会保险<br><br>    各区、市劳动就业服务机构和社会保险经办机构、各街道劳动保障服务中心要加强工作的衔接和配合，对正在参加社会保险投保的失业人员进行分类清理。凡是已参加社会保险投保、未办理就业手续的失业人员，应抓紧为其办理就业手续，收回《失业证》，纳入就业管理；其中对正在领取失业保险金的失业人员，由街道劳动保障服务中心通过计算机系统封存失业保险金，收回《失业证》妥善保管。<br><br>    七、工作要求<br><br>    各区、市劳动就业服务机构应结合失业人员管理规定的要求，切实做好本辖区各类失业人员的动态管理。要从制度上和手续上加以规范。对在动态管理中已隐性就业的失业人员，要及时办理就业手续，纳入就业管理；对正在领取失业保险金的失业人员通过计算机系统封存失业保险金。对以前已安置在非正规就业劳动组织、社区公益性就业岗位从业并正在领取政策补贴的“4045”等就业弱势群体，在申报9月份政策性补贴时，由街道劳动保障服务中心全部收齐失业、协保人员的证、卡，集中上缴到市劳动就业服务机构统一保管；对因收取失业、协保人员证、卡时，不愿再从事非正规就业劳动组织或公益性岗位工作的失业、协保人员，各街道劳动保障服务中心应将这部分人员作为无就业要求人员管理。同时，对失业期间投缴社会保险费的失业人员，各区、市劳动就业服务机构要加强政策宣传，指导街道劳动保障服务中心集中时间于10月份集中时间开展分类清理，按月反馈清理结果，使我市的失业人员管理和就业服务工作逐步纳入制度化、规范化，促进全市就业与再就业工作的深入开展。<br><br>    本《通知》自下发之日起执行。<br><br>                                    二○○二年九月二十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

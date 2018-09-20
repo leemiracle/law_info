@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】上海市<BR>&nbsp;&nbsp;【发布文号】沪府办发〔2004〕37号<BR>&nbsp;&nbsp;【发布日期】2004-07-30<BR>&nbsp;&nbsp;【生效日期】2004-07-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanghai.gov.cn/shanghai/node2314/node2319/node10800/node11408/node12942/userobject26ai1969.html" target=_blank>上海市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上海市人民政府办公厅转发市政府信息公开联席会议办公室<br>关于进一步做好政府信息公开工作的意见的通知<br> <br></font>(沪府办发〔2004〕37号)</p><br> <br><br>各区、县人民政府，市政府各委、办、局：<br><br>    市政府信息公开联席会议办公室《关于进一步做好政府信息公开工作的意见》已经市政府同意，现转发给你们，请认真按照执行。<br><br>二○○四年七月三十日 <br><br>    <br>关于进一步做好政府信息公开工作的意见<br><br>    《上海市政府信息公开规定》（以下简称《规定》）正式实施以来，各项工作起步较稳，社会各界反响良好，取得了阶段性成果。但目前政府信息公开工作还存在信息内容不够全面、更新维护不够及时、网上公布不够规范、办理申请不够顺畅等问题。为了进一步完善政府信息公开工作，更好地为社会公众服务，根据市政府领导的要求，提出如下意见：<br>    一、逐步扩大信息公开的内容范围<br>    各政府部门要从公众需求出发，按照“公开为原则，不公开为例外”的总体要求，进一步扩大政府信息公开的内容范围。各政府部门对尚未公开的信息要认真进行梳理，对原保密级别、保密期限的确定不合理的文件，应在严格遵守国家有关保密法规的同时，按规定程序进行解密，逐步予以公开；对已经公开的信息，要从方便公众查询的角度，进行系统整合，不断提高信息的完整性和利用率；对依申请公开的文件，一般按照“谁发文、谁提供”的原则进行受理，在受理过程中如对该文件是否公开有疑义的，应按“谁起草，谁负责”的原则，由原起草部门提出可否公开的意见。<br>    二、进一步规范公开信息目录编制<br>    市信息委要会同有关部门在总结前一阶段信息公开工作的基础上，对目录编制进一步作出规范，各政府部门要按照统一的规范编制信息公开目录。目录编制应按照“符合发布主体的权限”和“方便公众查询”的要求进行。各政府部门信息公开目录的内容，应属于以本部门名义发布的信息；对其他机关发布的相关信息，不应将其列入本部门主动公开的信息目录范围，但可作为本部门提供咨询服务的内容，将其编入“咨询服务类”目录范围，一并向公众提供。凡列入公开目录的信息，都应按规定提供完整的发布机关名称、信息内容标题、发布日期、公文文号和便于查询、索取的编号等基本数据，并逐步创造条件向公众提供每条信息的内容描述。<br>    三、进一步增强网上信息公开服务功能<br>    各政府部门要充分利用网站的功能，为广大公众提供更便捷、更系统、更有效的信息公开服务。各政府部门应在网站首页面开辟政府信息公开专栏，合理设置信息公开目录、信息公开指南、网上受理申请和网上查询服务等区域。同时，要按照信息内容的相关性，做好信息标题与信息全文之间、信息与信息之间、各信息内容类别之间的关联，尽量减少点击层次，提高网上服务效率。有条件的部门可逐步建立在网上直接与公众交互的信息公开服务窗口。<br>    四、拓展公众集中查询政府信息场所<br>    各政府部门在充分利用网站做好政府信息查询的基础上，要发挥好市、区（县）档案馆的作用，方便公众现场查询。市政府指定市档案馆外滩新馆（中山东二路9号）作为市政府及其各部门公开信息的集中查阅场所。市政府各部门应充分利用该馆的资源和功能，按时向该馆提供本部门的公开信息目录及相关文件。特别是与社会公众联系较密切的部门，可在市档案馆的配合下，定期或不定期地开展各种类型的现场信息咨询服务活动。各区（县）政府也可以利用各区（县）档案馆的场地资源和服务功能，进一步做好本区（县）的信息公开工作，为公众提供更便捷、更有效的信息服务。市、区（县）档案馆要在市档案局的指导下，不断总结经验，规范管理，优化功能，使其成为各级政府为社会公众提供信息服务的重要窗口。<br>    五、切实加强信息更新维护工作<br>    各政府部门要落实专人、制定措施、建立机制，切实做好公开信息的更新维护工作。各政府部门要将政府信息公开这一要素贯穿于文件（或其他信息材料，下同）生成的全过程，在文件进入审签程序时就必须明确该信息可否公开，一经签发生效，即将可公开信息予以发布。各政府部门要密切关注和跟踪《行政许可法》实施过程中对有关法规、规章和规范性文件的立、改、废情况，以及审批制度改革过程中各类文件的修改、取消和调整情况，及时更新本部门公布的相关信息内容，确保信息的准确性。同时，要及时将与公众服务、公众联系相关的地址、电话、传真号、电子邮件等信息进行更新。<br>    六、建章立制，规范依申请信息公开的流程、服务方式和内容<br>    各政府部门要根据《规定》的基本要求和所掌握公共信息的特点，进一步完善本部门办理依申请信息公开的具体办法，规范依申请信息公开的流程、服务方式和内容。在细化流程方面，要突出责任到人，使每一个环节都有明确的操作要求和办结时限，对申请的可公开信息要及时提供或告知获取的渠道，对要件不全的申请要指导申请人补全要件，对涉及免予公开信息的申请要耐心说明不予公开的理由，对本部门业务范围之外的信息申请要明确告知申请途径或转告相关部门。在优化服务方面，要强调热情待人，使每一位申请者都能在与政府部门的接触中感受到人文关怀，要设立可直拨的咨询电话，确保工作时间始终有人接听，要为申请者提供监督、投诉和获取救济的渠道，要加强对窗口工作人员的业务培训，建立常见问题便民问答库和接待用语标准。在强化内容方面，要重申“公开为原则，不公开为例外”的总体要求，组织力量对尚未公开的信息进行分类、整理、界定，进一步扩大依申请公开的信息范围，原则上涉及公众利益的文件全部予以公开，对市民申请频率较高的文件要及时转为主动公开信息，并在网站、档案馆和有关媒介进行公布，同时相应调整主动公开信息目录。<br>    七、利用多种形式，扩大政府信息公开影响<br>    各政府部门要做好信息公开的宣传工作，帮助社会公众深入了解政府信息公开工作，引导公众正确行使知情权；要推广政府信息公开志愿者到社区服务的做法，帮助更多市民掌握查阅信息的办法和申请信息公开的途径；要积极利用新闻媒体、便民手册和各类专题活动宣传政府信息公开工作，扩大信息公开影响。<br>    八、不断总结经验，逐步建立起信息公开的长效机制<br>    各政府部门要认真总结前阶段信息公开工作的经验，结合实际运行的情况，进一步完善主动公开和依申请公开的实施细则。要在部门内部制定信息公开的相关规范，建立监督制度和责任追究制度；要加强与同级档案馆的联系，建立便捷、高效的政府信息资料的送交制度，增强档案馆作为集中查阅点的功能；要结合科学民主决策的机制建设，探索重大规划、重大项目、重大决策的预告制度；要加强对政府信息公开情况的统计分析，结合社会公众的意见、建议，不断改进工作方法，推进政府信息公开工作再上新台阶。 <br><br>    <br>上海市政府信息公开联席会议办公室<br>二○○四年七月三十日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

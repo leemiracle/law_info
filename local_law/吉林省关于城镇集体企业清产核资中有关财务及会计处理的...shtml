@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80703<BR>&nbsp;&nbsp;【发布文号】吉城集联[1995]11号<BR>&nbsp;&nbsp;【发布日期】1995-01-01<BR>&nbsp;&nbsp;【生效日期】1995-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 关于城镇集体企业清产核资中有关财务及会计处理的暂行规定<br>
+</font></p><p align='center'><font class='STitle'>（省城区集体经济办公室、省地方税务局<br>
+吉城集联［1995］11号）</font></p>各市、州、县（市）城区集体经济办公室（经贸委、计委）、地方税务局、省直有关单位：<br>    根据《吉林省城镇集体企业清产核资实施办法》（吉轻集联字［1995］6号）的安排，对我省境内的城镇集体企业普遍进行一次清产核资工作。为了切实做好这次城镇集体企业清产核资工作，现将清产核资中有关财务及会计处理问题规定如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>对清查中盘盈的固定资产，以重置完全价值作为原价，借记“固定资产”科目，按新旧程度估计的累计折旧数，贷记“累计折旧”科目，原价减估计折旧后的差额，贷记“营业外收入－固定资产盘盈”科目。对清查出的固定资产盘亏、毁损，借记“待处理财产损益”科目，贷记有关资产科目。其中，应由过失人赔偿或者保险公司赔损部分，借记有关科目，贷记“待处理财产损益”科目；没有赔偿的部分，借记“营业外支出－固定资产盘亏或毁损”科目，贷记“待处理财产损益”科目。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>对清查中盘盈的流动资产，按现行财务制度规定，冲减管理费用，借记有关科目，贷记“管理费用－某项资产盘盈”。对流动资产的盘亏或毁损，属于经营管理不善的，借记“管理费用”，贷记“待处理财产损益”科目；属于非常损失部分，借记“营业外支出－非常损失”科目，贷记“待处理财产损益”科目。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>对清查出的企业潜亏，属于残损、霉变毫无价值的部分，可借记“待处理财产损益”科目，贷记有关科目。对属于尚有一部分价值的，应采取随销售随进损益的方法。属于1994年年底以前少转少摊的待摊费用，材料价格差异、制造费用、管理费用和销售费用等，报经税务部门批准，从1995年起分期摊入管理费，可在以后五年内摊完。其中：企业属于免征所得税期间少转少摊部分征收所得税时不予扣除。借记“管理费用－潜亏摊销”科目，贷记“待处理财产损益”科目，或列入“递延资产”科目。如要按上述办法冲销企业潜亏还有剩余部分，借记“盈余公积”、“资本公积”等科目，贷记“等处理财产损益”科目。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>对清查出来的企业各项帐外资产和没有按社会集团购买力控制规定办理手续购置的物品以及接受捐赠而未入帐的固定资产，经审查批准后，要及时入帐。比照国办发［1993］29号文件，在财务检查和审计中一般不再追究违纪责任。<br>    企业在清欠过程中收回的各种物资（包括车辆），有关部门应予办理相关手续。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>对清查出的坏帐损失，企业必须如实反映和申报。在认真核查的基础上，对债务人破产或死亡，以其破产财产或遗产清偿后，仍不能收回的帐款，或因债务人逾期三年以上未能履行偿债，确实不能收回的贷款，并经所在地企业主管部门或税务、工商、法院等有关单位的书面证明，报企业主管部门审核和当地税务部门批准后，可以列为坏帐损失，按有关政策规定办理。实行新会计制度前的坏帐损失，企业应制定摊销计划，分期摊入管理费用；实行新会计制度后，提取坏帐准备金的企业，冲减坏帐准备金；没有提坏帐准备金的企业，发生的坏帐损失可列入管理费用。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>企业清产核资中，资产损失数额较大，难以自行消化的，经企业主管部门审查，报上级清产核资办公室批准，可用固定资产重估价值增值部分冲销，冲销后的剩余部分也可转为企业实收资本。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>企业清产核资后，处理清查出资产损失、盘亏、毁损、报废数额，各县（市）、区属企业，经企业及主管部门查实，并提出处理意见后，报县（市）、区清产核资办公室审定，并报送市清产核资领导小组办公室备案；市属集体企业及国、省、市管单位的厂校办集体企业，经企业主管部门清产核资办公室查实，并提出处理意见后，报市清产核资工作领导小组办公室审定。企业在清产核资中，对盘盈、盘亏的资产在计入损益时，首先应本着盈亏相抵的原则，对净收益应并入当年利润，属于固定资产的，同时计入资产价值，并允许按现行规定提取折旧。对上述各项条款损失净额在10万元以下的（含10万元）报当地县（市）、区地方税务部门审批；10万元至20万元之间的报市、州地方税务部门审批；超过20万元以上的报省地税局审批。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>各级清产核资工作部门税务部门在清产核资工作中要密切配合，积极协调，对发现的各种问题应根据企业实际情况，认真加以处理，以确保清产核资工作的质量。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>本规定自一九九五年一月一日起执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

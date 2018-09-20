@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】上海市<BR>&nbsp;&nbsp;【发布文号】沪府发〔2004〕10号<BR>&nbsp;&nbsp;【发布日期】2004-03-10<BR>&nbsp;&nbsp;【生效日期】2004-03-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanghai.gov.cn/shanghai/node2314/node2319/node10800/node11407/node12940/userobject26ai1111.html" target=_blank>上海市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上海市人民政府关于本市开展第一次经济普查的通知<br> <br></font>(沪府发〔2004〕10号)</p><br><br><br>各区、县人民政府，市政府各委、办、局：<br><br>    根据《国务院关于开展第一次全国经济普查的通知》（国发〔2003〕29号）要求，今年本市开展第一次经济普查。现将有关事项通知如下：<br><br>    一、普查的目的和意义<br><br>    这次经济普查，主要是为了全面掌握本市第二产业和第三产业的发展规模、结构和效益等信息，建立健全覆盖国民经济各个行业的基本单位名录库（含编码）及其数据库系统。<br><br>    搞好这次经济普查，对调整优化经济结构，转变经济增长方式，履行政府宏观调控和公共服务职能，都具有重要意义。同时，对改革统计调查体系，完善国民经济核算制度，健全统计监测和预报系统，都具有重要作用。<br><br>    二、普查的对象和范围<br><br>    普查的对象是在本市行政区域内从事第二产业和第三产业的全部法人单位、产业活动单位和个体工商户。<br><br>    普查的范围包括：采矿业，制造业，电力、燃气及水的生产和供应业，建筑业，交通运输、仓储和邮政业，信息传输、计算机服务和软件业，批发和零售业，住宿和餐饮业，金融业，房地产业，租赁和商务服务业，科学研究、技术服务和地质勘查业，水利、环境和公共设施管理业，居民服务和其他服务业，教育，卫生、社会保障和社会福利业，文化、体育和娱乐业，以及公共管理和社会组织等。<br><br>    三、普查的内容和标准时点<br><br>    普查的内容为：单位标志、从业人员、财务收支、资产状况，以及企业的主要生产经营活动和生产能力，主要原材料和能源消耗及科技开发的投入状况等。<br><br>    普查的标准时点：2004年12月31日；时期资料为2004年度。<br><br>    四、普查的组织实施<br><br>    拟成立上海市第一次经济普查领导小组，负责全市普查的组织领导和工作协调。领导小组下设办公室（设在市统计局），负责普查的具体组织实施工作。<br><br>    各区县政府、各有关部门要设立相应的领导小组及其办公室，负责本地区、本部门普查的组织实施。同时，要充分发挥街道办事处和居民委员会、乡镇政府和村民委员会的作用，动员和组织社会力量积极参与、配合做好普查工作。<br><br>    五、普查的要求<br><br>    （一）各区县政府、各有关部门要按照全市的统一部署，各司其职、各负其责、通力协作、密切配合，确保普查顺利进行。<br><br>    （二）各级普查机构和宣传部门、新闻单位要充分利用广播、电视和报刊等，广泛深入地宣传普查的重要性和实施方案等，为普查工作的顺利实施创造良好的社会环境。<br><br>    （三）凡在本市行政区域内从事第二产业、第三产业的所有法人单位、产业活动单位和个体工商户都必须严格按照《中华人民共和国统计法》和《上海市统计管理条例》的有关规定和这次普查的具体要求，按时、如实地填报普查表，不得虚报、瞒报、拒报、迟报，不得伪造、篡改普查资料。<br><br>    六、普查的经费<br><br>    普查所需经费，由各级财政分级负担。各级普查机构向同级财政部门编报预算，经同级财政部门核定后，列入相应年度预算，并按时拨付到位。<br><br>    有关普查的实施方案，由上海市第一次经济普查领导小组办公室另行印发。<br>    <br><br>    二○○四年三月十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

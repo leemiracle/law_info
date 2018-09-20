@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80302<BR>&nbsp;&nbsp;【发布文号】冀政[1995]83号<BR>&nbsp;&nbsp;【发布日期】1995-09-19<BR>&nbsp;&nbsp;【生效日期】1995-09-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府关于破产企业债务担保连带责任解决办法的通知<br>
+</font></p><p align='center'><font class='STitle'>（冀政〔1995〕83号1995年9月19日）</font></p>    为了认真贯彻执行《<a href=javascript:ROF(5823,0) class=alink>中华人民共和国企业破产法</a>》（试行），为使我省工业企业破产工作有序进行，现就破产企业债务担保连带责任解决办法作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>认真贯彻执行《<a href=javascript:ROF(20946,0) class=alink>国务院关于在若干城市试行国有企业破产有关问题的通知</a>》（国发〔1994〕59号）关于“行政机关为企业提供担保的，应当按照国家有关规定确认担保合同无效”的规定。担保企业能提供行政部门强制担保原始证明，并经当地政府和债权银行审核、认定，或由法院裁定，可视同行政机关担保，确认担保合同无效。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>企业破产后，为使债权银行尽量少受损失，又使担保企业的生产经营活动尽量少受影响，承担破产企业债务担保连带责任的企业，可分别根据年税后利润情况承担责任：<br>    （一）企业担保的破产企业贷款余额，占连带责任企业当年税后利润20％以下的，银行贷款本息由担保企业分2年归还银行。<br>    （二）担保贷款余额占税后利润20％以上不足50％的，本息由担保企业分3年归还银行，分年还款比例由当地政府、企业和银行共同商定。<br>    （三）担保贷款余额占税后利润50％以上不足70％的，自企业破产之日起，贷款不再计息，利息损失由银行呆帐准备金冲销，贷款余额由担保企业分5年归还银行。分年还款比例由当地政府、企业和银行共同商定。<br>    （四）担保贷款余额占税后利润70％以上的，自企业破产之日起，贷款不再计息，利息损失由银行呆帐准备金冲销，贷款余额由担保企业分7年偿还。分年还款比例由当地政府、企业和银行共同商定。<br>    （五）企业破产时，担保企业无盈利或亏损的，贷款余额可划转到担保企业名下，贷款不再计息，利息损失由银行呆帐准备金冲销。自担保企业盈利年度起，按以上（一）至（四）项规定，偿付银行贷款。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>为破产企业承诺债务担保的地方国有工业企业，因负连带责任代为偿还的债务，可一次或分期计入企业成本或费用。代为还款部分，可视同担保企业当年实现利润。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>债权人或债务人因企业不能清偿到期债务，按照《<a href=javascript:ROF(5823,0) class=alink>中华人民共和国企业破产法</a>》规定的程序向企业所在地人民法院提出企业破产申请并经法院受理后，如有的国有企业自愿兼并整体接收破产的国有工业生产企业，并负责安置职工、承担企业债务的，经当地法院同意，可以终止破产程序。为了使破产试点工作顺利进行，兼并接收已经法院受理破产企业的，可以享受中国人民银行、国家经贸委、财政部《关于鼓励和支持18个试点城市优势国有企业兼并困难国有工业生产企业后有在银行贷款及利息处理问题的通知》（银发〔1995〕130号）规定的优惠政策，即根据被兼并接收企业资产负债的实际状况，经银行核查同意后，可以免收被兼并接收企业原欠银行贷款利息。在计划还款期内，对被兼并接收企业的原贷款本金可实行停息挂帐，流动资金贷款的停息期限不得超过2年，固定资产的停息期限不得超过3年。对计划还款期后仍不能归还贷款的，贷款银行可从到期之日起执行中国人民银行的各项计息、加罚息及计收复利的有关规定。<br>    要求实行免息、停息政策的企业，由兼并接收企业向被兼并接收企业各贷款银行提出书面申请，并报送企业兼并接收方案及兼并接收双方财务报告的有关材料。<br>    兼并接收企业要制定分期偿还银行债务的计划。分期归还银行债务的期限最长不超过5年，每年归还比例不低于20％。被兼并接收企业贷款的免息、停息从批准之日起执行，同时原贷款时的担保合同即行失效。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>上述意见仅适用于1994年底以前发生的企业债务担保，以后发生的企业债务担保连带责任按国家有关规定执行。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>地方国有企业为集体企业或集体企业为地方国有企业承担贷款担保的，当被担保企业破产时，担保方也可按本《通知》执行。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>为了保证担保企业生产经营活动正常进行，有关部门不得在本规定还贷期限内再以债务担保连带责任问题查封担保企业帐号，也不得采取其他强制制裁措施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

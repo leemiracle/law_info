@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81902<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1989-02-10<BR>&nbsp;&nbsp;【生效日期】1989-02-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省能源利用监测管理办法<br>
+</font></p><p align='center'><font class='STitle'>（一九八九年二月十日广东省人民政府颁布）</font></p><p class='zhang'>第一章  总则</p><br><p></p><a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强能源利用监测工作，降低产品能源消耗，提高企业经济效益和社会效益，根据国家《<a href=javascript:ROF(4854,0) class=alink>节约能源管理暂行条例</a>》（以下简称《条例》）和《广东省节约能源管理办法》（以下简称《办法》）的有关规定，结合我省实际情况，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称能源是指煤炭、焦炭、原油、重油、汽油、柴油、电力、煤气、外购蒸气、外购水、水力、薪柴和蔗渣等。<br>    所称能源利用监测（以下简称监测）是指运用能量审计和现场测试手段，对用能单位能源利用情况、耗能设备、产品能耗和供能部门供能质量进行检查和测试。<br><p></p><a name='3'><font class='TiaoNoA'>第三条</font></a>  本办法适用于我省范围内的企、事业单位（包括外商投资企业和中央、外省在粤的企、事业单位）、机关、团体、部队、学校和个人。<br><p class='zhang'>第二章  监测机构和职责</p><br><p></p><a name='4'><font class='TiaoNoA'>第四条</font></a>  省设立能源利用监测中心（以下简称监测中心），主要职责是：<br>    （一）制定全省监测规划和年度工作计划，指导、协调全省监测工作；<br>    （二）协助制定我省监测规范、标准和测试方法；<br>    （三）收集、整理、储存全省监测数据、资料，开展能源测试技术咨询服务；<br>    （四）负责省级节能新产品、新设备的能耗测试和技术鉴定的检测工作；<br>    （五）有选择地对省内各地用能单位进行监测；<br>    （六）组织开展监测技术合作、经验交流活动和监测人员的技术培训。<br><p></p><a name='5'><font class='TiaoNoA'>第五条</font></a>  市设立监测中心（站），主要职责是：<br>    （一）编制本辖区监测工作计划和阶段监测计划；<br>    （二）负责本辖区监测工作；<br>    （三）定期向上级业务主管部门和省监测中心提供本辖区监测数据、资料和工作报告；<br>    （四）负责本辖区节能产品、新设备能耗测试工作，开展监测技术交流活动和提供能源测试技术咨询服务。<br><p></p><a name='6'><font class='TiaoNoA'>第六条</font></a>  监测中心（站）必须具备下列条件：<br>    （一）有能独立完成监测工作的助理工程师以上职称的技术人员三至五人，仪表工一人，化验员一至二人；<br>    （二）有必需的监测仪器和设备；<br>    （三）有健全的仪器、设备、药品和化学试剂的保管制度、标定制度及工作制度。<br><p></p><a name='7'><font class='TiaoNoA'>第七条</font></a>  省、市经济委员会的节能管理机构分别是省、市监测中心（站）的业务主管部门。<br><p></p><a name='8'><font class='TiaoNoA'>第八条</font></a>  市监测中心（站）的设立，由其业务主管部门报告市人民政府审批，并经省经济委员会对其开展监测工作的条件审核认可后，方可开展监测工作。<br><p class='zhang'>第三章  监测程序和处理</p><br><p></p><a name='9'><font class='TiaoNoA'>第九条</font></a>  监测中心（站）开展监测工作，应会同被监测单位的业务主管部门进行，并提前十五日联合向被监测单位发出《监测通知书》。被监测单位在接到《监测通知书》后，必须按要求做好准备工作，不得拒绝和阻挠。<br><p></p><a name='10'><font class='TiaoNoA'>第十条</font></a>  监测中心（站）进行监测时，必须严格按国家、部、省规定的能源技术规范和标准执行。<br>    所执行的能源标准是国家标准局颁发的ＧＢ2586－－81《热量单位称号与换算》、ＧＢ2587－－81《热设备能量平衡原则》、ＧＢ2588－－81《设备热效率计算通则》、ＧＢ2589－－81《综合能耗计算通则》、ＧＢ3485－－83《评价企业合理用电技术导则》、ＧＢ3486－－83《评价企业合理用热技术守则》以及我省依据上述标准制定的省级标准。<br><p></p><a name='11'><font class='TiaoNoA'>第十一条</font></a>  监测完毕，被监测单位和监测人员应在监测记录上盖章和签名。<br><p></p><a name='12'><font class='TiaoNoA'>第十二条</font></a>  监测中心（站）应在监测完毕后十五日内向被监测单位及其业务主管部门、同级节能管理机构提交监测报告。<br>    监测报告应载明以下内容：监测项目、测试数据、分析结果、合格与不合格项目、处理意见。<br><p></p><a name='13'><font class='TiaoNoA'>第十三条</font></a>  经监测不合格的，由监测中心（站）向其发出《限期整改通知书》并确定复测日期。经复测仍不合格的，由监测中心（站）按《条例》和《办法》规定向被监测单位发出《处罚通知书》。<br><p></p><a name='14'><font class='TiaoNoA'>第十四条</font></a>  对被监测单位所罚款项必须按有关规定上交当地财政（其中中央部属、省属单位被罚款项上交省财政）。被处罚单位的被罚款项不得列入成本（费用）。<br><p></p><a name='15'><font class='TiaoNoA'>第十五条</font></a>  被监测单位对处罚不服的，可在接到《处罚通知书》之日起十五日内向所在地市（或省）能源利用监测工作仲裁委员会申请仲裁：涉及能源标准的争议，由省能源利用监测工作仲裁委员会仲裁；其余争议，由市能源利用监测工作仲裁委员会仲裁。<br>    能源利用监测工作仲裁委员会由省（或市）经济委员会节能管理机构负责组织。<br>    能源利用监测工作仲裁委员会应在接到申请之日起十五日内作出裁决。<br><p></p><a name='16'><font class='TiaoNoA'>第十六条</font></a>  监测人员必须严格按本办法进行监测，不得营私舞弊。违者，由当地节能管理机构视其情节轻重，分别给予警告、通报的行政处分。情节严重的，  经省经济委员会批准，取消其监测资格。<br><p class='zhang'>第四章  附则</p><p></p><a name='17'><font class='TiaoNoA'>第十七条</font></a>  本办法自公布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

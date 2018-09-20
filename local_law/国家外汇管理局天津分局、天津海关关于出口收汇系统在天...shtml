@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80203<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2001-02-19<BR>&nbsp;&nbsp;【生效日期】2001-02-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家外汇管理局天津分局、天津海关<br>
+ 关于出口收汇系统在天津试运行有关问题的公告<br>
+</font></p><p align='center'><font class='STitle'>（2001年2月19日）</font></p>    为防范和打击利用假冒、伪造的出口收汇核销单逃汇的违法犯罪活动，改善管理部门服务质量，完善出口收汇核销管理，降低企业贸易成本，提高贸易效率，国家外汇管理局和海关总署联合开发了中国电子口岸“出口收汇系统”，并定于2001年4月1日起在天津地区试运行。现将有关事项公告如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>“出口收汇系统”的功能和作用<br>    “出口收汇系统”是中国电子口岸最先投入试点运行的子系统之一。该系统利用现代信息技术，借助国家电信公网，在公共数据中心建立出口收汇核销单（以下简称“核销单”）的电子底帐，使海关和税务部门实现出口报关和出口退税环节对核销单的联网数据核查，并使企业可在网上向外汇局申请需领用核销单份数，向出口报关地海关进行核销单报关前备案，出口后可以进行网上交单，并可随时随地对核销单领取、使用等各项信息进行综合查询，使出口报关、收汇核销及退税业务更加方便快捷。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>出口收汇系统的身份认证和ＩＣ卡发放<br>    （一）企业必须凭本企业操作员ＩＣ卡才能进入出口收汇系统，完成相关业务操作。系统根据ＩＣ卡信息进行操作员身份验证，操作员处理的数据将自动进行电子签名、加密。未进行中国电子口岸用户认证并申领ＩＣ卡的企业于2001年4月1日起将无法开展相关的出口、收汇核销业务。<br>    （二）中国电子口岸天津地区入网用户的资格审查和ＩＣ卡发放工作将于2001年2月14日至4月1日前在天津海关报告厅（河东区六纬路2号）集中进行（企业具体办理时间由市外经贸委另行通知）。因特殊原因未能在此期间申领ＩＣ卡的出口企业，可向本地区制卡中心申请补办手续。<br>    （三）申请中国电子口岸用户资格的企业必须是2000年经天津海关年审有效的企业，申请时须携带以下文件（正本或副本原件及复印件）：<br>    1、《企业法人营业执照》或《企业营业执照》；<br>    2、《税务登记证》或《外商投资企业税务登记证》；<br>    3、《中华人民共和国进出口企业资格证书》或《<a href=javascript:ROF(16448,0) class=alink>中华人民共和国外商投资企业批准证书</a>》；<br>    4、《自理报关企业注册登记证》以及《报关员证》；<br>    5、《中华人民共和国组织机构代码证》；<br>    6、《出口收汇核销员证》。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>企业在出口收汇系统试点运行后需做好以下几项工作：<br>    （一）核销单的申领<br>    自2001年3月15日起，天津地区的出口企业（以下简称“企业”）需上网申领新版核销单（即加贴或加印了“条型码”并盖有“联网试点专用章”的纸质核销单）。企业在此之前领取的核销单（以下简称“旧版核销单”）自4月1日起停止使用，并应当在一个月内交回外汇局注销。新版核销单于4月1日开始启用，空白新版核销单无需填写有效期，视同长期有效。全国海关将于4月1日起对天津地区新版纸质核销单进行电子底帐数据联网核查。<br>    企业在到外汇局领取新版纸质核销单之前，需上网向外汇局申请所需领取核销单份数。企业在网上申请后，不需等待外汇局的网上审批，即可凭本企业操作员ＩＣ卡到外汇局领取新版纸质核销单。外汇局根据企业网上申请的新版核销单份数以及本地出口收汇核销系统确认的企业可领单数量，向企业发放纸质新版核销单，同时将所发新版核销单电子底帐数据联网存放到公共数据中心。<br>    企业领单时可以不用当场在新版纸质核销单上填写单位名称或加盖单位名称章。新版纸质核销单仅需在正式使用前填写单位名称或加盖单位公章。<br>    （二）核销单的报关前备案<br>    企业到海关报关出口前，必须上网向报关地海关进行新版核销单使用的报关前备案。一张核销单只能对应用于一张出口报关单。未进行报关前备案的新版核销单不能用于出口报关。对已进行备案而尚未使用的新版核销单，在报关地点发生变化时，企业可上网申请变更并重新向变更后的报关地海关备案。<br>    （三）出口交单<br>    企业在货物出口后不需再到外汇局进行手工交单，可以上网将已用于出口报关的核销单向外汇局交单。<br>    对于预计收款日期超过报关日期90天以上（含90天）的远期收汇，企业应当在报关后60天之内进行网上交单，凭远期出口合同、核销单向外汇局备案，并应当在核销单的“收汇方式”栏注明远期收汇天数。凡未向外汇局备案的，一律视作即期出口收汇。<br>    企业如需要在报关后60天之内办理出口收汇核销手续的，应当在货物实际报关离境后先向外汇局进行网上交单，届时再到外汇局办理相关手续。<br>    （四）收汇核销<br>    即期出口项下，企业应当在出口报关之日起100天内凭核销单、报关单、出口收汇核销专用联到外汇局办理出口收汇核销手续；远期出口项下，企业应当在合同规定收汇日起10天内持上述材料到外汇局办理出口收汇核销手续。<br>    （五）关于核销单遗失<br>    企业遗失空白新版核销单，应当立即自行上网挂失或向外汇局申请挂失。如因未及时挂失造成经济损失或导致违规行为的，责任由企业自负。<br>    （六）关于核销单综合信息查询<br>    企业可以在网上对核销单的领取、使用等信息进行综合查询，以了解本企业核销单的运转情况，加强核销单管理。<br>    （七）企业如遇到新版核销单或报关单无电子底帐数据或纸质单证与电子底帐数据出现差异等情况，由企业持新版核销单或报关单到发放新版核销单或签发报关单的相关外汇局或海关查询，接到查询要求的外汇局或海关应当在5个工作日内解决问题。如属纸质单证出具有误，外汇局或海关应当更正纸质单证；如属电子数据有误，外汇局或海关应当更正或补充电子数据。<br>    国家外汇管理局天津分局  联系电话：24201923<br>    天津海关  联系电话：24201922<br>    天津海关网址：ｈｔｔｐ：／／ｔｊｃ．ｏｎｌｉｎｅ．ｔｊ．ｃｎ<br>    特此公告。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

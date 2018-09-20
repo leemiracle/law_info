@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】水利部<BR>&nbsp;&nbsp;【发布文号】水办[2003]369号<BR>&nbsp;&nbsp;【发布日期】2003-08-28<BR>&nbsp;&nbsp;【生效日期】2003-08-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>水利部关于印发《水利部信息化建设管理暂行办法》的通知<br><br></font>(水办[2003]369号)</p><br><br><br>部直属各单位，各省、自治区、直辖市水利（水务）厅（局），各计划单列市水利（水务）局，新疆生产建设兵团水利局：<br><br>    为加强水利部信息化建设管理，规范水利部信息化建设程序，有效整合水利信息资源，克服重建轻管、资源浪费、低水平重复建设与开发等不合理现象，推进水利信息化建设有序发展，我部组织制定了《水利部信息化建设管理暂行办法》。现印发给你们，请遵照执行。<br><br>    在实施过程中如发现问题，请及时告水利部信息化工作领导小组办公室。<br><br>附件：1、水利部信息化建设管理暂行办法 <br><br>2003年8月28日<br><br><br>水利部信息化建设管理暂行办法<br><br><br>    <font class='zhang'>第一章</font> 总 则<br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强水利部信息化建设管理，规范水利部信息化建设程序，积极推进水利信息化有序发展，根据国家信息化建设及水利基本建设管理等有关规定，结合水利部信息化建设实际，制定本办法。<br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称水利信息化建设是指水利信息基础设施、水利业务应用及水利信息化保障环境建设。<br>    水利信息基础设施由水利信息采集设施、水利信息网络、水利数据中心构成。<br>    水利业务应用由利用信息技术来处理的各类水利业务应用系统构成。<br>    水利信息化保障环境由水利信息化标准体系、安全体系、建设和运行管理机制、相关政策、投资和人才队伍等构成。<br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  水利信息化建设包括水利部信息化建设和地方水利信息化建设。水利部信息化建设是指水利部机关和直属单位的水利信息化建设以及中央投资的其他水利信息化建设。<br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  本办法适用于水利部信息化建设。地方水利信息化建设可参照执行。<br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  水利部信息化建设必须严格遵循水利信息化标准。<br>    <br>    <font class='zhang'>第二章</font> 组织机构<br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  水利部信息化工作领导小组是水利部信息化建设的领导机构。<br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  水利部信息化工作领导小组办公室（以下简称部信息办），是水利部信息化工作领导小组的日常办事机构，负责水利信息化建设的统筹规划，受部委托会同有关部门组织水利部信息化建设项目审查（包括前期工作），组织水利部信息化建设的协调、检查和监督，推广通用业务应用软件，会同有关部门组织编制水利信息化标准。<br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  各单位应当加强水利信息化建设的组织领导，明确水利信息化建设主管部门，负责管辖范围内水利信息化建设的管理工作。<br>    <br>    <font class='zhang'>第三章</font> 前期工作<br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  水利部信息化建设必须在国家有关信息化规划和全国水利信息化规划的框架下进行，必须按照部属单位基础设施建设投资计划管理等有关规定，履行相应的立项程序。<br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  水利部信息化建设的前期工作，包括水利信息化规划，立项阶段的项目建议书、可行性研究，初步设计（实施方案）等。由部审批的限额以下项目，可将项目建议书和可行性研究合并为项目建议书或可行性研究。<br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  水利信息化规划包括全国和部直属各单位的水利信息化规划，各业务应用规划及其他水利信息化专项规划。<br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  《全国水利信息化规划》由部信息办组织编制，报部审批。部直属各单位的水利信息化规划由本单位信息化主管部门组织编制，报部审批。各业务应用规划由相应的司局组织编制，报部审批。<br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 各单位的信息化建设项目建议书、可行性研究、初步设计（实施方案）应当由本单位信息化主管部门负责初审并经单位同意后报部，由部信息办组织审查，部审批。<br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 水利工程基建项目中包含信息化建设内容的，仍由水利部水利水电规划设计总院组织审查，部信息办参加，部审批。<br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 关系全局的重大水利部信息化建设项目，立项前应当报水利部信息化工作领导小组批准。<br>    <br>    <font class='zhang'>第四章</font> 项目实施<br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  水利部信息化建设项目建设单位必须严格按照审批的设计方案实施，不得擅自变更。因特殊原因确需修改变更设计方案的，须经原设计单位同意，报原审批单位审批。<br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  水利部信息化建设项目的实施，应当严格实行项目法人制、招标投标制和建设监理制。 <br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  各单位应当对水利部信息化建设项目经费的使用进行严格管理。<br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  涉及国家秘密的水利部信息化建设项目，应当同步设计安全保密方案，报保密部门批准。<br>    安全与保密系统建设必须采用国家有关部门认定的产品。重大信息化项目应当通过国家认定的信息系统安全测评认证，未经测评认证的，不得投入使用。<br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  承担水利部信息化建设项目规划、设计、软件开发、设备供应、安装、培训服务的单位，应当具有相应资质或同类项目建设的成功经验。<br>    <br>    <font class='zhang'>第五章</font> 项目验收<br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  部信息办或部信息办委托有关部门组织专家对水利部信息化建设项目进行验收，未经验收或验收不合格的项目，不得投入使用。<br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  涉及安全保密的项目，其安全保密部分由保密部门组织验收。<br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  项目建设单位在项目峻工验收前必须提交竣工报告、技术文档和财务决算报告。<br>    <br>    <font class='zhang'>第六章</font>  成果管理<br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  各单位应当加强对水利部信息化建设项目的硬件和软件资产的管理工作，严格按照国家有关规定进行固定资产登记。<br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  水利部信息化建设项目建设成果（主要包括基础设施建设、应用系统、数据库等）必须报部信息办备案。<br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  水利部信息化建设项目验收合格并投入运行半年后，项目建设单位信息化主管部门应当组织对项目成果进行综合评估。评估的内容主要包括：系统设计是否合理，功能是否完善，能否满足实际工作需要，经济效益和社会效益，存在的主要问题和改进的意见等。<br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  部信息办会同有关部门统一组织基础性的或对水利系统有较大影响的应用软件的测评和推广工作。<br>    <br>    <font class='zhang'>第七章</font> 附则<br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  本办法由水利部负责解释。<br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  本办法自2003年 9月 1日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

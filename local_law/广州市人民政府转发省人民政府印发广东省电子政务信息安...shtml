@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广州市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2003-08-17<BR>&nbsp;&nbsp;【生效日期】2003-08-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广州市人民政府转发省人民政府印发<br>广东省电子政务信息安全管理暂行办法的通知</font></p><br><br><br>各区、县级市人民政府，市府直属各单位：<br><br>    现将省人民政府《<a href=javascript:ROF(87016,0) class=alink>印发广东省电子政务信息安全管理暂行办法的通知</a>》（粤府〔2003〕52号）转发给你们，结合我市实际，提出以下意见，请一并贯彻执行。<br><br>    一、提高对信息安全管理工作的认识。<br><br>    电子政务涉及国家秘密信息和高敏感度核心政务信息的处理，必然会遇到各种破坏和攻击。最近我市发生了几起黑客恶意攻击事件，各地、各部门应提高警惕，引起足够重视。要按照省的要求，切实做好电子政务信息安全工作，加强监控和管理，力保我市电子政务网络和各种应用系统的安全可靠运行。<br><br>    二、建立健全信息安全管理工作制度。<br><br>    市信息化工作领导小组办公室负责组织协调全市电子政务信息安全工作，并对执行情况进行检查监督。市直各有关部门根据各自职能分工负责电子政务信息安全的具体工作。各区、县级市电子政务主管部门负责本区、县级市电子政务信息安全工作。由市信息化工作领导小组办公室牵头，会同市保密局、市公安局、市科技局组成市电子政务信息安全工作小组，负责制定全市电子政务信息安全策略和工作规范，建立全市电子政务信息安全风险评估体系。各单位要落实电子政务信息安全工作责任制，制定安全保护技术措施，积极采用身份认证、访问控制、攻击检测和数据备份等技术手段加强安全保护。要健全机房运行管理制度、计算机病毒防治制度，定期进行入侵检测、安全审计、漏洞扫描等安全性能检测。<br><br>    三、提高信息网络安全应急处置能力。<br><br>    全市各级电子政务网络管理机构，要建立应急事件处置工作联络和协调制度，制定电子政务信息网络安全应急预案和灾难恢复预案，并根据实际情况进行演练。一旦出现事故，事发单位应当按照应急预案采取措施，并妥善保护现场和信息网络运行日志文件等原始记录。各地、各部门要根据实际情况，尽快建立本地、本部门电子政务信息安全事故报告制度。如发生政府网站受到严重攻击、重要的电子政务业务系统不能正常运行、数据库和重点机房受到破坏等重大电子政务安全事故，各区、县级市政府和市政府各部门必须在5小时内向市信息办报告。其他安全事故也要酌情上报。全市性电子政务应用系统的主要数据库和重要的基础性数据库，将在统一的政府数据异地容灾备份中心建成后实现异地备份。<br><br>    四、建设信息安全的技术支撑体系。<br><br>    按照国家、省的有关规定和要求，加快建设全市统一的电子政务内外网，内外网之间实行物理隔离，外网与国际互联网实行逻辑隔离。全市统一管理电子政务外网的国际互联网出口。建立电子政务安全信任机制和授权管理制度，凡接入电子政务外网的应用系统，必须采用广东省数字证书认证中心发放的数字证书，并根据我市实际应用情况研究建立我市数字证书认证中心，负责提供我市范围内电子政务数字证书的登记注册、证书验证、授权服务及时间戳服务。<br><br><br>广州市人民政府<br>二○○三年八月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

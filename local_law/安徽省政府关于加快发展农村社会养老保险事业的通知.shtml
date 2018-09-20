@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81202<BR>&nbsp;&nbsp;【发布文号】皖政[1992]81号<BR>&nbsp;&nbsp;【发布日期】1992-11-23<BR>&nbsp;&nbsp;【生效日期】1992-11-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于加快发展农村社会养老保险事业的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1992年11月23日皖政〔1992〕81号）</font></p>    加快发展农村社会养老保险事业，是党和政府为保障农村老年人基本生活所实行的一项社会政策，对促进农村经济发展和社会稳定，建立社会主义市场经济体制，具有重要意义。根据国务院《<a href=javascript:ROF(13033,0) class=alink>关于企业职工养老保险制度改革的决定</a>》，结合我省实际，现就我省农村社会养老保险事业的有关问题通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>我省农村社会养老保险工作由各级民政部门负责。各级民政部门要在当地政府领导下，切实担负起这一职责，与有关部门密切合作，抓紧规划，认真组织，把这项关系到农民切身利益的事情办好。当前，要集中力量，加快试点县（区）的工作进度，年内完成试点工作，为在全省范围内全面推行农村社会养老保险制度打好基础。<br>    保险公司已在农村开办的养老保险业务，维持现有的投保人数，不再扩大范围和对象。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>农村社会养老保险制度的建立，应从我省农村实际出发，坚持以保障老年人基本生活为目的，坚持保费以个人交纳为主，集体补助为辅，国家给予政策扶持；坚持自助为主，互济为辅，社会养老与家庭养老相结合；坚持农村务农、务工、经商等各类人员社会养老保险一体化的方向，凡非城镇户口的农村劳动者，包括务农农民、乡镇企业职工、私营企业雇主雇员、个体户、外出人员、义务兵、计划生育户、民办教师和乡（镇）、村集体干部等，均应参加农村社会养老保险。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>各行署，各市、县人民政府要成立农村社会养保险事业管理委员会，对农村社会养老保险工作和养老保险基金使用进行指导、监督。同时，根据工作需要，相应设立农村社会养老保险承办管理机构（为非盈利性事业单位），负责农村社会养老保险具体业务，并在编制及开办经费等方面给予积极支持。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>农村社会养老保险基金由省统一管理。省及各地使用这项基金，既要积极，又要稳妥、可靠，确保领取时兑现。养老保险基金可纳入省投资计划，在无风险的前提下，履行完备的报批和资金担保手续后，可选择效益好的重点建设项目投放使用。基金管理部门和使用单位应承担保值增值的责任。地方需使用养老保险基金，要经省基金管理委员会审批、划拨。一切非经营性部门都无权动用这项基金。养老保险基金按规定提取的管理费和个人领取的养老金，一律不计征税、费。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各级政府要把建立农村社会养老保险制度列为当前改革的一项重要内容，加强领导，统筹安排，加快工作进度。要搞好宣传工作，提高农民对养老保险的认识和参保的积极性、自觉性。要加强对业务干部的培训，提高农村社会养老保险事业管理水平。力争“八五”期末在全省建立起符合省情的农村社会养老保险制度。<br>    各级政府可根据本通知精神和民政部《<a href=javascript:ROF(14103,0) class=alink>县级农村社会养老保险基本方案</a>》，结合当地实际，制定农村社会养老保险暂行管理办法颁布实施。<br>    过去印发的有关农村社会养老保险文件，凡与本通知精神不一致的，以本通知为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

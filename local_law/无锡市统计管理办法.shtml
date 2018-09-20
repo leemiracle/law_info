@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】无锡市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2002-01-18<BR>&nbsp;&nbsp;【生效日期】2002-01-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://fzb.wuxi.gov.cn/fg05.htm" target=_blank>无锡市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>无锡市统计管理办法</font></p><br><br><br><font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强对统计工作的管理和监督，保障统计资料的准确性和及时性，发挥统计工作在经济建设、社会发展和科学决策方面的重要作用，根据《<a href=javascript:ROF(25357,0) class=alink>中华人民共和国统计法</a>》、《<a href=javascript:ROF(35296,0) class=alink>中华人民共和国统计法实施细则</a>》、《<a href=javascript:ROF(52210,0) class=alink>江苏省统计管理条例</a>》等法律、法规，结合本市实际，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法适用于本市行政区域内的国家机关、社会团体、企业事业组织、个体工商户以及本市在市外设立的企业事业组织。<br><br>    基层群众性自治组织、公民个人，有义务如实提供统计调查所需要的情况。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 市、市（县）、区人民政府统计机构（以下统称政府统计机构）是本行政区域内的统计工作的主管机构。<br><br>    市、市（县）、区人民政府有关部门以及行业管理机构，应当根据各自的职责配合做好统计管理工作。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 市、市（县）区人民政府应当加强对统计工作的领导，促进统计信息工程建设，建立健全统计信息自动化系统。<br><br>    政府统计机构应当适应市场经济条件下统计工作的需要，建立以市、市（县）、区为总体的抽样调查体系，加强统计抽样调查工作。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 各级领导不得干预统计机构、统计人员依法提供统计资料，不得强令统计人员虚报、瞒报、伪造、篡改统计数据。<br><br><font class='zhang'>第二章</font> 统计机构和统计人员<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 市、市（县）、区人民政府各部门、企业事业组织应当根据统计任务的需要设立统计机构或者在有关机构中配备统计人员，并指定统计负责人。<br><br>    城市街道办事处应当依法配备专职或者兼职、统计人员；乡（镇）人民政府应当配备专职统计人员。<br><br>    基层群众性自治组织应当根据有关规定指定专人负责统计工作。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 统计机构和统计人员应当依法履行职责，如实提供统计资料，准确、及时完成统计任务，保守国家秘密、商业秘密以及私人家庭的单项调查资料秘密。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 统计人员应当具备从事统计工作所需要的专业知识，并取得省政府统计机构印制的统计岗位资格证书后，方可从事相应统计工作。<br><br>    统计人员应当根据统计工作的需要定期接受专业知识培训。<br><br><font class='zhang'>第三章</font> 统计调查<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 国家机关、具有行政管理职能的事业单位、经授权具有一定行政职能的人民团体、人民团体、协会，可以确定与职能范围相适应的统计调查项目（以下统称部门统计调查）。<br><br>    部门统计调查确定以系统外单位为对象的统计调查项目，必须报同级政府统计机构审批，确定以系统内单位为对象的统计调查项目，必须报同级政府统计机构备案。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 除法律、法规、规章另有规定外，部门统计调查对象为外商投资企业的，必须经政府统计机构批准。<br><br>    统计调查内容涉及国家机密的，政府统计机构可以依法决定调查方式。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 政府统计机构在收到部门统计调查的正式申请函及完整的相关资料后，应当在10个工作日内完成审批工作，在5个工作日内完成备案工作。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 政府统计机构应当定期公布部门统计调查项目目录。<br><br>        未经审批、备案或者超过有效期的统计调查项目，被调查对象有权拒绝接受调查。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 境外的组织或者个人不得直接进行社会调查活动。<br><br>    确需在本市进行统计调查活动的，应当委托境内具备涉外社会调查资格的机构进行。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 统计调查人员进行统计调查时，必须向统计调查对象出示政府统计机构颁发的统计调查证件或者统计工作证件；未出示的，被调查对象有权拒绝接受调查。<br><br><font class='zhang'>第四章</font> 统计登记<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 国家机关、社会团体、企业事业组织、个体工商户为基本统计单位，应当根据省政府有关规定进行统计登记：<br><br>    (一)新成立的基本统计单位，应当自工商行政管理机关或者其他有权机关批准成立之日起30日内，到所在地政府统计机构进行统计登记，领取省政府统计机构印制的统计登记证书；<br><br>    (二)基本统计单位分立、合并、迁移或者其他统计登记内容变更的，应当在有权机关批准之日起30日内，向原统计登记机构申请进行统计变更登记；<br><br>    (三)基本统计单位依法终止活动的，应当在有权机关批准或者宣布终止之日起15日内，向原统计登记机构申请注销登记并交回统计登记证书。<br><br>    统计调查对象进行统计登记时，应当提供有关证件和材料。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 统计登记证书自颁发之日起3年内有效。已经办理统计登记的统计调查对象应当在有效期满之日起30日内，持有关资料和统计登记证书到原统计登记机构办理换证手续。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 政府各部门以及行业管理机构应当将基本统计单位的设立、变更、撤销、编制、组织机构代码等行政记录，及时提供给同级政府统计机构，并协助统计部门做好基本单位的清查、登记、年检工作。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 新开工的固定资产投资项目,建设单位应当从核准登记之日起15日内，到当地政府统计机构办理统计设立登记；竣工后的固定资产投资项目,建设单位应当从交付使用之日起30日内，到当地政府统计机构登记备案。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 基本统计单位经出示统计登记证书，可以进行下列与统计相关的活动：<br><br>    （一）领取或查询统计资料；<br><br>    （二）申请审核或认可统计资料；<br><br>    （三）申请办理企业划型手续；<br><br>    （四）申请制发统计报表；<br><br>    （五）申请发布统计资料；<br><br>    （六）办理与统计有关的其它事项。<br><br><font class='zhang'>第五章</font> 统计资料和统计台帐管理<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 政府统计机构以及统计调查对象应当加强统计资料管理工作。<br><br>    国家机关、社会团体、企业事业组织应当根据本部门、本单位统计工作的需要建立统计数据库，并加强统计信息管理技术现代化建设。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 国民经济和社会发展的基本统计资料，由政府统计机构负责公布，其他单位、部门和个人不得擅自公布或者在统计机构公布前公开引用。<br><br>    政府各部门以及行业管理机构需要公布本部门统计资料的，应当与同级政府统计机构核对一致。<br><br>新闻媒体发表尚未公布的国民经济和社会发展基本统计资料，应当经同级政府统计机构核准，并注明提供单位。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 政府统计机构应当建立、健全统计数据质量监控和评估制度，加强对国内生产总值等重要数据的监控和评估。<br><br>    未经上级政府统计机构评估、审定的重要数据不得擅自对外公布和使用。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 各级主管部门以及中央、省和外市设在本市的单位向其上级主管部门报送统计资料时，应当根据规定同时抄送当地政府统计机构。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 市、市（县）、区人民政府以及各部门进行工作考核、表彰和奖励，对企业资质认定，大中型企业划型等事项，凡涉及统计资料的，应当以同级政府统计机构提供或者核实的统计资料为准。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 统计调查对象应当加强统计基础工作，建立原始统计记录，建立、健全统计资料的审核、上报、交接、归档和保密制度。<br><br>    被统计调查抽中的个体工商户，应当自抽中之日起设置原始统计记录。<br><br>    原始统计记录由各单位保存，保存期不得少于3年，承包经营单位应当保存一个承包期。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 企业单位应当建立综合统计台帐、专业统计台帐和基层统计台帐。<br><br>    国家机关、社会团体、事业单位基层群众性自治组织应当建立同本单位业务相适应的统计台帐。 <br><br>    统计台帐保存期不得少于15年。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 国家机关、社会团体、企业事业组织和被统计调查抽中的调查户，上报的统计资料，应有统计台帐、原始统计记录及相关资料证实其真实性。<br><br>    任何单位和个人不得篡改、隐匿或者在规定的保存期限内销毁原始统计记录和统计台帐。<br><br><font class='zhang'>第六章</font> 罚 则<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 违反本办法，有下列行为之一的，由政府统计机构责令改正，予以通报批评；情节严重的，由主管部门、单位或者监察机关对负有直接责任的主管人员和其他直接责任人员给予行政处分；构成犯罪的，依法追究刑事责任： <br><br>    （一）虚报、瞒报、拒报、伪造、篡改统计资料的；<br><br>    （二）迟报统计资料，经指出不改正或者因此而造成严重后果的；<br><br>    （三）擅自确定统计项目、未按规定对外公布统计资料或者违反统计资料保密规定的；<br><br>    （四）利用职权授意、强制统计人员弄虚作假，打击报复统计人员或者举报人员，包庇、袒护统计违法行为的；<br><br>    （五）其他违反统计法律、法规、规章行为的。<br><br>    具有统计专业技术职称的统计人员参与虚报、瞒报、伪造、篡改统计资料，情节严重的，由相应的统计职称评、聘单位撤销其统计专业技术职称。 <br><br>    企业事业组织和个体工商户虚报、瞒报、伪造、篡改统计资料或者拒报、屡次迟报统计资料的，由政府统计机构予以警告，责令其限期改正，并可按照《江苏省统计管理奖惩办法》的规定处以罚款。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 违反本办法规定，有下列行为之一的，由政府统计机构责令其限期改正，予以警告，并处以300元以上1000元以下罚款：<br><br>    (一)任用无统计岗位资格证书的统计人员、拒不改正的；<br><br>    (二)未进行统计登记的；<br><br>   ・(三)未按照规定对统计登记证书进行审验或者换证的；<br><br>    (四)未建立原始统计记录或者统计台帐的。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 在接受统计检查时，拒绝提供情况、提供虚假情况或者转移、隐匿、毁弃原始统计记录、统计台帐、统计报表以及与统计有关的其他资料的，对企业事业组织，由政府统计机构予以警告，并处以5万元以下罚款;对个体工商户，由政府统计机构予以警告，并处以1万元以下罚款。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 违反本办法规定，利用统计调查损害社会公共利益或者进行欺诈活动的，由政府统计机构责令其改正，没收违法所得，并处以违法所得1倍以上3倍以下的罚款；没有违法所得的，处以3万元以下罚款；构成犯罪的，依法追究刑事责任。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a> 统计执法人员依法执行公务时，应当出示行政执法证件，并行使下列职权：<br><br>    (一)检查被检查单位的原始统计记录入统计台帐、统计资料以及相关资料；<br><br>    (二)向被检查单位或者公民个人发出《统计检查查询书》。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> ・拒绝、阻碍统计执法人员依法执行公务的，由公安机关依照《中华人民共和国治安管理处罚条例》给予处罚;构成犯罪的，依法追究刑事责任。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 行政管理相对人对具体行政行为不服的，可以依法申请行政复议或者提起行政诉讼。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a> 政府统计机构以及统计执法人员徇私舞弊、滥用职权、玩忽职守的，由其所在单位依法给予行政处分;构成犯罪的，依法追究刑事责任。<br><br>    政府统计机构以及统计执法人员违法行使职权，侵犯公民、法人或者其他组织合法权益、造成损失的，应当依法予以赔偿。<br><br><font class='zhang'>第七章</font> 附 则<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a> 在本办法生效之前成立的基本统计单位，在本办法生效施行之后3个月内根据本办法规定进行统计登记。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a> 本办法自2002年1月18起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

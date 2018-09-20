@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81908<BR>&nbsp;&nbsp;【发布文号】深府办[1998]8号<BR>&nbsp;&nbsp;【发布日期】1998-01-24<BR>&nbsp;&nbsp;【生效日期】1998-01-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳市人民政府办公厅关于公布<br>
+深圳市1998年市外招调工工种</font></p><p align='center'><font class='STitle'>（专业）目录的通知<br>
+（1998年1月24日深府办〔1998〕8号）</font></p>各区人民政府，市政府直属各单位：<br>    我市1998年市外招调工工作即将开始，为全面贯彻市政府提出的“控制人口规模，优化人口结构，提高人口素质”的方针，满足用人单位对各类技能型人才的需求，结合我市再就业工程和《深圳市居民按比例就业暂行办法》的实施，现将深圳市1998年市外招调工工种（专业）目录公布如下，请遵照执行。<br><br>               深圳市1998年市外招调工工种（专业）目录<br><br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>紧缺工种（12个）<br>    商业<br>    03―048  制冷设备维修工                                            03―126  服装设计定制工<br>    机械<br>    09―015  钳工                    09―018  车工                09―019  铣工<br>    09―021  磨工                    09―033  电焊工<br>    建设<br>    13―036  电梯安装维修工<br>    交通<br>    20―017  汽车维修工                                                20―021  汽车维修电工<br>    20―022  汽车维修漆工                                              20―024  汽车维修钣金工<br>    优先工种（61个）<br>    农业<br>    07―014  农业实验工<br>    机械<br>    09―020  刨、插工                09―026  热工仪表工          09―029  电工仪表修理工<br>    09―030  电工                    09―035  冷作工              09―037  无损探伤工<br>    09―041  加工中心操作工                                            09―801  数据铣床操作工<br>    09―082  线切割工<br>    电力<br>    11―017  锅炉本体检修工          11―018  锅炉辅机检修工<br>    11―025  汽轮机运行值班员        11―026  汽轮机本体检修工<br>    11―028  水泵检修工              11―035  电机检修工<br>    11―045  高压线路带电检修工      11―058  电测仪表工<br>    11―059  继电保护工              11―802  发电高压变配电检修工<br>    11―803  值班电工                11―804  电气运行            11―805  电气检修工<br>    建设<br>    13―001  木工                    13―022  管道工              13―055  水质检验工<br>    13―081  热力司炉工              13―082  锅炉水质化验工<br>    13―801  注册电梯安全检测员<br>    化学工业<br>    16―145  化工工艺试验工          16―152  化工仪表维修工<br>    纺织工业<br>    17―002  纺织设备检修工<br>    轻工业<br>    18―485  瓦楞纸板制作工          18―486  瓦楞纸箱成型工<br>    铁道<br>    19―051  内燃机车司机            19―071  车辆钳工            19―080  线路工<br>    19―085  电力线路工              19―097  通信工              19―098  信号工<br>    交通<br>    20―048  船舶驾驶员              20―050  船舶轮机员          37―002  船体冷加工<br>    37―008  船舶钳工                37―009  船舶管系工          37―010  船舶电工<br>    文化教育<br>    22―009  装饰美工<br>    建筑材料<br>    25―024  浮法玻璃成型工<br>    民用航空<br>    26―001  飞机维护机械员<br>    印刷<br>    29―007  电脑照排工              29―019  平版晒版工          29―035  平版印刷工<br>    医疗卫生<br>    33―199  药物制剂工<br>    电子工业<br>    36―007  电子仪表检定修理工      36―026  计算机调试工<br>    36―027  计算机整机检验工        36―064  程控交换机调试工<br>    其他<br>    46―006  中式烹调师              46―006  西式烹调师<br>    46―008  中式面点师              46―009  西式面点师<br><p></p><a name='2'><font class='TiaoNoA'>  三、</font></a>优先专业（6个）<br>    交通<br>    20―901  港口机械<br>    航空<br>    26―062  航空乘务<br>    电子工业<br>    36―088  真空镀膜                36―851  半导体器件制造      36―852  厚膜电路制造<br>    其他<br>    47―958  注册安全主任<br><p></p><a name='3'><font class='TiaoNoA'>  四、</font></a>控制工种（49个）<br>    商业<br>    03―051  办公设备维修工（取得深圳<br>                  市劳动局颁发的中级以上技<br>                  术等级证书的，个人招调工<br>                  条件按优先工种规定审核）                                  03―128  眼镜加工<br>    旅游<br>    04―001  调酒师<br>    农业<br>    07―001  农艺工                    07―002  果树工            07―801  动物饲养员<br>    林业<br>    08―015  木材检验工                08―027  木材干燥工        08―030  原木旋切机工<br>    08―038  胶合板热（冷）压工        08―054  人造板制胶工<br>    建设<br>    13―008  建筑油漆工                13―014  架子工            13―015  测量放线工<br>    13―016  建筑材料试验工                                            13―027  起重机驾驶员<br>    13―028  塔式起重机驾驶员                                          13―029  推土机驾驶员<br>    13―030  挖掘机驾驶员              13―081  热力司炉工        13―085  花卉工<br>    化学工业<br>    16―143  分析工<br>    纺织<br>    17―381  服装裁剪                  17―852  针织工            17―853  缝纫机保全工<br>    轻工业<br>    18―028  钟（表）成品装配工                                        18―371  玉宝石鉴别工<br>    18―379  首饰制作工                18―399  塑料挤出工        18―400  塑料注塑工<br>    铁道<br>    19―001  车站值班员                19―010  连接员<br>    交通<br>    20―001  Ａ牌汽车驾驶员（仅限于<br>                  专业运输公司）<br>    20―851  集装箱岸吊操作员          20―852  集装箱龙门吊操<br>    20―853  集装箱重型叉车操作员                    作员<br>    邮电<br>    21―034  邮政机务员                21―037  无线机务员        21―042  市话机务员<br>    21―044  电力机务员                21―047  市话机线员<br>    文化教育<br>    22―851  声乐演员                  22―852  舞蹈演员<br>    22―853  键盘演奏员                22―854  戏剧演员<br>    电子工业<br>    36―003  无线电调试工              36―018  家用电子产品维修<br>                                                          工（取得深圳市劳<br>                                                          动局颁发的中级以<br>                                                          上技术等级证书的<br>                                                          ，个人招调工条件<br>                                                          按优先工种规定审<br>                                                          核）<br>    其他<br>    46―011  美发师                    46―012  美容师<br><p></p><a name='4'><font class='TiaoNoA'>  五、</font></a>控制专业（34个）<br>    旅游<br>    04―011  导游<br>    农业<br>    07―901  动植物检疫                07―902  粮油储藏和检验<br>    07―903  粮油食品加工              07―951  农业<br>    07―952  畜牧兽医                  07―953  水产              07―954  园林<br>    建设<br>    13―951  工民建                    13―952  建筑学            13―953  给排水<br>    13―954  暖通                      13―955  工程预算<br>    轻工业<br>    18―951  食品                      18―953  日用化学<br>    交通<br>    20―951  航运管理                  20―952  港务监督          20―953  港口工程及港口管理<br>    邮电<br>    21―901  综合电信                  21―902  计算机通信<br>    文化教育<br>    22―901  幼儿教育（仅限于政府部门<br>                  批准的幼儿园）<br>    22―952  英语                      22―953  日语<br>    民用航空<br>    26―951  航空运输<br>    医疗卫生<br>    33―901  护理（仅限于政府部门批准<br>                  的医疗卫生单位）<br>    电子工业<br>    36―309  光纤光缆制造和检测        36―802  玻壳制造<br>    36―901  彩管制造                  36―902  计算机应用<br>    政企管理<br>    47―951  法律（限大专以上文化程度）<br>    47―954  酒店管理（限大专以上文化<br>                  程度）<br>    财贸金融<br>    48―953  金融（限大专以上文化程度）48―954  保险（限大专以上<br>                                                          文化程度）<br>    48―955  对外贸易（限大专以上文化<br>                  程度）<br><p></p><a name='5'><font class='TiaoNoA'>  六、</font></a>禁止工种（专业）（39个）<br>（一）营业员  送货员  押运员  保管员  订票员  售票员  行李员  客运员  货运员  检票员  报务员  话务员  站务员  分拣员  接发员  转运员  投递员  保育员  司泵员  报关员  无线电  业务寻呼员  餐厅服务员  客房服务员  计算机文字录入处理员  乘务员（不包括航空）  汽车驾驶员（Ｂ牌以下）<br>（二）装卸工  清洁工  包装工  洗瓶机工  贴标机工  装罐工  简单工序操作工（三）企业管理  文秘  行政管理  劳动人事管理  会计  统计（以上专业已取得中等专业技术职称者除外）<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

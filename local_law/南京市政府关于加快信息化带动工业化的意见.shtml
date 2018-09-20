@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】南京市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2002-10-11<BR>&nbsp;&nbsp;【生效日期】2002-10-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>南京市政府关于加快信息化带动工业化的意见</font></p><br><br><br>各区县人民政府，市府各委办局，市各直属单位：<br><br>    为紧紧抓住以信息技术为核心的新一轮技术革命带来的机遇，大力推进信息技术在工业领域中的应用，提高工业信息化水平，以信息化带动工业化，促进我市产业结构升级，全面提升我市工业经济竞争力，实现跨越式发展，现提出如下意见：<br><br>    一、“十五”期间，我市的信息化带动工业化工作要以市场为导向，以企业为主体，以人才为依托，坚持自主创新与国际合作相结合，加快信息技术的应用，促进工业结构调整和优化升级，实现跨越式发展。到2005年，力争实现电子信息产业产值占全市工业总产值的30%，年增长率平均达到25%；软件产业的研发和产业化水平达到国内、接近国际先进水平，软件产品销售收入达到100亿元；3大支柱、6大重点的骨干企业生产装备自动化和半自动化率水平达到70%，总体技术水平达到国内领先、国际九十年代中后期水平；全市规模以上重点企业采用信息化管理系统及技术的比重达到80%；培育重点信息化示范企业30个；组织实施重点信息化带动工业化技术创新项目60个；企业CAD、制造业CAD和工业设计CAD普及率分别达到60%、80%和100%。<br><br>    二、进一步加强信息产业发展规划工作。加快推进显示、通信、计算机、软件、信息家电等的研究与发展工作，使南京逐步成为我国乃至世界显示、通信、计算机、软件、信息家电的技术创新中心和产品制造中心之一。显示产品，重点发展液晶、等离子显示器件，继续抓好阴极射线管产品的深度开发；通信产品，重点发展移动通信、光通信、卫星通信等现代通信产品；计算机及网络设备产品，在发展普通PC的同时，大力发展笔记本电脑，适时发展手持计算机（HPC）、个人数字助理（PDA）产品，积极发展PC服务器、网络计算机、高速路由器、网络和信息安全等产品；信息家电产品，重点发展网络电视、网络机顶盒、视频点播系统（VOD）、数码像机等产品，积极推进网络及其技术在家电产品中的应用。<br><br>    三、大力发展软件产业。重点发展企业资源计划管理（ERP）、计算机集成制造系统（CIMS）、产品数据管理（PDM）、客户关系管理（CRM）和电力系统自动化及管理系统等软件产品；重点支持拥有自主知识产权、应用领域广泛的软件产品商业化和产业化，形成具有国际竞争力的软件企业集群，促进我市软件和系统集成上规模、上水平。开发电力、电信、税收、金融、教育等行业系统应用软件以及财务、医保、住房基金等管理系统应用软件，开发适应电子商务、电子政务、电子公务、城市数字化发展的相关软件，提高我市企业运用信息技术水平，促进软件产业做大做强，形成新的增长点。<br><br>    四、切实做好高新技术在改造和提升传统工业产业中的应用。积极实施制造业信息化“5511”专项工程，即以机电、纺织、轻工、化建、医药等五大产业集团为企业集群，以50家制造企业为示范，形成10项技术攻关成果，推动10家软件企业的产业化，用信息化带动传统产业改造，促进传统产业的优化升级。在电子、机电、汽车、石化、生物医药等重点行业推进信息化，大力提升成套设备和组合加工设备的集成化水平，实现生产过程的自动控制。在新上的技术创新、技术改造项目可行性论证中要引入信息化程度评价指标，增加先进技术和现代装备的投资比重，着力提高项目档次和水平。积极推广计算机辅助设计和辅助工艺设计，有条件的企业可应用仿真、工程数据库等技术，缩短产品开发周期，不断开发出适应市场需求变化的新产品。在全市工业企业尤其是重点骨干企业中，重点推广应用嵌入式软件、应用软件、系统集成软件和数据库，进一步提高我市工业产品机电一体化产品的智能化、集成化的水平。<br><br>    五、积极推进企业管理信息化。充分运用信息化手段，以财务管理为核心，积极采用企业资源计划管理、供应链管理、客户关系管理加快产品数据管理，强化业务流程重组，加大对信息化建设的投入，增强内外部资源的利用、整合，大力提高企业管理信息化水平。<br><br>    六、加强产学研联合。建立以企业为主体、高校和研究院所为依托的研发技术创新体系，提高信息技术的自主创新能力。引导和促进大中型企业建立技术中心和重点实验室，设立企业博士后工作站和博士后技术创新中心；吸引国外著名企业来我市建立研发中心，同时鼓励有条件的企业走出去，在国外设立研发中心，充分利用国外信息资源、人才资源、市场资源等，加强对核心信息技术的研究开发，促进我市产业结构的优化和升级。<br><br>    七、建立以市场为导向，政府引导，企业为主的多元化、多层次、多渠道投资体系。市财政每年预算中适当安排部分资金，建立市信息化带动工业化发展专项资金，主要用于重点企业信息化带动工业化技术创新项目、示范工程、信息化关键技术开发与推广项目的资助、奖励，为我市列入省信息化带动工业化技术创新项目给予资助。企业用于信息化建设和开发的资金列入企业技术开发费，享受相关政策。各有关银行、风险投资公司、贷款担保基金等，要积极支持信息化带动工业化项目的贷款、投资和担保。要积极利用外资，整合社会资本，加快发展我市的信息制造和软件产业。<br><br>    八、切实加强对信息化带动工业化的组织和领导。各有关部门和企业要充分认识信息化带动工业化的重要性，把这项工作真正摆上重要议事日程。在市信息化工作领导小组的统一领导下，市经委、计划、科技、财政、税务、信息产业办等部门，共同研究制定以信息化带动工业化的具体措施，协调信息化带动工业化工作中的重大问题，会同电子信息产业办公室、软件产业发展办公室具体负责信息化带动工业化、促进产业升级各项目标任务的分解、落实和检查，做好项目推介、申报、争取资金等日常管理工作，实施企业信息主管（CIO）培训与认证，组织开展企业竞争情报的研究与应用，采取多种措施，注重项目示范，实行分类指导，在全市范围内形成有利于信息化带动工业化的良好氛围。通过各有关部门和企业的共同努力、协同配合，加快信息技术在工业领域中的推广应用，促进全市工业经济再上新台阶。<br><br><br>                                                                二○○二年十月十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

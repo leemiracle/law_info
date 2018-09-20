@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】冀政函[2001]73号<BR>&nbsp;&nbsp;【发布日期】2001-09-16<BR>&nbsp;&nbsp;【生效日期】2001-09-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府关于加强秋季造林工作的通知<br><br></font>(冀政函[2001]73号)</p><br><br><br>各设区市人民政府，省政府有关部门： <br><br>    为加快全省造林绿化速度，改善生态环境，促进经济和社会可持续发展，尽快实现绿化河北大地的目标，现就加强秋季造林工作作如下通知： <br><br>    一、造林绿化工程总的思路和目标 <br><br>    造林绿化工程总的思路是以现代林业思想为指导，以建立比较完备的林业生态体系和比较发达的产业体系为目标，以深化改革和科技创新为动力，以项目为载体，以工程为手段，搞好国土绿化，做到生态、社会、经济效益相结合。坚持保护与发展并重、合理布局、分区治理的原则，大力实施“56321”造林绿化行动计划：一是构建“五环”，在环首都、环中心城市、环县城、环小城镇、环村庄周围建立多功能森林生态圈；二是营造“六片”，营造太行山远山深山水土保持与水源涵养林、太行山浅山丘陵木本粮油经济林基地、燕山及冀西北山地水源涵养与水土保持林、燕山及冀西北间山盆地经济林基地、平原名特稀优果品基地、平原速生丰产工业原料林基地；三是建立“三带”，在沿冀蒙边界、坝头一线和海岸线营造沿边防护林带，沿坝防护林带，沿海防护林带；四是编织“两网”，在坝上地区、平原区营造农牧和农田防护林网；五是绿化“通道”，重点抓好26条交通干线、7条河流、3条干渠两侧绿化带建设，到2005年使全省高速公路、60％的现有铁路、国道、省道、河渠堤坝实现绿化。 <br><br>    力争用5到10年的时间，使生态环境建设有突破性进展。到2005年，全省有林地面积达到6475万亩，森林覆盖率达到23％以上。 <br><br>    二、采取有力措施，抓好秋季造林工作 <br><br>    各级政府要进一步提高认识，按照国务院国发〔2000〕31号和国发〔2001〕20号文件精神和省委省政府有关造林绿化工作的要求，抓好造林绿化特别是今年秋季造林工作。 <br><br>    （一）领导协调到位。我省地处京津周围，肩负着“绿化河北，护卫京津”的特殊使命。各级各部门要把造林绿化提高到改善生态环境、调整经济结构、增加农民收入和全面建设小康社会的战略高度来认识，以高度的历史责任感和时代紧迫感，把造林绿化工程作为生态工程、生存工程和致富工程摆上议事日程，作为一项长期的战略任务，主要领导亲自谋划亲自抓。要抓住当前有利时机，广泛宣传发动，全民动员，掀起秋季造林高潮。要落实领导干部任期造林绿化目标责任制，逐级签订造林绿化责任状，并把目标完成情况作为考核领导干部政绩的主要内容。林业、水利、城建、交通、畜牧、农垦等有关部门要加强协调配合，根据自身特点抓好本行业的造林绿化工作。林业部门要加强对造林绿化工作的督促检查与宏观指导。 <br><br>    （二）政策机制到位。要把造林绿化与改善群众的生产生活环境结合起来，与区域经济发展结合起来，与农民脱贫致富奔小康结合起来，充分调动广大群众参与造林绿化的积极性。要狠抓机制创新，探索和研究有利于加快全省造林绿化和林业建设速度的政策措施，大力推广承包、租赁、拍卖、股份合作造林；积极发展私有林和私人育苗；加快建立荒山、青山（已绿化的山）、青苗流转机制，在重点工程建设中全面引入报账制、立项招标制、工程监理制等激励约束机制；鼓励农民积极利用农村荒山、荒沟、荒丘、荒滩资源，绿化造林，治理水土流失，改善生态环境。各级政府和有关部门要制定优惠政策，允许用“四荒使用证”抵押贷款，加强四荒开发与治理步伐。 <br><br>    （三）科技支撑到位。坚持高起点规划、高标准设计、高质量施工。按照因地制宜、适地适树的原则，优化树种结构，广泛选用良种。积极推广适宜的治理模式和以容器育苗为主的抗旱造林技术。大力发展林业高科技示范园区，办好各级、各类科技示范点，为造林绿化提供高标准示范模式和样板。各级林业部门要加强对盐碱地、沙地、旱地等地区造林、绿化的研究工作，并对通过这些地区的公路路段的绿化工作提供技术指导。在造林准备和造林期间，各级政府都要由主管领导带队，组织专门人员深入基层、深入实地，加强技术指导和督导检查，确保造林成效。 <br><br>    （四）资金投入到位。各市要在积极争取国家支持的同时，逐步加大政府及各部门对造林绿化的投入力度。省、市、县（市）都要把造林绿化建设的投资列入各级财政预算，保证林业建设投入的逐年增加。有绿化任务的部门也要把绿化资金纳入项目概算，保证完成部门造林任务。要建立吸引二、三产业资金从事林业开发和建设的机制，进一步完善政策，为全社会办林业提供法律、政策保障和资金、技术支持，鼓励和吸引社会力量投资林业，实现造林绿化由部门行为向社会行为的转变。 <br><br>    （五）依法管护到位。推进依法治林，加大执法力度，严厉打击各种乱砍滥伐林木、乱批滥占林地、乱捕滥猎野生动物等违法犯罪行为。林业、工商行政管理、公安、建设、交通、药品监督管理、农业、海关、畜牧、铁路等部门要加强联系与协作，深入开展打击破坏森林和野生动植物资源违法行为专项斗争，抓出一批典型案件，在新闻媒体上予以曝光。要加强法制教育，提高全民法律意识，从根本上遏制破坏森林资源案件的发生。要进一步完善基础设施建设，下大力量做好森林防火和森林病虫害防治工作，既要确保造林成果，又要巩固造林成果。 <br><br>    二○○一年九月十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

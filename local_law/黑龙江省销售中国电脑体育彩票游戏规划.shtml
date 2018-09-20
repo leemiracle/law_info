@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80803<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1999-12-10<BR>&nbsp;&nbsp;【生效日期】1999-12-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>黑龙江省销售中国电脑体育彩票游戏规则</font></p><p class='zhang'>                            第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为贯彻执行中国人民银行关于对电脑彩票实行“统一软件、统一标准、统一游戏规则、统一管理”的要求（《<a href=javascript:ROF(13956,0) class=alink>关于加强彩票市场管理的通知</a>》银发〔1999〕36号），根据国家禁止发行主动型彩票政策规定和国家体育总局《体育彩票发行与销售管理暂行办法》以及《计算机销售体育彩票管理暂行办法》，特制定本游戏规则。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  中国电脑体育彩票是指：经中国人民银行、财政部、国家体育总局及省政府批准，经省、市政府同意，由国家体育总局彩票管理中心统一发行的，利用电脑进行销售，将销售数据通过通讯线路传至省分中心机房，统一玩法、统一摇奖、统一兑奖的彩票。<br>    目前经批准发行的中国电脑体育彩票限指传统型彩票，包括数字型和运动项目型两种。<br><br><p class='zhang'>                          第二章  游戏方法</p><br><br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  传统数字型中国电脑体育彩票是以一台计算机为单位，销售一组自然数的彩票。<br>    每个自然数由6位自然数号码加一个特别号码组成，表示一注彩票，即：6位自然数号码为000000－999999共100万个号码，特别号码为0－4，共5个自然数，即500万为一个奖组。<br>    特别号码放在6位自然数号码后，与6位自然数号码不形成排列或顺序关系。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  每台终端机中预存的500万个连续自然数每期每个自然数只能销售一次，即单机不重号。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  传统数字型中国电脑体育彩票每注2元人民币，每张彩票最多可打印5注。彩票不记名、不挂失、不返还本金、不能流通使用。<br><br><p class='zhang'>                          第三章  奖级设定</p><br><br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  传统数字型中国电脑体育彩票设六个奖级，即特、一、二、三、四、五等奖。其中特、一、二等奖为浮动奖，三、四、五等奖为固定奖。<br><br><p class='zhang'>                         第四章  开奖及公告</p><br><br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  传统数字型中国电脑体育彩票每周开奖一次，每周二开奖。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  在公证人员封存销售数据资料之后，并在其监督下通过摇奖机依次摇出一组6位中奖号码和一个特别号码。<br>    如：123456＋0（0为特别号码）为兑奖号码。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  开奖当日将开奖现场实况录像在指定的电视台定时播放，次日在约定报章开登开奖结果及主要中奖情况，并将开奖结果通知各销售终端。<br><br><p class='zhang'>                          第五章  中奖办法</p><br><br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  所购彩票与开奖结果对照，以开奖结果123456＋0（特别号码）为例，符合以下情况即为中奖。<br>    特等奖：彩票6位号码与中奖号码排列相同且特别号码相同，如彩票123456＋0。<br>    一等奖：彩票6位数号码与中奖号码排列相同，如彩票123456。<br>    二等奖：彩票号码中连续5位数号码与中奖号码相同位置的连续5位数相同，如彩票12345□、□23456。<br>    三等奖：彩票号码中连续4位数号码与中奖号码相同位置的连续4位数相同，如彩票1234□□、□2345□、□□3456。<br>    四等奖：彩票号码中连续3位数号码与中奖号码相同位置的连续3位数相同，如彩票123□□□、□234□□、□□345□、□□□456。<br>    五等奖：彩票号码中连续2位数号码与中奖号码相同位置的连续2位数相同，如彩票12□□□□、□23□□□、□□34□□、□□□45□、□□□□56。<br><br><p class='zhang'>                       第六章  奖金分配与管理</p><br><br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  销售总额的50％用于向中奖者支付奖金，其中2％为风险金。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  风险金是用来支付各种不可预见情况下的奖金支出风险的资金。<br>    当风险金累积达到200万元时，超出部分存入调节基金，用于派发保底奖金或增设奖金。<br>    保底奖金和增设奖金须于当期销售前予以公告。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  各级奖级奖金分配：<br>    特等奖奖金为总奖金减去固定奖总额后的50％。<br>    一等奖奖金为总奖金减去固定奖总额后的20％。<br>    二等奖奖金为总奖金减去固定奖总额后的30％。<br>    三等奖固定奖金为300元。<br>    四等奖固定奖金为20元。<br>    五等奖固定奖金为5元。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  特、一、二等奖按照该奖级实际中奖注数平均分配该奖级奖金；计算每注奖金时，彩取取整（以元为单位）的方法，取整后的余数纳入调节基金。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  当期未中出的特、一、二等奖的资金，全部滚存下一期特等奖奖金中。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  每注彩票只兑付最高奖级奖金，不兼中兼得。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  特等奖当期本奖级奖金总额保底为58万元。如当期特等奖中出且奖金不足58万元时，从调节基金予以补足。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  单注彩票中奖奖金封顶金额500万元，中奖后封顶超出部分转入下期特等奖基金。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  哈尔滨、齐齐哈尔、牡丹江、大庆四个城市中特、一、二等奖者，持有效中奖彩票，凭本人身份证到省体育彩票管理中心（哈市南岗区阿什河街22号）兑奖。<br>    奖金在壹万元以上（含壹万元）的，按国家税务法规定应缴纳20％个人所得税偶然所得项目，由省体育彩票管理中心代扣代缴。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  自开奖之日第二天起，兑奖周期为28天，逾期未兑付的奖金以及逾期未退票的票款，全部纳入调节基金。<br><br><p class='zhang'>                            第七章  附则</p><br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  凡属于黑龙江省中国电脑体育彩票销售系统销售的中国电脑体育彩票，均须遵守本规则。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  本游戏规则解释权属国家体育总局体育彩票管理中心。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  本规则自黑龙江省中国电脑体育彩票发行之日起生效。<br><br>                                            黑龙江省体育彩票管理中心<br>                                                    一九九九年十二月十日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

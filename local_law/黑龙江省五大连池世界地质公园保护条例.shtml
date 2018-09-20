@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】黑龙江省<BR>&nbsp;&nbsp;【发布文号】黑龙江省人民代表大会常务委员会公告第55号<BR>&nbsp;&nbsp;【发布日期】2006-10-20<BR>&nbsp;&nbsp;【生效日期】2007-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinalaw.gov.cn/jsp/contentpub/browser/contentpro.jsp?contentid=co1005442451" target=_blank>国务院法制办公室 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>黑龙江省五大连池世界地质公园保护条例<br> <br></font>（2006年10月20日黑龙江省第十届人民代表大会常务委员会第二十三次会议通过  2006年10月20日黑龙江省人民代表大会常务委员会公告第55号公布  自2007年1月1日起施行）</p><br><br><br>    <font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强五大连池世界地质公园的保护，合理利用自然资源，保障五大连池世界地质公园的可持续发展，根据国家有关法律、法规的规定，制定本条例。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  在五大连池世界地质公园（以下简称地质公园）内从事旅游、疗养、科学研究、宗教文化、生产经营、开发建设、行政管理等活动的单位和个人，应当遵守本条例。<br><br>    本条例所称地质公园以国家批准的自然保护区总体规划（以下简称总体规划）为准，其保护范围：东至固西河，西至团结水库，南至永丰农场四大队，北至格拉球山农场十队。面积为1060平方千米，按此范围标界立碑。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  黑龙江省五大连池风景名胜区、自然保护区管理委员会（以下简称管委会）是地质公园的管理机构，隶属于黑河市人民政府，负责地质公园的保护、规划、利用和管理工作，具体组织本条例的实施，业务上接受省国土资源行政主管部门的指导和监督。<br><br>    省建设、水利、林业、环保、旅游、农业、畜牧等部门依照法律、法规规定，履行监督职责。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  地质公园应当以保护地质遗迹为重点，坚持严格保护、科学规划、统一管理、合理开发、永续利用的原则。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  任何单位和个人都有保护地质公园自然资源和生态环境的义务，对破坏资源、污染环境的活动有检举、控告的权利。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  管委会负责组织地质公园的资源调查和总体规划的编制，依法报省和国家有关部门批准。未经原审批机关批准，任何单位和个人不得对规划进行修改或者调整。<br><br>    地质公园内的乡镇、林场、农场（含部队农场）的建设规划和其他专项规划应当符合地质公园总体规划，并报管委会备案。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  有关人民政府及其工作部门应当对地质公园的保护、建设和管理给予政策、技术和资金等方面的支持，加强对地质公园基础设施和保护设施的资金投入。<br><br>    管委会应当多渠道、多方面筹集资金，加强地质公园基础设施和保护设施的建设。<br><br>    管委会应当从收入中支出一定比例资金用于保护地质公园资源。<br><br>    <font class='zhang'>第二章</font>  保护与利用<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  地质公园分为核心区、重点区、一般区，实施分级分类保护。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  老黑山、火烧山、喷气锥（碟）及其周围的石龙熔岩、位于头池东西连线以北的石龙分布区是珍稀和极具重要科学价值的火山遗迹区域，为核心区。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  核心区内的火山遗迹资源，应当保持其原始性、系统性和完整性。<br><br>    核心区内禁止以下活动：<br><br>    （一）破坏或者损毁火山遗迹；<br><br>    （二）建设开发活动；<br><br>    （三）违反地质公园规定的旅游；<br><br>    （四）设立商业广告牌；<br><br>    （五）违反总体规划和本条例的其他行为。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  管委会应当按照总体规划的规定，有计划地组织核心区内的现有居民逐步迁出。<br><br>    核心区内的耕地按总体规划全部退耕还林、还草、还湿地。<br><br>    管委会应当采取必要措施，保持石龙台地等重要地质遗迹区的原始状态。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  南北格拉球山、卧虎山、笔架山、药泉山、尾山、莫拉布山、东西龙门山、小孤山、东西焦得布山等十二座火山锥及其盾形熔岩台地分布区，头池东西连线以南的石龙分布区，以及药泉山矿水区、焦得布矿水区、火烧山尾山矿水区、五大连池湖泊、河溪等区域是具有重要保护价值的火山遗迹和矿泉水区域，为重点区。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  重点区内禁止实施下列行为：<br><br>    （一）采挖、损毁地表植被和保护物种；<br><br>    （二）开垦湿地、草地；<br><br>    （三）开矿、采石；<br><br>    （四）引进外来物种；<br><br>    （五）从事其他有损于资源保护的活动。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  未经管委会批准，重点区内不得从事下列活动：<br><br>    （一）采伐林木、采挖野生药材；<br><br>    （二）烧荒，焚烧秸秆；<br><br>    （三）放牧牲畜；<br><br>    （四）挖沙、取土；<br><br>    （五）猎捕野生动物、捕捞水生生物资源。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  重点区内的火山遗迹，依照本条例第十条、第十一条第一款、第三款的规定执行。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  在重碳酸－－碳酸矿泉水带内（包括南饮泉、北饮泉），现有的单位和居民，应当按照总体规划的规定，由管委会组织逐步迁出；对已关闭的水井、渗井未经批准不得重新启用；并禁止下列行为：<br><br>    （一）任何建设开发活动；<br><br>    （二）凿井，修建渗井；<br><br>    （三）排放污水及生活垃圾。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  焦得布、尾山、火烧山、二龙眼泉、宝龙泉、双龙泉、响水泉等矿水区应当进行科学保护，不得以任何方式污染泉水及其水源区域。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  矿泥是稀有资源。矿泥的开采和使用应当合理进行，鼓励矿泥回收利用。<br><br>    管委会统一管理生产经营单位和疗养单位所需矿泥。未经管委会批准，不得擅自开采或者以其他方式利用矿泥资源。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  位于重点区内头池至五池周边二百米范围内的耕地应当按照总体规划，逐步退耕还林、还草、还湿地，所涉及的耕地可以采取土地置换、耕地占用补偿等方式，由管委会与周边农场、集体经济组织或者村民委员会协商一致，依法报有关主管部门批准后组织实施。<br><br>    头池至五池周边一千米范围内的耕地应当科学合理使用农药、化肥，防止污染，保护环境。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  重点区内格拉球山、卧虎山、冰洞、龙门石寨等主要景点周边五百米区域内的速生丰产林整地，应当按照总体规划的要求限期还林。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  除核心区、重点区以外的地区为一般区。<br><br>    在一般区内从事生产经营、开发建设等活动的，应当有利于核心区、重点区火山遗迹、矿泉资源的保护，禁止可能影响或者破坏矿泉水水源及生态环境的活动。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  地质公园内的湖泊、河溪及其自然补给水源，均应当保持原状，不得截流、改向或者作其他改变。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  地质公园内的各类建设施工活动应当符合总体规划，依照有关法律、法规规定进行。管委会应当加强监督。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  旅游景点、路线的开辟，道路及旅游设施的修建方案，由管委会提出，报省国土资源行政主管部门及其他主管部门批准后实施。各项旅游活动应当接受管委会的统一管理。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  进入地质公园从事科研、教学、考察、拍摄影片、采集标本等活动的，应当先向管委会提出申请，经有关主管部门批准，在指定的时间、地点、路线、范围内进行，按照批准的品种、数量采集标本。各项活动均应当接受管委会的管理和监督，并将活动成果副本提交管委会存档。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  开采五大连池矿泉水，应当依照法律、法规和国家有关规定办理审批手续，由管委会统一规划、统一组织开发利用、统一实施监督管理。未经批准开凿矿泉水井或者开采矿泉水的，由管委会责令其关闭，停止开采矿泉水。禁止任何单位和个人收购、加工、销售地质公园内的浮石、景石、火山砾、火山渣等地质遗迹产品、物品，或者将上述产品、物品运出地质公园。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  在地质公园内设置疗养机构或者依法从事个体疗养服务的，应当经管委会审核批准。<br><br>    <font class='zhang'>第三章</font>  管理与监督<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  管委会对地质公园的保护、利用实行统一管理，其职责为：<br><br>    （一）贯彻执行法律、法规和规章；<br><br>    （二）组织各项规划的编制、修订和实施；<br><br>    （三）按照规划和权限审批地质公园内的建设项目；<br><br>    （四）制定地质公园的各项规章制度，并组织实施；<br><br>    （五）对地质公园的保护、利用、建设和旅游服务行业进行管理和监督；<br><br>    （六）负责地质公园各类档案的建立和管理；<br><br>    （七）按照本条例的规定查处违法行为。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  依照本条例规定由管委会批准或者备案的事项，有法律、法规规定其批准、备案程序的从其规定；没有规定的按照以下规定办理：<br><br>    （一）申请人向管委会提出书面申请；<br><br>    （二）管委会接到申请后，应当在两日内作出是否受理决定；<br><br>    （三）受理申请的，管委会应当在二十日内作出是否批准的决定；五日内答复是否予以备案或者采取其他措施。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  管委会应当根据总体规划确定景区、景点的环境容量，制定旅游旺季疏导游客的具体方案，避免超量接待游客。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  管委会应当依照总体规划，加强地质公园内的环境、道路、路标、标识、照明、公厕、垃圾桶等公用设施的建设和管理，控制在重点区内从事批发零售、住宿餐饮、交通运输、邮政电信、旅游等经营服务活动单位和个人的数量，监督其依法从事经营活动。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  管委会应当采取有效措施，做好地质公园内的环境卫生工做，对生活垃圾、建筑垃圾组织统一清运、倾倒，进行无害化处理，并按照国家和省有关规定收取相关费用。<br><br>    在地质公园内生产、经营、生活的单位和个人，应当采取有效措施防治环境污染，达标排放水、物、气，承担占用范围内的绿化美化和环境卫生工作。<br><br>    进入地质公园的游客和其他人员，应当爱护地质公园的公共设施，维护地质公园的环境卫生和公共秩序，遵守地质公园的有关规定。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  设在地质公园内的火山地震、地质环境、环境保护等监测机构，应当定期向管委会通报有关地质公园的监测结果。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  管委会应当加强地质公园内的治安、安全管理，保护游客安全和景物完好，保持良好的公共秩序。进入地质公园的车辆，应当按照指定路线行驶，在规定地点停放。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  管委会应当加强景区景点、资源保护、科普知识、文明建设等宣传工作。<br><br>    管委会应当加强对内部工作人员的教育培训，提高人员素质。<br><br>    <font class='zhang'>第四章</font>  法律责任<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  违反本条例规定，国家法律、法规已经有明确规定的，由管委会或者管委会的所属机构依照规定处理处罚。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  管委会及其工作人员滥用职权、玩忽职守、徇私舞弊，有下列行为之一的，由有关机关对其主要负责人和直接责任人给予行政处分：<br><br>    （一）不执行总体规划的；<br><br>    （二）不履行地质公园管理机构职责的；<br><br>    （三）发现违法行为未及时处理的；<br><br>    （四）违反本条例其他行为的。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  违反本条例，有下列行为之一的，由管委会责令停止或者纠正违法行为，消除危害后果，并对直接责任人按照下列规定处罚处理：<br><br>    （一）违反第十条、第十五条，损坏火山锥体、熔岩、喷气锥（碟）、熔岩洞穴的，处一万元以上十万元以下罚款；<br><br>    （二）违反第十三条、第十四条，破坏损毁重点区生物资源和环境的，责令限期恢复原状，并处以一千元以上一万元以下罚款；不能恢复原状的，应当按实际损失数额予以赔偿，并按照前述规定加一倍处罚。<br><br>    （三）违反第十六条、第十七条，未经批准开采矿泉水或者破坏、污染矿泉水源的，处一万元以上五万元以下或者违法所得三至五倍的罚款；<br><br>    （四）违反第十八条，盗采、非法买卖矿泥的，没收采出的矿泥和违法所得，并处一千元以上一万元以下罚款；<br><br>    （五）违反第二十六条第二款的，没收地质遗迹产品、物品和非法所得，并对责任人处以一千元以上一万元以下罚款。<br><br>    （六）违反第三十二条第二款、第三款、第三十四条第二款的，对直接责任人处以二百元以上一千元以下罚款。<br><br>    违反前款规定的行为，情节严重构成犯罪的，依法追究刑事责任。<br><br>    <font class='zhang'>第五章</font>  附则<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  本条例自2007年1月1日起施行。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

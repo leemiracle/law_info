@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】杭州市<BR>&nbsp;&nbsp;【发布文号】杭政办〔2004〕3号<BR>&nbsp;&nbsp;【发布日期】2004-02-09<BR>&nbsp;&nbsp;【生效日期】2004-02-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>“中国杭州”政府门户网站运行管理暂行办法<br><br></font>(杭政办〔2004〕3号)</p><br><br><br>各区、县(市)人民政府,市政府各部门、各直属单位:<br><br>    《“中国杭州”政府门户网站运行管理暂行办法》已经市政府同意,现印发给你们,请遵照实施。<br><br><br>杭州市人民政府办公厅<br>二○○四年二月九日<br><br><br>“中国杭州”政府门户网站运行管理暂行办法<br><br><br>    <font class='zhang'>第一章</font>  总    则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为了加强对“中国杭州”政府门户网站(以下简称门户网站)的管理,确保门户网站高效安全运行,根据《<a href=javascript:ROF(28214,0) class=alink>中华人民共和国计算机信息网络国际联网管理暂行规定</a>》、国务院《<a href=javascript:ROF(35911,0) class=alink>互联网信息服务管理办法</a>》(国务院令第292号)等有关规定,结合杭州市实际,制定本暂行办法。<br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称门户网站包括市政府主网站(以下简称主网站)和市政府各部门子网站(以下简称子网站),是杭州市政府在互联网上统一建立的网站群。<br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  门户网站是杭州市政府统一发布各类政务信息、提供国内外人士网上办理有关事务的大型政府门户网站,是展示杭州整体形象的窗口,也是信息化时代政府联系群众、服务公众的桥梁和纽带。<br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  门户网站与市政务内网实行物理隔离,与市政务外网实行逻辑隔离。政务外网是门户网站为公众提供信息和服务的基础,主要运行政务部门面向社会的专业性服务业务和不需在内网上运行的业务;门户网站是政务外网业务的延伸和窗口。<br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  门户网站由杭州市人民政府主办,杭州市人民政府办公厅负责门户网站建设的规划、指导、协调和管理工作。<br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  杭州市人民政府办公信息处理中心(以下简称市政府信息中心)在市政府办公厅的领导下,负责主网站的建设、运行、管理,并负责对各部门子网站建设实施业务指导、运行监督。各子网站的日常维护和管理,由各部门按照有关规定和要求自行负责,并接受市政府信息中心的业务指导和监督。<br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  门户网站设立编辑部(设在市政府信息中心),主要负责主网站的栏目策划、内容组织、信息采编、审核发布和日常维护等工作。<br><br>    <font class='zhang'>第二章</font>  网站建设<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  门户网站建设要按照市政府办公厅《关于实施“中国杭州”政府门户网站建设的通知》(杭政办函〔2002〕190号)和《关于推进网上政务公开和网上审批工作的通知》(杭政办函〔2002〕191号)精神,由专门机构和人员负责组织实施与管理。<br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  门户网站建设要坚持以需求为导向,以应用促发展的原则,从实际出发,突出重点,体现特色,规范运作。<br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  门户网站的建设原则是:统一规划,协同建设,分级管理,资源共享。<br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  主网站和子网站要实现统一标识、统一计数器管理。<br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  主网站和子网站要实现统一用户登录,即主网站注册用户和“市民邮箱”用户能够登录任何一个子网站,享用子网站提供的各项个性化服务。<br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  各部门子网站建设要依托主网站网络资源,可以采取租用主网站虚拟空间和模版生成方式建设,以利于资源整合,节省投资;个别应用规模较大的部门,可以按照有关规范要求自行建设。<br><br>    <font class='zhang'>第三章</font>  信息管理<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  门户网站主要提供政务类、新闻类、办事类、咨询类、史料类、公共服务类六大类信息。<br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  根据国家《互联网信息服务管理办法》,门户网站要建立规范的信息采集、审核、发布、更新机制。实行信息审核制度,未经审核的信息不得上网发布。<br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  门户网站应当注重上网信息的时效性、准确性、权威性和完整性。<br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  各部门应做好网上政务公开工作,及时在主网站上发布、更新,并向主网站提供下列信息:<br>    (一)部门机构、人员信息;<br>    (二)行政审批事项办理流程、表格下载和相关政策解答;<br>    (三)面向公众的各类办事指南和服务类信息;<br>    (四)各类政策性、规范性文件;<br>    (五)各类政务动态、公告、通告、公示、便民告示和其他向新闻媒体披露的政务信息;<br>    (六)门户网站要求提供的专用信息和其他内容。<br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  各部门应及时更新子网站信息内容,首页信息每5个工作日至少更新1次。<br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  建立门户网站信息员联系制度。各部门要确定专人负责信息的采编、报送、更新、发布等工作,并加强与门户网站编辑部的日常联系。<br><br>    <font class='zhang'>第四章</font>  邮箱管理<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  门户网站电子邮箱根据用户具体分为三类:一是面向机关单位和公务人员的公务电子邮箱,二是面向各类企事业单位和社会团体的法人电子邮箱,三是面向普通市民的市民电子邮箱。上述三类邮箱,统称“市民邮箱”。<br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  市民电子邮箱实行实名制,杭州市区居民可凭身份证或户口簿、军官证等有效证件,到门户网站指定的公开受理点登记办理,也可通过网络、电话等经门户网站认定的方式申请办理。<br>    市民电子邮箱使用二级域名,邮箱命名格式为:用户名@hz.cn。<br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  法人电子邮箱实行实名制,杭州市的企事业单位、社会团体凭杭州市质量技术监督局颁发的《组织机构代码证》,在门户网站指定的受理点登记办理。<br>    法人邮箱使用三级域名,企业法人电子邮箱命名格式为:用户名@com.hz.cn;事业单位与社团法人电子邮箱命名格式为:用户名@org.hz.cn。<br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  公务电子邮箱是机关单位及其所属处室、公务人员之间公务往来及对外履行公务的专用邮箱。各区人民政府,市政府各部门、承担行政管理职能的直属单位及其所属处室配备单位公务电子邮箱,公务人员配备个人公务电子邮箱。公务电子邮箱由市政府信息中心统一开设。<br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  各区人民政府,市政府各部门、承担行政管理职能的直属单位及其公务人员履行公务必须统一使用公务电子邮箱,一律不得自行建立邮件系统。<br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  各部门、各单位要确定专人管理本单位内设机构和工作人员的公务电子邮箱申请、发放、注销、更改、公布等工作,保证公务电子邮箱与内设机构及工作人员的一一对应。<br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  各部门、各单位要确定专人负责管理和维护本单位公务电子邮箱,及时收发处理各类电子邮件,每天至少收发公务电子邮箱邮件两次(上、下午各1次)。<br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  各部门、各单位应通过适当途径及时将单位公务电子邮箱和个人公务电子邮箱地址向社会公布,子网站、名片、通讯录等与外界联系的有关介质或物品均应在显著位置标注公务电子邮箱地址。<br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  各部门、各单位在印制各类业务表格和设计计算机业务系统时,均应设置“市民邮箱”地址栏,作为办理公务的基本信息。<br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  市政府信息中心应当维护用户的隐私权。除法律、法规另有规定的外,系统管理人员和邮箱管理员不得对外透露用户的任何个人资料,也不允许私开用户邮箱。<br><br>    <font class='zhang'>第五章</font>  互动应用<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  门户网站互动栏目目前主要有12345市长信箱、网上办事、建议提案办理、网上听证、政务论坛、网上直播、建言献策、网上调查及“市民邮箱”等。各部门、各单位要通过门户网站互动栏目的应用,增强与市民群众的联系沟通,方便公众网上办事。<br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  各部门、各单位应结合业务工作,大力开发各类交互性强的网站应用项目,并做好与日常工作体系及计算机业务系统的接轨工作。<br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  各部门、各单位开发设计的网上办事系统,要在门户网站上实现统一受理、统一反馈。<br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  各部门、各单位要建立网上互动应用的“接收―处理―反馈”工作机制,确定专人,及时处理、答复网上投诉、咨询和意见、建议。对门户网站政务论坛中涉及本单位工作的帖子,要认真对待,主动研究,汲取有益的成分,并以适当方式给予回应。<br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  各部门、各单位应充分利用门户网站“市民邮箱”,为市民群众提供信息服务,方便网上办事。网上受理的用户名应使用基于实名的“市民邮箱”帐号,为网上办事者提供初步的身份验证。<br><br>    <font class='zhang'>第六章</font>  运行维护<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  根据《中国互联网络域名注册暂行管理办法》的相关规定,“中国杭州”政府门户网站的域名管理遵循以下规范:<br>    (一)主网站的域名为hangzhou.gov.cn,代表杭州市国家行政机关;<br>    (二)各部门子网站的域名由市政府信息中心分配为□□□.hangzhou.gov.cn,其中□□□为各单位汉语拼音名称或英文名称字头的组合。<br>    (三)各部门子网站也可以向互联网信息中心申请格式为hz□□□.gov.cn的域名,其中□□□为各单位汉语拼音名称或英文名称字头的组合。<br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  各部门应确定主管领导、具体部门和具体工作人员负责门户网站的网上政务公开、互动应用、公务电子邮箱管理以及子网站建设和日常维护工作,制定相应的工作制度,并将工作人员名单告知市政府信息中心。<br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  各部门子网站的的运行维护应当遵循如下规定:<br>    (一)采用虚拟主机方式的,网站安全运行及网络管理统一由市政府信息中心负责,各部门负责本单位信息的整理、编辑及上传和发布工作。各部门应当经常检测网站的运行情况,发现问题及时与市政府信息中心联系。<br>    (二)采用主机托管方式的,网络的管理由市政府信息中心负责,服务器的设置及应用由各部门负责。<br>    (三)采用本地管理方式的,各部门应当设置子网站管理人员,负责本单位子网站的安全运行。<br>    市政府信息中心应当经常监测各部门子网站,发现问题要及时通知各单位。<br><br>    <font class='zhang'>第七章</font>  网站安全<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  各部门应增强网站安全意识,根据《计算机信息网络国际联网安全保护管理办法》,建立健全网络信息安全组织领导机构和各项管理制度。<br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  各部门应落实专人负责本单位信息的上传工作,保管好本单位的上传密码等信息。如有遗失,应及时通知市政府信息中心,以确保网站的安全运行。<br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  各部门在网站建设中应当加强安全技术和手段的应用,对信息系统的安全进行实时监控,对操作系统、数据库系统和应用系统进行安全加固。<br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  各部门应当根据国家《计算机信息系统国际联网保密管理规定》等有关保密法规、规章和规定,明确不得上网的信息内容。<br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  各部门应当依据《互联网信息服务管理办法》和《互联网电子公告服务管理规定》,加强网上互动内容的监管,确保信息安全。<br><br>    <font class='zhang'>第八章</font>  监管考核<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  由市政府信息中心对照《政府门户网站建设和维护工作目标》,检查各部门报送信息、子网站更新维护和公务电子邮箱的使用管理情况,并按月通报检查结果。<br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a>  门户网站设网站监督员,聘请有关专家、市民担任。网站监督员负责对主网站及子网站的信息维护和运行管理进行监督,并定期向门户网站编辑部报告监督情况。<br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a>  门户网站不定期地组织开展网上评议,由公众评议各子网站建设和维护情况。<br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a>  月度检查情况、网站监督员监督报告、公众评议结果与年终单位目标考核挂钩,并作为政府系统信息化建设评优的重要依据。<br><br>    <font class='zhang'>第九章</font>  附    则<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a>  本办法由市政府信息中心负责解释,自发布之日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

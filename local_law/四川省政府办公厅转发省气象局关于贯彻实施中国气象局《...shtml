@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82102<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1996-01-11<BR>&nbsp;&nbsp;【生效日期】1996-01-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>四川省人民政府办公厅转发省气象局关于<br>
+贯彻实施中国气象局《气象卫星综合应用业务系统<br>
+</font></p><p align='center'><font class='STitle'>（9210工程）实施主计划》的意见的通知<br>
+（1996年1月11日川办发〔1996〕3号）</font></p>    省气象局《关于贯彻实施中国气象局〈气象卫星综合应用业务系统（9210工程）实施主计划〉的意见》，已经省政府同意，现转发给你们，请结合实际贯彻执行。<br><br>              关于贯彻实施中国气象局《气象卫星综合应用业务<br>                 系统（9210工程）实施主计划》的意见<br><br>省政府：<br>    经国家计委1992年10月批准立项的气象卫星综合应用业务系统（简称9210工程），是九十年代气象业务现代化建设的重点骨干工程。该工程建设的主要目的是：在全国地级以上的气象部门建成卫星通信传输网和计算机网络系统，从而实现气象信息的高速传输和资源共享，整体提高气象业务和服务水平。为了推动工程的顺利进行，中国气象局下发了《气象卫星综合应用业务系统（9210工程）实施主计划》，对工程的设计、进度、投资匹配方案等提出了具体要求。现结合我省的实际情况，提出对该系统工程四川分系统建设的实施意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>“八五”期间，在中国气象局和各级地方政府的领导、支持下，我省建成了成都区域气象中心，完善了气象业务技术流程，气象主干业务取得了长足的进展。但是，目前区域中心业务系统还很脆弱，地县级业务的发展也较缓慢，存在业务体系不健全、配套协调性差、设备利用率低、整体效益发挥不充分等问题。9210工程四川分系统的建设，不仅提供了国家匹配投资的机遇，而且也为区域气象中心业务系统的完善建设和主干业务向地（市、州）级的拓展与延伸提供了极好的机会。因此，各地要珍惜这一难得的机遇，大力进行气象卫星综合应用业务系统四川分系统的建设，从而进一步提高气象为农业生产、减灾防灾和国民经济发展服务的水平。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>按照中国气象局的规定，9210工程四川分系统的建设，包括1个省级系统、15个计划内的地（市、州）级系统（攀枝花、自贡、绵阳、内江、乐山、万县、南充、涪陵、黔江、宜宾、达川、雅安、阿坝、甘孜、凉山）和4个计划外的地（市）级系统（广元、泸州、德阳、广安）。每个系统的建设，分为主体工程、配套工程和系统功能的开发与扩展三部分。根据预算，如暂不考虑系统功能的开发与扩展投资，省级系统的总投资为995．39万元（其中：主体工程904．19万元，配套工程91．2万元），每个地级系统的总投资约为102．18万元（其中：主体工程87．18万元，供电等配套工程15万元）。国家的投资匹配政策是：“省级系统及计划内的地级系统的主体工程投资，按中央与地方1：1的比例匹配解决；各级系统的配套工程投资和功能的开发与扩展投资，以及计划外的地级系统建设的全部投资，均由地方政府解决”。根据我省的财政状况，分系统建设的投资拟按分级负责的原则解决。即：省级系统需省里匹配的部分，由省计委、省财政厅纳入“九五”计划安排；需各地匹配的部分，由各地（市、州）政府与当地计委、财政部门协调，纳入“九五”计划安排。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>9210工程四川分系统的建设，国家要求在两年内（1996―1997年）完成，并交付业务使用。鉴于四川各地经济发展不平衡，个别地方的建设期限，可以适当延长。<br>    以上意见，如无不妥，请批转各地执行。<br><br>                                                        四川省气象局<br>                                                    一九九五年十二月五日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

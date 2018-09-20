@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】威海市<BR>&nbsp;&nbsp;【发布文号】威政办发〔2002〕27号<BR>&nbsp;&nbsp;【发布日期】2002-05-14<BR>&nbsp;&nbsp;【生效日期】2002-05-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>威海市人民政府办公室<br>关于贯彻省政府令第134号文件切实做好防御和减轻雷电灾害管理工作的通知 <br><br></font>(威政办发〔2002〕27号)</p><br><br>各市、区人民政府,高技术产业开发区、经济技术开发区管委会,市政府各部门、单位： <br><br>    为了认真贯彻落实《<a href=javascript:ROF(58773,0) class=alink>山东省防御和减轻雷电灾害管理规定</a>》（省政府令第134号，以下简称《规定》），减轻和防御雷电灾害，保护国家、集体和人民群众生命财产安全，现结合我市实际，就有关问题作如下通知：<br><br>    一、高度重视，进一步提高防范意识。雷电灾害是联合国“国际减灾十年”公布的最严重的10种自然灾害之一，也是《气象法》所列11种主要气象灾害之一。做好防御和减轻雷电灾害管理工作，对保护国家利益和人民群众的生命财产安全，促进经济建设和社会事业发展，具有十分重要的意义。各级各有关部门一定要进一步提高认识，认真贯彻预防为主、防治结合的工作方针，切实加强防御和减灾工作的组织领导；要采取多种形式，广泛宣传《气象法》、《规定》和雷电的危害及防御常识，大力开展防雷减灾科普宣传，增强全民防雷减灾意识；要加强防雷减灾技术的培训，积极研究开发和推广应用防雷新技术成果，提高防雷技术水平。<br><br>    二、按要求设置防雷装置。防雷装置是指接闪器、引下线、接地装置、电涌保护器（SPD）及其他等电位连接等防雷产品和设施。根据《气象法》和省里的有关规定，下列场所或设施要安装防雷装置：（一）建筑物防雷设计规范规定的一、二、三类防雷建（构）筑物及其附属设施。包括高层住宅、工业建筑、中型厂房、烟囱、水塔、建筑塔吊、行吊、重要物资仓库、露天堆场、公共建筑物、商场、宾馆、体育馆、展览馆、影剧院、大会堂、机场、港口、车站候车室等公众群聚场所及重点文物保护建筑。（二）易燃易爆场所，包括油库、加油站、液化气站、煤气厂站、化工厂、炸药库及易燃易爆物资的生产、储存场所等。（三）易发感应雷击设施，包括电力、金融、证券、邮政、电信、移动通讯、寻呼台、广播电视、卫星接收、消防系统、防盗系统、交通监控系统、计算机工作站、电话总机、医疗器械、雷达导航、微机控制系统及精密仪器等。（四）航空导航系统、航海地面导航系统及其他易遭雷击的附助设施。各级气象主管机构所属的防雷减灾机构，要参与本行政区域内的新建、扩建、改建的建（构）筑物防雷装置的图纸设计审核，并对防雷设计提出意见，未经审核或审核不合格的设计图纸，建设行政主管部门不得发给施工许可证，建设单位不得施工。防雷装置建设要严格按照国家建筑物防雷设计规范的要求进行施工，并经防雷减灾机构验收合格后，方可投入使用。<br><br>    三、规范管理，严格执法。安装防雷装置的单位，要指派专人负责防雷装置的维护保养工作，发现损坏应当及时报告防雷减灾机构，并在防雷减灾机构的指导下整改。各级气象主管机构要加强监督管理，对防雷装置每年检测一次，对易燃易爆危险物品生产、储存等场所的雷电防护设施每半年检测一次。检测合格的，颁发合格证书；不合格的，责令限期整改。对下列情形，由气象主管机构给予警告，并责令限期改正；逾期不改的，按照《气象法》和《规定》，予以处罚或追究法律责任：（一）未取得相应检测资质或者超出资质等级许可范围，从事防雷检测和工程安装的。（二）应当安装雷电防护设施而拒不安装的。（三）雷电防护设施使用单位拒绝接受检测或者检测不合格拒不整改的。（四）防雷装置工程图纸设计未经防雷减灾机构审核，擅自施工的。（五）新建、扩建、改建的建(构)筑物的防雷装置未经防雷减灾机构验收或未取得合格证书，擅自投入使用的。（六）安装和使用不符合国家防雷技术要求的防雷装置的。（七）对重大雷电灾害事故隐瞒不报的。防雷减灾机构要加强雷电天气监测、预警系统的建设，按照合理布局、信息共享、有效利用的原则，会同有关部门组建全市雷电监测网，利用闪电定位仪、雷达等先进设备，提高雷电灾害预警、防御服务能力。市安监、建设、公安、消防、工商、技术监督和电力等有关部门，要按照各自的职责，积极配合做好防雷减灾工作。<br><br><br>                                                            二ＯＯ二年五月十四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

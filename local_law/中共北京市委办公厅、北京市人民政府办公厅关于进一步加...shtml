@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京办发〔2004〕1号<BR>&nbsp;&nbsp;【发布日期】2004-01-07<BR>&nbsp;&nbsp;【生效日期】2004-01-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.bjgov.gov.cn/uw/gateway.exe/bjgov/wwwblue/gazette_detail.html?infos_oid=@15150|2|1" target=_blank>北京市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中共北京市委办公厅、北京市人民政府办公厅<br>关于进一步加强传染性非典型肺炎防控工作的通知<br> <br></font>(京办发〔2004〕1号)</p><br> <br> <br>各区、县委，各区、县政府，市委、市政府各部委办局，各总公司，各人民团体，各高等院校：<br>    2004年1月5日，卫生部公布广东确诊一例传染性非典型肺炎病例，这对本市非典防控工作再次敲响警钟。春节将至，大规模人员流动和春运的高峰期即将来临，各级党委、政府，各有关部门和单位要高度重视，进一步加强非典防控工作，严格、认真地抓好《北京防治传染性非典型肺炎应急预案》的落实，严防非典疫情反复，确保首都的公共卫生安全。<br>    一、各级党委和政府以及卫生行政部门必须坚持“高度警惕，有效防范”的工作方针，以对人民高度负责的态度，全面落实“早发现、早报告、早隔离、早治疗”的工作要求。<br>    二、要严格按照《中共北京市委办公厅北京市人民政府办公厅关于做好下一步防控传染性非典型肺炎工作的意见》（京办发〔2003〕30号）的要求，落实各项日常防控措施。各级卫生行政部门和卫生监督执法机构要依法对医疗机构、疾病控制中心、公共场所及其他有关单位进行卫生监督检查，对发现的问题和隐患要立即责令整改、决不姑息，不管涉及到哪一级、哪个单位，都要坚决依法加以纠正。对屡教不改或整改不力的单位要依法给予行政处罚，对有关责任人要给予相应的党纪、政纪处分。要特别注意发现违反《传染病防治法》及有关法规、规章的典型案例，一经发现，严肃查处，决不手软，并将查处情况及时向社会进行通报；对于涉嫌犯罪的，要及时移交司法机关依法追究刑事责任，以儆效尤。同时，要认真对待、及时调查处理社会投诉的传染病防治违法事件，对于群众的举报信息要逐一落实并给予答复。<br>    三、非典防控工作实行条块结合、以块为主、属地管理的原则。各区县党委和政府对本辖区内的传染性非典型肺炎防治工作负总责，要主动协调辖区内所有单位，积极主动地做好非典防控的各项工作。<br>    四、全市卫生系统要认真履行职责，加强各级各类医疗卫生机构内部管理和监督检查，控制院内感染，做好医院门诊、急诊预检筛查和发烧门诊工作。切实做到：<br>    （一）严格按照《北京防治传染性非典型肺炎应急预案》、《卫生部关于加强预防传染性非典型肺炎工作的通知》、《卫生部关于开展全国今冬明春传染病防治执法检查的通知》等文件精神，依法、科学、规范、有序地开展非典防控工作。<br>    （二）所有二级及以上医疗机构必须建立预检筛查制度，发烧门诊定点医院要进一步加大对发烧门诊的管理力度。建立和完善科学规范的就诊流程，特别对不明原因发烧病人的筛查、检疫、临床观察、诊断、治疗等程序要严格落实，切实做到“早发现、早报告、早隔离、早治疗”。<br>    （三）各区县卫生行政部门要加强对辖区内诊所、门诊部、医务室和社区卫生服务站等医疗机构的监督检查，确保预检分诊制度的落实。凡不具备影像学检查、临床检验条件的医疗机构，对就诊的呼吸道疾病发烧患者必须进行详细的登记，并将患者及时转到辖区内设有发烧门诊的医疗机构进行排查。对于因未进行详细登记而影响流行病学调查的上述医疗机构，一经发现，一律吊销营业执照。<br>    五、市、区县疾病预防控制中心要加强非典疫情监测、疫情趋势预测、疫情报告、流行病学调查和实验室管理，信息组、流调小分队和群众热线要坚持24小时值班，确保出现疫情后能够快速反应。要加强SARS标本和毒株管理，确保SARS样品生物安全，保证网络实验室运转正常并实现互动。<br>    六、民航系统对每天从发现非典病例地区来京的飞机实行远机位停机，安排专用轿车接送乘客并为每位乘客测试体温；在国内航班入口处安装体温检测仪，由机场医务人员值守，发现体温在37.5℃以上的乘客，要立即用120救护车送民航总医院检疫筛查，发现问题报告辖区疾病预防控制中心，同时由首都机场报市疾病预防控制中心。<br>    七、铁路系统要对北京西客站和北京站每天从发现非典病例地区来京列车的乘客进行重点体温测试，安排医务人员在车站通道值守，凡体温在37.5℃以上乘客，分别送往北京铁路总医院和丰台铁路医院，北京铁路局职工从发现非典病例地区回来进铁路公寓前必须先测试体温。<br>    八、公路运输系统要坚持对交通工具进行消毒，对于外地来京有发烧症状的乘客，尤其是来自发现非典病例地区的乘客要加强监测，必要时送到发烧门诊做进一步排查。<br>    九、各类学校和托幼机构要进一步加强管理。教室、午休室、活动场所等要保持通风换气，搞好校（园、所）内外环境卫生。校（园、所）医院（医务室）承担对学生、儿童及教职工的发烧排查工作，确定责任人，落实晨检制度，对体温达到或超过37.5℃并有传染病可疑症状的人员，及时联系120急救中心并使用专用车辆送指定医疗机构诊治。<br>    十、建筑工地要实行规范管理，改善民工居住条件。对所有新招用人员实行健康体检制度，取得健康凭证后方可办理务工手续。有关部门要定期检查出租房屋、地下室、防空洞，落实外来人员登记制度。对用于居住的地下空间，个人居住面积不得少于3平方米，每间不得超过10人。<br>    十一、加强对野生动物的管理。对本市现有果子狸立即采取安全封存和医学检验措施，坚决禁食和禁售果子狸。安排与果子狸密切接触人员在指定医疗机构接受相关检查化验和医学观察。<br>    十二、大力加强爱国卫生运动，开展灭鼠等专项活动，防止非典疫情通过动物传播和蔓延。<br>    十三、加大非典防控宣传力度。要通过多种形式宣传市委、市政府采取的非典防控措施，宣传传染病防治有关法律法规，使群众了解个人在防治传染病中应承担的义务；普及防控非典知识，引导群众养成文明健康的生活方式，提高防护意识、防护能力和水平。<br>    十四、其他部门和系统也要根据各自的工作职责和任务，按照非典防控的要求，创造性地努力开展工作，为非典防控工作提供必要的保障。<br><br>                                          中共北京市委办公厅<br>                                          北京市人民政府办公厅<br>                                               二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

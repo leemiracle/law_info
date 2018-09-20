@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82503<BR>&nbsp;&nbsp;【发布文号】陕教财[1994]24号<BR>&nbsp;&nbsp;【发布日期】1994-06-08<BR>&nbsp;&nbsp;【生效日期】1994-06-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 陕西省教育委员会陕西省物价局陕西省财政厅、陕西省农业厅<br>
+关于调整中小学收费最高限额的通知<br>
+</font></p><p align='center'><font class='STitle'>（陕教财（1994）24号一九九四年六月八日）</font></p>    一九九三年秋季开学前，省教委、计委、监察厅、财政厅印发了陕教财（93）055号《关于进一步加强中小学收费管理的通知》，规定了中小学收费的最高限额，对于加强我省中小学收费管理，制止学校超标准收费及自定收费项目起到了很好的作用。根据我省教育事业发展的需要和群众的经济承受能力，以及物价上涨等情况，现对原制定的中小学收费的最高限额调整如下：<br>─────────────┬─┬─┬────┬────┬────────<br>                项目      │学│杂│住宿费  │借读费  │备注<br>    类别                  │费│费│（月）  │        │<br>──┬──────────┼─┼─┼────┼────┼────────<br>    │重点高中及职业高中  │90│60│  8     │        │<br>城  ├──────────┼─┼─┼────┼────┼────────<br>    │一般高中            │50│50│  8     │150     │<br>市  ├──────────┼─┼─┼────┼────┼────────<br>    │初中                │  │35│  8     │100     │<br>    ├──────────┼─┼─┼────┼────┼────────<br>    │小学                │  │25│        │ 80     │<br>──┼──────────┼─┼─┼────┼────┼────────<br>    │重点高中及职业高中  │60│50│  6     │        │<br>农  ├──────────┼─┼─┼────┼────┼────────<br>    │一般高中            │40│35│  6     │        │<br>    ├──────────┼─┼─┼────┼────┼────────村  │初中                │  │25│  4     │        │<br>    ├──────────┼─┼─┼────┼────┼────────<br>    │小学                │  │18│        │        │<br>──┴──────────┴─┴─┴────┴────┴────────<br>    省级重点中学学杂费收费标准，如要突破上述限额，须报地市以上教育主管部门和物价部门批准，对于家庭生活困难的学生，要按陕价涉发（93）33号文件精神，实行减免。<br>    代办费用属于服务性质的收费，要取之于学生用之于学生，并严格控制，切实遵循自愿的原则。代办费用的项目包括：课本费、体验费、实习实验费、膳食费、高考会考费、招生报名费、毕业证书费、高寒地区冬季无取暖设备的学校可酌收取暖费。代办费收费标准由县（市、区）教育、物价、财政、农业部门在省规定项目以内确定，学校不得以任何理由向学生收取其他费用和各种社会集资，学校有权拒绝并坚决抵制有关部门的各类摊派收费。<br>    学校收费使用由省财政厅统一印制的行政事业性收费票据，并按省财政厅陕财事字（1994）041号［关于印发《陕西省行政事业性收费收支两条线管理暂行办法》的通知］规定执行。<br>    各地、市、县（区）接此通知后，要尽快制定出符合本地实际的收费标准，自一九九四年秋季开始实施。学校在开学收费前都要张榜公布各项收费标准，接受群众和社会的监督及物价、审计部门的检查。<br>    学校开学时，各级教育、物价、财政和农业部门对学校收费工作要进行检查，对违犯规定乱收费的学校按有关规定予以处罚，对负有直接责任的领导和当事人给予纪律处分，对群众举报的高收费、乱收费的问题，要逐一查清、严肃处理。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80202<BR>&nbsp;&nbsp;【发布文号】津政发[1989]31号<BR>&nbsp;&nbsp;【发布日期】1989-03-20<BR>&nbsp;&nbsp;【生效日期】1989-03-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 天津市人民政府批转市政府研究室等四部门<br>
+《关于天津市发展中小学勤工俭学的几点意见》的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1989年3月20日津政发〔1989〕31号）</font></p>各区、县人民政府，各委、局，各直属单位：<br>    市人民政府同意市政府研究室、市教卫委、市教育局、市财政局《关于天津市发展中小学勤工俭学的几点意见》，望结合实际情况，认真贯彻执行。<br>    中小学开展勤工俭学活动，有利于全面贯彻党的教育方针，培养学生的劳动观念，改善办学条件，提高教师的生活、福利待遇，安排富余的人员。各级人民政府和有关部门要统筹规划，积极引导，认真组织，加强管理，推动我市勤工俭学活动的健康发展。<br><br>                 关于天津市发展中小学勤工俭学的几点意见<br><br>    根据市领导同志的指示，我们对天津市中小学开展勤工俭学的情况，进行了较为广泛深入调查。<br>    党的十一届三中全会以来，由于市政府采取了一些积极引导、扶持发展的政策，总的看来，我市勤工俭学活动发展是比较健康的，是有成效的。据一九八八年统计，在全市四千多所中小学中，校办工厂已发展到九百九十九个。其中，中学校办厂五百三十六个，小学校办厂四百六十三个，校办农场一百二十五个。全部职工人数为二万六千五百三十八人，其中教职工三千五百八十人。固定资产约三千四百六十三万元，流动资金约一亿二千四百八十三万元。产品有轻工、化工、机械、电子、教学仪器等十几大类上百余种。一九八八年我市校办工业、农业产值近二亿元，实现纯利润四千八百一十六万元（农业利润七十一万元），缴纳税金八百六十五万元。校办商业、服务业一九八八年发展到二百二十四个。职工二千零四十九人，其中教职工四百六十二人。营业额达到八千四百八十五万元，获纯利润五百四十二万元，上缴税金三百二十二万元。<br>    调查中，普教战线各级领导和教师普遍认为，就我国国情讲，中小学开展勤工俭学活动具有积极的作用。首先，有利于全面贯彻党的教育方针，培养学生的劳动观念和劳动技能。一九八八年全市共有六十五万中小学生（占在校生总数的79％）参加了校办工厂（农场）组织的劳动或劳动技术教育。其次，有利于改善办学条件和师生集体福利。一九八八年的校办厂的纯收益中，用于改善办学条件一千一百零五万元，占相当于市区两级财政拨公用经费的13．1％；用于师生集体福利一千零三十八万元，占国家政策规定内职工福利费的54．7％。第三，有利于吸收学校多余人员。全市已有四千零四十二名教职工参加各类办企业的管理、生产和学生劳动教育工作。<br>    我市中小学勤工俭学目前发展还不平衡，还不能适应基础教育事业的发展对勤工俭学的要求。因此，在原有政策的基础上，要进一步采取一些措施，以推动勤工俭学活动更好地开展。根据《<a href=javascript:ROF(8650,0) class=alink>国务院批转国家教委等部门关于进一步发展中小学勤工俭学若干问题意见的通知</a>》精神，现提出如下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>开展勤工俭学活动要以有利于全面贯彻教育方针、深化教育体制改革、提高教育质量、促进人才培养为准则。应从实际出发，采取多种形式，宜工则工，宜农则农，宜开展第三产业则开展第三产业，也可以举办各类进修班、培训班等。有条件的农村，可由当地人民政府划拨一部分土地（包括山林、水塘等）作为学校的教育和生产经营基地。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>兴办校办企业需先经市教育主管部门批准，再按规定向当地工商行政管理部门申请登记注册，核发营业执照。工商行政管理部门要积极支持，并给予指导。区、县教育局可集中力量兴办一个或几个企业。市区小学对于已办企业要巩固、提高，没有办的暂不新办其他企业；遇到经费不足等困难，可由对口挂钩企业帮助解决。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>市和区、县主管计划、经济、物资等部门，要把校办企业生产纳入统一规划、管理范畴。市经委、外经贸委、经协办应将一些适宜校办企业生产的项目，在扩散中优先照顾校办企业。校办企业所属国家统配的原材料、设备、燃料等，要尽可能给予支持。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>工商银行和农业银行应开设勤工俭学贷款项目，对校办企业生产经营的合理资金需求，应给予贷款支持。今后五年，由银行每年贷款五百万元用于发展校办工业，使其普及率提高到50％，实现利润增长一点五倍，达到七千五百万元。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>对校办企业的税收政策，仍执行财税一（1988）140号文件规定。此外，小学校办企业除生产、销售全国统一规定不能减免税的产品按规定征税外，其他产品及服务性项目需要减免产品税、增值税和营业税的，可报经税务部门批准给予减免税照顾。中小学校办商业和服务业等第三产业，按规定征税，纳税有困难的，可报经税务部门批准给予适当减免税照顾。对于其他新办校办工厂（农场），缴纳增值税、产品税和营业税有困难的，可向当地税务部门申报，经批准可减免税一年。减免的税款必须用于发展生产。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>学校开发联办企业所需资金，必须以自有资金为主。校际之间的联办企业，可享受校办企业的各种优惠政策；学校与社会其他企业、科研等单位联办工厂，开办初期纳税有困难的，经税务机关批准，可给予免征所得税一年的照顾。免征的税款用于发展生产。联办工厂实现的利润，实现税前分利，各自纳税的办法。属于校办工厂吸收外单位投资联办的企业，学校所得部分仍执行勤工俭学免税待遇；属于学校向外单位投资兴办的企业，学校分得的利润仍按原规定照章纳税。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>鼓励有条件的校办企业发展出口产品和“三来一补”等项目，创办中外合营企业。审批办法可参考我市对同规模的其他合营企业的审批办法。对于校办企业所创外汇，应执行有关外汇留成和奖励规定。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>勤工俭学的收益，主要用于改善办学条件、发展生产和改善师生福利。中小学奖金的免税限额，放宽到四个半月基本工资。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>校办企业的一切财产均属学校所有，任何单位和个人不得平调、侵占、变卖和私分。在购置和处理五万元以上的固定资产时，需由区、县主管部门审批。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>从事勤工俭学工作的人员（含各级校办企业公司中非机关行政编制人员），原属教育事业编制的，仍保留编制，其待遇不变；原为教师的，仍保留教师待遇，其工龄计入教龄，享受教龄津贴，并根据其水平，评聘教师职务。其他专业技术人员，可根据其专业性质及水平评聘相应的专业技术职务。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>学校可以根据国家教委的有关规定，有计划地组织师生到校办工厂进行劳动教育。要做好安全、保健工作。严禁学生参加有毒、有害、危险的生产作业和过重的体力劳动。在职教师不应参加校办企业的生产经营性活动，应该集中力量从事教育、教学工作。<br><p></p><a name='12'><font class='TiaoNoA'>  十二、</font></a>校办企业应尽量吸收超编教师参加企业的管理与生产，所安排超编人员的工资，应由校办企业返还学校行政，补充教育经费。<br><p></p><a name='13'><font class='TiaoNoA'>  十三、</font></a>校办企业可推行校长领导下的校办企业厂长（经理）负责制，有条件的可实行两权分离，即校办企业所有权归学校，经营权归企业。要严格财务管理制度，加强审计，使其规范化。杜绝浪费与不合理开支。凡用于发展教育事业的公用费一律不得挪作他用。<br><p></p><a name='14'><font class='TiaoNoA'>  十四、</font></a>加强、充实、健全各级校办企业管理机构。区、县校办企业管理机构规格应按专项报批，由编委审定。<br><p></p><a name='15'><font class='TiaoNoA'>  十五、</font></a>校办企业必须严格遵守国家法令，坚持合法经营。严禁生产、经营迷信产品，严禁在校园内生产、经营易燃、易爆等危险品和污染严重的产品。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

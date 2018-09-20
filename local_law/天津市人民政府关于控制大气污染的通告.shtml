@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80202<BR>&nbsp;&nbsp;【发布文号】津政发[1999]4号<BR>&nbsp;&nbsp;【发布日期】1999-01-20<BR>&nbsp;&nbsp;【生效日期】1999-01-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府关于控制大气污染的通告<br>
+</font></p><p align='center'><font class='STitle'>（津政发〔1999〕4号一九九九年一月二十日）</font></p>    为尽快改善本市大气环境质量，创造良好的城市工作环境和生活环境，保障人民身体健康，市人民政府决定采取有力措施，治理大气污染。现通告如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>改变能源结构，控制煤烟型污染<br>    （一）市区及有农业的区及各县人民政府所在地的建制镇内，所有1蒸吨／小时及以下小型燃煤设备和茶炉、大灶，一律于1999年4月1日前改用清洁燃料（天然气、煤制气、液化气、油、电及固硫型煤等）。今后，禁止再新建燃煤设施。凡具备使用管道燃气条件的地区，必须按照市和区、县人民政府的要求，改用管道燃气，其他地区也要积极创造条件使用管道燃气。区、县人民政府要加强对辖区内改用清洁燃料工作的监督检查。对未按本通告要求改用清洁燃料的单位，环境保护行政主管部门应依照有关环保的法律法规和本市有关规定予以处罚。对拒不执行本通告的单位和个体工商户，由工商行政管理部门和环境保护行政主管部门责令其停业整改。<br>    （二）对全市2蒸吨／小时及以上的锅炉和窑炉，必须进行脱硫和除尘双重治理，推广使用低硫优质煤（含硫量小于0．5％、含灰量小于10％）。销售煤炭的单位或个体经营者，严禁以超标煤充当低硫优质煤销售。违者由环境保护行政主管部门或技术监督管理部门会同有关部门依据有关法律、法规和规章予以处罚。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>强化机动车尾气治理，减少尾气排放污染<br>    （三）全市在用机动车辆的尾气排放，必须稳定达到国家标准。凡尾气排放超过国家标准的机动车辆，必须限期维修治理，安装净化装置，经复检合格后方可上路行驶。对年检中尾气排放未达标的，公安交通管理部门不予办理合格手续。对路检不合格的，由公安交通管理部门依法暂扣机动车行驶证及号牌。对深入单位抽检不合格的，由环境保护行政主管部门依法予以处罚。摩托车尾气排放，必须按照《天津市机动车排放污染物管理办法》的要求，纳入年检和抽检范围。<br>    （四）进入本市市区的外埠车辆，尾气排放必须符合国家标准，实现达标排放。自1999年3月1日起，对尾气排放超标的，必须进行维修治理，合格后方可进入市区。<br>    （五）所有农用车、机动三轮车、摩托车要严格按照公安交通管理部门规定的范围行驶。<br>    （六）在津销售机动车的汽车制造厂家和进口机动车的销售单位，自1999年3月1日起，必须按照国家有关规定，设置机动车尾气治理专点，履行机动车尾气治理的责任。新车行驶1年或3万公里以内，尾气排放仍超标的，均由该车制造厂家或进口机动车销售单位负责安装尾气净化装置。对拒不承担尾气治理任务的，由工商行政管理部门暂停其在津销售该型号机动车辆的资格。<br>    （七）本市在用机动车尾气排放维修企业，要严格按照排放维修规范，对所承修的机动车进行维修或安装净化装置，维修后的车辆要保证行驶3万公里或1年内稳定达标排放。违者由环境保护行政主管部门和交通运输管理部门依法予以处罚，直至吊销其尾气排放维修许可证。<br>    （八）机动车辆拥有单位和个人，要严格按照国家标准报废机动车辆。报废车辆一律集中处理，严禁出售、转让。对申请延缓报废的机动车，必须每6个月向环境保护行政主管部门和公安交通管理部门申请进行尾气排放、发动机功率及安全技术性能检测，符合国家机动车安全运行技术条件标准（ＧＢ7258－97）的，方可继续上路行驶。不按规定接受检测的，公安交通管理部门依据国家<a href=javascript:ROF(28641,0) class=alink>汽车报废标准</a>强制报废。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>加强大气环境综合治理，减少二次扬尘<br>    （九）市区和有农业的区及各县人民政府所在地的建制镇内，所有施工工地都要采取周边围挡、通道硬化、洒水压尘和清洗车轮泥污、苫盖运输灰料等扬尘防治措施。对未采取上述措施的工地，由建设行政主管部门责令限期整改，逾期仍未整改的，责令其停工整顿。环境保护行政主管部门要加强监督检查。<br>    （十）各单位内凡有露天料堆、煤堆、灰堆的，必须采取防止扬尘的措施。对运输煤、灰等易扬尘和洒漏物料的，要采取封闭措施。各区、县人民政府要组织有关部门加强经常性监督检查，对未采取上述措施的，责令限期整改，直至依法处罚。<br>    （十一）环境卫生行政主管部门要扩大道路机械化清扫面积，不断扩展落实道路喷水作业措施，防止道路扬尘。<br>    （十二）全市各区、县都要加快绿化建设，不断扩大绿地面积，严格落实绿化规划。任何单位和个人都不得侵占绿地，对违者由园林行政主管部门依法纠正。要坚持保护好绿化生态环境，为改善大气环境创造良好条件。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>落实责任，严格执法<br>    （十三）按照本通告，市有关部门和各区、县人民政府要落实责任，恪尽职守，严格执法，加大查处力度，切实取得实效。同时执法人员要严明纪律，防止乱收费或重复收费。对未履行职责或执行不力的，监察部门应追究其行政责任。<br>    本通告自发布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

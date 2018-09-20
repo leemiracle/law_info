@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80902<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1995-03-07<BR>&nbsp;&nbsp;【生效日期】1995-05-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 上海市畜禽污染防治暂行规定<br>
+</font></p><p align='center'><font class='STitle'>（一九九五年三月七日上海市人民政府发布）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>（目的和依据）<br>    为了防治畜禽污染，保护和改善环境，保障人体健康，根据《<a href=javascript:ROF(10121,0) class=alink>中华人民共和国环境保护法</a>》和其他有关法律、法规，结合本市实际情况，制定本规定。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>（定义）<br>    本规定所称的畜禽污染，系指在饲养畜禽活动中畜禽排放的粪便、清洗畜禽体和饲养场地、器具产生的污水，以及丢弃的畜禽尸体等直接对水体或者其他环境造成的危害和破坏。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>（适用范围）<br>    本规定适用于本市范围内畜禽牧场的畜禽污染防治及其监督管理活动。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>（防治原则）<br>    畜禽污染的防治实行预防为主、防治结合、综合利用、化害为利的原则。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>（主管部门和协管部门）<br>    上海市环境保护局（以下简称市环保局）和各区、县环境保护部门对本辖区内的畜禽污染防治实施统一监督管理。<br>    市和区、县畜牧主管部门负责本辖区内畜禽牧场的畜禽污染防治管理工作，制定污染治理计划，并组织实施。<br>    各级农业、环卫、卫生、水利部门应当根据各自的职责，协同环境保护部门和畜牧主管部门实施本规定。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>（各级人民政府职责）<br>    各级人民政府应当在制定国民经济发展计划的同时，对畜禽牧场建设统一规划，合理布局。<br>    乡（镇）人民政府应当对由其管辖的畜禽牧场采取有效措施，控制畜禽污染。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>（建设畜禽牧场的要求）<br>    新建、改建和扩建大中型畜禽牧场，应当按照建设项目环境保护的有关规定办理申请审批手续。<br>    大中型畜禽牧场的污染防治设施应当与主体工程同时设计、同时施工、同时使用。<br>    禁止在黄浦江上游水源保护区及准水源保护区内和城镇饮用水水源集中式取水口一公里半径范围内新建、扩建畜禽牧场。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>（排污口设置）<br>    畜禽牧场的每一个生产区域只能设置一个排污口。新建、扩建、改建畜禽牧场需增设排污口的，应征得水利部门同意后，报市环保局审核批准。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>（畜禽粪便的堆放）<br>    畜禽牧场应当设置畜禽粪便的堆放场。堆放场所应当采取有效措施，防止粪便散落、溢流。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>（畜禽粪便的处理）<br>    畜禽牧场对畜禽粪便应当实行无害化处理，按照要求进行还田利用或者用以生产沼气、再生饲料和有机肥料等物资。<br>    对畜禽粪便进行还田利用，应当做好粪便出运、处理的原始记录。农业、畜牧主管部门应当加强畜禽粪便还田利用的推广工作，组织完善肥料服务体系，并制订相应的奖励措施。<br>    利用畜禽粪便生产沼气、再生饲料和有机肥料等物资产生的沼液、沼渣和废水，应当按规定进行处理，禁止任意向水体或者其他环境排放。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>（畜禽粪便和污水排放的限制）<br>    禁止向水体或者其他环境直接排放畜禽粪便和污水。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>（畜禽尸体的处理）<br>    各种畜禽尸体应当按照有关规定实行深埋或者火化处理，不得任意丢弃。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>（污染治理设施）<br>    畜禽牧场的污染治理设施，必须保持正常运转。未经所在地的环境保护部门批准，不得闲置、拆除污染治理设施。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>（饲养场所管理）<br>    畜禽牧场应当保持饲养场所的环境整洁，实行清洁生产。<br>    畜禽主管部门应当定期对畜禽牧场饲养场所的管理情况进行检查考核。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>（污染物排放标准）<br>    畜禽牧场应当严格按照规定的排放标准排放污染物，其中污水的排放标准为：<br>    （一）位于黄浦江上游水源保护区及准水源保护区内的畜禽牧场：化学耗氧量（ＣＯＤＣＲ）≤350毫克／升，生物耗氧量ＢＯＤ5≤180毫克／升，氨氮（ＮＨ3－Ｎ）≤180毫克／升；<br>    （二）上述以外地区的畜禽牧场：化学耗氧量（ＣＯＤＣＲ）≤400毫克／升，生物耗氧量（ＢＯＤ5）≤200毫克／升，氨氮（ＮＨ3－Ｎ）≤100毫克／升。<br>    污染物排放标准确需修订的，由市环保局提出，报市人民政府批准。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>（排污许可证）<br>    畜禽牧场应当向所在地的区、县环境保护部门提出排放污染物的申请，经审核批准，取得《排污许可证》后，按照《排污许可证》核定的排放标准和排放总量排放污染物。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>（排污收费）<br>    畜禽牧场排放污染物超过规定的排放标准的，应当按照国家和本市的规定缴纳超标准排污费。国家和本市规定必须缴纳排污费的，按照国家和本市的有关规定执行。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>（限期治理）<br>    对超过规定的排放标准或排放总量排放污染物的畜禽牧场，可责令其限期治理。限期治理的决定，由市或区、县人民政府依照管理权限作出。市或者区、县人民政府也可根据具体情况，授权同级环境保护部门作出限期治理的决定。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>（现场监督检查）<br>    各级环境保护部门有权对本辖区内的畜禽污染防治工作进行现场监督和检查，索取资料，采集样品。被检查单位和个人应当如实反映情况，提供必要的资料，不得拒绝、阻挠或者隐瞒。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>（对违反环境管理规定行为的处罚）<br>    违反本规定，有下列行为之一，但对水体或者其他环境尚未造成污染后果的，环境保护部门可以根据不同情节给予警告、责令改正的处罚，并可处以三百元以上三千元以下的罚款：<br>    （一）拒绝和阻挠环境保护部门进行现场监督、检查或者在被检查时弄虚作假的；<br>    （二）不按规定向环境保护部门申请《排污许可证》的；<br>    （三）拒报、谎报本单位排污情况的；<br>    （四）违反本规定其他环境管理规定的。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  （对危害环境行为的处罚）<br>    违反本规定，有下列行为之一，对水体或者其他环境造成污染后果的，环境保护部门可以给予警告和责令停止排污行为、限期整改的处罚，并可处以二千元以上二万元以下的罚款：<br>    （一）未经处理直接向水体或者其他环境排放畜禽粪便和污水，或者任意丢弃畜禽尸体的；<br>    （二）堆放畜禽粪便造成粪便散落、溢流的；<br>    （三）任意向水体或者其他环境排放沼液、沼渣、废水的；<br>    （四）擅自拆除或闲置污染治理设施，污染物排放超过规定的排放标准的；<br>    （五）污染物排放超过《排污许可证》核定的排放总量的；<br>    （六）其他危害环境的行为。<br>    有前款所列行为，对水体造成严重污染后果或者造成重大经济损失的，环境保护部门可以依照《<a href=javascript:ROF(9340,0) class=alink>中华人民共和国水污染防治法实施细则</a>》的有关规定予以处罚。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>（对违反建设项目环境保护规定行为的处罚）<br>    新建、改建和扩建大中型畜禽牧场未按照建设项目环境保护的有关规定办理申请审批手续、污染防治设施未建成或者未达到规定要求即投入生产或者使用的，由环境保护部门依照建设项目环境保护的有关规定予以处罚。<br>    在黄浦江上游水源保护区及准水源保护区内和城镇饮用水水源集中式取水口一公里半径范围内新建、扩建畜禽牧场的，由环境保护部门责令其停止建设；已建成的由市或区、县人民政府责令其限期治理、迁移或关闭。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>（对执法者违法行为的处理）<br>    环境保护部门工作人员滥用职权、玩忽职守、徇私舞弊的，由其所在单位或者上级主管部门给予行政处分；构成犯罪的，依法追究刑事责任。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>（复议和诉讼）<br>    当事人对行政管理部门的具体行政行为不服的，可以按照《<a href=javascript:ROF(11941,0) class=alink>行政复议条例</a>》和《<a href=javascript:ROF(8969,0) class=alink>中华人民共和国行政诉讼法</a>》的规定，依法申请行政复议或者提起诉讼。<br>    当事人对行政处罚决定逾期不申请复议、不向人民法院起诉又不履行的，作出处罚决定的行政管理部门可以按照《<a href=javascript:ROF(8969,0) class=alink>中华人民共和国行政诉讼法</a>》的规定申请人民法院强制执行。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>（有关用语含义）<br>    本规定所称的大中型畜禽牧场系指饲养牛一百头以上，或者猪一千头以上，或者蛋鸡一万羽以上的畜禽牧场。<br>    饲养其他畜禽的大中型畜禽牧场由环境保护部门比照前款标准予以认定。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>（应用解释部门）<br>    本规定的具体应用问题，由市环保局负责解释。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>（实施日期）<br>    本规定自一九九五年五月一日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】吉林省<BR>&nbsp;&nbsp;【发布文号】吉粮信字[2003]32号<BR>&nbsp;&nbsp;【发布日期】2003-03-26<BR>&nbsp;&nbsp;【生效日期】2003-03-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>吉林省粮食局关于印发《吉林省粮食局计算机网络管理办法》的通知<br><br></font>(吉粮信字[2003]32号)</p><br><br><br>各市州、县（市、区）粮食局，局机关各处室、各直属单位：<br><br>    为切实加强全省各级粮食部门及所属企业计算机网络的管理，确保网络系统稳定、安全、高效运行，现将《吉林省粮食局计算机网络管理办法》印发给你们，要严格遵照执行。在执行过程中有好的建议和要求请及时向省局信息中心反馈。<br><br>    附件：吉林省粮食局计算机网络管理办法<br><br>                                                                二OO三年三月二十六日<br><br>  <br><br>    吉林省粮食局计算机网络管理办法<br><br>                                          <font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强对吉林省粮食系统计算机信息网络系统的管理，确保稳定、可靠、高效运行和数据信息资料安全保密，特制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法依据《中国人民共和国计算机信息系统安全保护条例》、《计算机信息网络国际联网安全保护管理办法》、《计算机信息系统国际联网保密管理规定》、《吉林省人民政府办公厅关于印发省政府门户网站信息发布管理办法的通知》等文件的规定，并结合《吉林粮油管理信息系统应用岗位管理细则与售后服务办法》（试行）及全省粮食系统计算机信息网络系统管理实际情况制定。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本办法适用于全省各级粮食部门及所属企业的计算机信息网络系统管理。<br><br>                                          <font class='zhang'>第二章</font> 管理目标<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 建立全省各级粮食部门及所属企业计算机信息网络系统应用管理岗位责任制，规范计算机信息网络系统内部控制及管理制度，充分发挥粮食系统计算机信息网络系统的先进、科学、规范、严密、准确、高效的优势。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 坚持预防在先和应急处理相结合的原则，规范操作，安全防范，消除隐患，严肃工作纪律，把各种风险控制到最低限度，确保全省粮食系统计算机信息网络系统正常运行。<br><br>                                          <font class='zhang'>第三章</font> 管理制度<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 设立计算机信息网络系统应用管理领导小组，负责对计算机信息网络系统建设及应用、管理、维护等工作进行指导、协调、检查、监督。加强教育和培训，制定培训计划，组织参加培训，协调解决计算机信息网络系统管理中存在的问题。各单位要指定专门领导具体负责，并明确具体工作部门。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 各级粮食部门要根据实际情况，并结合《吉林粮油管理信息系统应用岗位管理细则与售后服务办法》（试行），建立健全有关计算机信息网络系统管理制度及各工作岗位责任制。根据计算机信息网络系统流程及业务流程需要，合理设置工作岗位，落实人员。各岗位间既要相互协作又要相互制约。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 指定网络管理员。网络管理员必须具备一定的计算机硬件、软件及网络知识，了解相关业务，胜任计算机网络系统日常管理维护工作。网络管理员负责对本部门单位计算机信息网络系统进行统一管理。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 操作员要按赋予的权限进行操作，不得代他人完成工作，不准盗用他人密码进行登录。外来人员不能对本单位部门内部计算机系统进行操作。<br><br>                                          <font class='zhang'>第四章</font> 硬件管理<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 加强对计算机信息网络系统硬件设备管理，按规定进行正确操作使用，不得擅自改变硬件系统配置，不得自行拆卸、添加、移动、撤换各种设备仪器。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 服务器是计算机信息网络系统的心脏，由网络管理员负责管理。在没有主要领导及主管领导授权情况下，任何人不能在服务器上进行具体业务操作，网络管理员也不能将服务器委托他人管理。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 为确保服务器正常工作，应连接长延时不间断电源。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 业务终端计算机由操作员进行日常管理，并接受网络管理员统一管理。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 如需改变服务器或其它设备配置，需报请主要领导及主管领导同意后，并征求网络系统设计集成单位意见，由设计集成单位技术人员或在其指导下完成。重大事项需向上级主管部门报告。<br><br>                                          <font class='zhang'>第五章</font> 软件管理<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 按照规定标准安装系统软件、数据库软件、查杀毒软件及应用软件等。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 不得在服务器上安装工作系统要求以外的任何其它软件。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 业务终端计算机安装其它软件要向领导报告并经网络管理员同意，在不影响网络及应用软件正常运行情况下进行。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 不得使用来历不明的光盘或软盘，以防止感染病毒或黑客侵袭，不得随意安装各类与工作无关的软件，尤其不得安装能对操作系统默认配置、注册表、系统配置文件进行修改的软件；不得安装能记录鼠标、键盘动作的软件；不得安装反汇编软件、后门软件、自由共享软件等，以防止网络系统被破坏和数据信息资料丢失、泄密。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 不得在计算机上做与工作无关的事情。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 严禁随意删除、修改计算机内的程序及软件。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 随机或网络所配备的软件、资料要妥善保管，建立档案，以防丢失或其它损失。<br><br>                                          <font class='zhang'>第六章</font> 信息管理<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 加强粮食数据信息资料管理工作，按照国家、省及粮食行业有关保密规定，确定本单位粮食数据信息资料秘密等级。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 处于讨论修改阶段或目前不适公开的数据信息资料不得向外界传播扩散。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 加强对吉林粮油管理信息系统数据信息资料管理工作，不能把吉林粮油管理信息系统所涉及的数据信息资料复制到系统以外计算机上。打印、查询有关信息要按具体要求做好安全保密工作。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 为避免非常事故造成数据信息丢失，对核心数据库定期备份，专人保管，明确责任。记录备份时间、拷贝的份数等信息，并及时对旧备份进行清除或销毁，避免遗失和泄密。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 由指定人员保管的所有权归单位的软件、数据信息资料备份介质等，要注意做好保密工作，并做好登记备案。在保管人员调离岗位时必须交还，交接手续办清后，方可调离。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 吉林省粮食局公众信息网站发布的信息，均为非密级信息，涉密信息不得在网站上发布。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 各级粮食部门及所属企业对拟在吉林省粮食局公众信息网站上发布的信息进行审核把关，审核内容包括：上网信息有无涉密问题；上网信息目前对外发布是否适宜；信息中的文字、数据、图表、图像是否准确等。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 未经领导许可严禁以单位的名义在网上发布信息，严禁交流传播涉密信息。<br><br>                                          <font class='zhang'>第七章</font> 安全管理<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 提高安全意识。要将安全防范措施融入计算机信息网络系统建设中，在硬软件配置、系统集成等方面充分保障网络畅通和安全；要建立健全安全管理制度，主要领导负总责，切实做好本单位计算机信息网络系统安全保护工作。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 接入本单位计算机信息网络系统的计算机都要安装查杀病毒软件，并按规定定期升级，确保对新发现病毒的防范能力。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a> 为确保计算机信息网络系统安全，严禁将吉林粮油管理信息系统内的计算机接入互联网。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> 严禁载有秘密（含秘密级以上等级）信息的计算机直接或间接与国际互联网或其它公众信息网相连接。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 访问互联网的计算机严禁存放任何涉密信息及其它与工作业务有关的内部数据信息资料，并与管理网络物理隔离。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a> 任何单位和个人不得利用计算机信息网络（包括互联网）危害国家安全，泄露国家机密；不得侵犯国家的、社会的、集体的利益和公民的合法权益；不得从事违法犯罪活动。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a> 任何单位和个人不得利用计算机信息网络（包括互联网）制作、复制、查询和传播违反宪法和法律、行政法规、扰乱秩序、破坏团结，不健康等方面的信息。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a> 任何单位和个人不得从事下列危害计算机信息网络系统安全的活动：未经允许，进入计算机信息网络或者使用计算机网络资源；未经允许，对计算机信息网络功能进行删除、修改或者增加；未经允许，对计算机信息网络中存储处理或者传输的数据和应用程序进行删除、修改或者增加；故意制作、传播计算机病毒等破坏性程序；其它危害计算机信息网络安全的操作。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a> 对由于特殊需要而在内部管理网络中计算机设置的共享目录加强管理，严防数据信息资料扩散泄密。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a> 做好计算机管理网络授权和密码管理工作，网络管理员要按领导要求正确授权，严禁给操作员授予职责范围以外的权限。密码一旦泄露要及时向领导报告并申请更换。<br><br>    第四十条操作员工作岗位发生变动，原有密码要及时清除，并对接替人员授予新密码。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a> 服务器所在机房，应设有良好的屏蔽保护措施。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a> 做好数据信息资料备份及数据系统恢复工作，做好数据信息存储介质保管工作，积极创造条件实现重要数据信息完整备份，做到异地安全保管。<br><br>                                          <font class='zhang'>第八章</font> 系统维护<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a> 网络管理员要做好计算机管理网络的日常管理和维护工作，确保网络系统状态时刻良好，保证网络能够正常进行数据采集、处理、远程传输等工作。<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a> 对计算机管理网络中的每一台业务终端机的管理都要指定专人负责。<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a> 在计算机管理网络出现本单位无法解决的问题时，网络管理员要及时向领导汇报并与售后服务单位联系尽快解决。<br><br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a> 发生计算机网络系统事故应及时、妥善处理，重大事故、问题要及时向上级管理部门和省粮食局报告。<br><br>                                          <font class='zhang'>第九章</font> 附则<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a> 各级粮食部门及所属企业要从思想上提高计算机信息网络系统管理、安全意识，切实抓好计算机管理网络建设和应用工作，落实计算机信息网络系统管理各项规章制度，全面提高粮食管理现代化水平。<br><br>    <a name='48'><font class='TiaoNoA'>第四十八条</font></a> 对违反本办法者，要追究当事人责任。对造成严重事故或触犯法律、行政法规的，要依照有关法律、行政法规予以处理，并追究相关领导责任。<br><br>    <a name='49'><font class='TiaoNoA'>第四十九条</font></a> 本办法由吉林省粮食局负责解释。<br><br>    <a name='50'><font class='TiaoNoA'>第五十条</font></a> 本办法自发布之日起执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

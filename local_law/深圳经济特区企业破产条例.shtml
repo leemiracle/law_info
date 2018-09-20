@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81907<BR>&nbsp;&nbsp;【发布文号】深圳市人大常委会第12号<BR>&nbsp;&nbsp;【发布日期】1993-12-18<BR>&nbsp;&nbsp;【生效日期】1994-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳市人民代表大会常务委员会公告<br>
+</font></p><p align='center'><font class='STitle'>（第十二号）</font></p>    《深圳经济特区企业破产条例》，经深圳市第一届人民代表大会常务委员会第十九次会议于1993年11月10日通过，现予公布，自1994年3月1日起施行。<br>                                        深圳市人民代表大会常务委员会<br>                                            一九九三年十二月十八日<br><br>                          深圳经济特区企业破产条例<br>                       （1993年11月10日深圳市<br>               第一届人民代表大会常务委员会第十九次会议通过）<br><br><p class='zhang'>  第一章  总则</p><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为规范企业破产地为，保护债权人、债务人的合法权益，维护深圳经济特区（以下简称特区）的社会主义市场经济秩序，制定本条例。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  本条例适用于下列企业法人，但法律、法规另有规定的除外：<br>    （一）在特区内注册登记的企业法人；<br>    （二）在特区外注册登记，但住所在特区内的企业法人。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  企业不能清偿到期债务的，依照本条例规定和解或宣告破产。<br>    企业停止支付到期债务的，视为不能清偿到期债务。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  人民法院受理破产案件后，有下列情形之一的，不予宣告破产：<br>    （一）公用企业和与国计民生有重大关系的企业，政府有关部门给予资助或者采取其他措施帮助清偿债务的；<br>    （二）取得担保，自破产申请之日起六个月内清偿债务的。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  破产案件由债务人住所地人民法院管辖。<br>    外商投资企业的破产案件由深圳市中级人民法院管辖。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  破产案件的诉讼程序，本条例没有规定的，适用民事诉讼程序的法律规定。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  国有企业由债权人申请破产，被申请破产的企业的产权主管部门申请对该企业进行整顿的，适用国家企业破产法律的有关规定。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  破产企业员工的社会保险，应依照特区的有关规定办理。<br><p class='zhang'>  第二章  破产申请的提出和受理</p><br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  债务人不能清偿到期债务的，债权人可以申请宣告债务人破产，债务人也可以申请宣告破产。<br>    国有企业不能清偿到期债务，债权人和债务人均不提出破产申请的，国有企业产权主管部门可对其提出破产申请。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  在非破产清算中，清算组发现企业财产不足清偿债务的，应向人民法院申请宣告破产。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  申请宣告破产应向人民法院提交破产申请书。<br>    债权人申请宣告债务人破产的，应当提供关于债权数额、性质以及债务人不能清偿到期债务的证据。<br>    债务人、国有企业产权主管部门或非破产清算中的清算组申请破产的，应当提供财产状况说明书和债权、债务清册。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  人民法院收到申请书后，应在十日内作出受理的决定或不予受理的裁定。<br>    破产申请人对前款裁定不服的，可以提起上诉。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  人民法院在受理破产案件后，应当在十日内通知债务人并发布公告。债权人申请破产的，债务人应当在收到人民法院通知后十五日内，向人民法院提交财产状况说明书和债权、债务清册。人民法院在收到债务人提交的债务清册后十日内，应当通知已知的债权人。公告和通知中应当载明下列事项：<br>    （一）立案时间；<br>    （二）破产案件的债务人；<br>    （三）申报债权的期限、地点和逾期未申报债权的法律后果；<br>    （四）第一次债权人会议召开的日期和地点。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  债务人为其他单位担任保证人的，应当在收到人民法院通知后五日内转告有关当事人。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  债权人应在收到通知后的三十日内，未收到通知的债权人应当自公告之日起九十日内，向人民法院申报债权，说明债权的数额和有无财产担保，并提交朋有关明材料。逾期未申报债权的，视为自动放弃债权，但不是由于债权人责任造成逾期未申报，并且在破产财产分配前申报的，不在此限。<br>    人民法院对有财产担保债权和无财产担保债权的申报，应当分别登记。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  人民法院受理破产案件后，对债务人财产的其他民事执行程序应当中止。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  人民法院受理破产案件后，债务人对部分债权人的清偿无效，但是债务人正常生产经营所必需的除外。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  人民法院受理破产案件前六个月至破产程序终结，债务人的下列行为无效：<br>    （一）隐匿、私分或无偿转让财产；<br>    （二）非正常压价出售财产；<br>    （三）对原来没有财产担保的债务提供财产担保；<br>    （四）对未到期的债务提前清偿；<br>    （五）放弃自己的债权。<br><p class='zhang'>  第五章  债权人会议</p><br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  债权人会议由全体债权人组成。<br>    债权人会议成员享有表决权，但是有财产担保的债权人未放弃优先受偿权的除外。债务人的保证人，在代替债务人清偿债务后可以作为债权人，享有表决权。<br>    债权人会议主席由人民法院从有表决权的债权人中指定。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  债务人的法定代表人及有关人员，应列席债权人会议，并答复询问。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  第一次债权人会议应当在债权申报期限届满后十五日内，由人民法院或者债权人会议主席认为必要时召开，也可以在清算组或者占无财产担保债权总额的四分之一以上的债权人要求时召开。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  债权人会议的职权如下：<br>    （一）审查有关债权的证明材料，确认债权有无财产担保及其数额；<br>    （二）讨论通过和解协议草案；<br>    （三）讨论通过破产财产的处理和分配方案。<br>    债权人会议可推选债权人代表，了解清算组的清算情况，监督破产程序的进行。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  债权人会议对前条第一款第（一）、（三）项的决议，由出席会议的有表决权的债权人的过半数通过，并且其所代表的债权额，必须占无财产担保债权总额的半数以上。债权人会议对前条第一款第（二）项的决议，由出席会议的有表决权债权人过半数通过，并且其所代表的债权额，必须占无财产担保债权总额的三分之二以上。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  债权人会议的决议，对于全体债权人均有约束力。<br>    债权人对债权人会议的决议有异议的，可以在债权人会议作出决议后七日内提请人民法院裁定。<br>    前款裁定，不得上诉。<br><p class='zhang'>  第四章  和解</p><br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  由债权人申请破产的，在人民法院受理破产案件后至宣告破产前，被申请破产的债务人可向人民法院申请和解。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  债务人申请和解时，应提交下列文件：<br>    （一）和解申请书；<br>    （二）财产状况说明书；<br>    （三）债权、债务清册；<br>    （四）和解协议草案。<br>    有第三人担保的，债务人应提交有关担保的证明材料。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  和解协议草案应包括下列内容：<br>    （一）和解申请企业和债权人的名称（姓名）、债权数额；<br>    （二）债务延期偿还的期限或减免偿还的数额；<br>    （三）生产经营情况和亏损的原因；<br>    （四）恢复债务清偿能力的措施。<br>    有第三人担保的，和解协议草案应载明担保人的名称（姓名）、住所和担保内容。<br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>  人民法院收到和解申请书后，应在七日内作出是否认可和解申请的裁定。<br>    前款裁定，不得上诉。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>  有下列情形之一的，人民法院对和解申请不予认可：<br>    （一）申请不符合本条例第二十六条的规定，限期补正而未补正的；<br>    （二）和解申请企业的法定代表人及有关负责人员经人民法院传唤，无正当理由不到庭，或到庭不作真实陈述，或拒绝提供有关文件的。<br><p></p><a name='30'><font class='TiaoNoA'>  第三十条</font></a>  人民法院认可和解申请的，应在注册会计师、律师或其他专业人员中指定和解监督组成员。和解监督组向人民法院负责并报告工作。<br><p></p><a name='31'><font class='TiaoNoA'>  第三十一条</font></a>  人民法院认可和解申请的，应在七日内公告下列事项：<br>    （一）认可和解申请的理由；<br>    （二）监督组成员的姓名、住所；<br>    （三）债权人会议讨论和解协议草案的时间、地点。<br><p></p><a name='32'><font class='TiaoNoA'>  第三十二条</font></a>  和解监督组的职权如下：<br>    （一）监督和解申请企业的经营管理活动；<br>    （二）检查和解申请企业的会计簿册、文件。<br><p></p><a name='33'><font class='TiaoNoA'>  第三十三条</font></a>  人民法院认可和解申请后，和解申请企业的生产经营活动，应当监督组的监督。<br>    和解申请企业的法定代表人及有关负责人员应接受监督组对有关簿册、文件及财产的检查并答复监督组关于业务方面的询问。<br><p></p><a name='34'><font class='TiaoNoA'>  第三十四条</font></a>  债权人会议讨论和解协议草案时，和解申请企业的法定代表人及有关负责人员应出席会议，并答复询问。<br>    和解申请企业的法定代表人及有关负责人员经通知后，无正当理由不出席债权人会议或虽出席但拒绝答复询问的，视为撤回和解申请，由人民法院宣告和解申请企业破产。<br><p></p><a name='35'><font class='TiaoNoA'>  第三十五条</font></a>  和解协议草案被债权人会议否决时，人民法院应裁定终结和解程序。<br>    前款裁定，不得上诉。<br><p></p><a name='36'><font class='TiaoNoA'>  第三十六条</font></a>  债权人会议讨论通过和解协议草案后，人民法院应在十日内作出认可或不认可的裁定。<br>    前款裁定，不得上诉。<br><p></p><a name='37'><font class='TiaoNoA'>  第三十七条</font></a>  有下列情形之一的，人民法院对和解协议不予认可：<br>    （一）债权人会议的决议违反法律、法规规定的；<br>    （二）和解协议有欺诈情形的。<br><p></p><a name='38'><font class='TiaoNoA'>  第三十八条</font></a>  人民法院认可和解协议的，应在五日内发布公告。和解协议自公告之日起具有法律约束力。<br><p></p><a name='39'><font class='TiaoNoA'>  第三十九条</font></a>  和解协议不影响有财产担保债权人的权利，但有财产担保债权人同意的除外。<br><p></p><a name='40'><font class='TiaoNoA'>  第四十条</font></a>  和解协议履行期间，债务人有下列情形之一的，由人民法院裁定终结和解程序：<br>    （一）债务人不履行或不能履行和解协议的；<br>    （二）债务人财产状况继续恶化、债权人会议申请终结和解的；<br>    （三）债务人有本条例第十八条所列行为之一，严重损害债权人利益的。<br>    前款裁定，不得上诉。<br><p></p><a name='41'><font class='TiaoNoA'>  第四十一条</font></a>  和解期限届满，债务人能够按照和解协议清偿债务的，人民法院应裁定终结破产程序并予以公告。<br>    和解期限届满，债务人不能按和解协议清偿债务的，人民法院应当宣告该债务人破产，并重新登记债权。<br><p class='zhang'>  第五章  破产宣告与破产清算</p><br><p></p><a name='42'><font class='TiaoNoA'>  第一节  </font></a>破产宣告及效力<br><p></p><a name='43'><font class='TiaoNoA'>  第四十二条</font></a>  有下列情形之一的，由人民法院裁定，宣告企业破产：<br>    （一）人民法院受理债权人申请破产的案件后，债务人不申请和解的；<br>    （二）依照本条例第二十九条不认可和解申请的；<br>    （三）依照本条例第三十五条和解协议草案被债权人会议否决的；<br>    （四）依照本条例第三十七条不认可和解协议的；<br>    （五）依照本条例第四十条终结和解程序的；<br>    （六）和解期限届满，债务人不能按和解协议清偿债务的。<br><p></p><a name='44'><font class='TiaoNoA'>  第四十三条</font></a>  在民事诉讼或民事执行程序中，人民法院查明债务人不能清偿到期债务，且不具备和解条件的，可依职权宣告债务人破产。<br><p></p><a name='45'><font class='TiaoNoA'>  第四十四条</font></a>  破产宣告后，破产企业丧失管理及处分破产财产的权利。<br><p></p><a name='46'><font class='TiaoNoA'>  第四十五条</font></a>  人民法院应当自破产宣告之日起十五日内成立清算组，接管破产企业。<br>    清算组成员由人民法院从政府有关部门和注册会计师、律师等专业人员中指定。<br><p></p><a name='47'><font class='TiaoNoA'>  第四十六条</font></a>  清算组对人民法院负责并报告工作。人民法院认为必要时，可更换清算组成员。<br>    清算组应当列席债权人会议，并接受债权人会议的监督。<br><p></p><a name='48'><font class='TiaoNoA'>  第四十七条</font></a>  清算组负责破产财产的保管、清理、估价、处理和分配。<br>    清算组可以依法进行必要的民事活动。<br><p></p><a name='49'><font class='TiaoNoA'>  第四十八条</font></a>  破产宣告后，对破产企业未履行的合同，清算组可以决定解除或继续履行。<br><p></p><a name='50'><font class='TiaoNoA'>  第四十九条</font></a>  破产宣告后，破产企业的债务人或破产财产的持有人，只能向清算组清偿债务或者交付财产。<br><p></p><a name='51'><font class='TiaoNoA'>  第五十条</font></a>  破产宣告后，破产企业法定代表及有关负责人应根据人民法院的要求进行工作，不得擅离职守。<br><p></p><a name='52'><font class='TiaoNoA'>  第二节  </font></a>破产财产及其管理<br><p></p><a name='53'><font class='TiaoNoA'>  第五十一条</font></a>  破产财产包括下列各项：<br>    （一）宣告破产时破产的国有企业经营管理或其他破产企业所有的财产；<br>    （二）破产企业在破产宣告后至破产程序终结前所取得财产；<br>    （三）应当由破产企业行使的其他财产权利。<br>    已作为担保物的财产不属于破产财产；担保物的价款超过其所担保的债务数额的，超过部分属于破产财产。<br><p></p><a name='54'><font class='TiaoNoA'>  第五十二条</font></a>  破产企业有本条例第十八条所列行为的，清算组应向人民法院申请追回财产。追回的财产，并入破产财产。<br><p></p><a name='55'><font class='TiaoNoA'>  第五十三条</font></a>  破产企业法定代表人及有关负责人员应将与财产有关的一切薄册、文件、资料及其所管理的一切财产，移交清算组，并答复清算组关于财产及业务的询问。<br><p></p><a name='56'><font class='TiaoNoA'>  第五十四条</font></a>  债权调查完结前，清算组不得变卖破产财产。<br>    破产财产不从速变卖将造成破产财产损失的，经人民法院许可，清算组可以变卖。<br><p></p><a name='57'><font class='TiaoNoA'>  第五十五条</font></a>  清算组的下列行为，须经人民法院同意：<br>    （一）不动产的转让；<br>    （二）无形财产的转让；<br>    （三）借款；<br>    （四）债权和有价证券有转让；<br>    （五）允许行使取回权、抵销权；<br>    （六）权利的放弃；<br>    （七）破产财产争议的诉讼。<br><p></p><a name='58'><font class='TiaoNoA'>  第五十六条</font></a>  清算组违反本条例规定处分破产财产的，不影响无过错第三人的权利。<br><p></p><a name='59'><font class='TiaoNoA'>  第五十七条</font></a>  清算组可以在清偿有财产担保的债务后，收回破产企业的担保物。<br><p></p><a name='60'><font class='TiaoNoA'>  第五十八条</font></a>  破产财产清理完结后，清算组应编制资产负债表、财产目录和债权、债务清册。<br><p></p><a name='61'><font class='TiaoNoA'>  第三节  </font></a>破产债权<br><p></p><a name='62'><font class='TiaoNoA'>  第五十九条</font></a>  破产宣告前成立的无财产担保的债权为破产债权。<br>    破产宣告时未到期的债权，视为已经到期，但是应当减去未到期的利息。<br><p></p><a name='63'><font class='TiaoNoA'>  第六十条</font></a>  放弃优先受偿权利的有财产担保的债权为破产债权。<br>    有财产担保的债权，其数额超过担保物价款的，未受偿的部分作为破产债权。<br><p></p><a name='64'><font class='TiaoNoA'>  第六十一条</font></a>  清算组决定解除破产企业未履行的合同，另一方当事人因合同解除受到损害的，其损害赔偿额为破产债权。<br><p></p><a name='65'><font class='TiaoNoA'>  第六十二条</font></a>  破产企业的保证人代替破产企业偿还债务后，其代替偿还额为破产债权。<br><p></p><a name='66'><font class='TiaoNoA'>  第六十三条</font></a>  破产债权，非依破产程序不得行使。<br><p></p><a name='67'><font class='TiaoNoA'>  第六十四条</font></a>  下列各项不得作为破产债权：<br>    （一）破产宣告后的债权利息；<br>    （二）债权人参加破产程序所支付的费用；<br>    （三）逾期未申报的债权；<br>    （四）超过诉讼时效的债权；<br>    （五）未执行的滞纳金、罚款、罚金和没收财产。<br><p></p><a name='68'><font class='TiaoNoA'>  第六十五条</font></a>  在破产宣告前成立的有财产担保的债权，债权人享有就该担保物优先受偿的权利。<br><p></p><a name='69'><font class='TiaoNoA'>  第六十六条</font></a>  破产企业内属于他人的财产，由该财产的权利人通过清算组取回。<br><p></p><a name='70'><font class='TiaoNoA'>  第六十七条</font></a>  在破产宣告时债权人对破产企业负有的债务，可以在破产清算前抵销。<br>    有下列情形之一的，不得抵销：<br>    （一）债权人在破产宣告后负债的；<br>    （二）破产企业的债务人在破产宣告后取得债权的；<br>    （三）破产企业的债务人已知其停止支付或申请破产而取得债权的。<br><p></p><a name='71'><font class='TiaoNoA'>  第四节  </font></a>破产财产的分配和破产终结<br><p></p><a name='72'><font class='TiaoNoA'>  第六十八条</font></a>  下列破产费用，应当从破产财产中优先拨付：<br>    （一）破产财产的管理、变卖及分配所需的费用，包括聘任工作人员的费用；<br>    （二）破产案件的诉讼费用；<br>    （三）清算组成员的报酬；<br>    （四）为债权人的共同利益在破产程序中支付的其他费用。<br>    清算组应当将破产费用的开支情况向债权人会议公布；债权人有异议的，由人民法院决定。<br><p></p><a name='73'><font class='TiaoNoA'>  第六十九条</font></a>  破产财产优先拨付破产费用后，按照下列顺序清偿：<br>    （一）破产企业所欠员工工资和社会保险费用；<br>    （二）破产企业所欠税款；<br>    （三）破产债权。<br>          破产财产不足清偿同一顺序的清偿要求的，按照比例分配。<br><p></p><a name='74'><font class='TiaoNoA'>  第七十条</font></a>  清算组提出破产财产分配方案，经债权人会议讨论通过，报请人民法院裁定后执行。<br>    连续两次债权人会议未就破产财产分配方案形成决议时，由清算组将破产财产分配方案提请人民法院裁定后执行。<br><p></p><a name='75'><font class='TiaoNoA'>  第七十一条</font></a>  清算组在破产财产分配方案经人民法院确认后三十日内，应制作分配表。<br><p></p><a name='76'><font class='TiaoNoA'>  第七十二条</font></a>  分配表经人民法院认可后予以公告。<br>    对分配表有异议的，应自公告之日起十五日内，向人民法院提出。<br><p></p><a name='77'><font class='TiaoNoA'>  第七十三条</font></a>  对于因破产债权有异议，或因诉讼致使不能参加分配的，分配时清算时应从破产财产中按比例提存相当的金额。<br><p></p><a name='78'><font class='TiaoNoA'>  第七十四条</font></a>  破产财产分配完毕，由清算组提请人民法院裁定终结破产程序并予以公告。<br>    前款裁定，不得上诉。<br><p></p><a name='79'><font class='TiaoNoA'>  第七十五条</font></a>  自破产程序终结裁定公告之日起两年内，发现原破产企业尚有可分配财产的，由人民法院追加分配。<br><p></p><a name='80'><font class='TiaoNoA'>  第七十六条</font></a>  破产宣告后，破产财产不足以支付破产费用的，清算组可申请人民法院宣告终结破产程序并予公告。<br><p></p><a name='81'><font class='TiaoNoA'>  第七十七条</font></a>  破产程序终结后，未获清偿的债权不再清偿。<br><p></p><a name='82'><font class='TiaoNoA'>  第七十八条</font></a>  破产程序终结后，由清算组向破产企业原登记机关办理注销登记。<br><p class='zhang'>  第六章  小额破产</p><br><p></p><a name='83'><font class='TiaoNoA'>  第七十九条</font></a>  人民法院审理事实清楚、债权债务关系明确、破产财产或债务额在五十万元以下的小额破产案件，可以适用于本章的规定。<br><p></p><a name='84'><font class='TiaoNoA'>  第八十条</font></a>  自人民法院受理破产小额案件公告之日起，收到通知的债权人应在十五日内申报债权，未收到通知的债权人应在三十日内申报债权。<br><p></p><a name='85'><font class='TiaoNoA'>  第八十一条</font></a>  人民法院审理小额破产案件，可以根据具体情况决定是否召开债权人会议。人民法院决定不召集债权人会议的，债权人会议的职权由人民法院行使。<br><p></p><a name='86'><font class='TiaoNoA'>  第八十二条</font></a>  人民法院审理小额破产案件，可以不设立清算组。不设立清算组的，清算组的职权由人民法院行使。<br><p></p><a name='87'><font class='TiaoNoA'>  第八十三条</font></a>  人民法院审理小额破产案件，应一次分配破产财产。<br><p></p><a name='88'><font class='TiaoNoA'>  第八十四条</font></a>  本章没有规定的其他事项，适用本条例的有关规定。<br><p class='zhang'>  第七章  罚则</p><br><p></p><a name='89'><font class='TiaoNoA'>  第八十五条</font></a>  国有企业被宣告破产后，由政府有关部门和审计部门负责查明企业破产的责任，并对负有主要责任的有关人员给予行政处分；构成犯罪的，依法追究刑事责任。<br><p></p><a name='90'><font class='TiaoNoA'>  第八十六条</font></a>  有关人员违反本条例规定，无正当理由不对人民法院、债权人会议、和解监督组或清算组作说明、答复、陈述、记载，或作虚假的说明、答复、陈述、记载，或拒绝提交有关说明书、簿册，或拒绝移交财产、簿册或文件的，处以一千元以上一万元以下罚款；构成犯罪的，依法追究刑事责任。<br><p></p><a name='91'><font class='TiaoNoA'>  第八十七条</font></a>  和解、破产企业法定代表人及有关负责人员有本条例第十八条所列行为之一的，除赔偿损失外，并处以一万元以上十万元以下的罚款；构成犯罪的，依法追究刑事责任。<br><p></p><a name='92'><font class='TiaoNoA'>  第八十八条</font></a>  破产企业法定代表人及有关负责人员未经人民法院许可，擅离职守的，处以五万元以下的罚款。<br><p></p><a name='93'><font class='TiaoNoA'>  第八十九条</font></a>  清算组成员、和解监督组成员、破产债权人或其代理人民收受贿赂或约定不正当利益的，没收其非法所得，并处以一万元以上十万元以下的罚款；构成犯罪的，依法追究刑事责任。<br><p></p><a name='94'><font class='TiaoNoA'>  第九十条</font></a>  向清算组成员、和解监督组成员、破产债权人或其代理人行贿或提供不正当利益的，对责任人员处以一万元以上五万元以下的罚款；构成犯罪的，依法追究刑事责任。<br><p></p><a name='95'><font class='TiaoNoA'>  第九十一条</font></a>  对破产负有直接责任的企业法定代表人及有关负责人员，自破产终结后三年内不得担任企业的法定代表人或企业的其他负责职务。<br><p class='zhang'>  第八章  附则</p><p></p><a name='96'><font class='TiaoNoA'>  第九十二条</font></a>  深圳市人民政府可依据本条例在政府职权范围内制定有关实施办法。<br><p></p><a name='97'><font class='TiaoNoA'>  第九十三条</font></a>  本条例自一九九四年三月一日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

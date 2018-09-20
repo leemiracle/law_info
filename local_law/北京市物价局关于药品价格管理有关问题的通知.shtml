@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80103<BR>&nbsp;&nbsp;【发布文号】京价[医]字[2002]083号<BR>&nbsp;&nbsp;【发布日期】2002-02-07<BR>&nbsp;&nbsp;【生效日期】2002-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市物价局关于药品价格管理有关问题的通知</font></p>                          （京价（医）字［2002］083号）<br>    <br>各有关单位：<br>    根据国家计委药品价格管理政策规定，为增强药品价格管理的透明度，方便企业药品价格申报或备案，现将药品价格管理的有关事宜通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于政府定价药品<br>    政府定价目录内的药品由国家计委和市物价局制定在本市执行的最高零售价，药品经营企业和医疗机构不得突破。已公布最高零售价的药品，经营企业在京销售时可不再到市物价局办理价格备案，其中未公布的剂型、规格，须到市物价局核定价格后方可在京销售。<br>    在京销售政府定价目录内未公布最高零售价的药品，已经市物价局核定价格的，暂按核定的零售价执行；未核定价格的，应向物价局提出申请，由市物价局按品种、剂型、规格比质比价的原则，核定在京销售的零售价格。未经核定价格而在京销售的，按擅自定价处理。<br>    一类化学药品、一类生物制品和一二类中成药在试生产期内，专利药品和二类化学药品、二类生物制品自批准生产或取得进口许可证一年内，由企业自主制定试销价格，并在市物价局备案，转正式生产或一年期满后报国家计委核定价格。凡在京销售试销价格药品，应到市物价局备案后方可销售。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>药品价格申报程序<br>    本市药品生产经营企业在申报药品价格时，由企业填报药品价格核算表，出具药品生产批件、进口许可证及GMP企业认证证书。<br>    外埠药品生产经营企业在申报药品价格时，生产企业或本市药品经营单位须出具产地省级价格主管部门的价格审批文件、药品生产批件、进口许可证及GMP企业认证证书等，并填报政府定价药品价格核算表。<br>    企业需提供证明材料复印件（A4纸并加盖公章），并出示原件。<br>    市物价局根据国家计委的有关规定，核定政府定价药品在京销售的零售价格，并通过京价网和《物价公报》（北京版）向社会公布。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>取消政府定价目录之外药品的价格登记<br>    在本市范围内销售《国家计委定价药品目录》和《北京市政府定价药品目录（暂行）》之外的药品，价格实行市场调节，由生产经营企业自主确定价格，取消价格登记。<br>    为给企业、医疗机构和广大患者提供市场调节价药品价格信息服务，本着自愿的原则，企业可在京价网上公布本企业的药品零售价。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>药品价格备案使用"北京市物价局药品价格办公室"章。废止"北京市物价局药品价格登记专用章"。<br>    本通知自二OO二年三月一日起执行。<br>    附：政府定价药品申报核算表(略)<br><br>                                               北京市物价局<br>                                             二OO二年二月七日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

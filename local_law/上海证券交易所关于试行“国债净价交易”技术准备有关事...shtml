@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80903<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2001-11-01<BR>&nbsp;&nbsp;【生效日期】2001-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 上海证券交易所关于试行“国债净价交易”技术准备有关事宜的通知</font></p>各会员单位：<br>    根据财政部、中国人民银行和中国证券监督管理委员会“关于试行国债净价交易有关事宜的通知”（财库〔2001〕12号），现将有关本所的技术准备事宜通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>净价交易概念<br>    净价交易是指在现券买卖时，以不含有自然增长应计利息的价格报价并成交的交易方式。在净价交易条件下，由于国债交易价格不含有应计利息，其价格形成及变动能够更加准确地体现国债的内在价值、供求关系及市场利率的变动趋势。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>实行净价交易应具备的技术条件<br>    实行净价交易对国债交易报价系统及交易清算系统提出了新的要求，主要内容是：报价系统同时显示国债全价、净价及应计利息额；交易清算及交割单打印系统自动计算应计利息额并在交割单上分别列明结算价、净价及应计利息额（净价＋应计利息额＝结算价）。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>应计利息额计算方法<br>    应计利息额＝票面利率／365×已计息天数<br>    上述公式各要素具有以下含义：<br>    1、应计利息额。零息国债是指发行起息日至交割日所含利息金额；附息国债是指本付息期起至交割日所含利息金额。<br>    2、票面利率。固定利率国债是指发行票面利率；浮动利率国债是指本付息期计息利率。<br>    3、年度天数及已计息天数。1年按365天计算，闰年2月29日不计算利息（下同）；已计息天数是指起息日至交割当日实际日历天数。<br>    4、当票面利率不能被365天整除时，计算机系统按默认位数全额计算，交割单应计利息总额按“4舍5入”原则，以元为单位保留2位小数列示。<br>    5、国债交易以每百元国债价格进行报价，应计利息额也须按每百元国债所含利息额列示。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>具体实施办法<br>    国债净价交易是新的交易方式，对证券市场和相关领域会产生较大影响。试行国债净价交易应遵循积极稳妥的原则分步实施。<br>    为尽快试行国债净价交易，各有关单位应要求加紧设计软件调试计算机系统。从本通知下发之日起至十二月十五日为程序开发调试阶段（在此期间本所将按要求发布若干测试文件以备券商测试程序之用）。十二月十六日起本所将组织联网测试，条件成熟时根据财政部、人民银行、证监会要求将于二00二年一月一日起试行“国债净价交易”，由于时间紧迫请各会员单位务必抓紧落实，按时间进度要求完成此项工作。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>本所联系人<br>    会员部：邹常林电话：021－68803715<br>    市场推进小组：李刚电话：021－68802562<br>    电脑技术部：蒋凯电话：021－68800260<br>    信息中心：张侃电话：021－68804740<br>    中国登记结算有限责任公司上海分公司：奚景阳<br>    电话：021－58733534<br><p class='zhang'>  附件：上海证券交易所国债净价交易技术方案</p><br><br>                                                      上海证券交易所<br>                                                    2001年11月1日<br><p class='zhang'>  附件           上海证券交易所国债净价交易技术方案</p><br><br>    根据中国证监会和国家财政部的要求，本所将试行国债的净价交易制度。为了配合该制度的平稳实施，本所研究制定了相关的技术方案。<br><p></p><a name='6'><font class='TiaoNoA'>  一、</font></a>本所试行国债净价交易遵循的原则<br>    1、实行净价申报和净价撮合成交。以成交价格和应计利息额之和作为结算价格。<br>    2、报价系统和行情发布系统应同时显示净价价格和应计利息额，本所的国债交易以每百元国债价格进行报价，应计利息额也按每百元国债所含利息额列示。<br><p></p><a name='7'><font class='TiaoNoA'>  二、</font></a>技术准备<br>    1、券商参与国债交易以净价申报，即场内交易大厅和场外报盘中国债的申报价应输入净价。本所同样以净价撮合成交，成交价亦为净价。在场内交易大厅的申报终端和大屏上增加显示每百元国债所含利息额。交易所发布的国债即时成交回报中的价格和金额为净价价格和以净价价格计算的成交金额。<br>    2、为方便参与国债交易的市场各方揭示国债利息信息和计算国债结算价，中国登记结算有限责任公司上海分公司将通过ＰＲＯＰ2000平台把当日每百元国债应计利息额文件发送给券商（具体参照中国登记结算有限责任公司上海分公司另行发布的通知）。同时，本所也将通过卫星广播系统和本所网站及时将当日每百元国债应计利息额文件发送给券商，该文件的格式附后说明。<br>    3、收市后本所发给券商的成交库中的国债成交价为国债净价，国债成交金额为以国债净价计算的成交金额。清算库中国债的成交金额亦为以净价计算的成交金额。成交库和清算库的格式保持不变。<br>    4、券商可以根据中国登记结算有限责任公司上海分公司发送的清算文件进行清算（具体参照中国登记结算有限责任公司上海分公司另行发布的通知）。也可根据本所的成交文件、清算文件和当日国债应计利息额文件，计算出结算价（结算价＝净价＋应计利息额）。<br><br><p class='zhang'>  附：            当日国债品种应计利息额数据文件说明</p><br>    ・文件名：ＧＺＬＸ．ＭＤＤ<br>    其中：Ｍ表示月份，Ｍ＝1，2，3，……，9，Ａ，Ｂ，Ｃ；<br>    ＤＤ表示日，ＤＤ＝01，02，……，31<br>    ・文件格式：ＤＢＦ格式<br>    ・文件内容：所有国债当日应计息利额<br>    ・发送时间：每天<br>    ・数据结构：<br>    序号字段名类型字段描述备注<br>    1ＧＺＤＭＣ6国债品种代码<br>    2ＪＸＲＱＣ8计息日期ＹＹＹＭＭＤＤ<br>    3ＹＪＬＸＮ15．8每百元应计利息额单位：元<br>    4ＬＸＴＳＮ6利息天数<br>    5ＰＭＬＬＮ8．5票面利率<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

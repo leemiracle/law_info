@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80602<BR>&nbsp;&nbsp;【发布文号】辽政办传[1999]63号<BR>&nbsp;&nbsp;【发布日期】1999-08-03<BR>&nbsp;&nbsp;【生效日期】1999-08-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>辽宁省人民政府办公厅关于<br>
+全面清理转让、炒卖土地情况的通知<br>
+ </font></p><p align='center'><font class='STitle'>（辽政办传〔1999〕63号）</font></p>各市人民政府，省政府有关部门：<br>    为认真贯彻落实《<a href=javascript:ROF(32771,0) class=alink>国务院办公厅关于加强土地转让管理严禁炒卖土地的通知</a>》（国办发〔1999〕39号）精神，省政府决定在全省范围内对非法转让土地、炒卖土地情况进行一次全面清理。现就有关问题通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>清理的范围和内容<br>    清理的范围：各市、县（市）行政区域内非法转让、炒卖土地的行为。清理的重点是城乡结合部和公路两侧乱搭乱建的违法用地。<br>    清理的主要内容：1．农民集体土地使用权出让、转让或出租用于非农业建设用地的；2．农民的住宅向城市居民出售或城市居民占用集体土地建住宅的；3．未经批准擅自将农民集体土地变为建设用地的；4．乡镇企业因发生破产、兼并等，致使土地使用权发生转移而没有依法办理用地审批手续的；5．以征用方式取得农民集体土地从事“果园”、“庄园”等农林开发的；6．改变农林用途搞别墅、度假屋、娱乐设施等房地产开发的；7．未经批准擅自将农林开发用地进行分割转让、转租的；8．利用未交清土地价款、未取得土地使用权的开发用地抵押贷款的；9．以土地开发、土地转让为名进行非法集资的；10．转让、出租、抵押通过出让方式取得的国有土地使用权或以拍卖方式取得的集体所有的未利用土地使用权，不符合法律规定和出让承包合同约定条件的；11．未经依法批准，擅自将划拨土地使用权转让、出租的；12．采取建设项目、规划许可证和用地红线图转让等形式变相炒卖土地的；13．在国有企业改组、改制等涉及土地使用权交易时，低价售卖土地的；14．1997年非农业建设用地清查中查出的违法用地没有依法查处，或虽经查处但尚未依法办理用地手续的。<br>    各地要按照上述清查的范围和内容对清查工作进行全面部署，抓好落实。在确保完成清查任务基础上，可结合本地的重点地区、重点问题，开展专项清理。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>清理的目标和要求<br>    通过清查，一是摸清非法转让土地使用权，特别是非法交易集体土地的情况，为规范用地秩序提供依据；二是依法查处违法用地，确保加强土地转让管理；严禁炒卖土地各项规定的落实；三是堵塞漏洞，健全用地管理的法律、法规、规章，科学制订供地计划，规范建设用地和土地市场管理。<br>    清查处理要实事求是，区别对待。各项建设用地一律不得突破土地利用总体规划规定的用地规模，城市新增建设用地和原有建设用地要实行总量控制，不得超计划供地。对符合土地利用总体规划和城乡建设规划的建筑物、构筑物依法查处后可重新办理用地手续。对未经审批的建设用地，凡不符合规划的，要依法拆除，原是农用地的要限期恢复农业用途，退还原农民集体土地承包者。在耕地“冻结”期间发生未批先用土地的，要追究责任单位和主要责任人的责任，并予以严肃处理。对以“果园”、“庄园”名义进行招商和炒卖土地的开发项目，按照“谁批准，谁负责”的原则，妥善处理存在的问题，违反规定的，要追究有关当事人的责任。对以牟利为目的，不具备法定转让条件而转让、倒卖土地使用权的，视情节给予行政处分或经济处罚；构成犯罪的，要移交司法机关依法追究刑事责任。对超范围经营的要坚决查处；对非法集资的企业除依法追究有关当事人的责任外，还要吊销其营业执照。各有关部门在这次清查中要各司其职、各负其责，制订涉及本部门清查内容的具体清理措施和查处办法。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>清查方法与步骤<br>    这次清查采取自查自纠与上级抽查相结合，以自查自纠为主的办法，对疑难问题和重点案件要由上级行政主管部门联合进行查处。对城市国有土地的清理，可结合土地证书年检工作进行。清理工作分三个阶段：<br>    （一）准备和调查摸底阶段（8月10日前）。<br>    各市、县（市）要抓紧制定具体实施方案，充分运用新闻媒介功能，大力宣传清理工作的必要性和重要意义，为清理工作创造良好的舆论氛围。在组织清理中要充分发动群众，认真受理群众的揭发与举报。要按照本通知确定的清理范围与内容，逐宗进行调查摸底、登记造册，为下步清理查处工作打下基础。<br>    （二）清理查处阶段（8月10日至10月10日）。<br>    各地要根据调查摸底情况，对清查出的问题进一步核实，区别不同情况，依法查处。<br>    （三）验收和汇总阶段（10月10日至11月10日）。<br>    采取重点抽查和逐级验收办法，一级监督一级，上级验收下级，并将清理结果向上级写出专题报告。清理验收标准由省土地局制定。<br>    各地要针对本地存在的问题，研究制定如何完善土地市场管理，强化土地金融监督和开发企业的工商管理，严格控制城乡建设用地总量，坚决制止非农建设非法占用土地，规范用地秩序切实保护耕地的实施办法。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>清理工作的组织领导<br>    为加强领导，保证清理工作的落实，省政府决定建立由省土地局、计委、经贸委、建设厅、工商局、乡企局、农业厅、林业厅、旅游局、交通厅、人民银行沈阳分行等部门负责同志参加的清理工作联席会议制度，其办公室设在省土地局。各市、县（市）也要由分管土地工作的领导同志负责，组织专门力量，加强对清理工作的领导，成立专门班子，有专人负责，定期向上级报告清理进展情况。上级主管部门要经常对下级清理工作进行监督检查，协助解决工作中的问题。各市政府要在1999年11月底前将清理本行政区域内转让、炒卖土地的情况向省政府写出报告。省土地局要会同省有关部门负责本通知的贯彻执行情况的监督检查和落实工作，各有关部门要通力合作，共同做好此次清理工作。<br><br>                                            辽宁省人民政府办公厅<br>                                                  1999年8月3日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

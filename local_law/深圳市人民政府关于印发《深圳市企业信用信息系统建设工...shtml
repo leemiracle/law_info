@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳市<BR>&nbsp;&nbsp;【发布文号】深府〔2002〕86号<BR>&nbsp;&nbsp;【发布日期】2002-05-08<BR>&nbsp;&nbsp;【生效日期】2002-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳市人民政府关于印发《深圳市企业信用信息系统建设工作方案》的通知<br><br></font>(深府〔2002〕86号)</p><br><br>（2002年5月8日）<br><br><br>    《深圳市企业信用信息系统建设工作方案》已经市政府同意，现予印发，请认真组织实施。<br><br>深圳市企业信用信息系统建设工作方案<br><br><br>    一、指导思想<br><br>    根据中央和省关于加强社会信用建设工作的精神，按照市委、市政府今年重点工作部署，加快建立我市企业信用信息系统，增强我市企业风险防范能力，推动企业走诚信经营道路，逐步形成诚信为本、操守为重的良好社会风尚，以进一步优化深圳投资发展环境，提高我市综合竞争力。 <br><br>    二、建设目标<br><br>    以企业登记基本信息为基础，借鉴国内外成熟经验和规范做法，对各有关政府部门及相关企事业单位、行业协会、中介组织的企业信用信息进行重新整合，高起点、高标准构建我市企业信用信息系统基础平台，建设企业信用信息系统，为社会提供全面、高效、便捷的信用信息服务,为日后全国全省联网做好准备工作。<br><br>    三、系统运行模式<br><br>    市企业信用信息系统工作机构负责将工商、税务、司法、海关、银行等部门的企业信用信息进行征集、整合，并将其纳入企业信用信息系统中心数据库，负责数据库的日常维护。<br><br>企业信用信息的披露待系统建成后由市政府委托专业机构负责。<br><br>    四、系统运行原则<br><br>    （一）统一规范。在市政府的领导和协调下，按照统一的标准对各部门信息进行征集、汇总、加工、存储，建立规范完整的中央数据库。<br><br>    （二）合法有效。各单位提供的企业信用数据、信息必须真实、合法、有效。<br><br>    （三）及时准确。系统在建设运行过程中，各单位要对信息及时进行更新和补充。<br><br>    （四）有偿服务。系统内信息各部门之间实现资源共享，信息披露实行部分有偿服务。<br><br>    五、组织领导和工作分工<br><br>    为加强我市企业信用信息系统建设工作的领导，市政府成立企业信用信息系统建设领导小组，负责组织、指导、协调系统的开发、建设和运营。领导小组组长由梁道行同志兼任，副组长由王敏、聂振光同志兼任。市政府办公厅、工商局、计划局、经贸局、公安局、财政局、劳动局、规划与国土资源局、体改办、法制局、地税局、质监局、社保局、国税局、市中级人民法院、深圳海关、人民银行深圳市中心支行等有关负责同志为成员。领导小组办公室设在市工商局，由聂振光同志兼任办公室主任。上述单位各指定一名业务骨干参加办公室工作，办公室实行联席会议制度，必要时集中办公。<br><br>    市政府办公厅负责系统建设的协调、检查、监督工作。<br><br>    市工商局负责系统建设工作方案的制定、数据库建设和系统平台搭建，市信息办为系统建设提供技术指导。<br><br>    市法制局会同体改办、工商局负责起草规范企业信用信息的征集、使用和信息公开等行为的相关规章工作。<br><br>    各相关市直属部门、驻深单位、行业协会、中介组织要相应成立工作机构，研究确定提供信息的范围，并负责本单位的信息整理和报送。<br><br>    六、工作步骤<br><br>    （一）部署动员阶段（5月10日前完成）。由市政府各有关单位分别组织实施。<br><br>    （二）信息需求调研阶段（5月11日至6月30日）。领导小组办公室组织有关单位对国内外现有企业信用信息系统的建设情况和运行模式进行考察。<br><br>    各有关单位调查研究确定报送信息的范围，提出系统建设的意见与建议，以书面形式报领导小组办公室。<br><br>    （三）审核与法规起草阶段（7月1日至8月30日）。领导小组办公室对各单位报送信息范围进行汇总，对所提意见与建议进行研究，领导小组确定系统建设的具体内容。<br><br>    8月底前将市法制局会同体改办、工商局负责起草的关于企业信用信息系统建设的政府规章报市政府常务会议审议。 <br><br>    （四）拟定技术方案和实施阶段（9月1日至10月31日）。领导小组办公室拟定我市企业信用信息系统技术方案，购置设备，制定统一的数据库标准。市工商局建设数据库、搭建系统平台。<br><br>    （五）评审验收和运行阶段（11月1日至30日）。组织有关领导、专家对系统进行评审验收。验收后系统投入运行。<br><br>    （六）宣传推广阶段（12月1日至31日）。组织各新闻媒体对系统进行宣传推广。<br><br>    以上各阶段的工作可视情况交叉进行，领导小组办公室要搞好协调和衔接。<br><br>    七、工作要求 <br><br>    （一）建立企业信用信息系统是一项庞大的系统工程，既是社会主义市场经济的客观要求，也是争创我市体制新优势的重大举措，是一项相当紧迫、艰巨的重要工作，各级领导和各单位要高度重视，提高认识，统一思想，自觉服从和落实市委、市政府的决定，抓紧抓实做好此项工作。<br><br>    （二）加强领导，统一调度。领导小组各成员单位一把手要亲自挂帅，分管领导要亲自抓，落实专人做好相关工作。 <br><br>    （三）各单位要有高度的责任感，主动及时地向系统平台提供数据和信息，并对信息的准确性、合法性、时效性负责。<br><br>    （四）各单位要以大局为重，不得敷衍了事，或各自为政，重复开发。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

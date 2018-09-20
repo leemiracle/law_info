@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82505<BR>&nbsp;&nbsp;【发布文号】市政发[1985]036号<BR>&nbsp;&nbsp;【发布日期】1985-03-25<BR>&nbsp;&nbsp;【生效日期】1985-03-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>西安市人民政府转发市人民银行《关于加强金融管理的报告》的通知<br>
+</font></p><p align='center'><font class='STitle'>（1985年3月25日市政发＜1985＞036号）</font></p>各县、区人民政府、市人民政府各委、办、局：<br>    市人民银行《关于加强金融管理的报告》，已经市人民政府同意，现转发给你们，请依照执行。<br>    加强金融管理，维护社会主义金融秩序，是保证经济体制改革顺利进展的需要，对保持安定团结的政治局面、稳定市场、促进国民经济迅速发展都具有十分重要的意义。市人民政府要求各级政府、各部门、各单位接到本通知后，对一切违反金融管理制度的做法立即进行检查和纠正，检查出的问题要按照市人民银行提出的办法进行处理。凡应该停止发行或使用的票券，必须立即停止发行或使用；凡应该补办审批或备案手续的，必须在四月二十日前办理完毕。今后，必须严格按照金融管理的有关规定办事，如有违反，要追究领导人责任。<br>附件：<br>                中国人民银行西安市分行关于加强金融管理的报告<br>              （1985年3月5日市人银管字＜1985＞05号）<br>西安市人民政府：<br>    随着经济体制改革的深入，我市商品经济迅速发展。为了搞活经济，繁荣市场，自去年以来，不少工商企业和一些事业单位采用发行股票、债券等形式进行集资活动，一些商业单位采用发行“礼品券”、“购货券”等办法，吸引群众，扩大销售。有些地区和部门还兴办金融机构，经营货币与信用业务。这些活动，对于搞活金融，振兴西安经济，活跃城乡市场，推动以城市为重点的经济体制改革起到了积极作用。但是，任何信用活动都涉及到资金的平衡、金融和币值的稳定，以及信用双方的利益。因此，必需加以管理和引导否则也会产生弊端，以至对国民经济带来不利的影响。为了加强对各种金融活动和信用行为的管理和监督，我们对这方面的情况进行了一些调查。发现了一些值得注意的问题。主要是：<br><p></p><a name='1'><font class='TiaoNoA'>一、</font></a>发行股票和债券没有经过批准，也不符合发行的基本要求。据新城、碑林、坝桥三区的四十二个单位调查，除合资经营的以外，有十四个单位已发行股票、债券六百二十五万元。这些单位存在的主要问题有：第一，集资单位大都没有经过批准，因而对发起单位和发起人也没有进行信用调查，确认其信用可靠程序。第二，不少发行股票人自己不认股或只认极少的股份；发行债券大大超过本单位资产净值，使投资人缺乏可靠的保障。第三，不少新兴办的企业无明确的经营目标和投资方向，不能充分发挥资金效益。第四，股票和债券没有区别，买股票的只是坐收股息和分红，没有规定股东按股份份额参与经营决策权和企业一旦发生亏损应承担的责任。有的甚至规定几年后退还股本，使入股者在投资企业发展后享受不到应该享受的利益，并使股份企业变成少数发起者的合资企业。第五，股息、利息、红利均过高，有些办金融业务的发生存放款利率倒挂现象，以至在支付股息，红利时发生占用财政性款项和平调其他集体企业的收入。第六，不少企业是由党政干部筹办起来的，违反中央关于党政机关、干部不准经商，办企业的规定。<br><p></p><a name='2'><font class='TiaoNoA'>二、</font></a>一些商业部门自行发行“礼品券”、“购货券”等部分地代替了人民币职能。如唐城百货大厦自开业以来同一些单位协议，发售“礼品券”，据不完全统计，截止今年一月底，共向十个单位的工会和五个企事业单位发售了八万多元，违反了凡是运用新的信用工具在社会上流通，必须经人民银行批准，并监督其发行的规定。<br><p></p><a name='3'><font class='TiaoNoA'>三、</font></a>新建的金融机构和一些商店经营金银首饰业务，没有办理申请审批手续，不利于信贷资金和金银的管理和平衡。有些集体金融组织没有真正实行集体所有、自主经营、独立核算、自负盈亏，未能办成独立的经济实休，实际上成了一些政府机构和国家银行的附属单位，不能正确发挥集体金融组织作为国家银行补充的作用。<br>    以上这些情况，虽在我市出现不久，但如不引起重视，及时予以引导和管理就会造成信用的混乱，不利于金融和市场的稳定，为了搞活经济，稳定金融，促进改革的健康发展，特提出以下管理意见：<br>    一、为了正确运用股票、债券形式进行集资，引导资金的合理流动，今后，凡是发行股票、债券和以其他形式向社会筹集资金的，除市政府决定经过立法或立法部门同意的集资外，都要报经中国人民银行西安市分行审查批准，（已向社会集资，过去未办审批手续的，应于三月底前补办审批手续）；凡在本单位内部职工中集资又不采取发行股票，债券形式的，也应报中国人民银行西安市分行备案（已集资而未备案的，亦应三月底前进行备案）。<br>    二、为了保证市场货币的正常流通，根据中国人民银行总行指示，严格控制“礼品券”、“购货券”等各种形式的代金券的发行。为了取得经验，我行已批准先在全国十大商场之一的民生百货商店试行有控制地发行。未经批准的其他单位，均不得擅自发行。已经发行的，应立即停止使用，并限三月底前清理完毕，且将情况报市人民银行金融管理处。<br>    三、为了保障合法经营，维护社会主义金融秩序，适应国民经济发展的需要，今后凡是与货币流通和银行信用有关的一切金融活动（包括货币信贷、信用委托、各种保险，以及国内外汇兑往来等业务），其机构的设置或撤并，都必须报经中国人民银行或授权单位批准。目前我市新开办的非银行国营金融机构和集体性质的金融组织，过去未办审批手续的，应于三月底前来中国人民银行西安市分行补办审批手续，经审查合格的，发给“<a href=javascript:ROF(3979,0) class=alink>经营金融业务许可证</a>”，方可继续营业。经销金银首饰业务的商店或其他机构，也应照此办理。否则，我行将采取必要措施，予以罚款，冻结帐户，直至责令停办金融业务。<br>    以上报告，如无不妥，请批转有关部门遵照执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

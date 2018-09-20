@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】办字[2002]80号<BR>&nbsp;&nbsp;【发布日期】2002-09-23<BR>&nbsp;&nbsp;【生效日期】2002-09-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府公众信息网建设和管理实施意见<br><br></font>(办字[2002]80号)</p><br><br><br>各设区市人民政府，省政府各部门： <br><br>    现将《河北省人民政府公众信息网建设和管理实施意见》印发给你们，请认真贯彻执行。 <br><br>    二○○二年九月二十三日 <br><br><br>    河北省人民政府公众信息网建设和管理实施意见 <br><br>    为了推进我省电子政务建设，根据《中共中央办公厅  国务院办公厅关于转发〈国家信息化领导小组关于我国电子政务建设指导意见〉的通知》（中办发〔2002〕17号）、《国务院办公厅关于印发全国政府系统政务信息化建设2001－2005年规划纲要的通知》（国办发〔2001〕25号）等有关文件精神，现就省政府公众信息网建设和管理有关事宜，提出以下实施意见。 <br>    （一）省政府公众信息网是我省县级以上政府及各部门在因特网上统一建立的网站群；是全省各级政府机关共用的信息网络平台。各地、各部门在因特网上建立的网站均作为省政府公众信息网的分站点，通过因特网实现对站点信息的维护和共享。 <br>    （二）省政府公众信息网的域名为ｈｅｂｅｉ．ｇｏｖ．ｃｎ，中文域名是“中国河北”。“中国河北”网站群域名管理必须遵守《中国互联网络域名管理办法》同时应遵循以下规范：省政府各部门的域名为ｈｅｂｘｘｘ．ｇｏｖ．ｃｎ；各设区市政府的域名为ｘｘｘ．ｇｏｖ．ｃｎ，其中ｘｘｘ为省政府各部门或各市汉语拼音名称。已有网络域名且不符合规范要求的，可继续使用现域名，也可同时使用两个域名。各地、各部门已在因特网上建立网站的，应于2002年9月底前，将站点域名及ＩＰ地址报省政府办公厅技术处备案。 <br>    （三）“中国河北”的主要任务是宣传党和政府的方针政策，展示河北形象，推行政务公开，及时发布政府信息，提供便民利民服务项目，加强政府与社会、政府与民众的沟通，进一步提高政府公共服务效率和质量。 <br>    （四）“中国河北”由河北省人民政府办公厅主办。其建设和管理工作由省政府办公厅牵头组织实施。各地、各部门的分站点和信息库建设，由各地、各部门按照分工组织实施。 <br>    （五）成立“中国河北”门户网站编辑部，具体负责“中国河北”网站的日常维护、运行和管理，以及与各地、各部门分站点的业务联系。所需人员从省政府办公厅技术处、省经济信息中心内部现有人员中解决。 <br>    （六）“中国河北”网站的上网栏目主要包括以下内容：省长信箱、政务信息、政策法规、政府公报、河北概况、政府采购、政府机构、网上办事、招商引资、投资指南、旅游指南、办事程序、企业之窗、便民服务、网站导航等。 <br>    （七）从联网部门中选择部分与社会民众联系多、电子政务开展好的单位作为网上办事的试点单位。列入网上办事试点的单位，应将直接为企业和公众提供服务的相关业务公开上网。网上办事采取内、外网结合，“外网受理，内网办理”的方式。请各有关部门详细列出网上办事（包括网上审批、审核、备案等）的事项，报省政府办公厅备案，成熟一项，实施一项。实施网上办事的各单位应开设网上投诉信箱，随时接受公众的投诉。 <br>    （八）“中国河北”网站的具体栏目和更新频率由省政府办公厅和各联网单位协商后确定。各联网单位无论采用何种联网方式，均应做到：静态信息一旦发生变化，及时更新；动态信息一经产生，立即更新。 <br>    （九）各分站点必须在主页上方显著位置放置“中国河北”的网站标志。各分站点网页设计和改版的方案由各单位主管领导审批，报省政府办公厅和“中国河北”网站编辑部备案。 <br>    （十）建设步骤。2002年9月底前，按照国家基本建设项目审批程序，做好政府采购招标工作；2002年11月，初步完成网页制作及相关软件的开发工作；2002年12月，完成与省政府各主要部门和各设区市政府分站点的链接并开通试运行；2003年1月，开通第一批网上办事项目；2003年上半年，基本完成“中国河北”门户网站与省直各部门和部分县级政府子网站的链接，同时进一步丰富网站内容，强化社会服务功能，增加网上办事项目。（十一）省政府各部门已在因特网上建立公益性网站，且信息量大、维护及时的，可通过服务器镜像的方式选择一部分精品栏目作为“中国河北”的栏目；已建立公益性网站但信息量小自行维护有困难的，可逐步过渡或直接转移到省政府公众信息网中来；目前还没有建立公益性网站的，不再单建，由省政府办公厅依托省政府网站现有资源，以虚拟主机的方式为尚未建设网站的部门统一提供硬盘空间和技术支持，帮助建设分站点。各部门要根据上述原则和部门实际确定入网方式，提出分站点建设的具体意见，于2002年10月1日前报省政府办公厅技术处。 <br>    （十二）各市、县政府公众信息网由本级政府办公室（厅）牵头组织建设和管理。未在因特网上建立政府公众信息网站的设区市政府，应根据省政府公众信息网的建设进度尽快启动本级政府的公众信息网站建设。各县级政府可根据财力状况自行确定本级网站建设方式和完成时间。 <br>    （十三）各级政府公众信息网建设所需资金，由各级政府负担，要尽力保证建设和运行资金，保障运行维护和培训经费。 <br>    （十四）“中国河北”网站的维护和管理实行分级负责制，各地、各部门都要明确专人负责本单位站点及相关栏目的管理（包括上网内容的收集、整理、审查、更新）和日常维护工作。 <br>    建立准确、畅通的信息维护机制。上网信息的采集、发布和更新，实行“单位负责制”。各地各部门都要明确一位负责同志作为本单位信息发布的第一责任人。请各市、各部门于10月15日前将“第一责任人”和具体承担此项工作的机构负责人及专职人员名单报省政府办公厅技术处备案。 <br>    建立规范、有效的日常运行机制。“中国河北”各分站点发布的信息，由分站点主管单位自行采集、审核、发布。“中国河北”固定栏目信息的发布，由省政府有关部门主管信息工作的负责同志审批。 <br>    （十五）各设区市政府办公厅（室）、省政府各部门，必须及时把省政府公众信息网网站综合栏目的更新信息，上传至“中国河北”网站设置的信息存储区中，网站编辑人员负责编辑发布。 <br>    （十六）建立考核制度，纳入目标管理。省政府办公厅技术处负责对各单位网站数据的更新维护情况进行督促检查，检查情况每月通报一次，与年终单位目标考核挂钩，年终进行评比。 <br>    （十七）建立严密可靠的安全保障机制，从物理、技术、管理等方面制定严密的安全方案，形成多层次、全方位的安全保密防线，确保网站安全运行。 <br>    （十八）建立信息发布审批管理制度。利用政府公众信息网从事互联网信息服务，必须遵守国务院颁布的《互联网信息服务管理办法》和国家安全、保密部门的有关规定，并到省通信管理局办理备案手续。各地各部门对在互联网上发布的政务信息要严格审核把关，做到“上网不涉密，涉密不上网”，确保党和国家秘密的绝对安全。同时要确保上网信息的有效性和可靠性，切实做到发布准确、报送畅通、维护及时。 <br>    （十九）建立定期培训、人员培养制度。政府公众信息网建设和管理的各单位专职人员应积极参加省政府办公厅组织的技术培训，不断提高工作人员的技术素质和管理水平。 <br>    （二十）各地、各部门要积极参与“中国河北”网站的开发建设，充分利用这个公众信息服务平台，提高工作效率和监管的有效性，更好地服务人民群众，加快建设廉洁、勤政、务实、高效的政府，为实现我省国民经济和社会的跨越式发展做出贡献。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

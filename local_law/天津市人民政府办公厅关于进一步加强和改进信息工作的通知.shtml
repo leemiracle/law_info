@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80202<BR>&nbsp;&nbsp;【发布文号】津政办发[2001]30号<BR>&nbsp;&nbsp;【发布日期】2001-05-17<BR>&nbsp;&nbsp;【生效日期】2001-05-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅关于进一步加强和<br>
+ 改进信息工作的通知<br>
+</font></p><p align='center'><font class='STitle'>（津政办发〔2001〕30号二00一年五月十七日）</font></p>各区、县人民政府，各委、局，各直属单位，<br>    近年来，我市政府系统政务信息工作有了很大发展，各级领导更加重视信息工作，信息网络进一步完善，政务信息在为领导决策服务方面发挥了越来越重要的作用。随着形势的发展，经济全球化进程加快，世界科学技术日新月异，国际竞争更加激烈。国内改革正处在攻坚阶段，改革、发展、稳定的任务十分繁重。天津进入了一个新的历史发展阶段，贯彻落实好市委七届七次全会提出的各项任务，市委、市政府需要大量的对决策有重要参考价值的信息。面对新的形势，新的任务，必须进一步加强和改进信息工作，努力提高信息为领导科学决策服务的水平。为进一步加强和改进信息工作，现就有关问题通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>向市政府报送信息是政府各部门、各单位办公室的重要职责<br>    （一）信息是决策的基础和依据。市委、市政府对全市工作进行总体部署，针对经济和社会发展过程中出现的新情况、新问题，不断作出新的决策，都离不开信息工作的基础作用。各级信息部门，向市政府积极负责地报送信息，是保证市委、市政府统揽全局，进行正确决策和指导工作的需要，是信息工作的基本要求。政府各部门、各单位的办公室要把做好政务信息工作作为办公室工作的重要内容，使其真正成为了解情况的一个重要窗口，向领导反映情况的一条重要渠道，发挥好参谋助手作用。<br>    （二）各级信息部门，要紧密围绕经济建设这个中心，及时反映在推进建立社会主义市场经济体制过程中的成绩、经验和问题；反映“两个文明”建设、民主法制建设和社会政治稳定等方面的重大情况；反映各地区、各部门开展工作的思路、进展和成效；反映重大的社会动态和重要的社情民意。市委、市政府作出决策后，要及时反映本部门、本单位贯彻落实情况，广大干部群众的反映和意见，实施决策中取得的成效、存在的问题和建议。对领导作出的重要批示，涉及到的部门和单位要及时反馈落实情况。政府有关部门要定期按时报送全市经济和社会发展的重要指标完成情况。市政府驻外办事处要报送各地的政治、经济和社会发展的重要信息和动态。<br>    （三）各级信息部门要经常研究各个时期的工作重点，认真学习党的路线、方针、政策，关注和了解党中央、国务院和市委、市政府作出的决策、部署，善于从文件及会议精神中，从客观情况的发展变化中了解领导的信息需求，增强上报信息的针对性，为领导提供及时有效的服务。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>必须坚持及时、准确、全面报送信息的原则<br>    （一）报送信息一定要及时，确保信息的时效性。凡是需要市政府及时掌握、立即处置的重要情况和紧急信息，都要迅速收集上报。重大突发性事件，重要社会动态，紧急灾情、疫情以及其他重要紧急情况，要随时报送，并要续报事态进展、处置措施和原因、后果以及吸取教训、开展工作的情况。对群众关心的热点、难点问题，特别是带有苗头性、倾向性的问题，要及时发现及时报送。对迟报、漏报、瞒报紧急信息的部门和单位要通报批评，造成严重后果的要追究有关人员的责任。<br>    （二）报送信息一定要准确，确保信息的真实性。向市政府报送的信息必须来自于客观实际，实事求是，反映客观事物的本来面目，经得起实践和群众的检验。反映成绩的信息要恰如其分；反映问题的信息要真实可靠；反映困难的信息要实在准确。要加强对上报信息的核实，做到准确无误。<br>    （三）报送信息一定要全面，确保信息的完整性。要坚持全方位、多领域、多角度地提供信息，防止以偏概全，顾此失彼，以一种倾向掩盖另一种倾向。要坚持既报喜又报忧。要支持信息工作人员报忧，绝不能报喜得喜、报忧得忧，更不能将问题信息层层截留，级级过滤，报到上面面目全非。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>进一步提高上报信息质量<br>    （一）加强信息综合是提高信息质量的一种重要方法。要注意从大量的原始信息中筛选有用的信息，进行归纳整理，作出量的分析和质的判断，使上报信息有情况、有分析、有建议，具有决策的参考价值。要注意从一般的信息中找出带有规律性、普遍性和倾向性的问题，抓住事物的本质。<br>    （二）搞好信息调研是扩充信息、开发高层次信息的有效途径。要善于从初始信息中找线索、选课题，开展调查研究，形成系统的、有较高决策参考价值的调研报告。开展信息调研工作要注意研究和反映经济和社会发展中的新情况、新问题，为领导提供决策依据。信息调研要形成制度，坚持不懈，多出调研成果。<br>    （三）保持良好的文风是为领导提供优质信息服务的重要方面。要不断提高信息的编辑水平，增强信息的可读性。编写信息要主题鲜明，条理清晰，详略得当，用语准确，朴实自然。力求用简洁的文字和有代表性的数据反映事物的原貌。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>继续推进信息网络化建设<br>    （一）信息网络建设是信息工作十分重要的基础建设。按照统一规划、整体推进的要求，进一步加强和完善政府系统信息网络建设和管理，抓好网络单位和基层信息联系点工作，加强远程站点规范化管理，提高网上运行质量，确保网络系统灵敏、高效、安全、畅通。<br>    （二）政府各部门和各单位要高度重视信息网络建设，提高运用网络收集信息、处理信息的能力和水平。要加强信息网络规范化建设，建立科学的管理制度和工作程序。要不断扩大信息网络覆盖面，挖掘信息资源。信息工作人员要学习应用新的信息技术，熟练运用计算机信息网络调阅、传输、存储和加工信息，实现信息处理规范化操作。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>提高信息工作科学化、制度化、规范化水平<br>    提高信息工作的整体水平，必须下大力量抓好信息工作的科学化、制度化和规范化建设。1．报送信息审核把关制度。一般性政务信息，由办公室分管信息工作的负责人审定签发；紧急重大信息由所在单位主要领导审定签发，报送时间最迟不得晚于事件发生后的3小时。2．领导批示督办反馈制度。各部门、各单位要认真做好市领导对办公厅信息刊物所作批示的督办反馈工作，并将落实的情况及时反馈给市政府办公厅信息处，所报的反馈情况要有背景、过程、措施和结果。3．重要信息约稿制度。市政府办公厅信息处将根据国务院和市政府工作需求，向有关部门和单位约稿，承接任务的单位必须高度重视，要按内容和时限要求上报。4．信息采用月通报制度。按照政务信息质量评价办法，对政府系统各部门、各单位上报信息情况，每月实行计分考核，予以通报。年终汇总情况作为单项考评结果计入年度目标管理考评。5．评比表彰制度。每年评选政府系统优秀信息工作单位和优秀信息工作者，并进行表彰。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>切实加强对信息工作的领导<br>    （一）政府各部门、各单位要充分认识政务信息工作的重要性，加强对信息工作的指导，帮助信息工作人员及时了解上级的决策意图、工作思路和工作部署。要定期对信息工作进行分析，给信息工作人员出题目、交任务、提要求，为信息工作人员参加重要会议、阅读文件、学习掌握政策、开展信息工作提供各种便利条件。<br>    （二）要加强信息队伍建设。政府各部门、各单位办公室都要按照信息工作岗位人员素质的要求，配齐信息工作人员。从事信息工作的同志，要有敬业创新的精神，加强自身学习和锻炼，不断提高政治、业务素质。要适时组织形式多样的信息工作交流和培训，加强对政务信息工作有针对性的指导。<br>    附：天津市政府系统政务信息评价办法 （试行）<br><br><p class='zhang'>  附         天津市政府系统政务信息质量评价办法（试行）</p><br><p></p><a name='7'><font class='TiaoNoA'>  一、</font></a>总则<br>    为进一步推动全市政府系统政务信息工作科学化、规范化、制度化，建立合理的政务信息评价标准，鼓励各部门、各单位提高信息服务的质量和水平，根据国务院办公厅秘书局《政务信息质量评价办法（试行）》的精神，制定本办法。<br><p></p><a name='8'><font class='TiaoNoA'>  二、</font></a>质量评价标准<br>    市政府办公厅对各部门、各单位报送并被办公厅信息刊物采用的信息实行记分考核。具体标准是：<br>    （一）《政务信息》、《政务信息・特刊》、《信息参考》刊用的信息，每条计1分，被市领导批示的，每条加计2分。<br>    （二）《政务交流》（办公厅各市长工作处提供稿件）、《督办与反馈》刊用的稿件，每条计2分；被市领导批示的，每条加计2分。<br>    （三）《政务信息・报国办》选用的稿件，每篇计2分；被市领导批示的，每篇加计2分；被国办采用的，每篇加计5分；被国务院或中央领导批示的，每篇加计10分。<br>    （四）《政务通报》、《天津政务参考》、《信息参考・专报》刊用的稿件，每篇计3分；被市领导批示的，每篇加计2分。<br>    （五）对应按规定报送信息而未报送的，扣除相应的分数。<br><p></p><a name='9'><font class='TiaoNoA'>  三、</font></a>评选表彰方法<br>    （一）按照信息质量评价标准，对采用的信息计分统计，在每月政务信息采用情况通报中公布结果。<br>    （二）年终根据每月得分结果累计排定名次，并确定受表彰的单位。表彰比例根据情况确定。<br>    （三）优秀信息工作者由优秀信息工作单位推荐产生。<br>    （四）优秀信息工作单位和优秀信息工作者由市政府办公厅予以表彰和奖励。<br>    （五）办公厅各处室信息工作考评作为单项指标，纳入全厅年终目标管理考核。<br><p></p><a name='10'><font class='TiaoNoA'>  四、</font></a>附则<br>    （一）本办法由市人民政府办公厅信息处负责解释。<br>    （二）本办法自发布之日起施行。1997年 9月26日印发的《天津市政<br>府系统政务信息工作评比表彰暂行办法》同时废止。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2002-05-31<BR>&nbsp;&nbsp;【生效日期】2002-08-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于印发《北京市信息系统工程监理管理办法（试行）》的通知</font></p>
+    市政府各委、办、局，各区、县信息化工作主管部门，各有关单位：&nbsp;<br>
+    为了加强对我市信息系统工程监理活动的规范化管理，保障信息系统工程的质量，我办根据《北京市政务与公共服务信息化工程建设管理办法》和信息产业部的授权，制定了《北京市信息系统工程监理管理办法（试行）》，在我市推行信息系统工程监理制度。<br>
+    现将《北京市信息系统工程监理管理办法（试行）》印发给你们，请认真贯彻执行。<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京市信息化工作办公室&nbsp;<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二○○二年五月三十一日&nbsp;<br>
+<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京市信息系统工程监理管理办法（试行）<br>
+<br>
+    <br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>&nbsp;为了加强对我市信息系统工程监理活动的规范化管理，保障信息系统工程的质量，根据《北京市政务与公共服务信息化工程建设管理办法》和信息产业部的授权，结合本市实际，制定本办法。<br>
+    <br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>&nbsp;本办法适用于本市行政区域内信息系统工程监理(以下简称工程监理)活动。<br>
+    <br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>&nbsp;本办法所称信息系统工程是指信息网络系统、信息应用系统、信息资源开发等项目的新建、改建和扩建工程。<br>
+    本办法所称信息系统工程监理是指具有信息系统工程监理资质的单位，接受建设单位的委托，依据国家和本市有关规定、信息系统工程建设标准和工程承建、监理合同，对信息系统工程的质量、进度和投资方面实施监督。&nbsp;<br>
+    信息系统工程监理单位可以根据建设单位的委托，承担信息系统工程的咨询和组织工作。<br>
+    <br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>&nbsp;北京市信息化工作办公室（以下简称市信息办）负责全市信息系统工程监理的行业管理工作，包括制定管理规范和等级评定条件；确定和管理资质认证机构；发布资质认证结果。市计算机信息系统集成资质认证工作办公室（市信息办政策法规与行业管理处）负责日常工作。&nbsp;<br>
+    市信息办授权北京信息安全测评中心作为信息系统工程监理资质认证机构，具体承担信息系统工程监理工程师资格和监理单位资质的审核工作。<br>
+    <br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>&nbsp;本市推行信息系统工程监理制度。<br>
+    建设单位应当通过协议或者招标的方式优先选择具有相应资质等级的信息系统工程监理单位承担监理业务。<br>
+    各级财政全部补助或者部分补助以及为社会提供公共服务的重大信息化工程项目必须通过招标的方式选择信息系统工程监理单位，实行强制监理。<br>
+    <br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>&nbsp;本市实行信息系统工程承建和监理分离制度。<br>
+    信息系统工程监理单位不得参与信息系统工程的承建；信息系统工程承建单位不得参与信息系统工程的监理。&nbsp;<br>
+    <br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>&nbsp;从事信息系统工程监理个人和单位必须分别具有信息系统工程监理资格和资质。<br>
+    本市信息系统工程监理工程师资格分为高级监理工程师、监理工程师两个等级。<br>
+    本市信息系统工程监理单位资质分为甲、乙两个等级，不同资质等级对应的监理能力如下：<br>
+    （一）甲级资质可以监理各类信息系统工程；<br>
+    （二）乙级资质可以监理建设总额为1000万元以下的信息系统工程。<br>
+    <br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>&nbsp;申请监理工程师资格应当具备下列条件：<br>
+    （一）熟悉计算机技术和工程项目管理工作，并从事相关工作5年以上；申请高级监理工程师的，应当从事相关工作10年以上；<br>
+    （二）具有工程系列中级以上或者相当级别的职称；申请高级监理工程师的，具有工程系列高级以上或者相当级别的职称；<br>
+    （三）近3年参与监理3个以上信息系统工程；申请高级监理工程师的，近3年参与监理5个以上信息系统工程；<br>
+    取得监理工程师、高级监理工程师资格应当分别通过相应的资格考试。<br>
+    <br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>&nbsp;甲级监理单位应当具备下列条件：<br>
+    （一）具有法人资格和固定的经营场所；<br>
+    （二）注册资本500万元以上，且实有资产总额在1000万元以上；<br>
+    （三）近3年至少监理过5个信息系统工程，其中至少有1个在1500万元以上或者3个在800万元以上；<br>
+    （四）具有必要的监理规范，已按ISO9000建立了完备的质量保障体系并能有效实施；<br>
+    （五）取得信息系统工程监理工程师资格的人员不少于25名，其中高级监理工程师不少于5名；<br>
+    （六）不从事计算机信息系统集成的商务活动。<br>
+    乙级监理单位应当具备下列条件：<br>
+    （一）具有法人资格和固定的经营场所；<br>
+    （二）注册资本100万元以上，且实有资产总额在200万元以上；<br>
+    （三）近3年至少监理过3个信息系统工程，其中至少有1个在300万元以上或者2个在100万元以上；<br>
+    （四）具有必要的监理规范，已按ISO9000建立了完备的质量保障体系并能有效实施；<br>
+    （五）取得信息系统工程监理工程师资格的人员不少于15名，其中高级监理工程师不少于3名；<br>
+    （六）不从事计算机信息系统集成商务业务。<br>
+    <br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>&nbsp;监理工程师资格申请人、监理资质申请单位均应当向北京信息安全测评中心提出申请，并如实填写申请材料、提供有关证明材料。<br>
+    <br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>&nbsp;北京信息安全测评中心对申请人的基本情况进行审核。审核通过的，由北京信息安全测评中心定期组织考试，考试合格的，授予信息系统工程监理工程师资格证书，并报市信息办备案。<br>
+    北京信息安全测评中心应当本着公正、公开、实事求是的原则，对监理资质申请单位的资质能力进行审核。审核通过的，授予信息系统工程监理资质等级证书，并报市信息办备案。<br>
+    <br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>&nbsp;建设单位与监理单位应当签订书面委托合同，明确监理范围、监理权限、双方权利义务、合同履行的期限、地点、监理费用计取和支付、违约赔偿责任以及违约救济方式等内容。<br>
+    <br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>&nbsp;实施信息系统工程监理前，建设单位应当将委托的监理单位、监理权限，书面通知被监理的信息系统工程承建单位。&nbsp;<br>
+    <br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>&nbsp;信息系统工程监理单位应当客观、公平、公正地执行监理任务。&nbsp;<br>
+    <br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>&nbsp;信息系统工程监理单位不得有如下行为：&nbsp;<br>
+    （一）虚假申报信息系统工程监理资质，伪造、变造信息系统工程监理资质证书；<br>
+    （二）超越资质等级从事监理业务；<br>
+    （三）委派不具有相应监理工程师资格的人实施监理；<br>
+    （四）擅自转让监理业务；<br>
+    （五）与信息系统工程承建单位以及软、硬件提供单位存在隶属关系或者其他利害关系；<br>
+    （六）以实施监理为名，侵害信息系统工程承建单位的技术、商业秘密或者知识产权。<br>
+    <br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>&nbsp;信息系统工程监理单位与承建单位串通，为承建单位谋取非法利益，给建设单位造成损失的，监理单位与承建单位承担连带的赔偿责任。<br>
+    <br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>&nbsp;信息系统工程监理单位应当派出1名具有相应资格的监理工程师担任总监理工程师对监理活动总体负责。<br>
+    在监理过程中，信息系统工程监理单位应当按计划、分阶段定期向建设单位书面报告工程情况。<br>
+    <br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>&nbsp;承建单位结算工程进度款应当经总监理工程师核定签字认可。&nbsp;<br>
+    <br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>&nbsp;信息系统工程监理工程师不得有如下行为：&nbsp;<br>
+    （一）虚假申报信息系统工程监理工程师资格，伪造、变造信息系统工程监理工程师资格证书；<br>
+    （二）违反政策法规、工程建设标准和监理合同的要求，为谋取私利，恶意实施监理；<br>
+    （三）造成重大信息系统工程质量事故。<br>
+    <br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>&nbsp;违反本办法第五条第三款规定的，由市信息办依据《北京市政务与公共服务信息化工程建设管理办法》处罚。<br>
+    <br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>&nbsp;违反本办法第五条第二款、第六条第二款、第七条第一款、<br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>、<br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>、<br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>、第十六条和第十九条规定的，由市信息办责令改正，并给予通报批评或者降低、撤销监理单位资质、监理工程师资格。<br>
+    <br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>&nbsp;本办法所称"以上"、"以下"均包含本数。<br>
+    <br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>&nbsp;本办法自2002年8月1日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

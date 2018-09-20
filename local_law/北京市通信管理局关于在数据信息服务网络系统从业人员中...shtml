@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80103<BR>&nbsp;&nbsp;【发布文号】京信市监发[2001]96号<BR>&nbsp;&nbsp;【发布日期】2001-06-11<BR>&nbsp;&nbsp;【生效日期】2001-06-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 北京市通信管理局关于在数据信息服务<br>
+网络系统从业人员中实行职业资格证书制度的通知<br>
+</font></p><p align='center'><font class='STitle'>（京信市监发〔2001〕96号）</font></p>各互联网业务经营单位及互联网上网服务营业场所经营单位：<br>    根据《<a href=javascript:ROF(20194,0) class=alink>中华人民共和国劳动法</a>》、《<a href=javascript:ROF(25356,0) class=alink>中华人民共和国职业教育法</a>》、《<a href=javascript:ROF(35910,0) class=alink>中华人民共和国电信条例</a>》、劳动和社会保障部第6号部长令《<a href=javascript:ROF(34722,0) class=alink>招用技术工种从业人员规定</a>》、信息产业部信人〔2000〕54号《关于转发劳动和社会保障部第6号令的通知》和北京市劳动和社会保障局京劳社培发〔2001〕33号《关于实行持职业资格证书就业上岗有关问题的通知》文件规定，通信行业从业人员实行职业资格证书制度，即通信行业从业人员必须通过职业技能鉴定部门根据国家职业标准组织进行的职业技能鉴定（理论和技能考试），获得劳动和社会保障部颁发的，经信息产业部通信行业职业技能鉴定指导中心审核并加盖钢印的国家职业资格证书后，才能上岗工作。<br>    为贯彻落实国家有关规定，我局职业技能鉴定中心将开展数据信息服务网络系统从业人员初级（上岗）职业资格培训和鉴定工作。经本职业正规培训并达到规定标准学时数，并通过职业技能鉴定者（理论和技能考试合格），将获得国家职业资格证书（初级）。<br>    各经营单位从业人员持证率本年度内须达到30％，下年度须达到50％，本指标将作为相关电信业务经营许可证年检的主要审查内容之一。对未能达到要求的经营单位将暂停其电信业务经营许可资格，同时根据有关规定进行相应的处罚。<br>    现将有关事宜通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>职业技能鉴定对象：<br>    从事数据信息服务网络系统的终端设备及各种服务器的安装、调试、检测、维护和管理以及系统组网、用户接入、数据维护、网络管理等工作的人员均必须参加鉴定。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于职业资格等级：<br>    职业资格等级分为国家职业资格五级（初级、上岗）国家职业资格四级（中级）国家职业资格三级（高级）国家职业资格二级（技师级）国家职业资格一级（高级技师级）。<br>    目前，先进行五级（初级、上岗）培训和职业技能鉴定。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>具体安排：<br>    （一）各公司接到通知后，将《北京市电信职业技能鉴定申报表》复印并下发给职工，由职工本人如实填写，并交本单位人事部门审核盖章（同时交近期同一底版二寸免冠正面照片三张），各单位人事部门填写《北京市通信行业职业技能鉴定申报汇总表》，与职工填写的《申报表》一起交报名点。《汇总表》请复印一份留存在人事部门，以备将来检查。如无人事部门，请单位主管审核，并加盖单位印章。<br>    （二）第一期培训和鉴定报名时间：2001年6月13日－15日、18日－19日，每天上午8：30－11：30，下午1：30－3：30。报名地点：北京电信教育培训中心（崇文区夕照寺大街14号）。电话：67175260，67175261，67175377。传真：67175261。联系人：郭菲、赵惠。<br>    （三）培训由北京电信教育培训中心承办，我局职业技能鉴定中心和北京电信教育培训中心将根据报名情况安排培训和鉴定具体事宜，并及时通知各单位。<br>    （四）北京市通信行业职业技能鉴定中心联系电话：66052860。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>有关费用：<br>    参加鉴定需按照规定收取鉴定费，鉴定合格者收取制证费，参加培训收取培训费，教材费。<br>    费用收取标准：鉴定费初级60元、教材费60元、证书费50元。<br>    培训费由北京电信教育培训中心按照规定收取，每人760元。<br>    报名时每人共收费880元。（不含证书费，证书费待考试通过后取证时收取）<br><p class='zhang'>  附件：1、北京市通信行业职业技能鉴定申报表</p><br>          2、北京市通信行业职业技能鉴定申报汇总表<br><br>                                                        北京市通信管理局<br>                                                    二00一年六月十一日<br><p class='zhang'>  附件1          北京市通信行业职业技能鉴定申报表</p><br><br><pre><font size=+1><br>┌──────┬──┬───────┬──┬────┬──┬─────┐<br>│姓名        │    │性别          │    │文化程度│    │          │<br>├──────┼──┴───────┴──┴────┴──┤          │<br>│身份证号码  │                                          │   照     │<br>├──────┼──┬───────┬──┬────┬──┤          │<br>│工作单位    │    │              │    │联系电话│    │          │<br>├──────┼──┼───────┼──┴────┴──┤   片     │<br>│参加工作时间│    │原职业（工种）│                    │          │<br>├──────┼──┼───────┼──────────┤          │<br>│原技术等级  │    │原证书编号    │                    │          │<br>├──────┼──┼───────┼──┬────┬──┤          │<br>│申报职业    │    │申报工种连续  │    │申报等级│    │          │<br>│（工种）    │    │    工龄      │    │        │    │          │<br>├──────┼──┴───────┴──┴────┴──┴─────┤<br>│     个     │                                                      │<br>│     人     │                                                      │<br>│     工     │                                                      │<br>│     作     │                                                      │<br>│     简     │                                                      │<br>│     历     │                                                      │<br>├──────┼───────────────────────────┤<br>│     工     │                                                      │<br>│     作     │                                                      │<br>│     单     │                                      盖章            │<br>│     位     │                                                      │<br>│     意     │负责人：                          年    月    日      │<br>│     见     │                                                      │<br>├──────┼───────────────────────────┤<br>│     培     │                                                      │<br>│     训     │                                                      │<br>│     机     │                                                      │<br>│     构     │                                      盖章            │<br>│     证     │负责人：                          年    月    日      │<br>│     明     │                                                      │<br>├──────┼────┬─────┬────────────────┤<br>│     鉴     │鉴定工种│          │                                │<br>│            ├────┼─────┤                                │<br>│     定     │鉴定等级│          │证书编号：                      │<br>│            ├────┼─────┤                                │<br>│     机     │理论成绩│          │                                │<br>│            ├────┼─────┤                                │<br>│     构     │技能成绩│          │                                │<br>│            ├────┼─────┤                                │<br>│            │评定成绩│          │                      盖章      │<br>│            ├────┼─────┤                                │<br>│            │鉴定日期│          │发证日期：          年  月  日  │<br>└──────┴────┴─────┴────────────────┘<br></font></pre><br>    申请人：                            填表日期：      年    月    日<br>备注：<br>    1、参加鉴定人员必须如实填写本表，用人单位或培训机构严格审核，鉴定合格填写完毕后，交用人单位留存或存入本人档案。<br>    2、工作单位意见填“经审核无误，同意申报”，或“经审核无误，同意破格申报”；培训机构填写“经某级培训毕业（或结业），同意申报”。<br>    3、交表同时，交三张近期同一底版二寸免冠正面黑白照片。一张贴在本表照片处，另外两张写好姓名，随表上交。<br><br><p class='zhang'>  附件2       北京市通信行业职业技能鉴定申报汇总表</p><br>    填报单位：（盖章）<br><pre><font size=+1><br>┏━┯━━┯━┯━━┯━━━━┯━━━━┯━━┯━━━━┯━━━┯━━┓<br>┃序│姓名│性│身份│工作单位│参加鉴定│鉴定│鉴定工种│ 是否 │ 备 ┃<br>┃号│    │别│证号│        │（职业）│等级│  工龄  │ 破格 │ 注 ┃<br>┃  │    │  │    │        │  工种  │    │        │      │    ┃<br>┠─┼──┼─┼──┼────┼────┼──┼────┼───┼──┨<br>┃  │    │  │    │        │        │    │        │      │    ┃<br>┠─┼──┼─┼──┼────┼────┼──┼────┼───┼──┨<br>┃  │    │  │    │        │        │    │        │      │    ┃<br>┠─┼──┼─┼──┼────┼────┼──┼────┼───┼──┨<br>┃  │    │  │    │        │        │    │        │      │    ┃<br>┗━┷━━┷━┷━━┷━━━━┷━━━━┷━━┷━━━━┷━━━┷━━┛<br></font></pre><br>    负责人：    填报人：    电话：    传真：    E-mail:    年    月   日<br>    备注：填报单位应复印本表一份留存备查。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

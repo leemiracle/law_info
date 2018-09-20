@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广东省<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-09-23<BR>&nbsp;&nbsp;【生效日期】2006-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/zcfg/t20051028_483594.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省农业机械管理条例<br><br></font>（2005年9月23日广东省第十届人民代表大会常务委员会第二十次会议通过）</p><br><br><br>    <font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强农业机械管理，促进农业发展，推进农业机械化，保障人民生命和财产安全，根据国家有关法律法规，结合本省实际，制定本条例。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本条例所称农业机械，是指用于农业生产及其产品初加工等相关农事活动的机械、设备。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 在本省行政区域内从事农业机械生产、销售、维修、使用和管理活动，适用本条例。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 县级以上农业(农业机械)行政管理部门主管本行政区域的农业机械管理工作。负责农业机械安全监督管理的机构按照本条例规定，做好农业机械安全监督管理工作。<br><br>    公安、交通、质监、工商等部门按照职责分工，负责农业机械管理的有关工作。<br><br>    <font class='zhang'>第二章</font> 农业机械推广与社会化服务<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 县级以上人民政府应当把农业机械化工作纳入国民经济和社会发展计划，完善农业机械技术推广体系和社会化服务体系，鼓励和支持科研单位、农业机械生产企业研制、开发、生产、引进、推广先进适用农业机械新技术、新产品，提高农业机械化水平。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 省人民政府和有条件的市、县人民政府应当对农民购买政府支持推广的先进适用的农业机械给予补贴。<br><br>    省农业行政管理部门应当会同有关部门及时确定、调整和公布支持推广的先进适用的农业机械产品目录。县级以上农业（农业机械）行政管理部门应当定期将产品目录通过公告栏、网上发布等方式公布。<br><br>    具体补贴办法按照国家和省的有关规定执行。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 推广农业机械产品，应当经过试验证明在推广地区具有先进性和适用性。<br><br>    任何单位和个人不得强迫或者变相强迫农民和农业生产经营组织购买其指定的农业机械产品。<br><br>    农业机械推广者应当免费向农民和农业生产经营组织提供技术示范、指导和信息服务。不得提供虚假信息，不得有欺诈行为。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 农业机械作业服务执行国家和省制定的质量标准；尚无标准的，当事人可以约定服务标准。<br><br>    作业服务质量不符合前款规定标准的，应当返工或者减收服务费；造成损失的，应当赔偿。当事人另有约定的从其约定。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 农业机械跨区作业，各级人民政府及有关部门应当予以支持，任何单位和个人不得阻碍、刁难。<br><br>    跨区作业的联合收割机和运载跨区作业的联合收割机、插秧机的车辆在收费公路（包括桥梁、隧道）上通行，免交通行费。<br><br>    <font class='zhang'>第三章</font> 生产、销售与维修责任<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 生产农业机械产品，应当具备相应的生产条件，按照产品标准生产和检验。<br><br>    销售农业机械产品，必须有产品检验合格证。<br><br>    生产者、销售者对其生产、销售的产品质量负责，在保证期内按照规定或者约定对其销售的产品实行包修、包换、包退。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 禁止生产、销售下列农业机械产品：<br><br>    （一）国家明令淘汰的；<br><br>    （二）假冒他人品牌、厂名、厂址的；<br><br>    （三）无产品检验合格证或者不符合产品标准的。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 从事农业机械维修，应当具备与维修业务相适应的仪器、设备和具有农业机械维修职业技能的技术人员，保证维修质量。维修质量不合格的，维修者应当免费重新修理；造成人身伤害或者财产损失的，维修者应当依法承担赔偿责任。<br><br>    <font class='zhang'>第四章</font> 安全监督与事故处理<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 拖拉机、联合收割机应当经负责农业机械安全监督管理的机构登记后，方可使用。登记之前，需要临时使用的，必须取得临时牌证。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 申请拖拉机、联合收割机注册登记的，应当提交以下证明、凭证：<br><br>    （一）所有人的身份证明；<br><br>    （二）购机发票或者其他来历证明；<br><br>    （三）出厂合格证明或者进口凭证；<br><br>    （四）法律、行政法规规定应当提交的其他证明、凭证。<br><br>    负责农业机械安全监督管理的机构应当自受理申请之日起五个工作日内审查，符合前款规定条件的，予以登记并发放登记证书、号牌和行驶证；不符合前款规定条件的，不予登记并书面说明理由。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 已经办理注册登记的拖拉机、联合收割机，有下列情形之一的，应当办理相应的登记：<br><br>    （一）所有权发生转移的；<br><br>    （二）登记内容变更的；<br><br>    （三）用作抵押的；<br><br>    （四）报废的。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 驾驶拖拉机、联合收割机，应当向负责农业机械安全监督管理的机构申领驾驶证。<br><br>    负责农业机械安全监督管理的机构应当对符合国家规定的驾驶许可条件的申请人进行考试。考试合格的，在五个工作日内核发驾驶证。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 负责农业机械安全监督管理的机构应当按照国家规定定期对拖拉机、联合收割机进行安全技术检验，对驾驶证实施审验。<br><br>    拖拉机、联合收割机未经检验，驾驶证未经审验，或者检验、审验不合格的，不得继续使用。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 在允许拖拉机通行的道路上，拖拉机可以从事货运，但是不得用于载人。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 农业机械驾驶、操作人员必须遵守农业机械安全作业规则。<br><br>    任何单位和个人不得有下列行为：<br><br>    （一）无证驾驶拖拉机、联合收割机；<br><br>    （二）伪造、变造或者使用伪造、变造的登记证书、号牌、行驶证及驾驶证；<br><br>    （三）擅自改变农业机械原设计转速、行驶速度和拖拉机挂车外形尺寸；<br><br>    （四）拼装涉及人身安全的农业动力机械。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 农业机械作业过程中造成人身伤亡或者财产损失事故的，驾驶、操作人员必须立即停止农业机械运行，保护现场，抢救伤者，并及时报告当地负责农业机械安全监督管理的机构。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 负责农业机械安全监督管理的机构接到农业机械事故报告后，应当立即派员赶赴现场，组织救护，勘验现场，收集证据，并根据现场勘验、调查情况和有关检验、鉴定结论，及时制作农业机械事故认定书，并送达当事人。<br><br>    农业机械事故认定书应当载明事故的基本事实、成因和当事人的责任。<br><br>    农业机械事故损害赔偿的项目和标准依照有关法律的规定执行。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 负责农业机械安全监督管理的机构处理违章行为或者农业机械事故，需要暂扣当事人驾驶证、行驶证的，应当开具凭证。违章行为或者事故处理完毕后，应当及时将所扣证件归还当事人。事故尚未处理完毕，但归还暂扣证件不影响事故处理的，也应当归还。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 依照本条例发放牌证收取工本费，应当严格执行国家和省规定的收费项目和标准。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 拖拉机、联合收割机等自走式农业机械上道路行驶的安全管理工作，由公安机关交通管理部门负责。<br><br>    负责农业机械安全监督管理的机构应当定期向公安机关交通管理部门提供拖拉机登记、安全技术检验以及拖拉机驾驶证发放的资料、数据。<br><br>    公安机关交通管理部门对拖拉机驾驶员作出暂扣、吊销驾驶证处罚或者记分处理的，应当定期将处罚和记分情况通报有关负责农业机械安全监督管理的机构。吊销驾驶证的，应当将驾驶证送交有关负责农业机械安全监督管理的机构。<br><br>    <font class='zhang'>第五章</font> 法律责任<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 农业（农业机械）行政管理部门和负责农业机械安全监督管理的机构工作人员有下列行为之一的，依法给予行政处分；给当事人造成损失的，应当依法赔偿；构成犯罪的，依法追究刑事责任：<br><br>    （一）为不符合法定条件的农业机械发放农业机械登记证书、号牌、行驶证、检验合格标志的；<br><br>    （二）对符合规定条件的各类申请拖延、刁难不予受理或者受理后不按规定及时办理的；<br><br>    （三）强迫或者变相强迫农民和农业生产经营组织购买指定的农业机械产品的；<br><br>    （四）不按规定收费、上缴罚款的；<br><br>    （五）违法暂扣或者吊销农业机械行驶证、驾驶证的；<br><br>    （六）徇私舞弊，不依法处理农业机械事故的；<br><br>    （七）违反规定给予行政处罚的；<br><br>    （八）其他不依法履行法定职责的。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 违反本条例第十三条、第十七条第二款规定的，由县级以上负责农业机械安全监督管理的机构责令改正，可并处一百元以上三百元以下罚款。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 违反本条例第十九条规定的，由县级以上负责农业机械安全监督管理的机构责令改正，可并处二百元以上五百元以下罚款。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 拖拉机、联合收割机在作业过程中造成他人人身伤亡事故后，当事人逃逸或者破坏、伪造现场、毁灭证据的，由县级以上负责农业机械安全监督管理的机构暂扣或者吊销其驾驶证；导致事故责任无法认定的，当事人应当承担全部责任；构成犯罪的，依法追究刑事责任。<br><br>    <font class='zhang'>第六章</font> 附 则<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 本条例自2006年1月1日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

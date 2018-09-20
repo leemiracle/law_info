@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80202<BR>&nbsp;&nbsp;【发布文号】津政办发[1988]77号<BR>&nbsp;&nbsp;【发布日期】1988-08-16<BR>&nbsp;&nbsp;【生效日期】1988-08-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅转发市经委拟订的<br>
+《技术改造项目验收审定委员会工作暂行规定》的通知<br>
+</font></p><p align='center'><font class='STitle'>（1988年8月16日津政办发〔1988〕77号）</font></p>各区、县人民政府，各委、局，各直属单位：<br>    市经委拟订的《技术改造项目验收审定委员会工作暂行规定》，已经市人民政府领导同志同意，现转发给你们，请遵照执行。<br><br>                 技术改造项目验收审定委员会工作暂行规定<br><br>    为了使技术改造项目验收审定工作科学化、规范化，进而提高验收工作的效率和工作水平，现对天津市经济委员会技术改造项目验收审定委员会的工作作如下暂行规定：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>技术改造项目验收审定委员会（以下简称“委员会”）工作权限：<br>    （一）负责对列入市经委技术改造项目年度验收计划、总投资在一千万元及以上的项目进行最终验收。<br>    （二）对列入市经委年度验收计划和总投资在一千万元以下项目的验收结果有审查和否决权，对在验收中出现争议的项目有调查和裁决权。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>委员会工作依据：<br>    （一）委员会对一九八七年及以前批准的技术改造项目均按原批准过的可行性研究报告，扩大初步设计和实施方案的内容进行最迅验收。<br>    （二）委员会对一九八八年及以后批准的技术改造项目，均按市经委批准的实施方案和实施进度计划的内容进行验收，实施方案和实施进度计划以外的内容不作为验收通过与否的依据，只作为建议性意见提供项目单位考虑。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>委员会工作方法：<br>    （一）原则上每月二十二日为委员会工作例会时间，根据需要可增加例会时间或休会。每次会议内容根据市经委下达的年度验收计划提前通知项目单位负责人和主管局做好准备，并参加会议。<br>    （二）各主管局必须在项目验收前十天将有关资料报送各有关委员单位，为减轻企业负担，在报送资料时可根据各委员单位主管内容报送。<br>    1．项目档案资料，报市经委、档案局各一份，审查后退回。<br>    2．项目财务决算、还贷计划、经济效益估算表，报贷款银行、财政局、统计局各两份。<br>    3．项目有关土建、消防部分实施情况的文字材料，报市、区规划部门和公安部门各一份。<br>    4．项目所出产品标准情况，报标准局一份。<br>    5．项目环保、劳保、安全、卫生资料，报市、市环保局、劳动局、工会、卫生局各一份。<br>    6．项目实施工作总结，报经委和主管部门各一份。<br>    （三）各委员单位对项目验收有关内容如有疑议，应在验收会议前调查了解，并确定解决办法，在委员会会议上必须提出结论性意见。<br>    （四）委员会会议中难以议决的项目，可根据需要到现场决定。<br>    （五）如因委员会不能按期议决而延误验收时间，由委员会负责；由于不按期报送有关项目本料而延误验收时间，由项目主管局负责。<br>    （六）委员会全体委员要各负其责，严格按本规定进行工作，无故不出席每月例会的，以同意通过项目验收作为该委员的表决意见。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>委员会由主任委员单位和委员单位的下列同志组成：<br>    （一）主任委员单位：<br>    市经委：吴吉祥                  主任委员<br>            陈维仁    孙凤梧        副主任委员<br>    （二）委员单位：<br>    中国银行天津分行：赵平来        委员<br>    工商银行天津分行：杨建华        委员<br>    建设银行天津分行：张博明        委员<br>    市规划局：        丁  林        委员<br>    市环保局：        曹玉和        委员<br>    市劳动局：        刘伦志        委员<br>    市公安局：        程立新        委员<br>    市标准局：        易志发        委员<br>    市统计局：        焦炳豪        委员<br>    市卫生局：        李绍耕        委员<br>    市总工会：        赵恒山        委员<br>    市档案局：        王恒忠        委员<br>    市财政局：        陈  竞        委员<br>    （三）委员会的日常工作由主任委员单位负责。<br>    （四）委员会成员无特殊情况不得随便易人，如需易人时需提交委员会讨论通过。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>本规定由市经委技术改造项目验收审定委员会负责解释。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

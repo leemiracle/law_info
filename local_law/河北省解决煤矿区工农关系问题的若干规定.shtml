@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】冀政[1980]98号<BR>&nbsp;&nbsp;【发布日期】1980-01-01<BR>&nbsp;&nbsp;【生效日期】1980-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省解决煤矿区工农关系问题的若干规定<br><br></font>(冀政[1980]98号)</p><br> <br><br>    为了妥善解决煤矿区工农之间存在的问题，增强工农团结，促进工农业生产的 发展，特作如下规定： <br><br>    一、对于煤矿区工矿企业与当地农村社队之间出现的问题，统一由当地政府出 面，按照党的政策和国家的法律、法令，负责仲裁和解决。要做好工农双方的团结 工作，组织、分配和使用好工矿企业支援、补偿农业的财力和物力，保证国家财产 不受损失，保护工矿企业正常进行生产。 <br><br>    二、煤矿因采煤造成土地塌陷、地面附着物损坏和用水困难等问题，应该补偿 农民损失的，所需费用从成本中列支，并拨给当地政府统一进行补偿。这项费用要 用于塌陷区的农田基本建设，或帮助个别损失较大的生产队发展集体经济，不得挪 作它用。 <br><br>    三、矿方为保证矿区人民生产、生活用水而帮助修建的供水设施，由使用单位 负责维修保养。维修保养所需的材料和设备，矿方在可能的情况下，应尽量给予帮 助。矿方提供的材料和设备，要按质论价收费。所需资金由当地政府从本规定第二 条所列款项中支付。矿水要充分用于农田灌溉，矿方应尽力提供方便。工业排水为 灌溉农田而超扬程部分的设施和电费，由用水社队负担。涉及两个以上单位用水时， 由上一级政府部门负责分配负担份额。 <br><br>    四、为了确保煤矿的生产用电和安全，实行工农用电分路供应。在一般情况下， 不准从煤矿输电线路转给农业用电。严禁从煤矿输电线路上私自接线。对目前用电 方面存在的混乱状况，由当地政府组织供电部门对有关单位进行调整。对个别实行 工农分路供电确有困难的社队，在征得供电部门和矿方同意，并签订供电协议后， 可继续与矿方使用同一电路。供电部门要根据实际情况，增加农村的用电指标。农 用电费由农村社队按农业电价向供电部门结算。对无故拖欠电费或不执行协议的社 队，供电部门和矿方可停止供电。 <br><br>    五、严格执行国家的征地政策。工矿企业要尽量少占地、占次地，有条件的要 造地还田。对因征购土地影响社员生活的社队，当地政府要会同征地单位给予妥善 安排。向按人口平均不足一亩耕地的生产队征地，或一次性征地超过生产队耕地总 面积百分之二十的，由当地政府出面，组织工农双方协商，由购地单位给生产队以 适当补助，以解决社员群众生产出路问题。煤矿矸石山征地，由所在地、市负责审 批。 <br><br>    六、压煤村庄需要搬迁时，要贯彻“政府（县、矿区、市）出面，煤矿出钱， 实行包干，按期完成”的方针，对尚未搬迁完的村庄，要按原协议规定办事，迁建 费标准不得变动，要继续抓紧搬迁。对即将搬迁的村庄，应由地区行署或市政府有 关部门组织工农双方有关人员，根据本地区房屋结构造价进行典型解剖测算，提出 迁建标准，制订具体迁建办法，报请省政府批准后实施。已经确定搬迁的村庄，不 准在原址再建新房。今后，在矿区井田范围内进行地面建筑，要经工矿企业签署同 意，报省煤炭管理局审核批准后方可动工。 <br><br>    七、发展煤炭生产，要坚持大、中、小并举的方针。坚决贯彻执行国务院和省 政府的有关规定，合理开采煤炭资源。大矿要明确井田范围，主动找一些边角残煤 让社办小窑开采，并在技术上给予指导帮助。社办小煤窑要严格审批手续，对那些 没有经过批准并影响大矿安全生产，破坏资源，以及不具备照明、排水、通风条件 的小煤窑，当地政府要立即责令其停办。各地、市要按照冀革[1979]119号 文件和218号文件精神，对现有小煤窑认真进行检查整顿，彻底改变只顾生产， 不顾安全的混乱状况。各矿务局要对所属井田范围内小煤窑的开采和安全情况进行 定期或不定期的检查，小煤窑要接受他们的指导。 <br><br>    八、加强工农联盟教育。要对社员和职工广泛宣传党的政策，大讲工农亲密协 作的老传统。工农双方要互相体谅，对发生的问题要本着兼顾双方利益的原则，各 自主动承担责任，通过协商妥善解决。 <br><br>    九、煤矿所在地的各级政府，要把搞好工农关系问题列入议事日程，要有领导 同志分工主抓。工矿企业以及公社、县、市政府和地区行署，都要根据任务大小， 建立专职机构或明确兼职部门（或人员），负责此项工作。 <br><br>    十、加强法纪。对挑拨工农关系，进行敲诈勒索、捣乱破坏的人，要认真追查， 严肃处理。对因不执行协议而造成经济损失的，要责令其进行赔偿。对制造断电、 截路、哄抢等事件，并造成工矿企业被迫停产等严重后果的，要追究刑事责任。 <br><br>    其它工矿企业在处理工农关系问题时，可参照上述有关规定的精神办理。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

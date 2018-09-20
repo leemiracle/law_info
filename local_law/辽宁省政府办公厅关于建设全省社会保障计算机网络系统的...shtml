@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80602<BR>&nbsp;&nbsp;【发布文号】辽政办发[2000]103号<BR>&nbsp;&nbsp;【发布日期】2000-11-18<BR>&nbsp;&nbsp;【生效日期】2000-11-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>辽宁省人民政府办公厅关于建设<br>
+全省社会保障计算机网络系统的通知<br>
+</font></p><p align='center'><font class='STitle'>（辽政办发〔2000〕103号）</font></p>各市人民政府，省政府有关厅委、直属机构：<br>    为深入推进全省社会保障工作，完善社会保障体系计算机网络系统工程建设，按照统分结合、远近兼顾、市为基础的建设原则，经省政府同意，现就全省社会保障计算机网络系统工程建设（以下简称“工程建设”）有关部门通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>工程建设以市为单位组织实施。在全省统一业务规程、应用软件、数据库以及主机、网络设备配置标准的基础上，各市政府要按照本通知的要求，具体制定适合本地区的工程技术方案和工程建设组织实施方案，组织安排有关部门的机房建设、局域网综合布线、设备及操作系统采购、集成商的选择等项工作，结合本地区党政信息网络系统的建设方案选择适宜的通讯方式。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>工程建设的内容为：市、县两级劳动和社会保障部门的政策管理网络；社会保险经办机构包括城镇职工基本养老保险、医疗保险、失业保险、生育保险和工伤保险等五险合一的社会保险业务经办网络；地税部门社会保险资金征缴网络；民政部门市、县（区）、街（镇）三级城镇居民最低生活保障网络；财政部门社会保障资金管理平衡网络。各网络分别在省、市、县的横向接口进行联结。具体标准详见省社会保障工作领导小组办公室制订的《辽宁省社会保障网络系统工程技术要求》。<br>    各市政府要从建设社会保障业务综合网络系统的大局出发，认真做好上述社会保险业务和城镇居民最低生活保障业务资金的收缴、平衡补充和发放，以及帐户的管理、结算等项工作的计算机网络系统建设，统筹安排好市、县（区）两级的劳动和社会保障部门、社会保险经办机构、财政部门、地税部门和市、县（区）、街（镇）三级民政部门涉及社会保障业务的工程建设，确保实现社会保障业务的现代化运行管理，为各有关部门的业务衔接和监督管理提供计算机网络支持。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>省各有关业务主管部门要切实做好本系统业务流程和各业务帐表册等数据文档格式的规范统一工作，充分利用工程建设的契机规范本系统的业务行为，统一本系统计算机设备的ＩＰ地址和域名，配备好技术人员，搞好各类业务人员的技术培训工作，为编制和推广统一的全省工程建设应用软件创造条件。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>工程建设资金由省市两级政府分别筹集。全省数据库和应用软件的建设资金由省政府筹资解决。各市政府负责筹资解决要地区工程建设中的机房建设、局域网布线、设备和操作系统采购以及网络集成等项建设资金。应争取当地承办社会保障业务的国有商业银行提供全部或部分建设资金，不足部分由各市地方财政予以补充。各市在安排工程建设资金时，应兼顾安排好网络系统的维护资金。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各市政府应切实加强对工程建设的监管力度，切实按照公平、公正、公开的原则，通过公开招标选购设备和选择集成商，在确保工程建设质量的前提下，力求降低工程造价，实现工程建设的高标准、低成本和与其他党政信息网络的广泛兼容。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>工程建设在省社会保障工作领导小组的统一领导下进行。为保障全省工程建设的顺利实施，省政府成立全省社会保障计算机网络系统工程建设协调小组（以下简称“省工程建设协调小组”），具体协调管理全省的工程建设工作。省工程建设协调小组组长由副省长刘克崮担任，副组长由省政府副秘书长李万才担任，成员为省劳动和社会保障厅厅长陈海波、省财政厅副厅长王继维、省地税局副局长张玉文、省民政厅副厅长李中田和省信息产业厅副厅长李兵。省工程建设协调小组办公室设在省劳动和社会保障厅，具体承办日常事务工作，办公室主任由陈海波同志兼任。<br>    各市政府要尽快成立社会保障计算机网络系统工程协调小组，制定明确的目标责任管理制度，务必于12月15日前确定具体的工程建设实施方案，并做好工程建设的各项准备工作。各市工程建设协调小组在工程建设过程中，应主动向省工程建设协调小组报告工程建设情况，保持经常性的工作联系，指定专门机构督促检查工程建设的进度和施工质量，认真协调解决工程建设中遇到的困难和纠纷，及时处理好部门之间以及各工程建设阶段出现的矛盾和问题，确保工程建设在2001年7月1日前完成并全面进入试运行阶段。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>各地承办社会保障业务的银行如有变化，各市政府应提前做好承办银行的交接工作，切实做到平稳过渡。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>为保证工程建设的质量，省工程建设协调小组将组织专门人员对各市的工程建设进行全面验收。对工程建设质量不合格的地区，要追究当地政府主要负责人和工程建设负责人的责任。<br><br>                                              辽宁省人民政府办公厅<br>                                                  2000年11月18日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

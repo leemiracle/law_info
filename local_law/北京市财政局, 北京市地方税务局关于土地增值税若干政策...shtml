@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市财政局, 北京市地方税务局<BR>&nbsp;&nbsp;【发布文号】京财税[1997]198号<BR>&nbsp;&nbsp;【发布日期】1997-03-03<BR>&nbsp;&nbsp;【生效日期】1997-03-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市财政局, 北京市地方税务局<br>关于土地增值税若干政策及征收管理问题的通知<br><br></font>(京财税[1997]198号)</p><br><br><br>各区县财政局、地方税务局、各分局、市局各直属单位：<br><br>     为进一步完善土地增值税政策，加强征收管理，经研究，现将有关政策及征管办法通知如下，请依照执行。<br><br>     一、关于对经政府批准建立的各种经济技术开发区进行成片土地开发、分期分批转让房地产征免税问题。<br><br>     在1994年1月1日以前经市、区（县）政府批准，进行房也产开发并立项的开发区，用开发区管理委员会（或指定的开发公司）名义与在开发区内投资的投资商（或开发商）在1994年1月1日前签定房地产开发合同（或立项），并已按规定投入资金进行开发，在1998年12月31日前首次转让的房地产，可根据京财税（1996）647号通知有关规定享受免税政策。1994年1月1日以后开发区管理部门将完成土地基础设施建设（三通一平或七通一平）后的土地使用权进行转让（或出让），投资商或开发商取得土地使用权后，新建房地产在1998年12月31日前首次转让的，也可享受免税政策。<br><br>     二、关于对房地产开发企业成片受让土地，分期分批进行房地产开发并转让征免税问题。<br><br>     凡由市计委、建委在1994年1月1日前审批立项，由房地产开发公司成片受让土地，并已按规定投入资金进行开发，分期分批进行房地产开发并转让或只转让土地使用权，其在1998年底前未超过立项批复总体规模范围开发并首次转让的房地产，可享受京财税（1996）647号通知中规定的免税政策。但该公司如与其他单位签定开发或转让合同，由其他单位进行开发建设后再转让的，属第二次转让行为，应按规定征收土地增值税。对开发企业超过1994年1月1日以前立项批复规模开发并转让的房地产，应按规定征收土地增值税。<br><br>     三、关于1998年12月31日前预售商品房免税问题。<br><br>     对于1994年1月1日前批准立项或签订开发合同（已取得土地使用权）并已按规定投入资金的商品房项目，在1998年12月31日前预售时已完成主体工程且投资完成额占计划投资总额70%以上的，视同在1998年12月31日前首次转让，可按规定免征土地增值税。<br><br>     四、关于对污染扰民搬迁企业享受免税政策问题。<br><br>     对于经审核属于污染扰民搬迁企业，且转让原厂址取得的转让收入用于新厂址建设的，可按（95）京经安字第200号通知规定享受免税政策。<br><br>     对于在原厂址上进行房地产开发并转让的，不能享受（95）京经安字第200号通知中的免税政策。<br><br>     对于搬迁企业以原厂址与其他单位进行合建，建成后按合同留作自用的房地产，暂免征收土地增值税。将自用房地产转让的，应按规定征收土地增值税。<br><br>     五、关于对个人转让自有居住用房征免税问题。<br><br>     对于个人转让自有居住用房，在界定其居住时间时，可按其房屋产权证所登记的时间为准；对实行住房制度改革，单位以优惠价或成本价出售给本单位职工的住房，尚未取得产权证的，可由单位出具购房居住证明。凡是其产权证登记时间或购房时间与转让时间相隔超过5年的，均可享受免税政策。<br><br>     对个人转让落实私房政策时腾退的住房，在出示房管部门腾退通知后，可享受免税政策。<br><br>     对个人转让所继承或接受赠与的居住用房，在出示原所有人的房产证及继承人或受赠人的房产证后，可享受免税政策。<br><br>     六、关于对合作建房办理项目登记及纳税申报手续问题。<br><br>     对于一方出地，一方出资金签定的合作建房合同（协议），在获得立项批复后，其中一方又将已合建的部分再与第三方签定合建合同（协议）的，应在再次签订合建合同（协议）后30日内办理土地增值税项目登记、纳税申报手续。<br><br>     七、纳税人在办理项目登记、纳税申报手续时提供的资料。<br><br>     （一）、办理项目登记时，需由纳税人提供以下资料：<br><br>     1．房地产开发合同（或合建协议书）<br><br>     2．土地受让合同（或政府无偿划拨土地文件）<br><br>     3．建设项目立项报告批复文件<br><br>     4．建设工程规划批复<br><br>     5．税务登记证<br><br>     6．申请按季申报的综合开发企业还应提供资质等级证明<br><br>     办理普通标准住宅审批手续时还需提交首规委批准的普通标准住宅设计图纸（包括：每栋楼建筑总面积、每栋楼设计总户数、住宅装修标准、住宅设备标准）。<br><br>     （二）、办理纳税申报时，需由纳税人提供的资料：<br><br>     房地产开发企业应提供：<br><br>     1．当期财务会计报表（包括：损益表、主要开发产品（工程）销售明细表、在建开发项目成本表、已完工开发项目成本表）等<br><br>     2．银行贷款利息结算通知单<br><br>     3.转让房地产有关资料（商品房购销合同附本、项目工程合同结算单等）<br><br>     4．有关的完税凭证（包括：营业税、城建税、教育费附加等）<br><br>     5．开发建造普通标准住宅的房地产开发企业还需携带经审核的《普通标准住宅审核表》<br><br>     6．办理年度结算时还需提供年度结算报表<br><br>     7．办理竣工清算时还需提供竣工清算报表<br><br>     转让存量房地产的纳税人应提供：<br><br>     1．房地产买卖合同、委托书、公证书<br><br>     2．房屋所有权证<br><br>     3．土地使用权证<br><br>     4．房地产价格评估报告<br><br>     5．有关的税费缴纳凭证（包括：营业税、城建税、教育费附加、印花税、交易手续费、评估费等）<br><br>           <br>  一九九七年三月三日  <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

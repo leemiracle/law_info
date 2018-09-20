@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】南京市<BR>&nbsp;&nbsp;【发布文号】南京市人民政府令第217号<BR>&nbsp;&nbsp;【发布日期】2003-05-13<BR>&nbsp;&nbsp;【生效日期】2003-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank>国务院法制办公室 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>南京市锅炉压力容器压力管道安全监察与质量监督办法<br> <br></font>（2003年5月7日南京市人民政府常务会议审议通过  2003年5月13日南京市人民政府令第217号公布  自2003年7月1日起施行）</p><br><br><br>    <font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为了确保锅炉、压力容器和压力管道的安全运行，保障人民群众生命、财产安全和社会稳定，根据国务院《<a href=javascript:ROF(83820,0) class=alink>特种设备安全监察条例</a>》、《<a href=javascript:ROF(83421,0) class=alink>江苏省特种设备安全监察条例</a>》等有关法律、法规的规定，结合本市实际，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称锅炉、压力容器、压力管道是指列入国家特种设备安全管理范围的锅炉、压力容器、压力管道。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  本市行政区域内任何单位或个人从事锅炉、压力容器和压力管道设计、制造、销售、安装、使用、检验、维修、改造等活动均应当遵守本办法。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  南京市质量技术监督局是本市锅炉、压力容器和压力管道安全监察与质量监督的行政主管部门，其所属的锅炉、压力容器、压力管道安全监察机构（以下简称安全监察机构）具体负责本行政区域内的锅炉、压力容器和压力管道安全监察与质量监督的日常管理工作。区、县质量技术监督行政部门负责辖区内管辖的锅炉、压力容器和压力管道的安全监察与质量监督工作。<br><br>    市政公用行政主管部门负责组织实施城市公用燃气压力管道工程质量及安全监督工作。<br><br>    安全生产监督、建设、规划、工商、公安、环保、市政公用等有关行政主管部门按照各自的职责，做好锅炉、压力容器和压力管道的管理工作。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  经过省级以上质量技术监督行政部门认可的检验单位在授权的范围内从事锅炉、压力容器、压力管道的检验工作。<br><br>    <font class='zhang'>第二章</font>  一般规定<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  锅炉、压力容器、压力管道的设计、制造、安装、维修、改造、化学清洗、维护保养及检验单位必须确保安全质量体系的完整有效，严格遵守安全质量体系的程序和要求。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  锅炉、压力容器、压力管道的使用单位应当制定并严格执行安全管理制度和安全操作规程，建立设备技术档案，做好运行记录，妥善保存设备技术文件、检验报告、维护保养记录等资料。对在用的压力容器、压力管道应当进行定期维护和检查，及时处理异常情况。<br><br>    储存或输送易燃、易爆、有毒介质的压力容器、压力管道单位必须建立巡线检查制度、应急措施和救援方案。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  任何单位不得使用未取得相关许可证的单位或个人所制造的列入国家许可证管理范围的锅炉、压力容器、压力管道的安全附件、保护装置、附属设施、压力管道元件、锅炉水处理药剂、水处理树脂等设备、材料。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  从事与锅炉、压力容器、压力管道有关的检验、焊接、无损检测、化学清洗、锅炉水处理、气瓶充装及各类设备操作工作的人员，必须取得市（地）级以上质量技术监督行政部门的资格认可。<br><br>    严禁使用无资格的人员从事前款规定的相关工作。<br><br>    <font class='zhang'>第三章</font>  设计、制造、销售、安装、维修、改造和维护保养<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  从事下列活动的单位，必须依照有关规定取得省级以上质量技术监督行政部门颁发的许可证，并在许可证规定的范围内开展活动。<br><br>    （一）锅炉、压力容器和压力管道的设计、制造、安装、维修、改造、化学清洗；<br><br>    （二）列入国家许可证管理范围的锅炉、压力容器和压力管道的安全附件、保护装置、附属设施、压力管道元件、锅炉水处理药剂、水处理树脂等的生产；<br><br>    （三）气体充装。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  从事锅炉、压力容器和压力管道及其安全附件、保护装置、附属设施的维护保养（以下简称维护保养）的单位，应当取得相应资质，并在资质范围内从事相关活动。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  从事本办法第十一条规定活动的单位不得将自己承接的业务转由其他单位或个人承担。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  从事本办法第十条、第十一条规定活动的单位法定代表人或者质量保证体系中有关责任人员变更后，应当及时到安全监察机构备案。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  施工单位进行锅炉、压力容器和压力管道的安装、维修、改造和化学清洗，应当按规定将有关技术资料和施工方案书面告知安全监察机构后，方可施工。<br><br>    施工单位必须保证施工质量。验收合格后，施工单位应当将全部竣工资料移交使用单位。<br><br>    安装单位不得安装不符合安全质量标准、无许可证单位或个人制造的锅炉、压力容器、压力管道。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  销售单位或个人不得销售无相关有效许可证的单位或个人制造的下列产品：<br><br>    （一）锅炉、压力容器、压力管道；<br><br>    （二）列入国家许可证管理范围的锅炉、压力容器、压力管道的安全附件、保护装置、附属设施、压力管道元件、锅炉水处理药剂、水处理树脂等。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  瓶装气体销售单位或个人不得销售以超期未检或不合格的气瓶为盛装容器的瓶装气体。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  气体充装单位应当遵守气瓶、汽车罐车、铁路罐车充装的有关规定，严禁过量充装。<br><br>    有下列情形之一的，禁止进行气体充装：<br><br>    （一）气瓶非本单位所有，且未办理托管的；<br><br>    （二）汽车罐车、铁路罐车无市（地）级以上质量技术监督行政部门核发的相关使用证的；<br><br>    （三）汽车罐车、铁路罐车、气瓶无有效的定期检验合格证明的；<br><br>    （四）汽车罐车、铁路罐车的司机、押运人员未取得有效资格证书的；<br><br>    （五）国家技术规程、标准规定的其它禁止充装的情形。<br><br>    <font class='zhang'>第四章</font>  使用<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  使用单位应当对锅炉、压力容器和压力管道的使用安全负责。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  使用单位不得使用下列锅炉、压力容器和压力管道：<br><br>    （一）无许可证单位或个人制造的；<br><br>    （二）应办理使用登记注册手续而未办理的；<br><br>    （三）无有效定期检验合格证明的；<br><br>    （四）压力管道未经安装安全质量监督检验合格的。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  使用单位必须书面委托取得省级以上质量技术监督行政部门颁发许可证的单位进行锅炉、压力容器和压力管道的安装、维修、改造和化学清洗。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  使用单位应当在锅炉房、压力容器场地、压力管道线路等规划选址时，征求安全监察机构意见。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  锅炉、压力容器和压力管道安装完毕后，使用单位应按国家有关法律、法规和规程的规定组织验收。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  锅炉使用单位应当采取有效的水处理措施，保证锅炉水质达到国家规定的标准。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  不具有维护保养资格的使用单位，有下列设备之一的，应当委托具有资格的维护保养单位定期进行维护保养，并签定维护保养合同：<br><br>    （一）除小型锅炉外的承压锅炉；<br><br>    （二）医用氧舱；<br><br>    （三）法律、法规规定其它需维护保养的设备。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  使用单位对安全监督检查及检验中发现的安全隐患，应当按期限进行整改。未整改合格的，不得投入使用。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  使用单位应当对在用锅炉、压力容器、压力管道及其安全附件、保护装置、附属设施主动申报定期检验。检验项目和检验周期按国家规定执行。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  转让、出租锅炉、压力容器的，原使用单位应当在转让、出租后十五日内，到原发证机关办理变更手续。<br><br>    停用、报废锅炉、压力容器的，使用单位应当及时到发证机关办理停用、报废手续。<br><br>    <font class='zhang'>第五章</font>  检验<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  在锅炉、压力容器和压力管道的制造、安装、维修、改造和化学清洗过程中，由质量技术监督检验机构按国家规定实行监督检验。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  检验单位必须确保检验工作质量保证体系的正常运转，严格按照国家制定的检验标准进行检验，并对检验报告的准确性负责。<br><br>    检验单位和检验人员不得泄露被检验单位的商业秘密。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  检验单位应当按规定向安全监察机构报告检验工作情况，并接受其监督。<br><br>    检验单位在检验中发现重大安全问题，必须立即书面告知被检验单位，并在10个工作日内书面报告锅炉、压力容器和压力管道注册登记的部门。<br><br>    <font class='zhang'>第六章</font>  监督检查<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  质量技术监督行政部门依法进行锅炉、压力容器和压力管道安全监察与质量监督时，应当至少有两名执法人员参加，并出示执法证件。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  执法人员在进行安全监察与质量监督时，可以行使下列职权：<br><br>    （一）进入现场进行监督检查；<br><br>    （二）收集有关证据材料，包括查阅、复制有关的发票、合同、文件等资料；<br><br>    （三）对存在安全隐患的单位，以书面形式发出安全监察指令，并责令其限期改正；必要时，可责令其停止作业。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  有下列情形之一的，质量技术监督行政部门可以决定对有关设备或产品予以查封、扣押：<br><br>    （一）法律、法规、规章规定禁止制造、销售、使用的；<br><br>    （二）存在严重安全隐患的；<br><br>    （三）收到书面安全监察指令后，逾期未整改的。<br><br>    查封、扣押后的设备经检验后认定无法整改的，质量技术监督行政部门可以责令拆除或者报废。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  质量技术监督行政部门以及其他负有安全监督管理职责的部门对涉及锅炉、压力容器和压力管道的事项进行检查、验收，不得收取费用，不得要求生产经营单位购买指定的产品。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  任何单位或个人发现锅炉、压力容器和压力管道存在安全隐患的，有权向质量技术监督行政部门举报。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  锅炉、压力容器和压力管道发生事故，当事单位或个人必须迅速采取紧急有效措施，防止事故扩大，并按照国家有关规定，及时、如实地向安全生产监督和质量技术监督等有关行政部门报告。不得隐瞒不报、谎报或者拖延不报。<br><br>    <font class='zhang'>第七章</font>  罚则<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  违反本办法，有下列情形之一的，由质量技术监督行政部门按照规定给予处罚：<br><br>    （一）违反本办法第八条、第二十条、第二十四条规定，使用未取得相关许可证的单位或个人制造的列入国家许可证管理范围的锅炉、压力容器、压力管道的安全附件、保护装置、附属设施及压力管道元件、锅炉水处理药剂、水处理树脂等设备、材料或未按规定办理相关手续的，责令限期改正，并可处以1000元以上5000元以下罚款。<br><br>    （二）违反本办法第十一条、第十二条规定，无资格从事相关活动或非法转包业务的，责令停止违法行为，并可处以10000元以上30000元以下罚款。<br><br>    （三）违反本办法第十三条规定，未办理备案手续的，责令限期补办手续；逾期未改的，处以1000元以下罚款。<br><br>    （四）违反本办法第二十三条规定，水质未达到国家规定标准的，责令限期改正，并可处以3000元以上10000元以下罚款。<br><br>    （五）违反本办法第三十条第二款规定，检验单位未按规定及时告知被检验单位或报告注册登记部门的，处以20000元以上100000元以下罚款。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  违反本办法第十五条第（二）项规定，由质量技术监督行政部门或工商行政管理部门责令停止销售，并可处以5000元以上30000元以下罚款。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  事故当事单位违反本办法第三十六条规定，未立即报告事故或隐瞒事故不报、不采取紧急有效措施致使灾害扩大的，由质量技术监督行政部门给予警告，并处5000元以上25000元以下罚款。<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  质量技术监督行政部门以及其他负有安全监督管理职责的部门违反本办法第三十四条规定的，由其上级机关或者监察机关责令改正，退还收取的费用；情节严重的，对直接负责的主管人员和其他责任人员依法给予行政处分。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  执法人员滥用职权、玩忽职守、徇私舞弊、泄露或剽窃商业秘密、侵犯知识产权，应当依法给予行政处分；构成犯罪的，依法追究刑事责任。<br><br>    <font class='zhang'>第八章</font>  附则<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  本办法下列用语的含义是：<br><br>    （一）“安全附件”是指安全阀、爆破片、压力显示、液位显示、温度显示等装置。<br><br>    （二）“保护装置”是指压力控制与报警装置、液位控制与报警装置、温度控制与报警装置、紧急切断装置、安全连锁装置、燃烧控制与报警装置。<br><br>    （三）“附属设施”是指燃烧设备、给水设备、水处理设备、阀门。<br><br>    （四）使用单位”是指锅炉、压力容器、压力管道的所有权人，所有权人与实际使用人或相关人另有约定的，从其约定。<br><br>    （五）“压力管道”是指利用一定的压力，用于输送气体或者液体的管状设备，其范围规定为最高工作压力大于或者等于0.1MPa（表压）的气体、液化气体、蒸汽介质或者可燃、易爆、有毒、有腐蚀性、最高工作温度高于或者等于标准沸点的液体介质，且公称直径大于25mm的管道。<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  船舶、铁路机车、航空器、核设施及军事设备上的锅炉、压力容器和压力管道不适用本办法。<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a>  本办法自2003年7月1日起实施。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

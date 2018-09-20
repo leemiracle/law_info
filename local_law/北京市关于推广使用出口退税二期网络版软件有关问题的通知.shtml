@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2001-11-25<BR>&nbsp;&nbsp;【生效日期】2001-11-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市关于推广使用出口退税二期网络版软件有关问题的通知</font></p><br><br><br>各区、县国家税务局，直属分局：<br><br>    近接国家税务总局下发的出口退税审核系统二期网络版2.4版软件，现发给你们，按照国家税务总局《关于推广使用出口退税二期网络版软件有关问题的通知》（国税函[2000]489号）和进出口税收管理司《关于继续做好出口退税工作的通知》（国税进函[2000]45号）的文件要求，经市局研究决定，自2001年1月1日以后我市外（工）贸出口企业报关离境的出口货物退税审核必须使用二期网络版软件（2.4版）。为保证推广二期网络版工作的顺利进行，现就相关问题明确如下：<br><br>    一、关于二期网络版的安装、维护问题<br><br>    总局下发的出口退税审核系统二期网络版2.4版软件及相关文档，已由我处放置在市局FTP服务器的如下目录下：出口退税\二期网络版\2.4版<br><br>    按照京国税进[1999]585号文的精神，二期网络版的安装、维护工作由各局信息管理部门和退税部门共同完成，其中包括<br><br>    （一）东城、西城、崇文、宣武、朝阳、丰台、石景山、海淀、对外九个局的服务器端及客户端的安装、维护。<br><br>    服务器及工作站的命名规则及IP地址应遵照京国税进[1999]585号的规定。<br><br>    （二）其他局的工作站端的安装、维护。<br><br>    工作站的命名规则及IP地址应遵照京国税进[1999]585号的规定。登录市局服务器的IP地址为68.16.16.25<br><br>    二、二期网络版的备份问题<br><br>    东城、西城、崇文、宣武、朝阳、丰台、石景山、海淀、对外九个局信息中心应建立服务器周备份制度，并且，每周与市局服务器进行数据发布。具体技术要求由市局信息中心提供。<br><br>    三、实行一期网络版和二期网络版双轨运行问题<br><br>    为保证申报退税的顺利实施，结合二期网络版设计特性，在我市二期网络版运行初期实行一期网络版和二期网络版并行申报的“双轨制”办法，即：使用二期网络版审核退税，同时使用一期网络版（ts-sh5.3版）进行审核，实现一期网络版的历史数据与二期网络版的同步，确保二期网络版运行初期的安全。<br><br>    外（工）贸企业2001年度报关离境的出口货物退税申报使用的退税申报系统4.3版由各局负责为企业拷制。<br><br>    四、关于二期网络版岗位设置、操作流程以及工作职责的规范要求<br><br>    为配合二期网络版的推广工作，我市对二期网络版操作流程（见市局培训教材）、岗位设置以及岗位工作职责（见附件《出口退税二期网络版岗位职责》）作了规范要求：<br><br>    （一）设立退税机构的局应严格按《出口退税二期网络版岗位职责》设立各岗位；<br><br>    （二）未设立专门退税机构的局可采用一人多岗的设置方法，但对审、机审和审批岗须不同的人员担任审核工作，不得包办代替。<br><br>    （三）东城、西城、崇文、宣武、朝阳、丰台、石景山、海淀、对外九个局退税部门提供人员按岗位分组名单，由你局信息中心在服务器端进行退税审核系统服务器端的“用户管理”。<br><br>    （四）其他各局将你局出口退税人员的岗位分组名单于2001年6月15日前上报市局进出口税收管理处。<br><br>    五、其他相关的问题<br><br>    （一）由于技术上的要求，为保证审核系统的顺利运行，该系统所使用的工作站应不低于PII400标准，单证打印需office2000支持，office2000软件由各局自行解决。<br><br>    （二）按照总局要求，用此软件需重新进行退税登记工作，各局应严格审核企业报送的登记资料，6月15日前将企业报送的退税登记资料录入审核系统，并打印退税登记证交出口企业作为退税登记凭证，退税登记表和证又市局统一印制下发，各局6月底前将退税登记的信息软盘连同登记表一份上报市局进出口税收管理处。<br><br>    （三）外（工）贸企业自营及委托代理出口的货物实行“先征后退”的管理办法，出口退税计算方法适用单票对应法，取消加权平均单价法。在单票对应法中，关联号应为10位，编号规则为：两位年份+4位分局行政区划+4位顺序号。<br><br>    （四）按照档案管理的要求，出口企业的正式申报盘应作为档案资料之一，并且应与纸制资料按户分开存档，以便查找。<br><br>    （五）工业企业使用二期网络版软件审核退税的工作另行布置。<br><br>    （六）各局于6月底前将你局二期网络版使用情况以书面形式上报市局进出口税收管理处。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

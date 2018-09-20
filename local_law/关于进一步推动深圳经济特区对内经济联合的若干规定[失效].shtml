@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81908<BR>&nbsp;&nbsp;【发布文号】深府[1993]109号<BR>&nbsp;&nbsp;【发布日期】1993-03-01<BR>&nbsp;&nbsp;【生效日期】1993-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于进一步推动深圳经济特区对内经济联合的若干规定</font></p>    （1993年3月1日深圳市人民政府发布、深府〔1993〕109号文）<br>    加强内联工作是深圳发展的一条宝贵经验。为了进一步加强深圳经济特区（以下简称特区）与内地的经济合作，鼓励内地的企业（含民间科技企业）和其他经济组织到特区投资兴办企业，促进特区市场经济发展，更好地发挥窗口作用，依照《深圳经济特区贯彻＜<a href=javascript:ROF(15462,0) class=alink>全民所有制工业企业转换经营机制条例</a>＞实施办法》）（以下简称《实施办法》）及国家有关规定，对特区与内地的经济合作作如下规定：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>内地的企业（含民间科技企业）和其他经济组织来特区新设立企业，除《实施办法》第六条规定的项目以外，凡符合特区产业政策的，按照《实施办法》第七条的规定，到深圳市工商行政管理局办理登记注册手续。<br>    内地驻特区办事机构在特区兴办经济实体，符合上述规定的，可持其所代表的人民政府的批文，到深圳市工商行政管理局办理登记注册手续。<br>    内地大型国营企业和有进出口权的企业需要在特区设立办事机构的，可直接到深圳市工商行政管理局办理登记注册手续。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>内联、驻深企业同市属企业一样，执行统一的地方税收政策。内联、驻深企业一律执行《深圳经济特区企业所得税计税标准暂行规定》，所实现的利润，在特区按15％的税率交纳企业所得税，其税后利润按联合各方协议比例进行分配。<br>    内联、驻深企业发生的年度亏损，可以用下一年的所得弥补；下一年度的所得不足弥补的，可以逐年延续弥补，但最长不得超过五年。<br>    以上称内联、驻深企业是指内地的全民和集体所有制的企业、事业单位、私营企业及民间科技企业在特区以联营、独资等形式兴办的各类企业，以及内地驻特区办事机构在特区开办的企业或以其他形式进行联合在特区形成的企业（下同）。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>对从事港口、码头开发经营的内联、驻深企业，经营期限在十五年以上的，从获利年度起，第一年至第五年免征企业所得税；第六年至第十年减半征收企业所得税。<br>    对从事工业、农业、交通运输等生产性行业的内联、驻深企业，经营期限在十年以上的，从获利年度起，第一年至第二年免征企业所得税；第三年至第五年减半征收企业所得税。属于基础工业或经深圳市人民政府确认为技术先进型企业的，第六年至第八年继续减半征收企业所得税。<br>    前款所列的内联、驻深企业按规定减免所得税后，凡当年企业出口产品产值达到当年产品产值的70％以上的，经税务机关审查核实，当年按10％的税率征收企业所得税。<br>    对从事服务性行业的内联、驻深企业，投资总额在五百万美元或者二千万元人民币以上，并且经营期限在十年以上的，从获利年度起，第一年免征企业所得税，第二年和第三年减半征收企业所得税。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>内联、驻深企业在特区内生产出口产品所需进口的原材料、零部件、企业自用的生产资料、办公用品，免征关税。内联、驻深企业自己生产的出口产品，除国家另有规定的外，均免征产品税、增值税。<br>    内联、驻深企业生产的在特区内销售的产品，除电力按规定征收产品税，原油、成品油、烟、酒减半征收产品税外，其他免征产品税和增值税。将已减免税的特区产品销往内地的，应补交产品税或增值税。<br>    内联、驻深圳企业生产的出口产品属于免征产品税或增值税的，其采购国产原材料、零部件以及委托加工等已缴纳的产品税、增值税、营业税，可予退还。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>从事高新技术产品开发的内联、驻深企业自行发明、研制的技术成果的转让收入，免征营业税。<br>    在全国范围内第一次试制并列入国家科委试制计划的新产品，从试制销售之日起免征产品税、增值税三年；列入国家部、委以及列入省、自治区、直辖市、计划单列市试制计划的新产品，经商得同级税务部门同意，在试制期间销售的，区别不同情况，免征产品税、增值税一年至两年。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>经深圳市人民政府批准，承担深圳市出口计划和上缴外汇任务的内联、驻深企业，可在特区退税。内联、驻深企业在特区所创外汇扣除上缴国家部分后，可根据生产所需，在特区外汇调剂市场买卖。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>内联、驻深企业有偿获得土地使用权，购买或租赁住宅、厂房、办公楼宇等，享受特区市属企业同等待遇。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>内联、驻深企业在进行股份制改造、发行债券、股票上市、期货交易等方面，与特区市属企业同等对待。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>根据生产和工作需要，内联、驻深企业中担任实职的业务管理人员，可按规定申请办理出国及赴港澳证件，其政审按干部管理权限审批。集团公司及国家部、委、办、省、自治区、直辖市计划单列市办事处主要负责人由市驻深工委政审；其他人员由集团公司及国家部、委、办、省自治区、直辖市、计划单列市办事处负责政审，直接到市外事部门办理审批手续。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>内联、驻深企业凡固定资产投资（生产设备、厂房）在二百万元人民币以上，正式开业生产经营（不含筹建试业阶段）两年以上，经济效益较好的，可为该企业符合特区有关规定的职工申办深圳市常住户口，与市属企业一样对待，指标数额由深圳市人民政府核定。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>中央各部、委、办、各省、自治区、直辖市、计划单列市、设区的市（含相当于这一级地区，下同）及广东省内各县（含不设区的市，下同），经深圳市人民政府办公厅批准均可在深圳设立办事机构，名称统一称办事处，内地各县（含不设区的市，下同）工业总产值达到五十亿元以上的，可在其上级市驻深办事处内设联络组。<br>    各省、自治区、直辖市、计划单列市、设区的市人民政府，国家各部、委、办驻特区办事处，可以申办深圳常住户口（办理集体工作户口）。二000年以前，各办理处的户口指标数额（含现有常住户口的办事处工作人员数额在内）如下：（1）省、自治区、直辖市和中央各部、委、办的办事处各为九名；（2）计划单列市的办事处为七名；（3）设区的市、广东省各县的办事处各为五名；（4）内地各县联络组两名。上述入户人员必须符合深圳市调干条件，按调干程序办理。<br><p></p><a name='12'><font class='TiaoNoA'>  十二、</font></a>本规定自发布之日起施行。《深圳经济特区关于进一步推动对内经济联合的暂行规定》（深府〔1987〕349号）同时予以废止。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

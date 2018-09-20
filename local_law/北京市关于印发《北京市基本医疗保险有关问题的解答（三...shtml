@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京医保发［2002］15号<BR>&nbsp;&nbsp;【发布日期】2002-05-14<BR>&nbsp;&nbsp;【生效日期】2002-05-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于印发《北京市基本医疗保险有关问题的解答（三）》的通知<br><br></font>(京医保发［2002］15号)</p><br><br><br>各区、县医疗保险经办机构，各定点医疗机构：<br><br>    为保证我市基本医疗保险制度改革的顺利实施，进一步加强对定点医疗机构用药、诊疗项目、服务设施的管理，经研究，现下发《北京市基本医疗保险有关问题的解答（三）》，请遵照执行。<br><br>    本通知自2002年6月1日起执行。<br><br>附件：北京市基本医疗保险有关问题的解答（三）<br><br>                                      北京市医疗保险事务管理中心<br>                                         二○○二年五月十四日<br><br>附件：北京市基本医疗保险有关问题的解答（三）<br><br>    1、在审核过程中应如何区分国产药品和进口药品？<br><br>    答：区分进口、国产药品，应以药盒或说明书上的"药品批文号"或"进口注册证号"为准。含有X、S、Z的进口注册证号的药品为进口药；含有"国药准字"、"卫药准字"、"xx卫药准字"、"ZZ-"的药品批文号的药品为国产药。<br><br>    2、药品通用名在《北京市公费医疗、劳保医疗用药报销范围》（以下简称《用药范围》）中，商品名不在医疗保险信息系统药品目录库（以下简称"药品目录库"）中的药品，应如何申请纳入医疗保险基金支付范围？<br><br>    答：定点医疗机构对药品通用名在《用药范围》里，商品名不在药品目录库中的药品，应按照北京市医疗保险事务管理中心（以下简称市医保中心）下发的《北京市基本医疗保险药品异名、诊疗项目、服务设施申报审批办法》（京医保发[2001]20号）的有关规定，向市医保中心进行申报，经专家评审确认后纳入医疗保险基金支付范围。<br><br>    3、大容量注射液（以下简称"大输液"）是否属于医疗保险基金支付范围？<br><br>    答：根据北京市劳动和社会保障局《关于规范使用〈北京市公费医疗、劳保医疗用药报销范围〉的通知》（京劳社医保发[2002]3号）的有关规定，注射用溶媒属于医疗保险基金支付范围。50ml以上的大输液，与50ml以下的同样药物组成的注射剂视为同一品种。如XXX注射液与同种药的葡萄糖注射液、氯化钠注射液应视为同一品种，可以纳入医疗保险基金支付范围。<br><br>    4、北京市劳动和社会保障局《关于进一步深化公费医疗改革有关问题的通知》（京劳社医发[2000]86号）规定"器官移植、组织移植中器官源、组织源及其相关费用公费医疗不予报销，由个人负担。"其中"相关费用"包括哪些？<br><br>    答："相关费用"是指组织源、器官源的取材费、运输费、供受双方的配型费及其它与供体有关的费用。<br><br>    5、射频电流导管消融手术费1500元，而使用的穿刺针最高可达15000元左右，医疗保险基金是否予以支付？<br><br>    答：射频电流导管消融属于医疗保险乙类支付项目，射频电流导管消融手术费、穿刺针费应分别以治疗费及一次性材料费按有关规定纳入医疗保险基金支付范围。<br><br>    6、人造血管是否属于人工器官？<br><br>    答：市物价局、卫生局《北京市统一医疗服务收费标准（合订本）》 中"术中使用特殊材料收费办法"明确规定人造血管属于人工器官类。<br><br>    7、棉签是否属于医疗保险基金支付范围？ <br><br>    答：北京市卫生局《关于再次重申禁止医院收取不合理费用的通知》（京卫物价字[1993]20号）中明确规定医疗机构不得收取棉签等低价耗材的费用，因此，医疗保险基金不予以支付棉签费用。<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京国税发〔2003〕195号<BR>&nbsp;&nbsp;【发布日期】2003-07-31<BR>&nbsp;&nbsp;【生效日期】2003-07-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市国家税务局转发国家税务总局关于重新修订<br>《增值税一般纳税人纳税申报办法》的通知的通知<br><br></font>(京国税发〔2003〕195号)</p><br><br><br>各区、县国家税务局，各直属分局：<br><br>    现将《<a href=javascript:ROF(86674,0) class=alink>国家税务总局关于重新修订〈增值税一般纳税人纳税申报办法〉的通知</a>》（国税发[2003] 53号，以下简称《申报办法》）转发给你们，并结合实际情况补充通知如下，请一并贯彻执行。<br><br>    一、各局应加强组织领导，认真做好《申报办法》的宣传、培训、辅导及贯彻实施工作，并结合总局和市局关于推行增值税一般纳税人（以下简称一般纳税人）纳税申报电子信息采集系统的统一时间安排，做好一般纳税人纳税申报电子信息采集系统的推行工作。<br><br>    我市一般纳税人（含外商投资企业和外国企业，下同）在办理增值税纳税申报时，均执行本办法。<br><br>    二、一般纳税人在办理纳税申报时，必须报送如下纳税申报资料：<br><br>    （一）《增值税纳税申报表（适用于增值税一般纳税人）》及《增值税纳税申报附列资料（表一）、（表二）、（表三）、（表四）》；<br><br>    （二）使用防伪税控系统的纳税人，必须报送记录当期纳税信息的IC卡（明细数据备份在软盘上的纳税人，还须报送备份数据软盘）、《增值税专用发票存根联明细表》及《增值税专用发票抵扣联明细表》；<br><br>    （三）《资产负债表》和《损益表》；<br><br>    （四）《成品油购销存情况明细表》、《加油站月销售油品汇总表》和《加油站  月份加油信息明细表》（发生成品油零售业务的纳税人填报，其中《加油站月销售油品汇总表》和《加油站  月份加油信息明细表》的样式仍按京国税发[2002]117号文件规定执行）；<br><br>    三、实行出口货物增值税免、抵、退税管理办法的一般纳税人，在办理纳税申报时，应随同纳税申报资料报送退税机关确认的上期《生产企业出口货物免、抵、退税申报汇总表》（《生产企业出口货物免、抵、退税申报汇总表》的样式及报送要求仍按京国税发[2002]101号文件规定执行）；<br><br>    四、《申报办法》第三条第（二）款规定的备查资料不随纳税申报资料报送。<br><br>    五、实行不同纳税申报方式的一般纳税人均应在纳税申报期内，按如下要求及时将纳税申报资料报送主管税务机关：<br><br>    （一）实行纳税申报电子信息采集系统的一般纳税人，应报送《申报办法》第三条第（一）款规定的全部必报资料的电子数据和本通知第二条第（一）、（四）款规定的纳税申报资料的纸介资料；<br><br>    （二）尚未实行纳税申报电子信息采集系统的一般纳税人，应报送《申报办法》第三条第（一）款第2项规定的必报资料的电子数据和本通知第二条第（一）、（三）、（四）款规定的纳税申报资料的纸介资料。<br><br>    一般纳税人报送的纸介资料应一式三份，税务机关签收后，一份退还纳税人，另两份税务机关留存。<br><br>    六、一般纳税人在装订征税单证和扣税单证时，应分别使用《征税单证汇总簿封面》和《扣税单证汇总簿封面》（样式仍按京国税[1999]090号文件规定执行）。《申报办法》第三条第（二）款第1、5项规定的备查资料，使用《征税单证汇总簿封面》装订；第2、3、4项规定的备查资料，使用《扣税单证汇总簿封面》装订。<br><br>    七、《成品油购销存情况明细表》中“油品型号”栏，按照《成品油油品型号对照表》进行填写，仅填写成品油代码。（《成品油油品型号对照表》附后）<br><br>    八、《增值税纳税申报表（适用于增值税一般纳税人）》、《增值税纳税申报附列资料（表一）、（表二）、（表三）、（表四）》、《成品油购销存情况明细表》、《加油站月销售油品汇总表》、《加油站  月份加油信息明细表》、《征税单证汇总簿封面》和《扣税单证汇总簿封面》由市局统一印制。<br><br>    九、各局执行本通知的具体时间安排如下：<br><br>    （一）东城、宣武、朝阳、海淀、怀柔、涉外6个区县局和直属分局，自税款所属期2003年9月1日起开始执行；<br><br>    （二）其他16个区县局和直属分局，自税款所属期2003年10月1日起开始执行。<br><br>    十、各局应按照本通知要求并结合市局推行《申报办法》具体时间安排，认真做好新、旧申报数据的转换工作。（《推行新〈增值税一般纳税人纳税申报办法〉应准备相关数据情况统计表》附后）<br><br>    十一、各局在执行中发现的问题应及时研究解决并报告市局。<br><br><br>                        二OO三年七月三十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

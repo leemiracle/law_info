@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】83003<BR>&nbsp;&nbsp;【发布文号】琼财税[1994]所字第393号<BR>&nbsp;&nbsp;【发布日期】1994-01-01<BR>&nbsp;&nbsp;【生效日期】1994-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>海南省财政税务厅关于企业所得税、<br>
+个人所得税若干政策问题的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1994年12月6日<br>
+ 琼财税（1994）所字第393号）</font></p><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>关于企业所得税纳税单位问题<br>    在我省内举办的企业，除国家税务总局特案规定由总公司、集团公司汇总缴纳所得税的企业外，其他各类企业一律以独立经济核算单位作为企业所得税的纳税单位，就地征收所得税。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>关于对帐册不健全的企业，如何征收企业所得税问题<br>    企业所得税的纳税人，不能提供完整、准确的收入及成本、费用凭证，不能正确计算应纳税所得额的，其应纳的企业所得税采取带征的方法征收。其起征点和带征率如下：<br>    （一）起证点<br>    从事销售货物的起征点。海口、三亚市市区为月销售额二千元，郊区乡镇为月销售额一千元；其他市县的市区、县城为月销售额一千元，乡镇为月销售额六百元。<br>    从事其他行业的起征点。海口、三亚市市区为月营业额（收入额）八百元，郊区乡镇为月营业额（收入额）六百元；其他市县的市区，县城为月营业额（收入额）六百元，乡镇为月营业额（收入额）四百元。凡款达起征点的，免征企业所得税。<br>    （二）带征率<br>    从事工业、商业、交通运输业的，带征率为1．5％；从事装修、装璜、饮食、娱乐业的为2．5％；从事建筑安装及其他行业的2％。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>关于集体、私营盐场恢复征税问题<br>    对乡镇举办的集体所有制盐场和私营企业、个体工商户、个人经营的盐场，从一九九四年一月一日起，分别恢复征收企业所得税和个人所得税。对于新办的企业，可按《海南省人民政府关于鼓励投资的税收优惠办法》，给予减、免企业所得税优惠照顾。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>关于企业所得税计税标准执行问题<br>    我厅下发的《海南经济特区内资企业所得税计税标准暂行规定》与国家规定的企业所得税计税标准不一致时，暂按照“哪一个优惠执行哪一个”的原则执行。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>关于减免、豁免企业所得税审批权限问题<br>    从一九九四年一月一日起，除国家税务总局、《海南省人民政府关于鼓励投资的税收优惠办法》及省财税厅明文规定可由各市、县税务局审批的所得税，减免、豁免权限外，其他的减免、豁免企业所得税一律上报省财税厅（局）审批。省厅琼财税（89）所字第64号文同时废止。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>关于个人转让债券、基金取得的所得税问题<br>    个人转让债券、基金券取得的所得，在今明两年内暂免征个人所得税。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>关于残疾、孤老人员和烈属取得所得免征税问题<br>    对残疾、孤老人员和烈属所取得的生产经营所得，经当地税务征收机关核准，可给予免征个人所得税照顾。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>关于个人受严重自然灾害造成严重经济损失的，给予减免税照顾问题<br>    个人因受严重自然灾害，造成严重经济损失的，其取得的应税所得，可由本人提出申请经税务机关逐级审核，上报省财税厅批准，在一年内给予减征或免征个人所得税。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>关于企事业单位或个人出资房主建造房屋，然后使用若干年内房主免收其租金，如何征收个人所得税问题<br>    企事业单位或个人出资替房主建造房屋，然后使用若干年内房主免收其租金，此实际上是租房者将若干年内应付给房主的租金提前一次性支付，因此，房主取得的房租收入应缴纳个人所得税。其计算公式为：<br>    房主每月应缴纳的个人所得税等于企事业单位或个人的出资额除于单位或各人与房主鉴订的合同规定免收租金的月份数减去按规定缴纳的税金和教育附加费减去按规定允许扣除的房屋修缮费用减去法定扣除费用，然后再乘以税率。<br>    房屋修缮费用按每月房租收入的20％给予扣除。国家税务总局国税发（1994）089号文［我厅琼财税（1994）所字第25号文转发］第六款第二项的规定不再执行。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>关于个人取得的承包、承租经营收入征税问题<br>    个人取得的承包、承租经营收入，应区别不同情况和项目，分别征收个人所得税。（一）、凡是承包、承租人对其承包、承租经营企事业单位的生产经营成果不拥有所有权，而仅是在完成各项指标后，按合同规定取得一定数额的奖金。此种所得属于工薪所得应税项目，按该奖金所属月份平均，并入本人在当月工薪所得计征个人所得税。（二）、凡是承包、承租人对其承包、承租经营企事业单位的生产经营成果拥有所有权，而按规定只向发包、出租方上交一定数额的收入。上交后如仍有余额，则为承包、承租人的个人所得，属于承包、承租经营所得应税项目，按税法规定征收个人所得税。承包、承租人的帐册不健全的，按省厅琼财税（1994）所字第145号文规定带征个人所得税。<br><p></p><a name='11'><font class='TiaoNoA'>  十一、</font></a>关于对集体承包、承租经营但无帐可查，如何征收个人所得税问题<br>    集体（即若干人）对企事业单位或企事业单位下属的单位进行承包、承租经营，只上交一定的管理费，其余所得归承包人所有，且无帐可查的，其承包收入可按承包人数平均按省厅琼财税（1994）所字第145号文第一款规定的起征点和带征率，带征个人所得税。<br><p></p><a name='12'><font class='TiaoNoA'>  十二、</font></a>关于流动性演员取得的演出收入征税问题<br>    流动性演员在海南省内取得的演出收入，实行按日（次）收入征收个人所得税的方法。即演员每日（次）取得收入，在一百三十元以上的（含一百三十元），可扣除20％费用，按规定征收个人所得税；每日（次）取得的收入，在一百八十三元以下的，每日（次）取得的演出收入扣除三十元，剩余部分按20％税率征收个人所得税。对演员一次取得的演出收入超过二万元的，除了按上述规定征收个人所得税外，还要按《中华人民共和国个人所得税实施条例》第十一条的规定加成征收个人所得税。演员应缴纳的个人所得税由支付款的单位或个人在支付款时代扣代缴。演员应按月自行申报纳税。对于按日（次）已经预收的税款，可按规定进行多退少补。<br><p></p><a name='13'><font class='TiaoNoA'>  十三、</font></a>上述规定自一九九四年一月一日起执行，过去有关规定与本规定有抵触的，以本规定为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

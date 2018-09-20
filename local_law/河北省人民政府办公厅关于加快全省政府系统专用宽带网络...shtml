@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】办字[2003]9号<BR>&nbsp;&nbsp;【发布日期】2003-02-19<BR>&nbsp;&nbsp;【生效日期】2003-02-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府办公厅<br>关于加快全省政府系统专用宽带网络平台建设的通知<br><br></font>(办字[2003]9号)</p><br><br><br>    各设区市人民政府，省政府各部门： <br><br>    根据《国务院办公厅关于印发全国政府系统政务信息化建设2001―2005年规划纲要的通知》（国办发〔2001〕25号）和《河北省人民政府办公厅关于印发河北省政府信息化规划建设2001―2005年规划纲要的通知》（办字〔2001〕33号）的要求，现将建设全省政府系统专用宽带网络平台（以下简称全省政府系统网络平台）有关问题通知如下： <br><br>    一、全省政府系统网络平台分省直横向网和省市垂直网两个部分，并通过核心网环与省委、省人大、省政协网络相联。该网是我省电子政务建设的基础网络。全省政府系统网络平台建设工作从今年2月中旬正式开始实施，预计5月底基本结束，完成联网单位为141个省直部门和11个设区市政府。各市、各部门要高度重视，加强领导，确保按时完成任务。 <br><br>    全省政府系统网络平台建设工作，由省政府办公厅统一制定网络建设方案并组织实施。该网络通信环境由河北省通信公司负责统一建设。 <br><br>    二、全省政府系统网络平台的建设资金和通信租用费，省财政拨付正常公用经费的单位，由省财政统一支付。其余部门和各市政府自行负责网络建设资金和通信租用费。 <br><br>    三、全省政府系统网络平台内部地址由省政府办公厅负责统一划分。各单位原则上应采用统一划分的网络地址。对于已经建成内部办公网并且与上下部门相联的单位，与全省政府系统网络平台的联接暂时采用地址映射的方式。今后再根据国家电子政务建设的要求，逐步统一地址划分。 <br><br>    四、省政府办公厅会同省有关部门统一负责全省网络的安全保密管理工作。按照国家有关规定根据应用工作的发展，适时组织安全保密的建设工作。 <br><br>    全省政府系统网络平台与国际互联网物理隔离。为保证网络的通畅，各联网单位在办公内网加装各种逻辑隔离设备的同时，要保持与全省政府系统网络平台的透明联接。联网部门可在本单位办公内网上设逻辑隔离区。全省政府系统网络平台原则上不与非政府部门的业务网相联，以保证双方网络的安全。对于本单位业务安全要求较高的部门，应设立单独的局域网或在原有网络中分离部分信息接口与全省政府系统网络平台联接。 <br><br>    五、全省政府系统网络平台建设工作完成后，各单位要先期开通收文办文、会议、信息简报、值班、提案议案、督办、综合材料等工作岗位和有关内设处室与全省政府系统网络平台的联接，以保证下一步应用工作的开展。 <br><br>    省政府办公厅将适时组织电子公文交换、视频会议、公文流转、内部网站等各种应用工作。同时组织一些重点部门在全省政府系统网络平台上的应用工作。各市、各部门要积极筹划本部门业务系统的建设，重点开展一些综合性较强的应用工作。 <br><br>    各设区市人民政府在完成全省政府系统网络平台建设任务的情况下，适时考虑本级政府的网络平台建设，为保证网络的统一管理、网络联接效率和减少基础性投资，原则上依托河北通信公司的通信平台进行网络建设工作。根据《中共中央办公厅、国务院办公厅关于转发〈国家信息化领导小组关于我国电子政务建设指导意见〉的通知》（中办发〔2002〕17号）精神，电子政务网络平台的具体工作由各级政府办公厅（室）负责。 <br><br>                                   二○○三年二月十九日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80802<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1998-11-03<BR>&nbsp;&nbsp;【生效日期】1998-11-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>黑龙江省人民政府办公厅、黑龙江省统计局、黑龙江省<br>
+ 人民政府农业普查办公室转发省统计局、省农业普查<br>
+ 办公室关于在全省进行农业普查与农业统计报表<br>
+ 数据衔接工作的报告的通知</font></p><p align='center'><font class='STitle'>（附报告）<br>
+（黑政办发〔1998〕62号1998年11月3日）</font></p>各行政公署，各市、县人民政府，省政府各有关直属单位：<br>    经省政府同意，现将省统计局、省农业普查办公室《关于在全省进行农业普查与农业统计报表数据衔接工作的报告》转发给你们，请认真贯彻执行。<br><br>         关于在全省进行农业普查与农业统计报表数据衔接工作的报告<br><br>省政府：<br>    我省第一次全国农业普查工作，在省委、省政府的正确领导和全国农业普查办公室、国家统计局的直接指导下，经全省上下近3年的共同努力，取得了圆满成功，获得了大量翔实的农村社会经济调查数据，其成果得到了各级政府和各方面的认同，为摸清我省农村和农业的家底，正确认识省情，制定农村和农业社会经济发展规划，推动建设农业强省战略的实施，提供了可靠依据。但是，经过与农业普查结果的对比验证，由于多种因素影响和长期的积累，我省部分农业统计报表数据偏离实际的问题在各地普遍存在。据我们初步测算，我省农业普查数据与1996年农业统计年报数据相比，农村劳动力多70．2％；耕地面积多28．6％；有效灌溉面积少7．9％；农机除大中型拖拉机少1．6％外，其它农机的数量均多于平时的统计；畜牧业的牲畜存、出栏数量均约少30％左右；非农乡镇企业总数少69．2％，其中乡镇办少37．4％，村办少58．8％。这样的问题若长期存在，必然会导致各级领导在判断形势、分析问题、研究对策、进行决策时的失误，必须尽早纠正。<br>    为巩固和开发利用农业普查成果，解决农业统计报表数据与实际存在偏差的问题，实事求是地反映农村社会经济的发展变化，国家统计局、全国农业普查办公室1997年末就做出工作部署，明确要求各地在农业普查基本工作完成之后，进行农业普查与农业统计报表数据的衔接，以农业普查数据为基础，调整农业统计报表数据。按照国家统计局、全国农业普查办公室的部署和要求，现将我省进行农业普查与农业统计报表数据衔接工作（以下简称“两数”衔接）的意见报告如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>“两数”衔接严格执行国家的规定和要求，实行“三个统一”<br>    搞好“两数”衔接，全省必须按照国家的要求，结合我省实际，实行“三个统一”，并在此基础上做好今后的农业统计工作，防止农业统计数据虚假反弹现象发生。<br>    （一）统一原则。即统一遵循国家统计局、全国农业普查办公室以农业普查数据为基础，调整农业统计报表数据的原则。<br>    （二）统一方法、内容和标准。全省统一要求按照自上而下，以上为主的方法，即由省测算地市数据，地市测算县（市）数据，县（市）测算乡（镇）数据，然后一级负责一级，自上而下逐级审核认定验收。衔接内容包括农业普查与1996年农业统计年报共有的全部指标，以及根据衔接数据重新核算的相关统计指标数据，修正1997年、1998年和1996年以前一段历史时期的农业统计报表数据。计算标准由各业务部门制定，全省统一执行。<br>    （三）统一工作时间。“两数”衔接工作在时间上分两个阶段：第一阶段，自现在起至今年底，完成1996年的“两数”衔接和1997年农业统计报表数据的调整，1998年农业统计年报在此基础上进行；第二阶段，在明年上半年完成1996年以前历史数据的修正。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>“两数”衔接实行专业分工、落实责任，分头负责<br>    农业统计是由多个部门共同完成的，为了便于各部门今后的工作，防止扰乱专业部门统计工作体系和统计资料系统，“两数”衔接工作应本着谁统计谁负责衔接的办法进行分工，由各有关部门按照统一的原则和要求，组织力量完成这项工作。按照统计的专业内容，各有关部门分工如下：<br>    省水利厅负责全省有效灌溉面积等有关水利建设统计指标数据的衔接；<br>    省土地局负责全省耕地和其它农业用地等统计指标数据的衔接；<br>    省农机局负责农机统计指标数据的衔接；<br>    省乡企局负责乡镇企业统计指标数据的衔接；<br>    省农垦总局、省监狱局、省劳教局负责本系统“两数”衔接，并配合省统计局、省农业普查办公室搞好全省“两数”衔接；<br>    省统计局负责全省畜牧业（省畜牧局配合）、农村基本情况、农林牧渔业总产值、增加值等统计指标数据的衔接；<br>    省农业普查办公室负责提供农业普查数据资料和农业普查业务咨询。<br>    各业务部门在衔接工作完成后，将衔接成果上报主管部门的同时，报送同级统计局，再由各级统计局报送省统计局。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>提高认识，加强领导，周密部署<br>    进行“两数”衔接，调整和修正农业统计报表数据，不单纯是统计业务问题，也是一个全社会关注的政治问题，涉及到各个方面。各级政府和有关业务部门必须端正态度，从讲政治、讲大局出发，把做好这项工作的意义提到坚持党的实事求是原则，贯彻执行《中共中央办公厅国务院办公厅<a href=javascript:ROF(29843,0) class=alink>关于坚决反对和制止在统计上弄虚作假的通知</a>》（中办发〔1998〕7号）精神的高度来认识。<br>    “两数”衔接是一项复杂细致的工作，专业性、技术性很强，各级政府和有关部门必须加强领导，主要领导要挂帅，主管领导要将这项工作列入重要日程，直接参与，认真组织实施；要抽调得力人员，召开专门会议，按照全省统一要求，进行周密布置和技术培训；要为衔接工作创造良好的工作条件，保证在要求时间内，保质保量地完成工作任务；要加强对基层衔接工作的检查指导，发现问题及时纠正解决。<br>    “两数”衔接工作在省政府的直接领导下，由省统计局、省农业普查办公室牵头，负责对这项工作的组织协调、指导和检查验收。各有关部门要按照工作分工，密切配合。各地市县的工作参照省里的工作方式进行。各地、各有关部门必须严肃对待这项工作，认真执行全省统一规定和要求，对在衔接工作中自行其是、弄虚作假的，要依据《<a href=javascript:ROF(25357,0) class=alink>统计法</a>》严肃查处。<br>    以上报告如无不妥，请批转各地、各有关部门贯彻执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

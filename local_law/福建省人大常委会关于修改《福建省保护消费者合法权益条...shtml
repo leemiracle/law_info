@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81301<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1990-07-03<BR>&nbsp;&nbsp;【生效日期】1990-07-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民代表大会常务委员会关于修改<br>
+ 《福建省保护消费者合法权益条例》的决定<br>
+</font></p><p align='center'><font class='STitle'>（1990年7月3日福建省第七届人民代表大会<br>
+常务委员会第十五次会议通过）</font></p>    《福建省保护消费者合法权益条例》（以下简称条例）于1987年9月4日颁发、同年12月1日实施以来，有力地制止了制售伪劣商品的不法行为，保护了消费者合法权益。但是，随着我国有计划的社会主义商品经济的发展，《条例》的某些条款需要进行修改的补充。根据我省的实际情况，决定对《条例》作如下修改：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>第十八条增加一款，“生产经营者对消费者委员会的仲裁或行政管理部门的处理，应当执行，逾期不执行又不向人民法院起诉的，由作出仲裁决定的消费者委员会或作出处理决定的行政管理部门向人民法院申请强制执行。”<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>增加一条，即第二十一条（原第二十一条第二十二条分别顺延为第二十二条、第二十三条）：“农村消费者为发展农副业生产，有偿获得农业生产资料和接受相关服务，由此与生产经营者发生纠纷的，适用本条例规定。”<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>原《条例（草案）说明》规定：“消费者委员会所仲裁的案件，目前只宜限定在五千元以下的小额经济纠纷。”现修改为：“消费者委员会所仲裁的案件，限定在一万元以下的小额经济纠纷。”关于商品房质量纠纷的案件金额不受此限。”<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>将福建省消费者委员会于1988年制定并报省人大常委会审议备案的《福建省消费者委员会小额投诉仲裁办法》、《福建省消费者委员会代表起诉办法》和《福建省消费者委员会质询办法》等三个实施办法作为《条例》的附件。<br><br>附件：<br>                 《福建省保护消费者合法权益条例》附1：<br>                   福建省消费者委员会小额投诉仲裁办法<br><br><p></p><a name='5'><font class='TiaoNoA'>  第一条</font></a>  根据《福建省保护消费者合法权益条例》，制定本办法。<br><p></p><a name='6'><font class='TiaoNoA'>  第二条</font></a>  消费者小额投诉，限于单项商品或者服务的价格在一万元以内；关于商品房质量纠纷的案件金额不受此限。<br><p></p><a name='7'><font class='TiaoNoA'>  第三条</font></a>  本省县级（含县级）以上的消费者委员会，设仲裁委员会，办理消费者的小额投诉。<br><p></p><a name='8'><font class='TiaoNoA'>  第四条</font></a>  仲裁委员会对小额投诉，应当先行调解；调解不成的，进行仲裁。仲裁实行一次裁决制度。<br><p></p><a name='9'><font class='TiaoNoA'>  第五条</font></a>  当事人委托他人代理投诉的，必须向仲裁委员会提交委托书。委托书要记明委托事项和权限。<br><p></p><a name='10'><font class='TiaoNoA'>  第六条</font></a>  消费者一方，三人以上联合投诉，可以推举代表代理。<br><p></p><a name='11'><font class='TiaoNoA'>  第七条</font></a>  小额投诉由销售或服务地的仲裁委员会管辖。<br><p></p><a name='12'><font class='TiaoNoA'>  第八条</font></a>  当事人一方申请仲裁，另一方向人民法院起诉，法院已立案的，仲裁委员会不予受理。<br><p></p><a name='13'><font class='TiaoNoA'>  第九条</font></a>  仲裁委员会由主任、副主任和委员若干人组成。<br><p></p><a name='14'><font class='TiaoNoA'>  第十条</font></a>  仲裁委员会必须设专职仲裁员。还可以聘请专业技术人员和法律工作者担任兼职仲裁员。兼职仲裁员和专职仲裁员在仲裁时享有同等权利。<br><p></p><a name='15'><font class='TiaoNoA'>  第十一条</font></a>  小额投诉，一般由仲裁员一人裁决。<br>    必要时，由仲裁员二人和仲裁委员会指定的首席仲裁员一人组成仲裁庭裁决。<br>    仲裁庭评议案件，实行少数服从多数的原则。<br>    疑难案件的处理，可以提交仲裁委员会讨论决定。<br>    办理案件，要由书记员制作笔录，仲裁员签名。评议中有不同意见，必须如实记录。<br><p></p><a name='16'><font class='TiaoNoA'>  第十二条</font></a>  仲裁人员与投诉有利害关联，应当申请回避。当事人有权要求与投诉有利害关联的仲裁人员回避。<br>    首席仲裁员的回避，由仲裁委员会主任决定；仲裁员的回避，由首席仲裁员决定。<br><p></p><a name='17'><font class='TiaoNoA'>  第十三条</font></a>  投诉人应当递交申请书及副本。<br>    申请书应当写明投诉方和被诉方的姓名或名称、住址；申请的理由和要求；证据、证人姓名和住址。<br><p></p><a name='18'><font class='TiaoNoA'>  第十四条</font></a>  投诉申请符合本办法，仲裁委员会应当在十日内立案；不符合的，在十日内通知投诉方不予受理，并说明理由。<br>    立案后，应当在四十五日以内进行调查、调解或者仲裁。疑难案件，经上一级消费者委员会批准，可延长十五天。<br><p></p><a name='19'><font class='TiaoNoA'>  第十五条</font></a>  仲裁委员会应当在受理投诉的三日内，将申请书副本送达被诉方；被诉方收到申请书副本后，应当在三日内提交答辩书和有关证据。<br><p></p><a name='20'><font class='TiaoNoA'>  第十六条</font></a>  仲裁委员会有权就投诉事项调查取证，有关单位应当如实地提供材料，出具证明。<br>    需要进行技术鉴定的，受托单位要按相应标准认真鉴定，出具鉴定报告。<br><p></p><a name='21'><font class='TiaoNoA'>  第十七条</font></a>  仲裁庭在开庭前三天，应当将开庭时间、地点，以书面方式通知当事人，经两次通知，当事人无正当理由拒不到庭的，可作缺席仲裁。<br><p></p><a name='22'><font class='TiaoNoA'>  第十八条</font></a>  仲裁决定书应当写明：<br>    （一）投诉方和被诉方的姓名和名称、地址及其代表人或者代理人姓名、职务、地址；<br>    （二）申请的理由、争议的事实和要求；<br>    （三）裁决认定的事实、理由和适用的法律、法规；<br>    （四）裁决的结果和仲裁费用的负担；<br>    （五）不服裁决的起诉期限。<br>    仲裁决定书由仲裁员署名，加盖仲裁委员会的印章。<br>    双方当事人对裁决内容当即履行的，可不制作仲裁决定书，但要记录在案。<br><p></p><a name='23'><font class='TiaoNoA'>  第十九条</font></a>  当事人一方或者双方对仲裁不服的，在收到仲裁决定书之日起十五日内，可向人民法院起诉；逾期不起诉的，仲裁决定书即发生法律效力。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十条</font></a>  上级仲裁委员会对下级仲裁委员会已经发生法律效力的裁决，在裁决之日起六个月以内发现有错误的，有权撤销原裁决指令重新裁决。<br>    重新裁决案件，应当另行组成仲裁庭进行。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十一条</font></a>  当事人对调解和发生法律效力的仲裁决定，应当在规定的期限内履行。逾期不履行，仲裁委员会可申请有关行政管理部门协助执行。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十二条</font></a>  当事人应当交纳仲裁费。仲裁费包括案件受理费和案件处理费。<br>    案件受理费由投诉人按以下标准交纳：<br>    （一）投诉标的100元以上至500元（含500元）的，交纳5元；<br>    （二）投诉标的500元以上至1000元的，交纳10元；<br>    （三）投诉标的1000元以上至5000元的，交纳20元；<br>    （四）投诉标的100元（含100元）以下的，按标的百分之五交纳受理费。<br>    案件处理费（包括鉴定费、测试费、旅差费和证人的误工补贴等）按实际开支收取。<br>    仲裁费由投诉人预交。<br>    案件处理终结，仲裁费由败诉人承担；当事人部分胜诉，部分败诉的，按比例分担。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十三条</font></a>  经仲裁庭调解达成协议的，仲裁费由当事人双方协商分担。<br><p></p><a name='28'><font class='TiaoNoA'>  第二十四条</font></a>  本办法自公布之日起施行。<br><br>附件：<br>                    《福建省保护消费者合法权益条例》<br>                 附件2：福建省消费者委员会代表起诉办法<br><br><p></p><a name='29'><font class='TiaoNoA'>  第一条</font></a>  根据《福建省保护消费者合法权益条例》，制定本办法。<br><p></p><a name='30'><font class='TiaoNoA'>  第二条</font></a>  本省县级以上（含县级）的消费者委员会，可以支持或代表不特定多数的消费者，对损害消费者合法权益的生产经营者，向人民法院提起诉讼。<br><p></p><a name='31'><font class='TiaoNoA'>  第三条</font></a>  消费者委员会行使代表起诉权，须经消费者委员会全体会议批准。在全委会闭会期间，须经常务委员会批准，必要时，消费者委员会会长也可批准，但必须在行使代表起诉权之后三日以内，向常委会作出书面报告。<br><p></p><a name='32'><font class='TiaoNoA'>  第四条</font></a>  消费者委员会委员三人以上联名，可以向消费者委员会提出行使代表起诉权的建议，建议应用书面形式。建议书应当写明：<br>    （一）建议人姓名、地址、单位、职务；<br>    （二）被诉方姓名或单位名称、地址；<br>    （三）建议的理由和要求，以及所依据的有关法律、法规规定；<br>    （四）证据、证人姓名和地址。<br><p></p><a name='33'><font class='TiaoNoA'>  第五条</font></a>  消费者委员会代表消费者向人民法院起诉的案件，必须具备下列条件。<br>    （一）受侵害的必须是不特定多数的消费者；<br>    （二）消费者未以不特定多数的消费者的名义向人民法院起诉；<br>    （三）有关行政管理部门尚未作出处理或处理不当的；<br>    （四）案件的主要事实基本清楚。<br><p></p><a name='34'><font class='TiaoNoA'>  第六条</font></a>  消费者委员会代表消费者起诉，应当由法定代表人或法定代表人委托的代理人进行。<br><p></p><a name='35'><font class='TiaoNoA'>  第七条</font></a>  消费者委员会对需要追究当事人刑事责任的案件，应当向有管辖权的人民检察院控告。<br><p></p><a name='36'><font class='TiaoNoA'>  第八条</font></a>  本办法自公布之日起施行。<br><br>附件：<br>                    《福建省保护消费者合法权益条例》<br>                    附3：福建省消费者委员会质询办法<br><br><p></p><a name='37'><font class='TiaoNoA'>  第一条</font></a>  根据《福建省保护消费者合法权益条例》，制定本办法。<br><p></p><a name='38'><font class='TiaoNoA'>  第二条</font></a>  本省县级以上（含县级）的消费者委员会，就涉及保护消费者合法权益的问题，可以对行政管理部门提出质询。<br><p></p><a name='39'><font class='TiaoNoA'>  第三条</font></a>  消费者委员会行使质询权须经消费者委员会全体会议批准。在全委会闭会期间，须经常务委员会三分之二以上委员通过。<br><p></p><a name='40'><font class='TiaoNoA'>  第四条</font></a>  消费者委员会委员三人以上联名，可以向消费者委员会提出行使质询权的建议。建议应用书面形式，建议书应当写明：<br>    （一）建议人姓名、地址、单位、职务；<br>    （二）被质询方名称、地址；<br>    （三）建议的理由和要求，以及所依据的有关法律、法规规定；<br>    （四）证据、证人姓名和地址。<br><p></p><a name='41'><font class='TiaoNoA'>  第五条</font></a>  具有下列情形之一的，消费者委员会可以行使质询权：<br>    （一）有关的行政管理部门及其工作人员，对有关保护消费者合法权益的投诉案件，拒不受理或久拖不决的；<br>    （二）妨碍消费者委员会依法执行公务的；<br>    （三）其它不依照法律、法规履行保护消费者合法权益职责的。<br><p></p><a name='42'><font class='TiaoNoA'>  第六条</font></a>  消费者委员会认为需要对上级政府的行政管理部门及其工作人员进行质询的，应当以书面形式向上级消费者委员会提出质询建议，由上级消费者委员会进行质询。<br><p></p><a name='43'><font class='TiaoNoA'>  第七条</font></a>  消费者委员会行使质询权应当递交质询书。写明质询事由，要求答复的问题和时间，并且加盖公章。<br><p></p><a name='44'><font class='TiaoNoA'>  第八条</font></a>  被质询单位应当在接到质询书之日起十五日内作出书面答复。<br><p></p><a name='45'><font class='TiaoNoA'>  第九条</font></a>  被质询单位无正当理由拒绝接受质询的，消费者委员会要及时向上级消费者委员会和被质询单位的上级机关报告。必要时，可以公开揭露批评。<br><p></p><a name='46'><font class='TiaoNoA'>  第十条</font></a>  本办法自公布之日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

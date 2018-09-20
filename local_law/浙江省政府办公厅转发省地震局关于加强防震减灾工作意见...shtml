@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81102<BR>&nbsp;&nbsp;【发布文号】浙政办发[1994]140号<BR>&nbsp;&nbsp;【发布日期】1994-07-15<BR>&nbsp;&nbsp;【生效日期】1994-07-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 浙江省人民政府办公厅转发省<br>
+地震局关于加强防震减灾工作意见的通知<br>
+</font></p><p align='center'><font class='STitle'>（浙政办发＜1994＞140号）</font></p>各市、县人民政府，各地区行政公署，省政府直属各单位：<br>    省地震局《关于加强防震减灾工作的意见》已经省人民政府同意，现转发给你们，请结合当地实际贯彻执行。<br><br>                                                  浙江省人民政府办公厅<br>                                                  一九九四年七月十五日<br><br>                       关于加强防震减灾工作的意见<br><br>省人民政府：<br>    《国务院办公厅转发国家地震局关于1994年地震趋势和防震减灾工作意见报告的通知》（国办发＜1994＞36号），对我国今后地震活动的总趋势作出了预测，并根据我国经济和社会发展的需要提出了防震减灾的目标。为进一步推动我省防震减灾工作，坚持经济建设同减灾一起抓，保证经济发展和社会稳定，现提出以下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>我省防震减灾工作的目标<br>    根据国家制定的我国大中城市经过十年的努力抗御六级左右的地震的防震减灾目标，结合我省的实际情况与历史上的震害特点，十年内我省防震减灾工作的具体目标是：<br>    （一）对本省范围内发生的5至6级破坏性地震，防震减灾主管部门力争在震前向政府报告，做到灾前早知道，早准备。<br>    （二）本省范围内如发生5至6级的破坏性地震，省内大中城市不致遭受严重破坏；城市的生命线工程、交通枢纽及其它重大工程基本上完好无损；新建工业与民用建筑基本无严重损坏；不发生严重的人员伤亡。<br>    （三）本省邻区发生7级以上强烈破坏性地震时，省内大中城市基本完好；主要工业与民用建筑，特别是高层建筑，大跨度工程设施，不会有大的损坏；基本无直接人员伤亡。<br>    （四）本省局部地区发生小震群活动时，震区的人民生活、经济建设基本上不受影响，不会由于恐震心理导致人身意外伤亡。<br>    （五）发生地震误传、谣传事件时，各级政府和防震减灾管理部门能及时做好工作，保证正常的社会和生活秩序。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>加强我省防震减灾工作的意见<br>    为实现上述我省防震减灾工作目标，必须从以下几方面加强防震减灾工作：<br>    （一）提高对防震减灾工作的认识，切实加强对防震减灾工作的领导。<br>    我国大陆地区地震活动目前已处于地震活跃期的前期，并可能逐步步入高潮活动，虽然我省历史上较少遭受破坏性地震，但也不能排除少震区突发破坏性地震的可能性，因此，必须提高各级领导和社会公众对防震减灾重要性的认识。各级政府要切实加强对防震减灾工作的领导，将防震减灾工作落到实处。设有地震管理机构的市，要加强地震工作队伍的建设，保证必要的防震减灾经费投入，做好城市防震减灾工作。<br>    省地震主管部门要从法规、规划、监测预报、震害预测、抗震设防标准、宣传教育、科学研究以及地震应急等方面，加强对全省防震减灾工作的管理。各有关部门应给予积极支持与配合。<br>    （二）严格把握抗震设防标准，加强工程建设场地地震安全性评价工作。<br>    各地、各部门，尤其是设计、建设单位应严格执行经省政府同意的省地震局、省城乡建设厅《关于转发国家地震局、建设部发布的＜中国地震烈度区划图（1990）＞和＜中国地震烈度区划图（1990）使用规定＞的通知》（浙震＜1993＞25号），严格把握工程建设的抗震设防标准，共同把关做好地震安全设防工作。除一般工业与民用建筑外，凡地震设防要求高于中国地震烈度区划图（1990）设防标准的重大工程、特殊工程、可能产生严重次生灾害的工程和位于地震烈度区分界线附近的新建工程，以及新建设开发区和跨不同工程地质条件区域的大型厂矿企业等，均应在建设项目可行性分析阶段进行专门的地震安全性评价。建议成立省地震安全性评定委员会（由省地震局另行发文），负责审定我省范围内的地震安全性评价结果。由省地震部门会同有关部门制订我省工程建设场地地震安全性评价管理办法，并归口管理全省工程建设场地的地震安全性评价工作。<br>    （三）制定地震应急预案，做到有备无患。<br>    为了在发生破坏性地震时高效而有秩序地做好抢险救灾工作，最大限度地减轻地震灾害造成的损失，宜制定发生5级以上地震时的浙江省地震应急预案和部门分预案。各地市已经制定地震应急预案的，应落实部门分预案；尚未制定地震应急预案的应纳入政府议事日程予以落实。<br>    （四）加强防震减灾知识宣传，提高社会公众的防震减灾意识和辨别地震谣言能力。<br>    各地、各有关部门要有针对性地抓好防震减灾知识的宣传、普及工作，加强防震减灾的教育，提高社会公众的防震减灾意识和应急避震处置能力，同时提高群众辨别、抵御地震谣言的能力，避免因地震谣传或误传造成不必要的社会波动和损失。<br>    （五）加强监测预报工作，完善大震速报系统建设。<br>    地震部门要加强监测预报工作，完善大震速报系统建设。筹建我省数字化传输台网，逐步实现浙北重点地区地震观测网和信息处理系统的现代化。<br>    （六）将防震减灾工作逐步纳入地方经济和社会发展规划。<br>    鉴于防震减灾工作的重要性和紧迫性，省防震减灾工作应纳入省经济发展和社会发展整体规划。各地也应将防震减灾工作纳入本地经济发展和社会发展整体规划。使防震减灾工作与经济建设和社会发展相协调，成为各级人民政府和有关部门的重要职责。<br>    以上意见如无不妥，请批转各地、各部门贯彻执行。<br><br>                                                        浙江省地震局<br>                                              一九九四年六月二十五日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

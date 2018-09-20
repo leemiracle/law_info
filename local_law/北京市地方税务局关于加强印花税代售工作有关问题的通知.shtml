@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京地税地〔2002〕273号<BR>&nbsp;&nbsp;【发布日期】2002-06-27<BR>&nbsp;&nbsp;【生效日期】2002-06-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市地方税务局关于加强印花税代售工作有关问题的通知 <br><br></font>(京地税地〔2002〕273号)</p><br><br>各区县地方税务局、各分局：<br><br>    为了进一步加强印花税征收管理工作，规范印花税代售行为，现就印花税征收管理工作有关问题通知如下：<br><br>    一、针对目前印花税代售工作中存在的问题，各区、县局要根据《<a href=javascript:ROF(8054,0) class=alink>中华人民共和国印花税暂行条例</a>》及其《<a href=javascript:ROF(8239,0) class=alink>施行细则</a>》，按照《北京市地方税务局关于对印花税税票代售单位加强管理的若干规定》，加强对印花税票代售单位的监督和管理，对申请代售的单位要重新审核并办理有关委托代售印花税票的手<br><br>    二、市局主管部门要对印花税票的发放加强管理，按照各区、县年度印花税收入计划数进行均衡分配，严格控制一次领取的印花税票数量，对超大金额领用印花税票，要提前提出申请，经票证部门批准后方可领取。各区、县局要加强对印花税票及《北京市印花税票销售凭证》等凭证的管理，建立相关的发放和使用制<br><br>    三、各区、县局要定期对印花税代售单位进行检查和监督，代售单位只允许在发放《代售印花税票许可证》的主管地方税务局所辖区域内售花。凡发现跨区域售花的代售单位，主管地方税务局要取消其印花税票的代售资<br><br>    四、要加强对大额缴税的管理。凡纳税人在办理印花税完税手续时，一份应税凭证应纳税额超过500元以上的，必须到其税务登记地区县地方税务局采用税收缴款书方式办理完税手续。<br><br>    附件：北京市地方税务局关于对印花税票代售单位加强管理的若干规定 <br><br>                                                     二○○二年六月二十七日 <br><br><br><br>附件一：<br><br>北京市地方税务局关于对印花税票代售单位加强管理的若干规定 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 根据《中华人民共和国印花税暂行条例施行细则》的有关规定，为方便纳税人购花，地方税务机关可委托单位代售印花税票。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 申请代售印花税票单位必须经地方税务机关批准后方可实施印花税票代售行为。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 申请代售印花税票单位须先向单位税务登记地地方税务局提出申请，并按规定填写和报送《代售印花税票申请表》（见附件一）及有关证明资料（工商登记证、组织机构证书及代码等）。<br><br>    区、县地方税务局对申请代售单位报送的资料要进行认真审核，由地方税科签署意见后，报经主管局长审批。<br><br>    第四条、对具备监督职能的单位提出的代售印花税票申请，由区、县地方税务局负责审批，并报市地方税务局备案。对不具备监督职能的单位提出的代售印花税票申请，由区、县地方税务局地方税科签署意见，并报主管局长审批后，报送市地方税务局审批。<br><br>    第五条、市地方税务局接到区、县地方税务局报送的申请代售单位《代售印花税票申请表》以及有关资料后，根据有关规定进行审核。对批准的代售单位，由区县地方税务局与申请代售单位签定《委托代售印花税票协议》（见附件二），并发给申请代售单位《代售印花税票许可<br><br>    第六条、对经地方税务局审核后不同意代售单位申请的，由区、县地方税务局告知申请代售单位。<br><br>    第七条、本规定从二○○二年七月一日起执行。<br><br>    <br>附件二：<br><br><br>    委托代售印花税票协议<br><br>    （ ）地税第 号<br><br>    协议人<br><br>    甲方（委托单位）： 乙方（受托单位）：<br><br>    地址： 地址：<br><br>    为加强印花税征收管理，保障国家税收收入，方便纳税人，甲、乙双方经协商于 年 月 日于北京市 区（县）签定如下委托代售印花税票协议，并严肃地履行。<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 甲、乙双方根据《中华人民共和国税收征收管理法》、《中华人民共和国印花税暂行条例》和《中华人民共和国印花税暂行条例施行细则》有关条款之规定，签定本协议。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 甲方委托乙方为印花税票代售单位，乙方承担为甲方代售印花税票的义务。印花税票监督代售单位负有监督纳税人依法纳税的义务。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 甲方为乙方提供代售所需的印花税票，并对乙方代售印花税票工作进行指导；甲方有权监督、检查乙方代售印花税票情况，乙方须如实提供印花税票领、售、存的情况，不得拒绝。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 甲方全权负责印花税票代售过程中纳税人提出的有关问题的解释。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 乙方按季向甲方提出返还手续费申请，甲方根据乙方实际代售印花税入库税款的5%支付给乙方手续费。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 乙方所代售的印花税票取得的税款，须专户存储 ，并于次月10日内将上月的税款解缴入库。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 乙方有义务按照甲方规定的期限办理有关纳税申报手续。并在每季度终了后10日内向甲方报送《印花税票监督代售报告表》。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 乙方不得将印花税票转托他人代售或者转至其他地区销售；不得推销或者少于票面金额销售。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 乙方领存的印花税票及所售的印花税票的税款如有损失，乙方应负责赔偿。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 乙方违反本协议，甲方有权单方面终止本协议，并追究乙方的违约责任。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 本协议自签定之日起即具有法律效力，但是甲方可根据国家税收的有关规定，单方面终止本协议。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 本协议未尽事宜，法律、法规和规章有规定的，从其规定；法律、法规和规章没有规定的，由双方协商确定。<br><br>    第十三条、本协议书一式2份，甲方1份，乙方1份。<br>    <br>    甲方：（公章） 乙方：（公章）<br><br>    法定代表人：签章 法定代表人：签章 <br><br>    年 月 日 年 月 日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

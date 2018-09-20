@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80302<BR>&nbsp;&nbsp;【发布文号】冀政[1994]109号<BR>&nbsp;&nbsp;【发布日期】1994-12-22<BR>&nbsp;&nbsp;【生效日期】1994-12-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 河北省人民政府关于加强<br>
+ 住房资金管理的通知<br>
+ </font></p><p align='center'><font class='STitle'>（冀政〔1994〕109号<br>
+1994年12月22日）</font></p>    根据《<a href=javascript:ROF(20295,0) class=alink>国务院关于深化城镇住房制度改革的决定</a>》（国发〔1994〕43号）精神，为适应我省住房制度改革不断深化的需要，理顺和加强住房资金管理，实现住房资金投入产出的良性循环，促进我省住房商品化和住房建设，特作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>各市（地）、县要设立专门住房资金管理机构（住房资金管理中心），按责权一致的原则，“中心”隶属房改办，代表政府对住房资金进行统一管理、统一营运，为独立核算的事业单位。“中心”直接负责住房资金的归集、支付、核算和编制使用计划等管理工作，保证政策性住房资金专款专用。财政、审计、监察等部门要加强对住房资金的监督管理。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>各市（地）、县人民政府要按规定建立城市、单位、个人三级住房基金，按照国家有关文件要求，确定各级住房基金的来源与用途。要做好原住房基金的划转工作，核定划转后的资金分别计入各项住房基金，并将划转的资金和原有的住房补贴逐步理入职工工资或用于列支住房公积金。各级房改办要会同有关部门，根据国家和省有关文件精神，制定关于住房资金归集、管理、使用、偿还和核算的具体政策与办法。要坚持保值、增殖的原则，提高住房资金的运用效果，确保住房资金专项用于住房建设，提供政策与制度保障。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>各级行政和企事业单位及其在职职工均应按照“个人存储、单位资助、统一管理、专项使用”的原则交纳住房公积金，住房公积金列入个人住房基金，由“中心”直接负责归集、统一存储在受委托的专业银行。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>加强售房款的管理。国有住房的出售收入按住房产权属性和一定比例上缴同级财政部门和留归单位，分别纳入各级住房基金，其他公有住房出售收入归单位所有，纳入单位住房基金。售房款要及时存入“中心”在银行的专项存款帐户，并全部用于住房建设和城镇住房制度改革。各单位购、建房时，在出具有关证明后，方可动用售房款并由“中心”拨付给单位使用。要加强对租金收入的管理，租金收入归产权单位所有，纳入单位住房基金，用于住房维修、管理、建设和城镇住房制度改革。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>住房资金的存贷款等金融业务，由当地人民政府委托有能力支持地方多建房的专业银行办理，“中心”应在银行开设住房资金专户，将归集的住房资金统一存储在住房资金专户。向单位和个人的政策性贷款业务，委托银行代为办理，由房改和财政部门按其经办贷款总额共同核定、支付给银行一定比例的手续费。政策性贷款利率应执行人民银行的有关规定。受委托的专业银行要根据当地人民政府批准的住房资金使用计划发放和回收贷款。在办理住房资金的归集、使用、支付等结算时，不得压票及拖延结算时间，以保证住房资金的及时划转和正常使用。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>各级住房资金管理机构的财务会计制度，按财政部的统一规定执行并编报财务收支预决算，其管理费用，在住房资金增值收益中列支。在住房资金管理、使用和核算中，要严肃房改纪律和财经纪律，严格执行国家和省的政策规定。各级审计、财政、监察等部门要加强监督管理，对不执行国家政策规定、挪用住房资金和以权谋私等违法、违纪行为，要严肃查处。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>原有的有关政策、规定，凡与本通知不一致的，以本通知为准。住房资金管理办法，由省政府住房制度改革领导小组制定、颁发。<br><br>  附：省政府住房资金管理领导小组名单<br><br>                     省政府住房资金管理领导小组名单<br><br>    组  长：郭世昌（副省长）                王敬铜（省人民银行副行长）<br>    副组长：陈春逢（省政府秘书长）          杨振科（省政府机关事务管理局<br>            靳庆和（省建委主任）            局长）<br>            王东进（省体改委主任）          刘佩兰（省地方税务局副局长）<br>            张献璞（省财政厅厅长）          李祥林（省国有资产管理局副局<br>    成  员：路富裕（省政府办公厅副主任）    长）<br>            张凤珠（省建委副主任）        领导小组下设办公室，办公室主任<br>            乔钟顺（省计委副主任）      由张凤珠同志兼任，副主任由省政府<br>            孟战表（省财政厅副厅长）    办公厅工交处、省房改办、省财政厅<br>            史承民（省人事厅副厅长）    各一名处长兼任。办公地点设在省政<br>            刘太江（省劳动厅副厅长）    府房改办。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80602<BR>&nbsp;&nbsp;【发布文号】辽政发[1986]90号<BR>&nbsp;&nbsp;【发布日期】1986-08-29<BR>&nbsp;&nbsp;【生效日期】1986-08-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 辽宁省科学技术拨款管理暂行规定<br>
+ </font></p><p align='center'><font class='STitle'>（1986年8月29日辽政发〔1986〕90号文件发布）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为了合理有效地使用科技经费，加强科技经费的宏观管理，保证全省科学技术规划的实施，根据国务院《<a href=javascript:ROF(4887,0) class=alink>关于科学技术拨款管理的暂行规定</a>》精神，特制定本规定。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  从一九八六年开始，按照科技经费拨款的增长高于当年财政经常性收入增长速度的原则，由省财政厅会同省计经委安排省财政支出的科技三项费用（中间试验、新产品试制、重大科研项目补助费，下同），由省财政厅安排科研事业费的拨款额度。其中，科技三项费用的增长速度，应在当年财政经常性收入增长百分比的基础上增加百分之三。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  列入省科技发展计划的重大科技项目的经费，按下列原则管理：<br>    （一）省重大科技项目，由主持项目的管理部门逐步实行招标，并应保证所有投标单位的同等权利及项目指标达到省计划要求。<br>    （二）省重大科技项目实行合同制。用于这些项目的科技三项费用或其它财政拨款，应根据项目的预测经济效益和偿还能力，分别实行有偿和无偿使用。凡经济效益好、有偿还能力的，应在合同中规定全部或部分偿还投资。承担单位是企业的，应在缴纳所得税前，用该项目投产后的新增利润归还；是科研单位的，用该项目实现的收入归还。没有偿还能力的，可在合同中规定免还。在执行过程中，出现不可抗拒的因素而丧失偿还能力的，经省科委会同主持项目的管理部门和银行审核批准，并报省计经委、省财政厅备案，可予以减免。<br>    （三）省重大科技项目有偿使用的经费，由主持项目的管理部门委托银行监督使用，并负责按照合同的规定回收应该偿还的资金，交省科委作为省科技发展基金，财政部门不要冲抵按计划应拨的经费。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  省属自然科学研究单位的科研事业费，以一九八五年度调整预算数（扣除一次性拨款、不扣除因进行改革试点而减发的拨款），加上因工资改革按规定由财政负担的经费为基数，连同增长的额度，自一九八七年度起，由省财政厅全部拨交省科委统一管理。<br>    省属独立自然科学研究单位的新建、撤销、调整或合并，以及现有科研单位编制的增加或减少，由主管部门提出意见，由省科委会同省编委、省财政厅审批后，由省财政厅增拨或核减科研事业费。<br>    科研事业费拨交省科委统一管理后，科研单位的隶属关系不变，其主管部门必须加强领导与管理。过去拨给科研单位经费的其它渠道不应中断。<br>    省属自然科学研究单位的资金确有特殊困难，由主管部门提出意见，经省科委审核，省财政厅应酌情给予补助。<br>    省属自然科学研究单位的科研事业费的年度计划，由各主管部门报省科委审核后下达，并抄送省财政厅备案。省科委应向省财政厅报送科研事业费的年度预决算和资金使用情况。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  省属自然科学研究单位的科研事业费，按下列原则管理。<br>    （一）主要从事技术开发工作和近期可望取得实用价值的应用研究工作的单位，省拨给的科研事业费在＂七五＂期间可逐年减少，直至完全或基本停拨。在实现经济自立的过渡期间，当年核减的事业费，百分之五十返回原单位，作为科研单位的科技发展基金，但不得用于奖励、福利、工资或挪作他用。<br>    （二）从事医药卫生、劳动保护、计划生育、灾害防治、环境科学等社会公益事业以及从事情报、测试、标准、计量、观测等技术基础工作的科研单位，其科研事业费仍由省拨给，实行包干。他们在完成国家和省规定的任务外还能取得合理收入的，其纯收入不超过本单位当年包干事业费百分之十五的，应全部留给本单位。超过部分，一半留给本单位，一半用以冲抵下一年度的单位事业费拨款。单位留用部分，可分别用作发展基金、福利基金和奖励基金，但其中发展基金不得少于百分之五十。<br>    （三）从事农业科学研究的单位，其科研事业费仍由省拨给，实行包干。在完成国家和省规定的任务外还能取得合理收入的，其纯收入不超过本单位当年包干事业费百分之三十的，可全部留给本单位。超过部分，其使用办法按本条第二款规定执行。为鼓励有条件的农业科学研究单位逐步实行经济自立，在其实现经济自立的过渡期间，当年核减的事业费百分之百应返回原单位。<br>    （四）从事多种类型研究工作的科研单位，其经费来源可根据具体情况，通过多种渠道解决。其中，经国务院或省有关部门批准的承担面向全国、全省的科技情报、计量、标准、产品检测等技术基础工作部分，仍须拨给科研事业费，其人数分别以国家科委、国家编委和省科委、省编委的批件为准。<br>    （五）基础研究项目所需经费，可向国家自然科学基金会申请资助。<br>    （六）逐步实现经济自立的科研单位核减下来的事业费，扣除离、退休人员所需经费后，从下一年开始，其中三分之二留给科研单位的主管部门用于发展科研事业（这部分费用，由科研单位的主管部门提出项目，经省科委核准并进行管理）；另外的三分之一由省科委统一安排，可用以武装重点科研单位。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  各类省属自然科学研究单位的基本建设投资，仍按原渠道解决。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  省属自然科学研究单位离、退休人员的离、退休金由科研事业费开支，不予减少；完全停拨科研事业费的单位，离退休金应予照拨。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  科研单位和高等院校承担的横向委托科研任务，其费用由委托单位支付。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  各市人民政府可根据本规定的原则，结合当地情况，制定本地区科技拨款管理办法。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  本规定由省科委负责解释。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  本规定自发布之日起施行。过去有关科技拨款的规定，与本规定不符的，均以本规定为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

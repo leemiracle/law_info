@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81203<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2001-05-29<BR>&nbsp;&nbsp;【生效日期】2001-05-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省互联网上网服务营业场所管理实施办法<br>
+</font></p><p align='center'><font class='STitle'>（省通信管理局省公安厅省文化厅省工商行政管理局<br>
+二00一年五月二十九日）</font></p><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为进一步加强我省互联网上网服务营业场所的管理，促进其健康有序地发展，根据全国人民代表大会常务委员会通过的《关于维护互联网安全的决定》、国务院颁布的《<a href=javascript:ROF(35911,0) class=alink>互联网信息服务管理办法</a>》、国务院批准的《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》、《<a href=javascript:ROF(29407,0) class=alink>计算机信息网络国际联网安全保护管理办法</a>》和有关法律、法规，制定本实施办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  在本省范围内开办、经营、使用互联网上网服务营业场所及对其实施监督管理，适用本实施办法。<br>    本实施办法所称互联网上网服务营业场所，是指通过计算机与互联网联网向公众提供互联网上网服务的营业性场所（包括“网吧”提供的上网服务）。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  省电信管理机构负责，并有责任组织协调和督促检查同级有关部门，在各自职责范围内依照本实施办法的规定，开展互联网上网服务营业场所的监督管理工作。<br>    省电信管理机构负责互联网上网服务营业场所经营许可审批和服务质量监督。<br>    公安部门负责互联网上网服务营业场所安全审核和对违反网络安全管理规定行为的查处。<br>    文化部门负责核发互联网上网服务营业场所的网络文化准营证和对含有色情、赌博、暴力。愚昧迷信等不健康电脑游戏的查处。<br>    工商行政管理部门负责对符合法律、法规和本实施办法规定的互联网上网服务营业场所核发营业执照，对无照经营、超范围经营等违反工商行政管理规定的违法行为进行查处。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  开办互联网上网服务营业场所，应当经有关部门审核同意，取得安全审核意见书。网络文化准营证、经营许可证并办理企业登记注册后，方可提供服务。<br>    未取得安全审核意见书、网络文化准营证、经营许可证和未办理企业登记注册的，不得开办互联网上网服务营业场所。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  开办互联网上网服务营业场所，应当遵守法律、法规、规章和本实施办法的规定，提供良好的服务，加强行业自律，接受有关部门依法实施的监督管理。<br>    公民、法人和其他组织有权对互联网上网服务营业场所进行社会监督。<br>    在互联网上网服务营业场所上网的用户，应当遵守法律、法规、规章和本实施办法的规定，遵守社会公德，严格自律，文明上网，开展健康文明的网上活动。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  申请开办互联网上网服务营业场所，应当具备下列基本条件：<br>    （一）有与开展营业活动相适应的营业场所，营业场地安全可靠，不得设包厢或包房，符合消防技术规范的要求。<br>    （二）有与开展营业活动相适应的计算机及附属设备，计算机终端数量原则上省会市不少于30台、其他设区的市不少于20台、县（含县级市）及以下不少于10台，营业场所单机平均占地面积不少于2平方米。<br>    （三）距离中小学校门前不得少于200米，不在居民宿舍楼内和可能干扰学校、医院、机关正常学习、工作的地点。<br>    （四）有相应的防病毒、防有害信息传播等安全技术措施、设施设备。<br>    （五）有与营业规模相适应的专业技术人员和专业技术支持。<br>    （六）有健全完善的网络信息安全管理制度。<br>    （七）有专职或者兼职的网络信息安全管理人员。<br>    （八）经营管理、安全管理人员经过有关主管部门组织的安全培训。<br>    （九）符合法律、法规和规章的其他规定。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  申请开办互联网上同服务营业场所，应向工商行政管理部门申请名称登记后，与当地的互联网接入服务提供者签订工联网接入服务意向协议书。<br>    只有获得经营许可证的互联网接入服务提供者才能为互联网上网服务营业场所提供接入服务。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  申请开办互联网上网服务营业场所，持申请设立的企业名称预先核准通知书、互联网接入服务意向协议书等材料，向公安部门办理安全审核意见书。<br>    办理安全审核意见书除提交本办法第六条规定的相关证明材料外，还应提交以下材料：<br>    （一）经营人员的合法身份证明。<br>    （二）安装经公安部安全检测合格并经省级公安部门登记认证的安全管理软件。<br>    （三）网络拓扑结构图。<br>    （四）法律、法规和规章规定的其他材料。<br>    申请开办互联网上网服务营业场所的，领取《安徽省互联网上网服务营业场所申请登记表》后，将登记表及有关附件逐级提交当地派出所。县级公安机关和设区的市公安机关进行安全审核。当地派出所、县级公安机关和设区的市公安机关应当自接到申请人提交的登记表及有关附件之日起，分别在5日、10日、15日内依据各自审核内容，签署安全审核意见。经三级安全审核合格的，设区的市公安机关应当在上述期限内向申请者颁发《安徽省互联网上网服务营业场所安全审核意见书》。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  申请开办互联网上网服务营业场所，持申请设立的企业名称预先核准通知书、互联网接入服务意向协议书、安全审核意见书等材料。向县级以上文化部门办理网络文化准营证。<br>    向县级以上文化部门申请办理网络文化准营证，除提交本办法第六条规定的相关证明材料外，还应提交以下材料：<br>    （一）经营单位申请报告及审批表。<br>    （二）法定代表人和主要负责人的有关身份证明材料。<br>    （三）场所设备、器材资料清单。<br>    （四）经营场所房屋产权证明或租赁合同复印件。<br>    （五）法律、法规和规章规定的其他材料。<br>    文化部门自收到完备材料之日起30日内审核完毕。经审核同意的，颁发《网络文化准营证》。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  获得安全审核意见书和网络文化准营证的，持安全审核意见书、网络文化准营证和《互联网上网服务营业场所经营许可证申请书》向省电信管理机构申请办理经营许可证。<br>    办理经营许可证时，还应提交以下材料：<br>    （一）工商行政管理部门核发的《企业名称预先核准通知书》复印件。<br>    （二）依法经营的承诺书。<br>    （三）网络与信息安全管理制度以及具体措施。<br>    （四）上网用户的登记记录留存和情况报告等方面的内部制度。<br>    （五）网络拓扑结构图。<br>    （六）法律、法规和规章规定的其他材料。<br>    省电信管理机构自收到完备的《互联网上网服务营业场所经营许可证申请书》和证明材料之日起，60日内审查完毕，符合条件的，颁发经营许可证；不符合条件的，书面通知当事人。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  取得经营许可证的，持安全审核意见书、网络文化准营证和经营许可证到工商行政管理部门办理企业登记注册。<br>    企业登记注册后，经营者应向省电信管理机构、县级以上公安、文化等部门提供营业执照复印件。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  获准开办互联网上网服务营业场所的，持安全审核意见书、网络文化准营证、经营许可证和营业执照，与互联网接入提供者办理互联网接入手续，并签订信息安全责任书。<br>    无安全审核意见书、网络文化准营证、经营许可证和营业执照的企业，互联网接入提供者不得为其提供接入服务。<br>    互联网上网服务营业场所经营者办理互联网接入手续并接入互联网后。应立即报负责审批的公安、文化、省电信管理机构等部门备案。<br>    互联网接入提供者应向省电信管理机构报送互联网上网服务营业场所接入月报表。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  省电信管理机构将批准的互联网上网服务营业场所的名称、地址、经营许可证编号通过媒体向社会公布。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  互联网上网服务营业场所变更法定代表人、单位名称、营业场所、接入单位，必须提前按照本实施办法规定的审批程序依次向公安部门、文化部门、省电信管理机构、工商行政管理部门办理变更或者撤销手续。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  互联网上网服务营业场所需要与国际联网的，应当使用当地的互联网接入服务提供者的接入网络进行国际联网，不得采取其他方式进行国际联网。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  互联网上网服务营业场所经营者，应当履行下列义务：<br>    （一）在核准的经营范围内提供服务。<br>    （二）在显著的位置悬挂《安全审核意见书》、《网络文化准营证》、《经营许可证》和《营业执照》。<br>    （三）记录有关上网信息，记录备份应当保存60日，并在有关部门依法查询时予以提供。<br>    （四）不得擅自出租、转让营业场所或者接入线路。<br>    （五）不得经营含有色情、赌博、暴力、愚昧迷信等不健康内容的电脑游戏。<br>    （六）不得在本实施办法限定的时间外向18周岁以下的未成年人开放；不得允许无监护人陪伴的14周岁以下的未成年人进入其营业场所。<br>    （七）在营业场所内发生的计算机安全事故或案件，应当在24小时内向所在地县级以上公安机关报告。<br>    （八）落实网络信息安全管理措施。<br>    （九）在营业场所门前显著位置张贴醒目的用户依法上网公约、未成年人限时进入警示标志、当地主管部门的举报电话。<br>    （十）制止、举报利用其营业场所从事法律。法规、规章明令禁止和本办法第十七条、第十八条所列行为。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  互联网上网服务营业场所经营者和上网用户不得从事下列危害网络安全和信息安全的行为：<br>    （一）制作或者故意传播计算机病毒以及实施其他破坏性程序。<br>    （二）非法侵入计算机信息系统或者破坏计算机信息系统功能、数据和应用程序。<br>    （三）法律、法规、规章禁止的其他行为。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  互联网上网服务营业场所经营者和上网用户不得利用互联网上网服务营业场所制作、复制、查阅、发布、传播含有下列内容的信息：<br>    （一）反对<a href=javascript:ROF(2655,0) class=alink>宪法</a>所确定的基本原则的。<br>    （二）危害国家安全，泄露国家秘密。颠覆国家政权，破坏国家统一的。<br>    （三）损害国家荣誉和利益的。<br>    （四）煽动民族仇恨、民族歧视，破坏民族团结的。<br>    （五）破坏国家宗教政策，宣扬邪教和愚昧迷信的。<br>    （六）散布谣言，扰乱社会秩序，破坏社会稳定的。<br>    （七）散布淫秽、色情、赌博、暴力、凶杀。恐怖或者教唆犯罪的。<br>    （八）侮辱或者诽谤他人，侵害他人合法权益的。<br>    （九）法律、法规禁止的其他内容。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  互联网上网服务营业场所的营业时间由经营者自行决定，但是，向未成年人开放的时间限于国家法定节假日每日8时至21时。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  互联网上网服务营业场所经营管理、安全管理人员和其他工作人员必须接受公安机关组织的计算机安全培训并取得公安部监制的《计算机信息网络安全员培训合格证书》，安全管理员还必须领取《安徽省计算机信息系统安全管理员证》，持证上岗。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  违反本实施办法的规定，未取得经营许可证，擅自开办互联网上网服务营业场所的，由省电信管理机构依据《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，责令关闭营业场所，没收从事违法经营活动的全部设备器材和违法所得，并处1万元以上3万元以下的罚款。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  违反本实施办法的规定，擅自出租、转让营业场所的，根据《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，由工商行政管理部门依照有关工商行政管理的法律、法规没收违法所得，处以罚款，吊销营业执照，并由有关主管部门撤销安全审核意见书和网络文化准营证，吊销经营许可证。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  违反本实施办法的规定，擅自进行国际联网或者接入线路，擅自提供互联网接入服务的，由省电信管理机构依照《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，责令改正，没收违法所得，并处违法所得3倍以上5倍以下的罚款；违法所得不足3万元的，处3万元以上10万元以下的罚款；逾期不改正或者再次违反规定的，责令关闭营业场所，吊销经营许可证，并由有关主管部门撤销安全审核意见书和网络文化准营证，吊销营业执照。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  违反本实施办法的规定，未记录上网信息、未按规定保存备份、未落实网络信息安全管理制度、未履行安全管理责任、未采取安全技术措施的，依照《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，由公安机关责令限期改正，并处5000元以上3万元以下的罚款；情节严重或者拒不改正的，责令关闭营业场所，撤销安全审核意见书，并由有关主管部门撤销网络文化准营证，吊销经营许可证和营业执照。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  上网用户违反本实施办法的规定，实施危害网络安全和信息安全行为，制作、复制、查阅、发布、传播违法信息的，由公安机关依据《<a href=javascript:ROF(19759,0) class=alink>中华人民共和国治安管理处罚条例</a>》、《<a href=javascript:ROF(29407,0) class=alink>计算机信息网络国际联网安全保护管理办法</a>》和有关法律、法规的规定给予处罚。<br>    互联网上网服务营业场所的经营者违反本实施办法的规定，实施危害网络安全和信息安全行为，制作、复制、查阅、发布、传播违法信息，或者对上网用户实施上述行为不予制止、疏于管理的，由公安机关依据前款规定给予处罚，并由有关主管部门责令停业整顿；对整顿后再次违反规定的，责令关闭营业场所，撤销安全审核意见书，并由有关主管部门撤销网络文化准营证，吊销经营许可证和营业执照。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  违反本实施办法的规定，在限定时间外向18周岁以下的未成年人开放其营业场所，或者允许无监护人陪伴的14周岁以下的未成年人进入其营业场所的，依照《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，由省电信管理机构予以警告，并处5000元以上1万元以下的罚款；对再次违反规定的，责令停业整顿，并处1万元以上3万元以下的罚款；对三次违反规定的，处1万元以上3万元以下的罚款，责令关闭营业场所，吊销经营许可证，并由有关主管部门撤销安全审核意见书和网络文化准营证，吊销营业执照。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  违反本实施办法的规定，经营含有色情、赌博、暴力、愚昧迷信等不健康内容电脑游戏的，依照《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，由文化行政部门给予警告，责令停业整顿，没收违法所得，并处违法所得1倍以上3倍以下的罚款；违法所得不足3万元的，处3万元以上5万元以下的罚款。再次违反规定的，除给予上述处罚外，责令关闭营业场所，撤销网络文化准营证，并由有关主管部门撤销安全审核意见书，吊销经营许可证和营业执照。<br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>  违反本实施办法的规定，未办理企业登记注册开办互联网上网服务营业场所、未按规定悬挂营业执照、超范围经营的，依照《互联网上同服务营业场所管理办法》的规定，由工商行政管理部门依法给予处罚。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>  违反本实施办法的规定，被有关主管部门撤销安全审核意见书和网络文化准营证、吊销经营许可证的，依照《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，应在被撤销安全审核意见书和网络文化准营证、吊销经营许可证之日起10日内到工商行政管理部门办理变更登记或注销登记；逾期不办理的，工商行政管理部门依法予以处罚。<br><p></p><a name='30'><font class='TiaoNoA'>  第三十条</font></a>  相关主管部门对互联网上网服务营业场所违反本实施办法规定的行为应记录在案，对互联网上网服务营业场所需采取暂停或切断互联网接入服务的，相关省级主管部门应通知省级电信管理机构，由省级电信管理机构通知互联网接入提供者暂停或切断互联网接入服务。<br>    被撤销安全审核意见书和网络文化准营证。吊销经营许可证、注销或者吊销营业执照的，依照《<a href=javascript:ROF(37061,0) class=alink>互联网上网服务营业场所管理办法</a>》的规定，不得重新申请开办互联网上同服务营业场所。<br><p></p><a name='31'><font class='TiaoNoA'>  第三十一条</font></a>  互联网上网服务营业场所经营者违反国家法律，构成犯罪的，依法追究刑事责任。<br>    互联网上网服务营业场所审批和监督管理部门的管理人员玩忽职守、滥用职权、徇私舞弊，构成犯罪的，依法追究刑事责任；尚不构成犯罪的，依法给予行政处分。<br><p></p><a name='32'><font class='TiaoNoA'>  第三十二条</font></a>  本办法自发布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

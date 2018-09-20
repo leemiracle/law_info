@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政办发〔2004〕037号<BR>&nbsp;&nbsp;【发布日期】2004-05-20<BR>&nbsp;&nbsp;【生效日期】2004-05-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tj.gov.cn/szf/tjzb.nsf/zb3/4FD224D23081D3E1C8256EC300831C27?opendocument" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅关于进一步加强我市人工影响天气工作的通知<br><br></font>(津政办发〔2004〕037号)</p><br> <br><br>各区、县人民政府，各委、局，各直属单位：<br><br>    为认真贯彻落实 《中共中央 国务院关于促进农民增加收入若干政策的意见》 （中发〔2004〕1号）精神，促进粮食增产、农民增收，积极推进人工影响天气工作，为我市农业防灾减灾、“三农”工作做好服务，现就进一步加强我市人工影响天气工作通知如下：<br><br>    一、进一步加强各级政府对人工影响天气工作的组织领导和协调<br><br>    人工影响天气是各级政府组织防灾减灾的一项重要工作，是农业抗灾减灾，促进粮食增产、增加农民收入的重要措施，同时也对缓解旱情、改善生态环境等起到一定的积极作用。<br><br>    人工影响天气工作除了业务技术常规管理外，在空域、通讯、装备、弹药、作业环境安全管理以及人员、机构、经费等方面，都需要有关部门协作配合。为了统筹协调各方，市人民政府决定成立天津市人工影响天气工作协调小组。协调小组由副市长孙海麟任组长，市气象局王宗信、市农委王恒智、市财政局刘克增任副组长，成员为：市计委杨振江、市科委姚学、市水利局朱芳清、市农业局张杰、市公安局高恭赞、市民政局李嘉会、市气象局马富春、市无委办蔡全荣、天津警备区郑伟、中国民航天津空管站夏朝征。<br><br>    天津市人工影响天气工作协调小组下设办公室，设在天津市气象局，承担日常工作，办公室主任由马富春兼任。<br><br>    天津市人工影响天气工作协调小组的主要任务是: 在市人民政府领导下，组织、协调和指导我市人工影响天气工作；负责审定我市人工影响天气工作的方针、政策、发展规划；指导各区县人工影响天气工作；协调跨部门、跨区县的人工影响天气工作；对我市人工影响天气工作发展中的问题组织调查研究，向有关部门提出建议。每年召开1至2次全体会议，总结我市上一年度人工影响天气工作，审议下年度工作计划。<br><br>    各区县人民政府也要成立相应的人工影响天气工作协调小组和办事机构。<br><br>    二、进一步加强人工影响天气炮站基础设施建设及作业装备建设<br><br>    近年来，由于多方面原因，各区县炮站年久失修，基础设施建设落后，给作业安全、高炮弹药保管等方面带来了隐患。<br><br>    为尽快改变人工影响天气炮站基础设施建设现状，消除人工影响天气作业装备落后带来的不安全隐患，市人工影响天气工作办公室要尽快制定我市人工影响天气炮站的建设标准，会同有关部门对不符合要求的炮站进行改建，对陈旧的设备进行更新，改善我市人工影响天气炮站基础设施。<br><br>    三、进一步加强人工影响天气工作的计划性、科学性<br><br>    要结合我市经济发展，制定2004年至2010年天津市人工影响天气发展规划，并认真组织实施。要尽快将《天津市人工影响天气管理办法》纳入立法计划，依法开展我市人工影响天气工作。<br><br>    要认真开展短时天气预报、人工影响天气物理机制、防雹、增雨作业等方面的科学研究和效果检验，建立由乡镇自动气象站组成的加密气象监测网和乡镇雨情、旱情、灾情速报系统，充分发挥天气雷达在人工影响天气作业指挥中的作用，提高工作水平和科技含量。<br><br>    要根据实际情况调整炮站布局，重点区域增设固定火箭发射架，完善火箭增雨作业网，积极开展飞机人工增雨作业。<br><br>    各区县人民政府、各有关部门和单位要重视人工影响天气工作，加强协调配合，将其作为贯彻落实党中央、国务院文件精神、市农村工作会议精神的一件大事抓紧抓好，把冰雹、干旱等灾害性天气给我市粮食增产、农民增收带来的严重危害和经济损失减少到最低程度。<br><br><br>                                 二○○四年五月二十日<br> <br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

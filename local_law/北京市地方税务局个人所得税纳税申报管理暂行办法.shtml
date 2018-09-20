@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京地税个〔2003〕590号<BR>&nbsp;&nbsp;【发布日期】2003-11-10<BR>&nbsp;&nbsp;【生效日期】2004-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市地方税务局个人所得税纳税申报管理暂行办法<br><br></font>(京地税个〔2003〕590号)</p><br><br><br>    <font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强个人所得税征收管理，根据《<a href=javascript:ROF(37255,0) class=alink>中华人民共和国税收征收管理法</a>》（以下简称征管法）、《<a href=javascript:ROF(76889,0) class=alink>中华人民共和国税收征收管理法实施细则</a>》、《<a href=javascript:ROF(33506,0) class=alink>中华人民共和国个人所得税法</a>》、《<a href=javascript:ROF(18939,0) class=alink>中华人民共和国个人所得税法实施条例</a>》、国家税务总局《<a href=javascript:ROF(22310,0) class=alink>个人所得税代扣代缴暂行办法</a>》及《<a href=javascript:ROF(22575,0) class=alink>个人所得税自行申报纳税暂行办法</a>》等有关规定，结合我市实际情况，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 在北京市地方税务机关缴纳个人所得税的扣缴义务人及自行申报纳税人适用本办法。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本办法所称自行申报纳税人，包括有下列情形之一的个人：<br><br>    一、一个月内从两处或两处以上取得工资、薪金所得的；<br><br>    二、分笔取得属于一次劳务报酬所得、稿酬所得、特许权使用费所得、财产租赁所得的；<br><br>    三、取得应纳税所得，没有扣缴义务人的；<br><br>    四、取得应纳税所得，扣缴义务人未按规定扣缴税款的；<br><br>    五、居民纳税人从中国境外取得所得的；<br><br>    六、税务机关规定必须自行申报纳税的。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 税务机关依法对扣缴义务人、纳税人的商业秘密及个人隐私保密。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 主管税务机关应按授权范围查询个人所得税纳税人的有关信息。区、县地方税务局、分局查询非本局所辖纳税人信息应经市局授权，税务所查询非本所所辖纳税人信息应经市局或区、县地方税务局、分局授权。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 主管税务机关应定期汇总分析扣缴义务人和自行申报纳税人的纳税申报情况。<br><br>    <font class='zhang'>第二章</font> 基础信息申报<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 自行申报纳税人按本办法规定第一次申报纳税时，应填报《个人所得税自行申报纳税人基础信息申报表》，取得生产经营所得的个体工商户、个人独资和合伙企业的投资者不须填报。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 自行申报纳税人的基础信息发生变化的，应当自基础信息发生变化之日起，30日内通知或到主管税务机关办理相应内容的变更。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 主管税务机关可依法要求扣缴义务人、自行申报纳税人提供有关资料。<br><br>    <font class='zhang'>第三章</font> 纳税申报<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 扣缴义务人应在法定期限内向主管税务机关填报《代扣代缴个人所得税明细申报表》。除法定代表人、总经理或主要负责人外，个人所得未达到纳税标准的，扣缴义务人不须进行个人明细申报。但应全部统计在《代扣代缴个人所得税明细申报表》汇总项目中。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 自行申报纳税人应在法定期限内向主管税务机关办理纳税申报，填报《个人所得税自行申报表》，个人所得未达纳税标准的不须申报。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 扣缴义务人、自行申报纳税人按法定期限办理纳税申报确有困难的，可延至当月末。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 自行申报纳税人办理纳税申报的主管税务机关确定如下：<br><br>    一、所得来源地的主管税务机关；<br><br>    二、从两处或两处以上取得所得的，可选择并固定在其中一地税务机关；<br><br>    三、从境外取得所得的，为本市户籍所在地或经常居住地的主管税务机关。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 扣缴义务人、自行申报纳税人可以采取网上申报、报盘申报或其他申报方式办理纳税申报。<br><br>    扣缴义务人、自行申报纳税人可从北京市地方税务局网站下载或到税务机关领取纳税申报表。采取网上或报盘方式进行申报的，可不再报送书面纳税申报表。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 税务机关、扣缴义务人及自行申报纳税人应依法保存相关申报资料。<br><br>    <font class='zhang'>第四章</font> 法律责任<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 扣缴义务人、自行申报纳税人未按本办法规定的期限办理纳税申报及有关事项的，由税务机关责令限期改正，可以处二千元以下的罚款；情节严重的，可以处二千元以上一万元以下的罚款。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 纳税人经税务机关通知申报而拒不申报或者进行虚假的纳税申报，不缴或者少缴应纳税款的，是偷税。由税务机关追缴其不缴或者少缴的税款、滞纳金，并处不缴或者少缴的税款百分之五十以上五倍以下的罚款；构成犯罪的，依法追究刑事责任。<br><br>    扣缴义务人采取前款所列手段，不缴或者少缴已扣、已收税款的，由税务机关追缴其不缴或者少缴的税款、滞纳金，并处不缴或者少缴的税款百分之五十以上五倍以下的罚款；构成犯罪的，依法追究刑事责任。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 扣缴义务人、纳税人编造虚假计税依据的，由税务机关责令限期改正，并处五万元以下的罚款。<br><br>    自行申报纳税人不进行纳税申报，不缴或者少缴应纳税款的，由税务机关追缴其不缴或者少缴的税款、滞纳金，并处不缴或者少缴的税款百分之五十以上五倍以下的罚款。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 税务机关未按照征管法及其实施细则的规定为扣缴义务人、纳税人保密的，依法对直接负责的主管人员和其他直接责任人员，由所在单位或者有关单位给予行政处分。<br><br>    <font class='zhang'>第五章</font> 附则<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 扣缴义务人、自行申报纳税人可以委托税务代理人办理本办法所涉及的税务事宜。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 本办法由北京市地方税务局负责解释。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 本办法自2004年1月1日起施行。北京市地方税务局《<a href=javascript:ROF(77112,0) class=alink>关于加强重点纳税人个人所得税征收管理的暂行办法</a>》同时废止。<br><br><br>二○○三年十一月十日<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】无锡市<BR>&nbsp;&nbsp;【发布文号】政府令55号<BR>&nbsp;&nbsp;【发布日期】2001-12-01<BR>&nbsp;&nbsp;【生效日期】2002-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="http://fzb.wuxi.gov.cn/fg10.htm" target=_blank>无锡市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>无锡市人民政府关于修改<br>《无锡市机动车辆排气污染监督管理办法》的决定<br><br></font>（政府令55号）</p><br><br><br>    无锡市人民政府决定对《无锡市机动车辆排气污染监督管理办法》作如下修改：<br>    一、第二条第二款修改为：“本办法所称机动车辆排气污染，是指机动车辆通过排气管、曲轴箱、油箱以及燃料系统向大气环境排放或蒸发污染物所造成的污染。”<br>    二、第三条修改为：“凡在本市市区范围内制造（含改装、组装）进口、销售、维修、使用机动车辆及其发动机产品、机动车辆排气污染治理的产品的公民、法人和其他组织，均须遵守本办法。”<br>    三、第五条修改为：“机动车辆污染物排放必须符合国家污染物排放标准（以下简称排放标准）”。<br>    四、第十二条增加一款，作为第二款：“禁止向本市市区范围内销售摩托车、轻便摩托车、燃油助力车。”<br>    五、第十五条修改为：“从事机动车辆二级维护、大修、发动机总成大修或承接排气污染治理业务的企业，必须具备机动车辆污染物排放检测设备和技术力量。”<br>    六、第十六条修改为：“机动车辆污染物排放指标必须纳入维修质量考核内容，经二级维护、大修、发动机总成大修或排气污染治理的机动车辆污染物排放必须符合排放标准。”<br>    七、第二十一条改为第二十条，第一项修改为：“各类汽车到国家《汽车报废标准》年限的。”第五项删除。<br>    八、增加一条列为第二十一条：第二十一条汽车经验，排放污染物达不到标准的，按照国家有关规定要求执行。<br>    摩托车、轻便摩托车、燃油助力车排放污染物达不到标准的，应当在限期内采取维修或者使用排气污染治理的产品等措施进行治理，并取得有关资质的检测单位出具的合格证明。在限期治理期限内无法修复或者经两次复检仍达不到排放标准的，由环保部门出具检测报告、提出报废建议，公安机关实施强制报废。<br>限期治理期限超过三个月的，视作无法修复。<br>    九、第二十二条第一款、第二款删除；第三款修改为：“本市市区摩托车、轻便摩托车、燃油助力车停止上牌报废后注销号牌并不得更新。”<br>    十、第二十八条第二款修改为：“对机动车辆排气污染的路检、拥有机动车辆的单位和个人的抽验，不收检测费。”<br>    十一、第三十七条改为第三十一条，第一款修改为：“违反第十二条第一款规定的，由质量技术监督行政管理部门处以5000元以上1万元以下罚款，有违法所得的，处以3万元以下罚款。”<br>增加一款列为第三十一条第二款：“违反第十二条第二款规定的，由工商行政管理部门没收违法所得，并处以3万元以下罚款。”<br>    十二、第三十五条、第三十六条、第三十八条、第三十九条、第四十一条、第四十二条、第四十五条、第四十六条、第四十八条分别改为第二十九条、第三十条、第三十二条、第三十三条、第三十四条、第三十五条、第三十六第、第三十七条、第三十九条；将第二十条、第四十条、第四十三第、第四十四条删除。 <br>    十三、第五章删除，将第六章改为第五章；第七章改为第六章。<br>    十四、第四十七条改为第三十八条，修改为：“江阴市、宜兴市可参照本办法执行。”<br>    本决定自2002年1月1日起施行。 <br>  <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

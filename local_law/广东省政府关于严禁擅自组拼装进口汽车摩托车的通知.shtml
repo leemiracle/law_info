@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81902<BR>&nbsp;&nbsp;【发布文号】粤府[1995]24号<BR>&nbsp;&nbsp;【发布日期】1995-04-14<BR>&nbsp;&nbsp;【生效日期】1995-04-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 广东省人民政府关于<br>
+ 严禁擅自组拼装进口汽车摩托车的通知<br>
+ </font></p><p align='center'><font class='STitle'>（粤府［1995］24号）</font></p>各市、县、自治县人民政府，省府直属有关单位：<br>    省政府于去年7月份发出了粤府［1994］88号文件，要求各地把利用经国家批准进口的汽车三大件总成组（拼）装的小汽车，采取一次过罚款处理的办法，解决这批车辆的出路问题，并要求于当年9月底前结束。但有些地方不仅没有认真清理整顿，按期完成处理任务，反而乘机购买或突击进口汽车零部件擅自组（拼）装成整车销售。这种做法是十分错误的，必须严加制止。为此通知如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>严禁非国家批准的厂（点）组（拼）装进口汽车、摩托车和销售此类车辆。擅自组（拼）装的车辆，一经查获，公安、工商行政管理部门一律予以没收（含车辆和非法所得）。没收的车辆，经国家指定的技术检验部门检验符合质量要求的，交省政府指定的拍卖行拍卖或国家指定的经营单位销售，公安部门按规定办理入户上牌；不符合国家质量要求的，一律拆解成零部件在公安、工商行政管理部门监督下按市价处理。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>所有拍卖、销售的罚没车辆，必须具有地级市以上公安机关或海关、工商行政管理等执法部门开具的处罚决定书，否则，不得受理拍卖或销售；不符合条件拍卖、销售的车辆，工商行政管理部门不予验证盖章，公安机关不予办理入户上牌。<br>    被国家或省政府指定为经营罚没车辆的销售、拍卖单位，应严格按照国务院和省政府的有关规定，认真做好罚没车辆的销售、拍卖业务。违者，取消其经营资格。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>工商行政管理部门要切实加强对进口汽车、摩托车及其零配件市场的管理，严厉打击销售、倒卖非国家定点厂组（拼）装车、走私车和无合法证明的进口车。未经授权拍卖或销售罚没车辆和无照经营进口汽车、摩托车及其零配件，一经发现，除没收其车辆、零配件和非法所得外，情节严重或重犯的，吊销其营业执照。对购买非指定厂（点）组（拼）装车辆进行倒卖的，一律没收其车辆；对购买自用的，强制半价收购，并对非法出售者没收其货款收入。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>海关应加强对汽车、摩托车及其零部件进口的查验工作，提高开箱查验率；对转关运输、保税贸易的此类货物要加强跟踪监管。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>严禁任何部门、单位和个人为走私车辆、擅自组（拼）装车辆出具假罚没证明和办理入户上牌手续。违者，依法从重处理。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>本通知自5月1日开始执行。过去有关文件凡与本通知不一致的，一律以本通知为准。<br><br>                                                      广东省人民政府<br>                                                  一九九五年四月十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

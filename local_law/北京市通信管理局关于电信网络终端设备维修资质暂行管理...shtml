@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80103<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2002-03-26<BR>&nbsp;&nbsp;【生效日期】2002-03-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市通信管理局通告<br>
+</font></p><p align='center'><font class='STitle'>（2002年3月26日）</font></p>    为保证北京公用电信网的安全畅通，维护国家利益和消费者的合法权益，依据信息产业部11号令《<a href=javascript:ROF(37475,0) class=alink>电信设备进网管理办法</a>》及相关的规定，现将《电信网络终端设备维修资质暂行管理办法》通告如下，请遵照执行。<br><br>                    电信网络终端设备维修资质暂行管理办法<br><br><p class='zhang'>                             第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为了保证北京公用电信网的安全畅通，维护国家利益和消费者的合法权益，依据信息产业部11号令《<a href=javascript:ROF(37475,0) class=alink>电信设备进网管理办法</a>》及相关法规的规定，为加强电信网络终端设备维修市场的管理，特制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  本办法对在北京地区内从事ＩＳＤＮ的ＮＴ、ＮＴ1＋、ＡＤＳＬ的ＣＰＥ（ＭＯＤＥＭ）、专线窄带ＭＯＤＥＭ等电信网络终端设备维修的单位，实行维修资质认证管理。对符合条件的维修单位，颁发《电信网络终端设备维修资质证书》。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  各电信运营企业、设备生产商、销售商应选择具有维修资质的维修单位承担第二条所规定的电信网络终端设备维修服务，生产厂家应将自己授权的维修单位报通信管理局备案。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  电信网络终端设备维修单位的资质分为一级、二级。（详细等级标准，请至北京市通信管理局网站www．bca．gov．cn查询）<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  维修人员应当经过培训，考核合格后持证上岗。<br><br><p class='zhang'>                           第二章  组织管理</p><br><br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  北京市通信管理局负责组织对维修单位的资质进行认证和管理。经审核批准后，统一制作、颁发维修资质等级证书。对获得维修资质的维修单位定期向社会公告。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  从事电信网络终端设备维修服务，应是通信管理局审核批准并核发维修资质证书的单位，没有获得维修资质就自行开展电信网络终端设备维修，因此产生的不良后果由自己负责。情节严重的依据有关规定进行处罚。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  各电信运营企业在维修上述电信网络终端设备时。应选择具有维修资质的维修单位进行维修，维修后的电信网络终端设备应保证质量，以确保全网通信畅通。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  电信网络终端设备的使用者（用户），在设备出现故障。需要维修时。应选择具有维修资质的维修单位进行维修。没有选择具有维修资质的单位修理的出现问题自负。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  电信网络终端设备维修单位，维修的电信网络终端设备必须是获得信息产业部进网许可的。不得维修没有获得信息产业部颁发的电信设备进网许可证的上述电信终端设备。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  维修单位应妥善处理消费者投诉，接受消费者有关电信网络终端设备产品修理质量的查询。并承担因自身修理过错造成的责任和损失。以满足广大消费者的需求。<br><br><p class='zhang'>                     第三章  申请条件与审核程序</p><br><br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  申请维修资质的单位应具备以下条件：<br>    （一）必须是依法设立的公司并且具有法人资格。有明确的企业章程和相关的管理制度并具备一定数量的维修技术人员，有比较完备的物料管理制度。<br>    （二）有专门负责维修质量和处理投诉的人员。负责消费者的投诉并为其妥善解决实际问题。<br>    （三）有详细的维修业务收费清单并明码标价。<br>    （四）有与其业务规模相适应的经营场所。有开展维修业务时，所必备的各种仪器、仪表和专用设备等。其参数和指标符合国家或行业标准。<br>    （五）从业人员必须经过专业培训。持有劳动和社会保障部与信息产业部联合颁发的通信行业国家职业资格证书。要求持证上岗。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  维修单位申请办理维修资质时；应向北京市通信管理局报送以下文件资料：<br>    （一）书面申请报告。报告中应写清申请单位的详细地址、联系人、联系电话等。<br>    （二）企业法人营业执照（复印件），在复印件的背面，加盖维修单位的红色印章及法人代表签字或委托代理人签字。<br>    （三）经营场所的房屋租赁合同或租赁契约（复印件）。<br>    （四）企业或公司概况（包括人员、设备及维修所需用的仪器仪表清单、备品备件、车辆等）。<br>    （五）所申请的电信网络终端维修种类，及所要维修的电信网络终端设备产品名称。<br>    （六）提供维修服务保证措施，对用户维修的承诺等。<br>    （七）从业人员资格证明材料。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  北京市通信管理局对上述报送的材料进行初审，初审合格后填写申请资质审核表，并进行现场考察，对符合条件的单位核发维修资质等级证书。<br><br><p class='zhang'>                         第四章  监督管理</p><br><br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  具有维修资质的单位，要遵守国家的通信政策和法规，接受通信行业主管部门的行业管理和监督检查，保证维修质量，维护用户的合法权益。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  获得维修资质的单位，应在营业厅明示资质等级证书和收费标准，执行国家明码标价的规定。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  管理局每年12月1日开始对获得维修资质证书的维修单位进行年检。对年检合格的维修单位，核发年检合格通知书。对年检不合格的单位，限期改正并组织复审，拒不接受整改或复审不合格的，将吊销其维修资质证书。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  维修资质证书有效期为三年。有效期满须继续保持资质的，应在资质证书到期前60天内向通信管理局申请办理换证手续。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  从事维修资质证受理审批与管理的人员违反本规定，弄虚作假、徇私舞弊。不能保持公证，视情节轻重，由主管部门追究责任。<br><br><p class='zhang'>                          第五章  附则</p><br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  本暂行办法的解释权在北京市通信管理局。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  本办法自发布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80302<BR>&nbsp;&nbsp;【发布文号】冀政[1985]64号<BR>&nbsp;&nbsp;【发布日期】1985-04-27<BR>&nbsp;&nbsp;【生效日期】1985-04-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府文件<br>
+</font></p><p align='center'><font class='STitle'>（冀政〔1985〕64号）</font></p>                     河北省人民政府批转省科委关于当前科研<br>                   单位体制改革中存在的问题及解决意见的报告<br><br>各地区行政公署、省辖市人民政府，省政府各部门：<br>    省政府同意省科委《关于当前科研单位体制改革中存在的问题及解决意见的报告》，现转发给你们，请研究执行。<br>    一九八四年，我省大部分科研单位按照国家和省政府有关文件规定，实行了有偿合同制和课题承包制，方向是正确的，是符合全国科技工作会议精神的。凡是按照科研课题承包合同发放的奖金，不属于不正之风，没有兑现的要兑现。课题承包要继续搞，责任制要积极推行，改革方案要认真落实，不能吹掉。对少数承包办法不合理的，可予以适当调整。<br>                                                  一九八五年四月二十七日<br>                    关于当前科研单位体制改革中存在的问题及<br>                                解决意见的报告<br><br>省政府：<br>    去年，我省科研单位的改革形势是好的，今年改革形势发展更快。但在当前纠正新的不正之风中，由于有些界线划不清，也带来一些问题。一是去年按国家体改委、国家科委有关文件和省政府冀政〔1984〕65号文件规定发奖金，是否属于不正之风？二是课题承包合同制还算不算数？承包中有奖有惩，今年还能不能兑现？因上述界限不清，一些原定从今年就减少事业费的单位，现在要求暂时不要减了；有些所已经与厂矿企业草签了科研项目合同，现在都不敢执行了；本来有要转让的成果，现在也不积极了。一些单位及其上级主管部门，不支持课题承包，把研究所视同党政机关，把应当兑现给科技人员的奖励一律卡住不发，发了的按不正之风加以纠正，等等。<br>    我们认为，我省科研单位去年的改革是自上而下有领导、有步骤地进行的；大部分科研单位按照国家和省有关文件规定，实行了有偿合同制和技术、课题承包制，方向是正确的，是符合全国科技工作会议精神的；其收入主要是技术成果转让和技术服务所得，既不多，也不稳定，而且其中的绝大部分用作科技发展基金和所的自身建设，只是提取少部分鼓励多出成果、多出人才，奖励有贡献的科技人员，不能不加区别地视为不正之风。当然，也有个别单位受社会上做厂服等不正之风影响做了所服，有的买了礼品券，这类问题已经和正在得到纠正，今后一经发现，也必须坚决纠正。<br>    为了妥善解决当前科研单位体制改革中存在的上述问题，提出以下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>科研单位要毫无例外地坚决贯彻中办发〔1985〕6号文件《中共中央办公厅、国务院办公厅关于严格控制发放奖金、补贴的紧急通知》精神，严格政策界限，凡是违反文件规定，不是自己搞承包、组织技术收入，而是用事业费发奖金并超过规定的；背离研究所的方向，弃科经商，从事倒买倒卖的；不顾科研任务完成，乱从课题费中提奖的，均属于不正之风，都要坚决纠正。极少数承包后奖金数额特别大的，要在做好工作的基础上予以适当调整。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>去年科研单位按国家和省政府有关规定发放的奖金，不应属于滥发奖金之列，也不应按不正之风纠正，以免造成思想上的混乱。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>去年的承包合同未兑现的要兑现。课题承包必须继续搞，责任制还要大力推行，改革方案要认真落实，不能吹掉。未提出改革方案的，不能从纯收中提取奖励基金。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>现在，我们正根据《<a href=javascript:ROF(4143,0) class=alink>中共中央关于科学技术体制改革的决定</a>》精神，拟定我省贯彻执行的具体意见及有关政策规定。去年发的文件有的需要作一些小的调整，有的需要补充完善，但总的精神是要比去年放得更开，搞的更活。为了大力推进科技体制改革，我们意见在新文件下达之前，暂按原规定执行。<br>    以上意见如无不妥，请批转各地各部门执行。<br>                                                  河北省科学技术委员会<br>                                                  一九八五年三月二十五日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

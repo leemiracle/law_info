@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82203<BR>&nbsp;&nbsp;【发布文号】黔建房产通发[2000]279号<BR>&nbsp;&nbsp;【发布日期】2000-10-23<BR>&nbsp;&nbsp;【生效日期】2000-10-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省建设厅、省财政厅、省物价局关于<br>
+ 印发房地产管理行政处罚项目及标准的通知<br>
+ </font></p><p align='center'><font class='STitle'>（黔建房产通发〔2000〕279号文2000年10月23日）</font></p>各地、州、市房地产管理局（建设局）、财政局、物价局：<br>    为了规范房地产市场，全国人大、国务院、建设部、省人大、省政府先后出台了一系列有关房地产行政管理的法律、法规、建设部部令、省政府省长令等。其中，在“法律责任”条文中，针对不同的违法行为作了“没收违法所得或处以罚款”等规定。为了更好地贯彻执行国家及省的有关法律、法规，按照《<a href=javascript:ROF(24863,0) class=alink>行政处罚法</a>》及《贵州省行政处罚管理规定》，现将“贵州省房地产管理行政处罚项目及标准”印发给你们，请各地房地产管理局接通知后速到同级财政、物价部门办理相关手续，严格按照法律程序实施监督、管理。<br><br><p class='zhang'>  附：        《贵州省房地产管理行政处罚项目及标准》</p><br><pre><font size=+1><br>┌───────┬─────────────┬────────────┐<br>│ 发布单位时间 │        处罚项目          │        处罚标准        │<br>├───────┼─────────────┼────────────┤<br>│《城市房地产开│1.未取得资质证书或者超越资│1.处5万元以上10万元以下 │<br>│发经营管理条例│质等级从事房地产开发经营的│的罚款；                │<br>│》            │；                        │2.处10万元以上30万元以下│<br>│国务院令248号 │2.将未经验收的房屋交付使用│的罚款；                │<br>│1998年7月20日 │的；                      │3.可处交付使用的房屋总造│<br>│              │3.将验收不合格的房屋交付使│价的2%以下罚款；        │<br>│              │用的；                    │4.没收违法所得，可以并处│<br>│              │4.擅自预售商品房的。      │已收取的预付款1%以下的罚│<br>│              │                          │款。                    │<br>├───────┼─────────────┼────────────┤<br>│《房地产开发企│1.隐瞒真实情况、弄虚作假骗│1.可处以1万元以上3万元以│<br>│业资质管理规定│取资质证书，涂改、出租、转│下的罚款；              │<br>│》            │让、出卖资质证书的；      │2.可处1万元以上2万元以下│<br>│建设部部长令77│2.企业在商品住宅销售中不按│的罚款；                │<br>│  号          │规定发放《住宅质量保证书》│3.可处5千元以上1万元以下│<br>│2000年3月23日 │和《住宅使用说明书的》；  │的罚款。                │<br>│              │3.企业不按规定办理变更手续│                        │<br>│              │的。                      │                        │<br>├───────┼─────────────┼────────────┤<br>│《贵州省城市房│1.未取得《房地产中介服务资│1.可处5百元以上5千元以下│<br>│地产开发经营管│格证书》进行房地产中介活动│的罚款；                │<br>│理条例》      │的；                      │2.可对直接责任者处1百元 │<br>│省人大通过，省│2.未按期办理房屋所有权和土│以上1千元以下的罚款；   │<br>│长令41号 1996 │地使用登记或变更登记的；  │3.处以1百元以上5千元以下│<br>│年10月1日     │3.物业管理企业不履行合同，│的罚款。                │<br>│              │房屋及公用设施、设备修缮不│                        │<br>│              │及时、质量无保证的，私搭乱│                        │<br>│              │建，改变房地产和公用设施用│                        │<br>│              │途的。                    │                        │<br>├───────┼─────────────┼────────────┤<br>│《城市房屋权属│1.以虚报、瞒报房屋权属情况│1.没收其非法所得，并可对│<br>│登记管理办法》│等非法手段获得房屋权属证书│当事人处以1千元以上1万元│<br>│建设部部令57号│的；                      │以下罚款；              │<br>│1998年1月1日  │2.涂改房屋权属证书的；    │2.可对当事人处以1千元以 │<br>│              │3.非法印刷、伪造房屋权属证│上1万元以下罚款；       │<br>│              │书的；                    │3.没收其非法印刷的房屋权│<br>│              │4.未按期进行房屋权属登记的│属证书及非法所得，并可对│<br>│              │。                        │当事人处以1万元以上3万元│<br>│              │                          │以下罚款；              │<br>│              │                          │4.按照原登记费的3倍以下 │<br>│              │                          │收取登记费。            │<br>├───────┼─────────────┼────────────┤<br>│              │1.未经注册擅自以房地产估价│1.没收违法所得，并可处以│<br>│              │师名义从事估价业务的；    │违法所得3倍以下但不超过3│<br>│              │2.在估价中故意提高或者降低│万元的罚款；            │<br>│              │评估价值额，给当事人造成直│2.房地产估价师有处罚项目│<br>│              │接经济损失的；            │2-6款所列行为的，没收违 │<br>│《房地产估价师│3.利用执行业务之便，索贿、│法所得，并可处以违法所得│<br>│注册管理办法》│受贿或者谋取除委托评估合同│3倍以下，不超过3万元的罚│<br>│建设部部令64号│中的约定收取的费用外的其他│款；没有违法所得的，可处│<br>│1998年9月1日  │利益的；                  │以1万元以下罚款。       │<br>│              │4.准许他人以自己的名义执行│                        │<br>│              │房地产估价师业务的；      │                        │<br>│              │5.同时在两个或者两个以上房│                        │<br>│              │地产价格评估机构执行业务的│                        │<br>│              │；                        │                        │<br>│              │6.以个人名义承接房地产估价│                        │<br>│              │业务，并收取费用的。      │                        │<br>├───────┼─────────────┼────────────┤<br>│《已购公有住房│1.将不准上市出售的已购公有│1.没收违法所得，并处以1 │<br>│和经济适用房上│住房上市出售的；          │万元以上3万元以下罚款； │<br>│市出售管理暂行│2.将已购公有住房和经济适用│2.处以1万元以上3万元以下│<br>│办法》        │住房出售后，该户家庭又以非│罚款；或者按照商品房市场│<br>│建设部部令69号│法手段按照成本价（或者标准│价格补齐房价款，并处以1 │<br>│1999年5月1日  │价）购买公有住房或者政府提│万元以上3万元以下罚款。 │<br>│              │供优惠政策建设的住房的。  │                        │<br>├───────┼─────────────┼────────────┤<br>│              │1.未取得<a href=javascript:ROF(13098,0) class=alink>房屋拆迁许可证</a>或者│1.可处以5千元以上3万元以│<br>│              │未按<a href=javascript:ROF(13098,0) class=alink>房屋拆迁许可证</a>的规定擅│下罚款，对非经营性单位或│<br>│              │自拆迁的；                │个人，处以5百元以上1千元│<br>│              │2.委托未取得房屋拆迁资格证│以下的罚款；            │<br>│《贵州省城市房│书的单位或个人拆迁的；    │2.处以3千元以上3万元以下│<br>│屋拆迁管理办法│3.擅自提高或降低补偿安置标│罚款；                  │<br>│》 48号省长令 │准，扩大或者缩小补偿安置范│3.处以5千元以上3万元以下│<br>│2000年7月1日  │围的；                    │罚款；                  │<br>│              │4.拆迁人无正当理由超过规定│4.可处以1万元以上3万元以│<br>│              │拆迁期限或者擅自延长过渡期│下罚款；                │<br>│              │限的；                    │5.可处于5百元以上1千元以│<br>│              │5.被拆迁人违反协议，拒绝腾│下罚款。                │<br>│              │退周转房的。              │                        │<br>├───────┼─────────────┼────────────┤<br>│《城市廉租住房│1.转租廉租住房的；        │1.没收违法所得，处以1万 │<br>│管理办法》    │2.未如实申报家庭收入的；  │元以上3万元以下罚款；   │<br>│建设部部令70号│3.未及时申报家庭收入增加情│2.处以5千元以上1万元以下│<br>│1999年5月1日  │况的，并未按规定腾退廉租房│罚款；                  │<br>│              │的；                      │3.处以5千元以上1万元以下│<br>│              │4.无正当理由，不按期腾退廉│罚款；                  │<br>│              │租住房的。                │4.处以提高后年租金2至5倍│<br>│              │                          │的罚款。                │<br>├───────┼─────────────┼────────────┤<br>│《住宅共用部位│公有住房售房单位未按规定足│处以自应提取之日起未提取│<br>│共用设施设备维│额提取维修基金的。        │额每日万分之三的罚款。  │<br>│修基金管理办法│                          │                        │<br>│》  建设部、财│                          │                        │<br>│政部文件  建住│                          │                        │<br>│房(1998)213号 │                          │                        │<br>│1999年1月1日  │                          │                        │<br>├───────┼─────────────┼────────────┤<br>│              │1.白蚁防治单位无《白蚁防治│1.对单位处以2万元以上3万│<br>│              │资质》承接白蚁防治业务，白│元以下罚款；对个人处以1 │<br>│              │蚁防治人员无白蚁防治《岗位│万元以下罚款；          │<br>│              │证书》从事白蚁防治工作的；│2.处以3万元的罚款；     │<br>│              │2.使用不合格药物进行白蚁防│3.处以1万元以上3万元以下│<br>│              │治的；                    │罚款；                  │<br>│              │3.未建立健全白蚁防治质量保│4.可处以2万元以上3万元以│<br>│              │证体系，未按国家和地方有关│下的罚款；              │<br>│              │城市房屋白蚁防治的施工技术│5.处以1万元以上3万元以下│<br>│              │规范和操作程序进行防治的；│罚款；                  │<br>│              │4.房地产开发企业在办理《商│6.对责任人处以1千元以上1│<br>│《城市白蚁防治│品房销（预）售许可证》和进│万元以下罚款。          │<br>│管理规定》    │行商品房销（预）售时，未按│                        │<br>│建设部部令72号│规定向房地产行政主管部门和│                        │<br>│1999年11月1日 │购房人出具该项目的《白蚁预│                        │<br>│              │防合同》或并未进行白蚁防治│                        │<br>│              │，出具虚假合同的；        │                        │<br>│              │5.非房地产开发企业的建设单│                        │<br>│              │位在办理产权证书时，未向房│                        │<br>│              │地产行政主管部门出具房屋白│                        │<br>│              │蚁预防验收合格证明的；    │                        │<br>│              │6.原有房屋和超过白蚁预防包│                        │<br>│              │治期限的房屋发生蚁害的，房│                        │<br>│              │屋所有人、使用人或者房屋管│                        │<br>│              │理单位未委托具有白蚁防治资│                        │<br>│              │质的单位进行灭治的。      │                        │<br>└───────┴─────────────┴────────────┘<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

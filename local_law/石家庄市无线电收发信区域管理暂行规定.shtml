@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】石家庄市<BR>&nbsp;&nbsp;【发布文号】冀政1982243号<BR>&nbsp;&nbsp;【发布日期】1982-12-02<BR>&nbsp;&nbsp;【生效日期】1982-12-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>石家庄市无线电收发信区域管理暂行规定<br><br></font>(冀政1982243号)</p><br> <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  根据国务院、中央军委关于设置使用无线电台和大中城市划分无线电 收发信区的规定，为加强无线电管理，合理布局无线电台站，有效抑制各种电磁干 扰，充分发挥无线电设备的效能，使人民群众收看电视、收听广播不受干扰，结合 石家庄市的具体情况，特制定本规定。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  石家庄市划分为：东郊和西南郊两个发信区，南郊和西北郊两个收信 区，西郊机场通信导航台设保护区，市区为居民集中区（不包括工业区），东北、西 南和孙村三个工业区。各区域之间的地带为缓冲区。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  新建的各类长、中、短波无线电台、散射站、卫星地面站（不含小型 卫星接收站）以及其它大、中型固定台站，都应按本规定建在收发信区内。 <br><br>    设在居民集中区内的无线电发信机，最大功率不得超过一百瓦。设在缓冲区内 的无线电发信机，最大功率不得超过一百五十瓦，对设置地点有特殊要求的电台， 如小型雷达站、超高频站、微波站、航空导航台，为市区服务的电视台、广播台， 公安军事等部门因工作需要必须设在居民集中区的电台（主要是单台），如功率超过 上述规定，在不影响既设电台工作和对广播、电视接收的情况下，经批准后可越区 设置，城市规划部门在安排城市建设时，要予留通道。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  既设的固定台、站，如其设置地点、发射功率等不符合本规定，有关 各方要积极创造条件，按本规定的要求，有计划地逐步迁至规划区域。搬迁确有困 难时，可暂维持现状，但不得扩建、增大功率和增开电路。 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  收信区内不得设置长、中、短波发信台。 <br><br>    长中波发信台到达收信台技术区边缘的电磁波场强不得超过100毫伏／米，到达居民集中区边缘的电磁波场强不得超过200毫伏／米。 <br><br>    短波发信台技术区边缘（不定向天线）到收信台技术区边缘的最小距离为： 发信机功率（瓦）  0．2－5    10    25以上 最小距离（公里）  4              8    14 <br><br>    干扰源距收信台技术区边缘的最小距离为： <br><br>    干扰源名称                        最小距离（公里） 汽车行驶繁忙公路                          0．5 电气化铁路和电车道                        1．0 工业企业、大汽车场、汽车修理厂、          2．0 拖拉机站及装有高频医疗设备的医院 接收方向的架空通信线                      0．5 在其它方向的架空通信线                    0．2 35千伏以下的输电线在一切方向            0．5 35－110千伏的输电线在一切方向        1．0 110千伏以上的输电线在一切方向          1．0以上 <br><br>    在个别情况下（如设置大功率发信台等），应由城市 规划部门会同有关单位进行选点，并由设计单位进行计 算、测试后确定距离。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  发信台技术区边缘至输电线、架空通信线的 最小距离为： <br><br>                 距架空通信  距1千伏以下输  距1千伏 天  线  名  称   线的最小距  电线的最小距离  以上输电 <br><br>                 离（公尺）  （公尺）        线的最小 <br><br>                                            距离（公尺） 长中波天线发射电   500    按电业部门规定    同  左 力在150千瓦以下             允许在天线设备 <br><br>                             地区进行维护工 <br><br>                             作的距离 长中波天线发射电   1000     同    上        同  左 力超过150千瓦 短波天线发射主向    不小于      同    上        不小于 <br><br>                    250                      250 短波天线其他方向      50      同    上          50 短波弱向天线        200      同    上        200 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  大郭村机场通信导航台设保护区，对周围环境的要求是： <br><br>    1、发信台站离机场通信、导航台站的最小距离 <br><br>    发射功率（瓦）           1 5 25 100 100以上 中长波发信台应离机场通信导航 3 7 16   30    30以上 台站的最小距离（公里） 短波发信台站应离机场通信导航 2 4   8   15    15以上 台站的最小距离（公里） <br><br>    2、各类干扰源应离开机场通信台站的最小距离 <br><br>    干        电    工有    高及    振及    大高 <br><br>              气    业Ｘ            荡高    型频    广 <br><br>    扰        化    企光    压高    式频    发电 <br><br>              铁    业设            电熔    电炉    播 <br><br>    源        路    拖备    输压    焊接    站设 <br><br>              和    拉的            机机    有备    电 <br><br>    名        电    机医    电变            电的 <br><br>              车    站院      电            焊工    台 <br><br>    称        道    及      线站            和厂 <br><br>    距离（公里）  2    3      2      5      2     5以上 <br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  收发信区和保护区周围一公里范围内，不得兴建拥有较大烟灰、侵蚀 性气体和污水的工厂企业（如水泥厂、化工厂、冶炼厂等）。新建35千伏以上的高 压输电线路和架空载波通信线路，一般不得穿越收发信区和保护区，必须穿越时， 要沿既设线路架设，并要征得城建规划部门、环境保护部门和无线电管理委员会同 意。收发信台天线技术区周围建筑物高度不得超过仰角6度。 <br><br>    收发信区和保护区内的天线场地和台站之间均可照常种植农作物，但对易产生 干扰的机作设备，应采取有效技术措施，防止对收信的干扰。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  居民集中区内既设的高频电炉、高频热合机、高频理疗机等工、科、 医电气干扰设备，各有关部门和使用单位在两年时间内均要进行技术改造，其抑制 后的电磁波场强距该设备半径50米范围内不得超过32分贝。对不进行技术改造、 继续污染环境的单位要按有关法律追究责任。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  各级无线电管理委员会要严格控制居民集中区和缓冲区内各类无线电 台站、无线电话机的设置和既设固定台站增大功率、增添设备（包括天线）、增开电 路。各设台单位必须严格遵守审批规定。 <br><br>    经批准设置的2瓦以下各类小型无线电台和无线电话机，除向无线电管理委员 会领取使用证书外，还要按指定的频率、呼号工作。严禁任何单位和个人私自设置 电台和滥用呼号、频率。 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  相邻两个收发信区之间和发信区至居民集中区之间要根据设台情 况，适时建立有线、无线遥控设备。 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  本暂行规定列入城市建设规划，城建规划部门对收发信区和规划区 域以外固定台站工作环境的保护进行监督管理，并应对收发信区的交通、生活、文 教、卫生、公用事业等适时做出统筹安排。各级无线电管理委员会对固定无线电台、 站的布局、设置使用进行监督管理。两个发信区和一个收信区所在县要对区域的建 设和管理工作给予支持。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  本暂行规定的修改权和解释权属省无线电管理委员会。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  本暂行规定自公布之日起施行，凡与本规定不符的，均以本规定为 准。 <br><br>    附：无线电收发信区域划分和管理暂行规定说明； <br><br>    一、规划的收发信区域内绝大多数无线电台站的通信主向为东北方向。 <br><br>    二、各区域内地质构造均为黄土质亚粘土组成，地耐力一般为1．5～2公斤 ／ＣＭ2。地下水位一般在12-15米，流向为西北流向东南。主导风向为东南风 （夏季），次为西北风（冬季）。年平均气温12．9度，最深冻土厚度为53公分。 <br><br>    三、规划进入收发信区的台站占地面积定为：每座中型中波发信台占地1．5 平方公里；每座中型短波发信台占地0．66平方公里；每座小型短波发信台占地 0．4平方公里；每座中型收信台占地0．5平方公里；每座小型收信台占地0．3 平方公里。相邻两座台站间隔为三百米。 <br><br>    四、管理暂行规定第八条中“收发信台天线技术区周围建筑物高度不得超过仰 角6度的规定，是根据省会既设和预增台站均为省范围内的近距离通信而确定的， 因此小于中央“两部一局”对适用于国际通信仰角3度的规定。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82002<BR>&nbsp;&nbsp;【发布文号】桂政发[1988]98号<BR>&nbsp;&nbsp;【发布日期】1988-10-18<BR>&nbsp;&nbsp;【生效日期】1988-10-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 广西壮族自治区人民政府批转区交通厅<br>
+关于改革我区公路管理体制的意见的通知<br>
+</font></p><p align='center'><font class='STitle'>（1988年10月18日桂政发〔1988〕98号）</font></p>    自治区人民政府同意交通厅《关于改革我区公路管理体制的意见》。现转发给你请认真贯彻执行。<br><br>                     关于改革我区公路管理体制的意见<br><br>    根据自治区人民政府领导的布置和交通部关于交通机构改革要实行“转变职能，下放权力，调整机构，精简人员”的指示精神，为深化我区交通体制改革，进一步搞好条块结合，充分发挥地方政府和广大群众建设养护公路的积极性，加速我区公路交通事业的发展，适应发展外向型经济的需要，在广泛征求各地、市人民政府和各级交通部门的意见后，经我厅研究，认为改革我区现行公路管理体制的条件已经具备，时机已经成熟，应抓紧实施。现就改革我区公路管理体制提出如下意见：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>将现在由自治区公路管理局直接领导的八个公路总段（副处级事业单位）下放给所在地区行署领导，归口地区交通局管理；将自治区直辖市所属县的公路段划归所在市人民政府领导，归口市交通局管理。今后，各地区交通原设的公路管理处的主要任务是，负责本地区县乡道路的建设、管理和养护。五个自治区直辖市不再设立公路总段，由市交通局公路管理处负责管理其辖区内的县公路段，直接负责辖区内的国道、省道和县乡道路的建设、管理和养护；地区公路总段的主要任务是，对本地区各县公路段实行直接管理，负责国道、省道的建设、管理和养护。<br>    公路管理体制下放后，任何单位不得任意平调公路部门的财产，不得向公路部门搞摊派，不准突破经自治区编委批准下达的编制定员指标，公路部门的领导班子应保持相对稳定，地区公路总段行政正职领导和养征所所长的变动，应征求区交通厅的意见。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>公路管理体制下放后，区公路管理局要转变职能，主要职责是：负责组织贯彻落实有关公路的方针政策、公路法规；实行对全区公路的行业管理，对全区公路养护管理和县乡道路建设进行业务技术指导；抓好全区干线、国、边防公路的养护和管理，检查工程进度和质量；制订公路养护、路政管理、筑养路机械保修、公路工业等方面的具体政策、规章制度、标准规范和主要定额，并监督执行；参与研究编制全区公路发展规划和公路建设计划，负责编制并实施全区公路养护年度计划，并通过审批和下达指令性计划，确保全区重点干线公路的养护、大中修及改造，使其畅通无阻；组织交流和推广公路方面的科研成果、先进技术和经验；抓好各级公路管理养护部门干部的业务技术培训教育工作。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>在改革公路管理体制的同时，有必要调整交通规费稽征机构，以加强对交通规费的征收管理，确保交通建设有稳定的资金来源。在交通部门分级设立交通规费稽征机构，自治区交通厅设立稽征处，各地市交通局设立稽征所，县交通局设立稽征站，均属自收自支单位，不占行政编制。人员来源，从现有的公路养路费征收人员、车辆购置附加费人员、运输管理费征收人员解决。其他任何单位和个人无权征收和决定减免交通规费。<br>    各种交通规费的征收、管理和使用要政令统一，即实行统一制度，统一计划，专款专用，分级管理，收入基数递增包干，超收分成，收支挂钩，切块包干使用。并按规定向各级财政部门报送各种规费的会计报表，接受财政、审计部门的监督，以确保资金的合理使用。各种交通规费的征、管、用办法如需变动，由原颁发机关修改完善，未制定的由区交通厅商有关部门抓紧制定。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>公路管理体制改革后，既要充分发挥地方办公路的积极性，又要确保全区干线公路的贯通，特别是确保国道、省道等干线公路的畅通和不断改善路况。原公路养护计划的编报审批程序不变，继续贯彻执行区计委、区经委、财政厅、交通厅交计字注〔1987〕822号“关于颁发公路养路费计划使用管理暂行办法的通知”（如需调整另行通知）。区公路管理局和各地、市、县交通局都要把干线公路作为护养重点，特别是把南宁通往各地市的干线沿海地市向内地辐射的干线和旅游干线作为指令性计划加强管理和养护，确保所需的财力、物力和人力，确保交通畅通无阻。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>为保证今后交通基础设施建设所需水泥的稳定供应，大风门水泥厂和红岭坡水泥厂不下放，仍属自治区公路管理局直接领导和管理。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>公路修建和养护的物资供应，在全国物资供应体制未改变以前，渠道不变。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>为了促进公路工程施工向专业化、机械化发展，区公路管理局所属的工程处、队，实行事企业分开，逐步转变为自主经营，独立核算，自负盈亏的广西路桥建设公司，行政上归口公路管理局领导。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>继续深化公路系统的内部改革。公路桥梁工程建设实行公开招标承包；公路养护实行内部企业化管理，积极推行承包养护经济责任制，把任务、质量指标和经费等层层承包，把责、权、利落实到班组、个人，充分调动广大职工的生产积极性。集资、贷款修建的公路、桥梁按规定征收过路过桥费，逐步实现公路交通商品化。<br><p></p><a name='9'><font class='TiaoNoA'>  九、</font></a>公路工程建设和公路养护要逐步实现机械化施工作业，积极采用新技术、新工艺，不断提高施工效率和施工质量。区公路管理局和各公路总段要在两三年内逐步建立起一支现代化的机械化施工队伍，并设立相应的管理机构，切实把各种施工机构管好用好。<br><p></p><a name='10'><font class='TiaoNoA'>  十、</font></a>加强两个文明建设，不断提高公路系统职工队伍的素质。根据公路建设养护工作点多、线长、面广的特点，认真加强对职工的政治思想和遵纪守法教育，加强社会主义职业道德建设。积极开展创建“文明公路”、“文明道班”活动和各种形式的社会主义劳动竞赛。<br>    以上意见，如无不当，请批转各行署、市、县贯彻执行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

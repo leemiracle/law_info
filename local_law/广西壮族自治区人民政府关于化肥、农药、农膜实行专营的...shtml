@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82002<BR>&nbsp;&nbsp;【发布文号】桂政发[1988]123号<BR>&nbsp;&nbsp;【发布日期】1988-12-03<BR>&nbsp;&nbsp;【生效日期】1989-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广西壮族自治区人民政府关于化肥、农药、农膜实行专营的具体规定<br>
+</font></p><p align='center'><font class='STitle'>（1988年12月3日桂政发〔1988〕123号）</font></p>    国务院决定对化肥、农药、农膜实行专营，是治理经济环境、整顿经济秩序的重要措施，也是在化肥、农药、农膜供不应求的情况下，解决市场、价格的混乱状况，维护农民利益，促进农业生产发展的有效办法。现结合我区实际情况，就化肥、农药、农膜实行专营作如下规定：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>对化肥、农药、农膜实行专营<br>    （一）自治区人民政府决定，化肥、农药、农膜由自治区供销社所属各级农业生产资料公司和基层供销社实行专营，其他部门、单位和个人一律不准经营。专营单位要坚持为农业服务的指导思想，进一步深化改革，转变企业机制，尽量减少经营环节，合理组织运输，降低流通费用，提高企业、社会经济效益。<br>    （二）柳化、河氮、鹿化所生产的尿素、硝酸铵（除区计委下达的工业用部分外），无论计划内还是计划外超产肥，均由自治区农资公司统一收购。计划外超产化肥由生产企业和专营单位签订合同；按优惠价格收购。氯化铵、碳铵、钙镁磷肥、普通过磷酸钙，无论是计划内或计划外超产肥，均由各级农资公司按自治区平衡分配计划直接向工厂收购。<br>    各地、市、县小化肥厂生产的化肥，由同级农资公司统一收购经营。超产部分可与专营单位联销、代销，或由工厂直接销售给农民，采取哪种形式由当地政府确定。如本市、县自用有余，需要向外调剂的，由专营单位自上而下逐级平衡调剂。<br>    区内生产的农药，由专营单位收购经营。对稻脚青、草甘磷、叶面宝、三十烷醇四种农药，区内用不完，可由专营单位向区外调剂或由工厂与专营单位联合向外销售，工厂实行以销定产。<br>    区内生产的农膜，凡由自治区统一分配原材料生产的计划产品，由区农资公司和地、市、县农资公司统一收购。非统配原材料生产的品种，由当地专营部门与工厂合同订购。<br>    （三）区直有关部门和各地、市、县自筹外汇进口的化肥、农药、农膜，由自治区农资公司统一办理报批手续，进口后由农资公司和当地农资部门按物价部门审定的价格收购和经营。<br>    （四）原来由糖厂负责供应的蔗糖奖售化肥，改由县农资公司或基层供销社经营，至于兑现给蔗农的具体办法由专营部门与糖业部门共同商订。<br>    （五）设立农药风险基金。为及时支援农业救灾，区、地、县农资公司均需储备一定数量的农药，储备量由本级政府审定，储备资金由农业银行优先贷款。救灾储备贷款的利息以及因此而造成的过期减效或失效的损失，可由专营单位按农药销售总额提取1．5－2％的风险基金解。风险基金在税前提取，专款专用，不能挪作他用，当年用不完或不足部分，可转下年度使用或补充。<br>    （六）基层（县以下，不含县）农业技术推广站和植保站结合有偿技术服务所需用的少量化肥、农药、农膜，由市县专营单位和基层供销社按计划供应。允许有偿转让给农户，但不准加价谋利，也不准进行商业经营或转手倒买倒卖。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>化肥、农药、农膜实行统一计划，分级管理<br>    （一）化肥、农药、农膜的生产和收购及调拨计划，由自治区计委与有关部门平衡衔接后下达，工业部门和专营单位按照计划签订产销合同严格执行。地、市、县自行安排的小化肥生产、收购和调拨计划，以及自行组织原料生产的农药、农膜，由地、市、县计委平衡下达。<br>    为保证农膜的供应，国家分配和地方外汇进口的农膜原料，必须专料专用，由区二轻局按计委平衡的生产计划实行定点生产，原材料直接供应到厂，产品交农资公司收购经营。<br>    （二）纳入自治区统一分配计划的品种有：国家分配和自治区进口的化肥、农药、农膜；区内生产的农药、农膜；河氮、柳化生产的尿素、硝酸铵、氯化铵、碳铵、鹿化生产的钙镁磷肥、普通过磷酸钙。纳入地、市、县计划分配的品种有：自治区分配和当地生产的小化肥，当地进口和外采的化肥、农药、农膜，以及自行组织原料、委托加工的农药、农膜。<br>    （三）非专营部门自筹外汇进口的化肥、农药、农膜，以及与外省联营、协作所得的化肥、农药、农膜，除农垦系统和外贸出口基地自用部分（不准倒卖）外，按保本微利减少流通环节的原则，由专营单位收购经营。<br>    （四）化肥、农药、农膜需要向自治区外串换原材料，由政府计划部门综合协调，尽量用其它产品串换。确需外调少量化肥、农药、农膜的，其外调数量一般不超过计划部门下达的计划产量5％，在编制年度计划时提出，全区计划平衡时纳入年度计划后，有关地方政府和生产企业可按核定数额与区外协作单位签订合同。生产企业及其它单位将生产、进口、购进的化肥、农药、农膜向自治区外销售，均需经区计委核批，由区农资公司签证盖章（包括在车站、港口所运的整车整船或零担农资专营商品），交通运输部门方予承运。不经批准擅自外运外销的，工商行政管理部门给予没收或罚款处理。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>主要品种实行综合价。<br>    （一）自治区用于奖售、专项、救灾、扶贫等计划内化肥（包括尿素、钾肥、复合肥），执行全区统一规定的综合销售价。除上述化肥之外的其他大化肥和小化肥以及农药、农膜均实行以县为单位制定的综合销售价。<br>    （二）化肥、农药、农膜的综合销售价由县以上物价局会同有关部门本着保本微利的原则研究制定。综合销售价的制定原则上一年一定，在执行综合销售过程中，如发生较大变化，出现虚亏和虚盈，可在下次制定综合销售价时考虑这一因素，各专营单位的综合经营费率，可由物价部门重新审定。<br>    （三）化肥、农药、农膜的出厂价，由物价部门会同有关部门核定。河氮、柳化、鹿化生产的化肥由自治区物价局制定出厂价，其他可视情况实行综合出厂价。敌百虫、敌敌畏、甲胺磷、乐果由自治区物价局制定最高出厂限价。农膜实行综合出厂价，由自治区物价局制定。<br>    （四）柳化扩建后新增产的化肥和与川天化联营所得化肥，曾经自治区人民政府批准卖议价用于归还投资贷款本息。这些化肥交区农资公司经营时，其交货价由区物价局会同有关部门审定，在审定时，应考虑到还贷能力，从优定价。各部门和各地区用自有外汇和调剂外汇进口的化肥，交由同级专营部门经营时，亦可参照这一原则定价。<br>    （五）基层农业技术推广站代销的化肥、农药、农膜，要执行当地专营部门的销售价。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>整顿市场，取缔非法经营。<br>    （一）化肥、农药、农膜实行专营后，非专营单位原营业执照中有经营化肥、农药、农膜的，限定在今年年底前，向原发证的工商行政管理部门办理变更换证手续，并立即停止经营这些商品，逾期继续经营者由工商行政管理部门查处并吊销其营业执照、非专营单位现有库存的化肥、农药、农膜，凡价格合适、质量合格的，经商专营单位同意后，予以收购，或限于今年年底前在内外销售完毕。销售对象是农场及附近农户用肥单位，不得挪作它用，不得倒卖。各级银行对非专营单位经营化肥、农药、农膜所需的贷款，一律停止发放。<br>    （二）生产主管部门对化肥、农药、农膜的生产企业严格实行“生产许可证”制度。同时，工厂要实行产品质量的出厂负责制。对没有“生产许可证”的生产企业予以取缔，对制造、销售伪劣产品坑害农民的企业和个人，要依法严惩。<br>    对现有复混配肥厂，由区石化厅会同区工商行政管理局等部门按有关规定进行整顿，符合条件的，由石化厅报化工部核发“生产许可证”，工商局方予以办理登记手续。复混配肥质量要达部颁标准，包装符合《商标法》规定要求，按“以需定产”原则安排生产计划，其产品交专营部门经营，或经过当地政府及上级专营主管部门批准后自销给农民。鉴于我区各种元素化肥严重短缺，今后非经自治区计划部门和专营主管部门批准，不得将复混配肥调出区外。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>严格执行政策，加强群众监督。<br>    （一）各生产企业和专营单位对做好化肥、农药、农膜的供应负有重要责任，必须按计划生产、收购、调拨，按政策及时做好供应，不误农时。各级审计、物价和有关部门要加强对计划、物价执行情况的监督检查。<br>    （二）生产企业、专营单位必须严肃纪律，模范执行国家和自治区人民政府的各项规定，严禁“开后门”、“卖大户”，以权谋私，违者要严肃处理。<br>    （三）加强群众监督。基层供销社分配供应计划和价格要张榜公布，接受供销社社员代表、农民群众的监督。工商行政管理部门要加强对农业生产资料市场管理，鼓励人民群众对高价倒卖化肥、农药、农膜的不法单位和个人，向有关部门进行揭发检举，并对揭发检举人予以保护。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>为加强上述工作的领导，由自治区计委牵头、会同区经委、经贸委、供销社、农业厅、石化厅、物价局、二轻局、糖业公司等单位的领导组成农业生产资料协调小组，负责研究、协商解决化肥、农药、农膜生产、进口、外采、分配、供应中的问题。各地可参照上述办法成立相应的机构。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>本规定从一九八九年一月一日起执行，在此前各级政府、各部门所发有关化肥、农药、农膜生产经营的通知、规定，与上列条款不符的，以本规定为准。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

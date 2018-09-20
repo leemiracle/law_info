@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80202<BR>&nbsp;&nbsp;【发布文号】津政发[1982]172号<BR>&nbsp;&nbsp;【发布日期】1982-09-04<BR>&nbsp;&nbsp;【生效日期】1982-09-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府关于认真贯彻《国务院关于加强领导，<br>
+ 防止企业继续发生重大伤亡事故的紧急通知》的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1982年9月4日津政发〔1982〕172号）</font></p>各区、县人民政府，各委、局，各直属单位：<br>    近几年来，我市在安全生产方面，经过逐步建立健全各级机构，制订必要的规章制度，开展技术培训和安全教育，采取一些安全技术措施，劳动条件有所改善，重大伤亡事故有所下降。但是，今年以来，有些部门、地区和单位的安全情况不好，事故又有增加。一是，工厂企业伤亡事故较多。截至八月十日，共发生三十九起，死亡四十二人，比去年同期上升百分之二十。仅七月份就死亡十二人。一至七月份，重伤二百八十三人，比去年同期上升百分之六点八；发生锅炉、压力容器重大事故十五起，比去年同期上升百分之五十。还发生五起恶性险肇事故，幸未造成严重灾害。二是，重大治安灾害事故比较突出。一至七月份，全市发生重大火灾、车祸、爆炸、翻沉船等事故四十七起，死亡四十二人，伤七十五人，损失近五百万元。与去年同期相比，死伤人数和经济损失都成倍增加。四月十八日和六月二十一日，天津土产杂品公司草制品第二批发部靶□村仓库和中国土产畜产进出口公司天津地毯分公司地毯厂仓库先后发生重大火灾，经济损失四百五十多万元。五月十六日，水上公园发生游船翻沉事故，二十六人溺水死亡，九人负伤，直接经济损失二十多万元。八月十二日，西郊区王稳庄公社院内油库爆炸，七人死亡，五人重伤，六间平房炸毁。三是，尘毒危害也很严重。全市不少铅、苯、汞、有机磷、三硝基甲苯作业点，没有采取有效的防毒排毒措施；一些有铅作业的工厂，铅尘浓度超过国家标准，致使少数工人遭受铅中毒或铅吸收，身体健康受到严重损害。<br>    伤亡事故多、尘毒危害严重的主要原因是：一些工厂企业安全生产条件不好，作业环境比较恶劣；不少工厂企业管理混乱，制度不落实；有些生产管理人员和工人违章指挥、违章操作；对工人缺乏认真的、经常的安全技术和劳动纪律的教育，有些青年工人劳动纪律松弛或无知蛮干。这些问题集中到一点，正如国务院在《紧急通知》中指出的，反映了我们某些经济领导部门和企业主管部门对党中央、国务院有关安全生产的规定、指示没有认真地贯彻执行；一些领导干部长期存在的只抓生产、不顾安全的片面观点没有得到改正；对管理不严、纪律松弛的问题没有引起应有的重视，更没有采取得力措施认真加以解决。总之，安全第一的思想在相当一部分领导干部和工人中还没有牢固地树立起来。<br>    为了进一步认真贯彻执行《国务院关于加强领导，防止企业继续发生重大伤亡事故的紧急通知》，保证人民群众的安全，保护国家财产，促进生产的发展，特作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>各级人民政府、企业主管部门的领导干部都要认真学习国务院的《紧急通知》，牢固地树立“安全第一”的思想。必须明确，保障职工在生产中的安全和健康，是我们国家一项重要政策，是社会主义企业管理的一项基本原则，也是各级领导干部义不容辞的责任。要坚决纠正企业管理混乱、规章制度不严、劳动纪律松弛的状况，坚决反对工作不负责任、对工人安全和国家财产漠不关心的态度和行为。必须联系本系统、本地区、本单位安全工作的实际，从领导思想上、工作部署上进行一次严肃认真的检查。对存在的问题，要分析原因，提出改进的措施，切实把安全工作渗透到生产管理各个环节中去，实现“生产必须安全，安全促进生产”的要求。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>根据国务院《紧急通知》的要求，各地区、各部门、各单位都要在十月底前有组织、有重点地进行一次安全大检查。检查的内容，一是“安全第一”思想是否牢固树立；二是规章制度是否健全和执行情况；三是重大隐患及整改措施。检查的方法，首先由工厂企业发动群众自查，主管公司、局和区、县人民政府组织互查；然后由各委、办进行抽查。市和各区、县的公安、劳动部门要对隐患多、事故危害大的石油、化工、煤气等行业组织检查。这次检查，各级主管生产、安全的负责同志要亲自带队，做到边检查，边解决问题，切不可搞形式，走过场。有的因投资大，当年解决不了的，应首先加强维护和管理工作。同时，把所需费用、物资纳入企业和主管部门的计划，特别重大的投资项目，可报市计委和市经委纳入计划，逐步解决。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>切实加强对职工的安全教育和安全技术培训工作。各厂矿企业及主管部门都要制定计划，在短期内对现有职工普遍地分期分批进行一次有针对性的安全知识和安全技术教育。要严明工作纪律、生产纪律，加强经常性的检查，防止违章指挥、违章操作，并发动群众向违章现象作斗争。对新进厂的工人和特殊工种的工人，要进行安全技术培训和考试。今后，凡新工人没有进行入厂、车间、岗位“三级教育”的，或虽经“三级教育”而考试不合格的，以及特殊工种工人没有取得合格证的，一律不准顶岗操作。各企业和主管部门必须明确，管理的核心是岗位责任制。要明令公布安全生产的规章制度，把安全生产作为考核企业成绩、考评职工工作情况和实施奖惩的重要条件之一，并做到经常化、制度化。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>各局和区、县人民政府要对所属工厂企业的伤亡事故处理情况，认真进行一次检查。对尚未处理的，要尽快处理完；处理不当的，要认真复查，重新处理；该处分的要处分，不能姑息迁就。今后发生事故，一定要按照国家的规定，对有关的领导干部和工人及时进行严肃处理。有关一起事故涉及两个单位的统计、上报问题，要按市劳动局的规定执行。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>各级劳动、公安部门要认真履行职责，加强对安全的监督检查工作。对查出有严重隐患的单位，应明文通知有关单位限期解决；对于隐患特别严重，逾期仍不解决的，经市人民政府批准，可以令其停产改进。同时要注意总结和推广先进经验，督促企业改变落后面貌，在安全生产、文明生产中多做贡献。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>各局和区、县人民政府，要在十月底前将贯彻国务院《紧急通知》和本通知的情况及在安全大检查中发现的问题和改进措施，书面报市劳动局和公安局，由市劳动局和公安局向市人民政府写出综合报告。各委、办也要积极抓好这项工作，并将情况综合后报市人民政府。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

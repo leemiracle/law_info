@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】81508<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】1994-08-27<BR>&nbsp;&nbsp;【生效日期】1994-08-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 青岛市建设监理暂行办法<br>
+ </font></p><p align='center'><font class='STitle'>（1994年8月27日青岛市人民政府发布）</font></p><p class='zhang'>                         第一章  总    则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为改革工程建设管理体制，加快工程建设进度，保证工程质量，提高投资效益，根据国家和省有关规定，结合我市实际情况，制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  本办法所称建设监理是指建设监理单位（以下简称监理单位）受建设单位的委托，对工程建设行为进行的监督与管理活动。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  本办法适用于本市行政区域。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  青岛市城乡建设委员会（以下简称市建委）是全市建设监理的行政主管部门，并具体负责市南区、市北区、四方区、李沧区、崂山区建设监理的行政管理工作。<br>    各县级市和黄岛区、城阳区建设行政主管部门（以下简称县级市建委）按照本办法规定，负责本辖区内建设监理的行政管理工作。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  大中型工程建设项目、限额以上的技术改造项目和利用外资（包括外资、中外合资、中外合作及国外贷款、赠款，下同）的工程建设项目，必须委托监理单位实施建设监理；其它工程建设项目，建设单位基建机构达不到规定条件的，也必须委托监理单位实施建设监理。<br>    <br><p class='zhang'>                        第二章  监  理  单  位</p><br><br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  监理单位是指按规定批准成立并取得建设监理资质证书，经工商行政管理部门核准登记、具有法人资格的工程建设监理公司或监理事务所。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  成立建设监理单位应向市建委或县级市建委提交书面申请和下列文书、资料：<br>    （一）监理单位和房屋使用证明；<br>    （二）法定代表人和技术负责人的姓名、年龄、学历及工作简历等证明，拟担任监理工程师的人员一览表；<br>    （三）单位章程；<br>    （四）建设监理业务范围；<br>    （五）注册资金证明。<br>    对符合条件的，市建委或县级市建委应当予以批准，并由市建委进行资质等级审查，按规定权限确定临时资质等级。<br>    监理单位持市建委或县级市建委批准文件到工商行政管理部门申请注册登记。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  监理单位自批准成立之日起两年后，可向市建委申请资质等级定级。申请定级时，应填写定级申请书并提交《营业执照》、《监理业务手册》、法定代表人与技术负责人证件及其他有关证明文件。<br>    市建委对其人员素质、专业技能、管理水平、资金数量以及实际业绩等进行初审，对符合条件的，签署意见，报有权审定资质等级的主管部门批准，发给《资质等级证书》。<br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  对监理单位的资质等级，每两年核定一次，凡不符合原定资质等级标准的，按有关规定予以降级或撤销；核定资质等级时监理单位可以按有关规定申请升级。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  监理单位按其资质等级承接建设监理业务：<br>    （一）甲级监理单位可承接一、二、三等工程；<br>    （二）乙级监理单位可承接二、三等工程；<br>    （三）丙级监理单位只能承接三等以下工程。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  监理单位在实施建设监理活动中，必须遵守下列规定：<br>    （一）正确执行有关法律、法规、规章；<br>    （二）按照批准的资质等级和建设监理范围承接监理业务；<br>    （三）监理单位的各级负责人和监理工程师不得是施工单位、设计单位、设备制造单位和材料供应单位的经营者或在其中任（兼）职，不得与这些单位发生经营性关系，不得承包施工和建材销售业务；<br>    （四）监理单位不得监理与本单位同一行政隶属关系的设计单位或承建单位承担的工程。<br>    监理单位应当严格履行建设监理合同，不得转让建设监理业务。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  监理单位发生变更、歇业、终止的，应当到原审批机关办理有关手续。<br><br><p class='zhang'>                        第三章  监理工程师</p><br><br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  监理工程师是指按国家规定考试合格并经注册取得《监理工程师岗位证书》的工程监理人员。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  申请参加监理工程师资格考试的，应当具备高级专业技术职称或取得中级专业技术职称后具有三年以上工程设计或施工管理实践经验。<br>    凡具备前款所列条件的人员，可以向市建委提出申请，并报省有审批权的机关批准后方可参加考试。对经考试合格的，由有审批权的机关核发《监理工程师资格证书》。<br>    《监理工程师资格证书》自颁发之日起，五年内未办理注册的，其证书失效。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  监理工程师注册，由聘用监理工程师的监理单位统一向市建委提出申请，经初审合格、并报有审批权的机关批准后，按规定程序办理注册手续，颁发《监理工程师岗位证书》。<br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  《监理工程师岗位证书》每五年复查一次，经复查合格的，继续注册。但对下列情况之一的，予以注销注册并收回《监理工程师岗位证书》：<br>    （一）男性年龄超过65周岁、女性年龄超过60周岁；<br>    （二）五年内未承担过监理业务的；<br>    （三）在监理工作中由于失误造成重大经济损失或发生重大事故的。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  已取得《监理工程师资格证书》但未经注册的人员，不得以监理工程师的名义从事工程建设监理业务，不具备建设监理业务签证权。已经注册的监理工程师只能承担核定专业内的建设监理业务。监理工程师不得以个人名义承接工程建设监理业务。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  监理工程师退出、调出所在监理单位或被解聘，应当向市建委交回其《监理工程师岗位证书》并报有审批权的机关予以核销注册。<br>    核销注册不满五年再从事监理业务的，应当重新申请注册。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  国家机关在职工作人员，不得申请办理监理工程师注册。<br><br><p class='zhang'>                      第四章  监  理  业  务</p><br><br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  建设监理的主要业务内容：<br>    （一）设计阶段：<br>    1．提出设计要求，组织评选设计方案；<br>    2．协助建设单位选择勘察、设计单位，协助签订勘察、设计合同；<br>    3．审查设计概算和施工图预算。<br>    （二）施工招标阶段：<br>    1．准备与发送招标文件，协助评审投标书，为建设单位提出决标意见；<br>    2．协助建设单位与中标单位签订工程承包合同；<br>    3．协助建设单位办理开工报告的审批手续；<br>    4．组织、参加工程设计交底的图纸会审；<br>    5．审查承建单位提出的施工组织设计、施工技术方案和施工进度计划；<br>    6．确认承建单位选择的分包单位；<br>    7．审查承建单位提供的材料和设备清单及规格、数量和质量；<br>    8．监督、检查工程质量和施工进度，进行隐蔽工程检查并签证，参与处理工程质量事故，监督施工现场进行的实验；<br>    9．监督、检查承建单位施工技术管理和质量保证措施的落实，督促承建单位搞好安全生产和施工现场管理；<br>    10．根据工程进度和施工质量，认定工程完成情况，由监理单位负责人授权的监理工程师签署工程拨款凭证；<br>    11．督促建设单位、承建单位履行工程承包合同和工程技术规范、标准；<br>    12．对分项、分部工程进行验收，组织工程竣工初步验收，提出竣工验收报告，协助建设单位组织工程竣工验收；<br>    13．审查工程结（决）算；<br>    14．督促整理有关工程文件和技术档案材料。<br>    （三）保修阶段：在规定的保修期限内，负责工程质量的鉴定和明确工程质量问题的责任，按规定督促维修。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  监理单位承接的建设监理业务，可以由建设单位直接委托或通过招标方式择优委托。建设单位可以根据需要，委托一个监理单位承担工程建设项目全部监理，也可以委托几个监理单位承担不同阶段的监理。<br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  建设单位委托监理单位承担建设监理业务，应当与监理单位签订建设监理合同，主要内容包括：监理范围、双方的权利和义务、监理酬金、争议的解决方式及双方约定的其它事项。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  监理单位与建设单位依据建设监理合同构成委托与被委托关系；监理单位与承建单位是监理与被监理的关系。承建单位必须接受监理单位的监督，并应当为监理工作提供完整的原始记录、检测记录等技术、经济资料。<br><p></p><a name='24'><font class='TiaoNoA'>  第二十四条</font></a>  监理单位必须在签订监理合同后的7日内将《工程建设项目委托社会监理登记表》及合同副本报市建委或县级市建委备案。<br><p></p><a name='25'><font class='TiaoNoA'>  第二十五条</font></a>  监理单位应当根据承担的建设监理业务，编制监理方案，经建设单位同意后，组织项目总监理工程师、监理工程师等工作人员常驻施工现场。<br>    建设单位必须在工程建设实施前，将《工程建设项目委托社会监理登记表》、监理内容、总监理工程师或监理工程师代表姓名及所授予权限，书面通知承建单位。<br><p></p><a name='26'><font class='TiaoNoA'>  第二十六条</font></a>  在建设监理合同履行期间，建设单位对承建单位的指令须通过总监理工程师或监理工程师代表发布。建设单位应当指定一名代表处理派驻现场的总监理工程师或监理工程师提出的有关业务问题。<br><p></p><a name='27'><font class='TiaoNoA'>  第二十七条</font></a>  在实施建设监理过程中，监理单位应当定期向建设单位报告工作情况。未经建设单位授权，监理单位无权变更建设单位与承建单位签订的工程承包合同。<br><p></p><a name='28'><font class='TiaoNoA'>  第二十八条</font></a>  监理单位不履行建设监理职责，或由于派驻现场的监理人员不称职，给建设单位造成重大经济损失，建设单位有权向监理单位提出更换不称职的监理人员和按建设监理合同规定要求赔偿。监理单位拒不更换不称职监理人员的，建设单位可提出解除建设监理合同的要求。<br><p></p><a name='29'><font class='TiaoNoA'>  第二十九条</font></a>  外地和境外监理单位进入本市承担建设监理业务的，须经市建委审查登记。<br><p></p><a name='30'><font class='TiaoNoA'>  第三十条</font></a>  建设监理取费由建设单位和监理单位按所监理工程概（预）算的百分比计收（详见附表）。监理单位不得擅自降低最低取费标准。<br>    利用外资建设项目的监理取费由双方参照国际惯例商定。<br>    建设监理费在建设单位的工程管理费中列支，或在工程概算中单列工程监理费项目支付。<br><br><p class='zhang'>                         第五章  罚    则</p><br><br><p></p><a name='31'><font class='TiaoNoA'>  第三十一条</font></a>  对违反本办法规定的单位和个人，市建委或县级市建委可视情节，按下列规定予以处理：<br>    （一）隐瞒真实情况，骗取资质等级证书的，予以吊销或降低其资质等级；<br>    （二）无证实施建设监理的，责令停止违法行为，没收其非法所得，并处以2000元以下罚款；<br>    （三）建设单位不按规定委托监理的，责令改正，并处以20000元以下罚款；<br>    （四）超越核定的建设监理业务范围从事建设监理活动的，责令改正、停业整顿，并处以20000元以下罚款；<br>    （五）伪造、涂改、出租、出借、转让、出卖资质等级证书的，给予通报批评、降低资质等级、直至吊销资质等级证书的处理，并处以20000元以下罚款；<br>    （六）因监理过失造成重大工程质量事故或重大人身伤亡事故，除按国家有关规定进行处理外，责令停业整顿、降低资质等级直至吊销资质等级证书；对负有责任的监理工程师，可吊销其监理工程师岗位证书或监理工程师资格证书；<br>    （七）违反本办法第十一条（三）、（四）项规定，分别给予警告、通报批评、限期整改、降低资质等级的处理；<br>    （八）违反本办法第十七条规定的，吊销其监理工程师岗位证书或监理工程师资格证书；<br>    （九）违反本办法第二十四条规定的，责令限期上报，并可暂停其建设监理业务；<br>    （十）对未经审查登记，进入本市承担监理业务的外地及境外监理单位，责令其停止监理业务，并处以5000元罚款；<br>    （十一）违反本办法第三十条规定，降低最低取费标准的，按低于最低取费标准的数额处以罚款。<br>    降低监理单位资质等级和吊销资质等级证书、监理工程师岗位证书、资格证书的处理，需报有审批权的机关批准。<br><p></p><a name='32'><font class='TiaoNoA'>  第三十二条</font></a>  市建委或县级市建委做出行政处理决定，应制作行政处理决定书，并送达当事人。当事人对行政处理决定不服的，可以依照《<a href=javascript:ROF(11941,0) class=alink>行政复议条例</a>》和《<a href=javascript:ROF(8969,0) class=alink>中华人民共和国行政诉讼法</a>》的规定，申请复议或提起行政诉讼。<br><br><p class='zhang'>                         第六章  附    则</p><br><p></p><a name='33'><font class='TiaoNoA'>  第三十三条</font></a>  本办法具体执行中的问题，由市建委负责解释。<br><p></p><a name='34'><font class='TiaoNoA'>  第三十四条</font></a>  本办法自发布之日起施行。<br><br>附表：<br><pre><font size=+1><br>                          工程建设监理收费标准<br>  ━━┯━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━  <br>  序号│  工程概(预)算  │设计阶段(含设计   │施工(含施工招标)及保<br>      │    M(万元)     │招标)监理取费a(%) │修阶段监理取费b(%)<br>  ──┼────────┼─────────┼──────────<br>    1 │     M＜500     │      0.2＜a      │      2.5＜b<br>  ──┼────────┼─────────┼──────────<br>    2 │  500≤M＜1000  │0.15＜a≤0.20     │2.00＜b≤2.50<br>  ──┼────────┼─────────┼──────────<br>    3 │  1000≤M＜5000 │0.10＜a≤0.15     │1.40＜b≤2.00<br>  ──┼────────┼─────────┼──────────<br>    4 │  5000≤M＜10000│0.08＜a≤0.10     │1.20＜b≤1.40<br>  ──┼────────┼─────────┼──────────<br>    5 │10000≤M＜50000 │0.05＜a≤0.08     │0.80＜b≤1.20<br>  ──┼────────┼─────────┼──────────<br>    6 │50000≤M＜100000│0.03＜a≤0.05     │0.60＜b≤0.80<br>  ──┼────────┼─────────┼──────────<br>    7 │100000≤M       │  a≤0.03         │b≤0.60<br>  ━━┷━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━━<br></font></pre><br>                                       （青政发［1994］41号）<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

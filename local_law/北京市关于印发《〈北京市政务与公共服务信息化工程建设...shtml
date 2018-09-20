@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京信息办[2002]65号<BR>&nbsp;&nbsp;【发布日期】2002-09-02<BR>&nbsp;&nbsp;【生效日期】2002-09-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市关于印发《〈北京市政务与公共服务信息化工程建设管理办法〉实施细则》的通知<br><br></font>(京信息办[2002]65号)</p><br><br><br>市政府各委、办、局，各区、县信息化工作主管部门，各有关单位：<br><br>    为了进一步贯彻实施《<a href=javascript:ROF(40472,0) class=alink>北京市政务与公共服务信息化工程建设管理办法</a>》，加强对本市政务与公共服务信息化工程建设的管理，保障政府财政投资建设的信息化工程的质量，北京市信息化工作办公室、北京市发展计划委员会、北京市财政局和北京市质量技术监督局结合我市情况，制定了《〈北京市政务与公共服务信息化工程建设管理办法〉实施细则》。现印发给你们，请认真贯彻执行。<br><br>                                         北京市信息化工作办公室 北京市发展计划委员会<br>                                              北京市财政局 北京市质量技术监督局<br>                                                      二○○二年九月二日<br><br>    <br>《北京市政务与公共服务信息化工程建设管理办法》实施细则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了进一步贯彻实施《北京市政务与公共服务信息化工程建设管理办法》，加强对本市政务与公共服务信息化工程建设的管理，特制定本实施细则。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本市行政区域内各级财政投资建设的政务信息化工程和政府为社会提供公共服务的信息化工程，均适用本细则。但隶属中央单位和军事系统的信息化工程除外。<br><br>    本细则所称信息化工程,是指以计算机、通信、广播电视以及其他现代信息技术为主要手段的信息网络建设、信息应用系统建设和信息资源开发等相关工程。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 市信息化工作办公室（以下简称市信息办）是本市信息化工作的主管部门，负责信息化工程建设的统筹规划、综合协调和监督管理。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 市和区、县政府各有关部门要按照各自的职责，加强对信息化工程建设中规划、基础设施建设、互联互通、资源共享和安全保密等事项的监督管理，防止盲目投资和重复建设。鼓励和支持计算机网、通信网和广播电视网的融合。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 本市信息化基本建设项目应当纳入全市固定资产投资计划，信息系统运行维护费用应当纳入同级单位部门预算。<br><br>    区县信息化建设所需资金应当由各区县负责安排。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 建设单位在编制信息化工程项目预算之前应当提前论证。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 对于财政全部补助或者部分补助在200万元以上的重大信息化工程项目（以下简称重大项目），计划主管部门在审批项目时，财政主管部门在审核资金时，应当会同同级信息化主管部门共同审查。<br><br>    对于重大项目，信息化主管部门负责审查：<br><br>    （一）是否符合国家和首都信息化发展规划，并推动信息化发展；<br><br>    （二）是否符合国家和首都信息化相关的政策法规。<br><br>    对审查不合格的，计划主管部门应当不予批准立项；属于财政投资的，财政部门不予拨款。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 第七条规定以外的信息化工程项目，各审批部门应当将有关批准文件抄送同级信息化主管部门备案。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 重大项目应当依法进行招标、投标。<br><br>    在招投标阶段信息化主管部门和质量监督部门参与监督审查。信息化主管部门对招标文件从如下方面进行审查：（一）是否有全面的、可行的信息安全解决方案；（二）是否与现有信息化工程互联互通、资源共享。质量技术监督部门对招标文件从是否符合相关的国家、行业和本市或者国际先进标准角度进行审查。对审查不合格的，招标文件需修改后方可进行招标投标活动。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 从事信息网络和信息应用系统的设计、开发、实施、服务和保障的单位，应当具有信息化主管部门认可的相应资质等级证书。未取得资质等级证书的单位，不得承揽或者以其它单位名义承揽信息化工程；已经取得资质等级证书的单位，不得超越本单位资质等级承揽信息化工程。<br><br>    依法需经建设行政主管部门进行资质认证的，还应当取得建设行政主管部门的有关资质。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 具有信息化主管部门认可的资质等级证书的单位在市信息办的网站上予以公布。建设单位不得将信息化工程项目发包给不具备相应资质等级的单位，<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 列入政府采购目录并具有一定批量的软件、硬件应当进行政府采购。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 从事信息化工程设计、开发、实施、服务的单位，应当执行有关的国家标准、行业标准和本市地方标准。<br><br>    市和区县信息化主管部门要在信息化建设中大力宣贯《首都信息化标准化指南》和《首都信息化标准体系》。<br><br>    各建设单位应当有1名以上通过市质量技术监督部门组织的培训，并取得信息标准化监督员证书的人员从事相关工作。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 在进行信息化工程建设时，应当同时进行安全系统的方案设计和建设。安全系统的方案设计和建设应当能够满足信息系统安全运行的需要，并保证安全建设投入不低于工程项目投资总额的15%。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 信息安全服务提供单位及其相关工作人员应当经过北京信息安全测评中心的资质和资格审查。<br><br>    建设单位应当通过协议或者招标的方式选择具有相应资质等级的信息安全服务单位承担相关业务。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 建设单位应当有1名以上通过信息安全保密培训并取得证书的人员从事相关工作。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 重大项目的建设必须实行监理。监理单位应当具有市信息办认可的资质。<br><br>    建设单位应当通过协议或者招标的方式选择具有相应资质等级的信息系统工程监理单位承担相关业务。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 重大项目的竣工验收，必须有信息化主管部门、质量技术监督部门推荐的专家参与评审；其他项目的竣工验收，建设单位应当根据工程备案管辖邀请市或者区、县信息化主管部门参加。<br><br>    重大项目在验收前应当通过北京信息安全测评中心的测评认证，未经测评认证的，不予验收。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 本市实行信息化工程质量保修制度。承揽信息化工程的单位应当与建设单位签订合同，对信息化工程履行保修责任。保修期自工程竣工验收合格之日起不得少于两年。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 市或者区、县信息化主管部门对信息化工程建设进行监督管理，发现违法行为依法予以处罚或者移送相关主管部门处理。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 违反本《实施细则》的，由市信息办依据《北京市政务与公共服务信息化工程建设管理办法》的有关规定予以处罚。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 各区、县信息化主管部门，可以根据《北京市政务与公共服务信息化工程建设管理办法》结合本区县的实际情况制定相应的实施办法。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 本细则自2002年10月1日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

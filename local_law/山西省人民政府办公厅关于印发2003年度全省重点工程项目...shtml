@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政办发〔2003〕31号<BR>&nbsp;&nbsp;【发布日期】2003-06-27<BR>&nbsp;&nbsp;【生效日期】2003-06-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府办公厅关于印发2003年度全省重点工程项目的通知<br><br></font>(晋政办发〔2003〕31号)</p><br> <br><br>吕梁地区行政公署,各市、县人民政府,省人民政府各委、厅,各直属机构: <br>    2003年度重点工程项目已经省人民政府研究确定,现印发给你们。请有关市(地)、省直有关部门及承建单位认真按照我省重点工程管理要求,积极主动为重点工程项目创造良好的外部环境和建设条件,确保重点工程顺利建设,尽快发挥投资效益。 <br>     <br>             二○○三年六月二十七日  <br><br>       <br>    2003年度全省重点工程项目 <br><br>    一、国家重点工程(1项): <br>    (一)万家寨引黄工程 <br>    二、我省地方重点工程(37项): <br>    (一)晋城矿务局赵庄煤矿(二)阳泉矿务局韩庄煤矿(三)潞安矿务局屯留矿(四)黄河水源太原供水工程(五)张峰水库(六)神头二电厂二期工程(七)大同一电厂热电联产项目(八)大同二电厂二期工程(九)漳泽电厂三期工程(十)河曲电厂(十一)王曲电厂(十二)古交电厂(十三)霍州二电厂(十四)榆社电厂二期(十五)西龙池抽水蓄能电站(十六)大同小营500千伏输变电工程(十七)山西电网中南部500千伏输变电工程(十八)大运高速公路(十九)长治至晋城高速公路(二十)太原西北环高速公路(二十一)汾阳至离石高速公路(二十二)得胜口至大同高速公路(二十三)运城飞机场(二十四)大同飞机场(二十五)山西博物馆(二十六)山西大学艺术楼(二十七)山西省疾病控制中心项目(二十八)太原理工大学多功能文体中心(二十九)太原第二长途电信枢纽(三十)太原邮电综合业务楼(三十一)阳涉铁路(扫尾)(三十二)太钢40万吨冷轧不锈钢改造工程(三十三)山西焦化厂30万吨焦油加工工程(三十四)山西关铝20万吨电解铝改造工程(三十五)中国铝业山西工程(三十六)太原煤气化工程(三十七)省直丽华苑职工住宅工程 <br>    三、重点预备项目(12项) <br>    (一)晋北铝厂(二)山西大剧院(三)山西会展中心(四)大同大学(五)山西鲁能河曲电煤项目(六)山西吕梁焦化厂(七)柳林电厂二期扩建(八)侯马至禹门口高速公路(九)太原至长治高速公路(十)大同云岗煤炭物流中心(十一)马房沟引水工程(十二)南风化工5.5万吨绿色液体洗涤剂生产线改造<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

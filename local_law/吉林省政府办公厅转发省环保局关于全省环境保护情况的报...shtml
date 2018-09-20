@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80702<BR>&nbsp;&nbsp;【发布文号】吉政办发[1994]94号<BR>&nbsp;&nbsp;【发布日期】1994-09-27<BR>&nbsp;&nbsp;【生效日期】1994-09-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>吉林省人民政府办公厅转发省环保局<br>
+关于全省环境保护情况的报告的通知<br>
+ </font></p><p align='center'><font class='STitle'>（吉政办发［1994］94号）</font></p>各市、州、县人民政府，省政府各委办厅局、各直属机构：<br>    省环保局《关于全省环境保护情况的报告》已经省政府同意，现转发给你们，请结合实际，切实落实报告中提出的加强环保工作的各项措施。<br><br>                                          吉林省人民政府办公厅<br>                                                一九九四年九月二十七日<br><br>                       关于全省环境保护情况的报告<br><br>省政府：<br>    前不久，我省高校、科研部门15位学者出于对我省环境状况的关切，就加强环境保护工作致信省委、省政府领导。按照省委、省政府领导批示的意见，现将我省环境保护情况和规划措施报告如下：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>环境状况<br>    我省的环境保护工作在经济持续增长的情况下取得了一定的成绩，但环境质量状况仍不容乐观。总的状况是“局部有所控制，总体仍在恶化，前景令人担忧，环境保护还未能与经济、社会发展相协调。<br>    （一）城市和主要水域污染严重，短期内难以根本改善。据监测，我省市、州所在城市，1992年大气主要污染物总悬浮微粒年均值都超过国家规定的保持人群健康最低标准，有的严重超标，二氧化硫和汽车尾气排放呈明显上升趋势。由于各地均未建设城市污水处理厂，全省主要河流普遍受到污染，80％以上城镇河段污染相当严重。各类噪声也居高不下，生活垃圾“围城”现象普遍存在，而且日趋严重。各城市环境建设普遍落后于城市的发展，城市环境“四害”（大气污染、水污染、垃圾堆放、噪声污染）的解决既需要大规模地进行治理，同时又需要热化、气化、污水集中处理和垃圾无害化处理等治本措施相匹配。因此，城市“四害”短期内还难以从根本上得到解决。<br>    （二）重污染型的工业结构，将使污染呈继续加重的趋势。我省是以汽车、化工、冶金、电力、建材、造纸为主体的粗加工型、原料型的工业结构。大多数企业设备陈旧，工艺落后，不但对资源、能源需求量大，而且污染重、治理欠帐多。随着我省重点工程建设和其他一些项目的投产，如不采取有效的污染防范措施，切实贯彻技改、扩建项目“以新代老”的原则，必须使一些本已没有环境容量的城市和水域污染继续加重。<br>    （三）自然资源破坏和生态环境恶化未能有效地得到遏制。土地资源逐年减少，农业生态环境日趋恶化。全省耕地每年平均以1万多公顷的速度在减少。水土流失严重，每年表土流失量达1亿吨，按速效养份计算，等于流失了全省全年化肥投入量。城市工业和乡镇企业污染，以及化肥、农药的使用，使粮食、蔬菜等受到程度不同的污染，绝大部分地区的猪、牛、羊肉有机氯的检出率达95％以上，有毒农药ＤＤＴ最高含量超过国家规定标准的5倍。草原资源退化和减少，影响了畜牧业的发展。由于不合理开垦、过度放牧、重用轻养，破坏了草原生态平衡，面积减少，能力退化，草量下降。解放初我省有草原草坡面积333万公顷，现降到187万公顷。森林资源减少，森林生态功能减弱。由于长期过度开采，重采轻育，全省森林覆盖率已由40年代的60％下降到80年代的35．9％，近年恢复到37％，但可采资源日趋枯竭。由于森林生态功能明显减弱，致使局部区域雨量减少，水土流失严重。尤其值得注意的是，我省的环境污染不但对本省经济发展和人民生产生活产生影响，而且引起周边国家和邻省的关注。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>规划措施<br>    基于我省的环境形势和近期经济发展目标，到2000年环境保护工作的指导思想是：以经济建设为中心，适应建立社会主义市场经济体制的新形势，解放思想，实事求是，进一步落实环境保护基本国策和我国环境与发展十大对策，推行持续发展战略，强化环境保护部门统一监督、综合管理和宏观调控的职能，继续深化工业污染防治和城市环境综合整治，加强生态环境保护，充分调动社会各方面力量，促进环境质量改善和国民经济持续、快速、健康发展。据此，制定了吉林省2000年环境保护规划，省政府已和各市、州政府签定了本届政府环境保护目标责任书。<br>    到2000年的环境保护目标是：减缓环境污染加剧和生态环境恶化的趋势，保持重点城市环境质量基本稳定，力争部分重点城市的环境质量有所改善，促进局部地区生态环境好转，逐步使环境与经济、社会发展相协调，为实现城乡环境清洁、优美、安静和生态环境良性循环的远景目标打下基础。<br>    具体指标是：到2000年，工业废水处理率达到85％，比1992年提高14．8个百分点；工业废水排放达标率达到65％，比1992年提高8．9个百分点；工业废气处理率达到85％，比1992年提高7个百分点；工业固体废弃物综合利用率达到50％，比1992年提高7．3个百分点；城市放射性废物集中存贮率达到80％；自然保护区面积占国土总面积的9％以上；自然生态环境破坏的恢复治理率力求超过5％。<br>    为确保2000年环境目标的实现，在本届政府任期内（1993－1997年）实施环境保护“3399”工程，即：在市、州所在城市共建成烟尘控制区300平方公里，使烟尘控制区覆盖率达75％以上，初步解决主要城市大气煤烟型污染；抓紧建设长春、吉林、辽源三个城市污水处理厂，解决伊通河、“二松”干流和东辽河城市下游有机污染严重的问题，日处理能力为长春市39万吨、吉林市25万吨、辽源市10万吨；在9个市、州所在城市共建设90平方公里噪声达标小区，使噪声达标区覆盖率达30％以上；在9个市、州所在城市建设符合规范要求的垃圾无害化处理厂，无害化处理率长春为100％、吉林为50％、其他城市达到30％。<br>    为保证2000年环境目标的实现，应进一步采取以下措施：<br>    一是各级政府要切实加强对环境保护工作的领导。保护环境，就是保护和提高人民生活质量的生存条件和使经济得以持续发展的物质基础，是功在当代、利在千秋的公益事业。各级政府要切实负起改善环境质量的责任，将基本国策落到实处。要遵循“经济建设、城乡建设、环境建设同步规划、同步实施、同步发展”的方针，将环境保护规划、计划和措施纳入国民经济和社会发展中长期计划和年度计划，将污染防治费用纳入各级政府预算，确保其实施。对于建设项目，要坚持“先评价、后建设”的原则，实行“环保一票否决权”；对于污染重又难于治理的项目，环保部门不批准，有关部门不予立项。要把环境保护工作情况纳入市、州和省直有关部门领导班子年底政绩考核内容之中。<br>    二是深入开展城市环境综合整治和工业污染防治，加大力度解决突出的环境问题。城市和工业的污染防治是我省环境保护工作重点。城市环境综合整治要以基础设施建设和治理城市“四害”为主要内容，切实纳入城市发展规划，在科学规划的基础上，加快气化、热化、绿化，工业固体废弃物和生活垃圾综合利用以及废水集中处理的步伐。长春、吉林、辽源市要抓紧建设城市污水处理厂，以缓解对松花江、伊通河、东辽河的污染，其他城市污水也要采取治理措施，达到一级处理要求。要彻底改变以大量消耗资源和粗放经营为特征的传统发展模式，采用高新技术和能耗物耗小、污染物排放量少的清洁工艺对企业进行技术改造，实行清洁生产。各市、州到本世纪末都要达到省规划的环境保护指标，以确保全省目标的实现。<br>    三是广开环保资金来源，增加环境保护投入。增加环境保护投入，是尽快改变污染治理落后于经济发展的状况，积极创造使之相协调的必要条件。各级政府要进一步拓宽环保资金渠道，广开环保资金来源。要按照“污染者付费”的原则，全面和足额征收排污费，做到全额有偿使用。根据国家环保局的要求，我省要做好征收资源开发生态环境补偿费和对建设项目实行“三同时”保证金的试点准备，并不失时机地引进国际环保赠款和贷款，用于解决突出的环境问题。<br>    四是进一步加强环保机构和队伍建设。加强环保机构和队伍建设，依法进行环境管理和监督，是促进环境与经济协调发展的重要条件，也是在目前情况下，遏止环境恶化趋势，控制污染蔓延的有效手段。经过多年努力，全省各级政府都相继设置了独立的环保机构，纳入政府序列，并形成了近3000人的环境行政管理、环境监理和环境监测队伍，为有效地保护环境、控制污染发挥了重要作用。各级政府要重视环保队伍的建设，支持环保部门依法监督、依法管理。尤其在机构改革中，要根据国家机构改革原则和我省实际，合理设置各级环境保护机构，强化环境保护职能，加强环境保护工作。<br>    以上报告如无不妥，请予批转。<br><br>                                              吉林省环境保护局<br>                                                  一九九四年八月三十日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

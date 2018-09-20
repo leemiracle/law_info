@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】80103<BR>&nbsp;&nbsp;【发布文号】京信息办[2000]117号<BR>&nbsp;&nbsp;【发布日期】2000-10-30<BR>&nbsp;&nbsp;【生效日期】2000-10-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市关于发布《北京市计算机信息系统<br>
+集成资质管理暂行办法》的通知</font></p>各有关单位：<br>    为了加强我市计算机信息系统集成资质的规范化管理，不断提高计算机信息系统集成单位的能力和水平，确保各应用领域计算机信息系统工程的质量，根据信息产业部信部规〔99〕1047号文件精神和此次机构改革中市政府赋予我办的职能，结合本市实际情况，我办决定建立计算机信息系统集成资质管理制度，开展计算机信息系统集成资质管理工作。凡从事计算机信息系统集成业务的单位，必须通过相应等级的资质认证并取得资质证书。<br>    现将我办制定的《北京市计算机信息系统集成资质管理暂行办法》予以发布，自发布之日起实施。<br><br>                                                    二000年十月三十日<br>                北京市计算机信息系统集成资质管理暂行办法<br>                    （京信息办〔2000〕117号文  <br>                       二000年十月三十日发布）<br><br><p class='zhang'>                            第一章  总则</p><br><br><p></p><a name='1'><font class='TiaoNoA'>  第一条</font></a>  为了加强对本市计算机信息系统集成资质的规范化管理，保证计算机信息系统工程的质量，结合本市实际，依据国家有关规定制定本办法。<br><p></p><a name='2'><font class='TiaoNoA'>  第二条</font></a>  凡在本市行政区域内从事计算机信息系统集成的单位，必须经过资质认证并取得《计算机信息系统集成资质证书》。特殊行业（军事、安全等）除外。<br>    本办法所称计算机信息系统集成是指从事计算机应用系统工程和网络系统工程的总体策划、设计、开发、实施、服务及保障。<br><p></p><a name='3'><font class='TiaoNoA'>  第三条</font></a>  计算机信息系统集成的资质是指从事计算机信息系统集成的综合能力，包括技术、管理、服务的水平，质量的保证能力，人员的构成，经营的业绩，资产、设备的状况等。<br><p></p><a name='4'><font class='TiaoNoA'>  第四条</font></a>  北京市信息化工作办公室（以下简称市信息办）负责本市计算机信息系统集成资质认证的管理工作，包括指定和管理本市资质认证机构、发布管理办法、审批和发放资质认证结果、对本市计算机信息系统集成市场进行监督、检查和管理。<br><p></p><a name='5'><font class='TiaoNoA'>  第五条</font></a>  市信息办下设的北京市计算机信息系统集成资质认证工作办公室（以下简称市资质认证办）是本市计算机信息系统集成资质认证工作的日常办事机构，负责具体组织实施本市计算机信息系统集成一、二级资质的备案和三、四级资质的认证工作。市资质认证办暂设在北京信息安全测评中心。<br><p></p><a name='6'><font class='TiaoNoA'>  第六条</font></a>  从事计算机信息系统集成单位资质认证工作的人员应当具有胜任本岗位工作的能力，坚持公正、公平、公开、科学和实事求是的原则。<br><p></p><a name='7'><font class='TiaoNoA'>  第七条</font></a>  凡需要建设计算机信息系统的单位，应当选择具有相应资质等级的计算机信息系统集成单位来承建计算机信息系统。<br><p></p><a name='8'><font class='TiaoNoA'>  第八条</font></a>  本市计算机信息系统集成资质等级的标准按照信息产业部发布的资质等级评定条件执行。<br><br><p class='zhang'>                       第二章  资质认证的程序</p><br><br><p></p><a name='9'><font class='TiaoNoA'>  第九条</font></a>  申请计算机信息系统集成资质认证的单位（以下简称资质申请单位）应当向市资质认证办办理申请登记手续，如实填写《计算机信息系统集成资质认证申请表》和《计算机信息系统集成资质认证登记表》，并提供有关证明材料。<br><p></p><a name='10'><font class='TiaoNoA'>  第十条</font></a>  申请一、二级的单位按信息产业部计算机信息系统集成资质认证工作办公室（以下简称信息产业部资质认证办）有关规定执行；申请三、四级的单位由市资质认证办组织相关专业人员进行资质评审。<br><p></p><a name='11'><font class='TiaoNoA'>  第十一条</font></a>  资质评审由五名以上相关专业人员组成，对资质申请单位依据本办法和相应的资质等级标准进行审查和评审，包括对资质条件和所完成的项目等进行审查。经过审查和评审后，市资质认证办提出评审意见报市信息办。<br><p></p><a name='12'><font class='TiaoNoA'>  第十二条</font></a>  市信息办审批通过后，向资质申请单位授予相应资质等级的《计算机信息系统集成资质证书》，同时报信息产业部资质认证办备案。<br><p></p><a name='13'><font class='TiaoNoA'>  第十三条</font></a>  经信息产业部资质认证办认证，取得一、二级《计算机信息系统集成资质证书》的单位，应到市资质认证办办理备案登记手续。<br><p></p><a name='14'><font class='TiaoNoA'>  第十四条</font></a>  具有一定的信息系统集成规模和力量，但不具备三、四级所规定的资质等级条件的单位，可以向市资质认证办申请暂定证，具体申请办法另行规定。<br><p></p><a name='15'><font class='TiaoNoA'>  第十五条</font></a>  取得资质等级证书的单位，由于条件改变，需要升级或者降级的，应当按照认证程序重新申请。<br><br><p class='zhang'>                        第三章  资质监督管理</p><br><br><p></p><a name='16'><font class='TiaoNoA'>  第十六条</font></a>  三、四级《计算机信息系统集成资质证书》有效期为四年。市资质认证办对获三、四级《计算机信息系统集成资质证书》的单位每两年进行一次年检。年检及换证时间为每年11月1日至12月31日，本市取得三、四级《计算机信息系统集成资质证书》的单位应当向市资质认证办申请办理年检或者换证手续。<br>    取得一、二级《计算机信息系统集成资质证书》的单位应当向信息产业部资质认证办申请办理年检或者换证手续。<br><p></p><a name='17'><font class='TiaoNoA'>  第十七条</font></a>  市信息办对计算机信息系统集成单位的资质进行监督检查。在监督检查过程中，发现资质情况已经达不到规定条件或者超越自身资质等级承揽工程的，对一、二级资质的单位将有关情况报信息产业部资质认证办，对三、四级资质的单位予以降级或者撤消。<br>    未按时申请年检、换证或者拒绝接受监督检查的单位，视为自动放弃资格。<br><p></p><a name='18'><font class='TiaoNoA'>  第十八条</font></a>  获证单位发生分立、合并或者变更名称、地址、法定代表人和技术负责人等情况的，应当在变更后一个月内向市资质认证办报告变更情况，市资质认证办将根据情况决定是否需要重新审查其资质。<br><p></p><a name='19'><font class='TiaoNoA'>  第十九条</font></a>  本市实行计算机信息系统集成资质认证和监督检查结果公布制度，市资质认证办通过指定的媒体向社会公布资质认证和监督检查结果。<br><p></p><a name='20'><font class='TiaoNoA'>  第二十条</font></a>  获证单位遗失《计算机信息系统集成资质证书》，必须通过由市资质认证办指定的媒体向社会声明作废后，方可申请补领。<br><p></p><a name='21'><font class='TiaoNoA'>  第二十一条</font></a>  本市有关计算机信息系统集成资质认证的情况可以通过市信息办的网站（ｈｔｔｐ：／／ｗｗｗ．ｂｎｉｉ．ｇｏｖ．ｃｎ）查询。<br><br><p class='zhang'>                            第四章  附则</p><br><p></p><a name='22'><font class='TiaoNoA'>  第二十二条</font></a>  本办法由市信息办负责解释。<br><p></p><a name='23'><font class='TiaoNoA'>  第二十三条</font></a>  本办法自发布之日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

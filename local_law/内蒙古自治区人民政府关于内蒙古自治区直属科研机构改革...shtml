@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政发(2001)92号<BR>&nbsp;&nbsp;【发布日期】2001-01-01<BR>&nbsp;&nbsp;【生效日期】2001-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区人民政府<br>关于内蒙古自治区直属科研机构改革中有关政策的补充规定<br><br></font>(内政发(2001)92号)</p><br><br><br>    根据《内蒙古自治区党委、政府关于深化科技体制改革总体框架及科研结构调整的实施方案》（内党发〔1999〕17号）和《内蒙古自治区党委、政府关于全区科研结构调整及人员分流的若干政策规定》（内党发〔1999〕18号，以下简称18号文件）精神，为妥善解决科研院所转制过程中遇到的一些具体问题，保证科研机构改革工作积极稳妥地进行，现就有关政策问题补充规定如下：<br>    一、关于土地问题<br>    自治区直属科研机构转制为科技型企业时，其土地资产处置采用国有土地使用权出让的方式。若不改变土地用途，可按土地部门评估确认值的20％交纳出让金；若改变土地用途，应按新的土地用途的评估确认值的40％交纳出让金。为支持科研机构改革，其交纳的土地出让金可返还80％用于分流人员。社会公益类科研机构改革时，除采用国有土地使用权出让等方式外，仍可保留原行政划拨用地方式。<br>    二、关于科技企业集团的注册资金问题<br>    为了鼓励科研机构转制时组建科技企业集团，在继续执行《内蒙古自治区人民政府批转自治区工商行政管理局关于进一步改进工商行政管理工作为西部大开发提供优质服务若干政策意见的通知》（内政字〔2000〕126号）精神的同时，对原内蒙古冶金研究院、内蒙古计算机研究院、内蒙古轻工研究所设立科技企业集团的资产限额适当放宽，按科技厅的批文规定的标准予以办理集团注册登记。<br>    三、关于科技人员提前退休问题<br>    （一）继续执行《内蒙古自治区党委组织部、人事厅、劳动和社会保障厅、财政厅、科学技术厅、教育厅、卫生厅关于印发内蒙古自治区国有事业单位未聘人员安置暂行办法的通知》（内人发〔2000〕21号，以下简称21号文件）关于“退休与提前退休”、“退职”等有关条款的规定。<br>    （二）2000年12月31日前已具有副高级以上专业技术职称的专业技术人员和院所党政一把手，确因工作需要继续留任的，鼓励其达到国家法定退休年龄办理退休手续。待到办理退休手续时，离退休标准不变，资金渠道由财政解决。由于特殊原因，在达到法定退休年龄之前，需提前退休的，征得本人同意，经审批机关批准，仍按现行的21号文件的规定执行。<br>    （三）自收自支科研机构的提前离退休人员，参照本《补充规定》自行确定。<br>    四、关于科学事业费和调整准备金问题<br>    （一）转制的科研机构原正常的科学事业费继续予以拨付，主要用于解决转制前和转制过程中离退休人员的社会保障问题。以后年度按政策新增的事业费集中使用，作为科研机构技术开发研究专项资金，由财政主管部门和科技行政主管部门共同管理，择优支持实行转制的科研机构的改革与发展。<br>    （二）为确保科研机构转制目标的如期实现，根据18号文件的规定，自治区将安排一定数额的调整准备金，主要用于自治区直属技术开发类科研机构的转制重组、人员培训以及转制过程中必须进行的资产评估、产权界定和产权登记、工商登记等。调整准备金实行专项使用的办法。<br>    五、关于税收优惠政策问题<br>    （一）向企业转制的科研机构，从事技术转让、技术开发及其相关技术咨询、技术服务的收入，免征营业税；从转制之日起5年内免征企业所得税，免征科研开发自用土地的城镇土地使用税，免征自用仪器设备进口关税和进口环节增值税，免收科技业务用房的建设配套费。科研机构进入企业后，仍然从事科技开发并实行经济独立核算的，享受上述政策。<br>    （二）科研院所转为企业后，可继续按科研单位审核条件授予外贸进出口自营权。<br>    六、关于技术开发类科研机构养老保险问题<br>    （一）已参加当地基本养老保险社会统筹的技术开发类科研机构，其养老保险按国家和自治区现行的政策规定执行；未参加当地基本养老保险社会统筹的技术开发类科研机构，转制后从2001年1月1日起都要纳入企业基本养老保险社会统筹，2001年1月1日前的连续工龄视同缴费年限，不再补缴养老保险费。<br>    （二）凡符合21号文件规定提前退休的人员，在转制前已经离退休的，原离退休费待遇标准不变，由原财政渠道解决。转制前参加工作、转制后退休的人员，其基本养老金的计发按照企业职工基本养老保险制度的规定执行。为保证离退休人员待遇平衡过渡，在5年过渡期内，按照企业基本养老金计发办法计发养老金，如低于按原事业单位退休金计发办法计发的养老金，其差额部分（以下简称待遇差），采用加发补贴的办法解决，所需费用从基本养老保险统筹基金中支付。其中，2001年1月1日后退休的，发给待遇差的90％；2002年1月1日后退休的，发给待遇差的70％；2003年1月1日后退休的，发给待遇差的50％；2004年1月1日后退休的，发给待遇差的30％；2005年1月1日后退休的，发给待遇差的10％；2006年1月1日后退休的，不再加发该项补贴。有条件的单位可建立补充养老保险。<br>    （三）转制后参加工作的人员，都要依法参加养老保险，按规定执行当地企业职工基本养老保险制度。<br>    （四）科研院所未聘人员按照21号文件执行。未聘待业人员重新就业后，应按照国家和自治区的有关规定参加当地的社会保险，其社会保险统筹金由原单位及职工本人分别缴纳。2001年1月1日前的工龄视同缴费年限。待业期间医疗保险金由原单位代交，按规定享受有关待遇。<br>    七、关于科研机构承担检验、检测职能的问题<br>    经自治区人民政府有关部门重新审核认定继续承担质量技术检验、检测职能的科研院所，转制后要保持相关业务的稳定，并接受有关部门的监督和业务指导。自治区财政要实行收支两条线管理，并给予必要的经费支持。<br>    八、关于国家部属院所属地化管理问题<br>    国家部委驻自治区科研机构实行属地化管理的，享受自治区直属科研院所的相关政策。<br>    九、关于参照执行国家有关科技体制改革政策问题<br>    除上述规定以外，实行转制的科研机构可以参照执行国家经贸委管理的10个国家局所属科研院所管理体制改革的各项政策；按非营利科研机构运行和管理的科研院所，参照执行《国务院办公厅转发科技部等部门关于深化科研机构管理体制改革实施意见的通知》（国办发〔2000〕38号）和《国务院办公厅转发科技部等部门关于非营利性科研机构管理的若干意见（试行）的通知》（国办发〔2000〕78号）的规定以及其它的相关政策。<br>    十、其它<br>    本规定自发布之日起执行。<br>    自治区过去的有关规定与本规定相抵触的，均按本规定执行。<br>    本规定由内蒙古自治区科教兴区领导小组办公室负责解释。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

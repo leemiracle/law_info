@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】82202<BR>&nbsp;&nbsp;【发布文号】黔府办[1991]41号<BR>&nbsp;&nbsp;【发布日期】1991-08-28<BR>&nbsp;&nbsp;【生效日期】1991-08-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】地方法规<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府关于调整粮食购销政策的通知<br>
+ </font></p><p align='center'><font class='STitle'>（1991年8月28日黔府办〔1991〕41号）</font></p>    根据国务院发［1991］3号《国务院关于调整粮食购销政策有关问题的通知》精神，为进一步搞活粮食流通，促进粮食生产的发展，保持粮食市场的稳定，缓解粮食供求矛盾，特作如下通知：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>继续实行粮食购销调拨包干办法。为了保持政策的稳定性和连续性，1991至1992年度，省对各地、州（市）的粮食包干指标，按1990年度计划，略加调整，继续执行两年。一是取消原定非农业销售每年递增1.5％的规定。<br>二是取消省间“议转平”大米调拨的指令性计划和调入每公斤大米增加3分补贴的规定。各地所需“议转平”的粮食应本着“先省内后省外”的原则，由各地自行组织调剂解决。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>稳定国家粮食定购任务。国家粮食定购，作为农民应尽的义务，必须保证完成。省对各地定购任务及品种计划不变。地、县内个别任务畸轻畸重以及基建占地、培育良种、稻田改旱作等需要调整任务的，由各地在确保完成省分任务前提下，用地、县掌握的机动指标自行调剂解决。原来没有机动指标的，地县两级可在省定任务的基础上增加10％以内的机动指标。农业税复征县，超定购任务多收的粮食，按黔府〔1990〕60号文件规定，由省财政拨付加价款和化肥平议价差款作为省级粮食储备，不准搞小仓库或作议价销售。“三挂钩”政策及省定奖售标准不变；为确保及时兑现，柴油平议差价款改由省石油公司交省财政厅下拨各地。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>压缩平价粮食销售。自1988年以来，省政府已决定压销的项目，即除奶牛外的饲料用粮、副食酿造用粮、城乡各项补贴用粮，特制粉折差供应，菜农口粮按比例价供应并实行以人定量等项目以及各地自行决策出台的压销项目，都要坚持执行，不走回头路。城镇居民（含高空、高温、井下工人和野外勘探人员）口粮定量在13.5公斤以上的，除在校大中专学生外，继续执行每人每月节约1公斤<br>粮食定量支援灾区。压销节约的经费按省政府有关规定处理，为支持饲料工业的发展，生猪换购粮可以折算配（混）合饲料供应。要严格控制“农转非”，认真执行人口指标与政策规定双向控制办法，各地不得自定政策，不得突破省下达的“农转非”控制计划。要切实加强对平价粮油销售管理，城镇供应要坚持每年进行一次检查整顿，健全制度，堵塞漏洞，把不合理的销量坚决压下来；农村的缺粮供应，要区别不同对象和自救能力，采取多种渠道、多种形式解决。救济粮和回销粮必须保证重点、专粮专用，决不允许任何单位和个人截留、挪用。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>积极搞好油菜籽（油）的经营工作。为减少油菜籽（油）的积压，要想方设法加强推销。1992年的油菜籽收购价格按国家规定的50公斤70.4元执<br>行。以县为单位完成收购任务的允许多渠道经营。奖售化肥和返油、返饼标准不变。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>加强对议价粮油经营的领导和管理，搞好市场调节。随着粮油购销体制改革的深入，议价粮油的经营范围和数量将不断扩大，要进一步强化国营粮食部门在经营议价粮油中的主渠道和“蓄水池”作用。粮油议价经营的主要任务是促进生产，调剂余缺，活跃市场，稳定价格，为工农业生产服务，为人民生活服务。各级政府要在加强对议价部门的领导和管理中，对他们合法经营不宜过多干予，以免造成不必要的企业亏损。要认真贯彻黔府办〔1991〕7号文件，工商行政管理部门和粮食部门对议价粮油批发企业进行认真的清理和整顿，切实发挥国营粮食部门的主渠道作用，为了加强议价粮油的经营管理，从1991年，各县粮油议价企业应从利润总额中提取2％的管理费（交省粮贸公司1％，交地、州、市粮贸公司1％）。省对各地的议价粮油购销和调剂，实行指导性计划管理，按年度制定下达分地区的购销计划。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>改进粮食财务管理办法。要继续坚持粮食财务分级管理的原则，加强省、地两级粮食主管部门的调控手段，调动各级主管部门加强财务管理和监督的积极性，省财政厅和省粮食局要根据《贵州省粮食财务包干管理暂行办法》，加强对粮食财务的管理，并根据办法商定具体实施意见，下达各地。<br><p></p><a name='7'><font class='TiaoNoA'>  七、</font></a>改善企业经营机制，增强企业活力。目前我省粮油工业企业推行价拨加工的面已扩大到60％左右，要不断完善，普遍推行，由低级向高级发展，从深加工中增加产值。价拨作价或加工费明显不合理的要作适当调整。粮食企业按照国家计划和政府决策从事粮油经营发生的政策性亏损，省财政要给予合理补贴。对农村粮管所（站）试行政策性亏损定额补贴办法，对城镇粮店试行批零差经营办法，对独立核算的粮油仓库，试行栈租经营，对搞活粮食企业有着积极作用，今年各地、州（市）要选择一个县或一个点进行自费改革试点。粮食基层企业担负着国家粮油购销和活跃市场、保证城乡人民生活的重要任务，要积极开展以粮油食品加工为主的多种经营，方便人民生活。粮管所、站、店的经营设施改造和粮食购销网点的建设，要纳入各地基本建设更新改造和城镇建设发展规划，并切实安排好。本着分级负责的原则，各级各有关部门要在用电、燃料、原材料供应、资金、贷款利息、价格等方面给予支持。<br>    饲料企业是新兴农用工业，对畜牧业和养殖业的发展有极大的促进作用，各地要大力扶持饲料工业的发展，根据需要，对仓容不足的饲料企业，应从批准减免的各项税费中安排，如有不足，经省财政厅审核批准后可在销售总额中提取1％用于建仓。<br><p></p><a name='8'><font class='TiaoNoA'>  八、</font></a>提高粮食自给水平，建立粮食储备，增强对粮食的宏观调控能力。我省粮食总需求超过总供给的格局在短期内很难改变。这是制约我省经济发展的重要因素，各级政府对此必须保持清醒的认识，认真贯彻省委、省政府制定的“稳定面积，提高单产，稳定调入，逐步提高自给水平”的方针，在增加粮食生产，保障有效供给的同时，要采取有力措施，抓好计划用粮和节约用粮。要发扬勤俭节约的美德，实行科学管粮、保粮、努力减少损耗、杜绝浪费。要提倡藏粮于民，储粮备荒，动员集体和农户丰年多储存一些粮食。要根据粮食收成情况，逐步建立省、地、县的粮食储备，根据市场情况适时吞吐，平抑粮价调节供求，增强国家对粮食的宏观调控能力。<br>    粮食购销政策的调整，涉及面广，工作难度大，各级人民政府必须高度重视，加强领导，周密部署，按照国务院和省政府的有关指示，积极、稳妥、有计划地组织实施，以促进粮食生产的发展，保持社会的稳定。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>
