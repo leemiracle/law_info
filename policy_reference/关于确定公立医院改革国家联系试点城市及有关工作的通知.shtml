@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院深化医药卫生体制改革领导小组办公室 卫生部<BR>&nbsp;&nbsp;【发布文号】卫医管发〔2010〕23号<BR>&nbsp;&nbsp;【发布日期】2010-02-22<BR>&nbsp;&nbsp;【生效日期】2010-02-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohylfwjgs/s3586/201002/46063.htm" target=_blank>医疗服务监管司 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于确定公立医院改革国家联系试点城市及有关工作的通知 <br><br></font>(卫医管发〔2010〕23号)</p> <br><br><br>    各省、自治区、直辖市及计划单列市、新疆生产建设兵团医改领导小组：<br><br>    2009年8月国务院医改领导小组办公室下发《关于公立医院改革试点城市申报工作的通知》后，各地政府高度重视，积极组织试点申报工作，共有28个省（区、市）的40个城市（城区）申报了试点。卫生部会同中央编办、国家发展改革委、财政部和人力资源社会保障部，按照当地党委政府高度重视、工作基础扎实、兼顾东西部地区、以地市级为主等原则，在认真审核各地申报资料的基础上，提出了国家联系试点城市建议名单。2009年12月22日，国务院医改领导小组召开第五次会议，确定辽宁省鞍山市等16个城市为公立医院改革国家联系试点城市（见附件1）。根据国务院医改领导小组第五次会议部署，经商中央编办、国家发展改革委、财政部和人力资源社会保障部，现将公立医院改革国家联系试点城市名单印发你们，并就试点工作提出如下要求。<br><br>    一、切实加强对公立医院改革试点的领导。各国家联系试点城市人民政府要充分认识公立医院改革的重要性、艰巨性和复杂性，发挥好国家联系试点城市“排头兵”作用，强化责任感和使命感，成立公立医院改革试点工作领导小组，落实工作人员，健全工作机制，统筹组织公立医院改革试点工作，切实加强对试点工作的领导。各省级医改领导小组应切实加强对试点的指导和支持，并明确承担公立医院改革试点组织协调工作的具体部门。试点城市卫生部门要会同编办、发展改革（物价）、财政、人力资源社会保障（人事、劳动保障）等有关部门，按照各自职责，密切配合，共同做好调查研究、方案制定、组织动员、基线调查、人员培训、新闻宣传、评估考核和信息上报等各项工作。<br><br>    二、科学制定公立医院改革试点实施方案。各国家联系试点城市要按照《中共中央 国务院关于深化医药卫生体制改革的意见》、国务院《医药卫生体制改革近期重点实施方案（2009―2011年）》和《关于公立医院改革试点的指导意见》的要求，在充分调研、精心测算、多方论证、广泛征求意见的基础上，针对本地公立医院的突出问题，结合本地工作基础和环境条件，制定公立医院改革试点实施方案。实施方案应当坚持中央确定的方向和原则，努力细化、实化、具体化，突出重点方面和关键环节，深入探索，大胆尝试，力求有所突破。既可以推进综合改革，也可以重点突破个别或若干关键环节；既可以在全市范围内县级（二级）以上公立医院开展试点，也可以选取部分有代表性的公立医院进行试点。<br><br>    三、积极稳妥推进公立医院改革试点工作。各国家联系试点城市要围绕试点实施方案，制订并落实试点的各项配套政策措施，尽快部署启动试点工作。加强对公立医院改革相关部门人员和公立医院院长的培训，提高推进公立医院改革的管理能力。加强对公立医院改革试点工作重大意义、指导思想、基本原则、主要任务和政策措施的新闻宣传工作，争取广大人民群众和社会各界的理解和支持。认真组织开展基线调查，为今后开展试点评估工作提供基线数据。加强对试点情况的监测，收集有关数据，定期上报省级有关部门和卫生部。及时研究解决试点过程中遇到的问题和困难，不断总结试点经验，完善相关政策措施，推动试点工作深入开展、不断提高，实现让老百姓得实惠、让医务人员受鼓舞的改革目标。在试点过程中遇到的重要情况和重大问题，取得的重大进展和重要经验，请及时向卫生部和相关部门报告。<br><br>    请各国家联系试点城市抓紧制定试点实施方案，由省级医改领导小组审核后组织实施，并于2010年4月底前报送卫生部和国务院医改领导小组办公室备案。为了加强中央和地方的沟通联系，请将试点城市分管公立医院改革试点工作的市政府领导、承担公立医院改革试点具体组织协调任务的部门负责同志和联络人名单、联系信息以及省级分管公立医院改革试点的政府领导、承担公立医院改革试点协调和指导工作的部门负责同志和联络员名单、联系信息（见附件2），3月10日前报送卫生部和国务院医改领导小组办公室。<br><br>    根据2月2日国务院常务会议部署，各省（区、市）要分别选择1至2个城市或城区开展公立医院改革试点，积极稳妥开展公立医院改革试点工作。此前各省级医改领导小组申报的城市可作为本省（区、市）的试点城市（城区）。请没有国家联系试点城市的其余省（区、市）于3月10日前将本省（区、市）试点城市名单及本省（区、市）承担公立医院改革试点协调工作的部门负责同志和联络员名单、联系信息（见附件3）报卫生部和国务院医改领导小组办公室。<br><br>    联系人：卫生部医疗服务监管司方地春、胡翔、钟东波<br><br>    电话：010－68792770、68792198、68792067<br><br>    传真：010-68792772<br><br>    邮箱：yunxingchu-moh@163.com<br><br>    附件：1．公立医院改革国家联系试点城市名单.doc<br><br>          2．公立医院改革国家联系试点分管领导和联系人情况表.doc<br><br>          3．公立医院改革省级联系试点分管领导和联系人情况表.doc<br><br>    国务院深化医药卫生体制改革领导小组办公室<br><br>    卫 生 部 <br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

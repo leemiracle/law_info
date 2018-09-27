@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳证券交易所<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2010-02-01<BR>&nbsp;&nbsp;【生效日期】2010-02-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.szse.cn/main/disclosure/bsgg/39741814.shtml" target=_blank>深圳证券交易所 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳证券交易所上市公司股东大会网络投票实施细则（2010修订）<br><br></font></p><br><br><br>    各上市公司、会员单位：<br><br>    为适应创业板上市公司股东大会网络投票和融资融券业务中投资者委托投票的最新需求，方便上市公司股东行使股东大会表决权，进一步保护投资者的合法权益，本所对2006年4月19日发布的《深圳证券交易所上市公司股东大会网络投票实施细则（2006修订）》（深证上〔2006〕35号）进行了修订，现予以发布，请遵照执行。本所发布的《深圳证券交易所上市公司股东大会网络投票实施细则（2006修订）》（深证上〔2006〕35号）、《关于对上市公司股东大会网络投票系统进行优化有关事项的通知》（深证上〔2006〕62号）同时废止。<br><br>    特此通知<br><br>    附件：深圳证券交易所上市公司股东大会网络投票实施细则（2010修订）<br><br>    深圳证券交易所 <br><br>    二○一○年二月一日 <br><br>    附件：<br><br>    深圳证券交易所上市公司股东大会网络投票实施细则（2010年修订）<br><br>    <font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为规范上市公司股东大会网络投票业务，保护投资者的合法权益，根据有关法律、行政法规、部门规章、规范性文件和深圳证券交易所（以下简称“本所”）业务规则，制定本细则。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本细则适用于上市公司利用本所股东大会网络投票系统向其股东提供股东大会或者相关股东会议网络投票服务。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本细则所称上市公司股东大会网络投票系统（以下简称“网络投票系统”）是指本所利用网络与通信技术，为上市公司股东非现场行使股东大会表决权提供服务的信息技术系统。<br><br>    网络投票系统包括本所交易系统、互联网投票系统（网址：http://wltp.cninfo.com.cn）。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 上市公司召开股东大会，除现场会议投票外，鼓励其向股东提供股东大会网络投票服务。<br><br>    股东大会议案按照有关规定需要同时征得社会公众股股东单独表决通过的，或根据上市公司章程规定需要进行网络投票的，除现场会议投票外，上市公司还应当向股东提供股东大会网络投票系统。<br><br>    对于监事会或股东自行召集的股东大会，且上市公司董事会不予配合的情形，股东大会召集人可比照本细则的规定办理网络投票的相关事宜。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 股东大会股权登记日登记在册的所有股东，均有权通过网络投票系统行使表决权。<br><br>    如同一股东分别持有上市公司A、B股的，股东应当通过其持有的A股股东账户与B股股东账户分别投票。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 本所授权深圳证券信息有限公司（以下简称“信息公司”）接受上市公司委托，提供股东大会网络投票服务。<br><br>    <font class='zhang'>第二章</font> 网络投票的准备工作<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 上市公司在股东大会通知中，应当对网络投票和累积投票的投票代码、投票议案号、投票方式等有关事项做出明确说明。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 上市公司股东大会采用网络投票方式的，上市公司应当在网络投票首日的三个交易日之前（不含当日）与信息公司签订协议，并提供股权登记日登记在册的、包括股东名称、股东账号、股份类别、股份数量等内容的全部股东资料的电子数据。<br><br>    <font class='zhang'>第三章</font> 采用本所交易系统的投票<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 上市公司股东大会采用本所交易系统投票的，现场股东大会应当在交易日召开。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 通过本所交易系统进行网络投票的时间为股东大会召开日的本所交易时间。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 本所交易系统对网络投票的股东大会设置专门的投票代码及投票简称。主板、中小板的投票代码为“36+股票代码的后四位”；创业板的投票代码从“365000”起，按股票代码后四位顺序号编制，如股票代码为“300001”，则投票代码为“365001”；投票简称为“XX投票”，投票简称由上市公司根据原证券简称向本所申请；本所在“昨日收盘价”字段设置该次股东大会讨论的议案总数。股东进行网络投票的具体规定如下：<br><br>    （一）买卖方向为买入；<br><br>    （二）在“委托价格”项填报股东大会议案序号。如1.00元代表议案1，2.00元代表议案2，依此类推。每一议案应以相应的委托价格分别申报。<br><br>    对于逐项表决的议案，如议案2中有多个需表决的子议案，2.00元代表对议案2下全部子议案进行表决，2.01元代表议案2中子议案①，2.02元代表议案2中子议案②，依此类推。<br><br>    对于选举董事、由股东代表出任的监事的议案，如议案3为选举董事，则3.01元代表第一位候选人，3.02元代表第二位候选人，依此类推；<br><br>    （三）对于采用累积投票制的议案，在“委托数量”项下填报选举票数；对于不采用累积投票制的议案，在“委托数量”项下填报表决意见，1股代表同意，2股代表反对，3股代表弃权；<br><br>    （四）对同一议案的投票只能申报一次，不能撤单；<br><br>    （五）股东大会有多项议案需表决时，可以设置“总议案”，对应的议案号为100 （申报价格为100.00元）。<br><br>    （六）不符合上述规定的投票申报，视为未参与投票。<br><br>    <font class='zhang'>第四章</font> 采用互联网投票系统的投票<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 互联网投票系统开始投票的时间为股东大会召开前一日下午3：00，结束时间为现场股东大会结束当日下午3：00。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 股东通过互联网投票系统进行网络投票，需按照《深圳证券交易所投资者网络服务身份认证业务实施细则》的规定办理身份认证，取得“深圳证券交易所数字证书”或“深圳证券交易所投资者服务密码”。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 股东登录互联网投票系统，经过身份认证后，方可通过互联网投票系统投票。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 股东通过网络投票系统投票后，不能通过网络投票系统更改投票结果。<br><br>    <font class='zhang'>第五章</font> 股东大会表决结果及决议<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 股东大会有多项议案，某一股东仅对其中一项或者几项议案进行投票的，在计票时，视为该股东出席股东大会，纳入出席股东大会股东总数的计算；对于该股东未发表意见的其他议案，视为弃权。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 对于采用累积投票制的议案，上市公司股东应当以其所拥有的选举票数为限进行投票，如股东所投选举票数超过其拥有选举票数的，其对该项议案所投的选举票视为弃权。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 股东对总议案进行投票，视为对除累积投票议案外的其它所有议案表达相同意见。<br><br>    在股东对同一议案出现总议案与分议案重复投票时，以第一次有效投票为准。如股东先对分议案投票表决，再对总议案投票表决，则以已投票表决的分议案的表决意见为准，其它未表决的议案以总议案的表决意见为准；如果先对总议案投票表决，再对分议案投票表决，则以总议案的表决意见为准。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 合格境外机构投资者（QFII）和在本所开展融资融券业务的会员，如果需要根据委托人（实际持有人）的委托对同一议案表达不同意见的，可以通过本所互联网投票系统进行分拆投票。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 上市公司同时通过本所交易系统和互联网投票系统为股东提供网络投票服务的，网络投票系统对以上两种方式的投票予以合并计算。网络投票系统按股东账户统计投票结果，如同一股东账户通过以上两种方式重复投票，股东大会表决结果以第一次有效投票结果为准。<br><br>    上市公司可在现场股东大会投票结束后，通过互联网投票系统取得网络表决结果。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 投资者可于次一交易日在证券营业部查询其使用交易系统进行网络投票的结果。<br><br>    对于总议案的表决意见，在投票结果的统计、查询和回报的处理上，分拆为对各项议案的投票，在查询投票结果回报时，显示为对各项议案的表决结果。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 上市公司应当将律师出具的法律意见以及股东大会表决结果，按照有关规定进行披露。<br><br>    <font class='zhang'>第六章</font> 附则<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 本所会员应当比照有关法律、行政法规、部门规章、规范性文件和《深圳证券交易所交易规则》的相关规定妥善保管股东投票记录，不得盗用或假借股东名义进行投票，不得擅自篡改股东投票记录，不得非法影响股东的表决意见。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 本所会员通过本所交易系统报送的网络投票数据量不计入计收席位管理年费申报量的范围，本所会员应当按要求提供投资者关于交易系统网络投票结果的查询服务。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 上市公司应当承担网络投票的服务费用。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 因不可抗力、意外事故、技术故障以及其他非本所或信息公司所能控制的异常情况导致网络投票系统不能正常运行，以及本所或信息公司采取相应措施造成投资者不能正常投票的，本所及信息公司不承担责任。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 本细则由本所负责解释。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 本细则自发布之日起施行。本所发布的《深圳证券交易所上市公司股东大会网络投票实施细则（2006修订）》（深证上〔2006〕35号）、《关于对上市公司股东大会网络投票系统进行优化有关事项的通知》（深证上〔2006〕62号）同时废止。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总厅规划〔2007〕182号<BR>&nbsp;&nbsp;【发布日期】2007-12-11<BR>&nbsp;&nbsp;【生效日期】2007-12-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-12/13/content_269089.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局办公厅关于国家安全生产信息系统（“金安”工程）一期设备采购等若干实施事项的通知<br><br></font>(安监总厅规划〔2007〕182号)</p><br><br>  <br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，各省级煤矿安全监察机构：<br>  <br>    国家安全生产信息系统（“金安”工程）一期项目建设的实施工作正在按程序推进。为继续做好实施工作特别是做好有关衔接工作，现将设备采购等若干实施事项通知如下： <br><br>    一、关于设备采购有关工作 <br><br>    按照国家发展改革委对本项目批复中关于 “要严格执行《招标投标法》等有关规定，按批准的建设内容和投资统一组织实施，严格控制建设规范和标准，确保工程质量”的要求，国家安全生产监督管理总局(以下简称总局)组织的相关招标项目正在陆续完成。其中，系统总集成由国家投资、由中标的中国电信系统集成公司承担，具体负责本项目国家级、省级、地级、县级节点的设备安装调试；软件开发由国家投资、由中标的中国软件技术与服务有限公司承担，具体负责本项目各个应用系统的开发并部署到国家级和省级节点，地级以下节点用户通过本项目的网络系统采用B/S方式访问应用系统。目前，承担项目系统总集成、软件开发任务的中国电信系统集成公司和中国软件技术服务有限公司在总局各有关司局、省级安全监管监察机构的配合下，所进行的详细设计调研工作已接近完成。 <br><br>    设备采购采取“统谈分签”的方式：由总局与供货商统一签订总体采购协议、各共建单位依据总体采购协议与供货商分别签订供货合同。本项目设备采购通过中央国家机关政府采购网实施协议供货，供货商根据各共建单位需采购的设备型号、数量在中央政府采购网上生成水印合同，同时在协议供货合同基础上签订合同补充条款，由双方签字盖章后生效。 <br><br>    安全系统项目通过公开招标确定了服务及软硬件供货服务商。也采取“统谈分签”的方式进行，总局已与中标的网御神州科技(北京)有限公司签订了总体采购协议。 <br><br>    目前，总局已与除辅助设备之外的所有供货商签订了总体采购协议（详见附表），总体采购协议中明确了所购设备的型号、配置、单价，并通过“合同补充条款通用文本”确定了技术支持、质量保证、售后服务、培训等内容。 <br><br>    为保证“金安”工程一期的建设质量，实现各节点内部设备及软件之间、各节点之间及整个系统的充分兼容和正常运行，各单位要依据总局与供货商签定的总体协议，积极与供应商联系供货问题。具体做法如下： <br><br>    （一）从aqxxh@chinasafety.gov.cn专用邮箱中下载有关总体采购协议（邮箱密码通过电话010-64463312、64463026、64463176与总局规划司索取），与协议中的供货商联系人联系。 <br><br>    （二）以总体协议中所附的安全系统合同通用文本，网络、服务器等设备的合同补充条款通用文本为基础，商谈付款方式、供货时间（供货详细地址由我方各共建单位提供），进行安全设备合同及其他设备中央政府采购网生成合同及其补充条款商定、签字（商谈方式可以通过视频、传真、电话、面谈等多种方式；签字可以通过交互快递邮件、现场等方式进行）。 <br><br>    （三）谈定合同采购供货内容后，对于安全设备可与供货商直接签定供货合同；对于其他的网络、服务器等设备，先由供货商在中央政府采购网上生成供货合同，同时将谈定的该合同的补充条款一并签字。 <br><br>    （四）由总局支付资金采购总局节点、省级煤矿安全监察局节点、煤矿安全监察分局节点设备的合同，由总局与供货商签订；由地方财政支付资金采购省级安全监管局节点、地级安全监管局节点、县级安全监管局节点设备的合同，由省级安全生产监管局与供货商签订，报总局备案。鉴于各节点设备种类较多、需签定的合同、补充条款较多的情况，总局拟选择适当时机组织进行一次合同集中签定活动，但具备条件的单位应尽可能早签，不必专门等待集中进行合同签定活动。 <br><br>    （五）共建单位设备到货安装程序： <br><br>    1.由中国电信系统集成公司在各地的项目实施部门与各级节点项目管理单位确认设备采购数量、配置。已有设备凡符合初步设计对性能指标的要求、在项目建设期内有厂家质量保证、与总体采购协议中的设备品牌型号一致、实施集成时能够集成到系统中的可以利用到系统中。 <br><br>    2.设备供货商收到首付款后按照集成商工作计划发货，设备接收人、集成商、监理方共同组织到货验收。 <br><br>    3.集成商对节点全部设备进行安装调试，应用系统开发商部署应用系统软件，并按有关规定组织节点验收。 <br><br>    (六)凡由总局签订合同采购的本项目各级节点的设备，产权归总局所有，由总局办公厅(财务司)登记固定资产账目。使用上述设备的各省级煤矿安全监察局、煤矿安全监察分局享有使用权，其设备的处置、报废须报总局批准。 <br><br>    二、关于项目实施的若干事项 <br><br>    （一）关于机房环境 <br><br>    尚未具备机房环境的省级、地级节点要尽快按照初设要求完成该项工作。首先要保证具备设备安装、调试的基本环境（机房、机柜、接地、防雷、UPS），其次要达到总局下发的《安全生产信息系统建设技术书（四）》中对设备运行的环境标准要求。因没有机房或机房环境难以达到实施要求的，需要新建、改建机房的，请明确具备基本实施条件的时间、以及具备运行环境的时间，并上报总局项目办，以便安排整体工程进度。 <br><br>    （二）关于电路租用 <br><br>    总局通过公开招标，已与中国电信集团签订电路租用总体协议。总局将依据该协议统一落实省级煤矿安全监察局和煤矿安全监察分局的电路租用；省级安全监管局需要下联地级节点的和地级安全监管局需要下联县级节点的，各有关省级安全监管局要尽快按照总体协议组织落实本省节点电路租用工作。 <br><br>    （三）关于IP地址规划 <br><br>    根据《中国电信系统集成有限责任公司系统集成详细设计调研表》反馈的信息，由于过去网络建设分散、各地安全监管局和煤矿安全监察局IP地址划分带有很大的随意性，缺乏统一规划和管理。本期项目建设中将根据实际情况进行全网IP地址统一部署，请各级节点配合中国电信集团系统集成有限责任公司做好IP地址的划分和调整工作。 <br><br>    （四）关于与地方电子政务网络的关系 <br><br>    本期建设的安全生产信息资源专网是部门业务专网，符合国家有关“三网一库”建设原则，总局到各省的连接按照国信办的统一要求，将由国家中央级骨干传输网提供专线，各省级节点到地级节点原则上要保证至少2M带宽的线路连接，各省级煤矿安全监察局到煤矿安全监察分局的连接线路由总局集中办理。考虑到各省地方电子政务网建设方式、线路情况各不相同，为保证建成后的安全生产信息系统可靠运行，建议各省选择连接方式要充分考虑总集成商的意见。 <br><br>    （五）关于地级节点项目启动的安排 <br><br>    本期项目建设节点到地级节点和县级节点的省级安全监管局要转发总局有关项目管理的各项通知内容，通报“金安”工程一期有关情况，并积极组织好有关建设工作。 <br><br>    （六）关于实施配合工作 <br><br>    “金安”工程一期项目建设的实施工作由总局负责统一组织协调。具体任务分别由中标商承担，其中：系统总集成由中国电信集团系统集成有限责任公司承担，应用系统开发由中国软件与技术服务股份有限公司承担，安全系统由网御神州科技有限公司承担，设备提供商对系统集成商和应用系统开发商提供技术支持。作为用户单位，总局及本期项目建设节点单位都有配合承担具体任务的中标商完成好详细设计调研、设备到货验收、安装硬件和软件、节点验收、试运行、系统验收等工作的责任和义务。各节点单位务必明确分工责任，认真负责地做好相关配合工作，保证本节点及其下属节点实施工作的顺利进行和按期完成。 <br><br>    （六）尚未明确项目管理部门、负责人、联系人、维护人员的要尽快明确，人员发生变化的要及时告知总局规划司，以保障项目实施过程的有效沟通和顺利进行。请各单位都要以书面函文形式于12月18日前将上述人员名单传真至总局规划司（传真电话：010-64464011、64463312），电子版发送至：GHKJ＠chinasafety.gov.cn。 <br><br>    附件：1.到货验收办法 <br><br>          2.“金安”工程一期付款说明 <br><br>          3.总体采购协议情况表(从aqxxh@chinasafety.gov.cn专用邮箱中下载) <br><br>    二○○七年十二月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

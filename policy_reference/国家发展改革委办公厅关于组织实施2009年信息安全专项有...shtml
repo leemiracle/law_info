@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改办高技[2008]2494号<BR>&nbsp;&nbsp;【发布日期】2008-11-14<BR>&nbsp;&nbsp;【生效日期】2008-11-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2008tongzhi/t20081114_246042.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委办公厅关于组织实施2009年信息安全专项有关事项的通知<br><br></font>(发改办高技[2008]2494号)</p><br> <br><br>教育部、公安部、工业和信息化部、国家标准化管理委员会，中科院，国家密码局，国家保密局办公厅（室），各省、自治区、直辖市、计划单列市发展改革委：<br><br>    为了贯彻落实《国家信息化领导小组关于加强信息安全保障工作的意见》（中办发[2003]27号）和《国家信息安全“十一五”规划》（国信安[2007]2号）的工作部署，进一步提高我国信息安全产业的竞争力，提升信息安全专业化服务水平，增强信息系统的自主可控能力，保障国民经济和社会信息化的健康快速发展，国家发展改革委决定组织实施2009年信息安全专项。现将有关事项通知如下：<br>    一、2009年信息安全专项重点<br>    专项按照优化产业结构，提高完善产品性能和功能，培育专业化服务，推动标准化建设，扶持骨干重点企业，提升产业竞争力，以及重要信息系统自主可控能力的指导原则，重点支持：<br>    （一）为国家信息化建设及国家信息安全基础设施提供支撑的信息安全产品产业化<br>    1、重点支持基于国产可信计算芯片的安全应用产品，以及基于自主密码技术的高性能集成应用产品的产业化；<br>    2、重点支持移动存储介质保密管理、恶意代码防治、电子文档安全管理、网络数字版权保护、电子数据取证、安全保密检查等产品，移动终端、桌面终端安全防护等计算机安全保护产品，以及面向无线网络的安全管理与安全应用产品的产业化； <br>    3、重点支持安全操作系统、安全数据库、安全中间件、安全服务器、安全接入设备、安全存储、容灾备份软件、安全办公软件等产品的产业化；<br>    4、重点支持高性能专用安全芯片和专用安全设备，以及适用于新一代网络环境的具有高性能、多安全功能的软硬件集成化产品的产业化。<br>    （二）为基础信息网络和重要信息系统安全运行提供技术支持的信息安全专业化服务<br>    重点支持基于介质的数据恢复，容灾备份，面向国家信息基础设施和金融、电力、交通等重要信息系统的应急响应，支撑国家信息安全监管政策的安全测评与检查，针对信息安全事件的信息发布与咨询，以及包括对信息系统安全监控管理的托管服务。<br>    （三）面向国家电子政务建设的安全标准体系及重要信息安全产品的关键标准<br>重点支持面向国家电子政务建设和重要信息安全产品的，有关信息安全等级保护、风险评估、涉密信息系统安全保密、应急与灾备、安全服务等方面的关键标准研究。<br>    （四）采用自主信息化装备的信息系统示范工程<br>    在电子政务和银行、证券、电力、电网等重要领域，重点支持采用自主信息化装备，按照信息安全等级保护要求组织建设的信息系统示范工程，以加快推进我国自主产品在重要信息系统中的广泛应用，为提升我国重要信息系统的安全保障能力积累经验。<br>    二、申报要求<br>    （一）请项目主管部门根据投资体制改革精神和《国家高技术产业发展项目管理暂行办法》的有关规定，结合本单位、本地区实际情况，认真做好项目组织和备案工作，组织编写项目资金申请报告并协调落实项目建设资金、环保等相关建设条件，同时汇总相关申请材料并报我委。<br>    （二）项目主管部门应对报送的材料（如资金申请报告、银行贷款承诺、自有资金证明、销售许可证明等）进行认真核实，并负责对其真实性予以确认。<br>    （三）为加强项目管理工作，本次专项信息安全产品产业化、服务和标准类项目采取纸质材料申报和网上申报并行的组织实施方式。请项目主管部门在报送项目纸质申报材料前，先登陆国家发展改革委高技术产业发展项目管理系统http://ndrc.jhgl.org/xxhc，履行相关网上申报手续，纸质审申报材料的具体报送地点将在网上申报系统首页另行通知。<br>    项目纸质申报材料包括：项目资金申请报告（达到可行性研究报告深度）、项目简表和项目汇总表，上述材料一式三份。项目所需的项目备案文件和自有资金情况、投资及信贷承诺等证明资料须用原件，并单独装订。纸质材料和网上申报的项目信息原则上应完全一致（请认真审核网上申报材料不能含有涉密内容，如却有不便通过网上申报的文件材料，可在申报纸质材料时予以补充），未履行网上申报手续的项目将不予受理。<br>    （四）申报信息安全产品产业化的项目，项目承担单位原则上应为企业法人。申报项目应具备以下条件：（1）按规定在当地政府备案；（2）已落实项目建设资金；（3）采用的科技成果应具有我国自主知识产权，知识产权归属明晰；（4）项目申报单位必须具有较强的技术开发和项目实施能力，具备较好的资信等级，资产负债率在合理范围内；（5）申报产业化的产品应具有公安部门出具的销售许可证明，如是密码类的产品应具有国家密码局出具的销售许可证明。资金申请报告的具体编制要求请详见附件一。<br>    （五）申报信息安全服务的项目，项目承担单位应为企业或事业法人。申报项目应具备以下条件：（1）按规定在当地政府备案；（2）已落实项目建设资金；（3）具有较强的技术开发和项目实施能力，具备较好的资信等级，资产负债率在合理范围内。资金申请报告具体编制要求请详见附件二。<br>    （六）申报信息安全标准的项目，项目承担单位可为企业或事业法人。申报的项目应属于国家信息安全标准“十一五”规划的重点领域，并已列入国家信息安全标准制修订计划。资金申请报告具体编制要求请详见附件三。<br>    （七）申报示范工程的项目，项目承担单位为中央或地方政府部门，银行、证券、电力、电网等企业。申报项目应具备以下条件：（1）符合本领域信息化建设的总体思路；（2）已落实项目建设资金；（3）全部采用自主信息化装备开展工程建设。申报材料的具体编制要求请详见附件四。<br>    （八）2009年信息安全专项项目分为两批申报，第一批项目申报日期截止至2008年12月3日，第二批项目申报日期截至2009年3月6日。在经我委组织专家对申报项目进行初选后，第一批项目在2008年12月中旬组织现场答辩，第二批项目在2009年3月下旬组织现场答辩。具体项目答辩名单、答辩时间和地点，将在专家初选后另行通知。<br><br>    附件：一、信息安全产品产业化项目资金申请报告编制要点<br>          二、信息安全专业化服务项目资金申请报告编制要点<br>          三、信息安全标准项目资金申请报告编制要点<br>          四、示范工程项目资金申请报告编制要点<br>          五、信息安全项目及承担单位基本情况简表<br>          六、信息安全项目汇总表<br><br>国家发展和改革委员会办公厅<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

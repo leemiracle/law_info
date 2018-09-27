@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】萍乡市<BR>&nbsp;&nbsp;【发布文号】萍府办字〔2005〕97号<BR>&nbsp;&nbsp;【发布日期】2005-09-26<BR>&nbsp;&nbsp;【生效日期】2005-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.pingxiang.gov.cn/zwgk/zfgw_show.asp?id=414&tbn=zfb" target=_blank>萍乡市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>萍乡市中尺度突发性灾害天气自动监测网建设方案<br><br></font>(萍府办字〔2005〕97号)</p><br><br><br>各县（区）人民政府，市政府各部门：<br><br>  经市政府同意，现将《萍乡市中尺度突发性灾害天气自动监测网建设方案》印发给你们，请认真遵照执行。<br><br>二OO五年九月十九日<br><br><br>萍乡市中尺度突发性灾害天气自动监测网建设方案<br><br>    我市目前仅有城区和莲花县各布有一个气象站，其它县区均无气象站，远不能满足领导决策及开展减灾防灾服务的需求，因此，迫切需要建设一个时空分布合理、站点较为密集、自动化程度高的气象要素监测网。<br>    一、建设目的<br>    在充分利用现有大气和环境探测技术的基础上，通过中尺度突发性灾害天气自动监测网的建设，实现对我市各县（区）的温度、雨量、风向、风速、湿度的长期定位监测、分析评估和预测，结合其它气象资料的应用，全面、及时地掌握全市的雨情及主要气象要素，为政府调度蓄水、泄洪、抗旱和森林防火提供科学决策依据。<br>    二、建设内容和规模<br>    （一）在各县（区）天气敏感区、强对流多发区建设4个2要素（包括温度、雨量）和1个5要素（包括风向、风速、温度、湿度、雨量）中尺度加密自动气象站，组成突发性灾害天气自动监测网；<br>    （二）建设市级自动分发处理中心站；<br>    （三）建设省～市通讯专线；<br>    （四）建设自动气象站到气象局的GPRS通讯专线。<br>    三、系统功能<br>    中尺度突发性灾害天气自动监测网建成后，可每小时获取一次地面监测资料，加密观测时可每分钟获取一次监测资料，与新一代天气雷达、气象卫星、闪电定位仪等形成多层次立体空间监测网，使各种探测资料互为补充、校准，从而大大提高灾害性天气监测预警能力。在灾害出现时，准确及时的气象情报可为各级政府指挥抗灾救灾工作提供科学可靠的决策依据。<br>    四、经费概算及来源<br>    系统建设共需经费62万元。按照《中华人民共和国气象法》和《江西省实施〈中华人民共和国气象法〉办法》的要求，结合我市的实际情况，在各县（区）建设的2要素和5要素中尺度加密自动气象站由各县（区）人民政府投资解决建设经费10万元，省～市通讯专线和市级自动分发处理中心站建设经费12万元由市人民政府投资解决。设备维持经费为每年每县（区）1万元，市政府2万元。<br>    五、建设进度<br>    2005年12月完成选点、2要素中尺度自动气象站设备安装、调试及中心处理站的安装、调试；<br>    2006年2月完成5要素中尺度自动气象站设备安装、调试；<br>    2006年3月完成设备业务试运行；<br>    2006年4月验收，正式投入业务运行，组成全市中尺度突发性灾害天气自动监测网。<br><br>附件：中尺度突发性灾害天气自动监测网建设规划、经费概算表<br><br>单位 2要素<br>(个) 5要素<br>(个) 通讯专线<br>(对) 中心站<br>(个) 建设经费<br>(万元) 备         注<br>安源 4 1   10 建设经费包括运输、保险、培训、开发、安装、基座、常规防雷等。<br>湘东 4 1   10<br>芦溪 4 1   10<br>上栗 4 1   10<br>莲花 4 1   10<br>萍乡   1 1 12<br>合计 20 5 1 1 62 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

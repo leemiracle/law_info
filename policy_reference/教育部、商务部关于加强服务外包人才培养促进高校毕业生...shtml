@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部、商务部<BR>&nbsp;&nbsp;【发布文号】教高[2009]5号<BR>&nbsp;&nbsp;【发布日期】2009-03-18<BR>&nbsp;&nbsp;【生效日期】2009-03-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/26/info1239329069086226.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部、商务部关于加强服务外包人才培养促进高校毕业生就业工作的若干意见<br><br></font>(教高[2009]5号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）、商务主管部门，新疆生产建设兵团教育局、商务局，教育部直属各高等学校：<br><br>    为贯彻落实《国务院办公厅关于促进服务业外包产业发展问题的复函》（国办函〔2009〕9号）和《教育部 国家发展改革委 财政部 人事部 科技部 国资委关于进一步加强国家重点领域紧缺人才培养工作的意见》（教高〔2007〕16号）的精神，现就加快培养服务外包人才，提升我国服务外包产业人员素质，促进高校毕业生就业提出如下意见：<br><br>    一、培养服务外包人才的重要意义<br><br>    服务外包产业是智力人才密集型现代服务业，具有信息技术承载高、附加值大、资源消耗低、环境污染小、国际化水平高等特点。大力培养服务外包人才，提高高校毕业生就业能力，有利于加快经济发展方式的转变，促进区域经济协调发展，优化外贸结构，提高利用外资水平，对全面贯彻落实科学发展观，实现“保增长、扩内需、调结构”的目标具有重要意义。<br><br>    二、明确服务外包人才培养工作的目标<br><br>    高校要根据服务外包产业快速发展的需要，调整服务外包人才培养结构，扩大服务外包人才培养规模，着力提高人才培养质量。服务外包产业涉及软件研发、产品技术研发、工业设计、信息技术研发、信息技术外包服务、技术性业务流程外包等领域，各类高校要在相关专业开展服务外包人才培养工作，在高职高专、本科、研究生等层次培养高质量的服务外包人才，力争在5年内培养和培训120万服务外包人才，新增100万高校毕业生就业，实现2013年承接国际服务外包业务300亿美元。<br><br>    三、建立服务外包人才培养培训体系<br><br>    商务部和教育部负责联合认定中国服务外包示范城市设立的“服务外包人才培训中心”，并制定“服务外包人才培训中心”、社会培训机构、从业人员等标准。“服务外包人才培训中心”负责组织协调当地高校、社会培训机构、服务外包企业开展服务外包人才培养、培训和实训、实习工作。各地要加强对“服务外包人才培训中心”、高校和社会培训机构的政策支持，采取有效措施提升培养培训质量，满足服务外包企业用人要求。高校和社会培训机构按照相关标准开展服务外包人才培养、培训工作。鼓励服务外包企业组织和接纳高校学生实习和社会实践。商务部和教育部定期公布服务外包企业录用各个高校和经社会培训机构培训的高校学生数量。商务部、教育部会同有关部门建立服务外包人才库，加强服务外包人才储备。<br><br>    四、调整专业结构适应服务外包产业需要<br><br>    地方所属高校的计算机科学与技术专业要以造就应用型人才为主要目标，大力培养服务外包人才。示范性软件学院和示范性职业技术软件学院要把培养服务外包人才作为一项十分重要的任务来完成，其中，示范性软件学院以培养高端服务外包人才为主，促进中国服务外包产业的总体创新能力和竞争实力的提升。“中国服务外包示范城市”的各类高校应在服务外包产业所涉及的专业增设服务外包专业方向。<br><br>    五、采取灵活措施培养服务外包人才<br><br>    高校要根据服务外包产业所涉及专业的特点，采取灵活措施，按照国际先进技术和全球化的理念，探索多种模式培养服务外包人才。可在原有专业内开设服务外包专业方向，增设服务外包课程。可引入社会培训机构开设服务外包课程。可将服务外包企业的岗位培训前移至校内完成，帮助高校毕业生能够直接上岗工作。<br><br>    六、加强高校学生实习实训工作<br><br>    “中国服务外包示范城市”设立的“服务外包人才培训中心”，要按照商务部和教育部联合制定并发布的有关标准，认定符合条件的服务外包企业、社会培训机构和高校为“服务外包大学生实训实习基地”，实习实训质量需得到参加实习实训高校和企业的认可。高校要积极改革原有的实习模式，与服务外包企业共同制订实习方案，共同指导学生实习。要签订学校、企业和学生的三方实习实训协议，保护学生的合法权益，不能加重实习实训学生的经济负担。服务外包企业要积极接收高校学生实习和勤工俭学。商务部、教育部将服务外包企业接收高校学生实习实训工作情况作为服务外包示范城市评价的重要指标之一。<br><br>    七、深化高校与服务外包企业的合作<br><br>    教育部和商务部将邀请“中国服务外包示范城市”人民政府、服务外包企业和高校，成立服务外包校企合作联盟，推进企业和高校的战略合作。参加合作联盟的有关企业和高校，在人才培养、产品和技术研发、高校毕业生就业等方面积极开展多边和双边合作。各地要加强对合作联盟的政策支持。合作联盟要促进人才交流，根据校企达成的共识，鼓励企业派遣工作经验丰富的专家到学校兼职，高校派遣教师到服务外包企业挂职。<br><br>    八、建立服务外包课程教师培训网络平台<br><br>    教育部将建立服务外包课程教师培训网络平台，充分利用合作联盟企业和高校的优质资源，大力培训服务外包课程教师。高校要将教师参加培训和到企业挂职计入教师工作量。<br><br>    九、努力做好服务外包人才就业工作<br><br>    要把推动服务外包产业发展促进高校毕业生就业放在突出重要的位置。各地商务、教育部门要按照每年促进服务外包领域全国新增20万高校毕业生就业的目标，制订本地区的具体工作目标及实施方案。商务部门要切实落实有关优惠政策，加强引导和服务，积极鼓励服务外包企业吸纳高校毕业生。教育行政部门要指导高校广泛联系并吸引服务外包企业到校园开展招聘活动；加强对毕业生的就业指导和宣传引导，积极鼓励高校毕业生到服务外包企业就业。服务外包企业和高校要充分利用全国大学生就业公共服务立体化平台、中国服务外包网等信息发布平台，及时发布高校服务外包相关专业及毕业生情况、服务外包企业招聘信息和接收高校学生实习的信息，增加高校毕业生到服务外包企业的就业机会。<br><br>    十、加大对服务外包人才培养的财政支持力度<br><br>    鼓励高校与服务外包企业合作培养服务外包人才。按照《国务院办公厅关于促进服务业外包产业发展问题的复函》（国办函〔2009〕9号）的要求，对符合条件的技术先进型服务外包企业，每录用1名大专以上学历员工从事服务外包工作并签订1年期以上劳动合同的，给予企业不超过每人4500元的培训支持；对符合条件的培训机构培训的从事服务外包业务人才（大专以上学历），通过服务外包专业知识和技能培训考核，并与服务外包企业签订1年期以上劳动合同的，给予培训机构每人不超过500元的培训支持。<br><br>    各地教育、商务部门要结合当地服务外包产业人才需求情况，研究出台支持本地区高校培养服务外包产业人才的政策，促进本地区承接国际服务外包业务持续、协调、有序发展。<br><br>中华人民共和国教育部<br><br>二○○九年三月十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

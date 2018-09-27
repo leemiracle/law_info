@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家测绘局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2007-06-25<BR>&nbsp;&nbsp;【生效日期】2007-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sbsm.gov.cn/service.php?col=271&file=1872" target=_blank>国家测绘局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家测绘局地图审核程序规定（试行）<br><br></font>(2007年6月25日 国家测绘局)</p><br><br><br>    <font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了进一步规范地图审核程序，提高地图审核效率，明确工作职责，根据《<a href=javascript:ROF(88050,0) class=alink>中华人民共和国行政许可法</a>》、《<a href=javascript:ROF(111430,0) class=alink>地图审核管理规定</a>》和有关规定，制定本规定。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本规定所称地图审核，是指国家测绘局根据地图送审单位和个人（以下统称申请人）的申请，依法对公开地图进行核准的行为。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 地图审核的受理、技术审查、决定、送达以及地图出版物样本备案的程序，适用本规定。 <br><br>    通过国家测绘局地图远程审查系统实施的地图审核，应当遵守本规定。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 地图审核工作应当遵循合法、统一、便民、高效、公正的原则。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 国家测绘局地图管理司（以下简称地图管理司）负责地图审核管理工作，并对国家测绘局地图技术审查中心（以下简称地图技术审查中心）和国家测绘局行政许可集中受理窗口（以下简称受理窗口）的相关业务进行指导与监督。<br><br>    地图技术审查中心负责地图的内容技术审查、保密技术审查和试制样图的归档、地图出版物样本的备案工作，并负责国家测绘局地图远程审查系统的日常管理和维护工作。 <br><br>    受理窗口负责地图审核的受理、送达以及送审材料（试制样图除外）的归档工作。 <br><br>    <font class='zhang'>第二章</font> 受 理<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 受理地图审核申请时，受理窗口除要求申请人按照《地图审核管理规定》提交有关材料外，还应当提交下列材料： <br><br>    （一）公开版地图，需提交完整的试制样图（包括版权页和书名页）； <br><br>    （二）利用涉及国家秘密的测绘成果开发生产的电子地图、导航电子地图和互联网地图等地图产品，需提交在产品终端显示的试制样图以及地图数据信息来源等情况的书面说明材料，如需在特定数据平台运行的，还应当提供相应的支持软件或者硬件； <br><br>    （三）出版物插附的单幅地图占全书页数（版面）三分之一以上的，需提交完整的试制样本； <br><br>    （四）引进的境外地图，需提交引进地图的相关证明材料； <br><br>    （五）已通过审核批准、未对地图内容进行任何更改且地图审核内容和标准未发生变化、需再次核发审图号的地图，需提交书面说明材料； <br><br>    （六）提交编制地图所用底图与资料的说明；著作权不属于申请人的，需提交著作权人许可的相关证明材料； <br><br>    （七）国家测绘局要求提交的其他材料。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 受理窗口收到地图审核申请后，应当根据下列情况分别作出处理： <br><br>    （一）依法不需要审核和不属于国家测绘局负责审核的，应当即时告知申请人不受理； <br><br>    （二）申请材料存在可以当场更正的错误，应当允许申请人当场更正； <br><br>    （三）申请材料不齐全或者不符合法定形式的，应当当场或者在5个工作日内一次告知申请人需要补正的全部内容，逾期不告知的，自收到申请材料之日起即为受理； <br><br>    （四）申请材料齐全、符合法定形式，或者申请人按照要求提交全部补正材料的，应当当场作出受理决定； <br><br>    （五）无法确定是否需要受理的，应当在1个工作日内出具书面报告，连同送审材料一并送地图管理司决定。 <br><br>    受理窗口受理或者不予受理地图审核申请，应当出具加盖国家测绘局行政许可专用章和注明日期的书面凭证，并及时登记。 <br><br>    以邮寄或者互联网方式送审的，受理窗口应当在5个工作日内将受理情况通过传真、邮件等方式通知申请人。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 受理窗口受理地图审核申请后，应当在1个工作日内填写地图技术审查通知书，并根据本规定第十三条注明审查期限，连同试制样图一并送地图技术审查中心。 <br><br>    受理已通过审核批准、未对地图内容进行任何更改且地图审核内容和标准未发生变化、需要再次核发审图号的地图，应当在1个工作日直接送地图管理司。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 地图管理司收到受理窗口关于无法确定是否需要受理的地图审核书面报告及送审材料后，应当在3个工作日内作出决定。受理窗口根据地图管理司的决定，在1个工作日内依据本规定第七条办理相关手续。 <a name='10'><font class='TiaoNoA'>第十条</font></a> 受理窗口负责国家测绘局地图远程审查系统申请人的注册工作。<br><br>    申请人申请注册，受理窗口应当要求其提交测绘资质证书、地图出版范围等相关证明材料，并在3个工作日内予以审核确认后，给予注册。 <br><br>    已注册的申请人通过国家测绘局地图远程审查系统提交地图审核申请时，受理窗口可以不再要求其提供上述材料。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 受理窗口应当掌握已受理的地图审核情况。对超出规定期限的，应当及时将有关情况报告地图管理司。 <br><br>    地图管理司根据受理窗口的报告，应当及时予以督办，确保在法定期限内完成地图审核。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 受理窗口应当于每月10日前将上一月地图审核受理情况，以书面形式报地图管理司备案。 <br><br>    <font class='zhang'>第三章</font> 技术审查<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 地图技术审查中心收到地图技术审查通知书和试制样图后，应当依据地图内容技术审查和保密技术审查有关标准和要求，在15个工作日内完成审查；即送即审地图，当日完成审查。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 地图技术审查中心对试制样图进行审查后，应当出具地图技术审查意见书；需要修改的，还应当在试制样图上作出相应的批注意见。 <br><br>    需商外交部审查的地图，只需出具商外交部审查的书面建议。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 地图技术审查中心留存一份试制样图以及相应批注意见后，应当将地图技术审查意见书或者需商外交部审查的书面建议连同试制样图送受理窗口。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 受理窗口收到地图技术审查中心的相关材料后，应当在1个工作日内进行登记，并将地图技术审查意见书和其他送审材料（试制样图除外）一并送地图管理司；即送即审地图，应当即时登记并送地图管理司。 <br><br>    需商外交部审查的地图，受理窗口登记后，直接将书面建议以及相关材料（包括试制样图）送地图管理司。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 地图管理司应当不定期对地图技术审查中心已审查的地图进行抽查。 <br><br>    <font class='zhang'>第四章</font> 决 定<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 地图管理司收到受理窗口送来的相关材料后，应当按照有关规定进行审核，填写地图审核意见表，并在2个工作日内作出审核决定；即送即审的地图，应当即时作出审核决定。 <br><br>    需要查看试制样图的，受理窗口应当及时提供。 <br><br>    不能作出审核决定的，应当在1个工作日内报国家测绘局分管局领导作出审核决定。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 地图管理司对准予批准的，应当填写地图审核批准书，编发审图号，并加盖国家测绘局地图审批专用章；对不予批准的，应当填写地图审核不予批准书，并加盖国家测绘局地图审批专用章。 <br><br>    前款准予批准或者不准予批准的地图审核申请，应当在1个工作日内办理相关手续，并将地图审核意见表和地图审核批准书或者地图审核不予批准书连同其他送审材料一并送受理窗口。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 地图审核批准书应当载明送审单位、地图名称、规格、用途、审图号等相关信息。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 需商外交部审查的地图，地图管理司应当及时发商外交部审查的函，并连同有关材料送外交部。受理窗口根据地图管理司的决定，应当在2个工作日内将有关情况告知申请人。 <br><br>    收到外交部的审查意见后，地图技术审查中心应当在2个工作日内出具地图技术审查意见书。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 地图管理司对地图技术审查中心出具的地图技术审查意见书有异议的，应当在1个工作日内通过书面方式提出。地图技术审查中心收到书面意见及相关材料后，应当立即重新进行技术审查。 <br><br>    意见分歧较大的，地图管理司应当组织有关专家进行论证，并作出地图技术审查结论。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 地图审核以保证时效为原则。由于工作人员出差等原因不能按本程序规定实施地图审核的，上一级领导可以直接作出有关决定。 <br><br>    <font class='zhang'>第五章</font> 送 达<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 受理窗口收到地图管理司的审核决定后，应当在2个工作日内通知申请人现场领取或者向其挂号邮寄下列材料，并办理登记手续： <br><br>    （一）已审查的试制样图； <br><br>    （二）地图技术审查意见书； <br><br>    （三）地图审核批准书或者地图审核不予批准书。 <br><br>    通过国家测绘局地图远程审查系统受理的地图审核申请，还应当送达前款第三项加盖国家测绘局地图审批专用章的原件。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 受理窗口应当留存一式地图审核意见表和地图审核批准书或者地图审核不予批准书，连同其他送审材料一并归档。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 申请人对地图审核不予批准书有异议的，受理窗口应当告之其可以依法申请行政复议或者提起行政诉讼。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 地图管理司应当定期统计并上网公布审核批准的地图名称、审图号等基本信息。 <br><br>    <br><font class='zhang'>第六章</font> 样本备案<br><a name='28'><font class='TiaoNoA'>第二十八条</font></a> 地图技术审查中心收到地图出版单位送交的备案样本后，应当及时登记，并抽取一定数量的样本与留存的批注样图进行比照检查。 <br><br>    发现未按审查意见修改的，应当在5个工作日向地图管理司书面报告；符合要求的，应当编号入库，妥善保管，保管期为三年。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 地图技术审查中心应当于每季度第一个月向地图管理司书面报告上季度地图出版物样本备案情况。 <br><br>    <font class='zhang'>第七章</font> 责任追究<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 地图审核工作人员违反本规定，其行为应当给予行政处分或者应当追究刑事责任的，依照有关法律、行政法规和规章的规定执行。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 地图审核工作人员违反本规定，有下列情形之一的，由工作人员所在单位负责人责令改正，并对其批评教育；情节较重，尚不够行政处分的，由国家测绘局责令作出书面检查，并通报批评： <br><br>    （一）符合法定条件应当予以受理而不受理的； <br><br>    （二）不符合法定条件不应当受理而受理的； <br><br>    （三）地图内容技术审查和保密技术审查工作中出现失误的； <br><br>    （四）未定期上网公布审核批准的地图基本信息的； <br><br>    （五）未妥善保管送审材料、试制样图和备案样本的； <br><br>    （六）其他未按本规定程序和期限完成地图受理、技术审查、决定、送达和样本备案的。 <br><br>    <font class='zhang'>第八章</font> 附 则<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a> 国家测绘局委托省级测绘行政主管部门实施的地图审核，其程序参照本规定执行。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> 本规定由国家测绘局负责解释。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 本规定自2007年7月1日起施行。国家测绘局此前发布的有关地图审核程序规定与本规定不一致的，以本规定为准。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

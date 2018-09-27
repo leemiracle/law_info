@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】厅质监字[2006]260号<BR>&nbsp;&nbsp;【发布日期】2006-08-16<BR>&nbsp;&nbsp;【生效日期】2006-08-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/05zhuzhi/zhijianzz/zhijianwjgg/t20060824_35294.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部办公厅关于进一步深化交通建设安全专项整治工作的通知<br><br></font>(厅质监字[2006]260号)</p><br> <br>  <br>各省、市、自治区交通厅（委），天津市市政工程局，上海市市政工程管理局，新疆生产建设兵团交通局：<br>    按照国务院安委会办公室统一部署，我部在交通建设领域开展了安全生产专项整治工作，制定并印发了《交通建设安全专项整治工作实施方案》（以下简称《方案》）。从目前反馈的情况看,各级交通部门对整治工作高度重视，领导亲自布置，积极落实，明确目标，确定重点，落实责任，交通建设安全专项整治工作开局很好，得到了国家安监总局的肯定。为进一步落实国务院安委会办公室的有关要求，深化交通建设安全专项整治工作，现将专项整治第一阶段工作情况和第二阶段工作要求通知如下。<br>    一、第一阶段工作情况<br>    （一）各地落实情况。<br>    《方案》印发后，除西藏外，全国其他各省级交通部门均结合本地实际制定了具体的整治方案，成立了专项整治领导机构。山东、上海、湖北、福建、广西、安徽、内蒙古、黑龙江、山西、北京等省（区、市）落实了整治项目，江苏、浙江、宁夏、四川、吉林、山西、陕西、贵州、重庆、江西等省（区、市）工作进展较快，取得了初步效果。陕西省将在建的山区公路、农村公路和边通车边施工的养护工程列入专项整治范围，湖北省将40m以上高边坡、国道与高速公路交叉工程以及航电枢纽列入整治范围，吉林省将安全专项整治工作与业绩考核相结合，以提高各地市对此项工作的重视程度。<br>    但是，也有个别省份工作滞后，整治工作不落实，报送信息不及时，影响了专项整治工作的整体推进。<br>    （二）部组织的安全督查情况。<br>    结合部质量安全督查计划，部陆续组织了对浙江、江苏、广东、福建等省在建大型桥梁和隧道工程项目，安徽、江西、宁夏、陕西等省（区）的山区高速公路项目，福建、广东、上海、山东、黑龙江等省（市）的航道和港口项目的安全检查，督促各地落实安全专项整治工作，指导自查自纠工作的开展。<br>    二、第二阶段工作要求<br>    （一）提高认识，抓好落实。<br>    6月底，国务院安委会办公室专门召开了阶段总结会，听取各行业情况，部署下一阶段工作，确定了以联合检查的形式对各行业进行监督抽查。各级交通部门一定要高度重视，认真抓好落实，重点是落实到项目，落实到施工合同段，责任到人，措施到位、务求实效。<br>    （二）抓好初验，不走过场。<br>    各省（区、市）可参照《安全生产检查表》（附件2、3）进行初验，以提高整治工作质量，保证整治工作效果。通过专项整治，达到健全安全制度、提高安全意识、完善安全设施、改善施工环境、消除安全隐患、减少安全事故的目的。对整治效果不佳、工作滞后的项目要重点督查并给予书面通报批评，对问题较多的施工企业要依法实施行政处罚。<br>    （三）认真总结，及时上报整治工作信息。<br>    各地要在开展整治工作的同时，认真作好总结，对专项整治工作中检查了多少项目，清除了多少隐患，处罚了多少单位，完成了多少整改等情况都要量化总结，及时上报。部制定了专项整治工作总结量化表（附件1），请于9月10日前报部。第一阶段未上报整治项目的省份，请抓紧补报。<br>    附件：1.交通建设安全专项整治工作量化表<br>          2.安全生产检查表（外业）<br>          3.安全生产检查表（内业）<br><br>中华人民共和国交通部办公厅<br>二○○六年八月十六日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

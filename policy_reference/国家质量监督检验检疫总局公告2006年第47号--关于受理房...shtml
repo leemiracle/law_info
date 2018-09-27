@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家质量监督检验检疫总局<BR>&nbsp;&nbsp;【发布文号】国家质量监督检验检疫总局公告2006年第47号<BR>&nbsp;&nbsp;【发布日期】2006-04-03<BR>&nbsp;&nbsp;【生效日期】2006-04-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.aqsiq.gov.cn/cms/data/2038/18772.doc" target=_blank>国家质量监督检验检疫总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家质量监督检验检疫总局公告2006年第47号<br><br></font>关于受理房山磨盘柿等产品申报地理标志产品保护的公告</p><br><br><br>    根据《地理标志产品保护规定》，经浙江出入境检验检疫局以及北京市、河北省、吉林省、黑龙江省、江苏省、浙江省、福建省、江西省、山东省、湖北省、广东省、广西壮族自治区质量技术监督局初审推荐，我局依法受理了房山磨盘柿等23个产品的地理标志产品保护申请，经形式审查合格，现予以公告。有关信息公示如下：<br><br>序号	初审机构	产品名称	地方政府建议的地理标志产品保护范围	地方政府界定保护范围的建议文件	标准或技术规范<br>1	北京市质量技术监督局	房山磨盘柿	北京市房山区十渡镇、张坊镇、大石窝镇、长沟镇、韩村河镇、周口店镇、城关街道、阎村镇、青龙湖镇、河北镇、佛子庄乡等11个乡镇现辖行政区域	北京市房山区人民政府，《北京市房山区人民政府关于界定"房山磨盘柿"地理标志产品保护地域范围的建议》，房政函[2006]2号	北京市房山区地方标准：DB110111/T003-2005《无公害食品 房山磨盘柿生产技术规程》<br>2	河北省质量技术监督局	宁晋鸭梨	河北省宁晋县苏家庄镇、唐邱乡、大陆村镇、贾家口镇、纪昌庄乡、四芝兰镇、换马店镇、河渠镇、凤凰镇、北河庄镇、东汪镇、候口乡等12个乡镇现辖行政区域	宁晋县人民政府，《宁晋县人民政府关于划定地理标志产品产地范围的意见》，政字[2005]70号	《宁晋鸭梨生产技术规范》<br>3	吉林省质量技术监督局	白城燕麦	吉林省白城市洮北区、大安市、洮南市、通榆县、镇赉县等5个县市区现辖行政区域	白城市人民政府，《白城市人民政府关于确定白城燕麦地理标志产品保护范围的通知》，白政发[2006]15号	白城市农业科学院企业标准：Q/BCSNKY.18-2006《白城燕麦》<br>4	黑龙江省质量技术监督局	五营柿果酒	黑龙江省伊春市五营区的丰林国家级自然保护区、丽林实验林场、翠北林场、前丰林场、丽丰经营所、永丰经营所、杨树河经营所、平原经营所、五营河经营所、平山经营所等10个林场（所）区域	五营区人民政府办公室《关于制定五营  柿果酒地理标志产品保护范围的通知》，五政办发[2005]32号	伊春市五营区企业标准：Q/YWX06-2005《五营  柿果酒》<br>5	江苏省质量技术监督局	兴化香葱	江苏省兴化市现辖行政区域	兴化市人民政府，《兴化市人民政府关于兴化香葱产地范围的请示》，兴政发[2005]111号	江苏省地方标准：DB32/T619-2003《无公害农产品 兴化香葱生产技术规程》<br>6	江苏省质量技术监督局	河横大米	江苏省姜堰市现辖行政区域	姜堰市人民政府，《市政府关于"河横大米"地理标志产品保护申报划定范围的批复》，姜政复[2005]100号	江苏省地方标准：DB32/T511-2003《A级绿色食品 河横稻、米生产技术规程》<br>7	浙江出入境检验检疫局	龙游发糕	浙江省龙游县现辖行政区域	龙游县人民政府，《龙游县人民政府关于界定"龙游发糕"原产地标记范围的函》龙政函[2005]1号	龙游发糕行业协会标准：Q/LFG11-2005《龙游发糕》<br>8	浙江出入境检验检疫局	开化黄金茶	浙江省开化县现辖行政区域	开化县人民政府，《开化县人民政府关于界定开化黄金茶原产地标记地理范围的函》，开政函[2005]7号	开化县黄金茶研究所企业标准：Q/KHN001-2002《黄金茶》<br>9	浙江省质量技术监督局	宁波金柑	浙江省宁波市北仑区现辖行政区域	宁波市北仑区人民政府, 《宁波市北仑区人民政府关于划定宁波金柑地理标志产品产地范围的建议》，仑政[2005]97号	宁波市北仑区地方标准：DB330206/T13-2004《宁波金柑》<br>10	浙江省质量技术监督局	瓯柑	浙江省温州市瓯海区现辖行政区域	温州市瓯海区人民政府，《温州市瓯海区人民政府关于瓯海瓯柑原产地域产品保护产区划定的意见》，温瓯政[2004]40号	温州市瓯海区农业标准规范：DB330304/7.1~7.5-2004《瓯柑》<br>11	浙江省质量技术监督局	丁岙杨梅	浙江省温州市瓯海区现辖行政区域	温州市瓯海区人民政府，《温州市瓯海区人民政府关于丁岙杨梅原产地域产品保护产区划定的意见》，温瓯政[2005]38号	温州市瓯海区农业标准规范：DB330304/6.1~6.3-2005《丁岙杨梅》<br>12	浙江省质量技术监督局	遂昌竹炭	浙江省遂昌县现辖行政区域	遂昌县人民政府，《遂昌县人民政府关于要求划定遂昌竹炭制品地理标志产品保护范围的请示》，遂政[2005]49号	遂昌县竹炭竹醋液协会企业标准：Q/SZX 002-2005《遂昌竹炭》<br>13	福建省质量技术监督局	建莲	福建省建宁县现辖行政区域	建宁县人民政府，《建宁县人民政府关于申请建莲（建宁白莲）地理标志产品保护划定产地范围的请示》，建政文[2005]132号	 福建省地方标准：DB35/T47.1~5-2001《建莲标准综合体》<br>14	江西省质量技术监督局	崇仁麻鸡	江西省崇仁县现辖行政区域	崇仁县人民政府，《关于划定崇仁麻鸡地理标志产品产地范围的建议》，崇府文[2005]38号	《崇仁麻鸡生产技术规范》<br>15	江西省质量技术监督局	弋阳年糕	江西省弋阳县现辖行政区域	弋阳县人民政府，《关于建议"弋阳年糕"保护 地域范围的报告》，弋府字[2005]95号	弋阳大禾食品有限责任公司企业标准:《弋阳年糕》<br>16	江西省质量技术监督局	高安腐竹	江西省高安市筠阳街道办事处、瑞州街道办事处、田南镇、相城镇、灰埠镇、扬圩镇、龙潭镇、石脑镇、祥符镇、上湖镇、兰坊镇、大城镇等12个乡镇、街道办现辖行政区域	高安市人民政府，《关于明确高安腐竹申报国家地理标志产品保护范围的建议》，高府文[2005]38号	江西省地方标准：《高安腐竹》（草案）<br>17	山东省质量技术监督局	安丘大姜	山东省安丘市兴安街道、贾戈街道、凌河镇、黄旗堡镇、赵戈镇、柘山镇、刘家尧镇、关王镇、大盛镇、王家庄镇、辉渠镇、雹泉镇、金冢子镇、庵上镇、临浯镇、白芬子镇、石堆镇、景芝镇、石埠子镇、官庄镇、管公镇、红沙沟镇、吾山镇等23个镇、街道现辖行政区域	安丘市人民政府，《安丘市人民政府关于申请给与安丘大姜地理标志产品保护的函》，安政发[2005]31号	安丘市农业标准规范DB370784/T001-2000《安丘大姜栽培技术规范》<br>18	山东省质量技术监督局	威海海带	山东省威海沿海的王家湾（中心位置北纬36°51.5′，东经122°22.5′）、石岛湾（北纬36°54.5′，东经122°25′）、桑沟湾（北纬37°6′，东经122°30′）、俚岛湾（北纬37°15.5′，东经122°34′）、荣成湾（北纬37°21′，东经122°36′）、港西－泊于－崮山（北纬37°27′，东经122°33′至北纬37°27′，东经122°18′）、威海湾（北纬37°28′，东经122°10.5′）、刘公岛（北纬37°30.4′，东经122°11′）、孙家疃－张村－初村（北纬37°34.5′，东经122°5.5′至北纬37°30′，东经121°55.5′）等海域	威海市人民政府，《威海市人民政府关于申请威海海带地理标志产品保护范围的函》，威政字[2005]81号	威海市地方规范：DB3710/T001-2005《威海海带生产技术规范》<br>19	山东省质量技术监督局	崂山绿茶	山东省青岛市崂山区王哥庄、沙子口、中韩、北宅等4个街道办事处现辖行政区域	青岛市崂山区人民政府，《青岛市崂山区人民政府关于申请划定崂山绿茶地理标志产品保护产区的函》，崂政函[2006]2号	青岛市地方标准：DB3702/T058-2004《崂山绿茶生产技术规程》<br>20	湖北省质量技术监督局	邓村绿茶	湖北省宜昌市夷陵区邓村乡、太平溪镇、乐天溪镇、三斗坪镇、下堡坪乡、雾渡河镇、樟村坪镇、黄花乡等8个乡镇现辖行政区域	宜昌市夷陵区人民政府，《宜昌市夷陵区人民政府关于界定"邓村绿茶"地理标志产品保护范围的函》，夷政函[2005]24号	湖北省地方标准：DB42/323-2005《邓村绿茶》<br>21	湖北省质量技术监督局	咸丰鸡腿白术	湖北省咸丰县现辖行政区域	咸丰县人民政府，《县人民政府关于界定咸丰鸡腿白术地理标志产品产地范围的函》，咸政函[2005]31号	湖北省地方标准：DB42/322-2005《咸丰鸡腿白术》<br>22	广东省质量技术监督局	梅州金柚	广东省梅州市现辖行政区域	梅州市人民政府，《关于请求将梅州金柚列入地理标志产品保护的函》，梅市府函[2005]76号	梅州市地方农业标准：DB4414/TB1-1998《梅县金柚综合标准》<br>23	广西壮族自治区质量技术监督局	天等指天椒	广西壮族自治区天等县现辖行政区域	天等县人民政府办公室，《天等县人民政府办公室关于确认天等指天椒地理标志产品保护产地范围的通知》，天政办发[2005]113号	广西壮族自治区地方标准：DB/T160-2004《无公害农产品天等指天椒生产技术规程》<br> <br>有关单位或者个人对上述地理标志产品保护申请如有异议，可自公告之日起2个月内向我局提出；以上产品其地理标志保护申请资料存于我局地理标志产品保护管理机构备查。<br>地理标志产品保护管理机构：国家质量监督检验检疫总局科技司<br>地    址：北京市海淀区马甸东路9号<br>邮    编：100088<br>联系电话：（010）82262157；<br>传    真：（010）82260315<br>E-mail: Peixy@aqsiq.gov.cn<br><br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

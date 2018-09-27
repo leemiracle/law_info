@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】住房和城乡建设部<BR>&nbsp;&nbsp;【发布文号】建城函[2010]226号<BR>&nbsp;&nbsp;【发布日期】2010-08-25<BR>&nbsp;&nbsp;【生效日期】2010-08-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mohurd.gov.cn/lswj/tz/jc2010226.htm" target=_blank>住房和城乡建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于国家级风景名胜区数字化景区建设工作的指导意见 <br><br></font>(建城函[2010]226号)</p> <br><br><br>    各省、自治区住房和城乡建设厅，直辖市建委（园林局），各国家级风景名胜区管理机构： <br><br>    为积极推进风景名胜区信息化建设，稳步开展国家级风景名胜区（以下简称“风景名胜区”）数字化景区建设工作，提高风景名胜区现代化、信息化管理水平，实现风景名胜区事业又好又快发展，结合五年来风景名胜区数字化景区建设试点经验，现就做好风景名胜区数字化景区建设工作，提出以下指导意见。<br><br>    一、指导思想和基本原则<br><br>    （一）指导思想 <br><br>    风景名胜区数字化景区建设是风景名胜区在总结监管信息系统建设经验基础上开展的一项信息化建设工作。建设风景名胜区数字化景区，要综合运用现代信息技术，以信息化基础设施为支撑，以业务应用系统为纽带，以数据中心和指挥调度中心为核心，整合景区管理资源，实现信息共享，推进风景名胜区信息化建设。通过数字化景区建设，提高风景名胜区在资源环境保护、规划建设管理、游览组织管理与公共服务、游客安全保障、防灾减灾、应对突发事件等方面的管理和服务能力，改进管理方法，降低管理成本，提高管理效率。<br><br>    （二）基本原则<br><br>    1、需求主导，突出重点。风景名胜区要结合自身条件和管理需要，按照数字化景区建设的特点和要求，积极组织开展数字化景区建设工作。工作中要量力而行，突出重点，以需求为导向，以管理应用和优化服务为重点，优先建设景区资源保护、规划、利用和管理需求迫切的项目。<br><br>    2、因地制宜，分类指导。风景名胜区的类型不同，数字化景区建设的需求和管理模式存在差异。要根据景区的类型和特点，实行分类指导，因地制宜建立符合风景名胜区特点的数字化管理模式。<br><br>    3、总体规划，分步实施。风景名胜区要深入研究数字化景区建设的具体需要，统筹兼顾，科学论证，编制数字化景区建设规划，合理确定规划目标、建设内容和实施步骤，分步实施建设规划。<br><br>    4、实用节约，安全高效。风景名胜区要在满足数字化景区建设功能要求的前提下，增强成本效益意识，合理控制建设运行成本，优先选择业务流程稳定、管理效益明显、信息密集、实时性强、实用节约的项目，应用技术做到适度先进。要构筑完善的信息化安全防范体系，做到效率与安全并重。<br><br>    二、主要任务<br><br>    （一）编制数字化景区建设规划。数字化景区建设规划是开展信息化建设的基本依据。风景名胜区要按照国家以及住房城乡建设领域信息化建设的有关要求和技术规范，结合自身实际，以实际需求为导向，编制数字化景区建设规划，明确数字化建设的基本思路、总体目标、总体框架、建设内容、重点任务和实施方案等，确定分期建设目标和实施保障措施，经过专家论证通过，有计划有步骤地实施。<br><br>    （二）建立健全数字化基础设施。基础设施是信息化建设的基础和前提。风景名胜区要按照数字化景区建设要求，逐步配备和完善计算机设备、网络设备、服务器设备、数据存储设备、安全设备、机房及配套等设施，构建结构合理、覆盖面广、容量充足、性能稳定的基础网络体系，为数字化建设提供保障。<br><br>    （三）建立统一的数据中心。基础数据库和共享机制建设是信息化建设的关键。风景名胜区要以信息资源共享为突破口，提高基础数据的质量，统一数据标准，整合信息资源，建设统一的数据中心，从技术上和管理上建立一套有效的共享机制，为实现地理信息、规划建设、资源环境本底、遥感监测等基础数据与业务数据的互联共享以及不同系统互通互联、数据共享和系统集成奠定基础，实现信息资源集中、高效、便捷的管理和应用。 <br><br>    （四）建设统一高效的综合指挥调度中心。要通过建立风景名胜区综合指挥调度中心，改进传统管理模式，改善管理部门之间信息不畅、调度不良的问题。通过采用功能集成、网络集成、软件界面集成等多种集成技术，实现互通互联和交互操作，充分发挥集成应用的协同效应，实现对各个集成设备和系统的集中高效应用和对相关管理部门的统一协调和组织，构建统一指挥、快速反应的管理体系。<br><br>    （五）加强应用系统建设。风景名胜区数字化景区建设，除风景名胜区监管信息系统等必备应用系统外，可以根据业务工作信息化管理的需要，全部或者有选择地建设视频监控（含森林防火）、应急救援、车辆运行监控调度、人员巡检监控调度、资源环境监测、规划建设管理、景区门禁票务、电子政务、电子商务、多媒体展示等应用系统，也可以自行开发建设其他应用系统，提高信息化管理水平。<br><br>    （六）构筑安全防范体系。风景名胜区要按照国家信息安全有关要求，加强信息安全管理，采取技术与管理相结合的综合性保障措施，建立包括物理安全、网络安全、数据安全、系统安全、应用安全等内容的安全保障体系，制定并严格执行安全管理制度，确保设备和系统有效安全运行。<br><br>    三、工作要求<br><br>    （一）加强组织领导。各级风景名胜区管理部门要加强领导，积极稳步推进风景名胜区数字化景区建设。住房城乡建设部负责全国风景名胜区数字化景区建设的总体指导和监督实施，制订有关技术标准规范，并成立专家小组提供技术指导和服务。省级住房城乡建设（或风景名胜区）主管部门负责本辖区风景名胜区数字化景区建设的指导协调和监督实施。风景名胜区管理机构要设立专门工作机构，落实专业技术人员，稳步扎实推进数字化景区建设的各项工作。<br><br>    （二）规范有序建设。风景名胜区数字化景区建设要遵循国家和住房城乡建设领域信息化建设的有关要求和技术规范，做到标准统一、网络互连、数据共享，推进信息资源共享，提高信息资源效益。要充分利用和整合现有基础设施、应用系统和信息资源，避免自成体系、重复建设等问题，促进景区内部以及景区与外部业务系统的互通互联。<br><br>    （三）加强制度建设。风景名胜区要建立健全数字化景区建设的规章制度，制定包括规划立项、招标采购、设计施工、调试运行、项目验收、业务操作、日常运行、管理维护、文档管理、安全管理、应急管理、部门协作、绩效评估以及硬件、软件、人员、信息、数据等各方面的程序规范与管理制度，推进风景名胜区数字化建设与管理的规范化、制度化。<br><br>    （四）搞好人才培养。风景名胜区要加强数字化景区人才队伍建设，在积极引进专业人才和技术支持协作单位同时，加大对现有干部职工的培训力度，积极开展信息化建设有关政策法规、技术规范、专业知识的培训辅导，努力提高现有管理人员专业技术能力，适应数字化景区建设的需要。<br><br>    （五）加大资金投入。风景名胜区数字化景区建设需要一定的资金投入和保障。要积极拓宽融资渠道，加大资金支持力度，在充分利用自有资金的同时，积极争取财政资金、科研立项、银行贷款、社会投资等多方面的资金支持，为数字化景区建设提供可靠稳定的资金保障。<br><br>    各地在实际工作中遇到的具体问题，请及时与我部风景名胜区管理办公室联系。<br><br>    中华人民共和国住房和城乡建设部<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

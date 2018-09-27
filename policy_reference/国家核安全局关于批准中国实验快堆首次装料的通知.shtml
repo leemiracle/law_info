@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安发〔2009〕145号<BR>&nbsp;&nbsp;【发布日期】2009-09-22<BR>&nbsp;&nbsp;【生效日期】2009-09-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/hwj/200909/t20090928_161805.htm" target=_blank>国家核安全局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家核安全局关于批准中国实验快堆首次装料的通知<br> <br></font>(国核安发〔2009〕145号)</p><br> <br> <br>中国原子能科学研究院：<br><br>    你院《关于申请中国实验快堆首次装料调试的请示》（原安发〔2008〕315号）收悉。<br><br>    根据《中华人民共和国民用核设施安全监督管理条例》及其实施细则，以及有关研究堆的安全规定和导则的有关要求，我局审查了你院提交的申请文件，并进行了现场检查。经文件审查和现场检查，我局认为，中国实验快堆的建造基本满足核安全法规要求，已具备首次装料条件。我局决定向你院颁发《中国实验快堆首次装料批准书》。<br><br>    你院应按照《中国实验快堆首次装料批准书》规定的条件，严格遵守中国实验快堆《技术规格书》的规定，做好中国实验快堆首次装料和装料后的调试工作,确保装料和试运行阶段的核安全。<br><br>    附件：中国实验快堆首次装料批准书<br><br>二○○九年九月二十二日<br><br><br>    附件：<br><br>中国实验快堆首次装料批准书<br><br>（国核安证字第0904号）<br><br>    项目：中国实验快堆<br><br>    持证单位：中国原子能科学研究院<br><br>    法人代表：赵志祥<br><br>    国家核安全局审查了中国原子能科学研究院提交的《研究堆首次装料申请书》（中国实验快堆）及其附件，认为中国原子能科学研究院作为对中国实验快堆承担全面安全责任的营运单位，所提交的申请文件符合中华人民共和国有关法律和核安全法规的要求。核安全审评和监督结果表明，中国实验快堆已按认可的设计建成，达到要求的质量并有完整的质量保证记录，有适当的安全措施，保障其运行不致使厂区、公众和环境遭受过量辐射危害，符合核安全法规基本要求，已具备首次装料条件。<br><br>    根据《中华人民共和国民用核设施安全监督管理条例》及其实施细则，我局批准中国实验快堆的首次装料申请并颁发此批准书，同时对中国原子能科学研究院提出批准书条件。中国原子能科学研究院在中国实验快堆首次装料和临界、初始功率提升、低功率试验阶段、功率试验阶段及以后的满功率试运行中必须遵守下列条件：<br><br>    一、核设施首次装料即是运行的开始。中国原子能科学研究院作为对中国实验快堆承担全面安全责任的设计单位和营运单位，必须遵守国家的有关法律、法规和技术标准，特别是与安全运行有关的核安全法规，保证中国实验快堆的安全运行。<br><br>    二、在中国实验快堆首次装料及以后的调试运行中必须履行其在《研究堆首次装料申请书》和《中国实验快堆最终安全分析报告》等附件内及其审评过程中的全部承诺。今后若对这些承诺进行修改，应提出书面论证报告，报我局审查批准后方可实施。<br><br>    三、必须履行《中国实验快堆环境影响报告书（申请首次装料阶段）》及审评过程中的全部承诺。若对这些承诺进行修改，应提出书面论证报告，经审查批准后方可实施。<br><br>    四、中国实验快堆《技术规格书（试用）》（《最终安全分析报告》第17章，以下简称《技术规格书》）是中国实验快堆运行的重要依据。对运行负有直接责任的人员必须熟知《技术规格书》所规定的运行限值和条件，并保证遵守。在中国实验快堆运行寿期内，要根据经验和技术的发展对运行限值和条件进行复核，在我局提出要求或中国原子能科学研究院认为必要时，应对运行限值和条件进行修改。任何对《技术规格书》内容的修改必须经过我局审查批准。<br><br>    在2011年年底之前向我局提交《技术规格书》的适用性评价报告，并对《技术规格书》进行修订，同时提交完整的解释规范。<br><br>    五、必须在中国实验快堆首次装料及以后的调试、运行过程中严格执行认可的质量保证大纲，认真执行质量保证程序，对参与质量活动的其他单位进行有效监督，定期监查和审查质量保证大纲实施的有效性。当组织机构等发生较大变化时，应及时修改质量保证大纲，并报我局认可。<br><br>    六、必须执行调试大纲分阶段实施和审查的规定。在完成对前阶段调试试验结果的评价，并确认已实现了全部目标和满足了全部核安全管理要求之后，才允许进行下一阶段的调试试验工作。<br><br>    七、在中国实验快堆运行寿期内，如果厂址条件（如人口分布、附近的工业、运输和军事设施等）有较大变化，应报告我局，并论证其对中国实验快堆安全的影响。<br><br>    八、我局对中国实验快堆首次装料和临界后调试运行阶段的控制点为：初始功率提升、首次并网、100%额定功率（热）。每个控制点释放前，中国原子能科学研究院必须向我局提交控制点释放申请书、调试启动委员会会议纪要、相应阶段调试总结报告及其他技术文件，在获取我局对每一控制点释放的书面通知后，方可进行该台阶和低于下一个相邻控制点功率台阶的调试和试运行。<br><br>    九、在首次装料后一年内完成按100%雾状钠火份额的目标进行的钠火危害评价，并采取适当的工程措施。<br><br>    十、在首次装料后一年内完成燃料组件流道部分堵塞事故的监测系统改造，至少要保证一个系统满足1E级要求，并接入保护系统。<br><br>    十一、在堆芯余热功率达到额定功率（热）的0.5%时，进行堆芯自然循环能力验证。<br><br>    十二、在B阶段调试试验结束前，完成堆芯覆盖气体吹扫和衰变系统接入可靠电源的改造工作，并继续开展反应堆主容器氩气泄漏率测量工作的研究，完善试验方法，并在申请《研究堆运行许可证》之前确定经过优化的合理的泄漏率限值。<br><br>    十三、开展严重事故管理研究，在首次装料后一年内向我局提交中国实验快堆严重事故管理指南。<br><br>    十四、中国实验快堆如要改变装载核燃料类型，必须提前向我局重新提出申请。<br><br>    十五、首次装料后一年内结合竣工图对《中国实验快堆在役检查大纲》进行修订，并报我局。<br><br>    十六、完成调试大纲要求之后十二个月内向我局提交《研究堆运行许可证申请书》，同时提交有关文件。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

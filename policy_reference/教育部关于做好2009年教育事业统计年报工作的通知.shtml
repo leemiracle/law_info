@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教发函〔2009〕156号<BR>&nbsp;&nbsp;【发布日期】2009-07-29<BR>&nbsp;&nbsp;【生效日期】2009-07-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/31/info1250210414909231.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于做好2009年教育事业统计年报工作的通知<br><br></font>(教发函〔2009〕156号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）：<br><br>    为推进我国教育信息化建设，适应我国教育改革和发展的需要，进一步完善教育事业统计报表，我们对2009/2010学年初全国各级各类教育事业统计报表进行了修订和完善，并于今年6月下旬在甘肃兰州召开有关会议对今年的统计报表工作进行了布置与培训。为了做好2009年全国各级各类教育事业统计年报工作，现将有关事项通知如下：<br><br>    一、教育事业统计报表的修改变化<br><br>    今年报表修订的内容主要涉及与基础教育课程改革、研究生类型结构调整和优化等方面的相关内容，新增了教育信息化统计指标，完善了有关统计指标的界定，规范了相关代码。修订的报表共有57张。具体修改情况如下：<br><br>    （一）基础教育<br><br>    基础教育的修订共涉及27张报表，主要集中在小学、普通中学、职业初中学校基层统计报表和综合统计报表中。变动的主要内容包括两个方面：一是将原“专任教师分课程、分学历”表按课程改革后新的课程设置标准进行分类；二是在原“办学条件（3）”表中新增8个信息化指标。<br><br>    （二）中等职业教育<br><br>    中等职业教育的修订共涉及15张报表，主要集中在中等职业教育学校基层统计报表和综合统计报表中。变动的主要内容包括两个方面：一是在学校面表中新增“学校所在地”指标；二是在原“资产情况”表中新增9个信息化指标。<br><br>    （三）高等教育<br><br>    高等教育的修订共涉及15张报表，主要集中在高等教育学校基层统计报表和综合统计报表中。变动的主要内容包括三个方面：一是按照《教育部关于加强成人高等教育招生和办学秩序管理的通知》（教发〔2007〕23号）文件要求，普通高等学校停止招收成人脱产班 ，相应报表中不再填报成人脱产班招生数；二是将原表中研究生数按学术型学位研究生和专业学位研究生分类填报，学术型学位研究生按《授予博士、硕士学位和培养研究生的学科、专业目录（统计用）2008年》的分专业代码（二级学科）填报，专业学位研究生按《专业学位类别、专业（领域）代码（统计用）2009年》的专业（领域）代码填报；三是在原“资产情况”表中新增12个信息化指标。<br><br>    二、教育事业统计报表填报的技术支持<br><br>    1．修改后的教育统计报表表式、相关指标解释及有关代码等内容请详见附件，或登陆“中国教育统计网”（http：//www.stats.edu.cn）查询。<br><br>    2．由于今年报表修订变化较大，请各地教育行政部门在认真了解并掌握统计报表修改内容的基础上，尽早安排对基层统计人员相关统计业务的培训，并提前落实好报表的印刷事宜，确保教育统计工作的顺利进行。<br><br>    三、做好今年全国教育事业统计年报工作的几点要求<br><br>    1．高度重视，精心组织。各地教育行政部门要切实加强对统计工作的领导，精心组织，认真解决统计工作中遇到的困难和问题，保证今年教育统计工作的顺利开展。教育统计人员要本着高度负责的态度，努力做好教育统计的各项工作。<br><br>    2．加强培训，提供保障。地方各级教育统计部门要大力加强统计队伍建设，为教育统计工作提供坚强有力的组织保障。由于今年报表修订相对往年变动较大，各地教育行政部门要按照今年报表修改后的内容和要求，结合上年数据存在的问题，组织好今年的报表培训、填报和数据汇总工作，不得延误全国汇总工作。<br><br>    3．依法统计，规范行为。各地教育行政部门要牢固树立依法统计的思想，依法规范统计行为，要认真学习和领会新修订的《统计法》，依法维护统计秩序，从源头上保证统计数据真实可靠，杜绝随意干预、随意改动统计数据的现象发生，原则上统计人员应当具备与其从事的统计工作相适应的专业知识和业务能力。<br><br>    4．加强核查，提高质量。各地教育行政部门在总结过去已有经验的基础上，今年应继续做好教育统计数据重点核查工作，围绕社会关注、反映教育事业改革和发展热点问题的主要指标进行重点核查；落实数据质量监控制度，组织人员对本部门及所辖学校统计数据质量进行认真自查，发现问题及时解决。省级教育行政部门要在统计数据汇总过程中，组织人员进行互查和抽查。<br><br>    5．强化分析，重在运用。各地教育行政部门要抓住教育改革发展中的热点和难点等问题及时进行专题统计分析，主动为政府和社会各界提供服务。加强对新问题的研究，不断提高统计分析的水平和质量。<br><br>    附件：2009/2010学年初教育事业统计报表修改内容<br><br>中华人民共和国教育部<br>二ΟΟ九年七月二十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

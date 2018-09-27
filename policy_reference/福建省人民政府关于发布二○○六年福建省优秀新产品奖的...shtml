@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政文[2006]431号<BR>&nbsp;&nbsp;【发布日期】2006-09-12<BR>&nbsp;&nbsp;【生效日期】2006-09-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12203" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府关于发布二○○六年福建省优秀新产品奖的通知<br><br></font>(闽政文[2006]431号)</p><br><br><br>各市、县（区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：<br><br>    经省优秀新产品奖评选办公室评定，省政府同意授予优科能源（漳州）有限公司开发的“聚合物锂离子电池”等50项产品“2006年福建省优秀新产品”称号，其中一等奖3项、二等奖15项、三等奖32项（见附件）。<br>希望获奖企业和个人再接再厉，进一步增强技术创新能力，加快新产品开发步伐，不断开发出具有自主知识产权、技术含量高、经济效益好的新产品，以技术创新推动工业进步和产业升级，为加快海峡西岸经济区建设做出更大的贡献。<br><br>    附件：二○○六年福建省优秀新产品奖目录<br><br>福建省人民政府办公厅<br>二○○六年九月十二日<br><br><br>二○○六年福建省优秀新产品奖目录<br><br>一等奖3项<br><br> <br><br>序号<br> 企业名称<br> 产品名称<br> 主要获奖人员<br> <br>1<br> 优科能源（漳州）有限公司<br> 聚合物锂离子电池<br> 张贵萍、李  振、吴友星、赖志鑫、庄云南<br> <br>2<br> 福建龙净环保股份有限公司<br> BEL型电除尘器<br> 张  原、邱生祥、杨文贞<br> <br>3<br> 联想移动通信科技有限公司<br> P930GSM数字移动电话<br> 曾国章、陈  军、张玉岭<br> <br><br><br> <br><br>二等奖15项<br><br> <br><br>序号<br> 企业名称<br> 产品名称<br> 主要获奖人员<br> <br>1<br> 福建星网锐捷通讯股份有限公司<br> “锐捷”S6800系列核心万兆骨干路由交换机<br> 肖  群、邱根生、陈  浩、陈兴斌、刘  浩<br> <br>2<br> 厦门工程机械股份有限公司<br> 新型装载机驱动桥<br> 姚建平、贡凯军、张秀兰、林  平、范光华<br> <br>3<br> 厦门厦顺铝箔有限公司<br> 宽幅无菌包材用铝及铝合金箔<br> 江秀心、周培根、王建国、卜长海、王全成<br> <br>4<br> 福建南平太阳电缆股份有限公司<br> 交联聚乙烯绝缘聚烯烃护套阻燃环保型电力电缆<br> 徐建忠、柯宗海、赖建华、向  波、苏小英<br> <br>5<br> 厦门船舶重工股份有限公司<br> 4900carPCTC汽车滚装船<br> 金俊洪、刘海镇、杨振民、吴世明、祝  波<br> <br>6<br> 福建省南平铝业有限公司<br> 彩色消光电泳涂漆铝合金建筑型材<br> 何则济、王蔚臻、谢志军、郑礼平、余泉和<br> <br>7<br> 厦门金龙汽车车身有限公司<br> GD-CV11-JC加长海狮系列车型<br> 潘兴志、董绍斌、周署玲、韩  梅、钟志达<br> <br>8<br> 厦门华侨电子股份有限公司<br> 高清晰度液晶彩色电视机（LC-32U25/18/16/5、LC-27U25/18/16/7/6）<br> 苏庆雄、吴良琦、郑德泽、范锦华、陈辉阳<br> <br>9<br> 莆田市三江化学工业有限公司<br> 高性能健康建筑涂料（金叶内外墙漆）<br> 彭冬华、林丽忠、屈仁斌、张元太、高仰莲<br> <br>10<br> 福建凤竹纺织科技股份有限公司<br> 异形纤维(吸湿排汗)针织面料<br> 常向真、张聪明、阳  明、陈红江、杜方尧<br> <br>11<br> 福建南纺股份有限公司<br> 高密度针刺非织造合成革基布<br> 汤树生、姚继舜、徐  波、李  诚、何建勋<br> <br>12<br> 福建红旗股份有限公司<br> 电脑加针横机<br> 杨德友、吴启亮、郭少春、郑  敏、朱红旗<br> <br>13<br> 福建冠福现代家用股份有限公司<br> 中温无铅镉骨锂瓷<br> 林福椿、林文智<br> <br>14<br> 福建泉州凹凸精密机械有限公司<br> 单面六色自动变色电脑提花机<br> 王来成<br> <br>15<br> 泉州市火炬电子元件厂<br> 高可靠多层瓷介电容器<br> 蔡明通、张子山、白荫瑞、叶进发、高明俊<br> <br><br><br> <br><br>三等奖32项<br><br> <br><br>序号<br> 企业名称<br> 产品名称<br> 主要获奖人员<br> <br>1<br> 福州海王福药制药有限公司<br> 盐酸格拉司琼氯化钠注射液<br> 徐敏华、郭文王景、章卫中、陈志航、周美燕<br> <br>2<br> 厦门星鲨制药有限公司<br> 阿昔洛韦缓释片<br> 陈毓礼、朱家壁、陈牧文、彭守红、涂秋榕<br> <br>3<br> 福建省龙岩市天泉生化药业有限公司<br> 盐酸格拉司琼葡萄糖注射液<br> 邓国权、李国帜、徐广鑫、谢晓春、卢仲森<br> <br>4<br> 福州海王金象中药制药有限公司<br> 苋菜黄连素胶囊<br> 连  红、林祥键、严光辉、陈礼锋、徐章文<br> <br>5<br> 厦工集团三明重型机器有限公司<br> 4YCT32破碎压实机<br> 林述温、余金松、黄孙灼、谢剑雄、陈传铭<br> <br>6<br> 福建龙马专用车辆制造有限公司<br> FLM5050TSL型扫路车<br> 陈永奇、袁丹红、陈  隆、曾祥林、谢永芳<br> <br>7<br> 中铝瑞闽铝板带有限公司<br> 3003H14/H24铝幕墙板基<br> 李谢华、许徐宗、蔡  峰、罗筱雄、张开键<br> <br>8<br> 福州钜立机动车配件有限公司<br> 高强度铝合金汽车发动机摇臂<br> 薛玉田、张  丹、范小平、张相亭、林  武<br> <br>9<br> 福建源光亚明电器有限公司<br> 大功率（400W）环形无电极高频气体放电灯<br> 陈  跃、康文欣、林  兴、林  华、叶荔津<br> <br>10<br> 漳州市立达信绿色照明有限公司<br> 稀土长寿命植物生长节能灯<br> 蔡志民、郑江华、陈新兴、郑登龙、许建兴<br> <br>11<br> 福建龙岩喜鹊纺织有限公司<br> 毛圈提花缎档毛巾<br> 黄云海、江凤珠、江文凤、钟  桂、苏春华<br> <br>12<br> 福州富成味精食品有限公司<br> L-苏氨酸<br> 吴志勇、黄光华、张朝德、刘  辉、黄晓辉<br> <br>13<br> 福建泉工机械有限公司<br> QT6－15砌块成型机<br> 傅炳煌、卢坤生、朱伟民、王进贤、蔡荣奇<br> <br>14<br> 福建三祥冶金有限公司<br> 单晶电熔铝<br> 叶旦旺、夏  鹏、杨  辉、范  辉、温凤妹<br> <br>15<br> 厦门弘信电子科技有限公司<br> 高挠性多层分层（四层以上）挠性印制电路板<br> 王  毅、何耀忠<br> <br>16<br> 龙岩理尚精密机械有限公司<br> ZZM-SKYY31250C数控冲床自转模与组合模座<br> 邱禄魁、戴玉花、郑更华、顾大正、严凤和<br> <br>17<br> 福建三恒集团有限公司<br> ASP6090斜臂式平面丝网印刷机<br> 林钟兴、张世煌、张宗烁、曾显杰、连学东<br> <br>18<br> 莆田市荣兴机械有限公司<br> KRF摩托车制动器<br> 吴玉荣、郑玉景、林若扬、戴建华、陈朝阳<br> <br>19<br> 福鼎市一雄光学仪器有限公司<br> 便携式直流驱动天体跟踪仪<br> 王亦雄、王良联、李和善、李章品、甘欲鼎<br> <br>20<br> 泉州泉风电机有限公司<br> FZY－QA小型轴流风机<br> 蔡子章、朱振时、洪君山、刘志恒、蔡碧芬<br> <br>21<br> 闽西丰力粉碎机械有限公司<br> HLM-580、780、880超细内分级粉碎机<br> 郭彬仁、章仕亿、刘荣贵、杨建伟、郭杰泉<br> <br>22<br> 泉州新日成热熔胶设备有限公司<br> 创可贴高速自动生产线<br> 黄向明<br> <br>23<br> 泉州市丰泽华兴建筑机械设备有限公司<br> FZ－12振动式固液分离机<br> 苏美章、苏和睦、苏建华、苏美源、杜广州<br> <br>24<br> 泉州市南星机械制造有限公司<br> WYL－10/60L卧式压滤机<br> 陈铁文、陈衍培、陈永兴、苏立传、黄华安<br> <br>25<br> 福建省年代酒业有限公司<br> 尊廷枇杷白兰地<br> 王明龙、王清金、许美霞、庄成群<br> <br>26<br> 泉州市洛江区双阳金刚石工业有限公司<br> 金刚石排锯刀头<br> 陈秋平、杨明琛、陈文建、何明强、林坤煌<br> <br>27<br> 福建利兴电子有限公司<br> 复合基材覆铜板（CEM-1、CEM-3）<br> 余青川、乔秀园、杨振国、郭建安<br> <br>28<br> 福建省泰宁县金湖炭素有限公司<br> 新型活性炭<br> 叶李艺、李广源、李祥珍<br> <br>29<br> 福建省泉州正亿实业有限公司<br> 高弹、吸震EVA鞋底材料<br> 郭廷志、陈文韬、王白强、黄振基<br> <br>30<br> 永安市兴国人造板有限公司<br> 覆膜厚帘竹金刚板模板<br> 陈金明、许国强、林金国、徐先发、吴力清<br> <br>31<br> 福建省泉州市佳友精化有限公司<br> 水性聚氨酯纺织涂层胶<br> 肖荔人、郭福顺、庄锦树、黄宝铨、郭奎顺<br> <br>32<br> 福建国安船业有限公司<br> 18.88m多功能玻璃钢高速艇<br> 吴国安、吴连富、唐国明、黄元苍、沈扬显<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

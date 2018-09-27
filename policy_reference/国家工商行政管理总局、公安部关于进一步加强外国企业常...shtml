@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家工商行政管理总局 公安部<BR>&nbsp;&nbsp;【发布文号】工商外企字[2010]4号<BR>&nbsp;&nbsp;【发布日期】2010-01-04<BR>&nbsp;&nbsp;【生效日期】2010-01-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.saic.gov.cn/zwgk/zyfb/lhfw/lhfw/wstzqyj/201001/t20100115_79464.html" target=_blank>国家工商行政管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家工商行政管理总局、公安部关于进一步加强外国企业常驻代表机构登记管理的通知 <br><br></font>(工商外企字[2010]4号)</p> <br><br><br>    关于进一步加强外国企业常驻代表机构登记管理的通知<br><br>    各省、自治区、直辖市工商行政管理局、公安厅（局），各计划单列市工商行政管理局、市场监督管理局： <br><br>    改革开放以来，外国企业常驻代表机构（以下简称“代表机构”）为我国吸引外商投资和促进社会经济发展发挥了积极作用。但近年来，少数代表机构存在的擅自变更登记事项、提交虚假证明文件骗取登记、违规从事经营活动等问题在一些地方较为突出，严重损害了对代表机构的管理秩序。为依法加强对代表机构的管理，切实维护市场经济秩序，现就有关工作通知如下： <br><br>    一、认真执行公证认证制度，加强对代表机构登记材料的审查<br><br>    各地工商登记部门要严格执行境外法律文书公证认证制度，加强对代表机构登记申请材料的审查。代表机构在设立、变更名称时，应当提交隶属企业存续两年以上的合法开业证明、同该企业有业务往来的金融机构出具的资本信用证明，并经该国家或地区公证机关和中华人民共和国驻该国家或地区使领馆进行公证和认证。港澳台地区企业代表机构设立或者变更名称时，应当提交的文件按照现行相关规定办理。代表机构申请登记证延期时，应当提交隶属企业所在国家或者地区有关部门出具的企业存续证明。 <br><br>    二、认真落实有关规定，统一登记证的有效期限<br><br>    各地工商登记部门要严格执行《关于外国企业常驻代表机构的登记管理办法》的有关规定，对申请设立和延期的代表机构统一颁发有效期限为一年的登记证。对已颁发的有效期限超过一年的登记证，应当在代表机构办理变更或者延期登记时进行换发。 <br><br>    三、严格控制代表人数，加强对代表的登记管理<br><br>    代表机构的代表人数应当与其开展的业务活动相适应，代表机构代表（含首席代表）人数一般不得超过4人。对目前代表人数已超过4人的代表机构，原则上只允许注销代表，不再允许新增代表。 <br><br>    四、强化监督检查力度，依法查处代表机构违法行为<br><br>    各地工商部门对新设立的代表机构，在取得《登记证》之日起3个月内，应当对其驻在地址等登记事项进行现场核查。对代表机构提交虚假文件的，应当依法及时查处。对代表机构以各种形式收取费用从事经营活动的，可以按无照经营有关规定予以处罚。对已经掌握的存在登记证逾期、擅自变更驻在地址等违法行为的代表机构建立分类台账，纳入信用分类监管。 <br><br>    五、加强部门协作配合，形成监管合力<br><br>    各地工商部门与公安机关要进一步加强协作配合，建立部门协调工作机制。工商部门对代表机构登记事项信息和违法违规情况定期通报公安机关出入境管理部门。对代表机构涉嫌诈骗或者非法经营犯罪的，依照有关法律法规的规定，工商部门及时移送公安机关处理；公安机关出入境管理部门在工作中发现代表机构或代表存在虚假地址注册、异地办公或不办理备案登记年检等情况的，应及时通报工商部门依法处理。 <br><br>    国家工商行政管理总局   公安部<br><br>    二○一○年一月四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

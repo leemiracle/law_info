@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】南昌市政府<BR>&nbsp;&nbsp;【发布文号】洪府厅字〔2009〕278号<BR>&nbsp;&nbsp;【发布日期】2009-07-29<BR>&nbsp;&nbsp;【生效日期】2009-07-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://xxgk.nc.gov.cn/bmgkxx/szfb_3_1/fgwj/qtygwj/200908/t20090824_159700.htm" target=_blank>南昌市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>南昌市政府关于进一步推进我市社区公共卫生服务工作的通知  <br><br></font>(洪府厅字〔2009〕278号)</p> <br>  <br>  <br>    各城区政府，各开发区（新区）管委会：<br><br>    实施政府购买社区公共卫生服务工作是“民生工程”的一项重要内容，也是促进基本公共卫生服务均等化的一项重要举措。近年来，市委、市政府十分重视社区卫生服务的发展，在社区卫生服务的建设和政府购买社区公共卫生服务方面加大了政府投入，我市社区卫生服务得到了快速发展，社区居民通过享受政府购买社区公共卫生服务也得到了极大的实惠。最近，省、市两级分别组织了政府购买社区公共卫生服务工作的考核，从考核结果看，我市实施政府购买社区公共卫生服务工作处于相对落后的局面，离省级工作要求还有一段距离。<br><br>    为了确保年底“民生工程”任务的顺利完成，促进我市政府购买社区公共卫生服务工作又快又好的发展，实现我市社区公共卫生服务工作走在全省前列的目标，经研究决定，在全市城区范围内，开展“城市社区公共卫生服务季”活动，利用第三季度时间，加大工作力度，扭转被动局面。现将有关工作要求通知如下：<br><br>    一、工作目标<br><br>    到今年9月底，以区为单位，各项指标达到以下工作要求（详见附件）：<br><br>    （一）公共卫生服务卡任务完成率≥90%；<br><br>    （二）城市居民健康建档率≥90%；<br><br>    （三）六类人群健康档案建档率≥90%；<br><br>    （四）高血压、糖尿病管理率≥80%。<br><br>    二、工作措施<br><br>    （一）加强组织领导，提高思想认识<br><br>    实施政府购买社区公共卫生服务，是政府履行维护公众健康的职责。各级政府和各部门要把实施社区公共卫生服务，提升到政府民生工程、德政工程这一高度来认识。要加强领导，要建立政府主导、卫生牵头、街道、居委会参与配合的工作运行机制。<br><br>    （二）明确目标任务，责任落实到人<br><br>    各城区、开发区（新区）社区公共卫生服务工作领导小组要按照工作目标，制定工作方案，将目标任务放在政府―部门―机构各个层面上，进行层层分解，逐级签订责任状，做到人人有任务，人人有责任，人人有担挑。要建立卫生行政部门、街道、居委会和社区卫生服务机构的互动工作机制。区卫生行政部门要成立多个工作小组，由局领导任组长，疾病预防控制机构、妇幼保健机构业务骨干为小组成员，采取定任务、定时间、定业绩，蹲点、分片包干各社区卫生服务机构，指导其开展社区公共卫生服务工作。要制定工作推进表，要给每个机构下达具体的工作任务和完成任务的时间，采取切实可行的措施，确保在规定的时间内完成各项目标任务。<br><br>    （三）加大政策宣传，做到人人皆知<br><br>    市卫生局要继续利用江西电视台等重要新闻媒体对项目政策进行深入宣传，各区也要加大宣传力度，制定宣传工作的实施方案，采取发放宣传单、宣传册和《健康服务手册》等多种形式，广泛宣传项目政策。社区卫生服务机构要组织工作人员深入社区，在街道、居委会的配合下，入户发放宣传单、宣传册、《健康服务手册》，在各住宅区显著的位置张贴宣传告示，让广大社区居民了解政府购买社区公共卫生服务的信息和内容，动员适宜对象接受社区公共卫生项目服务。<br><br>    （四）完善工作机制，提高工作效率<br><br>    1、建立卫生、街道、居委会相互配合工作机制。社区卫生服务机构要主动与街道、居委会取得联系，在街道、居委会的配合下，开展居民健康档案的建档工作，保证健康档案质量，尽量做到不漏户、不漏人。街道、居委会要配合社区卫生服务机构开展居民健康档案的建档和协助组织适宜对象到社区卫生服务机构接受健康体检工作。<br><br>    2、完善公共卫生服务流程。各社区卫生服务机构要建立社区公共卫生服务流程，对所有来机构就诊或接受健康咨询的居民均要求做到“一问二核三告知”，即：问是否建立健康档案，核是否是服务对象，告知社区公共卫生服务相关政策。要利用各种渠道，为居民建立健康档案。同时，社区卫生服务机构要合理安排社区居民健康体检工作，将体检注意事项提前告知体检对象，保质保量完成工作任务。<br><br>    3、建立对口支援工作机制。各区要加强社区公共卫生对口支援工作，要发挥区妇幼保健机构的作用，对一些妇幼保健力量薄弱的社区卫生服务中心，要从区妇幼保健机构抽调人员支援社区卫生服务中心开展社区妇幼保健工作。<br><br>    （五）完善考核制度，加强经费管理<br><br>    1、建立分级考核制度。为提高工作效率，建立分级考核制度，市级考核区级每半年一次，区考核中心每季度一次，中心考核站每月一次。在做好集中考核的同时，利用江西省社区公共卫生服务信息系统加强日常监管。<br><br>    2、完善经费核拨制度。区级每季度完成机构二类项目的考核工作后，对合格的机构要在两周内及时核拨经费，对未及时核拨经费或违规核拨经费的，提出通报批评，并追究相关人员的责任。<br><br>    3、规范专项经费管理。区级卫生行政部门要指导督促社区卫生服务机构建立财务管理制度，加强专项经费管理，做到合理使用，账目齐全。<br><br>    （六）建立定期通报制，调动工作积极性<br><br>    1、建立定期调度制。市、区两级社区公共卫生服务工作领导小组要采取定期与不定期召开工作调度会的方式，建立通报制度，及时通报工作进展、互相交流工作经验。近期市、区两级每周调度一次，市级社区公共卫生服务工作领导小组办公室将每周对各区社区公共卫生服务工作进展情况进行排名，并及时上报市政府，通报各城区；区级社区公共卫生服务工作领导小组办公室每周对各社区卫生服务机构工作任务完成情况进行调度，及时掌握工作进度，对发现的问题及时整改，对工作不力的社区卫生服务机构要通报批评。<br><br>    2、建立奖惩制度。市级社区公共卫生服务工作领导小组制定奖惩办法，落实奖惩措施，加大考核结果的运用力度，对考核优秀区和机构在年底要进行表彰，对不能及时完成工作任务的区和机构要进行通报批评，对屡次考核不合格的机构要取消其社区卫生服务执业资格。<br><br>    3、建立监督机制。每个社区卫生服务机构要在机构醒目位置公示社区公共卫生服务项目内容，公布举报电话，接受社区居民的监督，对群众举报服务项目缺项或弄虚作假的，一经查实，责令其限期整改，对不及时整改的机构取消其开展社区卫生服务的资格。<br><br>    各城区、开发区（新区）收到通知后，要立即召开相关会议，层层发动，采取强有力的措施，在规定的时间内，全面完成政府购买社区公共卫生服务的各项工作任务，确保我市社区卫生服务工作走在全省的前列。<br><br>    二OO九年七月二十九日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

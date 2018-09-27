@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办渔[2006]11号<BR>&nbsp;&nbsp;【发布日期】2006-04-17<BR>&nbsp;&nbsp;【生效日期】2006-04-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cnfm.gov.cn/info/display.asp?id=12888" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于开展“护渔2006”渔业专项执法行动的通知<br><br></font>(农办渔[2006]11号)</p><br><br><br>沿海各省、自治区、直辖市渔业主管厅（局），各海区渔政渔港监督管理局：<br><br>    根据国务院关于加强市场经济秩序整顿的要求和我部全面贯彻落实《中国水生生物资源养护行动纲要》的工作部署，为严格执行海洋捕捞“双控”制度，巩固近年来海洋捕捞渔船管理工作所取得的成果，提高渔船持证生产和安全作业水平，维护正常渔业秩序，保障伏季休渔制度顺利实施，我部决定于2006年6月至10月间开展代号为“护渔2006”的渔业专项执法行动(下称专项行动)，重点查处“三无”、“三证”（捕捞许可证、渔业船舶登记证、渔业船舶检验证，下同）不齐渔船和违反伏季休渔制度渔船，规范渔船管理，督促渔船安全生产。现将有关事项通知如下：<br><br>    一、组织方式<br><br>    专项行动由农业部渔政指挥中心（以下简称指挥中心）统一组织领导，各海区渔政渔港监督管理局（以下简称海区局）、沿海各级渔业行政主管部门及其渔政渔港和渔业船舶检验机构组织实施。<br>指挥中心负责制定专项行动总体方案，协调解决专项行动中出现的重大问题，根据专项行动需要组织调动渔政船开展海上执法检查，指导督促各地开展行动。海区局负责制定本辖区海上专项行动的具体实施方案并组织实施，督促辖区内各省（区、市）开展行动。沿海各省（区、市）渔业行政主管部门负责组织渔政、渔港监督、渔业船舶检验机构制定本省(区、市)港口专项行动方案并组织实施，开展行动的宣传、信息报送和总结等工作。<br><br>    二、专项行动的内容和要求<br><br>    专项行动由港口专项行动和海上专项行动组成。<br><br>    （一）港口专项行动要求<br><br>    1.港口专项行动由港口所在地渔业行政主管部门组织实施。<br><br>    2.行动时间原则上集中在伏休期间或其他渔船集中停港的时间。具体时间由各地结合当地实际安排。<br><br>    3.港口专项行动检查的重点<br><br>    (1)检查在港渔船持“三证”和职务船员持证情况；<br><br>    (2)检查渔船安全设施配备情况；<br><br>    (3)检查渔船标识情况，重点检查渔船船名号标识。<br><br>    4.沿海县级渔业行政主管部门要将辖区内渔港全部纳入检查范围，对港内渔船开展以上述内容为重点的专项检查，查处和纠正违规行为和不规范做法。每个港口44.1千瓦(60马力)以上大中型捕捞渔船的检查率不得低于在港船数的50%，44.1千瓦以下小型捕捞渔船的检查率不得低于在港船数的30%。港口检查的情况要按附表1的要求如实填报。<br><br>    （二）海上专项行动要求<br><br>    1.海上专项行动由各海区局统一组织，有关省(区、市)渔政机构参加。此外，各省(区、市)也可根据本省情况自行组织开展海上专项行动。<br><br>    2.海区局统一组织的海上专项行动时间为2006年6月至9月，重点区域为北纬35度线附近海域、台浅渔场、禁渔区线附近海域及其他违规渔船集中海域。<br><br>    3.海上专项行动检查的重点<br><br>    (1)检查捕捞渔船持“三证”和专项特许捕捞许可证情况；<br><br>    (2)核查海上作业渔船的作业类型、作业场所是否符合核准要求，检查渔业辅助船是否有收购非法渔获物的行为；<br><br>    (3)查处其他非法捕捞行为。<br><br>    4.各海区局要结合2006年专属经济区渔政巡航计划，组织各省（区、市）开展2次以上的统一海上专项行动。行动期间，每艘参加行动的渔政船每航次登临检查渔船数不低于10艘。各省（区、市）开展海上专项行动的次数及登临检查渔船数的要求，由各省（区、市）根据情况另行制定。所有海上专项行动的执行情况，按附表2的要求如实填报。<br><br>    三、专项行动中对违法违规渔船的处置原则<br><br>    （一）港口检查中，凡“三无”渔船或虽有船名号但全国海洋捕捞渔船换证数据库（以下简称渔船数据库）中没有记录的船舶，装有捕鱼设施、涉嫌从事非法渔业活动，由检查机构暂扣该船进行调查，要求其限期出示“三证”。对逾期不能出示“三证”的，视同违规从事渔业活动，按照相关法律法规予以处置，并责令船主拆除捕鱼设施后放行。<br><br>    （二）港口检查中，凡未按规定标识船名号和其他标识，以及未按规定配备渔船安全设施的，由检查机构暂扣该船渔业船舶证书，并要求船主限期整改，整改合格后返还有关证书。逾期未整改或整改不合格的依法处罚。<br><br>    （三）凡海上查获的以下捕捞渔船或辅助渔船，一律按“就近扣押”原则押回港内依法处理，不得在海上处罚后放行：<br><br>    1.违反伏季休渔管理规定出海作业的；<br><br>    2.为违反伏季休渔规定的捕捞渔船提供服务的；<br><br>    3.不能现场出示“三证”且船名号在渔船数据库中没有记录的；<br><br>    4.抗拒检查、暴力抗法的。<br><br>    伏季休渔期间，因上述原因扣港的渔船如因港口安全或其他原因确需提前放行的，由扣船机构提出处罚意见报经海区局同意，并执行处罚决定后放行。被暂扣的捕捞许可证和渔具，由当事渔船船籍港所在地渔政机构返还给当事人。<br><br>    海区局统一组织的海上专项行动的扣船点由各海区局根据需要指定，并提前公布。沿海各省（区、市）组织的海上执法行动的扣船点自行决定。<br><br>    （四）海上查获的“三无”渔船，一律按“就近、异地扣押”原则，押回港内依法处理，不得在海上处罚放行，也不得扣押在违规渔船的船籍港或船东户籍所在地。其中44.1千瓦以上大中型“三无”渔船原则上一律予以没收，具体的处理决定，须事先由扣船机构报经所在海区局审核，并报部渔政指挥中心同意后执行。<br><br>    （五）海上查获的未携带“三证”但渔船数据库中有记录的渔船，以及其他非法捕捞渔船，由查获单位根据《中华人民共和国渔业法》和相关法律法规处理。<br><br>    四、专项行动的督察和抽查<br><br>    行动期间，指挥中心视情况组织督察组对黄渤海、东海、南海区及沿海各省（区、市）开展港口和海上专项行动的情况进行检查。<br><br>    各海区局要组织检查组对本海区各省（区、市）开展港口和海上专项行动的情况进行检查，对重点地区、渔港进行抽查。每个检查组抽查的港口数不少于2个，每个港口抽查渔船数不少于30艘。抽查情况按附表1的要求填写。<br><br>    五、工作要求<br><br>    （一）专项行动是我部贯彻实施《中国水生生物资源养护行动纲要》的重大行动之一，对进一步规范渔船管理，查处非法捕捞，维护海上正常作业秩序，保障伏休制度顺利实施，督促渔船安全生产具有重要意义。各级渔业行政主管部门要提高认识，加强领导，精心组织渔政、渔港监督、渔业船舶检验机构，按照本通知要求，落实好专项行动的各项工作。凡不按规定开展专项行动，不按规定将违规渔船扣押回港或擅自释放扣港渔船，以及向无关人员泄露行动秘密的，一经发现将通报批评，并视情节依照《中华人民共和国渔业法》第四十九条规定处理。行动结束后，指挥中心将对专项行动中表现突出的单位或个人给予表彰。<br><br>    （二）各海区局和沿海各级渔业行政主管部门要通过广播、电视、电台、报纸、标语等形式，加强对渔民持证作业和遵守伏休制度等内容的宣传，教育广大渔民依法生产。行动期间，各地要适时宣传专项行动的成果，扩大专项行动的影响和效果。指挥中心将印发专项行动的通告，届时各地要及时组织张贴。<br><br>    （三）各海区局和沿海各级渔业行政主管部门及渔政渔港监督管理机构，要根据行动要求提前做好违规渔船信息的调查摸底工作，设立和公布专项行动举报电话，掌握违规渔船情况，减少专项行动的盲目性，提高行动实效。所有参加专项行动的人员必须遵守保密规定，不得向无关人员泄露渔政船的航行动态等信息。<br><br>    （四）参加行动的渔业执法人员，要依法行政，文明执法，严格按法律程序办事。<br><br>    （五）各海区局要根据本通知要求，结合本辖区的实际情况制定具体的落实方案，并于5月15日前报指挥中心备案。沿海各省(区、市)渔业行政主管部门要制定港口专项行动方案，并于5月15日前报所在海区局备案。<br><br>    各海区局要加强对各省(区、市)专项行动的指导、协调和督促。<br><br>    （六）专项行动结束后，各省（区、市）渔业行政主管部门要对专项行动的工作情况进行总结，将本省（区、市）港口和海上行动的情况（附表1和附表2）进行汇总分析，填写附表3，并于10月15日前报所在海区局。各海区局按上述要求将辖区内港口、海上专项行动进行情况汇总，并于10月30日前报指挥中心。 <br><br>2006年4月17日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

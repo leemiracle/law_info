@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】工业和信息化部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2008-04-30<BR>&nbsp;&nbsp;【生效日期】2008-04-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.miit.gov.cn/n11293472/n11293832/n11293952/11489681.html" target=_blank>工业和信息化部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>工业和信息化部关于电信服务质量的通告（2008年第2号）</font></p><br> <br>  <br>    为推进电信服务质量持续改善，根据《中华人民共和国电信条例》相关规定，现将2008年一季度电信服务质量有关情况公布如下。<br> <br>    一、电信服务基本状况<br>    一季度，通信行业行风建设指导小组结合国家经济社会发展对通信行业的要求，将2008年电信服务和行风建设工作主题确定为“通信服务与社会责任”，要求全行业进一步提高认识，把通信服务工作与对社会的贡献结合起来，把服务社会、服务大众和人民群众是否满意作为工作的出发点和立足点。在各级电信管理机构的积极推动下，各电信运营企业2008年一季度服务改进工作持续推进，电信网络运行安全平稳，服务质量整体基本保持稳定。<br> <br>    通信质量状况。一季度，雨雪冰冻灾害致使南方部分地区正常通信受到影响，全国其它地区电信和互联网业务通信状况基本良好，各项网络通信质量指标均达到国家规定要求。今年1月中旬以来，我国南方地区先后出现历史罕见的低温雨雪冰冻灾害，使贵州、湖南、江西等20多个省电力设施损毁严重，致使部分地区通信用电中断、设施受损、抢修困难，用户正常通信受到影响。在各级政府、电信管理机构及有关部门的有力指挥下，各基础电信运营企业全力展开抗灾抢险，累计出动抢修人员约138万人次，调动应急通信车和抢修车辆约51.1万台次，动用应急通信设备约46.3万余台，发送各类应急公益短信约27亿条，团结协作，无私奉献，为抢险抗灾各项工作和广大人民群众的生产生活提供了强有力的通信支撑和保障。截至目前，灾区通信基本恢复正常。<br>  <br>    服务质量状况。基础电信服务方面，各基础电信运营企业积极响应“通信服务与社会责任”主题，联合发布了“电信企业社会责任宣言”，并结合各企业实际，围绕“优质服务迎奥运”对全年通信服务工作进行部署。中国消费者协会一季度发布的电信用户满意度测评结果表明，广大用户对当前电信服务工作整体表示认可，电信用户满意度进一步提升。但是，部分用户对电信业务收费欠透明、宽带网速不稳定等问题仍有抱怨。工业和信息化部对相关基础电信企业涉及上述电信服务问题的用户信访和申诉进行了督办，并要求限期改正。增值电信服务方面，在电信管理机构的直接问责和督办下，前期用户反映较多的部分固话声讯台诱骗消费等问题得到一定遏制，增值电信市场经营服务行为整体趋于规范，但个别社会机构和不法分子利用通信网络滥发垃圾短信以及不良信息、制造“响一声就断”骚扰电话等问题引起了社会各界的广泛关注，成为新的热点。<br> <br>    二、电信用户申诉基本情况<br>    一季度，工业和信息化部从电信用户申诉受理机构、政府网站、部长信箱等渠道共受理关于电信服务的申诉8102人次，季度用户申诉率为8.74（人次/百万用户），较上季度有所上升。<br> <br>    统计分析表明(详见附件)，通信服务方面的申诉占申诉总量的40.3%，较上季度下降0.9个百分点，其中用户对基础电信企业宣传不到位等服务问题的申告较上季度明显减少。通信质量方面的申诉占17.2%，较上季度上升0.6个百分点，其中因南方部分地区雨雪冰冻灾害而引发通信质量问题的用户申诉上升了32.6%。收费争议方面的申诉占申诉总量42.5%，较上季度上升0.3个百分点，其中信息服务业务依然是用户申诉热点。<br> <br>    三、经营及消费提示<br>    （一）经营提示<br>    1、2008年，各电信运营企业要围绕“通信服务与社会责任”主题，牢固树立发展为民的理念，从社会责任的高度，更好地服务于社会经济发展。重点抓好四个方面的工作：一是加强思想建设，不断深化从业人员的社会责任感；二是以诚信建设为抓手，着力打造规范有序的通信服务链；三是以社会和谐为己任，创建文明、健康、以人为本的通信服务环境；四是以用户满意为目标，一如既往地把解决涉及人民群众切身利益问题放在突出位置，坚决纠正不正之风。<br> <br>    2、奥运会日益临近，各电信运营企业要结合2008年北京奥运通信服务保障工作的要求，以恪守服务基本规范为基础，以提升服务质量为重点，按照《电信服务规范》的基本要求和《关于2008年通信行业行风建设工作的意见》的部署，加快完成对奥运会涉及区域各项电信业务的规范性测试和全面检查。<br> <br>    3、针对近期社会各界反映强烈的“响一声就断”骚扰电话事情，各电信运营企业要高度重视，健全用户举报机制，畅通用户举报渠道，加大打击力度，并积极采取有效措施加以治理，以切实维护消费者的合法权益。<br> <br>    （二）消费提示<br>    工业和信息化部提醒广大电信用户，收到垃圾短信、不良信息和“响一声就断”骚扰电话时，可通过以下渠道投诉和举报：<br> <br>    1、收到含有涉黄、诈骗、贩卖违法物品、赌博等违法内容的信息，要立即向公安部门110报警平台举报。<br> <br>    2、收到其他不良、垃圾短信等信息，可向相关基础电信企业或工业和信息化部进行投诉、举报：<br>    中国移动不良和垃圾信息受理平台10086999；<br>    中国联通客户服务热线 10010；<br>    中国电信客户服务热线 10000；<br>    中国网通客户服务热线 10060；<br>工业和信息化部不良和垃圾信息举报中心010-12321。<br> <br>    3、遇到“响一声就断”骚扰电话时，用户应提高警惕，谨慎对待，并及时向工业和信息化部和各相关基础电信企业进行投诉、举报。<br>    中国电信客户服务热线 10000；<br>    中国网通客户服务热线 10060；<br>    中国移动客户服务热线 10086；<br>    中国联通客户服务热线 10010；<br>    中国铁通客户服务热线 10050；<br>    工业和信息化部电信用户申诉受理中心010-12300。<br> <br> <br>    附件：  1.  2008年一季度基础电信企业用户申诉分类统计表.doc<br>                2. 2008年一季度用户申诉主要涉及的增值电信企业名单.doc<br>  <br>中华人民共和国工业和信息化部<br>二00八年四月三十日 <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

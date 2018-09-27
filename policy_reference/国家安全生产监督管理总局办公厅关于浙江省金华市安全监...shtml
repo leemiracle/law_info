@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总厅培训〔2008〕147号<BR>&nbsp;&nbsp;【发布日期】2008-10-16<BR>&nbsp;&nbsp;【生效日期】2008-10-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-10/17/content_289631.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局办公厅关于浙江省金华市安全监管局违规收费有关问题的通报<br><br></font>(安监总厅培训〔2008〕147号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，各省级煤矿安全监察机构，各直属事业单位、社会团体：<br><br>    2008年6月23日，《市场报》刊出浙江省金华市安全监管局违规收费问题的报道后，引起国务院领导同志的高度重视，作出了重要批示，国家安全监管总局立即责成浙江省安全监管局进行调查核实、严肃处理。目前，情况已经查明，相关责任人受到严肃处理。现将有关情况通报如下： <br><br>    经查，2005年3月至2007年3月，浙江省金华市安全监管局在未获得行政性收费项目许可、未取得收费许可证的情况下，以证书工本费、培训费分成、赞助费等形式，违规向培训机构和生产经营单位收取费用作为该局“小金库”，主要用于干部职工的补贴和福利发放，共涉及资金65.75万元。其中：违反有关规定，收取特种作业人员操作证（IC卡）工本费和复审费12.96万元；在对烟花爆竹等行业人员培训中，以收取资格证书费和以培训收入分成的方式，向培训机构收取费用31.96万元；在印制和发行《金华市重大事故警示录》一书时，虚开发票金额多报财政资金1.8万元，并违规收取教材费2.03万元；接受金华市高鑫安全检测评价中心赞助费15万元、金华市安全生产技术协会赞助费2万元、某建筑公司赞助的电脑4台、打印机、照相机各1台，接受某水泥公司赞助的120吨水泥用于扶贫项目。2008年7月3日，金华市委对相关责任人作出了严肃处理，免去王乐民金华市安全监管局党组书记职务，提请市人大常委会依法免去其局长职务。同时，责成金华市安全监管局向金华市委、市纪委作出书面检查，并清退违规收取的费用。 <br><br>    浙江省金华市安全监管局的行为严重违反了有关财经纪律和党风廉政建设规定，被媒体曝光后，在社会上造成了不良影响，损害了党和政府的形象，教训十分深刻。各单位要引以为戒，结合开展深入学习实践科学发展观活动，切实加强队伍自身建设，进一步强化对中介机构的监管，规范培训行为，坚决杜绝类似事件发生。 <br><br>    一、深刻汲取教训，加强警示教育。各单位要以金华市安全监管局违规收费事件和近年来安全监管监察系统违法违纪典型事件为案例，在干部职工中深入开展“以案学纪、以案学法”的专题教育活动，深刻汲取教训，教育引导广大干部特别是领导干部慎重对待手中的权力，树立正确的权力观、地位观和群众观，强化政治意识、为民意识、责任意识、纪律意识，自觉做到严格遵守法律法规和有关规章要求，防止违纪违规行为发生。 <br><br>    二、加强培训管理，规范培训行为。各级安全监管监察机构要进一步规范培训机构的行为，严格执行培训计划备案审批制度，坚决杜绝乱办班、乱收费、乱发证现象。各培训机构要严格执行培训收费有关规定或标准，实行收支两条线，杜绝以赚钱为目的培训和利用培训搞旅游等行为；不得未经批准擅自设立分支机构，更不得转让、出租（出借）培训资质，杜绝借用安全监管监察机构名义乱发文、乱培训现象。2008年底之前，各地要集中开展一次辖区内安全培训发证收费专项清理整顿活动，严肃查处各种违规收费、私设“小金库”行为；对有令不行、有禁不止，继续违规收费的，发现一起，查处一起，决不姑息迁就。 <br><br>    三、严格行政审批，强化中介机构监管。各级安全监管监察机构要举一反三，进一步完善行政审批的运行、管理和监督机制，规范审批程序，建立审批责任制，防止安全生产许可、资格证照发放等工作中出现违规违纪问题。进一步完善安全评价、安全培训、检测检验等中介机构管理办法，建立健全中介机构专家咨询和会审制度，严格执行公示公告规定,防止少数人说了算。加大对培训机构的监督检查力度，对违反有关规定进行培训的要严肃查处；情节严重的，取消其培训资质，并向社会公布。 <br><br>    四、坚持从严治内，抓好队伍建设。各单位要以正在开展的深入学习实践科学发展观活动为契机，认真查找本单位在队伍建设等方面存在的差距，及时发现和解决安全培训工作中可能出现的矛盾和突出问题。严格执行党风廉政建设责任制，进一步加强对全体干部特别是领导干部的监督，重点解决领导干部违反规定插手行政许可、安全执法、事故调查、中介机构监管以及安全培训等方面的突出问题，防微杜渐，保持队伍良好形象，切实做到公正执法、严格执法、廉洁执法。<br><br>国家安全生产监督管理总局办公厅<br>二○○八年十月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

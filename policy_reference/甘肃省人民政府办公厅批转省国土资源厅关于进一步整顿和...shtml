@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2004〕133号<BR>&nbsp;&nbsp;【发布日期】2004-12-02<BR>&nbsp;&nbsp;【生效日期】2004-12-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=386" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅批转省国土资源厅关于进一步整顿和规范矿产资源勘查开发秩序实施意见的通知<br><br></font>(甘政办发〔2004〕133号)</p><br> <br> <br>各市、自治州人民政府，陇南行署，省政府各部门，中央在甘各单位：<br><br>    省国土资源厅《关于进一步整顿和规范矿产资源勘查开发秩序的实施意见》已经省政府同意，现予批转，请认真贯彻执行。<br><br>                                      二○○四年十二月二日<br><br><br>关于进一步整顿和规范矿产资源勘查开发秩序的实施意见<br>(省国土资源厅二○○四年十一月二十日)<br><br>    近年来，全省各地按照国务院整顿和规范市场经济秩序的总体要求，认真贯彻落实国土资源部和省政府的具体工作部署，在治理整顿矿产资源勘查开发秩序、规范探矿权采矿权市场方面做了大量工作，矿产资源管理工作得到了进一步加强，勘查开发秩序有了明显好转，促进了矿业经济的健康持续发展。但是，由于地方保护、利益驱动、疏于管理和法治意识淡薄等原因，当前在矿产资源勘查开发秩序方面存在的问题仍然比较突出。主要表现在：一些地方无证勘查开采行为屡禁不止，严重干扰了正常的矿业秩序；有些探矿权人长期占着勘查区块不开展地质工作或完不成最低勘查投入，占而不探，伺机炒作矿权，甚至不按勘查设计施工，擅自进行采矿活动，长期以采代探，破坏了正常的矿产资源勘查秩序；有些采矿权人违反开发利用方案乱采滥挖，重采轻治，造成了严重的资源浪费和环境破坏；一些探矿权人、采矿权人违反法定的程序和条件，擅自以承包等方式非法转让处置探矿权、采矿权，扰乱了矿业权市场秩序；有些地方政府和管理部门法治意识淡薄，超越法定权限或违反法定程序出让探矿权、采矿权，不能严格依法管矿；有些地方的政府职能部门热心于矿权出让而疏于监督管理，导致辖区内矿产资源勘查开发秩序混乱，一些矿业纠纷长期得不到解决，违法者得不到应有的惩罚，合法矿业权人的权益得不到有效保护。对矿产资源管理工作中存在的上述问题，不仅要有清醒的认识，而且必须引起高度重视。<br><br>    为了认真贯彻落实国务院整顿和规范市场秩序的总体要求，进一步加强全省治理整顿矿产资源勘查开发秩序工作，坚决制止无证采矿、以采代探、非法转让、乱采滥挖、破坏资源和环境的违法行为，强化各级政府的管理责任，严格规范管理程序，切实提高矿政管理水平，逐步建立起严格保护、规范有序、合理开发的矿产资源管理新秩序，省政府决定在近几年治理整顿工作的基础上，再利用一段时间，在全省范围内深入开展矿产资源勘查开发秩序的集中治理整顿工作。现提出以下实施意见：<br><br>    一、指导思想、主要任务和基本目标<br><br>    指导思想：以邓小平理论和“三个代表”重要思想为指导，针对当前矿产资源勘查开发和监督管理工作中存在的突出问题，坚持依法行政、严格执法、突出重点、强化责任的原则，集中整顿，及时纠正，严格规范。<br><br>    主要任务：全面取缔和严格查处无证勘查开采、越界开采、以采代探、非法承包转让探矿权采矿权等违法行为；坚决制止不按开发利用方案实施开采的违法行为，限期停产整顿乱采滥挖、浪费资源、破坏环境的矿山；建立健全严格的探矿权采矿权审批、出让制度，依法查处违法行政案件，着力解决管理松弛、执法不严的问题。<br><br>    基本目标：通过全面排查，依法查处，逐一整改，完善制度，加强管理，使勘查持证率达到100％，开采持证率达到95％以上，违法案件查处率达到90％以上，矛盾突出的矿权纠纷得到妥善处理，违法行政行为得到全面制止，全省矿产资源勘查开发秩序明显好转，实现我省矿产资源的有效保护和合理开发利用，促进矿业经济持续健康发展。<br><br>    二、主要内容<br><br>    (一)继续开展五项专项整顿。按照国土资源部的总体部署和2004年我省整顿规范工作安排以及省矿产资源管理秩序治理整顿工作领导小组办公室的要求，抓紧做好对重点矿区、无证开采、以采代探、非法转让、煤炭等非金属矿产和优势矿产勘查开发的专项整顿工作。<br><br>    (二)全面开展探矿权、采矿权发证检查。要按照国土资源部《2004年整顿和规范矿产资源勘查开发秩序工作安排意见》(国土资发〔2004〕53号)精神，对各级国土资源管理部门行政权限内探矿权采矿权申请的受理审批、登记发证和以竞争方式出让的情况进行一次全面检查，重点检查发证程序是否合法，是否存在违规发证、越权发证的违法行为。对检查中发现的问题，一经核实要坚决予以纠正。该吊销勘查许可证和采矿许可证的要依法吊销，该注销的要坚决注销，该协调处理的要及时妥善处理。<br><br>    (三)坚决制止乱采滥挖行为。对矿山企业不按批准的矿山设计、开发利用方案、矿区总体规划进行开采的，要责令其限期整改；限期内整改不合格的，由发证机关吊销或注销采矿许可证。对采取破坏性开采方式采矿，造成资源浪费和环境破坏的，要依法从重处罚。对被安全生产监督管理部门确定为不具备安全生产条件应予关闭的矿山，原发证机关要依法吊销或注销采矿许可证。对未经林业主管部门批准擅自占用林地进行采矿活动的，要限期办理有关审批手续；造成森林、植被破坏的，要依法予以处罚并限期整改；限期内整改不合格的，发证机关要吊销或注销采矿许可证。<br><br>    三、时间安排<br><br>    这次集中治理整顿工作自本实施意见下发之日开始至2005年6月底结束。治理整顿工作分3个阶段：<br><br>    (一)自查自纠阶段(2004年12月至2005年3月底)。各地要围绕治理整顿的主要内容，对照法律法规和本实施意见，认真调查摸底，查找突出问题，分析原因，为处理和整改奠定基础。各地要抽调足够数量的工作人员组成强有力的清查队伍，以县(市、区)为单位对本地的矿点逐个进行调查摸底，查清违法采矿特别是无证采矿、越权发证、越界开采、以采代探、非法承包转让矿业权以及乱采滥挖、破坏资源的数量和原因并登记造册。同时，要动员矿山企业和地质勘查单位自查申报。<br><br>    (二)处理整改阶段(2005年4月至5月底)。对治理整顿中发现的问题，该纠正的要主动纠正，该立案查处的要坚决查处，该曝光的要公开曝光。省直有关部门要选择一批典型案件直接查处并公开曝光。<br><br>    (三)总结验收阶段(2005年6月)。各市(州、地)、县(市、区)要按照本实施意见的要求，对本地的治理整顿工作进行认真总结，并于2005年6月上旬报上一级治理整顿领导小组办公室。上一级治理整顿领导小组办公室要制定具体的验收方案，认真组织检查验收。<br><br>    四、主要措施<br><br>    (一)提高认识，加强领导。整顿和规范矿产资源勘查开发秩序是整顿和规范市场经济秩序工作的重要组成部分，又是一项长期性、复杂性、综合性的工作。各级政府和国土资源主管部门要从实践“三个代表”重要思想、促进甘肃经济发展的高度，充分认识这项工作的重要性和艰巨性，增强责任感、紧迫感。主要领导要经常过问，分管领导要亲自抓。市(州、地)政府（行署）、县(市、区)政府要充实和加强治理整顿工作领导小组，切实加强对治理整顿工作的领导。<br><br>    (二)精心组织，落实责任。各地要按照省政府的统一要求并结合本地实际，制定切实可行的治理整顿实施方案，认真动员部署，精心组织实施。要抽调一批政治强、业务精、作风正的工作人员参加治理整顿工作。治理整顿工作要采取一级抓一级、层层抓落实的办法，切实做到人员落实、任务落实、责任落实和经费落实，真正把治理整顿任务落到实处，确保治理整顿工作的顺利进行。要坚持属地管理的原则，对辖区内矿产资源勘查开发秩序方面出现的问题，当地政府和主管部门要依法履行管理职责，绝不能将矛盾上交。<br><br>    (三)突出重点，注重实效。各地要结合实际，明确工作重点，着力解决本地区在矿产资源勘查开发秩序以及管理方面存在的突出问题。要注重工作实效，防止图形式、走过场。<br><br>    (四)加强巡查，强化监督。要建立事前预防、事中监督和事后查处相结合的执法监察工作机制，加强对重点地区的动态巡查。要充分发挥和保护舆论监督、社会各界参与的积极性，设立举报电话或举报信箱，方便群众举报。对媒体披露或群众举报的案件，要及时核实，认真查处。<br><br>    (五)协调配合，通力合作。治理整顿工作是一项综合性很强的工作，涉及到方方面面。各级政府整顿和规范矿产资源领导小组办公室设在国土资源主管部门。国土资源、计划、监察、财政、公安、林业、安全生产等部门要加强沟通，协调配合，通力合作，避免推诿扯皮，共同研究解决矿产资源勘查开发过程中的关键问题。<br><br>    (六)区别对待，重在规范。治理整顿中要注意处理好历史遗留问题。处理历史遗留问题要坚持“尊重历史，实事求是，区别对待，依法处理，重在规范”的原则，充分考虑当时的政策法律环境。对历史遗留问题或纠纷一时得不到解决的矿区，要坚持先停止勘查开采活动再行调处的原则。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局、建设部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-11-18<BR>&nbsp;&nbsp;【生效日期】2006-11-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-11/20/content_204632.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局、建设部关于加强燃气安全工作的紧急通知</font></p><br><br> <br>各省、自治区安全生产监督管理局、建设厅，直辖市安全生产监督管理局、建委（市政管委），新疆生产建设兵团安全生产监督管理局、建设局：<br><br>    2006年11月17日凌晨3时58分，辽宁省大连市甘井子区山日街60号一居民楼3单元住宅内发生液化气管道泄漏燃爆事故，导致二层、三层楼板塌陷，墙体开裂，周边居民楼门窗部分破损，共造成3户9名居民死亡，1名居民被严重烧伤。中央领导同志对此作出重要批示，要求核查情况，查清人数和事故原因；叮嘱各地落实10月20日全国安全生产电视电话会议的各项部署，要关注居民的取暖安全情况，严防居室煤气中毒和液化气泄漏闪爆事故。初步判断，爆炸发生的原因是因私自改动室内管线，造成液化气泄漏所致。这次事故充分暴露了城镇燃气安全生产工作中还存在着检查不到位、管理不到位、监督不到位的问题。为贯彻落实中央领导同志重要指示精神，切实加强燃气安全监管工作，保障人民群众生命财产安全，现紧急通知如下：<br><br>    一、充分认识加强城镇燃气安全工作的重要性<br><br>    城镇燃气事故具有危害性大、损失大、社会影响大的特点，给个人、家庭和社会带来沉重负担，是影响社会和谐的一个重要因素。目前北方已进入冬季采暖期，是城镇燃气事故的易发期和多发期，各地要以对人民群众高度负责的精神，从构建社会主义和谐社会大局出发，树立城镇燃气安全工作事关社会稳定、经济发展和公共安全的大局意识，切实做好城镇燃气安全相关工作，坚决消除事故隐患，遏制和杜绝各类燃气事故的发生，保障人民群众生命财产安全，促进构建社会主义和谐社会建设。<br><br>    二、加强安全管理，落实监督管理职责<br><br>    各地建设、安全监管部门要迅速开展城镇燃气安全大检查工作。要加强对燃气行业的安全监督管理，督促企业认真贯彻执行燃气管理的有关法规和燃气安全技术规范（规程、强制性标准），落实对燃气用户安全检查、安全服务的责任。本次检查的重点是：单位内部自建自管的燃气设施安全运营情况；燃气企业对燃气设施运行、维护、巡查巡检的情况；燃气企业对燃气用户特别是燃气采暖用户进行安全检查的情况；液化气钢瓶灌装和使用的情况。要通过本次燃气安全检查，提高燃气设施运行安全性，消除燃气安全隐患。同时今后要将燃气安全监督检查工作规范化、制度化。<br><br>    三、强化应急管理，提高应急处理能力<br><br>    各地建设、安全监管部门要积极贯彻落实《国务院关于全面加强应急管理工作的意见》（国发[2006]24号）精神以及建设部制定的《城市供气系统重大事故应急预案》，结合本地实际情况，抓紧制订和完善相关本地区、本部门预案，做好各级、各类相关预案的衔接工作，增强预案的针对性和可操作性，狠抓预案各项措施的落实工作，保障城镇燃气安全应急处置工作能够有效开展。<br><br>    四、防范煤气中毒，确保冬季取暖安全<br><br>    各地、各部门要认真贯彻落实2006年10月20日国务院安委会召开的全国安全生产电视电话会议和建设部等十部门印发的《关于加强非职业性一氧化碳中毒防范工作的通知》（建城[2006]274号）的精神，切实做好防范非职业性一氧化碳中毒工作，加强监测预警、信息报告和应急救治，加大科普宣教力度，提高群众自救互救能力，特别是要帮助生活困难家庭做好有关防范工作，确保广大人民群众冬春取暖安全。<br><br>    五、加强安全宣传，提高公众防范意识<br><br>    各地建设、安全监管部门要与有关部门密切配合，充分发挥燃气企业、社区管理（服务）组织、物业管理单位的优势和作用，大力推动燃气用户安全管理和安全宣传进社区活动，逐步将燃气安全管理和宣传工作纳入社区工作中。要开展丰富多彩的宣传活动，充分利用各种宣传媒体，向社会普及燃气安全使用知识和消防知识，增加用户使用燃气的安全知识。住宅的产权人有责任向租房人、临时居住人员告知燃气器具使用须知，正确使用燃气器具，提高防范燃气安全事故的能力。<br><br>国家安全生产监督管理总局<br>建       设        部 <br>二ＯＯ六年十一月十八日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部、财政部<BR>&nbsp;&nbsp;【发布文号】商贸函〔2006〕78号<BR>&nbsp;&nbsp;【发布日期】2006-08-23<BR>&nbsp;&nbsp;【生效日期】2006-08-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/zcfg/bmgz/t20060904_679934.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部、财政部关于做好2006年度农轻纺产品贸易促进资金项目申报工作的通知<br><br></font>(商贸函〔2006〕78号)</p><br><br><br>各省、自治区、直辖市、计划单列市及新疆生产建设兵团商务主管部门、财政厅（局），有关出口行业组织和中央管理企业：<br><br>    为推动农轻纺产业升级和结构调整，提高农轻纺产品出口质量，增强国际竞争力，根据《农轻纺产品贸易促进资金暂行管理办法》（商规发〔2005〕507号，以下简称《办法》）有关规定，现将申报2006年度农轻纺产品贸易促进资金项目的有关事项通知如下：<br><br>    一、2006年资金支持重点范围<br><br>    （一）实施行业公共技术平台服务的费用资助<br><br>    行业公共技术平台，是指由行业组织、企业及其他社会团体独资、合资或合作兴办，以本行业出口企业为服务对象，通过提供主要面向出口市场的研发、设计、质量控制、产品检测所需的公共技术及设备，为新技术、新设计、新材料、新工艺、新标准的制订、交流、推广、咨询、培训或出口产品自检、预检等提供服务的机构。<br><br>    （二）建立出口农产品质量可追溯体系的费用资助<br><br>    出口农产品质量可追溯体系是指出口企业根据良好农业规范（GAP）、危害分析与关键控制点（HACCP）或有机产品等标准及相关规定要求，建立的出口产品溯源和追踪体系。企业建立的追溯体系，应记录农药、兽药、种苗、种畜禽使用及农产品种植、养殖档案和流通情况，并通过电子标签、条形码等信息手段，确保产品可追溯回加工、生产环节。<br><br>    已根据国家有关规定申报、享受中央财政有关纺织企业“走出去”等专项资金资助的项目，不可重复申报、享受以上相同内容的资助。<br><br>    二、资金支持的标准<br><br>    所有项目均实行部分支持方式。中西部地区的资助比例不超过项目实际投资金额的70％；其他地区的资助比例不超过50%。行业公共技术平台资助项目的资助资金不超过200万元，建立出口农产品质量可追溯体系项目的资助资金不超过100万元。<br><br>    2004年1月1日－2006年12月31日期间完成的项目可以进行申报。<br><br>    三、申报项目需提供的材料<br><br>    （一）申报项目的申请单位须提供以下材料：<br><br>    1. 2006年度农轻纺产品贸易促进资金项目申请书，应包括企业的基本情况，如申请行业公共技术平台资助，应提供申请单位目前的服务对象范围，现有服务项目和产品，实施本项目后预期的服务情况、可达到的目标和效果以及是否申报、享受同类中央财政资金资助等；如申请建立出口农产品质量可追溯体系资助，申请单位应提供2003年至2005年的生产加工及出口情况，出口农产品质量可追溯体系建立的基本情况（管理方式、基地建设、注册备案、认证、实验室、对出口的影响）及下一步规划和目标等。<br><br>    2.申请单位所取得的有关认证认可文件。<br><br>    3.申报单位法人营业执照副本复印件。<br><br>    4.申报企业的《对外贸易经营备案登记表》（复印件）。<br><br>    5.经中介机构审计的2004、2005年度财务报告。<br><br>    6.项目资金实际支付凭证。<br><br>    7.其它需要提供的申报证明材料。<br><br>    （二）省级商务主管部门和财政主管部门（以下简称地方主管部门）及中央单位（指中央企业及全国性出口行业组织，下同）须报送以下材料：<br><br>    1、2006年度农轻纺产品贸易促进资金申请报告，包括组织初审的情况、申请单位及项目的基本介绍，初审意见等内容；如申请公共技术平台资助项目，须提供该项目建成后，预期可达到的目标和效果。<br><br>    2、申请行业公共技术平台服务项目，应提供省级商务主管部门（或其授权的部门，下同）与申请单位签署的该项目向企业提供优惠服务的协议。协议中应包括申请单位向企业提供的具体内容，定期向商务主管部门报送服务的对象、服务内容和收费金额的条款，以及申请单位须承担未按约定提供服务的违约责任等内容。中央单位须提供与项目所在地省级商务主管部门（受商务部委托）签署的上述协议。<br><br>    3、农轻纺产品贸易促进资金申请项目汇总表，并按项目优先程度进行排序。<br><br>    4、申报项目的申请单位提供的材料（仅送商务部外贸发展事务局）。<br><br>    地方主管部门和中央单位报送的材料一式三份，分别报送商务部（外贸司）、财政部（企业司），同时抄报商务部（外贸发展事务局），报送截止时间为2006年10月31日。<br><br>    以上申报材料用A4纸打印，按顺序于左侧装订成册，连同电子文档（光盘形式）一同报送。<br><br>    逾期报送的材料不予受理，对不符合要求的报送材料，将不得参与项目评审。<br><br>    以外币为计算单位发生的费用支出，按费用支出凭证发生日中国人民银行公布的外汇牌价，折算为人民币。<br><br>    四、审核及拨付<br><br>    商务部会同财政部按《办法》和本通知的规定，对项目进行审核，确定资助项目。财政部将资金拨付至相关省级财政部门。<br><br>    项目资金实行事后拨付原则，即项目完成并经验收合格后据实拨付：<br><br>    （一）地方单位执行完毕的项目，由省级商务主管部门组织验收合格后，报同级财政部门审核拨付资助资金。<br><br>    （二）中央单位执行完毕的项目，由外贸事务局组织验收合格并经商务部审核后，报请财政部审定拨付资助资金。<br><br>    验收工作应在2007年2月15日前完成，到期未完成验收的项目，将不予拨付资助资金，资金结转下年度使用。<br><br>    具体验收规定另行下发。<br><br>    地方主管部门要加强协调配合，积极做好项目申报的组织和初审工作，并按《办法》规定，切实加强资金的监督检查和追踪问效，对本地区（单位）资金的使用情况进行总结分析，按时上报商务部和财政部。<br><br>    商  务  部<br><br>    财  政  部<br><br>    二○○六年八月二十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

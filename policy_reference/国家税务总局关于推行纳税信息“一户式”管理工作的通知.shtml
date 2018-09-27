@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2004]529号<BR>&nbsp;&nbsp;【发布日期】2004-04-29<BR>&nbsp;&nbsp;【生效日期】2004-04-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=83887" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于推行纳税信息“一户式”管理工作的通知<br><br></font>(国税函[2004]529号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br><br>    充分利用现有资源进行系统整合是当前信息化建设的一项主要任务，实现纳税人信息的“一户式”管理是信息资源整合的一项重要内容。“一户式”管理的核心是将征管系统、增值税管理信息系统和出口退税系统等在数据层进行整合，将分散在各个不同系统、不同业务模块中的查询功能按照“一户式”的要求进行整理、筛选、归并，实现对纳税人信息 “一户式” 查询、管理和存储。?<br><br>    实现纳税人信息的“一户式”管理，一是满足基层税务机关人员执法的需要，使基层税务机关人员能够全面、快速和准确地查询出纳税人的有关涉税信息，为基层执法服务。二是满足税务管理机关管理工作的需要，对纳税人的涉税活动进行监控，提供查询分析服务。因此，国家税务总局决定尽快在税务系统内推行“一户式”管理的相关工作。为使此项工作顺利实施，现将有关实施工作通知如下：?<br><br>    一、“一户式” 管理实施方案?<br><br>    由于“一户式” 管理实施方案的实现与征管系统密切相关，因此按照各地征管系统的使用情况，总局将“一户式” 管理实施方案分为以下三种：?<br><br>    （一）基于总局综合征管信息系统（原CTAIS）升级改造的“一户式”管理方案（方案一）?<br><br>    方案一主要为即时查询，适用于运行总局综合征管信息系统（原CTAIS）、数据量相对较小、以地市级集中处理数据的税务机关。该方案采取直接访问综合征管信息系统（原CTAIS）、增值税管理系统和出口退税系统的生产库的模式实现查询。各地在选择时应以不影响前述应用系统的生产效率为原则。?<br><br>    （二） 基于总局综合数据管理系统的“一户式”管理方案（方案二）?<br><br>    方案二适用于使用总局综合征管信息系统（原CTAIS）、数据量相对较大、以省级（单列市或大的地市）集中处理数据或各地自行开发的征管系统、数据集中度较高（省级或大的地市）、数据结构与总局统一的数据结构规范差距不大的税务机关。该方案采用查询机和生产机分离的方式，实时或定期进行数据同步。?<br><br>    （三） 基于各地征管系统升级改造的“一户式”管理方案（方案三）?<br><br>    方案三适用于各地使用自行开发的征管系统、数据集中度较低（地市或区县）的税务机关。该方案需要各地按照总局制定的业务需求和技术标准，因地制宜，实现“一户式”管理。?<br><br>    各地可以根据实际情况，选择适用的方案，并在5月12日之前，将确定的方案上报总局备案，以便总局分类指导。?<br><br>    二、推行“一户式”管理的时间安排?<br><br>    对于选用方案一的税务机关，“一户式”管理系统由总局统一修改完善，各地应按照总局综合征管软件（原CTAIS）的升级程序完成“一户式”管理补丁的安装。选用该方案的税务机关须在5月15日之前作好准备工作。?<br><br>    对于选用方案二的税务机关，在总局综合数据管理系统的“一户式”管理系统的基础上，5月30日之前完成系统部署工作。<br><br>    对于选用方案三的税务机关，各地按照总局下发的业务需求、技术标准和规范，尽快完成“一户式”管理系统的部署工作。<br><br>    各地税务机关在落实“一户式”管理工作时，要做好相关的准备工作。要对总局综合征管信息系统、防伪税控系统、专用发票稽核系统和出口退税系统进行相应的升级或打补丁（具体要求详见技术支持网站“一户式”管理栏目）。?<br><br>    为落实该项工作，总局将适时对各地“一户式”管理的部署工作进行检查。?<br><br>    三、为保证现有应用系统的安全，各地税务机关在实施“一户式”管理过程中，务必严格按照总局有关系统安全的规定和方案中安全的要求执行。?<br><br>    四、业务需求、技术标准和规范?<br><br>    总局下发的业务需求、技术标准和规范包括以下内容：?<br><br>    （一）纳税信息“一户式”管理业务需求（见附件）。?<br><br>    （二）国家税务总局综合数据管理系统数据结构技术规范，包括综合征管信息、防伪税控信息、专用发票稽核信息和出口退税信息（见附件）。?<br><br>    （三）国家税务总局综合数据管理系统数据抽取方案（见附件）。?<br><br>    （四）国家税务总局综合数据管理系统运行环境准备说明书（见附件）。?<br><br>    （五）防伪税控系统“一户式”管理技术文档（见附件）。<br><br>    （六）稽核系统“一户式”管理技术文档（见附件）。?<br><br>    （七）出口退税系统“一户式”管理技术文档（见附件）。<br><br>    （八）“一户式”管理工作方案（见附件）。?<br><br>    五、“一户式”管理的培训?<br><br>    对于选用方案二（或方案三）的税务机关，总局将在近期举办有关“一户式”管理的技术培训班。有关培训的详细情况，总局将另行通知。?<br><br>    六、“一户式”管理的技术支持?<br><br>    为做好“一户式”管理系统的技术支持工作，总局将在技术支持网站建立“一户式”管理栏目，各地可通过该网站得到与“一户式”管理系统有关的所有信息。技术支持网站的地址为：HTTP：//130.9.1.116/yhsgl。??<br><br>    总局将在5月10日前将总局综合征管信息系统（原CTAIS）的升级程序放到“一户式”管理技术支持网站上。?<br><br>    总局综合数据管理系统将在系统培训完以后放到技术支持网站上。?<br><br>    如遇问题，请与总局（信息中心）联系。?<br><br>    联系人与联系电话：杨慧平 010-63417627?<br><br>    柯 琥 010-63417638<br><br>    附件：1.纳税信息“一户式”管理的业务需求?<br><br>    2.国家税务总局综合数据管理系统数据结构技术规范?<br><br>    3.国家税务总局综合数据管理系统数据抽取方案?<br><br>    4.国家税务总局综合数据管理系统运行环境准备说明书?<br><br>    5.防伪税控系统“一户式”管理技术文档?<br><br>    6.稽核系统“一户式”管理技术文档?<br><br>    7.出口退税系统“一户式”管理技术文档?<br><br>    8.“一户式”管理工作方案?<br><br><br>国家税务总局 <br>二○○四年四月二十九日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

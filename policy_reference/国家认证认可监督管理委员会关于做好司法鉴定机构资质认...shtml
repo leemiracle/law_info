@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家认证认可监督管理委员会<BR>&nbsp;&nbsp;【发布文号】国认实[2009]26号<BR>&nbsp;&nbsp;【发布日期】2009-06-16<BR>&nbsp;&nbsp;【生效日期】2009-06-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cnca.gov.cn/cnca/zwxx/xwdt/zxtz/188054.shtml" target=_blank>国家认证认可监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家认证认可监督管理委员会关于做好司法鉴定机构资质认定试点工作有关问题的通知<br><br></font>(国认实[2009]26号)</p><br><br><br>    北京、江苏、浙江、山东、四川、重庆省、直辖市质量技术监督局：<br>    为了深入贯彻《全国人民代表大会常务委员会关于司法鉴定管理问题的决定》（以下简称《决定》，国家认监委先后联合司法部印发了《关于开展司法鉴定机构认证认可试点工作的通知》（司发通[2008]116号，以下简称116号文件）、颁布了《司法鉴定机构资质认定评审准则（试行）》（国认实联（2009）17号，以下简称《准则》）。为认真贯彻落实116号文件和《准则》，进一步统一和规范司法鉴定机构资质认定评审工作，推动司法鉴定机构认证认可试点工作深入开展，现将有关要求通知如下：<br>    一、关于《准则》实施的有关问题<br>    1.关于实施时间问题<br>    《准则》自2009年5月1日起实施。凡在此前已经完成评审、获得资质认定的司法鉴定机构，待其接受复查或监督评审时，应当按照《准则》进行评审。自实施之日后提出资质认定申请的，应按照《准则》的要求进行评审。<br>    2.关于工作表格和证书<br>    司法鉴定机构资质认定申请书沿用以前公布过的《资质认定申请书》格式，可从各省级质量技术监督局或国家认监委网站下载。依据《准则》新编制的《司法鉴定机构资质认定评审报告》（见附件）随本通知一起发布，请各单位注意从国家认监委网站下载，并在评审时使用。<br>    司法鉴定机构资质认定证书沿用已发布的实验室和检查机构资质认定证书。 属于实验室性质的，颁发《资质认定―计量认证证书》；属于检查机构性质的，颁发《资质认定---审查认可证书》；二者兼具的，同时颁发两种类别证书。<br>    3.关于《准则》的宣贯、评审员和内审员的培训。<br>    《准则》是按照资质认定的有关规定和司法鉴定的法律法规制定的适用于司法鉴定专业领域资质认定评审的技术文件。《准则》结合了资质认定的一般要求和司法鉴定的特定要求，综合了对实验室和检查机构的评审要求，是开展司法鉴定机构资质认定评审的依据。各省级质量技术监督局应在与司法行政机关协调配合，加强《准则》的宣贯工作。<br>    经培训考核合格的司法鉴定机构资质认定评审员、内审员使用国家认监委统一印制的证书。<br>    4.关于非标方法、分包及使用外部信息、检验检查项目分类的问题。<br>    司法鉴定领域使用非标方法非常之普遍，仪器设备的配置和分包及使用外部信息等问题也十分复杂。116号文件对这些问题都做出了原则规定，如果个别内容与《准则》规定不同的，各省级质量技术监督局要在认真领会116号文件精神的基础上，按照《准则》进行评审。<br>    申请资质认定的司法鉴定机构申请业务范围的分类填写规范，参考中国合格评定国家认可委员会（CNAS）制定的有关规范填写。<br>    国家认监委和司法部正联合组织专家编写《准则》释义，即将以宣贯教材的形式发布，在司法鉴定机构评审活动中可按照《准则》释义把握有关评审要求。<br>    二、关于试点地区的工作要求<br>    116号文件出台后，北京、江苏、浙江、山东、四川、重庆等省级质量技术监督局与司法行政机关密切配合、共同努力，前期做了大量基础性工作，部分司法鉴定机构已经通过或者正在申请认证认可。自《准则》颁布实施之后，试点地区应加快工作进度，总结试点经验和成功做法，力争在试点期限内，全面完成辖区内经司法行政机关核准登记的司法鉴定机构的资质认定工作，鼓励其中有条件的机构申请认可。试点结束后，全国各省（市、区）司法鉴定机构资质认定工作将按统一部署全面展开。<br>    三、关于开展司法鉴定机构资质认定工作有关政策问题<br>    1.关于司法鉴定机构的法人地位<br>    司法鉴定机构目前以省级司法行政机关核发的《司法鉴定许可证》为申请资质认定的法律地位证明文件，在《申请书》“法人类别”栏填写“其他法人”，一些设置在大学、医院、科研机构和其他质检（检验检疫）机构内的司法鉴定机构，虽然其母体具有独立事业法人资格，但其从事司法鉴定工作的部分属于法人授权，可以以司法行政机关核准的名称申请资质认定。<br>    2.关于申请国家级资质认定和申请省级资质认定的关系<br>    根据116号文件的规定，申请国家级资质认定的司法鉴定机构必须经省级司法行政机关推荐，年检案量在2000件以上，或所申请专业领域的检案量排在前三名。申请国家级资质认定的，必须同时申请认可。申请经国家认监委审核同意后，具体评审工作委托中国合格评定国家认可中心一并进行。评审组应完成认可、资质认定两份评审报告。<br>    申请省级资质认定的司法鉴定机构应满足116号文件附件和《准则》规定的有关要求，二者不一致的地方，按照《准则》执行。<br>    3.关于司法鉴定机构资质认定申请对象问题<br>    根据全国人大的《决定》和116号文件要求，从事法医类、物证类、声像资料类鉴定的司法鉴定机构应通过资质认定（计量认证）或实验室/检查机构认可。<br>    四、下一步的工作要求<br>    试点地区的省级质量技术监督局应高度重视这项工作，严格按照《行政许可法》的要求，认真履行职责，积极与司法行政机关协调配合，按照116号文件和《准则》的要求积极推进司法鉴定机构的资质认定工作。要积极开展《准则》的宣贯工作，摸清本省司法鉴定机构从业状况，制定实施方案，积极培养本省司法鉴定机构资质认定评审员队伍和内审员队伍，在实施对司法鉴定机构资质认定现场评审工作中，应使用具有《资质认定评审员》资格的评审员。<br>    六个试点省应在2010年10月试点结束时基本完成本省的司法鉴定机构资质认定工作，并向国家认监委报告有关工作情况。<br>    试点地区的省级质量技术监督局在具体实施司法鉴定机构资质认定工作当中遇到什么问题应及时向国家认监委请示报告，以便国家认监委及时对有关政策进行进一步明确。<br>    以上有关规定，自本通知发布之日起施行。<br>    附件：司法鉴定机构资质认定评审报告<br><br>二○○九年六月十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财企[2008]352号<BR>&nbsp;&nbsp;【发布日期】2008-11-27<BR>&nbsp;&nbsp;【生效日期】2008-11-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://qys.mof.gov.cn/qiyesi/zhengwuxinxi/zhengcefabu/200812/t20081208_96313.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于2007年度外商投资企业会计决算工作情况的通报<br><br></font>(财企[2008]352号)</p><br>     <br><br>各省、自治区、直辖市、计划单列市财政厅（局）：<br><br>    按照财政部的统一部署，各级财政部门群策群力，采取有效措施，顺利完成了2007年度外商投资企业的会计报表汇总及分析工作。现将有关情况总结通报如下：<br><br>    一、2007年度外商投资规模保持平稳发展，经济效益大幅提升<br><br>    各地大力改善投资环境，积极创新招商方式，投资结构不断优化，吸收外资继续保持平稳发展。截至2007年底，全国36个省（自治区、直辖市、计划单列市）汇编外商投资企业15.6万户，比上年增加1.4万户，增幅9.7%。全国实际使用外资金额835.2亿美元，同比增长14.9%。其中：全国金融领域（银行、保险、证券）实际使用外资金额87.5亿美元，同比增长27%，增速大大高于平均水平。<br><br>    2007年，财政部外商投资企业会计决算显示，外商投资企业生产经营状况良好。外商投资企业资产总额16万亿元，同比增长28.4%。实现主营业务收入13.3万亿元，同比增长16.1%，其中，主营业务收入过百亿元的企业111户，实现主营业务收入2.9万亿元，占汇编企业的21.4%。实现利润总额1.1万亿元，同比增长41.9%；盈利企业85698户，实现利润1.3万亿元，同比增长35.8%；亏损企业70248户，亏损额1943.56亿元,亏损面为45.05%。外商投资企业实现税金7844.1亿元，同比增长17%。<br><br>    二、外商投资企业联合年检顺利完成，投资环境进一步优化<br><br>    各地财政部门积极完善外商投资企业联合年检各项管理措施，加强外资企业会计决算信息的审核、汇总和分析工作，对改善我国投资环境，督促企业依法经营起到了重要作用。<br><br>    一是加强领导和组织协调，确保外商投资企业联合年检工作顺利进行。各地财政部门对外资企业联合年检工作重要性的认识进一步提高，组织工作不断加强。广东省财政厅要求参加年检企业的财务报表必须经会计师事务所审计，对年报报送不合格的企业，采取不予年检的做法，保证了联合年检的工作质量。<br><br>    二是强化服务意识，为当地经济发展做出了重要贡献。各地方联合年检部门普遍树立服务意识，通过建设行政服务大厅，实现与企业有关的审批机关集中办公，提供“一站式”服务，创建了更具吸引力、更加和谐的投资环境。不少地方财政部门完善一站式服务和外商投诉应诉体系，定期召开外商投资企业座谈会，认真对待和解决外商反映的政务、人才、生活等环境方面存在的问题和不足,以优良的投资环境吸引外商投资。<br><br>    三、外商投资企业会计决算顺利完成，决算工作管理水平再上新台阶<br><br>    各单位积极完善外商投资企业会计决算各项管理措施，加强企业决算信息的审核、汇总和分析工作，保证了企业年度决算各项任务的圆满完成。<br><br>    一是外资企业会计决算编报范围不断扩大，汇编户数增长较快。各地财政部门按照财政部决算工作要求，及时做好会计决算工作的逐级布置培训工作，克服各种困难努力扩大汇编面。如安徽省财政厅采取得力措施，汇编户数较上年增长42.7%。山东省财政厅加大工作力度，汇编户数同比增长29.5%。广西壮族自治区财政厅针对财政部门对外商投资企业财务管理缺乏手段、平时联系不多、部分外商投资企业向财政部门报送财务报表观念淡薄的情况，一方面发挥主观能动性，主动上门摧收报表；另一方面充分利用好外商投资企业联合年检工作平台，收集外商投资企业财务报表，汇编户数增幅较大。<br><br>    二是加强沟通指导，严格审核，企业财务信息质量不断提高。根据新的企业会计准则规定，2007年度外资企业会计决算报表做了重大调整。对此，各地财政部门结合决算工作有计划、多渠道地开展了新企业财务通则、新企业会计准则、企业所得税法及其实施条例的培训。同时，各地财政部门按照《会计法》、《企业财务会计报告条例》以及财政部颁布的规章制度，要求企业的决算必须经中介机构审核，保证了财务会计数据的客观、真实、公允，从报表验审情况看，年报数据质量较往年有较大提高。黑龙江省财政厅加强与市、县财政部门和外商投资企业财会人员的联系与沟通，及时解决报表编报过程中出现的各种问题，在全国率先完成外资企业决算工作。江苏省财政厅积极改进工作方法，采取基础审核、各市初审及全省集中会审相结合，及时发现并纠正工作错漏，力求数据真实、完整。<br><br>    三是结合现代信息技术，创新工作方式，开展报表网上填报的有益探索。各地财政部门积极推进现代信息技术在会计决算工作中的应用，部分财政部门有效结合联合年检，较好地解决了报表收集困难与报表准确率偏低的历史问题，减轻了财政部门工作人员压力，同时方便了企业。福建省财政厅通过在外商投资企业网上联合年检平台中加入会计报表模块，将企业网上填报会计报表作为联合年检的必要条件，保障了决算工作顺利开展，提高了年报信息质量。<br><br>    四、外商投资企业会计决算工作尚存在一些问题，有关基础性工作需进一步加强<br><br>    2007年，外商投资企业会计决算工作成效明显，但是仍存在一些问题，需在今后的工作中着力解决。<br><br>    一是部分外商投资企业财务管理比较混乱，财务监管不力。部分外商投资企业内部管理制度不健全，财务会计基础工作相当薄弱，有的企业由于会计记录不健全造成存货及往来账目无法核实；有的企业银行账目不清，财务管理流于形式，致使会计信息失真。通过编制决算和年检还发现，不少企业存在假合资现象，借外商投资企业之名，套取享受国家优惠政策之实；部分外商以现汇投资的少，以设备、专有技术投资的多，且机器设备未经商检部门进行价值鉴定，专有技术也未经有关权威部门进行评估；不少企业尽可能推迟获利年度，钻国家“两免三减半”政策的空子。<br><br>    二是社会中介机构的执业行为不规范、不严谨。部分会计师事务所没有严格按照财政部门的规定出具审计报告，提供的审计报告不完整，影响数据准确性。同时，受会计师事务所行业内竞争日趋激烈的影响，一些会计师事务所为追求收入，过分迁就企业，披露问题避重就轻，对较大的问题如出资不足、抽逃资本等披露不充分，对一些无法回避的问题则用词含糊，影响了会计决算数据的准确性和严肃性。<br><br>    三是少数单位上报会计决算不及时，数据错误较多，对财务会计决算分析及总结工作不够重视。个别单位对决算工作重视不够，一再拖延上报时间，影响了全国决算汇总工作进度，有的单位上报数据存在勾稽关系不正确，存在实际投资总额与所有者权益差别较大等问题。部分单位未做系统性分析和工作总结，不利于今后工作水平的提高。<br><br>    对于上述问题，各地方应予以高度重视，认真对照检查，采取有效措施予以纠正。<br><br>    为鼓励先进，推动企业财务信息系统建设，提高外商投资企业会计决算工作水平，财政部根据企业财务会计决算工作有关法规、制度规定，经过对各地方2007年度外商投资企业会计决算报表编制工作质量进行全面考核，决定对会计决算工作成绩突出的福建省财政厅等单位予以通报表扬（名单见附件）。希望各地方进一步完善各项财务基础性工作，切实提高信息质量，加大分析研究力度，促进外资企业会计决算工作水平的不断提高。<br><br>        附件：2007年度外商投资企业会计决算工作通报表扬单位名单<br><br>                                                            财 政 部<br>                                                     二○○八年十一月二十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

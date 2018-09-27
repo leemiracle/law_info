@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】水利部<BR>&nbsp;&nbsp;【发布文号】水汛[2006]58号<BR>&nbsp;&nbsp;【发布日期】2006-02-27<BR>&nbsp;&nbsp;【生效日期】2006-02-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mwr.gov.cn/index/20060228/66132.asp" target=_blank>水利部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>水利部关于加强全国防洪重点中型水库防洪安全管理工作的意见<br><br></font>(水汛[2006]58号)</p><br><br><br>各流域机构，各省、自治区、直辖市水利（水务）厅（局），各计划单列市水利（水务）局，新疆生产建设兵团水利局：<br><br>    目前，全国共有中型水库2877座，这些水库在历年的防汛抗旱中发挥了十分重要的作用。2005年6月，国家防总、水利部将其中的733座水库确定为全国防洪重点中型水库。这些水库防洪影响人口多、涉及范围广，下游资产密集，防洪减灾作用显著。但是，一些防洪重点中型水库管理水平低、工程病险严重、通信预警和水文测报设施落后、防洪调度和运行管理不规范等问题非常突出，与全国防洪重点中型水库的重要地位极不相称。为了确保全国防洪重点中型水库的防洪安全，率先实现工程标准化、管理规范化、调度现代化，现提出加强全国防洪重点中型水库防洪安全管理工作的意见如下：<br><br>    一、明确责任，全面落实安全责任制 <br>    （一）地方各级政府要高度重视防洪重点中型水库防洪安全管理工作，进一步明确防洪安全管理责任。地方政府行政首长要对辖区内的水库防洪安全负总责，政府分管领导要具体负责辖区内水库的防洪安全。<br>    （二）每座防洪重点中型水库要确定一名县级（含）以上政府领导作为水库的防汛行政责任人，签订责任书，负责组织协调有关部门或地区做好水库防洪安全管理工作，包括部署、检查水库及其上下游地区的防汛工作，组织水库除险加固和指挥抗洪抢险救灾，协调解决水库防洪安全所需经费问题等。<br>    （三）水库主管部门或水库所有者（业主）负责指导水库安全运行、组织水库防汛及安全检查、培训水库管理人员、组织实施水库除险加固和水毁修复等，并按有关规定组织或配合做好水库大坝安全鉴定工作。<br>    （四）水库管理单位具体负责水库安全运行、工程监测、管理维护、紧急抢险等工作。<br><br>    二、实施达标建设，确保工程安全运行<br>    （一）各地要确保防洪重点中型水库工程的安全运行，特别要注重病险水库的安全管理。工程存在安全隐患的水库要降低标准或空库运行，未经批准不得按设计标准蓄水运行。各地要按照工程标准化的要求，制定防洪重点中型水库工程建设达标计划，实施达标加固建设。<br>    （二）要优先安排防洪重点中型水库的除险加固工作，争取用5年左右的时间全面完成除险加固任务。按照《水库大坝安全鉴定办法》规定需要进行安全鉴定的水库，要在2006年底前完成安全鉴定工作。没有列入全国病险水库除险加固规划但急需除险加固的，要按分级负责的原则，抓紧于2007年5月底前完成前期工作，积极筹集资金进行除险加固。<br>    （三）对正在进行除险加固的防洪重点中型水库，各地要切实落实除险加固配套资金，不得因地方配套资金不到位而删减除险加固项目。凡未按计划完成加固项目的，不得进行除险加固工程竣工验收。<br>    （四）地方各级政府要创新机制，落实防洪重点中型水库的工程维修、养护和水毁修复所需经费，及时解决工程运行中存在的问题，确保水库工程长期处于良好运行状态。<br><br>    三、完善非工程措施，创造良好运行环境<br>    （一）水库通信预警、水雨情测报预报、工程安全观测以及防洪调度系统等非工程措施，直接关系到水库防洪安全和防汛抗旱减灾效益的发挥。防洪重点中型水库必须配备通信、预警设施，确保水雨情信息、防洪调度指令和预警预报等信息的通信畅通。要加强水库安全运行管理系统和防洪调度系统建设，提高观测结果的分析能力和防洪兴利调度管理的现代化水平。<br>    （二）对于存在病险的防洪重点中型水库，要把水库安全管理非工程措施建设纳入除险加固内容，与主体工程同步建设和竣工验收。完成除险加固但这些项目未建设的，要抓紧于2006年底前完成前期工作，落实建设条件，尽快完成建设任务。<br>    （三）防洪重点中型水库要具备两套以上互为有效备用的通信预警手段，确保恶劣条件下水库与保护目标间防汛预警信息的及时传递。<br>    （四）防洪重点中型水库要建立水雨情测报系统，要参照大型水库的标准，进一步加强和规范水库报汛工作，逐步实现向地市级、省级和国家防汛指挥机构报汛。<br><br>    四、规范调度管理，进一步提高调度水平<br>    （一）防洪重点中型水库的防洪调度，原则上由水库防汛行政责任人所在政府的防汛抗旱指挥部负责。防洪影响范围跨行政区域的，按照国家防总国汛[2005]13号文的规定确定调度权限。水库防洪影响跨县级区域的水库由地（市）级防汛抗旱指挥部指挥调度；防洪影响跨地（市）级区域的由省级防汛抗旱指挥部指挥调度；防洪影响跨省级区域的由流域防汛总指挥部（流域管理机构）指挥调度。<br>    （二）防洪重点中型水库汛期调度运用计划和水库防洪抢险应急预案原则上由水库管理单位或其上级主管部门、水库所有者（业主）组织编制。水库汛期调度运用计划由行使水库防洪调度权限的政府防汛抗旱指挥部审批，并报上一级政府防汛抗旱指挥部备案。水库防洪抢险应急预案由水库防汛行政责任人所在政府防汛抗旱指挥部审批，并报上一级政府防汛抗旱指挥部备案。<br>    （三）各地要处理好防洪重点中型水库防洪与兴利的矛盾，汛期要按照兴利服从防洪的原则，严格按水库汛期调度运用计划进行洪水调度。各级地方政府和有关部门要切实加强防洪重点中型水库防洪调度专业技术人员的培训，不断提高水库防洪调度的现代化水平。<br>    （四）防洪重点中型水库的管理单位要制定和落实水库防汛值班、巡查和防汛抢险物资储备等规章制度，认真做好水库功能复核、洪水风险图制作等基础工作。水库防汛行政责任人要组织水库及其上下游地区做好水库防洪抢险应急预案的综合演练，提高应急响应能力。<br><br>    五、深化体制改革，推进水库现代管理<br>    （一）防洪重点中型水库必须建立专门的管理机构，配备高素质的专业管理人员，落实管理经费，实施规范化的管理。实施水管体制改革是推进水库现代管理的重大举措。各地要抓紧完成防洪重点中型水库水管体制改革，争取用2年左右的时间完成改革任务。<br>    （二）各地要优先批复防洪重点中型水库水管体制改革方案、落实改革经费、安置分流人员，财政困难地区可以按照先易后难、先定编定岗定员、逐步实施的原则，加快改革步伐，为防洪重点中型水库长期的良性运行创造条件。<br>    （三）防洪重点中型水库管理单位要认真落实水库水管体制改革方案，切实做好水库的维修、养护和安全管理，稳步推进现代水库管理。要在确保水库防洪安全的前提下，积极开展多种经营，增加水库自我养护能力。<br><br><br>水利部<br>2006年2月27日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

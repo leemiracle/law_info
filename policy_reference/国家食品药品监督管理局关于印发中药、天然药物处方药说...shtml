@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监注[2006]283号<BR>&nbsp;&nbsp;【发布日期】2006-06-22<BR>&nbsp;&nbsp;【生效日期】2006-06-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64011653.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于印发中药、天然药物处方药说明书格式内容书写要求及撰写指导原则的通知<br> <br></font>(国食药监注[2006]283号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为贯彻实施《药品说明书和标签管理规定》（国家食品药品监督管理局令第24号，以下简称《管理规定》），规范中药、天然药物处方药说明书的书写和印制，国家局制定了《中药、天然药物处方药说明书格式》（以下简称《说明书格式》）、《中药、天然药物处方药说明书内容书写要求》（以下简称《内容书写要求》）以及《中药、天然药物处方药说明书撰写指导原则》（以下简称《指导原则》），现予以印发，并就有关事项通知如下：<br><br>    一、自2006年7月1日起，国家局将按照《管理规定》、《说明书格式》、《内容书写要求》以及《指导原则》，对申请注册的中药、天然药物的说明书进行核准和发布，药品生产企业应当按照国家局核准的说明书进行印制。<br><br>    二、2006年7月1日之前已经批准注册的中药、天然药物，药品生产企业应当根据《管理规定》、《说明书格式》、《内容书写要求》以及《指导原则》，并按《药品注册管理办法》修订说明书的申报资料要求，提交修订说明书的补充申请。<br>    对于拟修订的说明书样稿（与原批准的说明书内容相比）不增加【孕妇及哺乳期妇女用药】、【儿童用药】、【老年用药】、【药物相互作用】、【临床试验】、【药理毒理】、【药代动力学】项目的，以及注射剂品种拟在【药物相互作用】项下仅表述为“尚无本品与其他药物相互作用的信息”的，药品生产企业应当向所在地省级食品药品监督管理局提交补充申请，省级食品药品监督管理局应当在60个工作日内完成审查，对符合要求的，发给《药品补充申请批件》并附核准后的说明书，同时报国家局备案。<br>    对于进行过相关研究，拟修订的说明书样稿（与原批准的说明书内容相比）增加【孕妇及哺乳期妇女用药】、【儿童用药】、【老年用药】、【药物相互作用】、【临床试验】、【药理毒理】、【药代动力学】中任何一个项目的，药品生产企业应当向所在地省级食品药品监督管理局提交补充申请，并报送相关研究资料。省级食品药品监督管理局应当在20个工作日内完成审核并报国家局药品审评中心，药品审评中心应当在40个工作日内完成技术审评并报国家局药品注册司，国家局应当在20个工作日内完成审查，对符合要求的，发给《药品补充申请批件》并附核准后的说明书。<br><br>    三、对2006年7月1日之前已经批准注册的进口中药、天然药物，境外制药厂商应当直接向国家局行政受理服务中心提交补充申请。<br>    对于拟修订的说明书样稿（与原批准的说明书内容相比）不增加【孕妇及哺乳期妇女用药】、【儿童用药】、【老年用药】、【药物相互作用】、【临床试验】、【药理毒理】、【药代动力学】等项目的，以及注射剂品种拟在【药物相互作用】项下仅表述为“尚无本品与其他药物相互作用的信息”的，行政受理服务中心直接转药品注册司。国家局应当在20个工作日内完成审查，对符合要求的，发给《药品补充申请批件》并附核准后的说明书。<br>    对于进行过相关研究，拟修订的说明书样稿（与原批准的说明书内容相比）增加【孕妇及哺乳期妇女用药】、【儿童用药】、【老年用药】、【药物相互作用】、【临床试验】、【药理毒理】、【药代动力学】中任何一个项目的，行政受理服务中心受理后应当转药品审评中心，药品审评中心应当在40个工作日内完成技术审评并报药品注册司。国家局应当在20个工作日内完成审查，对符合要求的，发给《药品补充申请批件》并附核准后的说明书。<br><br>    四、国家局或省级食品药品监督管理局重点审核说明书中的以下内容：【药品名称】、【成份】、【性状】、【功能主治】／【适应症】、【规格】、【用法用量】、【贮藏】、【有效期】、【执行标准】及【批准文号】。药品生产企业应对说明书内容的真实性、准确性和完整性负责，并密切关注药品使用的安全性问题，及时完善安全性信息。<br><br>    五、自本通知发布之日起，国家局以国药监注〔2001〕294号文件发布的《中药说明书格式和规范细则》、以国食药监注〔2005〕331号文件发布的《中药、天然药物药品说明书撰写指导原则》废止。<br><br><br>    附件：1．中药、天然药物处方药说明书格式<br>          2．中药、天然药物处方药说明书内容书写要求<br>          3．中药、天然药物处方药说明书撰写指导原则<br><br>                                                        国家食品药品监督管理局<br>                                                        二○○六年六月二十二日<br><br><br>附件1<br><br>中药、天然药物处方药说明书格式<br><br>核准日期和修改日期<br><br>                                                      特殊药品、外用药品标识位置<br><br><br>                                  X X X说明书<br>                       请仔细阅读说明书并在医师指导下使用<br>                                     警示语<br><br>【药品名称】<br>  通用名称：<br>  汉语拼音：<br>【成份】<br>【性状】<br>【功能主治】／【适应症】<br>【规格】<br>【用法用量】<br>【不良反应】<br>【禁忌】<br>【注意事项】<br>【孕妇及哺乳期妇女用药】<br>【儿童用药】<br>【老年用药】<br>【药物相互作用】<br>【临床试验】<br>【药理毒理】<br>【药代动力学】<br>【贮藏】<br>【包装】<br>【有效期】<br>【执行标准】<br>【批准文号】<br>【生产企业】<br>  企业名称：<br>  生产地址：<br>  邮政编码：<br>  电话号码：<br>  传真号码：<br>  注册地址：<br>  网    址：<br><br><br>附件2<br><br> 中药、天然药物处方药说明书内容书写要求<br><br>    “核准日期和修改日期”<br>    核准日期和修改日期应当印制在说明书首页左上角。修改日期位于核准日期下方，进行过多次修改的，仅列最后一次的修改日期；未进行修改的，可不列修改日期。<br>    核准日期指国家食品药品监督管理局批准该药品注册的日期。<br>    对于2006年7月1日之前批准注册的中药、天然药物，其“核准日期”应为按照《关于印发中药、天然药物处方药说明书格式内容书写要求及撰写指导原则的通知》要求提出补充申请后，国家食品药品监督管理局或省级食品药品监督管理局予以核准的日期。<br>    修改日期指该药品说明书的修改被国家食品药品监督管理局或省级食品药品监督管理局核准的日期。<br><br>    “特殊药品、外用药品标识”<br>    麻醉药品、精神药品、医疗用毒性药品和外用药品等专用标识在说明书首页右上方标注。<br>按医疗用毒性药品管理的药材及其饮片制成的单方制剂，必须标注医疗用毒性药品标识。<br>凡国家标准中用法项下规定只可外用，不可口服、注射、滴入或吸入，仅用于体表或某些特定粘膜部位的液体、半固体或固体中药、天然药物，均需标注外用药品标识。<br>    对于既可内服，又可外用的中药、天然药物，可不标注外用药品标识。<br>    外用药品标识为红色方框底色内标注白色“外”字，样式：外。药品标签中的外用药标识应当彩色印制，说明书中的外用药品标识可以单色印制。<br><br>    “说明书标题”<br>    “XXX说明书”中的“XXX”是指该药品的通用名称。<br>    “请仔细阅读说明书并在医师指导下使用” <br>    该内容必须标注，并印制在说明书标题下方。<br>    “警示语”<br>    是指对药品严重不良反应及其潜在的安全性问题的警告，还可以包括药品禁忌、注意事项及剂量过量等需提示用药人群特别注意的事项。<br>    含有化学药品（维生素类除外）的中药复方制剂，应注明本品含X X（化学药品通用名称）。<br>    有该方面内容的,应当在说明书标题下以醒目的黑体字注明。无该方面内容的，可不列此项。<br><br>    【药品名称】<br>    药品名称应与国家批准的该品种药品标准中的药品名称一致。<br><br>    【成份】<br>    应列出处方中所有的药味或有效部位、有效成份等。注射剂还应列出所用的全部辅料名称；处方中含有可能引起严重不良反应的辅料的，在该项下也应列出该辅料名称。<br>    成份排序应与国家批准的该品种药品标准一致，辅料列于成份之后。<br>    对于处方已列入国家秘密技术项目的品种，以及获得中药一级保护的品种，可不列此项。<br><br>    【性状】<br>    应与国家批准的该品种药品标准中的性状一致。<br><br>    【功能主治】／【适应症】<br>    应与国家批准的该品种药品标准中的功能主治或适应症一致。<br><br>    【规格】<br>    应与国家批准的该品种药品标准中的规格一致。<br>    同一药品生产企业生产的同一品种，如规格或包装规格不同，应使用不同的说明书。<br><br>    【用法用量】<br>    应与国家批准的该品种药品标准中的用法用量一致。<br><br>    【不良反应】<br>    应当实事求是地详细列出该药品不良反应。并按不良反应的严重程度、发生的频率或症状的系统性列出。 <br>    尚不清楚有无不良反应的，可在该项下以"尚不明确"来表述。<br><br>    【禁忌】<br>    应当列出该药品不能应用的各种情况，例如禁止应用该药品的人群、疾病等情况。<br>    尚不清楚有无禁忌的，可在该项下以“尚不明确”来表述。<br><br>    【注意事项】<br>    列出使用时必须注意的问题，包括需要慎用的情况（如肝、肾功能的问题），影响药物疗效的因素（如食物、烟、酒），用药过程中需观察的情况（如过敏反应，定期检查血象、肝功、肾功）及用药对于临床检验的影响等。<br>    如有药物滥用或者药物依赖性内容，应在该项下列出。<br>    如有与中医理论有关的证候、配伍、妊娠、饮食等注意事项，应在该项下列出。<br>    处方中如含有可能引起严重不良反应的成份或辅料，应在该项下列出。<br>    注射剂如需进行皮内敏感试验的，应在该项下列出。<br>    中药和化学药品组成的复方制剂，必须列出成份中化学药品的相关内容及注意事项。<br>    尚不清楚有无注意事项的，可在该项下以"尚不明确"来表述。<br><br>    【孕妇及哺乳期妇女用药】<br>    如进行过该项相关研究，应简要说明在妊娠、分娩及哺乳期，该药对母婴的影响，并说明可否应用本品及用药注意事项。<br>    如未进行该项相关研究，可不列此项。如有该人群用药需注意的内容，应在【注意事项】项下予以说明。<br><br>    【儿童用药】<br>    如进行过该项相关研究，应说明儿童患者可否应用该药品。可应用者需应说明用药须注意的事项。<br>    如未进行该项相关研究，可不列此项。如有该人群用药需注意的内容，应在【注意事项】项下予以说明。<br><br>    【老年用药】<br>    如进行过该项相关研究，应对老年患者使用该药品的特殊情况予以说明。包括使用限制、特定监护需要、与老年患者用药相关的危险性、以及其他与用药有关的安全性和有效性的信息。<br>    如未进行该项相关研究，可不列此项。如有该人群用药需注意的内容，应在【注意事项】项下予以说明。<br><br>    【药物相互作用】<br>    如进行过该项相关研究，应详细说明哪些或哪类药物与本药品产生相互作用，并说明相互作用的结果。<br>    如未进行该项相关研究，可不列此项，但注射剂除外，注射剂必须以“尚无本品与其他药物相互作用的信息”来表述。<br><br>    【临床试验】<br>    对于2006年7月1日之前批准注册的中药、天然药物，如在申请药品注册时经国家药品监督管理部门批准进行过临床试验，应当描述为“本品于XXXX年经<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

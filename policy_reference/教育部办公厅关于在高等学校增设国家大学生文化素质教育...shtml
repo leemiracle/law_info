@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】教高厅［2005］5号<BR>&nbsp;&nbsp;【发布日期】2005-10-13<BR>&nbsp;&nbsp;【生效日期】2005-10-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info17877.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于在高等学校增设国家大学生文化素质教育基地的通知<br><br></font>(2005年10月13日教高厅［2005］5号)</p><br><br><br>    自1999年1月我部批准在53所高校建设32个国家大学生文化素质教育基地以来，各有关单位十分重视基地的建设工作，一大批高校将文化素质教育内容列入教学计划，进入课程体系，改变了原有的课程体系结构，并正在建设一批精品课程。文化素质教育工作提高了大学生人文素质和科学素质，构建了以素质教育为核心的中国特色的高等教育人才培养体系，从理论和实践两方面做出了富有成效的积极探索并取得了显著成绩。为进一步推动高校文化素质教育工作，促进高校文化素质教育的持续发展，发挥基地的示范和辐射作用，我部决定再增设30个基地。现将有关事项通知如下：<br><br>    一、基地建设的目的和任务<br><br>    建设基地的目的是：以马克思列宁主义、毛泽东思想、邓小平理论和“三个代表”重要思想为指导，坚持党的教育方针，继承和弘扬中华民族优秀的历史文化传统，吸收人类文明发展的优秀成果，提高大学生的文化素质，为加强和改进大学生思想政治教育服务。<br><br>    基地的任务是：协调本校各单位、学术团体的文化素质教育工作，组织开展重要的文化素质教育活动；培训从事文化素质教育的师资队伍；开展文化素质教育的理论研究，探索文化素质教育与教学内容和课程体系改革相结合的新路子，深化教育改革，提高教育质量，力争产生一批文化素质教育理论研究和教学实践相结合的教学成果；及时总结经验，向本地区乃至全国高校推广，起到示范和辐射作用。<br><br>    二、选点原则、申报条件<br><br>    1．选点原则<br><br>    新增设基地适当向西部地区高校倾斜，并兼顾东、中部地区，在综合性大学、工科大学、师范大学、农林院校、医药院校、财经院校、政法院校、艺术院校等高校中，选择那些文化素质教育工作扎实，成效明显，在高校中能够起到骨干带头作用的学校建设基地。<br><br>    2．申报条件<br><br>    申报基地的高校，应当具备以下条件：<br><br>    （1）学校主要领导重视文化素质教育工作，能够充分认识加强文化素质教育的必要性、重要性和紧迫性，对于深入开展文化素质教育工作有明确的思路和措施；<br><br>    （2）学校有文化素质教育领导机构，配有专职或兼职管理人员，经常开展文化素质教育活动，取得了一定的成效，积累了一定的经验，并能够在高校中起到示范带头作用；<br><br>    （3）能够将加强文化素质教育与转变教育思想和教育观念、加强大学生思想政治教育、改革人才培养模式、深化教育教学改革紧密结合起来，制定出科学合理的人才培养方案，并在一些学科进行试点，取得初步成果；<br><br>    （4）能够将文化素质教育贯穿于专业教育之中，在专业课教学中重视对学生进行人文精神和科学精神的教育，并取得了一定的效果；<br><br>    （5）有一支稳定的、业务水平较高的从事文化素质教育的师资队伍，并能够承担培训相关师资的任务；<br><br>    （6）重视文化素质教育的课程建设和教材建设，取得了一定的标志性成果；<br><br>    （7）重视校园文化环境建设，积极开展丰富多彩的校园文化活动，初步形成了较为浓厚的校园文化氛围；<br><br>    （8）学校及其上级主管部门领导明确支持建设基地，并有相应的政策支持和配套措施，特别是经费投入方面，要明确5年内对基地建设投入经费的数额。<br><br>    三、申报办法、申报时间及评审办法<br><br>    各高校可以单独申报基地，也可由同一城市不同类型的高校联合申报。凡申报基地的学校，接到本通知后，按照其精神认真填写《国家大学生文化素质教育基地申报表》（见附件）。教育部所属高校可直接向我部申报；其他高校报所在地区省级教育行政部门，由其组织初审，并原则上遴选不超过1个基地向我部申报，于2005年11月30日前报我部高等教育司文科教育处（学校申报报告和申报表一式2份）。联系人：张勇林；联系电话：010－66097329。<br><br>    我部对申报材料进行认真审核整理后，召开专家评审会，对申报的基地进行评审。<br><br>    四、经费投入<br><br>    凡是被批准为基地的学校，其建设经费由学校投入，周期为5年。基地学校每年专用经费一般不得少于20万元。<br><br>    五、评估验收<br><br>    对被批准建设的基地，本着先建后评的原则，自批准之日起2年后，我部将组织专家进行中期检查评估。不合格的，暂停或者取消基地资格。基地建设5年后，我部组织专家进行评估验收，对合格的基地给予最后确认，对优秀者予以表彰，对不合格的基地，取消其资格。<br><br>    请各省级教育行政部门将本通知转发至本辖区内各高校。（附件略）<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

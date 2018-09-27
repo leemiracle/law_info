@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券监督管理委员会<BR>&nbsp;&nbsp;【发布文号】证监发[2007]55号<BR>&nbsp;&nbsp;【发布日期】2007-04-18<BR>&nbsp;&nbsp;【生效日期】2007-04-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.csrc.gov.cn/n575458/n575667/n4231514/n4231533/n4696680/6899975.html" target=_blank>中国证券监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>期货公司风险监管指标管理试行办法<br><br></font>(证监发[2007]55号)</p><br><br><br>各期货公司：<br><br>    根据《期货交易管理条例》的有关规定，我会制定了《期货公司风险监管指标管理试行办法》，现予发布，请遵照执行。<br>    <br>中国证券监督管理委员会<br>二○○七年四月十八日<br><br>    <br>期货公司风险监管指标管理试行办法<br><br>    <font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了加强对期货公司的监督管理，促进期货公司加强内部控制，防范风险，根据《期货交易管理条例》，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 期货公司应当按照本办法的规定编制、报送风险监管报表。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 期货公司应当建立与风险监管指标相适应的内部控制制度，应当建立动态的风险监控和资本补足机制，确保净资本等风险监管指标持续符合标准。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 期货公司扩大业务规模或者做出向股东分配利润等可能对净资本产生重大影响的决定前，应当对相应的风险监管指标进行敏感性测试。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  期货公司应当聘请具备证券、期货相关业务资格的会计师事务所对期货公司年度风险监管报表进行审计。<br><br>    会计师事务所及其注册会计师应当勤勉尽责，对出具报告所依据的文件资料内容的真实性、准确性和完整性进行核查和验证，并对出具审计报告的合法性和真实性负责。<br><br>        <font class='zhang'>第二章</font>  风险监管指标的计算<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 期货公司风险监管指标包括期货公司净资本、净资本与净资产的比例、流动资产与流动负债的比例、负债与净资产的比例、规定的最低限额的结算准备金要求等衡量期货公司财务安全的监管指标。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 本办法所称净资本是在期货公司净资产的基础上，按照变现能力对资产负债项目及其他项目进行风险调整后得出的综合性风险监管指标。<br><br>        净资本的计算公式为：净资本＝净资产－资产调整值＋负债调整值－客户未足额追加的保证金-/＋其他调整项。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 期货公司应当按照分类、流动性、账龄和可回收性等不同情况采取不同比例对资产进行风险调整。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 期货公司持有的金融资产，按照分类和流动性情况采取不同比例进行风险调整，分类中同时符合两个或者两个以上标准的，应当采用最高的比例进行风险调整。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 期货公司应当按照账龄及其核算的具体内容，采取不同比例对应收项目进行风险调整，分类中同时符合两个或者两个以上标准的，应当采用最高的比例进行风险调整。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>              期货公司计算净资本时，应当按照企业会计准则的规定对相关项目充分计提资产减值准备。<br><br>        中国证监会派出机构可以要求期货公司对资产减值准备计提的充足性和合理性进行专项说明；有证据表明期货公司未能充分计提资产减值准备的，中国证监会派出机构应当要求期货公司相应核减净资本金额。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>              期货公司计算净资本时，可以将“期货风险准备金”等有助于增强抗风险能力的负债项目加回。<br><br>    除“期货风险准备金”外，期货公司认为某项负债需要在计算净资本时予以调整的，应当增加附注，详细说明该项负债反映的具体内容；中国证监会及其派出机构可以根据审慎监管原则决定是否同意对该项负债进行调整。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>              期货公司应当按照企业会计准则的规定确认预计负债。<br><br>        中国证监会派出机构可以要求期货公司对预计负债进行专项说明；有证据表明期货公司未能准确确认预计负债的，中国证监会派出机构应当要求期货公司相应核减净资本金额。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>              客户保证金未足额追加的，期货公司应当相应调减净资本。客户保证金在报表报送日之前已足额追加的，期货公司可以在报表附注中说明。 <br><br>    未足额追加的客户保证金应当按期货交易所规定的保证金标准计算，不包括已经记入“应收风险损失款”科目的客户因穿仓形成的对期货公司的债务。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>              期货公司应当在净资本计算表的附注中，充分披露期末未决诉讼、未决仲裁等或有负债的性质、涉及金额、形成原因、进展情况、可能发生的损失和预计损失的会计处理情况，并在计算净资本时按照一定比例扣减。<br><br>    中国证监会及其派出机构可以根据审慎监管原则要求期货公司调整扣减比例。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>              期货公司借入次级债务的，可以将所借入的次级债务按照中国证监会规定的比例计入净资本。 <br><br>        期货公司向股东或者其关联企业借入的具有次级债务性质的长期借款，可以在计算净资本时将所借入的长期借款按照中国证监会规定的比例计入净资本。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>              客户保证金未足额追加的，期货公司在计算符合规定的最低限额的结算准备金时，应当相应扣除。客户保证金在报表报送日之前已足额追加的，期货公司可以在报表附注中说明。 <br><br>    未足额追加的客户保证金应当按期货交易所规定的保证金标准计算，不包括已经记入“应收风险损失款”科目的客户因穿仓形成的对期货公司的债务。<br><br>        <font class='zhang'>第三章</font>  风险监管指标标准<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>              期货公司应当持续符合以下风险监管指标标准：<br><br>    （一）净资本不得低于人民币1500万元；<br><br>    （二）净资本不得低于客户权益总额的6％；<br><br>    （三）净资本按营业部数量平均折算额（净资本/营业部家<br><br>    数）不得低于人民币300 万元；<br><br>    （四）净资本与净资产的比例不得低于40％；<br><br>    （五）流动资产与流动负债的比例不得低于100％；<br><br>    （六）负债与净资产的比例不得高于150％；<br><br>    (七)  规定的最低限额的结算准备金要求。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>              期货公司委托其他机构提供中间介绍业务的，净资本不得低于人民币3000万元。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>              从事交易结算业务的期货公司，净资本不得低于人民币4500万元。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>       从事全面结算业务的期货公司，净资本不得低于以下标准：<br><br>    （一）人民币9000万元；<br><br>    （二）客户权益总额与其代理结算的非结算会员权益或者非结算会员客户权益之和的6%。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>       中国证监会及其派出机构可以根据审慎监管原则，结合期货公司的风险状况及风险管理能力，提高其风险监管指标标准。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>       中国证监会对第十八条至第二十一条规定的风险监管指标设置预警标准。规定“不得低于”一定标准的风险监管指标，其预警标准是规定标准的120%，规定“不得高于”一定标准的风险监管指标，其预警标准是规定标准的80%。<br><br>        <font class='zhang'>第四章</font>  编制和披露<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>       期货公司应当报送月度和年度风险监管报表。期货公司应当于月度终了后的7个工作日内向公司住所地中国证监会派出机构报送月度风险监管报表，在年度终了后的3个月内报送经具备证券、期货相关业务资格的会计师事务所审计的年度风险监管报表。<br><br>    中国证监会派出机构可以根据审慎监管原则，要求期货公司按周或者按日编制并报送风险监管报表。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>       期货公司应当指定专人负责风险监管报表的编制和报送工作。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>       期货公司法定代表人、经营管理主要负责人、财务负责人、结算负责人、制表人应当在风险监管报表上签字确认，并应当保证其真实、准确、完整。上述人员对风险监管报表内容持有异议的，应当书面说明意见和理由，向公司住所地中国证监会派出机构报送。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>       期货公司应当按照中国证监会规定的方式报送风险监管报表。 <br><br>    期货公司应当保留书面风险监管报表，相应责任人员应当在书面报表上签字，并加盖公司印章。该报表的保存期限应当不少于5年。   <br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>     期货公司应当每半年向公司全体董事提交书面报告，说明净资本等各项风险监管指标的具体情况，该书面报告应当经期货公司法定代表人签字确认。<br><br>    期货公司应当每半年向公司全体股东提交书面报告，说明净资本等各项风险监管指标的具体情况，该书面报告应当经全体董事签字确认，并应当取得股东的签收确认证明。   <br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>       风险监管指标与上月相比变动超过20%的，期货公司应当向公司住所地中国证监会派出机构书面报告，说明原因，并在5个工作日内向全体董事和全体股东书面报告。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>               期货公司风险监管指标达到预警标准的，期货公司应当于当日向公司住所地中国证监会派出机构书面报告，详细说明原因、对公司的影响、解决问题的具体措施和期限，还应当向公司全体董事书面报告。  <br><br>    期货公司风险监管指标不符合规定标准的，期货公司除履行上述程序外，还应当于当日向全体股东书面报告。<br><br>        <font class='zhang'>第五章</font>  监督管理<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>       期货公司未按期报送风险监管报表或者报送的风险监管报表存在虚假记载、误导性陈述或者重大遗漏的，中国证监会派出机构应当要求期货公司限期报送或者补充更正。 <br><br>    期货公司未在限期内报送或者补充更正的，公司住所地中国证监会派出机构应当对公司进行现场检查，发现期货公司违反企业会计准则和本办法有关规定的，可以认定风险监管指标不符合规定标准。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>       期货公司风险监管指标达到预警标准的，进入风险预警期。<br><br>    中国证监会派出机构应当在5个工作日内对公司风险监管指标触及预警标准的情况和原因进行核实，对公司的影响程度进行评估，并视情况采取下列措施： <br><br>    （一）向公司出具警示函，并抄送其全体股东；<br><br>    （二）对公司高级管理人员进行监管谈话，要求其优化公司风险监管指标水平； <br><br>    （三）要求公司进行重大业务决策时，应当至少提前5个工作日向公司住所地中国证监会派出机构报送临时报告，说明有关业务对公司财务状况和风险监管指标的影响；<br><br>    （四）责令公司增加内部合规检查的频率，并提交合规检查报告。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>       期货公司风险监管指标优于预警标准并连续保持3个月的，风险预警期结束。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>       期货公司风险监管指标不符合规定标准的，中国证监会派出机构应当在2个工作日内对公司进行现场检查，对不符合规定标准的情况和原因进行核实，并责令期货公司限期整改，整改期限不得超过20个工作日。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>       经过整改，风险监管指标符合规定标准的，期货公司应当向公司住所地中国证监会派出机构报告，中国证监会派出机构应当进行验收。<br><br>    期货公司风险监管指标符合规定标准的，中国证监会派出机构应当自验收合格之日起3个工作日内解除对期货公司采取的有关措施。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>       期货公司逾期未改正或者经过整改风险监管指标仍不符合规定标准的，中国证监会及其派出机构可以依据《期货交易管理条例》第五十九条采取监管措施。<br><br>        <font class='zhang'>第六章</font>  附则<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>        本办法下列用语的含义：<br><br>    （一）风险监管报表，包括期货公司风险监管指标汇总表、净资本计算表、资产调整值计算表、客户分离资产报表、客户权益变动表、经营业务报表和客户管理报表等。<br><br>    （二）资产、流动资产，是指期货公司的自身资产，不含客户保证金。<br><br>    （三）负债、流动负债，是指期货公司的对外负债，不含客户权益。<br><br>    （四）重大业务，是指可能导致期货公司净资本等风险监管指标发生10％以上变化的业务。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>       本办法自发布之日起施行。本办法施行前依法设立的期货公司，不完全符合本办法规定的，应当在2007年8月1日之前达到本办法的要求。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

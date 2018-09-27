@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教党〔2008〕12号<BR>&nbsp;&nbsp;【发布日期】2008-05-25<BR>&nbsp;&nbsp;【生效日期】2008-05-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/40/info1211798765057440.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于向抗震救灾英雄教师学习的决定<br><br></font>(教党〔2008〕12号)</p><br><br><br>    5月12日，四川汶川发生里氏8.0级强烈地震，给人民生命财产造成了重大损失。地震灾害发生时，正值学校集中上课时间，灾区学校校舍倒塌严重，师生伤亡惨重，学校损失巨大，全国广大师生员工万分悲痛。<br><br>    在这场特大自然灾害面前，灾区广大教师以灾情为命令，视时间如生命，为保护灾区学生生命安全，为抗震救灾作出了重大贡献，涌现出了一大批英雄人物。在生死关头，老师们舍生忘死，挺身而出，用自己的血肉之躯拼死保护学生的生命；在危难时刻，老师们不顾个人和家人安危，始终把学生的生命安全放在首位，义无反顾奋力抢救危难中的学生；在困境之中，广大教师强忍悲痛，坚守岗位，竭尽全力，顽强拼搏，历尽艰险，迅速组织受困学生安全转移，投身灾后重建，恢复正常教学。<br><br>    突如其来的特大地震灾害，见证了人民教师的伟大师魂，揭示了人民教师爱与责任的崇高境界。灾难面前，广大教师首先想到的是学生，毫不犹豫地把生的希望留给学生，把死的危险置之度外。他们以英勇无畏和大爱之举，用爱和责任为学生筑起了生命长城，向世人展示了为人师表的精神风貌和崇高的人性光辉。他们用鲜血和生命，践行了人民教师的神圣职责，诠释了人民教师的高尚师德，谱写了人民教师的英雄赞歌。他们的英雄事迹可歌可泣，令人震撼，催人奋进，集中体现了新时期人民教师的光辉形象、崇高的师德风范和时代精神，在全社会产生了极大反响，赢得了高度赞誉，在地震废墟中矗立起令世人景仰的巍巍丰碑。他们是人民教师的杰出代表，是全国人民心目中的英雄，是全国广大教师和教育工作者学习的榜样。<br><br>    为深入学习宣传抗震救灾英雄教师的先进事迹，弘扬新时期人民教师的高尚师德和无私奉献精神，教育部党组决定在全国教育系统开展向抗震救灾英雄教师学习的活动。学习他们生死关头，临危不惧，舍生忘死，奋不顾身，拼死保护学生的英勇献身精神；学习他们危难时刻，坚守岗位，忠于职守，不畏艰难险阻，奋力抢救学生的拼搏奉献精神；学习他们大灾面前，化悲痛为力量，振奋精神，不屈不挠，迅速投身重建校园，恢复正常教育教学秩序的自强不息精神。全国教育系统广大教师和教育工作者要以抗震救灾英雄教师为榜样，以对学生的挚爱、对教育事业的责任，以人民教师的人格魅力和学识魅力，教书育人，为人师表，做人民满意的教师，办人民满意的教育。<br><br>    全国教育系统要迅速掀起向抗震救灾英雄教师学习活动的热潮。各级教育行政部门和各级各类学校要按照统一部署，大力表彰教育系统在抗震救灾中涌现出来的英雄教师，广泛深入宣传他们的英雄事迹。通过报告会、学习会、座谈会、研讨会等多种形式，深入组织学习抗震救灾英雄事迹，特别是英雄教师的典型事迹和崇高精神。要把英雄事迹作为爱党、爱国、爱社会主义教育和师德教育的重要内容和生动教材。通过学习，进一步激励广大教师和教育工作者，化悲痛为力量，积极投身抗震救灾、重建校园、恢复教学、提高教育质量的工作中去，使抗震救灾精神成为推动教育改革发展的强大精神动力。<br><br>    让我们在党中央、国务院的坚强领导下，万众一心，众志成城，克服一切困难，排除一切险阻，坚决夺取抗震救灾斗争的全面胜利！<br><br>中共教育部党组<br>二○○八年五月二十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

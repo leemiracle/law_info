@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总管一[2006]109号<BR>&nbsp;&nbsp;【发布日期】2006-06-06<BR>&nbsp;&nbsp;【生效日期】2006-06-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-06/09/content_170431.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局关于非煤矿山建设项目安全设施"三同时"执行中有关问题的通报<br><br></font>(安监总管一[2006]109号)</p><br><br>  <br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：<br><br>    为加强非煤矿山及石油、冶金、有色、建材等相关行业建设项目安全设施“三同时”监管工作，了解相关行业“三同时”工作执行情况，安全监管总局于2005年印发了《关于加强非煤矿矿山及石油、冶金、有色、建材等相关行业建设项目安全设施“三同时”工作的通知》（安监总管一字[2005]67号）。各省（区、市）安全生产监督管理部门及相关中央企业按照通知要求，向总局报送了由总局直接负责监管的非煤矿山建设项目安全设施“三同时”（以下简称“三同时”）执行情况。现将有关问题通报如下： <br><br>    一是一些地方贯彻执行《非煤矿矿山建设项目安全设施设计审查与竣工验收办法》（原国家安全监管局令第18号）仍有差距，建设项目安全设施设计审查和竣工验收没有按照规定实行分级监管，工作有交叉越位现象，安全监管机构没有严格执行“三同时”审批程序。二是在当前投资主体多元化、投资渠道多样化的市场经济条件下，少数企业没有认真履行安全生产的主体责任，主动做好“三同时”工作。存在非煤矿山建设项目没有委托中介机构做安全预评价报告，初步设计没有编制《安全专篇》或《安全专篇》未经安全监管部门审查批准就进入施工阶段，建设项目安全设施竣工后长时间不申请验收等问题。比较突出的有： <br><br>    1．山西、河南、贵州三省安全监管局未按照安全监管总局 “三同时”分级管理的规定，越级对中国铝业公司山西铝厂扩建80万吨/年氧化铝、中铝股份中州分公司选矿拜耳法第二条生产线工程、中铝股份贵州分公司氧化铝挖潜扩建工程项目的安全预评价报告进行审查备案。 <br><br>    2．中国石油化工股份有限公司管道储运分公司河间――石家庄原油管道项目、中国石油化工股份有限公司华北分公司大牛地气田10亿立方米/年产能开发工程、北京华油天然气有限责任公司陕京二线地下储气库板中北高点二期（南高点）工程等石油天然气项目、中铝股份广西分公司氧化铝三期项目在安全预评价报告备案后，未及时向安全监管部门申请对项目初步设计中的安全专篇进行审查批复，就擅自进入施工阶段。 <br><br>    3．中国石油股份有限公司塔里木油田分公司克拉2气田产能开发工程未经安全监管部门进行建设项目安全设施设计审查，试运行1年半时间，未申请安全设施竣工验收。 <br><br>    4．中国铝业公司所属中铝股份公司违规对中铝股份贵州分公司氧化铝挖潜扩建工程、中铝股份中州分公司选矿拜耳法第二条生产线工程、中铝股份河南分公司70万吨/年氧化铝扩建工程三个项目初步设计安全专篇组织审查。 <br><br>    5．国家电力公司所属山东鲁能集团的山西鲁能晋北铝业公司100万吨/年氧化铝项目自2005年国家发展改革委核准后至今未履行安全预评价报告的审查备案。 <br><br>    特别是陕西省商洛市镇安县黄金矿业有限责任公司四次擅自设计、施工加高坝体扩容。2006年4月30日，在加高坝体扩容施工时发生尾矿库溃坝，造成17人死亡，这是一起严重违反国家“三同时”有关规定的典型案例，教训十分深刻。为吸取事故教训，针对“三同时”执行中存在的问题，进一步做好“三同时”工作，现提出以下要求： <br><br>    （一）提高认识，增强责任感。要充分认识做好“三同时”工作，是落实“安全第一、预防为主、综合治理”方针的基本要求和措施，是消除和控制建设项目中危险有害因素的有效方法，从源头上保障从业人员的生命安全与健康，提高企业的安全生产水平。为此，各级安全监管部门要以高度的责任感和使命感，把加强“三同时”工作作为日常监管工作的重要内容之一，在同级人民政府的领导下，主动与相关部门协调合作，切实做好非煤矿山“三同时”监管工作，同时，要按照“三同时”的规定，严格执行分级管理的原则，不得越位。 <br><br>    （二）强化源头管理，严把安全生产准入关。各地要准确掌握本辖区“三同时”执行现状和存在的主要问题，提出工作目标，制定实施方案，建立审查程序。加大对未执行“三同时”规定的非煤矿山企业的治理工作力度，重点解决非煤矿山建设项目安全设施未经审查验收就投入生产使用的问题，将非煤矿山“三同时”与安全生产许可证颁发管理工作紧密结合，监督非煤矿山企业达到安全生产条件。 <br><br>    （三）严格审批，加大责任追究力度。各地要依照《安全生产法》以及原国家安全监管局第18号令等有关规定，认真做好安全预评价报告评审备案、初步设计安全专篇审查批复、验收评价报告的评审和竣工验收等各阶段的监管工作，落实责任，严格审批。对不依法履行“三同时”有关规定，造成重大事故隐患、发生重大事故或者其他严重后果的生产经营单位和有关责任人，要严肃追究责任。要加强对安全评价机构的监督管理，对于安全评价存在严重失误、弄虚作假问题的要严肃处理，情节严重的要依法吊销其资质；构成犯罪的，移送司法机关依法追究其刑事责任。 <br><br>    （四）认真落实企业安全生产主体责任。非煤矿山企业要认真贯彻执行《安全生产法》和《国务院关于进一步加强安全生产工作的决定》等有关规定，切实履行安全生产主体责任，做到遵纪守法、依法经营。要正确认识国家对“三同时”工作的要求，主动执行和做好“三同时”工作，防患于未然，不断提高企业本质安全的程度。 <br><br>    （五）督促企业加强整改。对于安全监管总局直接负责监管的“三同时”执行情况查出的问题（见附件），涉及地方企业的，要按属地监管原则，由有关省（区、市）安全监管局负责督促企业做好相关阶段“三同时”工作，加强“三同时”执行情况的跟踪和日常监督检查；对于未按照“三同时”分级管理规定应由安全监管总局直接负责监管的“三同时”项目，要进行补做；中央企业要认真核查所属非煤矿山企业“三同时”执行情况，按照国家有关规定，认真履行职责，做好所属企业的“三同时”工作，对违反“三同时”规定的行为要及时制止，严肃处理责任单位和责任人，并采取相应的补救措施。 <br><br>    （六）对于石油天然气建设项目，在2005年2月1日前已由政府有关部门依法组织审查或根据政府有关部门授权进行设计审查的，视为有效。自2005年2月1日起，应按照原国家安全监管局令第18号规定，由安全监管部门组织设计审查。对未按上述要求进行设计审查，主体工程未完工的，立即由安全监管部门补做设计审查；主体工程已经完工的，安全监管部门在建设项目安全设施竣工验收中应对初步设计相关内容进行审查。 <br><br>二○○六年六月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

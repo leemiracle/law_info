@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-10-11<BR>&nbsp;&nbsp;【生效日期】2005-10-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10928&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于2005年涉及饮用水卫生安全产品监督抽检情况的通报</font></p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，卫生部卫生监督中心，中国疾病预防控制中心：<br><br>    根据2005年国家健康相关产品卫生监督抽检工作计划安排，我部组织对部分涉及饮用水卫生安全产品进行了监督抽检。现将抽检情况通报如下：<br><br>    一、抽检结果<br><br>    （一）小型水质处理器。<br><br>    除吉林、湖南、西藏外，全国28个省、自治区、直辖市共抽检小型水质处理器694件，对其卫生许可批件及标签标识、说明书进行了监督检查，其中不合格产品261件，合格率为62％。不合格原因主要包括：无卫生许可批件或批件过期、产品标注的型号与批件不符、额定总净水量与批件不符等。不合格产品中无有效卫生许可批件的115件，产品标注的型号与批件不符的有37件；额定总净水量与批件不符的有107件。<br><br>    （二）水化学处理剂。<br><br>     甘肃、浙江、江苏、云南、上海、福建、四川、广东等8个省、直辖市共抽检当地生产企业生产及自来水厂使用的水化学处理剂117种，检测了砷、镉、铬、铅、汞、硒、银、丙烯酰胺等8项指标。根据2001年版《生产饮用化学水处理剂卫生安全评价规范》、《生活饮用水水质卫生规范》（2001）评价，10种产品不合格，合格率为91％。不合格指标为铅，最高达0．009ｍｇ／Ｌ，超过标准规定9倍。<br><br>    二、抽检情况分析和工作要求<br><br>    本次抽检的小型水质处理器38％不合格，主要是卫生许可批件及标签、标识、说明书问题较多。暴露出生产和经营单位卫生许可法制意识淡薄，无证销售、一证多用、产品许可后擅自改变产品构造或说明书等情况比较普遍。水化学处理剂抽检也发现9％的产品铅超标，可能在生活饮用水处理过程中造成卫生安全隐患。地方卫生行政部门对本次抽检中发现的不合格产品已经进行了查处和通报。水质处理器、水化学处理剂等涉水产品的卫生质量直接关系到广大人民群众的饮水卫生安全，各地卫生行政部门应给予高度重视。生产企业和经营单位在生产经营过程中要严格执行国家的法律法规和标准，经营单位还要严格执行索证制度，保证产品卫生质量。各地卫生行政部门要进一步加强对涉水产品的日常监督管理，尤其加大对无有效卫生许可产品的监督检查，对不合格产品要及时依法查处，并向社会公布。<br><br>二○○五年十月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

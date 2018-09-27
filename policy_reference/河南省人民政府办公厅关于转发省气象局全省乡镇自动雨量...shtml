@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河南省<BR>&nbsp;&nbsp;【发布文号】豫政办 〔2005〕7号<BR>&nbsp;&nbsp;【发布日期】2005-01-19<BR>&nbsp;&nbsp;【生效日期】2005-01-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.henan.gov.cn/zwgk/system/2005/11/24/000000139.shtml" target=_blank>河南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府办公厅关于转发省气象局全省乡镇自动雨量站建设方案的通知<br>  <br></font>(豫政办 〔2005〕7号)</p><br>  <br>  <br>各市、县人民政府,省人民政府有关部门:<br><br>    省气象局制订的《全省乡镇自动雨量站建设方案》已经省政府同意,现转发给你们,请认真贯彻落实。<br><br>河南省人民政府办公厅<br>二○○五年一月十九日<br><br><br>全省乡镇自动雨量站建设方案<br><br>(省气象局 二○○四年九月十六日)<br><br>    改革开放以来,特别是近几年来,在地方各级党委、政府的关心支持下,我省气象事业得到了长足发展,气象防灾减灾能力不断提高,气象防灾减灾工作在我省国民经济建设、社会发展、人民生活水平提高等方面发挥了突出作用。当前气象服务、防灾减灾工作存在的突出问题是气象预报准确率低,特别是中小尺度灾害性天气的“定时、定点、定量”预报还存在着不少困难和问题,气象预报、情报服务还不能满足需要,在防汛、抗旱和关键农事季节表现尤为突出。暴雨、冰雹、大风等灾害性天气具有生命期短、空间尺度小、破坏力强等特点,要实现对这些灾害性天气的精确预报,需要在空间和时间上有更为稠密的探测信息。而我省现有的气象监测站点布局过疏,自动化程度低,监测资料满足不了预报业务和服务的需求,解决的主要办法就是建设乡镇自动雨量站,以增强灾害性天气探测的时空密度和自动化程度。具体建设方案如下:<br><br>    一、建设目的和作用<br><br>    随着经济社会发展和人民生活条件改善,国内外自动气象雨量站建设发展迅速。广东、福建、浙江、安徽、上海等省、市已经把雨量站建设到乡镇。我省共有2200多个乡镇,如果每个乡镇都建立自动雨量监测点,可达到70平方公里左右有一个雨量监测点,大大缩小与国内外雨量监测水平的差距。<br><br>    建设乡镇自动雨量站对于增强气象服务能力、提高气象服务水平、防灾减灾、促进农民增收、加快实现全面建设小康社会步伐等均具有重要意义和作用。突出表现在以下几方面:<br><br>    一是有利于提高天气预报准确率,使天气预报更加及时、精确。乡镇自动雨量站的建设是实现精细化预报的基本条件,项目建成后,可以基本实现短时天气预报“定时、定点、定量”。<br><br>    二是有利于提高各级政府防汛决策的科学水平。全省乡镇自动雨量站的建设可以有效地提高我省六部新一代天气雷达的应用水平,实现全省各流域面雨量的精确测量和定量估测,从而准确地预测洪水水位,为防汛的科学调度提供决策依据。<br><br>    三是有利于为各级领导提供更加全面、准确的气象情报服务。尤其是在汛期和抗旱的关键季节,能够更加全面、准确地了解全省的雨情、汛情和墒情。<br><br>    四是有利于人工影响天气事业发展。乡镇自动雨量站建设可以科学地调度人工影响天气作业,检验作业效果,从而为人工影响天气科研工作提供翔实的监测资料。<br><br>    二、特点<br><br>    (一)不需要编制和人员。全部采用自动设备监测和传输。(二)信息量大且代表性更好。目前全省提供的雨量一般为县级气象站,全省仅有126个台站,如果乡镇建立自动雨量站,信息量可以扩大近20倍,可以全面、准确地反映全省乡镇雨量情况。<br><br>    (三)传输速度快且监测频率高。采用自动传输,可以迅速采集和传输数据,并可通过现代化网络通信,尽快分发给各级领导部门和提供公众服务。其观测时次可以根据需求加密监测,最快可以实现每10分钟定时监测一次。<br><br>    (四)数据准确。自动雨量站采用世界气象组织统一制定的技术标准和观测规范,操作运用按照国际气象界操作流程规定进行,监测数据准确、精确度高。<br><br>    (五)服务及时。根据防灾减灾救灾需要随时确定加密监测时次和调用监测资料。<br><br>    (六)投资小,效益大。每个站点标准配置设备一次性投资仅需1.25万元左右,可以长期为各级领导提供优质服务,经济和社会效益长远。<br><br>    三、建设计划及投资概算<br><br>    (一)建设内容和规模<br><br>    计划2005―2007年,用3年时间,在全省2200个乡镇建成自动雨量站。<br><br>    第一年:建成市级数据处理中心和300个乡镇自动雨量站。<br><br>    第二年:建成700个乡镇自动雨量站。<br><br>    第三年:建成1200个乡镇自动雨量站。乡镇自动雨量站建设方案,在各级政府领导下,由各级气象主管部门组织实施。<br><br>    (二)投资概算<br><br>    全省乡镇自动雨量站的建设共需投资4161万元。其中市级数据处理中心1411万元(市级每个83万元,共17个);乡镇雨量站建设2750万元(每个1.25万元,共2200个乡镇)。<br><br>    四、经费来源<br><br>    建设经费原则上由各级财政承担。市级数据库处理中心由各市财政拨付;乡镇自动雨量站建设费用由市、县、乡三级财政负担。省政府实行以奖代补政策,每站奖励0.25万元,此项资金从2005年起纳入省气象局预算,2005年安排75万元,2006年安排175万元,2007年安排300万元。    <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

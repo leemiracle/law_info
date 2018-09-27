@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教党函［2008］2号<BR>&nbsp;&nbsp;【发布日期】2008-01-12<BR>&nbsp;&nbsp;【生效日期】2008-01-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info1205312778035261.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中共教育部党组关于组织开展处级以上领导干部学习贯彻党的十七大精神集中轮训工作的通知<br><br></font>(教党函［2008］2号)</p><br><br><br>部属各高等学校党委，部内各司局，各直属事业单位，驻外使领馆教育处（组）：<br><br>    认真学习贯彻党的十七大精神，是全党当前和今后一个时期的首要政治任务。为把学习贯彻党的十七大精神的各项任务不断引向深入，按照中共中央《关于认真学习宣传贯彻党的十七大精神的通知》精神，根据中共中央组织部《关于做好县处级以上领导干部学习贯彻党的十七大精神集中轮训工作的通知》要求，现就组织开展教育部直属高等学校、部机关、直属事业单位、驻外使领馆教育处（组）处级以上领导干部学习贯彻党的十七大精神集中轮训工作（以下简称“集中轮训工作”）的有关事项通知如下：<br><br>    一、指导思想<br><br>    开展集中轮训工作，要坚持以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，把用党的十七大精神武装头脑、指导实践、推动工作作为轮训的出发点和落脚点。通过集中轮训要使教育部直属高校、部机关、直属事业单位、驻外使领馆教育处（组）处级以上领导干部联系教育工作实际和思想实际，既从总体上把握党的十七大文件的精神实质和思想内涵，又系统钻研和理解贯穿其中的新思想、新观点、新举措，真正把思想统一到党的十七大精神上来，把力量凝聚到实现党的十七大确定的各项任务上来，为推动教育事业科学发展提供坚强有力的思想保证和政治保证。<br><br>    二、主要任务<br><br>    按照中央要求，通过本次集中轮训工作，使直属高校、部机关、直属事业单位、驻外使领馆教育处（组）每一位处级以上领导干部分期分批集中脱产轮训一遍。集中轮训工作从1月份开始，到6月份全面完成。<br><br>    本次集中轮训工作按照干部管理权限，分工负责，分级实施。<br><br>    直属高校集中轮训安排。列入中央管理的高校党委书记、校长参加中央组织部组织的专题培训；我部举办高校领导干部专题培训班，培训其他直属高校的党委书记、校长以及分管组织工作的校领导；直属高校其他处级以上领导干部集中轮训工作，按照部里的统一要求，由各直属高校党委负责组织实施。<br><br>    教育部机关及直属事业单位集中轮训安排。我部举办机关及直属事业单位司局级干部学习班、处级干部学习班，培训部机关司局级及处级干部；直属事业单位领导班子成员以及人事处长、办公室主任、党办主任。直属事业单位其他处级以上干部的集中轮训工作，由各单位（党委或党支部）负责组织实施。<br><br>    驻外使领馆教育处（组）集中轮训安排。二秘以上驻外教育干部的集中轮训工作根据所在使领馆党委的统一部署组织实施。驻美国、加拿大、日本、澳大利亚、俄罗斯、英国、法国和德国使馆教育处、驻纽约总领馆教育组、常驻联合国教科文组织代表团要组织专门的学习培训活动。我部对各驻外使领馆教育处（组）的集中轮训工作进行指导并寄送必要的学习材料。<br><br>    国家教育行政学院、直属高校党校以及其他有关单位所属培训机构要调整现有常规班次的教学计划，专门安排时间学习党的十七大精神。<br><br>    三、主要内容<br><br>    本次集中轮训以学习贯彻党的十七大精神为主题，突出从以下两个方面的重点内容开展集中轮训工作。<br><br>    一是要组织干部认真研读党的十七大文件,以党的十七大报告和党章作为集中轮训的基本教材，原原本本学习,全面准确领会党的十七大精神。围绕党在改革发展关键阶段举什么旗、走什么路、以什么样的精神状态、朝着什么样的发展目标继续前进的重大问题,引导干部深刻领会党的十七大的主题,深刻领会党的十六大以来所取得的成绩,深刻领会改革开放的伟大历史进程和宝贵经验,深刻领会中国特色社会主义道路和中国特色社会主义理论体系,深刻领会科学发展观的科学内涵、精神实质、根本要求,深刻领会实现全面建设小康社会奋斗目标的新要求,深刻领会社会主义经济建设、政治建设、文化建设、社会建设等方面的重大部署,深刻领会以改革创新精神推进党的建设新的伟大工程的重大任务,深刻领会中央对全党提出的“四个一定要”的殷切期望,全面准确地理解和把握党的十七大提出的重大理论观点、重大战略思想和重大工作部署,在用党的十七大精神武装头脑、指导实践、推动工作上不断取得新成效。<br><br>    二是要围绕党的十七大提出的“优先发展教育，建设人力资源强国”的重大战略目标，联系教育工作实际，学习领会、贯彻落实党的十七大对教育工作提出的一系列重大方针政策和新任务新要求。学习内容包括：一是推动教育优先发展战略；二是全面贯彻党的教育方针，全面实施素质教育，坚持育人为本、德育为先，把立德树人作为教育的根本任务；三是进一步优化教育结构，促进各级各类教育协调发展；四是高度重视和切实加强教师队伍建设，重点提高农村教师素质；五是坚持教育公益性，促进教育公平；六是继续推进教育改革开放。<br><br>    通过学习培训，使教育系统党员领导干部深刻领会党的基本理论、基本路线、基本纲领、基本经验，高举中国特色社会主义伟大旗帜，以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，全面贯彻党的教育方针，提高教育质量，促进教育公平，办好人民满意的教育，努力建设人力资源强国。<br><br>    四、组织领导<br><br>    各单位、各部门党组织要充分认识对处级以上领导干部进行党的十七大精神集中轮训的重要意义，把集中轮训工作作为一项重要的政治任务抓紧抓好，通过举办各种形式的研讨班、培训班、学习班，集中一段时间分期分批把每一位处级以上领导干部轮训一遍。本次集中轮训工作在教育部党组的统一领导下，各直属高校党委、有关单位党委或党支部负责组织实施，人事司和国家教育行政学院分工负责相关专题培训的组织工作。<br><br>    各单位、各部门党组织要充分发挥领导干部的带头作用，切实加强对集中轮训工作的组织领导。要结合本单位、本部门的实际情况制定集中轮训的实施方案，明确责任，精心安排，周密部署，狠抓落实。要大力弘扬理论联系实际的学风，联系教育工作实际，针对不同层次不同类型干部的思想实际，提出具体的学习要求。要将本次集中轮训工作与党委中心组学习相结合，与加强党的思想建设、组织建设、作风建设、制度建设、反腐倡廉建设相结合，与组织开展党员理想信念教育相结合，与深入贯彻落实科学发展观、推进教育事业又好又快发展相结合，与掀起教育战线学习贯彻党的十七大精神新高潮相结合。<br><br>    各单位各部门要将本单位本部门集中轮训工作安排及落实情况及时报我部人事司。<br><br>中共教育部党组<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2006〕107号<BR>&nbsp;&nbsp;【发布日期】2006-11-21<BR>&nbsp;&nbsp;【生效日期】2006-11-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yghb/yg04/yg04c/200703/t18672.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于加快农业机械化发展的通知<br><br></font>(鄂政办发〔2006〕107号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br>    为了全面提高我省农业机械化水平，更好地推进现代农业和社会主义新农村建设，经省人民政府同意，现就加快农业机械化发展有关问题通知如下：<br><br>    一、明确农业机械化发展的指导思想和目标<br>    加快农业机械化发展，要紧紧围绕建设社会主义新农村的任务，全面贯彻落实科学发展观，以贯彻《中华人民共和国农业机械化促进法》为主线，以提高农业综合生产能力、促进农业增效和农民增收为目标，立足大农业、发展大农机、服务新农村，进一步优化装备结构，调整发展布局，创新发展模式，提高发展质量，促进传统农业向现代农业生产转变，为构建社会主义和谐社会服务。<br>    “十一五”期间，农业生产及农产品加工机械协调发展，重点作物、关键环节机械加快发展，高效、低耗、节能、环保机械全面发展。到2010年，全省农业机械总动力达到2800万千瓦；机械耕整4000万亩，机械播栽1000万亩，机械收获3000万亩，农业机械化综合水平达到60%。<br><br>    二、优化装备结构和区域布局，推进科技进步<br>    （一）优化装备结构。积极转变农业机械增长方式，以增量调整带动存量优化，以存量优化促进结构升级，走数量、质量、效益并重和协调发展的路子，实现农业结构与农业机械装备结构同步调整。在确保农业机械总量稳步增长的前提下，着力调整大中型机械与小型机械、动力机械与配套机具、种植业机械与农村其他各业所需机械的比例。在加速粮食生产全过程机械化的同时，积极引导林牧渔业、经济作物、设施农业、旱作节水、生态农业和农产品深加工等机械化技术的全面发展。<br>    （二）优化区域布局。坚持“因地制宜，分类指导，突出重点，保障安全，保护环境”的原则，形成具有各自特色和区域优势的发展新格局。江汉平原及鄂北岗地粮棉油主产区重点发展粮食生产全过程机械化，大力发展油菜等经济作物生产机械化和水产养殖生产机械化，以带动农机化整体水平提高；鄂东南、鄂东北低山丘陵地区在发展粮食作物主要生产环节机械化的同时，重点发展大宗农副林土特产品生产加工机械化；鄂西北、鄂西南山区重点发展林果茶、土特产、药材生产和饲料生产加工机械化，有选择地发展玉米、马铃薯等作物的机械化生产；大中城市郊区重点抓好蔬菜、花卉和其他高效作物机械化生产，带动农副产品的加工、储藏、运输机械化。<br>    （三）推进技术创新。根据现代农业和社会主义新农村建设需要，深入实施水稻生产机械化、秸秆还田保护性耕作、油菜收获、设施农业、农副产品初加工等农机化创新示范工程。充分发挥创新示范基地新技术新机具试验推广阵地、示范辐射中心和成果转化平台的作用；加大创新示范工作力度，层层建立示范基地，加快创新示范成果的推广应用步伐。实行产、学、研、推相结合，加快主要作物、关键环节生产所需机械的研制生产，鼓励农业机械化科研部门、农业院校、农机企业和个人研究开发适应农业生产需要的新技术、新机具，对发明者给予适当奖励。<br>    （四）加强技术培训。充分利用农业院校资源，加强农机管理与技术人员培训；开展多形式、多渠道的实用技术培训，培养有文化、懂技术、会经营的新型农机手，将农机手技术培训与农机职业技能鉴定有机结合，实施“两证”（培训结业证、职业技能鉴定证）制度。完善农机高中级管理人才的培养和职称评定制度，建立岗位人员进修制度。<br><br>    三、健全完善服务体系，提高管理水平<br>    （一）积极培育服务市场。本着“民办、民管、民受益”的原则，建立完善以基层新型农机站、农机合作社等专业服务组织为龙头，农机大户为主体，农机户为基础，农机协会为纽带的新型农机服务组织体系，形成以市场为导向、投入多元、功能齐全、服务高效的农机社会化服务新机制。鼓励、扶持农民和农机服务组织开展农机销售、维修、作业、运输“四大服务”，继续扩大农机跨区作业领域和规模，努力探索农机合同作业、订单作业、“一条龙”作业等农机共同利用新的实现形式，推进农机服务市场化、社会化和产业化发展。各地要尽快建立农业机械化信息网络，定期发布政策、市场等信息，引导农机服务有序流动，促进农机社会化服务健康发展。<br>    （二）强化产品质量监管。不断完善农机试验鉴定和认证制度。省农业行政主管部门会同省相关部门确定、公布我省支持推广的先进适用农业机械产品目录，并定期调整、公布。省农业行政主管部门要加强对通过鉴定的农机产品及推广鉴定证书、标志使用情况的监督。要严格实施维修技术资格准入制度，提高维修质量和服务质量，切实维护广大农民利益。抓好农业机械“投诉打假”工作，建立投诉平台，及时受理、处理各类投诉案件，依法维护农机经营者、使用者的合法权益。<br>    （三）加强安全监督检查。严格落实安全生产责任制，大力开展以创建“平安农机”为目标的示范活动，依法加强安全监督检查，确保农机安全生产。强化拖拉机和其他农业机械登记制度，加强牌证管理和定期检（审）验，提高列管率、安全技术检测合格率及驾驶操作人员持证率。建立重特大农业机械事故应急救援预案。积极构筑安全宣传教育、技术检测、执法监控“三大防线”，确保农机生产安全。<br><br>    四、加强领导，共同推进农业机械化发展<br>    各地要把农业机械化发展纳入当地经济社会发展总体规划，作为建设社会主义新农村的一项重要基础性工作，明确目标任务，及时研究解决发展中遇到的问题，大力推动全省农业机械化的发展。要加大对农业机械化的投入。省财政安排农机购机补贴资金主要用于对农民个人、农机大户和直接从事农业生产的各类农业机械服务组织购置和更新大中型农机具补贴；“以机代牛”专项资金用于血吸虫疫区的机械替代耕牛。各级财政要统筹安排乡镇农机公益性服务经费，逐步加大扶持农业机械化发展的经费投入，安排专项资金扶持农业机械化示范区建设。<br>    各有关部门要认真履行各自职责，落实有关政策，共同推进农业机械化发展。发展改革部门对农机系统的基建项目要统筹考虑，适当安排；农业部门在安排优质粮食产业工程、优质农产品基地建设资金时，要逐步增加用于农机方面的资金比例；科技部门要重点支持农机科研攻关、关键技术推广和科技示范基地建设；水利部门在安排农田水利建设资金时，要适当安排小型排灌设施配套、改造资金；交通部门对进行跨区作业的联合收割机、运输联合收割机（包括插秧机）的车辆，免收车辆通行费，对经县级交通主管部门核定完全从事田间作业的拖拉机暂免征收养路费；教育部门要对农机职业教育予以扶持；国土资源部门在基本农田土地整理项目建设中，要把田间机耕路建设与沟渠建设结合起来，保证农业机械能够下田作业；税务部门对从事农业机械研究、开发、生产、作业服务所取得的收入，要按照国家有关规定给予税收优惠；金融机构要加大对购置农机具的信贷支持。<br>    各地、各有关部门要采取有效措施，积极引导基层农机服务组织和农民增加对发展农业机械化的投入，广泛吸收社会资金，形成以国家投入为引导，集体、民营和农户投入为主体的多元化投入机制。鼓励、吸引国内外农机科研机构、生产企业来我省研制、生产农机产品，提高农机工业的开发和制造水平；鼓励农机工业企业通过实体联合、产业重组、股份合作等形式构建新型农机工业体系。<br><br>湖北省人民政府办公厅<br>二○○六年十一月二十一日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

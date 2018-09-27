@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫医发〔2006〕25号<BR>&nbsp;&nbsp;【发布日期】2006-01-23<BR>&nbsp;&nbsp;【生效日期】2006-01-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11329&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于吉林省德惠市人民医院经输血传播艾滋病事件的通报<br><br></font>(卫医发〔2006〕25号)</p><br><br> <br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    2005年12月2日，吉林省卫生厅向社会公布了吉林省德惠市人民医院发生的一起经输血传播艾滋病的严重医源性感染事件及查处情况。现将有关情况通报如下：<br><br>    一、主要问题和处理结果<br><br>    2005年9月28日，吉林省卫生厅接待了德惠市1名艾滋病患者，该患者称是在德惠市人民医院输血感染的。随后，省厅立即进行了追踪调查。经查发现，给该患者提供手术输血的3名供血者中，有1名有偿供血者于2005年10月20日经省疾控中心艾滋病筛查实验室确认为艾滋病病毒感染者。该供血者曾于2003年1月-2004年7月期间在德惠市人民医院中心血库有偿供血15次，接受其血液的受血者共有25人，25人中：6人于调查前死亡；18人被确认为艾滋病病毒感染者（现已有2人死亡，16人为艾滋病病毒携带者）；1人艾滋病病毒抗体阴性。该供血者的2名性伴及其中1名性伴的丈夫也被确认为艾滋病病毒感染者。造成经输血传播艾滋病疫情的主要原因是：德惠市人民医院中心血库在开展采供血工作期间，存在短间隔采血、漏检、未按试剂说明书要求检测、未进行室内质控、工作记录不规范等严重违反有关法律、法规和技术规范的行为和问题。2004年7月，吉林省卫生厅对全省采供血机构进行了重新规划和整合，德惠市人民医院中心血库已停止了采供血工作。事件发生后，吉林省政府高度重视，卫生行政部门进行了深入细致的调查和妥善的处理，严密部署各项防控工作，制定具体的救治方案。<br><br>    德惠市市委市政府已对相关责任人做出处理：给予德惠市人民医院中心血库主任丁佐富开除党籍、撤销中心血库主任职务处分，目前公安机关已对其刑事拘留；给予德惠市人民医院原院长范长胜留党察看一年处分，取消其名誉院长职务；给予德惠市人民医院副院长、党委委员陈方新开除党籍、撤销副院长职务处分；给予德惠市卫生局原医政科科长吕作全留党察看一年、行政降级处分；给予德惠市卫生局医政科代理科长姜凤岩严重警告处分；给予德惠市卫生局党委委员副局长吴伦留党察看二年、撤销副局长职务处分；给予德惠市卫生局局长、党委书记尹秀峰撤销卫生局党委委员、党委书记、卫生局长职务处分，撤销其中共德惠市市委候补委员职务。血站副主任赵秀梅及医院相关责任人罗永兰、尹恩荣、刘金艳、李洪梅、王佐、姜维芹、张秀芝、马萍、薛忠臣等10人被公安机关刑事拘留。<br><br>    吉林省卫生厅于2005年11月4日下发了《关于进一步加强全省血站质量管理工作方案》，要求各地全面开展以提高血站质量管理、切实保证临床用血安全的自查和检查督导。对保留的9个中心血站进行了全面的督察，对已关闭的33个血站的历史情况进行回顾性复查，防止类似的事件发生。<br><br>    二、下一步工作要求<br><br>    德惠市人民医院中心血库违反有关规定造成严重的医源性艾滋病感染事件，后果十分严重，社会影响极其恶劣，反映出目前仍有一些地区的血站和医疗机构人员法律观念薄弱，血液安全意识淡薄，有法不依，有章不循，地方卫生行政部门管理不严、监督不力。此次案件的发生再次给我们敲响了警钟。血液安全关系到人民群众的身体健康、生命安全和社会安定，各级卫生行政部门必须从实践“三个代表”重要思想、维护人民群众生命安全和预防控制重大传染病的高度，把血液管理工作作为加强公共卫生管理的一项重要职责常抓不懈；血站必须强化血液安全意识，警钟长鸣，认真贯彻《中华人民共和国献血法》和《血站管理办法》，积极推动无偿献血，严格执行各项技术规范和操作要求，保证临床用血的质量和安全。为此，我部提出以下要求：<br><br>    （一）进一步做好无偿献血工作，确保血液安全。自愿无偿献血工作比较落后的城市和地区，应把无偿献血工作纳入卫生行政部门重要议事日程，大力推进无偿献血工作，消灭有偿供血，努力扩大固定的自愿无偿献血者队伍，在由计划献血向自愿无偿献血转变的同时，由随机自愿献血向固定、预约自愿无偿献血转移，由一次、偶然自愿献血向多次、重复自愿献血转移，尽快建立起无偿献血工作的长效机制和应急处理机制，提高应对各种突发事件的血液提供和保障能力，推动无偿献血工作的健康、可持续发展。<br><br>    （二）做好采供血网络的整体规划和调整工作。省级卫生行政部门要根据《采供血机构设置规划指导原则》，制定和完善采供血机构设置规划。从提高血液安全保障水平、控制血液成本支出、降低医疗用血费用、减轻群众负担的高度，做好血站的规划布局和调整。对现有血站进行功能定位，合理调整资源，该关闭的血站限期坚决关闭。要完善血液供应责任制，使采供血网络覆盖到每一个需要临床用血的医疗机构，保证血液供应横向到边，纵向到底，确保临床用血的安全。<br><br>    （三）落实《血站管理办法》，加强血站质量体系建设，做好执业验收工作。血站应加强从献血者血管到临床用血者血管的全过程质量控制，树立正确、全面的质量管理意识，建立并完善以质量为核心的全面规范化管理机制，将采供血的每个环节、各项工作落实到位。要建立提高人员素质的长效机制，开展全员培训和考核；通过培训强化工作人员的质量意识和服务观念，使制度和规程的要求变成员工的自觉行动。各级卫生行政部门要以此次事件为鉴，结合执业验收，对血站进行一次全面细致的检查，切实将《中华人民共和国献血法》和《血站管理办法》的各项要求落到实处。同时，各地要对已撤销的血站进行全面的回顾性检查，对既往不规范行为可能造成的后果进行追踪，并采取相应的措施予以妥善的处理。<br><br>    （四）加强监管，严格执法。各级卫生行政部门要按照《中华人民共和国献血法》和《血站管理办法》等相关法律、法规、规章规定，切实加强对血液管理工作的监督检查，加大执法力度，坚决取缔非法采供血，严肃查处违法违规采供血行为。上级卫生行政部门要加强对下级卫生行政部门的督导。要建立责任追究制，责任到人，对有法不依、有章不循、有令不行、有禁不止的血站和医疗机构及相关人员，对长期失察、监督不力、执法不严、违法不究的卫生行政部门和人员要依纪依法追究责任，严肃查处。<br><br>    （五）加强临床用血监管，促进科学合理用血。目前，医疗机构在临床合理用血方面还存在问题。各医疗机构要开展临床用血的自查自纠，通过建立规范化的临床用血检查和评价制度，减少不合理用血，降低用血费用，减轻病人负担，确保临床用血安全。卫生行政部门要加强对医疗机构临床用血情况的监督检查，组织人员进一步开展对医疗机构，尤其是偏远地区的基层医疗机构临床用血的拉网式检查，彻底杜绝医疗机构的非法采供血行为，对顶风作案的要依法严惩。<br>  <br>二○○六年一月二十三日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

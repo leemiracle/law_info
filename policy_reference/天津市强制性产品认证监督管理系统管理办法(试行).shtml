@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市质量技术监督局<BR>&nbsp;&nbsp;【发布文号】津质技监局认[2005]226号<BR>&nbsp;&nbsp;【发布日期】2005-04-20<BR>&nbsp;&nbsp;【生效日期】2005-04-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tjzb.org/system/2005/08/09/000082303.shtml" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市强制性产品认证监督管理系统管理办法(试行)<br><br></font>(津质技监局认[2005]226号)</p><br><br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 根据《<a href=javascript:ROF(88312,0) class=alink>中华人民共和国认证认可条例</a>》、《<a href=javascript:ROF(77481,0) class=alink>国务院办公厅关于加强认证认可工作的通知</a>》要求，对涉及人类健康和安全、动植物生命和健康，以及环境保护和公共安全的产品实行国家强制性产品认证制度(以下简称3C制度)。地方质量技术监督部门在3C制度实施中依法负责组织推动、监督管理和行政执法职能。为了更好地履行职责，宏观把握3C制度的实施情况，动态的开展强制性认证产品监管，依法严肃查处违法违规行为,我局建立了集企业信息、监督管理信息、行政执法信息一体的天津市强制性产品认证监督管理系统(英文名称为“Tianjin Compulsory Products Certification Supervision and Management System”，简称TCS)。<br><br>    为加强TCS规范管理，保障TCS安全和有效运行，特制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法所称的TCS，是指以我局的局域网为网络平台建立的,依照《中华人民共和国认证认可条例》，对强制性产品认证活动实施监督管理的系统。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> TCS管理实行统一领导、分级负责、安全运行、有效监督的原则。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 市局认证与实验室评审处为总体负责部门，其具体职责是：<br><br>    ㈠制定TCS的建设方案和管理办法，并监督执行；<br><br>    ㈡组织、指导和监督TCS建设、运行和安全管理工作；<br><br>    ㈢负责市局和各区县质量技术监督局(简称各区县局)、市质量技术监督稽查大队(简称市稽查大队)使用权限的设置和用户权限的管理；<br><br>    ㈣及时输入本市3C认证产品生产企业的信息，并分发给企业所属的各区县局；<br><br>    ㈤部署有关3C认证工作并发布3C认证工作信息。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 天津市质量技术监督信息研究所(以下简称市信息所)的具体职责是：<br><br>    ㈠负责TCS的软件维护、互连互通和升级更新；<br><br>    ㈡负责TCS网络、主机及相关设备运行的日常维护、监测和检查，保证安全有效运行和数据传输网络的畅通，定期对数据库内容进行备份；<br><br>    ㈢负责TCS保密程序的设置，保证TCS安全有效；<br><br>    ㈣编制操作说明书，组织对有关人员的培训；<br><br>    ㈤为TCS正常运行提供技术支持。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 各区县局、市稽查大队具体职责是：<br><br>    ㈠制定管理范围内的TCS运行管理制度，并具体实施；<br><br>    ㈡为TCS正常运行提供人员和工作环境的保障；<br><br>    ㈢负责管理范围内TCS的正常运行和安全管理工作，并保持数据传输网络的畅通<br><br>    ㈣按照规定要求和授予的权限完善本管辖区域内的信息，当日的工作当日完成，保证相关资源和信息真实、准确、及时、完整的要求；<br><br>    ㈤按照市局授予的权限，负责对本单位监管责任人分配管辖范围和制定监管权限、职责；<br><br>    ㈥建立本辖区生产3C认证产品生产企业档案；<br><br>    ㈦及时输入对生产、经销和经营性活动中3C认证产品的监管信息，确保监管到位；<br><br>    ㈧接受市局的监督、检查，对发现的问题及时向市局认证与实验室评审处报告并进行处理。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 各区县局主管认证工作的主管局长、市稽查大队主管认证工作的领导负责本单位的TCS的领导工作，并指定认证主管科室负责具体实施，明确相应的人员和岗位职责,报市局认证与实验室评审处备案。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 各区县局、市稽查大队认证监管人员的用户代码由市局认证与实验室评审处统一设定，登陆口令由监管人员本人设定，认证监管人员在收到市局认证与实验室评审处的用户代码号后，即可设置或更改登陆口令。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 各区县局、市稽查大队的认证监管人员要选用德才兼备、责任心强、业务熟悉的人员担任，保证人员的相对稳定。按照各自的职责和权限负责TCS的操作和运行维护，不得混岗，不得相互替代工作。<br><br>    认证监管人员发生变更的，要以本单位的名义及时通知认证与实验室评审处。<br><br>    认证监管人员的工作权限发生变更，以本科室的名义及时通知市局认证与实验室评审处。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> TCS的各项监管信息，不得擅自对外提供。须对外提供的信息，应严格履行审批手续，市局须报主管局长审批，各区县局须报本局认证主管局长审批，市稽查大队报认证主管主任审批。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 各单位的认证监管人员不得擅自对TCS数据库中信息进行变更、增加及删除，需进行变更、增加、删除的有关信息，应报主管科长审批确认后实施。对3C认证生产企业地点发生变更的，要及时对TCS中的有关信息进行变更，并通知市局和现生产企业所在地的区县局。<br><br>    市局认证与实验室评审处和各单位负责人定期对TCS数据库中的信息进行安全核查，保证信息完整可靠。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 各单位认证监管科室负责人要及时查看TCS中的综合发布栏目中发布的有关工作信息。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 网络运行与安全、设备的管理工作本着“谁建设，谁负责；谁主管，谁负责”的原则，在各自的职责范围内做好网络运行与安全管理工作。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 市信息所要每天对数据库内容进行备份，对监管系统主机、网络系统存在的隐患、漏洞及发生的故障及时组织排除，采取补救措施。对TCS网络、主机及相关设备的运行维护、监测和检查做好记录并定期保留。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 各单位应及时收集、整理TCS运行中发生的问题，并报市局认证与实验室评审处。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 监管系统发生突发性事件，可能危及监管数据库和业务系统安全时，各单位采取相应的应急措施，并报告市局认证与实验室评审处和局信息所主管部门。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 本办法由市质量技术监督局认证与实验室评审处负责解释。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 本办法自印发之日起施行。<br><br>    天津市质量技术监督局<br>    二○○五年四月二十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

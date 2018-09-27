@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办农[2008]94号<BR>&nbsp;&nbsp;【发布日期】2008-06-12<BR>&nbsp;&nbsp;【生效日期】2008-06-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20080613_1062158.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于进一步规范测土配方施肥数据管理工作的通知<br>                            <br></font>(农办农[2008]94号)</p><br><br><br>各省、自治区、直辖市、计划单列市农业（农牧、农林、农垦）厅（委、局），新疆生产建设兵团农业局：<br><br>    近几年，各地在组织开展测土配方施肥工作过程中，通过野外调查、土壤分析、田间试验获得了大量数据，这些数据是制定肥料配方和开展耕地地力评价的重要依据。为了确保数据采集、输入、分析、汇总和应用统一规范，我部编制印发了《测土配方施肥技术规范》、《县域耕地资源管理信息系统数据字典》，开发了测土配方施肥数据汇总系统软件。从各地执行情况看，还存在着对数据管理工作不够重视，数据采集输入技术操作不规范，数据字典不健全等问题。为进一步规范测土配方施肥数据，加快汇总软件推广应用，现就有关事宜通知如下：<br><br>    一、加强组织领导，明确责任分工<br><br>    各级农业部门要加强对测土配方施肥数据管理工作的领导，组织协调测土配方施肥数据采集、输入、分析、汇总和应用工作。测土配方施肥补贴项目指导单位和承担单位负总责，主要技术负责人要亲自抓，并明确一名数据管理员，专门负责数据管理工作。省级数据管理员必须熟悉数据采集、审核、录入和处理的技术要领，掌握数据汇总软件应用知识与操作方法，具体指导项目县开展相关工作。省级土壤肥料推广部门要尽快组织专家，按照国家土壤分类标准，对省、县土壤分类进行系统梳理，形成国家、省、县三级相衔接的土壤分类对照表，为测土配方施肥数据库建设奠定基础。项目县要依据《测土配方施肥技术规范》、土壤分类对照表做好数据的采集、审核与录入工作。<br><br>    二、加强技术培训，强化指导服务<br><br>    全国农业技术推广中心要加强测土配方施肥数据数据采集、输入、分析、汇总和应用技术培训与指导服务，收集整理各地在数据库建设过程中出现的问题，及时提出解决的办法和建议。省级土壤肥料推广部门要深入到项目县开展现场培训与指导，帮助项目县技术人员熟练掌握数据汇总软件的操作要领，加快数据汇总软件推广应用。<br><br>    三、加强督促检查，保障数据质量<br><br>    各项目县测土施肥数据录入一律使用我部免费发放的汇总软件，不得使用其他软件。省级土壤肥料推广部门要加强对项目县数据管理工作督促检查，对数据录入不及时、录入数据不规范、审核把关不严的要及时查处，限期整改，确保数据库建设按时保质保量完成。我部将不定期对数据管理工作进行抽查，对工作不力单位将予以通报。<br><br>    四、加强工作调度，确保信息畅通<br><br>    要建立全国信息交流平台。全国农业技术推广服务中心在“中国耕地质量网”上开辟测土配方施肥数据管理信息交流专栏，收集整理各地在数据库建设过程中的技术与管理问题，对于反映集中的技术问题，及时联系软件开发公司加以解决，解决办法要在“中国耕地质量网”上予以发布。省级土壤肥料推广部门要了解掌握各项目县反映的问题与建议，并及时加以解决，对带普遍性问题要向我部反映；各项目县要汇总归纳数据采集、输入、分析、汇总和应用过程中存在问题，及时向省级数据管理员反映。<br><br>    请各省、自治区、直辖市、计划单列市及新疆生产建设兵团农业行政主管部门组织开展一次数据管理工作自查活动，对各项目县测土配方施肥数据采集、输入、分析、汇总和应用情况进行调查摸底，并于7月5日前将自查情况报我部测土配方施肥工作办公室。<br><br>    联系人：王雁峰（电话: 64193349，传真：64193347，电子邮箱：cetushifei@agri.gov.cn）、任意（电话：64194504，传真：64194730，电子信箱：renyi@agri.gov.cn）。<br><br>                        二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

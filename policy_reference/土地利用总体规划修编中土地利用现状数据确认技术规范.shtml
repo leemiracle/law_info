@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国土资源部<BR>&nbsp;&nbsp;【发布文号】国土资厅发[2005]95号<BR>&nbsp;&nbsp;【发布日期】2005-08-05<BR>&nbsp;&nbsp;【生效日期】2005-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mlr.gov.cn/pub/gtzyb/zwgk/ggtg/t20050829_69685.htm" target=_blank>国土资源部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>土地利用总体规划修编中土地利用现状数据确认技术规范<br><br></font>(国土资厅发[2005]95号)</p><br><br><br>各省、自治区、直辖市国土资源厅（国土环境资源厅、国土资源局、国土资源和房屋管理局、房屋土地资源管理局、规划和国土资源局），计划单列市国土资源行政主管部门，新疆生产建设兵团国土资源局，解放军土地资源局：<br><br>    土地利用现状数据是土地利用总体规划修编的重要基础，是科学制定规划的前提与依据。为加强、规范土地利用现状数据的确认工作，确保土地利用现状数据客观真实，各省（自治区、直辖市）国土资源管理部门应加强对地籍工作的领导，认真做好土地利用现状数据的审查与上报工作。现将《土地利用总体规划修编中土地利用现状数据确认技术规范》（以下简称《技术规范》）印发给你们，请遵照执行。<br><br>    各地要严格按照《技术规范》要求，认真组织，科学、规范地开展土地利用现状数据的确认工作，并将《技术规范》执行中发现的问题及时报部。<br><br>二○○五年八月五日<br><br><br>土地利用总体规划修编中土地利用现状数据确认技术规范<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为确保土地利用总体规划修编采用的土地利用现状数据（以下简称“土地现状数据”）的权威性与准确性，特制定本规范。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> “土地现状数据”须严格按照本规范确认。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> “土地现状数据”一经确认不得擅自修改。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> “土地现状数据”的现状时点为2004年10月31 日（以下统称“统一时点”）。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> “土地现状数据”为“统一时点”的土地变更调查数据或土地利用更新调查数据。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 地、市级及以上单位的“土地现状数据”可部分县（市、区）采用土地变更调查数据，部分县（市、区）采用更新调查数据。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 采用土地利用更新调查数据作为“土地现状数据”的，更新成果必须如实反映“统一时点”的土地利用现状。时点前的更新调查数据需变更至“统一时点”；时点后的更新调查数据需扣减2004年以后的土地利用变化流量，还原至“统一时点”。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 对“土地现状数据”实行国家和省两级确认。<br><br>    国家级确认主要包括各省、自治区、直辖市以及各省、自治区人民政府所在地的市、五十万以上人口的城市以及国务院指定城市的“土地现状数据”确认工作。国家级确认之外的“土地现状数据”，由省级国土资源管理部门组织确认。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 国家级确认的“土地现状数据”须由省级国土资源管理部门审查通过后，向国土资源部申请，部地籍司会同有关部门审查，经部领导批准后确认。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 申请“土地现状数据”国家级确认需提交的材料：<br><br>    （一）申请材料目录；<br><br>    （二）“土地现状数据”确认专题报告。主要包括数据来源，更新年度、变更或更新调查工作情况，更新调查与当年变更调查的数据差异、原因分析和衔接办法，更新调查成果转换到“统一时点”的情况等；<br><br>    （三）土地利用数据库，航空航天遥感影像数据；<br><br>    （四）拟采用“土地现状数据”分类面积表（见附表,附电子文档）；<br><br>    （五）省级国土资源管理部门的审查意见；<br><br>    （六）更新调查验收意见；<br><br>    （七）其他需补充的材料。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 申请单位行政区域调整的，需提供批准文件、说明调整情况，并对调整前后的数据进行对比分析。经省级审查后，将有关说明、分析材料及调整前后的数据一并报部。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> “土地现状数据”省级确认所需申请材料由各省级国土资源管理部门参照本规定第十条、第十一条确定。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> “土地现状数据”审查的内容：<br><br>    （一）要件是否齐全，是否符合本规范第十条的要求；<br><br>    （二）材料内容是否翔实、准确，数据报表、电子文档格式是否正确且内容与书面材料一致；<br><br>    （三）拟采用的“土地现状数据”是否符合本规范第六条、第七条规定；<br><br>    （四）更新调查数据与变更调查数据对比，差异的流量变化是否合理，原因分析是否客观，数据衔接是否科学。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 对符合要求的“土地现状数据”确认申请，应在一个月内做出书面确认；未通过的，应及时提出修改完善的意见，通知申请单位。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 本规范自2005年9月1日起执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

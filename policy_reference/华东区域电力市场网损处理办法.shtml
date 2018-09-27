@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家电力监管委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2004-05-09<BR>&nbsp;&nbsp;【生效日期】2004-05-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.serc.gov.cn/djh/details.jsp?content_id=179" target=_blank>国家电力监管委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>华东区域电力市场网损处理办法</font></p><br><br><br>    1 总则<br><br>    1.1总则<br><br>    根据华东区域电力市场原则，网损将以网损因子的形式，作为体现各市场主体在电网中位置不同的影响的因素，在市场竞价排序和结算过程中作为附加因子考虑。<br><br>    1.2	适用范围<br><br>    本办法及根据本办法颁布的网损因子适用于华东区域电力市场区域竞价市场范围，原统配计划、区外来电、双边交易等市场行为的网损处理暂不属本网损处理办法管理范围。<br><br>    1.3 各方职责<br><br>    1.3.1 华东调度交易中心负责网损技术细则和管理细则的制定以及网损因子计算条件的确定、网损因子计算和发布等网损相关具体工作的实施；<br><br>    1.3.2各省市调度交易运行机构在华东调度交易中心领导下负责本省市电网范围内的网损计算相关配合工作的实施。<br><br>    1.4 本办法最终解释权属华东调度交易中心。<br><br>    2 技术细则<br><br>    2.1 网损计算方法总原则<br><br>    华东区域电力市场网损计算方法选择以国内外通用、技术成熟、原理合理、物理意义明确、计算操作简单、监督检查方便为总原则。<br><br>    2.2 网损计算方法总述<br><br>    华东区域电力市场网损计算方法采用通用的网损微增率方法原则。为体现网损结果适用期内电网结构以及运行方式变化的影响，在计算中选择网损结果适用期内可能出现的多个典型运行方式计算网损因子，以其加权平均值，即综合网损因子作为网损因子最终结果。<br><br>    2.3 网损因子定义<br><br>    2.3.1 参与区域电力市场竞价的第 机组对全网的网损系数（ ）定义为以全网参考点为参考，该机组并网参考点增加单位出力造成的全网增加的网损量；<br><br>    2.3.2 参与区域电力市场竞价的第 机组对全网的网损因子（GLFi）定义为：GLFi＝1－ ；<br><br>    2.3.3 参与区域电力市场购电的第 省市对全网的网损系数（ ）定义为以全网参考点为参考，该省市参考点增加单位出力造成的全网增加的网损量；<br><br>    2.3.4参与区域电力市场竞价的第 省市对全网的网损因子（RLFj）定义为：RLFj＝1－ ；<br><br>    2.3.5参与区域电力市场竞价的第 机组对第 省市的网损因子（PLFi）定义为：PLFi＝GLFi / RLFj；<br><br>    2.4 综合网损因子处理<br><br>    2.4.1综合网损因子定义为选择网损结果适用期内可能出现的多个典型运行方式计算得到的网损因子的加权平均值；<br><br>    2.4.2 综合网损因子计算以网损因子GLFi 、RLFj作为原始数据；<br><br>    2.4.3 综合网损因子计算时，对各典型方式下的网损因子进行加权平均应考虑各方式出现时间概率，如原则上高峰和低谷方式下计算得到的网损因子权重比例按照高峰和低谷时间比例；<br><br>    2.4.4综合网损因子计算结果为第 机组对全网综合网损因子GLFi、第 省市参考点对全网综合网损因子RLFj和第 机组对第 省市的综合网损因子PLFi。<br><br>    2.5 网损计算初始条件选择原则<br><br>    2.5.1 全网参考点以优先选择全网网络拓扑中心和潮流交换中心枢纽变电站500kV侧为原则；<br><br>    2.5.2各省市参考点应在省市接入华东主网的省际交换500kV变电站中选择，在选择时应优先选择省际联络线较多或潮流交换枢纽变电站；<br><br>    2.5.3 典型方式的选择以尽可能选择适用期内可能出现典型运行方式为原则，选择时必须包括高峰和低谷方式，若适用期内发生电网结构重大变化，则应包括变化发生前后运行方式；<br><br>    2.5.4根据通用的网损微增率法对负网损的处理办法，在进行各综合网损因子计算时对GLFi、PLFi、RLFj中大于1.0的取1.0处理。<br><br>    2.6 网损因子的使用<br><br>    2.6.1 在市场机组竞价排序时，使用机组对全网综合网损因子GLFi对机组报价进行修正；<br><br>    2.6.2在华东和省市进行结算时，使用该省市参考点对全网综合网损因子RLFj进行修正；<br><br>    2.6.3省市电网和接入该省市电网的机组进行结算时，使用机组对省市的综合网损因子PLFi进行修正。<br><br>    3 管理细则<br><br>    3.1 网损因子计算流程<br><br>    3.1.1 网损因子计算发布原则上按年度进行；<br><br>    3.1.2 在每年12月第一周第一个工作日，由华东电力调度交易中心发布当年网损计算计算条件，包括次年全网及各省市电网参考点设置，选取的典型方式及各方式权重说明，并向各市场参与主体发布；<br><br>    3.1.3 每年12月第二周第一个工作日，各市场主体上报对当年网损计算条件的反馈；<br><br>    3.1.4 每年12月第四周第一个工作日，由华东电力调度交易中心发布次年网损因子结果；<br><br>    3.1.5 次年1月1日网损因子结果生效。<br><br>    3.2 华东电力调度交易中心负责网损因子计算条件及网损因子计算结果的发布。计算结果发布时包括：当年全网及各省市电网参考点设置，选取的典型方式及各方式权重说明，参与电力市场各机组对全网综合网损因子、各省市参考点对全网综合网损因子和机组对省市的综合网损因子。<br><br>    3.3 网损因子的修改<br><br>    3.3.1 网损结果一经生效原则上不得修正；<br><br>    3.3.2 市场主体可以启动争端解决机制要求对网损结果进行复核。<br><br>    3.4 监管机制<br><br>    3.4.1 华东区域电力市场网损计算和发布受华东电力市场监管机构监管；<br><br>    3.4.2 监管机构可以要求华东电力调度交易中心提供当年网损计算原始数据组织复核。<br><br>    3.4.3 省（市）参考点网损因子表及竞价机组网损因子表由华东电力调度交易中心在www.ecepm.com网站上公布。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

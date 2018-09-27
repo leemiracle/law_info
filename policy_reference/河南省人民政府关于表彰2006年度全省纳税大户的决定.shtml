@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河南省<BR>&nbsp;&nbsp;【发布文号】豫政 〔2007〕37号<BR>&nbsp;&nbsp;【发布日期】2007-04-28<BR>&nbsp;&nbsp;【生效日期】2007-04-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.henan.gov.cn/zwgk/system/2007/05/24/010031084.shtml" target=_blank>河南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府关于表彰2006年度全省纳税大户的决定<br>  <br></font>(豫政 〔2007〕37号)</p><br><br><br>    2006年是我省全面实施“十一五”规划、加快实现中原崛起的重要一年。全省广大企业深化改革,创新体制,企业规模日益壮大,经济效益不断提高,为税收的快速增长提供了物质基础,为全省经济社会发展做出了重要贡献。为鼓励对我省经济发展做出贡献的企业,进一步营造依法纳税的良好氛围,省政府决定对河南中烟工业公司等100名纳税大户予以表彰。<br><br>    希望受到表彰的纳税大户再接再厉,充分发挥依法纳税、诚信经营的示范带头作用,为促进中原崛起做出新的更大的贡献。<br><br>    附件:2006年度纳税大户名单<br><br>二○○七年四月二十八日<br><br><br>    附件<br><br>2006年度纳税大户名单<br>单位：万元<br> <br>序号 企业名称 入库税款 <br>1 河南中烟工业公司 679412 <br>2 河南省烟草公司 207000 <br>3 中国移动通信集团河南有限公司 155362 <br>4 平顶山煤业(集团）有限责任公司 127938 <br>5 安阳钢铁集团有限责任公司 126497 <br>6 中国石油化工股份有限公司中原油田分公司 105827 <br>7 中国石油化工股份有限公司河南油田分公司 89036 <br>8 中国石油化工股份有限公司洛阳分公司 67181 <br>9 平顶山天安煤业股份有限公司 53737 <br>10 永城煤电集团有限责任公司 53403 <br>11 义马煤业集团有限责任公司 52143 <br>12 漯河双汇集团 51957 <br>13 郑州煤炭工业集团有限责任公司 48336 <br>14 舞阳钢铁有限责任公司 44604 <br><br><br><br><br>序号 企业名称 入库税款 <br>15 洛阳栾川钼业集团股份有限公司 44257 <br>16 河南高速公路发展有限责任公司 44127 <br>17 中国石化中原油气高新股份有限公司 41556 <br>18 郑州宇通客车股份有限公司 35074 <br>19 神火集团有限责任公司 34007 <br>20 河南省电力公司郑州供电公司 29771 <br>21 安阳钢铁股份有限公司 29575 <br>22 风神轮胎股份有限公司 26939 <br>23 河南中原高速公路股份有限公司 26881 <br>24 河南豫光金铅集团有限责任公司 25107 <br>25 河南济源钢铁(集团）有限公司 21779 <br>26 郑州日产汽车有限公司 20419 <br>27 中国农业发展银行河南省分行 20286 <br>28 河南省电力公司 20170 <br>29 平顶山姚孟发电有限责任公司 18712 <br>30 河南省电力公司洛阳供电公司 18261 <br>31 中国一拖集团有限公司 17970 <br>32 河南省电力公司安阳供电公司 16529 <br>33 河南新飞电器有限公司 16242 <br><br> <br> <br>序号 企业名称 入库税款 <br>34 中国铝业股份有限公司矿业分公司 15855 <br>35 中国石化集团中原石油勘探局(中原油田） 15835 <br>36 河南省建设投资总公司 14865 <br>37 大唐洛阳首阳山发电厂 14814 <br>38 河南安彩集团有限责任公司 14758 <br>39 焦作万方铝业股份有限公司 14684 <br>40 鹤壁煤电股份有限公司 14228 <br>41 中国石油化工股份有限公司河南石油分公司 13841 <br>42 新乡化纤股份有限公司 12774 <br>43 南阳鸭河口发电有限责任公司 12533 <br>44 许昌龙岗发电有限责任公司 12236 <br>45 中国石化中原石油化工有限责任公司 12072 <br>46 河南省电力公司南阳供电公司 11922 <br>47 中信重型机械公司 11650 <br>48 三门峡华阳发电有限责任公司 11528 <br>49 上海浦东发展银行郑州分行 11468 <br>50 义马煤业(集团）有限责任公司 11354 <br>51 河南省电力公司平顶山供电公司 11264 <br>52 灵宝黄金股份有限公司 10891 <br><br><br><br><br>序号 企业名称 入库税款 <br>53 华润电力登封有限公司 9947 <br>54 河南黄河旋风股份有限公司 9930 <br>55 河南省电力公司新乡供电公司 9846 <br>56 济源市金马焦化有限公司 9420 <br>57 大唐安阳发电有限责任公司 8919 <br>58 灵宝市金源矿业有限责任公司 8513 <br>59 鹤壁煤业(集团）有限责任公司 8503 <br>60 中国网通(集团）有限公司郑州市分公司 6313 <br>61 中国南方航空股份有限公司河南分公司 6191 <br>62 河南电视台 5738 <br>63 河南鑫苑置业有限公司 5133 <br>64 郑州煤矿机械集团有限责任公司 4847 <br>65 河南华诚房地产开发公司 4676 <br>66 河南省许平南高速公路有限责任公司 4674 <br>67 郑州商品交易所 4624 <br>68 昊华宇航化工有限责任公司 4406 <br>69 桐柏安棚碱矿有限责任公司 4208 <br>70 河南省许昌新龙矿业有限责任公司 4189 <br>71 河南省交通规划勘察设计院 4024 <br><br><br><br><br>序号 企业名称 入库税款 <br>72 河南万象通信有限公司 3926 <br>73 河南金博大购物中心有限公司 3917 <br>74 登封市金丰工贸有限责任公司 3819 <br>75 郑州市振兴房地产开发有限公司 3756 <br>76 河南兴业房地产开发有限公司 3732 <br>77 河南扶项高速公路有限公司 3644 <br>78 郑州金汇房地产开发有限公司 3620 <br>79 郑州新长城房地产有限公司 3592 <br>80 郑州市商业银行股份有限公司 3565 <br>81 河南省中原大化集团有限责任公司 3511 <br>82 安钢集团国际贸易有限责任公司 3452 <br>83 新乡白鹭化纤集团有限责任公司 3429 <br>84 河南正商置业有限公司 3390 <br>85 河南省新华书店 3343 <br>86 河南建业住宅建设有限公司 3240 <br>87 河南汉飞置业有限公司 3237 <br>88 中国银行股份有限公司河南省分行 3158 <br>89 洛阳市商业银行股份有限公司 3139 <br>90 河南日报报业(集团）有限公司 3117 <br><br><br><br><br>序号 企业名称 入库税款 <br>91 郑州交通运输集团公司 3112 <br>92 河南出版集团 2925 <br>93 禹州中锋云盖山煤业有限责任公司 2912 <br>94 河南省电力勘测设计院 2811 <br>95 河南老街坊置业有限公司 2742 <br>96 河南移动通信有限责任公司商丘分公司 2697 <br>97 河南省烟草公司襄城县公司 2676 <br>98 河南省烟草公司郏县公司 2591 <br>99 郑州中义置业有限公司 2590 <br>100 栾川县三强钼钨有限公司 2560 <br> 合计 2836971 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

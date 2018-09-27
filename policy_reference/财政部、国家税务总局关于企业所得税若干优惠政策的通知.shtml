@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、国家税务总局<BR>&nbsp;&nbsp;【发布文号】财税[2008]1号<BR>&nbsp;&nbsp;【发布日期】2008-02-22<BR>&nbsp;&nbsp;【生效日期】2008-02-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7634440.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、国家税务总局关于企业所得税若干优惠政策的通知<br><br></font>(财税[2008]1号)</p><br><br><br>各省、自治区、直辖市，计划单列市财政厅（局）、国家税务局、地方税务局，新疆生产建设兵团财务局：<br>     根据《中华人民共和国企业所得税法》第三十六条的规定，经国务院批准，现将有关企业所得税优惠政策问题通知如下：<br>    一、关于鼓励软件产业和集成电路产业发展的优惠政策<br>    （一）软件生产企业实行增值税即征即退政策所退还的税款，由企业用于研究开发软件产品和扩大再生产，不作为企业所得税应税收入，不予征收企业所得税。<br>    （二）我国境内新办软件生产企业经认定后，自获利年度起，第一年和第二年免征企业所得税，第三年至第五年减半征收企业所得税。<br>    （三）国家规划布局内的重点软件生产企业，如当年未享受免税优惠的，减按10％的税率征收企业所得税。<br>    （四）软件生产企业的职工培训费用，可按实际发生额在计算应纳税所得额时扣除。<br>    （五）企事业单位购进软件，凡符合固定资产或无形资产确认条件的，可以按照固定资产或无形资产进行核算，经主管税务机关核准，其折旧或摊销年限可以适当缩短，最短可为2年。<br>    （六）集成电路设计企业视同软件企业，享受上述软件企业的有关企业所得税政策。<br>    （七）集成电路生产企业的生产性设备，经主管税务机关核准，其折旧年限可以适当缩短，最短可为3年。<br>    （八）投资额超过80亿元人民币或集成电路线宽小于0.25um的集成电路生产企业，可以减按15％的税率缴纳企业所得税，其中，经营期在15年以上的，从开始获利的年度起，第一年至第五年免征企业所得税，第六年至第十年减半征收企业所得税。<br>    （九）对生产线宽小于0.8微米（含）集成电路产品的生产企业，经认定后，自获利年度起，第一年和第二年免征企业所得税，第三年至第五年减半征收企业所得税。<br>    已经享受自获利年度起企业所得税“两免三减半”政策的企业，不再重复执行本条规定。<br>    （十）自2008年1月1日起至2010年底，对集成电路生产企业、封装企业的投资者，以其取得的缴纳企业所得税后的利润，直接投资于本企业增加注册资本，或作为资本投资开办其他集成电路生产企业、封装企业，经营期不少于5年的，按40％的比例退还其再投资部分已缴纳的企业所得税税款。再投资不满5年撤出该项投资的，追缴已退的企业所得税税款，<br>    自2008年1月1日起至2010年底，对国内外经济组织作为投资者，以其在境内取得的缴纳企业所得税后的利润，作为资本投资于西部地区开办集成电路生产企业、封装企业或软件产品生产企业，经营期不少于5年的，按80％的比例退还其再投资部分已缴纳的企业所得税税款。再投资不满5年撤出该项投资的，追缴已退的企业所得税税款。<br>    二、关于鼓励证券投资基金发展的优惠政策<br>    （一）对证券投资基金从证券市场中取得的收入，包括买卖股票、债券的差价收入，股权的股息、红利收入，债券的利息收入及其他收入，暂不征收企业所得税。<br>    （二）对投资者从证券投资基金分配中取得的收入，暂不征收企业所得税。<br>    （三）对证券投资基金管理人运用基金买卖股票、债券的差价收入，暂不征收企业所得税。<br>    三、关于其他有关行业、企业的优惠政策<br>    为保证部分行业、企业税收优惠政策执行的连续性，对原有关就业再就业，奥运会和世博会，社会公益，债转股、清产核资、重组、改制、转制等企业改革，涉农和国家储备，其他单项优惠政策共6类定期企业所得税优惠政策（见附件），自2008年1月1日起，继续按原优惠政策规定的办法和时间执行到期。<br>    四、关于外国投资者从外商投资企业取得利润的优惠政策<br>    2008年1月1日之前外商投资企业形成的累积未分配利润，在2008年以后分配给外国投资者的，免征企业所得税；2008年及以后年度外商投资企业新增利润分配给外国投资者的，依法缴纳企业所得税。<br>    五、除《中华人民共和国企业所得税法》、《中华人民共和国企业所得税法实施条例》、《国务院关于实施企业所得税过渡优惠政策的通知》（国发[2007]39号），《国务院关于经济特区和上海浦东新区新设立高新技术企业实行过渡性税收优惠的通知》（国发[2007]40号）及本通知规定的优惠政策以外，2008年1月1日之前实施的其他企业所得税优惠政策一律废止。各地区、各部门一律不得越权制定企业所得税的优惠政策。  <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

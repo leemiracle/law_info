@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家卫生和计划生育委员会办公厅<BR>&nbsp;&nbsp;【发布文号】国卫办医发〔2014〕30号<BR>&nbsp;&nbsp;【发布日期】2014-04-25<BR>&nbsp;&nbsp;【生效日期】2014-04-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nhfpc.gov.cn/yzygj/s3585/201405/32d64498e017465b9c497ce904658747.shtml" target=_blank>国家卫生和计划生育委员会办公厅 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>国家卫生计生委办公厅关于进一步加强医院感染暴发信息报告工作的通知</strong></p>
+<p style="text-align: center;"><strong>国卫办医发〔2014〕30号</strong></p>
+<p><br />各省、自治区、直辖市卫生计生委（卫生厅局），新疆生产建设兵团卫生局： <br />&nbsp;&nbsp;&nbsp; 依照《医院感染暴发报告及处置管理规范》（卫医政发〔2009〕73号）（以下简称《规范》），我委启用了全国医院感染暴发信息报告系统（以下简称报告系统），在医院感染暴发信息化管理方面积累了一定经验，但也存在认识不到位、报告质量不高、沟通不及时等问题。现就进一步加强医院感染暴发信息报告工作通知如下。 <br />&nbsp;&nbsp;&nbsp; 一、加强医院感染暴发报告和处置工作组织领导 <br />&nbsp;&nbsp;&nbsp; 各级卫生计生行政部门要高度重视，建立沟通协调机制，把医院感染暴发报告和处置作为持续改进医院感染管理的重要手段。医疗机构要充分认识医院感染暴发信息报告在及时控制医院感染暴发事件和全面掌握医院感染暴发客观规律等方面的重要作用，按照《规范》要求履行信息报送义务。发生医院感染暴发而未报告的，医疗机构按照规定承担相应责任。 <br />&nbsp;&nbsp;&nbsp; 二、严格把握医院感染暴发信息报告标准 <br />&nbsp;&nbsp;&nbsp; 各级各类医疗机构应当认真理解和掌握医院感染暴发和疑似医院感染暴发标准，准确辨识医院感染暴发的严重程度，严格按照《规范》要求报告当地县级卫生计生行政部门。当医疗机构无法确诊医院感染暴发，怀疑疑似医院感染暴发的，应当主动联系当地县级卫生计生行政部门，在当地县级卫生计生行政部门指导下开展调查，按照《规范》要求上报。发生特殊病原体、新发病原体和可能造成重大公共影响或者严重后果的医院感染，医疗机构要严格按照《规范》规定时限要求上报当地县级卫生计生行政部门。 <br />&nbsp;&nbsp;&nbsp; 三、规范报告系统运行管理 <br />&nbsp;&nbsp;&nbsp; 各级卫生计生行政部门和医疗机构要按照《关于统一使用医院感染暴发信息报告系统的通知》（卫办医政函〔2011〕815号）要求完成用户登录和信息维护等工作。医疗机构负责在线填报、修改《医院感染暴发调查报告表》（见报告系统网站），查看审核结果等。各级卫生计生行政部门按照县级&mdash;地市级&mdash;省级的顺序逐级审核《医院感染暴发调查报告表》，并对审核结果负责。经过调查发现不属于医院感染暴发的，应当在报告系统上标记&ldquo;审核未通过&rdquo;；确定属于医院感染暴发，并且本级卫生计生行政部门按照《规范》要求已经调查处置完毕的，应当在报告系统上标记&ldquo;完成&rdquo;；本级卫生计生行政部门无法确定是否医院感染暴发，或是已经确认为医院感染暴发，需要按照《规范》规定继续上报的，应当在报告系统上标记&ldquo;审核通过&rdquo;。省级卫生计生行政部门负责确认本辖区内的报告并开展相应处置。我委负责对全国医院感染暴发报告情况进行指导，根据实际需要组织有关专家提供技术支持。 <br />&nbsp;&nbsp;&nbsp; 四、加强报告系统数据质量控制 <br />&nbsp;&nbsp;&nbsp; 各省级卫生计生行政部门要充分发挥省级医院感染管理质量控制中心的专业作用，指导医疗机构建立完善相关报告制度和处置程序，加强医院感染暴发报告数据质量控制，提高医院感染暴发管理能力，对报送及时、数据质量高的医疗机构要予以鼓励。2014年起，我委将委托相关机构动态分析数据质量，以省级区域为单位进行数据横向比较，以季度为周期进行纵向比较，形成全国医院感染信息报告数据质量标杆值。报告系统将以部分省级医院感染监测系统2013年监测到的医院感染暴发情况作为比较基准值。 <br />&nbsp;&nbsp;&nbsp; 五、加强报告系统信息分析利用 <br />&nbsp;&nbsp;&nbsp; 各省级卫生计生行政部门和省级医院感染管理质量控制中心要建立医院感染暴发信息报告分析、利用和反馈机制，指导医疗机构采取有效防控措施，总结医院感染暴发预警与应急处置等方面的工作经验，每年形成书面报告报送我委。我委将委托相关机构通过报告系统运行数据的大样本统计分析，定期发布医院感染暴发的人群特点、季节分布趋势、易发感染部位和常见病原体等规律性信息和应对原则等，指导各地持续改进医院感染管理工作。 <br />请已经建立省级医院感染监测系统的省（区、市）（见附件1）总结2013年1-4季度本级系统监测到的医院感染暴发情况，逐季度填写《2013年医院感染暴发报告情况调查表》，于2014年5月20日前以电子邮件形式报送我委医政医管局（表格和联系方式见附件2）。</p>
+<p>&nbsp;</p>
+<p>附件：1.建立有省级医院感染监测系统的省（区、市）名单.doc<br /><a href="http://www.nhfpc.gov.cn/ewebeditor/uploadfile/2014/05/20140513162722487.doc">http://www.nhfpc.gov.cn/ewebeditor/uploadfile/2014/05/20140513162722487.doc</a> <br />2.2013年医院感染暴发报告情况调查表.doc<br /><a href="http://www.nhfpc.gov.cn/ewebeditor/uploadfile/2014/05/20140513162738246.doc">http://www.nhfpc.gov.cn/ewebeditor/uploadfile/2014/05/20140513162738246.doc</a></p>
+<p style="text-align: right;"><br />国家卫生计生委办公厅</p>
+<p style="text-align: right;">2014年4月25日</p>
+<p style="text-align: right;">&nbsp;</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

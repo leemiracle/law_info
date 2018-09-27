@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局、国家煤矿安全监察局、国土资源部<BR>&nbsp;&nbsp;【发布文号】安监总煤矿〔2005〕171号<BR>&nbsp;&nbsp;【发布日期】2005-11-14<BR>&nbsp;&nbsp;【生效日期】2005-11-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2005-11/18/content_146496.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局、国家煤矿安全监察局、国土资源部关于办理煤矿安全生产许可证有关问题的通知<br><br></font>(安监总煤矿〔2005〕171号)</p><br><br><br>各产煤省、自治区、直辖市国土资源厅（局），各省级煤矿安全监察机构： <br><br>    自《煤矿企业安全生产许可证实施办法》（原国家安全生产监督管理局〈国家煤矿安全监察局〉令第8号）实施以来，特别是《国务院关于预防煤矿生产安全事故的特别规定》（国务院令第446号，以下简称《特别规定》）、《国务院关于全面整顿和规范矿产资源开发秩序的通知》（国发〔2005〕28号）和《国务院办公厅关于坚决整顿关闭不具备安全生产条件和非法煤矿的紧急通知》（国办发明电〔2005〕21号）下发后，各级煤矿安全生产许可证颁发管理机关严格颁证标准、加大颁证工作力度，并联合国土资源主管部门、煤矿安全监管等部门坚决停产整顿不具备安全生产条件的煤矿、关闭非法煤矿，促使煤矿企业进一步提高安全生产设施和条件。 <br><br>    针对办理煤矿安全生产许可证的过程中存在煤矿安全生产许可证和采矿许可证有效期不一致的问题，经研究，现就有关情况通知如下： <br><br>    一、对采矿许可证过期或到期的煤矿，一律不予受理煤矿安全生产许可证申请；对已经颁发煤矿安全生产许可证的矿井，采矿许可证过期或到期的，由颁证机关一律暂扣煤矿安全生产许可证，并责令停止生产，直到取得全部证照为止。 <br><br>    二、对采矿许可证过期的煤矿，安全生产许可证颁发机关不得凭国土资源部门出具的正在办理采矿许可证延续手续的函受理煤矿安全生产许可证的申请；对已经凭国土资源主管部门出具办理采矿许可证延续手续的函受理安全生产许可证的申请，煤矿企业在40个工作日内如不能重新取得采矿许可证，安全生产许可证颁证机关一律退回其申请，并不允许其从事生产活动。 <br><br>    三、各级颁证机关应严格按照办理时限要求，按时完成煤矿安全生产许可证和采矿许可证的延续审核颁证工作；对已提出延续申请或者已经受理但未能在规定的时间内取得煤矿安全生产许可证和采矿许可证实施开采的矿井一律下达停产指令，不允许其从事生产。 <br><br>    四、持勘查许可证的矿井应严格按照许可的范围进行探矿作业，严禁以采代探进行建井施工或生产作业。 <br><br>    五、违反上述规定擅自从事生产的，属非法煤矿，按照《特别规定》坚决予以关闭。<br><br>二○○五年十一月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

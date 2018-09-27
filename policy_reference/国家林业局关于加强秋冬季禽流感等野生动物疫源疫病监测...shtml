@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家林业局<BR>&nbsp;&nbsp;【发布文号】林发明电〔2007〕47号<BR>&nbsp;&nbsp;【发布日期】2007-10-12<BR>&nbsp;&nbsp;【生效日期】2007-10-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://govfile.beijing.gov.cn/Govfile/front/content/22007066_0.html" target=_blank>北京市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家林业局关于加强秋冬季禽流感等野生动物疫源疫病监测防控工作的通知<br><br></font>(林发明电〔2007〕47号)</p><br><br><br>各省、自治区、直辖市林业厅（局），内蒙古、吉林、龙江、大兴安岭森工（林业）集团公司，新疆生产建设兵团林业局：<br>    野生动物疫源疫病监测防控是林业部门的一项重要法定职责，关系到公共卫生安全、生态建设和经济发展等诸多领域。为履行好这一职责，各地林业主管部门按照党中央、国务院关于加强动物防疫指示精神，克服困难，创造条件，在野生动物集中分布区、候鸟迁飞停歇地、越冬地、繁殖地等重要区域，迅速建立起野生动物疫源疫病监测体系，积极主动开展监测，对出现的疫情反应迅速，严密封控，有效防范了候鸟禽流感等重大野生动物疫情的蔓延和扩散，成效十分显著。<br>    但应该看到，当前我国局部地区野生动物疫源疫病监测防控形势仍较为严峻。西藏阿里、四川德格、内蒙古鄂尔多斯相继发生小反刍兽疫、旱獭鼠疫和野生鸟类禽霍乱疫情。我国毗邻的一些国家和地区发生的高致病性禽流感疫情仍在蔓延。特别是随着迁徙季节的到来，候鸟开始大规模集群、长距离迁飞，存在携带、传播禽流感等疫病的潜在风险，监测防控任务十分繁重。针对上述形势，为切实加强秋冬季候鸟禽流感等野生动物疫源疫病监测防控，现将有关要求通知如下：<br>    一、高度重视，加强领导。禽流感等野生动物疫源疫病监测防控是一项长期、艰巨的工作，关系到公共卫生安全、生态建设和经济发展等诸多领域，责任重大。各级林业主管部门对此要切实提高认识，予以高度重视，进一步强化疫情防控大局意识、风险意识和责任意识，防范松懈情绪。在当前候鸟开始大规模迁飞、发生野生动物疫病的潜在风险仍然存在的情况下，尤其不能掉以轻心，要以临战姿态立即研究部署秋冬季监测防控工作，切实加强组织领导，逐级落实责任人，确定重点监测区域、巡查路线，并在人员、物资等方面予以充分保障，确保措施落实、工作规范、行动高效；还要及时向当地政府报告工作情况，加强与动物防疫、卫生等部门的沟通协调，在当地政府的领导下，形成合力，共同维护防疫工作大局。<br>    二、启动信息日报制度，做好应急处置准备。自本通知下发之日起，各地须立即组织人员全面到岗到位，严格按《陆生野生动物疫源疫病监测规范》有关要求监测候鸟等野生动物种群动态，启动监测信息日报制度，并进一步完善突发野生动物疫情应急预案，加强消毒药剂、安全防护装备等应急物质储备，积极开展疫情应急演练，提高快速反应能力。监测过程中，一旦发现野生动物异常死亡等情况，各级监测站点须按规定及时上报，并同步做好死亡动物报检、现场消毒、封锁隔离和尸体无害化处理等工作，有效预防潜在疫病的扩散或蔓延。对发现的野生动物异常动态等监测信息瞒报、缓报、谎报、不报等行为，或因前期封控措施不到位造成疫病扩散蔓延的，一经查实，按相关规定予以严肃处理。<br>    三、强化重点地区监控，积极排查疫情隐患。以往出现过野生动物疫病的局部区域，所在地林业部门要进一步加强监控力量，巩固已取得的成果；其他区域要根据本区域候鸟等野生动物活动规律，将野生动物集群活动区和候鸟迁飞停歇地、越冬地等确定为重点监控区域，预先开展一次全面排查，找出疫情隐患，尽可能将潜在的疫情扑灭在萌芽状态。<br>    四、加强野生动物保护管理，防范疫病传播。非法猎捕、经营野生动物不仅破坏野生动物资源、危及生态平衡，还是野生动物疫源疫病扩散的一大渠道。对此，各级林业部门要强化野生动物保护管理与野生动物疫源疫病监测有机结合起来，保护好野生动物栖息地，严格制止畜禽、无关人员进入上述区域与野生动物直接接触或从事其他干扰活动。特别是对本区域可能存在的非法猎捕、经营野生动物的情况和趋势，要会同工商、公安等部门进行调查摸底，有针对性开展联合执法活动，对情况严重的还应组织区域性专项执法打击行动，遏制非法来源的野生动物及其产品流入市场，阻断疫病扩散途径。<br>    五、加强宣传工作，提高防范能力。争取广大群众支持和参与，是壮大监测防控力量最有效的措施之一。为此，各地要充分利用电视、报刊、网络等媒体，结合发放宣传册、宣传画、宣传单和举办科普讲座等形式，广泛开展野生动物保护法律法规和禽流感等疫病防控知识的宣传，使全社会更广泛、深入了解林业部门承担的野生动物疫源疫病监测职责及其重要性，使其认识到这一工作与自身的密切关系，从而自觉参与到监测防控工作中来。同时，各地要公布野生动物异常情况信息电话，拓展信息收集渠道，形成野生动物疫源疫病群防群控的良好氛围。<br>    六、加强科学研究，提升监测防控水平。为提高野生动物疫源疫病监测效能，在监测科研方面要根据现阶段工作中本底不清、宿主不明、技术落后等薄弱环节，整合力量，组织多学科联合攻关，争取在较短时期内对疫病多发区开展重大野生动物疫病摸底调查，查找出重大疫病的宿主野生动物，为有针对性采取监控措施提供科学依据，并争取在监测技术方面有所突破，提出并推广一批实用、高效的监测技术或设备，促使我国野生动物疫源疫病监测防控总体技术水平走上新的台阶。<br>    特此通知。<br><br>                         国家林业局<br>                         二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

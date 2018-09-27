@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2007〕22号<BR>&nbsp;&nbsp;【发布日期】2007-02-26<BR>&nbsp;&nbsp;【生效日期】2007-02-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yghb/yg04/yg04c/200707/t26210.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于进一步推进和规范相对集中行政处罚权工作的通知<br><br></font>(鄂政办发〔2007〕22号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br>    为进一步贯彻落实《全面推进依法行政实施纲要》、《国务院关于进一步推进相对集中行政处罚权工作的决定》（国发〔2002〕17号），深化行政执法体制改革，推进和规范我省相对集中行政处罚权工作，经省人民政府同意，现就有关问题通知如下：<br>    一、充分认识推进相对集中行政处罚权工作的重要意义<br>    相对集中行政处罚权是《中华人民共和国行政处罚法》确立的一项重要制度，是对现行行政执法体制的重大改革，对于解决行政执法机构过多、行政执法权分散、部门职责交叉、重复处罚、执法扰民等问题，提高行政执法水平和效率，降低行政执法成本，建立权责明确、行为规范、监督有效、保障有力的行政执法体制，具有十分重要的意义。<br>    截至目前，我省经国务院和省人民政府批准实施相对集中行政处罚权工作的有武汉市、襄樊市、黄石市、宜昌市、仙桃市、谷城县及洪湖湿地自然保护区等地方。这些地方的实践证明，实行相对集中行政处罚权，可以将城市管理及其他行政管理领域的多支执法队伍合并为一支执法队伍，优化了执法资源，执法力量更为集中，执法力度得到加强，执法效率明显提高，有效地解决了过去多部门分散执法出现的执法推诿扯皮、有利的事争着管、无利的事都不管等问题，促进了行政执法关系的和谐，改善了当地经济社会发展环境。全省各地、各部门要从全面推进依法行政、建设法治政府的高度，充分认识实施相对集中处罚权的重要意义，切实加强组织领导，进一步推进和规范相对集中行政处罚权工作。已经开展相对集中行政处罚权工作的地方，要不断总结工作经验，加强制度建设，巩固成果。尚未开展相对集中行政处罚权工作的地方，要结合本地实际，尽快研究制订开展相对集中行政处罚权工作的实施方案，把此项工作进一步引向深入。<br>    二、开展相对集中行政处罚权的领域及报批程序<br>    目前主要是在城市管理领域开展相对集中行政处罚权工作，其范围主要包括：（一）市容环境卫生管理方面法律、法规、规章规定的行政处罚权，强制拆除不符合城市容貌标准、环境卫生标准的建筑物或者设施；（二）城市规划管理方面法律、法规、规章规定的全部或者部分行政处罚权；（三）城市绿化管理方面法律、法规、规章规定的行政处罚权；（四）市政管理方面法律、法规、规章规定的行政处罚权；（五）环境保护管理方面法律、法规、规章规定的部分行政处罚权；（六）工商行政管理方面法律、法规、规章规定的对无照商贩的行政处罚权；（七）公安交通管理方面法律、法规、规章规定的对侵占城市道路行为的行政处罚权；（八）省人民政府决定调整的城市管理领域的其他行政处罚权。其他行政管理领域需要开展相对集中行政处罚权的，经省人民政府批准也可以开展。<br>    按照国家有关规定，县级人民政府开展城市管理相对集中行政处罚权工作的，应向市、州人民政府提出，经市、州人民政府同意后报省人民政府审批；各市、州、直管市和神农架林区人民政府开展城市管理相对集中行政处罚权工作，直接报省人民政府审批。<br>    三、工作要求<br>    （一）各市、州、县人民政府应坚持“精简、统一、效能”的原则，在深化行政执法体制改革、避免多头执法和执法扰民的前提下，做好开展相对集中行政处罚权的基础性工作。拟开展相对集中行政处罚权的市、州、县人民政府应成立领导小组或者筹备机构，做好行政执法主体及有关执法活动现状的调查研究工作，分析存在的问题和原因，理清思路，明确开展相对集中行政处罚权工作的范围，制定工作方案。工作方案内容包括：（1）开展相对集中行政处罚权工作的必要性和可行性；（2）开展相对集中行政处罚权的职能范围和实施区域；（3）行使相对集中行政处罚权的机构设置、人员编制调整意见及经费保障措施；（4）行政执法队伍的组建意见；（5）其他事项。开展相对集中行政处罚权的工作方案应当征求同级党委和人大的意见，并经政府常务会议讨论通过并形成会议纪要。<br>    （二）各市、州、县人民政府开展相对集中行政处罚权工作，应在现有机构和人员编制数额内进行机构和人员设置调配，不得新增机构和人员编制。实施相对集中行政处罚权工作的机构必须是政府依法设立的一个独立的工作部门，其所需经费必须列入本级政府财政预算，由财政全额拨款，不得以收费、罚没收入作为经费来源；罚款、没收违法所得或者没收非法财物拍卖的款项，必须按照规定全额上缴国库。<br>    （三）工作方案批准后，实施相对集中行政处罚权的市、州、县人民政府应当制定开展相对集中行政处罚权实施方案。当地政府有关部门应当增强政治意识、大局意识和责任意识，积极支持和配合开展相对集中行政处罚权工作，不得以任何借口进行干预、阻挠。<br>    各地、各部门接本通知后，应按通知精神迅速开展相关工作。工作中有关情况和问题，请直接向省人民政府法制办公室报告。<br><br>湖北省人民政府办公厅<br>二○○七年二月二十六日<br> <br> <br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

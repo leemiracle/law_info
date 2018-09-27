@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】全国安全生产月活动组织组委会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-04-20<BR>&nbsp;&nbsp;【生效日期】2006-04-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/zhuantipindao/2006-04/26/content_163068.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>全国安全生产月活动组织组委会关于开展安全生产咨询服务活动的通知</font></p><br><br> <br>    各省、自治区、直辖市、计划单列市及新疆生产建设兵团安全生产监督管理局，国务院有关部门，中央管理有关企业： <br><br>    为使安全生产宣传教育活动深入企业，深入基层，更有针对性，更有实效，按照中共中央宣传部、国家安全生产监督管理总局、国家广播电影电视总局、中华全国总工会、共青团中央《关于开展2006年“全国安全生产月”活动的通知》（安监总政法[2006]39号）要求，全国安全生产月活动组委会决定：安全生产月期间在全国范围内统一组织开展安全生产咨询服务活动。现将有关事项通知如下： <br><br>    一、活动目的 <br><br>    大力宣传党和国家安全生产方针政策、法律法规和为加强安全生产所采取的重大举措，紧紧围绕“安全发展，国泰民安”这个主题，坚持重心下移，面向基层，贴近企业生产和群众生活的原则，针对当前中小企业和地方乡镇等基层单位安全生产法律法规意识淡薄，企业责任主体、岗位安全责任不落实，应急管理体系不完善等问题，通过组织咨询服务队到厂矿、社区、农村、学校等基层单位进行安全生产咨询服务活动，将安全法规、安全技术、安全管理和安全文化方面的咨询服务直接送到基层，强化管理、落实责任，找漏洞，出实招，帮助解决实际问题，推动企业、乡镇等基层单位安全生产各项工作落实到位，达到进一步强化基层、基础工作，实现安全生产长治久安的目标。 <br><br>    二、活动主题 <br><br>    安全发展，国泰民安。 <br><br>    三、活动时间 <br><br>    2006年6月期间。 <br><br>    四、具体要求 <br><br>    1．加强领导，周密组织，抓好落实。各地区、各部门要高度重视，切实加强对咨询服务活动组织工作的领导，把咨询服务活动作为“安全生产月”重点内容抓实抓好。要抓紧成立咨询服务活动组织机构并选派骨干力量具体负责活动的策划、组织和实施工作。要做好精心策划，广泛动员有关部门、直属企业、大中院校、中介组织以及地方各级政府积极参与和密切配合，落实责任，确保活动顺利开展。 <br><br>    2．围绕主题，突出重点，推动工作。各地区、各部门、各单位要按照全国安全生产月活动组委会统一部署，紧紧围绕“安全发展，国泰民安”这一主题，结合安全生产重点工作，本着有针对性地解决一两个本地区、本系统安全生产领域存在的突出问题，提出各自安全生产咨询服务队工作计划，组建咨询服务队，研究制定咨询服务活动方案，组织咨询服务队到所属基层单位创造性地开展形式多样的咨询服务活动。为形成全国联动态势，实现重心下移，进一步夯实安全生产基层、基础工作，要求每个县、地（市）、省（自治区、直辖市）根据组织能力和实际需要，分别组建1支、2支、3支咨询服务队；有关部门、中央管理企业根据实际需要，自行确定咨询服务队数量。 <br><br>    3．明确任务，深入基层，重在效果。 <br><br>    咨询服务队的主要任务是将安全法规、安全技术、安全管理和安全文化方面的咨询服务送到基层，推动企业、乡镇等基层单位安全生产各项工作落实到位。组织过程中要突出“服务”，不是搞安全检查；要多深入基层，多了解情况，多发现问题，才能找到问题的关键；要充分发挥专家的作用，有针对性地提出解决方案，求真务实，重在实效，不搞形式。 <br><br>    4．各省、自治区、直辖市、计划单列市，国务院有关部门和有关中央管理企业的“安全生产月”活动组织机构，在活动结束后要将本地区、本系统、本单位开展咨询服务队活动的总结材料，于7月10日前报送全国安全生产月活动组委会办公室。 <br><br>    5．定于5月12日在北京召开安全生产咨询服务活动组织工作会议，统一思想，部署任务，围绕组织工作进行相关培训，讨论、落实有关工作，发放有关资料。请各省、自治区、直辖市、计划单列市及新疆生产建设兵团，国务院有关部门，中央管理有关企业“安全生产月”活动组织工作负责人参加，并将参加会议人员回执单于5月10日前传真至全国安全生产月活动组委会办公室。（详见报到须知） <br><br>    联系电话（带传真）：010-64272836  64463640 <br><br>    联系人：袁丽慧  丁美荣 <br><br>    附件： <br><br>    1．安全生产咨询服务队活动方案 <br><br>    2．报到须知<br><br>    二○○六年四月二十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

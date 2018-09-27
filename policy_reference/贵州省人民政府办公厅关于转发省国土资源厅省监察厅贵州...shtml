@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发〔2007〕99号<BR>&nbsp;&nbsp;【发布日期】2007-09-21<BR>&nbsp;&nbsp;【生效日期】2007-09-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1521" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅关于转发省国土资源厅省监察厅贵州省土地执法百日行动实施方案的通知<br><br></font>(黔府办发〔2007〕99号)</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构：<br><br>        省国土资源厅、省监察厅《贵州省土地执法百日行动实施方案》已经省人民政府同意，现转发给你们，请认真贯彻执行。<br><br>                                                                贵州省人民政府办公厅<br>                                                               二○○七年九月二十一日<br><br><br>                                 贵州省土地执法百日行动实施方案<br>                                     省国土资源厅  省监察厅<br><br>        为保证国家土地法律法规和土地调控政策的有效实施，坚决惩处土地违法行为，国土资源部决定，集中100天时间开展土地执法行动。结合我省实际，制定本实施方案。<br>        一、主要任务<br>        通过土地执法百日行动，集中清理、查处2005年1月1日以来的“以租代征”、违反土地利用总体规划扩大工业用地规模、未批先用等土地违法违规行为。<br>        （一）“以租代征”行为的整治。“以租代征”是指违反土地利用总体规划和土地利用年度计划，规避农用地转用和土地征收审批，通过出租（承租）、承包等方式非法使用农民集体所有土地进行工商企业项目建设的土地违法违规行为。到2007年底，各地要对“以租代征”问题进行逐一清理，按照查处权限，依法依规严肃处理。对未依法办理农用地转用和土地征收审批，国家机关工作人员批准“以租代征”占地建设的，要追究其非法批地的法律责任；对单位和个人擅自通过“以租代征”占地建设的，要追究其非法占地的法律责任。<br>        （二）违反土地利用总体规划扩大工业用地规模行为的整治。重点查处现有已审核公告的开发区擅自突破国土资源部核定的四至范围，违反土地利用总体规划圈占土地的行为；查处以“工业集中区”等名义，违反土地利用总体规划圈占土地进行工业用地开发的行为。到2007年底，各地要全面清理开发区或以“工业集中区”等名义违反土地利用总体规划圈占土地的问题，对发现的问题分类进行处理，进一步规范开发区用地行为，巩固开发区清理整顿成果。在新一轮土地利用总体规划批准之前，各地一律不得在规划范围外以开发区、“工业集中区”、“产业集聚区”等各种名义非法调整规划。<br>    （三）“未批先用”行为的清理和整治。重点清查城市批次建设用地未依法办理建设用地审批手续，先行征地、供地、施工建设的违法违规行为。到2007年底，各地要查清本辖区内城市批次建设用地“未批先用”的建设项目，并依照查处权限予以处理；对单独选址建设项目未依法办理建设用地审批手续，擅自先行动工建设的行为，要查清事实，分析原因，明确责任，区分不同情况，分类提出处理意见。<br>        二、工作安排<br>        （一）自查清理阶段（9月15日至10月14日）。<br>        各级国土资源部门、监察机关要对此次重点整治的土地违法违规问题进行认真自查清理，充分利用我省近两年开展的土地违法违规问题检查和案件查处专项行动、卫片执法检查等工作中的基础清理成果，全面查清问题。<br>        （二）查处纠正阶段（10月15日至11月24日）。<br>        各级国土资源部门、监察机关要对清理出来的土地违法违规问题，按照查处权限，依照有关法律法规的规定查处到位。对清理出来的管理不规范问题，要采取措施，予以纠正。<br>        （三）督察整改阶段（11月25日至12月25日）。<br>        各级国土资源部门要针对清查各类土地违法违规案件中暴露出的管理问题，举一反三，制定以完善制度和程序，明确执法责任为重点的整改方案，针对本地实际，书面提出进一步改革和完善建设用地报批程序的意见或建议。各市（州、地）国土资源部门、监察机关要负责督察所属县（市、区）的土地违法违规问题查处、整改工作，检查率要达到百分之百。省国土资源厅、省监察厅将组成工作组，对自查清理、查处纠正工作以及第七次卫星图片检查中违法违规用地查处情况进行检查。<br>        三、工作要求和措施<br>        （一）加强领导，统一认识。成立贵州省土地执法百日行动领导小组，由省政府分管副省长任组长，省政府副秘书长、省国土资源厅厅长任副组长，省直有关部门负责人为领导小组成员，领导小组办公室设在省国土资源厅。各地、各部门要充分认识本次行动的重要性和紧迫性，按照行动实施方案要求，认真动员部署，建立相关工作机制，成立专门的工作班子，全面领导本辖区内的土地执法百日行动。<br>        （二）统筹兼顾，协同配合。2007年以来，省监察厅、省国土资源厅等有关厅局（委）按照国家有关部委的统一部署，组织开展了进一步查处土地违法违规案件专项行动、国有土地使用权出让情况专项清理、全国农村土地突出问题专项治理等专项工作。各级监察机关、国土资源部门要按照本次百日行动的部署和要求，统筹兼顾，积极开展相关工作，确保完成各项任务。百日行动中的重大问题，要及时向当地党委、政府汇报，特别是涉及本部门难以解决的问题，要主动提出建议，积极争取当地党委、政府的支持，要做好与有关部门的沟通协调工作，共同研究解决土地管理和土地执法中的关键问题。<br>        （三）依法查处，督促整改。各级国土资源部门、监察机关要严格依法依纪处理土地违法违规问题，严肃处理以罚代法、处罚不到位的行为。对涉嫌违法违规的国家机关工作人员要给予党纪政纪处分，涉及犯罪的要移送司法机关。对不认真组织查处的，省国土资源厅、省监察厅将直接立案查处，并追究有关责任人的责任。对土地违法违规问题严重的地区，实行问责，并限期整改，整改期间暂停该地区农用地转用和土地征收审批。整改达不到要求的，2008年的农用地转用计划指标将不予安排。<br>        （四）积极宣传，营造氛围。各级国土资源部门的宣传工作要以百日行动为重点，充分利用广播、电视、报刊、网络等媒体，大力宣传百日行动各阶段的整治成果和查处违法违规用地行为的进展情况，保持舆论的高压态势。要通过当地主要媒体曝光影响恶劣的典型案件，定期召开新闻发布会，通报百日行动的进展情况。在当地主要媒体上公布举报电话。通过声势浩大、卓有成效的宣传活动，大力宣传中央关于严格土地管理，坚决打击土地违法违规行为的坚定决心，牢固树立依法管地、依法用地的观念，营造良好的土地管理氛围。<br>        （五）建章立制，规范管理。各级国土资源部门要通过百日行动，认真总结土地管理的经验，针对土地管理和土地执法中存在的问题，立足于从管理上查找原因。各级国土资源部门和监察机关要共同研究完善工作协作机制，加大对土地违法违规责任人的移送力度。对制度不落实、管理不到位的，要研究落实措施。要进一步规范工作程序，促进依法行政和依规办事。<br>        （六）及时总结，报告情况。各级国土资源部门、监察机关要在每个阶段结束前（10月14日、11月24日、12月25日）将百日行动各阶段进展情况报告省土地执法百日行动领导小组办公室，重大情况随时报告。省国土资源厅、省监察厅将对百日行动组织开展情况、土地违法违规案件查处情况等予以通报。各市（州、地）国土资源部门、监察机关必须在2007年12月25日以前，共同向省国土资源厅、省监察厅上报本行政区域开展百日行动的工作总结和所有相关报表（报表由省国土资源厅另文制定下发）。各开发区（风景名胜区）纳入所在市（州、地）开展此项工作。各市（州、地）国土资源部门、监察机关要对所在地的开发区（风景名胜区）开展专项行动的工作进行统一部署。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2006〕52号<BR>&nbsp;&nbsp;【发布日期】2006-05-16<BR>&nbsp;&nbsp;【生效日期】2006-05-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_405/31424.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财产保险危险单位划分方法指引第1号：基本原则和基本方法<br><br></font>(保监发〔2006〕52号)</p><br>     <br><br>各财产保险公司、再保险公司，各保监局：<br><br>    为贯彻落实全保会精神，规范大型商业风险的承保行为，维护国内保险市场持续健康发展，我会对财产保险危险单位划分方法进行了研究论证。现将《财产保险危险单位划分方法指引第1号：基本原则和基本方法》、《财产保险危险单位划分方法指引第2号：水力发电企业》、《财产保险危险单位划分方法指引第3号：火力发电企业》、《财产保险危险单位划分方法指引第4号：航天风险》、《财产保险危险单位划分方法指引第5号：公路及桥梁》印发给你们，请遵照执行。<br><br>    本通知所发布的指引于2006年6月1日起正式实施。<br><br>                                        二○○六年五月十六日<br><br>     <br>财产保险危险单位划分方法指引第1号：基本原则和基本方法<br><br>    一、危险单位的定义<br><br>    “危险单位”是一次保险事故可能造成的最大损失范围（见《保险法》第一百条）。保险事故概率有着很大的不确定性，不同概率情景之下的最大可能损失有着很大的差别。保险公司一般将概率情景分为两类：普通保险事故和极端概率事故。普通保险事故与极端概率事故的区别主要在于两方面：一是发生概率，极端概率事故的发生概率要大大低于普通保险事故；二是损失范围，普通保险事故的损失范围通常限定在单一地点，极端概率事故（如高烈度地震、飓风、海啸等）则往往波及广大地域。我们通常所言的危险单位划分主要指普通保险事故情景下的最大损失范围划分，极端概率事故则主要通过累积风险控制进行管理。<br><br>    二、划分危险单位的目的<br><br>    危险单位划分是评估可能最大损失（Possible Maximum Loss）的基础。通过危险单位划分确定最大损失范围后，保险公司对该范围内保险财产遭遇保险事故可能损失的程度进行进一步的估测，便可得出可能最大损失的金额。以此为据，保险公司可以确定自身在特定项目上的自留风险比例，并安排所需的各项再保险保障。<br><br>    三、危险单位划分的基本原则<br><br>    危险单位的划分应该本着科学、谨慎和合理的原则进行。<br><br>    “存疑不分”是危险单位划分的重要原则，即在存有疑惑和不确定的情况下，应该不做一个危险单位以上的进一步划分。<br><br>    危险单位划分的标准是坐落于同一地点的两（多）项保险财产彼此安全区隔，发生于其中一项财产的保险事故不会同时影响另一项保险财产。<br><br>    同一保单下的保险财产如果符合上述危险单位划分的标准，该保单可以进行危险单位划分。同一地点不同保单下的保险财产如果可能受到同一保险事故的影响，上述保单下保险财产应合并视为一个危险单位。<br><br>    最大损失范围应以最大可能损失（Maximum Possible Loss）为判断基础。最大可能损失是指在所有保护系统失灵，相关应急处理人员以及公共救灾机构无法提供任何有效救助的情况下，单一设施可能遭受的财产损失以及营业中断损失的合计最大金额。对于火灾风险而言，这意味着“完全焚毁”的状态。在这一情景下，只有充分的区隔距离以及完整无隙的防火墙（即防火墙上不能开有通口，即使这些通口有防火门一类设施遮蔽）才能有效阻止火势蔓延。简单说，最大可能损失是主动保护系统无效情景下的可能最大损失。<br><br>    四、危险单位划分的基本方法<br><br>    对于财产险来说，一座建筑物，不管有多少个被保险人或有多少张保单与建筑物有关，其建筑物以及建筑物内所有物品，包括相关的利润损失险、营业中断险和后果损失险都应被看作是一个危险单位。即一座建筑物及其内含物品将作为一个危险单位，不应进一步进行危险单位划分。<br><br>    对于建安工险来说，同一地点一个工程不管涉及多少个被保险人或保单都应视为一个危险单位，其中除建安工险以外，也包括预期利润损失、延误开工和后果损失。同时应明确记录在案工程项目属于新建、扩建还是内部改造。<br><br>    如果保险公司承保的附加风险受位于不同地点的风险影响时，包括但不限于由于物质损失引起的供应商、客户以及相互关联的风险，无论它是在标的物所在地或其它地点，每个地点可被看作一个独立的危险单位，但利润损失风险不能划分。<br><br>    当标的包含已知和列明的位于其他地点的相关延伸风险，包括由于物质损失引起的但不限于供应商、客户以及相互关联的风险，而且保险公司在承保时记录在案时，每个地点可被看作一个独立的危险单位，但利润损失风险不能划分。<br><br>    未知、未列明或不能被确认的附加风险将按地点被看作是不同的危险单位。<br><br>    五、危险单位划分的时机<br><br>    保险公司应当在承保风险时就确认危险单位划分并记录在案。<br><br>    如果两个或两个以上的危险单位存在同一地址，保险人应在其承保时就要在记录中明确标明这些建筑物、建筑物内物品以及利润损失或营业中断险、后果损失如何构成一个或多个危险单位。如果没有做这些确认，在该同一地址上的建筑物及建筑物内物品及其相关利润损失等将被认为是构成一个危险单位。<br><br>    六、相关的定义<br><br>    “建筑物”是指包括外墙的建筑物，外墙是指建在地址周边的墙，与地基上面额外的墙和房顶数无关。<br><br>    “地点”是指相连的、没有间断的开阔地，由公路、铁路、河流或其他自然物隔开。<br><br>    “工程”是指一个全面规划好的工程，具有完整的工程进度表，包括起期日、工程进度及完工日期。<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

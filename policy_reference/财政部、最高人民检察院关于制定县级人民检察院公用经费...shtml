@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、最高人民检察院<BR>&nbsp;&nbsp;【发布文号】财行[2005]243号<BR>&nbsp;&nbsp;【发布日期】2005-09-27<BR>&nbsp;&nbsp;【生效日期】2005-09-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mof.gov.cn/news/20051215_2203_11109.htm" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、最高人民检察院关于制定县级人民检察院公用经费保障标准的意见<br><br></font>(财行[2005]243号)</p><br><br><br>各省、自治区、直辖市财政厅(局)、人民检察院，新疆生产建设兵团财务局、人民检察院：<br><br>    根据《中共中央转发〈中央司法体制改革领导小组关于司法体制和工作机制改革的初步意见〉的通知》(中发[2004]21号)中“省、自治区、直辖市根据本地区经济发展水平和司法机关业务经费实际需要情况，制定分类别、分阶段的县级司法机关经费基本保障标准”的要求，为进一步改革和完善检察经费保障机制，财政部、最高人民检察院研究制定了《关于制定县级人民检察院公用经费保障标准的意见》，现印发给你们。请结合本地实际情况，抓紧研究制定本地区县级人民检察院公用经费保障标准。<br><br>2005年9月27日<br><br>    <br>关于制定县级人民检察院公用经费保障标准的意见<br><br>    为贯彻落实《中共中央转发〈中央司法体制改革领导小组关于司法体制和工作机制改革的初步意见〉的通知》(中发[2004]21号)精神，切实做好县级人民检察院经费保障工作，确保基层人民检察院履行法律监督职能的经费需要，依据《中华人民共和国预算法》、《中共中央办公厅、国务院办公厅关于转发〈财政部关于政法机关不再从事经商活动和实行收支两条线管理后财政经费保障的若干意见〉的通知》(中办发[1998]30号)等法律和文件规定，现对制定县级人民检察院公用经费保障标准工作提出以下意见。<br><br>    一、充分认识制定县级人民检察院公用经费保障标准工作的重要性<br><br>    人民检察院是国家法律监督机关，是国家政权的重要组成部分，担负着维护国家法律统一正确实施，保障在全社会实现公平和正义的重要使命。基层人民检察院是国家基层政权的重要组成部分，基层检察工作是全部检察工作的基础。制定县级人民检察院公用经费保障标准，是贯彻落实中央关于司法体制和工作机制改革精神的基本要求，是建立和完善基层人民检察院经费保障机制、保证基层人民检察院充分履行法律监督职能、加强国家基层政权建设的重要内容，是规范基层人民检察院经费保障工作的基本措施，也是实现基层人民检察院公用经费合理保障、有效保障的重要依据。各省、自治区、直辖市财政厅(局)和人民检察院要以党的十六大和中发[2004]21号文件精神为指导，加强组织领导，深入调查研究，抓紧制定本地区县级人民检察院公用经费保障标准。<br><br>    二、制定县级人民检察院公用经费保障标准的原则<br><br>    根据现行事权划分和“分级管理、分级负担”的经费管理体制，制定县级人民检察院公用经费保障标准应坚持以下几项原则：<br><br>    (一)收支脱钩，全额保障的原则。县级人民检察院要按照“收支两条线”的管理要求，将办案追缴的赃款及时、足额上缴国库，纳入财政预算管理，支出根据其履行职能的实际需要由同级政府财政部门全额予以保障。<br><br>    (二)突出重点，确保基本需要的原则。县级人民检察院所需办案费、装备费等要作为重点业务支出项目给予重点保障；履行职责、开展工作所必需的日常公用经费要按规定给予保障。<br><br>    (三)科学核定，因地制宜的原则。以国家有关政策规定和经费开支标准为依据，在对县级人民检察院各项经费开支及其影响因素进行认真分析、科学测算的基础上，制定县级人民检察院公用经费保障标准，保证标准的科学性、合理性。从实际出发，充分考虑辖区内不同地区社会经济发展水平、财政保障能力和县级人民检察院实际需要等各项因素，在规定的公用经费开支范围内，研究制定不同地区、不同类别县级人民检察院的公用经费保障标准，不搞“一刀切”。<br><br>    (四)适时调整，合理增长的原则。县级人民检察院公用经费保障标准要随着社会经济的发展、检察工作任务的增加和本地区财政保障能力的提高，适时进行调整。<br><br>    三、制定县级人民检察院公用经费保障标准的范围<br><br>    (一)根据《最高人民检察院、财政部关于印发〈检察业务费开支范围和管理办法的规定〉的通知》(高检会[1992]29号)和财政部《政府预算收支科目》的规定，制定县级人民检察院公用经费保障标准的范围分为日常公用经费、业务费两部分。<br><br>    日常公用经费包括：办公费、水电费、邮电费、取暖费、交通费、差旅费、维修费、招待费、福利费、劳务费、租赁费、物业管理费、办公设备购置和其他费用等。<br><br>    业务费包括：办案费、装备费、服装费、消耗费、会议费、宣传费、教育培训费、奖励费、人民监督员经费、其他业务费。<br><br>    (二)在上述公用经费保障范围内，各省、自治区、直辖市可结合本地区县级人民检察院工作的实际情况，确定保障标准应包括的具体项目。<br><br>    (三)派驻检察室是县级人民检察院的派出机构，制定县级人民检察院公用经费保障标准的范围，应包括县级人民检察院派驻检察室的上述两部分公用经费。<br><br>    (四)今后如遇检察业务费开支范围修订，县级人民检察院公用经费保障标准可相应调整。<br><br>    四、制定县级人民检察院公用经费保障标准的方法<br><br>    (一)测算保障标准的基础数据。按照制定保障标准的公用经费范围，以当地2003年和2004年两年平均实际开支数额为基数，扣除一次性开支和不合理开支部分，作为测算保障标准的基础数据。<br><br>    (二)测算不同类别保障标准的差异数据。选择有代表性的县级人民检察院进行典型调查，并在调查、统计的基础上，结合各地自然、交通、气候、物价和检察工作任务量等特殊因素，进行分析研究，测算出不同地区、不同类别保障标准的差异数据。<br><br>    (三)制定分类保障标准。根据本地区县级人民检察院工作实际需要、当地财政保障能力和上述测算数据，对辖区内县级人民检察院进行科学分类，确定不同地区、不同类别县级人民检察院公用经费保障标准。<br><br>    五、制定县级人民检察院公用经费保障标准工作的要求<br><br>    做好县级人民检察院经费保障工作，是各级党委、政府和有关部门的共同责任。各省、自治区、直辖市财政厅(局)和人民检察院要认真贯彻落实中发[2004]21号文件精神，抓紧研究制定辖区内县级人民检察院公用经费保障标准，同时制定切实可行的保障措施，确保保障标准的落实。<br><br>    (一)深入调查研究，抓紧制定本地区的保障标准。各省、自治区、直辖市财政厅(局)和人民检察院，应当按照上述原则和制定保障标准的公用经费范围，于2006年3月31日前，制定下发本省、自治区、直辖市县级人民检察院公用经费保障标准，下达县级财政部门和县级人民检察院执行，同时报财政部和最高人民检察院备案。各级财政部门在编制2006年部门预算时，应考虑逐步落实保障标准的因素。<br><br>    (二)落实保障标准，确保县级人民检察院履行职能的经费需要。县级人民检察院要根据制定的公用经费保障标准，向同级财政部门编报年度经费预算，县级财政部门要按保障标准予以核定。遇有重大案件等特殊情况，已制定的标准内经费预算不能满足实际需要时，县级人民检察院可根据实际情况，按规定程序向同级财政部门提出追加预算申请，财政部门要据实审核，尽力给予保障。<br><br>    (三)建立监督机制，认真做好保障标准的实施工作。县级人民检察院公用经费保障标准一经制定，必须认真遵照执行；对于部分财政确实困难的县(市、区)，所在省、自治区、直辖市要制定分年度落实计划，并进一步加大补助力度，原则上3年内必须达到本地区确定的保障标准。省级财政部门要建立监督检查机制，督促本地区县级财政部门严格执行县级人民检察院公用经费保障标准。<br><br>    (四)严肃财政纪律，严格落实“收支两条线”规定。县级人民检察院要严格按照“收支两条线”管理的有关规定，将办案追缴的赃款及时、足额上缴国库，任何部门和个人不得以任何名义截留、挪用。县级财政部门要按照规定的标准安排县级人民检察院公用经费预算，不得以收定支，也不得根据支出预算向县级人民检察院下达追缴赃款指标，更不能因为县级人民检察院上缴财政赃款的减少而影响其预算的核定。<br><br>    (五)切实加强管理，提高经费使用效益。各级财政部门要按照有关规定加强对基层人民检察院公用经费的预算管理，并加强预算的追踪反馈和监督检查工作。县级人民检察院必须坚持节俭办事的原则，厉行节约，杜绝浪费；要根据工作重点和实际需要，合理调整支出结构，保证重点工作需要；要合理规划和配置资源，提高现有设施、装备利用率，避免重复购置等不必要的消耗和浪费；要加强财务归口管理，理顺财务管理关系，做到财权统一、财力集中，切实提高经费使用效益。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

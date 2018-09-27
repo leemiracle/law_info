@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农经发［2005］21号<BR>&nbsp;&nbsp;【发布日期】2005-10-10<BR>&nbsp;&nbsp;【生效日期】2005-10-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20051012_473542.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于进一步加强村级债务管理坚决制止新增债务的通知<br><br></font>(农经发［2005］21号)</p><br><br><br>各省、自治区、直辖市、计划单列市农业厅（局、委员会、办公室）：<br><br>    为认真贯彻《国务院关于2005年深化农村税费改革试点工作的通知》（国发[2005]24号，以下简称国务院文件）和《国务院办公厅关于坚决制止发生新的乡村债务有关问题的通知》（国办发[2005]39号，以下简称国务院办公厅文件）文件精神，制止发生新的村级债务，逐步化解以前形成的村级债务，促进农村经济健康发展和社会稳定，现就加强村级债务管理有关工作通知如下。<br><br>    一、充分认识加强村级债务管理坚决制止新增债务的重要性<br><br>    近年来，各地按照党中央、国务院的要求，积极化解村级债务，取得了一定成效；但一些地方旧债尚未化解，新的债务还不断增加。一些地方不顾自身财力、集体经济实力、农民承受能力的状况，有的脱离实际提出高指标，有的寅吃卯粮搞建设，都导致了村级举新债，严重影响了村级组织的正常运转，干扰了农村的社会秩序,也使村级债务不断增加，影响农村税费改革成果的巩固。各级农村经营管理部门要从践行“三个代表”重要思想的政治高度，充分认识制止村级产生新债的重要性、紧迫性，从深化农村税费改革，统筹城乡发展，维护农村社会稳定，实现好广大农民群众的根本利益出发，认真履行职责，采取措施，规范管理，强化监督，坚决制止发生新的村级债务。<br><br>    二、开展摸底清查，确认债务债权关系<br><br>    开展村级债务债权清查，摸清底数是制止新债、化解旧债的关键环节。要对村级债务债权情况全面清理核查，对已形成的账外债务债权也要纳入统计范围之内，按照《村集体经济组织会计制度》要求，确认好农村集体经济组织内部和外部债务债权，搞清村级债务债权规模和结构，掌握村级债权债务的实际情况。县乡两级农村经营管理部门要认真指导村级开展债务债权统计工作，并对村级债务债权分类统计汇总。<br><br>    要通过民主、公开、公正等程序明晰债务债权关系，将清查核实结果公开，张榜公布；对有异议和群众反映突出的问题，应重新进行调查核实；经确认后的村级债务债权，要实事求是地按债务债权发生的时间、数量、经手人、证明人等情况分类登记造册。确认结果要报乡镇农村经营管理部门备案。<br><br>    三、加强农村集体财务管理和审计工作，强化村级债务管理<br><br>    县乡农村经营管理部门要指导村及村集体经济组织加强财务管理，建立健全债务债权管理、资产台账、“一事一议”筹资筹劳等制度，从制度上消除可能产生新债的漏洞；要指导集体经济组织及时公开债务债权的项目、金额及审计等情况，对群众提出的有关债务问题要及时给予解答；要指导村及村集体经济组织建立健全民主理财办法和议事规则，帮助村民理财小组开展民主理财工作,充分发挥民主理财小组在管财、用财方面的监督作用。<br><br>    县乡两级农村经营管理部门要按照国务院文件要求，全面履行对村级债务审计监督的职责，组织好村级债务的专项审计工作，实际发生的债务要核查属实，对虚假债务要挤出水分。未履行正常程序和村干部私自借入的新债，不得纳入账内核算，由借款人承担责任；经民主理财小组审核确定为不合理的财务开支事项，不得入账核算；有关部门和人员强迫村级借入的债务，不得纳入账内核算。对追回的债权和偿还的债务，要按照规定的财务管理流程履行合法手续。<br><br>    随着农村综合改革的深化，一些地方村组进行撤并调整，要防止平调，按照“并村不并账”的原则对原集体经济组织单独设账，独立进行收益分配和经济活动的会计核算，不得随意合并村组集体经济组织的账目,不得将原村组的债务摊派给新的村组，更不得将债务摊派给合并村组的农民。坚决纠正合村合账的错误做法，对不属于村民委员会或村集体经济组织的债务债权要从账上划转剥离，防止产生虚假债务债权问题。<br><br>    四、坚决制止新增债务，建立责任追究制度<br><br>    村及村集体经济组织财务开支要精打细算、开源节流。必须坚持量入为出的原则，严禁举债兴办公益事业；严禁举债垫付各种税费；严禁举债用于村级支出；严禁超出规定订阅报刊；严禁超村级定额补贴标准发放报酬、补贴；严禁村委会或村集体经济组织以任何名义从金融机构贷款或为企业提供担保。各地要按照国务院办公厅文件要求认真进行检查，合理确定债务警戒线。对村级产生新的债务额度较少、情节轻微的，要对有关单位和责任人进行通报批评；对产生新债超过警戒线，额度较大、情节严重的，要追究相关人员的责任；构成犯罪的，移送司法机关处理。要把制止新债、化解旧债作为考核村干部任期目标和工作实绩的重要内容，乡镇农村经营管理部门及村民主理财小组要依据债务审计情况及民主理财意见对村干部工作实绩情况提出考核建议。<br><br>    五、加强领导，建立村级债务动态监测机制<br><br>    各级农村经营管理部门要密切监测村级债务动态，建立健全村级债务监测和预警机制，认真研究村级债务的科学监测方法，积极探索村级债务的预警方式，努力寻求化解村级债务的有效途径，充分发挥监测预警作用。各项监测指标的设定，要符合当地的实际情况，既能如实开展债务监测，又能及时进行债务预警；既能详尽反映债务特点，又能科学分析债务成因。要以偿债能力分析指标为基础，采用资产负债率、产权比率、利息保障倍数等指标反映长期偿债能力；也可以采用流动比率、速动比率、现金比率等指标反映短期偿债能力。各地按照不同指标设定村级债务警戒线，监控和评估村级债务带来的风险，预防和控制由债务引起的突发事件。<br><br>    制止发生新的村级债务是新时期的一项重要工作，各级农业和农村经营管理部门要在当地党委、政府的领导下，积极主动承担起制止村级新增债务的工作，把制止村级发生新债纳入深化农村综合改革整体布局，结合农村集体财务管理规范化建设，主动协调财政等有关部门，积极争取专项工作经费，落实专职工作人员和责任制，狠抓落实。<br><br>    2005年年底，我部将部署全国村级债务债权摸底统计工作，统一指标和报表，采取科学方法和手段，摸清全国村级债务债权数据底数，跟踪监督全国村级债务变动情况，建立村级债务监控数据库。各级农村经营管理部门要逐步建立村级债务监督管理的长效机制，积极探索制止发生新的村级债务的经验和做法，严肃查处违规行为，认真进行剖析总结，研究解决新情况新问题的对策，确保不发生新的村级债务。<br><br>农  业  部<br>二○○五年十月十日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

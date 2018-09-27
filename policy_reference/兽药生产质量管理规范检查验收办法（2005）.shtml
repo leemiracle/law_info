@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农业部公告第496号<BR>&nbsp;&nbsp;【发布日期】2005-04-27<BR>&nbsp;&nbsp;【生效日期】2005-06-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/blgg/t20050511_369410.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>兽药生产质量管理规范检查验收办法<br><br></font>(农业部公告第496号)</p><br><br><br>    <font class='zhang'>第一章</font>  总    则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为规范兽药GMP检查验收活动，根据《<a href=javascript:ROF(93422,0) class=alink>兽药管理条例</a>》和《兽药生产质量管理规范》（以下简称兽药GMP）的规定，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  农业部负责全国兽药GMP管理工作和国际兽药贸易中GMP互认工作。<br><br>    省级兽医行政管理部门负责本辖区兽药GMP培训、技术指导、监督检查和管理工作。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  农业部兽药GMP工作委员会办公室（以下简称兽药GMP办公室）负责组织兽药GMP申报资料的受理和审查、现场检查验收、日常管理和农业部交办的有关具体工作。<br><br>    <font class='zhang'>第二章</font>   申报与审查<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  新建（含已获得兽药生产许可证的企业拟新增产品剂型的）或改扩建的兽药GMP企业，应当提出兽药GMP检查验收申请。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  申请兽药GMP检查验收的企业应当填报《兽药GMP检查验收申请表》（见附录1），并按以下要求向兽药GMP办公室报送书面及电子文档的申报资料各一份（其中电子文档应填齐生产和检验管理文件的全部内容）：<br><br>    (一)新建企业<br><br>    1.企业概况；<br><br>    2.拟生产兽药类别、剂型及产品目录；<br><br>    3.企业组织机构图（须注明各部门名称、负责人、职能及相互关系）；<br><br>    4.企业负责人、部门负责人简历；专业技术人员及生产、检验、仓储等工作人员登记表（包括文化程度、学历、职称等），并标明所在部门及岗位；高、中、初级技术人员占全体员工的比例情况表；<br><br>    5.企业周边环境图；总平面布置图；仓储平面布置图；质量检验场所平面布置图及仪器设备布置图；<br><br>    6.生产车间概况及工艺布局平面图（包括更衣室、盥洗间、人流和物流通道、气闸等，人流、物流流向及空气洁净度级别）；空气净化系统的送风、回风、排风平面布置图；工艺设备平面布置图；<br><br>    7.拟生产兽药产品的工艺流程图、主要过程控制点和控制项目及产品的生产、质量管理文件目录；<br><br>    8.生产的关键工序、主要设备、制水系统、空气净化系统、检验仪器设备及产品工艺验证报告；<br><br>    9.检验用仪器仪表、量具、衡器校验情况报告；<br><br>    10.农业部认可实验室出具的洁净室检测报告书；<br><br>    11.其他兽药GMP管理文件目录及与文件相对应的记录、凭证样张；<br><br>    12.生产设备设施、检验仪器设备目录（需注明规格、型号、主要技术参数）；<br><br>    13.兽药GMP运行情况报告；<br><br>    14. 试产兽药国家标准产品的批生产、批检验记录复印件（每条生产线应选择具有剂型代表性的2--4个品种，每个品种至少3个批次的记录；少于2个品种或者属于特殊产品及原料药品的，应提供所生产品种的记录）。<br><br>    (二)改扩建企业<br><br>    除提供上述1至13项资料外，还须提供以下资料：<br><br>    1.《兽药生产许可证》和《企业法人营业执照》复印件；<br><br>    2.企业自查情况（包括企业概况、GMP实施情况等）；<br><br>    3.已获批准生产的产品目录和产品生产、质量管理文件目录及产品标准执行情况、产品批准文件（包括产品批准文号批件、质量标准的复印件等）；<br><br>    4.兽药GMP运行情况报告及批生产、批检验记录复印件（同上款“（一）14.”要求）。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  兽药GMP办公室在收到申报资料之日起20个工作日内完成资料的审查工作。通过审查的，组织现场检查验收工作。审查不合格的，书面通知申请企业在4个月内补充有关资料，逾期未报送的按撤回申请处理。<br><br>    <font class='zhang'>第三章</font>  现场检查<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  申报资料经审查合格的，由兽药GMP办公室向申请企业发出“现场检查通知书”，确定检查组成员，并在规定时间内组织现场检查验收。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  检查组成员从农业部兽药GMP检查员库中选派；必要时，可临时聘请有关专家参加检查验收工作。检查组由3至7名检查员组成，设组长1名。组长由兽药GMP办公室指派。<br><br>    申请企业所在地省级兽医行政管理部门和兽药监察机构可各选派1名工作人员以观察员身份参加检查组的有关活动，但不参加评议工作。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  现场检查召开两次会议，必要时可召集临时会议，会议由检查组组长主持。<br><br>    首次会议应确认现场检查方案（方案格式见附录2），检查范围、检查路线、落实检查日程、宣布检查纪律和注意事项。申请企业应提供相应的资料，如实介绍有关情况，并指派联系人负责向检查组介绍现场情况及答疑。<br><br>    末次会议向申请企业宣布综合评定结论和缺陷项目、整改意见。申请企业可就综合评定结论和缺陷项目发表意见，必要时检查组应将申请企业书面意见上报兽药GMP办公室。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  检查组应当严格对照兽药GMP及《兽药GMP检查验收评定标准》进行检查，必要时应予以取证，并对申请企业（车间）有关人员的技能操作、理论基础、规章制度和兽药法规、兽药GMP的主要内容和要点进行考核。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  根据工作需要，检查组组长可以召集临时会议，各成员应当汇报各自的调查取证情况，对检查发现的缺陷项目及问题进行充分讨论，必要时应当听取申请企业的陈述及申辩。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  检查组成员应当如实记录检查情况和存在的问题。检查组组长应当组织综合评定，填写缺陷项目表（格式见附录3），撰写现场检查报告（格式见附录4），作出“推荐”、“推迟推荐”、“不推荐”的综合评定结论。缺陷项目表应明确存在的问题、具体的整改意见。现场检查报告必须客观、真实、准确地描述申请企业实施GMP的概况以及需要说明的问题。现场检查报告和缺陷项目表须经检查组所有成员签字。<br><br>    综合评定期间，非检查组成员应当回避。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  现场检查报告和缺陷项目表等资料由检查组、申请企业、省级兽医行政管理部门分别留存。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  对作出“推荐”评定结论，但存在缺陷尚须整改的，申请企业提出整改计划并组织落实。整改工作完成后向兽药GMP办公室上报整改报告，整改报告需经省级兽医行政管理部门核实。兽药GMP办公室应将整改报告寄送检查组组长，由其确认整改落实情况，填写《兽药GMP企业整改情况审核表》（见附录5）。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  对作出“推迟推荐”评定结论的，由兽药GMP办公室向申请企业发出限期整改通知书。整改工作完成后向兽药GMP办公室提出检查验收申请。兽药GMP检查组应针对缺陷项目和整改意见实施现场检查，并形成检查报告。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  对作出“不推荐”评定结论或作出“推迟推荐”经再次检查仍未通过的，由兽药GMP办公室发出检查不合格通知书，自发出通知书后6个月内不再受理该企业的申请。6个月后再次提出申请的，按照本办法第二章、第三章的规定办理。<br><br>    <font class='zhang'>第四章</font>  审批与管理<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  检查组组长应当在检查工作结束后10个工作日内将现场检查方案、现场检查报告、缺陷项目表、评分表、企业的中英文企业名称、地址及其他有关资料一式两份报兽药GMP办公室。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  兽药GMP办公室对通过GMP检查验收企业的检查结果在中国兽药信息网上予以公示，公示期为5个工作日。公示期内，任何单位及个人均可如实反映有关问题。公示期满未收到异议的，将有关材料一式一份报农业部。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  农业部在收到资料后的20个工作日内完成对资料的审定，符合要求的，作出批准决定，发布公告并核发《兽药GMP证书》，同时向企业发出《兽药GMP现场检查工作意见反馈表》（见附录6）。<br><br>    不符合要求的，将处理意见通知申请企业和兽药GMP办公室。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  《兽药GMP证书》有效期五年，有效期内变更企业名称等有关事项的，应当按照《兽药管理条例》规定向农业部申请办理《兽药GMP证书》和《兽药生产许可证》变更手续，并提交申请报告及相关证明材料。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  省级兽医行政管理部门每年定期对辖区内GMP企业实施监督检查，重点检查GMP执行情况、设施设备运行状况和各种记录是否符合规定要求，并于年底前将监督检查结果报农业部和GMP办公室。对存在严重违规行为的，应及时上报有关情况。<br><br>    农业部可根据需要对GMP企业实施监督检查。<br><br>    <font class='zhang'>第五章</font>  检查员条件和资格<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  兽药GMP检查员应当具备以下条件：<br><br>    （一）遵纪守法、廉洁奉公、坚持原则、实事求是、公平公正；<br><br>    （二）熟悉兽药管理法规、兽药GMP及相关技术规范、标准；<br><br>    （三）具有医药、兽医或相关专业大专以上学历或中级以上职称，从事兽药管理、兽药监察或科研教学工作5年以上的在职人员；<br><br>    （四）准确掌握兽药GMP规范和兽药GMP检查验收评价标准及相关工作原则；<br><br>    （五） 身体健康，服从安排，能胜任并积极参加现场检查工作。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  兽药GMP检查员由本人所在单位推荐，并经兽药GMP办公室组织培训考核合格后，列入兽药GMP检查员库。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  兽药GMP检查员必须遵守兽药GMP现场检查纪律，对不能遵守纪律、不能正常履行职责、不能掌握工作原则、无故不参加检查验收活动的，农业部将取消其检查员资格。<br><br>    <font class='zhang'>第六章</font>  附    则<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  本办法自2005年6月1日起施行，2003年4月10日农业部发布的《兽药生产质量管理规范检查验收办法》（农业部公告第267号）同时废止。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

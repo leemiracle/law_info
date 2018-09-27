@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省教育厅、福建省财政厅、福建省发展和改革委员会<BR>&nbsp;&nbsp;【发布文号】闽教高〔2007〕120号<BR>&nbsp;&nbsp;【发布日期】2007-10-22<BR>&nbsp;&nbsp;【生效日期】2007-10-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200710/t20071026_41894.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省教育厅、福建省财政厅、福建省发展和改革委员会关于启动福建省示范性高等职业院校建设工作的通知<br><br></font>(闽教高〔2007〕120号)</p><br><br><br>各设区市教育局、财政局、发展和改革委员会，各高职高专院校：<br><br>    根据《高等职业教育服务海峡西岸经济区改革与建设工程》（以下简称服务工程）精神，经研究，决定启动福建省示范性高等职业院校（以下简称示范性院校）建设工作，现将有关事项通知如下：<br><br>    一、指导思想<br><br>    示范性高等职业院校建设要紧紧围绕海峡西岸经济区建设对高等职业教育提出的新任务、新要求，通过重点建设，使示范性院校在办学实力、教学质量、管理水平、办学效益和辐射能力等方面有较大提高，特别是在深化教育教学改革、创新人才培养模式、建设高水平专兼结合的专业教学团队、提高社会服务能力和创建办学特色等方面取得明显进展，充分反映和体现我省高职高专院校的最高水平，引领我省高职教育的健康发展和整体水平提升。<br><br>    二、建设原则<br><br>    1、导向性。示范性院校建设要以提高为海峡西岸经济区建设服务水平为导向，以专业建设和基础能力建设为重点，强化服务功能，提高培养质量，在人才培养模式上有重大创新，特别是在实践教学、校企合作、工学结合等方面起到示范和带头作用；在办学模式上有重大突破，特别是在办学理念、管理体制和运行机制的改革、创新方面起到示范作用和辐射作用。<br><br>    2、协调性。示范性院校建设应遵循高等教育规律，有利于促进学校的教育教学改革，有利于提高学校的办学水平，有利于打造学校品牌,坚持以强为主、兼顾均衡，在强调突出示范性的同时，要适应服务海峡西岸经济区建设整体布局及区域经济、行业发展和产业发展的实际，兼顾不同地区、不同发展基础、不同类型、不同主办部门的高职院校，做到重点突出、布局合理。<br><br>    3、效益性。示范性院校要把为海峡西岸经济区建设作为根本任务，以培养高素质技能型紧缺人才、提高就业水平为目标，同时充分利用优质教育资源开展各类培训、技术服务与对口支援，实现学校与社会的双赢，不断提高对经济社会发展的贡献度；要积极推进体制改革与创新，增强学校办学活力，建立产学结合长效机制，以鲜明的办学特色和过硬的人才培养质量赢得社会的认同。<br><br>    4、创新性。示范性院校领导尤其是主要领导应该具有强烈的使命感、责任心和先进的办学理念，具有战略思维和科学决策的能力，具有很强的领导力、执行力、学习力、创造力和人格魅力。同时，示范性院校还必须具备优良的综合能力，在办学理念、办学模式、人才培养模式、课程体系、实训基地、教学管理制度等方面应至少有1个质量与特色项目。<br><br>    三、建设内容<br><br>    重点建设好10所左右办学实力、教学质量、管理水平、办学效益和辐射能力较强的高等职业院校，力争2-3所学校进入国家示范性高等职业院校建设行列，在高技能人才培养、职业技能培训、应用技术研究与成果推广上发挥带头示范和辐射作用。<br><br>    1、示范性院校举办者要增加投入和加强政策扶持，支持学校基本建设和教学基础设施建设，改善教学、实训条件；制定“双师型”教师培养和专兼结合专业教师队伍建设的支持政策与办法，支持学校聘请一批精通企业行业工作程序的技术骨干和能工巧匠兼职，促进高水平“双师”素质与“双师”结构教师队伍建设；支持学校加强与行业企业在人才培养、技术开发应用等领域的合作，广泛吸纳社会各方资金、物质与人力资源参与学校建设。<br><br>    2、示范性院校要根据经济社会发展需要，建立专业设置、招生规模的计划与调整机制；坚持育人为本、德育为先，突出职业道德教育，促进学生健康成才；改进人才培养方案，创新人才培养模式，探索职业岗位要求与专业教学计划有机结合的途径和方式；改革课程教学内容、教学方法、教学手段和评价方式，建成一大批体现岗位技能要求、促进学生实践操作能力培养的优质核心课程；统筹规划和建设紧密结合生产实际，具有高职特色的教材体系，规范教材评价选用机制，确保高质量教材进课堂。<br><br>    3、示范性院校要培养一批基础理论扎实、教学实践能力突出的专业带头人和教学骨干；建设一批融教学、培训、职业技能鉴定和技术研发功能于一体的实训基地或车间；重点建成50个左右产业覆盖面广、办学条件好、产学结合紧密、人才培养质量高的特色专业群；建成400门左右优质专业核心课程，150种特色教材和教学课件，带动相关专业课程建设，提高教学水平。<br><br>    4、示范性院校要积极为社会提供技术开发与服务，大力开展职业技能培训，努力为提高劳动者素质、促进就业，以及转移农村劳动力提供服务，为社会提供各类职业技术培训10万人次；积极开展地区之间、城乡之间的对口支援与交流，主动为区域内职业院校培训师资，促进地区职业教育的协调发展。<br><br>    四、遴选条件<br><br>    1、列入国家级示范性院校建设计划的学校，自然进入福建省级示范性院校建设行列。今后，从省级示范性院校中推荐国家级示范性院校。<br><br>    2、从2003年起，通过教育部高职高专院校人才培养工作水平评估，并获得“良好”及以上的院校。<br><br>    3、评审工作主要依据《福建省示范性高职高专院校评审标准》（试行）（下简称《评审标准》，见附件）进行。申报院校在《评审标准》40个二级指标（其中14个为关键指标）中，必须满足A<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

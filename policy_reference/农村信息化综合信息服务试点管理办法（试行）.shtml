@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】信息产业部<BR>&nbsp;&nbsp;【发布文号】信部信〔2006〕598号<BR>&nbsp;&nbsp;【发布日期】2006-09-14<BR>&nbsp;&nbsp;【生效日期】2006-09-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mii.gov.cn/art/2006/09/26/art_503_25306.html" target=_blank>信息产业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农村信息化综合信息服务试点管理办法（试行）<br><br></font>(信部信〔2006〕598号)</p><br><br> <br>各省、自治区、直辖市信息产业主管部门，新疆生产建设兵团信息办:<br>    为贯彻落实信息产业部《关于推进社会主义新农村建设工作的意见》（信部信[2006]229号）精神，我部将开展农村信息化综合信息服务试点工作。<br>    为规范试点的申请、认定、验收及相关管理工作，我部研究制定了《农村信息化综合信息服务试点管理办法（试行）》，现印发你们，请遵照执行。<br>    联系人：任利华   孙燕<br>    电话：010-68208291 68208233<br>    传真：010-68208288<br><br>                                                        二○○六年九月十四日<br> <br><br>农村信息化综合信息服务试点管理办法（试行）<br><br>    <font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为规范农村信息化综合信息服务试点工作，加快农村信息化建设步伐，根据信息产业部《关于推进社会主义新农村建设工作的意见》（信部信[2006]229号）和《关于开展农村信息化综合信息服务试点工作的意见》（信部信[2006]597号），制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 农村信息化综合信息服务是指开发、整合和利用涉农信息资源，向农民提供市场、科技和教育等信息；开发和应用贴近农民需求的信息系统和信息终端，利用公共网络和各种专网，通过恰当的接入方式，使信息进村入户；形成市场化运作机制，以农民普遍能够接受的价格和方式提供信息服务。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 各省、自治区、直辖市（以下简称省、区、市）信息产业主管部门根据本地区的基础条件和特点，选择有代表性的地区（市（地）、县、乡（镇）、行政村）和单位开展试点工作。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 试点工作应遵循需求导向、突出特色、资源共享、注重实效的原则，坚持政府引导、企业参与和市场化运作相结合。<br><br>    <font class='zhang'>第二章</font> 管理机构及职责<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 信息产业部负责试点的认定、验收及相关管理工作。部信息化推进司负责具体工作。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 部信息化推进司成立专家组。专家组参加试点的认定、验收、经验总结和推广等工作并提供咨询。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 省、区、市信息产业主管部门负责制定本地区的试点方案，提出试点申请，并抓好组织实施和监督管理。<br><br>    <font class='zhang'>第三章</font> 认定条件与程序<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 试点的认定条件：<br>    （一）有推进农村信息化的有效工作机制。<br>    （二）有较好的信息化基础环境。有较完善的农村通信基础设施、涉农网站等，有推进农村信息化相关政策、专项规划，已形成政府和企业共同支撑农村信息化的投入机制。<br>    （三）有切实可行的试点工作方案。以服务“三农”为目标，组织措施得当，体现地方特色，具有创新意识。<br>    （四）有实现试点目标的保障措施。试点工作得到试点地区党委、政府或试点单位的重视和支持，实施、管理试点工作的组织机构健全，有配套的专项资金投入。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 试点的认定程序：<br>    （一）由各省、区、市信息产业主管部门根据认定条件向信息产业部提出试点申报。<br>    （二）专家组对提出的申请进行评审和必要的实地考察。<br>    （三）对符合认定条件的，经部批准为试点。<br>    （四） 试点的申报材料包括省、区、市信息产业主管部门的申请报告和试点方案，并填写《农村信息化综合信息服务试点申报表》（另发，并可在www.mii.gov.cn网站下载）。申报材料要求提供原件5份、复印件5份及电子文本。<br><br>    <font class='zhang'>第四章</font> 管理与推广<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 省、区、市信息产业主管部门对试点工作中出现的问题及时报部信息化推进司，每年进行一次总结报部。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 信息产业部总结推广试点的典型经验和成功模式，并适时对试点工作中表现突出的先进单位和个人给予表彰。部信息化推进司及时汇总并研究各地的经验、存在问题和措施建议，加强指导、协调和服务，为试点工作创造良好的环境。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 信息产业部对试点进行督促检查和指导，对工作不力、不能按计划开展工作的给予批评，直至取消试点资格。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 省、区、市信息产业主管部门在试点方案实施完成后要向信息产业部提交验收申请。信息产业部组织专家进行评审验收，对成效显著、具有推广价值的试点，经部批准为示范，在全国范围内推广（具体办法另行制定）。<br><br>    <font class='zhang'>第五章</font> 附则<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 本办法由信息产业部负责解释。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 本办法自下发之日起试行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

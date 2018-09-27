@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2006]79号<BR>&nbsp;&nbsp;【发布日期】2006-05-19<BR>&nbsp;&nbsp;【生效日期】2006-05-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200606081135204602" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于推行增值税防伪税控一机多票系统的公告<br><br></font>(国税发[2006]79号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br><br>    现将《国家税务总局关于推行增值税防伪税控一机多票系统的公告》（以下简称《公告》）印发给你们，请做好《公告》的印制工作，并将《公告》张贴于所有办税服务厅。<br><br>                                国家税务总局<br>                            二○○六年五月十九日<br><br><br>国家税务总局关于推行增值税防伪税控一机多票系统的公告<br><br>    根据《<a href=javascript:ROF(37255,0) class=alink>中华人民共和国税收征收管理法</a>》第二十三条的规定并经国务院同意，2004年4月国家税务总局、财政部、信息产业部、国家质量监督检验检疫总局联合发布《关于推广应用税控收款机加强税源监控的通知》（国税发〔2004〕44号）,规定凡具有一定规模和固定经营场所的纳税人，都要购置使用税控收款机。为了加强增值税普通发票的税源监控，同时不增加纳税人负担，国家税务总局决定将增值税一般纳税人（以下简称一般纳税人）开具的增值税普通发票纳入增值税防伪税控系统管理，统一推行防伪税控一机多票系统（以下简称一机多票系统）。现就有关事项公告如下：?<br>    一、推行一机多票系统能够使纳税人的开票工作更加方便?<br>    推行一机多票系统，就是将纳税人目前使用的防伪税控开票系统升级为一机多票系统，纳税人不需另外购置税控收款机，便可通过同一套设备（包括计算机、打印机等通用设备及金税卡和税控IC卡等专用设备）既能开具增值税专用发票，又能开具增值税普通发票，并可利用同一套计算机系统、相同的操作方法进行增值税专用发票和增值税普通发票的领购、开具、抄报税等项工作，避免了因税控装置（即防伪税控开票系统和税控收款机）的重复配置带来的培训、操作和管理等方面的麻烦。另外，根据广大纳税人多年来使用防伪税控开票系统的反映以及为适应公民身份证号码位数增加的变化需要，一机多票系统在购票、开票、统计、管理等方面新增或改进了二十多项功能，更加符合纳税人经营管理的需要。无论是增值税专用发票，还是增值税普通发票，纳税人的开票操作都更为便捷。利用此次推行一机多票系统的机会，防伪税控系统服务单位将对纳税人的计算机、金税卡、IC卡和开票软件免费进行一次检查和维护。?<br>    二、推行一机多票系统绝大部分纳税人不需增加新的设备费用支出?<br>    这次推行一机多票系统绝大部分纳税人不需要添置新的设备，少数纳税人因部分设备不能满足新系统要求而需要更换，具体可分以下三种情况：?<br>    （一） 凡月开具专用发票和普通发票量在630份以下、使用Windows版开票系统的纳税人（含使用主机共享系统纳税人，这类企业约占推行总户数的87.2%），因不需要更换任何设备而不需要承担任何费用。?<br>    （二） 凡月开具专用发票和普通发票量在630份以上1350份以下、使用Windows版开票系统的纳税人（这类企业约占推行总户数的0.6%），由于开票量超出了原来32K税控IC卡的存储量，此类纳税人可以有两种选择：其一，按国家规定价格向防伪税控服务单位购置64K税控IC卡。其二，仍使用原32K税控IC卡，但每月要两次到税务机关报税。?<br>    （三） 使用DOS版开票系统的纳税人（这类企业约占推行总户数的12.2%），需要将2K容量的税控IC卡统一更换成64K税控IC卡。如果计算机能够满足Windows98系统运行需要，则可以直接升级，不需要更换金税卡和计算机；如果计算机不能够满足Windows98系统运行需要，则需要更换计算机，有的还需要更换金税卡。?<br>    为了减轻纳税人负担，国家近期将进一步下调税控IC卡、金税卡的销售价格（调价前的价格分别为：税控IC卡105元/张、金税卡1303元/块），待国家物价部门正式批准后执行。各地税务机关和防伪税控服务单位应向纳税人公示税控IC卡和金税卡的销售价格。对于推行一机多票系统而需要更换税控IC卡、金税卡的纳税人，航天信息股份有限公司决定在国家新确定销售价格的基础上再给予一定幅度的优惠。?<br>    纳税人因推行一机多票系统而购置税控IC卡、金税卡以及计算机等设备的费用，可按《国务院办公厅转发国家税务总局关于全面推广应用增值税防伪税控系统意见的通知》（国办发〔2000〕12号）的规定在成本中列支，同时可凭购货发票(增值税专用发票)所注明的增值税税额，计入当期的增值税进项税额。<br>    三、推行一机多票系统纳税人不需支付培训费用?<br>    一机多票系统培训工作需要场地、设备、师资和资料等方面的费用，其中场地、设备及培训资料费用由税务机关负担，师资等劳务费用由防伪税控系统服务单位负担，纳税人不需支付培训费用。各级税务机关要严格按照国家税务总局不向纳税人收取一机多票系统培训费用的规定，组织做好培训工作，同时欢迎广大纳税人进行监督。?<br>    特此公告。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

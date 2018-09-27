@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教基厅〔2008〕2号<BR>&nbsp;&nbsp;【发布日期】2008-04-11<BR>&nbsp;&nbsp;【生效日期】2008-04-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info1208308765319206.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于近期几起中小学安全事故的紧急通报<br><br></font>(教基厅〔2008〕2号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局：<br><br>    2008年3月11日18时，云南省昭通市鲁甸县第二中学初二学生邵聪府在教室内与本班学生丁楠发生口角，被丁楠持刀刺伤，后经医院抢救无效死亡。3月23日13时，云南省临沧市凤庆县三岔河镇一辆沿途搭载31名周末返校初中寄宿生的拖拉机坠入道路右侧12米深沟，事故造成8名学生死亡，1名学生重伤，22名学生轻伤。3月24日17时30分，宁夏回族自治区青铜峡市广武中心学校按路队制组织学生放学回家途中，一辆高速行驶的大货车因司机疲劳驾驶冲入非机动车道，撞向学生队伍，当场造成4名小学生死亡。这些事故的发生，让人十分痛心，也暴露出个别地方安全意识依然淡薄，没有引起足够的重视，责任不落实，措施不到位，学校安全教育和管理工作还存在严重的漏洞和隐患，教训十分深刻，特此予以通报。<br><br>    目前正值春季，是春游、户外活动较多时期，同时也是各种自然灾害、中小学生发生溺水和交通等事故的高发期，各地要保持高度戒备，防患于未然，认真做好以下工作：<br><br>    一、认真做好安全预警和隐患排查工作。据气象部门预报，与往年同期相比，新疆北部、内蒙古中西部及东北部地区、甘肃东部、青海东北部、宁夏、陕西西北部、黑龙江大部、西藏东部、四川西部、云南西北部、安徽南部、湖北西南部、湖南东北部、江西北部等地降水偏多，其中内蒙古西部偏多2成以上。全国其余地区降水偏少，干旱将持续，沙尘天气多发，火险等级较高。各地教育行政部门要密切配合气象、地质等部门及时将灾害性天气预报警报及时发布给学校，针对雷电、山洪、山体滑坡、泥石流、基础沉陷等自然灾害，指导和帮助学校完善应急预案，及时采取应对措施。重点要对学校选址、校舍建筑及设施进行认真排查，避免因重大自然灾害造成中小学生伤亡，确保农村学校，特别是地处山区农村学校师生的安全。<br><br>    二、高度重视农村中小学生上下学交通安全。各地教育行政部门要会同公安、交通等部门进一步加强校园周边交通管理，及时查处各类非法搭载学生的农用车和黑校车。要积极争取地方政府支持，通过发展校车或将公共交通路线延伸到农村边远地区等方式为农村寄宿学生往返家校提供方便、安全的交通工具。要密切联系家长，通过请家长主动到校给农村寄宿学生送伙食和生活费等方式，尽量减少寄宿学生集中往返家校次数。<br><br>    三、切实加强大型集体活动的组织管理。各地教育行政部门要加强对学校组织开展春游和其他社会实践活动的审批与监管。学校要制订专门的安全预案，切实落实责任，采取必要的安全措施；要选择安全车辆、安全路线和安全场所开展活动；要对学生进行充分的安全提示与教育，严防在集体活动中发生交通、溺水、食物中毒和其他意外伤害事故。<br><br>    四、继续强化学校安全管理工作责任。各地中小学校要将管制刀具收缴工作制度化、日常化，制订具体的实施办法，认真开展日常收缴工作。要把预防拥挤踩踏和犯罪分子侵入校园伤害学生作为学校日常安全管理的重点，严格执行教师值班制度、学校门卫制度和夜间巡逻制度，严防因管理疏漏而引发事故。<br><br>    五、因地制宜开展中小学安全教育。各地教育行政部门和中小学要结合当地发生事故的规律，积极开展各种安全教育和实践演练活动，切实提高学生的自救逃生能力。尤其是要教育学生不私自或结伴到江、河、湖泊和水库游泳，不搭乘农用车和黑校车上下学，不携带管制刀具，切实提高学生的安全意识和法制意识。<br><br>    地方各级教育行政部门接到本通报后，要将本通报传达到每一所中小学、幼儿园，并结合当地实际，切实加强领导，认真抓好落实工作。<br><br>教育部办公厅<br>二○○八年四月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

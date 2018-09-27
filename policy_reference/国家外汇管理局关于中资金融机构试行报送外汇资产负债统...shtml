@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家外汇管理局<BR>&nbsp;&nbsp;【发布文号】汇发[2008]52号<BR>&nbsp;&nbsp;【发布日期】2008-10-16<BR>&nbsp;&nbsp;【生效日期】2008-10-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.safe.gov.cn/model_safe/laws/law_detail.jsp?ID=80500000000000000,89&id=4" target=_blank>国家外汇管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家外汇管理局关于中资金融机构试行报送外汇资产负债统计报表的通知<br><br></font>(汇发[2008]52号)</p><br><br><br>国家外汇管理局各省、自治区、直辖市分局、外汇管理部，深圳、大连青岛厦门、宁波市分局；各全国性中资外汇指定银行、全国社会保障基金理事会、中国投资有限责任公司：<br>    为落实国务院有关会议精神，进一步加强对中资金融机构外汇资产负债统计总体情况的监测，在国际收支统计框架下，国家外汇管理局制定了中资金融机构按月报送外汇资产负债统计报表制度，并从2008年10月下旬开始试行报送。现就有关事项及要求通知如下：<br>    一、 从事外汇业务的中资金融机构（包括银行、保险公司、证券公司、期货公司、基金管理公司、财务公司、信托投资公司等）、全国社会保障基金理事会和中国投资有限责任公司应当按照本通知要求，及时、准确、完整地报送中资金融机构外汇资产负债月度统计报表。<br>    二、 本通知所称中资金融机构是指中资金融机构法人，包括其境内及海外分支机构。<br>    三、 中资金融机构外汇资产负债统计报表共计八张（报表样式及填报说明见附件1、2）。表三至表八所报数据为金融机构自营业务。各机构按月末内部折算率统计。<br>    四、 从事外汇业务的中资金融机构、全国社会保障基金理事会和中国投资有限责任公司应当每月填报上述八张报表；该套报表实行零报送制度，即没有开办相关业务，金融机构也要报送空表。<br>    五、 总部在京的全国性中资外汇指定银行、全国社会保障基金理事会和中国投资有限责任公司，按总部原则将本单位系统内各分支机构数据汇总后于月后7日内直接报送国家外汇管理局国际收支司（下同）。除此以外的其他中资金融机构（包括总部在京外的全国性中资外汇指定银行、地方性中资银行，以及中资非银行金融机构）应于月后7日内按总部原则将本单位系统内各分支机构数据汇总后报送所在地国家外汇管理局分局、外汇管理部国际收支处（以下简称分局）；分局收齐并汇总辖内中资金融机构的报表后将原表（加具封面，见附件3）和汇总表（见附件4）于月后8日内报送国家外汇管理局。<br>    六、 从事外汇业务的中资金融机构、全国社会保障基金理事会和中国投资有限责任公司应当按照本通知第五条规定于10月24日前报送2008年9月份的报表，分局应当于10月27日前将收齐并汇总的辖内中资金融机构报表报送国家外汇管理局。<br>    七、 各分局和中资金融机构、全国社会保障基金理事会和中国投资有限责任公司应当采取纸质报表（交换或邮寄）和电子报表（以EXCEL形式通过电子邮件）形式报送外汇资产负债统计报表。国家外汇管理局电子邮箱地址为bopstat@mail.safe.gov.cn（外网邮箱），在京全国性中资外汇指定银行、全国社会保障基金理事会和中国投资有限责任公司通过外网邮箱报送电子报表。外汇局内部邮箱为bop@bop.safe，分局通过内部邮箱报送电子报表。国家外汇管理局邮寄地址为：北京市海淀区阜成路18号华融大厦，邮政编码100037。<br>    八、 银行电子报表EXCEL文件名称格式为：填报机构代码（中资金融机构为4位金融机构代码，全国社会保障基金理事会机构代码为7913，中国投资有限责任公司机构代码为7912）+机构简称+表号（表一至表八）+报送日期（4位年份2位月份，如200809）。分局电子报表EXCEL文件名称格式为：分局代码（6位外汇局代码）+分局简称+表号（表一至表八）+报送日期（4位年份2位月份，如200809）。<br>    九、 本通知规定的“日”为自然日。法定节假日报送时间顺延，周六、周日除外。<br>    十、 对于试报中遇到的问题，中资金融机构、全国社会保障基金理事会和中国投资有限责任公司应在报送当期写明具体情况及原因。<br>    十一、 各分局应将本通知尽快转发至辖内各中资外汇指定银行（包括中资地方性城市商业银行、农村商业银行和农村信用社）和从事外汇业务的中资非银行金融机构，并监督报表及时报送。各分局在转发本通知时，应通知辖内中资金融机构报送当地分局的渠道。<br>    如有问题，请与国家外汇管理局国际收支司联系。联系人：周国林、韩健；电话：68402446、68402373。<br>    特此通知。<br>                                                          二ＯＯ八年十月十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

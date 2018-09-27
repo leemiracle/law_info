@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】环境保护部<BR>&nbsp;&nbsp;【发布文号】环办〔2009〕83号<BR>&nbsp;&nbsp;【发布日期】2009-06-26<BR>&nbsp;&nbsp;【生效日期】2009-06-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/bbgtwj/200907/t20090701_153703.htm" target=_blank>环境保护部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>环境保护部办公厅关于开展2009年全国持久性有机污染物更新调查的通知<br><br></font>(环办〔2009〕83号)</p><br><br><br>各省、自治区、直辖市环境保护厅（局），新疆生产建设兵团环境保护局及各有关单位：<br><br>    为履行《关于持久性有机污染物的斯德哥尔摩公约》，落实《中国履行〈关于持久性有机污染物的斯德哥尔摩公约〉国家实施计划》，研究建立我国持久性有机污染物（以下简称POPs）排放源动态上报机制，决定在2006-2008年全国POPs调查工作基础上，2009年组织开展全国POPs更新调查工作。现将有关事宜通知如下：<br><br>    一、2006-2008年全国POPs调查工作已取得丰硕成果，2009年开展全国POPs更新调查工作是对前期成果的深化，也是进一步建立POPs排放源动态上报机制的重要基础性工作，各级环保部门要本着高度负责的精神，加大投入，保证人员，确保调查工作按时顺利完成。<br><br>    二、按照《关于开展全国持久性有机污染物调查的通知》（环发〔2006〕207号）和《2009年全国持久性有机污染物（POPs）更新调查实施方案》（见附件）的统一要求，各地应结合实际，制定详细的工作计划和方案，制定具体的质量保证和质量控制方案，部署、组织协调和指导实施本辖区内的调查工作。<br><br>    三、各地要充分总结前期工作经验，深入学习有关调查技术文件，积极参加我部组织的调查培训，并组织开展好本辖区的调查培训工作，切实做好全过程质量监督工作，保证调查工作的科学性、准确性。<br><br>    四、我部将安排部分资金补助调查工作。各地应根据实际需要，积极争取地方同级财政的资金支持。同时要加强对资金使用的管理，做到专款专用，充分发挥资金使用效益。<br><br>    五、各地要结合已有工作成果，深入分析本辖区POPs污染源变化情况，研究建立持续的POPs污染源动态申报和长效监管机制。<br><br>    联系人：环境保护部污染防治司 臧文超 姚薇<br><br>    电话：（010）66556259 66556258<br><br>    传真：（010）66556287 <br><br>    附件：2009年全国持久性有机污染物（POPs）更新调查实施方案<br><br>    二○○九年六月二十六日<br><br>主题词：环保 化学品 持久性有机污染物 更新 调查 通知<br><br>附件：<br><br>2009年全国持久性有机污染物（POPs）更新调查实施方案<br><br>    为进一步落实《中国履行〈关于持久性有机污染物的斯德哥尔摩公约〉国家实施计划》，更好地履行POPs公约义务，实现POPs污染源信息的动态更新以建立POPs的长效管理机制，按照《关于开展全国持久性有机污染物调查的通知》（环发[2006]207号）的整体部署，环境保护部于2009年组织开展全国持久性有机污染物更新调查工作。<br><br>    一、指导思想与调查目标<br><br>    （一）指导思想<br><br>    以贯彻实践科学发展观为指导，以保障人民健康和环境安全为目的，以实现POPs污染源信息动态更新为工作重点，充分发挥各级环保部门的职能，逐步建立POPs污染源的长效管理机制。<br><br>    （二）调查目标<br><br>    1、完成二恶英类POPs重点排放行业的排放源信息的更新，补充进行二恶英类POPs排放因子监测，进一步评估二恶英类POPs排放状况；<br><br>    2、完成试点调查区域的流通领域杀虫剂类POPs废弃物信息的更新；扩大完成部分地区流通领域杀虫剂类POPs废弃物现状调查。<br><br>    二、调查原则与组织形式<br><br>    （一）调查原则<br><br>    1、动态申报、长效监管<br><br>    随着各地经济发展和全国节能减排工作的大力开展，污染源情况变化较快，有必要建立动态上报机制，及时准确地掌握污染源的变化，为建立长效管理机制奠定基础。<br><br>    各地环保部门应以本次调查为契机，结合本地POPs污染控制与监督管理实施计划的编制，将污染源信息更新和污染控制相结合，逐步实现持续削减和污染监管目标。<br><br>    2、重点突出、高效有序<br><br>    本次调查重点在于更新我国二恶英类POPs排放源信息，开展二恶英类POPs排放因子补充监测。各级环保部门根据实施方案确定的时间节点，高效有序地完成各个阶段的调查工作任务。<br><br>    3、强化监督、保证质量<br><br>    为了保证调查数据的准确，根据统一的质量控制体系，各地环保部门要加强督导，对各环节都进行质量控制，确保调查数据的完整性、准确性和合理性。<br><br>    4、以点带面、提升能力<br><br>    通过建立POPs动态申报机制，提升监测、监管等各方面的能力，建立健全监督机制，促进地方队伍建设，为实现本地区二恶英类POPs的持续削减、POPs废弃物的安全处置、改善本地区的环境质量提供支撑。<br><br>    （二）组织形式<br><br>    本次调查由全国持久性有机污染物调查办公室（以下简称调查办公室）负责组织实施。<br><br>    各级环保部门设立的POPs调查领导小组（或工作组）继续发挥组织作用，精心组织调查工作，按步骤、保质保量完成调查工作。<br><br>    三、技术路线与主要工作任务<br><br>    （一）基准时间<br><br>    本次调查的基准年为2008年，所有统计表中的填报信息均以2008年信息为准（标明具体填写年限的除外）。<br><br>    （二）技术路线<br><br><br><br>    （三）主要工作任务<br><br>    1、更新调查并研究建立动态申报机制<br><br>    各地应按照《关于开展全国持久性有机污染物调查的通知》（环发[2006]207号）确定的组织形式开展工作，以本次调查原则和方法为基础，研究建立POPs信息的动态上报机制，逐步建立长效管理机制。<br><br>    （1）二恶英类POPs调查信息更新<br><br>    本次调查的重点是组织开展二恶英类POPs排放源信息更新，2006年已调查企业进行变更信息的填报，新建和未调查企业按照要求填报所有信息。<br><br>    （2）杀虫剂类POPs扩大调查及信息更新<br><br>    针对杀虫剂类POPs生产企业的废弃物和污染场地情况，进行污染源信息的复核和更新。针对流通领域杀虫剂类POPs废弃物情况，在前期试点调查的基础上，在重庆、吉林、江苏、广东、湖南、四川、山东、天津、山西、河北和辽宁等省市继续组织调查工作，并对存放点周边环境开展监测。<br><br>    2007年已调查的存放点进行变更信息的填报，新增或未调查存放点按照要求填报所有信息。<br><br>    2、二恶英类POPs重点行业排放因子修订完善<br><br>    继续选择典型企业开展监测工作，进行重点行业二恶英类POPs排放因子的修订和完善；开展二恶英类POPs重点排放源的补充和复核监测工作，为准确、客观评估二恶英类POPs排放量提供科学依据。<br><br>    此项任务由相关科研单位承担，地方环保部门配合。<br><br>    3、持久性有机污染物信息管理系统完善<br><br>    在已有POPs管理信息系统基础上，根据调查需求，开发更新相应的调查数据采集、管理功能，开发更新动态上报和监管功能。<br><br>    四、时间安排<br><br>    （一）调查准备阶段<br><br>    2009年2－6月，调查办公室组织专家组做好技术准备。环境保护部向省级环保部门发文，统一部署调查工作。省级环保部门布置本辖区相关工作，落实组织机构和人员。<br><br>    2009年7－8月，由调查办公室组织开展省级环保部门培训。省级环保部门完成地市、区县级培训。<br><br>    （二）调查集中实施与质量监督阶段<br><br>    2009年8－10月，各地方环保部门根据调查指南，对辖区内POPs信息进行更新调查。<br><br>    各省级环保部门根据质量控制方案，指定专人对各地调查实施情况进行监督检查。调查办公室根据质量控制方案，对调查过程进行监督和抽样核查。<br><br>    （三）调查数据汇总与阶段总结阶段<br><br>    2009年11－12月，各省级环保部门将调查数据进行汇总分析，形成调查报告，报送环境保护部。<br><br>    2010年1-3月，环境保护部组织专家对各省调查情况进行抽查和验收。<br><br>    五、质量监督与要求<br><br>    （一）调查办公室依据质量控制方案，不定期进行实地抽查或跟踪调查，按统一要求进行质量控制，确保调查工作质量。<br><br>    （二）各省应采取相应措施，由各级调查领导小组组织和实施各阶段的质量控制工作，保障数据准确性和工作质量。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

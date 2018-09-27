@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】建质安函[2006]135号<BR>&nbsp;&nbsp;【发布日期】2006-11-15<BR>&nbsp;&nbsp;【生效日期】2006-11-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/indus/file/2006111606.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>建设部关于认真学习《中华人民共和国刑法修正案（六）》加强建筑安全生产法制建设的通知<br><br></font>(建质安函[2006]135号)</p><br><br><br>各省、自治区建设厅，直辖市建委，江苏省、山东省建管局，新疆生产建设兵团建设局，计划单列市建委（建设局）：<br><br>    2006年6月29日，十届全国人大常委会第二十二次会议通过了《中华人民共和国刑法修正案（六）》（以下简称《刑法修正案（六）》），进一步明确规定了有关安全生产的犯罪行为，加大了对重大事故责任人员的刑事处罚力度，体现了国家惩治安全生产领域违法犯罪的坚定决心。为认真学习、贯彻《刑法修正案（六）》有关安全生产内容（具体内容见附件），不断加强建筑安全生产法制建设，现将有关事宜通知如下：<br><br>    一、深刻学习、领会《刑法修正案（六）》颁布实施的重大意义和主要内容<br><br>    《刑法修正案（六）》的颁布实施是国家安全生产领域法制建设的一件大事，是贯彻“安全第一、预防为主、综合治理”的方针，运用法律手段严惩安全生产领域犯罪行为的重大举措。《刑法修正案（六）》进一步调整和明确了因“安全生产设施或者安全生产条件不符合国家规定”、“在生产、作业中违反有关安全管理的规定”和“强令他人违章冒险作业”而发生重大伤亡事故或者造成其他严重后果等安全生产典型违法行为，并新增设了对于不报或者谎报事故行为的刑罚规定，同时加大了对强令他人违章冒险作业情节特别恶劣行为的处罚力度，由“处三年以上七年以下有期徒刑”调整为“处五年以上有期徒刑”。全国建筑行业的广大干部职工要充分认识《刑法修正案（六）》的颁布实施对于促进安全生产法制化的重大意义，认真学习并深刻领会有关安全生产的条款和立法精神，不断促进建筑安全生产法制建设，推动全国建筑安全生产形势稳定好转。<br><br>    二、加强领导，精心部署，认真组织学习《刑法修正案（六）》<br><br>    各地建设行政主管部门要认真组织本地区建设系统的各级行政管理人员、安全监督执法人员和施工企业、监理企业的主要负责人、项目负责人、专职安全生产管理人员和施工作业人员，认真学习《刑法修正案（六）》有关安全生产内容。一是要加强组织领导，精心制定学习方案，明确学习目标、学习方式、学习时间安排和考核办法，确保学习不走过场、取得实效。二是要突出学习重点，逐字逐句认真研读法律原文，对比条文字句修改前后变化，明确各个安全生产违法行为的法律构成要件和刑事处罚。三是要把《刑法修正案（六）》的学习同其它安全生产法律法规和制度措施的培训结合起来，将《刑法修正案（六）》的学习要求纳入安全生产培训的整体框架，统筹考虑，全面推进。四是要将学习和研究结合起来，结合建筑安全工作实际，研究、界定《刑法修正案（六）》规定的安全生产违法行为在建筑安全领域的具体表现形式，强化现有法规制度与刑法的衔接。<br><br>    三、进一步完善建筑安全生产法规规章和技术标准体系<br><br>    各级建设行政主管部门要以学习和贯彻《刑法修正案（六）》为契机，不断完善建筑安全生产法规规章和技术标准体系。一是要继续完善建筑安全生产法规规章，尽快建立完善符合社会主义市场经济要求的建筑安全生产法规体系。二是要不断完善建筑安全生产技术标准和规范，根据经济的发展和科技的进步，适时制定和调整有关内容，充分发挥技术标准在促进规范操作流程和强化安全管理方面的作用。三是要改进立法的方式方法，立法过程中要开展深入的调查研究，广泛听取从业人员和社会公众意见，坚持立法的科学性，保证法规的可操作性。四是要加强对建筑安全生产法规规章、规范性文件实施情况的跟踪和评估，发现实施过程中存在的问题并及时研究修改意见，确保各项法规制度的不断完善和有效实施。<br><br>    四、坚持依法行政，加强建筑安全生产监督管理队伍建设<br><br>    各地建设行政主管部门要通过学习和贯彻《刑法修正案（六）》，认真落实《全面推进依法行政实施纲要》规定的各项任务，提高依法行政的能力和水平。一是要按照《行政许可法》和《安全生产许可证条例》的要求，严格实施建筑施工企业安全生产许可证审批和“三类人员”安全生产考核合格证书核准等两项安全生产行政许可，简化和规范操作程序，公开许可依据、条件和时限要求。二是严格执法，加强与有关部门沟通，确保重大事故按规定时间结案，同时要按照“四不放过”的原则，加大对事故责任单位和责任人的处罚力度，尤其是要强化对企业主要负责人和项目负责人的责任追究力度。三是要按照强化社会管理和公共服务职能的要求，进一步建立和完善建筑安全生产监督管理机构，加强与编办和财政部门协调沟通，解决机构人员编制和工作经费问题，为建立“权责明确、行为规范、监督有效、保障有力”的行政执法体制奠定基础。四是要加强对各级建筑安全监督执法人员的培训教育，建立监督执法人员考核上岗制度，利用各种方式和手段促使其掌握和精通安全生产法律法规和标准规范，不断提高其依法行政水平和业务素质。<br><br>    五、强化安全生产普法力度，提高从业人员和社会公众安全生产意识<br><br>    各级建设行政主管部门要结合《刑法修正案（六）》的学习贯彻和国家“五五”普法活动，加大建筑安全生产法律法规的普法力度，提高建筑行业从业人员和社会公众的安全生产素质。一是要利用广播、电视、报刊和网络等各种新闻媒介，采取多种形式手段，大力宣传《建筑法》、《安全生产法》、《刑法修正案（六）》、《建设工程安全生产管理条例》和《安全生产许可证条例》等法律法规，使之贯彻落实到每个主管部门、施工企业、监理企业、工程项目、作业班组和施工人员。二是要重点抓好对农民工的安全生产普法教育，促使他们提高安全生产意识和操作技能，帮助他们学会运用法律武器维护自身合法的安全卫生权益，推动他们向新型、文明、知法守法的产业工人的转变。三是要以安全生产普法为重点，在全社会和全行业营造浓厚的“以人为本，关爱生命”的安全文化氛围，使得安全意识深深植根于人们的思想深处，使得安全行为成为人们的良好习惯，形成和巩固“政府统一领导、部门依法监管、企业全面负责、群众参与监督、全社会广泛支持”的工作格局，坚决保障人民生命财产安全，为全面建设小康社会目标的实现和构建社会主义和谐社会作出贡献。<br><br>    附件：《刑法修正案（六）》有关安全生产内容<br><br>建设部<br>二○○六年十一月十五日          <br><br><br>    附件：<br><br>《刑法修正案（六）》有关安全生产内容 <br><br>    一、将刑法第134条修改为：“在生产、作业中违反有关安全管理的规定，因而发生重大伤亡事故或者造成其他严重后果的，处3年以下有期徒刑或者拘役；情节特别恶劣的，处3年以上7年以下有期徒刑。”“强令他人违章冒险作业，因而发生重大伤亡事故或者造成其他严重后果的，处5年以下有期徒刑或者拘役；情节特别恶劣的，处5年以上有期徒刑。” <br><br>    二、将刑法第135条修改为：“安全生产设施或者安全生产条件不符合国家规定，因而发生重大伤亡事故或者造成其他严重后果的，对直接负责的主管人员和其他直接责任人员，处3年以下有期徒刑或者拘役；情节特别恶劣的，处3年以上7年以下有期徒刑。”<br><br>    三、在刑法第139条后增加一条，作为第139条之一：“在安全事故发生后，负有报告职责的人员不报或者谎报事故情况，贻误事故抢救，情节严重的，处3年以下有期徒刑或者拘役；情节特别严重的，处3年以上7年以下有期徒刑。” <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

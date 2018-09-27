@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券监督管理委员会 国务院第一次全国经济普查领导小组办公室<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2004-09-21<BR>&nbsp;&nbsp;【生效日期】2004-09-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=86993" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>第一次证券业经济普查办法</font></p><br><br><br><font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 根据《<a href=javascript:ROF(25357,0) class=alink>中华人民共和国统计法</a>》、《<a href=javascript:ROF(90134,0) class=alink>国务院关于开展第一次全国经济普查的通知</a>》（国发[2003]29号）和《<a href=javascript:ROF(96273,0) class=alink>全国经济普查条例</a>》、《关于第一次全国经济普查若干问题的规定》，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 普查的目的是全面掌握我国证券业的发展规模、结构、效益等情况，建立证券业经济普查数据库及基本单位名录库，为研究制定证券业发展规划，提高政府决策、管理水平提供基础信息，为社会公众提供信息服务。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 普查在国务院第一次全国经济普查领导小组及其办公室和第一次证券业经济普查领导小组及其办公室的统一领导下进行。<br><br>中国证监会联合相关单位设立第一次证券业经济普查领导小组及其办公室，在国务院第一次全国经济普查领导小组及其办公室的统一领导下，负责第一次证券业经济普查的组织实施。<br><br>第一次证券业经济普查领导小组办公室设在中国证监会市场监管部。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 普查的标准时点为2004年12月31日，普查资料的调查年度为2004年。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 普查所需经费由国务院第一次全国经济普查办公室、中国证监会共同负担。普查经费应当统一管理，从严控制支出。<br><br><font class='zhang'>第二章</font> 普查对象、范围和调查方法<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 普查的对象是在中华人民共和国境内从事证券业的全部法人单位及其附属的产业活动单位。具体范围包括：证券交易所、期货交易所、证券登记结算公司、证券公司、基金管理公司、期货经纪公司、证券期货投资咨询公司、境外证券机构驻华代表处及上述单位所属从事证券相关业务的法人单位及其所属产业活动单位。 <br><br>    法人单位及其所属产业活动单位的概念及划分办法按国家统计局制定的《第一次全国经济普查法人单位、产业活动单位和个体经营户划分规定》执行。<br><br>    证券业法人单位所属从事非证券业务活动的法人单位及所属产业活动单位，如具有法人资格的工业企业、批零企业、运输企业、其他服务企业等及所属的产业活动单位的普查，由地方全国经济普查机构负责实施，第一次证券业经济普查领导小组办公室予以协助。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 对各证券业法人单位及所属产业活动单位，采用全面调查的方法。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 证券业法人单位及境外证券机构驻华代表处应设立普查办公室或指定专人负责本单位的普查工作。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 普查对象必须依照《中华人民共和国统计法》，如实提供普查资料，不得虚报、瞒报、拒报和迟报，不得伪造和篡改。<br><br><font class='zhang'>第三章</font> 普查表式及主要内容<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 普查表包括《法人单位基本情况》表（601表）、《产业活动单位基本情况》表（602表）、《产业活动单位基本情况附表》（602-1表）、《证券业资产负债表》（G639表）、《证券业损益表》（G640表）和《证券业费用明细表》（G641表）。主要内容包括：单位基本情况、从业人员情况、财务状况等。<br><br>   <a name='11'><font class='TiaoNoA'>第十一条</font></a> 普查采用国家制订的统一标准和目录。主要标准包括：《第一次全国经济普查法人单位、产业活动单位和个体经营户划分规定》、《统计上使用的行政区划代码结构及编制规则》《国民经济行业分类》、《关于划分企业登记注册类型的规定》、《关于统计上国有经济控股情况的分类办法》、《单位隶属关系代码》、《组织机构类型与代码》、《国别（地区）统计代码》等。 <br><br><font class='zhang'>第四章</font> 普查组织实施方式<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 普查工作按照全国统一领导、各方共同参与的原则组织实施。<br><br>    第一次证券业经济普查领导小组办公室与国务院第一次全国经济普查领导小组办公室共同制定普查方案，并向各相关单位、部门布置和培训。<br><br>    证券业601表、602表和602-1表（所附表式供培训用，实际执行以地方普查机构布置的为准）的组织实施，由地方普查机构负责，各级证券监管部门予以协助。G639表、G640表和G641表（所附表式供培训用，实际执行以证券业普查机构布置的为准）的组织实施由证券业普查机构负责。<br><br>    证券业法人单位应指派专人负责本单位及附属产业活动单位的普查报表填报工作。所填报的601表、602表和602-1表报地方普查机构；G639表、G640表和G641表在报证券业普查机构的同时,抄报地方普查机构。<br><br>    第一次证券业经济普查领导小组办公室按国务院第一次全国经济普查领导小组办公室相关要求对普查资料进行审核后，以电子版和纸介质两种形式报国务院第一次全国经济普查领导小组办公室。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 第一次证券业经济普查领导小组及其办公室成员有权查阅普查对象的会计、统计原始资料；有权要求被普查单位更正其普查表中的不实之处。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 普查工作分为四个阶段进行。2004年12月底前为普查的准备工作阶段，主要进行普查办法编制、普查对象清查、普查人员培训等工作；2005年1月为下发普查表阶段；1－4月为普查对象填写、上报普查表阶段；2005年2－7月为普查表收集，普查数据处理、汇总、评估阶段；2005年7－8月为普查数据备份、普查数据库和基本单位名录库建立和普查资料上报阶段；2005年9月－2006年为数据发布、资料开发应用、普查工作总结和评比表彰阶段。<br><br><font class='zhang'>第五章</font> 数据处理和质量控制<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 普查的数据处理工作由第一次证券业经济普查领导小组办公室组织实施。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 第一次证券业经济普查领导小组办公室应根据国家的统一规定，建立数据质量控制岗位责任制，制定质量控制工作细则，指定专人负责、指导和检查质量控制工作，对普查实施中的各个环节实行质量控制。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 普查对象应严格按照普查表的填报规定和填写说明，认真填报普查表。对于不确定的内容应及时向第一次证券业经济普查领导小组办公室咨询。<br><br>    填写正式普查表之前，应填写普查表草表。对草表的每一个调查项目以及每一个指标和代码进行详细审查，保证填写内容有根有据，在无逻辑性和技术性差错的情况下，再填写正式表。<br><br>    填写正式普查表之后，要进行自查。作到“五核对”：1、属性指标与执照或审批手续核对；2、法人单位所属的产业活动单位数与所填报的产业活动单位普查表张数核对；3、表与表之间相关联的指标核对；4、单位内部有关职能部门之间的资料核对；5、普查资料与年报资料核对。自查确认无误后，经自查工作人员和单位相关领导签字后上报。<br><br>    上报普查表时，应按相关要求同时上报普查表书面版本和电子版本，并确保书面版本和电子版本内容完全一致。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 普查人员在接收普查表和普查数据录入、处理、汇总时，应按相关规定认真进行，责任到人。<br><br>    接收普查表时，应检查报表是否齐全，确认齐全后签字给出书面签收意见。并将上报普查表的名单与发表对象名单进行核对，做到单位不重不漏。<br><br>    数据录入、处理时，应对普查表内容的完备性、逻辑性和客观性进行检查和判断，有问题的必须查明原因，进行记录和签字。并通知原报送单位，要求其校正后重报。<br><br>    数据汇总后，应对汇总结果的逻辑性和客观性进行判断，有问题的必须查明原因，核查校正，并对校正情况进行记录和签字。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 第一次证券业经济普查领导小组办公室在普查数据处理结束后，进行普查数据备份，并建立证券业经济普查数据库及普查基本单位名录库。<br><br><font class='zhang'>第六章</font> 数据公布和资料管理<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 第一次证券业经济普查领导小组及其办公室按第一次全国经济普查办公室的相关要求对外公布、提供证券业普查资料。未经第一次证券业经济普查领导小组或普查办公室批准和认可，任何单位、个人不得向外公布、提供。<br><br>    第一次证券业经济普查领导小组办公室经第一次证券业经济普查领导小组组长和办公室主任签字批准后，按第一次全国经济普查办公室相关要求向其提供证券业普查汇总资料。<br><br>    第一次证券业经济普查领导小组办公室应对普查汇总资料进行认真分析和综合评估，经第一次全国经济普查办公室和第一次证券业经济普查领导小组批准后，以普查公报的形式向社会公开发布。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 第一次证券业经济普查领导小组办公室及工作人员必须严格遵守《中华人民共和国统计法》及其实施细则的有关规定，对普查中知悉的国家秘密和被调查者的商业秘密要严格保密。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 第一次证券业经济普查领导小组办公室应认真做好普查资料的保存、管理及对外服务工作，并对普查资料进行深度开发和应用。<br><br><font class='zhang'>第七章</font> 表彰和处罚<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 对在普查工作中贡献突出的先进集体和先进个人，第一次证券业经济普查领导小组办公室予以表彰和奖励。具体奖励等次、奖励人员人数比例、奖励办法另行规定。<br><br>    对在普查工作中严重违反本办法有关规定的机构和人员，提出批评教育，情节严重者应依法处理。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 对虚报、瞒报、迟报、拒报普查资料的单位和个人，依照《中华人民共和国统计法》及其实施细则予以处罚。构成犯罪的，依法追究刑事责任。<br><br><font class='zhang'>第八章</font> 附则<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 本办法由第一次证券业经济普查领导小组办公室负责解释。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 本办法自发布之日起施行。<br><br><br>中国证券监督管理委员会 国务院第一次全国经济普查领导小组办公室<br>二零零四年九月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

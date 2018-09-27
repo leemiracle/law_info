@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办机[2008]18号<BR>&nbsp;&nbsp;【发布日期】2008-05-21<BR>&nbsp;&nbsp;【生效日期】2008-05-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20080521_1044909.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于做好农机抗震救灾恢复生产工作的紧急通知<br><br></font>(农办机[2008]18号)</p><br><br><br>各省、自治区、直辖市及计划单列市农机管理局（办），新疆生产建设兵团农机局、黑龙江省农垦总局农机局：<br><br>    “5.12”四川汶川特大地震灾害发生后，各级农机管理部门迅速行动起来，全力投入到抗震救灾工作中，各项工作正在紧张、有序、高效进行。当前，抗震救灾形势依然严峻，“三夏”生产高潮即将到来，时间紧迫，任务艰巨。各级农机管理部门要坚决贯彻执行党中央、国务院和部党组的决策部署，坚持一手抓抗震救灾，一手抓农业生产，大力发扬不畏艰难、连续作战的精神，更加迅速行动，更加紧密配合，更加高效工作，全力投入抗震救灾和“三夏”农业生产两场战役。现将有关工作要求紧急通知如下：<br><br>    一、积极投入抢险救灾。受灾地区农机管理部门要成立农机抗震抢险作业队、抗旱排涝救灾队等，积极组织拖拉机等运输机械拉运土石方、生活用水和救灾物资，组织抽水机等移动排灌机械投入灾区救灾提水，帮助解决好灾区灾民生产、生活用水问题。做好小型柴油机的货源组织和应急供应工作。<br><br>    二、抓紧修复受损农机具和基础设施。农业部农机鉴定总站和灾区农机管理部门要抽调农机维修技术人员深入灾区，组织好零配件供应，全力抢修因灾受损农机具。组织力量修复损毁农村机电提灌站、机耕路、机库棚等基础设施，为恢复灾区农业生产做好准备。<br><br>    三、迅速组织农机抢收抢种服务。受灾地区农机管理部门要在保障安全和不影响抗震救灾工作秩序的前提下，组织成立农机志愿服务队、农机帮扶队深入灾区开展流动作业，全力以赴抢收油菜、小麦，抢种水稻、玉米，努力减轻灾害对农业生产的影响。积极争取政府和有关部门的资金支持，对农机作业实施补贴，对受灾家庭实行免费农机作业服务。<br><br>    四、尽快开展农机系统帮扶活动。各地要继续发扬“一方有难、八方支援”的优良传统，鼓励、动员农机系统支援灾区，组织农机企业向重灾区捐赠拖拉机、收割机、插秧机、喷雾器等急需适用的农机具。鼓励非灾区与灾区农机部门“结对支援、定点帮扶”，帮助解决灾区农机系统干部职工的实际困难，尽快恢复正常的工作秩序。<br><br>    五、认真制定农机灾后恢复重建方案。受灾地区农机管理部门要继续跟踪灾情发展，全面、及时、准确地统计农机系统受灾情况，研究灾害对农机化生产的后续影响，提出应对措施，做好农机灾后恢复重建方案。<br><br>    六、大力宣传农机抗震救灾先进事迹。坚持正确的舆论导向，要广泛收集、及时反映农机抗震救灾工作动态，大力宣传农机系统在抗震救灾中的先进事迹、工作措施和成效，以及农机在抗灾救灾中的重要作用，以激励士气，为抗震救灾营造良好环境。<br><br>    七、切实抓好“三夏”小麦跨区机收工作。各地要加强组织领导，周密部署，科学调度机具，搞好信息服务，狠抓安全生产，协调做好农用柴油供应，发挥农业机械在“三夏”农业生产的主力军作用，努力保证夏季粮油丰产丰收和全年农业有个好收成，以实际行动支援抗震救灾。<br><br>    各级农机管理部门要增强大局意识、责任意识和服务意识，根据抗震救灾进展情况，统筹兼顾，突出重点，提前谋划，提高效率，推动各项工作有力、有序、有效开展，为夺取抗震救灾全面胜利贡献力量。<br><br>                                      二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

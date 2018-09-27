@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办〔2007〕182号<BR>&nbsp;&nbsp;【发布日期】2007-09-10<BR>&nbsp;&nbsp;【生效日期】2007-09-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://218.85.73.164:8081/gazette/detail_gazette.jsp?channelid=75140&primarykeyvalue=ARTICLEID%3D047141C9E.00001078.D7AB&primaryrecord=1" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅关于加强我省政府类互联网站安全管理的通知<br><br></font>(闽政办〔2007〕182号)</p><br> <br> <br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业、各高等院校：   <br><br>    为加强我省政府类互联网站的安全管理，确保网站健康有序发展，现就加强我省政府类互联网站安全管理工作通知如下：   <br><br>    一、要高度重视网站安全管理工作   <br><br>    各级各单位要高度重视信息安全工作，把信息安全放到至关重要的位置上，切实加强本单位互联网站的安全管理，正确处理好安全与发展的关系，按照以发展求安全、以安全保发展的信息化建设根本要求，坚持一手抓好互联网站的建设，一手抓好互联网站的安全保障。一要严格按照“谁主管、谁负责，谁使用、谁负责”的原则，建立互联网站安全管理工作小组，由单位分管领导任组长，并确定本单位负责互联网站安全管理工作的主要责任部门以及部门主要责任人，逐级签订网络与信息安全责任状，将互联网站安全管理工作分解到具体部门及具体人员。领导小组名单应报当地公安机关备案。二要严格网站接入管理。市、县（区）政府类互联网站开通前，应报设区市公安局备案，省直单位应报省公安厅公共信息网络安全监察部门备案，并由省网络与信息安全测评中心进行安全评估。评估合格后，方可接入互联网。之前已经开通的政府类互联网站，应于本通知下发后一个月内，向公安机关补办备案手续，并向省网络与信息安全测评中心申请开展安全评估。评估不合格不得投入使用。托管在省外的政府类互联网站应在年底前移回省内，并在移回后一个月内，及时向公安机关备案，并向省网络与信息安全测评中心申请开展安全评估。评估不合格不得投入使用。三要加强信息发布管理。由专人负责对拟上网发布的信息进行审核，统一信息发布出口，未经审核批准的信息不得上网发布。要指定专门人员对网站日常信息进行监控及安全技术维护。   <br><br>    二、要建立健全网站安全管理制度   <br><br>    各级各单位要将建立互联网站安全管理制度作为本单位信息安全规范化建设的一项重要内容，依据国家相关法律法规及公安机关等信息安全主管部门的相关要求，建立健全安全管理制度。一要建立政府类网站计算机房人员出入管理登记等管理制度。二要建立操作权限管理制度，明确互联网站安全负责人、安全管理员、系统管理员、信息发布员等的权限和操作范围。三要建立操作人员密码管理制度，定期修改管理密码。四要建立计算机病毒防治制度，定期进行病毒检查。用介质交换数据必须进行病毒预检，防止病毒破坏系统和数据。要建立网络安全漏洞检测和系统升级管理制度，及时检测发现漏洞，下载安装系统补丁。五要制定网络与信息应急处置预案，完善应急措施，有效应对各种突发事件。   <br><br>    三、要落实网站安全技术措施       <br><br>    各级各单位要根据公安部《互联网安全保护技术措施规定》，完善互联网站的安全技术措施。一要建立重要数据库和系统主要设备的冗灾备份措施。二要落实防范计算机病毒、网络入侵和攻击破坏的技术措施。三要建立防范网站、网页被篡改以及自动恢复的技术措施。四是提供交互式栏目等服务的网站，必须具备记录用户注册信息，记录并留存发布的信息内容及发布时间。五是开办电子邮件和网上短信服务的网站，要建立防范和清除以群发方式发送伪造、隐匿信息发送者真实标记的技术措施。   <br><br>    四、要加强督促检查   <br><br>    各级公安机关应当依法对辖区内政府类互联网站安全组织、安全管理制度及安全技术措施的落实情况进行指导、监督和检查。各级各单位要加强与公安机关等有关主管部门的沟通联系，积极配合和支持公安机关公共信息网络安全监察部门开展安全监察和查处案件等工作，发生安全事件应第一时间报告当地公安机关。要加强网络与信息安全培训工作，积极选送互联网站安全负责人及管理员，参加公安、人事部门组织的信息网络安全专业技术人员继续教育。<br><br><br>福建省人民政府办公厅<br>二○○七年九月十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

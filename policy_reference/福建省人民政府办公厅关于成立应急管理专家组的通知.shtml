@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办[2007]68号<BR>&nbsp;&nbsp;【发布日期】2007-04-16<BR>&nbsp;&nbsp;【生效日期】2007-04-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12500" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅关于成立应急管理专家组的通知<br> <br></font>(闽政办[2007]68号)</p><br><br> <br>各市、县（区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：                            <br><br>    为加强应对和处置各类突发公共事件的技术研究和应急管理理论研究，为应急管理工作提供决策咨询和技术支撑，大力推进公共安全学科建设，加快应急管理人才培养，根据《福建省突发公共事件总体应急预案》的要求，经省政府批准，成立应急管理专家组。第一批专家组成员26名，涉及自然灾害、事故灾难、公共卫生、社会安全4大类。现将人员名单通知如下：                            <br><br>    成  员（每一类别专家按姓氏笔划排序，括号内为其主要研究领域）：                            <br><br>    一、自然灾害类（10名）                        <br><br>    丁学仁  省地震局科技委主任、研究员（地震预测预报、工程地震）                        <br><br>    刘爱鸣  省气象台副台长、正研级高工（天气预报）                        <br><br>    陈以确  省水利厅总工程师、高工（江海堤防、水库大坝）                        <br><br>    张闽生  省水利建设中心总工程师、教授级高工（水利、围海工程）                        <br><br>    林庆源  省森林病虫害防治检疫总站站长、教授级高工（森林病虫害防治、检疫、测报）                        <br><br>    周秋麟  国家海洋局第三海洋研究所研究员（海洋生态、海洋管理）                        <br><br>    黄  建  福建农林大学植物保护学院院长、教授（植物保护、有害生物监测与控制）                        <br><br>    黄金水  省林业科学研究院所长、教授级高工（林业有害生物防控技术）                        <br><br>    黄毓明  省国土资源厅地质勘查处副处长、高工（环境地质）                        <br><br>    潘沧桑  厦门大学生命科学学院教授（植物线虫及其生物防治）                            <br><br>    二、事故灾难类（9名）                        <br><br>    王玉宝  福建海事局危管防污处副处长、教授级高工（危险品和防污染管理）                        <br><br>    边归国  省环保局总工程师办公室调研员、高工（反化学和生物恐怖、突发环境事件应急处理）                        <br><br>    杨圣云  厦门大学海洋与环境学院党委书记、教授（海洋生态、海洋管理、海洋渔业资源）                        <br><br>    沈斐敏  福州大学环境与资源学院院长、教授（矿山通风与安全、安全系统工程）                        <br><br>    陈榕光  福建永安化工厂副厂长、高工（民用爆破器材技术安全）                        <br><br>    郑忠惠  省天湖山能源实业有限公司党委副书记、高工（采矿安全技术管理）                        <br><br>    游仁敏  省电力有限公司安监部主任、高工（电力系统安全生产）                        <br><br>    董声雄  福州大学化学化工学院教授（化学工艺、功能高分子材料、膜科学技术）                        <br><br>    魏木水  省职业病与化学中毒预防控制中心主任技师（辐射防护剂量与安全、放射诊疗技术准入）                            <br><br>    三、公共卫生类（4名）                        <br><br>    严延生  省疾病预防控制中心主任、主任技师（传染病分子流行病学）                        <br><br>    夏宁邵 厦门大学国家传染病诊断试剂与疫苗工程技术研究中心主任、教授（预防医学、分子病毒学）                        <br><br>    袁东星  厦门大学海洋与环境学院院长、教授（环境分析化学、环境污染化学分离科学）                        <br><br>    梁全顺  省动物疫病预防控制中心主任、高级兽医师（动物疫病预防控制）                            <br><br>    四、社会安全类（3名）                        <br><br>    刘国深  厦门大学台湾研究院院长、教授（台湾政治、两岸关系）                       <br><br>    詹石窗  厦门大学宗教学研究所所长、教授（宗教学）                        <br><br>    熊一新  福建公安高等专科学校校长、教授（治安、社会公共安全管理）                                                    <br><br><br>    附件：1.《应急管理专家组工作规则》<br> <br>          2.《应急管理专家组工作要点》<br><br><br>福建省人民政府办公厅<br>二○○七年四月十六日<br><br>    附件1：                        <br><br>应急管理专家组工作规则<br><br><br>第一章  总  则                        <br><br>    第一条  为进一步发挥技术咨询机构和专家的咨询指导作用，完善政府、专家和公众三结合的决策机制，促进公共安全科学技术发展和应用，推动应急管理工作深入开展，根据《福建省突发公共事件总体应急预案》的有关规定，建立福建省应急管理专家组（以下简称“专家组”）。为确保专家组相关研究和咨询工作的有效开展，制定本规则。                        <br><br>    第二条  本规则适用于专家资格认定、入选及专家组运行和管理活动。                        <br><br>第二章  工作内容                        <br><br>    第三条  专家组的工作内容是，为全省应急管理工作提供决策建议、专业咨询、理论指导和技术支持。主要包括：                         <br><br>    （一）根据有关工作安排和课题研究计划，开展或参与调查研究。                        <br><br>    （二）受委托，对特别重大或重大突发公共事件进行分析、研判，必要时参加应急处置工作，提供决策建议。                        <br><br>    （三）为应急管理各类数据库建设提供指导。                        <br><br>    （四）参与应急管理教育培训工作及相关学术交流与合作。                        <br><br>    （五）办理省政府领导或省应急办委托的其他工作。                        <br><br>第三章  人员组成                        <br><br>    第四条  专家组由自然灾害、事故灾难、公共卫生事件、社会安全事件及综合管理等5个领域的专家学者组成。                        <br><br>    第五条  遴选的专家组成员应有广泛的代表性，具备以下入选资格：                         <br><br>    （一）拥护党的基本路线、基本纲领、基本方针。                        <br><br>    （二）具有高级以上技术职称，在本专业范围内具备较高的科研和技术水平、丰富的实践经验和较强的决策咨询能力。                        <br><br>    （三）对应急管理工作有热忱、有责任感；有良好的学术道德，廉洁奉公、遵纪守法、责任心强；善于听取各方面意见，在同行专家中有较高的威信和组织协调能力；作风正派，坚持原则，团结同志，办事公正。                        <br><br>    （四）身体健康，年龄适宜，在精力和时间上能够保证参加专家组组织的相关工作和活动。                        <br><br>    第六条  各设区市、有关部门和单位根据以上要求推荐专业领域以及相应专家人员的建议名单，经省应急办汇总审核后报省政府领导审定。经批准后，以省政府办公厅文的形式通知各地、各有关部门和单位。                        <br><br>    第七条  专家组成员每届5年，任期届满，自动离职或重新办理有关手续。根据工作需要调整的专家组成员，按程序报批。                        <br><br>第四章  工作制度                        <br><br>    第八条  专家组日常工作的开展方式如下：                         <br><br>    （一）根据工作需要，不定期组织专家座谈或会商，研究有关应急管理专项工作。                         <br><br>    （二）特别重大、重大或较大突发公共事件发生后，启动专家咨询和技术指导程序。                         <br><br>    （三）根据应急管理体系的建设情况，每年度研究确定若干重点课题，组织有关专家进行专题调研。                         <br><br>    （四）受委托开展其他专项工作。                        <br><br>    第九条  专家组建立信息通报机制。                        <br><br>    以应急管理专家组名义开展工作形成的研讨意见、评审结果和论证结论等，由省应急办报送有关领导或送有关部门。                        <br><br>    专家组工作情况以及有关调研报告和学术论文等，由省应急办视情况在《应急管理工作情况》简报或推荐到国家有关杂志刊发。                        <br><br>    第十条  专家组内部要严格依照专家组工作规则和年度计划开展工作，对重大问题要积极主动地组织研究，提出解决方案。健全内部监督自律制度，未经批准，专家组成员不得以专家组的名义组织任何活动，并对以下事项保密：                         <br><br>    （一）以专家组成员身份开展的有关涉密工作。                         <br><br>    （二）省政府有关规定涉及的保密事项。                        <br><br>    违反有关规定的，一经查实即取消专家组成员资格。                        <br><br>第五章  保障措施                        <br><br>    第十一条  省应急办承担专家组秘书处职责，负责组织安排专家组日常工作。                        <br><br>    第十二条  省应急办研究提出专家组年度工作安排建议和经费预算，经领导批准后，向省财政厅专项申请并负责经费管理。                        <br><br>    第十三条  本工作规则自发布之日起施行。                        <br><br>    第十四条  本工作规则由省政府办公厅负责解释。<br><br>    附件2：                        <br><br>应急管理专家组工作要点<br><br>    一、按照省政府的要求，结合专家组职责任务，研究制定专家组年度工作目标和具体方案，细化工作制度，保证专家组工作正常开展和规范运转。                            <br><br>    二、根据需要，组织和动员专家组成员及各领域的专业人才，协助相关应急管理机构应对各类重大突发公共事件，指导制定科学、有效的处置方案，为政府应急管理工作提供决策咨询。                            <br><br>    三、研究提出近期需要深入研究的应急管理重大理论和实践课题，具体由省应急办审核并按程序报批后组织实施。                            <br><br>    四、根据有关工作安排，围绕应急管理工作的中心任务，组织专家组成员深入各地、各部门，针对深化“一案三制”建设、完善应急管理体系等问题开展调研，提出工作建议。                            <br><br>    五、受委托，参与重大突发公共事件典型案例的评估分析，总结应对工作经验教训，提出对策建议；指导省政府应急平台案例库建设工作。                        <br><br>    六、参与制定全省应急管理培训指导纲要和应急管理人才培训工作，协助组织编写相关重点教材和应急管理工作手册。                        <br><br>    七、发挥专家组成员在应急管理学术领域的影响力，推动应急管理工作的省内外交流与合作。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

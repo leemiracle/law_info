@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办疾控发〔2006〕165号<BR>&nbsp;&nbsp;【发布日期】2006-09-08<BR>&nbsp;&nbsp;【生效日期】2006-09-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12945&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于开展全国第三次死因回顾抽样调查的补充通知<br><br></font>(卫办疾控发〔2006〕165号)</p><br><br><br>河北、安徽、河南、湖北、广东、广西、云南省（自治区）卫生厅：<br>    为了解近年来艾滋病死亡状况和漏报情况，科学、客观地评价艾滋病流行对当地人口的影响，根据卫生部、科技部《关于开展全国第三次死因回顾抽样调查的通知》（卫疾控发〔2006〕209号），我部决定在全国第三次死因回顾抽样调查的基础上，增加10个县（市）（见附件1）开展艾滋病死因调查。现将有关要求通知如下：<br>    一、增加的10个县（市）按照《全国第三次死因回顾抽样调查实施方案》（以下简称《方案》）要求的内容与方法，在完成全死因调查的基础上，完成有关艾滋病的死因调查。中国疾病预防控制中心性艾中心负责增加的10个县（市）调查的有关技术支持工作。<br>    二、按照《方案》确定需要入户调查的，在完成《方案》要求的《居民死亡原因调查表》和《死因推断量表》后，增加《死因调查表》（见附件2）的调查任务。如果在死因登记时，《居民死亡调查表》中已明确填写死亡原因，且死亡原因为高度怀疑与ＨＩ  Ｖ感染有关的疾病，如卡氏肉瘤、卡氏肺囊虫肺炎、隐孢子球菌性肠炎、口腔及咽部霉菌感染、弓形体脑炎、病毒性疱疹、结核病、肺炎、乙型肝炎、脑膜炎、感染性脑病、吸毒过量、自杀等，则必须进行入户调查，完成《死因调查表》，进一步明确死亡原因。<br>    三、鉴于我国从2003年开始艾滋病抗病毒治疗的实际，对增加的10个县（市）的调查期限作如下调整：广东、广西、云南的5个县（市）由《方案》中的2004－2005年调整为2003－2005年；河北、安徽、河南、湖北的5个县（市）调整为2001－2005年。<br>    四、按照《关于开展全国第三次死因回顾抽样调查的通知》的要求，各县（市）成立死因推断专家组，负责死因推断工作（艾滋病死因推断流程和标准详见附件3、4）。<br>    五、增加的10个县（市）的调查员，除按照全国第三次死因调查的要求配备外，应至少有一名负责当地艾滋病防治工作的县疾控中心的工作人员参与现场调查工作。死因调查的所有表格及相关附表的录入要求，与全国第三次死因调查相同。所有资料和电子文档由各自所属省级疾病预防控制中心汇总后，报中国疾病预防控制中心性艾中心。<br>    六、进度要求：2006年8－9月，成立死因调查的工作机构，明确工作程序，部署相关工作，完成各级培训及其他准备工作；2006年10－12月，完成现场调查及调查资料审核、死因编码、数据整理录入、资料验收等工作，省级疾病预防控制中心向中国疾病预防控制中心性艾中心提交相关数据的电子文件；2007年1－2月，中国疾病预防控制中心性艾中心组织专家审核验收，完成数据汇总及初步统计分析；2007年3月，提交调查报告。<br>    七、增加的10个县（市）的调查经费由卫生部统一提供，不足部分由省、县（市）配套解决。<br>附件：<br>1．全国第三次死因回顾调查增加的10个样本县（市）名单<br>2．死因调查表<br>3．艾滋病死因推断流程<br>4．艾滋病死因推断标准<br>二○○六年九月八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

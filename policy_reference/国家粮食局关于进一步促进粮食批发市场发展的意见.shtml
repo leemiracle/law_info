@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家粮食局<BR>&nbsp;&nbsp;【发布文号】国粮政[2005]192号<BR>&nbsp;&nbsp;【发布日期】2005-12-30<BR>&nbsp;&nbsp;【生效日期】2005-12-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinagrain.gov.cn/gzdt/20051230.html" target=_blank>国家粮食局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家粮食局关于进一步促进粮食批发市场发展的意见<br><br></font>(国粮政[2005]192号)</p><br><br><br>    粮食批发市场是粮食市场体系的重要组成部分。经过十几年的发展，我国粮食批发市场已具有一定规模，在组织粮食流通、满足消费需求、调控粮食市场、合理配置粮食资源等方面发挥了重要作用。但是，粮食批发市场建设还面临一些突出问题，主要是：市场建设缺乏整体规划，存在盲目重复建设现象；一些市场定位不明确，服务功能不强，经营观念和方式不适应新形势发展的要求；扶持市场发展的政策措施不完善，市场管理的法规规章不健全等。根据《国务院关于进一步深化粮食流通体制改革的意见》（国发[2004]17号）关于“加强粮食批发市场建设，提升市场服务功能”的要求，为促进粮食批发市场健康有序发展，更好地发挥应有作用，提出以下指导意见。 <br>    一、合理定位，明确市场发展思路 <br>    （一）粮食批发市场的功能定位。在社会主义市场经济条件下，粮食批发市场承担着粮食现货集中批量交易服务的职能，具有集散、交易、信息、价格形成和结算等五个方面的基本功能，并为企业提供融资、运输、质量检测等综合服务，促进粮食高效、有序流通，引导粮食生产，满足消费需求。 <br>    （二）粮食批发市场建设和发展的基本思路。现阶段粮食批发市场的建设和发展，要按照建立社会主义市场经济体制的要求，适应粮食流通市场化、法制化、现代化以及国家粮食宏观调控的需要，统筹规划，合理布局，依市建场，规范经营，形成多元化、多层次、多形式、网络化的发展格局，逐步建成统一开放、竞争有序的粮食批发市场体系。 <br>    二、科学规划，促进市场合理布局 <br>    （三）粮食批发市场建设要坚持合理布局的原则。要遵循市场经济内在规律，打破行政区划界限，按照粮食商品合理流向、消费需求、区域交通条件等，统筹考虑市场的布局，形成全国性、区域性、城乡摊位式多层次有机结合和网络化的粮食批发市场体系。 <br>    （四）认真研究制定粮食批发市场发展规划。各级粮食行政管理部门要从实际需要出发，认真研究制定粮食批发市场建设规划。国家粮食行政管理部分负责制定全国粮食批发市场的总体发展规划，加强对全国粮食批发市场发展的指导、协调和服务。对辐射范围大、市场竞争力强的全国性粮食批发市场和重点区域性粮食批发市场，给予重点扶持，充分发挥其配置粮食资源、衔接粮食产销和国家粮食宏观调控中的重要载体作用。各省级粮食行政管理部门负责制定本地粮食批发市场规划，根据全国总体规划要求，确定一部分发展基础好、交易量大、运作规范的市场作为区域性骨干粮食批发市场，给予政策扶持，发挥其调节当地粮食供求、稳定市场的积极作用。在各大中城市以及销区中小城市，要特别注意和大力支持以成品粮交易为主的粮食批发市场的建设和发展。 <br>    （五）加强粮食批发市场的整合。要按照市场经济规律要求，对现有的各类粮食批发市场进行规范。对盲目建设、有场无市、经营困难的粮食批发市场，要采取兼并、关闭、转向等方式进行整合。要结合当地市场建设规划，统筹考虑粮食批发市场建设问题，可以通过土地置换调整粮食批发市场布局，但要充分利用粮食批发市场的辐射范围，以防止重复建设、资源浪费和无序竞争。要结合全国粮食现代物流建设规划，抓好粮食综合批发市场建设项目，在重要粮食销地和集散地利用现有粮食批发市场，不断完善基础设施。 <br>    三、因地制宜，探索多种发展模式 <br>    （六）因地制宜科学选择发展模式。目前，我国粮食批发市场主要有商流市场、摊位式物流市场、电子商务等多种发展模式，各类市场功能和经营方式各具特点，相互衔接，共同发展。各地粮食批发市场要在注重商流、物流、资金流、信息流进一步融合的基础上，因地制宜地选择发展模式。粮食商流市场要完成好各级政府委托的政策性用粮购销任务，做好粮食信息发布和粮食质量检验，继续发挥市场导向和国家宏观调控载体作用，同时积极探索和物流结合的路子。粮食物流市场要在保障当地粮食供求、满足不同层次消费者口粮需求等方面进一步发挥重要作用，规范市场交易行为，加强对成品粮的检验检测，确保口粮安全可靠，保护好消费者利益。要大力发展粮食电子商务市场，充分发挥其在实行网上买卖撮合，降低交易成本方面的示范作用。 <br>    （七）从本地实际需要出发突出经营特色和重点。产区的粮食批发市场要组织好粮食销售，促进本地粮食资源优势向经济优势转化，帮助农民增收，并通过信息和价格的引导，促进农民根据市场需求调整粮食生产结构。销区的粮食批发市场要组织好粮源，满足本地粮食需求。产区和销区的粮食批发市场要加强沟通和合作，在发展粮食产销衔接中发挥积极作用。 <br>    四、加快改革创新，提升市场服务功能 <br>    （八）不断完善和提升服务功能。粮食批发市场要进一步树立服务意识，完善各项服务，不断提升功能和档次，扩大市场辐射范围，增强市场竞争能力。同时，要简化市场交易手续，加强市场管理，完善交易规则，创新交易方式，提高交易效率，切实保护交易双方的合法权益。要及时发布粮食价格信息，为客户提供质量检验检测、金融结算、仓储运输等方面优质、快捷的服务，增强市场的吸引力，吸引大宗粮食进场交易。 <br>    （九）拓展业务领域，实现功能创新。粮食批发市场要根据市场需要，进一步拓展业务领域，延长经营和服务链条。积极探索与产业化经营和期货交易相结合的道路，逐步向粮食生产和加工领域延伸，培育新的增长点，在市场竞争中求发展，提高市场经济效益，增强市场活力和辐射能力。 <br>    （十）积极探索适合自身改革的形式。实行企业化管理的粮食批发市场，要明晰产权，建立现代企业制度，鼓励和培育多种市场主体参与市场经营。在经营管理体制上，可以采取独资、股份制、股份合作制等多种形式，建立规范的公司治理结构。采取事业单位或其他形式的批发市场，要通过完善内部管理体制，引入科学管理和人才竞争机制，进一步提高经营管理水平。 <br>    五、加强指导，创造良好外部环境 <br>    （十一）提高认识，加强领导。在粮食流通市场化的新形势下，粮食批发市场在组织大宗粮食交易，促进粮食流通，合理配置粮食资源，满足各方面需求，特别是满足城市口粮消费需求，承担国家宏观调控任务等方面发挥着重要作用。各地要充分重视粮食批发市场建设的重要性，把促进粮食批发市场发展作为健全和完善粮食市场体系和粮食宏观调控体系的重要内容，作为粮食行业管理和指导的重要工作，切实抓好。国家粮食行政管理部门要加强对全国粮食批发市场建设的指导和监管，抓紧起草全国粮食批发市场建设规划，加快制定《粮食批发市场管理办法》。各地粮食行政管理部门也要承担起相应的责任。 <br>    （十二）要进一步完善国家粮食局重点联系批发市场制度。加强对重点联系批发市场竞价交易、大中城市成品粮市场交易的指导和监管工作，督促批发市场做好价格信息的网上报送工作，及时掌握市场粮食供求和价格变动情况，为国家粮食宏观调控服务。要继续加强对粮食批发市场分会工作的指导。 <br>    （十三）加大政策扶持力度，为粮食批发市场发展创造良好的政策环境。地方各级政府要根据地方实际情况，逐步完善相关政策措施，增强扶持粮食批发市场发展政策措施的可操作性，并认真落实。要把粮食批发市场建设纳入到地方基础设施建设中，对粮食批发市场质量检测和信息系统建设给予必要的资金支持。各级粮食行政管理部门要积极协调工商、金融、税务等部门，争取对进场交易客户给予优惠政策。各地要进一步落实《粮食流通管理条例》有关“政策性用粮的采购、销售和轮换原则上通过粮食批发市场公开进行”的规定，督促中央和地方政策性用粮进入粮食批发市场公开进行。 <br>    （十四）进一步加强行业自律。粮食行业协会批发市场分会要进一步增强服务意识和自律意识，加强对粮食批发市场的协调、服务和监督，在促进粮食批发市场健康发展、维护粮食市场秩序方面发挥好协调和指导作用。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

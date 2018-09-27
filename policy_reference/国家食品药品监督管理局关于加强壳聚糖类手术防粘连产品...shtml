@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2008]679号<BR>&nbsp;&nbsp;【发布日期】2008-11-21<BR>&nbsp;&nbsp;【生效日期】2008-11-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/34192.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于加强壳聚糖类手术防粘连产品生产企业监督管理工作的通知<br>  <br></font>(国食药监械[2008]679号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    针对近期国家药品不良反应监测中心关于壳聚糖类手术防粘连产品可疑不良事件的报告，国家局组织开展了调查处理工作，采取了紧急控制措施，责令部分企业暂停销售并召回产品，同时开展了对壳聚糖类手术防粘连产品生产企业质量体系的监督检查。为进一步加强对壳聚糖类手术防粘连产品生产企业的监督管理，现将有关事项通知如下：<br><br>    一、根据可疑不良事件调查和质量体系检查的情况，责令山东赛克赛斯药业科技有限公司和烟台万利医用品有限公司停产整改，在继续落实国家局对处理壳聚糖类手术防粘连产品可疑不良事件有关要求的基础上，开展本企业产品再评价研究，补充完善相关安全性有效性资料（再评价资料基本要求见附件），经国家药品不良反应监测中心评价并通过国家局组织的质量体系复查后，方可恢复生产。<br><br>    二、根据对壳聚糖类手术防粘连产品生产企业质量体系检查的情况，责令北京百利康生化有限公司、上海其胜生物制剂有限公司、杭州协合医疗用品有限公司和石家庄亿生堂医用品有限公司4家企业停产整改。企业完成整改后应将整改情况同时报告所在地省（市）局和国家局。国家局将组织复查，合格后方可恢复生产。<br><br>    三、壳聚糖类手术防粘连产品生产企业应切实履行产品安全第一责任人的责任，加强不良事件监测工作，对产品上市以来的可疑医疗器械不良事件情况进行收集和汇总，并参照附件的要求开展本企业产品上市后再评价的研究，在产品重新注册时提交相关研究资料。<br><br>    四、有关省（市）局应采取有力措施，切实加强对辖区内壳聚糖类手术防粘连产品生产企业的日常监督管理工作，跟踪监督生产企业对以上要求的落实情况，并将相关情况及时报国家局医疗器械司。国家药品不良反应监测中心要加强壳聚糖类手术防粘连产品不良事件监测工作，对此类产品的不良事件情况进行一次全面的收集和分析，并将结果报国家局医疗器械司。<br><br>    附件：壳聚糖类手术防粘连产品再评价资料基本要求<br><br>                                                       国家食品药品监督管理局<br>                                                      二○○八年十一月二十一日<br><br><br>附件：<br>                    壳聚糖类手术防粘连产品再评价资料基本要求<br><br>    一、原料方面：完善外购原料质量控制要求，建立与产品标准一体的过程控制体系，以保证原料质量的均一性；建立对外购原料风险控制的方法。<br><br>    二、工艺过程控制方面：完善关键生产工艺过程的控制项目和指标，重点是工艺参数、中间过程的检验项目和指标要求。如热原的去除、有关副产物的分离、蛋白质的去除、过滤除菌的技术参数、灭菌方式和时间对产品质量的影响等。<br><br>    三、最终产品方面：明确最终产品的组成，如活性成分（羧甲基取代位置、分子量及分析、等电点等）、辅料等，为质量控制提供支持；完善注册产品标准，明确关键控制项目，建立方法和确定限度。<br><br>    四、产品有效性方面：产品防粘连作用及机理的研究报告,重点产品功能的确定性和稳定性的资料。研究本品有效成分或降解产物和血液的相互作用及对凝血系统影响的资料。<br><br>    五、产品说明书方面：说明书要根据广泛的研究明确产品的禁忌症，可能的不良反应和应急处理措施。根据对产品的稳定性研究，对运输、贮存、有效期要有清楚明确的规定和警示。<br><br>抄送：济南医疗器械质量监督检验中心，本局办公室、政策法规司、药品市场监督司、中国药品生物制品检定所、药品认证管理中心、药品评价中心、医疗器械技术审评中心。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

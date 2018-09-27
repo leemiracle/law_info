@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办〔2009〕13号<BR>&nbsp;&nbsp;【发布日期】2009-05-07<BR>&nbsp;&nbsp;【生效日期】2009-05-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/newpage/Contents/Channel_6287/2009/0508/59372/content_59372.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于进一步做好金属非金属矿山整顿关闭工作的意见<br><br></font>(安委办〔2009〕13号)</p><br><br><br>各省、自治区、直辖市人民政府及新疆生产建设兵团安全生产委员会，国务院安委会有关成员单位：<br><br>    近年来，按照国务院的总体部署，全国金属非金属矿山领域扎实开展安全生产专项整治和隐患排查治理等工作，取得了明显成效。但是，矿山数量多、规模小、布局不合理等状况尚未得到根本改善，事故总量仍然偏大，特别是重特大事故尚未得到有效遏制，非法违法建设、生产经营造成的事故仍然占较大比例，安全生产形势依然严峻。为深入贯彻落实《国务院办公厅关于进一步推进安全生产“三项行动”的通知》（国办发〔2009〕32号）精神，切实做好金属非金属矿山整顿关闭工作，促进金属非金属矿山安全生产形势持续稳定好转，现就进一步做好金属非金属矿山整顿关闭工作提出如下意见。<br><br>    一、总体思路和工作目标<br><br>    （一）总体思路。坚持以科学发展观为指导，深入开展安全生产“三项行动”，以“治乱、治散、治差”为重点，着力打击金属非金属矿山领域非法违法建设和开采活动，依法取缔无证开采，关闭不具备安全生产条件、严重超层越界开采的矿山，清理纠正不符合安全生产标准的新建、改扩建项目，促进全国金属非金属矿山安全生产形势持续稳定好转。<br><br>    （二）工作目标。到2009年底，金属非金属矿山开采安全生产秩序进一步好转，无证开采和超层越界开采等非法违法行为得到有效制止；小矿山基本实现正规开采，安全设施得到较大改善，企业安全管理水平和从业人员技术素质有一定程度提高；小矿山（含尾矿库）数量在2008年基础上减少5000座以上；生产安全事故有较大幅度下降，重大事故得到有效遏制，努力杜绝特别重大事故。<br><br>    二、整顿和关闭的重点对象<br><br>    （一）整顿的重点对象。<br><br>    1.不符合矿产资源规划和矿业权设置方案，已经纳入资源整合范围的矿山。<br><br>    2．一个矿体存在多个开采主体，严重影响安全生产的矿山。<br><br>    3.存在以采代探、超层越界开采、不同矿山井下相通的地下矿山。<br><br>    4.新、改扩建项目未依法履行立项审批和安全设施“三同时”审查程序，违法建设、生产经营的矿山。<br><br>    5.未采用分台阶(分层)开采的露天矿山和未实现机械通风的地下矿山。<br><br>    6.采矿许可证和安全生产许可证到期未提出延期换证申请的矿山（含尾矿库）。<br><br>    7.发生过较大以上生产安全责任事故的矿山。<br><br>    8.坝体超过设计坝高、超设计储存尾矿、超量排放尾矿、存在重大安全隐患的尾矿库。<br><br>    （二）关闭取缔的重点对象。<br><br>    1.未依法取得地质勘查许可证、采矿许可证、安全生产许可证、营业执照和安全资格证书等证照，擅自从事矿产资源勘查和生产的矿山。<br><br>    2.不符合国家和地方政府规定的有关矿种最小开采规模的矿山。<br><br>    3.存在重大安全隐患被依法责令停产整改，逾期不整改或整改后仍达不到安全生产条件的矿山。<br><br>    4.违反建设项目安全设施“三同时”规定，拒不执行安全监管指令、在限期内未完善相关手续的矿山。<br><br>    5.私挖滥采、严重超层越界开采的矿山。<br><br>    6.危库、险库未按要求治理或治理后仍不符合安全要求以及未经审批擅自再利用尾矿的尾矿库。<br><br>    三、关闭程序和标准<br><br>    （一）关闭程序。<br><br>    关闭工作由县级以上地方人民政府做出决定。对决定关闭的矿山（含尾矿库）由县级以上地方人民政府向社会公告，公告期结束后，县级以上地方人民政府组织有关部门对拟关闭矿山（含尾矿库）实施关闭，并负责组织有关部门对关闭工作实施验收。<br><br>    （二）关闭标准。<br><br>    1.吊销或注销工商营业执照、采矿许可证、安全生产许可证、安全资格证等相关证照。<br><br>    2.拆除供电、供水、通风、提升、运输等直接用于生产的设施和设备。<br><br>    3.地下矿山要炸毁或填实矿井井筒，露天矿场要恢复地貌或治理边坡，尾矿库要履行闭库程序。<br><br>    4.消除重大安全和环境隐患，地表设立明显警示标志。<br><br>    5.清理收缴矿山留存的民用爆炸物品。<br><br>    6.妥善遣散关闭矿山的从业人员。<br><br>    四、方法步骤<br><br>    （一）制定方案，明确职责。<br><br>    各地要制定整顿关闭工作方案，明晰工作职责，分解任务指标。整顿关闭工作方案原则上由地方人民政府组织制定并下发，工作方案要明确整顿关闭工作牵头部门和参加部门，并具体细化各相关部门的职责。<br><br>    （二）安排部署，摸底排查。<br><br>    根据工作方案，相关部门要在各自职责范围内安排部署整顿关闭工作。要按照整顿关闭要求对辖区内的金属非金属矿山和尾矿库进行摸底排查，研究提出整顿和关闭矿山企业名单。<br><br>    （三）履行程序，关闭到位。<br><br>    各级安委会有关成员单位要切实履行职责，按照“关闭标准”确保关闭到位，并履行关闭验收工作程序。<br><br>    （四）认真总结，全面深化。<br><br>    各地要认真总结经验，认真解决整顿关闭工作中存在的突出问题，创新整顿关闭工作新机制，并积极探索整顿关闭工作常态化的措施和手段，防止反弹，确保整顿关闭工作成果的巩固，确保工作不断深化。<br><br>    五、工作要求<br><br>    （一）提高认识，加强领导。<br><br>    开展金属非金属矿山整顿关闭工作，是深入贯彻落实科学发展观，推进安全发展，确保经济平稳较快发展的客观需要，是深入落实安全生产“三项行动”的有效措施，是有效防范和遏制重特大事故发生，实现金属非金属矿山安全生产形势持续稳定好转的迫切要求。各地要进一步提高思想认识，充分理解整顿关闭工作的重大意义，切实加强对整顿关闭工作的组织领导。各级安委会办公室要积极主动做好整顿关闭的协调工作。<br><br>    （二）明确责任，强化执法。<br><br>    各地要建立健全政府统一领导、相关部门共同参与的联合执法工作机制，明确并落实国土、发展改革、公安等各相关部门在整顿关闭工作中的责任。进一步强化非煤矿山整顿关闭的行政执法工作，及时研究解决存在的重大问题。要按照职责分工提出需要关闭的矿山（含尾矿库）名单，由指定部门汇总后，提请地方人民政府予以关闭，并通报证照颁发管理机关，依法吊（注）销相关证照。<br><br>    （三）严格标准，提高门槛。<br><br>    各地要加强调查研究，尽快制定各矿种最小开采规模标准，制定地方性法规、规章或政策，提高金属非金属矿山的市场安全准入门槛。要探索建立矿产资源开发安全准入制度，完善矿山建设项目审批机制，在项目审批、核准、备案过程中严格安全生产条件。<br><br>    （四）抓好典型，强化宣传。<br><br>    各地要选择辖区内整顿关闭的难点地区和重点企业，加强调研与指导。同时，要注重发现和培养典型，及时总结推广他们的经验。要发挥舆论的监督作用，利用报刊、电视、网络等新闻媒体广泛宣传，对整顿关闭不力的地区和单位要及时予以曝光。要建立并畅通群众举报渠道，充分调动社会力量推动整顿关闭工作。<br><br>    （五）加强检查，督促落实。<br><br>    各地要强化整顿关闭工作的监督检查，发现问题要及时通报有关部门认真研究解决，促进责任和工作落实，确保完成金属非金属矿山关闭计划。同时，通过监督检查，推动整顿关闭工作向纵深推进，并根据新的情况，不断完善相关产业政策和安全法规，推动安全生产长效机制的建立。<br><br>附：2009年全国金属非金属矿山（尾矿库）关闭数量计划表<br><br>国务院安全生产委员会办公室<br>二○○九年五月七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

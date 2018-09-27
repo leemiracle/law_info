@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局、中国人民银行<BR>&nbsp;&nbsp;【发布文号】国税发〔2007〕108号<BR>&nbsp;&nbsp;【发布日期】2007-09-26<BR>&nbsp;&nbsp;【生效日期】2007-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/6784056.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局、中国人民银行关于银行代收费业务使用税务发票有关问题的通知<br> <br></font>(国税发〔2007〕108号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局，中国人民银行上海总部，各分行，营业管理部，省会（首府）城市中心支行，各政策性银行，国有商业银行，股份商业银行：?<br>    近年来，随着社会经济的发展和银行业务的拓展，收费单位委托银行代收费项目不断增加，使用的税务发票种类也越来越多。为简化银行代收费业务流程，方便单位和个人取得发票，国家税务总局决定统一《银行代收费业务专用发票》（以下简称《专用发票》）。《专用发票》启用后，银行接受收费单位委托办理代收费业务时应开具《专用发票》。现将有关问题明确如下：<br>    一、《专用发票》的使用范围<br>    （一）代收水、电、气、暖和报刊等费用。?<br>    （二）代收通讯费、有线电视收视费、上网费和寻呼费等。<br>    二、《专用发票》的式样、联次和内容<br>    （一）《专用发票》分为计算机开具的平推式发票和卷式发票两种。平推式发票规格为190MM×127MM，可采用两联式或单联式。两联式《专用发票》第一联为发票联，印色为棕色；第二联为存根联，印色为黑色。卷式发票规格为76MM×177.8MM.<br>    （二）发票的具体内容包括：发票代码、发票号码、委托单位、代收费单位、开票日期、付款人、收费金额大写、小写、收款人、银行卡卡号、代收费单位盖章等（票样见附件1、2）。《专用发票》套印"银行代收费业务发票专用章".<br>    对于银行开展邮寄发票业务的，税务机关可以根据业务的需求，在《专用发票》外附加邮寄内容（票样见附件3）。<br>    （三）《专用发票》采用压感纸，由各省、自治区、直辖市国家税务局、地方税务局分别组织印制。<br>    三、银行业代收费业务及《专用发票》的管理<br>    （一）各商业银行分支机构应按照发票领购程序到所在地主管税务机关领购《专用发票》，并按照《中华人民共和国发票管理办法》及其实施细则的规定严格管理。<br>    （二）收费单位委托银行为其代收费或是否由银行开具发票遵循自愿原则，严禁强行代理。委托方和受托方要签订委托协议书，应明确双方的权利义务，并分别报主管税务机关备案。<br>    （三）《专用发票》开票软件由银行自行开发的，应分别报各省、自治区、直辖市国家税务局、地方税务局批准；开票软件由银行总行统一开发的，应分别报总行所在地省国家税务局、地方税务局批准。税务机关应对开票软件功能认真审核，严禁重复开具发票。<br>    （四）银行应当定期向所在地主管税务机关报送发票使用情况和开票数据，数据格式由省税务机关确定。银行应定期对下属分支机构的《专用发票》使用情况进行监督，并接受税务机关的相关检查。<br>    四、《专用发票》的启用时间<br>    《专用发票》自2008年 1月1 日起启用。已统一银行代收费发票的省、自治区、直辖市和计划单列市，本地区银行代收费发票可以使用至2008年5月31日止。<br>    五、其他<br>    （一）《专用发票》不适用银行自营业务。银行自营业务使用的发票式样在国家税务总局未明确之前，暂由省税务机关根据具体情况确定。<br>    （二）为了减少银行发票使用的种类，有条件的地区，国家税务局管理的收费单位委托银行代收费时，经与地方税务局协商后，也可以使用地方税务局统一监制的《专用发票》。<br>    ??<br>    附件：1.平推式《专用发票》式样（略）<br>    2.卷式《专用发票》式样（略）<br>    3.《专用发票》邮寄式样（略）<br><br>                              国家税务总局 中国人民银行<br>    ????                  二○○七年九月二十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

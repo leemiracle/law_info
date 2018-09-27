@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发明电[2004]37号<BR>&nbsp;&nbsp;【发布日期】2004-07-01<BR>&nbsp;&nbsp;【生效日期】2004-08-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=85812" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局<br>关于加强新办商贸企业增值税征收管理有关问题的紧急通知<br><br></font>(国税发明电[2004]37号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局： <br><br>    从最近一个时期税务机关查处的增值税违法案件看，犯罪分子大多以注册商贸企业作掩护，骗购增值税专用发票（以下简称专用发票），虚开后迅速走逃的手段骗取国家税款。此类犯罪活动严重干扰了社会正常经济秩序，导致国家税款的大量流失。同时，也暴露出税务机关目前在对增值税一般纳税人（以下简称一般纳税人）认定和管理方面存在着较大的漏洞。为了打击和防范虚开发票和骗抵税款的犯罪活动，总局决定进一步完善对新办商贸企业一般纳税人的认定管理办法，规范对商贸企业增值税的征收管理。现将有关问题通知如下： <br><br>    一．对新办商贸企业一般纳税人实行分类管理： <br><br>    (一)对新办小型商贸企业改变目前按照预计年销售额认定增值税一般纳税人的办法．新办小型商贸企业必须自税务登记之日起，一年内实际销售额达到180万元，方可申请一般纳税人资格认定。 <br><br>    1、新办小型商贸企业在认定为一般纳税人之前一律按照小规模纳税人管理。 <br><br>    2、一年内销售额达到180万元以后，税务机关对企业申报材料以及实际经营、申报缴税情况进行审核评估，确认无误后方可认定为一般纳税人，并相继实行纳税辅导期管理制度(以下简称辅导期一般纳税人管理)。 <br><br>    3、辅导期结束后，经主管税务机关审核同意，可转为正式一般纳税人，按照正常的一般纳税人管理。 <br><br>    (二)对设有固定经营场所和拥有货物实物的新办商贸零售企业以及注册资金在500万元以上、人员在50人以上的新办大中型商贸企业在进行税务登记时，即提出一般纳税人资格认定申请的，可认定为一般纳税人，直接进入辅导期，实行辅导期一般纳税人管理。 <br><br>辅导期结束后，经主管税务机关审核同意，可转为正式一般纳税人，按照正常的一般纳税人管理。 <br><br>对经营规模较大、拥有固定的经营场所、固定的货物购销渠道、完善的管理和核算体系的大中型商贸企业，可不实行辅导期一般纳税人管理，而直接按照正常的一般纳税人管理。 <br><br>    二、对新办商贸企业一般纳税人资格认定的审批管理 <br><br>对申请一般纳税人资格认定的新办商贸企业，主管税务机关应严格按照一般纳税人认定标准、程序对申请资料进行审核。要与有关人员进行约谈并且派专人(两人以上)实地查验。未经实地查验或查验情况与申请资料不符的，不得认定为一般纳税人。 <br><br>    (一)案头审核 <br><br>    对商贸企业一般纳税人资格认定申请全都资料进行认真审核，审核其资料是否齐全准确。 <br><br>    (二)约谈 <br><br>    约谈的根本目的是通过与约谈对象的直接交流，了解印证纳税人的相关情况，以确认其是否为正常经营户。 <br><br>与企业法定代表人约谈，应着重了解企业登记注册情况、企业章程、组织结构、决策的程序、管理层的情况、经营范围及经营状况等企业的整体情况。 <br><br>与企业出资人约谈，应着重了解出资人与企业经营管理方面的关系。 <br><br>与主管财务人员约谈，应着重了解企业的银行帐户情况、企业注册资金及经营资金情况、销售收入情况，财务会计核算情况、纳税申报和实际缴税情况。 <br><br>    与销售，采购、仓储运输等相关业务主管人员约谈，了解企业购销业务的真实度。 <br><br>对于约谈的内容，要做好记录，井有参与约谈的人员签字。 <br><br>    (三)实地查验 <br><br>    实地查验是印证评估疑点和约谈内容的重要过程。实地查验时需两名(或两名以上)税务人员同时到场。 <br><br>查验内容包括：营业执照和税务登记证、企业经营场所的所有权或租赁证明，原材料和商品的出入库单据，运费凭据、水电等费用凭据、法定代表人和主要管理人员身价证明，财务人员的资格证明、银行存款证明，有关机构的验资报告、购销合同原件及公证资料、资金往来账等。 <br><br>在实地查验中，要认真核实区分商业零售企业、大中型商贸企业、小型商贸企业和生产企业．除按照上述查验内容全面核查外，对生产企业要特别检查有无生产厂房、设备等必备的生产条件；对商贸零售企业要特别检查有无固定经营场所和拥有货物实物；对大中型商贸企业要特别核实注册资金、银行存款证明、银行帐户及企业人数。 <br><br>    三、辅导期的一般纳税人管理 <br><br>    一般纳税人纳税辅导期一般应不少于6个月。在辅导期内，主管税务机关应积极做好增值税税收政策和征管制度的宣传辅导工作，同时按以下办法对其进行增值税征收管理： <br><br>    (一)对小型商贸企业，主管税务机关应根据约谈和实地核查的情况对其限量限额发售专用发票，其增值税防伪税控开票系统最高开票限额不得超过一万元。专用发票的领购实行按次限量控制，主管税务机关可根据企业的实际年销售额和经营情况确定每次的专用发票供应数量，但每次发售专用发票数量不得超过25份。 <br><br>    (二)对商贸零售企业和大中型商贸企业，主管税务机关也应根据企业实际经营情况对其限量限额发售专用发票，其增值税防伪税控开票系统最高开票限额由相关税务机关按照现行规定审批。专用发票的领购也实行按次限量控制，主管税务机关可根据企业的实际经营情况确定每次的供应数量，但每次发售专用发票数量不得超过25份。 <br><br>    (三)企业按次领购数量不能满足当月经营需要的，可以再次领购，但每次增购前必须依据上一次已领购并开具的专用发票销售额的4%向主管税务机关预缴增值税，未预缴增值税税款的企业，主管税务机关不得向其增售专用发票。 <br><br>    (四)对每月第一次领购的专用发票在月末尚未使用的，主管税务机关在次月发售专用发票时，应当按照上月未使用专用发票份数相应核减其次月专用发票供应数量。 <br><br>    (五)对每月最后一次领购的专用发票在月末尚未使用的，主管税务机关在次月首次发售专用发票时，应当按照每次核定的数量与上月未使用专用发票份数相减后发售差额部分。 <br><br>    (六)在辅导期内，商贸企业取得的专用发票抵扣联、海关进口增值税专用缴款书和废旧物资普通发票以及货物运输发票要在交叉稽核比对无误后，方可予以抵扣。 <br><br>    (七)企业在次月进行纳税申报时，按照一般纳税人计算应纳税额方法计算申报增值税。如预缴增值税税额超过应纳税额的，经主管税务机关评估核实无误，多缴税款可在下期应纳税额中抵减。 <br><br>    四、对转为正常一般纳税人的审批及管理 <br><br>    (一)转为正常一般纳税人的审批 <br><br>    纳税辅导期达到6个月后，主管税务机关应对商贸企业进行全面审核，对同时符合以下条件的，可认定为正式一般纳税人。 <br><br>    1、纳税评估的结论正常。 <br><br>    2、约谈、实地查验的结果正常。 <br><br>    3、企业申报、缴纳税款正常。 <br><br>    4、企业能够准确核算进项、销项税额，并正确取得和开具专用发票和其它合法的进项税额抵扣凭证。 <br><br>    凡不符合上述条件之一的商贸企业，主管税务机关可延长其纳税辅导期或者取消其一般纳税人资格。 <br><br>    (二)转为正常一般纳税人的管理 <br><br>    商贸企业结束辅导期转为正式一般纳税人后，原则上其增值税防伪税控开票系统最高限额不得超过一万元，对辅导期内实际销售额在300万元以上，并且足额缴纳了税款的，经审核批准，可开具金额在十万元以下的专用发票。 <br><br>对于只开具金额在一万元以下专用发票的小型商贸企业，如有大宗货物交易，可凭国家公证部门公证的货物交易合同，经主管税务机关审核同意，适量开具金额在十万元以下专用发票，以满足该宗交易的需要。 <br><br>大中型商贸企业结束辅导期转为正式一般纳税人后，其增值税防伪税控开票系统最高限额由相关税务机关根据企业实际经营情况按照现行规定审核批准。 <br><br>    五、各地税务机关应对本通知下发前已认定为一般纳税人的小型商贸企业(尤其是办理税务登记时间在一年以内的小型商贸企业)进行一次全面检查，对在会计人员配备、会计帐薄设置、和会计核算方法中有不符合要求的；有虚开增值税专用发票行为的；不按规定保管增值税专用发票造成严重后果的；无固定经营场所等问题的，要取消其一般纳税人资格。各地要高度重视对小型商贸企业增值税管理工作，加强对小型商贸企业增值税的监控。 <br><br>    六、每月增值税纳税申报期结束后的次日，征收部门应将未进行增值税纳税申报(包括防伪税控IC卡抄报税)或虽已申报但未经税务机关批准而欠缴增值税税款的商贸企业名单提交管理部门，管理部门必须立即组织实地核查，如发现企业走逃，应于当日通知负责税务登记和发票管理的部门，并填写《增值税一般纳税人走逃户报告表》(附后)，连同其已领购但未向税务机关申报或已申报但来缴纳增值税税款的专用发票信息同时上传地市局、省局和总局。主管税务机关应及时通知有关银行冻结其银行帐户，并立即向公安机关报案。 <br><br>主管税务机关应将商贸企业走逃户失控发票信息电子数据按日上传。总局将于7月初布署实施非正常户失控发票快速反应系统，在防伪税控系统中增加失控发票与待认证发票比对功能和失控发票与已认证发票比对功能，并实现全国失控发票数据按日同步更新。总局将对《增值税一般纳税人走逃户报告表》信息进行即期通报。 <br><br>    七、本通知自2004年8月1日起执行。本通知第一条（一）款和第五条的规定自接到通知之日起实施。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

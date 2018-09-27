@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部、财政部、人事部、中央编办<BR>&nbsp;&nbsp;【发布文号】教师[2006]2号<BR>&nbsp;&nbsp;【发布日期】2006-05-15<BR>&nbsp;&nbsp;【生效日期】2006-05-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info19563.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部、财政部、人事部、中央编办关于实施农村义务教育阶段学校教师特设岗位计划的通知<br><br></font>(教师[2006]2号)</p><br><br><br>内蒙古、湖北、广西、海南、重庆、四川、贵州、云南、陕西、甘肃、宁夏、新疆、青海省（自治区、直辖市）教育厅（教委）、财政厅（局）、人事厅（局）、编办，新疆生产建设兵团教育局、财务局、人事局、编办：<br><br>    为贯彻落实党的十六届五中全会精神，进一步加强农村教师队伍建设，促进义务教育均衡发展，根据《中共中央国务院关于推进社会主义新农村建设的若干意见》（中发[2006]1号）和《中共中央办公厅 国务院办公厅印发〈关于引导和鼓励高校毕业生面向基层就业的意见〉的通知》（中办发[2005]18号）精神，经研究，决定实施农村义务教育阶段学校教师特设岗位计划（以下简称“计划”）。通过公开招募高校毕业生到西部“两基”攻坚县县以下农村义务教育阶段学校任教，引导和鼓励高校毕业生从事农村教育工作，逐步解决农村师资总量不足和结构不合理等问题，提高农村教师队伍的整体素质。<br><br>    实施“计划”，是创新教师补充机制，吸引高学历人才从事农村义务教育的重要改革；是扩大高校毕业生就业渠道，促进青年人才健康成长的有效途径；是巩固“两基”攻坚成果，完善农村义务教育保障机制的必然要求；是提高农村教育质量，促进社会主义新农村建设的有效措施。各级有关部门要充分认识实施这一计划的重大意义和作用。<br><br>    为妥善实施好“计划”，各级有关部门要高度重视，加强领导，结合本地实际，研究制订具体实施办法。各有关部门要明确职责，密切配合，共同努力。省级教育行政部门要结合本地实际，将特设岗位落实到受援学校，并认真做好教师招聘、岗前培训、跟踪服务和评估等各项工作。省级财政部门要负责统筹协调特设岗位的经费保障，落实资金，规范管理。机构编制部门要加强中小学编制工作的监督、检查。省级人事部门要积极推动和支持中小学人事制度改革，并按照事业单位人员公开招聘的要求，会同教育行政部门共同做好教师招聘工作。设置特设岗位县的县级有关部门，要为特设岗位教师提供周转宿舍及其他必要生活条件。<br><br>    当前2006届高校毕业生毕业在即，请各地按照《农村义务教育阶段学校教师特设岗位计划实施方案》（见附件）的要求，抓紧做好各项工作，并加大宣传力度,认真做好特设岗位教师招聘等工作，切实将工作做实、做细，务求开好局、起好步，确保按计划招聘的特设岗位教师，于2006年秋季开学前准时到校任教。<br><br>    当前，实施“计划”时间紧，任务重，各地各有关部门必须高度重视，精心组织，认真落实，确保各项目标如期实现。并请将实施过程中的新情况和新问题及时向教育部、财政部等相关部门报告请示。<br><br>    联系人：<br><br>    教育部师范教育司 葛振江，电话：66096556，传真：66020522，E-mail:gezhj@moe.edu.cn。<br><br>    财政部教科文司 胡成玉，电话：68551208，传真：68551232，E-mail:mofjyc1342@yahoo.com.cn。<br><br>    附件： 农村义务教育阶段学校教师特设岗位计划实施方案<br><br>教育部 财政部 人事部 中央编办<br>二○○六年五月十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、交通运输部、铁道部、商务部<BR>&nbsp;&nbsp;【发布文号】发改工业[2008]1360号<BR>&nbsp;&nbsp;【发布日期】2008-06-10<BR>&nbsp;&nbsp;【生效日期】2008-06-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2008tongzhi/t20080612_217018.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、交通运输部、铁道部、商务部关于对港存进口铁矿石进行疏港的通知<br><br></font>(发改工业[2008]1360号)</p><br><br><br>各省、自治区、直辖市发展改革委、商务厅，辽宁、河北、天津、山东、福建、江苏、广东、广西省（区、市）交通厅（委）、上海市港口管理局，沈阳、北京、太原、济南、上海、南昌、南宁铁路局及广铁(集团)公司，中国钢铁工业协会、中国五矿化工进出口商会：<br>    今年年初以来，国内港口铁矿石港存积压情况严重。根据有关部门统计，至5月15日全国主要港口港存铁矿石7922万吨，达到历史最高位，比2007年12月末的4473万吨增加3449万吨，比正常港存量（一个半月到两个月的高炉生产需求量）4000万吨多出了3922万吨，尤其是青岛港、日照港、天津港、连云港四个港口铁矿石积压和堵港问题比较突出，导致港口以疏定卸，严重影响到港口的船舶接卸和正常运转，而且资金大量占用，也影响到国民经济的正常运行。<br>    造成以上情况的主要原因：一是一些企业预期铁矿石价格仍会上涨，加快进口节奏或提前进口；二是国内铁路运能总体紧张，且今年以来保煤、油、粮食以及抗灾物资运输任务十分繁重，与此同时港口接卸能力大于铁路疏运能力，造成港口堆场积压，部分钢铁企业生产所需的铁矿石因运能不足而受到影响；三是受铁矿石、焦炭等价格近期上涨较快以及从紧的货币政策等国家一系列宏观调控政策的影响，部分小钢铁企业开工不足，贸易矿销售不畅，积压严重。<br>    今年1～4月份，我国高炉生铁产量15931万吨，同比增加1216万吨，所需增加矿石量为1920万吨左右；国内大中型矿山生产铁矿石原矿23540万吨，折合成精矿粉比去年同期新增2270万吨左右，完全能够满足高炉生产的需求。同期国内进口铁矿石15349万吨，同比增加2019万吨，中国铁矿石市场出现了供大于求的趋势。港存铁矿石数量的增加，加大了港口吞吐和铁路运输压力，同时也造成我国铁矿石需求旺盛的假象。<br>    为减轻我国港口和铁路运输压力，现就有关要求通知如下：<br>    一、钢铁生产企业要充分发挥各自企业内部矿石料场的堆放能力，积极配合港口、铁路等运输部门，将本企业存放在港口的铁矿石运往厂内。<br>    二、贸易企业要将滞存在港口的铁矿石尽快明确流向，迅速销往符合钢铁产业政策要求的钢铁企业，严禁借港口堆场大量存货。<br>    三、各进口铁矿石接卸港口要积极配合有关部门做好疏港工作，按照有关规定加收滞港、堆存等费用，并对现有铁矿石港存情况进行自查，通知客户将已滞存在港口的铁矿石尽快疏出，减轻港口压力。各港口要将铁矿石当前港存情况(分用户及入库时间)及疏运计划于6月20日前分别报国家发展改革委、交通运输部、铁道部、商务部。<br>    四、各相关铁路局要积极支持配合港口铁矿石疏港工作，加强沟通协调和运输组织，加大港口疏运倾斜力度，增加排空车数，加快推进直通运输等提高效率的方式，对已明确流向的铁矿石尽快组织运输，保证在短期内港口铁矿积压问题得到解决。<br>    五、钢铁工业协会、五矿商会应加强行业自律，及时跟踪铁矿石进口动态，加强预警机制。对不顾国内市场实际需求，大量进口和囤积铁矿石，伺机高价倒卖，扰乱国内铁矿石市场的行为要进行行业通报。<br>    六、国家发展改革委、交通运输部、铁道部、商务部将适时组成联合调查组进行专项检查，督促铁矿石疏运工作。对铁矿石长期滞港企业将商请银行慎贷，防范金融风险。<br><br>国家发展改革委<br>交 通 运 输 部<br>铁    道    部<br>商    务    部<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

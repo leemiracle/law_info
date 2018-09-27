@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家经委/国家教委/劳动人事部<BR>&nbsp;&nbsp;【发布文号】经教[1988]98号<BR>&nbsp;&nbsp;【发布日期】1988-02-24<BR>&nbsp;&nbsp;【生效日期】1988-02-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'> 国家经济委员会、国家教育委员会、劳动人事部<br>
+ 印发《关于引导企业职工立足本职学习<br>
+ 技术</font></p><p align='center'><font class='STitle'>（业务）的意见》的通知<br>
+ （经教〔1988〕98号）</font></p><br>    现将国务院领导同志批示同意的《关于引导企业职工立足本职学习技术（业务）的意见》印发给你们。建议结合本地区、本部门实际情况提出具体措施或办法，加以贯彻执行。<br><br>                                                  一九八八年二月二十四日<br><p class='zhang'>  附：    关于引导企业职工立足本职学习技术（业务）的意见</p><br>    党的十一届三中全会以来，职工教育得到迅速恢复和发展。厂矿企业对二千多万青壮年职工进行“双补”教育，培训中、高级工及班组长七百多万，轮训各类经济干部四百八十万，十六万名厂长、经理通过了国家考试，并开始进行大、中型企业厂长（经理）、三总师、党委书记的岗位职务培训。在职人员的中高等学历教育也有较大发展。通过对干部、职工的教育和培训，缓解了企业特别是中、小企业对专门人才的需求、改善了各级领导班子的专业知识结构，提高了工人、干部的文化、技术业务素质，对改善企业经营管理，提高经济效益起了一定作用，也为企业深化改革创造了条件。但是，近几年在职工教育也不同程度地存在着一些单纯追求文凭，学习与应用脱节，工学矛盾较为突出等问题。企业中一部分职工认为“长工资靠年头，学不学技术一个样”，对从事本岗位必备的技术业务知识学习积极性不高，因此业余技术业务学习很难组织。这里有认识问题、有政策导向问题，也有社会环境问题。在企业内部，主要是缺乏一套对主要岗位人员的严格的岗位规范和培训、考核制度。在用人制度上，优胜劣汰的竞争机制没有完善。解决这一问题，需要在劳动就业和培训、考核与使用相结合以及工资制度等方面进行配套改革，综合治理，切实把企业的建设和发展转到依靠科技进步和提高劳动者素质的轨道上来。为此建议：<br><p></p><a name='1'><font class='TiaoNoA'>  一、</font></a>把在职人员的岗位培训和智力开发纳入厂长（经理）任期目标，作为考核厂长和企业工作的重要内容：厂长（经理）在统筹生产经营与教育规划，使教育与生产经营形成互相促进的良性循环，克服“两张皮”的弊端，克服“短期行为”。<br><p></p><a name='2'><font class='TiaoNoA'>  二、</font></a>建立和完善企业主要岗位的岗位规范及严格的培训与考核制度。由有关综合部门制订岗位培训与考核的指导性文件，各产业、行业部门负责制订和完善各行业的主要岗位职务规范，由企业结合实际确定岗位职务标准；按岗位要求组织强化培训，主要岗位人员应考核合格后才能上岗；转岗也应接受转岗培训。突破企业传统的干部、工人管理界限，做到按岗位定职，按能力任用，公开考核聘任，能上能下。<br>    在技术工人中，实行技术等级和岗位合格证书制（包括初、中、高级技工以及在高级工中评聘技师等不同层次和系列）。获得技术等级或岗位合格证书，是技术工人上岗的资格凭证，可在全行业通用；允许越级考工，使考工晋级与职工使用和本人工资挂钩。全国性技术业务比赛的优胜者，经行业考评组织批准，授予“技术能手”称号，给予奖励并对符合技师任职条件的可以聘任为技师，享受技师津贴和有关福利待遇。<br><p></p><a name='3'><font class='TiaoNoA'>  三、</font></a>提拔、使用干部和聘任各类专业技术职务时，应认真实行“讲文凭，不唯文凭，重在真才实干”的原则；进一步完善考核办法，使其真才实学的优秀人才得到使用和擢升；高级工、技师、技术业务能手等，亦应纳入人才培养和使用规划。<br><p></p><a name='4'><font class='TiaoNoA'>  四、</font></a>在职学历教育要通过调整、改革进一步发展。企业办学要以中专、大学专科层次和培养应用型人才为主，贯彻按需送培，学以致用的原则。企业要制订专门人才需求规划并据此有计划地选送有生产实践经验、有培养前途的优秀青年职工到学校学习，要优先安排劳动模范、先进工作者、业务骨干入学。成人中专、高等学校的专业设置和教学内容要主动适应经济建设的需要，提高办学效益，保证教育质量。<br><p></p><a name='5'><font class='TiaoNoA'>  五、</font></a>企业有权制订并实施鼓励职工学习技术业务特别是自学成才的办法，有权对职工个人脱离实际需要的学习，在学费、脱产期间工资、福利待遇等方面采取必要的限制措施。<br><p></p><a name='6'><font class='TiaoNoA'>  六、</font></a>注意宣传高级技术工人和能工巧匠、业务能力也是人才。要报道他们的事迹，让他们受到全社会的尊重，增强他们的责任感、光荣感，以此启发引导广大职工，特别是青年立志走岗位成才之路。<br><br>                                                      国家经济委员会<br>                                                      国家教育委员会<br>                                                        劳动人事部<br>                                                  一九八八年二月二十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

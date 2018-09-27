@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政发〔2007〕12号<BR>&nbsp;&nbsp;【发布日期】2007-05-17<BR>&nbsp;&nbsp;【生效日期】2007-05-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanxigov.cn/gb/zgsx/zwgk/zcfg/szfwj/jzf/userobject1ai45530.html" target=_blank>山西省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府关于开展煤矿安全隐患排查治理专项行动的通知<br><br></font>(晋政发〔2007〕12号)</p><br><br><br>各市、县人民政府,省人民政府各委、厅,各直属机构:<br>    为认真贯彻落实党中央、国务院关于煤矿安全生产的一系列方针政策以及温家宝总理等中央领导同志近期关于加强煤矿安全生产的重要指示,深刻汲取近期我省发生的数起煤矿重特大事故教训,严厉打击非法、违法煤矿生产,规范煤炭生产秩序,进一步落实《国务院关于预防煤矿生产安全事故的特别规定》(国务院令第446号)、《国务院办公厅关于在重点行业和领域开展安全生产隐患排查治理专项行动的通知》(国办发明电〔2007〕16号)、《关于加强小煤矿安全基础管理的指导意见》(安监总煤调〔2007〕95号)、《煤矿隐患排查和整顿关闭实施办法》(安监总煤矿字〔2005〕134号)和我省关于煤矿安全生产的一系列重要决定,有效遏制煤矿事故多发势头,省人民政府决定集中三个月时间,在全省开展煤矿安全隐患排查治理专项行动(以下简称专项行动)。<br>    通过专项行动要做到六个促进:一是促进煤炭行业“三大战役”巩固深化;二是促进煤矿整顿关闭落实到位;三是促进煤矿劳动用工规范管理;四是促进煤矿安全生产形势稳定好转;五是促进全省煤炭工业健康发展;六是促进全省矿产资源开发秩序明显好转。现将有关事项通知如下:<br>    一、排查治理的重点和要求<br>    (一)下列五类煤矿一经检查发现立即关闭:<br>    1.非法采矿、已吊销证照并确定关闭但尚未按“六条标准”实施关闭的煤矿。<br>    2.证照不全或过期、停产整顿未经复产验收擅自组织生产的煤矿。<br>    3.超层越界生产的煤矿。<br>    4.《关于开展集中整治煤矿超层越界超能力超定员存在安全隐患组织生产行动的通知》(晋政发电〔2006〕6号)印发后,仍超定员、超能力、超强度组织生产,以及以掘代采的煤矿。<br>    5.私自采购、储存、使用非法火工品的煤矿。<br>    地方各级、各部门要加强对以上五类煤矿的查处、打击力度,并建立完善群众举报制度,充分发挥全社会的监督作用。对经核查属实的非法违法煤矿,在关闭矿井的同时要依法追究矿主的经济责任和刑事责任。<br>    (二)下列六类煤矿一经检查发现立即停产整顿:<br>    1.《煤炭生产许可证》登记能力在60万吨/年以下未按“一井一面、两掘”要求布置生产的煤矿,必须在自查自纠阶段停产整顿、予以纠正,关闭多余采掘工作面。<br>    自查自纠结束后,在省、市、县三级政府组织的检查、抽查、督查中发现未纠正或密闭不合格、弄虚作假的煤矿,立即予以关闭。<br>    2.劳动用工管理混乱,劳动用工登记备案率、劳动合同签订率、职工工伤保险交纳率和全员培训率未达到百分之百的煤矿。此类煤矿一经检查发现,由劳动保障部门责令停产整顿3―6个月。<br>    3.从业人员未按规定经过培训合格具备下井资格即组织该类人员下井的煤矿。此类煤矿一经检查发现,由劳动保障部门责令停产整顿3―6个月。<br>    4.没有为下井人员全员配备自救器或入井人员未配带自救器的煤矿。此类煤矿一经检查发现,由煤炭、煤监部门责令停产整顿1―3个月。<br>    5.通风系统不完善、无风微风作业的煤矿。此类煤矿一经检查发现,由煤炭、煤监部门责令停产整顿1―3个月。<br>    6.资源整合煤矿主体未明确、该关闭的多余坑口未关闭。此类煤矿所有参与整合的井口必须全部拉倒井架、拆除设备、封闭井口、停止供电,否则取消资源整合资格,予以关闭并按规定给予经济处罚。<br>    对以上关闭煤矿和停产整顿煤矿的处罚,除执行本通知的规定外,要依照国家及省人民政府已公布的相关规定予以经济、行政、刑事处罚。<br>    二、组织领导和职责分工<br>    此次专项行动由各市、县人民政府组织,并对行动中确定关闭的煤矿负责实施关闭。地方各级政府安委办、煤炭、煤监、国土、公安、劳动保障、工商等部门按各自职能开展工作,在同级人民政府统一组织领导下,联合执法,分工合作,协同作战,及时将行动中需关闭煤矿上报各级人民政府予以关闭。劳动保障部门确定停产整顿的煤矿,要及时通报相关职能部门,并报同级人民政府备案。<br>    各地国土资源管理部门要定期或不定期的深入煤矿,巡查和发现越层越界行为并依法给予查处;各地煤炭工业部门、安监部门、煤监机构在检查中要将煤矿越层越界行为作为主要安全隐患,一经发现,要立即通报国土资源部门依法进行查处。<br>    各地、各部门要建立检查责任制,落实检查人员责任,建立检查档案,明确登记检查时间、检查地点、所检查出的问题、检查人员签字等内容。对检查时已存在安全隐患而检查人员不负责任未提出整改意见的,要倒追检查人员责任。<br>    经县级检查合格后方可上报市人民政府组织检查,市级检查合格后方可上报省人民政府组织检查。下一级政府上报合格而在上级政府组织的检查中发现不合格的或弄虚作假的,上级政府要追究下级政府和相关部门负责人的行政不作为责任。<br>    三、行动部署和时间安排<br>    (一)地方乡(镇)煤矿和其他各类煤矿开展专项行动分四个阶段进行:<br>    1.企业排查治理阶段(5月20日――6月30日)。<br>    煤矿企业按照《国务院关于预防煤矿生产安全事故的特别规定》、《煤矿重大安全隐患认定办法》、《煤矿隐患排查和整顿关闭实施办法》以及此次隐患排查治理重点内容,全面开展排查治理,认真进行自查自纠,制订隐患排查治理方案,并将排查治理方案和自查自纠结果上报煤炭工业部门和煤矿安全监察机构。<br>    凡未按要求开展安全隐患排查和自查自纠的煤矿,由各级煤炭工业部门按存在重大安全隐患提请政府予以关闭。<br>    2.县级检查验收阶段(7月1日――7月25日)。<br>    各县(市、区)人民政府组织各有关职能部门对本行政区域内煤矿的隐患排查治理、自查自纠情况逐矿进行井下现场检查和执法,并将检查和执法结果总结上报各市。<br>    3.市级抽查验收阶段(7月26日――8月10日)。<br>    各市人民政府组织各有关职能部门以不少于全市总矿数50%的比例,以随机抽查的方式对各县上报的集中整治情况进行现场抽查和现场执法,并将抽查和执法结果报省安委办和省煤炭工业局,各市职能部门将各自抽查、执法结果总结上报对口省级职能部门。<br>    4.省级重点督查阶段(8月11日――8月20日)。<br>    省人民政府组织督查组对各市、各集团公司上报的抽查、执法情况进行督查,并对近三年来发生过死亡10人以上重特大安全事故的县(市、区)进行重点督查。<br>    在企业安全隐患排查治理阶段和各市、县(市、区)检查、抽查阶段,省各有关职能部门要按照各自职责和分管范围,开展多层次、多频次的督查,发现有关部门未能认真履行职责的,除对该单位通报批评外,要提请当地党委、政府对有关责任人予以责任追究,给予党纪政纪处分;失职渎职情节严重的要追究法律责任。对督查中发现的应关闭而未关闭的煤矿,提请各市、县人民政府予以关闭。<br>    (二)各国有重点煤矿此次开展的专项行动工作,原则上以集团公司为主。各国有重点煤矿集团公司要全面贯彻落实国家安监总局等七部委《关于加强国有重点煤矿安全基础管理的指导意见》(安监总煤矿〔2006〕116号),加强对所属煤矿的安全生产管理,扎扎实实搞好专项行动:<br>    1.认真制订具体方案和措施,加强组织领导,认真搞好排查,对查出的问题要明确责任人、落实措施、限定时间、彻底进行整改,消除安全隐患。<br>    2.要认真汲取2006年“2.1”寺河矿和“11.5”焦家寨矿两起特大事故教训,把“一通三防”、超能力生产和水害防治作为安全隐患排查的重点,抓实抓好,特别是各集团公司对所属的高瓦斯和煤与瓦斯突出矿井要采取严格措施,控制或适当减少产量,杜绝重特大事故的发生。<br>    3.认真组织兼并、收购的地方煤矿扎扎实实开展安全隐患排查治理工作,要严格采掘计划,提高装备水平,强化人员培训,以国有重点煤矿的标准搞好这类煤矿的安全隐患排查治理工作。<br>    省煤炭工业局要认真组织对国有重点煤矿安全隐患排查治理行动的督查工作。<br>    四、统筹安排,搞好三个结合<br>    1.隐患排查治理要与资源整合相结合。专项行动期间整合煤矿必须确定整合主体,关闭被整合矿井,履行完工程建设程序进入建设阶段,否则一律关闭。单独保留的生产矿井必须在5月底以前领取《采矿许可证》,7月底以前领取《安全生产许可证》,8月底以前领取《煤炭生产许可证》;凡到期未领取相关证照的,分别由省相关职能部门列出关闭名单,提请各市予以关闭。<br>    2.隐患排查治理要与煤矿关闭相结合。5月30日以前,各市必须把已公布的第一阶段、第二阶段共1656个煤矿彻底按“六条标准”予以关闭,并在整合批准的3026个煤矿范围内确定上报各市15%的关闭名单。<br>    3.隐患排查治理要与培育发展煤炭大集团相结合。要充分认识煤矿点多面广、技术装备差、管理落后对全省煤矿安全生产工作的不利影响,在隐患排查治理期间,利用收购、兼并等方式,由大集团公司集中成片对地方中小煤矿进行整合重组。同煤集团和大同南郊区、西山煤电公司和古交市、潞安公司和长治市、宁武县地方煤矿的集团化重组工作要加快步伐,其他各市、各集团公司要借鉴他们的经验,制订符合各自实际情况的重组方案,积极推进我省培育发展大集团大公司的工作进程。<br>    各市、县人民政府按本通知要求,抓紧制订具体方案并组织实施;省级煤炭、煤监、国土、公安、劳动保障等部门可根据各自职责分工制订具体的工作方案。 <br><br>    <br>                                                二○○七年五月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海南省<BR>&nbsp;&nbsp;【发布文号】琼府〔2006〕45号<BR>&nbsp;&nbsp;【发布日期】2006-09-12<BR>&nbsp;&nbsp;【生效日期】2006-09-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hainan.gov.cn/data/zfwj/2006/10/737/" target=_blank>海南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>海南省人民政府转发国务院关于进一步加强防灾抗灾救灾工作的通知<br>  <br></font>(琼府〔2006〕45号)</p><br><br><br>各市、县、自治县人民政府，省政府直属各有关单位：<br>    现将《国务院关于进一步加强防灾抗灾救灾工作的通知》（国发明电〔2006〕4号）转发给你们，请认真贯彻执行。<br>    我省是灾害性气候多发地区，台风、暴雨、洪涝、干旱等自然灾害对经济社会和人民生命财产安全产生极大的影响，加强防灾抗灾救灾工作极为重要。国务院就防灾抗灾救灾工作提出了一系列措施和要求，有很强的针对性和指导性，我省各级政府和各有关部门要认真学习，深刻领会，并结合实际，研究制定有效的防灾抗灾救灾措施和办法，明确责任，强化管理，狠抓落实，努力减少灾害造成的损失，保证我省经济社会的稳步发展，保护人民生命财产的安全。<br><br>二○○六年九月十二日 <br><br><br>国务院关于进一步加强防灾抗灾救灾工作的通知<br>国发明电〔2006〕4号<br><br>各省、自治区、直辖市人民政府，国务院各部委、各直属机构：<br>    今年以来，我国气候异常，极端天气事件频繁，台风、洪涝、滑坡、泥石流、风雹、干旱、高温热浪、森林火灾、沙尘暴、地震、雪灾和低温冷冻等各种自然灾害多发。特别是入汛以来，东南沿海和内陆部分地区频遭台风袭击，暴雨集中，发生严重洪涝灾害，一些地方重复受灾。西南、西北等地区降雨持续偏少，长江干流出现历史同期最低水位，部分地区发生建国以来最严重旱情。总体上看，今年的自然灾害较常年明显偏重。据初步统计，截至8月21日，全国各类自然灾害已造成2178人死亡、577人失踪，紧急转移1313万人次，倒塌房屋155.9万间，直接经济损失1720亿元。<br>    党中央、国务院高度重视防灾抗灾救灾工作。胡锦涛总书记、温家宝总理等领导同志多次做出重要批示和指示，对灾害防御等工作进行全面部署。国务院各有关部门按照职责分工，密切协作，加强督促、指导和协调。地方各级党委、政府及时启动应急预案，认真做好抗灾救灾组织工作，灾区干部群众团结一致，艰苦奋战。人民解放军、武警官兵和公安干警积极发挥抢险救灾突击队作用。在各方面的共同努力下，最大程度地减轻了灾害的损失，夺取了抗灾救灾工作的阶段性胜利。目前，我国仍处于洪涝、干旱、台风和森林火灾等自然灾害的易发时期，汛期尚未结束，部分地区干旱仍呈持续发展态势，秋季森林防火形势严峻。为进一步做好防灾抗灾救灾工作，努力促进粮食增产和农民增收，保障经济发展和社会稳定，特提出以下要求：<br>    一、加强组织领导，进一步落实抗灾救灾工作责任制<br>    各地区、各部门要坚持以人为本，牢固树立执政为民理念，切实把防灾抗灾救灾工作摆在突出位置，加强组织领导，健全统一指挥、反映灵敏、协调有序、运转高效的抗灾救灾组织指挥体系。地方各级人民政府要全面落实抗灾救灾工作的主体责任，严格执行行政首长负责制，主要负责同志要深入一线，靠前指挥，加强检查、指导。要层层建立责任制，确保责任落实到县（市）、乡（镇）和企业等基层单位，确保落实到应急准备、预警预防、抢险救援、紧急转移安置、灾民生活救助和灾后恢复重建等各个环节，进一步提高基层单位对灾害的防御和应对能力。有关部门要进一步加强联系与沟通，主动做好防灾减灾的各项工作，及时解决存在的突出问题，深入灾区帮助指导抗灾救灾工作。要认真分析查找防灾抗灾中的薄弱环节，完善各项应急预案，狠抓工作落实，有效防范和应对各类自然灾害的发生。<br>    二、加强监测预警，全面落实各项灾害防御措施<br>    各级气象、水文部门要密切监测天气和汛情发展变化，对重大灾害性天气过程及时会商分析和滚动预报，并努力改善边远地区农村预警信息传递手段。水利、国土资源、地震、林业等有关部门要加强山洪、滑坡、泥石流、地震、森林火灾等灾害的监测巡查，及时发布预警信息。各地区、各部门要在预案、队伍、资金、物资等方面全面落实各类自然灾害的应对措施。<br>    要继续做好对台风、洪涝和干旱等自然灾害的防御工作。东南沿海地区要发扬连续作战精神，继续做好台风防御工作，抓紧修复损毁工程，进一步细化海上、陆上危险区域群众的安全转移安置组织措施，切实加强台风引发的山洪、滑坡和泥石流等次生灾害的防范；有关内陆地区也要克服麻痹思想，做好防台抗灾各项准备工作。各有关地区要认真落实秋汛防范措施，加强对重点堤段、病险水库的安全检查，及时排除各类隐患和险情；进一步完善防洪预案，精心组织江河洪水调度，确保大江大河和大中型水库安全；切实做好防汛抢险物资、装备以及运输工具等的储备工作，提前组织落实抢险队伍。受旱地区要把保障城乡群众饮水安全作为抗旱工作的首要任务，着力解决群众生活用水困难；抓紧对现有供水和灌溉设施进行维修、配套和改造，因地制宜兴建小型蓄水、引水、提水、集雨等应急抗旱设施，千方百计储备抗旱水源，加强对水资源的统一管理和调度，强化节水措施，发挥水资源最大抗旱效益。同时，各有关地区和部门要全面落实森林火灾、地震、高温热浪等各类自然灾害的防范措施，提高灾害综合防御能力，维护人民群众生命财产安全。<br>    三、加大救助力度，妥善安排受灾群众生活<br>    各受灾地区要加大资金物资投入力度，妥善安排受灾群众基本生活，对因灾绝收缺粮的群众，要给予必要的生活救助，确保灾民有饭吃、有衣穿、有住处、有干净饮水、有病得到及时救治。同时，要统筹考虑冬令、春荒救助工作，提前安排好受灾群众今冬明春的生活问题。要加快实施倒塌民房恢复重建工作，按照重建与防灾减灾相结合、与改善群众生活相统一、与城乡规划相衔接的原则，加强对重建房屋特别是农村民房设计、施工等方面的指导，科学规划、注意选址安全，提高建筑质量和抗灾能力。对房屋倒塌的群众，要通过借住公房、投亲靠友等方式予以妥善安置，并采取政府补贴、邻里互助、以工代赈和政策优惠等多种措施，筹措重建资金，加快倒塌民房恢复重建进度，确保倒房群众在入冬前能搬入新居。秋季开学在即，要把受损中小学校舍的修复作为重中之重，抓紧组织实施，确保灾区学校正常上课。<br>    四、周密组织实施，尽快恢复灾区生产秩序<br>    有关地区和部门要加大对受灾群众生产自救的帮扶力度，抓紧做好水毁耕地的恢复和农田水利基础设施建设，积极组织调拨种子、化肥、农药等生产资料，派出有关专家和技术人员深入灾区一线，指导具备耕种条件的地区抓紧补种改种，加强农作物田间管理特别是病虫害防治。要制订和完善相关政策措施，通过税收减免、提供小额贷款等扶持手段，积极鼓励受灾群众发展多种经营，支持灾区渔业、养殖业尽快恢复生产。加强灾区农村富余劳力外出务工组织和培训工作，广开门路、多途径增加受灾群众收入，弥补灾害损失。加快因灾损毁工程和基础设施的恢复重建，建设、交通、水利、电力、通信等部门要迅速组织抢修队伍，调拨必要的装备，尽快做好灾区通水、通电、通路和通信等工作，为灾区组织生产自救，尽快恢复正常生产生活秩序创造有利条件。要将灾后恢复重建与社会主义新农村建设结合起来，加快农业结构调整，壮大农村经济实力，强化防灾救灾基础，进一步增强广大农村防灾减灾能力。<br>    五、完善保障机制，加大抗灾救灾资金投入力度<br>    要充分发挥中央和地方、政府和社会等多方面积极性，建立抗灾救灾投入的多渠道保障机制。各级人民政府要针对今年灾情严重、救灾任务繁重的实际情况，进一步增加救灾经费，加大对灾区恢复生产和灾后重建的支持力度。要安排专项资金，加强中小河流、中小水库的治理，研究适当增加防汛抗旱、灾害救助等方面经费预算以及调整提高灾后救济补助标准。各有关部门要加快研究、制定和实施“十一五”防灾减灾规划，对规划布局内的重大建设项目给予重点支持，加强气候监测预测、防汛抗旱、地质灾害防治、森林防火、防震抗震、综合减灾等方面基础设施建设，改善技术装备，从根本上增强对各类灾害的防御能力。要加强救灾社会捐助工作，广泛发动社会各界共同关心灾区、帮助灾区。要把保险纳入灾害防范救助体系，积极支持发展多形式、多渠道的农业保险，充分发挥保险在防灾减灾中的作用。<br>    六、广泛宣传动员，为防灾抗灾救灾创造良好社会氛围<br>    各地区、各部门要高度重视防灾减灾宣传教育工作，采取多种形式，通过多种手段，广泛宣传、大力普及预防避险和自救互救知识，切实提高公众防灾减灾的意识和能力。要结合本地区、本部门实际，不断丰富宣传内容，创新宣传方式，积极推动防灾减灾宣传进乡村、进企业、进社区、进学校、进家庭，覆盖到社会的各个方面。有关地区和部门要与新闻媒体保持密切联系，及时向社会公布灾情，通报抗灾救灾工作进展情况。同时，要注意把握正确的舆论导向，始终坚持及时准确、主动引导的原则和团结稳定鼓劲、正面宣传为主的方针，深入报道灾区干部群众同灾害作斗争的顽强精神，广泛宣传在抗灾救灾过程中涌现出来的感人事迹，凝聚人心，振奋精神，激励斗志，夺取抗灾救灾的胜利。<br><br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安全生产委员会办公室<BR>&nbsp;&nbsp;【发布文号】安委办明电〔2008〕8号<BR>&nbsp;&nbsp;【发布日期】2008-06-05<BR>&nbsp;&nbsp;【生效日期】2008-06-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-06/08/content_282433.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安全生产委员会办公室关于山西省朔州市“6.3”重大道路交通事故的通报<br><br></font>(安委办明电〔2008〕8号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产委员会：<br><br>    6月3日6时50分，北京冀东广龙物流有限责任公司朔州分公司一辆车牌号为晋F03210的重型大货车，行驶到山西省右玉县至朔城区省道36km+43m处违法越过公路中心黄虚线超车，与相向行驶的朔州汽车运输有限责任公司一车牌号为晋F08004的依维柯客车正面相撞，造成22人死亡、3人受伤的重大道路交通事故。 <br><br>    经初步分析，此次事故暴露出的主要问题：一是运输企业安全生产主体责任不落实。晋F03210重型大货车驾驶员严重违法驾驶，晋F08004的依维柯客车核载17人，实载24人，严重超员。二是有关部门监管存在薄弱环节。货车违法超车、客车严重超员等违法行为没有得到及时查处和纠正。事故详细情况及原因正在进一步调查中。 <br><br>    为切实吸取事故教训，坚决遏制重特大道路交通事故的发生，现提出以下要求： <br><br>    一、加强对运输企业的安全监督管理。地方人民政府要把道路交通安全工作纳入重要议事日程，明确各有关部门对运输企业的安全监督管理职责，地方各级人民政府安全生产委员会要督促有关部门做好对运输企业的安全监督检查工作，督促企业认真贯彻执行国家有关道路交通安全法律法规，建立健全安全生产责任制，切实落实企业安全生产主体责任，禁止驾驶员超载超速、违章超车等不安全行为，保证安全运营。 <br><br>    二、深化道路交通安全隐患排查治理。各地和有关部门要按照《国务院办公厅关于进一步开展安全生产隐患排查治理工作的通知》（国办发明电〔2008〕15号）要求，加大对运输企业、车辆、驾驶人、道路等各个环节安全隐患排查治理力度，对于查出的问题要及时进行整改，做到排查不留死角、整治不留后患。要结合当前开展的安全生产百日督查专项行动，加大路面管控、动态巡逻频率和密度，依法严厉查处和纠正各种道路交通安全违法行为。 <br><br>    三、严格落实事故责任追究制度。各地和有关部门要严格执行事故责任追究制度，要按照“四不放过”原则，认真组织开展事故调查工作。对事故负有领导、监督、管理责任的单位和人员，必须依照有关法律法规严肃处理，并及时向社会公布处理结果。 <br><br>    四、加强道路交通安全宣传教育工作。各地和有关部门要把道路交通安全宣传纳入“安全生产月”和“安全生产万里行”活动中，采取群众喜闻乐见的形式，深入开展道路交通安全宣传进农村、进单位、进学校、进社区、进家庭活动，以案说法，努力提高广大驾乘人员和群众的交通安全意识，自觉防范道路交通事故的发生。 <br><br>    国务院安全生产委员会办公室 <br><br>    二○○八年六月五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

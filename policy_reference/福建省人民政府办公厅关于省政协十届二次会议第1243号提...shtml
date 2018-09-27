@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办督 〔2009〕2号<BR>&nbsp;&nbsp;【发布日期】2009-03-19<BR>&nbsp;&nbsp;【生效日期】2009-03-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200903/t20090331_117838.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅关于省政协十届二次会议第1243号提案办理情况的答复<br><br></font>(闽政办督 〔2009〕2号)</p><br>    <br><br>崔继军委员：<br><br>    您在省政协十届二次会议上提出的 《关于加强突发事件应急预案管理工作的建议》（第1243号）收悉，现将有关情况答复如下：<br><br>    一、关于提高对突发事件应急预案管理工作重要性认识的情况。省政府对突发事件应急管理工作十分重视，近年来多次召开会议研究部署，积极推动。各级各部门按照国务院和省政府的统一部署，组织编制了自然灾害、事故灾难、公共卫生事件、社会安全事件四大类应急预案。截至2007年底，我省已有省级应急预案101个，设区市本级应急预案1296个，县级应急预案9480个，乡镇 （街道）应急预案1101个，社区 （村）应急预案16175个，各类学校和幼儿园应急预案24972个，各类企业预案12796个，全省形成了纵向到底、横向到边的应急预案体系。如在应对台风灾害的过程中，我省结合实际，提出了 “预警到乡、预案到村、责任到人”要求，将应急预案向基层全面推进，强化了各级各部门的责任，提高了全社会对应急工作重要性的认识，有力推动了防台风工作的进一步落实。<br><br>    二、关于编制 《福建省突发公共事件应急预案管理办法》的情况。目前，我国预案管理采取两种方式，一是分级管理，即国家、省、市、县和乡五级；二是按照预案类型管理，即分为总体预案、专项预案、部门预案、单项预案和基层 （企业、学校、社区、乡村）预案。我省已出台的各级各类预案，对预案的编制、审批、发布、宣传培训、演练和修订等都有明确规定。如省总体应急预案明确规定，部门预案由部门编制报本级政府备案后由部门印发，专项预案由部门编制报本级政府审批后印发，企业预案由企业自行编制并印发，单项应急预案由主办单位编制印发并报本级政府备案。应急预案的编制、审批、发布、宣传培训必须根据不同的情况制订，您提出制订管理办法的建议，我们会认真研究。<br><br>    三、关于建立科学的应急预案体系的情况。应急预案体系必须上下对应衔接。目前，国家应急预案体系中，有1个总体应急预案、26个专项应急预案和80个部门应急预案。参照国家应急预案体系，近年来我省加强了各级各类应急预案的编制工作。省级应急预案体系，已编制1个总体应急预案、24个专项应急预案、76个部门应急预案。市、县、乡镇 （街道）、村 （企业、学校、社区）也都制订了总体应急预案、专项应急预案和部门应急预案等相关应急预案，涵盖自然灾害、事故灾难、公共卫生事件、社会安全事件等四大类突发事件。我省应急预案体系已初步建立，并正在逐步完善中。<br><br>    四、关于对现有各级各类预案进行全面检查的情况。2008年，省应急办对省直76个部门应急预案开展报备工作，进一步规范了部门应急预案，使部门预案更具操作性和针对性。最近，我省又根据重新修订的国家专项应急预案，对我省相关专项应急预案进行修订，做好与国家预案的衔接。为规范和推进基层应急预案的编制，泉州、宁德等市的应急办还编制了应急预案范本，对预案的框架、要素等做了明确规定，积极指导基层做好应急预案编制工作，有效提高了基层应急预案的针对性和操作性。<br><br>    五、关于修订、补充编制一批应急预案的情况。应急预案采取分级负责编制的制度。近些年，我省各级各部门在做好与上一级应急预案衔接的同时，结合本地本部门实际，编制了具有自己特点的专项应急预案和部门预案，对原的预案也及时进行了修订。如2007年，省海洋与渔业局重新修订了2002年的 “福建省渔业防台风应急预案”，报省政府备案后印发实施，进一步理顺了防台风预案与渔业防台风的关系。2008年，我省为解决涉台渔业纠纷事件，在原有23个专项应急预案的基础上，又编制了“福建省处置涉台渔业纠纷事件应急预案”。<br><br>    六、关于加强应急预案的宣传培训与演练工作的情况。这方面，近些年我省主要强化了三项工作：一是做好应急预案的宣传。如2007年，省政府办公厅在 “中国福建”网站应急管理专栏，公布了可公开的省级专项应急预案。二是有针对性地开展了一些应急预案的演练。如2007年，省政府在福州举行大面积停电应急演练；2008年，省海上搜救中心在厦门举行海上搜救应急演练。通过演练，检验了应急预案的可操作性，提高了突发事件应急处置能力。三是努力提高各级干部应对突发事件能力。如2007年开始，福建行政学院在举办的应急管理培训班上，邀请省地震专家给学员们上地震灾害桌面演练课，让学员熟悉地震应急预案，受到学员们的充分肯定，取得了很好的效果。<br><br>    当然，正如您在提案中提出的，我省应急预案管理工作还存在不少问题，我们正在积极采取措施，进一步改进、完善。<br><br>    谢谢您对我省应急管理工作的关心和支持。<br><br>    二○○九年三月十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

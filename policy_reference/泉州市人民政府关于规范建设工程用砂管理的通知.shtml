@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】泉州市<BR>&nbsp;&nbsp;【发布文号】泉政文〔2008〕95号<BR>&nbsp;&nbsp;【发布日期】2008-05-07<BR>&nbsp;&nbsp;【生效日期】2008-05-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/sqswj/qz/200806/t20080604_73502.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>泉州市人民政府关于规范建设工程用砂管理的通知<br><br></font>(泉政文〔2008〕95号)</p><br><br><br>    各县（市、区）人民政府、泉州开发区管委会，市直有关单位：<br><br>    近年来，随着我市城市建设的快速发展，建筑用砂需求量猛增，由于受利益驱动和河砂资源减少的影响，工程建设中违规使用海砂现象有所抬头，给建设工程带来严重质量安全隐患。根据《中华人民共和国建筑法》、《建设工程质量管理条例》和《建设部关于严格建筑用海砂管理的意见》（建标〔2004〕143号）等有关法律、法规和相关规定，现就规范建设工程用砂管理有关问题通知如下：<br><br>    一、进一步提高认识。建设工程用砂质量严重影响到建设工程质量安全，涉及广大人民群众的切身利益。各级政府、各有关部门务必进一步提高认识，要以对人民群众生命财产高度负责的态度，以强烈的责任感，狠抓建筑用砂的管理，坚决制止和打击不合格建筑用砂用于建设工程这一违规现象，发现一起，严查一起，绝不姑息，确保工程质量和安全。<br><br>    二、形成齐抓共管局面。建设、交通、水利等行政主管部门负责施工现场内建筑用砂管理。国土资源行政主管部门负责海砂的开采管理，坚决打击非法开采海砂的行为。建材管理部门负责调配砂源，确保建筑用砂供应。技术监督部门、建材管理部门负责建筑用砂生产、使用、管理等方面进行监管，定期与不定期地检查与抽查，确保其在生产、流通、使用各环节的产品质量。<br><br>    各有关部门要积极开展海砂淡化、人工砂生产、使用的研究，引导、扶持淡化海砂和人工砂企业，规范生产、经营行为，为社会提供多样化的合格产品。<br><br>    三、严格执行技术标准。建筑用砂必须严格执行国家标准和行业标准以及有关规定。未经淡化、不符合建筑用砂标准的海砂，一律不得用于建筑工程的混凝土和建筑砂浆。公共建筑或者高层建筑严禁使用淡化海砂。对重要的建筑物预制构部件（如桁架、屋架、行车梁、大跨度托架等），严禁使用淡化海砂。<br><br>    工程建设各方责任主体要严格落实工程建设质量责任，进一步规范建筑用砂管理。建设单位要加强进场建材质量监管，不得明示或暗示有关单位使用不合格建筑用砂；设计单位应根据工程项目对建筑用砂质量提出具体要求（其中氯离子含量指标要在设计文件中明确）；施工企业必须使用合格建筑用砂和建材，严格执行用砂进场验收制度，建立健全建筑用砂使用台帐和技术档案资料，确保建设工程用砂质量和工程质量；监理单位必须严格执行材料进场验收制度和见证取样制度，切实履行混凝土、砂浆拌制过程的旁站监督。在施工过程中确需使用淡化海砂的，须经建设单位同意，并报工程质量监督机构备案，由工程质量监督机构在工程显著位置公示。所有进入施工现场的建筑用砂必须进行氯离子含量复验。<br><br>    四、严厉查处违法违规行为。有关工程质量监督机构应加强施工现场巡查和监管力度，督促监理、施工企业建立健全质量保证体系，发现使用不合格建筑用砂行为的，应立即责令停工整改，按工程质量不合格项从严处理，并报其主管部门依法予以重罚；<br><br>    凡违规使用不合格建筑用砂以及未落实监管职责的有关责任主体，依照规定予以行政处罚：<br><br>    建设单位明示或暗示有关单位使用不合格建筑用砂行为的，责令改正，处20万元以上50万元以下的罚款；<br><br>    施工单位在施工中偷工减料的，使用不合格的建筑用砂的，责令改正，处工程合同款2%以上4%以下的罚款；<br><br>    监理单位将不合格的建筑用砂按合格签字的，责令改正，处50万元以上100万元以下罚款，造成损失的，承担连带赔偿损失；<br><br>    对违规使用海砂的相关责任主体除相应的处罚外，可同时给予不良行为记录，对施工、监理单位一律取消其政府投融资项目预选承包商名录，情节严重的，清出全市建筑市场；对造成重大安全事故的，依法追究项目法人和有关责任人员的刑事责任，同时报有关部门吊销企业资质和工商营业执照。<br><br>    五、建立长效监管机制。各级各有关行政主管部门应加强工程建设全过程监管，建立长效监管机制。县（市、区）人民政府至少每半年要开展一次建筑用砂情况检查，每年要向市政府报告建筑用砂管理执行情况。市政府将把建筑用砂管理列为年度质量安全目标责任状考核的重要内容。<br><br>    各地各项目建设单位应对在建和近年来竣工的建设工程，就建筑用砂情况进行全面自查，自查情况报所属行业行政主管部门（建设、交通、水利等）。行业行政主管部门对已经违规使用海砂的建设项目，要组织专门人员进行全面检查，并根据建筑结构受损程度，提出相应技术处理对策，敦促项目业主加强监测、及时整改，确保工程质量安全。个别存在重大质量安全隐患的项目，应立即撤离人员、暂停使用，项目业主应委托有资质的检测机构对建筑物进行安全鉴定。未经鉴定或安全鉴定不能满足使用安全的，不得继续使用。新闻媒体要加强宣传力度，营造良好的舆论氛围，尤其要加大海砂对建设工程危害性的宣传力度，曝光违法违规使用海砂行为。<br><br>    二○○八年五月七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

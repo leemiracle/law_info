@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交公路发[2005]613号<BR>&nbsp;&nbsp;【发布日期】2005-12-13<BR>&nbsp;&nbsp;【生效日期】2005-12-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/05zhuzhi/gonglus/gonglusiglyhygl/t20051221_28986.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>全国治超检测站点规范化建设试点工程实施方案<br><br></font>(交公路发[2005]613号)</p><br><br>  <br>北京市交通委员会、河北省交通厅、山西省交通厅：<br><br>    根据国务院办公厅《关于加强车辆超限超载治理工作的通知》要求，以及全国治超工作领导小组关于进一步推进治超长效机制建设的工作安排，从今年开始，我部将列出专项资金支持各省、自治区、直辖市的治超检测站点建设，并将在初步研究成果的基础上，先期组织试点工程，以便在实践中总结经验，修改完善相关标准和规范。为保证试点工程建设的顺利进行，现将部制定的《全国治超检测站点规范化建设试点工程实施方案》（以下简称《方案》）印发给你们。请按照《方案》要求，认真做好实施工作，确保试点工程如期完成。<br><br>中华人民共和国交通部<br>二○○五年十二月十三日<br><br><br>全国治超检测站点规范化建设试点工程实施方案<br><br>    根据国务院办公厅《关于加强车辆超限超载治理工作的通知》要求，以及全国治超工作领导小组对2005年进一步推进治超长效机制建设的工作部署和安排，今年开始，部将列出专项资金与各省、自治区、直辖市共同着手全国治超检测站点规划的建设实施工作。考虑到全国性超限超载车辆监控网络建设是一项规范化要求高、技术性和系统性强的基础工作，又无成熟经验可循，为确保实现布局规划的总体目标，在初步研究成果基础上，有必要先期组织试点工程。通过试点工程，一方面尽早建成一批规范化、标准化、现代化的示范站点，昭示政府长期治超的决心和信号；另一方面便于在实践中总结经验，修改完善相关标准和规范，指导和带动全国性网络系统的一体化建设。为此，根据部领导指示，并商北京、河北、山西两省一市治超管理部门，现提出如下实施方案：<br>    一、试点工程的目标和原则<br>    ――目标：通过对试点站实施规范化建设或改造，积累实践经验，检验和完善规范性研究成果，引导和推动检测站点建设标准化、设施永久化、运营制度化、装备精良化以及治超管理信息系统网络一体化、数据标准化、信息共享化、管理规范化。<br>    ――原则：统一领导、精心组织；统一要求、规范有序；软（件）硬（件）结合，同步建设；先简单后复杂、边摸索边总结。在《治理超限超载检测站点布局规划研究》初步成果的原则指导下，结合实际，整合资源，逐一推进，在实践中不断总结，在试验中不断完善。<br>    二、试点工程范围<br>    以华北地区超限超载压力大的北京至山西大同公路通道（含京大高速公路及与之平行的国省干线）为试点区域，选择下列站点作为全国示范站点先行试点：<br>    北京：G110线张山营治超检测站（国道110线京冀交界北京入口）<br>    京张高速康庄治超检测站（京张高速公路京冀交界北京入口）<br>    西官路西康治超检测站（省道西官公路京冀交界北京入口）<br>    河北：G112线国道112化稍营治超检测站（国道112线河北段控制要点）<br>    京大高速化稍营治超检测站（京大高速公路河北西段控制要点）<br>    京大高速土木治超检测站（京大高速公路河北东段控制要点）<br>    G110线沙城治超检测站（国道110线河北段控制要点）<br>    山西：京大高速孙启庄治超检测站（京大高速公路晋冀交界山西出口）<br>    S339线神泉堡治超检测站（省道339线晋冀交界山西出口）<br>    S301线西马房治超检测站（省道301线晋冀交界山西出口）<br>    三、试点工程规范化建设主要内容<br>    治超检测站点试点工程规范化建设（改造）的总体要求：外观形象统一；功能设置统一；工作流程规范；交通渠化规范。<br>    规范化建设（改造）的主要内容包括：<br>    1、站点基础设施建设<br>    根据《公路超限超载检测站设计指南（试点工程版）》（见附件）的原则要求，参照其相关技术规定，尽可能统一检测工房（磅房）的服务窗口设置，统一外墙颜色和检测道形式，统一站点形象标识和站名设置；合理设置检测车道和布局检测工房，统一配以醒目的警示标志；设置主线高速预检系统，安装先进、精准的高速动态和低速动态称重检测设备；确保充足的场地面积，建设满足煤炭、矿石等主要货种卸装和保管需要以及面层硬化等基本要求的卸载场地；合理布局检测区、停车场、卸货场、办公区、生活区等功能区域，规范设置站内站外引导性、指示性、警示性标志、标线、路牌及其它安全设施，优化场区交通组织和工作流程；根据需要新建或改造、拓宽连接道路（匝道），确保安全和防堵保畅；规范建设视频监控系统、通信系统、照明设施；充分考虑消防、给排水、供配电（包括应急发电）及绿化等附属工程；保障必要的洗浴、供暖、空调等服务性设施；配备其它诸如对讲机、便携式检测仪等辅助设备或机具。<br>    2、治超信息系统建设<br>    依据《全国治超信息系统数据交换标准（试行）》（附后）的技术要求，标准化和规范化建设检测站点级信息管理系统和省地（市）级综合管理系统（两级系统，省、地、站三级设置），以及省级治超数据库。已经建立或正在建立路网监控网络的省（市），应在路网监控网络的平台上建设省级综合管理系统。<br>    站点级信息管理系统的基本功能要求：检测信息实时登记录入；打印现场处罚决定书；超限超载记录查询（车辆、司机）；超限超载许可查询；上报本站基础数据等。<br>    省地（市）级综合管理系统的基本功能要求：辖域内治超情况汇总；为路政、运政、公安等执法部门提供基础信息作为处罚依据；形成违法车辆和司机黑名单；对各检测站点实施监管；治超信息统计、分析和查询；向上一级治超办提供治超相关数据等。<br>    不同层级信息系统通过互联网连接，采用统一的数据交换标准实现交互共享。<br>    3、管理规章制度建设<br>    按照依法行政、规范服务的原则，根据交通部交公路发[2005]351号《关于加强治超站点管理规范治超执法行为的通知》要求，参照全国治超办拟定中的《公路超限检测站点管理规定》（初稿），建立健全站点规范化管理规章制度。主要包括：站点管理体制和工作流程；各级岗位职责；人员工作守则；廉政建设和监督制度；票据管理制度；卸载货物保管制度；统计报表管理制度、文明用语以及应急事件的预案和处理机制等。<br>    四、试点工程的组织实施<br>    全国治超办负责试点工程的统一领导、组织协调和监督，部规划研究院和中交第一公路勘察设计研究院具体承办相关技术工作，试点省份的治超办负责项目建设的组织实施和管理。为此，经协商成立专门的领导班子和工作小组（组成见附件），统一组织和协调试点工程建设事宜。<br>    工作流程：<br>    定方案――全国治超办下达试点工程方案，试点省（市）进一步细化组织实施方案并报送全国治超办； <br>    设计――试点省（市）按相关技术规范要求安排工程设计，报全国治超办审查。<br>    实施――试点省（市）治超办依审定的设计方案，组织招投标、监督工程实施并组织交工验收；同时建立健全治超站点管理制度。<br>    试运行――规范化组织业务运转；试运行信息网络系统（部规划院组织系统运行测试）。 <br>    总结验收――试点省（市）组织竣工验收，编写经验总结材料并报全国治超办。<br>    五、总体进度安排<br>    2006年1月底前，完成工程项目设计；<br>    2006年2月，全国治超办组织技术审查；修改完善设计方案；<br>    2006年3月上旬，完成工程和设备采购招标（或议标）；<br>    2006年3月下旬～2006年7月，完成所有工程施工与设备安装；<br>    2006年8月，试运行（主要是信息系统测试和设备调试），同时组织竣工验收及总结；<br>    六、其它意见及要求<br>    1、提高认识，加快推进试点进程。治超检测站点是公路行政执法的重要基础设施，要充分认识试点先行、示范带动对全国超限超载车辆监控网络建设的影响和意义。试点省（市）要精心组织，严把标准关、规范关和质量关，力争将试点工程建成“样板”工程。考虑到时间紧、任务重、要求高，有必要进一步增进紧迫感，各方面协同努力，在确保工作扎实有序的前提下，尽可能加快试点进程，尽快推动全国性网络建设的全面铺开。<br>    2、落实资金投入。部将按每站300万元的标准对试点工程予以定额补助，并已在2005年公路建设投资调整计划中下达了试点工程补助资金计划。试点省（市）应尽快落实相应的配套资金计划，在部补助资金到位之前，务请确保试点工程前期正常启动的资金投入。<br>    3、尽可能同步考虑通道内其它站点建设。在部组织试点建设同时，建议试点省（市）参照部试点的相关标准和规范，同步组织京大公路通道内其它治超站点的规范化建设和改造。在进一步丰富实践成果的同时，全面考察通道治超监控成效，力争整体把控住该通道内的超限超载车辆，使超限超载形势得以根本扭转。<br>    4、配套解决相关管理和制度问题。在试点工程建设同时，试点省（市）应从维护治超检测站点长效管理的高度出发，认真研究和逐步解决站点的组织机构设置、人员编制与管理、日常运行费用等问题。为了避免不必要的矛盾和冲突，试点期间，试点公路暂不考虑实行计重收费。<br> <br>附件一：<br><br><br>治超检测站点规范化建设试点工程领导小组和工作组组成名单<br><br>领导小组：<br>    组  长：张剑飞（部公路司司长）<br>    成  员：李  华（部公路司副司长）<br>            李晓松（北京市交通委副主任）<br>            陈永久（河北省交通厅副厅长）<br>            张  润（山西省交通厅副厅长） <br>工作小组：<br>    组  长：李  华（部公路司副司长，兼）<br>    副组长：吴春耕（部公路司公路管理处副处长）<br>            徐  丽（部规划研究院战略所所长）<br>    成  员：曾学福  谭小平  李海峰  林报嘉  王安惠  杨晓东  张社升  李 清  张长荣  张黎明  张汉文  <br><br>            丛飞山  张贵锁  任建杰  田 根  樊真德<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

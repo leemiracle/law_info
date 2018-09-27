@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总管一[2006]161号<BR>&nbsp;&nbsp;【发布日期】2006-08-07<BR>&nbsp;&nbsp;【生效日期】2006-08-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-08/22/content_189033.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局关于加强输油气管道安全运行监管和输油气管道占压等事故隐患排查工作的通知<br><br></font>(安监总管一[2006]161号)</p><br><br>  <br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局： <br><br>    近年来，我国油气管道发展迅速，目前已建成长输管线约3.7万公里，油田内集输管线约10万公里，管道运输已成为油气生产和运输不可或缺的重要手段。在生产发展的同时，油气管道安全运行却面临着非常严峻的形势，涉及油气管道的事故时有发生，其中影响较大的有：2004年10月6日陕京线靖边出站189#桩处，当地施工队进行挖土作业将管线损坏，发生天然气泄漏，造成管线停气28.5小时，直接危及到向北京市供气；今年1月20日，中石油西南油气田分公司仁寿县富加输气站输气管线发生爆炸事故，造成10人死亡。油气管道发生事故往往带来较为严重的后果，尼日利亚就曾多次发生导致十人甚至百人死亡的事故，最为严重的是1998年10月18日由于火灾导致的输油管爆炸，造成1000多人死亡。 <br><br>    自2003年以来，为应对严峻的输油气管道安全形势，强化油气田及输油气管道的安全保护工作，经国务院同意，由公安部牵头,国家发展改革委等部门参加,成立了全国油气田及输油气管道安全保护工作部际联席会议（以下简称部际联席会议），连续4年组织开展整治油气田及输油气管道生产治安秩序专项行动。按照部际联席会议印发的《2006年整治油气田及输油气管道生产治安秩序专项行动工作方案》（公治[2006]52号）要求，安全监管部门要依法加强对输油气管道安全运行的监督检查，加强对占压输油气管道等事故隐患的排查工作，督促整改。为认真做好相关工作，现就有关问题通知如下： <br><br>    一、提高认识，制定切实可行的工作方案。要充分认识输油气管道的安全运行关系到人民生命和国家财产的安全，关系到国民经济运行安全和社会稳定，做好输油气管道安全运行的监管工作对保障能源的正常供应具有十分重要的战略意义。各级安全监管部门要进一步增强抓好输油气管道安全运行监管工作的责任感和紧迫感，依据《安全生产法》、《石油天然气管道保护条例》等有关法律法规，在当地政府和管道保护联席会议的领导下，结合本地实际情况，制定切实可行的工作方案，扎扎实实地做好输油气管道安全监管的各项工作。 <br><br>    二、加强安全检查，督促企业落实各项安全生产措施。各级安全监管部门要督促油气田及输油气管道企业认真贯彻执行有关安全生产的法律法规和标准，落实安全生产的主体责任，健全安全生产责任制体系，完善各项安全生产管理制度，要强化对输油气管道安全的日常监督管理和检查，加大事故隐患排查力度，对查出的隐患要建立台帐、督促企业及时整改；要加强源头管理，严格执行建设项目安全设施"三同时"制度，保障安全生产投入，切实提高输油气管道的本质安全度。 <br><br>    三、加大清理管道占压工作督促整改的力度。各级安全监管部门要在当地政府和管道保护联席会议的领导下，督促有关部门和企业制定针对性强又具有可操作性的工作方案，对占压输油气管道的违章建（构）筑物，要有计划、有步骤地予以清除。对重点地区、重点问题进行梳理，区分轻重缓急，对危险程度较大的占压，如直接占压人员密集场所（学校、幼儿园、医院、大型商店等）、居民楼和易燃易爆场所等建（构）筑设施，要加大检查工作力度，并报请地方政府采取有效措施，集中力量，优先解决。对于一时难以解决的，应加强监控，督促有关部门和企业采取有效措施，防止发生重大事故。 <br><br>    四、要努力防止输油气管道发生新的占压问题。各级安全监管部门要与有关部门密切配合，避免在规划和项目审批时造成新的占压问题；对油气田及输油气管道企业报告的新发生占压情况，要及时协调，请有关部门和企业予以制止和清理；要督促各油气田及输油气管道企业加强与当地政府的沟通，及时将输油气管道实测图提供给有关建设规划部门，便于规划部门合理规划用地，创造良好的合作氛围。 <br><br>    五、加大安全投入，提高防范能力。各级安全监管部门要督促各油气田及管道企业加大安全技术设施的投入，加强石油天然气管道标志、警示标识的设置，对投产时间长、占压情况严重和存在重大隐患的管线要加强检测，做到早发现、早报告，防止因泄漏引发事故。要制定管道事故应急救援预案，确保事故发生后能得到及时控制。 <br><br>    六、加大宣传工作力度。要加强对管道沿线群众的宣传教育工作，大力宣传《石油天然气管道保护条例》以及国家有关方针、政策，提高全社会特别是管道沿线群众保护管道安全的责任意识，提高维护输油气管道的安全自觉性。 <br><br>    二○○六年八月七日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

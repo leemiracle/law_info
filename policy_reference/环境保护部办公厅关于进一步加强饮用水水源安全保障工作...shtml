@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】环境保护部<BR>&nbsp;&nbsp;【发布文号】环办〔2009〕30号<BR>&nbsp;&nbsp;【发布日期】2009-03-12<BR>&nbsp;&nbsp;【生效日期】2009-03-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/bbgtwj/200903/t20090317_135363.htm" target=_blank>环境保护部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>环境保护部办公厅关于进一步加强饮用水水源安全保障工作的通知<br><br></font>(环办〔2009〕30号)</p><br>    <br><br>各省、自治区、直辖市环境保护局（厅），新疆生产建设兵团环境保护局：<br><br>    近年来，我国突发环境事件不断发生，对群众饮水安全造成严重威胁。仅2008年，我部直接调度处理的突发环境事件就高达135起，其中威胁群众饮用水源安全的事件高达46起。今年以来，又相继发生了江苏省盐城饮用水水源酚污染、广东省韶关市水源水华暴发等事件，对饮用水安全构成了很大威胁。各地应认真汲取这些水污染事件的经验教训，进一步加强辖区饮用水水源保护工作。现就有关事宜通知如下：<br><br>    一、加强辖区饮用水水源安全风险隐患排查。在全国饮用水水源基础环境调查及评估工作基础上，全面排查饮用水水源保护区、准保护区内及上游地区的污染源，加强对可能影响饮水安全的制药、化工、造纸、冶炼等重点行业、重点污染源的监督管理，建立风险源名录，从源头控制隐患。一旦发生饮用水水源污染事故，要迅速查清并切断污染来源，在当地政府统一领导下，开展污染防控工作，确保群众饮水安全。<br><br>    二、依法查处饮用水水源保护区内的违法排污行为。严厉打击水源保护区内一切威胁水质安全的违法行为，发现一起查处一起，公开曝光查处结果。严格按照《水污染防治法》的要求，坚决取缔饮用水水源一级保护区内所有与供水设施和水源保护无关的建设项目，禁止网箱养殖、旅游、餐饮等可能污染饮用水源水体的活动；坚决取缔二级保护区内所有违法建设项目，采取严格措施，防止网箱养殖、旅游等活动污染饮用水源水体。<br><br>    三、加强交通运输行业的污染防治工作。配合交通及海事部门，严格按照《危险化学品安全管理条例》及《内河交通安全管理条例》等法律法规的要求，加强饮用水源保护区、准保护区内及上游地区油类和危险化学品运载、装卸和储存设施的监管，督促其完善防溢流、防渗漏、防污染措施。各相关码头要配备足够的污染物、废弃物接收设施。<br><br>    四、进一步加强饮用水水源水质监测工作。针对存在风险隐患的水源，要加密跨界断面水质及污染特征因子监测频次，及时了解水质变化状况，及时发现问题、解决问题。要加强环境应急监测能力建设，一旦发生污染事故，要迅速准确监测分析出污染物种类、数量、来源和潜在危害，及时提出应急处理处置建议。国家环保重点城市要按照我部的统一要求，开展饮用水源水质监测工作，并按程序上报监测结果。<br><br>    五、进一步完善饮用水水源保护基础工作。按照《饮用水水源保护区划分技术规范》及《饮用水水源保护区标志技术要求》，全面开展饮用水水源保护区划分与调整工作，在各级保护区边界及穿越保护区的交通干道设立明显的标识标志。要编制突发饮用水水源污染事故应急预案，加强应急演练，为处理重大突发污染事件提供管理及技术储备，有效防范饮用水安全风险；针对薄弱环节，完善饮用水水源应急监管体系。逐步开展典型乡镇及农村地区饮用水水源基础环境状况调查评估工作。<br><br>    六、完善饮用水安全保障工作报告制度。辖区内发生或可能发生的突发饮用水水源污染事件，一经核实要及时上报，坚决杜绝瞒报、漏报行为。对可能影响饮用水安全的污染事故要按程序报告相关人民政府和上级环保部门，并及时向当地城建、卫生、水利等部门和自来水处理厂通报有关信息，加大自来水厂处置力度，确保群众饮用水安全。<br><br>    各级环保部门要把饮用水水源环境保护工作摆上重要议事日程，进一步加强组织领导，切实落实有关措施，确保群众饮水安全。请将有关贯彻落实情况于2009年6月30日前上报我部。<br><br>    联系人：环境保护部污染防治司 郭瑾珑<br><br>    联系电话：（010）66556268<br><br>    传真：（010）66556269<br><br>    电子信箱: guo.jinlong@mep.gov.cn <br><br>    二○○九年三月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

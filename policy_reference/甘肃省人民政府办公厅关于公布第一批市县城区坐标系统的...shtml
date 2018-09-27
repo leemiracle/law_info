@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2005〕26号<BR>&nbsp;&nbsp;【发布日期】2005-03-04<BR>&nbsp;&nbsp;【生效日期】2005-03-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=449" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于公布第一批市县城区坐标系统的通知<br><br></font>(甘政办发〔2005〕26号)</p><br> <br> <br>各市、自治州人民政府，省政府有关部门：<br><br>    依据《中华人民共和国测绘法》的有关规定，省测绘局组织专家对各地报送的市州、县区市城区独立坐标系统清理资料进行了审查验收。现将第一批依法审定保留的城市坐标系统予以公布。<br><br>    城市坐标系统是城市建设的重要基础设施，各级政府及测绘行政主管部门要加强管理。各地已取消的坐标系统，不得再生成新的测绘成果。原有成果能归算到保留系统使用的，由省测绘局给予技术指导，抓紧完成归算，并做好已有地形图及生成资料继续使用中的衔接工作。控制面积、精度等不能满足当地经济和社会发展需要的，要及时改造。改造、新建城镇坐标系统或省内重点工程项目需要建立坐标系统的，必须依法报省测绘行政主管部门审批。<br><br>    保留的工厂、矿山坐标系统，由省测绘局审批发布。这些系统只用于企业局部建设使用，生活区一律使用城区坐标系统，以确保城市规划建设的统一。<br><br>    2005年6月30日以后，不得在未经审批的坐标系统内进行城市规划、建设放样和定位。尚未完成城市坐标系统清理工作的市、县（区、市），要抓紧时间完成这项工作，以确保地理空间定位可靠准确，为经济和社会发展提供强有力的测绘保障。<br><br>                                       二○○五年三月四日<br><br><br>第一批依法审定保留的城市坐标系统<br><br>    兰州市：1996兰州市城建坐标系统(已经国家测绘局批准)<br>    1996红古区城建坐标系统<br>    1996榆中县城建坐标系统<br>    1996皋兰县城建坐标系统<br>    嘉峪关市：2004嘉峪关城区坐标系统<br>    酒泉市：2004酒泉市城区坐标系统<br>    1993敦煌市城建坐标系统<br>    1999金塔县城建坐标系统<br>    1996肃北县地籍坐标系统<br>    1995阿克塞县地籍坐标系统<br>    1997安西县城建坐标系统<br>    张掖市：2002张掖市地籍坐标系统<br>    2002民乐县地籍坐标系统<br>    1997山丹县城建坐标系统<br>    1992临泽县地籍坐标系统<br>    1992肃南县土地坐标系统<br>    2002高台县国土坐标系统<br>    金昌市：1996金昌市城建坐标系统<br>    1998永昌县城建坐标系统<br>    武威市：2002武威市地籍坐标系统<br>    2003民勤县城建坐标系统<br>    1997天祝县城建坐标系统<br>    1996古浪县城建坐标系统<br>    陇南市：2004陇南市城区坐标系统<br>    1999宕昌县城建坐标系统<br>    1999两当县城建坐标系统<br>    1992徽县地籍坐标系统<br>    1997康县城建坐标系统<br>    1997西和县城建坐标系统<br>    1997成县城建坐标系统<br>    1993礼县地籍坐标系统<br>    临夏州：2001临夏市城建坐标系统<br>    2001临夏县城建坐标系统<br>    1998和政县城建坐标系统<br>    2002康乐县城建坐标系统<br>    1998积石山县城建坐标系统<br>    庆阳市：1996庆阳市地籍坐标系统<br>    1996正宁县城建坐标系统<br>    1995宁县城建坐标系统<br>    1993合水县城建坐标系统<br>    1995庆城县地籍坐标系统<br>    1996环县城建坐标系统<br>    1996华池县城建坐标系统<br>    1995镇原县城建坐标系统<br>    平凉市：2003平凉市城建坐标系统<br>    1992泾川县城建坐标系统<br>    1993崇信县地籍坐标系统<br>    1994灵台县地籍坐标系统<br>    1994华亭县地籍坐标系统<br>    1994庄浪县城建坐标系统<br>    1995静宁县地籍坐标系统<br>    定西市：1989陇西县城建坐标系统<br>    1998通渭县城建坐标系统<br>    1994临洮县城建坐标系统<br>    2000漳县城建坐标系统<br>    2000渭源县城建坐标系统<br>    白银市：2000白银市城建坐标系统<br>    1996平川区地籍坐标系统<br>    2000景泰县城建坐标系统<br>    1999会宁县城建坐标系统<br>    1997靖远县城建坐标系统<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

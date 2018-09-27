@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发〔2007〕15号<BR>&nbsp;&nbsp;【发布日期】2007-02-15<BR>&nbsp;&nbsp;【生效日期】2007-02-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1355" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅关于进一步规范出租汽车行业管理有关问题的通知<br><br></font>(黔府办发〔2007〕15号)</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省人民政府各部门、各直属机构：<br>    出租汽车行业是重要的服务窗口行业，在促进城乡经济发展、方便群众出行、扩大社会就业、树立城市形象等方面具有重要作用。近年来，我省出租汽车行业发展较快，已成为城市公共交通的重要组成部分。但是，一些地方在出租汽车行业管理中仍然存在体制不顺、职责不清、多头管理等矛盾和问题，导致出租汽车行业群体性事件时有发生，影响行业健康发展和社会稳定。为进一步规范管理，促进出租汽车行业稳定健康发展，满足人民群众出行和城市经济社会发展需要，经省人民政府同意，现就有关问题通知如下：<br>    一、进一步明确出租汽车行业管理的主体责任<br>    出租汽车是伴随城市经济发展和城镇化进程而发展起来的，与城市公共汽车等共同构成了城市公共交通体系。保证城市居民出行需要、为城市居民搞好服务是市、县（特区）人民政府义不容辞的职责。按照属地行政管理、部门行业指导的原则，市、县（特区）人民政府对本行政区域内出租汽车行业的管理、稳定和发展承担主体责任，市长、县长（区长）是第一责任人。各市、县（特区）人民政府要统一思想认识，强化责任意识，切实履行职责，把加强出租汽车行业管理作为城市管理的一项重要任务，列入政府工作的重要议事日程。省有关部门和单位要增强全局意识，按照职能分工，加强对各地出租汽车管理工作的指导和督促检查，共同推动出租汽车行业健康有序发展。对不按国家和省有关法规政策规定实施管理，引发出租汽车行业群体性事件的市、县（特区），要严格实行行政问责制，依法依纪严肃追究相关责任人的责任。<br>    二、进一步规范出租汽车行业管理<br>    为了适应我省城市经济加快发展和城镇化进程加速推进的需要，根据出租汽车行业管理和发展的客观要求，进一步规范出租汽车行业管理，省由建设行政主管部门负责对出租汽车行业进行归口管理，各市（州、地）人民政府（行署）所在地城市出租汽车行业管理由建设行政主管部门负责，其他县（市、特区）可维持现状，待时机成熟时向建设行政主管部门管理过渡。根据上述要求，需进行的机构调整和人员变动，按照“人随事走”的原则办理。<br>    如今后国务院对出租汽车行业管理出台新的规定，按国务院规定执行。<br>    三、合力推进出租汽车行业持续稳定健康发展<br>各级建设（城管）、财政、人事、公安、交通、物价、编办和法制等有关部门要增强大局意识，加强协调配合，妥善解决规范出租汽车行业管理工作中的职能职责定位、机构设置、人员编制配备和经费保障等问题。省建设行政主管部门要会同省有关部门抓紧制定具体规定，指导和帮助各地扎实推进出租汽车行业规范工作。规范工作应于2007年6月30日前完成。各地、各有关部门和单位要从维护人民群众根本利益和社会稳定的高度出发，正确处理好行政管理与行业管理的关系，正确处理好出租汽车行业改革、发展和稳定的关系，不断理顺生产关系以适应生产力的发展，促进出租汽车行业持续健康发展，维护社会稳定。<br><br>                                                               贵州省人民政府办公厅<br>                                                               二○○七年二月十五日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

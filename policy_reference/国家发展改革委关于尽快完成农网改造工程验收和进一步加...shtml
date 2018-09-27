@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改能源[2005]1149号<BR>&nbsp;&nbsp;【发布日期】2005-06-27<BR>&nbsp;&nbsp;【生效日期】2005-06-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/zcfbtz2005/t20050810_39030.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于尽快完成农网改造工程验收和进一步加强农村电力管理有关要求的通知<br><br></font>(发改能源[2005]1149号)</p><br><br><br>各省、自治区、直辖市、新疆生产建设兵团发展改革委、物价局，水利部、国家电网公司、中国南方电网有限责任公司：<br><br>    农村电网是农村地区的重要基础设施。1998年以来，利用国债资金在全国开展了大规模的农村电网建设与改造工作，在党中央、国务院的正确领导下，在国务院各有关部门和各省（区、市）政府及有关部门的共同努力下，农村电网建设与改造工程已基本完成。经我委稽察办组织的农村电网建设与改造工程专项检查了解，全国农村电网建设与改造自查自纠工作取得了明显成效，工程建设和管理中存在的普遍共性问题得到了有效纠正、突出问题得到了有效整改和解决，除少数项目仍存在一些薄弱环节和问题外，大部分农村电网建设与改造工程已具备竣工验收的条件。<br><br>    为了圆满完成全国大规模的农村电网建设与改造工作，进一步加强农村电力管理，为农村经济和社会更快发展创造条件，现将尽快完成农村电网建设与改造工程验收工作和进一步加强农村电力管理问题的有关要求通知如下：<br><br>    一、请各省（区、市）认真按照《国家发展改革委办公厅关于做好农村电网建设与改造工程验收工作的通知》(发改办能源[2003]1101号)的要求，并根据我委稽察整改通知要求，在对发现问题进行认真整改的基础上，尽快完成农村电网建设与改造工程验收工作，将全省（区、市）验收情况以省(区、市)发展改革委的文件上报我委。我委将对各省（区、市）验收情况进行重点抽查并下发验收意见。<br><br>    二、由于各省(区、市)经济和社会状况发展状况不同、农村电网基础不同、农网改造投资规模不同，这次农村电网建设与改造计划完成后，各省(区、市)农网改造、城乡用电同价的现状和覆盖面也不同，特别是一些中西部地区的农网改造覆盖面明显偏低，也有一些地方由于经济的快速发展，改造后的农村电网已不能完全适应用电增长的需要，个别地方城乡用电同价矛盾较突出。请各省(区、市)发展改革委和物价局在认真做好农网改造验收工作的基础上，进一步调查摸清农村电网的状况，研究提出继续完善农村电网建设、推进城乡各类用电同价的建议一并上报我委。<br><br>    三、继续加强农村电力管理工作。加强农村电力管理是一项长期的任务，县级供电企业是农村电力管理的主体，全面负责农村电力管理的各项工作，要按照现代化管理和“三公开”、“四统一”和“五到户”的要求，坚持认真做好农村电力管理和普遍服务工作，加强对农村电力设施运行状况的监测，及时解决农村电力设施运行中存在的问题，确保农村地区供电可靠性和供电质量。对于县级电力公司负责管理的农村电网，由于负荷发展需要扩容或设备自然老化需要更换设备，由县级电力公司负责，不得变相向农民集资或收费，增加农民经济负担。<br><br>    四、研究建立农村电网发展的长效机制。这次大规模农村电网建设与改造工程完成后，长期积累形成的农村电网严重滞后的问题可以基本得到解决。但随着经济的发展和人民生活水平的提高，农村地区的电力负荷和用电量将不断增加，农村电网需要不断完善和发展。为了确保农村电力的可靠供应，各省(区、市)要结合各地的实际情况，研究建立农村电网发展的长效机制，建立农村电力专项资金，支持农村电力设施的建设与改造，确保农村电网能够满足农村地区经济和社会不断发展的用电需要。<br><br>    加强农村电力建设和管理是一项长期的任务，各省(区、市)和各有关部门都要高度重视农村电力工作，按照上述要求尽快完成农村电网建设与改造的竣工验收工作，认真研究和解决农村电力工作中存在的突出问题，进一步深化农村电力体制改革，完善农村电网结构，为促进农村地区经济和社会发展做出新的贡献。<br><br>                                               中华人民共和国国家发展和改革委员会<br>                                                    二○○五年六月二十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

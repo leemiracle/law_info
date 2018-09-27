@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农科教发[2007]4号<BR>&nbsp;&nbsp;【发布日期】2007-03-29<BR>&nbsp;&nbsp;【生效日期】2007-03-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20070404_796866.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于表彰全国农业科技推广标兵的决定<br><br></font>(农科教发[2007]4号)</p><br><br><br>各省、自治区、直辖市及计划单列市农业（农林、农牧）、农机、畜牧（兽医）、农垦、渔业厅（委、局、办），黑龙江农垦总局,新疆生产建设兵团农业局，部属有关单位，有关农业院校：<br><br>    为贯彻落实党的十六届五中、六中全会和2007年中央1号文件精神，进一步激励和调动广大农业科技人员面向农业发展和农民需求，深入开展科技创新与服务，加速成果转化与推广应用，解决农业、农村、农民的实际问题，积极倡导农业科技人员把“论文写在大地上、成果留在农民家”，农业部决定授予范双喜等200名同志全国农业科技推广标兵称号，予以表彰（名单附后）。<br><br>    这次受表彰的全国农业科技推广标兵是农业科技人员的典范，他们长期以来深入基层和生产一线，开展形式多样的科技推广和服务，积极推动农业科技成果转化与推广应用，推动了农业和农村经济发展，取得了显著成绩，深受基层和农民欢迎。希望受到表彰的农业科技推广标兵，要继续发扬成绩，珍惜荣誉，不骄不躁，再接再厉，做出更大成绩。各级农业行政部门和科研、教学、推广单位要大力宣传农业科技推广标兵的先进事迹，弘扬他们的精神，动员和激励广大农业科技人员深入基层，服务“三农”，开拓创新，积极推进农业科技进村入户，为加快发展现代农业、扎实推进社会主义新农村建设、努力构建社会主义和谐社会而奋斗。<br><br>                                              二○○七年三月二十九日<br><br><br>    附件：<br><br>全国农业科技推广标兵名单<br><br>    北京市<br><br>    范双喜  北京农学院<br><br>    肖长坤  北京市植物保护站<br><br>    季海峰  北京市农林科学院畜牧兽医研究所<br><br>    方宪法  中国农业机械化科学研究院科技产业发展部<br><br>    上海市<br><br>    郁樊敏  上海市农业技术推广服务中心<br><br>    谭  琦  上海市农业科学院<br><br>    李建颖  上海市畜牧兽医站<br><br>    刘建政  上海市农业机械研究所<br><br>    李应森  上海水产大学<br><br>    王  武  上海水产大学<br><br>    天津市<br><br>    刘学军  天津市水稻研究所<br><br>    高梅秀  天津农学院<br><br>    王瑞卿  天津市农业技术推广站<br><br>    赵  明  天津市北辰区畜牧水产局水产推广站<br><br>    重庆市<br><br>    李贤勇  重庆市农科院<br><br>    王金勇  重庆市畜牧科学院<br><br>    宋关碧  重庆市水产技术推广站<br><br>    田贵康  重庆市南川区农机推广站<br><br>    河北省<br><br>    赵振良  河北省水产研究所<br><br>    于凤玲  河北省农业技术推广总站<br><br>    薛庆林  河北农业大学科教兴农中心<br><br>    李玉荣  河北省农林科学院粮油作物研究所<br><br>    曹玉凤  河北农业大学科教兴农中心<br><br>    敦伟涛  河北省畜牧兽医研究所<br><br>    乜红民  河北省永年县农业局广府区域站<br><br>    山西省<br><br>    杨效民  山西省农科院畜牧所<br><br>    姚先玲  山西省农业种子总站<br><br>    岳文斌  山西农业大学<br><br>    张本源  山西省农机研究所<br><br>    内蒙自治区<br><br>    冯  勇      内蒙古自治区农科院<br><br>    孟  德      内蒙古自治区农业技术推广站<br><br>    苏和巴特尔  内蒙古自治区畜牧科学院<br><br>    许燕辉      内蒙古自治区兽医工作站<br><br>    辽宁省<br><br>    陈温福  沈阳农业大学<br><br>    宋书宏  辽宁省农科院<br><br>    王延波  辽宁省农科院玉米所<br><br>    丛福滋  辽宁省农业机械化研究所<br><br>    郭继业  辽宁省农村能源办公室<br><br>    陈秀华  辽宁省辽阳县水产技术推广唐马区域站<br><br>    吉林省<br><br>    王立春  吉林省农科院<br><br>    王丕武  吉林农业大学<br><br>    吴春胜  吉林农业大学<br><br>    赵国臣  吉林省农科院水稻研究所<br><br>    王贵满  吉林省梨树县农业技术推广总站<br><br>    付殿国  吉林省畜牧总站<br><br>    张玉欣  吉林省伊通满族自治县农业技术推广总站<br><br>    黑龙江省<br><br>    潘国君  黑龙江省农科院<br><br>    张鹏咏  黑龙江草原饲料中心实验站<br><br>    韩贵清  黑龙江省农科院<br><br>    何  堤  黑龙江省农业机械工程科学研究院<br><br>    魏冀西  黑龙江省农业技术推广站<br><br>    李承林  黑龙江生物科技职业学院<br><br>    李景富  东北农业大学<br><br>    江苏省<br><br>    邹江石  江苏省农科院<br><br>    周建涛  江苏省农科院科技服务中心<br><br>    於林丽  江苏省金湖县农广校<br><br>    孙广仲  江苏省盐城市盐都区粮油作物技术指导站<br><br>    陈宽维  江苏省家禽科学研究所<br><br>    晁祥飞  江苏省水产技术推广站<br><br>    陈新华  江苏省农机具开发应用中心<br><br>    奚云龙  江苏省金坛市农业技术推广中心<br><br>    浙江省<br><br>    孟智启  浙江省农科院<br><br>    沈伟桥  浙江大学现代农业技术推广中心<br><br>    徐君卓  浙江省海洋水产研究所<br><br>    安徽省<br><br>    曹晋蓉  安徽省兽医工作站<br><br>    邓贺明  安徽省阜阳市农业科学研究所<br><br>    马传喜  安徽农业大学<br><br>    王齐年  安徽省宣城市农业科学研究所<br><br>    李霞红  安徽省天长市农业科技推广中心<br><br>    丁凤琴  安徽省农科院水产研究所<br><br>    朱桂芝  安徽省无为县农机化技术学校<br><br>    施爱枝  安徽省太湖县农业技术推广中心<br><br>    福建省<br><br>    谢华安  福建省农科院<br><br>    祁建民  福建农林大学<br><br>    郑少泉  福建省农业科学院果树研究所<br><br>    徐倩华  福建省种植业技术推广总站<br><br>    王云福  建省福州市平潭县水产技术推广站<br><br>    江西省<br><br>    曹开蔚  江西省农业技术推广总站<br><br>    陈大洲  江西省农业科学院水稻研究所<br><br>    贺浩华  江西农业大学<br><br>    赵城珍  江西省进贤县水产技术推广站<br><br>    朱军平  江西省吉安市农村能源管理站<br><br>    山东省<br><br>    董树亭  山东农业大学<br><br>    黄承彦  山东省农业科学院<br><br>    于振文  山东农业大学小麦研究所<br><br>    鞠正春  山东省农业技术推广总站<br><br>    曲绪仙  山东省畜牧兽医总站<br><br>    王勇强  山东省海水养殖研究所<br><br>    董佑福  山东省农机技术推广站<br><br>    河南省<br><br>    崔党群  河南农业大学<br><br>    孙治强  河南农业大学<br><br>    王振华  河南省农科院粮食作物研究所<br><br>    许为钢  河南省农科院<br><br>    吴政卿  河南省农科院小麦中心<br><br>    任洪志  河南省农技推广总站<br><br>    吴志明  河南省畜牧局动物疫病预防控制中心<br><br>    马  勇  河南省农机推广站<br><br>    湖北省<br><br>    高春保  湖北省农科院粮作所<br><br>    饶辉福  湖北省咸宁市农科所<br><br>    舒新亚  湖北省水产科学研究所<br><br>    杨圣桐  湖北省枝江市土肥站<br><br>    刘发和  湖北省农业技术推广总站<br><br>    湖南省<br><br>    石雪晖  湖南农业大学园艺园林学院<br><br>    夏胜平  湖南省水稻研究所<br><br>    肖建中  湖南省蚕桑科学研究所<br><br>    王汉清  湖南省浏阳市永安镇农技站<br><br>    王海文  湖南省水产科学研究所<br><br>    广东省<br><br>    黄健文  广东省农业科学院水稻研究所<br><br>    陈志强  华南农业大学<br><br>    辛朝安  华南农业大学兽医学院<br><br>    姚国成  广东省水产技术推广总站<br><br>    广西壮族自治区<br><br>    许典新  广西壮族自治区畜禽品种改良站<br><br>    杨家坚  广西壮族自治区水产研究所<br><br>    李如平  广西壮族自治区农业技术推广站<br><br>    林贵美  广西壮族自治区农科院<br><br>    刘德惠  广西壮族自治区象州县农机校<br><br>    海南省<br><br>    陈绵才  海南省农科院农业环境与植物保护研究所<br><br>    孟卫东  海南省农科院粮食作物研究所<br><br>    吴曼峰  海南省儋州市农业技术推广服务中心<br><br>    李向民  海南省水产研究所<br><br>    王大雄  海南省定安县雷鸣畜牧兽医站<br><br>    四川省<br><br>    李宗友  四川省泸县农业技术推广中心<br><br>    陈  杰  四川省绵阳市农科所<br><br>    邓  虹  四川省南充市农科所<br><br>    熊  洪  四川省农科院水稻高粱研究所<br><br>    柯永培  四川农业大学<br><br>    杜  军  四川省水产研究所<br><br>    刘汉中  四川省草原科学研究院<br><br>    谢祖琪  四川省农业机械研究设计院<br><br>    屈  锋    四川省农村能源办公室<br><br>    林  锋  四川省仪陇县农村能源建设办公室<br><br>    孙松国  四川省三台县农业局<br><br>    赵献成  四川省成都市郫县三道堰片区农技站<br><br>    贵州省<br><br>    文云书  贵州省余庆县农技站<br><br>    王天文  贵州省园艺研究所<br><br>    张瑞茂  贵州省油菜研究所<br><br>    许劲松  贵州省农机技术推广总站<br><br>    王才学  贵州省大方县文阁乡农业服务中心<br><br>    云南省<br><br>    朱有勇  云南农业大学<br><br>    蒋志农  云南省农业科学院粳稻中心<br><br>    董保柱  云南省德宏州农科所<br><br>    黄光和  云南省楚雄州农科所<br><br>    陕西省<br><br>    党高兵  陕西省蒲城县农业技术推广中心<br><br>    李思训  陕西省农技推广总站<br><br>    原积友  陕西省畜牧兽医总站<br><br>    霍国琴  陕西省商洛市农业科学研究所<br><br>    侯忠锋  陕西省铜川市农业机械研究所(农机推广站)<br><br>    甘肃省<br><br>    常永义  甘肃农业大学<br><br>    王一航  甘肃省农科院<br><br>    杨祁峰  甘肃省农业技术推广总站<br><br>    王有国  甘肃省畜牧技术推广总站<br><br>    宁夏回族自治区<br><br>    张建宁  宁夏回族自治区吴忠市农业科学研究所<br><br>    李建设  宁夏大学农学院<br><br>    谢  华  宁夏农林科学院种质资源研究所<br><br>    徐润邑  宁夏回族自治区种子管理站<br><br>    青海省<br><br>    卢长德  青海畜牧兽医职业技术学院<br><br>    侯生珍  青海大学农牧学院<br><br>    韩志林  青海省畜牧兽医科学院<br><br>    曹成海  青海省互助县农业技术推广中心<br><br>    新疆维吾尔自治区<br><br>    陈兴武  新疆农科院粮食作物研究所<br><br>    杨柏松  新疆农业职业技术学院<br><br>    张群雁  新疆库车县农业技术推广中心<br><br>    张  扬  新疆畜牧科学院<br><br>    周卫华  新疆机械研究院<br><br>    西藏自治区<br><br>    强巴央宗  西藏农牧学院动科学院<br><br>    禹代林    西藏农牧科学院农业研究所<br><br>    吴国珍    西藏自治区畜牧兽医技术推广服务中心<br><br>    大连市<br><br>    马正义    大连市农业机械化研究所<br><br>    青岛市<br><br>    刘炳禄    青岛市农业科学研究院<br><br>    张瑞吉    平度市明村镇农机服务站<br><br>    黑龙江农垦总局<br><br>    汪  春    黑龙江八一农垦大学<br><br>    马守义    黑龙江省农垦科学院<br><br>    新疆生产建设兵团<br><br>    邓福军    新疆农垦科学院棉花所<br><br>    曾胜河    新疆农垦科学院水土所<br><br>    曹卫彬    新疆石河子大学机械电气工程学院<br><br>    教育部所属大学<br><br>    贾克功    中国农业大学农学院<br><br>    宁中华    中国农业大学<br><br>    李洪文    中国农业大学工学院<br><br>    程  序    中国农业大学<br><br>    章  镇    南京农业大学园艺学院<br><br>    陆承平    南京农业大学<br><br>    赵政阳    西北农林科技大学<br><br>    昝林森    西北农林科技大学<br><br>    邱  凌    西北农林科技大学<br><br>    邓  秀    新华中农业大学<br><br>    谢从华    华中农业大学<br><br>    罗信昌    华中农业大学<br><br>    农业部所属单位<br><br>    李立秋  全国农业技术推广服务中心<br><br>    屈冬玉  中国农业科学院<br><br>    金继运  中国农业科学院农业资源与农业区划研究所<br><br>    王加启  中国农业科学院北京畜牧兽医研究所<br><br>    韩天富  中国农业科学院作物科学研究所<br><br>    程式华  中国水稻研究所<br><br>    刘金海  中国农业科学院棉花研究所<br><br>    邴旭文  中国水产科学研究院淡水渔业研究中心<br><br>    李卓佳  中国水产科学研究院南海水产研究所<br><br>    白遗胜  中国水产科学研究院长江水产研究所<br><br>    罗世巧  中国热带农业科学院橡胶研究所<br><br>    彭正强  中国热带农业科学院环境与植物保护研究所<br><br>    邱小强  中国热带农业科学院<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

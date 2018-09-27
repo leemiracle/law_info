@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农市发［2006］10号<BR>&nbsp;&nbsp;【发布日期】2006-07-10<BR>&nbsp;&nbsp;【生效日期】2006-07-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20060714_648738.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于开通“12316”全国农业系统公益服务统一专用号码的通知<br><br></font>(农市发［2006］10号)</p><br><br><br>各省、自治区、直辖市农业（农林、农牧、农垦、畜牧兽医、渔业、农机化）厅（局、委、办），新疆生产建设兵团农业局：<br><br>    为维护农民合法权益，方便广大农民群众投诉举报以及更便捷地面向社会公众提供“三农”信息服务，我部在信息产业部的支持下，申请并被核配了“12316”作为全国农业系统公益服务统一专用号码。为顺利启用该号码，现将有关事项通知如下：<br><br>    一、重要意义<br><br>    启用农业系统公益服务统一专用号码，能够解决目前各地农业系统公益服务号码不统一的问题，为农民、企业投诉举报或咨询服务提供方便。同时，也有利于整合农业系统信息服务资源，提高农业信息服务能力，为广大农民和企业提供统一、规范、方便、准确的信息服务。这是农业部门积极推进政务公开，用良好的作风推进社会主义新农村建设的一个重要举措，也是解决农民最关心、最直接、最现实利益问题的具体体现。各级农业行政主管部门要充分认识这项工作的重要意义，积极创造条件开通“12316”农业系统公益服务统一专用号码。<br><br>    二、近期目标<br><br>    启用“12316”全国农业系统公益服务统一专用号码，要把解决农民群众最关心的利益问题作为首期开通的目标。各地要坚持因地制宜，分步开通的原则，近期目标以开通农资打假等投诉举报和“三电合一”农业综合信息服务为主，在条件成熟时，再提升“12316”专用号码功能和扩大服务覆盖范围。<br><br>    三、实施步骤<br><br>    各省级农业行政主管部门要积极争取当地电信部门的大力支持，并结合本地条件，制定切实可行的规划实施方案，稳步推进。已经建立并开通“三电合一”农业综合信息服务的单位，要将目前使用的服务号码调整为“12316”专用号码。<br><br>    开通专用号码，各地可按照以下步骤组织实施：<br><br>    （一）制定专用号码开通实施方案。各省级农业行政主管部门要根据本省（自治区、直辖市）已建及拟建服务、举报平台的实际情况，充分利用当地电信公司的通信资源，研究制定本地“12316”专用号码开通规划及工作实施方案。有条件的地方要积极拓展服务功能，努力满足投诉举报和咨询服务等需要。<br><br>    （二）选择共同合作的电信公司。为便于管理和规范，我部根据电信企业的业务实际，经商信息产业部主管部门，并与相关电信运营企业总部联系，决定选择中国电信集团公司、中国网通集团公司（以下简称电信公司）为“12316”专用号码开通合作电信公司。中国电信集团公司负责南方片，中国网通集团公司负责北方片的专用号码开通及业务合作。南方片包括：上海、江苏、浙江、安徽、福建、江西、湖北、湖南、广东、广西、海南、重庆、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆等21个省、自治区、直辖市。北方片包括：北京、天津、河北、河南、山东、山西、内蒙古、辽宁、吉林、黑龙江等10个省、自治区、直辖市。<br><br>    （三）申请开通，组织实施。各省级农业行政主管部门要依据本通知、信息产业部《关于核配农业部全国农业系统公益服务统一专用号码的函》（信部电函[2006]66号，见附件），统一申请在全省（自治区、直辖市）范围内开通“12316”专用号码。须以省厅（局、委、办）名义正式行文，将本省“12316”专用号码开通实施方案和联系方式等报当地通信管理局备案。备案后，再持当地通信管理局备案通知到当地电信公司，商请开通本省（自治区、直辖市）“12316”农业系统公益服务统一专用号码事宜，并共同组织实施。各省（自治区、直辖市）“12316”专用号码具体开通地域范围，请各地根据实际与当地电信公司共同协商确定，原则上开通至县一级。<br><br>    根据信息产业部要求，“12316”专用号码开通后，各地已开通的农业公益服务的96号码要逐步向“12316”统一专用号码过渡，并存一段时间后停止使用原有号码。<br><br>    四、有关要求<br><br>    （一）加强领导。各地农业行政主管部门要高度重视“12316”全国农业系统公益服务统一专用号码开通工作，切实加强领导，密切与电信部门沟通配合，认真组织开通并用好“12316”农业系统公益服务统一专用号码。<br><br>    （二）建立制度。要建立相应的工作制度，确保“12316”专用电话在正常工作期间有专人接听，非工作期间有录音和自动传真，每个来电都有统一规范的记录，受理或转移受理都有明确记载。有条件的地方要设立专门机构，配备专业人员，统一受理农业系统公益服务电话。<br><br>    （三）统一名称。为更好地发挥“12316”农业系统公益服务统一专用号码的作用，树立和提升农业部门服务“三农”的形象，建议各地将专用号码统一称为:12316“三农”热线。<br><br>    （四）做好宣传。各地在开通“12316”专用号码的同时，要与当地电信公司积极配合，共同做好“12316”专用号码开通、使用方法和主要功能等的宣传工作，让农民群众尽快掌握和使用。<br><br>    （五）报送情况。各省级农业行政主管部门在本省（自治区、直辖市）“12316”专用号码开通后，要及时将开通情况及联系处室、联系人、联系电话、传真、通讯地址、邮编等报送我部市场与经济信息司；同时，每年年底前报送“12316”专用号码使用情况及效果，以便及时汇总报送信息产业部。<br><br>    （六）其他要求<br><br>    1.“12316”专用号码属于社会公益性服务号码，必须严格遵守国家和地方有关号码资源管理的规定，禁止转让、出租该专用号码或改变号码的公益服务性质。<br><br>    2.用户拨打该号码时，收费标准按信息产业部相关规定执行。<br><br>    各地在组织开通专用号码工作中如有疑问，请与我部市场与经济信息司联系。<br><br>    联系电话：010-64192694，64193102<br><br>    传真：010-64193157<br><br>    电子邮箱：nybdjb@agri.gov.cn<br><br>                                          二○○六年七月十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家统计局<BR>&nbsp;&nbsp;【发布文号】国统办字[2005]48号<BR>&nbsp;&nbsp;【发布日期】2005-11-08<BR>&nbsp;&nbsp;【生效日期】2005-11-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.stats.gov.cn/tjdt/zygg/t20051108_402290251.htm" target=_blank>国家统计局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>统计调查数据处理软件基本功能规范（试行）<br><br></font>(国统办字[2005]48号)</p><br> <br><br>各省、自治区、直辖市统计局，新疆生产建设兵团统计局：<br><br>    为进一步做好统计软件规范化工作，根据统计工作和信息化发展建设的需要，经多次讨论，反复征求意见，国家统计局制定了《统计调查数据处理软件基本功能规范（试行）》。<br><br>    《统计调查数据处理软件基本功能规范（试行）》是统计调查数据处理软件基本功能的框架性标准，目的在于约束、规范统计系统内统计调查数据处理软件的开发、推广工作，使相关软件遵循统一的标准，避免重复开发，节约统计系统内的建设资金，从根本上减轻基层负担。<br><br>    现将该规范印发给你们，请在实际工作中参照实行。<br><br><br>统计调查数据处理软件基本功能规范（试行）<br><br>    <font class='zhang'>第一章</font>  总则<br><br>    统计调查数据处理软件是指专门用于统计调查数据处理工作的计算机应用软件，包括采用各种计算机语言编制的用于统计调查数据处理工作的计算机程序。统计调查数据处理软件的基本功能是统计调查数据处理软件必须具备的功能和完成这些功能的基本步骤。<br><br>    统计调查数据处理软件必须满足国家统计局"统计调查数据处理软件数据接口规范"。<br><br>    统计调查数据处理软件的功能模块，是统计调查数据处理软件中具备相对独立地完成统计数据字典的描述，统计数据录入表格的设置、统计数据的处理（录入、审核、汇总、制表）和输出功能的各个部分。统计调查数据处理软件的各主要功能模块应相对独立而又集中统一。统计调查数据处理软件的各主要功能模块应以统计数据字典为核心，各主要功能模块的处理程序要和相关的统计业务流程相对独立，即统计调查数据处理软件整体或模块的升级、维护不应影响其在统计业务中的应用。<br><br>    统计调查数据处理软件中的文字输入、屏幕提示和打印输出必须采用中文。统计调查数据处理软件在设计性能允许使用范围内，不得出现由于自身原因造成死机或者非正常退出等情况。<br><br>    统计调查数据处理软件分为在一定范围内适用的通用统计调查数据处理软件和仅适用于个别单位的定点开发的统计调查数据处理软件。中国境内各级统计机构应用的统计调查数据处理软件应当符合本规范的基本要求。统计调查数据处理软件应当符合我国法律、法规、规章的规定, 保证统计数据合法、真实、准确、完整，有利于提高统计工作效率。<br><br>    <font class='zhang'>第二章</font>  统计数据字典的描述<br><br>    统计调查数据处理软件应具备定义数据字典的功能。数据字典的定义必须满足国家统计局"统计调查数据处理软件数据接口规范"中关于数据字典的要求。统计调查数据处理软件或应用系统应该能够创建统一标准的各种统计调查表的数据字典，主要应当包括以下内容：<br><br>    描述数据字典的功能<br><br>    可描述数据字典的标记、名称、注释及数据字典中包含的级、记录、数据项和值的含义名称等。<br><br>    描述级的功能<br><br>    可描述数据字典中级的相关属性，如标记、名称等。<br><br>    描述统计调查表标识项的功能<br><br>    可描述统计调查表或调查问卷中能够唯一地识别调查表或问卷的数据项。<br><br>    描述记录的功能<br><br>    记录通常对应于调查问卷的某个部分而且由一组相关的数据项组成。统计调查数据处理软件可描述统计调查表或调查问卷中相应的记录、记录的类型及记录的属性，如记录的标记、名称、类型值、必须事项	、最大数等。<br><br>    描述数据项的功能<br><br>    统计调查数据处理软件可描述统计调查表或调查问卷中相应的数据项，数据项的属性，如名称、标记、长度、数据类型、数据项的类型、数据项在记录中重复的次数、数据项中的小数位等。可描述数据项的子项、数据项的值或值集，描述方法要简单直观，可以进行多值集描述。<br><br>    <font class='zhang'>第三章</font> 录入表格的设计、数据录入的操作<br><br>    录入表格的设计<br><br>    统计调查数据处理软件可根据统计数据字典生成默认的数据录入表格，能自动生成将所有数据字典的数据项放入表格的数据录入应用程序。<br><br>    统计调查数据处理软件可通过拖曳的方式生成一个或多个数据录入表格。可设置拖曳的属性，如数据项带标记还是名称，花名册的显示方式等。数据录入表格可按照统计报表的样式建立，达到录入界面所见即所得的要求。数据录入表格中可包含文本、矩形框、数据项、花名册。可设置数据录入表格、文本、花名册的属性。可设置数据录入表格中数据项的属性，如修改数据项对应的显示文本、数据项的跳转对象、持久性数据项、顺序数据项、保护性数据项、大写数据项、镜像数据项，是否使用回车、超界强行通过等。提供方便的排列数据项、文本的功能。<br><br>    统计调查数据处理软件可提供录入属性的定义。提供标记已选数据项的功能。可进行数据录入顺序的修改。可进行数据录入选项的设置，如确认观察单位结束、允许部分保存、要求按回车键、超界强行通过等。可进行数据录入方法的设置，如操作员控制或系统控制。<br><br>    统计调查数据处理软件应提供方便的描述数据录入逻辑的功能，方便的数据录入时审核规则的编写功能。数据录入时录入逻辑或审核规则的编写要实现调查问卷级、级级、记录级、花名册级、数据项级，且可以标记哪些有审核或录入规则。要提供录入前和录入后录入逻辑的实现规则。<br><br>    数据录入的操作要求<br><br>    统计调查数据处理软件应提供简单、易用、独立的数据录入操作模块。<br><br>    统计调查数据处理软件提供在数据录入中五种不同的操作模式或状态。它们分别是：<br><br>    添加		录入新的观察单位。<br><br>    修改		修改已经录入的观察单位。<br><br>    验证		通过复录的方法验证已经录入的观察单位。<br><br>    暂停    暂时停止添加、修改或验证观察单位等录入工作。这时，为收集统计数据而设定的定<br><br>    时器也会暂停。暂停用于打算在临时停止工作后从停止处继续的情况。<br><br>    停止    在停止状态，不能进行添加、修改或验证观察单位，这时，看不到任何表格。<br><br>    当添加、修改或验证观察单位时，一个录入表格就会出现在屏幕上。表格包含数据字段和文本。表格可以大于实际的屏幕区域，为确保正在录入的字段能够在屏幕上看到，表格会自动滚动。<br><br>    统计调查数据处理软件的数据录入模块可由若干录入表格组成。在完成一个表格后，下一个表格将会出现。如果从一个表格的第一个字段回退，前一个表格就会出现。数据录入过程中，光标会按照由应用程序定义的顺序和规则从某个字段移动到下一个。某些字段不能被输入，这种字段以暗灰色出现。<br><br>    统计调查数据处理软件应符合录入操作人员键盘录入的习惯，可记录录入操作人员的日志信息。<br><br>    统计调查数据处理软件应支持读取外部数据文件，并可以将录入的数据写入外部数据文件。<br><br>    统计调查数据处理软件应提供边录边审的即时审核编辑功能，即可以按照定义数据录入表格时描述的录入规则、数据间的逻辑关系在录入时即时审核编辑，也可以在录入完成后在修改状态进行交互式编辑。<br><br>    统计调查数据处理软件应提供便捷的屏幕切换键，字段间的移动键、表格间的移动键、花名册的移动键等。<br><br>    <font class='zhang'>第四章</font>  编辑规则的编写和执行<br><br>    统计调查数据处理软件应该提供强大的可描述国家统计调查制度中传统报表规定的报表逻辑审核关系的功能。支持基层表式的登录性检查、记录结构检查、指标的范围检查、指标间的一致性检查，指标间的逻辑跳跃检查等。<br><br>    统计调查数据处理软件应该提供可动态编辑数据的功能。如数据的自动修改、冷校、热校等。<br><br>    统计调查数据处理软件应该提供可调用外部相关文件的功能。如获取外部文件的内容等。<br><br>    统计调查数据处理软件应该提供自定义编辑顺序的功能。如自定义逻辑代码执行的顺序等。<br><br>    统计调查数据处理软件应该提供可生成编辑报告单的功能。如按照一定的格式生成数据的编辑报告单等。编辑报告单要记录处理数据的总体情况，错误数据的情况，各类错误发生的频率等。<br><br>    统计调查数据处理软件应该提供近似自然语言的编辑语言，支持上述功能的实现。提供编辑语言的预编译和调试功能。<br><br>    统计调查数据处理软件应支持编辑语言在数据录入时和数据录入完成后的批量执行功能。<br><br>    <font class='zhang'>第五章</font>  统计数据汇总处理<br><br>    统计调查数据处理软件应提供强大、方便的数据汇总功能。统计调查数据处理软件必须提供统计汇总报表的保存和打印输出功能，保存、打印输出的统计汇总报表的格式和内容应当符合国家统计调查制度的规定。保存的统计汇总报表至少有ASCII标记分隔文件、HTML文件两种类型。<br><br>    复合指标的创建功能<br><br>    统计调查数据处理软件应提供已有统计指标（数据项）的复合功能，即生成新的指标。如按一定的条件生成新的指标，按统计关系表达式生成新的指标等。<br><br>    生成频率分布表的功能<br><br>    频率分布表显示数据字典中的具体数据项在数据文件中的值的分布。统计调查数据处理软件可以通过指定一个数据项为行，没有列的交叉表，来得到该数据项的频率分布。频率表可以有值和/或加权。频率表可以范围定义。使用总计或列来得到百分比。<br><br>    生成交叉表的功能<br><br>    统计调查数据处理软件可以通过拖动所需的字典数据项并将其拖动到表上，来得到交叉表，并自动生成交叉表的表标题、列标题、行标题。可以定义表的范围，定义表的地区，选择想要制表的值数据项，选择需要加权的数据项，修改标题（如果需要的话）。<br><br>    生成复杂汇总表的功能<br><br>    统计调查数据处理软件可以通过拖动多个所需的字典数据项并将其拖动到表上，来得到复杂的汇总表，并自动生成汇总表的表标题、列标题、行标题。可以修改标题（如果需要的话）。<br><br>    统计调查数据处理软件可以对汇总表进行按列或行组合排列。<br><br>    <font class='zhang'>第六章</font>  总体风格与数据输出<br><br>    总体风格<br><br>    统计调查数据处理软件应为图形化用户界面，界面直观，对用户透明，即用户接触软件后对界面对应的功能一目了然。软件的各功能模块间应保持界面的一致性，如字体、标签风格、颜色、术语、显示错误信息等方面确保一致。<br><br>    统计调查数据处理软件应遵循鼠标与键盘对应的原则。提供的菜单项、快捷键在各模块中的语义要保持一致，要尽量和Windows及其应用软件中的快捷键一致，如新建（Ctrl-N）、打开（Ctrl-O）、保存（Ctrl-S）、打印（Ctrl-P）、撤销（Ctrl-Z）、恢复（Ctrl-Y）、复制（Ctrl-C）、粘贴（Ctrl-V）、剪切（Ctrl-X）、查找（Ctrl-F）、关闭（Ctrl-F4）、退出（Alt-F4）、缺省按钮/确认操作（Enter）、取消按钮/取消操作（Esc）、帮助（F1）等。<br><br>    输出格式<br><br>    制表符分隔----此格式在文本文件（.TXT）中用制表符分隔每个数据项，第一行文本是用制表符分隔的每个数据项的标签，此格式用于输出数据到各种软件如电子表格（spreadsheets），文本处理工具（text processors），数据库（databases）。<br><br>    逗号分隔----此格式在文本文件（.CSV）中用逗号分隔每个数据项，第一行文本是用逗号分隔的每个数据项的标签，此格式用于输出数据到各种软件如电子表格（spreadsheets），文本处理工具（text processors），数据库（databases）。<br><br>    数据项的选择<br><br>    可选择所有数据项，也可选择部分数据项。<br><br>    输出方法的选择<br><br>    输出不同记录类型的数据项到一个文件----从所有记录类型中选择的所有数据项都被放在一个数据文件中，所有观察单位都被放在一个数据文件中。<br><br>    输出不同记录类型的数据项到不同文件----对于每一个选择了数据项的记录类型都有一个文件，仅该记录中选择的数据项写到对应的文件中，如果一个观察单位一种记录类型有多个记录，则在输出文件中有多个该类型记录，此选项输出的文件的各个数据项之间只能用制表符分隔。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

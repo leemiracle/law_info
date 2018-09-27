@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国土资源部<BR>&nbsp;&nbsp;【发布文号】国土资发[2005]220号<BR>&nbsp;&nbsp;【发布日期】2005-10-26<BR>&nbsp;&nbsp;【生效日期】2005-10-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mlr.gov.cn/pub/gtzyb/zwgk/ggtg/t20051101_70855.htm" target=_blank>国土资源部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国土资源部关于进一步加强国土资源执法监察工作的通知<br><br></font>(国土资发[2005]220号)</p><br><br><br>各省、自治区、直辖市国土资源厅（国土环境资源厅、国土资源和房屋管理局、房屋土地资源管理局、规划和国土资源局），解放军土地管理局，新疆生产建设兵团国土资源局：<br><br>    为贯彻《国务院关于做好省级以下国土资源管理体制改革有关问题的通知》（国发〔2004〕12号,以下简称《通知》）、《国务院关于深化改革严格土地管理的决定》（国发〔2004〕28号,以下简称《决定》）和中共中央组织部《关于调整省以下国土资源主管部门干部管理体制的通知》（组通字〔2004〕22号）精神，落实最严格的耕地保护制度，切实加强矿产资源管理，针对实际工作中面临的新形势、新问题，经研究，现就进一步加强国土资源执法监察工作通知如下。<br><br>    一、明确责任，完善和落实执法监察各项工作制度<br><br>    执法监察工作的规范化、法制化是依法行政的基本要求。要按照《通知》和《决定》要求，进一步强化省级国土资源主管部门的执法监察责任，切实加强对省级以下各级人民政府及其国土资源主管部门执行和遵守国土资源管理法律法规情况的监督检查，并逐步形成制度。各省级国土资源主管部门要根据本地区的实际情况，积极推进有关执法监察的地方性立法，健全各项执法监察工作制度。当前，各地要结合贯彻《关于监察机关和国土资源部门在查处土地违法违纪案件中加强协作配合的通知》（监发〔2005〕6号）精神，着重建立和完善与纪检监察、公安司法机关相互衔接的工作程序和制度，切实落实案件查处逐级上报备案和典型案件通报曝光制度。要健全违法案件年报、季报统计工作制度，做到专人负责，数据准确，及时上报，并加强有关的分析和对策研究。完善考核指标体系，体现执法监察工作对国家利益的维护和经济发展的促进作用，将对违法行为的发现率、制止率及避免和挽回经济损失列为重要的考核指标。上级主管部门要采取有效措施，加强对下级部门制度落实的监督检查。进一步完善表彰奖励制度，贯彻精神奖励与物质奖励相结合的原则，对获得部、省两级执法监察工作荣誉称号的单位和个人，各级国土资源主管部门应给予一定的物质奖励。<br><br>    二、强化职能，不断推动和加强国土资源执法监察机构和专业队伍建设<br><br>    执法监察机构和专业队伍是执法监察工作的组织保证。各地必须尽快建立健全执法监察机构和专业队伍。适应国土资源管理体制改革和严格土地管理的要求，国土资源主管部门应进一步加强执法监察机构的建设，积极争取提高执法监察机构的规格，使之与承担的职能、任务相适应。尚未建立专业队伍的省份，国土资源主管部门的主要领导要亲自出面，把组建队伍作为一件大事来抓，加大力度，争取早日突破。但建立专业队伍不能以撤销国土资源主管部门原有的执法监察机构为前提。同时，保证市、县两级执法监察机构和专业队伍的相对稳定。要进一步理顺执法监察机构与专业队伍的关系，专业队伍要接受执法监察机构的业务领导。在新体制下，要继续积极试行对执法监察机构和专业队伍负责人的双重管理，下级执法监察机构和专业队伍主要负责人的任免，应征得上一级主管部门的同意。要按照“三个代表”重要思想的要求，加强思想作风建设，注意提高执法监察人员素质，文明执法，严格管理，严肃纪律，努力提高工作效率和执法水平。要不断优化人员结构，对不适合执法监察岗位工作的人员要坚决调离。<br><br>    三、坚持预防为主，建立起从源头上防范违法的机制<br><br>    动态巡查是及时发现和制止违法、将违法行为消灭在始发状态的有效手段。各省级国土资源主管部门应尽快完成动态巡查责任制考核指标体系的建立，并将耕地特别是基本农田的保护作为动态巡查的工作重点。在矿业开发活动集中的地区，要把依法勘查和开发矿产资源情况纳入动态巡查工作中。对巡查中发现的违法行为要及时制止和纠正并予报告。要积极利用卫星遥感监测成果开展土地和矿产资源执法检查工作，充分发挥卫片执法检查在预防和警示违法方面的作用。要建立起国土资源主管部门内部既协调配合又监督制约的防范违法机制,各业务环节依法行政,严格把关,健全内部会审制度。省级国土资源主管部门要加强对下级国土资源主管部门履行职责的监督管理，对坚持原则、严格执法的干部要加以保护，对不执行和遵守国土资源管理法律法规的行为要严肃追究有关领导的责任。发挥执法监察的反馈和预警作用,加强整个部门履行执法监察职责的整体功能。要强化服务意识，寓执法于服务之中。省级以下国土资源主管部门的领导，要严格履行国土资源管理职责，通过组织开展执法模范县活动取得地方政府对执法监察工作的重视和支持。要按照国土资源管理的方针政策和法律法规，推进依法行政，确保政令畅通。高度重视新闻媒体的舆论监督作用，加强合作，通过正面宣传和对典型案件的公开曝光，提高全社会国土资源法律意识和对违法行为的震慑警示作用。<br><br>    四、严格执法，切实加大国土资源违法案件的查处力度<br><br>    对违法案件的查处始终是执法监察工作的首要任务。各级国土资源主管部门要切实履行职责，加大执法监察力度，严肃查处国土资源违法行为。要严格执行《查处土地违法行为立案标准》，凡属立案标准范围内的违法行为，必须及时立案。国土资源主管部门的一把手是案件查处的第一责任人。要制定考核指标，把案件查处作为评价一个地区国土资源管理工作业绩的重要依据和衡量执法监察工作优劣的重要内容。要建立起应对突发、重大违法行为的案件查处快速反应机制，明确相应的程序和时限要求，保证迅速调查，抓紧处理，及时反馈。省级国土资源主管部门对于市（地、州、盟）、县（市、旗）人民政府及其国土资源主管部门违反国土资源管理法律法规的行为要直接查处，对大案要案要公开调查、公开处理、公开追究、公开曝光。国土资源主管部门的领导要认真贯彻监察部、国土资源部《关于违反土地管理规定行为行政处分暂行办法》和最高人民法院关于土地、矿产资源犯罪问题的司法解释，克服畏难情绪，坚决纠正有法不依、执法不严的倾向。按照“既查事又查人”的原则，坚决追究违法违纪者的责任。省级国土资源主管部门对交下级部门查处的案件必须严格依法审核，明确基层主管部门案件查处的首要责任，加强对下级部门案件查处工作的支持、指导和监督。建立案情专报和挂牌督办制度，对有管辖权而不主动查处、上级交办而敷衍塞责的，要通报批评并追究有关人员的责任。<br><br>    五、改善条件，着力提高执法监察工作的保障水平<br><br>    执法监察具有外业工作的性质，专业性较强，风险性较大，必要的物质条件是依法履行职责的有力保障。各级国土资源主管部门要结合执法监察工作特点，为执法监察队伍配备必需的交通、通讯工具以及有关办案设备，充分保障执法监察所必需的工作经费。为鼓励执法监察人员的奉献精神并体现对他们艰苦工作的补偿，各地应比照信访工作给予执法监察工作人员相应的岗位津贴；鼓励有条件的地方，为执法监察工作人员办理人身保险和意外伤害保险。<br><br>二○○五年十月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

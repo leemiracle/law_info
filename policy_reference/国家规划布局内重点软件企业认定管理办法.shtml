@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】发展改革委 信息产业部 商务部 国家税务总局<BR>&nbsp;&nbsp;【发布文号】发改高技[2005]2669号<BR>&nbsp;&nbsp;【发布日期】2005-12-20<BR>&nbsp;&nbsp;【生效日期】2006-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200512261419204241" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家规划布局内重点软件企业认定管理办法<br><br></font>(发改高技[2005]2669号)</p><br><br><br>各省、自治区、直辖市、计划单列市发展改革委、经委(经贸委)、信息产业主管部门、商务厅(局)、国家税务局、地方税务局：<br><br>    为贯彻落实国务院《鼓励软件产业和集成电路产业发展的若干政策》(国发[2000]18号)，规范国家规划布局内重点软件企业认定工作，特制定《国家规划布局内重点软件企业认定管理办法》，现印发给你们，请按照执行，并做好有关工作。<br><br>    特此通知。<br><br>    附件：国家规划布局内重点软件企业认定管理办法<br><br>                   发展改革委 信息产业部 商务部 国家税务总局<br>                                 二○○五年十二月二十日<br><br><br>国家规划布局内重点软件企业认定管理办法<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  根据国务院《鼓励软件产业和集成电路产业发展的若干政策》(国发[2000]18号)第七条及有关规定，为合理确定国家规划布局内重点软件企业，带动我国软件产业快速发展，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  国家规划布局内重点软件企业是指业经软件企业认定机构认定，且符合下列条件之一的软件企业：<br><br>    (一)软件年营业收入超过1亿元人民币且当年不亏损。<br><br>    (二)年出口额超过100万美元，且软件出口额占本企业年营业收入50％以上。<br><br>    (三)在年度重点支持软件领域内销售收入列前五位。<br><br>    本条第一款和第二款所规定的软件营业收入和出口额标准、第三款所指的年度重点支持软件领域，由国家规划布局内重点软件企业认定主管部门根据有关规划及产业发展情况动态研究调整，并在中国软件行业协会网站(http：／／www．csia．org．en)上公布。国家规划布局内重点软件企业认定主管部门在确定总量的基础上进行审核认定。<br><br>    国家规划布局内重点软件企业认定主管部门是指国家发展和改革委员会、信息产业部、商务部和国家税务总局(以下简称主管部门)。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  主管部门共同委托中国软件行业协会为国家规划布局内重点软件企业认定机构(以下简称认定机构)，具体组织国家规划布局内重点软件企业的年度认定工作。其职责是：<br><br>    (一)受理国家规划布局内重点软件企业认定申请；<br><br>    (二)具体组织国家规划布局内重点软件企业年度认定，提出认定意见。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  申报国家规划布局内重点软件企业，由申报单位直接向认定机构提出申请，并提交下列材料：<br><br>    (一)国家规划布局内重点软件企业认定申请表；<br><br>    (二)软件企业认定证书；    <br><br>    (三)企业资产负债表、损益表、现金流量表、上年度企业所得税纳税申报表、人员配置表，以及学历构成、软件开发环境和企业经营情况等材料；<br><br>    (四)按本办法第二条第二款申报国家规划布局内重点软件企业的，应提供本企业上年度软件出口证明，如出口合同登记证书、有效出口合同、收汇证明等材料或海关统计材料。<br><br>    (五)企业主管税务机关认定企业无恶意欠税或偷税骗税等违法行为的证明材料。<br><br>    (六)主管部门要求出具的其他材料。<br><br>    申报国家规划布局内重点软件企业的截止时间为当年5月30日。<br><br>    国家规划布局内重点软件企业认定申请表可从中国软件行业协会网站上下载。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  认定机构审查申报企业提供的材料的真实性，判断其是否符合国家规划布局内重点软件企业的认定条件。对按本办法第二条第三款申报国家规划布局内重点软件企业的，认定机构应组织专家进行研究。认定机构根据审查情况，于当年8月底前向主管部门提交国家规划布局内重点软件企业年度认定的企业初选名单及相关资料。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  国家发展和改革委员会会同信息产业部、商务部、国家税务总局，采取联席会议等形式审核认定机构提出的初选名单，于当年10月底前联合发文确定，并向认定的企业颁发年度认定证书。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  年度国家规划布局内重点软件企业名单应在认定机构的网站及有关媒体上发布，接受社会监督。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  国家规划布局内重点软件企业实行逐年认定制度。经认定的年度国家规划布局内重点软件企业，当年未享受免税优惠的减按10％的税率征收企业所得税，企业可凭当年颁发的认定证书，向税务部门办理当年度所得税减免手续。年度国家规划布局内重点软件企业未通过下一年度认定的，下一年度不再享受所得税优惠政策。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  经认定的国家规划布局内重点软件企业发生调整、分立、合并、重组等变更事项时，须在作出变更决定之日起30日内，向认定机构办理变更认定或重新申报手续。未经批准同意变更认定的，企业不得自行承继国家规划布局内重点软件企业称号和所享受的优惠政策。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  国家规划布局内重点软件企业应依法纳税。国家规划布局内重点软件企业一经发现有偷税漏税等违法行为的，经核实后取消该企业享受税收优惠政策的资格。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  企业申报国家规划布局内重点软件企业，应当如实提供材料，并保证内容和数据真实可靠。提供虚假材料或内容、数据失实的，中止其认定申请；已获得认定的，撤销其国家规划布局内重点软件企业资格，同时追回已减免税收款项；认定机构3年内不再受理其认定申请。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  国家规划布局内重点软件企业认定证书由信息产业部统一印制。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  本办法由国家发展和改革委员会会同信息产业部、商务部、国家税务总局负责解释。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  本办法自2006年1月1日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

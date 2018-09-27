@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]153号<BR>&nbsp;&nbsp;【发布日期】2005-09-26<BR>&nbsp;&nbsp;【生效日期】2005-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=20050928142820377" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于加强煤炭行业税收管理的通知<br><br></font>(国税发[2005]153号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局，扬州税务进修学院：?<br>    去年以来，总局通过分析研究部分地区煤炭行业税收专项检查的情况，发现煤炭行业普遍存在税收管理不规范、税源监控不得力的问题。为进一步加强依法治税，落实税源管理责任，现就加强煤炭行业税收管理的有关问题通知如下：?<br>    一、加强税务登记管理，强化日常监管。根据普遍登记、属地管理的原则，凡从事煤炭生产销售的单位和个人，都必须依法到生产经营地国税局、地税局（或双方联合）办理税务登记。对设立手续完备的，予以办理税务登记。对设立手续不完备但实际从事煤炭生产经营的，予以办理临时税务登记。税务机关要主动清理和检查煤炭企业办理税务登记的情况，强化对煤炭企业分支机构和小型煤炭企业的日常监管。?<br>    加强增值税一般纳税人的认定管理。凡达到增值税一般纳税人标准的，都应当申请认定增值税一般纳税人，并建立健全帐簿。对达到一般纳税人标准而不申请办理认定手续的，根据《中华人民共和国增值税暂行条例实施细则》第三十条的规定，按销售额依照增值税税率计算应纳税额，不得抵扣进项税额，也不得开具专用发票。税务机关要分析小规模纳税人经营情况，对符合条件的企业及时做好宣传，按规定办理一般纳税人审核认定并配备防伪税控装置。?<br>    二、建立协调机制，推进信息共享。各级税务机关应当积极争取当地政府的支持，通过召开联席会议、与有关部门联合发文等方式，建立国税、地税、工商、煤炭、安全生产、物价管理等部门的协作机制，及时获取工商机关办理营业执照的信息、安全生产部门办理煤炭安全生产许可证的信息、煤炭生产管理部门办理煤炭采矿许可证的信息、煤矿管理部门收取矿产资源补偿费的信息，并据此清理检查煤炭企业的税务登记情况，建立管户档案，防止漏征漏管。?<br>    三、认真贯彻税收管理员制度，落实管户责任。各级税务机关要认真执行《税收管理员制度（试行）》（国税发〔2005〕40号），加强监督和服务，强化日常巡视巡管工作。基层税务机关要认真核对本辖区内的煤炭企业情况，税收管理员要按照科学化、精细化管理的要求，深入了解煤炭企业的特点、生产销售等情况以及税控装置运行、发票开具等情况，及时发现和纠正税收违法行为。?<br>    四、加强纳税评估，强化税源监管。认真执行《纳税评估管理办法（试行）》（国税发〔2005〕43号），加强对煤炭企业特别是中小企业的税源管理。各地应深入调查，找出煤炭行业税收管理的内在规律，确定主、辅指标，根据税控装置监控情况、企业产、销、存情况及煤炭市场价格变动情况等，合理划分管理类型，采取人机结合的办法，强化纳税评估。评估模型可以采用：电费成本模型、工资成本模型、原料成本模型、矿产资源费模型、以产控销模型、以进控销模型等。运用这些模型，根据行业平均电耗、工资成本等指标与具体企业的实际指标相比较，发现异常情况，及时检查。在纳税评估中，可以根据实际情况，同时使用多种评估模型，以提高纳税评估的准确性，并通过纳税评估加强日常管理，及时堵塞漏洞。?<br>    （一）电费成本模型。每个煤矿的客观条件决定其单位产量所耗用的电量基本稳定，以此为评估依据，根据生产耗用的电量测算产品的生产量，进而测算其销售额和应纳税额。测算公式为：<br>    评估期产品产量=评估期耗用电费金额÷吨产品耗用电费金额?<br>    评估期产品销量＝评估期产品产量＋评估期初产品库存－评估期末产品库存?<br>    评估期产品销售收入测算数＝评估期产品销量×评估期产品销售单价?<br>    使用此模型测算原煤产量时，评估期耗电量应扣除抽水、通风用电。?<br>    （二）工资成本模型。煤炭生产企业大多实行管理人员固定工资、生产人员效益工资制度，计提的工资和原煤产量成正比。煤矿每月所发放的工资可以从企业提供的工资花名册上取得，或者到采煤包工队了解。测算公式为：?<br>    评估月份原煤产量＝评估月份所计提生产工人工资÷吨煤生产工人工资?<br>    评估月份原煤销量＝评估月份原煤产量＋评估月份原煤月初库存－评估月份原煤月末库存?<br>    评估月份原煤销售收入测算数＝评估月份原煤销量×评估月份销售单价?<br>    评估月份所计提生产工人工资＝评估月份所计提工资总额－管理人员工资?<br>    （三）原料成本模型。煤矿企业投入生产的坑木和其生产的原煤掘进的巷道成正比，掘进的巷道和原煤产量成正比。测算公式为：?<br>    评估月份原煤产量＝评估月份所耗用的坑木根数÷吨煤所耗用的坑木根数?<br>    评估月份原煤销量＝评估月份原煤月初库存+评估月份原煤产量－评估月份原煤月末库存?<br>    评估月份原煤销售收入测算数＝评估月份原煤销量×评估月份销售单价?<br>    （四）矿产资源补偿费模型。矿管局对每个煤矿生产企业开采的地下煤储存量、煤质结构有一个技术测绘平面图，以此为基础，每月到煤矿实际测绘开采平面图和掘进图，利用技术手段计算出当月开采产量，与库存平面图数据进行比对，得出当月企业产销量，计算出当月的销售额。矿管局以销售额作为计费依据计算征收矿产资源补偿费，从技术角度分析，其测算的销售额具有相当的准确性，可以作为纳税评估的重要指标。测算公式为：?<br>    测算当期销售收入=当期缴纳的矿产资源补偿费÷矿产资源补偿费率?<br>    当期缴纳的矿产资源补偿费=（矿管部门计算出的当月产量+月初的库存量-月末库存量）×当月吨煤平均销售价格×矿产资源补偿费率?<br>    （五）以产控销模型。凡是安装税控装置的煤炭企业都可以使用此评估模型，在监控出的产量已定的情况下，对当月煤炭销量进行测算，测算公式如下：?<br>    首月煤炭销量＝当月监控系统监控产量或按一定方法测算的产量－当月实际产出的煤矸石产量－其他非煤炭杂物重量－月末的库存量?<br>    次月及以后月份煤炭销量＝当月监控系统监控产量或按一定方法测算的产量＋月末煤炭库存减少量－当月实际产出的煤矸石产量－其他非煤炭杂物重量－月末的库存煤炭增加量?<br>    煤炭企业应当分别核算煤炭和煤矸石的产量、销量、库存量和销售额。?<br>    销售的煤矸石，按照法定的税率或征收率计征增值税。?<br>    （六）以进控销模型。根据以原煤为生产原料的涉煤企业在购进原煤时取得的进项，作为评估小煤矿产销量的依据，进一步核实煤矿的销售收入。适用于本地销售为主的原煤生产企业。测算公式为：?<br>    评估月份原煤销量=涉煤企业购进原煤取得发票上列示的吨数+税务部门代开发票产品数量+用煤企业提供的购进原煤未开票数量?<br>    评估月份销售收入测算数＝评估月份原煤销量×销售单价<br>    五、规范委托代征管理。有条件的地方，可以采用委托征收的方式对煤炭企业征收税款。委托单位与受托单位应当签订委托代征协议，加强对受托单位代征工作的管理，严格代征范围和征收标准，保证代征税款及时解缴。加强国地税的协作，有条件的地区国税系统或者地税系统可以相互委托对方代征税款。企业所得税、个人所得税原则上不代征。确有必要实行代征的，应当明确汇算和征收办法。?<br>    六、规范核定征收管理。对符合税收征管法第三十五条规定情形，采取核定税额征收的煤炭企业，税务机关可以运用本通知所列模型和指标，结合其他有效方法，做好核定征收工作。严格控制核定征收范围，对实行定率征收、定额征收的煤炭企业，基层主管税务机关和人员应加强日常管理和监控，根据其税源变动情况，结合市场行情，及时调整定额或征收率。对新设立的实行核定征收的煤炭企业，首次核定定额或者征收率的有效期为一个月。一个月期满，在进一步调查核实的基础上，重新核定或者实行查帐征收。 ?<br>    七、充分运用税控装置，加强税源控管。各级税务机关要充分利用科技手段，特别是要依托信息化手段，大力推广税控装置，加强对煤炭企业的产量测定和税源监控。有条件的地方，可以在煤炭生产企业矿井出煤口、煤仓售煤处、煤炭传送带等处安装实时电子监控系统，将电子台秤的产销数量扫描进主控机并进行自动统计，确定煤矿日产销量，实现监控产量、以产控销、以销控税、管住税源的目的。?<br>    八、加强发票管理。要监控企业销售收入是否全部开具发票，做到：一是鼓励消费者举报不开发票行为；二是对经营正常，而发票用量同比下降较多的煤矿实施纳税评估和日常检查；三是对实行验旧购新方式领购发票的纳税人，税务机关应严格要求其每月到税务机关进行验旧处理，并逐月将验旧金额与其同期申报销售额或者核定税额以及防伪税控系统开具专用发票的金额进行比对，从而查处不如实申报的行为或调整税收定额。<br><br>                                      国家税务总局<br>                                 二○○五年九月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

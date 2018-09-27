@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政〔2008〕9号<BR>&nbsp;&nbsp;【发布日期】2008-01-29<BR>&nbsp;&nbsp;【生效日期】2008-01-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4316" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省单位GDP能耗考核体系工作方案<br><br></font>(皖政〔2008〕9号)</p><br><br> <br>    各市、县人民政府，省政府各部门、各直属机构：<br>      根据《国务院批转节能减排统计监测及考核实施方案和办法的通知》(国发〔2007〕36号)精神，省政府同意省统计局、省发展改革委、省经委和省环保局等部门分别制订的《安徽省单位GDP能耗统计指标体系实施方案》、《安徽省单位GDP能耗监测体系实施方案》、《安徽省单位GDP能耗考核体系实施方案》（以下称“三个方案”）和《安徽省主要污染物总量减排统计办法》、《安徽省主要污染物总量减排监测办法》、《安徽省主要污染物总量减排考核办法》（以下称“三个办法”），现转发给你们，请结合本地、本部门实际，认真贯彻执行。<br>    <br>    一、高度重视节能减排统计、监测和考核体系建设<br>    到“十一五”末，全省万元地区生产总值（按2005年价格计算）能耗下降到0.97吨标准煤，比“十五”末降低20%，平均年节能率4.4%；主要污染物排放总量减少10%；大型骨干企业和重点行业主要产品单位能耗达到或接近国内先进水平。这是省委、省政府贯彻落实国家“十一五”规划纲要，并结合我省实际提出的节能降耗工作目标。建立科学、完整、统一的节能减排统计、监测和考核体系（以下称“三个体系”），将能耗降低和污染减排完成情况纳入各地经济社会发展综合评价体系，并作为政府领导干部综合考核评价和企业负责人业绩考核的重要内容，实行严格的问责制，是强化政府和企业责任，确保实现“十一五”节能减排目标的重要基础和制度保障。各地各部门要坚持以科学发展观为指导，深入贯彻党的十七大精神，从推动跨越发展、加快崛起进程、构建和谐安徽的高度，充分认识建立“三个体系”的重要性和紧迫性，加快转变经济发展方式，按照“三个方案”和“三个办法”的要求，扎实推进“三个体系”建设，促进全省经济社会又好又快发展。<br>    <br>    二、强化节能减排统计、监测和考核的各项措施<br>    各地各有关部门要进一步明确工作职责，加大工作力度，抓好节能减排统计、监测和考核各项措施的落实。要逐步建立和完善节能减排统计制度，按规定做好各项能源和污染物指标统计、监测，按时报送数据。要实行严格的数据质量控制，加强统计执法检查和巡查，严肃查处考核工作中的弄虚作假行为，确保各项数据的真实、准确、可靠。要严格考核工作纪律，对列入考核范围的节能减排指标，未经上一级统计和环保部门审定，不得自行公布和使用。要切实加强对各地和重点企业能耗及主要污染物减排目标完成情况、“三个体系”建设情况以及节能减排措施落实情况的考核，严格责任追究制，实行“一票否决”。<br>    <br>    三、建立健全节能减排统计、监测和考核工作机制 <br>    省政府已成立由省政府主要负责同志任组长的节能减排工作领导小组，各成员单位要按照职责分工，认真履行职责，把“三个体系”建设摆在突出位置，抓紧制定相关配套政策，加强协作配合，抓好贯彻落实。省发展改革委、省经委、省统计局和省环保局要加强指导和监督，及时掌握各地动态，协调解决工作中出现的困难和问题。各市、县人民政府要把“三个体系”建设摆上重要议事日程，明确任务，落实责任，科学组织，加强基础能力建设，强化节能减排目标责任评价考核和监督核查工作，保证资金、人员到位和各项措施落实。要广泛开展政策宣传，充分发挥舆论监督作用，努力营造全社会关注、支持、参与、监督节能减排工作的良好氛围。<br>    <br>                                                   安徽省人民政府<br>                                               二○○八年一月二十九日<br>    <br><br>                   安徽省单位GDP能耗考核体系工作方案<br>                               省经委<br>     <br>    一、考核对象、内容和方法<br>    （一）考核对象。各市政府和153户省重点耗能企业，其中全国千家重点耗能企业33户，省百家重点耗能企业120户（以下简称全国千家企业、省百家企业）。<br>    （二）考核内容。省政府与各市政府、153户重点耗能企业签订的节能目标责任书确定的各项指标和工作任务完成情况。<br>    （三）考核方法。采用量化办法，相应设置节能目标完成指标和节能措施落实指标，满分为100分。节能目标完成指标为定量考核指标，以省政府与各市政府、153户重点耗能企业签订的节能目标责任书确定的年度节能目标为基准，分别依据省统计局核定的各市能耗指标和省经委认可的企业节能指标计算目标完成率进行评分，满分为40分，超额完成指标的适当加分。节能措施落实指标为定性考核指标，是对各市和153户省重点耗能企业落实节能措施情况进行评分，满分为60分。<br>    （四）考核结果。分为超额完成（95分以上）、完成（80―94分）、基本完成（60―79分）、未完成（60分以下）四个等级。未完成节能目标的，均为未完成等级。具体考核计分方法见附件。<br>    <br>    二、考核程序<br>    （一）上年年底或当年年初，省政府与各市政府、153户重点耗能企业签订当年节能目标责任书，确定年度节能目标。<br>    （二）每年3月15日前，各市政府将上年度本地节能工作进展情况和节能目标完成情况自查报告上报省政府，同时抄送省经委（省节能办）。省经委会同省监察厅、省人事厅、省国资委、省质监局、省统计局、省发展改革委等部门组成评价考核工作组，通过现场核查和重点抽查等方式，对各市节能工作及节能目标完成情况进行评价考核和监督核查，形成综合评价考核报告，于每年5月底前上报省政府。对各市节能目标责任的评价考核结果经省政府审定后，由省经委向社会公布。 <br>     （三）对全国千家企业的节能目标责任评价考核，由省经委负责组织实施。企业应于每年1月底前，向省经委提交上年度节能目标完成情况和节能工作进展情况自查报告，同时抄报国家发展改革委。省经委组织以社会各界专家为主的评估组，对企业节能目标完成情况进行评估核查，并于每年3月底前将综合评价报告报送省政府和国家发展改革委。千家重点耗能企业节能情况评价考核结果由国家发展改革委审核汇总后，向社会公布。<br>    （四）对省百家企业的节能目标责任评价考核，按属地原则由各市节能主管部门负责组织实施。企业应于每年1月底前，向所在市节能主管部门提交上年度节能目标完成情况和节能工作进展情况自查报告，同时抄送省经委。各市节能主管部门组织以社会各界专家为主的评估组，对企业节能目标完成情况进行评估核查，并于每年3月15日前将综合评价报告报送各市政府和省经委。省百家企业节能情况评价考核结果由省经委审核汇总后，向社会公布。<br>    <br>    三、奖惩办法<br>    （一）各市政府节能目标责任评价考核的结果，由省经委报经省政府审定后，提交省委组织部和省监察厅作为各市政府领导班子和领导干部综合考核评价的重要依据，实行问责制和“一票否决”制。<br>    （二）对考核等级完成或超额完成的市，省政府给予表彰奖励，并加大对该市节能项目的投资支持力度；对考核等级未完成的市，省政府予以通报批评，该市领导干部不得参加年度评奖、授予荣誉称号等，省有关部门从严控制该地区要求核准和批准的新建高耗能项目。<br>    （三）考核等级为未完成的市，该市政府应在评价考核结果公布后一个月内，向省政府作出书面报告，提出限期整改措施，并抄送省经委和省监察厅。整改不到位的，由监察部门依据有关规定追究该市有关责任人员的责任。<br>    （四）对考核等级为超额完成和完成的企业，属全国千家企业的，由国家发展改革委和省政府给予表彰奖励；属省百家企业的，由省经委和各市政府给予表彰奖励。对评价考核结果为未完成等级的企业，予以通报批评，一律不得参加年度评奖、授予荣誉称号，不给予国家免检等扶优措施，对其新建高耗能投资项目和新增工业用地暂停核准和审批。考核结果为未完成等级的企业，应在评价考核结果公布后一个月内提出整改措施，属全国千家企业的上报省政府，同时抄送省经委；属省百家企业的上报所在市政府，并限期整改。对全国千家、省百家企业中的国有独资、国有控股企业的考核评价结果，由各级国有资产监管机构作为对企业主要负责人、分管负责人业绩考核的重要依据，实行“一票否决”。<br>    （五）对在节能考核工作中瞒报、谎报情况的市，予以通报批评；对直接责任人员依法追究责任。<br>    <br>    附件：1.各市节能目标责任评价考核计分表<br>          2.153户重点耗能企业节能目标责任评价考核计分表<br>          3.国家评价考核省政府节能目标责任分工表<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】食药监注函[2005]86号<BR>&nbsp;&nbsp;【发布日期】2005-10-12<BR>&nbsp;&nbsp;【生效日期】2005-10-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64004912.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>疫苗临床研究报告基本内容书写指南<br> <br></font>(食药监注函[2005]86号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为加强对疫苗类生物制品临床研究的指导，进一步规范临床研究报告的格式，我司组织制定了《疫苗临床研究报告基本内容书写指南》（试行），现予下发，请转发辖区内各有关单位，遵照执行。<br><br>    附件：疫苗临床研究报告基本内容书写指南<br><br>                                                    国家食品药品监督管理局<br>                                                    二○○五年十月十二日<br><br><br>附件：疫苗临床研究报告基本内容书写指南<br><br>    一、I期临床试验<br>    1．首篇（包括封面、目录、研究摘要略表等）<br>    2．引言<br>    3．试验目的<br>    4．试验管理<br>    5．试验总体设计及方案的描述<br>    6．对试验设计的考虑<br>    7．受试者选择（入选标准、年龄、性别、民族、体重、体格检查、排除标准、例数）<br>    8．受试药物（名称、剂型、来源、批号、规格、有效期、保存条件）<br>    9．给药途径（包括给药途径的确定依据）<br>    10．剂量设置（初试剂量、最大试验剂量、剂量分组）及确定依据<br>    11．试验过程/试验步骤<br>    12．观察指标（症状与体征、实验室检查、特殊检查）观察表<br>    13．数据质量保证<br>    14．统计处理方案<br>    15．试验进行中的修改<br>    16．试验结果及分析（受试者一般状况及分析，各剂量组间可比性分析、各项观察指标的结果、数据处理与分析、发生的不良事件的观察及分析）<br>    17．结论<br>    18．有关试验中特别情况的说明<br>    19．主要参考文献目录<br>    20．附件（1、2、3、4、5、7、9、11、12、13）<br><br>    二、II/III 期临床试验的报告格式<br>    1．首篇<br>    2．引言<br>    3．试验目的<br>    4．试验管理<br>    5．试验设计及试验过程<br>    1）试验总体设计及方案的描述<br>    2）对试验设计及对照组选择的考虑<br>    3）适应症范围及确定依据<br>    4）受试者选择（诊断标准及确定依据、入选标准、排除标准、剔除标准、样本量及确定依据）<br>    5）分组方法<br>    6）试验药物（包括受试药、对照药的名称、剂型、来源、批号、规格、有效期、保存条件）<br>    7）给药方案及确定依据（包括剂量及其确定依据、给药途径、方式和给药时间安排等）<br>    8）试验步骤（包括访视计划）<br>    9）观察指标与观察时间（包括主要和次要疗效指标、安全性指标）<br>    10）疗效评定标准<br>    11）数据质量保证<br>    12）统计处理方案<br>    13）试验进行中的修改和期中分析<br>    6．试验结果<br>    1）受试者分配、脱落及剔除情况描述<br>    2）试验方案的偏离<br>    3）受试者人口学、基线情况及可比性分析<br>    4）依从性分析<br>    5）合并用药结果及分析<br>    6）疗效分析（主要疗效和次要结果及分析、疗效评定）和疗效小结<br>    7）安全性分析（用药程度分析、全部不良事件的描述和分析、严重和重要不良事件的描述和分析、与安全性有关的实验室检查、生命体征和体格检查结果分析）和安全性小结<br>    7．试验的讨论和结论<br>    8．有关试验中特别情况的说明<br>    9．临床参加单位的各中心的小结<br>    10．主要参考文献目录<br>    11．附件（1、2、3、4、5、6、7、8、9、11、12、13）<br><br>    三、附件<br>    1．伦理委员会批准件<br>    2．向受试者介绍的研究信息及受试者的知情同意书样本<br>    3．临床研究单位情况及资格，主要研究人员的姓名、单位、资格、在研究中的职责及其简历<br>    4．临床试验研究方案、方案的修改内容及伦理委员会对修改内容的<br>批准件<br>    5．病例报告表（CRF）样本<br>    6．总随机表<br>    7．试验用药物检验报告书及试制记录（包括安慰剂）<br>    8．阳性对照药的说明书，受试药（如为已上市药品）的说明书<br>    9．试验药物包括多个批号时，每个受试者使用的药物批号登记表<br>    10．严重不良事件及主要研究者认为需要报告的重要不良事件的病例报告<br>    11．统计分析报告<br>    12．多中心临床试验的各中心小结表<br>    13．临床研究主要参考文献的复印件<br><br>    四、样表<br>    1．研究报告封面标题样本<br>    研究名称：研究编号：<br>    受试药物通用名：<br>    药品注册申请人：（盖章）<br>    研究开始日期：研究完成日期：<br>    主要研究者：（签名）<br>    研究负责单位：（盖章）<br>    申请人的联系人：联系方式（电话、e－mail、通信地址）：<br>    报告日期：<br>    原始资料保存地点：<br><br>    2．研究报告摘要样表<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

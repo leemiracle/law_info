@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办应急发〔2006〕94号<BR>&nbsp;&nbsp;【发布日期】2006-05-24<BR>&nbsp;&nbsp;【生效日期】2006-05-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12065&seq=0" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于做好2006年救灾防病工作的通知<br><br></font>(卫办应急发〔2006〕94号)</p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br>    今年以来，我国一些地区气候异常，部分地区干旱不断加剧。进入5月份后，我国大部分地区陆续开始进入汛期，湖南、安徽等省局部地区已发生了洪涝灾害；广东、福建等省局部地区遭受强台风袭击。为做好2006年救灾防病工作，确保大灾之后无大疫，保障灾区人民群众的身体健康与生命安全，结合多部委灾情会商通报情况和专家预测会分析结果，现对2006年救灾防病工作提出以下要求：<br>一、高度重视，加强领导<br>    据有关部门预测，2006年可能旱重于涝，极端天气气候事件较常年偏多，抗旱和防汛形势较为严峻；在我国沿海登陆的热带风暴和台风个数较常年偏多；夏季江南、华南气温将较常年同期偏高，高温天数将会比常年同期偏多。面对可能出现的灾情，各级卫生行政部门要在当地党委和政府的统一领导下，高度重视救灾防病工作，克服麻痹思想和侥幸心理，增强责任感和使命感，充分做好抗灾救灾、防疫防病各项准备工作。各级卫生行政部门要对卫生环境状况较差的地区，给予高度重视，严防因灾害导致疾病的传播、蔓延。重大自然灾害发生后，各受灾省份的省级卫生行政部门要成立救灾防病领导小组，统一指挥本省（区、市）灾区的医疗救治和卫生防病工作。<br>二、完善预案，规范程序<br>    各级卫生行政部门要依据《中华人民共和国传染病防治法》、《突发公共卫生事件应急条例》、《国家突发公共卫生事件应急预案》、《国家突发公共事件医疗卫生救援应急预案》、《全国救灾防病预案》等法律法规和预案，并结合当地实际情况，制定和完善本地区救灾防病应急预案和应急处置程序。按照“预防为主、常备不懈”的原则，明确各有关部门在救灾防病工作中的职责，并具有实际操作性。应急处置程序应当科学规范。<br>三、加强监测，及时报告<br>    要加强灾区疫情的监测和预警工作，灾害发生后，迅速恢复、重建疾病监测与报告系统，及时了解灾情、伤情、疫情和病情等信息和救灾防病工作的进展情况，各省（区、市）卫生行政部门要认真填写“灾情、救灾防病情况统计表”（见附件），并于灾害发生后每周三汇总一次报卫生部卫生应急办公室（灾情平稳一个月后停止上报）。一旦发生鼠疫、霍乱、人禽流感等重大传染病疫情或不明原因疾病暴发，除按有关法律法规的要求上报外，要果断决策，及时启动突发公共卫生事件响应程序，采取有力防控措施；同时，密切关注疫情动态，并实行疫情每日报告与零病例报告制度。<br>    发生干旱灾区的卫生行政部门要密切关注当地群众生活饮水安全，采取措施，预防不洁饮水引发中毒事件。各级卫生行政部门要做好夏季高温中暑的防控准备，在持续高温或高温热浪等异常气象条件出现时，要准确迅速地做好当地中暑发病情况监测和报告，必要时向当地政府提出预警建议，并做好中暑患者的救治工作。<br>    2006年，我部启动救灾防病网络直报系统后，各地要按要求做好报告工作。<br>四、组建队伍，有效应对<br>    要结合各地实际情况，组建重大自然灾害卫生应急队伍，并配备必要的医疗救治和现场处置设备。同时，强化救灾防病专业技术人员的应急技术培训和演练，熟练掌握医疗救援、卫生防疫等紧急应对措施，提高实战水平和处置突发事件的能力。灾害发生后，应急队伍要及时赶赴灾区现场，深入灾区开展工作，预防并妥善处置各类灾害导致的次生突发公共卫生事件。<br>五、部门配合，完善储备<br>     加强与有关部门的协调配合，建立并完善救灾防病应急物资储备、调拨机制和卫生应急经费保障机制，主动服从与服务于救灾防病工作大局，坚持急事急办、特事特办，确保救灾防病物资的迅速及时调拨和供给，满足灾区救灾防病工作需要。<br>六、强化管理，落实措施<br>    各级卫生部门要认真落实各项救灾防病措施，特别要做好肠道传染病防治工作。要强化对灾区饮水、饮食、环境卫生监督，严格控制群体性聚餐；加强农药、鼠药等化学毒品的管理，防止灾区各类中毒事件的发生；大力开展爱国卫生运动，搞好环境卫生，重点对灾民临时集中居住点、水源及临时厕所等环境进行严格的消杀灭工作；及时妥善处理人畜尸体，对可疑病患的排泄物、尸体等要进行严格的消毒处理；根据实际情况，采取预防性应急免疫接种等措施。<br>七、加强宣传，积极预防<br>    各级卫生行政部门要通过大众媒体和简便易行的宣传方式，向群众宣传与灾害有关的卫生防病知识和传染病防治知识，组织和指导群众开展群防群控，科学地开展救灾防病工作，消除恐慌心理，增强群众的自我保护意识和防病能力。<br><br>附件：省（自治区、直辖市）灾情、救灾防病情况统计表<br><br>二○○六年五月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

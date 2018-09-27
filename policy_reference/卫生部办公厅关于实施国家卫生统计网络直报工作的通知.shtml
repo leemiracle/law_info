@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部办公厅<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2007-08-20<BR>&nbsp;&nbsp;【生效日期】2007-08-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/19917.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于实施国家卫生统计网络直报工作的通知</font></p> <br> <br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，<br><br>部直属各单位：<br><br>    为贯彻落实新的《国家卫生统计调查制度》，我部决定从2007年下半年起实行国家卫生统计网络直报。这项统计报告制度的重大改革，将大大提高统计信息服务能力，提高统计数据的准确性和及时性，为突发公共卫生事件应急指挥决策和医疗救治提供动态卫生信息，发挥信息对制定卫生政策与规划的咨询和引导作用。为做好卫生统计网络直报工作，现提出如下要求： <br><br>    一、尽快建立省级直报平台及数据中心，做好网络直报准备工作<br><br>    (一)国家卫生统计网络直报系统(以下简称直报系统)要求建立省级直报平台及数据中心，完成本地区数据采集任务。作为突发公共卫生事件应急指挥决策系统的重要组成部分，直报系统环境依托省级指挥决策系统并满足运行需要，系统建设参照《国家卫生统计网络直报系统操作技术规范》(见附件1)。<br><br>    (二)要求统一系统软件、统一信息分类标准和数据交换标准、统一直报流程和管理规范。我部开发了《国家卫生统计网络直报系统》软件，供各地建设直报平台和数据中心使用。为保证部、省两级信息上传下达畅通，不允许使用其他软件采集国家卫生统计数据。<br><br>    (三)要求2007年9月底以前完成省级直报平台安装及测试任务，10月份完成直报人员培训、用户注册及试运行任务。省级直报平台由软件开发商统一负责安装。<br><br>    (四)行政区划代码、组织机构代码和卫生机构类别代码是直报用户与权限管理的依据。要求各地于2007年10月15日以前完成卫生机构分类代码数据维护工作，建立诊所及村卫生室代码数据库。<br><br>    二、直报工作安排<br><br>    (一)直报时间及内容：<br><br>    2007年11月1日起，医疗机构(诊所和村卫生室除外)正式直报第1-3季度数据。报告内容为卫生机构调查表(卫统1表)季报项目，报告期为2007年第3季度，数据为前3季度(即1-9月份)合计数。省级卫生行政部门于12月5日前将本地区季报数据上传卫生部。<br><br>    2008年1月1日起，医疗卫生机构直报2007年报数据(卫统1表)和820家出院病人原始数据库(卫统4表)。省级卫生行政部门于2月5日前将本地区2007年年报数据上传卫生部。<br><br>    2008年3月起，医疗卫生机构网络直报卫生人力基本信息调查表(卫统2表)和医用设备调查表(卫统3表)。<br><br>    (二)直报单位及人员:<br><br>    直报单位为医疗卫生机构(不包括诊所、医务室、卫生所和村卫生室)、县(区、县级市)卫生局。直报人员为直报单位的统计人员。<br><br>    (三)直报流程：<br><br>    医疗卫生机构直报人员登陆省级直报系统上报本单位数据；诊所(卫生所、医务室) 村卫生室按属地管理原则向所辖县(区、县级市)卫生局报送电子或纸质数据，由县(区、县级市)卫生局代报数据。省级数据中心将本地区数据上传卫生部数据中心。<br><br>    4、质量控制与统计分析：<br><br>    各级卫生行政部门要加强质量控制，保证直报数据质量；开展统计分析，及时为突发公共卫生事件应急指挥、为制定卫生政策和规划提供动态信息。<br><br>    各级卫生行政部门和直报单位要遵照《国家卫生统计网络直报管理暂行规定》(卫办发[2007]第  号)，及时完成各项直报任务。<br><br>    三、保障措施：<br><br>    (一)加强领导，组织落实。地方各级卫生行政部门要高度重视、切实加强对直报工作的组织和领导；建立地方卫生统计网络直报管理制度，加强对医疗卫生机构直报工作的业务指导。基层医疗卫生单位要建立健全直报工作制度，人事、财务、设备部门要配合直报人员完成卫生人力、财务和设备数据上报。<br><br>    (二)配备直报人员，做好人员培训工作。要求省级直报平台配备2-3名专业技术人员，地、县级卫生行政部门配备1名直报工作管理人员，医疗卫生机构指定专人承担直报工作。我部拟于2007年8月下旬举办直报系统软件省级人员培训班。省级卫生行政部门组织本地区直报人员培训工作，培训工作最迟在2007年10月15日前完成。<br><br>    (三)保障直报工作经费。省级卫生行政部门应将直报工作经费(包括系统运行维护、系统扩展及升级、人员培训和通讯等费用)纳入预算内卫生事业经费统筹安排。省级直报平台是省级突发卫生事件应急指挥决策系统的重要组成部分，直报系统所需的表单设计工具等由我部统一组织采购，费用由各省支付。各级各类医疗卫生单位要配置直报用计算机，完善上网条件。<br><br>    (四)建立直报工作通报制度。各级卫生行政部门要建立直报工作通报制度，对及时准确直报数据且质量高的提出表扬；对拒报、迟报、漏报以及数据质量差的进行通报批评。我部拟于明年上半年组织开展全国卫生统计网络直报工作督导检查，并通报其结果。<br><br>    统计信息工作是卫生行政部门的一项重要职责和基础工作。各级卫生行政部门要加强对统计信息工作的领导，落实网络直报工作，及时完成各项统计调查任务，使全国统计信息工作迈上一个新的台阶。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家工商行政管理总局<BR>&nbsp;&nbsp;【发布文号】工商个字[2009]208号<BR>&nbsp;&nbsp;【发布日期】2009-10-21<BR>&nbsp;&nbsp;【生效日期】2009-10-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.saic.gov.cn/zwgk/zyfb/zjwj/gtsyjjs/200910/t20091023_71875.html" target=_blank>国家工商行政管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家工商行政管理总局关于进一步促进个体私营经济发展的若干意见      <br><br></font>(工商个字[2009]208号)</p><br><br><br>    各省、自治区、直辖市及计划单列市、副省级市工商局、市场监督管理局：<br><br>    个体私营经济是我国社会主义市场经济的重要组成部分，是推动经济社会发展的重要力量，对扩大就业、拉动内需具有重要意义。去年国际金融危机爆发以来，党中央国务院为促进个体私营企业生产经营发展，及时出台了一系列政策措施。为贯彻落实《国务院关于进一步促进中小企业发展的若干意见》（国发〔2009〕36号），现就工商行政管理机关发挥职能作用，进一步促进个体私营经济又好又快发展，提出如下意见：<br><br>    一、鼓励私营企业做大、做强、做活。除国家明令禁止的外，凡允许国有和外资企业进入的投资领域，一律对个体私营企业开放。按照“增加总量、扩大规模、鼓励先进、淘汰落后”的要求，重点支持符合国家产业政策、具有竞争优势的私营企业，通过兼并、重组等方式，组建跨行业、跨地区经营的大型企业集团。支持服务业私营企业开展连锁经营，实现规模化、集约化发展。要通过走访、调研等多种方式，加强与个体私营企业的联系，明确服务重点和方向。各地工商机关要充分发挥工商登记信息资源优势，向社会发布个体私营经济发展动态信息，对个体私营企业投资创业进行提示、预警，引导个体私营企业确定有利的投资发展方向。<br><br>    二、立足职能，积极配合相关部门，切实帮助个体私营企业解决融资难问题。积极开展动产抵押、股权质押和注册商标专用权质押登记，总结经验，完善相关工作机制，指导个体私营企业利用抵押、质押担保进行融资；允许股权出资，为个体私营企业进一步拓宽融资渠道；稳妥推动民间资本创办小额贷款公司，为金融机构提供个体私营企业的工商注册和抵押登记、出质登记信息查询服务，支持建立面向个体私营企业的金融服务体系和信用担保体系。<br><br>    三、积极探索，促进农民专业合作社加快发展，大力培育和发展农村经纪人。本着依法、自愿、有偿和进退自由的原则，在不改变土地集体所有性质、不改变土地用途、不损害农民土地承包权益的前提下，允许农民以土地承包经营权出资设立农民专业合作社。配合有关部门，探索农民专业合作社开展资金互助、信用合作。支持农民专业合作社跨地域、跨所有制、跨行业开展经营和提供服务。利用信息化手段提升农民专业合作社登记服务质量，加强法律法规宣传，做好政策咨询，严格执行农民专业合作社登记不收费的规定。引导农民专业合作社实施商标战略，加强农副土特产品的商标注册，提高农产品附加值，增强市场竞争力。实施合同帮农，引导农民专业合作社发展“订单农业”，减少农业生产风险。支持农民专业合作社与高等学校、科研院所开展多种形式技术合作促进产学研、农科教结合，加快农业科技成果转化。对农村经纪人开展经纪、合同、商标等业务培训，指导农村经纪人提高经纪水平和服务技能，充分发挥其桥梁和纽带作用，促进农产品流通、农业产业结构调整和农民增收。<br><br>    四、发挥职能作用，促进社会信用体系建设。在企业、个体工商户和市场信用分类监管基础上，大力推进全国各类市场主体工商登记管理信息动态数据库建设。各地工商机关要积极开发面向社会公众的信息查询服务功能，努力推动与其他部门相关市场主体信用信息的互联共享，为社会信用体系建设提供市场主体的基础信息。要发挥工商行政管理职能作用，鼓励个体私营企业“守合同重信用”，引导个体私营企业增强履行社会诚信责任的意识。<br><br>    五、积极配合有关部门研究对中小企业标准进行科学界定和细分。要结合修订《城乡个体工商户管理暂行条例》，根据不同行业、不同规模个体私营企业的特点，研究制订针对“微型企业”的扶持措施。鼓励、引导经营规模较大的个体工商户升级为企业，进一步提高经营管理水平和市场竞争能力。开展查处取缔无照经营工作要坚持“突出重点、区别对待、堵疏结合、分类规范”的方针，重在指导经营者合法开展经营活动。要充分发挥社区在安排临时就业、规范摊贩经营方面的积极作用。<br><br>    六、多措并举，大力推进“以创业带动就业”。要指导各级个私协会，积极组织各种形式的就业洽谈会、招聘见面会，通过举办“自主创业我先行”全国高校大学毕业生创业系列报告会、召开创业带就业动员会、举办座谈会、街头宣传咨询等形式现场解答疑问，通过先富带后富、“一帮一”、“一带一”等活动，积极帮助高校毕业生自主创业。要认真落实《“三年百万”高校毕业生就业见习计划》，引导优秀人才进入个体私营经济领域发展。要认真贯彻促进就业优惠政策，鼓励、引导返乡农民工、下岗失业人员、复员退伍军人、高校毕业生、残疾人等自主创业，为其申请登记注册个体工商户、私营企业提供免费的开业指导以及相关政策、法规和信息咨询服务。并严格按照《就业促进法》的规定，对符合政策规定的创业人员3年内免收登记类和证照类等有关行政事业性收费。<br><br>    七、切实维护公平竞争的市场秩序，为个体私营经济发展提供良好市场环境。加大对个体私营企业的字号名称、注册商标和商业秘密的保护力度，维护个体私营企业的合法权益。严厉打击制售假冒伪劣商品、虚假广告、不正当竞争等违法违规行为，保护合法经营，维护正常的市场秩序，促进个体私营经济健康发展。<br><br>    八、依法规范行政管理，提高监管执法水平，坚决制止“三乱”现象。加强行政指导，充分发挥行政执法“预防、警示、教育”的功能。对个体私营企业违法行为情节轻微、当事人积极采取措施补救、没有产生危害后果的，以教育整改为主，依法从轻、减轻或者免除对其经济处罚。对于生产经营暂时出现困难的个体工商户、私营企业，在年检验照等方面要予以支持。严禁利用年检验照进行乱摊派、乱收费、乱罚款和搭车收费。<br><br>    九、充分发挥各级个体劳动者协会和私营企业协会作用，努力为个体私营企业排忧解难。要围绕“服务会员”的宗旨，通过维权保障、宣传教育、培训学习、经贸交流、公益活动等多种举措开展服务，积极搭建个体私营经济与政府沟通、了解供求信息、经营管理培训、人才引进的平台。引导个体私营企业“爱国敬业、诚实劳动、依法经营、乐于奉献”。    <br><br>    国家工商行政管理总局<br><br>    二○○九年十月二十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

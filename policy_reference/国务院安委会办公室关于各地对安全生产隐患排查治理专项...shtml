@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办明电〔2007〕11号<BR>&nbsp;&nbsp;【发布日期】2007-05-19<BR>&nbsp;&nbsp;【生效日期】2007-05-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-05/21/content_239072.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于各地对安全生产隐患排查治理专项行动进行检查督查的指导意见<br> <br></font>(安委办明电〔2007〕11号)</p><br> <br>   <br>各省、自治区、直辖市及新疆生产建设兵团安全生产委员会：<br><br>    为促进各地做好安全生产隐患检查督查和自查工作，指导、督促重点行业和领域生产经营单位认真开展安全生产隐患排查治理专项行动，根据《国务院办公厅关于在重点行业和领域开展安全生产隐患排查治理专项行动的通知》（国办发明电〔2007〕16号，以下简称《国办通知》）要求，国务院安全生产委员会办公室已制订印发了《关于煤矿、金属非金属矿山、冶金、有色、石油、化工、烟花爆竹、建筑施工、民爆器材、电力等工矿商贸企业安全生产隐患自查自改的指导意见》（安委办明电〔2007〕9号）、《关于交通运输、渔业、农机等企业和水库、学校、人员密集场所等单位安全生产隐患自查自改的指导意见》（安委办明电〔2007〕10号）和《关于在中央企业开展安全生产隐患排查治理这项行动的指导意见》（安委办〔2007〕18号）（以下统称《指导意见》）。现就各地开展安全生产隐患排查治理专项行动检查督查工作提出如下指导意见： <br><br>    一、安全生产主体责任的落实情况。检查各类生产经营单位是否按照法律法规要求，从落实责任、建立机构、健全制度、完善考核、资金投入、人员培训、安全防护等方面加强了安全生产工作，提升了企业的安全生产管理水平。 <br><br>    二、隐患排查整改工作开展情况。检查各类生产经营单位是否按照《国办通知》要求，结合自身的特点制订了具体工作方案，认真依据国务院安全生产委员会办公室和地方政府印发的《指导意见》开展了安全生产自查自改工作；对排查出的事故隐患是否进行了整改，对一时不能整改的隐患是否制订了整改方案，落实了整改资金和期限，明确了责任人，制订并落实了监控及应急预案。对各生产经营单位上报或群众举报的涉及政府监管的隐患，地方人民政府是否明确了责任部门，并检查督促整改措施的制定和落实。 <br><br>    三、已发生事故的处理情况。检查下级地方人民政府及其有关部门对辖区内发生的各类安全生产事故，是否按照"四不放过"的原则进行了调查处理，是否依据法律法规对有关责任人员进行了责任追究，对事故有关责任人员的处分决定是否落到了实处，是否深刻吸取了教训，认真进行了整改。 <br><br>    四、隐患排查治理专项行动的组织情况。检查下级地方人民政府是否根据《国办通知》及国务院安全生产委员会办公室《指导意见》的要求，结合本地区实际情况，制订了安全生产隐患排查治理专项行动工作方案，并认真组织辖区内各类生产经营单位开展了安全生产隐患排查治理工作，全面掌握了本辖区内重大事故隐患和重大危险源的情况，并制定落实了相应的整改措施。 <br><br>    五、打击非法建设、非法生产、非法经营工作的情况。检查下级地方人民政府是否根据本地区实际情况，制订了在煤矿、非煤矿山、烟花爆竹、建筑施工、民爆器材、道路交通、水上交通、消防、通用航空等重点行业和领域打击非法建设、非法生产、非法经营（以下简称打非）的政策法规；是否明确了排查责任，建立和完善了打非联合执法机制，并开展了切实有效的工作。 <br><br>    六、安全生产治本之策的落实情况。按照国务院116次常务会确定的12项治本之策，检查下级地方人民政府是否认真执行了国务院及相关部门、上级人民政府制定的有关安全生产的法规、经济、科技和行政等政策措施，是否根据本地区实际情况制定实施了相关地方法规、经济政策等措施。 <br><br>    七、煤矿"两个攻坚战"进展情况。检查下级地方人民政府结合开展安全生产隐患排查治理专项行动，推进煤矿瓦斯治理、整顿关闭不具备安全生产条件和非法煤矿工作的情况，特别是依法关闭、规范整合、淘汰落后生产能力的情况。 <br><br>    八、非煤矿山、道路交通等重点行业和领域安全专项整治的情况。检查下级地方人民政府及其有关部门在辖区内组织开展非煤矿山、危险化学品、建筑施工、道路交通、水上交通、消防等重点行业领域的安全专项整治行动的情况。 <br><br>    九、认真组织检查督查工作。要在地方人民政府的领导下，统一协调部署检查督查工作，避免多头重复检查。要充分依靠和发挥专家和企业技术管理人员的作用，组织他们参加检查督查，督促和指导企业搞好隐患排查治理工作。各省（区、市）要按照《国办通知》的要求，在8月20日前完成督促检查工作，并将有关情况报国务院安全生产委员会办公室。 <br><br>    各地可依据本《指导意见》，结合本地实际情况进行补充完善后认真实施。 <br>     <br>    国务院安全生产委员会办公室 <br>    二○○七年五月十九日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

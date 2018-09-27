@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监注[2008]287号<BR>&nbsp;&nbsp;【发布日期】2008-06-12<BR>&nbsp;&nbsp;【生效日期】2008-06-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/30630.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>含毒性药材及其他安全性问题中药品种的处理原则<br><br></font>(国食药监注[2008]287号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为做好过渡期品种集中审评工作，按照《过渡期品种集中审评工作方案》和公开、公平、公正的原则，依据《药品注册管理办法》和有关技术指导原则，国家局组织制定了《中药工艺相关问题的处理原则》、《含毒性药材及其他安全性问题中药品种的处理原则》、《中药改剂型品种剂型选择合理性的技术要求》、《中药外用制剂相关问题的处理原则》和《中药质量控制研究相关问题的处理原则》。现予印发，自印发之日起执行。<br><br>                                                      国家食品药品监督管理局<br>                                                       二○○八年六月十二日<br><br><br>含毒性药材及其他安全性问题中药品种的处理原则<br><br>    随着社会进步和科学发展，中药的不良反应和毒副作用越来越引起人们的关注，重视中药制剂的安全性已经成为共识。根据2002年12月公布实施的《药品注册管理办法（试行）》和2005年5月公布实施的《药品注册管理办法》申报的已有国家标准药品减免临床试验的改剂型和仿制的品种中，有部分中药品种处方中含有毒性药材，为科学合理地评价该类品种的有效性和安全性，保证公众用药安全，根据国家局《关于印发过渡期品种集中审评工作方案的通知》（国食药监办〔2008〕128号）精神，结合相关毒性药材管理的相关法规和规定，在含有毒性药材品种减免临床试验的改剂型和仿制品种的研究与评价中应遵循以下原则：<br><br>    一、药材毒性的范围和分类<br>    本规定所说的毒性药材是指按已经颁布的相关法规和法定药材标准中标注为“大毒（剧毒）”、“有毒”的药材；大毒药材是指国务院《医疗用毒性药品管理办法》（1988年）颁布的28种毒性药材和各版《中国药典》、部颁标准、进口药材标准、地方药材标准中标注为大毒（或剧毒）的药材；有毒药材是指各版《中国药典》、部颁标准、进口药材标准、地方药材标准中标注为有毒的药材，但国务院《医疗用毒性药品管理办法》（1988年）颁布的28种毒性药材除外。各级标准中药材的毒性大小分类不一致的，以毒性高的分类标准为依据。<br><br>    二、为保证含毒性药材减免临床试验的改剂型和仿制产品的安全性，对含有毒性药材中药制剂减免临床试验改剂型和仿制品种的研究和评价应从严要求。<br><br>    三、对含有毒性药材的制剂具体规定如下<br>    （一）处方中含有分类为大毒药材的口服制剂，申请改剂型或仿制，必须提供安全性研究资料。<br>    （二）处方中含有分类为有毒药材，且功能主治为儿科用药、妊娠期和哺乳期妇女用药的口服制剂，申请改剂型或仿制，必须提供与适用人群相关的安全性研究资料。<br>    （三）处方中含有孕妇禁用或慎用的药材，且功能主治为妊娠期和哺乳期妇女用药的口服制剂，申请改剂型或仿制，应提供与生殖毒性等相关的安全性研究。<br>    （四）处方中含有现代研究发现有严重毒性的药材。如，处方中药材含马兜铃酸的口服制剂，申请改剂型或仿制，应提供安全性研究资料。<br><br>    四、有其他安全性问题的中药制剂具体规定如下<br>    （一）处方中含有罂粟壳的中药制剂，未提供研制立项批复文件的，不批准已有国家标准中药的改剂型及仿制。<br>    （二）处方中含有化学药物（维生素等除外）的口服给药制剂，由于药物的纯度较高，应注重改剂型对药品安全性、有效性的影响，申请减免临床试验的改剂型难以保证药品的安全性和有效性；申请已有国家标准药品的仿制，应提供安全性研究资料。<br>    （三）处方中含有单一中药有效成分的口服给药制剂，由于药物的纯度较高，应注重改剂型对药品安全性、有效性的影响，申请减免临床试验的改剂型难以保证药品的安全性和有效性；申请已有国家标准药品的仿制，应提供安全性研究资料。<br>    （四）国家药品不良反应监测中心《药品不良反应信息通报》中报道有明显不良反应的口服制剂，申请减免临床试验的改剂型和仿制难以保证用药的安全性，需要提供充分的安全性研究资料说明改剂型和仿制品种的安全性。<br>    （五）处方中含有毒性药材的外用制剂的技术标准另行制定。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

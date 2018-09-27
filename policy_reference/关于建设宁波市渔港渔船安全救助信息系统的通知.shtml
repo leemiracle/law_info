@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】宁波市<BR>&nbsp;&nbsp;【发布文号】甬政办发〔2009〕48号<BR>&nbsp;&nbsp;【发布日期】2009-03-06<BR>&nbsp;&nbsp;【生效日期】2009-03-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://gtog.ningbo.gov.cn/art/2009/4/8/art_18_866.html" target=_blank>宁波市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于建设宁波市渔港渔船安全救助信息系统的通知<br><br></font>(甬政办发〔2009〕48号)</p><br><br><br>    各县（市）区人民政府，市政府各部门、各直属单位：<br><br>    为全面贯彻《国务院办公厅关于加强渔业安全生产工作的通知》（国办发〔2008〕113号）文件精神，有效防范海上渔船碰撞事件，提高渔船突发事件应急处置能力，科学防台避灾，减少渔民伤亡和财产损失，促进和谐渔区建设，根据《浙江省渔业管理条例》和《关于建设浙江省海洋渔业船舶安全救助信息系统的通知》（浙政办函〔2008〕26号）要求，经市政府同意，决定建设宁波市渔港渔船安全救助信息系统（以下简称安全救助信息系统），现将有关事项通知如下：<br><br>    一、充分认识建设安全救助信息系统的重要性<br><br>    海洋捕捞的自然条件恶劣，风险较高，特别是近年来，作业渔场缩小，渔场和货轮主要航道密集交叉，渔船安全通信设施落实等原因，海洋渔业船舶重特大安全事故时有发生，给渔民生命财产造成重大损失，渔业生产安全形势十分严峻。我市是传统的海洋渔业大市，共有渔船7300余艘，建设一个包含预防和救助，覆盖锚地和渔区，结合管理和服务的安全救助信息系统，是提升渔船安全管理和应急救助能力，减少安全隐患，实现海洋渔业生产安全的重要保证。各级政府各有关部门要从以人为本、执政为民的高度，充分认识建设安全救助信息系统的重要性，采取积极措施，确保系统建设工作顺利完成。<br><br>    二、建设目标<br><br>    2010年底前完成安全救助信息系统建设。综合运用现代通信、计算机网络、全球卫星定位以及地理信息技术等业已成熟的科技手段，全面提高我市海洋渔业信息化管理水平。力争对我市渔船实现全天候、全海域实时监控，对渔船进出港实行智能化管理，对渔船险情进行快速、有效救助，最大程度保障渔业生产安全。<br><br>    三、基本原则<br><br>    建设安全救助信息系统应遵循以下原则：<br><br>    （一）统一规划，分级建设管理。安全救助信息系统实行统一规划，统一建设标准，统一项目验收。具体实施以各县（市）区为单位分片进行。系统建成后实行市、县（市）区分级管理。<br><br>    （二）统筹兼顾，发挥综合效益。系统建设本着现代科技与渔业实际相结合、安全监管与渔民需要相结合、事前预防与事后救助相结合的原则，包括渔船进出港管理、渔船避碰、外海船位定位监控、海上航行及气象信息接收等功能。充分利用现有设施，兼顾渔业、海事、边防等相关部门之间信息互通和数据共享，发挥综合效益。<br><br>    （三）政府主导。按《浙江省渔业管理条例》规定，安全救助信息系统的终端设备由渔船船东安装。为促进系统建设加快实施，市、县（市）区政府对安装安全救助信息系统终端设备的船东给予一定的经费补助。<br><br>    四、建设内容<br><br>    （一）监控中心。由1个市级监控中心、2个重点渔业县(象山县、奉化市)分中心和10个普通县级中心、28个乡镇级网络中心组成。市级中心和重点渔业县分中心实行24小时专职值班制度。各级监控中心要专职配备工作人员，其中象山县、奉化市2个重点县级中心至少配备5名，普通县级中心及乡镇中心至少配备2名。<br><br>    （二）渔船进出港自动识别监管系统。60马力以上渔船安装射频身份识别卡（RFID），石浦港、桐照港以及其他符合安装条件的渔船出海口、避风锚地、渔业码头建立渔船进出港自动识别器，执法部门配备移动识别器。<br><br>    （三）船舶自动助航避碰（AIS）系统。有驾驶舱的渔船（一般60马力以上）安装AIS终端，并建设沿海AIS基站系统。<br><br>    （四）近海雷达及视频监控系统。实时掌握我市主要渔港和近海管辖水域船舶动态。<br><br>    （五）渔船船位信息监控和应急救助网络。编组带头船和高危渔船安装卫星信息终端，救助指挥部门和渔政执法船艇配备卫星语音终端，鼓励外海渔船配备卫星语音终端。<br><br>    （六）加快推进沿岸小型渔船手机船位监控报警系统的研制和开发。<br><br>    从2009年开始，我市凡新建、更新、购置大中型海洋捕捞渔船和渔运船，都必须自行安装符合接入系统平台条件的安全救助信息系统船用终端设备。<br><br>    五、资金来源和扶持政策<br><br>    （一）各级监控中心必要的硬件设备、配套设施等由市、县（市）区政府负责落实，市海洋 渔业局统一组织技术开发和指导。<br><br>    （二）雷达、视频、AIS基站、渔船身份识别系统以及救助指挥部门的卫星应急通讯系统，由市本级负责建设。<br><br>    （三）各船载终端设备，象山县、宁海县、奉化市由市、县（市）财政和渔民按5：3：2的比例分别承担，其他各地按4：4：2的比例分别承担。<br><br>    （四）各地监控中心的维护经费、人员经费以及船载终端设备每年的系统运营经费，由相关县（市）区政府负责落实，列入年度财政预算。<br><br>    六、切实加强组织领导<br><br>    安全救助信息系统建设时间紧、任务重、涉及面广、工作难度大，各级政府和有关部门要统一思想，提高认识，切实加强对该项工作的领导。市政府成立渔港渔船安全救助信息系统建设领导小组，由副市长陈炳水任组长，市海洋渔业局局长陈秀忠任副组长，办公室设在市海洋渔业局，具体负责安全救助信息系统建设的组织实施。各地要将项目建设纳入渔业安全生产考核体系，落实工作职责，明确考核要求。要进一步加强对船东和渔民的安全生产教育，动员他们主动安装安全救助信息系统终端设备，并按规定正常使用。各级海洋渔业、通信管理、发改、公安(边防)、财政、交通、信息产业、安监、海事、气象等有关部门要按照各自职责，积极配合，共同做好安全救助信息系统的建设工作。<br><br>    附件：1.系统建设内容及经费预算表<br>          2.各地建设内容表<br>          3.建设资金各方出资表<br><br>    二○○九年三月六日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

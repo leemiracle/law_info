@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】建质电[2005]43号<BR>&nbsp;&nbsp;【发布日期】2005-06-14<BR>&nbsp;&nbsp;【生效日期】2005-06-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/indus/file/2005061504.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>建设部关于加强汛期安全生产与城镇综合防灾工作的通知<br><br></font>(建质电[2005]43号)</p><br><br><br>各省、自治区建设厅，直辖市建委及有关部门，江苏省、山东省建管局，北京市、上海市、海南省水务局，新疆生产建设兵团建设局，计划单列市建委：<br><br>    为进一步加强建设系统汛期安全生产，切实预防和减轻自然灾害及次生灾害造成的损失，现就加强汛期安全生产和城镇综合防灾工作通知如下：<br><br>    一、加强领导，落实责任，提高城镇的综合抗灾能力 <br><br>    国务院安全生产委员会最近在《关于加强汛期安全生产工作的通知》（[2005]8号） 中指出，据国家气象局预测，今年6―8月我国可能出现南北两支多雨带，预计洪涝灾害比去年严重。由于我国防御山洪和台风等灾害工作薄弱，今年汛期防汛抗灾形势十分严峻。各地建设主管部门对此必须高度重视，进一步提高对汛期安全生产和综合防灾工作的认识，牢固树立“安全第一、预防为主”的理念，要按国务院安全生产委员会通知精神，落实建设部 《关于加强汛期安全生产工作的通知》（建质电[2004]30号）要求，密切与相关部门的协调配合，在当地防汛抗旱指挥部的统一领导下，认真分析查找本地区安全生产和综合防灾薄弱环节，制定各项安全措施，完善各类灾害和突发事件的应急预案，在市政基础设施管理、住房管理、施工管理等方面切实负起责任，掌握防灾抗灾主动权，保证城镇安全度汛。 <br><br>    二、强化安全检查，抓住重点地区的薄弱环节，确保汛期正常生产和生活 <br><br>    要根据本地区自然灾害和次生灾害的发生特点，组织力量对现有房屋建筑进行排查，特别要加强对学校房屋、危旧房屋安全状况的检查，对发现的问题要及时处理，排除隐患，对违法违章建筑要立即清除；对可能发生的洪涝灾害要制定必要的应急预案，与有关部门一起，随时做好有关人员的撤离转移工作。 <br><br>    要把确保城镇基础设施正常运行作为建设系统汛期的工作重点。各地要结合汛期和高温期安全生产特点，落实地铁（含轻轨）、供水、排水、供气、道路等基础设施的安全保障措施，对易受洪水侵袭、雨水浸泡的道路、桥涵和其他市政设施及时进行检查，特别要防止地铁、桥涵及地下通道雨水倒灌。要及时疏通排水井和地下排水管线，全面检修排涝泵站、机电设备，确保排水设施安全正常运转。 <br><br>    进一步规范施工现场管理。针对夏季雷雨、冰雹、大（台）风多发的特点，督察有关单位加强重点设施设备、重点部位的检查，加强地铁等重大工程项目施工的安全管理，把预防深基坑垮塌、高切坡崩塌、围墙倒塌作为监控重点，确保垂直运输设施的稳固和防风安全；做好临时用电设施防水防触电等工作。 <br><br>    三、加强汛期值班、汛情报告和通报工作，做到靠前指挥 <br><br>    各地建设主管部门要加强与国土资源、气象等有关部门的信息沟通和防汛防灾工作的联系和配合，及时掌握汛情、地质灾害和气象预报，增强预防洪水、滑坡、泥石流、台风、暴风雨、冰雹等自然灾害的能力，根据需要建立健全防汛值班、报告和汛情通报等制度。建设主管部门和有关单位负责同志和工作人员要坚守岗位，掌握动态，熟悉防灾预案，做到靠前指挥，发现重要情况及时报告并处置。 <br><br>建设部 <br>二○○五年六月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

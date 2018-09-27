@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2005〕53号<BR>&nbsp;&nbsp;【发布日期】2005-11-01<BR>&nbsp;&nbsp;【生效日期】2005-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=3689" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅转发省劳动保障厅关于进一步加快实施金保工程意见的通知<br><br></font>(皖政办〔2005〕53号)</p><br><br> <br>各市、县人民政府，省政府各部门、各直属机构：<br><br>    省劳动保障厅《关于进一步加快实施金保工程的意见》已经省政府同意，现转发给你们，请结合实际，认真抓好落实。<br><br>                                                   安徽省人民政府办公厅<br>                                                   二○○五年十一月一日<br>                                                   <br><br>                       关于进一步加快实施金保工程的意见<br>                        （省劳动保障厅二○○五年十月<br><br>    根据国家劳动和社会保障部《关于进一步加快实施金保工程的意见》（劳社部函〔2004〕262号）精神，结合我省实际情况，现就加快电子政务建设，实施全省劳动和社会保障信息系统工程（以下简称金保工程），提出以下意见：<br><br>    一、总体要求<br><br>    金保工程是国家重点建设的电子政务工程，是我省“861”行动计划重点建设的基础工程。金保工程按照劳动保障事业发展的总体目标，以全省电子政务建设规划为指导，遵循统一规划、统一标准、统一指导，分步实施、分级负担、分级管理，网络互联、信息共享的原则进行建设。要以全省联网和联网应用为重点，继续推进联网工作；以抓全省统一应用软件开发和实施为核心，扩大信息应用与共享，建成覆盖劳动保障领域主要业务，统一、高效、简便、实用的全省劳动和社会保障信息系统，实现劳动就业、基金监管、宏观决策、社会服务等劳动保障业务管理的信息化、现代化、科学化。<br><br>    二、目标和任务<br><br>    我省金保工程的总体建设目标是，利用3年（2005―2007年）左右的时间，基本建成覆盖全省、网络互联、信息共享、安全可靠的劳动保障系统网络，与国家金保工程主干网络相连。其主要任务是按照金保工程建设的总体要求和“数据向上集中、服务向下延伸”的发展思路，重点抓好以下工作：<br><br>    （一）建设劳动保障数据中心<br><br>    建设省、市二级劳动保障数据中心，建立标准统一的集中式业务资源数据库，整合劳动力市场和社会保险业务数据系统，覆盖全省劳动就业和社会保障资源数据，实现省级数据中心与各市数据中心的数据交换和信息共享。各市数据中心应于2005年年底前基本建成，为实现部、省、市数据中心之间的互联互通打下基础。<br><br>    （二）推进联网建设和应用<br><br>    完善省、市联网；加快市域网建设，各市市域网力争在2006年年底前建成，有条件的市将网络进一步延伸到街道、社区。力争到2007年基本建成覆盖全省的劳动保障系统网络，实现同财政、税务、民政、工商、医院、药店、银行、邮局等部门和单位的信息互通。<br><br>    在实现养老保险80项监测数据联网传输基础上，开展失业登记和失业保险监测、医疗保险管理服务监测、工伤保险管理服务监测、职业介绍、社会保险基金监督以及异地领取养老金等业务协同管理的联网应用。<br><br>    （三）实施统一应用软件和整合业务数据<br><br>    在国家劳动保障部社会保险核心和劳动力市场两个平台软件基础上，开发和推广全省劳动保障统一应用软件，力争2006年年底前全省1/3的市使用省统一应用软件。<br><br>    加强基础数据库建设，整合劳动就业和社会保险各项基础数据，实现“同人同城同库”。<br><br>    （四）全面开展劳动保障公共服务<br><br>        建立和完善各级劳动保障政府网站。统一提供劳动保障政策和业务信息咨询服务，开展网上职业介绍公共服务，逐步实现申报、缴费、查询等业务管理网络化，提高劳动保障政策透明度和公共服务水平。各市劳动保障政府网站应于2005年年底前基本建成。<br><br>    加快电话咨询服务中心建设，尽快开通“12333”劳动保障服务统一专用号码，提升劳动保障电话咨询服务水平。<br><br>    三、保障措施<br><br>    （一）加强组织领导。各级政府要把建设金保工程作为实践“三个代表”重要思想，构建和谐社会，造福广大劳动者的民心工程，加强领导，精心组织，加快建设步伐。各级劳动保障部门要建立一把手负总责、分管领导具体抓的工作机制，按照全省统一规划和部署，具体负责金保工程实施工作。各级发展改革、财政等有关部门要积极配合和支持金保工程建设，为工程实施提供规划指导和财力保障。<br><br>    （二）搞好技术培训。金保工程是一项技术含量高的系统工程。省劳动保障部门要切实加强对全省金保工程建设的业务和技术指导。各地要采取多种形式，加强对业务人员和技术人员的培训，建设一支业务精湛的人才队伍，确保金保工程顺利实施。<br><br>    （三）建立健全规章制度。各地要建立健全项目管理、资金使用、系统运行维护等方面的规章制度，严格执行政府采购和招投标制度、项目管理责任制度，明确分工，落实责任，切实加强对金保工程建设的管理、指导和监督。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

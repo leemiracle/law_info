@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农市发[2009]5号<BR>&nbsp;&nbsp;【发布日期】2009-11-10<BR>&nbsp;&nbsp;【生效日期】2009-11-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20091110_1380392.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于启用“12316”短信息服务专用代码的通知 <br><br></font>(农市发[2009]5号)</p><br><br><br>    各省、自治区、直辖市及计划单列市农业（农林、农牧）、农机、畜牧、兽医、农垦、乡镇企业（中小企业）、渔业（水产）厅（局、委、办），新疆生产建设兵团农业局：<br><br>    为进一步提升信息化服务“三农”水平，经工业和信息化部批准，我部决定在全国范围内启用“12316”短信息服务专用代码。现将有关事项通知如下：<br><br>    一、明确代码性质，科学合理布局<br><br>    开通“12316”短信息服务专用代码，是农业部继开通“12316”公益服务热线专用号码后，加快推进农业农村信息化建设的又一有力举措。各地要按照工业和信息化部《短信息类服务接入代码证书特别规定事项》（见附件）等有关规定，以“因地制宜、统筹规划、创新机制、注重实效”为原则，实行国家、省两级管理，地方以各省（区、市）农业部门为管理单位，由我部统一组织协调。农业内部不同行业机构分设的省（区、市），由农业厅（局、委、办）牵头，负责组织协调相关单位，原则上一个省级行政区划内只启用一个“12316”短信息服务专用代码。目前利用其它号码开展短信息服务的省（区、市），服务号码要逐步向“12316”代码过渡，并存一段时间后停止使用原有号码。<br><br>    二、加强统筹规划，明确建设目标<br><br>    各地要根据本省（区、市）已建及拟建短信息服务的实际情况，充分结合农业部“三电合一”、“金农工程”等信息化建设项目，依托现有资源和优势，合理布局，综合利用，加快研制本省开通规划和实施方案。要以“12316”代码为纽带，统筹规划语音电话、手机短信、互联网络等现代传播手段与电视、广播、报刊等传统媒体的结合，努力构建“12316”三农综合信息服务平台，树立农业系统农业农村信息化服务的统一品牌和形象。建设过程中，要特别注意信息源的专家队伍建设，确保信息的可靠性和科学性。<br><br>    三、积极争取投入，强化资源整合<br><br>    各省（区、市）农业部门要积极争取当地政府的支持，主动与发改、财政、信产等相关部门沟通，整合利用各行业支农信息化资金，统一规划，集中使用。同时，要努力调动社会力量的积极性，加强与移动、联通、电信等电信运营商的合作，充分发挥组织协调作用，聚集各方力量，扩大投资渠道，引导更多的社会资金投入到三农综合信息服务平台建设中来。我部将围绕与中国移动签署的农业农村信息化战略合作框架协议，以建设“12316”三农综合信息服务平台为目标，进一步加大对地方的支持力度，统筹推进农业农村信息化工作。<br><br>    四、发挥聚合优势，推动全面协作<br><br>    各省（区、市）农业部门要加强与组织、科技、商务、司法、广电等涉农部门的合作，充分发挥各部门的行业优势，进一步探索建立可持续的高效合作机制，在内容提供、人员协作、传媒互动、联合宣传推广等方面相互沟通、相互协作，优势互补，共建共享，积极探索多单位多部门共建“12316”三农综合信息服务平台的新路子、新模式，努力为农民提供方便、快捷、低成本、高质量的信息服务，形成各方参与、全面协作、齐抓共促的良好局面。<br><br>    五、加强调查研究，因地制宜推进<br><br>    各地要切实加强对国内外农业农村信息化建设有关情况和工作的调查研究，全面分析和把握当前信息化发展的趋势，积极学习借鉴吉林、北京等地好的经验和做法，进一步总结提升，为制定政策、开展工作奠定坚实的基础。要立足本地实际，积极开拓创新，细划用户群体，完善服务手段，切实提高短信息服务的针对性和有效性，积极探索符合自身特点的农业农村信息化服务模式。<br><br>    各省（区、市）农业部门要高度重视“12316”短信息服务专用代码开通工作，切实加强组织领导，明确任务，落实责任，强化措施，扎实推进，并及时将开通情况、代码编制方案和具体联络方式报我部市场与经济信息司。<br><br>    联系电话：010-59191598  59191507<br><br>    传真：010-59192395<br><br>    电子邮箱：bailing@agri.gov.cn<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

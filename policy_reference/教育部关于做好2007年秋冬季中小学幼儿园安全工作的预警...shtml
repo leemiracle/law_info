@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教基[2007]19号<BR>&nbsp;&nbsp;【发布日期】2007-11-09<BR>&nbsp;&nbsp;【生效日期】2007-11-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info35455.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于做好2007年秋冬季中小学幼儿园安全工作的预警通知<br><br></font>(教基[2007]19号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局：<br><br>    近年来，由于农村寄宿制学校和校外租住学生增多，不法分子侵入校园和学生租住房伤害学生的安全事故时有发生。目前，随着秋冬季节的来临和气温下降，不少地方采用燃煤取暖，进入了一氧化碳中毒事件的多发期；冬季冰雪路面增加了交通安全隐患；学生在户外从事冰雪运动时容易发生意外伤害。针对上述多发易发事故特点，为进一步加强管理，切实保障学生人身安全，现就做好2007年秋冬季中小学幼儿园安全工作通知如下：<br><br>    一、加强寄宿制学校学生宿舍管理。有寄宿生的学校应当建立住宿学生安全管理制度，对学生宿舍实行夜间巡查，加强值班，配备专人负责学生宿舍管理和安保工作，尤其是要加强对女生宿舍的安全管理，严防不法分子侵入。认真开展法制教育，提高学生的防范意识和自我保护能力。<br><br>    二、加强中小学安全设施建设。采用燃煤取暖的学校，在教室、宿舍、办公室等室内安装的燃煤取暖设施必须安装有排烟管道，并保证排烟管道畅通、不漏气，同时房间应装有风斗，防止一氧化碳积聚造成中毒。有条件的学校要在学生宿舍安装一氧化碳报警装置。近期要对校内宿舍和学生校外租住房屋进行一次安全排查，特别是燃煤取暖的宿舍和校外租住房。    <br><br>    三、加强对校外租房学生的管理。各地教育行政部门要抓紧对本行政区域内校外租房学生情况进行一次摸底调查，并登记造册。要加强同公安、建设、消防、卫生、工商等部门的合作，切实加大对学生集中租住区域的监管和检查力度，加强治安巡逻，严禁向学生出租存在严重建筑、卫生、用电和用气安全隐患的房屋。学校要加强与学生家长的联系，通过多种形式，提醒家长为学生选择安全的租住房屋。<br><br>    四、加强校车管理。各地教育行政部门和学校要在近期对本行政区域内所有校车进行一次检查，严格审核校车驾驶员资质，严防校车带病上路，并根据各地路面实际情况及时为校车安装防滑装置；严禁租用外地机动车、个人机动车和拖拉机、三轮汽车、低速货车、拼装车、报废车接送学生；要积极配合公安交通管理部门严肃查处校车超载、超速、酒后驾车和闯红灯等违法行为。<br><br>    五、加强对学生集体户外冰雪运动的组织与管理。各地尤其是北方地区县级教育行政部门要加强对学校组织学生开展集体户外冰雪运动的管理，学校要提前制订应急预案，配备应急救治设施和医务人员；要在活动开展前，有针对性地对学生进行安全教育，告知学生安全事项；要选择安全的场地开展冰雪运动，要有专业人员指导学生进行活动，严防因管理松散、运动不当或场所问题而引发意外伤害。<br><br>    六、各地教育行政部门和学校近期要在中小学集中开展一次安全教育。要使广大学生进一步掌握预防一氧化碳中毒的基本知识和方法，要对学生进行一次骑自行车的安全教育，要教育学生不要搭乘"黑校车"和超载车辆上下学，不到结冰的江河水库上玩耍、滑冰，不租住有重大安全隐患的房屋，切实增强中小学生的防范意识和自救、互救能力。<br><br>    各地接到本通知后，要切实提高认识，抓紧部署落实各项工作，合理预见和积极防范事故发生。<br><br>教育部<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

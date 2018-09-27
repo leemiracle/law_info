@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2004]521号<BR>&nbsp;&nbsp;【发布日期】2004-04-28<BR>&nbsp;&nbsp;【生效日期】2004-04-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于统一全国普通发票分类代码和发票号码的通知<br><br></font>(国税函[2004]521号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局： <br><br>    为了加强和规范普通发票的统一管理，做好推广应用税控收款机的准备工作，便于全国普通发票统一识别和查询，决定统一全国普通发票分类代码和发票号码。现将有关事项通知如下：   <br>    一、统一全国普通发票分类代码和发票号码   <br><br>    （一）普通发票分类代码编制规则   <br><br>    普通发票分类代码（以下简称分类代码）为12位阿拉伯数字。从左至右排列：   <br><br>    第1位为国家税务局、地方税务局代码，1为国家税务局、2为地方税务局，0为总局。   <br><br>    第2、3、4、5位为地区代码（地、市级），以全国行政区域统一代码为准，总局为0000。   <br><br>    第6、7位为年份代码（例如2004年以04表示）。   <br><br>    第8位为统一的行业代码，其中，国税行业划分：1工业、2商业、3加工修理修配业、4收购业、5水电业、6其他；地税行业划分：1交通运输业、2建筑业、3金融保险业、4邮电通信业、5文化体育业、6娱乐业、7服务业、8转让无形资产、9销售不动产、0表示其他。   <br><br>    第9、10、11、12位为细化的发票种类代码，按照保证每份发票编码唯一的原则，由省、自治区、直辖市和计划单列市国家税务局、地方税务局自行编制。 <br><br>    （二）发票号码（即发票顺序码）编制规则   <br><br>    普通发票号码为8位阿拉伯数字。如发票号码资源不够用，在设计时应考虑与分类代码结合，即在分类代码的第9、10、11、12位中设置1位为批次代码。   <br><br>    企业冠名发票，可在第9、10、11、12位分类代码中设置1位单独表示，或者直接在发票号码中以给每个企业分配一段号码的方式进行编制。   <br><br>    （三）印制位置和规格   <br><br>    分类代码和发票号码统一印制在发票右上角：第一排分类代码，第二排发票号码。   <br><br>    发票号码采用号码机印刷的，号码机采用哥特字体。手工票、定额票、电脑票（平推打印）号码机的规格为：字高3.34mm，字宽1.86mm，字笔道0.34mm，字间距0.99mm，号码总长21.81mm。卷式发票号码机规格为：字高3mm，字宽1.66mm，字笔道0.32mm，字间距1.19mm，号码总长21.61mm（见附件）。发票号码采用喷墨方式印刷的，按照号码机印刷的规格喷印。   <br><br>    分类代码印制规格应与发票号码一致。   <br><br>    二、统一代码和发票号码的执行时间   <br><br>    为了保证新旧分类代码、发票号码使用的顺利衔接，全国统一分类代码、发票号码启用时间为2004年7月1日，旧分类代码、发票号码截止使用时间为2004年12月31日（总局另有规定的除外）。各地可在总局规定的交替期内确定具体启用和截止时间，并报总局备案。   <br><br>    三、工作要求   <br><br>    （一）抓紧确定编码方案。各地必须按照总局统一的编码规则，编制普通发票的分类代码和发票号码。各地所确定的分类代码、发票号码编制方案，报总局征管司、信息中心备案。   <br><br>    （二）发票印制相对集中。配合统一普通发票分类代码和发票号码的实施，普通发票应集中到地、市级印制，有条件的地区及重要票种应集中在省一级印制。   <br><br>    （三）抓住契机开展发票查询。各地要充分利用统一普通发票分类代码和发票号码的有利时机，按照税务系统信息化规划“两级处理”的要求，积极创造条件，依托现有综合征管信息系统，逐步建立普通发票电话、网上查询系统。   <br><br>    （四）狠抓落实及时反馈。各地要充分认识统一普通发票分类代码和发票号码对实现发票管理规范化和信息化的重要意义，认真抓好更换分类代码和发票号码的各项准备工作，按要求逐项落实，并及时反馈有关情况、问题和建议，以利不断完善这项工作。 <br><br>    附件：号码机字体规格图样（略） <br><br>                                             国家税务总局 <br>                                         二00四年四月二十八日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部港澳台事务办公室<BR>&nbsp;&nbsp;【发布文号】教港澳台办［2005］70号<BR>&nbsp;&nbsp;【发布日期】2005-10-13<BR>&nbsp;&nbsp;【生效日期】2005-10-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.edu.cn/edoas/website18/info16814.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部港澳台事务办公室关于在部分职业学校设立“华夏学子助/奖学金”有关事宜的通知<br><br></font>(教港澳台办［2005］70号)</p><br><br><br>    河北、山西、内蒙古、辽宁、吉林、黑龙江、江苏、安徽、江西、河南、湖北、湖南、广西、重庆、四川、贵州、云南、西藏、甘肃、青海、宁夏、新疆等省（自治区、直辖市）教育厅（教委）：<br><br>    为响应国家大力发展职业教育，培养技能型人才的号召，加快提高我国职业教育发展水平， 帮助中等职业学校家庭困难的优秀学生完成学业，使其成为国家和社会需要的技能型人才，华夏基金会决定，在华夏基金会职业教育项目学校中设立“华夏学子助/奖学金”（以下简称奖学金）, 以资助、奖励中等职业学校中家庭贫困、品学兼优的学生，帮助他们顺利完成学业。<br><br>    一、奖学金由华夏学子助/奖学金管理委员会管理，国家教育部港澳台事务办公室具体负责评审及日常管理工作。本年度奖学金将在全国三十六所职业学校二年级学生中实施，具体学校名单和奖励名额见附件一。<br><br>    二、学校要遵循“公平、公正、公开”的原则，对学生思想品德、学习成绩、家庭经济状况及平时消费情况等进行调查考核，推荐家境困难、品学兼优的学生作为接受奖学金候选人并在校内公示二周之后，将公示结果连同候选人填写的“华夏基金会华夏学子助/奖学金申请表”以及汇总表一并报省（自治区、直辖市）教育厅（教委）审核，审核合格后由省（自治区、直辖市）教育厅（教委）报教育部港澳台事务办公室。<br><br>    三、华夏基金会为获得奖学金的学生一次性提供2000元人民币的资助。请学校及相关主管部门为获奖学生减免相应数额的学费。<br><br>    四、华夏基金会将通过教育部把奖学金发放到受资助学生所在学校，由学校将奖学金直接发放到获奖学生本人，获奖学生须填写“华夏基金会华夏学子助/奖学金收据”，见附件三。该收据由学校保存备查。如发现弄虚作假等舞弊行为，将对有关责任人进行处理。<br><br>    五、请各地教育厅（教委）于2005年11月15日之前将申报材料及各校汇入款的银行名称、地址、账号等报至我办。<br><br>    联  系  人：李斌    余彬<br><br>    联系电话：010－66097845  010－66096281<br><br>    传    真：010－66014621<br><br>    地    址：北京西单大木仓胡同37号（100816）<br><br>    附件：1.2005年度华夏学子奖学金职教项目分配方案<br><br>          2.华夏基金会华夏学子助/奖学金申领表<br><br>          3.华夏基金会华夏学子助/奖学金收据<br><br>          4.华夏基金会华夏学子助/奖学金实施办法<br><br>教育部港澳台事务办公室<br>二○○五年十月十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

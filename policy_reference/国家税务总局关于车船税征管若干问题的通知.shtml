@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发〔2008〕48号<BR>&nbsp;&nbsp;【发布日期】2008-05-08<BR>&nbsp;&nbsp;【生效日期】2008-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7865352.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于车船税征管若干问题的通知<br> <br></font>(国税发〔2008〕48号)</p><br><br><br>各省、自治区、直辖市和计划单列市地方税务局，西藏、宁夏、青海省（自治区）国家税务局：?<br>    为方便车船税征缴，进一步提高征管质量和效率，切实做好车船税的征收工作，根据《中华人民共和国车船税暂行条例》（以下简称“条例”）及其实施细则的有关规定，现就车船税征管有关问题通知如下：?<br>    一、关于不在车辆登记地购买保险代收代缴车船税问题<br>    在一个纳税年度内，纳税人在非车辆登记地由保险机构代收代缴机动车车船税，且能够提供合法有效完税证明的，纳税人不再向车辆登记地的地方税务机关缴纳机动车车船税。?<br>    二、关于所有权或管理权发生变更的车船征收车船税问题<br>    在一个纳税年度内，已经缴纳车船税的车船变更所有权或管理权的，地方税务机关对原车船所有人或管理人不予办理退税手续，对现车船所有人或管理人也不再征收当年度的税款；未缴纳车船税的车船变更所有权或管理权的，由现车船所有人或管理人缴纳该纳税年度的车船税。?<br>    三、关于未在车辆管理部门登记的新购置车辆办理减免税手续问题?<br>    为优化办税程序，做好纳税服务，对尚未在车辆管理部门办理登记、属于应减免税的新购置车辆，车辆所有人或管理人可提出减免税申请，并提供机构或个人身份证明文件和车辆权属证明文件以及地方税务机关要求的其他相关资料。经税务机关审验符合车船税减免条件的，税务机关可为纳税人出具该纳税年度的减免税证明，以方便纳税人购买机动车交通事故责任强制保险。<br>    新购置应予减免税的车辆所有人或管理人在购买机动车交通事故责任强制保险时已缴纳车船税的，在办理车辆登记手续后可向税务机关提出减免税申请，经税务机关审验符合车船税减免税条件的，税务机关应退还纳税人多缴的税款。?<br>    四、关于微型客车的标准问题?<br>    凡发动机排气量小于或者等于1升的载客汽车，都应按照微型客车的税额标准征收车船税。发动机排气量以如下凭证相应项目所载数额为准：?<br>    （一）车辆登记证书；?<br>    （二）车辆行驶证书； ?<br>    （三）车辆出厂合格证明；?<br>    （四）车辆进口凭证。?<br>    五、关于部分车辆计税依据的核定问题?<br>    对于按照条例实施细则的规定，无法准确获得自重数值或自重数值明显不合理的载货汽车、三轮汽车、低速货车、专项作业车和轮式专用机械车，由主管税务机关根据车辆自身状况并参照同类车辆核定计税依据。对能够获得总质量和核定载质量的，可按照车辆的总质量和核定载质量的差额作为车辆的自重；无法获得核定载质量的专项作业车和轮式专用机械车，可按照车辆的总质量确定自重。?<br>    本通知执行过程中，各地地方税务机关应结合实际情况，充实、完善各项具体征管制度和办法。对于征管中遇到的实际困难，要积极研究解决，确保车船税征管工作顺利运行。<br><br>                                                  国家税务总局<br>                                                二○○八年五月八日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

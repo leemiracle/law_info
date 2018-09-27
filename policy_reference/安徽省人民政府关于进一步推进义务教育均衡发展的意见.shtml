@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政〔2006〕54号<BR>&nbsp;&nbsp;【发布日期】2006-07-19<BR>&nbsp;&nbsp;【生效日期】2006-07-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=3876" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于进一步推进义务教育均衡发展的意见<br><br></font>(皖政〔2006〕54号)</p><br><br> <br>各市、县人民政府，省政府各部门、各直属机构：<br><br>    “十五”以来，我省义务教育取得了显著成绩，规模不断扩大，发展水平逐步提高，2005年，全省105个县（市、区）基本普及九年义务教育。但是，我省城乡之间、地区之间、学校之间教育发展水平还存在明显差距，上学难、上学贵的现象在一些地方还相当突出，特别是在一些城市，择校之风愈演愈烈，由此引发的高收费、大班额等问题，社会反响强烈，亟待解决。我省铜陵市在推进城区中小学校均衡发展、解决学生择校等方面进行了积极的探索，取得了成功经验，得到了国务院领导同志的充分肯定。为贯彻国务院领导同志讲话精神，进一步推进我省义务教育均衡发展，现提出如下意见：<br><br>    一、充分认识义务教育均衡发展的战略意义，把推进义务教育均衡发展工作摆到重要位置<br><br>    每一个适龄儿童享受到同等教育，是义务教育的本质要求，也是社会主义教育事业发展的必然要求。各级政府和有关部门要从实践“三个代表”重要思想、落实科学发展观和构建社会主义和谐社会的高度出发，充分认识推进义务教育均衡发展、不断提高义务教育发展水平的战略意义，把这项工作作为实现“两基”之后义务教育发展的一项重大任务，纳入经济社会发展和教育改革与发展的总体规划，努力遏制城乡之间、地区之间和学校之间教育差距扩大的势头，力争办好每所学校，切实保障每一个适龄儿童都能享受大体相当的义务教育。<br><br>    二、突出重点，科学规划，当前重点解决城区内择校问题<br><br>    各级政府和有关部门在建立和完善保障义务教育均衡发展的管理体制、认真组织实施国家重大义务教育工程项目、促进城乡义务教育整体发展的同时，要把工作的着力点放在推进县（市、区）域内义务教育均衡发展上。要认真制定义务教育均衡发展的近期工作方案和长远实施规划，针对其中的突出问题，采取切实有效措施，分类指导，重点突破，因地制宜，分步解决。力争在3年内解决市、县城区内的择校问题，实现城区中小学校相对均衡，并积极创造条件，不断改善进城务工农民子女受教育的环境和条件，努力在更大范围内实现义务教育的均衡发展。<br><br>    三、合理布局，均衡资源，努力缩小区域内中小学校差距<br><br>    （一）各市、县（市、区）政府要根据城乡建设发展规划和城镇人口的增长趋势，科学、合理布局中小学校，满足辖区内义务教育阶段适龄儿童就近入学的需要。<br><br>    （二）大力改善薄弱学校办学条件，努力缩小城乡间、区域间、学校间的差距。各级财政要进一步加大投入，切实落实教育经费“三个增长”和中央关于新增教育经费主要用于农村的要求，进一步调整支出结构，加强对薄弱学校的建设和改造，推动义务教育均衡发展。义务教育重大建设项目和城市教育费附加优先安排薄弱学校，逐步实现义务教育阶段中小学校办学条件基本均衡。<br><br>    省级教育行政部门要制定和完善我省义务教育阶段学校办学条件基本标准。各市、县（市、区）对本地办学条件低于基本标准的薄弱学校，要限期改造，集中力量加快薄弱学校改造进程。<br><br>    （三）进一步加强教师队伍建设。各市、县要严格按照有关规定，保质保量为所有中小学配齐合格教师。教育行政部门要依法履行对中小学教师的管理职能，加强本市、县教师资源的统筹管理和合理配置，重点加强城市薄弱学校和农村中小学校领导班子和教师队伍建设，采取有效措施，有计划地培养和选拔一批优秀校长和骨干教师到薄弱学校任职任教；建立区域内骨干教师巡回授课、紧缺专业教师流动教学、区域内教师定期流动、城镇教师到农村学校任教服务期等项制度，积极引导超编学校的富余教师向农村缺编学校流动。要建立教师工资统筹机制，实现同一市、县同类教师工资待遇基本相同，从根本上解决农村学校和城镇薄弱学校教师数量不足、待遇不高及整体水平不高的问题。<br><br>    四、深化课程改革，规范办学行为，进一步提高中小学校教育教学质量<br><br>    （一）进一步深化课程改革，将全面推进素质教育、全面提高教育质量作为推进义务教育均衡发展的根本任务。中小学校必须按照义务教育课程方案要求开齐课程，认真执行国家和教育行政部门制订的课程计划。要树立以学生为本，促进每一个学生全面发展的理念，转变教育教学方式和学校管理模式，面向全体学生，采取各种措施对学习困难学生给予更多的帮助，努力使所有学生共同进步。<br><br>    （二）大力发展中小学现代远程教育，将其作为推进义务教育均衡发展的重要措施，加大教育资源开发和整合力度，促进义务教育优质资源共享共用，全面提高农村学校和城镇薄弱学校教育教学质量。<br><br>    （三）进一步推进普通高中招生制度改革，逐步改变以学业考试分数作为唯一录取依据的方法，在中小学校全面建立综合素质评价制度，坚持省、市示范高中招生部分指标分解到各初中学校的办法。<br><br>    （四）各级政府及教育行政部门要采取切实有效措施，规范学校办学行为。坚持义务教育阶段公办学校免试就近入学，坚决遏制择校风。义务教育阶段公办学校不得举办或变相举办重点学校，不得将公办学校改为民办或以改制为名实行高收费，已经改制的公办学校，由各地政府和主管部门自行清理。要坚决治理中小学校违规补课和乱收费行为，切实减轻学生过重的课业负担和经济负担。<br><br>    五、关注弱势群体，落实各项政策，努力保证每一个孩子享受大体相同的义务教育权利<br><br>    （一）各地要切实落实国家资助贫困家庭学生的各项政策，认真做好义务教育阶段农村家庭贫困学生“两免一补”工作；要将残疾儿童少年义务教育作为新时期“两基”巩固提高工作的重要内容，优先保证农村残疾儿童少年享受“两免一补”政策，努力改善特殊教育学校办学条件，不断提高残疾儿童少年义务教育普及程度。<br><br>    （二）各级政府要切实承担进城务工农民子女义务教育的责任，将随父母进城的农民工子女的义务教育纳入城镇教育发展规划和财政经费预算，以全日制公办中小学为主接收农民工子女入学，并按照实际在校人数拨付学校公用经费。各市、县教育部门要积极创造条件，落实进城务工农民子女义务教育就读学校，清理取消城市公办学校对农民工子女接受义务教育的各项不合理收费，对在定点学校就读的农民工子女一律不得收借读费、赞助费等，切实解决进城务工农民子女义务教育的同等待遇问题；进一步加强对农村留守儿童的关爱和教育，努力解决农村留守儿童思想、生活和学习上的困难。<br><br>    六、加强领导，建立督导评估制度和义务教育均衡发展评价体系<br><br>    各级政府要切实承担推进辖区内义务教育均衡发展的责任，认真分析影响辖区内义务教育均衡发展的原因和关键环节，统一认识，采取切实可行的措施，建立目标责任制和统筹协调机制，切实保证各项措施得到贯彻落实。要坚决遏制普遍存在的择校风，切实解决当地老百姓反映强烈的“上学难、上学贵”问题。要建立健全义务教育均衡发展的督导评估制度，逐步健全评估指标体系，定期对义务教育阶段学校的校间差距进行监测评价，并及时通报。教育督导部门要把义务教育均衡发展作为督导评估县级人民政府和党政干部工作的重要内容，纳入督导评估工作。<br><br>    各市政府要根据上述意见，结合本地实际，制定辖区内推进义务教育均衡发展的实施方案，提出明确目标和工作推进措施，同时加强对所辖县（市、区）的指导，加强督促检查，抓好工作落实，切实推进义务教育均衡发展。<br><br>                                                  安徽省人民政府<br>                                                二○○六年七月十九日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

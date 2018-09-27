@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2010-05-23<BR>&nbsp;&nbsp;【生效日期】2010-05-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://kjs.mof.gov.cn/zhengwuxinxi/zhengcefabu/201005/P020100505328497850725.pdf" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>企业内部控制应用指引第14号――财务报告 <br><br></font></p><br><br><br>    <font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了规范企业报告，保证报告的真实、完整，根据《<a href=javascript:ROF(33875,0) class=alink>中华人民共和国会计法</a>》等有关法律法规和《企业内部控制基本规范》，制定本指引。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本指引所称报告，是指反映企业某一特定日期状况和某一会计期间经营成果、现金流量的文件。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 企业编制、对外提供和分析利用报告，至少应当关注下列风险：<br><br>    （一）编制报告违反会计法律法规和国家统一的会计准则制度，可能导致企业承担法律责任和声誉受损。<br><br>    （二）提供虚假报告，误导报告使用者，造成决策失误，干扰市场秩序。<br><br>    （三）不能有效利用报告，难以及时发现企业经营管理中存在的问题，可能导致企业和经营风险失控。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 企业应当严格执行会计法律法规和国家统一的会计准则制度，加强对报告编制、对外提供和分析利用全过程的管理，明确相关工作流程和要求，落实责任制，确保报告合法合规、真实完整和有效利用。总会计师或分管会计工作的负责人负责组织领导报告的编制、对外提供和分析利用等相关工作。企业负责人对报告的真实性、完整性负责。<br><br>    <font class='zhang'>第二章</font> 报告的编制<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 企业编制报告，应当重点关注会计政策和会计估计，对报告产生重大影响的交易和事项的处理应当按照规定的权限和程序进行审批。企业在编制年度报告前，应当进行必要的资产清查、减值测试和债权债务核实。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 企业应当按照国家统一的会计准则制度规定，根据登记完整、核对无误的会计账簿记录和其他有关资料编制报告，做到内容完整、数字真实、计算准确，不得漏报或者随意进行取舍。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 企业报告列示的资产、负债、所有者权益金额应当真实可靠。各项资产计价方法不得随意变更，如有减值，应当合理计提减值准备，严禁虚增或虚减资产。各项负债应当反映企业的现时义务，不得提前、推迟或不确认负债，严禁虚增或虚减负债。所有者权益应当反映企业资产扣除负债后由所有者享有的剩余权益，由实收资本、资本公积、留存收益等构成。企业应当做好所有者权益保值增值工作，严禁虚假出资、抽逃出资、资本不实。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 企业报告应当如实列示当期收入、费用和利润。各项收入的确认应当遵循规定的标准，不得虚列或者隐瞒收入，推迟或提前确认收入。各项费用、成本的确认应当符合规定，不得随意改变费用、成本的确认标准或计量方法，虚列、多列、不列或者少列费用、成本。利润由收入减去费用后的净额、直接计入当期利润的利得和损失等构成。不得随意调整利润的计算、分配方法，编造虚假利润。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 企业报告列示的各种现金流量由经营活动、投资活动和筹资活动的现金流量构成，应当按照规定划清各类交易和事项的现金流量的界限。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 附注是报告的重要组成部分，对反映企业状况、经营成果、现金流量的报表中需要说明的事项，作出真实、完整、清晰的说明。企业应当按照国家统一的会计准则制度编制附注。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 企业集团应当编制合并报表，明确合并报表的合并范围和合并方法，如实反映企业集团的状况、经营成果和现金流量。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 企业编制报告，应当充分利用信息技术，提高工作效率和工作质量，减少或避免编制差错和人为调整因素。<br><br>    <font class='zhang'>第三章</font> 报告的对外提供<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 企业应当依照法律法规和国家统一的会计准则制度的规定，及时对外提供报告。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 企业报告编制完成后，应当装订成册，加盖公章，由企业负责人、总会计师或分管会计工作的负责人、财会部门负责人签名并盖章。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 报告须经注册会计师审计的，注册会计师及其所在的事务所出具的审计报告，应当随同报告一并提供。企业对外提供的报告应当及时整理归档，并按有关规定妥善保存。<br><br>    <font class='zhang'>第四章</font> 报告的分析利用<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 企业应当重视报告分析工作，定期召开分析会议，充分利用报告反映的综合信息，全面分析企业的经营管理状况和存在的问题，不断提高经营管理水平。企业分析会议应吸收有关部门负责人参加。总会计师或分管会计工作的负责人应当在分析和利用工作中发挥主导作用。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 企业应当分析企业的资产分布、负债水平和所有者权益结构，通过资产负债率、流动比率、资产周转率等指标分析企业的偿债能力和营运能力；分析企业净资产的增减变化，了解和掌握企业规模和净资产的不断变化过程。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 企业应当分析各项收入、费用的构成及其增减变动情况，通过净资产收益率、每股收益等指标，分析企业的盈利能力和发展能力，了解和掌握当期利润增减变化的原因和未来发展趋势。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 企业应当分析经营活动、投资活动、筹资活动现金流量的运转情况，重点关注现金流量能否保证生产经营过程的正常运行，防止现金短缺或闲置。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 企业定期的分析应当形成分析报告，构成内部报告的组成部分。分析报告结果应当及时传递给企业内部有关管理层级，充分发挥报告在企业生产经营管理中的重要作用。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

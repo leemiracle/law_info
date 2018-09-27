@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改农经[2006]462号<BR>&nbsp;&nbsp;【发布日期】2006-03-20<BR>&nbsp;&nbsp;【生效日期】2006-03-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20060411_65796.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于加快推进县级政府支农投资整合工作的通知<br><br></font>(发改农经[2006]462号)</p><br><br><br>各省、自治区、直辖市及计划单列市，新疆生产建设兵团发展改革委：<br>    党中央、国务院高度重视“三农”工作，近年来国家逐年加大了对农业和农村的投入力度。同时，针对当前支农投资管理分散、衔接不够、交叉重复、效率不高等突出问题，中发[2004]1号文件强调，要“按照统一规划、明确分工、统筹安排的要求，整合现有各项支农投资，集中财力，突出重点，提高资金使用效率。”国务院办公厅要求由我委牵头，会同财政部、科技部、水利部、农业部、国家林业局和国务院扶贫办等部门，研究提出具体的落实意见。据此，在会同有关部门和地方调查研究的基础上，我委向国务院上报了《国家发展改革委关于整合政府支农投资的意见和建议的报告》（发改农经[2004]2677号），国务院已批复同意。<br>    按照中发[2005]1号文件提出的要"继续加大国家农业资金投入的整合力度，鼓励以县为单位，通过规划引导、统筹安排、明确职责、项目带动等方式整合投资，提高资金使用效率"的要求，2005年以来，各地区、各有关部门继续就开展政府支农投资整合工作进行积极探索，绝大多数省（区、市）选择了部分县（市）进行县级支农投资整合试点，初步积累了一些经验。总的看，目前各方面都认为对现有支农投资进行必要的协调和整合，方向正确，效果明显，势在必行，必须进一步加大工作力度。中发[2006]1号文件再次指出，要“进一步加大支农资金整合力度，提高资金使用效率。”为贯彻落实中央一系列指示精神，根据各地试点工作进展情况，现将整合政府支农投资试点县（市）名单印发给你们（见附件），并就开展县级投资整合工作提出如下指导性意见：<br>    一、统一思想，提高认识，推进县级支农投资整合工作顺利开展。县域经济是我国经济的重要载体和组成部分。现有的各个渠道的政府支农投资，最终绝大多数都要落实到县里组织实施。各地的实践证明，县级政府在整合支农投资方面是可以有所作为和先行一步的。通过上下联动，有机整合支农投资，可以提高资金使用效益，达到事半功倍的效果。各试点县（市）要充分认识整合支农投资工作的重要性和紧迫性，把它作为提高资金使用效率的有效手段，按照“规划先行、加强衔接，统筹安排、各负其责，形成合力、讲求实效，突出重点、先易后难”的原则，有计划、有步骤地加以推进。试点工作既要保护和发挥好各方面支持“三农”的积极性，又要切实解决投资分散和重复建设等问题。<br>    二、大胆实践，勇于探索，不断总结县级支农投资整合的成功经验。开展县级支农投资整合是一项新事物，既没有可资借鉴的经验，也会遇到与现有规章制度相冲突等诸多体制性障碍，应积极稳步推进。各试点县（市）要充分认识到这项工作的复杂性和艰巨性，妥善处理投资整合工作中出现的矛盾和问题。结合本地实际，整合思路不搞“一刀切”，整合模式提倡多样化，注意创新体制机制，确保试点工作取得实效。对属于同一事项、相同建设内容、不同资金来源的项目，允许试点县（市）按照统一规划，在不改变资金管理渠道和使用方向的前提下，作必要的整合，切实解决分散实施的问题。同时，强化县级政府责任，实行责权挂钩，建立绩效考核和责任追究制度，防止借机随意调整国家计划。我委将会同国务院有关部门密切关注试点县（市）工作进展情况，及时向党中央、国务院反映试点工作中存在的突出问题，切实加强对试点工作的指导和政策扶持，在项目和投资安排上尽可能对试点县（市）予以倾斜，支持和鼓励试点县（市）开展形式多样的试验。各省（区、市）发展改革委及有关部门也要大力支持试点县（市）开展工作，切实加强对试点县（市）的业务指导，在坚持按规划安排项目的原则下，在建设布局和项目管理等方面赋予试点县（市）政府更大的自主权。通过重点扶持，典型示范，总结经验，推进支农投资整合工作顺利开展。<br>    三、规划先行，搭建平台，逐步形成按规划统筹项目、按项目安排资金的机制。一些地方的经验证明，规划是现阶段整合支农投资的一个有力切入点，要在规划指导下，结合各地实际，因地制宜地搭建投资整合的平台。党的十六届五中全会提出了建设社会主义新农村的重大历史任务，这为整合政府支农投资工作提供了难得的历史机遇和理想的平台。各试点县（市）要按照"生产发展、生活宽裕、乡风文明、村容整洁、管理民主"的要求，围绕发展农村生产力、改善农村生产生活条件、提高农村公共服务水平等广大农民最关心、要求最迫切、最容易见效的问题，抓紧制定综合性的新农村建设规划，明确“十一五”乃至今后一个时期县域内新农村建设的总体目标、主要任务和重大项目。在建设规划的框架内，整合各类资源，把交叉重复现象比较突出、各方面反映比较强烈的农田基本建设投资、生态建设、农村小型基础设施投资等作为当前资金整合的重点，将相关项目配套实施，将相关投资统筹使用，努力提高支农资金使用效率，逐步形成按规划统筹项目、按项目安排资金的投资管理新格局，确保新农村建设真正取得成效。<br>    四、明确分工，形成合力，尽快建立县级政府支农投资整合工作机制。各试点县（市）政府要成立由县级党政主要领导任组长的整合支农投资协调小组，发展改革（计划）、财政、审计、监察、农林水利、扶贫及其他涉农投资部门的主要领导同志参加，明确协调小组在支农投资安排中的组织、衔接、协调和监督作用。其主要任务是：审议县级政府支农投资综合性建设规划；依据上级有关部门批准的规划，统筹协调县域内的支农投资建设项目，指导、监督各有关部门支农投资的安排和使用。要切实加强领导，明确部门分工，规范工作程序，加强沟通协调，建立部门间密切配合、共同协商、各负其责、相互制衡的支农投资管理工作机制。<br>    有关试点工作进展情况及存在的问题与政策建议请及时报送我委。<br><br>    附件：整合政府支农投资试点县（市）名单<br><br>中华人民共和国国家发展和改革委员会<br>二○○六年三月二十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监注[2005]493号<BR>&nbsp;&nbsp;【发布日期】2005-10-14<BR>&nbsp;&nbsp;【生效日期】2005-10-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W4244/A64005035.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>生物制品生产工艺过程变更管理技术指导原则<br><br></font>(国食药监注[2005]493号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为规范疫苗研发行为，指导疫苗研究单位科学地开展研究工作，根据《药品管理法》、《药品管理法实施条例》及《药品注册管理办法》，我局组织制定了《预防用疫苗临床前研究技术指导原则》、《生物制品生产工艺过程变更管理技术指导原则》、《联合疫苗临床前和临床研究技术指导原则》、《多肽疫苗生产及质控技术指导原则》、《结合疫苗质量控制和临床研究技术指导原则》和《预防用疫苗临床试验不良反应分级标准指导原则》等6个技术指导原则，现印发给你们，并请转发辖区内各有关单位。<br><br>                                                        国家食品药品监督管理局<br>                                                         二○○五年十月十四日<br><br><br>生物制品生产工艺过程变更管理技术指导原则<br><br>                                    前    言<br><br>    本指导原则适用于已经取得生产文号的生物制品生产过程等发生变更的管理技术指导原则，所指生物制品生产过程变更是指生产者对已获国家药品管理当局批准的生产全过程中的任何过程所进行的任何变动。包括从开始生产至终产品的全过程，及与生产相配套的辅助设施。其中包括原液制备，半成品配制及成品分装等；变更后需重新申报按新药管理的或重新申请生产文号的不包括在此范围之内。<br><br>    本指导原则首先以国家颁布的相关法规及技术指导原则为基础，并应符合国家的相关要求，如国家现行GMP规范要求。<br><br>    一、原则<br>    （一）任何生产过程的改动都是以提高产品的安全性和有效性为基本出发点，在提高或至少不改变最初国家批准产品安全性和有效性的基础上进行相关改进。<br>    （二）拟进行生产过程变更的生产企业应向SFDA提出申请，并递交相关方案和资料，提供证明资料，说明该变更不引起产品质量的内在变化，由SFDA组织专家进行审查并确定变更的类型及应递交的相关材料。<br><br>    二、概述<br>    （一）生产过程变更：根据其对终产品质量的影响，一般分为以下3种情况。<br>    1、变更引起产品内在质量发生改变的，需要按新药申报程序进行申报为I类，请参考《药品注册管理办法》附件4药品补充申请注册事项及申报资料要求；<br>    2、变更可能对产品的安全和有效性有影响的为II 类，需报SFDA审批；<br>    3、一般不影响产品安全性和有效性的为III 类，需报SFDA备案。详见下表。<br><br>                                生产变更分类表<br><br>───────────────────────────────────────<br>                生产变更内容                            类  型<br>───────────────────────────────────────<br>一、主要原辅材料<br>    原料或起始原材料                                      I<br>    培养基或其主要成份                                    II<br>    关键原辅料的来源                                      II<br>    牛血清及胰酶等                                        II<br>二、菌毒种库及细胞库<br>    原始种子库                                            I<br>    主代种子库                                            II<br>    工作种子库                                            III<br>三、生产工艺<br>    减少或增加工艺步骤                                    II<br>    病毒灭活方法变更                                      I<br>    培养时间变更                                          II<br>    分离、纯化方法变更                                    II<br>    参数变更                                              II<br>    缓冲液                                                III<br>    生产规模改变                                          II<br>四、配制<br>    防腐剂                                                II<br>    佐剂（新佐剂除外）                                    II<br>    赋型剂                                                II<br>    稳定剂                                                II<br>    稀释剂（新稀释剂除外）                                III<br>五、成品<br>    检定方法                                              I<br>    质量标准                                              I<br>六、主要生产设备（如消毒、冻干、分装、发酵罐血液制品生产  I<br>    用离心机、压滤机）<br>    一般生产设备                                          II<br>───────────────────────────────────────<br><br>    （二）生产过程变更均应进行相关的技术评价，并应进行验证。<br>    1．原材料或起始原材料 <br>       * 变更理由说明；<br>       * 变更后产品有效成分生物学改变情况的研究数据；<br>       * 变更前、后的有效成分情况的改变、质量标准异同及质量检定报告；<br>       * 至少连续3批中间产品、原液、成品的质量分析报告及质量标准的修订；<br>       * 生产过程中有效成分检测及稳定性的数据。<br><br>    2．培养基主要成份<br>       * 变更前、后的培养基成份改变情况、检测方法及质量标准和检定报告；<br>       * 培养基成份改变对产品有效成分生物学影响的技术数据和验证资料；<br>       * 非BSE牛源地的证明材料。<br><br>    3．菌毒种、细胞株主代种子库<br>       * 种子库制备、分析、检定资料；<br>       * 连续3批产品质量分析资料，包括生产各关键阶段中间品、成品的分析、生物学检测；<br>       * 应进行必要的安全、有效性研究，包括临床试验。<br><br>    4．生产工艺部分变更，如增加、减少分离步骤或由精制改为柱层析 <br>       * 变更原因说明；<br>       * 工艺验证资料；<br>       * 连续3批产品质量分析资料，包括生产各关键阶段中间品及终产品的分析、生物学检测；<br>       * 两种工艺条件下产品主要有效成分生物有效性和质量的比较及稳定性研究；<br>       * 应根据生产工艺变更的具体情况，进行必要的安全、有效性研究，必要时进行临床试验。<br><br>    5．病毒灭活方法变更<br>       * 变更原因说明；<br>       * 病毒灭活验证资料；<br>       * 连续3批产品质量分析资料，包括生产各关键阶段中间品及终产品的分析、生物学检测；<br>       * 根据情况进行适当的临床试验。<br><br>    6．培养时间改变<br>       * 变更原因说明；<br>       * 培养时间的优化研究资料；<br>       * 变更前、后主要有效成分生物学变化的研究；<br>       * 连续3批产品质量分析资料，包括生产各关键阶段中间产品、原液及终产品的分析、检测及稳定性研究资料；<br>       * 根据情况进行适当的临床试验。<br><br>    7．分离、纯化方法的变更<br>       * 变更说明；<br>       * 验证资料；<br>       * 变更前、后主要有效成分生物学变化的研究；<br>       * 变更前、后连续3批产品质量分析资料，包括生产各关键阶段中间产品、原液及终产品的分析、检测及稳定性研究资料；<br>       * 应进行适当的临床试验。<br><br>    8．缓冲液、参数改变；<br>       * 变更原因及变更前后缓冲液组成对比；<br>       * 变更前后主要有效成分生物学变化数据资料；<br>       * 连续3批产品质量分析资料，包括生产各关键阶段中间品及终产品的分析、生物学检测及稳定性研究资料；<br>       * 应进行适当的临床试验。<br><br>    9．生产规模改变（单批10倍以上规模）<br>       * 关键设备、工艺变更后的验证资料；<br>       * 两种生产规模连续3批产品质量分析资料，包括生产各关键阶段中间品及终产品的分析、生物学检测的对比数据；<br>       * 新规模条件下产品质量的稳定性研究；<br>       * 根据情况进行适当的临床试验。<br><br>    10．主要生产设备的变更（如消毒、冻干、分装、发酵罐、血液制品生产用离心机、压滤机）<br>       * 变更原因说明；<br>       * 变更后的设备和工艺验证资料；<br>       * 变更前、后主要技术参数的对比，及变更后的关键指标检测；<br>       * 变更前、后连续3批产品生产与质量分析资料；<br>       * 必要时进行稳定性研究；<br><br>    11．防腐剂、佐剂、辅料；<br>       * 变更原因说明；<br>       * 变更后防腐剂、佐剂、辅料的配制方法及质量标准；<br>       * 变更前、后产品主要有效成分生物有效性的对比研究资料；<br>       * 变更后产品的质量标准；<br>       * 稳定性研究；<br>       * 必要时进行适当的临床试验。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

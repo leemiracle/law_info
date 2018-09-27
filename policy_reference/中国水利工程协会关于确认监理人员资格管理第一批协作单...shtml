@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国水利工程协会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-02-09<BR>&nbsp;&nbsp;【生效日期】2006-02-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mwr.gov.cn/index/20060210/64920.asp" target=_blank>水利部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国水利工程协会关于确认监理人员资格管理第一批协作单位并请做好有关工作的通知</font></p><br> <br><br>部直属各有关单位，各流域机构，各省、自治区、直辖市水利（水务）厅（局），新疆生产建设兵团水利局：<br><br>    在各流域机构和省级水行政主管部门的大力支持下，我会确定了第一批33个监理人员资格管理协作单位（名单见附件），协助我会分别开展有关工作区域内的水利工程建设监理人员（以下简称监理人员）资格管理工作。现将有关事宜通知如下：<br><br>    一、换发监理人员证书工作<br><br>    请各协作单位按照我会《关于水利工程建设监理人员资格管理有关问题的通知》（中水协[2005]04号）精神，负责有关工作区域内的监理人员换证材料初审工作，于2006年4月20日之前，将初审合格者的申请材料报送至我会。<br><br>    在办理监理员岗位证书换证时，原监理员岗位证书的有效性须经原发证单位确认，请各协作单位将名单汇总后，到原发证单位取得证明，经确认的原监理员岗位证书，我会予以换发新证书。<br><br>    二、关于监理员资格管理<br><br>    请各流域机构和省级水行政主管部门等原审批监理员资格的单位按水利部《关于将一批改变管理方式的行政审批项目移交到有关行业自律组织（或中介机构）的通知》（水建管[2005]244号）精神，将审批权限移交到有关行业自律组织或中介机构，并将移交情况报我会备案。审批单位应按我会规定的条件审批监理员资格，并发放监理员资格证书，审批结果须报我会备案。证书由我会统一印制、统一编号、加盖我会备案章，并由审批单位加盖我会统一规格的资格管理专用章。<br><br>    三、发展广大监理人员加入协会<br><br>    中国水利工程协会是经国务院批准、在民政部注册、由水利部作为业务主管单位的我国水利工程行业自律管理的社会团体法人。广大会员是我会存在和发展的基础，吸收并团结广大会员共同发展繁荣水利事业是我们的根本任务。协会将在行业自律管理与服务、维护会员的合法权益、联系政府与会员等方面发挥主要作用。<br><br>    根据水利部《关于将一批改变管理方式的行政审批项目移交到有关行业自律组织（或中介机构）的通知》（水建管[2005]244号）精神，监理人员资格管理已经由政府行政审批转变为行业自律管理和服务行为。数万名监理人员是水利工程行业主要的建设力量之一，我会欢迎广大监理人员加入协会，反映诉求，维护自身的合法权益，共同发展水利事业。因此，按行业自律要求，并参照国内外行业自律组织的资格管理情况，欢迎监理人员换发我会证书时自愿加入我会，成为我会个人会员，遵守我会《章程》，接受自律管理。请各协作单位做好有关问题解释工作，并协助我会发展会员。我会将为广大会员提供良好的服务。<br><br>    考虑历史原因和我会担负的有关行业自律管理职责，对未申请加入我会，符合我会规定换证条件者，也可换发我会证书。另外，无水利工程建设监理工程师资格证书，但持有水利部发放的水利工程建设监理工程师岗位证书者，本次也可凭岗位证书申请换发资格证书。<br><br>    四、2006年监理工程师资格考试预报名工作<br><br>    根据我会工作安排，全国水利工程建设监理工程师资格考试初步定于2006年上半年举行。考试科目初步确定为：水利工程建设监理基础知识及相关法规、建设项目合同管理、建设项目目标控制及案例分析等四科。报考条件初步确定为：<br><br>    1、取得工程类及相关中级专业技术职务任职资格，或者具有工程类及相关专业的学习工作经历（大专毕业且工作8年以上、本科毕业且工作5年以上、硕士研究生毕业且工作3年以上）；<br><br>    2、年龄不超过60周岁；<br><br>    3、有一定的专业技术水平、组织协调能力和管理能力。<br><br>    请各协作单位根据以上条件，对本工作区域内拟参加2006年度全国水利工程建设监理工程师资格考试的人数进行摸底，并于2006年3月15日前，将预报名总人数报至我会。<br><br>    五、2006年监理人员培训工作<br><br>    培训是提高监理人员工作水平的主要手段之一，我会将努力做好培训管理工作，规范培训行为，为会员做好服务。为此，我会将组织开展“全国水利工程建设总监理工程师岗位资格培训”、“全国水利工程建设监理工程师考前知识培训”和“全国水利工程建设监理员资格培训”。我会负责认定培训机构和授课教师资格，并统一调配培训机构和授课教师资源；各协作单位负责拟定本工作区域内的年度培训计划和具体培训工作方案。培训工作方案经我会研究批准后，由各协作单位商培训机构组织实施。培训人员经考核合格后，由我会统一颁发培训证书。持有培训证书是申请总监理工程师和监理员相应资格的必要条件。<br><br>    我会将于近期认定并公布一批培训机构和授课教师名单，并公布培训系列课程设置等。请各协作单位制订2006年度本工作区域内各项监理人员培训计划，并于2006年3月15日之前报送至我会。<br><br>联系方式如下：<br><br>联系人：翟伟锋  张雪虎<br><br>电  话：010-63204104<br><br>传  真：010-63204077<br><br>地  址：北京市海淀区复兴路甲1号中国水利工程协会<br><br>邮  编：100038<br><br>网  址：http://www.cwea.com.cn<br><br>邮  箱：zszxh@mwr.gov.cn<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

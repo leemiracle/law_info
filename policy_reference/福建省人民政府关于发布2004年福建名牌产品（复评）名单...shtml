@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政文[2005]272号<BR>&nbsp;&nbsp;【发布日期】2005-07-01<BR>&nbsp;&nbsp;【生效日期】2005-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=11176" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府关于发布2004年福建名牌产品（复评）名单的通知<br><br></font>(闽政文[2005]272号)</p><br><br><br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业：<br><br>    根据福建省名牌产品评价程序，经省名牌产品评定工作委员会对1995年至2000年福建名牌产品的评审，省政府同意雪津牌啤酒等192项产品（具体产品名单见附件）继续授予“福建名牌产品”称号，现予公布。<br><br>附件: 2004年福建名牌产品（复评）名单    <br><br><br>福建省人民政府    <br>二○○五年七月一日<br><br>附件<br><br>2004年福建名牌产品（复评）名单<br><br> <br><br>商标及产品名称                                               企业名称<br><br>雪津牌雪津啤酒                                               福建雪津啤酒有限公司<br><br>惠泉牌惠泉啤酒                                               福建省燕京惠泉啤酒集团股份有限公司<br><br>清源牌清源啤酒                                               福建泉州清源啤酒朝日有限公司<br><br>七匹狼牌茄克休闲装                                        福建七匹狼实业股份有限公司<br><br>拼（PIN）牌牛仔裤                                          石狮市拼牌体育用品有限公司<br><br>喜鹊牌毛巾                                                      福建龙岩喜鹊纺织有限公司<br><br>佳丽斯牌床上用品                                            福建佳丽斯家纺有限公司<br><br>南孚牌一次碱性锌锰电池                                 福建南平南孚电池有限公司<br><br>闽牌PU革基布                                                 福建南纺股份有限公司<br><br>三角梅牌拉舍尔毛毯                                        福建省漳州市毛纺织印染总厂<br><br>星光牌新闻纸                                                   福建省南纸股份有限公司<br><br>青山牌80g/m+2普通纸袋纸                              福建省青山纸业股份有限公司<br><br>双轮牌聚乙烯醇                                               福建省纺织化纤集团有限公司<br><br>白玉兰牌白砂糖                                               福建糖业股份有限公司<br><br>安乐、安尔乐牌卫生巾（卫生护垫）                     福建恒安集团有限公司<br><br>凤山牌铁观音乌龙茶                                        福建省安溪茶厂有限公司<br><br>罗星塔牌味精                                                   福州富成味精食品有限公司<br><br>罗星塔牌针织专用纱                                        福建嘉达纺织股份有限公司<br><br>PEAK匹克牌运动鞋                                          福建泉州匹克（集团）公司<br><br>SunRoll牌运动鞋                                              福建省莆田三路鞋业有限公司<br><br>福日、FoRy彩色电视接收机                             福建福日电视机有限公司<br><br>XOCECO厦华、PRIMA牌彩色电视机                   厦门华侨电子股份有限公司<br><br>鹭岛牌CL、CBB系列薄膜电容器                           厦门法拉电子股份有限公司<br><br>浪升（LS）牌关节轴承                                    福建龙溪轴承股份有限公司<br><br>莆江牌摩托车制动蹄块、制动器                            莆田市精密铸锻有限公司<br><br>厦工机械牌装载机                                            厦门工程机械股份有限公司<br><br>榕树牌工业氯酸钾                                            福州一化化学品股份有限公司<br><br>斑竹牌电石                                                      福建石化集团三明化工有限责任公司<br><br>双莲牌聚氯乙烯树脂                                        福建省东南电化股份有限公司<br><br>金环牌盐酸金霉素                                            福建省福抗药业股份有限公司<br><br>星鲨牌维生素鱼肝油制剂                                 厦门鱼肝油厂<br><br>片仔癀牌片仔癀                                               漳州片仔癀药业股份公司<br><br>闽铝牌铝合金建筑型材                                     福建省南平铝业有限公司<br><br>福人牌中密度纤维板                                        福建福人木业有限公司<br><br>福耀/FY牌汽车玻璃                                         福耀玻璃工业集团股份有限公司<br><br>建福牌、炼石牌42.5、32.5R普通硅酸盐水泥        福建水泥股份有限公司<br><br>岩城牌P.O42.5R普通硅酸盐水泥                           福建大田县岩城水泥有限责任公司<br><br>武夷牌P.O32.5、P.O42.5R普通硅酸盐水泥            福建南平水泥股份有限公司<br><br>斑竹牌尿素                                                      福建石化集团三明化工有限责任公司<br><br>（图形商标）钢筋混凝土用热轧带肋钢筋              福建省三钢(集团)有限责任公司<br><br>“CSC”中钢牌无扭控冷热轧盘条                         中国国际钢铁制品有限公司<br><br>榕树牌发泡剂ADC（偶氮二甲酰胺）                    福州一化化学品股份有限公司<br><br>东宝牌鞋用胶水系列产品                                 福州东宝树脂有限公司<br><br>RB榕树牌电力变压器（63KVA、110KV及以下容量）、FK福开牌开关设备（35KV及以下电压）         福州天宇电气股份有限公司<br><br>宝圈牌腈纶本色纱                                            福建经纬集团有限公司<br><br>鼎炉牌中成药（新癀片、八宝丹、六味地黄丸、海珠喘息定片、芪枣冲剂、珠珀惊风散等）              厦门中药厂有限公司<br><br>宝鹭牌食用调和油                                            厦门中鹭植物油有限公司<br><br>才子牌衬衫                                                      福建才子集团有限公司<br><br>正新牌机动车轮胎                                            厦门正新橡胶工业有限公司<br><br>富贵鸟牌皮鞋                                                   福建石狮市福林鞋业有限公司<br><br>金鹿牌家庭卫生杀虫用品                                 福建省金鹿日化股份有限公司<br><br>柒牌SEVEN茄克衫、T恤衫、休闲服                    福建柒牌集团有限公司<br><br>闽发牌铝型材                                                   福建闽发铝业有限公司<br><br>利郎牌西服                                                      利郎(福建)时装有限公司<br><br>龙净牌BE型电除尘器                                      福建龙净环保股份有限公司<br><br>龙马牌农用运输车                                            龙岩市龙马机械制造有限公司<br><br>白菜牌农药（乐果、氧乐果、三唑磷、草甘膦）           福建省三农集团股份有限公司<br><br>双福牌纯碱系列产品                                        福州耀隆化工集团公司<br><br>中福牌水表                                                      福州水表厂<br><br>大昌牌鳗鱼系列饲料                                        福州大昌盛饲料有限公司<br><br>福马牌圆盘缝合机                                            福建革新机器厂<br><br>闽东牌中小型电机                                            闽东电机（集团）股份有限公司<br><br>日阳牌一体化输出变压器(FBT)                         福建福日电子配件有限公司<br><br>金鹭牌仲钨酸铵、蓝色氧化钨、三氧化钨              厦门钨业股份有限公司<br><br>海堤牌福建乌龙茶                                            厦门茶叶进出口有限公司<br><br>翔鹭牌聚酯纤维                                               厦门翔鹭化纤股份有限公司<br><br>三圈牌电池                                                      厦门三圈日化有限公司<br><br>FUN牌牛仔、休闲服装                                    厦门奋发（FUN）企业有限公司<br><br>水仙牌风油精                                                   福建青山漳州香料有限公司<br><br>荣昌牌高频电阻焊铜线                                     漳州市龙文荣昌企业发展有限公司<br><br>红旗马、HONGQIMA牌针织横机系列产品            福建红旗股份有限公司<br><br>万利达牌、malata牌激光视盘机                             万利达集团有限公司<br><br>Bolina                                                               Italiana航标牌卫生陶瓷漳州万佳陶瓷工业有限公司<br><br>BOLIN牌釉面砖                                               漳州莱威尔陶瓷有限公司<br><br>力佳牌柴油机                                                   福建力佳股份有限公司<br><br>闽南及图牌墙地砖                                            福建闽南集团有限公司<br><br>劲霸牌茄克衫                                                   福建劲霸时装有限公司<br><br>SBS牌拉链                                                       福建浔兴拉链科技股份有限公司<br><br>“XISHI及图”溪石牌石材                              福建溪石集团有限公司<br><br>Laike莱克牌901系列汽车合成制动液                    福建莱克石化有限公司<br><br>闽光牌低碳钢热轧圆盘条                                 福建省三钢(集团)有限责任公司<br><br>双轮牌轮胎定型硫化机                                     福建华橡自控技术股份有限公司<br><br>Good Fellow（金威世家）牌西服                           金威服装（福建）有限公司<br><br>ND牌水轮发电机组                                          福建九州南平电机厂<br><br>麒麟牌P.O32.5R普通硅酸盐水泥                           福建麒麟股份有限公司<br><br>平川牌脂松香、合成樟脑                                 福建省武平县绿洲林化有限公司<br><br>WONDER万德牌水泵                                       福建万达电机有限公司<br><br>亚通牌建筑排水用硬聚氯乙烯管材（件）、给水用硬聚氯乙烯管材管件、建筑用绝缘电工套及配件            福州亚通新材料科技股份有限公司<br><br>金旅牌客车                                                      厦门金龙旅行车有限公司<br><br>华联牌红外空调遥控控制器                              厦门华联电子有限公司<br><br>惠尔康牌牛奶花生、花生牛奶                          厦门惠尔康集团有限公司<br><br>银鹭牌八宝粥                                                   厦门银鹭食品有限公司<br><br>古龙牌香菇肉酱罐头、香菇猪脚腿罐头、红烧猪肉罐头、香焖花生罐头           厦门罐头厂<br><br>龙工牌轮式装载机                                            福建龙岩工程机械（集团）有限公司<br><br>百花牌醇酸类、氨基类油漆                              福建百花化学股份有限公司<br><br>紫金牌P.O32.5R、P.O42.5R普通硅酸盐水泥          福建省龙岩紫金水泥有限公司<br><br>Wanan牌热固体粉末涂料                                  漳州市万安实业有限公司<br><br>三重牌振动压路机                                            厦工集团三明重型机器有限公司<br><br>飞捷牌圆锥滚子轴承                                        福建省永安轴承有限责任公司<br><br>南亚牌镇流器、触发器                                     福建源光亚明电器有限公司<br><br>施豪牌饲用金霉素                                            浦城正大生化有限公司<br><br>东鼎牌JYT-0.6系列家用液化石油气调压器            福建省东鼎燃具集团公司<br><br>WONDER牌小型电动机                                   福建万达电机有限公司<br><br>ABLE牌中小型电动机                                      福安市闽东安波电器有限公司<br><br>KAIJIELI凯捷利牌中小型电机                          福建闽东德丰电机有限公司<br><br>天广牌室内消防栓                                            福建省天广消防器材有限公司<br><br>FFF牌尼龙、注塑拉链                                     晋江福兴拉链有限公司<br><br>AP恒达牌文化用品、日历精品系列                       福建恒达集团有限公司<br><br>双塔牌99%味精                                               泉州中侨（集团）股份有限公司味精厂<br><br>FK牌带座外球面球轴承                                   福建省南安轴承有限公司<br><br>三燕牌陶瓷彩釉墙地砖                                     福建省燕山集团有限公司<br><br>ZHONG YU+图形牌脸盆混合龙头、浴缸混合龙头         福建省中宇集团公司<br><br>EUPA牌电熨斗、咖啡壶、煎烤器、电热锅            厦门灿坤实业股份有限公司<br><br>石狮牌卷烟                                                      厦门卷烟厂<br><br>金鹭牌钨粉、碳化钨粉                                     厦门金鹭特种合金有限公司<br><br>小黑子牌活性纯水(纯净水)                               福建省新中亚食品有限公司<br><br>百联牌休闲食品（瓜子、香而酥花生等）              福州百联实业有限公司<br><br>飞毛腿SCVD牌锂离子充电电池、电池充电器       飞毛腿（福建）电子有限公司<br><br>“JCC”“钜全”牌汽车、摩托车用铝合金活塞      福州钜全汽车配件有限公司<br><br>榕青牌卡那霉素系列产品                                 福州福兴医药有限公司<br><br>金得利牌首饰模具                                            福州金得利首饰模具有限公司<br><br>振云牌塑料光(电)缆用护管、建筑排水用硬聚氯乙烯管材(件)             福建振云塑业股份有限公司<br><br>铙山牌17g/m+2拷贝纸                                     福建铙山纸业集团有限公司<br><br>岩花牌工业炸药、导火索                                 福建永安化工厂<br><br>企鹅牌胶合板永安林业（集团）股份有限公司       三明人造板厂<br><br>Dy牌活塞环                                                     福建东亚机械有限公司<br><br>新威（SUNWAy）牌电子计算器                             福建省新威电子工业有限公司<br><br>富宝牌尿素                                                      福建省顺昌富宝实业有限公司<br><br>常溪牌硝酸铵                                                   福建省邵武化肥厂<br><br>舒爽、好舒爽牌妇用卫生巾                              福建省恒利集团有限公司<br><br>福炼牌汽油、轻柴油、煤油、3号喷气燃料            福建炼油化工有限公司<br><br>HY牌天然花岗石、大理石普型和异型石材            晋江华洋石材工艺有限公司<br><br>宏发牌方便面                                                   宏发集团（中国）有限公司<br><br>海新牌配合饲料                                               漳州市海新饲料有限公司<br><br>KELONG科华牌不间断电源                             漳州科华通信电源有限公司<br><br>七匹狼牌卷香烟                                               龙岩卷烟厂<br><br>AOC牌彩色显示器                                           冠捷电子（福建）有限公司<br><br>民天牌酱油、鱼露、香醋                                 福州民天集团有限公司<br><br>龙旺牌冰淇淋、雪糕                                        福建龙旺食品饮料有限公司<br><br>元洪牌面粉                                                      元洪面粉食品（福建）有限公司<br><br>新代牌、西瓜太郎牌学生文具                          福建新代实业有限公司<br><br>REIDA牌石英钟、表                                        福州瑞达电子有限公司<br><br>TOPSTAR牌紧凑型荧光灯                               厦门通士达照明有限公司<br><br>帮登牌中、小童鞋                                            福建省南安市帮登鞋业有限公司<br><br>宏发牌花岗岩石板材、异型装饰石材                     福建省宏发集团公司<br><br>KUOXING牌高级仿古、仿石艺术瓷砖                   晋江前兴陶瓷有限公司<br><br>华鸿牌瓷砖                                                      福建省华泰集团有限公司<br><br>金冠牌糖果、果冻                                            福建金冠集团有限公司<br><br>CONGLI（聪丽）牌微型收录放音机                      华达集团（福建）有限公司<br><br>金山牌石材磨具                                               泉州金山石材工具科技有限公司<br><br>福康牌高耐热陶瓷煲                                        福建冠福现代家用股份有限公司<br><br>亚南牌发电机                                                   福建福安闽东亚南电机有限公司<br><br>龙江牌油漆                                                      福建省腾龙工业公司<br><br>皇家马车牌床上用品                                        漳浦县鸿运纺织制品有限公司<br><br>洪洋牌万能胶、白乳胶                                     莆田市三江化学工业有限公司<br><br>黄华山牌白酒                                                   福建省建瓯黄华山酿酒有限公司<br><br>太阳牌电线电缆                                               福建南平太阳电缆股份有限公司<br><br>嘉联牌白炭黑                                                   福建省南平市嘉联化工有限公司<br><br>金鸽牌白色硅酸盐水泥                                     福建省武平县金鸽白水泥有限公司<br><br>乘风牌卷烟                                                      龙岩卷烟厂<br><br>一支花牌尿素                                                   永安智胜化工有限公司<br><br>茶口牌粉干                                                      闽清县茶口粉干厂<br><br>冠豸牌红心地瓜干                                            福建省连城红心地瓜干（集团）有限公司<br><br>圣龙牌、咪咪笑牌、白土佳牌、渝家仔牌龙岩咸酥花生              福建省龙岩咸酥花生加工集团<br><br>锦溪牌官溪蜜柚                                               福建锦溪集团有限公司<br><br>安溪铁观音牌安溪铁观音                                 安溪县茶业总公司<br><br>建宁通心白莲牌建莲（建宁白莲）                         福建省建宁县莲业集团<br><br>现龙牌海带结、海带丝                                     福建省连江县官坞海洋开发有限公司<br><br>光阳牌松花皮蛋                                               福清市阳光食品有限公司<br><br>远山、河田牌河田鸡                                        福建省长汀县远山河田鸡发展有限公司<br><br>武夷牌、添香牌建瓯锥栗                                 建瓯市锥栗协会<br><br>官井洋牌大黄鱼                                               福建省宁德市水产技术推广站试验场<br><br>绿喜牌南安福眼                                               南安市农业产业化投资经营有限责任公司<br><br>澳都牌宁德二都蚶                                            宁德市海洋水产开发有限公司<br><br>长富乳业牌长富牛奶                                        福建长富乳业集团股份有限公司<br><br>天宝牌香蕉                                                      漳州市芗城区天宝企业供销公司<br><br>诏安红星牌青梅                                               诏安县红星乡青梅技术研究会<br><br>闽榄牌咸橄榄、蜜饯                                        福建省闽侯县振园实业有限公司<br><br>吉乐牌古田油奈                                               古田县国有综合农场<br><br>鞠岭牌天山绿茶                                               福建省宁德市茶叶公司<br><br>陵岛牌白芦笋                                                   福建省东山县华远食品有限公司<br><br>大乘牌纯牛奶                                                   福建大乘乳业股份有限公司<br><br>爽得霸牌无铅松花皮蛋                                     仙游大老古食品有限公司<br><br>大家发牌无铅松花皮蛋                                     福建仙游中源食品有限公司<br><br>沙阳牌板鸭                                                      福建省沙县鸭业股份总公司<br><br>仙峰牌大田肉兔                                               大田县兔业开发技术服务中心<br><br>天河牌竹凉席                                                   福建省沙县青竹集团有限公司<br><br>金瓯牌水煮笋罐头                                            建瓯市水煮笋同业公会<br><br>海威牌速冻鱼丸                                               福州百洋海味食品有限公司<br><br>QIXIANG牌冷冻烤鳗                                       福清齐翔食品有限公司<br><br>海威牌虾皮                                                      福州百洋海味食品有限公司<br><br> <br><br>说明:未予公布的1995至2000年福建名牌产品其“福建名牌产品”称号自动失效。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

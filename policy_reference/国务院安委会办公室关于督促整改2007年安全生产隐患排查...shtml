@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办〔2008〕5号<BR>&nbsp;&nbsp;【发布日期】2008-02-19<BR>&nbsp;&nbsp;【生效日期】2008-02-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-02/20/content_273859.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于督促整改2007年安全生产隐患排查治理专项行动中查出的重大隐患的通知<br><br></font>(安委办〔2008〕5号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产委员会办公室：<br><br><br>    2007年5月至12月，各地区按照《国务院办公厅关于在重点行业和领域开展安全生产隐患排查治理专项行动的通知》（国办发明电〔2007〕16号）及国务院安委会办公室四个指导意见的要求，在工矿商贸企业和交通运输、渔业、农机、水利、人员密集场所等20类行业领域，开展了隐患排查治理专项行动，排查和整改了一大批事故隐患。但截至2007年底，全国范围内查出的重大隐患中仍有1万余项尚未得到整改（见附件1）。为继续认真做好重大隐患整改工作，及时彻底消除已查出但尚未整改的重大隐患，确保安全生产，现提出如下要求： <br><br>    一、加大对重大隐患的整治力度。对目前尚未整改完毕的重大隐患，各地区、各部门、各单位要抓紧整改，凡能在短期内整改的，务必在3月底前整改销号；暂时难以整改完毕的，要落实责任、措施、资金、时间、预案等，确保做到“五落实”，限期整改到位。对正在整改过程中的隐患，必须加强监控监测，严防发生事故。 <br><br>    二、加强重大隐患整改跟踪督办工作。各地区、各部门负有安全生产监管监察职责的机构，要加强对本辖区内重大隐患整改情况的跟踪督办，及时掌握重大隐患的整改销号情况，实行重大隐患登记、整改、销号的全过程管理和督办制度，盯住不放，一抓到底，直至彻底根治销号。对整改进度缓慢的地区和单位，要进行重点督促检查，督促加大整改力度，确保隐患及时得到消除。对于逾期整改不到位或整改无望的，要坚决予以关闭，并在媒体上公开曝光。 <br><br>    三、各省级安委会办公室要做好重大隐患整改情况的信息统计报送工作，对2007年安全生产隐患排查治理专项行动中查出、但尚未整改的重大隐患整改情况进行调度统计，建立重大隐患整改信息数据库。各省级安委会办公室要在4月3日前将附件1中所列重大隐患的整改治理情况上报国务院安委会办公室（具体报送要求见附件2）。 <br><br>    附件：1.各地区2007年“专项行动”中尚未整改的重大隐患情况表 <br><br>          2.2007年“专项行动”中尚未整改的重大隐患整改情况报表 <br><br>    二○○八年二月十九日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

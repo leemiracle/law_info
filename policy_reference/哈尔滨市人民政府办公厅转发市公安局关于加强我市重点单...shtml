@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈政办综〔2003〕31号<BR>&nbsp;&nbsp;【发布日期】2003-05-29<BR>&nbsp;&nbsp;【生效日期】2003-05-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=468" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>哈尔滨市人民政府办公厅转发市公安局关于加强我市重点单位重要部门计算机信息系统安全管理工作的意见的通知<br><br></font>(哈政办综〔2003〕31号)</p><br><br> <br>    各区、县（市）人民政府，市政府各委、办、局，中直、省属在哈单位：? <br><br>    经市政府同意，现将市公安局《关于加强我市重点单位重要部门计算机信息系统安全管理工作的意见》转发给你们，请结合实际，认真贯彻执行。 <br><br>    二00三年五月二十九日 <br><br><br>     关于加强我市重点单位重要部门计算机信息系统安全管理工作的意见 <br><br>    市公安局 <br><br>    (2003年5月29日)<br><br><br>    近年来，随着计算机技术的迅猛发展及社会信息化需求的不断增加，计算机应用逐渐扩展到了各个技术领域和社会生活的方方面面，我市各重点单位、重要部门也相继建立了自己的计算机信息系统，有的还接入互联网，从事政务和经济活动，对于提高工作效率、推行政务公开、促进经济和社会快速发展起到了积极的推动作用。但我市一些重点单位和重要部门仍存在着重建设、轻管理，重应用、轻安全，计算机网络遭受“黑客”攻击、病毒破坏等问题。为切实加强我市重点单位、重要部门计算机信息系统安全保护工作，有效防范和打击计算机系统恶性事故和违法犯罪活动，规范管理秩序，根据国家和省有关规定，结合我市实际，特提出如下意见：? <br><br>    一、加强对计算机信息系统安全管理工作的组织领导。    计算机信息系统安全保护工作是一项系统工程，做好此项工作，必须坚持“统一领导，分工负责”的工作方针，充分发挥各有关部门的作用，形成齐抓共管局面。要将计算机信息系统安全保护工作纳入全市信息化建设总体规划并同步实施，从战略上构筑我市计算机信息系统安全的整体框架。公安机关要切实发挥计算机信息系统安全管理监察职能作用，在各级党委和政府的领导下，积极会同发展计划、财政、信息产业、保密、国家安全等有关部门，统一规划、协调好计算机信息系统安全保护工作。各重点单位、重要部门要高度重视计算机信息系统安全工作，切实加强领导，纳入重要日程，并按照“谁主管、谁负责”的原则，层层落实责任，配合公安机关做好本部门、本单位及下属单位的计算机安全管理工作。? <br><br>    二、加强计算机信息系统安全报警处警联动机制建设。    根据公安部、省公安厅的要求，尽快设立市计算机信息系统安全报警处置中心，即“网络110”，通过构建覆盖全市重点单位、重要部门计算机信息网络的安全监控系统，实现对重要信息网络运行状态的实时监控，同时接受各应用单位对“黑客”攻击入侵、病毒破坏、利用计算机网络违法犯罪及其他危害网络安全事件的报警和处警工作，及时发现和查处危害系统安全的事件，有效预防和打击计算机违法犯罪活动。各重点单位、重要部门要依法认真履行计算机信息系统安全保护义务，积极支持和配合公安机关的工作，投入必要的人员、设备，建立安全报警系统，建立健全与公安机关的联动制度，保证计算机信息系统安全。? <br><br>    三、加强内部计算机系统安全保护机构建设。    各重点单位、重要部门要依法建立健全单位内部计算机信息系统安全保护组织机构，由保卫、科技、保密、人事等相关职能部门组成，主管领导统一指挥协调，并指定专人作为计算机安全管理人员，具体负责单位内部计算机信息系统安全保护工作。各部门、各单位的计算机安全管理人员需经公安机关培训、考试合格后，方可上岗。? <br><br>    四、加强内部信息网络安全管理制度建设。    各重点单位、重要部门要按照“谁使用，谁主管，谁负责”的原则，根据本单位信息网络的规模、特点和信息的重要程度，建立健全计算机用户管理、电子邮箱管理、日志留存、重要数据备份、网上信息发布审核、上网备案、病毒防治、磁介质管理、用户身份认证和公用账户管理等各项制度，落实责任，严格考核，消除单位内部人为安全隐患。? <br><br>    五、加强计算机信息系统安全技术防范工作。    各重点单位、重要部门在重要系统、机房建设前，要组织专家对系统的安全性进行评估和论证，并将设计方案报公安机关审核，将系统、机房的安全风险降到最低程度。要加大对计算机信息系统安全专用产品的投入，不得使用未经公安机关检测合格的安全产品；配置与计算机系统规模相适应的计算机病毒防治工具软件，开展经常性的计算机病毒检测；采用防火墙技术措施，防止对计算机信息系统的非法入侵和破坏，凡接入互联网的计算机系统应采取对有害信息的屏蔽、过滤措施，防止危害国家安全、宣传邪教、封建迷信以及色情淫秽等有害信息的传播，保证重要计算机信息系统的实体安全、运行安全和信息安全。? <br><br>    六、加强计算机信息系统安全宣传教育工作。    各重点单位、重要部门要配合公安机关做好对计算机信息系统安全知识的宣传教育，认真组织学习国家和省有关计算机系统安全保护的法律法规及安全技术知识，增强计算机信息系统管理、开发、建设、使用人员的法制观念和安全意识。要积极组织计算机信息系统管理人员、重点岗位操作人员参加公安机关的安全教育培训，进一步提高安全技能，更好地保护本单位计算机信息系统的安全。? <br><br>    七、加强计算机信息系统安全监察工作。    公安机关要加大对重点单位、重要部门计算机信息系统安全保护工作的监督、检查和指导工作力度，督促各应用单位落实安全防范技术措施；运用专门工具对重要计算机系统开展不定期安全检测，对发现的安全漏洞，及时督促整改；加强对安全专用产品的监督检查，依法严厉打击制造、销售伪劣安全专用产品行为；及时预警计算机病毒疫情，定期通报信息系统安全隐患。各重点单位、重要部门要自觉接受公安机关的监督指导，主动建立与公安机关公共信息网络安全监察部门的联系制度，及时通报本单位信息系统安全状况；对发生在本单位的计算机违法犯罪案件和危害计算机系统的安全事故，应在24小时内报告公安机关，并积极协助公安机关做好调查处理工作。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

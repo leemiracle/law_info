@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省教育厅、福建省发展和改革委员会、福建省科技厅、福建省人事厅、福建省海洋与渔业局、福建省科协<BR>&nbsp;&nbsp;【发布文号】闽教高〔2007〕108号<BR>&nbsp;&nbsp;【发布日期】2007-09-11<BR>&nbsp;&nbsp;【生效日期】2007-09-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200709/t20070918_34182.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省教育厅、福建省发展和改革委员会、福建省科技厅、福建省人事厅、福建省海洋与渔业局、福建省科协关于加强海洋学科高等教育和人才队伍建设的实施意见<br><br></font>(闽教高〔2007〕108号)</p><br> <br><br>各设区市教育局、发展和改革委员会、科学技术局、人事局、海洋与渔业局、科学技术协会，各有关高校、科研院所：<br><br>    根据省委办公厅、省政府办公厅《关于认真做好加快建设海洋经济强省的若干意见分解承办抓落实的通知》（闽委办[2007]4号）精神,结合我省高校办学实际，现就加强我省海洋学科高等教育及海洋类人才队伍建设，提出如下具体实施意见。<br><br>    一、充分认识加强我省海洋学科高等教育和人才队伍建设的重要性和紧迫性<br><br>    大力发展海洋经济，推进海洋资源大省向海洋经济强省的转变，是我省立足科学发展，顺应世界经济发展趋势，抓好用好发展机遇，加快建设海峡西岸经济区的一项战略举措。省十届人大第五次会议批准的《福建省建设海峡西岸经济区纲要》明确提出，要大力发展海洋经济，科学规划海洋产业布局，综合协调各类海洋资源开发，逐步形成海岸带、海岛、近海、远洋等多层次的海洋开发格局；要加快与海洋密切相关产业的发展，力争在海洋生物工程、海洋能、海水淡化及综合利用等领域有重大突破；要以海洋生物工程、海洋能、海洋工程、海水综合利用为重点，加快重大项目建设，不断推进海洋经济强省建设。在各级政府及有关部门的重视支持下，我省海洋类学科专业已有一定的办学基础。我省国家海洋局第三海洋研究所、厦门大学、集美大学有海洋化学、海洋生物学、船舶与海洋结构物设计制造、轮机工程、微生物学等博士点7个、硕士点15个，在校博士研究生41人、硕士研究生161人；厦门大学、集美大学有海洋科学、海洋技术、海洋渔业科学与技术、航海技术 、轮机工程、交通运输（国际航运管理方向）等12个本科专业，在校本科生3545人；集美大学、厦门海洋职业技术学院、福建交通职业技术学院有船舶驾驶、轮机工程管理、国际航运业务管理、船舶检验（船舶修造方向）、船舶检验（游艇制造方向）、报关与国际货运等18个高职高专专业，在校高职高专学生2635人。但是，我们必须清醒地认识到，我省海洋学科高等教育还不适应海洋经济强省建设的需要，专业结构与海洋产业结构发展不相适应，学科专业带头人和中青年骨干教师培养任务相当艰巨，海洋知识和技术创新水平不高，质量保障体系和办学条件不够完善等，直接影响了海洋学科高等教育的健康发展。加快建设海洋经济强省，既对海洋高等教育提出了严峻的挑战，也提供了极好的发展机遇。深化改革，加强建设，努力培养适应海洋产业发展需要的创新型人才、技术型人才和应用型人才，不断提高海洋知识和技术创新水平，已成为建设海洋经济强省对高等教育提出的一项重大战略任务，成为巩固海洋学科高等教育成果，提高为建设海洋经济强省服务水平的一项迫切要求。<br><br>    二、进一步明确加强海洋学科高等教育和人才队伍建设的目标<br><br>    当前，加强海洋学科高等教育和人才队伍建设的目标是，主动适应海峡西岸经济区和建设海洋经济强省的需要，坚持以服务求发展、以贡献求支持，从我省高校的办学实际出发，找准为建设海洋经济强省服务的定位，认真制订好海洋学科高等教育和人才队伍建设规划，明确目标任务和工作重点，在人才培养、科学研究及技术应用开发和社会服务等方面主动融入、主动呼应、主动对接海洋经济发展；结合办学实际，确定一批有基础、有优势、有特色、有发展前景，能直接支持海洋经济发展的重点工作项目，制订具体工作方案，通过重点突破，带动整体，在为建设海洋经济强省服务中发挥示范、辐射和带动作用；加强调研，充分了解和掌握海洋经济发展对各类人才培养提出的新要求，以海洋产业发展趋势和人才市场需求为出发点，进一步明确海洋类专业建设的定位，研究制订好专业建设发展规划，明确目标任务，有计划、有步骤、有重点地开展海洋类专业结构的调整改造和建设发展工作，努力形成与建设海洋经济强省相适应的人才培养结构，加快为海洋经济培养各类高级专门人才和技能人才。争取在“十一五”期间，培养海洋类相关专业博士研究生60人、硕士研究生360人，本科生4800 人，高职高专学生3500人，更好地满足建设海洋经济强省及海峡西岸经济区建设的需要。<br><br>    三、加强海洋学科高等教育和人才队伍建设的政策措施<br><br>    适应我省海洋产业发展对人才培养提出的新形势、新任务，有关高等学校要扩大相关专业办学规模，改革人才培养模式，加强相关学科专业和教师队伍、实验室和海洋科技创新平台建设，提高知识和科技创新水平，加强海洋科普教育，确保完成各项任务。<br><br>    1、根据我省海洋产业的发展需求，扩大相关专业办学规模，确保完成人才培养任务。依托国家海洋局第三海洋研究所、厦门大学、集美大学培养创新型高级人才420人以上，其中博士研究生60人以上，研士研究生360人以上（见附件1）；依托厦门大学、集美大学等高校培养海洋科学、海洋技术、海洋渔业科学与技术、航海技术、轮机工程等本科专业方面的技术型人才4800以上人（见附件2）；依托集美大学、厦门海洋职业技术学院、福建交通职业技术学院培养船舶驾驶、轮机工程管理、国际航运业务管理、船舶检验等专业的应用型人才3500人以上（见附件3）。<br><br>    2、鼓励支持有关高校实施产学结合、校企合作，不断提高人才培养的适应性和针对性。鼓励国家海洋局第三海洋研究所、厦门大学、集美大学、厦门海洋职业技术学院、福建交通职业技术学院等高校与海洋企业合作办学，建立健全校企合作委员会，充分发挥海洋企业的行业优势及学校科技、人才、信息等方面的资源优势，在专业人才培养方案制订、实训实习基地建设、科技项目开发等方面建立长期稳定的合作关系，实现互惠互利、合作共赢。支持海洋企业与相关高校联合建立海洋产业相关专业人才培养基地，实行“定单式”人才培养，培养适应海洋产业发展需要的各类高级专门人才。<br><br>    3、加强海洋科技创新，提高高校服务海洋经济强省建设的能力和水平。支持厦门大学的近海海洋环境科学国家重点实验室、水声通信与海洋信息技术教育部重点实验室、福建省高校海洋生物资源开发与保护重点实验室、福建省高校海洋化学与应用技术重点实验室、厦门市海洋微生物新药工程技术研究中心以及集美大学的福建省高校水产科学技术与食品安全重点实验室等重点实验室和工程研究中心的建设，围绕海洋经济强省建设目标和海洋产业发展需求，构建一批高校海洋科技创新与成果转化平台。鼓励相关高校申报国家、省、市各级各类科研项目，开展科技攻关，形成一批具有自主知识产权的海洋科技创新成果。加强产学研联合工作，鼓励相关高校与企业联合，围绕目前我省海洋产业的热点、难点问题，共建海洋科技共性技术研发平台，充分发挥高校智力和科技资源优势，推广转化高校科技成果，力争在海洋环境保护、海洋资源开发与保护、水产品深加工、良种的培育和引进等技术领域取得新的突破。<br><br>    4、完善政策措施，加强人才队伍建设。加强高层次科技研发人才、工程技术人才、企业管理人才的引进工作；加快培养学科带头人，有效发挥领军人物作用。设立高级人才培养和引进专项基金，鼓励相关高校建立健全人才引进和培养机制，逐步建立一支数量充足、结构合理、素质优良、创新水平较高的人才队伍。支持厦门大学、集美大学从国内外高校或科研院所引进能够进入世界科技创新前沿的专家1-2名，国内知名专家2-3名，培养优秀学科带头人3-7名，引进或培养长江学者1-2名。重视海洋行业管理人才的培养，加大海洋管理人员知识更新的力度。鼓励相关高校根据工作需要，定期或不定期选派研究人员和优秀中青年教师到国内外著名大学和科研院所进行高级访问或进修学习，不断提高海洋产业人才队伍建设水平。<br><br>    5、鼓励支持相关高校与海洋企业签订培养技能人才协议，大力开展以各类海洋产业从业人员为主要对象的岗位培训和再就业培训，扶持发展渔业职业技能培训，不断提高海洋产业从业人员的素质，为海洋产业健康发展提供良好保障。同时，鼓励支持有关高校积极与劳动、人事及海洋产业部门密切合作，在相关专业建立职业技能认证机构，面向社会开展职业技能培训及职业资格认证工作，努力提高专业的社会服务质量和水平。<br><br>    6、加大建设力度，努力改善办学条件。有关高校要根据专业办学的要求，进一步加强师资队伍、实验室、实训实习基地等基本建设，为海洋产业相关专业人才培养提供切实保障。支持集美大学船舶虚拟实验室、先进船舶控制技术实验室等教学实验室的建设，为海洋相关专业人才培养提供重要载体和坚实保障。<br><br>    7、有关高校要加强海洋科普教育，定期发布海洋经济发展及人才培养信息，及时总结和宣传推广各地成功经验，提高公众的海洋意识，形成建设海洋经济强省的良好氛围。<br><br>    附件：1、海洋产业相关专业创新型高级人才培养计划一览表<br><br>    2、海洋产业相关专业技术型人才培养计划一览表<br><br>    3、海洋产业相关专业应用型人才培养计划一览表<br><br>    省教育厅 省发展和改革委员会 省科技厅<br>    省人事厅 省海洋与渔业局 省科协<br>    二○○七年九月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

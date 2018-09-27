@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部办公厅<BR>&nbsp;&nbsp;【发布文号】卫办疾控发[2007]82号<BR>&nbsp;&nbsp;【发布日期】2006-04-30<BR>&nbsp;&nbsp;【生效日期】2006-04-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/18939.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于加强以霍乱为重点的肠道传染病防治工作的通知<br><br></font>(卫办疾控发[2007]82号)</p><br> <br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，中国疾病预防控制中心：<br><br>    近年来，我国霍乱流行特点不断发生变化。在连续三年发病明显下降之后，2005年疫情出现大幅度回升，优势菌型由O139群转变为历史上曾造成大流行的O1群；2006年发病再度下降，优势菌型再度转变为O139群。这说明造成我国霍乱流行的潜在因素依然存在。与此同时，近年来我国部分地区不断发生伤寒、痢疾等肠道传染病暴发疫情，防治形势不容乐观。为进一步加强以霍乱为重点的肠道传染病防治工作，切实保护人民健康，现就有关工作通知如下。<br><br>    一、加强医疗机构感染性疾病科工作，做好传染病预检分诊工作。各医疗机构要坚持肠道门诊制度，在5-10月期间，认真进行腹泻病例的登记和筛检，做好传染病疫情网络直报工作，并严格掌握肠道传染病病例出院标准，防止疫情扩散。<br><br>    二、继续做好肠道传染病的疫情监测工作。要加强对饮食服务从业人员、学校、大中城市中流动人口聚居区、建筑工地等重点地区和人口的疫情监测和管理；加强对海、水产品的采样检测等监测工作。国家级监测点所在地卫生部门要加强组织管理，认真落实各项肠道传染病监测实施方案，及时、准确地掌握全国肠道传染病疫情和流行因素变化趋势。中国疾病预防控制中心要建立和启动全国霍乱监测信息管理系统，并加强对各地信息报告管理工作的技术指导。<br><br>    三、加强肠道传染病的流行病学调查工作。各地疾病预防控制机构要每日审核和分析医疗机构疫情报告情况，一旦发现霍乱病例，要立即进行流行病学调查并实施控制措施。要加强霍乱等肠道传染病暴发疫情的疫源追踪、密切接触者的管理，切实做好疫点、疫区的卫生处理工作。各地要早安排、早部署，做好药品、试剂、疫苗等暴发疫情应急物质准备。<br><br>    四、加大食品卫生执法力度。各级卫生行政部门要认真履行职责，进一步加强对餐饮业、集体食堂等消费环节的卫生监管，防止食物中毒和食源性疾病的发生。要对经营水产品的餐厅（馆）实施重点监督检查，督促餐厅（馆）加强自身管理，严格执行食品卫生制度。各级卫生行政部门要积极与工商行政管理部门配合协作，对无证无照的餐饮摊点，要会同工商部门依法予以取缔。<br><br>    五、做好专业人员培训和考核工作。各地要不断强化对医疗机构及疾病预防控制机构专业人员的肠道传染病防治技术培训。疾病预防控制机构要依法开展对辖区内医疗机构肠道传染病防治工作的指导和考核。<br><br>    六、广泛深入地开展环境卫生整治和健康教育活动。各地要大力开展爱国卫生运动，结合卫生城镇创建工作，进一步加大环境卫生的整治力度，做好改水改厕和垃圾粪便无害化处理。要广泛开展多种形式的健康教育活动，大力提倡健康的饮食和卫生习惯，增强全民的自我保健意识。<br><br>    特此通知。<br><br>二○○六年四月三十日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

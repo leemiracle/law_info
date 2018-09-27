@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局、国家煤矿安监局<BR>&nbsp;&nbsp;【发布文号】安监总煤行〔2007〕167号<BR>&nbsp;&nbsp;【发布日期】2007-08-09<BR>&nbsp;&nbsp;【生效日期】2007-08-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-08/10/content_256738.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局、国家煤矿安监局关于所有煤矿必须立即安装和完善井下通讯、压风、防尘供水系统的紧急通知<br><br></font>(安监总煤行〔2007〕167号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团煤矿安全监管部门和煤炭行业管理部门，各省级煤矿安全监察机构，司法部直属煤矿管理局，神华集团公司、中煤能源集团公司：<br><br>    河南省三门峡市陕县支建煤矿“7.29”淹井事故抢险救灾能够取得成功，有一个重要条件，就是该煤矿井下安装并正常运行着通讯、压风和防尘供水系统（以下简称“三条线”），为被困矿工提供了通讯、通风供氧、输送流食的必要条件。 <br><br>    为进一步提升煤矿安全基础管理水平，促进煤矿安全生产，同时为应对发生事故灾难后给抢险救灾工作创造条件，根据《煤矿安全规程》和《煤矿安全生产基本条件规定》等有关规定，结合各类煤矿管理现状，现就所有煤矿必须立即安装和完善井下“三条线”的有关事项紧急通知如下： <br><br>    一、充分认识安装“三条线”的重要性。煤矿井下“三条线”是煤矿生产调度、安全防护、防尘除尘的重要设施和有效预防煤与瓦斯突出事故、煤尘爆炸事故的重要措施，也是提高煤矿防范抵御事故灾害能力的重要设施，是正常生产的“保障线”，被困矿工的“生命线”。地方各级煤炭行业管理、煤矿安全监管部门和驻地煤矿安全监察机构、各煤矿企业必须提高认识，加强领导，明确责任，采取有效措施，按规定安装“三条线”。 <br><br>    二、必须安装井下通讯系统。煤矿主副井井底车场、运输调度室、变电所、上下山绞车房、水泵房、带式输送机集中控制硐室等主要机电设备硐室和采掘工作面；《年度灾害预防和处理计划》中明确要求的地点等，必须安装通信设施，并能与矿调度室等部门直接联系。 <br><br>    三、必须安装压风系统。所有矿井必须安装压风系统。煤与瓦斯突出矿井按《煤矿安全规程》规定执行。其它矿井根据日常生产需要，结合灾害预防，也必须安装地面压风系统。空气压缩机必须安装在地面。 <br><br>    四、必须安装防尘供水系统。矿井主要大巷、上下山、采区运输巷与回风巷、采掘工作面及巷道、煤仓放煤口、卸载点等都必须按《煤矿安全规程》要求敷设防尘供水管路。 <br><br>    五、必须准确填绘“三条线”系统图。要认真绘制符合井下实际情况的通讯系统图、压风管路系统图和防尘供水管路系统图，并随情况变化及时填绘。图纸应准确地标明井下“三条线”的电话、支管、阀门、避难硐室、洒水点等的具体位置。 <br><br>    六、加快实施工作。已经安装“三条线”的各类煤矿，要对矿井各系统开展一次全面的检查，对查出的问题及时进行整改，确保“三条线”完好、畅通、可靠；尚未安装“三条线”或系统不完善的，应立即由有相应资质的设计、施工单位进行安装和完善，年底前必须完成；新设计的基建、改扩建和资源整合矿井，要将其纳入设计内容之中。 <br><br>    七、加强业务指导。地方各级煤炭行业管理部门具体负责煤矿安装“三条线”的管理工作，要制定“三条线”安装的具体要求和监督检查办法。县级以上煤炭行业管理部门要按照工作关系，组织人员严格按照要求对有关煤矿进行检查，不合要求的，责令矿井立即进行整改。 <br><br>    八、强化监管监察。地方各级煤矿安全监管部门和驻地煤矿安全监察机构要加强对煤矿“三条线”安装情况的监管监察。未开工的基建、改扩建和资源整合矿井没有井下“三条线”安装设计图的，不予进行安全专篇审查，不准进行开工建设；从2008年1月1日起，凡发现煤矿未安装“三条线”的，一律责令停产整顿。 <br><br>    国家有关部门将结合各类煤矿的实际，研究制定、修订“三条线”及相关问题的技术标准，进一步规范“三条线”的安装、使用和管理工作。 <br><br>    请各省级煤炭行业管理部门将本通知及时转发给辖区内各煤矿企业，尽快贯彻落实。    <br><br>    二○○七年八月九日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

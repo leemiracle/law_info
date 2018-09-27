@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2008〕22号<BR>&nbsp;&nbsp;【发布日期】2008-05-01<BR>&nbsp;&nbsp;【生效日期】2008-05-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4371" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅转发省经委等部门关于加快推进全省行业协会改革发展意见的通知<br><br></font>(皖政办〔2008〕22号)</p><br><br> <br>    各市人民政府，省政府各部门、各直属机构：<br>       经省政府同意，现将省经委、省民政厅、省编办《关于加快推进全省行业协会改革发展的意见》转发给你们，请结合实际，认真贯彻落实。<br>    <br>                                            安徽省人民政府办公厅<br>                                             二○○八年五月一日<br>    <br><br>                     关于加快推进全省行业协会改革发展的意见<br>                            省经委 省民政厅 省编办<br>    <br>    为规范和发展各类行业协会，充分发挥其在服务全省经济社会发展中的作用，根据《国务院办公厅关于加快推进行业协会商会改革和发展的若干意见》（国办发〔2007〕36号）精神，现就推进全省行业协会改革发展提出如下意见：<br>    <br>    一、总体要求和基本原则<br>    （一）总体要求。以党的十七大精神为指导，深入贯彻落实科学发展观，按照健全现代市场体系的总体要求，通过理顺关系、强化自律、改进监管、完善政策、加大支持等，推进行业协会规范发展，逐步形成体制完备、结构合理、职责明确、行为规范、法制健全的行业协会体系。<br>    （二）基本原则。一是坚持市场化方向。遵循市场规则，坚持自主办会，维护市场秩序，增强社会公信力和服务能力。二是坚持政会分开。进一步明确行业协会与政府的关系，强化行业协会社团属性，明确界定行业协会职能，改进管理方式，规范监管行为。三是坚持统筹协调发展。做到培育发展和规范管理并重，与政府职能转变相协调，推进行业协会统筹和谐可持续发展。四是坚持规范发展。加快行业协会立法步伐，建立健全规章制度，依法监管，规范运作，实现行业协会依法设立、民主管理、行为规范、自律发展。<br>    <br>    二、主要任务<br>    （一）推进政会分开。<br>    现有行业协会要在职能、机构、人员、资产和财务等方面与政府及其部门彻底脱钩。<br>    1.机构分设。行业协会的办事机构不得与政府机关处室、企事业单位合署办公。合署办公的，要于2008年底前完成机构分设。<br>    2.人员分离。现职公务员不得在行业协会兼任领导职务，确需兼任的要严格按有关规定审批。<br>    3.职能分开。各地、各有关部门要结合行政审批制度改革和新一轮机构改革，进一步转变政府职能，把应由行业协会履行的职能交给行业协会，把宜于行业协会行使的职能明确委托或转移给行业协会。<br>    4.财产分割。行业协会使用的国有资产，应明晰产权归属，按有关规定划归行业协会使用和管理。产权不清晰的，于2008年底前完成资产核实和划分。在资产分割过程中应切实保护行业协会的财产权，保证行业协会应有的办公等基本工作条件。<br>    （二）明确行业协会职能。<br>    1.行业自律职能。贯彻实施法律、法规和规章，制定并组织实施本行业的行规、行约，依法按章开展活动。建立健全各项自律性制度，制定并组织实施行业职业道德准则，规范自身和会员行为，大力推进诚信建设，实现行业内人才、技术的有序流动，反对不正当竞争和行业垄断，维护公平竞争的市场秩序。<br>    2.行业代表职能。适应新形势要求，深入开展行业调查研究，掌握行业发展动态，为行业发展服务。积极向政府及其部门反映会员、行业的诉求，主动参与协调对外贸易争议，维护会员合法权益和行业整体利益。参与研究制定相关法律法规和产业政策，提出本行业立法和政策方面的意见和建议。参与行业标准、发展规划的制订和质量管理监督和行业准入资质的审查。<br>    3.行业服务职能。根据授权进行行业统计，收集、分析、发布行业信息，进行市场预测，开展咨询服务，为会员提供国内外技术经济和市场信息。参与行业资质认证、新技术和新产品鉴定及推广、事故认定相关工作。组织本行业企业开拓国内外市场，受政府委托承办或根据市场和行业发展需要举办交易会、展览会等。依照有关规定创办刊物和网站，发布法律、政策、技术、管理、市场等相关信息。根据行业发展需要，组织开展人才、技术、管理、政策法规等培训，帮助会员企业提高素质、增强创新能力、改善经营管理，提升行业和企业的竞争力。<br>    4.行业协调职能。协调会员之间，会员与其他社会经济组织、个人之间，本行业协会与其他社会组织、个人之间的有关事务。积极扩大行业的对外交往，代表行业与国外商会建立经济、技术和商会间的合作关系，在维护产业利益和支持企业参与国际竞争等方面发挥作用。积极组织业内企业开展国内外经济技术交流和合作，开辟国际市场。积极组织会员企业做好反倾销、反补贴、反垄断和保障措施的应诉、申诉等相关工作，维护正常的进出口经营秩序。在业务主管单位指导下，规范和监督会员企业的对外交往活动。<br>    （三）优化行业协会结构布局。<br>    1.规范现有行业协会。对现有行业协会中行业代表性差、专业权威性低、行业分布不合理、职能交叉重复、没有专职工作人员、不能正常开展活动的行业协会，通过采取注销、合并重组、限期整改等措施，进行清理和规范，提高行业协会的整体素质。<br>    2.大力发展新型行业协会。支持企业较为集中、产品和市场优势明显的行业，组建全省性行业协会。在信息电子、农产品加工、生物技术、物流服务等行业，培育发展新型行业协会组织。<br>    3.优化行业协会布局。各地要根据我省国民经济的行业分布特点和发展趋势，从推动经济结构调整、适应国际竞争的要求出发，制定行业协会发展总体规划，明确行业协会发展的方向、目标、措施与具体实施步骤。<br>    4.扩大行业协会覆盖面。行业协会要广泛吸收业内各类经济组织入会，提高行业协会的代表性。吸收与行业相关的省内外科研院所和具有专业特长或实践经验的专家、学者入会，增强行业协会的专业权威性。<br>    （四）加强行业协会自身建设。<br>    1.健全法人治理结构。行业协会的设立应由行业内企业或业主自主发起并依法取得法人资格。行业协会要健全会员或会员代表大会、理事会制度，认真执行选举制度，按照章程规定的民主程序选举产生行业协会会长（理事长）、副会长（副理事长）。鼓励企业家担任会长（理事长），秘书长可通过选举或向社会公开招聘等方式产生。行业协会要建立健全党的基层组织，并发挥其应有作用。<br>    2.规范收费行为。行业协会要坚持非营利性，不得从事以营利为目的的经营活动。行业协会举办展览会、展销会、培训等有偿服务活动，收费应符合有关规定标准，并遵循公开、公平、合理的原则，向全体会员公示收费依据、标准和收支情况，自觉接受监督。行业协会的经费不能投资企业从事营利活动。<br>    3.健全财务制度。行业协会要根据《民间非营利组织会计制度》建立健全财务管理、财务核算制度，设立专业的财务人员。凡行业协会与政府部门实行会计合账或财务集中管理的，应在与政府部门脱钩时单独建账。行业协会的收支情况要定期向会员代表大会报告并接受其审查。属于财政拨款、政府资助和社会捐款的，要接受审计部门的监督并向社会公开。<br>    4.健全劳动人事制度。行业协会要全面实行劳动合同制度，保障工作人员合法权益。行业协会及其分支机构、代表机构应配备专门工作人员，并参照国家有关规定，对符合条件的工作人员进行职称评定。要建立健全岗位管理制度，完善激励机制，优化人员的年龄、知识结构。<br>    <br>    三、支持行业协会规范健康发展<br>    （一）加大政策扶持力度。各地应将行业协会发展列入国民经济和社会发展规划，形成与全省经济社会发展相适应的行业协会发展体系。各地、各有关部门在制定涉及行业利益的地方性法规、规章、公共政策、行业发展规划及确定相关行业资助项目时，应听取行业协会的意见。建立政府购买行业协会服务的制度，政府委托行业协会提供的服务，可通过“购买”的方式或法律法规允许的方式进行。行业协会承担政府部门授权或委托的职能，相关部门应当为其提供必需的经费等保障。行业协会组织重大公益活动，各级政府可适当给予一定的资金支持。财政、税务部门要制定和落实相关税收优惠政策，指导行业协会规范财务、票据管理，支持行业协会加快发展。鼓励企业等经济组织向行业协会开展公益性慈善捐助。<br>    （二）加强和改进工作指导。行业协会改革发展涉及面广、任务重。各地、各有关部门要结合实际，制订具体的实施办法和配套措施，密切配合，通力协作，把行业协会改革发展的各项任务落到实处。对行业协会改革发展中出现的新情况、新问题，要及时研究，妥善处理。<br>    （三）落实工作责任。经委、民政、编办、发展改革、人事、财政等有关部门要按照统筹规划、分类指导的要求，加强对行业协会改革发展工作的综合协调和统筹管理，并开展立法调研，制订行业协会组建和管理的规定。各行业协会业务主管单位要认真落实相关行业协会改革发展的政策措施，加强对行业协会所涉及的产业发展、行业规范、协会活动等方面的业务指导和监督。民政部门要根据有关规范行业协会的登记管理工作，协同有关部门推进行业协会评估工作，利用登记、年检等管理手段，引导和督促行业协会建立完善的法人治理机制。对行业协会的违法违章行为，要依法严肃查处。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

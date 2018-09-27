@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部办公厅<BR>&nbsp;&nbsp;【发布文号】卫办监督发〔2007〕32号<BR>&nbsp;&nbsp;【发布日期】2007-02-13<BR>&nbsp;&nbsp;【生效日期】2007-02-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/17965.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于开展2007年总膳食研究工作的通知<br>  <br></font>(卫办监督发〔2007〕32号)</p><br><br><br>河北、辽宁、黑龙江、上海、福建、江西、河南、湖北、广西、四川、陕西、宁夏等省、自治区、直辖市卫生厅局，中国疾病预防控制中心：<br>    为贯彻落实《食品安全行动计划》，深入开展食品污染物监测和危险性评估工作，我部委托中国疾病预防控制中心营养与食品安全所组织开展2007年总膳食研究工作，现将《2007年总膳食研究工作方案》（以下简称方案）印发给你们，请认真组织执行。中国疾病预防控制中心营养与食品安全所将组织培训并具体安排计划实施。<br>    联系人：吴永宁<br>    联系电话：83132933<br>    地址：中国疾病预防控制中心营养与食品安全所，北京市朝阳区潘家园南里7号（100021）。<br>    附件：2007年总膳食研究工作方案<br><br>                                   二○○七年二月十三日<br><br><br>附件：<br>2007年总膳食研究工作方案<br><br>    一、总膳食研究基本情况<br>    总膳食研究是世界卫生组织推荐的监测和评价国家或地区人群膳食化学污染物和营养素摄入量的研究方法。我国曾成功开展过三次总膳食研究，研究结果已经成为危险性评估和法规、标准制定的科学依据，被世界卫生组织誉为发展中国家开展总膳食研究的典范。总膳食研究也是卫生部《食品安全行动计划》的重要内容，通过开展总膳食研究，可以监测膳食中化学污染物和营养素含量、人群膳食摄入量，了解其变化趋势和规律，通过对母乳中持久性有机污染物进行监测，研究膳食暴露与机体负荷关系以及婴儿膳食安全性，为开展危险性评估提供科学数据，为制定食品中污染物限量标准和营养素推荐摄入量提供科学依据。<br>    二、工作区域划分<br>    将12个省、自治区、直辖市划分为四个工作区域。其中，黑龙江、辽宁、河北为北方一区，河南、陕西、宁夏为北方二区，上海、福建、江西为南方一区，湖北、四川、广西为南方二区。各工作区按要求开展调查、采样、加工等工作。<br>    三、工作任务<br>    有关省、自治区、直辖市卫生厅局应将总膳食研究工作列为落实《食品安全行动计划》的重要工作，督促本省、自治区、直辖市承担总膳食研究的单位按时完成各项工作。<br>    有关省、自治区、直辖市承担本次总膳食研究的单位要按照《2007年总膳食研究工作手册》要求，在规定时间采集食物样品、烹调加工食物、制备单个及混合样品，并在每一采样点搜集30份母乳，提交中国疾病预防控制中心营养与食品安全所实验室统一进行化学污染物和营养素含量测定。<br>    中国疾病预防控制中心营养与食品安全所负责起草《2007年总膳食研究工作手册》和样品检测工作，结合食物聚类消费量统计全国和各调查省、自治区、直辖市平均人群及不同年龄、性别组人群各种化学污染物和营养素膳食摄入量。监测项目包括：1．污染物：铅、镉、总汞、甲基汞、总砷、无机砷、二英及其类似物、氯丙醇、丙烯酰胺等；2．农药残留：有机氯、有机磷、拟除虫菊酯、氨基甲酸酯、有机锡等杀虫剂以及某些杀菌剂、除草剂；3．霉菌毒素：黄曲霉毒素Ｂ1等；4．常量和微量元素：钠、钾、磷、钙、镁、铁、锌、锰、硒、铜、碘、硼、铬、钼、钒、锂、镍、钴、总脂肪、胆固醇、脂肪酸。<br>    四、时间安排<br>    2007年1－3月：中国疾病预防控制中心营养与食品安全所负责起草《2007年中国总膳食研究工作手册》；<br>    2007年5月：中国疾病预防控制中心营养与食品安全所负责开展总膳食研究培训工作，安排各地开展调查工作；<br>    2007年5－6月：南方一区、南方二区按要求开展工作；<br>    2007年9－10月：北方一区、北方二区按要求开展工作；<br>    2007年12月－2008年12月：中国疾病预防控制中心营养与食品安全所负责样品检测，并进行工作总结。<br>    五、预期结果<br>    通过本次总膳食研究，摸清食品中重要化学污染物污染状况，并以研究数据为基础开展暴露评估工作；摸清我国各种化学污染物膳食摄入量和营养素摄入量，评估我国人群膳食安全性和营养状况，得出我国人群膳食化学污染物和营养素摄入量的变化趋势，同时对高浓度污染物进行污染源溯源，并采取措施控制污染。<br> <br> <br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

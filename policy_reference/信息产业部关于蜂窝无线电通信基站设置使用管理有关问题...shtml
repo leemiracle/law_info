@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】信息产业部<BR>&nbsp;&nbsp;【发布文号】信部无〔2005〕259号<BR>&nbsp;&nbsp;【发布日期】2005-06-15<BR>&nbsp;&nbsp;【生效日期】2005-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mii.gov.cn/Mii/homepage.nsf/documentview/2005-06-15-22-F25CC51AF03416C1482570210022F813?OpenDocument" target=_blank>信息产业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>信息产业部关于蜂窝无线电通信基站设置使用管理有关问题的通知<br><br></font>(信部无〔2005〕259号)</p><br> <br><br>各省、自治区、直辖市无线电管理局、办公室，各相关企事业单位： <br><br>    随着移动通信业务的快速发展，蜂窝无线电通信基站（以下简称基站）数量日益增多，基站管理日趋重要。为了规范设置、使用基站的行为，提高行政效率，减少或避免各种蜂窝无线电通信网络之间，以及基站与其它无线电台（站）、辐射无线电波的非无线电设备之间的无线电干扰，促进蜂窝无线电通信的健康发展，现将基站管理的有关问题通知如下：  <br><br>    一、 本通知所称基站，是指采用蜂窝方式组网的GSM移动通信系统、CDMA移动通信系统、数字集群通信系统、PHS无线接入系统以及采用其他技术体制的无线电通信系统的基站及其室外直放站。基站所使用的频率必须已经国家或省级无线电管理机构批准；使用的发射设备必须具有国家无线电管理机构核发的《无线电发射设备型号核准证》。 <br><br>    二、《中华人民共和国无线电台执照》为基站设置、使用的合法凭证。设置、使用基站的单位应到相关无线电管理机构按季度分批提出书面申请，办理基站设置审批手续，领取无线电台执照，其申请资料应包含以下内容： <br><br>    （一）相关的申请表和技术资料申报表； <br><br>    （二）承诺以下事项： <br><br>    1. 基站的发射频率、发射功率等技术指标符合有关国家标准和无线电管理的有关规定，不会对其他无线电系统造成有害干扰。 <br><br>    2．所使用的发射设备均已获得国家无线电管理机构核发的《无线电发射设备型号核准证》。 <br><br>    基站的设置及其电磁辐射符合国家有关城市规划、环境保护等相关规定。 <br><br>    3. 按规定缴纳频率占用费等无线电管理相关费用。 <br><br>    三、无线电管理机构收到设置、使用基站的申请资料并正式受理后，在20个工作日内（需要进行基站站址、频率等协调工作的时间除外）完成审查。审查合格的，核发《中华人民共和国无线电台执照》；审查不合格的，书面通知申请单位并说明理由。 <br><br>    四、在我国边境（界）地区频率协调区范围内设置、使用基站，还应当遵守国家无线电管理机构与相关国家或地区无线电主管部门签署的有关协议，设置、使用基站的单位应在基站投入使用前三个月，按第二条要求向相关无线电管理机构提出书面申请，办理基站设置审批手续，领取无线电台执照。 <br><br>    无线电管理机构受理申请后，按照国际电联《无线电规则》条款以及国家无线电管理机构与相关国家或地区无线电主管部门签署的有关协议进行边境（界）频率协调。 <br><br>    审查合格并完成协调的，由无线电管理机构核发《中华人民共和国无线电台执照》；审查不合格或无法完成协调的，书面通知申请单位，并说明理由。 <br><br>    五、设置、使用基站的单位应采取必要的技术措施避免对其他无线电通信系统造成有害干扰。 <br><br>    在可能产生干扰或已经产生干扰的情况下，基站的设置、使用单位，应按国家无线电管理有关规定就基站的站址选择和技术参数的设置与有关单位或部门进行协调。协调各方无法达成一致意见的，可报相关无线电管理机构协调解决。 <br><br>    六、变更已设基站站址，或基站工作频段、发射功率、天线高度超出执照核定范围或大于核定值时，设置、使用基站的单位应向原审批机构提出申请，办理执照变更手续。 <br><br>    撤销、停止使用基站，应当向原审批机构备案，并交回无线电台执照。 <br><br>    七、临时设置、使用基站，基站设置、使用单位应于启用日期10日前，向相关无线电管理机构提交书面申请，办理基站临时设置审批手续，经无线电管理机构审查批准后，领取临时无线电台执照。临时设置、使用的基站，使用期限一般不超过6个月。 <br><br>    遇有危及国家和人民生命财产安全的紧急情况，可以临时使用未经批准设置的基站，但应及时向无线电管理机构报告。 <br><br>    八、设置、使用基站的单位应当遵守国家有关无线电管理的法律、法规，接受无线电管理机构的监督检查，配合无线电管理机构对基站进行管理。 <br><br>    依法设置、使用的基站，无线电管理机构应当保护其免受其他无线电系统和辐射无线电波的非无线电设备所产生的有害干扰。 <br><br>    九、为防止基站设备老化等原因引起的发射指标下降而造成电磁环境恶化，消除无线电干扰隐患，无线电管理机构可按年度对基站的发射设备进行抽查检测，抽检数量不超过当年在用基站总数的3%。 <br><br>    十、 凡原基站设置、使用管理有关规定或办法与本通知不符的，均以本通知为准。本通知自2005年7月1日起执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】教厅信息〔2005〕16号<BR>&nbsp;&nbsp;【发布日期】2005-12-22<BR>&nbsp;&nbsp;【生效日期】2005-12-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info19489.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于东北大学近期迟报信息情况的通报<br><br></font>(2005年12月22日  教厅信息〔2005〕16号)</p><br><br><br>    12月21日凌晨1时左右，东北大学网络教育学院大连分院数百名学生因毕业证书发放问题在校内出现群体过激行为，部分公共设施被毁(经做工作，事态已暂时平息)。直到21日下午5时多，东北大学才向我部报来信息。辽宁省教育厅也未报来信息。这一情况说明，还有一些地区和高校对信息报送工作在维护教育系统安全稳定和推动工作方面的作用缺乏应有的认识。针对信息报送工作中存在的问题，近两年来，教育部在各地各高校分片召开了信息工作座谈会，研究和部署进一步加强和改进信息报送工作。从与会情况看，一些地区和高校信息报送工作领导不重视、责任不落实、体制不顺畅、机制不完善、人员不到位的现象仍然存在。<br><br>    为了切实加强紧急信息报送工作，努力维护教育系统安全稳定，根据党中央、国务院有关文件精神，现就加强教育系统紧急信息报送工作的要求重申如下：<br><br>    一、要切实提高对紧急信息报送工作重要性的认识。各地教育行政部门和高等学校要从构建社会主义和谐社会、确保教育系统安全稳定、维护师生员工切身利益的高度出发，强化报送紧急信息的政治意识、大局意识和责任意识。要树立稳定压倒一切、师生安全第一、责任重于泰山的观念，克服麻痹思想和侥幸心理，采取有力措施，确保紧急信息及时如实上报。各地各高校主要领导要经常过问本单位信息报送工作，重大紧急信息要亲自审核签发。<br><br>    二、紧急信息必须及时报送。各省级教育行政部门和直属高校应在第一时间向我部办公厅总值班室报送。特别紧急信息可先口头向我部报告，随即补报正式信息。夜间和节假日报送紧急信息，还要与总值班室确认接收情况。报送紧急信息要特别注重时效性，同时力争交代清楚事件发生的时间、地点、人数、原因、经过、后果、处置措施、当前情况、对上级部门的要求等，并随时跟踪续报事态进展及处置情况，直至事件处理完毕。<br><br>    三、要建立健全报送紧急信息的责任制和责任追究制。各地教育行政部门和高校要把及时、准确、全面、规范地报送紧急信息放在信息工作的首位。要层层建立责任制，哪一级发生迟报、漏报、瞒报问题由哪一级负责，并追究有关领导和人员的责任。各省级教育行政部门对发生在本地的紧急信息要及时上报我部；事件发生地教育行政部门和学校必要时可直接向我部报送信息；对发生在我部直属高校的紧急信息，直属高校除按规定报告我部外，还应报当地教育行政部门，所在省级教育行政部门也要及时向我部报告。各地教育行政部门办公室和高校党委(校长)办公室要切实负起报送紧急信息的责任。<br><br>    四、各地各高校要按照本通报要求，近期对紧急信息报送工作进行一次检查。凡制度不健全、措施不得力、人员不到位、设施不畅通、责任不落实的，要尽快加以改进。要健全值班制度，抓好值班人员管理与培训，增强政治敏感性和对紧急突发事件的快速反应能力，确保紧急信息上报时效。要建立迟漏报紧急信息通报制度，对因迟报、漏报、瞒报紧急信息造成严重后果的单位和个人要予以严肃处理。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家测绘局<BR>&nbsp;&nbsp;【发布文号】国测法字[2006]5号<BR>&nbsp;&nbsp;【发布日期】2006-04-12<BR>&nbsp;&nbsp;【生效日期】2006-04-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sbsm.gov.cn/notice.php?col=5&file=5381" target=_blank>国家测绘局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>建立相对独立的平面坐标系统管理办法<br><br></font>(国测法字[2006]5号)</p><br><br><br>各省、自治区、直辖市、计划单列市测绘行政主管部门，新疆生产建设兵团测绘主管部门： <br><br>    为了加强对建立相对独立的平面坐标系统的管理，避免重复建设，促进测绘成果共享，我局根据《中华人民共和国测绘法》的规定，制定了《建立相对独立的平面坐标系统管理办法》，现予印发，请遵照执行。 <br><br>国家测绘局 <br>二00六年四月十二日<br><br> <br>建立相对独立的平面坐标系统管理办法 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强对建立相对独立的平面坐标系统的管理，避免重复建设，促进测绘成果共享，根据《<a href=javascript:ROF(76049,0) class=alink>中华人民共和国测绘法</a>》等法律法规，制定本办法。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 在中华人民共和国领域和管辖的其他海域，建立相对独立的平面坐标系统，应当遵守本办法。 <br><br>    本办法所称相对独立的平面坐标系统是指：为了满足在局部地区大比例尺测图和工程测量的需要，以任意点和方向起算建立的平面坐标系统或者在全国统一的坐标系统基础上，进行中央子午线投影变换以及平移、旋转等而建立的平面坐标系统。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 下列确需建立相对独立的平面坐标系统的，由国家测绘局负责审批： <br><br>    （一）50万人口以上的城市； <br><br>    （二）列入国家计划的国家重大工程项目； <br><br>    （三）其他需国家测绘局审批的。 <br><br>    下列确需建立相对独立的平面坐标系统的，由省、自治区、直辖市测绘行政主管部门（以下简称省级测绘行政主管部门）负责审批： <br><br>    （一）50万人口以下的城市； <br><br>    （二）列入省级计划的大型工程项目； <br><br>    （三）其他需省级测绘行政主管部门审批的。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 一个城市只能建立一个相对独立的平面坐标系统。 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 建立相对独立的平面坐标系统，应当与国家坐标系统相联系。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 城市确需建立相对独立的平面坐标系统的，由申请单位向该城市的测绘行政主管部门提交申请材料，经测绘行政主管部门审核并报该市人民政府同意后，逐级报省级测绘行政主管部门；直辖市确需建立相对独立的平面坐标系统的，由申请单位向该市的测绘行政主管部门提交申请材料，经测绘行政主管部门审核并报该市人民政府同意后，报国家测绘局；其他需要建立相对独立的平面坐标系统的，由建设单位向拟建相对独立的平面坐标系统所涉及的省级测绘行政主管部门提交申请材料。 <br><br>    申请建立城市相对独立的平面坐标系统的单位和申请建立其他相对独立的平面坐标系统的建设单位以下统称为申请人。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 申请人应当提交下列申请材料一式四份： <br><br>    （一）《建立相对独立的平面坐标系统申请书》（见附件）； <br><br>    （二）属工程项目的申请人的有效身份证明（复印件）； <br><br>    （三）立项批准文件（复印件）； <br><br>    （四）能够反映建设单位测绘成果及资料档案管理设施和制度的证明文件（复印件）； <br><br>    （五）建立城市相对独立的平面坐标系统的，应当提供该市人民政府同意建立的文件（原件）。 <br><br>    申请人应当如实提交有关材料，并对申请材料的真实性负责。 <br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 属于国家测绘局审批范围的，由省级测绘行政主管部门提出意见后，转报国家测绘局。 <br><br>    省级测绘行政主管部门向国家测绘局转报的意见应当包含下列内容： <br><br>    （一）申请建立相对独立的平面坐标系统的区域内及周边地区现有坐标系统的情况； <br><br>    （二）对建立相对独立的平面坐标系统申请是否批准的建议。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 申请人提交的申请材料齐全、符合规定形式要求的，国家测绘局、省级测绘行政主管部门（以下统称测绘行政主管部门）应当受理其申请，并向申请人出具书面受理通知。 <br><br>    申请材料不齐全或者不符合法定形式的，测绘行政主管部门应当当场或者在五日内一次性告知申请人需要补正的全部内容。 <br><br>    对不予受理的，必须向申请人书面说明理由，并退回申请材料。 <br><br>    国家测绘局向申请人出具的书面通知，应当同时抄送有关转报申请的省级测绘行政主管部门。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 测绘行政主管部门受理申请后，应当依法对申请材料进行审查。 <br><br>    测绘行政主管部门作出行政许可决定需要听证、检测、鉴定和专家评审的，依法组织实施。 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 有以下情况之一的，对建立相对独立的平面坐标系统的申请不予批准： <br><br>    （一）申请材料内容虚假的； <br><br>    （二）国家坐标系统能够满足需要的； <br><br>    （三）已依法建有相关的相对独立的平面坐标系统的； <br><br>    （四）测绘行政主管部门依法认定的应当不予批准的其他情形。 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 测绘行政主管部门应当自受理建立相对独立的平面坐标系统的申请之日起二十日内作出行政许可决定。二十日内不能作出行政许可决定的，经负责人批准，可以延长十日，并应当将延长期限的理由告知申请人。 <br><br>    测绘行政主管部门依法进行听证、检测、鉴定和专家评审的，所需时间不计算在行政许可期限内。测绘行政主管部门应当将所需时间书面告知申请人。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 测绘行政主管部门作出行政许可决定后，应当自作出决定之日起十日内向申请人送达准予或者不准予建立相对独立的平面坐标系统的书面决定。 <br><br>    国家测绘局作出的行政许可决定，应当同时抄送有关省级测绘行政主管部门。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 被许可人要求变更行政许可事项的，依照本办法的规定重新办理审批手续。 <br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 经批准建立的相对独立的平面坐标系统，涉及到本办法第二条所定义的系统参数被改变的，依照本办法的规定重新办理审批手续。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 违反本办法规定的，依照《中华人民共和国测绘法》及《中华人民共和国行政许可法》有关规定予以处罚。 <br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 省级测绘行政主管部门可以依据本办法制定实施办法。 <br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 对《中华人民共和国测绘法》修订实施前（2002年12月1日前）未履行法定手续建立且仍然在使用的相对独立的平面坐标系统，省级测绘行政主管部门应当组织进行清理，并按本办法的规定责令相关单位补办审批手续。 <br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 本办法自发布之日起施行。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

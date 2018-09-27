@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、国家税务总局<BR>&nbsp;&nbsp;【发布文号】财税〔2008〕119号<BR>&nbsp;&nbsp;【发布日期】2008-10-17<BR>&nbsp;&nbsp;【生效日期】2008-10-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/8470039.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、国家税务总局关于试点企业集团缴纳企业所得税有关问题的通知<br> <br></font>(财税〔2008〕119号)</p><br><br><br>各省、自治区、直辖市、计划单列市财政厅（局）、国家税务局、地方税务局，新疆生产建设兵团财务局：<br>    为确保《中华人民共和国企业所得税法》（以下简称新税法）的平稳实施，根据新税法第五十二条规定，经国务院批准，对2007年12月31日前经国务院批准或按国务院规定条件批准实行合并缴纳企业所得税的企业集团（具体名单见附件），在2008年度继续按原规定执行。从2009年1月1日起，上述企业集团一律停止执行合并缴纳企业所得税政策。<br>    请遵照执行。<br>  <br>                                              财政部 国家税务总局<br>                                              二○○八年十月十七日<br><br><br>    附件：2008年实行合并纳税企业集团名单<br><br>    序号     企业集团名称<br>    1        中国五矿集团<br>    2        中艺进出口集团<br>    3        中粮集团<br>    4        中纺集团<br>    5        中化集团<br>    6        中国外运集团<br>    7        中国通用集团<br>    8        国家开发投资公司<br>    9        中国第一汽车集团<br>    10       南京汽车集团<br>    11              东风汽车集团<br>    12       奇瑞汽车有限公司<br>    13       中国重型汽车集团<br>    14       中国东方电气集团公司<br>    15       西电集团<br>    16       华能集团<br>    17       葛洲坝集团<br>    18       中国国电集团公司<br>    19       中国华电集团公司<br>    20       中国电力投资集团公司<br>    21        中国大唐电力集团公司<br>    22       南方电网公司<br>    23       吉林农电有限公司<br>    24       中国第一重型机械集团<br>    25       中国第二重型机械集团<br>    26       万向集团<br>    27       民用航空总局<br>    28       中国航空集团<br>    29       中国国际航空股份有限公司<br>    30       中国南方航空集团公司<br>    31       中国南方航空股份有限公司<br>    32       中国东方航空集团公司<br>    33       中国东方航空股份有限公司<br>    34       海航集团<br>    35       中国海运集团<br>    36       中远集团<br>    37       长航集团<br>    38       武钢集团<br>    39       攀钢集团<br>    40       鞍钢集团<br>    41       首钢总公司<br>    42       太原钢铁集团<br>    43       本溪钢铁（集团）有限公司<br>    44       广东佛陶集团<br>    45       铁道部（含广铁集团）<br>    46       中国北方机车车辆集团公司<br>    47       中国南方机车车辆集团公司<br>    48       中国铁路物资总公司<br>    49       中国铝业股份有限公司<br>    50       哈药集团<br>    51       中国电影集团<br>    52       上海新华发行集团<br>    53       解放日报报业集团<br>    54       文汇新民联合报业集团<br>    55       上海世纪出版集团<br>    56       上海文艺出版总社<br>    57       上海文化广播影视集团<br>    58       上海印刷（集团）有限公司<br>    59       河南有线电视网络集团有限公司<br>    60       江苏省演艺集团公司<br>    61       中国乐凯胶片集团<br>    62       仪征化纤集团<br>    63       巨化集团<br>    64       吉化集团<br>    65       南京化学工业有限公司<br>    66       中国石油天然气股份有限公司<br>    67       中国石油化工股份有限公司<br>    68       中国振华电子集团公司<br>    69       中国航空工业第一集团公司<br>    70       中国航空工业第二集团公司<br>    71       中国船舶重工集团公司<br>    72       中国船舶工业集团公司<br>    73       中国兵器装备集团公司<br>    74       中国兵器工业集团公司<br>    75       中国核工业集团公司<br>    76       中国核工业建设集团公司<br>    77       中国三江航天集团<br>    78       中国江南航天集团<br>    79       中国邮政集团公司<br>    80       中国电信集团<br>    81       中国移动通信集团<br>    82       中国联合通信有限公司<br>    83       中国铁通集团<br>    84       中国网通集团<br>    85       中国卫通集团<br>    86       神华集团<br>    87       同煤集团<br>    88       兖矿集团<br>    89       中国中信集团公司<br>    90       中国保利集团公司<br>    91       中国轻工集团公司<br>    92       中国华星集团公司<br>    93       中国农业发展集团总公司<br>    94       中国农垦（集团）总公司<br>    95       中谷粮油集团公司<br>    96       新疆生产建设兵团<br>    97       黑龙江农垦总局<br>    98       吉林森林工业集团<br>    99       中国龙江森工（集团）总公司<br>    100      大兴安岭林业集团公司<br>    101      内蒙古森林工业集团<br>    102      中国投资有限责任公司<br>    103      中国海洋石油总公司<br>    104      中港集团<br>    105      中国一拖集团有限公司<br>    106      国家核电技术公司               <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

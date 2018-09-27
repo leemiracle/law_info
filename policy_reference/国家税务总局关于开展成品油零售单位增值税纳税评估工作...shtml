@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]76号<BR>&nbsp;&nbsp;【发布日期】2005-05-09<BR>&nbsp;&nbsp;【生效日期】2005-05-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200507181347278966" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于开展成品油零售单位增值税纳税评估工作的通知<br><br></font>(国税发[2005]76号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br><br>    为加强成品油零售单位（以下简称“加油站”）增值税征收管理，堵塞税收漏洞，总局决定，自2005年6月份起对加油站开展增值税纳税评估工作。现将有关问题通知如下：?<br><br>    一、经有关部门批准从事成品油零售业务，并已办理工商、税务登记、有固定经营场所的加油站，由主管税务机关税源管理部门按月进行增值税纳税评估。?<br><br>    对经批准跨地区或跨县市汇总缴纳增值税的加油站，一律由核算地主管税务机关税源管理部门进行评估。?<br><br>    二、加油站增值税纳税评估，是利用金税工程稽核系统成品油批发单位增值税专用发票信息，清分出加油站的成品油购进信息，并利用购、销、存的逻辑关系，评估其申报信息的可信度，即所谓“以进控销”。 按月开展对加油站增值税的纳税评估。为开展此项工作，总局将统一下发加油站增值税以进控销评估软件（以下简称以进控销软件）。?<br><br>    三、省级国家税务局信息中心应于每月18日前采集评估所属期本省成品油批发单位增值税专用发票存根联数据，并将采集完整的数据上传至总局；于每月22日接收总局下传的评估所属期加油站购油的增值税专用发票数据。?<br><br>    主管税务机关税源管理部门应当在每月纳税申报期结束后三天内采集所辖加油站评估所属期自行申报的《成品油购销存情况明细表》中的“期初库存自购金额合计”、“本期出库非应税部分自用金额合计”、“期末库存自购金额合计”数据和《加油站月销售油品汇总表》中“销售金额（包括通过加油机和不通过加油机）”的本月合计数。?<br><br>    如遇节假日，数据采集日期比照稽核系统数据传递时间顺延。?<br><br>    四、主管税务机关税源管理部门完成数据采集后，利用以进控销软件系统对加油站的成品油购进金额差异率、销售额差异率、税收负担率指标进行评定。指标异常的，系统自动生成《纳税申报异常纳税人清单》（见附件2）。?<br><br>   （一）成品油购进金额差异率：?<br><br>    成品油购进金额差异率=（下传的评估所属期成品油批发单位专用发票金额合计÷评估所属期加油站自行申报的自购油金额合计）×100%?<br><br>    成品油购进金额差异率≠1，属于异常。?<br><br>   （二）销售额差异率：?<br><br>    销售额差异率=（评估所属期测算的销售额－评估所属期申报的销售额）÷评估所属期申报的销售额?<br><br>    评估所属期测算的销售额=（评估所属期“期初库存自购金额合计”+评估所属期成品油批发单位的专用发票金额合计－评估所属期“本期出库非应税部分自用金额合计”－ 评估所属期“期末库存自购金额合计”）÷（1－销售毛利率）?<br><br>    销售额差异率<－5％或>5％，属于异常。?<br><br>   （三）税收负担率：?<br><br>    税收负担率=本期应纳税额÷本期应税销售额×100%?<br><br>    税收负担率<本地区加油站平均税收负担率，属于异常。?<br><br>    销售毛利率和平均税收负担率，由地市级国家税务局确定。<br><br>    五、评估软件系统评定异常的加油站，主管税务机关税源管理部门应通过约谈、举证、实地查验等方式验证其异常情况。?<br><br>   （一）约谈、举证?<br><br>    1．与加油站主管财务负责人进行约谈，重点了解内容包括： <br><br>   （1）评估期内油价调整情况或其他政策变动因素； ?<br><br>   （2）成品油销售数量情况；?<br><br>   （3）不同油品型号销售收入情况； ?<br><br>   （4）自有车辆自用油情况；?<br><br>   （5）代储油业务，委托代储协议有关内容； ?<br><br>   （6）成品油倒库业务及向主管税务机关报告说明内容；?<br><br>   （7）检测用油情况； ?<br><br>   （8）当月成品油销售数量中扣除部分向主管税务机关申报情况； ?<br><br>   （9）其他情况。?<br><br>    2．与加油站采购人员进行约谈，重点了解内容包括：?<br><br>   （1）多渠道购进成品油情况；?<br><br>   （2）当期成品油购进数量情况；? <br><br>   （3）其他情况。?<br><br>   （二）实地查验?<br><br>    经约谈、举证仍不能解除异常情况的，应进行实地查验：?<br><br>    1．通过查验银行对帐单、采购合同、运输费用发票、入库单等，核实加油站实际购进成品油数量与申报数量是否一致； ?<br><br>    2．采取技术手段查验不同型号成品油的库存数量，核实加油站的实际库存数量与申报数量是否一致，并记录库存数量；?<br><br>    3．通过查验《加油机日销售油品台帐》和其他销售记录，核实加油站的实际销售数量与申报数量是否一致；?<br><br>    4．通过查验自有车辆数量和用油情况，核实加油站的实际扣除数量与申报数量是否一致、其相应的进项税额是否转出；?<br><br>    5．通过查验委托代储油协议、成品油倒库业务情况，核实加油站的实际扣除数量与申报数量是否一致。?<br><br>    对经省级或地市级国家税务局批准，跨地区或跨县市汇总缴纳增值税的加油站，如核算地主管税务机关约谈或实地查验有困难的，可以委托加油站所在地税务机关代为约谈或实地查验，并反馈其结果。具体执行办法可由各省级国家税务局制定。?<br><br>    六、主管税务机关税源管理部门对加油站增值税实施纳税评估，凡本通知未予明确的事项，均按照《国家税务总局关于印发〈纳税评估管理办法（试行）〉的通知》（国税发〔2005〕43号）的规定执行。?    <br><br>    七、开展加油站纳税评估工作，是总局探索对零售环节增值税管理的重要举措，各级国家税务局应高度重视，各部门要同心协力、相互配合，保证此项工作的顺利实施。各级流转税管理部门负责指导、督促下级税务机关开展加油站增值税纳税评估工作，各级信息中心要做好以进控销软件系统的技术支持工作。?<br><br>    为及时掌握加油站增值税纳税评估工作情况，各省级国家税务局应于每月20日前将《加油站增值税纳税评估情况表》（见附件3）报送至总局（流转税管理司）。<br><br>                                       国家税务总局<br>                                     二○○五年五月九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

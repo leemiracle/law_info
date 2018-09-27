@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖发〔2008〕10号<BR>&nbsp;&nbsp;【发布日期】2008-05-07<BR>&nbsp;&nbsp;【生效日期】2008-05-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4378" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中共安徽省委、安徽省人民政府关于进一步加快全省水利建设和改革的意见<br> <br></font>（皖发〔2008〕10号2008年5月7日）</p><br><br><br>    水利是发展现代农业的重要保障，是国民经济和社会发展的基础行业，在全面建设小康社会中肩负着重要使命。近年来，全省持续开展了大规模水利建设，长江、淮河防洪保安能力显著增强。但是，随着全球气候变暖和人类活动的加剧，洪涝灾害、水资源短缺、水污染、水土流失等水问题越来越突出。同时，影响水利发展的体制性、机制性障碍日益凸显，全省水利建设和改革任务繁重。为深入贯彻落实科学发展观，切实加强防洪安全、供水安全和水生态安全建设，开创水利事业发展新局面，保障经济社会又好又快发展，现就加快全省水利建设和改革提出如下意见。<br>    <br>    一、指导思想和目标任务<br>    （一）指导思想。以党的十七大和胡锦涛总书记视察安徽重要讲话精神为指导，深入贯彻落实科学发展观，遵循新时期中央水利工作方针，按照《安徽省“十一五”水利发展规划纲要》，坚持全面规划、统筹兼顾、标本兼治、综合治理的原则，以人与自然和谐相处为理念，以提升水利保障能力为核心，以加快水利基础设施建设为重点，大力推进依法治水，不断深化水利改革，建立多元化水利投入机制，健全分级负责制度，妥善处理当前与长远、局部与整体、重点与一般的关系，统筹水利建设、管理、改革与发展，促进水利事业又好又快发展。<br>    （二）目标任务。用5年左右的时间，进一步完善长江、淮河防洪保安体系；全面提升除涝能力，沿淮重点平原洼地排涝标准初步达到5―10年一遇，沿江万亩以上圩区排涝标准达到10年一遇；完成现有病险水库除险加固任务，大幅度降低水库病险率；大力发展城乡供水，基本建立城市应急水源保障体系，解决农村人口饮水安全问题；加强灌区续建配套与节水改造，提高防旱抗旱能力；优化水资源配置，加大水资源保护力度，加快水环境整治步伐；完善全省防汛抗旱决策指挥和预警预报系统；稳步推进水土保持、水利血防工作；各项水利改革取得新进展。到2020年，基本建成与小康社会相适应的水利基础设施，建立与社会主义市场经济体制相适应的水管理体制和运行机制，构建防洪抗旱减灾体系、水资源配置利用体系、水生态环境保护体系和水利管理体系，初步实现水利现代化。<br>    <br>    二、大力推进水利重点工程建设<br>    （三）加快防洪除涝工程建设，提高防洪保障能力。在全面完成治淮14项骨干工程建设任务的基础上，积极推进治淮“新三项”工程建设，实施淮河流域平原洼地除涝工程，重点安排焦岗湖、西淝河等洼地除涝工程建设；推进行蓄洪区调整与改造；推进淮河一般堤防加固及支流治理。继续实施淮河行蓄洪区、淮河及主要支流滩地移民迁建工程。实施长江安庆、铜陵等段干流河道整治工程。基本完成大型排涝泵站更新改造。继续实施沿江圩区排涝泵站建设。加强城市防洪排涝体系建设。实施水阳江、青弋江、滁河等长江主要支流治理工程。<br>    （四）加快民生水利工程建设，提高为民服务能力。用5年时间解决全省1580万农村人口饮水安全问题。用3年时间基本完成现有1870座病险水库除险加固任务，力争早日开工建设下浒山、月潭水库等工程。加快大中型灌区续建配套与节水改造。加强新农村水利建设，开展县乡河道和村庄河塘整治，疏浚沟渠，提高引排能力。以平原大中沟整治和井灌区配套为重点，提高排涝抗旱能力；以圩区综合治理为重点，加快圩堤加固治理步伐；以丘陵山区水源工程建设为重点，促进水土流失治理和生态修复；结合面上水利工程建设，积极开展水利血防工作；大力发展山区农村小水电，推进农村电气化和小水电代燃料工程建设。<br>    （五）加快水生态文明建设，提高水生态保护能力。加强饮用水源地保护，保障城乡居民供水安全。加大城市节水和治污力度，提高水资源利用率。加快引江济巢前期工作，争取尽早实施引江济巢工程，着力改善巢湖水环境。<br>    <br>    三、落实水利建设扶持政策<br>    （六）建立和完善水利投入分级负责制。在积极争取国家水利工程建设资金支持的同时，按照事权划分、工程性质和受益范围，实行分级负责制。国家和省级投资主要用于关系国计民生的水利骨干工程，其他水利工程以市县投入为主。<br>    （七）加大水利建设资金投入。省级防洪保安基金每年6.5亿元的投资政策延续5年，同时，多渠道筹集水利建设资金。各级政府要进一步加大公共财政对水利的投入，将当年基建统筹资金和农业发展资金增量侧重用于水利建设。资金使用重点是病险水库除险加固、大型排涝泵站技改、淮河治理、重大水利项目等。对通过以工代赈、商品粮基地建设、农业综合开发、引用外资等渠道下达的用于水利建设的资金，要按照各级政府批准的水利规划整合使用，以提高使用效益。要加强水利工程管理的投入，从各级征收的水利建设基金中安排适当资金用于水利工程的维修养护。<br>    （八）加大水利前期工作经费投入。根据需要，省级每年安排不少于1000万元用于重大水利项目的前期工作。各级政府要千方百计加大本地区水利工程前期工作经费投入，切实做到“开工一批、推进一批、论证一批、储备一批”。<br>    （九）切实落实中央和省支农惠农政策，加强小型农田水利基础设施建设。各级政府要切实承担起搞好小型农田水利建设的责任，在继续搞好大中型水利基础设施建设的同时，不断加大对小型农田水利基础设施建设的投入力度。设立小型农田水利设施建设补助专项资金，推行“民办公助”，对农民投工投劳开展小型农田水利设施建设给予支持。对农民确实受益的小型农田水利设施建设，推行“一圩一议”、“一渠一议”等办法，调动农民兴修农田水利的积极性。<br>    <br>    四、深化水利改革<br>    （十）深化水资源管理体制和水价改革。综合运用法律、经济、行政、科技等手段，加强辖区内涉水行政事务的综合管理，统筹城乡水资源评价、规划、配置、调度、节约、保护，统筹水源地建设、供水、用水、排水等工作。深化水价改革，制定水价管理办法，进一步合理配置水资源，提高水的利用效率。改革水费计收方式，积极推行农业用水计量收费，水费收入主要用于水利工程的建设、维护、管理及服务。<br>    （十一）深化水利投融资体制改革。积极建立水利投入长效机制，把政府主导和市场运作有效结合起来，调动社会各方面的积极性，形成多元化、多渠道、多层次的水利投融资体制。除法律、法规另有规定外，鼓励各类社会主体以独资、合资、合作或BOT等形式建设水利基础设施。<br>    （十二）深化水利工程管理体制改革。各级政府要科学界定水管单位类别，将纯公益性水管单位和准公益性水管单位公益性部分的基本支出和维修养护经费列入财政预算，深化内部改革，合理定编定岗，推进管养分离，建立符合省情、符合水利工程管理特点的管理体制。<br>    （十三）深化农村水利改革。加快农民用水合作组织建设，逐步建立用水户自主管理与水管单位专业化服务相结合的管理模式。积极推进小型农田水利工程产权制度改革，明晰所有权，搞活经营权，盘活存量资产，落实管护责任。完善村级“一事一议”筹资筹劳办法，加强基层水利服务体系建设。积极引导和鼓励农民开展直接受益的农田水利工程建设。<br>    （十四）深化水行政管理体制改革。以政府机构改革为契机，进一步转变水行政管理职能，严格依法行政，规范行政行为，强化社会管理和公共服务，提高公信力和执行力。加强水利队伍建设，推进水利工作机制从“管理型”向“服务型”转变，着力提升水利服务经济社会发展的能力和水平。<br>    （十五）加强节水型社会建设。农业节水要重点加强灌区续建配套，促进农业种植结构调整和灌溉用水方式转变；工业节水要在优化调整区域产业布局的基础上，重点加快对高耗水行业的技术改造，提高中水回用利用率；城市生活节水要重点加强供水和公共用水管理，全面推广节水器具。倡导节水文化，形成厉行节水的社会风尚。<br>    <br>    五、切实加强领导<br>    （十六）建立行政领导任期水利工作目标责任制。各级党委、政府要加强对水利工作的组织领导，将水利建设和改革纳入国民经济和社会发展规划，建立行政领导任期水利工作目标责任制，落实领导责任和部门责任。要把水利发展实绩纳入各级政府任期目标，加强督查和考核。<br>    （十七）强化部门职责。水行政主管部门要充分发挥职能作用，切实加强水行业管理，担负起水利建设和改革的重任，完善水利规划体系，加大前期工作力度，抓好水利工程建设的组织实施；发展改革部门要根据轻重缓急安排好年度投资计划，并及时做好计划下达工作；财政部门要根据省级防洪保安当年预算资金的安排和水利工程建设进度，及时调度资金，保证工程用款；国土资源部门要优先保证重点水利工程项目的新增建设用地计划指标，在政府的领导下切实做好土地征收工作，配合项目单位及时办理工程建设用地报批手续。公安、交通、审计、环保、电力、宣传等有关部门和单位要结合各自职责，积极支持水利建设，主动做好相关工作。<br>    各级党委、政府要依据本意见，结合本地实际，制定具体的实施细则，认真落实相关政策措施，确保水利事业又好又快发展。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

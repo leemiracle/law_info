@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办疾控发〔2006〕140号<BR>&nbsp;&nbsp;【发布日期】2006-07-21<BR>&nbsp;&nbsp;【生效日期】2006-07-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12586&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于建立寄生虫病综合防治示范区的通知<br><br></font>(卫办疾控发〔2006〕140号)</p><br><br><br>黑龙江、安徽、江西、湖南、广东、广西、海南、四川、贵州、云南省、自治区卫生厅，中国疾病预防控制中心：<br>    为了认真贯彻党中央、国务院关于推进社会主义新农村建设若干意见的精神，探索并形成适合我国特点的寄生虫病综合防治模式，以点带面，推动全国重点寄生虫病的防治工作，努力实现《2006－2015年全国重点寄生虫病防治规划》提出的目标，经各地申报和中国疾病预防控制中心综合评估，我部决定在贵州省开阳县等10个县、市建立寄生虫病综合防治示范区（以下简称“示范区”，见附件1）。现将有关要求通知如下：<br><br>    一、切实加强对示范区工作的领导。卫生部成立寄生虫病综合防治示范区项目工作领导小组（见附件2），领导小组办公室设在中国疾病预防控制中心，承担对示范区项目的综合性管理与协调任务。有关省、自治区卫生行政部门要指定专人负责示范区项目的管理和协调工作。各示范区所在县（市）要分别成立以政府分管领导为组长、各有关部门负责同志参加的寄生虫病综合防治示范区工作领导小组，由卫生行政部门牵头，负责本示范区项目工作的组织实施。<br><br>    二、积极探索适合我国农村特点的寄生虫病综合防治模式。示范区工作必须与推进社会主义新农村建设和农村爱国卫生运动紧密结合，通过开展农村改水、改建卫生厕所、村容村貌整治和农村精神文明建设等综合治理措施，以及在社区和农村广泛深入地开展多种形式的健康教育等活动，引导群众养成良好的饮食和卫生习惯，大力营造“驱虫防病，强身健体”的氛围，使防治寄生虫病成为广大人民群众的自觉行动。通过实施综合治理，努力降低人群寄生虫感染率，并将其作为评价农村爱国卫生运动和卫生改厕效果的重要依据。<br><br>    三、落实各项保障措施。做好重点寄生虫病的防治工作是地方各级政府的职责。示范区所在地各级政府要将示范区工作纳入本地区经济和社会发展规划，结合国家在农村地区实施的改水改厕、沼气池建设等项目的实施，科学规划，统筹安排，切实保证开展示范区综合防治项目所需的人力、物力资源。国家对示范区开展基线调查、效果考核、健康教育、培训等项目活动给予一定的补助。<br><br>    四、加强对示范区工作的技术指导。由中国疾病预防控制中心组织制定示范区工作方案，并成立寄生虫病综合防治示范区专家技术指导组（方案及专家组成员名单由中国疾病预防控制中心另行下发）。示范区所在省要结合本地实际制订本省示范区实施计划。<br><br>    五、认真总结并推广示范区工作经验。示范区项目工作为期3年，计划自2006年下半年起至2008年底实施，2009年上半年卫生部将组织对示范区实施效果进行考核评估。各地在项目实施过程中，要认真总结示范区项目工作的经验，通过摸清本底，科学规划，明确思路，突出重点，积极探索适合本地实际的寄生虫病综合防治模式，不断完善土源性线虫和肝吸虫等重点寄生虫病防治工作规范，提高防治效益和效果。各级卫生行政部门要加强对示范区工作的指导和检查督导，确保示范区的综合防治工作科学、有序开展，以达到推动面上防治工作、大幅度降低人群寄生虫感染率、保护人民健康的目的。<br><br>    附件：<br>1．寄生虫病综合防治示范区名单<br>2．寄生虫病综合防治示范区项目工作领导小组成员名单<br><br>二○○六年七月二十一日<br><br>附件1：寄生虫病综合防治示范区名单<br><br>一、土源性线虫病综合防治示范区<br><br>贵州省开阳县 海南省屯昌县 江西省贵溪市 安徽省桐城市 湖南省岳阳县 云南省祥云县 广西自治区容县 四川省丹棱县<br><br>二、肝吸虫病综合防治示范区<br><br>广东省阳山县 黑龙江省肇源县<br><br>附件2：寄生虫病综合防治示范区项目工作领导小组成员名单<br><br>组  长：<br><br>齐小秋    卫生部疾病控制局局长<br><br>副组长：<br><br>王  宇    中国疾病预防控制中心主任<br><br>郝  阳    卫生部疾病控制局副局长<br><br>白呼群    卫生部疾病控制局副局长<br><br>杨维中    中国疾病预防控制中心副主任<br><br>成  员：10个示范区所在省、自治区卫生厅分管领导各一名。办公室设在中国疾病预防控制中心，办公室主任由杨维中副主任兼任。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

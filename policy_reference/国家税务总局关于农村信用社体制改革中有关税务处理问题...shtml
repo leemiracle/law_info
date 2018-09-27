@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2004]46号<BR>&nbsp;&nbsp;【发布日期】2004-04-29<BR>&nbsp;&nbsp;【生效日期】2004-04-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=83414" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于农村信用社体制改革中有关税务处理问题的通知<br><br></font>(国税发[2004]46号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局： <br><br>    根据《<a href=javascript:ROF(89695,0) class=alink>国务院关于印发深化农村信用社改革试点方案的通知</a>》（国发〔2003〕15号）的要求，从2003年度起，全国农村信用社（以下简称信用社）进行改革试点并在今后几年全面展开。为了贯彻落实国务院的有关决定，做好深化信用社改革工作，现对信用社改革中涉及的企业所得税问题明确如下：?<br><br>    一、关于贷款呆帐损失的税务处理问题? <br><br>    信用社在清产核资中，应对各项贷款进行全面、认真的清理核实。对清理出来的贷款呆帐损失，按照国家税务总局《金融企业呆帐损失税前扣除管理办法》(国家税务总局令第4号)和《国家税务总局关于金融企业呆帐损失税前扣除审批事项的通知》(国税发〔2003〕73号)的规定进行税前扣除。其中，对贷款呆账损失数额较大，当年一次性扣除有困难的，可按不超过8年的期限进行扣除。 <br><br>    二、关于各项资产盘盈、盘亏和损失的税务处理问题 <br><br>    信用社在清产核资中发生的各项资产（不包括贷款，下同）盘盈、盘亏和损失，先列入待处理财产损益，并在此基础上进行清理核实。核实后其资产盘盈应计入当期应纳税所得额依法缴纳企业所得税；其资产盘亏和损失应按《国家税务总局关于印发〈企业财产损失税前扣除管理办法〉的通知》（国税发〔1997〕190号）的规定进行扣除，其中，资产盘亏和损失数额较大，当年一次扣除有困难的，可按不超过8年的期限进行扣除。 <br><br>    三、关于逾期使用和一次性列入成本的固定资产税务处理问题 <br><br>    信用社在清产核资中清理出来逾期使用和已按规定一次性列入成本的固定资产，不得列入计提折旧的固定资产范围，但可单独建账进行日常管理。 <br><br>    四、关于固定资产重估增值或减值的税务处理问题 <br><br>    信用社在清产核资中，如需对固定资产进行价值重估，其重估增加的价值，可以相应调整相关资产的账面价值，但增加价值提取的折旧不得在税前扣除；其重估减少的价值，可以按会计规定计提资产减值准备，但其计税基础（计税成本）不得调整，提取的资产减值准备也不得在税前扣除。 <br><br>    五、关于无法付出款项的税务处理问题 <br><br>    信用社在清产核资中清理出来的各项无法付出的款项，应计入当期应纳税所得额依法缴纳企业所得税。 <br><br>    六、关于企业所得税纳税人的确定问题 <br><br>    信用社以县（市）为单位组成统一法人或组建农村商业银行、农村合作银行后，应以新组建的县（市）联社或农村商业银行、农村合作银行为纳税人，统一申报缴纳企业所得税。 <br><br>    七、本通知自2004年1月1日起执行。<br><br>2004-04-29 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

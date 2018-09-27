@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2006]268号<BR>&nbsp;&nbsp;【发布日期】2006-06-18<BR>&nbsp;&nbsp;【生效日期】2006-06-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64011849.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于白细胞回升系统等产品分类界定的通知<br> <br></font>(国食药监械[2006]268号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为适应医疗器械监督管理工作需要，现将白细胞回升系统等产品的分类界定通知如下：<br><br>    一、白细胞回升系统：由主机和等幅极高频电磁治疗头、治疗床组成。用于肿瘤病人放、化疗之后，利用极高频辐射来回升白细胞，进行肿瘤缓解治疗。作为Ⅲ类医疗器械管理。<br><br>    二、体腔热灌注治疗机（不含药）：由加热装置、灌注系统和控制系统组成，不包括治疗用药。用于癌性积液及胸腹腔热物理治疗，抽取病人胸腔和腹腔积液，将储药袋内利用微波技术加热的化疗药液输入人体，再回流到加热装置中，形成全封闭循环治疗系统。作为Ⅲ类医疗器械管理。<br><br>    三、桩核材料：主要成份为（乙氧基双酚-A）-二甲基丙烯酸酯、玻璃填料、二缩三乙二醇二甲基丙烯酸酯、无定型硅胶、（双酚-A）-缩水甘油-二甲基丙烯酸酯。是一种核复合树脂成形材料。用于齿科修复和填充。作为Ⅲ类医疗器械管理。<br><br>    四、血管拉栓管：将动脉或静脉血栓取出血管。作为Ⅲ类医疗器械管理。<br><br>    五、脱敏剂：草酸盐牙本质脱敏剂，用于天然牙的脱敏。作为Ⅲ类医疗器械管理。<br><br>    六、生长因子增强骨基质：由磷酸钙基质和生长因子制成，用于植入牙周相关缺陷处促进骨骼生长和牙周再生。作为Ⅲ类医疗器械管理。<br><br>    七、伤口护理软膏：主要成分为没食子酸铋、右旋龙脑、凡士林。用于一、二级烧烫伤伤口、表浅层伤口、取皮区伤口、手术后伤口、擦伤及撕裂伤的护理。作为Ⅲ类医疗器械管理。<br><br>    八、数控立体定位仪：依据CT断层扫描影像信息，在脱离CT实时监控状态下，准确还原CT的断层方向和断层角度，精确重复断层影像所描述的空间位置。由红宝石激光点形成手术的入针路径，医生根据激光点所指示的路径进行穿刺手术。作为Ⅲ类医疗器械管理。<br><br>    九、静脉剥脱器：用于大隐静脉手术中剥离血管内血栓。作为Ⅲ类医疗器械管理。<br><br>    十、隧道器：可重复使用，在血管手术中在皮肤下造成隧道，移植血管。作为Ⅱ类医疗器械管理。<br><br>    十一、牙科精密附着体：由阴体和阳体组成。阴体用纯钛制成，阳体采用非氧化的、不含铜可铸造钯合金或非口内用的无残留性可燃塑料或贵金属合金制成。阴体安装于义齿上，不接触口腔黏膜。阴体阳体通过摁扣连接。用于齿科矫形修复。作为Ⅱ类医疗器械管理。<br>    十二、妇科、直肠科治疗椅（电控设备）：由底座、背板、坐板、脚托、脚控开关、不锈钢冲洗盆和卷纸架组成。妇产科和直肠科进行检查和治疗时使用。作为Ⅱ类医疗器械管理。<br><br>    十三、牙龈干燥剂：由乙醇、丙酮、蒸馏水等组成。用于牙齿表面的快速干燥、清洁。作为Ⅱ类医疗器械管理。<br><br>    十四、氢氧化钙根管消毒糊剂：在局部产生碱性环境，抑制细菌繁殖，用于口腔根管消毒，为下一步根管充填作准备。主要成分为65.5%的氢氧化钙。作为Ⅱ类医疗器械管理。<br><br>    十五、免散瞳数码眼底照相机：主要用于免散瞳和散瞳条件下对视网膜和眼周组织进行照相、资料存储和图片打印。辅助眼科疾病的临床诊断。由外固视灯帽、外固视灯，自由移动式，带垂直升降的下颌托，额头支撑部和固视灯底座，显示器、照相机部和控制系统等组成。作为Ⅱ类医疗器械管理。<br><br>    十六、齿科膜片：由树脂制成，直接放置于患者口中，用于矫正牙齿。置于患者口中时间长短依据需要调整。作为Ⅱ类医疗器械管理。<br><br>    十七、PACSBROKER软件：用于RIS、PACS和成像设备之间数据交换。具备数据校准功能。作为Ⅱ类医疗器械管理。<br><br>    十八、医用培养瓶专用增菌液：由纯净水、牛血清白蛋白、氯化钠、油酸、皂角苷组成。皂角苷作为溶胞剂，促进血细胞溶解。其它成份可为标本中的分枝杆菌提供最佳生长条件，提高分枝杆菌的生长速度。作为Ⅱ类医疗器械管理。<br><br>    十九、儿童辅助诊疗软件：与儿童保健系列软件中的心理测评软件相配合，对儿童的排泄障碍、抽动障碍、精神障碍进行标准的诊断和治疗，可自动得出疑似诊断及确定诊断结果。作为Ⅱ类医疗器械管理。<br><br>    二十、医用真空负压机：用于医用气体导管系统。由真空泵、真空罐、管路、接头和电控箱组成。通过真空泵抽吸，使系统各管路产生负压值。作为Ⅱ类医疗器械管理。<br><br>    二十一、医用空气压缩机：用于医用气体导管系统。由气罐、连接装置和电控箱组成。作为Ⅱ类医疗器械管理。<br><br>    二十二、牙科手机用电动马达：由控制组件和马达组成。与牙科综合治疗台的牙科手机配套使用。作为Ⅱ类医疗器械管理。<br><br>    二十三、比浊仪：在细菌鉴定和药敏实验前，通过光电比色原理测定待测菌液的浓度。作为Ⅱ类医疗器械管理。<br><br>    二十四、无菌密封插头、无菌液体转移接头、无菌液体转移器：用于药物和液体之间混合、转移。作为Ⅱ类医疗器械管理。<br><br>    二十五、吸收试验Flex试剂盒：主要成分为硫酸钴（Ⅱ），用于检查在临床化学系统上进行液体测量和光度学测量系统正常运行的情况。作为Ⅰ类医疗器械管理。<br><br>    二十六、菌斑染色片：主要成分为四碘荧光素钠。用于显示牙面菌斑，提高刷牙的质量和效果。作为Ⅰ类医疗器械管理。<br><br>    二十七、恢复液：由甘油、油酸、钠盐、纯水组成。与结核分枝杆菌药敏试剂盒配合使用，保证进行药敏试验的分枝杆菌良好生长。作为Ⅰ类医疗器械管理。<br><br>    二十八、牙科种植体手术用工具：可重复使用，包含旋入连接器、连接圈、旋入扳手、延长杆、DA把持器、粗/细探测器、螺丝刀、自停套、抛光保护帽、磨合杆、取模柱扳手、取模柱、技工修复螺丝、替代体、转移帽、螺丝取出器、咬合支架、圆口镊子、骨冲顶器、骨扩增器、塑料修复帽。作为Ⅰ类医疗器械管理。<br><br>    二十九、内镜一体化清洗消毒中心：由柜体、注液器、消毒液提示器、消毒电子定时器、水槽、水枪、水泵、气枪、气泵等组成。用于对内镜的清洗消毒。作为Ⅰ类医疗器械管理。<br><br>    三十、细胞保存/防腐液：用于保存进行细胞和组织检查的细胞和组织碎片。作为Ⅰ类医疗器械管理。<br><br>    三十一、比浊管：由一系列标准浊度的试管组成。通过目测比较待测菌液与标准菌液浓度来大致确定待测菌液浓度。作为Ⅰ类医疗器械管理。<br><br>    三十二、耳鼻喉科通用手术器械套装：可重复使用，包含手柄、软骨剪、筛骨钳、双匙钳、双勺钳、勺钳、淋巴组织钳、棉花钳、持针器、探针、孔口探头、海绵夹、喉头镜、扁桃体分离器、牵拉器、嘴塞、耳用诊视器、鼓膜打孔器、打孔器、打结前伸装置、打结促进器、勒除器、扩张器、扩张钳、解剖器、胸架、压板、放大镜。作为Ⅰ类医疗器械管理。<br><br>    三十三、呼吸肌训练器：含有独立的流量单向阀门，在人体呼气和吸气时保证持续的阻力。用于胸部理疗中对呼吸肌进行锻炼。作为Ⅰ类医疗器械管理。<br><br>    三十四、清洗用生理氯化钠溶液：用于清洗浸泡手术器械。不作为医疗器械管理。<br><br>    三十五、扩大针测量尺和扩大针放置盒：用于测量扩大针长度及放置扩大针。不作为医疗器械管理。<br><br>    三十六、医用杯：耳鼻喉科通用手术器械包含的组件。用于放置手术中的脂棉、轻擦液和组织。不作为医疗器械管理。<br><br>    三十七、放射科信息系统：用于登记患者身份，分配检查机房。提供专业的报告模板方便放射科医师报告撰写和审核。并对放射科内信息进行统计，提升科室管理。不作为医疗器械管理。<br><br>    三十八、万向型手术床麻醉与监护管线固定架：用于固定麻醉及监护管线，减少术中病人麻醉及监护管线脱落扭曲，危及病人生命安全。不作为医疗器械管理。<br><br>    三十九、儿童保健系列软件：包含生长发育软件、营养评估软件、骨龄测评软件、心理测评软件、图片词汇测试软件、儿童注意力训练软件。不作为医疗器械管理。<br><br>    四十、血浆凝固仪清洗液：用于洗涤血凝仪上的探针、管路。由次氯酸钠、稳定剂、防腐剂组成。不作为医疗器械管理。<br><br>    四十一、尼古丁电子雾化器：用于顺利消除戒烟者身体对烟碱的生理需求，解除烟瘾，缓解戒断症状。不作为医疗器械管理。<br><br>    四十二、电动代步车：用于行动有困难的残疾人与年老体弱者日常出行的代步工具。不作为医疗器械管理。<br><br>    四十三、蛋白分析仪清洗剂：不作为医疗器械管理。<br><br>    四十四、医院信息管理系统：为医院管理者提供分析所需的各类业务统计数据，并从不同角度实时了解医院各部门运行状态，使管理做到统筹规划。不作为医疗器械管理。<br><br>    四十五、检验科信息管理系统：通过连接实验仪器与计算机，实现病人化验单录入、检验报告的自动生成、报告的打印与传输、实验数据的统计与分析等方面智能化、自动化和规范化管理。无治疗、诊断作用。不作为医疗器械管理。<br><br>国家食品药品监督管理局<br>二○○六年六月十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部<BR>&nbsp;&nbsp;【发布文号】商运字[2006]8号<BR>&nbsp;&nbsp;【发布日期】2006-03-03<BR>&nbsp;&nbsp;【生效日期】2006-03-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://sztb.mofcom.gov.cn/aarticle/zhengcfg/d/200603/20060301681819.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部办公厅关于实施生猪屠宰企业资质等级认定试点工作的通知<br><br></font>(商运字[2006]8号)</p><br><br><br>    为进一步贯彻落实《生猪屠宰管理条例》及《国务院关于进一步加强食品安全工作的决定》（国发〔2004〕23号）文件精神，规范生猪定点屠宰企业的行为，促进屠宰行业技术进步，为消费者消费优质肉提供一个选择机会，为“加强畜禽屠宰业管理，打破地方封锁，鼓励质量优、信誉好、品牌知名度高的食品在全国流通”创造条件，商务部决定对生猪定点屠宰企业实行资质等级认定试点工作（以下简称资质等级认定）。现将有关事项通知如下： <br><br>    一、认定范围 <br><br>    资质等级认定是指商务主管部门依据《生猪屠宰企业资质等级要求》(SB/T 10396-2005)行业标准，并按照规定程序对生猪定点屠宰企业的基本资质、环境和建设、设施和设备、屠宰加工、屠宰检验、卫生控制、运输条件和产品质量进行审查，确认其资质等级的活动。 <br><br>    资质等级认定范围：为保证资质等级认定工作的有效开展，为全面开展此项工作积累经验，决定先以北京、河北、黑龙江、山东、河南、湖北和四川等七省市作为资质等级认定试点省市，并逐步向全国推广。本次资质认定范围为试点省市内依照《生猪屠宰管理条例》批准设立的生猪定点屠宰企业。如果一个企业有多个分厂，应按照各厂的实际情况分别认定等级。同时，按照属地管理的原则，一个企业在不同地区设立分厂，分厂应向所在地区商务主管部门申请资质等级认定（未在本次试点省市范围内的分厂暂不进行资质等级认定）。 <br><br>    二、组织管理 <br><br>    商务部统一组织生猪屠宰企业资质等级认定试点工作，并负责试点省市四☆级以上企业的资质等级认定；试点省市的省级商务主管部门（以下简称省级商务主管部门）负责本地区三☆级以下企业的资质等级认定。 <br><br>    商务部和省级商务主管部门分别成立商务部生猪屠宰企业资质等级认定专家委员会（以下简称商务部专家委员会）和省级生猪屠宰企业资质等级认定专家委员会（以下简称省级专家委员会），并分别成立资质等级认定审查组（以下简称审查组），具体负责资质等级认定工作的实施。 <br><br>    （一）商务主管部门在资质等级认定试点工作中的具体要求 <br><br>    1.商务部负责制定认定管理工作程序及相关的管理制度；协调各地资质等级认定工作；监制并管理证书、标牌和标志；监督指导商务部专家委员会的工作；负责试点省市四☆级以上企业资质等级认定的批准、发牌、发证和公告。 <br><br>    2.省级商务主管部门负责本地区的资质认定管理工作；监督指导省级专家委员会的工作；负责本地区三☆级以下企业资质等级认定的批准、发牌、发证和公告。 <br><br>    （二）专家委员会和审查组的职责及人员组成 <br><br>    1.商务部专家委员会 <br><br>    由商务部组织行业管理部门、科研机构和行业协会等专家组成，人数为15人。其主要职责是：根据省级商务主管部门文件审查的结果，委派审查组对申请四☆级以上资质等级认定的企业进行现场审查，并根据审查组的现场审查报告认定企业资质等级。 <br><br>    2.省级专家委员会 <br><br>    由省级商务主管部门根据商务部的统一要求，组织本地区的行业管理部门、科研机构和行业协会等专家组成，人数为9人。其主要职责是：组织审查组对本地区所有申请企业进行文件审查，委派审查组对本地区申请三☆级以下资质等级的企业进行现场审查，并根据审查组的现场审查报告认定企业资质等级。 <br><br>    3.审查组 <br><br>    审查组由具备相关专业技术背景，并获得“生猪屠宰企业资质等级认定资格证书”的人员（以下简称审查员）组成，每个审查组成员一般为3人，可根据企业规模增至5或7人。审查组组长由专家委员会指定，实行组长负责制。其主要职责是：按照规定程序对申请资质等级认定的企业进行现场审查，并向专家委员会提交审查报告。 <br><br>    省级商务主管部门根据本地区资质认定工作的需要，建立资质等级认定专家库，将获得“生猪屠宰企业资质等级认定资格证书”的审查员纳入专家库进行管理。在资质等级认定试点工作中。审查组成员由专家委员会从专家库中随机抽取。 <br><br>    三、认定程序 <br><br>    （一）申请及受理 <br><br>    省级商务主管部门按照规定的时间和程序组织本地区企业申请，并在收到企业申请材料后由省级专家委员会做出是否受理的决定。受理的，进入文件审查阶段，不予受理的，应向企业说明理由。 <br><br>    （二）文件审查 <br><br>    省级专家委员会组织审查组负责本地区所有申请企业的文件审查工作，并将通过审查的申请四☆级以上资质认定企业的材料报送商务部。 <br><br>    通过文件审查的企业，进入现场审查阶段；未通过文件审查的企业，审查组应提出理由及整改指导意见，并通知企业。 <br><br>    （三）现场审查 <br><br>    申请三☆级以下资质认定的企业由省级专家委员会委派审查组进行现场审查；申请四☆级以上资质认定的企业由商务部专家委员会委派审查组进行现场审查。审查组应接受专家委员会的领导并严格按照有关管理程序和要求开展工作，审查组组长对其负责审查项目的过程及结果负责。 <br><br>    现场审查结束后，审查组提出审查意见后报相应的专家委员会进行资质等级认定。 <br><br>    （四）等级认定 <br><br>    1. 三☆级以下企业的认定 <br><br>    省级商务主管部门根据省级专家委员会提出的认定意见审定企业资质等级。通过认定的，由省级商务主管部门向企业发放资质等级证书、标牌，授权其使用资质认定等级标志，同时将认定批准结果分别报商务部备案、抄送当地省（市）人民政府并向社会公告。未通过认定的，由省级专家委员会提出整改指导意见，企业整改结束后再次进行资质认定申请。 <br><br>    2. 四☆级以上企业的认定 <br><br>    商务部根据商务部专家委员会提出的认定意见审定企业资质等级。通过认定的，由商务部向企业发放资质等级证书、标牌，授权其使用资质认定等级标志，同时向社会公告。未通过认定的，由商务部专家委员会提出整改指导意见，企业整改结束后再次进行资质认定申请。 <br><br>    为保证资质等级认定试点工作的公正、公平和科学性，对资质等级认定结果有异议的，申请企业可在认定结果公布之日起15个工作日内向省级商务主管部门或商务部申请复评。商务主管部门应在15个工作日内做出是否受理的决定，对决定受理的企业应在30个工作日内做出复评结论，并将结果公布和通知企业。 <br><br>    四、监督管理 <br><br>    （一）企业资质等级认定实行动态管理。商务部和省级商务主管部门每两年对已经认定的企业进行一次复审。复审合格的企业，可以继续使用资质等级认定证书、标牌和标志，并接受专家委员会的监督管理；复审不合格的企业降低或者撤消资质等级证书，并予以公告。 <br><br>    （二）企业申请晋级需在取得证书满一年后进行申报，并按照申报等级要求进行认定。 <br><br>    （三）生猪屠宰企业应当在其生产经营场所的醒目位置张贴或悬挂认定标牌；并可在宣传材料等信息载体和产品包装上印制认定标志。印制认定标志时可根据需要将认定标志按比例放大或者缩小，但不得变形、变色。 <br><br>    （四）有下列情形之一的，商务主管部门应当撤销企业资质等级认定证书，停止其使用认定标牌和标志，并予以公告： <br><br>    1.丧失相应的资质条件，不具备相应生产经营能力的； <br>    2.停产超过3个月的； <br>    3.因违反有关规定一年内受到两次以上处罚的； <br>    4.检疫、检验制度不落实的； <br>    5.屠宰注水猪、出厂注水肉的； <br>    6.出现其他较严重违法违章行为的。 <br><br>    （五）资质等级晋升或被做出降级处理的企业，商务主管部门应在1个月内督促其及时更换新的等级标志、标牌和证书。 <br><br>    （六）商务部对所有认定的企业进行不定期的抽检，对资质等级予以确认。 <br><br>    五、工作要求 <br><br>    （一）省级商务主管部门应加强对生猪屠宰企业资质等级认定试点工作的组织领导，严格按照规定的权限、程序和要求开展工作。 <br><br>    （二）四☆级以上企业的认定试点工作自本通知发布之日起6个月内完成，三☆级以下企业的认定试点工作自本通知发布之日起一年内完成。省级商务主管部门应结合本地区实际情况，制定相应的工作计划并予以落实。 <br><br>    （三）资质等级认定试点工作结束后，商务部结合试点省市资质等级认定工作经验，制定向全国范围推广的资质等级认定工作实施方案。 <br><br>    （四）资质等级认定人员必须遵循客观、科学、公正、高效的原则，恪尽职守，严格按照有关标准和工作程序的要求，实事求是做出认定判断，保证认定试点工作质量。 <br>     <br>    （五）若资质等级认定结果与实际不符或发现有违反本通知及相应的工作程序和要求，进行暗箱操作、徇私舞弊的，一经查实，予以严肃处理。 <br><br>    （六）未经认定和认定不符合一☆级以上要求的企业由省级商务主管部门向社会公告并抄送当地人民政府。 <br><br>    （七）省级商务主管部门应根据认定工作的需要确定专家库人数，请于2006年3月20日前将负责本省市资质认定试点工作的联系人及本省市推荐的专家委员会成员名单及联系方式（见附件）报商务部畜禽屠宰管理办公室，同时将电子版发送至zhongh_scyx@mofcom.gov.cn。 <br><br>        联系人：张萍萍、冯梁 <br>        电 话：010－85226327、010-85226422 <br>        传 真：010-65135863 <br>        地 址：北京市东城区东安门大街82号 <br>        邮 编：100747 <br><br>    附件：试点省市资质认定试点工作联系人及专家委员会成员推荐名单 <br><br>                                                        二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

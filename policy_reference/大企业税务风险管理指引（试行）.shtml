@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2009]90号<BR>&nbsp;&nbsp;【发布日期】2009-05-05<BR>&nbsp;&nbsp;【生效日期】2009-05-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/9076046.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>大企业税务风险管理指引（试行）<br> <br></font>(国税发[2009]90号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    为了加强大企业税收管理及纳税服务工作，指导大企业开展税务风险管理，防范税务违法行为，依法履行纳税义务，现将《大企业税务风险管理指引（试行）》印发给你们，请组织宣传，辅导企业参照实施，并及时将实施过程中发现的问题和建议反馈税务总局。<br><br>附件：大企业税务风险管理指引（试行）<br><br>国家税务总局<br>二○○九年五月五日 <br><br><br>大企业税务风险管理指引（试行）<br><br>1	总则<br>1.1	本指引旨在引导大企业合理控制税务风险，防范税务违法行为，依法履行纳税义务，避免因没有遵循税法可能遭受的法律制裁、财务损失或声誉损害。<br>1.2	税务风险管理的主要目标包括：<br>?	税务规划具有合理的商业目的，并符合税法规定；<br>?	经营决策和日常经营活动考虑税收因素的影响，符合税法规定；<br>?	对税务事项的会计处理符合相关会计制度或准则以及相关法律法规；<br>?	纳税申报和税款缴纳符合税法规定；<br>?	税务登记、账簿凭证管理、税务档案管理以及税务资料的准备和报备等涉税事项符合税法规定。<br>1.3	企业可以参照本指引，结合自身经营情况、税务风险特征和已有的内部风险控制体系，建立相应的税务风险管理制度。税务风险管理制度主要包括：<br>?	税务风险管理组织机构、岗位和职责；<br>?	税务风险识别和评估的机制和方法；<br>?	税务风险控制和应对的机制和措施；<br>?	税务信息管理体系和沟通机制；<br>?	税务风险管理的监督和改进机制。<br>1.4	税务机关参照本指引对企业建立与实施税务风险管理的有效性进行评价，并据以确定相应的税收管理措施。<br>1.5	企业应倡导遵纪守法、诚信纳税的税务风险管理理念，增强员工的税务风险管理意识，并将其作为企业文化建设的一个重要组成部分。<br>1.6	税务风险管理由企业董事会负责督导并参与决策。董事会和管理层应将防范和控制税务风险作为企业经营的一项重要内容，促进企业内部管理与外部监管的有效互动。<br>1.7	企业应建立有效的激励约束机制，将税务风险管理的工作成效与相关人员的业绩考核相结合。<br>1.8	企业应把税务风险管理制度与企业的其他内部风险控制和管理制度结合起来，形成全面有效的内部风险管理体系。<br><br>2	税务风险管理组织<br>2.1	企业可结合生产经营特点和内部税务风险管理的要求设立税务管理机构和岗位，明确岗位的职责和权限。<br>2.2	组织结构复杂的企业，可根据需要设立税务管理部门或岗位：<br>?	总分机构，在分支机构设立税务部门或者税务管理岗位；<br>?	集团型企业，在地区性总部、产品事业部或下属企业内部分别设立税务部门或者税务管理岗位。<br>2.3	企业税务管理机构主要履行以下职责：<br>?	制订和完善企业税务风险管理制度和其他涉税规章制度；<br>?	参与企业战略规划和重大经营决策的税务影响分析，提供税务风险管理建议；<br>?	组织实施企业税务风险的识别、评估，监测日常税务风险并采取应对措施； <br>?	指导和监督有关职能部门、各业务单位以及全资、控股企业开展税务风险管理工作；<br>?	建立税务风险管理的信息和沟通机制；<br>?	组织税务培训，并向本企业其他部门提供税务咨询；<br>?	承担或协助相关职能部门开展纳税申报、税款缴纳、账簿凭证和其他涉税资料的准备和保管工作；<br>?	其他税务风险管理职责。<br>2.4	企业应建立科学有效的职责分工和制衡机制，确保税务管理的不相容岗位相互分离、制约和监督。税务管理的不相容职责包括：<br>?	税务规划的起草与审批；<br>?	税务资料的准备与审查；<br>?	纳税申报表的填报与审批；<br>?	税款缴纳划拨凭证的填报与审批；<br>?	发票购买、保管与财务印章保管；<br>?	税务风险事项的处置与事后检查；<br>?	其他应分离的税务管理职责。<br>2.5	企业涉税业务人员应具备必要的专业资质、良好的业务素质和职业操守，遵纪守法。<br>2.6	企业应定期对涉税业务人员进行培训，不断提高其业务素质和职业道德水平。<br><br>3	税务风险识别和评估<br>3.1	企业应全面、系统、持续地收集内部和外部相关信息，结合实际情况，通过风险识别、风险分析、风险评价等步骤，查找企业经营活动及其业务流程中的税务风险，分析和描述风险发生的可能性和条件，评价风险对企业实现税务管理目标的影响程度，从而确定风险管理的优先顺序和策略。企业应结合自身税务风险管理机制和实际经营情况，重点识别下列税务风险因素：<br>?	董事会、监事会等企业治理层以及管理层的税收遵从意识和对待税务风险的态度；<br>?	涉税员工的职业操守和专业胜任能力；<br>?	组织机构、经营方式和业务流程；<br>?	技术投入和信息技术的运用；<br>?	财务状况、经营成果及现金流情况；<br>?	相关内部控制制度的设计和执行；<br>?	经济形势、产业政策、市场竞争及行业惯例；<br>?	法律法规和监管要求；<br>?	其他有关风险因素。<br>3.2	企业应定期进行税务风险评估。税务风险评估由企业税务部门协同相关职能部门实施，也可聘请具有相关资质和专业能力的中介机构协助实施。<br>3.3	企业应对税务风险实行动态管理，及时识别和评估原有风险的变化情况以及新产生的税务风险。<br><br>4	税务风险应对策略和内部控制<br>4.1	企业应根据税务风险评估的结果，考虑风险管理的成本和效益，在整体管理控制体系内，制定税务风险应对策略，建立有效的内部控制机制，合理设计税务管理的流程及控制方法，全面控制税务风险。<br>4.2	企业应根据风险产生的原因和条件从组织机构、职权分配、业务流程、信息沟通和检查监督等多方面建立税务风险控制点，根据风险的不同特征采取相应的人工控制机制或自动化控制机制，根据风险发生的规律和重大程度建立预防性控制和发现性控制机制。<br>4.3	企业应针对重大税务风险所涉及的管理职责和业务流程，制定覆盖各个环节的全流程控制措施；对其他风险所涉及的业务流程，合理设置关键控制环节，采取相应的控制措施。<br>4.4	企业因内部组织架构、经营模式或外部环境发生重大变化，以及受行业惯例和监管的约束而产生的重大税务风险，可以及时向税务机关报告，以寻求税务机关的辅导和帮助。<br>4.5	企业税务部门应参与企业战略规划和重大经营决策的制定，并跟踪和监控相关税务风险。<br>4.5.1	企业战略规划包括全局性组织结构规划、产品和市场战略规划、竞争和发展战略规划等。<br>4.5.2	企业重大经营决策包括重大对外投资、重大并购或重组、经营模式的改变以及重要合同或协议的签订等。<br>4.6	企业税务部门应参与企业重要经营活动，并跟踪和监控相关税务风险。<br>4.6.1	参与关联交易价格的制定，并跟踪定价原则的执行情况。<br>4.6.2	参与跨国经营业务的策略制定和执行，以保证符合税法规定。<br>4.7	企业税务部门应协同相关职能部门，管理日常经营活动中的税务风险：<br>4.7.1	参与制定或审核企业日常经营业务中涉税事项的政策和规范；<br>4.7.2	制定各项涉税会计事务的处理流程，明确各自的职责和权限，保证对税务事项的会计处理符合相关法律法规；<br>4.7.3	完善纳税申报表编制、复核和审批、以及税款缴纳的程序，明确相关的职责和权限，保证纳税申报和税款缴纳符合税法规定；<br>4.7.4	按照税法规定，真实、完整、准确地准备和保存有关涉税业务资料，并按相关规定进行报备。<br>4.8	企业应对发生频率较高的税务风险建立监控机制，评估其累计影响，并采取相应的应对措施。<br><br>5	信息与沟通<br>5.1	企业应建立税务风险管理的信息与沟通制度，明确税务相关信息的收集、处理和传递程序，确保企业税务部门内部、企业税务部门与其他部门、企业税务部门与董事会、监事会等企业治理层以及管理层的沟通和反馈，发现问题应及时报告并采取应对措施。<br>5.2	企业应与税务机关和其他相关单位保持有效的沟通，及时收集和反馈相关信息。<br>5.2.1	建立和完善税法的收集和更新系统，及时汇编企业适用的税法并定期更新；<br>5.2.2	建立和完善其他相关法律法规的收集和更新系统，确保企业财务会计系统的设置和更改与法律法规的要求同步，合理保证会计信息的输出能够反映法律法规的最新变化。<br>5.3	企业应根据业务特点和成本效益原则，将信息技术应用于税务风险管理的各项工作，建立涵盖风险管理基本流程和内部控制系统各环节的风险管理信息系统。<br>5.3.1	利用计算机系统和网络技术，对具有重复性、规律性的涉税事项进行自动控制；<br>5.3.2	将税务申报纳入计算机系统管理，利用有关报表软件提高税务申报的准确性；<br>5.3.3	建立年度税务日历，自动提醒相关责任人完成涉税业务，并跟踪和监控工作完成情况；<br>5.3.4	建立税务文档管理数据库，采用合理的流程和可靠的技术对涉税信息资料安全存储；<br>5.3.5	利用信息管理系统，提高法律法规的收集、处理及传递的效率和效果，动态监控法律法规的执行。<br>5.4	企业税务风险管理信息系统数据的记录、收集、处理、传递和保存应符合税法和税务风险控制的要求。<br><br>6	监督和改进<br>6.1	企业税务部门应定期对企业税务风险管理机制的有效性进行评估审核，不断改进和优化税务风险管理制度和流程。<br>6.2	企业内部控制评价机构应根据企业的整体控制目标，对税务风险管理机制的有效性进行评价。<br>6.3	企业可以委托符合资质要求的中介机构，根据本指引和相关执业准则的要求，对企业税务风险管理相关的内部控制有效性进行评估，并向税务机关出具评估报告。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

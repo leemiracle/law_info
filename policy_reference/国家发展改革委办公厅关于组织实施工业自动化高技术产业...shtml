@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2004-03-01<BR>&nbsp;&nbsp;【生效日期】2004-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委办公厅<br>关于组织实施工业自动化高技术产业化专项的公告</font></p><br><br><br>    为推动我国工业自动化工业的发展，根据“十五”国民经济和社会发展规划，我委决定在2004年―2005年期间，以示范具有自主知识产权的新型大型复杂自动化系统和装置为中心，实施工业自动化高技术产业化专项。现公告如下：<br><br>    一、专项的主要内容。工业自动化专项从我国产业结构调整、先进制造业基地建设、传统工业技术改造和国民经济发展的需求出发，并结合国外信息技术、智能技术等发展趋势，重点围绕可形成我国自动化优势的四个领域开展产业化示范工作：<br><br>    （一）大型复杂过程综合自动化系统。针对冶金、发电、石化、等大型企业的大型复杂系统，开发集检测、控制、优化、调度、管理和决策等功能于一身的高柔性、高效率、高质量的自动化系统，主要包括先进控制、装置优化、实时监控、生产管理、优化调度、软测量、应用软件等集成为一体化的软件系统和信息集成软件平台，基于工业以太网的现场总线技术（含实时通讯技术、总线供电技术、远距离传输技术、互可操作技术、网络安全技术和可靠性技术），具有高适应性、高可靠性和高稳定性的新一代集散控制系统（DCS）、现场总线控制系统（FCS）等主控系统和可编程控制系统等。<br><br>    （二）连续工业大型装备自动化成套系统。针对大型发电机、大型汽轮机、大型连轧机、大型注塑机等大型装备，开发与之配套的自动化成套系统，重点解决系统集成问题，包括综合运用装备建模技术、先进控制技术、装备优化技术、数据挖掘技术、故障诊断技术，搭建高可靠的软件平台，同时提炼一批新一代主控系统，形成大型装备自动化成套系统。<br><br>    （三）公用工程大型装备智能化专用控制装置。针对各类大型与特大型工程、口岸、矿山、机械、交通等行业的大型挖掘机、大型超重机、大型装载机、大型摊铺机、大型运输机、大型凿岩机等大型装备与系统监控，开发与之配套的智能化专用控制装置，重点解决智能故障诊断技术、智能节能控制技术、指导与操作控制技术、智能操纵控制技术和发动机燃烧控制技术等软件技术，以及机、电、液高度综合的硬件技术，形成公用工程大型装备智能化专用控制装置。<br><br>    （四）智能变送器与执行器。根据广义工业自动化的迫切需要，以特种检测、特种变送器、特种执行器和传感器为重点，以微型化、数字化、智能化、集成化、网络化、高精度、高可靠性、高环境适应性为特色，重点促进体积小、重量轻、成本低、功耗小的新型智能执行器。<br><br>    二、专项的主要目标。通过本专项的实施，在上述四个领域形成新型关键部件、仪表、装置、系统、大系统（综合自动化系统）开发平台，带动整个工业自动化产业链的发展，力求在5年内实现：<br><br>    （一）形成技术创新和综合自动化产品设计能力。形成一批具有市场竞争力、技术持续创新能力和产品设计能力的公司，特别是在工业以太网现场总线技术、工厂综合信息集成平台技术、新一代主控系统技术、远程监控与远程维护技术、特种变送器技术和大型装备智能故障诊断技术等共性技术方面，取得重大突破。全国形成年设计万套系统、开发千种产品、实现百项专利的目标。形成自动化技术创新与产业化良性发展的机制，改变产业创新能力低，自主知识产权匮乏的现状，进一步增强产业发展的技术基础。<br><br>    （二）在大型工程中树立国产大型自动化系统的业绩。对具有高度不确定性、非线性、多元性、关联性和综合性的大型复杂过程，采用本专项的研究开发成果，实施工厂综合自动化，并进行工程化、商品化考核。主要措施是在冶金、发电、石化、建材、造纸等大型企业或国家重大工程，针对上述四个领域，分别建设大型复杂自动化系统应用示范工程，加速研究、开发、工程、产业化示范的一体化进程。<br><br>    三、实施专项的基本原则。为确保本专项实施能够取得良好效果，要把握好以下原则：<br><br>    （一）技术优势与市场开拓相结合。坚持扶优扶强，重点支持，选择既有技术优势和创新能力，又有市场开拓精神的单位，实施产业化示范项目。<br><br>    （二）技术、装备、系统开发与应用示范工程相结合。特别是要优先选择与国家重大工程建设相结合的自动化系统开展产业化示范。<br><br>    （三）国家支持力度与产业化风险程度相结合。特别是对开发和产业化应用大型自动化平台技术进行重点支持。采取滚动支持的办法，提高资金的使用效率。<br><br>    （四）产业化与提升产品设计和集成能力相结合。实施项目的主要形式包括，在具有技术和产品优势的单位、区域设立工业自动化产品设计公司，对重要的新型自动化综合系统、装置、优化控制软件、关键组件、智能仪表与执行器、大型复杂系统的首次工业应用等进行产业化示范。<br><br>    （五）有限时间、有限目标与加强监督相结合。本专项的实施期为2年，每年实施的项目总数大体控制在20项之内。在项目实施过程中，加强项目监督，委托中介机构或组织专家，定期对专项下相关项目执行情况进行监督检查，确保项目的高效实施。<br><br>    四、申请专项实施的进度安排和相关要求。2004年、2005年每年集中受理一次专项申请，当年专项申请截止时间为6月底。请有关部门和地方发改委（计委）根据《国家计委、财政部印发关于组织国家高技术产业发展项目计划实施意见的通知》（计高技[2000]2433号）、并参照《关于印发〈国家工程研究中心管理办法（试行）〉的通知》（计科技[1992]2239号）和本专项实施方案的精神，结合本部门、本地区的实际情况，认真组织、遴选有关项目，并将项目汇总后一并将建议书报送我委。<br><br>    专此公告。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

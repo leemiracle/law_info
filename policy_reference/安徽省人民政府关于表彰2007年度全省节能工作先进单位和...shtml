@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政秘〔2008〕74号<BR>&nbsp;&nbsp;【发布日期】2008-07-23<BR>&nbsp;&nbsp;【生效日期】2008-07-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ahzwgk.gov.cn/XxgkNewsHtml/OA001/200807/OA001010503200807007.html" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于表彰2007年度全省节能工作先进单位和先进个人的通报<br><br></font>(皖政秘〔2008〕74号)</p><br><br> <br>各市、县人民政府，省政府各部门、各直属机构：<br>    2007年，全省上下认真学习贯彻党的十七大精神，以科学发展观为指导，深入落实省委、省政府关于加强节能工作的一系列部署和要求，节能工作取得积极进展，全省万元GDP能耗继2006年比上年下降3?44%之后，2007年又下降4?106%，涌现了一大批节能工作先进单位和先进个人。<br>    为表彰先进，根据《安徽省人民政府关于印发全省节能减排工作方案的通知》（皖政〔2007〕67号）、《安徽省人民政府批转安徽省节能减排统计监测及考核实施方案和办法的通知》（皖政〔2008〕9号）要求，结合对各单位2007年节能目标责任的评价考核结果，省政府决定授予合肥市政府等4个单位“2007年度节能目标超额完成奖”，铜陵市政府等17个单位“2007年度节能目标完成奖”，合肥四方化工集团有限责任公司等71户企业“2007年度安徽省节能先进企业”称号，解光平等198名同志“2007年度安徽省节能先进个人”称号（具体名单附后）。<br>    希望受到表彰的单位和个人珍惜荣誉，再接再厉，锐意进取，再创佳绩。各地、各有关单位要深入贯彻落实科学发展观，开拓创新，强化措施，继续扎实做好节能工作，为实现“十一五”末全省万元GDP能耗降低20%的目标，为我省经济社会又好又快发展做出新的更大贡献。<br><br>二○○八年七月二十三日<br><br><br>附件<br>2007年度全省节能工作先进单位和先进个人名单<br><br>一、2007年度节能目标超额完成奖<br>合肥市人民政府<br>淮北市人民政府<br>省建设厅<br>省质量技术监督局<br>二、2007年度节能目标完成奖<br>铜陵市人民政府<br>滁州市人民政府<br>亳州市人民政府<br>宣城市人民政府<br>宿州市人民政府<br>淮南市人民政府<br>安庆市人民政府<br>马鞍山市人民政府<br>蚌埠市人民政府<br>黄山市人民政府<br>池州市人民政府<br>巢湖市人民政府<br>省交通厅<br>省商务厅  <br>省水利厅<br>省农业委员会  <br>省直机关事务管理局<br>三、2007年度安徽省节能先进企业<br>合肥四方化工集团有限责任公司<br>安徽丰原生物化学股份有限公司<br>安徽临泉县化工股份有限公司<br>安徽昊源化工集团有限公司<br>淮南矿业（集团）有限责任公司<br>马鞍山钢铁股份有限公司（含马钢合肥钢铁公司）<br>中橡（马鞍山）化学工业有限公司<br>安徽皖维高新材料股份有限公司<br>芜湖新兴铸管有限责任公司<br>安徽海螺水泥股份有限公司白马山水泥厂<br>安徽荻港海螺水泥股份有限公司<br>安徽海螺水泥股份有限公司宁国水泥厂<br>铜陵有色金属集团控股有限公司<br>铜陵钢铁股份有限公司<br>铜陵皖能发电有限公司<br>安徽铜陵海螺水泥有限公司<br>铜陵化工工业集团有限公司<br>安徽池州海螺水泥股份有限公司<br>中国石油化工股份有限公司安庆分公司<br>中国石化集团资产经营管理公司安庆分公司<br>安徽怀宁海螺水泥有限公司<br>安徽枞阳海螺水泥股份有限公司<br>安徽海丰精细化工股份有限公司<br>安徽龙源化工有限公司<br>合肥炭素有限责任公司<br>安徽江淮汽车集团有限公司<br>安徽安利合成革股份有限公司<br>合肥美菱集团控股有限公司<br>合肥金钟纸业股份有限公司<br>合肥荣事达集团有限责任公司<br>合肥安能热电有限公司<br>安徽金冠玻璃有限责任公司<br>长源（淮北）焦化有限公司<br>安徽宿州汇源发电有限责任公司<br>宿州市信诚化工有限公司<br>安徽省皖北药业股份有限公司<br>安徽华光玻璃集团有限公司<br>华润雪花啤酒（安徽）有限公司蚌埠分公司<br>安徽省金种子集团有限公司<br>安徽省国祯太平洋电力有限公司<br>淮南舜岳水泥有限责任公司<br>安徽发强玻璃有限责任公司<br>安徽德邦化工有限公司<br>滁州金丰化工有限责任公司<br>安徽金禾实业股份有限公司<br>中盐东兴盐化股份有限公司<br>安徽龙盛化工有限公司<br>安徽天大企业（集团）有限公司<br>安徽世林照明股份有限公司<br>安徽山鹰纸业股份有限公司<br>安徽大平工贸有限公司<br>安徽省润基水泥有限责任公司<br>安徽省含山瓷业股份有限公司<br>安徽大江股份有限公司<br>芜湖市红花山水泥有限责任公司<br>芜湖市新马水泥有限责任公司<br>芜湖恒鑫铜业集团有限公司<br>奇瑞汽车股份有限公司<br>芜湖恒基矿业中心<br>安徽朱家桥水泥有限公司<br>龙元建设安徽水泥有限公司<br>安徽中天印染股份有限公司<br>芜湖市富鑫钢铁有限公司<br>繁昌县荻港永年水泥粉磨有限责任公司<br>安徽三狮和德水泥有限公司<br>安徽省司尔特肥业股份有限公司宣城分公司<br>铜陵上峰水泥股份有限公司<br>铜陵市长江工业气体有限责任公司<br>安徽华茂集团有限公司<br>安庆新曙光精细化工有限公司<br>黄山市龙胜化工有限公司<br>四、2007年度安徽省节能先进个人<br>合肥市（21人）<br>解光平合肥市委宣传部<br>郭文军合肥市政府办公厅<br>朱明峰合肥市经委<br>承震合肥市经委能源办<br>甄茂盛合肥市建委<br>李祥合肥市农委<br>史义华合肥市人事考试中心<br>何正东合肥市财政局<br>朱策合肥市统计局<br>王传校合肥市总工会<br>安进安徽江淮汽车集团有限公司<br>孙庆丰合肥美菱包装制品有限公司<br>徐昌军洽洽食品股份有限公司<br>董亮安徽氯碱化工集团有限责任公司<br>陶克扬合肥四方化工集团有限责任公司<br>胡传义合肥炭素有限责任公司<br>潜建江安徽金牛水泥有限公司<br>周淑鼎马钢（合肥）钢铁有限责任公司<br>刘家仓安徽中烟工业公司合肥卷烟厂<br>程键安徽佳通轮胎有限公司<br>何勇合肥统一企业有限公司<br>淮北市（8人）<br>徐超淮北市经委<br>马金峰淮北市经委能源办<br>王淑真淮北市统计局<br>吕伯乐濉溪县经委<br>高贵仁大唐淮北发电厂<br>陈先军长源（淮北）焦化有限公司<br>李俊淮北国安电力有限公司<br>丁淮南淮北矿业（集团）有限责任公司<br>亳州市（8人）<br>李永远亳州市经委<br>修志亳州市统计局<br>侯纯标亳州市环保局<br>赵守敏蒙城县万佛塔水泥有限公司<br>胡新远安徽省振华工贸股份有限公司<br>许巨峰亳州古井热电有限责任公司<br>魏长亭安徽新宇纸业有限公司<br>刘万超安徽三星化工有限责任公司<br>宿州市（10人）<br>雷强宿州市工业经济委员会<br>殷滨宿州市节能办<br>朱曙安宿州市质监局<br>任广建宿州市建筑业管理处<br>曹建峰砀山县工业经济委员会<br>贺德府灵璧县工业经济委员会<br>李建设安徽省萧县林平纸业有限公司<br>边爱华安徽中元化工集团有限公司<br>谢林安徽安特生物化学有限公司<br>朱立元安徽省皖北药业股份有限公司<br>蚌埠市（10人）<br>袁宝志蚌埠市经委<br>徐斌蚌埠市交通局<br>董晓莉蚌埠市统计局<br>王亦众蚌埠市质监局<br>刘援朝蚌埠市建委<br>刘军蚌埠涂山热电有限公司<br>何方安徽八一化工股份有限公司<br>陈国良安徽华光玻璃集团有限公司<br>葛翔华润雪花啤酒（安徽）有限公司蚌埠分公司<br>刘昆升安徽丰原生物化学股份有限公司<br>阜阳市（8人）<br>张太斌阜阳市政府<br>范如良阜阳市统计局<br>高峰阜阳市经委<br>李华界首市经委<br>叶明颍上县经委<br>凡殿才安徽昊源化工集团有限公司<br>刘刚安徽临泉县化工股份有限公司<br>唐心尧安徽省颍上鑫泰化工有限责任公司<br>淮南市（9人）<br>杨成淮南市经委<br>牛东铸淮南市经委能源办<br>李景华淮南市建委<br>徐本保淮南市能源监测站<br>朱宗恩安徽淮化集团有限公司<br>周水生淮南矿业（集团）有限责任公司<br>廖延亮安徽发强玻璃有限责任公司<br>阎春海淮南舜岳水泥有限责任公司<br>卜庆义安徽德邦化工有限公司<br>滁州市（11人）<br>吴淑敏滁州市经委<br>刘文斌滁州市财政局<br>杜春花滁州市统计局<br>闵培春安徽天大石油管材股份有限公司<br>皮光宇安徽省琅琊山矿业总公司<br>曾晓程中国扬子集团滁州扬子空调器有限公司<br>曹红权安徽全柴动力股份有限公司<br>程正明安徽金禾实业股份有限公司<br>管宏庆天长缸盖有限公司<br>张勇安徽博奥新型建材有限公司<br>何东翔滁州珍珠水泥有限公司<br>六安市（8人）<br>王大莉六安市经委<br>陶才舒城县经委<br>丁志保霍邱县经委<br>曹德林六安市建委<br>郜兵安徽省六安市建来化工有限公司<br>经怀林安徽世林照明股份有限公司<br>刘宜祥安徽省六安市康乐纸业有限公司<br>周兆泉安徽叶集林星板业有限公司<br>马鞍山市（13人）<br>吴凯马鞍山市经委<br>张立彬马鞍山市财政局<br>韦润翔马鞍山市建委<br>王晓琴马鞍山经济技术开发区管委会<br>钱德俭马鞍山市金家庄区经济贸易和发展改革局<br>陶世宏当涂县经委<br>王红斌安徽山鹰纸业股份有限公司<br>何军马鞍山长途汽车运输有限责任公司<br>翁海胜马鞍山钢铁股份有限公司热电总厂<br>史德明马鞍山钢铁股份有限公司能源环保部<br>李忠祥马鞍山市华科实业有限公司<br>韩仁宝安徽长江钢铁有限责任公司<br>孙晖中橡（马鞍山）化学工业有限公司<br>巢湖市（9人）<br>吴永华巢湖市经委<br>司明巢湖市居巢区经委<br>马仲和含山县经委<br>崔大跃庐江县经委<br>孙重文和县经委<br>马庆华无为县经委<br>李泰安徽皖维高新材料股份有限公司<br>施长平安徽省含山瓷业股份有限公司<br>俞小大安徽大江股份有限公司<br>芜湖市（12人）<br>熊月二芜湖市经委<br>孙四平芜湖市建委<br>朱春建芜湖市统计局<br>崔晓沪芜湖市质监局<br>查林章芜湖市鸠江区经济和发展改革委员会<br>谢启卓繁昌县经委<br>韩必文奇瑞汽车股份有限公司<br>齐美龙龙元建设安徽水泥有限公司<br>洪五林安徽中天印染股份有限公司<br>金光龙芜湖恒鑫铜业集团有限公司<br>李晓东芜湖新兴铸管有限责任公司<br>杨黎明安徽荻港海螺水泥股份有限公司<br>宣城市（9人）<br>刘菊存宣城市经委<br>朱延光宣城市统计局<br>束仁成宣城市宣州区经委<br>胡文军泾县工业经济发展局<br>冯时年安徽广德桐星水泥有限公司<br>陈宗明安徽省凤形耐磨材料股份有限公司<br>郜济宁安徽省司尔特肥业股份有限公司宣城分公司<br>段振洪安徽三狮和德水泥有限公司<br>王和平安徽海螺水泥股份有限公司宁国水泥厂<br>铜陵市（9人）<br>查全林铜陵市工业和信息化局<br>朱海雄铜陵市工业和信息化局<br>钱胜铜陵市统计局<br>苏胜富铜陵市财政局<br>程志翔铜陵皖能发电有限公司<br>谷惠棠铜陵有色金属集团控股有限公司天马山矿<br>范应文铜陵化工工业集团有限公司<br>俞士礼铜陵有色金属集团控股有限公司<br>陈宜生安徽铜陵海螺水泥有限公司<br>池州市（5人）<br>李德元池州市经委<br>尚良智青阳县经委<br>施勤来池州市贵池区经委<br>丁永亮东至县经委<br>李泽伯安徽池州九华发电有限公司<br>安庆市（14人）<br>方平安庆市统计局<br>茅建萍安庆市财政局<br>汪争鸣潜山县经委<br>刘玲霞桐城市经委<br>何四成安徽枞阳海螺水泥股份有限公司<br>黄小明安徽怀宁海螺水泥有限公司<br>余达荣中国石油化工股份有限公司安庆分公司<br>汪晓波安徽省安庆曙光化工（集团）有限公司<br>王耀武安徽华茂集团有限公司<br>陈晓明安庆市氮肥厂<br>陈兴钊安徽省太湖县林星板业有限公司<br>王斌安徽省江通纺织有限公司<br>林新国安庆市宿松互益纺织有限公司<br>储发苗安徽省恒力硅业有限责任公司<br>黄山市（6人）<br>张榕黄山市经委<br>张正东黄山市统计局<br>谢国成黄山市徽州区经委<br>黄莺休宁县经委<br>郑敏黄山永佳（集团）有限公司<br>李娜黄山市龙胜化工有限公司<br>省有关部门（28人）<br>钱岩松省委组织部<br>钱方军省委宣传部<br>朱克春省政府办公厅<br>李晓斌省发展改革委<br>赵德省经委<br>刘少波省科技厅<br>周晓丽省财政厅<br>宰欣欣省人事厅<br>李世蕴省国土资源厅<br>刘兰省建设厅<br>毛荣瑞省交通厅<br>卢业勇省农委<br>杨有枝省水利厅<br>陈源省商务厅<br>李效来省国资委<br>凌和平省国税局<br>郁霞省地税局<br>汤繁省环保局<br>曹多胜省广电局<br>陈正报省统计局<br>王朝忠省工商局<br>荀浩省质监局<br>邓军省管局<br>孙庭佐省物价局<br>吴海明省总工会<br>张昭团省委<br>管维莲省妇联<br>王曙省节能监察中心<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

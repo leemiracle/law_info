@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2008〕60号<BR>&nbsp;&nbsp;【发布日期】2008-07-13<BR>&nbsp;&nbsp;【生效日期】2008-07-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_405/79429.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于保险业参与基本医疗保障管理工作有关问题的通知<br><br></font>(保监发〔2008〕60号)</p><br><br><br>各保监局，各保险公司：<br><br>    近年来，保险业利用自身的专业技术优势，以多种形式积极参与了部分地区的城镇职工或居民基本医疗保险、新农合等基本医疗保障管理工作，积累了一些经验，取得了较好成效。为充分发挥保险的社会管理功能，鼓励和规范保险业进一步做好基本医疗保障管理工作，现将有关问题通知如下：<br><br>    一、保险业应积极探索参与基本医疗保障管理的有效方式，推动医疗保障体系的健康发展。保险业参与基本医疗保障管理要遵循国家有关基本医疗保障政策、法律和行政法规，积极稳妥地做好展业、理赔、服务等管理工作。<br><br>    二、保险业参与基本医疗保障管理原则上应采用委托管理模式提供经办服务，并按照健康保障委托管理业务的有关规定，与政府签订委托管理合同，提供相应管理服务。保险公司收取委托管理服务费用，但不得承担受托管理的医疗保障基金的盈亏和投资风险。<br><br>    采用保险合同模式参与基本医疗保障管理的，应遵守《健康保险管理办法》的有关规定，条件成熟时，应因地制宜逐步向委托管理模式过渡。<br><br>    三、保险公司开展基本医疗保障管理工作原则上应当具备以下条件：一是《健康保险管理办法》第八条所规定的各项条件；二是总公司同意开展管理业务，并提供支持；三是组织健全，内控严密，服务网络完善，在拟开办地区设有分支机构；四是配备基本医疗保障管理专职人员；五是具备较为完善的医疗服务网络及信息管理系统。<br><br>    四、保险公司应采取有效措施，大力提高基本医疗保障管理业务水平。针对基本医疗保障业务特点，制定顺畅、高效的业务流程，简化医疗费用审核及报销程序，缩短报销时间。建立相对独立的基本医疗保障管理业务信息技术系统，完善信息系统功能，保障安全稳定运行。本着方便参保人员就医和有利于风险控制的原则，与政府有关部门合作，搭建布局合理、服务优质、管理规范的医疗服务网络。<br><br>    五、保险公司要加强基本医疗保障管理业务风险管理。建立基本医疗保障管理业务专项资金管理制度，严格财务收支管理，确保基金安全；强化统计分析工作，实时监测业务经营状况；及时跟踪研究国家基本医疗保障政策的发展和变化，注意防范政策风险和道德风险；严格遵守国家相关法律法规，依法合规开展基本医疗保障管理业务。<br><br>    六、保险公司应积极与政府卫生、社会保障等部门沟通，宣传商业保险在建立和完善医疗保障体系中的作用，积极争取政策支持。<br><br>    保险公司应积极争取与有关政府部门建立基本医疗保障信息共享机制，分享基本医疗保障有关数据、信息和资料，建立和完善自身统计与分析制度，夯实健康保险数据基础。<br><br>    七、保险公司开展基本医疗保障管理业务应提前与当地保监局沟通，并于合同签订后十日内向当地保监局报告；提前解除或终止业务的，应提前与政府基本医疗保障管理部门协商一致，认真做好善后和交接工作，维护保险业的形象，并及时告知当地保监局。<br><br>    保险公司参与政府基本医疗保障管理招投标的，总公司应当加强指导，公司总精算师（精算责任人）应当提供声明，保证不以低于成本价或通过贴费方式承接基本医疗保障管理业务。保险公司中标后，应当将中标情况及公司总精算师（精算责任人）的声明向当地保监局报告。<br><br>    八、各保监局应加强基本医疗保障管理业务监管，规范市场秩序，对违规行为或恶性竞争行为依法采取监管措施，维护参保人员和单位的合法权益。<br><br>    九、保险公司应积极开发与基本医疗保障项目对接的补充保险产品，提升对基本医疗保障参保人员的保障程度和层次。积极开发适应基本医疗保障参保人员和单位需求的养老保险、意外伤害保险，开展形式多样的健康管理服务，满足多样化的保障需求。 <br><br>    十、《健康保险管理办法》第二十二条、第二十九条所提到的“公费医疗、社会医疗保险”包括新农合、城镇职工基本医疗保险、城镇居民基本医疗保险等政府举办的基本医疗保障项目。<br><br>    保险公司在销售费用补偿型医疗保险产品时未对投保人是否拥有和使用公费医疗、社会医疗保险进行区别对待的，理赔时也不应区别对待，即赔付时不得先行扣除公费医疗、社会医疗保险已经支付的费用。<br><br>    十一、保险责任仅包含意外事故造成的医疗费用补偿的保险产品，适用《健康保险管理办法》规定。<br><br>    十二、保险业参与城乡医疗救助管理工作的，可参照本通知有关规定执行。<br><br>    本通知自发布之日起实施，以前规定与本通知不一致的，以本通知为准。<br><br>                                    中国保险监督管理委员会<br>                                      二○○八年七月十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

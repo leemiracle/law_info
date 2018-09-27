@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、铁道部、交通部<BR>&nbsp;&nbsp;【发布文号】发改运行[2006]469号<BR>&nbsp;&nbsp;【发布日期】2006-03-22<BR>&nbsp;&nbsp;【生效日期】2006-03-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20060410_65713.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、铁道部、交通部关于加强联运行业管理工作的通知<br><br></font>(发改运行[2006]469号)</p><br><br><br>各省、自治区、直辖市及计划单列市、副省级省会城市、新疆生产建设兵团经委（经贸委），北京市、河北省、河南省、海南省、西藏自治区发展改革委，各铁路局、交通厅（委、局）：<br>    经国务院批准，国家发展改革委等9部门联合印发了《关于促进我国现代物流业发展的意见》(发改运行[2004]1617号)，取消了联运（包括铁路货运代理，以下同）的行政性审批。为落实做好取消联运行政性审批的工作，切实加强对联运业的后续监督和管理，适应市场经济发展需要，建立公开透明、竞争有序的市场环境，促进联运业健康稳步发展，现将有关问题通知如下：<br>    一、联运的基本概念及主要经营范围<br>    联运是指联运经营者受托运人、收货人或旅客的委托，为委托人实现两种以上运输方式（含两种，下同）或两程以上（含两程，下同）运输的衔接，以及提供相关运输物流辅助服务的活动。<br>    联运的主要经营范围包括：办理两种运输方式或两程以上运输之间的衔接业务及提供相关辅助服务；提供货物接取、送达、中转换装和相应的仓储等辅助服务；集装箱多式联运服务；旅客联运代理服务等。<br>    二、清理有关联运管理文件规定<br>    全面清理现有联运管理的有关文件规定，凡违反《中华人民共和国行政许可法》和《关于促进我国现代物流业发展的意见》文件精神，设立的对联运业的行政性审批或审核，应一律予以停止执行。<br>    三、改革联运行政管理方式<br>    取消联运行政性审批后，为加强对联运经营者经营资质和经营行为的监督检查，对联运实行备案登记制，即联运经营者直接向所在地工商行政管理部门办理登记注册后，应主动向所在地联运主管部门备案登记。联运经营者从事公路、水路、铁路、民航运输或运输场站经营，其经营业务需取得相关行业主管部门许可的，应按有关法律、行政法规的规定执行。<br>    四、加快制定联运行业指导性标准<br>    从事联运经营应符合与其经营范围相适应的行业指导标准：有一定的注册资金，有固定的经营场所，拥有（含租赁）一定的仓储场地、装卸设备和运输工具，有熟悉专业技术的从业人员，能独立承担经济和法律责任，并办理工商、税务登记。具体联运行业指导性标准由各省、自治区、直辖市和副省级城市经贸委（经委、交委）、发展改革委根据当地实际自行制定。<br>    五、规范联运市场经营行为<br>    联运经营活动应遵守国家法律、法规和有关规定；坚持服务宗旨，自觉服从市场管理，接受社会监督；依据合同、协议或委托书实行责任代理；不得垄断经营，强制代理，严格执行物价部门规定的收费项目和收费标准，实行明码标价；使用国家税务总局统一制定的《全国联运行业货运统一发票》，凡未到当地联运主管部门登记备案的，不得使用《全国联运行业货运统一发票》。 <br>    六、培育与发展联运市场                      <br>    联运是综合运输体系的重要组成部分，对现代物流的发展举足轻重。各地联运主管部门要会同当地工商、税务、物价、交通运输等部门重视联运市场的培育，密切协调配合，加强对联运市场的监督检查，严厉打击非法经营活动，营造统一开放、竞争有序、运作规范的联运市场环境，制定相应的政策措施，推动联运领域非公经济的发展，加快推进联运的规范化、规模化、网络化和国内外市场的一体化进程。<br>    七、加强联运工作的组织协调<br>    联运是一种先进的运输组织方式，有效地发挥了铁路、公路、水路、航空运输的综合优势，形成高效、便捷、安全的运输服务网络，对方便货主和旅客，降低运输成本，挖掘运输潜力，提高运输效率，创造良好的经济效益和社会效益，促进社会经济发展起到了积极的作用，是我国综合运输的重要组成部分，也是我国现代物流业发展的重要力量。<br>    国家发展改革委将会同铁路、交通、民航、工商、税务、物价等部门继续加强对联运工作的组织协调，进一步推动全国联运工作的发展。各地经贸委（经委、交委）、发展改革委等综合运输协调部门要进一步做好本地区的联运工作，加强对联运市场的监督管理，会同当地有关部门及时研究解决联运发展中的问题，推动本地区联运工作协调健康快速发展。<br><br>国家发展改革委<br>铁    道    部<br>交    通    部<br>二○○六年三月二十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

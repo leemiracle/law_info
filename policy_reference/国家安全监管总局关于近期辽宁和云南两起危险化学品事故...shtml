@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总危化〔2008〕179号<BR>&nbsp;&nbsp;【发布日期】2008-09-27<BR>&nbsp;&nbsp;【生效日期】2008-09-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-09/28/content_288670.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局关于近期辽宁和云南两起危险化学品事故的通报<br><br></font>(安监总危化〔2008〕179号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：<br><br>    2008年9月14日5时50分，位于辽宁省辽阳市灯塔市的金航石油化工有限公司（以下简称金航公司）发生爆炸事故，造成2人死亡、1人下落不明、2人轻伤。金航公司现有员工26人，主要产品为2，6-二叔丁基对甲酚（生产能力700吨/年）和硝酸异辛酯（生产能力200吨/年），发生事故的是硝酸异辛酯生产线。该生产线主要生产工艺过程是，在配制好的硫酸、硝酸混和酸中，缓慢滴加异辛醇进行硝化反应，再经酸洗、碱洗和水洗精制得到成品硝酸异辛酯。经查，该企业的硝化反应釜没有装备高温报警和高温联锁停车及超温时自动排料装置；冷冻盐水系统也没有自动调节装置，仅靠操作工人现场监控、操作。 <br><br>    初步分析，该起事故的主要原因是，在滴加异辛醇进行硝化反应的过程中，当班操作工违章脱岗，反应失控时，没能及时发现和处置，导致反应釜内温度、压力急剧上升，釜内物料从反应釜顶部的排放口喷出，喷到成品库房内的可燃物上，导致着火，引发成品库内堆积的桶装硝酸异辛酯爆炸，并引起厂内其他物料爆炸、燃烧。 <br><br>    2008年9月17日15时35分，位于云南省昆明市寻甸回族彝族自治县的云南南磷集团电化有限公司（以下简称南磷电化公司）发生氯气泄漏事故，造成71人中毒。南磷电化公司目前主要产品为烧碱（生产能力10万吨/年）、聚氯乙烯树脂（生产能力13万吨/年）、液氯（生产能力2万吨/年）。南磷电化公司属新建企业，建设项目已通过安全设施竣工验收，正在申请领取安全生产许可证。事故发生在该公司氯碱分厂液氯充装站。 <br><br>    初步分析，事故的主要原因是，液氯充装站操作工将液氯钢瓶充满、关闭液氯充装阀后，没有及时调节液氯充装总管回流阀，充装总管短时压力迅速升高，造成充装系统压力表根部阀门上部法兰的垫片出现泄漏。泄漏的液氯气化并扩散，造成该名操作工和下风向其他岗位的6名操作工和正在该企业的二期建设项目施工的64名施工人员不同程度中毒。 <br><br>    中央领导同志对以上化工事故高度重视并作出重要批示，要求全力救治伤员，认真查清事故原因，采取从严管理措施，及时消除隐患，化工企业的安全生产工作一刻也不能放松。 <br><br>    以上两起事故充分暴露出部分化工企业本质安全水平低，自动化程度不高，安全设施不齐全；新建项目生产准备工作不细致，设备、设施调试不认真，生产管理混乱；企业员工安全教育培训不到位，从业人员安全意识差、操作技能差、应急能力差等诸多问题。 <br><br>    为贯彻落实中央领导同志的重要批示精神，认真吸取这两起事故的教训，巩固安全生产百日督查专项行动成果，遏制重特大危险化学品事故的发生，保障人民生命财产安全，推动危险化学品安全生产形势的稳定好转，现提出如下要求： <br><br>    一、加快推进化工企业本质安全化进程。各地安全监管部门要推动化工企业尽快提升改造，提高本质安全水平。对采用危险工艺、没有实现自动控制的化工装置，要加快技术改造，2010年底前必须实现工艺过程的自动化控制和自动报警。涉及硝化、氧化、磺化、氯化、氟化或重氮化等危险工艺的化工装置，要在实现自动化控制的基础上装备紧急停车系统（ESD）。液氯、液氨、液化石油气、液化天然气充装装置要进行压力自动控制改造,完善防泄漏措施和应急措施，提高化工装置和重要单元的本质安全水平，进一步减少化工企业人身伤亡事故的发生。安全监管部门要继续督促企业淘汰落后工艺、设备，加大安全投入，改造提升装置自动化水平，提高安全保障能力。 <br><br>    二、狠抓危险化学品建设项目试车安全管理。地方各级安全监管部门要高度重视危险化学品建设项目试车的安全监管工作，采取切实措施，加强对危险化学品建设项目建设单位的安全监管。督促企业加强新建项目生产准备工作，认真组织单机试车和设备、设施的调试；加强操作人员尤其是新装置上岗人员的培训工作，使之具备相应的操作技能和应急处置能力，培训考核合格后持证上岗；试车过程中，要强调员工必须严守安全操作规程。 <br><br>    三、认真组织开展化工企业安全生产大检查。各地区、各单位要按照《国务院安委会办公室关于开展化工企业安全生产检查的通知》（安委办〔2008〕24号）部署，认真组织开展好化工企业安全生产大检查工作；结合安全生产百日督查专项行动“回头看”工作，加强对重点地区、重点企业的检查和指导，重点检查硝化反应等危险工艺和液氯、液氨等高度危险化学品的充装系统是否存在重大隐患，储罐区等重大危险源安全设施是否齐全，监控责任和措施是否落实到位。 <br><br>    地方各级安全监管部门要按照《国务院安委会办公室关于进一步加强危险化学品安全生产工作的指导意见》（安委办〔2008〕26号）要求，加强危险化学品安全监管工作，完善并落实企业安全生产责任制，严格执行危险化学品建设项目安全许可制度，提高化工行业安全生产水平。请将本通报及时转发到辖区内各相 关部门和化工企业。 <br><br>国家安全生产监督管理总局<br>二○○八年九月二十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

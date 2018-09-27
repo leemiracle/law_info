@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办监督发〔2006〕62号<BR>&nbsp;&nbsp;【发布日期】2006-04-06<BR>&nbsp;&nbsp;【生效日期】2006-04-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11710&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于开展2006年《职业病防治法》宣传周活动的通知<br><br></font>(卫办监督发〔2006〕62号)</p><br><br><br>各省、自治区、直辖市卫生厅局，中央管理大型企业，有关行业协会，卫生部卫生监督中心，中国疾病预防控制中心：<br>    为进一步宣传《职业病防治法》，推进职业病防治工作，切实保护劳动者职业健康权益，促进经济发展，现将2006年《职业病防治法》宣传周活动的有关事项通知如下：<br>    一、宣传周主题<br>    2006年《职业病防治法》宣传周的主题是“保护劳动者职业健康权益，构建和谐社会”。<br>    二、指导思想<br>    以“三个代表”重要思想为指导，贯彻党的十六大精神，树立科学发展观，提高全社会职业病防治意识，保护劳动者职业健康权益，构建和谐社会。<br>    三、时间安排<br>    2006年4月24日至5月1日。<br>    四、主要活动安排<br>   （一）国家职业卫生示范企业授牌大会。<br>宣传周期间，卫生部、国家安全生产监督管理总局、中华全国总工会将联合在人民大会堂召开国家职业卫生示范企业授牌大会。（会议通知另发） <br>   （二）发挥新闻媒体作用，组织形式多样的宣传活动。<br>各地要组织街头咨询、讲座、展览等活动，采取多种形式向社会广泛宣传。在当地有影响的报刊、电视台、电台、网站等媒体广泛深入宣传《职业病防治法》，以农民工、尘肺、女工等为主题，组织录制职业病防治电视专题节目。届时我部将统一制作一批职业病防治宣传资料发给各地。<br>   （三）企业和行业协会要按照统一部署，积极主动在本单位、本行业开展形式多样的宣传周活动，增强用人单位的职业病防治意识，提高劳动者的自我保护意识。<br>   （四）在宣传周期间，各地要以农民工为对象，结合各地情况组织职业病防治机构、疾病预防控制机构，免费为劳动者服务一天，开展职业病防治健康咨询等活动。<br>    五、具体要求<br>   （一）各级卫生行政部门和各行业系统要高度重视职业病防治工作，把宣传贯彻《职业病防治法》放在重要位置，认真安排好今年宣传周各项活动。  <br>   （二）要按照整体部署、分别实施的原则结合实际制定本省宣传周活动方案，将普遍宣传与开展重点活动相结合，普法与普及职业病防治知识相结合。 <br>   （三）活动结束后，各地要从活动安排、宣传报道、活动效果、取得的经验、存在的问题等方面认真总结，并于5月15日以前将书面材料上报我部。<br>    2006年《职业病防治法》宣传周宣传用语：<br>    1、贯彻执行《职业病防治法》，维护劳动者职业健康权益。<br>    2、用人单位是维护劳动者职业健康的第一责任人。<br>    3、保护劳动者职业健康，促进经济社会和谐发展。<br>    4、重视职业卫生，崇尚文明生产。<br>    5、企业以劳动者为本，劳动者以职业健康为重。<br>    6、防治职业病危害，保护劳动者职业健康。<br>    7、学习职业病防治知识，增强劳动者防护意识。<br>    8、多一份关心，多一份支持，全社会关注劳动者职业健康。<br> <br> <br>                                   二○○六年四月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

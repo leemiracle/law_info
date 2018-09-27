@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2004-07-20<BR>&nbsp;&nbsp;【生效日期】2004-07-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/indus/file/2004072701.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>数字社区应用系统测评工作要点</font></p><br><br><br>    为了满足我国智能建筑与数字社区（以下简称“数字社区”）规划、建设需要，提高数字社区技术与产品水平，推动数字社区技术标准化发展，规范“数字社区”领域开发建设模式，提出数字社区应用系统测评工作要点。<br><br>    一、测评的基本要求<br><br>    1、数字社区应用系统所涉及到的软件、硬件产品，应符合有关国家标准和行业标准。<br><br>    2、数字社区应用系统所涉及到的产品应有严格的质量要求，并达到规定的验收标准。<br><br>    3、数字社区应用系统应选用先进、可靠、优化集成的技术设备。<br><br>    4、软件应有可扩展性和互换性，为软件的增容或改装留有余地。<br><br>    二、测评的主要范围<br><br>    数字社区应用系统包括数字社区控制管理集成平台系统、安防系统、专业控制管理系统、计算机管理和信息服务系统和社区“一卡通”综合应用系统等。<br><br>    （一）控制管理集成平台<br><br>    控制管理集成平台是以社区为控制管理的基本单位，实现各项智能功能的实时控制和管理的技术平台。包括：控制管理网络、中央控制室以及相应硬件设备、软件及辅助设备和设施构成。<br><br>    1、控制管理网络技术平台<br><br>    2、计算机设备及辅助设备子系统<br><br>    3、系统供电/备电子系统<br><br>    4、系统防雷与接地子系统<br><br>    5、综合布线子系统<br><br>    6、地理信息系统<br><br>    （二）安防系统<br><br>    1、出入口控制子系统<br><br>    2、视频监控子系统<br><br>    3、 周界防范报警子系统<br><br>    4、（在线/离线）电子巡更子系统<br><br>    5、访客对讲与门禁管理子系统<br><br>    6、家居安防子系统<br><br>    7、消防子系统<br>    <br>    （三）控制管理应用系统<br><br>    1、家居智能化子系统<br><br>    2、停车场管理子系统<br><br>    3、能耗远传计量与管理子系统<br><br>    4、设备监控子系统<br><br>    5、紧急广播与背景音乐子系统<br><br>    6、电子屏幕信息发布子系统<br><br>    7、灯饰控制子系统<br><br>    8、其它智能控制子系统<br><br>    （四）计算机管理和信息服务系统<br><br>    1、 物业计算机管理子系统<br><br>    2 、信息服务子系统<br><br>    3 、社区电子商务子系统<br><br>    （五）社区“一卡通”综合管理系统<br><br>    三、测评的依据<br><br>    1、《建设领域软件测评规范》<br><br>    2、数字社区应用系统测试大纲<br><br>    3、其他相关标准文件<br><br>    四、测评方式<br><br>    1、软件产品专业测试<br><br>    2、专家评审<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫医发〔2006〕23号<BR>&nbsp;&nbsp;【发布日期】2006-01-20<BR>&nbsp;&nbsp;【生效日期】2006-01-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11319&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于安徽省宿州市市立医院恶性医疗损害事件的通报<br><br></font>(卫医发〔2006〕23号)</p><br> <br> <br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    2005年12月11日，安徽省宿州市市立医院发生10例接受白内障手术治疗的患者眼球医源性感染，其中9名患者单侧眼球被摘除的恶性医疗损害事件。经调查，该起恶性医疗损害事件是由于宿州市市立医院管理混乱，违法、违规与非医疗机构合作，严重违反诊疗技术规范，造成手术患者的医源性感染所致。该事件性质恶劣，后果严重，社会影响极坏。现将其主要违法、违规问题及处理情况通报如下：<br><br>    一、医院与非医疗机构合作，为非法行医提供场所。宿州市市立医院违规与上海舜扬春科技贸易有限公司签定协议，合作开展白内障超声乳化手术。根据协议，公司组织眼科医师和护士、提供超声乳化仪和进口人工晶体，到宿州市市立医院开展手术，医院负责组织患者和提供手术室、消毒设施等。2005年12月11日，上海舜扬春科技贸易有限公司安排上海市第九人民医院医师徐庆和不具备行医资格的眭国荣、眭国良在医院为10例患者实施白内障超声乳化手术。经食品药品监督管理部门的初步调查，上海舜扬春科技贸易有限公司没有取得上海市食品药品监督管理局颁发的《医疗器械经营企业许可证》，所使用的进口人工晶体未经注册。<br><br>    二、医师违规，擅自外出执业。上海市卫生局对外出执业的上海市第九人民医院医师徐庆进行了调查，经查实，该医师未经所在医院和科室同意，擅自应公司邀请，在执业注册地点以外开展执业活动，违反了我部2005年4月发布的第42号部长令《医师外出会诊管理暂行规定》，违反了上海市卫生局《关于加强上海市公立医疗机构医师外出执业管理的规定》。<br><br>    三、医院管理混乱，诸多环节存在医疗安全隐患。医院主要领导法制观念淡薄，违规与非医疗机构签定合作协议。医院的规章制度不健全，缺少必要的技术操作规范、工作流程和工作记录。医院手术室布局、流程、环境、设施等不符合开展无菌手术的基本要求，手术器械的消毒和灭菌工作没有达到基本标准，术中微创手术器械不能做到一人一用一灭菌。<br><br>    四、当地卫生行政部门监管不力。宿州市市立医院自2003年9月开始违规与非医疗机构合作，宿州市卫生局对医院存在的非法行医活动长期失察，管理不严，监督不力，不能及时发现并纠正。宿州市卫生局知悉宿州市市立医院发生重大医疗过失行为后，未按《医疗事故处理条例》及我部《重大医疗过失行为和医疗事故报告制度的规定》上报。<br><br>    安徽省卫生厅、宿州市政府及上海市卫生局已根据调查结果对有关人员作出了处理决定。给予宿州市卫生局局长杨立瑾行政记大过处分，分管副局长宋天祥行政记过处分；撤销宿州市市立医院院长郝朝春党内外一切职务；给予宿州市市立医院副院长邵正明党内严重警告、行政记大过处分；给予宿州市卫生局医政科科长张邦圣党内警告、行政警告处分；安徽省卫生厅取消宿州市市立医院二级甲等医院的称号，责令该院立即终止合作、停止白内障超声乳化手术、没收非法所得31万余元，并予罚款3万元；宿州市市立医院眼科3名医师被处停止执业活动9个月，手术室1名护士被处中止执业注册一年；对医院原眼科主任及2名医师给予行政记过处分，对医务科科长等6名相关人员给予相应的行政处罚。对擅自应公司邀请、赴宿州市市立医院实施手术的徐庆医师，上海市卫生局已对其处以吊销《医师执业证书》的处罚。该事件涉及的违法犯罪问题，当地司法机关正在调查处理。<br><br>    宿州市市立医院发生的这起恶性医疗损害事件，反映出医院管理者和医务人员法律意识淡薄，忽视制度建设，管理混乱，纪律松弛，过度追求经济收益；也反映出当地卫生行政部门管理不严，监督不力，对非法行医活动长期不能检查纠正。各级卫生行政部门和医疗机构必须从该事件中吸取教训，引以为戒，采取坚决措施，进行全面的检查和整改。为此，我部重申以下要求：<br><br>    一、各级各类医疗机构、医务人员必须强化依法执业意识，严格遵守各项医疗卫生管理法律法规，严格执行各项规章制度和人员岗位责任制度，恪守医疗服务职业道德。<br><br>    所有公立医院对自身存在的问题必须进行自查自纠，严禁科室承包、出租科室以及各种名目的营利性合作项目，对医师外出开展诊疗活动必须按照《医师外出会诊管理暂行规定》的规定严格管理。<br><br>    二、各级各类医疗机构必须坚持为人民群众健康服务的宗旨，把社会效益放在首位，加强制度建设和职业道德教育，夯实工作基础，把改进医疗质量、保障医疗安全、控制医药费用、维护群众利益作为医院管理的核心内容。加强基础质量管理，强化医务人员三基三严训练，完善医疗质量和安全的控制措施，有效预防和控制医院感染，落实医疗质量与安全的责任制和责任追究制。<br><br>    三、继续在全国广泛深入地开展医院管理年活动，强化医院院长的职责。医院院长要把维护人民群众的健康权益作为首要责任，把加强医院管理，健全规章制度，完善技术规程，规范医疗行为，提高医疗质量，确保医疗安全，控制医药费用作为管理的重点。对明显违法违规，管理混乱，发生重大医疗过失行为，社会影响恶劣，以及有令不行、有禁不止的医院，必须追究医院院长的责任，并取消医院评审等次。<br><br>    四、各级卫生行政部门必须履行监管职责，加大对医疗机构的监管力度。地方卫生行政部门要对所辖区域内所有医院进行排查，上级卫生行政部门要对下级卫生行政部门的工作开展监督检查和指导。坚决禁止公立医院科室承包、出租科室以及各种名目的营利性合作项目，对医疗机构和医务人员的违法违规行为必须严肃查处，坚决追究领导和相关人员的责任。<br><br>    我部将研究建立医院管理和医疗服务质量评价体系，建立医院评价制度和巡查制度，加强对医院的管理和监督检查。对严重违法违规的医疗机构要严肃查处，并向全国通报，同时追究地方卫生行政部门监管不力的责任。<br> <br>二○○六年一月二十日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

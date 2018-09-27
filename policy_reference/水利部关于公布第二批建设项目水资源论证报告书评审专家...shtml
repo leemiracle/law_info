@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】水利部<BR>&nbsp;&nbsp;【发布文号】办函〔2004〕326号<BR>&nbsp;&nbsp;【发布日期】2004-07-05<BR>&nbsp;&nbsp;【生效日期】2004-07-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mwr.gov.cn/index/20040722/37311.asp" target=_blank>水利部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>水利部关于公布第二批建设项目水资源论证报告书评审专家的通知<br><br></font>(办函〔2004〕326号)</p><br><br><br>各省、自治区、直辖市水利（水务）厅（局），新疆生产建设兵团水利局，部直属有关单位：<br><br>    根据水利部办公厅《关于第二批建设项目水资源论证报告书评审专家评定工作的通知》（办资源[2003]152号）的规定，各省、自治区、直辖市水利（水务）厅（局）、部直属各有关单位认真组织开展了第二批建设项目水资源论证报告书评审专家（以下简称评审专家）评定的有关工作。在此基础上，我部对各地报送的评审专家进行了复核、评审。经审查并在网上公示，确定刘洪禄等500人为建设项目水资源论证报告书评审专家，现予公布。<br><br>    附件：第二批建设项目水资源论证报告书评审专家名单<br><br><br>二○○四年七月五日<br><br><br>第二批建设项目水资源论证报告书评审专家名单<br><br>序号	姓  名	工    作    单    位<br>1	刘洪禄	北京市水利科学研究所<br>2	孟庆义	北京市水利科学研究所<br>3	陈  铁	北京市水利规划设计研究院<br>4	高振宇	北京市水利规划设计研究院<br>5	毕小刚	北京市水利局<br>6	戴育华	北京市水利局<br>7	叶  超	北京市地质工程勘察院<br>8	黄大英	北京市水利规划设计研究院<br>9	杨忠山	北京市水文总站<br>10	许  海	北京市地质工程勘察院<br>11	刘文臣	北京市地质工程勘察院<br>12	王凯军	北京市环境保护科学研究院<br>13	王绍堂	北京市环境保护科学研究院<br>14	冉伟彦	北京市地质勘察技术院<br>15	刘  予	北京市地质工程勘察院<br>16	杨应健	天津市水利局<br>17	张  伟	天津市水文水资源勘测管理中心<br>18	李保国	天津市水利勘测设计院<br>19	金爱善	天津市规划和国土资源局<br>20	李裕芳	天津市化工研究设计院<br>21	吴铁钧	天津市地质矿产勘查开发局<br>22	郭清平	天津市水利科学研究所<br>23	陈冠益	天津大学<br>24	王孟科	地质矿产部河北水文工程地质勘察院<br>25	王喜诚	河北省水文水资源勘测局<br>26	王景廷	河北省电力勘测设计研究院<br>27	王路光	河北省环境科学研究院<br>28	冯谦诚	河北省水资源开发中心<br>29	吕长安	河北省水利厅<br>30	张宝全	河北省水利厅<br>31	张济洲	河北省水利厅<br>32	孙景亮	河北省水利水电勘测设计研究院<br>33	阎广聚	河北省水利水电第二勘测设计研究院<br>34	张双宝	河北省水利技术试验推广中心<br>35	张建平	河北省水文水资源勘测局<br>36	高振宇	河北省地质矿产开发勘察局<br>37	程伍群	河北省农业大学<br>38	任晓力	河北省工程学院<br>39	顾玉亮	上海市原水股份有限公司<br>40	徐辉忠	上海市水文总站<br>41	徐建成	上海市水文总站<br>42	何金林	上海市水文总站<br>43	顾圣华	上海市水文总站<br>44	殷荣强	上海市给水管理处<br>45	陈国光	上海市供水调度监测中心<br>46	徐贵泉	上海市水务规划设计研究院<br>47	黄士力	上海市水务规划设计研究院<br>48	胡  欣	上海市水务规划设计研究院<br>49	吴  睿	上海市水利工程设计研究院<br>50	莫敖全	上海市水利工程设计研究院<br>51	方  正	上海市地质调查研究院<br>52	毛惟德	上海市排水行业协会<br>53	唐建国	上海市排水管理处<br>54	潘军峰	山西省水利厅<br>55	梁文彪	山西省水文水资源勘测局<br>56	王林旺	山西省防汛抗旱指挥部办公室<br>57	张文忠	山西省水资源管理委员会<br>58	孙西欢	太原理工大学<br>59	郑秀清	太原理工大学<br>60	李振拴	山西煤田水文地质229队<br>61	樊国瑞	山西省电力勘测设计院<br>62	王玉和	山西省晋城市水利局<br>63	武全胜	山西省水利建设开发中心<br>64	高红波	阳泉市水利局<br>65	冯玉明	太原市水利科学研究所<br>66	王玉环	临汾市水资源管理委员会<br>67	路瑞田	山西省国土资源厅<br>68	梁月花	太原市建设管理委员会<br>69	朝伦巴根	内蒙古农业大学<br>70	林立敖	内蒙古电力勘测设计院<br>71	王文杰	内蒙古电力勘测设计院<br>72	高仰才	内蒙古自治区国土资源厅<br>73	吕彦生	内蒙古自治区国土资源厅<br>74	李亚威	内蒙古自治区环境保护局<br>75	于铁柱	内蒙古自治区水利厅<br>76	康  跃	内蒙古自治区水利厅<br>77	李  彬	内蒙古自治区防汛抗旱调度（信息）中心<br>78	李新民	内蒙古自治区水利水电勘测设计院<br>79	王慧清	内蒙古自治区水利水电勘测设计院<br>80	冯普智	内蒙古自治区水利水电勘测设计院<br>81	张武忠	内蒙古自治区水文总局<br>82	刘广丽	内蒙古自治区水文总局<br>83	刘惠忠	内蒙古自治区水文总局<br>84	邹广岐	辽宁省水利厅<br>85	孙玉华	辽宁省水文水资源勘测局<br>86	王保泽	辽宁省水利水电科学研究院<br>87	李  趋	辽宁省水利水电科学研究院<br>88	刘玉珍	辽宁省水利水电科学研究院<br>89	谷长叶	辽宁省水利水电勘测设计研究院<br>90	付桂芬	辽宁省水利水电勘测设计研究院<br>91	张  燕	辽宁省水利水电勘测设计研究院<br>92	郭志全	辽宁省水利水电勘测设计研究院<br>93	姜玉成	辽宁省国土资源厅<br>94	白建和	辽宁省国土资源厅<br>95	汪长<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

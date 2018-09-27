@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局、中国人民银行、中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】环发〔2007〕108号<BR>&nbsp;&nbsp;【发布日期】2007-07-12<BR>&nbsp;&nbsp;【生效日期】2007-07-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/huangfa/200707/t20070718_106850.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局、中国人民银行、中国银行业监督管理委员会关于落实环保政策法规防范信贷风险的意见<br><br></font>(环发〔2007〕108号)</p><br><br><br>各省、自治区、直辖市环保局（厅），副省级城市环保局，新疆生产建设兵团环保局，全军环办，中国人民银行上海总部，各分行、营业管理部，省会（首府）城市中心支行，副省级城市中心支行，各银监局，各政策性银行、各国有商业银行、股份制商业银行：<br><br>    为全面贯彻《国务院关于落实科学发展观加强环境保护的决定》（国发〔2005〕39号，以下简称《决定》）和《国务院关于印发节能减排综合性工作方案的通知》（国发〔2007〕15号），加强环保和信贷管理工作的协调配合，强化环境监督管理，严格信贷环保要求，促进污染减排，防范信贷风险，提出以下意见。<br><br>    一、充分认识利用信贷手段保护环境的重要意义<br><br>    当前，我国环境形势十分严峻。一些地区建设项目和企业的环境违法现象较为突出，因污染企业关停带来的信贷风险加大，已严重影响了社会稳定和经济安全。严格对企业和建设项目的环境监管和信贷管理，已经成为一项紧迫的任务。各级环保部门、人民银行、银监部门、金融机构要把贯彻国务院《决定》、落实环保政策法规摆上重要议事日程，加强环保和金融监管部门合作与联动，以强化环境监管促进信贷安全，以严格信贷管理支持环境保护，加强对企业环境违法行为的经济制约和监督，改变“企业环境守法成本高、违法成本低”的状况，提高全社会的环境法治意识，促进完成节能减排目标，努力建设资源节约型、环境友好型社会。<br><br>    二、加强建设项目和企业的环境监管与信贷管理<br><br>    要依照环保法律法规的要求，严格新建项目的环境监管和信贷管理。各级环保部门要严把建设项目环境影响评价审批关，切实加强建设项目环保设施“三同时”管理。对未批先建或越级审批，环保设施未与主体工程同时建成、未经环保验收即擅自投产的违法项目，要依法查处，查处情况要及时公开，并通报当地人民银行、银监部门和金融机构。金融机构应依据国家建设项目环境保护管理规定和环保部门通报情况，严格贷款审批、发放和监督管理，对未通过环评审批或者环保设施验收的项目，不得新增任何形式的授信支持。金融机构应依据国家产业政策，进一步加强信贷风险管理，对鼓励类项目在风险可控的前提下，积极给予信贷支持；对限制和淘汰类新建项目，不得提供信贷支持；对属于限制类的现有生产能力，且国家允许企业在一定期限内采取措施升级的，可按信贷原则继续给予信贷支持；对于淘汰类项目，应停止各类形式的新增授信支持，并采取措施收回已发放的贷款。<br><br>    要依照环保法律法规的要求，严格现有企业的环境监管和流动资金贷款管理。各级环保部门要加强对排污企业的监督管理，对超标排污、超总量排污、未依法取得许可证排污或不按许可证规定排污、未完成限期治理任务的企业，必须依法严肃查处，并将有关情况及时通报当地人民银行、银监部门和金融机构。各级金融机构在审查企业流动资金贷款申请时，应根据环保部门提供的相关信息，加强授信管理，对有环境违法行为的企业应采取措施，严格控制贷款，防范信贷风险。<br><br>    各级环保部门要积极督促有违法违规行为的企业进行整改，可根据实际情况，引导企业通过技术改造和升级达到环保要求，为防范信贷风险创造条件。金融机构应根据环保部门提供的项目整改信息，结合企业生产实际，合理控制信贷投放。<br><br>    三、加强协调配合，认真履行职责<br><br>    各级环保与金融部门要密切配合，建立信息沟通机制。环保部门要按照职责权限和《环境信息公开办法（试行）》的规定，向金融部门提供以下环境信息：<br><br>    （一）受理的环境影响评价文件的审批结果和建设项目竣工环境保护验收结果；<br><br>    （二）污染物排放超过国家或者地方排放标准，或者污染物排放总量超过地方人民政府核定的排放总量控制指标的污染严重的企业名单；<br><br>    （三）发生重大、特大环境污染事故或者事件的企业名单；<br><br>    （四）拒不执行已生效的环境行政处罚决定的企业名单；<br><br>    （五）挂牌督办企业、限期治理企业、关停企业的名单；<br><br>    （六）环境友好企业名单；<br><br>    （七）企业环境行为评价信息；<br><br>    （八）其他有必要通报金融机构的环境监管信息。<br><br>    各级环保部门应当按照环保总局与人民银行制定的统一标准，提供可纳入企业和个人信用信息基础数据库的企业环境违法、环保审批、环保认证、清洁生产审计、环保先进奖励等信息。<br><br>    人民银行及各分支行要引导和督促商业银行认真落实国家产业政策和环保政策，将环保信息纳入企业和个人信用信息基础数据库，防范可能的信贷风险。<br><br>    各级银行监管部门要督促商业银行将企业环保守法情况作为授信审查条件，严格审批、严格管理；将商业银行落实环保政策法规、配合环保部门执法、控制污染企业信贷风险的有关情况，纳入监督检查范围；要对因企业环境问题造成不良贷款等情况开展调查摸底。<br><br>    各商业银行要将支持环保工作、控制对污染企业的信贷作为履行社会责任的重要内容；根据环保部门提供的信息，严格限制污染企业的贷款，及时调整信贷管理，防范企业和建设项目因环保要求发生变化带来的信贷风险；在向企业或个人发放贷款时，应查询企业和个人信用信息基础数据库，并将企业环保守法情况作为审批贷款的必备条件之一。<br><br>    环保部门、金融监管部门及有关商业银行可根据需要建立联席会议制度，确定本单位内责任部门和联络员，定期召开协调会议，沟通情况；研究制定信贷管理的环保指导名录；组织开展相关环保政策法规培训和咨询，提高金融机构对环境风险的识别能力。<br><br>    四、加强监督检查，追究违规者的责任<br><br>    环保、金融机构工作人员要严格履行职责，对环保部门工作人员在执法过程中徇私舞弊、滥用职权、玩忽职守的，依据环保法律、法规和《环境保护违法违纪行为处分暂行规定》给予行政处分；对商业银行违规向环境违法项目贷款的行为，依法予以严肃查处，对造成严重损失的，追究相关机构和责任人责任。<br><br>    今年年底前，在各地自查基础上，国家环保总局、中国人民银行、中国银监会对各地贯彻执行本《意见》的情况进行检查。<br><br>国家环境保护总局 中国人民银行 中国银行业监督管理委员会<br>二○○七年七月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

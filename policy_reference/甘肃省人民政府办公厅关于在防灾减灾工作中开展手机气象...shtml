@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2005〕117号<BR>&nbsp;&nbsp;【发布日期】2005-09-30<BR>&nbsp;&nbsp;【生效日期】2005-09-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/zfgbZxwjQw.asp?ID=561" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于在防灾减灾工作中开展手机气象短信服务的通知<br> <br></font>(甘政办发〔2005〕117号)</p><br><br><br>各市、自治州人民政府，省直有关部门，各有关单位:<br><br>    我省气象灾害频发，防灾减灾任务十分繁重，及时准确地传递气象信息，是做好防灾减灾工作的一个重要环节。利用现有的信息发布方式，气象预报特别是突发性气象灾害警报信息常常不能在第一时间传递到党政部门领导及岗位责任人手中，一定程度上贻误了指挥防灾减灾的最佳时机。手机短信作为现代通讯传媒的新手段，具有大范围快速传递信息的优势。因此，省政府决定，将手机气象短信服务纳入全省防灾减灾体系建设范畴，在全省各级党政部门开展手机短信气象防灾减灾服务工作。现就有关事宜通知如下：<br><br>    一、提高对气象信息在防灾减灾工作中重要作用的认识。<br>    气象工作与经济建设、社会发展和人民生活息息相关。随着社会发展，国民经济各部门和社会公众对气象信息的需求量越来越大，对气象服务的要求也越来越高。我国是世界上受气象灾害影响最严重的国家之一，每年造成的经济损失约占GDP的3―6％。我省又是全国受气象灾害影响最严重的省份之一，仅暴雨引发的山洪、滑坡、泥石流灾害每年造成的直接经济损失达亿元以上；干旱、大风、沙尘暴、霜冻、雪灾等气象灾害造成的损失也十分巨大。把突发气象灾害的警报信息以最快捷的方式、最大范围地传递到各级党政部门领导和社会公众之中，对党政部门指挥防灾减灾工作和社会公众主动采取防范措施，赢得宝贵时间，最大限度地减少损失和人员伤亡，将会起到十分重要的作用。各级党政部门要充分认识气象信息在防灾减灾工作中的重要作用，高度重视和支持利用手机短信传递气象服务信息工作。<br><br>    二、加强对开展手机气象短信服务工作的领导和支持。<br>    将手机气象短信服务纳入全省防灾减灾体系建设和应急管理工作范畴，是省政府在信息化时代充分运用气象科技信息和现代通讯手段，使防灾减灾工作更具科学性和有效性的一项措施。手机气象短信服务工作，涉及到统一制定实施方案、部门协作、资金投入、发布系统建设、技术研发、人才投入、组织实施、各级党政部门领导使用等多个环节，需要在各级政府的统一领导下开展。各市州政府和省直有关部门，要加强对开展手机气象短信服务工作的领导和支持，将手机气象短信服务纳入当地防灾减灾体系建设统筹安排，协调和帮助解决建设过程中存在的困难和问题。系统建成后，更要在充分发挥其效益方面加强领导，提出明确要求，使各级党政部门的领导同志和相关岗位的同志都能接收和使用手机气象短信服务信息。要严格发布程序，保证气象防灾减灾信息通过手机短信的方式能够在第一时间准确、安全地传递到领导手中，在紧急部署和指挥防灾救灾工作中发挥应有的作用。<br><br>    三、切实做好手机气象短信服务工作的组织实施工作。<br>    全省手机气象短信防灾减灾服务系统包括省级主平台和各市州分平台，按照政府主办、气象部门承办、通信等相关部门协办的原则和思路，要于2005年年底前完成该系统建设任务并投入使用。各市州政府和省直有关部门要建立领导协调机制，制定工作方案，尽快启动系统建设工作。气象部门作为手机气象短信服务工作的牵头和承办单位，要发挥信息资源、人才和技术优势，在当地政府的统一领导和移动通信等相关部门的大力协助下，建设好气象短信发布系统。各级政府和相关部门要将党政部门领导和抗灾减灾责任人的手机号码纳入手机气象短信服务系统，建立相应的电子档案。气象部门在保证向各级党政部门领导和相关责任人在第一时间发布手机气象短信的同时，也要逐步扩大向社会公众发送的范围，不断提高社会公众自我防范灾害的意识和自觉性。坚持对公众气象预报和灾害性天气警报实行统一发布制度，确保气象信息服务内容的权威性。通过人才投入和系统硬件软件建设，确保手机气象短信服务达到技术先进、产品丰富、服务完善的目标，保障手机气象短信服务及时、准确、规范和安全，更好地为防灾减灾服务。<br><br>                                  二○○五年九月三十日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

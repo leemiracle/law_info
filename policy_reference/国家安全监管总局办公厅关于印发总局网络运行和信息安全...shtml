@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总厅〔2010〕143号<BR>&nbsp;&nbsp;【发布日期】2010-08-04<BR>&nbsp;&nbsp;【生效日期】2010-08-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/newpage/Contents/Channel_6288/2010/0805/103623/content_103623.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局办公厅关于印发总局网络运行和信息安全保密管理办法的通知 <br><br></font>(安监总厅〔2010〕143号)</p><br><br><br>    各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，各省级煤矿安全监察机构，总局和煤矿安监局机关各司局、应急指挥中心，各直属事业单位、社团组织：<br><br>    为进一步规范网络运行，确保信息安全，现将《国家安全监管总局网络运行和信息安全保密管理办法》印发给你们，请遵照执行。<br><br>    二○一○年八月四日<br><br>    国家安全监管总局办公厅<br><br>    国家安全监管总局网络运行和信息安全保密管理办法<br><br>    为加强安全生产系统网络信息安全保密管理，保障网络正常运行和信息安全，提高办公效率，根据《中华人民共和国计算机信息系统安全保护条例》、《中华人民共和国计算机信息网络国际联网管理暂行规定》、《中华人民共和国计算机信息网络国际联网安全保护管理办法》和国家有关规定，制定本办法。<br><br>    一、总则<br><br>    1.本办法所称网络包括各单位使用的内网、国家安全生产监督管理总局（以下简称总局）政务外网和各单位应用的互联网。其中，内网是指各单位内部与互联网物理隔离的局域网；总局政务外网是指全国安全生产系统信息化综合应用的专用广域网络，与互联网逻辑隔离。<br><br>    2.总局政务外网建设和管理遵循总局统筹规划、统一建设和各省级单位分级管理的原则。<br><br>    二、组织管理与职责<br><br>    3.总局保密委员会是全国安全生产系统网络信息安全保密管理的领导机构，负责指导、审查安全生产系统信息安全保密管理工作。<br><br>    4.总局办公厅是全国安全生产系统信息安全保密工作的日常管理部门，负责信息安全保密管理工作的指导、协调、监督、检查以及对失泄密事件的查处。<br>    <br>    5.总局规划科技司负责总局政务外网和总局机关网络信息安全保障项目的规划、立项和建设管理工作。<br><br>    6.总局通信信息中心是全国安全生产系统信息网络运行与维护的管理部门和信息安全保障能力建设的技术支撑部门，负责按照国家有关涉密、非涉密信息系统技术标准规范，提出总局政务外网和总局机关网络建设的技术需求，负责建设项目的技术管理和建成系统的运维管理。<br><br>    7.总局通信信息中心配备符合信息系统运行管理需要的网络管理员，承担总局政务外网和总局机关网络IP地址分配、系统资源配置、安全防护管理，以及各应用系统的日常运行维护工作，是网络及系统各项安全保密技术防范措施正常运行的直接责任人。<br><br>    8.总局政务外网的建设和使用遵循“谁建设，谁负责”、“谁使用，谁负责”的原则。各单位应明确信息安全保密管理部门和信息安全保障能力建设部门，并指定专门机构负责本单位网络运行与维护管理工作，配备符合信息系统运行管理需要的网络管理人员作为本地网络及系统各项安全保密技术防范措施正常运行的直接责任人，负责本单位接入总局政务外网以及本单位局域网的日常管理和应用系统的运行维护工作；网络用户是自用计算机信息处理、发布和管理的直接责任人。<br><br>    9.各省级安全监管局、煤矿安监机构（以下统称各省局）信息安全保密工作部门、网络运行维护管理部门及联系人名单应报总局办公厅备案。<br><br>    三、网络安全管理<br><br>    10.各单位网络和信息系统建设必须按照国家非涉密信息系统等级保护和涉密信息系统分级保护的要求，进行定级、建设和管理，并根据防护等级采取相应的安全防护措施。<br><br>    11.涉密内网的计算机必须按照国家保密部门的规定加装安全技术防护设备，统一配备专用移动存储介质。<br><br>    12.接入内网的计算机必须实行严格的物理隔离，不得直接或间接地与总局政务外网(或互联网)联接；凡访问总局政务外网的，必须安装客户端管理软件；未经审批，禁止在涉密网络上使用笔记本电脑。<br><br>    13.各省局信息安全保密管理部门负责本单位行政管理范围内接入总局政务外网的管理。需要接入总局政务外网的，应经省局信息安全保密管理部门审核同意并报总局办公厅备案后，方可由网络运行维护管理部门组织实施；未经同意，任何单位和个人不得擅自将任何设备接入总局政务外网。<br><br>    14.总局政务外网的网络安全防范措施和安全管理应当遵循统一的建设方案和安全策略，未经总局办公厅批准，各单位不得改变总局政务外网的网络安全系统结构和部署方式。各级网络运行维护管理部门对各类安全设备进行安全规则的添加、修改、删除等操作，必须符合统一的安全策略要求，并报总局通信信息中心审核后方可实施。总局通信信息中心负责对总局政务外网各级节点安全系统的部署、安全规则的配置情况进行检查，检查结果报总局办公厅，同时通报相关单位网络运行维护管理部门进行整改。<br><br>    15.凡在总局政务外网或互联网使用过的计算机转到内网使用前，必须将硬盘彻底格式化，重新安装操作系统和应用软件；凡在内网使用过的计算机转到总局政务外网或互联网使用前，必须更换硬盘，并将原硬盘按规定上缴信息安全保密管理部门保管或销毁。<br><br>    16.严禁将内网与总局政务外网(或互联网)直接相连。严禁在内网与总局政务外网（或互联网）间交叉使用移动存储设备。<br><br>    17.涉密计算机不得使用蓝牙、红外和无线网卡、无线鼠标、无线键盘等具有无线互联功能的设备。<br><br>    18.重要涉密岗位的办公场所中所使用的总局政务外网（或互联网）计算机不得安装麦克风、摄像头等音频、视频采集设备。<br><br>    四、信息安全与保密管理<br><br>    19.任何单位和个人不得利用安全生产系统网络从事危害国家安全的活动，不得泄露国家秘密和单位敏感信息，不得侵犯国家、社会、集体的利益和公民的合法权益，不得从事违法犯罪活动。<br><br>    20.内网与总局政务外网(或互联网)进行数据交换，必须采用国家保密行政管理部门认可的方式进行，禁止擅自使用U盘、移动硬盘等移动存储介质进行数据交换。严禁在非涉密的内网、总局政务外网和互联网上传输、处理涉密信息。<br><br>    21.各单位网络管理员应不定期修改操作密码，定期升级服务器防病毒软件并查杀病毒，定期下载和安装操作系统补丁，实时或定期备份服务器上的各种重要数据。<br><br>    22.网络用户应安装客户端杀毒软件和系统补丁程序，定期对计算机进行查杀病毒。一旦发现网络病毒，应立即通知本单位网络管理员，共同采取相应措施，避免病毒扩散。定期做好个人重要数据的备份，定期修改个人密码，确保信息安全。<br><br>    23.涉密计算机与移动存储介质的使用必须执行审批制度，实行统一配发管理。报废涉密存储设备(包括固定或移动硬盘、U盘、磁带机等)，须由本单位保密管理部门统一造册登记后交具备销毁资质的单位处理，严禁擅自处理。<br><br>    24.各级信息安全保密管理部门负责组织网络运行维护管理部门对应用系统建设方案进行安全防护措施审查，提出纳入已有信息安全基础设施保护的具体方案，需要新增信息安全防护基础设施和对已有设施进行改造的，由应用系统建设单位报本级信息安全保障能力建设部门申请立项。接入总局政务外网和总局机关内网的应用系统的安全防护措施审查工作，由总局办公厅负责组织实施。<br><br>    25.新建和接入网络的应用系统必须在信息安全防护措施到位后方可投入运行。<br><br>    五、运行管理<br><br>    26.任何单位和个人不得擅自改变网络设备用途，干扰网络运行。原则上不允许网络用户安装、下载与工作无关的软件。<br><br>    27.采取数字证书（CA）、代理服务器、IP与计算机网卡地址绑定技术等措施，规范网络用户内网、总局政务外网和互联网的使用，并作为责任追溯的依据，禁止私自安装使用带有路由功能的小型交换机。<br><br>    28.各级网络运行维护管理部门应建立网络管理员值班制度和突发事件应急处置预案，保障总局政务外网各种设备、应用系统以及运行基础环境的正常运转，做到24小时不停机。设备、系统一旦发生故障，要在第一时间报告本级信息安全保密管理部门和上级网络运行维护管理部门。在故障处理过程中，本级信息安全保密管理部门负责组织协调，网络运行维护管理部门负责现场处理，上级网络运行维护管理部门负责远程技术支持。<br><br>    29.各级网络运行维护管理部门配备的网络管理员应相对固定，人员发生变动时应提前向本级信息安全保密管理部门和上级网络运行维护管理部门报备，上岗前必须经过培训。<br><br>    30.各级网络运行维护管理部门应根据机关网络应用的需求，及时排除网络故障，并不定期开展网络巡查工作，配合本单位信息安全保密管理部门定期开展信息安全检查工作。<br><br>    31.各单位应加强对各自网络运行状态的监控，及时排除故障。如发现大规模病毒爆发引起的网络堵塞，必须立即隔离可能影响安全的设备及网络，并报告本级信息安全保密管理部门和上级网络运行维护管理部门，待排除安全隐患后再联入网络；如遇总局政务外网线路故障，应立即与当地电子政务外网接入或建设负责单位联系进行维修，同时报告总局通信信息中心协助解决问题。<br><br>    六、固定资产管理<br><br>    32.各类网络建设项目、设备采购应遵循国家有关法律法规、标准规范所规定的流程，所有合同应在验收后提交固定资产清单，没有合同的由采购人提交固定资产清单，整体项目应由项目管理部门在整体项目验收后提交全部固定资产清单。<br><br>    33.固定资产管理由各级财务部门负责，资产的登记、划拨、保管、维修、报废要严格按照国家有关法律法规、标准规范所规定的流程执行。<br><br>    34.设备日常管理由资产所在单位负责，没有纳入固定资产管理的设备，一律不得接入总局政务外网和总局机关内网。<br><br>    七、附则<br><br>    35.凡违反本办法规定且造成危害的，视情节轻重给予通报批评或行政处分；涉嫌犯罪的，移交司法机关处理。<br><br>    36.本办法适用于总局和国家煤矿安监局机关各司局、应急指挥中心，总局所属单位，接入总局政务外网的地方各级安全监管部门、驻地煤矿安监机构以及所有接入政务外网的单位和个人。<br><br>    37.本办法由总局办公厅负责解释。<br><br>    38.本办法自公布之日起执行。    <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

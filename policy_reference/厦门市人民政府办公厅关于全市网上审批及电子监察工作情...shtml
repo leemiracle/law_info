@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】厦门市人民政府<BR>&nbsp;&nbsp;【发布文号】厦府办〔2009〕95号<BR>&nbsp;&nbsp;【发布日期】2009-04-09<BR>&nbsp;&nbsp;【生效日期】2009-04-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.xm.gov.cn/zwgk/flfg/sfbwj/200904/t20090422_301788.htm" target=_blank>厦门市人民政府 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>厦门市人民政府办公厅关于全市网上审批及电子监察工作情况的通报 <br><br></font>(厦府办〔2009〕95号)</p><br> <br><br>    各区人民政府，市直各委、办、局，各有关单位：<br><br>    根据中纪发〔2006〕20号《关于开展行政审批电子监察工作的通知》精神，市政府高度重视推行网上审批工作，2008年对我市网上审批办公系统进行了升级改造，并由我办下发《关于完善网上审批服务系统进一步推进网上审批工作的通知》（厦府办〔2008〕48号），要求在2008年12月底前，首批32个市行政审批部门的360项（审批280项，备案80项）应在网上进行审批并接受电子监察系统监察。<br><br>    网上审批办公系统自2008年4月1日运行以来，大部分行政审批部门均能高度重视，认真贯彻落实有关工作要求，积极推进网上审批工作，并取得了较好成效。为进一步地推进这项工作，现将网上审批办公系统和电子监察系统运行情况通报如下：<br><br>    一、基本情况<br><br>    （一）网上审批工作有序推进。市卫生局、人事局、粮食局、外资局、经发局、规划局、市政园林局、交通委等大部分行政审批部门已完成厦府办〔2008〕48号文件规定的任务，其他部门大部分审批事项实现网上审批。<br><br>    （二）网上审批业务量逐步增加。2008年1月至2009年2月底，厦门市网上审批业务量达134386件，其中，在市直系统办理的审批业务量为8728件，在自建系统办理的审批业务量为125658件。目前在网上办理业务量较大的单位有市劳动保障局、财政局、建设局、卫生局、工商局、农业局、林业局、贸发局、运管处等部门单位。<br><br>    （三）部分审批事项实现全程网上审批和并联审批。市劳动保障局的“申请定点零售药店和医疗机构”、市工商局的“企业名称预先核准登记”以及市新闻出版局的大部分审批事项实现了全程网上审批，最大限度方便了申请人。市规划局则依托自建的“规划信息一体化集成平台系统”，实现了市、区局的联网办理审批业务，包括地形图、历史审批红蓝线数据、道路数据、卫星影像数据等可共享信息都统一存储在市局的服务器上，形成完善的图文一体化审批操作系统，大大提高了网上审批效率和质量。<br><br>    （四）二级电子监察开始发挥效用。市监察局运用电子监察系统，加强对各部门网上审批的情况和监察处理情况进行跟踪检查，督促有关部门加强和改进网上审批工作。市直各行政审批部门也积极运用电子监察系统，对本单位的网上审批工作进行监察，及时发现问题并整改。如市财政局、市工商局、市地税局等部门都十分重视电子监察工作，把这项工作作为提高本部门工作效率、转变工作作风的重要抓手，网上审批工作得到了有效推进，同时部门的工作绩效也得到了明显提高。<br><br>    二、存在的问题<br><br>    一是个别部门认识不到位。在推进网上审批办公系统的过程中，部分单位领导、处室业务人员对网上审批工作的重要性认识不足：一是将使用网上审批办公系统和全程网上预审批等同起来，认为只有从网上受理的审批事项才使用网上审批办公系统，没有将窗口受理的审批事项录入网上审批办公系统进行审批；二是以材料太多无法实现电子化等借口，拖延进行网上审批。应该指出，按目前的条件，网上审批要求审批过程全程在网上进行，但并不要求材料完全电子化，而允许纸质材料随同流转，在条件成熟时再逐步推进材料电子化；三是认为审批项目量少的没必要上网审批；四是认为初审、转报的审批项目不需要使用网上审批办公系统。<br><br>    二是个别单位尚未建成数据交换接口。根据厦府办〔2008〕48号《关于完善网上审批服务系统进一步推进网上审批工作的通知》要求，自建审批系统的审批部门应尽快建成数据交换接口，但部分单位至今仍未完成该项工作。如市港口管理局的自建审批系统至今仍未能正式运行，无法建设数据交换接口，导致该局的11项审批事项至今仍未纳入网上审批办公系统和电子监察系统，网上审批工作严重滞后。另外，国土资源与房产管理局的土地使用许可、改变土地建设用途许可、商品房预售许可事项，市人防办的单体式人防工程竣工验收备案事项，市工商局的事业单位广告经营资格审批、烟草广告发布审批等事项，也都未如期完成数据交换接口建设。<br><br>    三是个别审批事项的子项没有进入网上审批办公系统。如市食品药品监督管理局的药品零售经营许可事项，分为零售药店筹建、验收、变更、年检等子项，但只有零售药店验收这一子项进入网上审批办公系统，其余子项的审批过程仍在电子监察范围之外。<br><br>    2009年，我市网上审批办公系统将覆盖至全市各市直部门的所有行政审批事项以及各区的行政审批事项，实现网上并联审批和数据共享，进一步提高机关办事效率。请各区、市直各有关部门严格按照要求，认真推进网上审批工作。市效能办将加大督查督办力度，对没有按照市政府推进网上审批工作进度要求的，将依据有关规定追究相关人员责任。<br><br>    厦门市人民政府办公厅<br><br>    二OO九年四月九日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

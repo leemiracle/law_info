@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券监督管理委员会<BR>&nbsp;&nbsp;【发布文号】证监机构字[2005]10号<BR>&nbsp;&nbsp;【发布日期】2005-01-19<BR>&nbsp;&nbsp;【生效日期】2005-01-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.csrc.gov.cn/cn/jsp/detail.jsp?infoid=1106222338100&type=CMS.STD&path=ROOT%3ECN%3E%D0%C2%CE%C5%B5%BC%B6%C1" target=_blank>中国证券监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国证券监督管理委员会关于督促做好证券公司2004年度会计审计工作的通知<br><br></font>(证监机构字[2005]10号)</p><br><br><br>中国证监会各省、自治区、直辖市、计划单列市监管局：<br><br>    为进一步提高证券公司会计信息质量，发挥会计师事务所的审计监督功能，同时推进证券公司自查摸底工作的顺利开展，中国证监会发布了《关于证券公司2004年度会计审计工作有关事项的通知》（证监机构字[2005]9号，见附件）。为加强监管，督促各证券公司做好2004年度会计审计工作，现将有关事项通知如下：<br><br>    一、各证监局要督促辖区内证券公司结合年度会计审计工作，抓紧完成自查摸底，督促辖区内证券公司和相关会计师事务所按期完成年度报告的编制与审计，将自查摸底中发现的问题、整改计划的进展情况在年度报告（含备考年度报告）、审计报告、内部控制评审报告、客户资金安全专项审核报告、净资本专项审核报告、客户资产管理业务专项审核报告等报告中予以充分揭示和反映，并于2005年4月30日前将以上各项报告及其明细表、附件等以书面和电子文档方式报送证监会机构监管部、会计部和注册地证监局，同时将年度报告与审计报告抄报公司主要业务发生地证监局。<br><br>    二、各证监局应向辖区内证券公司所聘会计师事务所明确提出2004年度会计审计工作的具体要求，要求相关会计师事务所对证券公司客户资金安全状况、客户资金安全性内控机制建设情况、自查摸底发现的问题等给予重点关注，督促相关会计师事务所保质、尽责完成审计工作。<br><br>    各证监局应与会计师事务所逐家签订“尽职承诺书”。在承诺书中，将“本会计师事务所承诺按照相关审计准则、制度以及中国证监会有关规定和要求，尽职尽责完成年度报告审计工作。如存在本会计师事务所未尽职等情况，本会计师事务所愿意接受证券监管部门的调查并接受处罚。”作为承诺书必备条款。<br><br>    在审计过程中，对于证券公司出现不提供完整可靠会计资料及其他业务资料、限制审计范围等不配合审计的情形，会计师事务所要及时向注册地证监局报告。在出具审计报告之前，如注册会计师发现证券公司存在重大违规行为，但证券公司未按规定予以报告，或对证券公司提供的报告存在异议时，注册会计师应以“致监管当局函”等方式向监管部门报告。辖区内证券公司及所聘会计师事务所也可以就年度报告编制及会计处理中遇到的问题,及时与中国证监会有关部门沟通。<br><br>    三、各证监局应于2005年2月3日之前将辖区内证券公司聘请的会计师事务所及自查摸底和年度审计进度安排情况同时报送证监会机构监管部和会计部。<br><br>    各证监局应争取尽早完成对自查摸底的核查工作，并应按照《关于对证券公司年报进行分析并加强监管的通知》（机构部部函【2004】167号）的要求，结合摸底和日常监管情况，对各证券公司年度报告、审计报告、相关专项审核报告及摸底情况逐家进行有针对性的汇总分析，形成各证券公司的专门分析报告，于2005年5月20日前分别以书面及电子文档方式报送证监会机构监管部和会计部，并抄送公司主要业务发生地证监局。<br><br>    对注册地不在辖区内证券公司的分支机构，如有重大风险或违法违规行为，应通报公司注册地证监局，并抄送证监会。<br><br>    四、中国证监会将组织力量对证券公司2004年度会计审计工作进行核查，并将核查结果作为对各证监局机构监管工作进行考核的重要依据。<br><br><br>        二○○五年一月十九日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

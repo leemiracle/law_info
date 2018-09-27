@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】办字〔2005〕55号<BR>&nbsp;&nbsp;【发布日期】2005-05-18<BR>&nbsp;&nbsp;【生效日期】2005-05-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hebei.gov.cn/govaffair/policy/detail_pub.jsp?id=618&policy_name=2005年第九期" target=_blank>河北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府办公厅关于进一步加强电力设施保护工作的通知<br><br></font>(办字〔2005〕55号  2005年5月18日)</p><br><br>     <br>各设区市人民政府，各县(市、区)人民政府，省政府有关部门： <br><br>    近年来，我省电力设施屡遭盗窃、破坏，输电线路保护区内的树障、违章施工作业、违章建筑等问题十分严重，直接影响电网安全稳定运行。为了进一步做好电力设施保护工作，特作如下通知： <br><br>    一、加强领导，建立打击、防范联合工作机制。各级政府、有关部门和电力企业要建立联席会议制度，分析研究护电工作中存在的问题，认真落实安全防范责任制，保证各项工作措施落实到位。在城乡规划和建设中，特别是道路、植树造林、园林绿化等工程项目以及建筑用地审批时，应征求当地电力管理部门的意见，遵守有关电力设施保护的规定。电力管理部门在制定规划、审批项目时也要征求林业、建设等有关部门的意见，避免对林业生态重要区域和景观造成损害。公安、电力管理部门要加强对电力企业安全防范工作的指导、协调，落实好《联合打击涉电犯罪协作机制》，适时组织开展联防、联治、联建活动，及时堵漏洞、治乱点、除隐患。对涉电案件发生较多的地区，要开展区域性专项治理和打击行动，进行重点整治。 <br><br>    二、落实责任，及时消除电网安全隐患。当前，消除危害电网安全隐患工作重点是：对在电力设施保护区内违反规定种植的树木进行修剪、移栽或清除；对电力设施保护区内各种违章建筑依法进行治理、拆除；严禁在电力设施保护区内违章作业。(一)认真清理区内树障。对于电力线路建设在先、违反规定植树在后，应修剪、移栽或砍伐的树木，树木所有者应自行解决。对拒不执行的，由当地电力管理部门责成电力企业按照有关规定进行修剪、移栽或砍伐；对于植树在先、电力线路建设在后，应修剪、移栽或砍伐的树木，由电力线路建设单位依照法定程序办理征占用林地手续和修剪、移栽或砍伐手续，并给予树木所有者适当补偿；对于正在实施或将要实施的城市绿化工程或植树造林活动，城市园林绿化、林业、交通等部门要事先将规划设计或计划书面通知当地电力管理部门，由电力管理部门提出书面答复意见；电力管理部门和电力企业在进行电力设施规划时也要事先将规划或计划书面通知有关部门，有关部门应提出书面答复意见。对于城市树木影响架空线路安全需要修剪时，须报经当地城市人民政府绿化行政主管部门批准。(二)尽快拆除区内违章建筑。对于电力线路建设在先、建(构)筑物在后应拆除的，由电力管理部门责令改正、恢复原状并赔偿损失，公安部门要予以协助。应当拆除但拆除确有困难的，须经电力管理部门和安全监督管理部门同意后方可暂时保留。建(构)筑物所有者或使用者必须依照电力管理部门和安全监督管理部门的规定，采取安全措施，并写出书面安全责任保证书；对因未采取安全措施或措施不力造成人身伤害或损害电力设施的，建(构)筑物所有者或使用者应依法予以赔偿。 <br><br>    对于符合规划的建(构)筑物建设在先、电力线路建设在后应当拆除的建(构)筑物，电力线路建设单位应当与有关部门、单位或个人协商，签订协议，依照规定办理拆除手续，并按规定标准对被拆除的建(构)筑物所有者给予一次性补偿。 <br><br>    (三)坚决杜绝区内违章作业。使用起吊、挖掘、钻探、打桩等大型机械的单位和个人，进出或在电力设施保护区内施工作业，必须经当地电力管理部门批准，并采取安全措施后方可进行。安全监督管理部门要依法对从事起吊、挖掘、钻探等特种从业人员进行安全培训。电力管理部门会同建设等有关部门对施工作业场所进行检查，发现违章施工、违章操作的，要立即制止，并依法进行处理。 <br><br>    三、广泛宣传，形成全社会参与保护电力设施安全的合力。要充分利用报纸、电视、广播和标语、板报、发放宣传品等形式，多渠道、全方位、经常性地向广大人民群众进行依法保护电力设施宣传教育，增强群众的守法意识和维护电力设施安全的自觉性，减少各种危害电力设施安全的行为发生。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

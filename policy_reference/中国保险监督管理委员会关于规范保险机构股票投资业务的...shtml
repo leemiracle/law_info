@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2009〕45号<BR>&nbsp;&nbsp;【发布日期】2009-03-18<BR>&nbsp;&nbsp;【生效日期】2009-03-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/web/site0/tab480/i97650.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于规范保险机构股票投资业务的通知<br><br></font>(保监发〔2009〕45号)</p><br><br><br>各保险公司、保险资产管理公司:<br><br>    为支持资本市场改革发展，提高保险机构自主配置和投资管理能力，现就进一步规范保险资金投资股票有关事项通知如下：<br><br>    一、改进股票资产配置管理。保险公司应当根据保险资金特性和偿付能力状况，统一配置境内境外股票资产，合理确定股票投资规模和比例。偿付能力充足率达到150%以上的，可以按照规定，正常开展股票投资，偿付能力充足率连续四个季度处于100％到150％之间的，应当调整股票投资策略，偿付能力充足率连续两个季度低于100％的，不得增加股票投资，并及时报告市场风险，采取有效应对和控制措施。<br><br>    二、强化股票池制度管理。保险公司和保险资产管理公司应当建立禁选池、备选池和核心池等不同层级的股票池，加强股票池的日常维护和管理，提高研究支持能力，跟踪分析市场状况，密切关注上市公司变化。已投资股票出现《保险机构投资者股票投资管理暂行办法》第十四条规定情形的，应当按照授权及时处置，从可以投资票池中剔除。<br><br>    三、建立公平交易制度。保险公司和保险资产管理公司应当规范股票投资公平交易行为，确保各类账户或者投资组合享有研究信息、投资建议和交易执行等公平机会。保险机构应当根据账户或者组合性质，配备独立的股票投资经理，严防账户之间的高位托盘、反向操作等利益输送。应当加强职业道德教育，建立股票投资相关人员及直系亲属的股票账户申报制度，防范操作和道德风险。<br><br>    四、依规运作控制总体风险。保险公司应当根据新会计准则及有关规定计算总资产基数，严格控制短期融资，规范投资运作行为，防止过度利用杠杆融入资金投资股票。保险公司和保险资产管理公司应当向托管银行提供股票池股票和大盘蓝筹股票明细、关联方股票名单及计算比例需要的总资产和各类保险产品账户规模等数据，支持托管银行履行独立第三方监督义务。<br><br>    五、加强市场风险动态监测。保险公司和保险资产管理公司应当加强基础建设，运用在险价值（VAR）等量化分析手段，按季进行股市风险压力测试，分析风险暴露程度，评估潜在风险因素及对整体风险承受能力，股票市场发生大幅波动等非正常情况，必须加大测试频率和测试范围，及时采取化解措施，向监管机构提交《股票投资风险控制报告》。保险机构应当按照分散化原则，设置行业和个股集中度指标，规范参与股票申购、增发、配售等行为，防止出现集中风险及锁定期限可能产生的市场风险。<br><br>    六、落实岗位风险责任。保险公司和保险资产管理公司应当进一步落实岗位责任制度，做好有关分析备查工作，加强股票投资制度执行情况的内部稽核，建立异常交易行为日常监控机制，加强交易的独立性、公平性和分配过程的管理控制。保险机构有关高级管理人员及风险控制人员应当切实履行管理职责，如实记录和报告违规事项，严格执行责任追究制度,落实各个环节投资管理人员的职责。违反法律法规和运作规定的,应追究违规和造成损失的责任。<br><br>    根据市场发展需要，我会决定对保险公司股票投资实行备案制。保险公司应当按照《保险公司股票投资能力标准》和市场化原则，选择股票直接投资或委托投资方式，并向我会备案（详见附件）。<br><br>    附件：保险公司股票投资备案表<br><br>中国保险监督管理委员会<br>二○○九年三月十八日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

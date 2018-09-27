@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院法制办公室<BR>&nbsp;&nbsp;【发布文号】国法秘函〔2004〕171号<BR>&nbsp;&nbsp;【发布日期】2004-06-25<BR>&nbsp;&nbsp;【生效日期】2004-06-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinalaw.gov.cn/jsp/contentpub/browser/contentpro.jsp?contentid=co31789576-4" target=_blank>国务院法制办公室 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院法制办公室关于对《关于请解释行政许可有关问题的函》的复函<br> <br></font>（2004年6月25日国务院法制办公室文件国法秘函〔2004〕171号发布 自发布之日起施行）</p><br><br><br>    农业部办公厅：<br><br>    你们《关于请解释行政许可有关问题的函》（农办政函[2004]9号）收悉。经认真研究，并征求全国人大常委会法工委意见，现答复如下：<br><br>    一、进口单位拟进口的农药只要依照我国《农药管理条例》进行了农药登记，农业部就对其发放“进出口农药登记证明”。发放“进出口农药登记证明”是农业部对该农药是否已经依法进行了农药登记的核实、确认，不是行政许可。<br><br>    如果农业部除了要对该农药是否依法登记进行核实外，还要对其他条件进行审查后才决定是否发放“进出口农药登记证明”，实际上是在农药登记之外设定了进口许可。《农药管理条例》第30条第3款规定，进口农药的，货主或者其代理人只要向海关出示其取得的中国农药登记证或者农药临时登记证即可。因此，根据行政许可法第16条的规定，发放“进出口农药登记证明”属于在《农药管理条例》规定的农药登记之外增设的行政许可事项，对此，应当依法进行清理，但国务院决定予以保留的除外。<br><br>    对出口单位出口农药发放“进出口农药登记证明”，没有法律、行政法规依据。根据行政许可法的规定，部门规章不得设定行政许可。因此，对这一许可项目应当依法进行清理，但国务院决定予以保留的除外。<br><br>    二、法律、行政法规规定由行政机关实施行政许可，规章可以根据行政许可法的规定，规定由该行政机关内设机构或者所属事业单位以该行政机关名义受理许可申请。<br><br>    三、《农药管理条例》第8条规定：省、自治区、直辖市人民政府农业行政主管部门所属的农药检定机构协助做好本行政区域内的农药具体登记工作。《农药管理条例实施办法》第7条规定省级人民政府农业主管部门所属的农药检定机构负责农药登记的初审。按照这一规定，如果未经省级人民政府农业主管部门所属的农药检定机构的“初审”，申请人就无法获得农药登记。这种“初审”已构成了一项行政许可。<br><br>    四、行政许可法规定，设定行政许可，应当明确规定行政许可的条件。据此，行政许可的条件作为行政许可制度的重要内容，应当尽可能明确、具体，符合行政许可公开、公平、公正原则的要求。<br><br><br>    附：农业部办公厅关于请解释行政许可有关问题的函<br><br>    （2004年3月17日  农办政函[2004]9号）<br><br>    国务院法制办公室秘书行政司：<br><br>    在依照行政许可法、《国务院关于贯彻实施〈中华人民共和国行政许可法〉的通知》（国发[2003]23号）和《国务院办公厅关于贯彻实施行政许可法工作安排的通知》（国办发[2003]99号）清理农业行政许可项目和相关文件的过程中，我们碰到以下需要进一步明确的问题，请予以答复：<br><br>    一、为贯彻实施《农药管理条例》，切实履行联合国粮农组织和环境规划署《在国际贸易中对某些危险化学品和农药实行事先知情同意程序国际公约》，1999年6月，我部与海关总署联合发布了《关于对进出口农药实施登记证明管理的通知》，规定进出口列入名录的农药，进出口单位须事先向农业部申请领取“进出口农药登记证明”，一批一证，海关凭“进出口农药登记证明”放行。我们认为，这一措施属于对行政许可事项进行监督检查，不属于行政许可。这样理解是否准确？<br><br>    二、法律、行政法规规定由行政机关实施行政许可，规章可否规定由该行政机关内设机构或所属事业单位受理许可申请？如《农药管理条例》第八条规定我部负责农药登记，我部制定的《农药管理条例实施办法》第七条规定由农业部农药检定所受理登记申请。《农药管理条例实施办法》第七条的规定是否适当？<br><br>    三、《农药管理条例》第八条规定：“省、自治区、直辖市人民政府农业行政主管部门所属的农药检定机构协助做好本行政区域内的农药具体登记工作。”我部制定的《农药管理条例实施办法》第七条规定省级人民政府农业行政主管部门所属的农药检定机构负责农药登记的初审。我们认为，“农药登记初审”属于“协助”的具体表现形式，《农药管理条例实施办法》第七条的规定是适当的。这样理解是否准确？<br><br>    四、行政许可法规定设立行政许可，应当明确许可条件。对于难以明确许可条件的，如何处理？如《野生植物保护条例》第二十一条规定外国人在中国境内对国家重点保护野生植物进行野外考察的，应当事先得到国务院野生植物行政主管部门的批准。《植物新品种保护条例》第九条规定中国的单位和个人就其在国内培育的植物新品种向外国人转让申请权或者品种权的，应当经审批机关批准；第二十六条规定中国的单位和个人将国内培育的植物新品种向国外申请新品种权的，应当向审批机关登记。这些规定都属于保护我国品种资源的举措，体现的是国家对品种资源的主权，难以规定具体许可条件。<br><br>    五、对于法律仅规定行政许可机关，没有赋予下级行政机关行政许可审核权，行政法规赋予下级行政机关行政许可审核权的情况，如何处理？如《渔业法》第二十三条规定，海洋大型拖网、围网作业以及到中华人民共和国与有关国家缔结的协定确定的共同管理的海区或者公海从事捕捞作业的捕捞许可证，由国务院渔业行政主管部门批准发放。《渔业法实施细则》第十五条规定，从事外海、远洋捕捞业的，由经营者提出申请，经省级人民政府渔业行政主管部门审核后，报国务院渔业行政主管部门批准。<br><br>    六、法律、行政法规没有规定行政许可证有效期的，规章能否规定？如《种畜禽管理条例》第十五条规定，生产经营种畜禽的单位和个人，应当申领《种畜禽生产经营许可证》，但没有规定许可证的有效期；我部制定的《〈种畜禽生产经营许可证〉管理办法》第十九条规定，《种畜禽生产经营许可证》的有效期三年。根据行政许可法和《中华人民共和国行政许可法释义》（汪永清主编，中国法制出版社，2003年9月第1版）第172页的解释，我们认为，规章可以根据行政管理需要，在法律、行政法规没有规定行政许可有效期的情况下，规定行政许可有效期。这样理解是否准确？<br><br>    七、行政许可法规定，除法律、行政法规另有规定外，行政机关实施行政许可和对行政许可事项进行监督检查，不得收取任何费用。《农药管理条例》没有关于农药登记收费的规定，我部农药检定所多年来按照《国家计委、财政部关于调整农药登记费标准的通知》（计价费[1996]1718号）和《国家计委、财政部关于统一涉及境内外双重收费标准的通知》（计价格[2001]523号）收取农药登记费。按照行政许可法，农药登记不准收取任何费用。而据了解，一些国家对农药登记规定了收费甚至是较高的收费。这显然不利于我国农药企业进入国际市场，而有利于外国农药企业进入我国市场。我们认为，为公平农药国际贸易、增加国家财政收入，对农药登记收费应当实行对等原则，即外国对我国农药企业到该国申请农药登记收费的，我国也应当对该国农药企业到我国申请农药登记收费。在《农药管理条例》修改前，收费的问题应当如何处理？<br><br>    八、《种子法》第十五条规定，主要农作物品种在推广应用前应当通过国家级或者省级审定；主要农作物品种审定办法由国务院农业行政主管部门规定；国务院和省、自治区、直辖市人民政府农业行政主管部门分别设立由专业人员组成的农作物品种审定委员会，承担主要农作物品种的审定工作。第十六条规定，通过国家级审定的主要农作物品种由国务院农业行政主管部门公告，通过省级审定的主要农作物品种由省、自治区、直辖市人民政府农业行政主管部门公告。按照上述规定，农作物品种审定的实施主体是农业行政主管部门还是农业行政主管部门设立的农作物品种审定委员会<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

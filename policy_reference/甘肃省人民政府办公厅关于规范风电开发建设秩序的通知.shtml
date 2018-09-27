@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2008〕16号<BR>&nbsp;&nbsp;【发布日期】2008-02-25<BR>&nbsp;&nbsp;【生效日期】2008-02-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=939" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于规范风电开发建设秩序的通知<br> <br></font>(甘政办发〔2008〕16号)</p><br> <br><br>各市、自治州人民政府，省政府有关部门、有关单位：<br><br>    我省是全国风能较丰富的省区之一。全省风能资源理论储量2.37亿千瓦，可开发利用的风能资源在4000万千瓦左右，开发利用前景广阔。按照国家统一部署，近年来，我省风电开发前期工作及建设步伐明显加快，酒泉千万千瓦级风电基地及其配套电网工程已纳入国家风电基地规划，并经国家发改委批准开展项目前期工作，计划到2010年前建成风电装机300万千瓦，到2015年提前形成千万千瓦风电基地。风电的规模化开发，对加快能源结构调整，保障能源有效供应，带动装备制造业振兴，促进地方经济发展都具有重要的意义。<br><br>    省委、省政府高度重视风能资源的开发，提出了“建设河西风电走廊，再造西部陆上三峡”的战略目标，有关部门已组织开展了一系列前期工作，为全省风能资源开发奠定了坚实的基础。但在风电开发前期工作中，有关市州和县市区政府纷纷通过招商引资等方式与各类投资主体签订相关开发协议，此类行为不符合国家风电开发有关政策。国家对风电开发实行统一规划管理，并对风电场前期、工程建设用地、环境保护、开发方式、上网电价和费用分摊等方面都制定了相应的管理办法。同时，由于风电的特殊性，对电网冲击影响较大，风电开发须与电网同步规划建设，才能保证电量及时上网，保障投资者获得较好的投资效益。为了规范全省风电开发秩序，合理开发和有效利用风能资源，加快风电设备制造国产化步伐，根据《国务院关于投资体制改革的决定》(国发〔2004〕20号)、《国家发展改革委办公厅关于印发风电场前期工作有关规定的通知》(发改办能源〔2005〕899号)和《国家发展改革委关于风电建设管理有关要求的通知》(发改能源〔2005〕1204号)要求，现就规范全省风电开发建设秩序有关事项通知如下：<br><br>    一、全省风电开发由省发改委按照统筹规划、分期开发的原则组织实施。<br><br>    二、风电场建设项目开发须通过招标或参照特许权招标的方式确定，前期工作由省发改委统一组织开展。项目所在市州及县市区政府不得擅自与企业和个人签订各类风电开发协议。<br><br>    三、风电场建设项目实行分级管理，总装机容量5万千瓦及以上风电项目报国家发展改革委核准，其余项目由省发改委核准。有关核准程序和条件按《企业投资项目核准暂行办法》(国家发展改革委第19号令)执行。<br><br>    各市州及省政府有关部门要按照上述要求，加强协调配合，认真做好风电场项目前期及建设管理工作，确保全省风电产业健康有序发展。<br><br>二00八年二月二十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

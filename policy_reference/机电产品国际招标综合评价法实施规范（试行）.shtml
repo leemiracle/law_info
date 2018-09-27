@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部<BR>&nbsp;&nbsp;【发布文号】商产发[2008]311号<BR>&nbsp;&nbsp;【发布日期】2008-08-15<BR>&nbsp;&nbsp;【生效日期】2008-09-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/b/e/200808/20080805745704.html?1754839180=724127285" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>机电产品国际招标综合评价法实施规范（试行）<br><br></font>(商产发[2008]311号)</p><br> <br><br>各省、自治区、直辖市、计划单列市及新疆生产建设兵团商务主管部门，各地方、国务院各部门机电产品进出口办公室，各机电产品国际招标机构：<br><br>    为进一步规范机电产品国际招标投标活动，提高评标工作的科学性，鼓励采购先进技术和设备，根据《中华人民共和国招标投标法》和《机电产品国际招标投标实施办法》（商务部令[2004]第13号），商务部制定了《机电产品国际招标综合评价法实施规范（试行）》。现予公布，请遵照执行。<br><br>    特此通知<br><br>                                                    中华人民共和国商务部<br>                                                    二OO八年八月十五日 <br><br><br>机电产品国际招标综合评价法实施规范（试行）<br><br><font class='zhang'>第一章</font> 总 则 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为进一步规范机电产品国际招标投标活动，提高评标工作的科学性，鼓励采购先进技术和设备，根据《<a href=javascript:ROF(33504,0) class=alink>中华人民共和国招标投标法</a>》和《<a href=javascript:ROF(97720,0) class=alink>机电产品国际招标投标实施办法</a>》（商务部令[2004]第13号，以下称“13号令”），制定本规范。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本规范所称综合评价法，是指根据机电产品国际招标项目（以下称“招标项目”）的具体需求，设定商务、技术、价格、服务及其他评价内容的标准和权重，并由评标委员会对投标人的投标文件进行综合评价以确定中标人的一种评标方法。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  使用国际组织或者外国政府贷款、援助资金的招标项目采用综合评价法的，应当将综合评价法相关材料报商务部备案；使用国内资金及其他资金的招标项目采用综合评价法的，应当将综合评价法相关材料经相应的主管部门转报商务部备案。<br><br><font class='zhang'>第二章</font> 适用范围及原则<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  综合评价法适用于技术含量高、工艺或技术方案复杂的大型或成套设备招标项目。<br><br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  采用综合评价法应当遵循公开公平、科学合理、量化择优的原则。<br><br><font class='zhang'>第三章</font>  内容与要求<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  综合评价法方案应当由评价内容、评价标准、评价程序及定标原则等组成，并作为招标文件不可分割的一部分对所有投标人公开。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  综合评价法的评价内容应当包括投标文件的商务、技术、价格、服务及其他方面。<br><br>    商务、技术、服务及其他评价内容可以包括但不限于以下方面：<br><br>    （一）商务评价内容可以包括：资质、业绩、财务、交货期、付款条件及方式、质保期、其他商务合同条款等。<br>    （二）技术评价内容可以包括：方案设计、工艺配置、功能要求、性能指标、项目管理、专业能力、项目实施计划、质量保证体系及交货、安装、调试和验收方案等。<br>    （三）服务及其他评价内容可以包括：服务流程、故障维修、零配件供应、技术支持、培训方案等。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  综合评价法应当对每一项评价内容赋予相应的权重，其中价格权重不得低于30%，技术权重不得高于60%。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  综合评价法应当集中列明招标文件中所有的重要条款（参数）（加注星号“*”的条款或参数，下同），并明确规定投标人对招标文件中的重要条款（参数）的任何一条偏离将被视为实质性偏离，并导致废标。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  对于已进行资格预审的招标项目，综合评价法不得再将资格预审的相关标准和要求作为评价内容；对于未进行资格预审的招标项目，综合评价法应当明确规定资质、业绩和财务的相关指标获得最高评价分值的具体标准。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  综合评价法对投标文件的商务和技术内容的评价可以采用以下方法：<br><br>    （一）对只需要判定是否符合招标文件要求或是否具有某项功能的指标，可以规定符合要求或具有功能即获得相应分值，反之则不得分。<br>    （二）对可以明确量化的指标，可以规定各区间的对应分值，并根据投标人的投标响应情况进行对照打分。<br>    （三）对可以在投标人之间具体比较的指标，可以规定不同名次的对应分值，并根据投标人的投标响应情况进行优劣排序后依次打分。<br>    （四）对需要根据投标人的投标响应情况进行计算打分的指标，应当规定相应的计算公式和方法。<br>    （五）对总体设计、总体方案等无法量化比较的评价内容，可以采取两步评价方法：第一步，评标委员会成员独立确定投标人该项评价内容的优劣等级，根据优劣等级对应的分值算术平均后确定该投标人该项评价内容的平均等级；第二步，评标委员会成员根据投标人的平均等级，在对应的分值区间内打分。<br><br>    评价方法应充分考虑每个评价指标所有可能的投标响应，且每一种可能的投标响应应当对应一个明确的分值，不得对应多个分值或分值区间，采用本条第（五）项所列方法的除外。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  综合评价法的价格评价应当符合低价优先、经济节约的原则，并明确规定评标价格最低的有效投标人将获得价格评价的最高分值，价格评价的最大可能分值和最小可能分值应当分别为价格满分和0分。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  综合评价法应当明确规定评标委员会成员对评价过程及结果产生较大分歧时的处理原则与方法，包括：<br><br>    （一）评标委员会成员对同一投标人的商务、技术、服务及其他评价内容的分项评分结果出现差距时，应遵循以下调整原则：<br>    评标委员会成员的分项评分偏离超过评标委员会全体成员的评分均值±20%，该成员的该项分值将被剔除，以其他未超出偏离范围的评标委员会成员的评分均值（称为“评分修正值”）替代；评标委员会成员的分项评分偏离均超过评标委员会全体成员的评分均值±20%，则以评标委员会全体成员的评分均值作为该投标人的分项得分。<br><br>    （二）评标委员会成员对综合排名及推荐中标结果存在分歧时的处理原则与方法。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  综合评价法应当明确规定投标人出现下列情形之一的，将不得被确定为推荐中标人：<br><br>    （一）该投标人的评标价格超过全体有效投标人的评标价格平均值一定比例以上的；<br>    （二）该投标人的技术得分低于全体有效投标人的技术得分平均值一定比例以上的。<br><br>    本条第（一）、（二）项中所列的比例由招标文件具体规定，且第（一）项中所列的比例不得高于40%，第（二）项中所列的比例不得高于30%。<br><br><font class='zhang'>第四章</font>  评价程序与规则<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  评标委员会应当首先对投标文件进行初步评审（见附表1），判定并拒绝无效的和存在实质性偏离的投标文件。通过初步评审的投标文件进入综合评价阶段。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  评标委员会成员应当根据综合评价法的规定对投标人的投标文件独立打分，并分别计算各投标人的商务、技术、服务及其他评价内容的分项得分，凡招标文件未规定的标准不得作为加分或者减分的依据。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  价格评价应当遵循以下步骤依次进行：（1）算术修正；（2）计算投标声明（折扣/升降价）后的价格；（3）价格调整；（4）价格评分。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  评标委员会应当对每位成员的评分进行汇总；每位成员在提交其独立出具的评价记录表（见附表2-1，2-2，2-3）后不得重新打分。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  评标委员会应当按照本规范第十三条第（一）项的规定，对每位成员的评分结果进行调整和修正。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  投标人的综合得分等于其商务、技术、价格、服务及其它评价内容的分项得分之和。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  评标委员会应当根据综合得分对各投标人进行排名。综合得分相同的，价格得分高者排名优先；价格得分相同的，技术得分高者排名优先，并依照商务、服务及其他评价内容的分项得分优先次序类推。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  评标委员会应当推荐综合排名第一的投标人为推荐中标人。如综合排名第一的投标人出现本规范第十四条列明情形之一的，评标委员会应推荐综合排名第二的投标人为推荐中标人。如所有投标人均不符合推荐条件的，则当次招标无效。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  评标报告应当按照13号令等有关规定制定，并详细载明综合评价得分的计算过程，包括但不限于以下表格：评标委员会成员评价记录表、商务最终评分汇总表（见附表3-1）、技术最终评分汇总表（见附表3-2）、服务及其他评价内容最终评分汇总表（见附表3-3）、价格最终评分记录表（见附表4）、投标人最终评分汇总及排名表（见附表5）和评审意见表（见附表6）。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  投标文件、评标委员会评分记录表、汇总表等所有与评标相关的资料应当严格保密，并由招标人和招标机构及时存档。<br><br><font class='zhang'>第五章</font>  附则<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  本规范所称相应的主管部门，是指各省、自治区、直辖市、计划单列市、经济特区、新疆建设兵团、各部门机电产品进出口管理机构；所称有效投标人，是指通过初步评审，且商务和技术均实质性满足招标文件要求的投标人；所称均值，是指算术平均值。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  重大装备自主化依托工程设备招标项目采用综合评价法的，参照本规范执行。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  本规范由商务部负责解释。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  本规范自发布之日起30日后施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

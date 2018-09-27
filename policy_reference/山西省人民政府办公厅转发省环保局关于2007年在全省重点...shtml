@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政办发〔2007〕62号<BR>&nbsp;&nbsp;【发布日期】2007-05-21<BR>&nbsp;&nbsp;【生效日期】2007-05-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanxigov.cn/gb/zgsx/zwgk/zcfg/bgtwj/jzbf/userobject1ai45539.html" target=_blank>山西省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府办公厅转发省环保局关于2007年在全省重点污染企业推广建设污染源自动监控系统实施意见的通知<br><br></font>(晋政办发〔2007〕62号)</p><br><br><br>各市人民政府、省人民政府有关部门:<br><br>    省环保局《关于2007年在全省重点污染企业推广建设污染源自动监控系统的实施意见》已经省人民政府同意,现转发给你们,请认真贯彻执行。 <br><br>                                                    二○○七年五月二十一日<br>    <br><br>关于2007年在全省重点污染企业推广建设污染源自动监控系统的实施意见<br>    (省环保局2007年4月) <br><br>    我省是全国污染最严重的省份,全省现有4400多家工业企业,排污规模以上企业2800多家,其中国控重点污染源585个,污染源点多面广,排污监管任务十分繁重。因排污监管监测装备差,技术手段落后,违法排污,超标排污现象非常严重。30多年来,我省虽先后投资700多亿元,建设了15万多台(套)治污设施。由于设施运行维护增加成本,设施闲置,偷排暗排现象十分普遍;环境监管能力薄弱和污染治理设施不能正常运行,已成为我省环境污染突出的重要原因。为此,建设强有力的污染源自动监控系统,提高政府监管能力势在必行。<br>    污染源自动监控系统是利用现代监测和信息网络技术对排污单位实行全程监督控制的管理系统。我省污染源监控试点工作已基本取得成功,省人民政府决定2007年在全省范围先选择800余家污染严重的企业强制安装污染源自动监控设施。<br>    一、建设污染源自动监控系统是地方各级政府落实全省污染物减排任务、改善当地环境质量的重要举措,是完成省委、省人民政府确定的蓝天碧水工程目标和“十一五”环保规划目标的重要手段,是改变目前重环保设施建设、轻环保设施管理的具体措施,是落实全省经济工作会议的一项重要任务,各市要高度重视、精心安排,明确部门分工、,确保在省规定的时限内保质保量完成污染源自动监控系统建设任务。<br>    二、全省污染源自动监控系统建设由省环保局统一组织实施,市、县人民政府负责,环保部门组织落实,企业实施建设。各市要将本行政区域内包括火力发电、焦化、水泥、冶金、化工、煤炭等行业和城市污水处理厂等占当地排污总量60-70%的企业,纳入安装自动在线监控系统范围,落实企业和排污口,确定所需设备台(套)数。市、县人民政府负责组织本行政区域重点污染源自动监控系统建设工作。各重点排污企业承担本企业监控设施建设任务。<br>    三、统一规划,分市实施。全省污染源自动监控系统建设工作由省环保局负责统一规划,编制建设方案,各市依据省统一规划,并编制本行政区域实施计划,经省环保局会同省财政厅等部门审定后,由各市组织实施。<br>    四、突出重点,统一建设标准。2007年要在全省范围内的800余个重点污染企业的约1000个废气排放口和600个废水排污口安装自动监控设施,省及11个省辖市完成或完善监控中心(平台)建设。监控设备按有关规定和程序,实行统一招标、统一采购、统一安装标准、统一监管原则。各污染企业自动监控系统建设必须按照统一标准,具备与省市环保部门直接联网的条件。具体建设技术标准和要求由省环保局另行制定。<br>    五、建设资金以企业筹措为主,省人民政府补助20%,各市人民政府给予适当补助。<br>    污染源自动监控设施建成后,由省、市、县环保部门监管,定期巡检或委托各企业承担日常维护。 <br><br>    附件:2007年全省推广建设污染源自动监控系统排污单位名单（略）<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

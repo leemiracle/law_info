@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政发〔2006〕72号<BR>&nbsp;&nbsp;【发布日期】2006-12-06<BR>&nbsp;&nbsp;【生效日期】2006-12-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yghb/yg04/yg04c/200703/t18716.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府关于加强磷矿资源管理的意见<br><br></font>(鄂政发〔2006〕72号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br><br>    磷矿是我省的优势矿产资源，磷矿资源的开发利用对促进全省经济社会发展发挥了重要作用。但磷矿开发利用中尚存在矿山布局不合理、采富弃贫、矿山环境恶化、增长方式粗放等问题。为了促进磷矿资源合理开发和有效保护，提高磷矿资源的利用效益，现就加强磷矿资源管理提出以下意见：<br><br>    一、指导思想、基本原则和发展目标<br>    （一）指导思想。全面落实科学发展观，以资源节约、集约利用为目标，以矿山布局调整和资源优化配置为主线，逐步实现“一矿一主一权”，促使优势资源向优势企业集中，使磷矿资源优势转化为经济优势，从而实现矿山布局合理化、企业生产规模化、采选加工一体化、资源利用集约化，建立保护有力、保障有度的磷矿资源开发利用新格局。<br>    （二）基本原则和发展目标。坚持优化资源配置原则，培育大型磷矿采选加工一体化企业，依法关闭布局不合理、不具备安全生产条件、采富弃贫、浪费资源、破坏生态环境的矿山。坚持资源节约与综合利用原则，制定鼓励政策，引导和支持企业充分利用中低品位磷矿。坚持开发与保护并重原则，严格磷矿资源勘查开采准入条件，控制开采总量，加大地质勘查投入，增加磷矿资源储备，降低资源耗竭速度。坚持保护环境与安全生产原则，采取切实可行的措施，防治环境污染和矿山生态破坏，促进矿山安全生产。到2010年，全省磷矿石开采总量控制在1200万吨（折标）左右，选矿比例达到80%以上，矿山总数减少到80家以内。<br><br>    二、加强规划和矿业权管理<br>    (三)严格磷矿资源规划管理。制定省、市、县三级磷矿资源专项规划及矿业权设置方案，完善磷矿资源规划体系，合理划定规划矿区；确定磷矿资源勘查开采布局调整、资源整合与优化配置的指导方案；确定矿山总数、开采总量、最低开采规模及开采回采率、采矿贫化率和选矿回收率控制指标；制订矿山监督管理、资源有效利用、环境保护治理、土地复垦、闭坑等措施。磷矿资源规划应依法开展环境影响评价工作。磷矿资源勘查开采必须通过规划审查，凡布局不合理、不能满足规划准入条件，开采方式、矿山总数、开采规模超过规划调控指标的，一律不予延续、变更或新设立矿业权。<br>    （四）严格矿业权准入管理。新建矿山必须是采、选、加工一体化企业，凡不符合磷矿资源规划、产业政策、勘查开采技术规范的，以及勘查方案、开发利用方案、环评报告、安全评价审查等要件不符合要求的，一律不予颁发勘查许可证、采矿许可证等证照。对不能满足最低勘查投入、严重超层越界的，没有实行全层开采、贫富兼采，回采率达不到规定要求的，达不到最低开采规模、矿山建设规模与资源储量规模不相匹配的，不再办理矿业权延续、变更等登记手续。<br>    （五）完善矿业权有偿出让及转让制度。磷矿资源矿业权必须实行有偿出让，从严控制矿业权协议出让，调整好矿业权收益分配比例。按照分类管理的原则，以招标、拍卖、挂牌方式公开出让探矿权、采矿权。探矿权、采矿权转让必须经转让审批机关批准，严厉打击非法出让、转让矿业权等违法行为。<br><br>    三、大力推进磷矿资源整合<br>    （六）整合的目标和任务。以优化资源配置和开发利用布局为主线，综合运用法律、经济和必要的行政手段，通过磷矿资源及生产要素重组，构建配置优化、布局合理、产业聚集、利用集约的磷矿资源开发利用新格局。按照以规划调控、分类处置、政府引导、市场运作、统筹兼顾、公开透明的原则，科学设置和调整矿业权，基本实现“一矿一主一权”。2007年底前，使矿山开采规模达到10万吨以上，全省磷矿矿山总数压减至110家左右。规模矿区实现矿石全层开采、贫富兼采、分级使用，回采率达到70%以上。<br>    （七）整合的范围。按照国家产业政策，对下列矿山进行整合：布局不合理、一矿多开的；大矿小开，开采规模小于10万吨/年，且与储量规模不相适应的；采选加工脱节，既没选矿加工能力又未与后续选矿加工企业形成长期合作关系的；责令限期整改，但拒不整改和整改后仍达不到要求的。<br>    （八）整合的方式。在一个矿区内，以一个规模较大、技术力量较强、经济效益好的矿山企业特别是具有后续加工能力的矿山企业为主体，通过收购、兼并以及作价入股等形式，整合其他矿山；对经济技术力量相当的矿山企业，按照平等协商、互惠互利、自愿合作的原则，通过产权作价入股、合资合作经营等形式，合并形成新的满足准入条件的矿山企业。鼓励矿山与下游加工企业双向参股，战略协作，发展选矿，形成采选加工联合体或采选加工一体化企业。优先支持省内重点磷化工企业，主导磷矿资源整合，集中开发利用省内主要磷矿区资源。<br>    县级以上人民政府要组织国土资源等部门，制订辖区内磷矿资源整合方案并逐级上报。经批准后，由县级人民政府组织实施，于2007年底前完成。<br><br>    四、加强磷矿开采监督管理<br>    （九）整顿和规范磷矿资源开发秩序。开展磷矿资源开发秩序专项治理整顿和规范工作，严厉打击无证勘查开采、非法转让、圈而不探、以采代探、乱采滥挖、盗采盗运、采富弃贫、不按开发利用方案开采等破坏和浪费矿产资源的行为；对开采规模偏低、基础储量不足、回采率未达到要求、安全生产和环保措施未到位的矿山，责令限期整改。依法关闭证照不齐、破坏资源、污染环境、不具备安全生产条件和位于规划禁采区内的矿山，以及整改后仍不符合保留条件的矿山。<br>    （十）实行矿山企业矿产开发监督管理年度检查制度。对矿山企业执行开发利用方案情况（包括开采方式、开采总量及产品流向、开采回采率、采矿贫化率和选矿回收率以及国家相关税费的缴纳情况等）实行年度检查。年度检查不合格的，必须限期整改，整改后仍达不到要求的，依法吊销采矿许可证。<br>    （十一）强化资源储量管理。建立矿山矿产资源储量动态监管机制。矿山企业必须按照有关规定对占用的资源储量年度变动情况进行地质测量，提交矿山年度地质测量报告。对不按规定进行地质测量、不提交矿山储量年报的，不予通过采矿许可证年检；对瞒报或少报消耗储量，或与地质测量机构串通弄虚作假的，依法予以处罚，情节严重的吊销采矿许可证。<br>    （十二）实行开采总量控制。根据全省磷矿石深加工市场需求，科学确定磷矿石开采总量，合理下达年度开采计划。加强对磷矿山的开采、运销等环节的管理，严禁超能力、超规模、超计划开采，确保磷矿开采总量得到控制。<br>    （十三）严格磷矿石运销管理。继续实施磷矿石准运制度，对高品位磷矿石实行开采和运销总量控制，运销磷矿石要重点保障省内磷化工业的需求。对磷矿产品出口实行预核准制度，从严限制高品位原矿出口。<br><br>    五、完善配套政策<br>    （十四）鼓励开采和利用中低品位磷矿。研究制定开发利用中低品位磷矿的扶持政策措施；依靠科技进步，提高中低品位磷矿资源利用水平；逐步将资源税、资源补偿费计征与矿山消耗资源储量和矿石品级挂钩；认真落实各项税收政策，探索行之有效的征管措施和控管办法。<br>    （十五）加强磷矿资源勘查。积极研究和精心部署磷矿资源成矿远景区的勘查工作，逐步加大磷矿资源勘查投入，提高勘查程度，增加资源储备，提高磷矿资源保障程度。<br>    （十六）建立矿山环境恢复治理备用金制度。建立矿山环境恢复治理备用金制度，加大矿山环境恢复治理力度，矿山企业和个人应按规定缴纳环境恢复治理备用金。财政部门要设立专门的汇缴专户，严格管理，专项用于矿山环境恢复治理。<br>    加强磷矿资源管理，促进磷矿资源合理开发利用事关全省经济发展大局。各地、各部门要切实加强领导，并结合本地区、本部门实际，认真做好贯彻落实工作，抓紧制订和落实各项具体措施。<br><br>湖北省人民政府<br>二○○六年十二月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

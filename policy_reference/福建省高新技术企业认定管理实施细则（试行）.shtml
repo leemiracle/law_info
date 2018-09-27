@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省科技厅、福建省财政厅、福建省国税局、福建省地税局<BR>&nbsp;&nbsp;【发布文号】闽科高〔2008〕31号<BR>&nbsp;&nbsp;【发布日期】2008-12-02<BR>&nbsp;&nbsp;【生效日期】2008-12-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fujian.gov.cn/zwgk/zxwj/bmwj/200812/t20081211_103078.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省高新技术企业认定管理实施细则（试行）<br> <br></font>(闽科高〔2008〕31号)</p><br><br><br>各设区市科技局财政局、国税局、地税局，福州科技园区管委会：<br><br>    为规范我省高新技术企业认定管理工作，根据国家《高新技术企业认定管理办法》（国科发火〔2008〕172号）和《高新技术企业认定管理工作指引》（国科发火〔2008〕362号）的有关要求，经省政府同意，省科技厅、省财政厅、省国税局、省地税局联合制定了《福建省高新技术企业认定管理实施细则（试行）》。现印发给你们，请认真遵照执行。<br><br>                                        福建省科技厅 福建省财政厅<br>                                        福建省国税局 福建省地税局<br>                                        二○○八年十二月二日<br><br><br>福建省高新技术企业认定管理实施细则（试行）<br><br>    <font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为规范我省高新技术企业认定管理工作，确保高新技术企业认定管理工作遵循“突出企业主体、鼓励技术创新、实施动态管理、坚持公平公正”的原则，根据科技部、财政部、国家税务总局颁布的《<a href=javascript:ROF(126637,0) class=alink>高新技术企业认定管理办法</a>》（以下简称“《认定办法》”）和《<a href=javascript:ROF(129065,0) class=alink>高新技术企业认定管理工作指引</a>》（以下简称“《工作指引》”）的规定，结合我省实际，特制定本实施细则。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本实施细则所称的高新技术企业是指：在科技部、财政部、国家税务总局颁布的现行《国家重点支持的高新技术领域》（以下简称“《重点领域》”）内，持续进行研究开发与技术成果转化，形成企业核心自主知识产权，并以此为基础开展经营活动，在福建省境内（不包括计划单列市，下同）注册一年以上的居民企业。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 依照《认定办法》、《工作指引》，结合本实施细则所认定的高新技术企业即为《中华人民共和国企业所得税法》（以下简称《企业所得税法》）第二十八条第二款“国家需要重点扶持的高新技术企业，减按15％的税率征收企业所得税”中所称“国家需要重点扶持的高新技术企业”，可依照《企业所得税法》及其实施条例等有关规定，申请享受税收优惠政策。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 省科技、财政、国税、地税行政管理部门组成省高新技术企业认定管理工作领导小组（以下简称“领导小组”），接受国家高新技术企业认定管理工作领导小组的指导和监督，负责我省高新技术企业认定管理工作。其主要职责为：<br><br>    （一）制订我省高新技术企业认定管理实施细则及相关规定。<br><br>    （二）负责我省的高新技术企业认定（复审）工作，确认高新技术企业资格。<br><br>    （三）协调、解决我省高新技术企业认定及相关政策落实中的重大问题。<br><br>    （四）审议我省高新技术企业认定管理及政策落实工作报告。<br><br>    第五条领导小组下设省高新技术企业认定管理工作领导小组办公室（以下简称“办公室”），负责处理高新技术企业认定日常工作。办公室设在省科技厅，由科技、财政、国税、地税、发改、经贸、外经贸、信息产业行政管理部门相关人员组成。其主要职责：<br><br>    （一）负责受理我省高新技术企业认定（复审）申请和复核要求，组织高新技术企业认定（复审）专家评审和复核调查。<br><br>    （二）负责我省高新技术企业认定工作专家库的建立和维护。根据《工作指引》所规定专家的条件和要求，从高等院校、科研院所、行业管理部门和企业中遴选从事《重点领域》相关技术的研究型和应用型高级技术人才，建立专家库，并将参与高新技术企业认定工作的专家，经领导小组同意后报全国高新技术企业认定管理工作领导小组办公室备案。<br><br>    （三）指导和监督中介机构参与高新技术企业认定专项审计工作，对认定过程中出现的违规和中介机构及相关人员予以记录，并按《工作指引》的规定给予相应处理。<br><br>    （四）负责组织全省高新技术企业认定（复审）管理工作的宣传、培训等事宜。<br><br>    <font class='zhang'>第二章</font> 认定条件<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 高新技术企业认定须同时满足以下条件：<br><br>    （一）在福建省境内注册的企业，近三年内通过自主研发、受让、受赠、并购等方式，或通过5年以上的独占许可方式，对其主要产品（服务）的核心技术拥有自主知识产权；<br><br>    （二）产品（服务）属于《国家重点支持的高新技术领域》规定的范围；<br><br>    （三）具有大学专科以上学历的科技人员占企业当年职工总数的30%以上，其中研发人员占企业当年职工总数的10%以上；<br><br>    （四）企业为获得科学技术（不包括人文、社会科学）新知识，创造性运用科学技术新知识，或实质性改进技术、产品（服务）而持续进行了研究开发活动，且近三个会计年度的研究开发费用总额占销售收入总额的比例符合如下要求：<br><br>    1. 最近一年销售收入小于5,000万元的企业，比例不低于6%；<br><br>    2. 最近一年销售收入在5,000万元至20,000万元的企业，比例不低于4%；<br><br>    3. 最近一年销售收入在20,000万元以上的企业，比例不低于3%。<br><br>    其中，企业在中国境内发生的研究开发费用总额占全部研究开发费用总额的比例不低于60%。企业注册成立时间不足三年的，按实际经营年限计算；<br><br>    （五）高新技术产品（服务）及其技术性收入的总和占企业当年总收入的60%以上；<br><br>    （六）企业研究开发组织管理水平、科技成果转化能力、自主知识产权数量、销售与总资产成长性等四项指标按照《工作指引》的要求计算，且加权记分须达到70分以上（不含70分）。<br><br>    <font class='zhang'>第三章</font> 认定程序<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 高新技术企业认定包括企业申报、材料审查、专家评审、审查认定、公示及颁发证书等环节。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 企业申报<br><br>    （一）、企业根据本实施细则第六条进行自我评价，认为符合认定条件的，登录“高新技术企业认定管理工作网”（以下简称“管理工作网”，网址：www.innocom.gov.cn）注册登记；<br><br>    （二）企业自行选择符合《工作指引》条件要求的中介机构，对企业研究开发费用等内容进行专项审计；<br><br>    （三）企业提出认定申请，将以下材料报送所在地设区市科技局。<br><br>    1、高新技术企业认定申请书；<br><br>    2、企业营业执照副本、税务登记证书（复印件）；<br><br>    3、经符合条件的中介机构鉴证的企业近三个会计年度研究开发费用（实际年限不足三年的按实际经营年限）、近一个会计年度高新技术产品（服务）收入专项审计报告；<br><br>    4、经具有资质的中介机构鉴证的企业近三个会计年度的财务报表（含资产负债表、利润及利润分配表、现金流量表，实际年限不足三年的按实际经营年限）；<br><br>    5、技术创新活动证明材料：<br><br>    知识产权证书，包括发明专利、实用新型专利、非简单改变产品图案和形状的外观设计（主要是指：运用科学和工程技术的方法，通过研究与开发过程得到的外观设计）、计算机软件著作权登记证书、集成电路布图设计专有权、植物新品种；独占许可协议；生产批文；新产品或新技术证明材料（或省级以上有资质的查新单位出具的查新报告）；产品质量检验报告；承担省级以上科技项目证明；环保达标证明；其他相关证明材料。<br><br>    6、企业职工人数、学历结构以及研发人员占企业职工的比例说明，并附相关证明材料。<br><br>    第九条申报材料核对<br><br>    各设区市科技局对企业申报材料的完整性进行核对，出具核对意见并汇总报至办公室；对申请材料齐全的企业通知其按要求从“管理工作网”上提交申报材料；对材料不齐全的企业，应实行一次性告知，通知其在申请截止日期前补充材料。<br><br>    办公室组织对各设区市科技局上报的企业申报材料进行形式审查，通过形式审查的进入专家评审，未通过形式审查的退回设区市科技局，在10个工作日内补充材料。办公室对补充材料再次进行形式审查。再不符合要求的退回申报企业补齐材料后下一批再报。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 高新技术企业认定工作原则上每年集中认定四批。每年的一、四、七、十月的最后一天分别为办公室受理设区市科技局每批次推荐申报材料的截止日期。根据企业申报情况，经领导小组同意可增加认定频次。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 专家评审<br><br>    办公室根据企业的申报材料，按技术领域从专家库中选择不少于5名的相关专家进行评审。专家按照独立公正的原则审查企业申报的研发项目是否符合《认定办法》及《工作指引》的要求，对企业的研究开发活动情况、核心自主知识产权及主营业务等进行评价，并填写《高新技术企业认定专家评价表》、《高新技术企业认定专家组综合评价表》，为领导小组提供咨询意见。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 审查认定<br><br>    办公室对专家评审结果和中介机构提供的专项审计报告进行审核，经审核符合高新技术企业认定条件的，提出审核意见，报领导小组审批确定高新技术企业认定公示名单；对专家评审结果或专项审计报告有异议的，由成员单位联合到现场进行调查核实，并将调查核实结果和审核意见报领导小组审定。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 公示及颁发证书<br><br>    经认定的高新技术企业，在“管理工作网”上公示15个工作日。经公示无异议的企业，由办公室填写审批备案汇总表，报全国高新技术企业认定管理工作领导小组办公室备案，在“管理工作网”上公告认定结果，并由领导小组颁发加盖省科技、财政、国税、地税部门公章的“高新技术企业证书”。<br><br>    对公示有异议的企业，由办公室组织进行调查核实，并将调查结果和处理建议报领导小组裁定。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 高新技术企业资格自颁发证书之日起有效期为三年。<br><br>    <font class='zhang'>第四章</font> 复审、变更及取消<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 高新技术企业证书有效期满，被授予单位可提出复审申请，不提出复审申请或复审不合格的，其高新技术企业资格到期自动失效。每年集中复审四批，复审申请材料的受理和推荐程序按本实施细则第八条规定执行，复审申请材料的受理时间按本实施细则第十条规定执行。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 高新技术企业复审申报材料包括：<br><br>    1、高新技术企业认定申请书；<br><br>    2、企业营业执照副本、税务登记证书（复印件）；<br><br>    3、近三个会计年度开展研究开发等技术创新活动的报告；<br><br>    4、经符合条件的中介机构鉴证的企业近三个会计年度研究开发费用、近一个会计年度高新技术产品（服务）收入专项审计报告；<br><br>    5、经具有资质的中介机构鉴证的企业近三个会计年度的财务报表（含资产负债表、利润及利润分配表、现金流量表）。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 复审时重点对照本实施细则第六条（四）款进行审查。办公室对符合条件的企业，按照本实施细则第十三条进行公示与备案，并由领导小组颁发“高新技术企业证书”；对申报材料有疑问的企业，组织有关部门到现场进行原始资料的核实后上报领导小组审定。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 通过复审的高新技术企业资格自颁发“高新技术企业证书”之日起有效期为三年。复审合格有效期满后，企业的高新技术企业资格需重新认定，按初次申请办理。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 高新技术企业经营业务、生产技术活动等发生重大变化（如并购、重组、转业等）的，应在15日内通过设区市科技局向办公室报告；变化后不符合本办法规定条件的，经领导小组研究审定，自当年起终止其高新技术企业资格；需要重新认定的，按本实施细则第八至十三条办理。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 高新技术企业需要变更名称、地址等内容，需提供工商或外经贸等行政管理部门的有效批复件，经设区市科技局核对后上报，由领导小组确认并经公示、备案后重新核发认定证书，证书编号与有效期不变。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 已认定的高新技术企业有下述情况之一的，经领导小组办公室召集相关业务主管部门审议后，报领导小组审定，取消其资格：<br><br>    （一）在申请认定过程中提供虚假信息，造成恶劣影响的；<br><br>    （二）有偷、骗税等行为，受到处罚的；<br><br>    （三）发生重大安全、质量事故的；<br><br>    （四）有环境等违法、违规行为，受到有关部门处罚的。<br><br>    对被取消高新技术企业资格的企业，在5年内不再受理其高新技术企业认定申请。<br><br>    <font class='zhang'>第五章</font> 申请享受税收优惠政策<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 认定（复审）合格的高新技术企业，自认定（复审）当年起依照《企业所得税法》及其《实施条例》、《中华人民共和国税收征收管理法》、《中华人民共和国税收征收管理法实施细则》等有关规定，向主管税务机关申请享受税收优惠政策。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 享受减税、免税优惠的高新技术企业，减税、免税条件发生变化的，应当自发生变化之日起15日内向主管税务机关报告；不再符合减税、免税条件的，应当依法履行纳税义务。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 主管税务机关在执行税收优惠政策过程中，发现企业不具备高新技术企业资格的，由主管税务机关层报省级税务机关审核，审核后认为企业不具备高新技术企业资格的，提请领导小组复核。复核期间，可暂停企业享受减免税优惠。复核结果，若企业仍符合高新技术企业条件，应按原审批时间恢复享受减免税优惠。<br><br>    <font class='zhang'>第六章</font> 研究开发费用的核算<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 研发费用按年度、项目进行归集。研发项目的确认及研发费用的核算按《工作指引》有关规定。<br><br>    企业按《高新技术企业认定申请书》的要求，如实向中介机构提供“企业研究开发项目”和按年度分项目的“企业年度研究开发费用结构明细表”及有关证明材料和原始凭证。<br><br>    中介机构根据企业提供的有关证明材料和原始凭证及财务报表进行专项审计并出具专项审计报告，对“企业年度研究开发费用结构明细表”出具鉴证意见。<br><br>    第二十六条经自我评价认为符合《工作指引》要求的中介机构，可以向办公室提供相关证明材料，经核实后在相关网站上公布其名单。<br><br>    中介机构接受企业委托，应当及时、准确、优质、高效地为申报企业提供服务，依据《认定办法》和《工作指引》客观公正地对企业的研究开发费用和高新技术产品（服务）收入进行专项审计，据实出具审计报告。发现有弄虚作假等行为的，取消其参与高新技术企业认定专项审计工作资格，并在“管理工作网”上公告。<br><br>    <font class='zhang'>第七章</font> 附 则<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 本实施细则未尽事宜按《高新技术企业认定管理办法》和《高新技术企业认定管理工作指引》执行。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 本实施细则由省高新技术企业认定管理工作领导小组负责解释。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 本实施细则自颁布之日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

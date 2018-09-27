@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2006]37号<BR>&nbsp;&nbsp;【发布日期】2006-03-16<BR>&nbsp;&nbsp;【生效日期】2006-03-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200603281300588295" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于完善税务登记管理若干问题的通知<br><br></font>(国税发[2006]37号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    为了规范税务登记，加强户籍管理，严格税源监控，结合2006年全面换发税务登记证工作，现将税务登记管理中有关问题进一步明确如下：?<br>    一、 税务登记的范围及管理?<br>    按照税收征管法及其实施细则和税务登记管理办法的有关规定，除国家机关、个人（自然人）和无固定生产、经营场所的流动性农村小商贩外，纳税人都应当申报办理税务登记。国家机关所属事业单位有经营行为、取得应税收入、财产、所得的，也应当办理税务登记。?<br>    税务登记实行属地管理，纳税人应当到生产、经营所在地或者纳税义务发生地的主管税务机关申报办理税务登记。非独立核算的分支机构也应当按照规定分别向生产经营所在地税务机关办理税务登记。?<br>    二、 纳税人识别号?<br>    单位纳税人识别号为15位码：行政区域码+组织机构代码。其中的行政区域码为纳税人生产、经营地的行政区域码。对国家没有赋予行政区域码的各开发区，其行政区域码由省级国家税务局、地方税务局共同赋予第5、6位两位识别码。因税务机关调整管辖范围而使纳税人改变主管税务机关的，纳税人的纳税人识别号不变。企业分支机构也应当领取组织机构代码证书，按照规定编制纳税人识别号，办理税务登记。?<br>    个体工商户以及持回乡证、通行证、护照办理税务登记的纳税人，其纳税人识别号为身份证件号码加2位顺序码。已经取得组织机构代码的个体工商户的纳税人识别号为行政区域码加组织机构代码。?<br>    承包租赁经营的纳税人，应当以承包承租人的名义办理临时税务登记。个人承包租赁经营的，以承包承租人的身份证号码为基础加2位顺序码编制纳税人识别号；企业承包租赁经营的，以行政区域码加组织机构代码为纳税人识别号。?<br>    三、 开户银行登录账号?<br>    按照税收征管法第十七条规定，从事生产、经营的纳税人应当持税务登记证副本开立账户，银行和其他金融机构应当在其税务登记证件副本中登录纳税人的账户、账号，纳税人再将其账户、账号书面报告税务机关。为了依法加强税收征管，落实税收征管法的规定，税务登记证换发后，纳税人及其开户银行应当按照规定履行义务，银行和其他金融机构在纳税人开户时在新的税务登记证副本中登录账号，手工填登的，应当盖章；纳税人应当自开立账户15日内将账号报告税务机关。未依法履行义务的，对纳税人按照税收征管法第六十条的规定处理；对纳税人的开户银行或其他金融机构按照税收征管法实施细则第九十二条的规定处理。?<br>    四、扣缴税款登记?<br>    按照税收征管法实施细则第十三条的规定，个人所得税扣缴义务人应当到所在地主管税务机关申报办理扣缴税款登记，领取扣缴税款登记证。对临时发生扣缴义务的扣缴义务人，不发扣缴税款登记证；对已办理税务登记的扣缴义务人，不发扣缴税款登记证，由税务机关在其税务登记证副本上登记扣缴税款事项。?<br>    扣缴义务人识别号按照扣缴义务人所在地行政区域码加组织机构代码编制。?<br>    五、临时税务登记证件的有效期限?<br>    承包租赁经营的，办理临时税务登记的期限为承包租赁期；<br>    境外企业在中国境内承包建筑、安装、装配、勘探工程和提供劳务的，临时税务登记的期限为合同规定的承包期。?<br>    六、临时税务登记的管理?<br>    取得临时税务登记证的纳税人，可以凭临时税务登记证及副本按有关规定办理相关涉税事项。?<br>    税务机关应当加强对临时税务登记纳税人的管理。临时登记户领取营业执照的，应当自领取营业执照之日起30日内向税务机关申报转办为正式税务登记。对临时税务登记证件到期的纳税户，税务机关经审核后，应当继续办理临时税务登记。?<br>    对应领取而未领取工商营业执照临时经营的，不得办理临时税务登记，但必须照章征税，也不得向其出售发票；确需开具发票的，可以向税务机关申请，先缴税再由税务机关为其代开发票。<br>    七、停复业登记管理?<br>    实行定期定额征收方式的个体工商户需要停业的，应当在停业前申报办理停业登记。?<br>    纳税人停业未按规定向主管税务机关申请停业登记的，应视为未停止生产经营；纳税人在批准的停业期间进行正常经营的，应按规定向主管税务机关办理纳税申报并缴纳税款。未按规定办理的，按照税收征管法的有关规定处理。?<br>    纳税人停业期满未按期复业又不申请延长停业的，税务机关应当视为已恢复生产经营，实施正常的税收管理。纳税人停业期满不向税务机关申报办理复业登记而复业的，主管税务机关经查实，责令限期改正，并按照税收征管法第六十条第一款的规定处理。?<br>    八、 纳税人经营范围?<br>    纳税人应当在税务登记表中如实填写其经营范围；经有关部门批准的证件中没有具体列明经营范围的，纳税人应当按照实际经营情况填写。设立登记后，税务机关应当及时核实登记内容。纳税人经营范围变化后应当自发生变化之日起30日内向主管税务机关申报办理变更税务登记。?<br>    九、税务登记证件的管理?<br>    （一）临时税务登记转为税务登记的，税务机关收回临时税务登记证件，发放税务登记证件，纳税人补填税务登记表。?<br>    （二）税务登记证件丢失的，纳税人应登报声明作废；在丢失声明中应声明证件的发放日期。税务登记证件被税务机关宣布失效的，在失效公告中应公告证件的发证日期。?<br>    （三）补发税务登记证件的，应在税务登记证件中加盖“补发”戳记。?<br>    （四）纳税人在统一换发税务登记证件期限后仍未按照规定期限办理换证手续的，税务机关应当统一宣布其税务登记证件失效。?<br>    （五）税务机关应当根据纳税人条件要求纳税人亮证经营。<br>    十、各省级国家税务局、地方税务局可以按照《税务登记管理办法》和本通知的规定制定具体的实施办法。<br><br>                                   国家税务总局<br>                                二○○六年三月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

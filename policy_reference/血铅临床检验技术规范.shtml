@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫医发〔2006〕10号<BR>&nbsp;&nbsp;【发布日期】2006-01-09<BR>&nbsp;&nbsp;【生效日期】2006-01-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11263&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>血铅临床检验技术规范<br><br></font>(卫医发〔2006〕10号)</p><br><br> <br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    为指导、规范血铅临床检验技术，为合理治疗提供科学依据，我部组织制定了《血铅临床检验技术规范》。现下发给你们，请遵照执行。<br> <br>                        二OO六年一月九日<br> <br><br>附件：血铅临床检验技术规范<br><br>    为了指导、规范临床实验室准确、科学测定血液中铅浓度，为临床合理治疗提供科学依据，制定本技术规范。<br>     <br>    一、基本条件 <br>    （一）检验人员具备相应的专业技术职务任职资格，经培训能够熟练掌握血铅分析技术，通过盲样考核，严格遵守质量保证规程。<br>        （二）实验室干净、整洁，无铅污染源。<br>    （三）具备净化实验室条件或配备超净柜（台），或者具有已采取其他局部防尘措施的实验台。<br>    （四）检测所用仪器、耗材、试剂符合国家有关规定，并有措施保证检测系统的完整性和有效性。<br>     <br>    二、基本检测方法<br>    （一）降低分析空白的控制措施<br>    血铅测定属微量或痕量分析，必须尽可能避免各个环节的铅污染，所有进样前的操作必须在符合基本条件要求的情况下进行，必须把分析空白降至方法的检测限以下。为了降低空白值，必须做到：<br>    1、使用的所有试剂均应采用最高的纯度级别，并对其进行空白检验，包括抗凝剂、清洁和消毒采血部位的药剂等。<br>    2、所有器皿、用品（注射器、真空采血管或聚乙烯管、消毒棉签等）必须是一次性使用，并需抽样进行空白检验，每个批号抽样量不得小于10支。必要时对所有器皿、用品应先行无铅化处理。<br>    3、分析者必须避免自身因素（化妆品、外敷药物、乳胶手套等）对样品的污染。<br>    （二）基本检测方法<br>    目前的基本检测方法包括以下3种：<br>    WS/T   20―1996    血中铅的石墨炉原子吸收光谱测定方法<br>    WS/T   21―1996    血中铅的微分电位溶出测定方法<br>    WS/T   174―1999   血中铅、镉的石墨炉原子吸收光谱测定方法<br>    方法确定后，应当对其准确度、精密度、检测限和定量检测限进行验证，并制定本实验室具体操作规程。<br>    （三）准确度表达<br>        测定基体和浓度相同或相近的国家标准物质（如GBW09131~09133，GBW09139~09140等），测定结果应落入给定的标准值±不确定度的范围内。<br>    （四）精密度表达<br>    血铅检测方法的相对标准偏差（RSD）〔（多次测定的标准偏差/平均值）×100〕应根据测定浓度范围的不同而分别为：浓度在20~100μg/L时，RSD≤15%；浓度 > 100μg/L时，RSD≤10%。<br>    （五）方法检测限<br>        检测限是可以确知被检出的最低浓度。血铅测定方法的检测限（空白测定值的标准偏差的3倍）不得大于6μg/L。<br>    （六）方法定量检测限<br>        定量检测限是在给定的置信水平区间内可报告的样品准确定量的最低浓度。血铅检测定量下限（空白测定值的标准偏差的10倍）不得大于20μg/L。<br>     <br>    三、质量保证<br>    血铅检测的质量保证措施包括分析前质量保证、分析中质量保证和分析后的质量保证。<br>    （一）分析前的质量保证<br>    1、采血前的准备<br>    （1）采血场所必须远离铅污染源，分别设置采血间和等候间，两间相邻，均有流动温水洗手设备。室内地面和墙壁应易于湿式清洗。采血间四壁无悬挂物，除必要的桌椅外无杂物。采血前清洁采血场所。采血室不得使用风扇降温。<br>    （2）储血容器采用经抽样空白检测合格的真空采血管（预置抗凝剂）或实<br>    验室用的优质聚乙烯离心管（1.5ml）。使用后者，应预先加入已经过空白检测的抗凝剂，如7%的依地酸钠或0.2%肝素钠溶液5―10μl，阴干（并经抽样空白检验合格）。<br>    （3）所有采血人员要经过严格培训并熟悉采血过程，知晓操作技术对血铅检测质量的影响。采血前应征得被采血者的同意；若属儿童，应向其父母或监护人解释采血的过程。<br>    2、儿童血样采集要求<br>    （1）用于儿童铅中毒诊断的血样必需采集静脉血。<br>    （2）群体筛查可采用末梢血，但必须采取严格的防范措施防止污染。血铅水平≥200μg/L时，应复查静脉血。<br>    3、血样采集<br>    血样采集在采血间进行。采血人员应戴乳胶或聚乙烯手套。若手套涂粉，接触受检者或血样前应先用静脉采血皮肤清洁法处理手套后再进行操作。<br>    （1）采集静脉血<br>    ①按顺序用0.2%硝酸、纯水、碘酒、酒精（或用约5%“洗洁净”棉球、2%依地酸钠棉球、酒精棉球）清洁取血区皮肤。<br>    ②使用经过检验的同一批号的一次性注射器抽取静脉血，穿刺成功后立即松开止血带。如使用真空采血管可直接注入，并立即摇晃均匀。如使用聚乙烯管留置样本，应当留存双份样本，每管血样为0.5~1ml，注入后立即摇晃均匀，与抗凝剂充分混合。<br>    （2）采集末梢血<br>    ①在等候间：用肥皂仔细的搓洗被采血者的双手，特别是拟采血的手指，用温水冲洗后，再用经空白检验的纸巾将手檫干，并用纸巾将拟采血的手指包住，等待进入采血间。如果是婴幼儿，护理婴幼儿的成人也应同时洗手。1岁以下婴幼儿可以采集拇趾或足跟部血。 <br>    ②在采血间：用0.2%硝酸、纯水、碘酒、酒精（或用约5%“洗洁净”棉球、2%依地酸钠棉球、酒精棉球）先后清洁拟采血的中指或无名指，自然晾干，用一次性刺血针（有条件时可以使用可回缩的采血器）刺破中指或无名指指腹的侧面指甲边沿至指肚中线的1/2处，立即转动手指，使刺破口向下，让血液形成自然血滴流出，放弃第一滴血液，用经过上述方法处理过的聚乙烯小管收集血滴。必要时可轻轻地从指根向指端推动，以助血液流出。采集足够平行双样的血样量后，立即盖好盖子，直立涡旋混匀以使与抗凝剂充分混合。<br>    4、留置采血空白样<br>      在每次采血开始前、采血中和采血结束时，分别用经过铅空白检验的0.5%硝酸替代血液，各做两个采样空白（包括真空采血管和聚乙烯管），以了解采样过程中可能的污染情况。<br>    5、血样的保存<br>    采集血液标本的试管口朝上放置于试管架中，置4度冰箱保存。保存实践不得超过2周，门诊样品不得超过48小时。<br>    （二）分析中的质量保证   <br>        分析中的质量保证包括实验室室内质量控制和实验室室间质量评价（或能力验证）。<br>    1、实验室室内质量控制<br>        实验室可绘制室内质控图，以评价本实验室的检测质量。以每工作日实际检测分析中所测国家标准物质的不同浓度检测结果，分别标点制图。<br>    2、实验室室间质量评价<br>    实验室应当按时参加卫生部认定的室间质量评价机构组织的室间质量评价活动。对接受质控样的检测应随机加入日常血铅样品检测序列中进行，不得另选检测系统专门分析，以真正反映本实验室的实际检测水平。根据室间质量评价结果，决定是否采取纠正措施。<br>    4、校准曲线<br>    （1）每次分析样品时必须制备校准曲线。校准曲线应由空白及3~5个已知浓度的标准溶液，按样品的测定步骤制备。必要时，包括样品的前处理操作。<br>    （2）以测量信号值为纵坐标，以浓度（或量）为横坐标制作校准曲线，所应用的校准曲线信号值与浓度（或量）相关系数应≥0.995；校准曲线必须以能准确表达国家标准物质（如GBW09131~09133；GBW09139~09140等）为准。<br>    （3）利用校准曲线推测样品浓度时，样品浓度必须在所作校准曲线的浓度范围以内，不得将校准曲线任意外延。<br>    （4）校准曲线必须考虑基体效应。<br>    5、平行样的分析<br>       每样品必须进行平行双样分析，平行双样测定误差不得大于分析方法规定的批内精密度的两倍；或不得大于表1所列的最大偏差。<br>     <br>       表1               平行双样测定允许的最大偏差<br>    分析结果所在浓度范围（μg/L）                 平行样最大允许偏差（%）★ <br>            ≥100                                         10<br>           20~~100                                        15                      <br>    ★    平行样的最大允许偏差（%）=（两个平行结果之差/两个平行结果之和）×100<br>     <br>    6、血样测定质量控制<br>    为使检测结果具有溯源性，血样检测中必须同时测定国家标准物质（如GBW09131~~09133或GBW09139~~09140等），并按图1程序进行质量控制。<br>     <br>    （1）在测定标准溶液制作完成工作曲线后，应先分析两个标准物质血样。该标准物质血样的样品前处理必须与检测样品前处理同批进行；如标准物质的分析结果落在给定范围内，就可按图1程序进行样品分析。<br>    （2）按图1所示，每测定10个样品的前后应测定标准物质高、低两点浓度。如发现样品位置后面测定的标准物质结果值落在给定范围以外，应立即中断实验程序，将前10个样品结果视为无效，必须重新测定；待重新10个样品测定后，再测标准物质高、低两点浓度，合格后方可继续实验程序，否则，应从制备工作曲线开始重新建立图1所示程序。<br>      <br>    图1  样品检测质控图<br>    <br>     <br>    标准溶液―工作曲线 <br>      <br>    <br>    如GBW09131和09133 <br>                                                <br>    <br>    10 个 样 品 <br>    <br>    如GBW09131和09133<br>      <br>    <br>    10 个 样 品<br>      <br>    <br>    如GBW09131和09133<br>      <br>    <br>    标 准 溶 液 <br>    <br>     <br>     <br>    7、实验记录<br>    要如实记录原始数据，登记过的数据不能涂改，若发生差错，应在原数字上<br>    划一条横线表示消除，要注明修改原因并签字。<br>    （三）分析后质量保证<br>    1、报告方式<br>        血铅检测报告必须以中文书写，单位应为μmol/L（μg/L）。<br>    2、数据处理<br>    测试和计算的数据只保留一位不确定数字。测定结果小于检测限的数据，应报告“未捡出”，并同时报告方法的检测限。统计处理时，可以用1/2检测限的数值替代。测定结果大于检测限但小于定量下限的数据，按小于方法定量检测限报告（须注定量检测限值）。在报告群体的检测结果时，必须同时报告能描述此群体数据特性的参数。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

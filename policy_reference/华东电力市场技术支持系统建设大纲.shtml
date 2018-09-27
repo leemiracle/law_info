@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家电力监管委员会<BR>&nbsp;&nbsp;【发布文号】办市场[2004]4号<BR>&nbsp;&nbsp;【发布日期】2004-02-23<BR>&nbsp;&nbsp;【生效日期】2004-02-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.serc.gov.cn/djh/details.jsp?content_id=172" target=_blank>国家电力监管委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>华东电力市场技术支持系统建设大纲<br>  <br></font>(办市场[2004]4号)</p><br><br><br>国家电网公司，华能、大唐、华电、国电、中电投集团公司，华东电网有限公司，上海、江苏、浙江、安徽省（市）电力公司，福建省电力有限公司，申能（集团）有限公司，浙江省能源集团有限公司，安徽省能源集团有限公司，各有关发电公司：<br><br>    根据华东电力市场试点工作的需要，国家电监会组织制定了《华东电力市场技术支持系统建设大纲》，现印发你们，请依照执行。<br><br>二○○四年二月二十三日<br> <br><br>华东电力市场技术支持系统建设大纲<br><br> <br>    根据华东电力市场建设的需要，为保证电力市场安全可靠运营，依据《华东电力市场试点方案》（电监市场[2003]42号）和《电力市场技术支持系统功能规范（试行）》（电监市场[2003]22号），制定本建设大纲。<br><br>    一、建设原则和总体功能要求<br><br>    （一）华东电力市场技术支持系统应根据《电力市场技术支持系统功能规范（试行）》的基本要求和《华东电力市场运营规则》的具体规定，按照统一开发、配套建设、统一管理、分别维护的原则组织实施。<br><br>    （二）华东电力市场技术支持系统应符合国家标准、行业标准，满足《电网和电厂计算机监控系统及调度数据网络安全防护规定》（国家经贸委令第30号）的要求。<br><br>    （三）华东电力市场技术支持系统要充分保障系统的可靠性和安全性，其结构设计、系统配置、软件编制要确保系统能够提供可靠的服务，保证报价、交易、结算及信息发布处理和数据传输的及时性，保证交易数据的完整性、准确性、一致性和安全性。<br><br>    （四）华东电力市场技术支持系统应采用开放式体系结构和分布式系统设计，满足各子系统间互联的要求，满足与电力监管信息系统和其他电力市场技术支持系统间接口的要求。应能适应电力市场发展、规则的变化、新技术发展和设备的升级换代。<br><br>    二、各子系统功能要求<br><br>    （五）华东电力市场技术支持系统由以下子系统（或模块）组成：能量管理系统、交易管理系统、电能量计量系统、结算系统、合同管理系统、报价处理系统、交易信息系统等。<br><br>    华东及省（市）的能量管理系统、电能量计量系统、调度数据网络是华东电力市场技术支持系统的基础，必须满足能量管理系统的可靠性、实时数据采集的质量、状态估计的合格率、电网模型参数的正确性、计量信息的准确性等要求。<br><br>    （六）华东四省一市配套技术支持系统是华东电力市场技术支持系统的重要组成部分，包括省（市）电力公司能量管理系统、结算系统、合同管理系统、电能量计量系统及其与华东电网有限公司相关系统的接口。<br><br>    配套技术支持系统应当具备发电计划、负荷预测、稳定限额、检修计划等数据的上报及日计划安全校核等功能。<br><br>    （七）交易管理系统依据市场成员的申报数据，根据负荷预测和系统约束条件，编制交易计划，通过安全校核及阻塞管理系统验证后，将计划结果传送给市场主体和相关系统。<br><br>    （八）电能量计量系统由华东及省（市）的电能量计量系统组成，依据市场运营规则对电能量数据进行自动采集、远传和存储、预处理、统计分析等，以支持华东电力市场的运营结算。<br><br>    （九）结算系统由华东及省（市）的结算系统组成，根据电能量计量系统提供的电能量数据、交易管理系统的交易计划和交易价格数据、调度指令、能量管理系统的相关运行数据、合同管理系统的相关数据，依据市场运营规则对市场主体进行结算。<br><br>    （十）合同管理系统由华东及省（市）公司的合同管理系统组成，对市场主体之间的合同进行管理，对已签订的合同进行录入、合同电量分解、完成情况跟踪、滚动平衡等。<br><br>    （十一）报价处理系统接收市场主体的注册和申报数据，并对申报数据进行预处理。<br><br>    （十二）交易信息系统对系统运行数据和市场信息进行发布、存档、检索及处理，使所有市场主体能够及时、平等地访问相关的市场信息，保证电力监管机构对市场交易信息的充分获取。系统运行数据和市场信息包括：预测数据、计划数据、准实时数据、历史数据、报表数据等。<br><br>    （十三）华东电力市场技术支持系统以实现上述子系统的功能为基本原则，根据实际情况优化设计。<br><br>    三、数据网络及二次安全防护等相关基础设施的建设要求<br><br>    （十四）华东电力市场技术支持系统必须严格遵守电力二次安全防护的要求，华东及省（市）电力公司、发电企业应做到组织落实、责任落实、技术措施落实、资金落实。<br><br>    （十五）华东电力市场技术支持系统原则上在安全II区运行，在安全III区（或IV区）建立信息发布系统，向电力监管机构、市场主体和社会提供相关信息。<br><br>    （十六）华东电力市场技术支持系统使用电力系统调度专网，采用安全拨号方式作为备用。各子系统之间通过网络和安全防护设备（防火墙和物理隔离装置）连接，实现数据共享与信息交互。数据网络需保证系统运行的实时性、可靠性、稳定性和安全性。报价端通过数据网络或拨号网络与技术支持系统相连，应当满足二次安全防护要求。<br><br>    四、技术支持系统的建设、运行和维护<br><br>    （十七）电力监管机构和国家电网公司、华东电网有限公司，负责华东电力市场技术支持系统建设的组织、协调工作。<br><br>    （十八）华东电力市场调度交易中心是华东电力市场技术支持系统的专业管理机构，负责对华东及省（市）电力公司、发电企业进行技术支持系统的专业管理。<br><br>    （十九）华东电网有限公司负责华东电力市场技术支持系统工程主设备和软件开发的招标、资金审核及安排，能量管理系统的改造，支持系统所需数据通道的组织等工作，并负责系统的运行和维护；省（市）电力公司负责省（市）配套技术支持系统的建设、运行、维护及资金落实等工作；发电企业负责报价处理子系统终端及配套设施的建设、运行、维护及资金落实等工作。<br><br>    （二十）与华东电力市场技术支持系统相配套的电力调度数据网和电力二次安全防护系统的建设、改造及运行维护，按照现有专业管理的界面进行分工，由各责任方负责实施，与技术支持系统同步建设。<br><br>    （二十一）电能量计量系统按照华东电力市场的建设要求及一次系统的实际运行情况，有关责任方应根据华东电力市场建设的进程，按照统一的计量标准，在规定的时间内完成改造。<br><br>    五、技术支持系统建设工作的组织实施<br><br>    （二十二）华东电网有限公司依据华东电力市场试点方案和运营规则，按照建设大纲要求组织制定华东电力市场技术支持系统的功能规范、配套管理办法及实施细则，经审批后统一实施。<br><br>    （二十三）华东电网有限公司、省（市）电力公司、各有关发电企业要按照华东电力市场建设进度及技术支持系统功能规范的统一要求，落实各自工程建设任务，由电力监管机构组织验收。<br><br>    （二十四）定期召开华东电力市场技术支持系统工作协调会议，由华东电力调度交易中心组织（华东电力调度交易中心组建之前，由华东电力市场技术支持系统工作小组牵头），华东电网有限公司、各省（市）电力公司和有关发电企业参加，研究协调解决系统建设过程中出现的具体问题。<br><br> <br>二○○四年二月二十七日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

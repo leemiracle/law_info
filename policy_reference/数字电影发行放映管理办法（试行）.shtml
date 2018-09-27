@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家广播电影电视总局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-07-19<BR>&nbsp;&nbsp;【生效日期】2005-07-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sarft.gov.cn/manage/publishfile/35/3040.html" target=_blank>国家广播电影电视总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>数字电影发行放映管理办法（试行）<br><br></font>(国家广播电影电视总局 2005年7月19日)</p><br><br><br>    为了贯彻落实国家广电总局颁布的《<a href=javascript:ROF(91899,0) class=alink>关于加快电影产业发展的若干意见</a>》（广发影字〔2004〕41号）和《<a href=javascript:ROF(92904,0) class=alink>电影数字化发展纲要</a>》（广发影字〔2004〕257号），充分调动社会力量，充分利用数字技术，促进国产影片的发行放映，扩大电影的社会效益和经济效益，加快电影产业化、数字化进程，推进并规范管理数字电影发行放映工作，制定本管理办法。?<br><br>    一、数字电影发行放映是指运用数字技术拍摄或者通过胶片转数字方式制作的数字电影产品，利用卫星、光缆、影片数据输入盘、硬盘等传输方式，在数字电影院（厅）或电影放映场所从事的电影发行放映业务。现阶段，数字电影发行放映以影片数据输入盘、硬盘传输方式为主，卫星、光缆传输方式待试验成熟后再推广。?<br><br>    二、数字电影发行放映所使用的技术设施、设备，必须符合国家广电总局颁布的《电影数字放映暂行技术要求》（广发技字〔2004〕1036号）或《数字电影流动放映系统暂行技术要求》（广发技字〔2005〕532号）。城市数字电影院（厅）原则上应为专业数字电影院（厅），目前既有胶片放映机又有数字放映机一厅双机放映的应逐步向数字单机放映过渡。符合《数字电影流动放映系统暂行技术要求》的数字放映设备，只能在县城以下（含县城）的专业放映场所或者县城以上流动放映场所、非专业放映场所使用，不得在县城以上城市专业电影院（厅）使用。<br><br>    三、拥有《电影放映经营许可证》的放映单位，新增数字电影放映业务，应向所在地的县或者设区的市电影行政部门备案。凡在城乡新建专业数字电影院（厅），或者在县以上（含县城）新从事社区、厂矿和学校等非专业数字电影放映业务，需向所在地的县或者设区的市电影行政管理部门提出申请，申请人持《电影放映经营许可证》到所在地工商行政管理部门登记，依法领取营业执照。在县以下（不含县城）从事农村、厂矿、社区和学校等范围数字电影放映业务，可以直接到所在地工商行政管理部门办理登记手续，并向所在地县级电影行政管理部门备案，备案后可以在县以下（不含县城）的农村、厂矿、社区和学校等范围从事数字电影放映业务。<br><br>    四、允许境内外企业和其他经济组织以多种形式投资数字电影院（厅）。境内企业和其他经济组织投资数字电影院（厅），按照《电影企业经营资格准入暂行规定》（国家广电总局第43号令）执行；境外企业投资数字电影院（厅）按照《外商投资电影院暂行规定》（国家广电总局第21号令）执行。?<br><br>    五、鼓励境内企业和其他经济组织（不含外资）组建数字电影院线公司。放映设备符合《电影数字放映暂行技术要求》，10家以上以资本为纽带的数字电影院（所有厅）或者50个以资本为纽带的数字电影厅，可组建一条数字电影院线；15家以上以资本为纽带的数字电影院（所有厅）或者75个以资本为纽带的数字电影厅，可组建一条跨省数字电影院线；放映设备符合《数字电影流动放映系统暂行技术要求》，20家以上以资本为纽带的学校、农村、社区等非专业数字电影放映场所，可组建一条数字电影院线；30家以上不同省（市、区）以资本为纽带的学校、农村、社区非专业数字电影放映场所，可组建一条跨省数字电影院线。?<br><br>    六、申请成立省（自治区、直辖市）内数字电影院线公司的，由所在地的省、自治区、直辖市电影行政管理部门在20个工作日内审批，并报广电总局备案；组建跨省数字电影院线公司的，由广电总局在20个工作日内审批。申报单位持电影行政管理部门出具的批准文件到所在地工商行政管理部门办理相关手续。?<br><br>    七、凡在数字电影放映场所发行放映的数字影片，必须确保正确的导向，影片均须获得国家广电总局颁发的《电影片（数字）公映许可证》。各类数字电影放映场所一律不得发行放映未获得《电影片（数字）公映许可证》的数字影片。试点地区建立卫星地面接收站，经国家广电总局同意后，按有关规定向当地省级广电行政管理部门申办审批手续。?<br><br>    八、各数字院线公司和数字电影放映单位，要认真放映好国产影片，并提供优质服务，国产影片的放映时间和影片数量不得低于年度总放映时间和影片数量的三分之二。依照《关于鼓励影院放映国产数字影片的通知》（电专字〔2004〕3号）文件，对于年度放映国产数字影片达到要求的城市影院，给予当年按比例先征后返国家电影专项资金的优惠政策。在农村、社区和学校等非专业放映场所放映国产数字电影的收入，免征国家电影专项发展资金。?<br><br>    九、进口数字电影要符合《电影管理条例》有关进口影片的管理规定。数字电影进口经营业务由广电总局批准的电影进口单位专营。进口数字影片全国发行业务由广电总局批准的具有进口影片全国发行权的发行公司发行。?<br><br>    十、各级电影行政管理部门要把推进电影放映数字化作为电影产业发展的重要机遇和重要措施，加大对数字电影发行放映工作的推动和管理力度，尤其要积极做好农村数字电影放映的试点和推广工作。各类数字电影院线、数字影院（厅）及农村、社区和学校等非专业场所的发行放映统计数据要按照全国电影统计规定执行。?<br><br>    十一、本管理办法将在试行过程中，逐步修改完善。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

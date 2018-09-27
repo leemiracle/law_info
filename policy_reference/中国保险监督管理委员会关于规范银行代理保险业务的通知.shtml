@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2006〕70号<BR>&nbsp;&nbsp;【发布日期】2006-06-15<BR>&nbsp;&nbsp;【生效日期】2006-06-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_405/33093.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于规范银行代理保险业务的通知<br><br></font>(保监发〔2006〕70号)</p><br><br><br>各保监局，各银监局，各保险公司，各国有商业银行、股份制商业银行，国家邮政局邮政储汇局，各省级信用联社：<br><br>        近年来，保险公司与商业银行的合作不断加强，在拓宽保险服务领域、提供综合金融服务、满足社会需求等方面发挥了积极作用。但在双方合作的过程中，也出现了一些不规范的行为，不仅损害了消费者利益，也影响了各自业务的健康发展。为进一步规范银行代理保险业务，防止商业贿赂，防范金融风险，促进银行保险业务持续、健康发展，根据《中华人民共和国保险法》、《中华人民共和国商业银行法》等有关法律法规，现将进一步规范银行代理保险业务的有关要求通知如下：<br><br>        一、加强代理机构资格管理<br><br>        （一）商业银行代理保险业务，其一级分行应当取得保险兼业代理资格。<br><br>        （二）保险公司不得委托没有取得兼业代理资格的商业银行开展代理保险业务。<br><br>        （三）每个兼业代理机构可以与多家保险公司建立代理关系。兼业代理机构应当根据自身业务发展情况和风险管控能力确定合作的保险公司数量。<br><br>        二、加强代理业务内部管理<br><br>        （一）保险公司应当建立完整规范的银行保险兼业代理机构登记簿，成立专门的管理部门负责管理银行保险业务，加强内部管理及相关制度建设，定期开展对制度执行情况的内部监督检查。<br><br>        （二）从事代理保险业务的商业银行应由专门部门或专人负责保险代理业务，加强相关内控制度建设，定期开展对制度执行情况的内部监督检查。<br><br>        （三）各保险公司、商业银行均应按照兼业代理保险业务的有关规定，建立银行代理保险业务档案，逐笔记录有关要素和信息。<br><br>        （四）保险公司和商业银行应加大电子化建设力度，完善银行代理保险业务电子化操作系统和账务系统，减少手工操作。<br><br>        三、规范手续费管理<br><br>        （一）保险公司和商业银行开展银行代理保险业务，应当在平等互利、友好协商、着眼长远的基础上签订合作协议，明确代理手续费支付标准。<br><br>        （二）保险公司应当按照财务制度据实列支向商业银行支付的代理手续费。保险公司不得以任何名义、任何形式向代理机构、网点或经办人员支付合作协议规定的手续费之外的其他任何费用，包括业务推动费以及以业务竞赛或激励名义给予的其他利益。<br><br>        （三）商业银行代理保险业务应当进行单独核算，不得以保费收入抵扣代理手续费。代理手续费收入要全额入账，严禁账外核算和经营。商业银行及其工作人员不得在合作协议规定的手续费之外索取或接受保险公司及其工作人员给予的其他利益。<br><br>        （四）保险公司向商业银行支付代理手续费，应当按照《国家税务总局、中国保监会关于规范保险中介服务发票有关问题的通知》（国税发〔2004〕51号）规定，由商业银行开具《保险中介服务统一发票》。<br><br>        四、规范销售人员资格管理<br><br>        （一）保险公司应正确指导银行保险兼业代理机构及其业务人员的销售行为，并对该机构在授权范围内的代理行为依法承担责任。<br><br>        （二）商业银行代理销售保险产品的工作人员应定期接受相关业务培训。培训费用由保险公司承担的，应当在合作协议中明确培训的次数、方式、内容及培训费标准。培训内容应包括法律法规、业务知识、销售技能及职业道德等，每年培训时间不得少于监管部门规定时数。保险公司委托代理机构销售人身保险新型产品的，还应按照有关规定对销售人员进行专门培训。<br><br>        （三）保险公司应积极引导银行代理销售人员参加销售人员资格考试，取得《保险代理从业人员资格证书》和监管部门要求的其他资格认证。2006年10月31日以后，销售投资连结类产品、万能产品，以及监管机构指定的其他类产品的银行代理销售人员，必须通过保险代理从业人员资格考试，取得《保险代理从业人员资格证书》。<br><br>        （四）保险公司可以设立银保专管员负责银行代理网点保险业务的培训、联络和相关服务。银保专管员由保险公司正式员工担任，必须通过保险代理从业人员资格考试，取得《保险代理从业人员资格证书》。<br><br>        五、规范产品销售<br><br>        （一）各保险公司和商业银行应切实加强银行代理保险产品的宣传和信息披露管理。各类宣传材料应由保险公司总公司或其授权的分公司统一印发和管理，严禁分支机构、代理网点或销售人员擅自印制宣传材料或变更其内容。<br><br>        （二）宣传材料应当按照保险条款全面、准确描述保险产品，要在醒目位置对经营主体、保险责任、退保费用、现金价值和费用扣除情况进行提示，不得夸大或变相夸大保险合同利益，不得承诺不确定收益或进行误导性演示，不得有虚假、欺瞒或不正当竞争的表述。销售人员在销售过程中应当客观公正地宣传银行代理保险产品，不得进行误导或不实宣传。<br><br>        （三）保险公司应与银行加强合作，针对银行客户的保险需求以及银行销售的特点，细分市场，开发多样化的、与银行产品互补的保险产品。<br><br>        （四）鼓励保险公司深入挖掘与银行的合作潜力，将合作领域扩大到柜台以外的网上银行、信用卡、以及对公业务等方面，积极探索非柜面销售模式，如理财专柜、电话、直复营销以及对企业客户的销售。 <br><br>        六、加强监督检查<br><br>        （一）各保监局、银监局应按各自职责加强监督检查，严厉查处销售误导、账外核算、乱列费用等违法违规和不正当竞争行为。<br><br>        （二）各保险公司和商业银行应努力为客户提供全面的售前和售后服务，并积极配合当地保监局、银监局做好客户投诉处理工作，切实保障客户的合法权益。<br><br>        七、加强行业内外沟通与交流<br><br>        （一）各保监局、各银监局应督促当地保险行业协会、银行业协会尽快采取行业自律措施，建立行业内部沟通协调机制，加强自我约束和相互监督，共同维护银行保险市场的正常秩序，打击商业贿赂，遏制恶性竞争。<br><br>        （二）各保监局和各银监局应建立沟通交流机制，定期通报情况，协调有关政策。<br><br>        本通知自发文之日起执行。保险公司和商业银行已经签署的银保合作协议如不符合本通知有关要求，应当在2006年9月30日前根据本通知进行修订或重新签署合作协议。<br><br>        邮政储汇机构、城市信用社、农村信用社参照本《通知》执行。<br><br>二○○六年六月十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

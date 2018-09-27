@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国土资源部<BR>&nbsp;&nbsp;【发布文号】国土资发[2010]142号<BR>&nbsp;&nbsp;【发布日期】2010-09-10<BR>&nbsp;&nbsp;【生效日期】2010-09-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mlr.gov.cn/zwgk/zytz/201009/t20100915_767561.htm" target=_blank>国土资源部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国土资源部关于印发《国土资源数据管理暂行办法》的通知<br><br></font>(国土资发[2010]142号)</p><br><br><br>    各省、自治区、直辖市国土资源厅（国土环境资源厅、国土资源局、国土资源和房屋管理局、规划和国土资源管理局），副省级城市国土资源行政主管部门，国家海洋局，国家测绘局，解放军土地管理局，新疆生产建设兵团国土资源局，各派驻地方的国家土地督察局，中国地质调查局及部其他直属单位，部机关各司局：<br><br>    为了加强国土资源数据的管理，规范国土资源数据的生产、汇交、保管和利用等工作，提高国土资源数据的应用水平，充分发挥各类数据在国土资源管理和社会经济发展工作中的作用，现将经部长办公会审议通过的《国土资源数据管理暂行办法》印发你们，请遵照执行，执行中的问题及时报部。<br><br>    附件：国土资源部数据汇交范围<br><br>    国土资源部 <br><br>    二○一○年九月十日 <br><br>    国土资源数据管理暂行办法<br><br>    <font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了加强国土资源数据的管理，规范国土资源数据的生产、汇交、保管和利用等工作，提高国土资源数据的应用水平，满足国土资源管理和社会经济发展的需要，根据有关法律法规，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 国土资源数据的生产、汇交、保管和利用，适用本办法。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本办法所称数据，是指各级国土资源管理部门在履行国土资源规划、管理、保护与合理利用职能过程中需要使用的数字化成果。主要包括：<br><br>    （一）各级国土资源管理部门组织实施的国土资源规划、调查、监测、评价等重大专项形成的各类国土资源基础和专题数字化成果数据；<br><br>    （二）各级国土资源管理部门在国土资源规划、管理、保护与合理利用工作中形成的国土资源政务管理数字化成果数据，包括本级产生以及逐级上报汇总的数据；<br><br>    （三）各级国土资源管理部门在履行管理职责中依照法律法规的相关规定和有关合同约定，由管理相对人向管理部门报送的国土资源数字化成果数据。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 国土资源数据管理工作按照统筹规划、统一汇交、分级管理、分布服务的原则组织实施。<br><br>    <font class='zhang'>第二章</font> 管理机构和职责<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 国土资源部和地方各级国土资源管理部门（以下称数据主管部门，分为部数据主管部门和地方各级数据主管部门）分别负责全国和本行政区域内国土资源数据生产、汇交、保管和利用的监督管理，履行下列职责：<br><br>    （一）负责数据管理工作的统一管理和组织协调，组织制定数据管理工作的规章制度；<br><br>    （二）按照国土资源管理需要，组织实施国土资源规划、调查、监测、评价等重大专项，形成数字化成果数据；<br><br>    （三）承办行政审批事项等工作，组织部署国土资源管理部门相关业务数据的报备工作，形成政务管理数字化成果数据；<br><br>    （四）组织开展数据管理的业务培训和数据检查工作；<br><br>    （五）负责指导、监督和管理数据的保密工作。<br><br>    国土资源部信息化领导小组办公室是国土资源部负责数据管理工作的机构，承担数据管理日常工作。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 国土资源部信息中心和地方各级国土资源管理部门的信息中心或信息化工作机构（以下称数据保管单位，分为部数据保管单位和地方各级数据保管单位）受相应数据主管部门的委托，承担数据管理的技术工作，履行下列职责：<br><br>    （一）承担数据汇交、保管和利用等技术工作；<br><br>    （二）制定数据汇交、保管和利用等工作的技术规程；<br><br>    （三）协助数据主管部门，实施数据检查工作；<br><br>    （四）建立和维护数据汇交、保管和利用的软硬件环境以及数据管理系统；<br><br>    （五）开展数据整合与集成，建立信息服务系统，为政府部门和社会提供信息服务；<br><br>    （六）开展数据汇总、综合分析和研究，为国土资源管理工作提供支持；<br><br>    （七）实行数据安全工作责任制，健全数据安全管理制度，完善数据安全防护措施；<br><br>    （八）履行数据主管部门规定的与数据管理有关的其他职责。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 国土资源规划、调查、监测、评价等重大专项的组织实施单位和政务管理数字化成果数据的形成单位（以下称数据生产单位），承担数据的生产、加工、汇交和更新等工作，履行下列职责：<br><br>    （一）按照国土资源管理的要求，依照有关规定、标准和规范，采集、生产和加工处理数据，形成数字化成果数据；<br><br>    （二）制定数据生产、加工、更新等工作的技术规程；<br><br>    （三）按照规定汇交数据，并保管数字化成果数据；<br><br>    （四）负责汇交数据的更新工作；<br><br>    （五）履行数据主管部门规定的与数据生产、加工、汇交和更新有关的其他职责。<br><br>    <font class='zhang'>第三章</font> 数据生产和汇交<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 数据主管部门统筹规划数据生产，将其纳入国土资源规划、调查、监测、评价等重大专项的规划和计划中，确保数字化成果数据的可获取、可利用。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 数据生产应遵循相关业务规定及国家、行业有关技术标准、规范，保证数据生产的规范性。<br><br>    数据生产单位应对数据质量和数据的真实性、准确性和完整性负责，建立数据质量监督和技术保障制度。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 数据主管部门对数据实行统一汇交制度。<br><br>    国土资源规划、调查、监测、评价等重大专项形成的各类国土资源基础和专题数字化成果数据，由数据生产单位向数据保管单位汇交；数据主管部门履行业务管理职能过程中形成的政务管理数字化成果数据，通过政务管理信息系统自动进入数据保管单位的数据管理系统中；依照法律法规的相关规定和有关合同约定形成的国土资源数字化成果数据，由管理相对人向管理部门报送，管理部门再向数据保管单位汇交。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 国土资源部履行职能所需要的数据，由数据生产单位和地方各级数据保管单位向部数据保管单位汇交。<br><br>    国土资源部需要使用数据的汇交范围，依照本办法附件的规定执行，并可根据国土资源管理的需要进行调整与补充。地方各级数据主管部门需要使用的数据，由地方各级数据主管部门根据需要确定其汇交范围。<br><br>    数据生产单位汇交的数据应经过验收或得到数据主管部门确认。数据生产单位应建立数据更新机制，保证数据的现势性和完整性。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 数据生产单位和数据保管单位应当利用现代信息技术，在技术环境和数据安全得以保障的条件下，逐步实现数据的网上汇交。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 数据生产单位应当按照下列规定的期限汇交数据：<br><br>    （一）定期更新的数据，自项目、成果数据验收或成果公布完成之日起30日内汇交；<br><br>    （二）不需定期更新的数据，自项目、成果数据验收或成果公布完成之日起180日内汇交；<br><br>    （三）政务管理数字化成果数据，通过建立政务管理信息系统以同步实时更新方式自动进入数据保管单位的数据管理系统中。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 因不可抗力，数据生产单位不能按照本办法第十三条规定的期限汇交数据的，应当向数据主管部门提出延期汇交申请，经批准后，方可延期汇交并告知数据保管单位。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 未依照本办法规定的期限汇交数据或未及时更新数据的，由数据主管部门责令限期汇交或更新；逾期不汇交或更新的，予以通报，并追究相关人员的责任。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 伪造数据或者在数据汇交中弄虚作假的，由数据主管部门没收、销毁数据，责令限期改正；逾期不改正的，通报批评，并追究相关人员的责任。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 汇交的数据，经数据主管部门审查和数据保管单位检查合格后，由数据保管单位出具数据汇交凭证。<br><br>    <font class='zhang'>第四章</font> 数据保管<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 数据保管单位负责接收、保管各类国土资源基础和专题数字化成果数据、政务管理数字化成果数据和其他数据。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 数据保管单位应当建立健全数据的保管制度，建立数据接收、归档、查询、交换、复制和维护等管理制度。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 数据保管单位应当配备数据存储、管理、服务和安全等必要的软硬件设施，构建统一的数据管理系统，确保数据的完整性和安全性。<br><br>    数据存储、管理和服务的设备与条件，应当符合国家保密、安全管理的有关规定和要求。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 数据保管单位应当按照相关规定建立数据备份制度，制定数据备份方案，对重要数据实行异地备份。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 数据保管单位应针对重大突发事件的特殊需求，建立数据加工、处理的技术储备与保障，为应急工作提供数据和技术支持。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 数据保管单位应当配备专业技术人员，设定岗位，履行相关职责。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 未经规定程序批准，任何单位、个人不得擅自复制、更改和删除数据。<br><br>    <font class='zhang'>第五章</font> 数据利用<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 数据保管单位、数据生产单位和其他有关单位应当建立相应的数据管理系统和分布式信息服务系统，提高数据的集成与应用水平，为国土资源管理和社会提供信息服务。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 国土资源数据的用户分为以下四类：<br><br>    （一）政府及部门，包括中央人民政府、地方各级人民政府及其组成部门；<br><br>    （二）国土资源系统，包括国土资源部和地方各级国土资源管理部门及其所属机构，各派驻地方的国家土地督察局；<br><br>    （三）企事业单位，包括各类企事业单位和社会团体；<br><br>    （四）个人，包括国内外各界社会人士。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 国土资源数据分为公开性和非公开性数据。公开性数据按公开方式分为主动公开和依申请公开，非公开性数据分为涉密数据和内部数据。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 国土资源公开性数据实行公开发布制度。主动公开数据应通过国土资源部和地方各级国土资源管理部门的门户网站、信息服务系统主动上网发布。依申请公开数据由用户根据自身需要向数据主管部门申请，经批准，由数据保管单位和数据生产单位提供。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 国土资源涉密数据的管理、服务，按照保守国家秘密法有关规定执行。内部数据的管理、服务，按照部有关规定执行。<br><br>    用户需要利用涉密数据的，应当出具单位正式介绍信，明确提出利用数据的类别、范围及用途，按照保密管理规定的审批程序，报数据主管部门审批。审批同意的，数据保管单位按有关规定办理相关手续。<br><br>    未经批准，不得擅自提供涉密数据和内部数据。非法披露、提供涉密数据的，依照保守国家秘密法的规定予以处罚。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 国土资源数据的服务方式分为以下三类：<br><br>    （一）数据浏览、查询、下载和复制服务。对于非公开性数据，通过涉密内网的网站、数据管理系统和手工复制方式提供浏览、查询、下载和复制服务，适用于政府及部门和国土资源系统用户；对于公开性数据，通过互联网、政务外网等各类网络环境的网站、信息服务系统提供查询、浏览和下载服务，适用于各类用户。<br><br>    （二）数据调用、分析服务。通过涉密内网的数据管理系统，为国土资源管理部门的各类政务管理信息系统提供非公开性数据的直接调用与分析服务，适用于国土资源系统用户。<br><br>    （三）数据定制服务。应用户要求进行的数据加工处理、产品定制服务，应当经数据主管部门审批同意，由数据保管单位和数据生产单位提供数据服务，适用于政府及部门、国土资源系统和企事业单位用户。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 数据主管部门与各级政府及其组成部门之间建立数据共享服务机制，数据保管单位应建立和完善数据共享技术体系，促进政府部门之间的数据资源共享。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a> 数据主管部门统筹协调地质资料与其他成果数据的利用，数据保管单位和地质资料保管单位应建立互联互通的信息服务系统，实现各类数据资源的综合开发、利用和管理。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> 数据涉及著作权和知识产权保护和管理的，依照有关法律、行政法规的规定执行。<br><br>    <font class='zhang'>第六章</font> 附 则<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 凡涉及到土地调查、地质资料和国土资源统计工作规定的有关事项，应分别按照《土地调查条例》（国务院令第518号）、《地质资料管理条例》（国务院令第349号）和《国土资源统计工作管理办法》的有关规定执行。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a> 各省、自治区、直辖市国土资源管理部门可参照本办法的规定，根据管理需要制定本行政区域内国土资源数据管理办法。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a> 本办法自颁布之日起施行。<br><br>    <br><br>附件<br><br>    国土资源部数据汇交范围<br><br>    一、土地调查评价，包括：土地利用现状、遥感动态监测和土地利用潜力评价等数据。<br><br>    二、土地利用规划，包括：土地利用总体规划、土地利用年度计划、土地综合整治规划和重大专项规划等数据。<br><br>    三、土地行政管理，包括：建设用地项目审批、耕地占补平衡、基本农田保护、土地供应、土地市场、土地登记和土地综合整治等数据。<br><br>    四、地质、矿产资源调查评价，包括：区域地质图、全国矿产地、地质工作程度、矿产资源潜力评价、矿产资源利用现状调查和矿业权实地核查等数据。<br><br>    五、地质、矿产资源规划，包括：矿产资源规划、地质勘查规划和重大专项规划等数据。<br><br>    六、矿产资源行政管理，包括：矿产资源储量、矿山开发利用、矿业权年检与收费、探矿权、采矿权和油气勘查开采权等数据。<br><br>    七、地质环境，包括：地质灾害防治规划、矿山环境保护与治理规划、地质灾害调查、区域环境地质调查、地质灾害应急调查、矿山地质环境、地下水资源、区域水文地质、地热和矿泉水调查、有害元素异常分布、地质灾害群测群防、地质遗迹保护区和国家地质公园等数据。<br><br>    八、国土资源执法监察，包括：国土资源违法案件综合统计、卫片执法监察、国土资源违法案件动态巡查、12336国土资源违法举报和国土资源违法信访等数据。<br><br>    九、国土资源综合事务，包括:国土资源综合统计、科技成果、外事管理和财务管理等数据。<br><br>    十、部数据主管部门认定需要汇交的其他数据。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

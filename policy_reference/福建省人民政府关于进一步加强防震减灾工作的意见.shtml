@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政〔2009〕11 号<BR>&nbsp;&nbsp;【发布日期】2009-04-24<BR>&nbsp;&nbsp;【生效日期】2009-04-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200905/t20090507_125884.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府关于进一步加强防震减灾工作的意见<br><br></font>(闽政〔2009〕11 号)</p><br>    <br><br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业，各高等院校：<br><br>    福建省地处我国东南沿海，是地震活动比较活跃的省份。2007年以来，我省地震活动呈现较为活跃和增强的态势，2008年我省及其邻近地区共发生2.0级以上地震175次，其中最大地震为2008年3月6日古田水口库区ML4.8级。今年5月1日，新修订的《中华人民共和国防震减灾法》（以下简称《防震减灾法》）将正式实施。现根据《防震减灾法》，结合我省震情形势，就进一步加强我省防震减灾工作提出如下意见，请认真贯彻执行。<br><br>    一、深入开展防震减灾知识宣传教育<br><br>    要健全防震减灾宣传教育网络和公共服务体系，大力培育防震减灾科普队伍，创作贴近群众、指导实践、内容丰富的科普宣传作品，充分发挥大众传媒、文化艺术和科普基地等宣传教育作用，深入开展形式多样的宣传教育活动，不断提升社会公众的防震减灾综合素质。<br><br>    （一）建立防震减灾宣传长效机制。各级各有关部门要利用多形式、多渠道，广泛、持续地进行防震避险宣传教育，针对不同对象编印不同内容的防震减灾科普宣传读物，并联合宣传、广电、教育等部门通过广播、电视、报刊、网络等媒体在“5・12”防震减灾纪念日等重要时段定期开展防震减灾集中强化宣传。要组织开展防震减灾知识“进机关、进学校、进社区、进乡村”活动，进一步加强对各级机关、企事业单位、大中小学以及广大农村地区民众的防震减灾知识宣传教育，推进防震减灾科普教育基地和科普示范学校建设，不断增强全社会防震减灾意识。<br><br>    （二）要将防震减灾教育纳入中小学安全教育内容。每年9月1日开学后，各中小学都要集中组织加大宣传教育力度，做到每个班级有一幅防震减灾知识挂图、两套防震减灾科普宣传书籍和音像资料，每所学校开展一次应急避险演练，举办一次防震减灾知识竞赛活动。全省中小学地震安全教育使用教育部统一的有关教材，课时要有保证，演练要有落实。<br><br>    （三）认真学习贯彻《防震减灾法》。各级各有关部门要做好《防震减灾法》的宣传和实施，按照职责分工，各负其责，密切配合，做好本地区、本部门的防震减灾工作。要加快推进《福建省防震减灾条例》等地方配套政策法规的修订工作，进一步健全我省防震减灾政策法规体系。同时，加大行政执法力度，不断提高全民防震减灾法制观念。<br><br>    二、全面提升地震监测和预报能力<br><br>    各级地震部门要牢固树立“震情第一”观念，加强全省地震活动形势的跟踪分析，努力捕捉地震前兆信息，应用新技术、新方法认真开展地震会商，切实提高对破坏性地震的预测预报水平，为经济建设和社会稳定做好服务。<br><br>    （一）提高地震监测预测能力。密切关注地震重点危险区和值得注意地区的震情动态，力争对某些类型的地震做出有减灾实效的短临预报和震后趋势判断。大力推进地震监测信息共享平台建设，充分发挥地震监测信息网络资源优势和综合效益。加强群测群防，因地制宜地开展地下水、气体、动物、气象气候等地震宏观异常观察。积极推进地震宏观观测网、地震灾情速报网、地震知识宣传网和防震减灾助理员建设，形成“横向到边，纵向到底”的网络体系。<br><br>    （二）健全地震灾害信息报送机制。规范震情灾情及相关信息管理，完善地震应急新闻发布机制，畅通信息报送及发布渠道，切实提高地震信息速报的公共服务水平。对群众报告的宏观异常，要深入调查核实，及时在网站上公布调查结果，防止地震谣传，保持社会稳定。台湾海峡若发生3级以上地震，地震部门应及时将信息通报海洋渔业、海事等相关部门。同时要做好地震海啸的研究、预警、预防等方面工作。<br><br>    （三）加强地震监测基础设施建设。完善优化地震监测台网布局，抓紧组织实施福建省防震减灾体系二期工程，保质保量按期完成建设任务。依法加强对地震监测设施和观测环境的保护，全力保障全省地震监测台网和前兆观测台网的正常运转，地震活跃地区要做好加密监测和流动监测工作，水库、核电等重大建设工程要建立专用地震监测台网和强震动观测台网，确保地震观测系统正常运行。<br><br>    （四）着力加强地震科技创新能力建设。密切跟踪国内外地震科技发展动态，依托高等学校、科研机构、工程技术研究中心，加强福建区域性的地震构造背景和地震孕育特点的研究；依托6・18等平台，积极推进地震预警、烈度速报等先进技术的吸收、引进和创新，加快地震科技成果的推广应用，不断提高地震科技创新对防震减灾的贡献率。<br><br>    三、加强防震减灾工作的组织领导<br><br>    各级政府要高度重视防震减灾工作，认真制定防震减灾规划，建立与经济社会发展水平和防震减灾需求相适应的投入机制，并依法纳入本级财政预算。要认真落实《福建省“十一五”突发公共事件应急体系建设规划》提出的任务，加强防震减灾队伍建设，加强防震减灾工作的检查指导，完善地震应急指挥的组织体系和技术系统，确保在突发破坏性地震时，震情灾情信息能够及时准确上报，应急救援队伍能够迅速派出，交通和通讯能够尽快保持畅通，灾民能够尽快得到妥善安置，社会能够尽快恢复稳定。<br><br>    （一）提升地震灾害紧急救援能力。要认真汲取汶川特大地震应急救援的经验教训，年内组建完成省、市、县三级地震应急救援队伍。各设区市要依托消防和大型企业救援队伍，在整合应急救援资源的基础上组建一专多能的地震应急救援队伍，配备能同时实施搜救两栋倒塌楼房被埋人员的救援装备；各县（市）要依托消防加强救援力量的建设，配备基本的搜救装备，财政困难的县（市）由省级财政给予适当补贴。同时，要在保障每个市、县配备基本装备的基础上，各市应有侧重地在重点县（市）配置重要专用装备，使相邻的县（市）能组合形成较高水平的施救能力。市、县地震灾害紧急救援能力建设的具体意见由省地震局会同有关部门另行制定。<br><br>    （二）提高公共建筑物抗震设防能力。各地要认真做好已建的重大工程、生命线工程、关键工业设施、学校、医院、文化体育场馆等建（构）筑物的抗震性能普查和鉴定工作，尤其是1990年以前建设的多层砖房、预制板房等建筑物要进行抗震性能普查或抽样调查，达不到抗震设防标准的，要加快实施加固或改造。新建交通、能源、水利等重大建设工程和可能发生严重次生灾害的建设工程，必须按照国家和我省的有关规定进行地震安全性评价，并严格按照抗震设防要求和工程建设强制性标准进行工程的抗震设计、施工。学校、医院等人员密集场所的建设工程，应当按照高于当地房屋建筑的抗震设防要求进行设计和施工。有条件的地区要开展城市老旧房屋的抗震性能普查。<br><br>    （三）加强地震应急保障体系建设。各地要在现有公园、体育馆、学校等设施的基础上，因地制宜地开展城市地震应急避难场所和临时疏散场地的规划，统筹安排地震应急避难所必需的交通、供水、供电、排污等设施建设，并建立应急管理机制。同时，要逐步建立应急救灾物资储备机制，特别是地震应急救援的专用物资储备。食品、医疗等物资应建立平战结合的流动共享机制，有效利用各种应急物资资源。<br><br>    （四）积极做好地震次生灾害防治工作。各地要高度重视震后容易引发水库溃坝、尾矿库、泥石流、山体滑坡、地基塌陷、环境污染、易燃易爆等次生灾害源的专项普查，对排查出的隐患要登记建档，并针对存在的问题，采取有效措施加以整治和防范。<br><br>    四、增强全社会共同抵御地震灾害的能力<br><br>    防震减灾是一项综合性的社会管理工作，涉及方方面面，要广泛动员社会各方面重视和支持防震减灾工作、积极参与防震减灾工作，使防震减灾逐步成为全社会的自觉行动。<br><br>    （一）认真制订地震应急预案。各级各有关部门要制定本地区、本部门的地震应急预案。交通、铁路、水利、电力、通信等基础设施和学校、医院等人员密集场所的经营管理单位，以及可能发生次生灾害的核电、矿山、危险物品等生产经营单位，应当制定地震应急预案。同时要根据实际情况，适时做好预案的修订和完善。<br><br>    （二）加强地震应急演练。各级各有关部门要根据地震应急预案，适时组织开展相应规模的地震应急演练，不断增强应急预案的可操作性，提高各部门协同配合、有序应对突发性地震灾害的能力。交通、铁路、水利、电力、通信等基础实施和大型企业以及流动人员相对集中的学校、医院、影院、商场等单位，主管部门应加强指导，每年适时开展一次以上的地震应急演练，提高民众防震避险和自救互救能力。<br><br>    （三）加快地震应急志愿者队伍建设。各地要按照《福建省地震救援志愿者行动实施意见》，积极推动组建地震灾害救援志愿者队伍，建立震时迅速调集和组织动员地震志愿者队伍的机制。重视利用各地医疗急救、卫生防疫、心理干预、建筑工程、电力通信等专业领域人才资源，逐步开展兼职志愿者准入登记制，实施动态管理，加强相关技能培训，培养一大批具有不同专业救援技能、能够在专业技术人员指导下高效率开展救援行动的兼职志愿者。<br><br>    （四）加快推进农村民居地震安全工程。各级各有关部门要加强对农村建房抗震设防的政策引导和技术指导。开展农村民居地震安全示范点建设，推广应用村镇建设抗震设计规范，加强村镇建设管理，建立健全村镇建设抗震技术服务体系，引导和鼓励农民在新建住宅特别是闽东南广大地区的石结构房时采取抗震措施，对达不到抗震要求的住宅要采取必要的加固措施，不断提高农村防震保安能力。<br><br>    二○○九年四月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

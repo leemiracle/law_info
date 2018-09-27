@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教办〔2007〕6号<BR>&nbsp;&nbsp;【发布日期】2007-06-07<BR>&nbsp;&nbsp;【生效日期】2007-06-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info29428.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于建立健全高中阶段教育学校招生工作机构的通知<br><br></font>(教办〔2007〕6号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）、招生委员会办公室，计划单列市教育局，新疆生产建设兵团教育局：<br><br>    为理顺高中阶段教育学校招生管理体制，加强统筹管理，积极推进高中阶段教育学校招生制度建设，进一步规范招生秩序，创造公平、公正、公开的招生环境。现就建立健全高中阶段教育学校招生机构有关事宜通知如下：<br><br>    一、建立健全高中阶段教育学校招生机构。各地要加强由教育行政部门主要负责同志任组长，由基础教育、职业教育、成人教育、发展规划和招生等部门共同参与的省（区、市）、市（地）两级高中阶段教育学校招生工作领导小组。从实际出发，在现有工作的基础上，尽快建立健全省（区、市）、市（地）、县（市、区）三级统筹管理高中阶段教育学校招生工作办公室（简称中招办），在高中阶段教育学校招生领导小组的领导下，统筹高中阶段教育学校招生工作。<br><br>    二、明确中招办的具体工作职责。根据国家教育行政部门对基础教育、职业教育和成人教育工作的总体要求，执行教育部和省级招生工作领导小组制定的招生政策和措施；开展招生咨询和招生宣传工作；统筹规范招生秩序；统筹向考生和社会公布高中阶段教育学校招生计划和招生信息，统筹组织报名；对应届初中毕业生实行一考多分流，统筹协调高中阶段普通高中、普通中专、成人中专、职业高中、技工学校、民办学校等招生录取工作；建立初高中阶段教育学校招生信息系统，实现计算机网上录取；制订规章制度，提供公平、公正、有序的招生环境和优质服务，维护招生学校和考生的合法权益。<br><br>    省级中招办负责执行教育部下达的中等职业教育跨省招生来源计划，组织省属中等职业学校、跨省或跨地区以及东西部地区中等职业学校联合招生合作办学的招生录取工作。跨省、跨地区招收的学生毕业当年不得参加跨省招生的中等职业学校所在地组织的高等教育升学考试。<br><br>    市（地）、县（市、区）中招办在省级中招办的统筹协调下，统筹协调所在地高中阶段教育学校的招生录取工作。对各类学校新生报到后出现的缺额，应及时组织补录。<br><br>    各地要按照已颁布的基础教育课程改革和中考改革方案，继续做好普通高中招生工作。<br><br>    三、加快招生工作信息化建设。教育部今年内要建立中等职业学校学生信息管理系统，推进招生网上录取工作和学生电子注册制度的建设。各地教育行政部门要加强对初中毕业生招生情况的监控和管理，保证录取结果的真实准确，按照中招办录取审批后的新生名册建立新生学籍，并以此作为发放中等职业学校国家助学金的重要依据。未经录取审批和无电子档案材料的考生，不得建立新生学籍。<br><br>    四、各地中招办要做到招生政策公开，学校招生资格公开，招生计划公开，录取信息公开，考生咨询及申诉渠道公开，重大违规事件及处理结果公开，推进招生工作“阳光工程”。要进一步规范招生机构和招生行为，严禁违规招生，严厉打击非法招生中介和招生欺诈行为。除经省级教育行政部门确定的招生机构外，任何机构不得从事高中阶段学历教育招生工作；任何学校不得委托个人或中介机构组织参与招生。对违反高中阶段教育学校招生政策、扰乱招生秩序、非法办学、非法招生、有偿招生、违反国家有关规定乱收费的，要追究当事人及主管单位负责人的责任，并予以严肃处理。<br><br>    各省级教育行政部门要按照本通知和《教育部关于统筹管理高中阶段学校招生工作的通知》精神，切实加强高中阶段教育学校招生工作机构的建设。可以根据本地区实际情况，对高中阶段教育学校招生工作做出相关规定，指导做好招生工作。各地基础教育、职业教育和成人教育部门要积极参与、共同做好高中阶段教育学校招生工作。<br><br>教育部<br>二○○七年六月七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

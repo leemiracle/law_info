@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2009]361号<BR>&nbsp;&nbsp;【发布日期】2009-07-06<BR>&nbsp;&nbsp;【生效日期】2009-07-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/9207020.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>税务系统开展“窗口单位树新风网上行”活动实施方案<br> <br></font>(国税函[2009]361号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    现将《税务系统开展“窗口单位树新风网上行”活动实施方案》印发给你们，请结合本单位实际，认真贯彻落实。<br>    按照中央文明委关于开展“迎国庆讲文明树新风”活动的安排，中央文明办组织工业和信息化部、住房和城乡建设部、交通运输部、铁道部、卫生部、海关部署、国家税务总局、国家工商总局、国家旅游局、银监会、国家电网公司等11个系统，将开展“窗口单位树新风网上行”活动（以下简称“网上行”活动）。这项活动由中国文明网牵头，在各行业主管部门网站和人民网、新华网等中央重点网站开设“网上行”活动专题网页，充分展示窗口单位服务措施、创建成果，以推动各单位精神文明创建活动深入发展。<br>    开展“网上行”活动，是迎接建国60周年系列庆祝活动的一项重要内容，是引导税务干部职工增强爱国情感，树立报国之志，形成奋发向上的精神力量和团结和睦的精神纽带的重要举措，是动员和激励税务干部职工努力提升文明素质，不断提高服务水平，树立良好部门形象，更好地落实“服务科学发展、共建和谐税收”新时期税收工作主题的良好载体。各级税务机关要充分认识开展“网上行”活动的重要意义，高度重视、切实抓好活动的组织工作。要指定专人负责，搞好分工协调，以“网上行”活动为契机，向社会广泛宣传、充分展示税务系统的良好形象，进一步改进和优化纳税服务，构建和谐的税收征纳关系。<br>    要大力加强窗口单位的自身建设。这次“网上行”活动的参加单位为国家税务局、地方税务局各级办税服务厅。办税服务厅人员的工作能力强弱、业务素质高低、服务水平优劣都会通过网络媒介客观及时地展现给社会公众，都将接受广大网民的监督和检阅，这既是展示税务部门文明形象的机会，更是一次挑战。各级税务机关务必切实抓好办税服务厅人员的自身建设，着力提高办税人员的工作能力、业务素质和服务水平，做到依法、公平、文明服务。<br>    要积极动员和组织广大税务干部职工踊跃参与。各级税务机关要把“网上行”活动作为精神文明创建的重要载体，动员和组织广大税务干部职工积极投身到“网上行”活动中，将“网上行”与“实际行”紧密结合，通过“实际行”丰富“网上行”活动，通过“网上行”提升“实际行”水平，增强活动的针对性和实效性。中央文明办将于7月下旬举行“网上行”活动启动仪式，各级税务局所属办税服务厅要作好充分准备，对办税的软硬件设施进行认真检查，对办税服务厅工作人员进行广泛动员，查遗补漏，清理死角。各省（区、市）国税局和地税局的官方网站要增设“网上行”活动专题网页，从本省（区、市）国税系统、地税系统中筛选出获得过较多荣誉、社会普遍认可、具有代表性的办税服务厅，制作系列宣传图片并附简短文字说明，在网上集中宣传和展示。同时可通过电子邮箱或刻录成光盘，尽快上报税务总局人事司（基层工作处），由税务总局推荐到中国文明网、人民网、新华网、央视网、中国网、光明网、中国经济网、中国广播网和税务总局网站上进行展示。<br>    要注重信息沟通与交流。税务系统“网上行”活动启动后，各级税务局要及时关注“网上行”活动情况，及时总结活动经验，收集活动中出现的问题和社会反响，及时向税务总局反馈。加强上下联系，做好信息沟通，形成整体联动、齐抓共管的工作格局，推动活动不断深化。<br>    <br>国家税务总局<br>二○○九年七月六日<br>        <br><br>税务系统开展“窗口单位树新风网上行”活动实施方案<br><br>    为贯彻中央文明委工作部署，根据国庆60周年宣传工作的总体安排，国家税务总局将组织开展税务系统“窗口单位树新风网上行”活动。<br>    一、活动主题<br>    以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，以“服务科学发展、共建和谐税收”为主题，紧紧围绕“热爱祖国、敬业奉献”，通过开展“窗口单位树新风网上行”活动，推动税务系统大力加强爱国主义教育，深入开展创建文明单位活动，引导税务干部职工增强爱国情感，树立报国之志，提升文明素质，提高服务水平，树立“爱岗敬业、勤勉尽责”的税务文明形象。<br>    二、参加单位<br>    国家税务局、地方税务局各级办税服务厅。<br>    三、活动内容<br>    在国家税务总局官方网站和各省(区、市)国家税务局、地方税务局官方网站开设“窗口单位树新风网上行”活动专题网页，报道活动情况，展示工作成果，以“窗口单位树新风网上行”活动推动税务系统精神文明创建活动深入发展。<br>    （一）公示税务系统窗口单位创建工作措施。将税务系统“窗口单位树新风网上行”活动方案、创建文明单位标准和管理办法、办税服务厅管理办法等内容在税务总局和各省（区、市）国税局、地税局的官方网站上进行公示，接受群众监督，听取群众意见。<br>    （二）展示窗口单位创建成果。集中展示税务系统文明创建的丰硕成果，大力推介税务系统创建文明单位先进典型，推出一批窗口单位服务标兵，发挥榜样作用，以示范带动税务系统精神文明建设，树立行业文明形象。<br>    （三）开展网上交流活动。在中国文明网、国家税务总局网和各省（区、市）国税局、地税局网站组织税务机关负责人进行网上访谈，与网友进行在线交流，让纳税人直接对窗口单位服务质量提出意见和建议；邀请有关专家就加强税务系统精神文明建设，提升税务干部职工文明素质，提高纳税服务水平，在网上进行答疑解惑、互动交流，营造加强税务系统精神文明建设的良好氛围。<br>    （四）完善纳税服务栏目。对国家税务总局网站开设的纳税服务栏目进行完善补充，健全纳税咨询、办税指南、表格下载等内容，全方位提供税收服务。重点抓好四个方面的纳税服务:一是纳税咨询服务,主要是为纳税人提供税收法律法规和政策、征管规定、涉税信息等咨询查询服务；二是办税指南服务,主要是为纳税人办理税务登记、发票购领、申报纳税等涉税事项的程序、手续提供咨询服务；三是涉税举报服务,主要是为纳税人举报税收违法行为等提供服务；四是投诉监督服务,主要是为纳税人对税务机关行风、服务质量及税务人员违法违纪行为的监督投诉提供服务。<br>    四、工作安排<br>    （一）7月上旬，税务总局根据中央文明办《关于开展“窗口单位树新风网上行”活动实施方案》，结合税务系统实际和特点，制定具体的活动实施方案。<br>    （二）7月中旬，根据中央文明办的要求，组织相关人员设计制作税务系统“窗口单位树新风网上行”活动专题网页，编辑各栏目内容，提交中央文明办审核后，在中国文明网、国家税务总局和各省（区、市）国税局、地税局网站上刊发。<br>    （三）7月下旬中央文明办举行启动仪式后，组织全国税务系统开展税务系统“窗口单位树新风网上行”活动，在八月和九月分别推出税务文明形象网上展示月、纳税服务月活动。并结合税务系统“迎国庆讲文明树新风”活动，聘请税务系统老干部、老专家、老模范在网上开展宣讲，通过网上交流，组织税务干部职工讲述身边的生动事例，谈变化、谈感受、谈发展、谈未来。为庆祝新中国成立60周年营造文明和谐的税收环境。<br>    五、工作要求<br>    （一）坚持结合实际，突出实践特色。税务系统“窗口单位树新风网上行”活动要紧密结合税务工作岗位，切实突出实践特色，要把“窗口单位树新风网上行”活动与落实税务系统“服务科学发展、共建和谐社会”新时期税收工作主题相结合，与税务系统正在开展的“迎国庆讲文明树新风”活动相结合，与爱党、爱国、爱社会主义的各项主题活动相结合，在税务系统进一步激发爱国热情、凝聚人心、振奋精神。<br>    （二）加强信息沟通，实现整体联动。各级税务局要认真落实中央文明委和国家税务总局关于开展税务系统“窗口单位树新风网上行”活动的工作部署，踊跃参加各项活动。要加强系统上下的信息沟通，对各地在活动中总结出来的成功经验，要积极推广，相互借鉴。<br>    （三）明确责任分工，搞好工作协调。各级税务局要增强政治意识、大局意识、责任意识，把税务系统“窗口单位树新风网上行”活动列入重要日程，同新中国成立60周年各项庆祝活动统筹规划、统一部署，做到相互呼应、相得益彰。要认真制定各单位的具体活动实施方案，把中央文明委和税务总局的原则要求变成可操作的具体措施，把各项工作目标和工作任务变成实实在在的工作项目，确保各项任务落到实处。各级税务局负责税务新闻宣传、纳税服务、精神文明建设的主管部门，要认真抓好税务系统“窗口单位树新风网上行”活动的宣传工作，及时进行税务网站的网页更新；切实做好纳税服务工作，尤其是组织好办税服务厅工作人员，把税务系统“窗口单位树新风网上行”活动落实到日常工作中，发动广大税务干部职工积极投身到税务系统“窗口单位树新风网上行”的各项活动中去。各级税务局机关的职能部门，要密切配合，齐抓共管，既分工负责，又统筹协调，共同完成好税务系统“窗口单位树新风网上行”活动的各项工作任务。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

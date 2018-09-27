@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会 科学技术部<BR>&nbsp;&nbsp;【发布文号】保监发〔2010〕31号<BR>&nbsp;&nbsp;【发布日期】2010-03-11<BR>&nbsp;&nbsp;【生效日期】2010-03-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/web/site0/tab68/i125571.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会、科学技术部关于进一步做好科技保险有关工作的通知 <br><br></font>(保监发〔2010〕31号)</p><br><br><br>    各省、自治区、直辖市、计划单列市保监局、科技厅（局、委），深圳市科工贸信委，各国家高新技术开发区管委会，各中资保险公司、保险中介机构：<br><br>    2007年保监会和科技部共同开展科技保险创新发展模式试点工作以来，科技保险的保险产品逐步丰富，承保范围逐步扩大，投保企业快速增加，为科技领域开展自主创新提供了风险保障。为进一步发挥科技保险的功能作用，支持国家自主创新战略的实施，现就科技保险有关工作通知如下：<br><br>    一、鼓励保险公司开展科技保险业务。保险公司要增强科技保险工作意识，主动与科技部门联系，深入科技行业研究科技领域风险特点，组建专门团队开展业务，建立科技保险理赔绿色通道，做好科技保险服务。地方保监局和科技主管部门要积极组织推动，加强工作协调，提供相关支持，与保险机构共同推动科技保险的创新发展。<br><br>    二、支持保险公司创新科技保险产品。保险机构要建立保险公司、科研机构、中介机构和科技企业共同参与的科技保险产品创新机制，根据科技行业不同特点和实际需求，针对科技领域风险特点，组织专门技术力量，积极创新，大力开发新险种，在科技型中小企业自主创业、融资、企业并购以及战略性新型产业供应链等方面提供保险支持，不断拓宽保险服务领域。<br><br>    三、进一步完善出口信用保险功能。发挥中国出口信用保险公司政策性业务在应对国际金融危机和支持科技企业出口方面的特殊作用，在信用风险管理、融资支持和企业信用体系建设等方面，为科技企业提供信用保险、资信调查、商账追收、保单融资等多方面的保障服务，扩大信用保险在科技领域的综合性服务。<br><br>    四、加大对科技人员保险服务力度。科技人员是科技工作的重要力量，要进一步研究利用保险手段分散科技人员在科研、生产过程中的风险，解决他们的后顾之忧。高新技术企业可以为符合人数要求的关键研发人员投保团体保险。<br><br>    五、提高保险中介机构服务质量。各类保险中介机构应积极参与科技保险工作，发挥保险中介机构在企业风险管理、保险方案设计、保险产品宣传推广、保单维护和保险索赔服务以及科技型中小企业风险管理等方面的作用，切实做好保险中介服务工作。保险经纪公司要主动当好科技主管部门和科技企业的顾问，在科技保险工作中作为科技行业一方的代表，维护客户合法权益。<br><br>    六、实施科技保险有关支持政策。研究在重大专项、国家科技计划经费中列支科技保险费和财政资金对自主创新首台（套）产品实施保费补贴的相关政策。地方科技主管部门要创新科研经费使用方式，制定支持科技保险发展的制度措施，推行科技保险保费补贴制度。企业科技保险保费计入高新技术企业研究与开发费用核算范围，享受国家规定的税收优惠政策。<br><br>    七、创新科技风险分担机制。鼓励保险公司、再保险公司和担保公司等金融机构共同参与重大科技项目的风险管理工作，与银行等其他金融机构一起创新科技风险管理机制与服务，为科技企业特别是科技型中小企业提供融资、担保方面的支持。<br><br>    八、探索保险资金支持科技发展新方式。根据科技领域需求和保险资金特点，研究保险资金支持国家高技术产业发展的相关机制和具体措施，探索保险资金参与国家高新技术产业开发区基础设施建设、战略性新型产业的培育与发展以及国家重大科技项目投资的方式方法，并推动相关工作。<br><br>    本通知自发文之日起执行。<br><br>    中国保险监督管理委员会<br><br>    中华人民共和国科学技术部<br><br>    二○一○年三月十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】建科综函[2006]65号<BR>&nbsp;&nbsp;【发布日期】2006-04-29<BR>&nbsp;&nbsp;【生效日期】2006-04-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/indus/file/2006051201.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>建设部关于编制“建设部‘十一五’重点推广技术领域”和《建设部“十一五”技术公告》的通知<br> <br></font>(建科综函[2006]65号)</p><br><br><br>各省、自治区建设厅，直辖市建委及有关部门，计划单列市建委（建设局）及有关部门，新疆生产建设兵团建设局，部直属有关单位，国务院国资委直属有关单位，有关行业学（协）会，各有关单位：<br><br>    为加强建设领域推广应用新技术和限制禁止使用技术工作，推进建设领域技术推广工作的管理创新，根据《建设领域推广应用新技术管理规定》（建设部第109号令），我部“十五”期间发布了“十五期间重点实施技术领域”，公告了《建设部推广应用和限制禁止使用技术》（建设部公告第218号，以下简称《218号技术公告》）。各地建设行政主管部门认真组织实施，发挥了“重点实施技术领域”和《218号技术公告》的技术导向作用，促进了建设领域各行业的科技进步和技术创新。<br><br>    为了进一步贯彻党中央、国务院关于充分发挥城乡规划的综合调控作用、大力发展节能省地型建筑、提高城镇综合承载能力以及建设社会主义新农村推进村庄整治等建设领域的重点工作，我部决定在“十一五”期间继续加强发布重点实施技术领域和技术公告工作，加大工作力度，深入开展推广应用建设领域新技术、限制禁止使用不适用技术工作，支撑建设事业持续健康发展。今后重点实施技术领域全称改为“建设部重点推广技术领域”，《建设领域推广应用和限制禁止使用技术》公告的全称改为“建设部技术公告”，并同时按照建设事业五年发展规划时间序列编制发布。现将编制《建设部“十一五”重点推广技术领域》和《建设部“十一五”技术公告》的有关事项通知如下：<br><br>    一、关于重点推广技术领域的编制<br><br>    （一）编制内容要求<br><br>    重点推广技术领域应以支撑建设事业重点工作为目标，具体内容应从技术发展与推广应用的角度，提出该技术领域发展现状及存在的问题，“十一五”期间的技术发展目标、任务与工作措施。<br><br>    （二）工作分工<br><br>    编制重点推广技术领域的工作，由建设部科技发展促进中心、建设部建筑节能中心、中国建筑科学研究院、城市建设研究院及相关行业学（协）会等分别负责相应领域的编写工作。<br><br>    工作分工、编写提纲及具体要求详见“建设部‘十一五’重点推广技术领域内容撰写要求”（附件1）。<br><br>    请编制单位于2006年5月13日前将初稿以电子邮件的方式发送到建设部科技发展促进中心。<br><br>    二、关于技术公告的编制<br><br>    （一）提案内容<br><br>    提案是指单位或个人提出的建议推广技术、限禁技术的建议案，是编制技术公告的基础，采取面向全社会征集的方式进行。提案分为新增提案、修订提案、不再列入提案三种类型。<br><br>    新增提案是指所提技术已达到发布要求，但在《218号技术公告》（见建设部网站www.cin.gov.cn “建设科技”栏目）中尚未列入的提案；修订提案是指在《218号技术公告》中所提技术已经公告，但需修订其中内容的提案；不再列入提案是指在《218号技术公告》中所提技术已经公告，但在拟发布的公告中不需再公告的提案。<br><br>    新增提案如为推广技术，应是符合重点推广技术领域要求，且技术先进、成熟、辐射性强，适合在全国或较大范围内推广应用的技术；如为限制、禁止使用技术，则应是已无法满足工程建设、城市建设、村镇建设等领域使用要求的技术。<br><br>    修订提案请在提案表中注明《218号技术公告》相关技术编号、公告类型、技术名称、技术领域、需修订的内容及修订理由等。<br><br>    不再列入提案请在提案表中注明《218号技术公告》相关技术编号、公告类型、技术名称及不再列入的理由。<br><br>    本次征集的技术公告提案内容涉及范围请参考“《建设部“十一五”技术公告》技术分类框架”（附件2，以建设部网站www.cin.gov.cn“建设科技”栏目中发布的为准）。超出分类框架范围的提案请同时对分类框架提出补充修改意见。<br><br>    （二）提案方式<br><br>    提案将在全社会广泛征集，无论单位（地方行政主管部门，行业学（协）会，事业单位，企业）、个人均可提出提案。单位提出的提案请加盖单位公章，个人提出的提案需署真实姓名。<br><br>    提出提案需填写“《建设部“十一五”技术公告》提案表”（附件3），并同时提交书面材料和电子文档。<br><br>    提案工作由各有关单位、学协会协助组织（分工建议见附件4）。<br><br>    （三）截止时间<br><br>    提案表请于2006年5月31日前报送到建设部科技发展促进中心。<br><br>    三、联系方式<br><br>    （一）建设部科学技术司 <br><br>      联系人：朱乐、倪江波<br><br>      电  话：010-58933282、58933823    传真：010-58934530<br><br>      地  址：北京市三里河路9号    邮编：100835<br><br>      e-mail：zhule@cein.gov.cn<br><br>    （二）建设部科技发展促进中心 <br><br>      联系人：1、重点推广技术领域：毕既华、许利峰<br>              2、技术公告：孔祥娟、丁洪涛<br><br>      电  话：010-58934249、68343894    传真：010-68310297<br><br>      地  址：北京市三里河路9号 邮编：100835<br><br>      e-mail：stdpc@vip.163.com<br><br>    附件：1、建设部“十一五”重点推广技术领域内容撰写要求<br><br>          2、《建设部“十一五”技术公告》技术分类框架<br><br>          3、《建设部“十一五”技术公告》提案表<br><br>          4、技术负责单位分工建议表<br><br>建设部<br>二○○六年四月二十九日<br><br><br>    附件1：<br><br>建设部“十一五”重点推广技术领域内容撰写要求<br><br>    围绕建设部“十一五”期间科技推广工作的重点，在已发布并实施五年的《“十五”建设部重点实施技术领域》基础上进行调整，形成了《建设部“十一五”重点推广技术领域》。为了正确引导建设行业各新技术领域工作的开展，了解各技术领域国内外发展现状、存在的主要问题，明确未来五年的工作目标、任务，把握新技术发展方向，更好地做好技术推广工作，拟请有关单位从技术发展与推广应用的角度，提出“十一五”期间技术发展目标规划、任务与工作措施，组织编写各技术领域详细内容，具体要求如下：<br><br>    一、工作分工<br><br>    （一）建筑节能技术――建设部建筑节能中心<br><br>    （二）节地与地下空间开发利用技术――中国建筑科学研究院<br><br>    （三）节水与水资源开发利用技术――城市建设研究院<br><br>    （四）节材及新型建材技术――中国建筑科学研究院<br>                                中国建筑材料科学研究院<br><br>    （五）环境友好技术――城市建设研究院<br><br>    （六）新农村建设适用技术――建设部科技发展促进中心<br><br>    （七）安全生产、综合防灾与应急管理技术――中国建筑业协会<br><br>    （八）信息化技术――建设部信息中心<br><br>    （九）城市公共交通技术――中国城市公共交通协会<br><br>    二、编制提纲<br><br>    （一）该领域技术现状和主要存在问题<br><br>    1、技术现状<br>    2、国内外技术水平比较与发展趋势<br>    3、存在问题<br><br>    （二）发展目标与任务<br><br>    1、发展目标<br>    2、任务<br><br>    （三）工作对策与措施建议<br><br>    1、工作对策<br>    2、措施建议<br><br>    要求：目标明确，任务具体，措施有力，文字力求精练。<br><br>    三、篇幅<br><br>    以能简明扼要阐述清楚需要表达的内容，说清问题为原则。发展目标与任务应尽可能具体，技术对策与保障措施应易于实施。篇幅一般在2000字左右，内容较多的（如建筑节能和信息化）以不超过3000字为宜。<br><br>    附件4<br><br><br>技术负责单位分工建议表<br><br><br>单  位  名  称 分  工  建  议 <br>中国建筑科学研究院 节地与地下空间开发利用技术<br>节材与新型建材技术 <br>城市建设研究院 节水与水资源开发利用技术<br>环境治理和资源循环利用技术<br>新农村建设适用技术 <br>建设部建筑节能中心 建筑节能技术 <br>建设部科技发展促进中心 新农村建设适用技术 <br>建设部住宅产业化促进中心 节材与新型建材技术 <br>建设部信息中心 城镇信息化技术 <br>中国城市规划设计研究院 节地与地下空间开发利用技术 <br>中国建筑材料科学研究院 节材与新型建材技术 <br>建设部城市交通工程技术中心 城市公共交通与快速交通技术 <br>中国建筑业协会 节材与新型建材技术<br>安全生产、综合防灾与应急管理技术 <br>中国建筑金属结构协会 建筑节能技术<br>节材与新型建材技术 <br>中国建筑防水材料工业协会 节材与新型建材技术 <br>中国室内装饰协会 环境治理和资源循环利用技术 <br>中国城市环境卫生协会 环境治理和资源循环利用技术<br>新农村建设适用技术 <br>中国建筑装饰协会 节材与新型建材技术<br>环境治理和资源循环利用技术 <br>中国建材工业协会砼外加剂协会 节材与新型建材技术 <br>中国绝热隔音材料协会 建筑节能技术 <br>中国建筑砌块协会 节材与新型建材技术 <br>中国城市燃气协会 建筑节能技术 <br>中国城市公共交通协会 城市公共交通与快速交通技术 <br>中国土木工程学会 建筑节能技术<br>节材与新型建材技术<br>节地与地下空间开发利用技术<br>节水与水资源开发利用技术<br>环境治理和资源循环利用技术 <br>中国城市规划协会 节地与地下空间开发利用技术 <br>中国风景园林学会 环境治理和资源循环利用技术 <br>中国房地产业协会 节材与新型建材技术<br>节水与水资源开发利用技术<br>环境治理和资源循环利用技术 <br>中国物业管理协会 城镇信息化技术 <br>中国勘察设计协会 节地与地下空间开发利用技术 <br>中国安装协会 节材与新型建材技术 <br>中国市政工程协会 建筑节能技术<br>节材与新型建材技术 <br>中国城镇供热协会 建筑节能技术 <br>中国城镇供水协会 节水与水资源开发利用技术 <br>中国太阳能热利用协会 建筑节能技术 <br>中国钢结构协会 节地与地下空间开发利用技术 <br>中国塑料加工工业协会 节材与新型建材技术 <br>中国玻璃钢工业协会 节材与新型建材技术 <br>中国菱镁协会 节材与新型建材技术 <br>中国膜工业协会 节水与水资源开发利用技术 <br>中国粉煤灰利用协会 环境治理和资源循环利用技术 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

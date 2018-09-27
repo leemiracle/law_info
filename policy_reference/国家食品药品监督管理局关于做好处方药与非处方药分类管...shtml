@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监安[2005]409号<BR>&nbsp;&nbsp;【发布日期】2005-08-12<BR>&nbsp;&nbsp;【生效日期】2005-08-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64004122.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于做好处方药与非处方药分类管理实施工作的通知<br> <br></font>(国食药监安[2005]409号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为积极推进处方药与非处方药分类管理，根据《<a href=javascript:ROF(27458,0) class=alink>中共中央、国务院关于卫生改革与发展的决定</a>》（中发〔1997〕3号）精神和《<a href=javascript:ROF(36847,0) class=alink>中华人民共和国药品管理法</a>》的规定，2004年7月我局发布了《实施处方药与非处方药分类管理2004―2005年工作规划》（以下简称《规划》）。按照《规划》确定的药品分类管理工作指导思想、基本原则和阶段性目标要求，为做好处方药与非处方药分类管理实施工作，对2005和2006年药品分类管理工作提出如下要求：<br><br>    一、明确目标和要求，切实推进处方药与非处方药分类管理<br>    实施药品分类管理，就是要通过严格处方药的管理，规范非处方药的管理，保证公众用药安全。2005和2006年，要以加强对公众自我药疗存在安全隐患、易造成滥用处方药的管理为重点，进一步消除群众用药隐患，切实推进药品分类管理。从2006年1月1日起，药品分类管理工作必须达到以下要求：<br>    （一）麻醉药品、放射性药品、一类精神药品、终止妊娠药品、蛋白同化制剂、肽类激素（胰岛素除外）、药品类易制毒化学品、疫苗、以及我国法律法规规定的其它药品零售企业不得经营的药品，在全国范围内药品零售企业不得经营。<br>    （二）注射剂、医疗用毒性药品、二类精神药品、上述（一）以外其它按兴奋剂管理的药品、精神障碍治疗药（抗精神病、抗焦虑、抗躁狂、抗抑郁药）、抗病毒药（逆转录酶抑制剂和蛋白酶抑制剂）、肿瘤治疗药、含麻醉药品的复方口服溶液和曲马多制剂、未列入非处方药目录的抗菌药和激素、以及我局公布的其他必须凭处方销售的药品，在全国范围内做到凭处方销售。<br>    （三）其他药品的分类管理实施工作，由各省（区、市）药品监督管理部门根据本地社会和经济的发展情况，以及群众就医用药的实际，提出本地区具体的实施要求。对需要长期使用固定药物控制和治疗的慢性疾病用药，以及急症、急救用药，各地可采取一定措施，在保证群众用药安全的前提下，方便群众用药，促进药品分类管理工作的开展。<br><br>    二、加大流通领域药品分类管理的推进力度，确保药品分类管理相关工作落实到位各级药品监督管理部门要按照流通领域药品分类管理工作要求，结合药品零售企业GSP认证和《药品经营许可证》换、发证工作，积极促进药品零售企业达到药品分类管理要求。要根据零售企业驻店执业药师配备及在岗情况、处方审核制度的落实情况、处方药与非处方药分柜摆放情况、专有标识的规范情况、凭处方销售工作的执行情况、以及药品流通管理的相关要求，做好药品零售企业的药品分类管理工作。各地在《药品经营许可证》换、发证工作中，对达不到药品分类管理要求的零售药店，可按规定核减《药品经营许可证》中的经营范围，只能销售非处方药。在执业药师配置比例较高、条件较为成熟的地区，在流通领域可将处方药的销售与执业药师的配置紧密结合，进一步保障人民群众的用药安全有效，促进合理用药。<br><br>    三、完善药品分类管理法规，保障处方药与非处方药分类管理制度的实施<br>    2005和2006年，我局将积极推动《处方药与非处方药分类管理条例》的立法工作，争取尽早出台。同时，还将结合处方药与非处方药分类管理实施工作制定相关配套管理规定，建立健全药品监督管理的法规体系，适应处方药与非处方药分类管理推进需要。各地要积极配合我局立法工作安排，做好相关调研、征求意见工作，进一步完善我国药品分类管理政策法规。<br><br>    四、进一步规范非处方药管理，促进药品的合理使用<br>    我局公布转换为非处方药的品种名单及其说明书范本之后，其药品生产企业应到所在地的省（区、市）药品监督管理部门进行非处方药的审核登记。审核登记后的非处方药品种，使用非处方药包装、标签、说明书，按非处方药进行管理；除“双跨”品种外，非处方药品种在审核登记6个月后，其药品生产企业应停止使用原包装、标签和说明书。各省（区、市）药品监督管理部门应按照我局规定的审核登记范围、要求进行审核登记工作，未按规定进行的非处方药审核登记，应予以纠正。<br>    非处方药生产企业必须按照我局有关规定，使用非处方药包装、标签和说明书，非处方药的适应症、用法用量须与我局公布的非处方药说明书范本一致，禁忌症、注意事项、不良反应不得少于范本内容，不得以任何形式扩大适应症范围。已公布非处方药品种说明书的变更，涉及适应症增加、用法用量改变，应按药品注册补充申请办理，须经我局审核批准。<br>    近期，我局将根据2005版《中国药典》发布的情况，对非处方药说明书范本内容作出部分修订，药品生产企业要及时变更非处方药说明书内容。<br><br>    五、开展积极有效的宣传和引导，提高社会各界的认识<br>    各级药品监督管理部门要提高对实施药品分类管理重要性和必要性的认识，要充分认识到实施处方药与非处方药分类管理是药品监督管理的一项重要工作，也是保障人民群众身体健康和用药安全的最基本要求。加快药品分类管理推进速度，是我国社会发展的需要，也是党中央、国务院对我们工作的要求。各级药品监督管理部门要认真履行职责、切实做好工作，把保障广大人民群众用药安全有效放在工作的首位，确保药品分类管理工作的推进。<br>    各地要广泛动员社会各方面力量，采取多种形式，有计划、有步骤地在辖区范围内，开展积极有效的宣传活动。要使社会各界和广大人民群众充分认识到实施处方药与非处方药分类管理在保证公众健康和用药安全上的重要作用和地位，使人民群众都能关心理解药品分类管理，支持并配合相关工作的开展。各级药品监督管理部门要加强对药品生产、经营企业的指导，有效引导药品经营企业通过调整经营结构、开展药学服务等配合药品分类管理工作的推行。各相关学会、协会也必须站在维护公众健康的立场上，配合药品监督管理部门推进药品分类管理工作的实施。<br><br>    六、加强监督检查，促进处方药与非处方药工作的开展<br>    各级药品监督管理部门要加强对处方药与非处方药分类管理工作的监督检查，促进药品分类管理相关工作的实施。<br>    （一）加强药品零售企业处方药与非处方药分柜摆放情况和专有标识的规范情况的检查，积极促进药品零售企业达到药品分类管理要求。<br>    （二）加强驻店执业药师配备及在岗情况，以及处方审核制度的落实情况的检查。结合GSP认证工作，进一步完善驻店执业药师配备制度和处方审核制度。<br>    （三）对已明确药品零售企业不得经营的药品，要加强监督检查。对违规经营的，按《药品管理法》、《药品管理法实施条例》等有关法律法规的规定进行处理。<br>    （四）对已经明确必须凭处方销售的药品，要加强对药品零售企业执行凭处方销售规定情况的检查。对药品零售企业违规销售处方药的行为，要及时予以纠正，并依据《药品流通监督管理办法》给予警告处罚；情节严重或经警告后仍违规销售的，除给予警告外，要并处罚款。<br>    （五）各级药品监督管理部门要结合医疗和药品广告的整顿工作，加强对处方药和非处方药广告的监督和检查，特别要加大处方药在大众媒体违规发布广告和非处方药在大众媒体扩大宣传的检查力度。<br><br>    我局将在2005年底至2006年初，在全国范围内对药品分类管理阶段性目标的准备情况和落实情况实施专项检查，力争在2006年使我国药品分类管理工作上一个新台阶。<br><br>国家食品药品监督管理局<br>二○○五年八月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

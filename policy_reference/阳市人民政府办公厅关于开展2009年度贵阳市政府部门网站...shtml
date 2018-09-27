@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵阳市人民政府<BR>&nbsp;&nbsp;【发布文号】筑府办发〔2009〕140号<BR>&nbsp;&nbsp;【发布日期】2009-08-12<BR>&nbsp;&nbsp;【生效日期】2009-08-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gygov.gov.cn/gygov/1442568068948557824/20090901/206152.html" target=_blank>贵阳市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵阳市人民政府办公厅关于开展2009年度贵阳市政府部门网站群评测工作的通知<br><br></font>(筑府办发〔2009〕140号)</p><br><br><br>    市政府各工作部门：<br><br>    为建立健全政府系统网站绩效考核机制，进一步规范我市政府系统网站建设和管理，提高网站服务水平，促进全市电子政务发展，依据《中华人民共和国行政许可法》、《中华人民共和国政府信息公开条例》（国务院492号令）、《国务院办公厅关于加强政府系统网站建设和管理工作的意见》（国办发〔2006〕104号）等有关法律法规和政策措施，结合我市实际，市政府办公厅和市信息化工作领导小组办公室决定开展2009年度市政府部门网站群评测活动。现将有关事项通知如下：<br><br>    一、评测目的<br><br>    本次网站评测活动，旨在引导全市政府系统网站完善服务功能，加快推行政务公开，改进公共服务，方便公众参与，进一步提高政府系统网站建设水平，树立良好的网上政府形象，努力把我市政府网站真正办成政务公开的重要窗口和建设服务政府、效能政府的重要平台。<br><br>    二、组织机构<br><br>    为切实加强此次评测工作的组织领导，确保工作有序开展，成立由市政府常务副市长为组长，市政府分管秘书长、市信息产业局局长为副组长，市政府办公厅、市财政局、市发改委、市信息产业局、市监察局、市政府督查室、市信息中心有关同志为成员的贵阳市政府部门网站评测工作领导小组（名单见附件1）。<br><br>    领导小组下设咨询组、技术保障组、秘书组、综合组4个工作小组，负责评测活动组织、指导和监督等工作。<br><br>    三、评测方式<br><br>    此次评测活动，本着“以评促建，以评促用和客观公正”的原则，委托第三方专业评测机构进行，并根据我市政府部门网站评测指标体系进行评测、打分。<br><br>    四、评测指标体系<br><br>    在参照国家政府系统网站评测指标体系、贵州省2009年度政府系统门户网站评测指标体系和国内其它城市政府网站评测指标体系的基础上，结合我市实际，体现部门网站信息公开、在线服务和公众参与三大功能要求，以此为基础建立部门网站评测指标体系（见附件3）。<br><br>    五、评测范围<br><br>    参评对象：市政府工作部门网站（名单见附件2）。<br><br>    六、评测时间安排<br><br>    1. 评测指标体系培训<br><br>    2009年8月，由市人民政府办公厅和市信息化工作领导小组办公室组织市人民政府组成部门网站管理单位进行评测指标体系培训。<br><br>    2.网站整改和评测准备<br><br>    2009年8月至9月，各参评单位在培训后应按照评测指标体系的要求作好网站整改和评测准备工作。并于2009年8月31日前将评测活动联络员名单上报至市人民政府办公厅信息处，上报内容包括单位名称、联系人、职务、手机号码、办公电号码、传真号码、电子邮箱地址。<br><br>    3.网站评测<br><br>    2009年10月10日至11月30日，第三方评测机构依据评测指标分别对市人民政府部门网站进行评测、打分。鉴于一些部门网站建成时间在今年上半年后，今年的网站评测采样时间定为10月份以后。从2010年起，网站评测将采取从年初开始，每月一采样的方式进行考评。<br><br>    4.结果统计与评测报告撰写<br><br>    2009年12月1日至10日，第三方专业评测机构统计、分析评测数据、结果，并撰写评测总报告。<br><br>    七、评测结果的公布和通报<br><br>    评测结果经市人民政府办公厅和市信息化工作领导小组办公室审核，报分管市领导同意后，由市政府办公厅会同市信息化工作领导小组办公室发文并在全市政府系统内通报，同时通过市政府门户主网站（“中国・贵阳”网）、贵阳日报等渠道向社会进行公布。<br><br>    评测工作结束后，市政府将根据评测结果对排名前20位的部门网站进行表彰奖励，对排名靠后的网站提出改进意见，限期督促整改。<br><br>    八、评测工作要求<br><br>    各网站管理单位和部门要高度重视网站的评测工作，相关责任部门和技术部门要密切配合，按照统一部署和有关评测要求，切实做好此项工作。<br><br>    评测工作开始后，第三方评测机构将通过人工比对、电话核实、模拟用户和人工核实等方式对网站进行评测。<br><br>    九、评测咨询<br><br>    各参评单位对评测工作有何疑问、建议和意见，请及时与评测咨询组联系。<br><br>    咨询组联系人：刘野、胡耘<br><br>    联系电话：7989623、7989628<br><br>    传真：7989629<br><br>    附件：1. 贵阳市政府部门网站评测工作领导小组成员名单<br><br>          2. 参评单位名单<br><br>          3. 评测指标体系<br><br>    二○○九年八月十二日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

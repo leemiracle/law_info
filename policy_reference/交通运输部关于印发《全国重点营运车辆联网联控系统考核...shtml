@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通运输部<BR>&nbsp;&nbsp;【发布文号】交运发〔2016〕160号<BR>&nbsp;&nbsp;【发布日期】2016-09-05<BR>&nbsp;&nbsp;【生效日期】2016-09-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/t20160920_2090161.html" target=_blank>交通运输部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>交通运输部关于印发《全国重点营运车辆联网联控系统考核管理办法》的通知</strong><br />交运发〔2016〕160号</p>
+<p style="text-align: center;">&nbsp;</p>
+<p>各省、自治区、直辖市、新疆生产建设兵团交通运输厅（局、委）：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现将修订后的《全国重点营运车辆联网联控系统考核管理办法》印发给你们，请遵照执行。</p>
+<p><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 附件：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.联网联控系统考核表（道路运输管理机构）<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.联网联控系统考核表（道路运输企业）<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.联网联控系统考核表（服务商）</p>
+<p style="text-align: right;"><br />交通运输部 <br />2016年9月5日</p>
+<p>&nbsp;</p>
+<p>&nbsp;全国重点营运车辆联网联控系统考核管理办法</p>
+<p>&nbsp;    第一章 总 则<br />&nbsp;    第一条 为加强和规范全国重点营运车辆动态监管工作，提升监控数据质量，保障联网联控系统稳定可靠运行，促进道路运输企业动态监控主体责任落实，依据《中华人民共和国安全生产法》《道路运输车辆动态监督管理办法》（交通运输部、公安部、国家安全监管总局2016年令第55号），制定本办法。<br />&nbsp;    第二条 本办法所称重点营运车辆是指旅游客车、包车客车、三类以上班线客车和危险货物运输车辆。<br />&nbsp;    本办法所称全国重点营运车辆联网联控系统（以下简称联网联控系统）是指由各级道路运输管理机构和相关企业建立的依托卫星定位系统技术的营运车辆动态监管、监控体系,包括全国道路运输车辆动态信息公共服务平台（以下简称部级平台）、地方道路运输管理机构（省级、地市级、县级）监管平台、道路运输企业监控平台、社会化监控平台。<br />&nbsp;    联网联控系统各级各类平台的考核管理应遵守本办法。<br />&nbsp;    第二章 职责分工<br />&nbsp;    第三条 交通运输部负责部级平台运行维护工作的监督检查，负责省级监管平台考核管理工作。<br />&nbsp;    第四条 中国交通通信信息中心负责部级平台的运行、维护及省级监管平台考核指标的统计分析工作。<br />&nbsp;    第五条 地方各级道路运输管理机构负责组织辖区联网联控系统的考核管理工作，组织实施下级监管平台和接入的监控平台（包括道路运输企业监控平台、社会化监控平台）的考核管理，负责本级监管平台的运行和维护工作。<br />&nbsp;    第三章 考核内容<br />&nbsp;    第六条 联网联控系统考核对象包括道路运输管理机构、道路运输企业、社会化动态监控服务商（以下简称服务商）。<br />&nbsp;    第七条 联网联控系统考核指标包括：<br />&nbsp;    （一）平台连通率：统计期内，下级平台与上级平台之间保持正常数据传输的时间总和占统计期间总时长的比率；<br />&nbsp;    （二）跨域数据交换成功率：统计期内，省级平台应答部级平台交换请求的数量占部向各省下发跨域交换请求的总数量的比率；<br />&nbsp;    （三）车辆入网率：截至某一统计时点，至少向上级平台传输一次合格动态数据的重点营运车辆数占本辖区内或本企业重点营运车辆总数的比率；<br />&nbsp;    （四）车辆上线率：统计期内，至少向上级平台传输一次合格动态数据的重点营运车辆数占本辖区或本企业（含服务商）处于营运状态且已入网的重点营运车辆数的比率；<br />&nbsp;    （五）轨迹完整率：统计期内，重点营运车辆完整轨迹与本辖区或本企业（含服务商）上线重点营运车辆轨迹的比率。轨迹完整是指轨迹点连续；<br />&nbsp;    （六）数据合格率：统计期内，下级平台上传的合格数据条数占上传数据总条数的比率。合格数据包括车牌号、车牌颜色、时间、经度、纬度、定位速度、行驶记录速度、方向、海拔、车辆状态、报警状态等符合《道路运输车辆卫星定位系统平台数据交换》（JT/T 809）相关信息数据体结构规则，且在合理范围内的车辆动态数据；<br />&nbsp;    （七）卫星定位漂移车辆率：统计期内，车辆定位数据存在高频度远距离漂移车辆总数占本辖区或本企业（含服务商）重点营运车辆上线总数的比率；<br />&nbsp;    （八）平台查岗响应率：统计期内，监管平台不定期向监控平台下发查岗指令，监控人员在收到查岗指令后及时响应，查岗响应次数占查岗次数的比率。查岗响应时间超过15分钟的不计入查岗响应次数；<br />&nbsp;    （九）平均车辆超速次数：统计期内，重点营运车辆的超速总次数除以本辖区或本企业上线的重点营运车辆数；<br />&nbsp;    （十）平均疲劳驾驶时长：统计期内，重点营运车辆的疲劳驾驶总时长除以本辖区或本企业上线的重点营运车辆数。<br />&nbsp;    第八条 对道路运输管理机构的考核内容包括：平台连通率、跨域数据交换成功率（省级平台考核）、车辆入网率、车辆上线率、轨迹完整率、数据合格率。<br />&nbsp;    第九条 对道路运输企业的考核内容包括：车辆入网率、车辆上线率、轨迹完整率、数据合格率、卫星定位漂移车辆率、平均车辆超速次数、平均疲劳驾驶时长、平台查岗响应率。<br />&nbsp;    第十条 对服务商的考核内容包括：平台连通率、车辆上线率、轨迹完整率、数据合格率、卫星定位漂移车辆率。<br />&nbsp;    第四章 考核程序及考核结果应用<br />&nbsp;    第十一条 考核周期分为月度、年度，月度考核按自然月进行，年度考核周期为每年1月1日至12月31日，全年月度考核的平均值为年度考核评分。考核采取系统自动统计分析为主、现场情况勘察为辅的形式。<br />&nbsp;    第十二条 考核实行计分制，满分100分， 60分为合格。<br />&nbsp;    第十三条 道路运输企业、服务商有下列情形之一的，年度考核记为不合格：<br />&nbsp;    （一）使用不符合标准规范要求的监控平台或车载终端的；<br />&nbsp;    （二）伪造、篡改、删除车辆动态监控数据的；<br />&nbsp;    （三）设置技术壁垒，阻碍车辆正常转网的；<br />&nbsp;    （四）一年内累计三个月及以上考核不合格的；<br />&nbsp;    （五）其他严重违反动态监控规章制度的。<br />&nbsp;    第十四条 考核结果应当公示，公示期为5个工作日。公示期内，被考核单位对考核结果有异议，可向考核单位申诉，由考核单位进行核查；考核结果有误的，应及时更正。<br />&nbsp;    第十五条 省级道路运输管理机构对地市级道路运输管理机构考核结果应当予以通报，并抄送各地市交通运输主管部门。<br />&nbsp;    对道路运输企业、服务商的考核结果由负责其考核管理的道路运输管理机构予以公告。<br />&nbsp;    第十六条 道路运输管理机构考核结果应作为单位评优、年度目标考核的依据。<br />&nbsp;    第十七条 道路运输企业考核结果信息纳入企业质量信誉考核和安全评估的内容，作为道路运输企业线路招标和新增运力等业务管理的重要依据。<br />&nbsp;    考核不合格的道路运输企业纳入重点安全监管对象，依法责令整改。<br />&nbsp;    第十八条 对考核不合格的服务商，依法责令整改，整改期不少于考核期。整改期内，道路运输企业不得将其车辆接入考核不合格服务商的监控平台（已接入平台的车辆除外）。<br />&nbsp;    第五章 附 则<br />&nbsp;    第十九条 各省、自治区、直辖市交通运输主管部门可结合本办法及实际情况制定实施细则。<br />&nbsp;    第二十条 本办法由交通运输部负责解释。<br />&nbsp;    第二十一条 本办法自2016年10月1日起施行，有效期5年，原《全国重点营运车辆联网联控系统考核管理办法》（交运发〔2014〕267号）同时废止。</p>
+<p><br />&nbsp;附件1：联网联控系统考核表（道路运输管理机构）.docx <br />&nbsp;<a href="http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/P020160920325197570122.docx">http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/P020160920325197570122.docx</a><br />附件2：联网联控系统考核表（道路运输企业）.docx <br />&nbsp;<a href="http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/P020160920325198099462.docx">http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/P020160920325198099462.docx</a><br />附件3：联网联控系统考核表（服务商）.docx <br />&nbsp;<a href="http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/P020160920325198395575.docx">http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201609/P020160920325198395575.docx</a></p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

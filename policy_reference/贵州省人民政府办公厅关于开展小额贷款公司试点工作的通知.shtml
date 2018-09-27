@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发〔2008〕113号<BR>&nbsp;&nbsp;【发布日期】2008-10-28<BR>&nbsp;&nbsp;【生效日期】2008-10-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1622" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅关于开展小额贷款公司试点工作的通知<br><br></font>（黔府办发〔2008〕113号）</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构：<br>    为进一步发挥金融支持“三农”的重要作用，探索我省金融改革发展创新的途径，根据《中国银行业监督管理委员会、中国人民银行关于小额贷款公司试点的指导意见》（银监发〔2008〕23号）要求，经省人民政府同意，决定在我省开展小额贷款公司试点工作，现将有关事项通知如下：<br>    一、试点工作的指导思想和基本原则<br>    （一）指导思想。全面落实科学发展观，积极稳妥地开展小额贷款公司试点工作，改善我省农村地区金融服务，进一步有效配置金融资源，引导资金流向农村地区和欠发达地区，规范和引导民间资本为种养殖业、农产品加工企业、涉农企业、中小企业等提供多层次的金融服务。<br>    （二）基本原则。根据法律法规和有关政策，按照试点先行、稳步有序推进的原则，在各市（州、地）选取有条件的申报公司作为试点，并在取得经验的基础上，逐步扩大试点小额贷款公司数量。按照严格监管、规范运作的原则，制定试点小额贷款公司准入标准和操作程序，参照金融企业管理制度对其进行规范管理。按照明确职责、防范风险的原则，建立分工明确、各负其责、多方联动、协调一致的监管机制。按照“小额、分散”的贷款原则，确保试点小额贷款公司严格经营范围，坚持小额贷款的经营取向，切实为“三农”和中小企业服务。<br>    二、试点工作的组织领导<br>    （一）在省人民政府领导下，积极稳妥地开展试点工作。建立以省人民政府分管副省长为召集人，联系金融工作的副秘书长具体负责，省发展改革委、省经贸委、省公安厅、省财政厅、省农业厅、省地税局、省国税局、省工商局、省中小企业局、贵州银监局、人行贵阳中心支行负责人为成员的全省小额贷款公司试点工作联席会议制度，统筹安排全省小额贷款公司试点工作，协调处理试点工作中出现的重大问题。联席会议办公室设在省中小企业局。<br>    省中小企业局作为全省小额贷款公司的主管部门，负责对小额贷款公司的设立、变更和市场退出等重大事项进行审批，并实施监督管理。<br>    （二）各市（州、地）人民政府（行署）及其相关部门负责本地区小额贷款公司的协调指导、监督管理、政策宣传工作，协助省中小企业局统筹安排小额贷款公司的布局，转报县级人民政府有关试点申报方案，监测分析防范本地区小额贷款公司的风险。<br>    （三）试点县（市、区）人民政府负责组织开展本地区小额贷款公司的具体试点工作，对小额贷款公司进行监督管理，防范小额贷款公司的金融风险，做好风险处置工作，并组织有关部门和单位严厉打击小额贷款公司非法集资、变相吸收公众存款等金融违法活动。<br>    开展小额贷款公司试点工作，政策性强、涉及面广，各地、各有关部门和单位要切实加强试点工作的组织领导，精心组织、统筹安排，扎实做好试点各阶段、各环节的工作，确保试点工作顺利进行。<br>    三、试点工作的安排<br>    （一）目标任务。2008年年底以前，力争各市（州、地）分别推荐1―2家单位作为小额贷款公司先行试点，2009年适当扩大试点规模，原则上每个市（州、地）试点公司不超过5家（经济较发达地区可适当增加试点名额）。在试点基础上力争将小额贷款公司发展成为我省县以下地区提供金融服务的重要力量。<br>    （二）具体安排。试点工作自本通知印发之日启动，按照《贵州省小额贷款公司试点暂行管理办法》（见附件）实施。具体安排为：2008年11月，试点县（市、区）人民政府组织开展小额贷款公司的试点工作，确定试点对象，上报试点申报材料；2008年12月，小额贷款公司经审核、依法注册登记后，正式开展小额贷款业务；2009年，完善相关管理办法，根据实际情况，在风险可控的前提下，逐步扩大试点地区。<br>    四、小额贷款公司的监督管理<br>    试点期间，小额贷款公司的日常监管由各地中小企业主管部门会同公安、工商行政管理、银监、人行等有关部门和单位按照各自职责密切配合实施。省中小企业局要会同各有关部门和单位制定明确的小额贷款公司金融风险防范措施，落实相应处置责任，建立小额贷款公司动态监测系统，及时识别、预警和防范风险，指导各地人民政府处置和防范风险。<br>    各市（州、地）人民政府（行署）、县（市、区）人民政府要建立小额贷款公司金融风险防范机制，督促有关部门建立管理制度，落实相应的监管责任，切实防范金融风险。要加强对小额贷款公司的政策扶持，研究适合本地的具体扶持政策，明确小额贷款公司风险补偿措施。<br>    <br>    附件：贵州省小额贷款公司试点暂行管理办法<br><br>                                                      省人民政府办公厅<br>                                                   二○○八年十月二十八日<br>    <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

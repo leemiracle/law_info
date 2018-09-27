@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政发〔2005〕076号<BR>&nbsp;&nbsp;【发布日期】2005-09-01<BR>&nbsp;&nbsp;【生效日期】2005-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tjzb.org/system/2005/09/24/000089008.shtml" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府批转市公安局关于开展火灾隐患整治工作实施意见的通知<br><br></font>(津政发〔2005〕076号)</p><br><br><br>各区、县人民政府，各委、局，各直属单位：<br><br>    市人民政府领导同志同意市公安局《关于开展火灾隐患整治工作的实施意见》，现转发给你们，望遵照执行。<br><br>二○○五年九月一日<br><br><br>          关于开展火灾隐患整治工作的实施意见<br><br>    今年8月10日至11日，公安部在湖北省武汉市召开了火灾隐患整治现场会(以下简称武汉现场会)，部署在全国开展火灾隐患整治工作。为贯彻武汉现场会的要求，切实搞好我市的火灾隐患整治工作，现就从即日起至今年年底在全市开展火灾隐患整治工作提出如下实施意见：<br><br>    一、提高认识，加强领导，增强火灾隐患整治工作的责任感和紧迫感<br><br>    去年以来，全市各区县、各系统、各部门按照市政府的统一部署和要求，持续开展了人员密集场所消防安全治理、文物古建筑消防安全治理、学校消防安全大检查、易燃易爆化学物品消防安全大检查、商场市场消防安全治理等一系列专项整治行动，消除了一大批火灾隐患，有效防止了群死群伤恶性火灾事故的发生。但也必须看到，我市消防工作还存在着一些不容忽视的问题，主要是一些单位消防管理薄弱，消防主体意识淡薄，消防安全责任制不落实，致使一些火灾隐患整改不及时，一些单位的消防安全责任人不依法履行消防安全职责，员工特别是外来务工人员消防技能不高等。目前，全市仍有15处历史遗留的重大火灾隐患尚未得到彻底整改，发生群死群伤恶性火灾事故的潜在危险很大，消防安全形势仍很严峻。因此，各地区、各部门、各单位务必要提高认识，认清形势，增强做好火灾隐患整治工作的紧迫感，充分认识开展火灾隐患整治工作的重要性和必要性，加强领导，深入开展火灾隐患整治活动，坚决把火灾隐患解决在火灾发生之前，竭尽全力预防和遏制重特大火灾尤其是群死群伤恶性火灾事故的发生。<br><br>    (一)成立领导小组。各区县人民政府都要成立由分管领导任组长，公安、安全监管、建设、商务、教育、文化、卫生、工商、旅游和广电等部门负责同志参加的火灾隐患整治工作领导小组；各委、办、局、集团公司和大型企业等也要成立相应的领导小组，研究部署整治工作，协调解决消防安全重大问题，指导督促整治火灾隐患。<br><br>    (二)组织召开工作部署会议。各地区、各部门、各单位都要将火灾隐患整治工作列入重要议事日程，统筹安排，组织召开一次动员部署会议，确定整治的范围、内容、方法、步骤和要求，认真排查和梳理火灾隐患，做到底数清、情况明。<br><br>    (三)制定实施方案。要认真结合本地区、本部门、本单位的实际，制定具体工作方案，明确任务，落实责任，保障整治措施落到实处。各区县人民政府要利用每季度的安全例会研究部署整治工作，督促有关部门认真做好火灾隐患整治工作，形成政府牵头、公安主抓、部门联动、社会参与的大消防格局，建立和完善火灾隐患的举报、公示、督办、评估等整改机制，逐步将火灾隐患整治工作纳入法制化、规范化、经常化的轨道。<br><br>    二、迅速动员，明确重点，深入开展火灾隐患整治工作<br><br>    全市各机关、团体、企业、事业单位要迅速动员起来，把火灾隐患整治工作与深入贯彻《中华人民共和国消防法》、《天津市消防条例》、《机关、团体、企业、事业单位消防安全管理规定》(公安部令第61号)等法律法规结合起来，牢固树立消防安全责任主体意识，深入开展火灾隐患整治工作。整治的重点是：疏散通道和安全出口、疏散指示标志和火灾应急照明、自动消防设施和灭火器材、危险物品使用和火电源管理、应急疏散预案的制定和演练。通过整治，建立健全消防安全责任制和各项管理制度，加强管理，切实提高防范火灾的能力。<br><br>    (一)搞好自查自改。各单位要对照重点整治内容，全面开展自查。对存在的火灾隐患，能够立即整改的必须立即整改；不能够立即整改的，应当限期整改。在整改期间必须明确和落实整改责任人、整改期限和整改措施，并在整改期间采取保证消防安全的措施；对不能确保消防安全的，要自行将危险部位停产停业整改，真正做到安全自查、隐患自除、责任自负。对未依法履行整治职责导致发生火灾事故的，将依法追究有关人员责任。<br><br>    (二)认真搞好复查督改。各行业、各系统要按照各自职责，对所属单位火灾隐患整治工作进行检查，对存在火灾隐患未整改的单位，要督促其落实整改责任人、整改期限和整改措施，确保安全；对复查中发现单位在自查整改中不履行职责、弄虚作假或拒绝整改的，应当追究有关责任人责任。<br><br>    (三)要搞好督查促改。各区县领导小组要对各系统、各单位的复查和无主管部门单位自查整治情况开展督查，对工作不到位、措施不落实的部门和单位，应责令其重新开展自查和复查并上报情况；对存在重大火灾隐患，不能保证消防安全的，要挂牌督办，依法责令停产停业。同时，要及时总结推广整治工作中的好经验、好办法，推动整治工作的深入开展，最大限度地消除火灾隐患。<br><br>    三、履行职责，严格执法，坚决彻底消除火灾隐患<br><br>    火灾隐患整治工作必须严格执行有关法律法规，做到有法可依、有法必依、执法必严、违法必究。整治工作中，各行政执法机关要坚持联合检查，督促消除火灾隐患。各级公安机关要依据《中华人民共和国消防法》、《中华人民共和国治安管理处罚条例》、《天津市消防条例》、《公安机关办理行政案件程序规定》(公安部令第68号)、《消防监督检查规定》(公安部令第73号)等实施消防监督检查。对检查发现的火灾隐患，要在督促整改上下功夫，主动为单位整改火灾隐患出主意、想办法，督促单位落实整改措施，按期整改。要充分利用政府挂牌督办、部门联合执法、向社会公示隐患等方式，督促单位整改。对逾期不改的要坚决依法予以处罚；对于在排查整治期间，屡查屡犯、屡禁不止的，要依法从重处罚；对拒不整改或整改不力的，要坚决依法追究单位负责人的责任。对于涉及社会消防安全布局的消防安全问题，要及时向政府汇报，协调有关部门解决；公安消防部门和有关公安分局对未整改的15处历史遗留重大火灾隐患问题，要向所在区县政府进行专题汇报，采取多种方式，加大整改资金的投入力度，力争早日全部整改完毕。<br><br>    四、广泛宣传，营造声势，形成全社会共同参与火灾隐患整治的良好氛围<br><br>    提高全民消防意识，是做好消防工作的根本。要在社会上营造火灾隐患整治声势，完善消防宣传工作机制。<br><br>    (一)广播、电视、报刊等社会主流媒体，要充分发挥作用，把火灾隐患整治工作作为一项重要内容，广泛向社会进行宣传，跟踪报道工作动态，曝光火灾隐患和消防违章行为。<br><br>    (二)各级劳动、教育等行政主管部门要将火灾隐患整治工作纳入学校消防教育和职业消防培训计划，提高职工和学生的消防意识。<br><br>    (三)各级民政、劳动和社会保障、妇联、工会、共青团、残联等部门和团体要协调配合，与公安派出所一起，依托居民社区组织、物业管理单位向城乡居民家庭，特别是老弱病残人员等社会弱势群体提供消防服务，帮助检查整改火灾隐患。<br><br>    (四)各企事业单位和社区要紧密结合火灾隐患整治工作，充分利用文化广场、娱乐活动中心、橱窗板报，宣传消防法律法规，安全用火、用电、用气、用油，以及火灾报警和火场逃生自救等方面的知识。<br><br>    (五)公安消防部门要向社会开放防灾教育馆、消防博物馆和消防队(站)，接待参观群众，宣传消防法律知识，同时要结合火灾隐患整治工作，大力推进消防宣传进社区、进学校、进企业、进农村活动。<br><br>    市人民政府将组织公安、安全监管等有关部门组成督导检查组，深入各区县，各委、办、局，对火灾隐患排查整治工作进行督查指导。各区县、各委、办、局开展火灾隐患整治工作的情况要于今年年底前报送市公安消防局，汇总后上报市人民政府。<br><br>                                  天津市公安局<br>                              二○○五年八月二十二日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

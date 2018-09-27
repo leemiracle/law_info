@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委 国家粮食局 财政部 中国农业发展银行<BR>&nbsp;&nbsp;【发布文号】国粮电〔2010〕19号<BR>&nbsp;&nbsp;【发布日期】2010-09-03<BR>&nbsp;&nbsp;【生效日期】2010-09-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinagrain.gov.cn/n16/n1077/n1617/n4429755/4520041.html" target=_blank>国家粮食局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于严肃纪律切实做好政策性粮食出库工作的通知<br><br></font>(国粮电〔2010〕19号)</p> <br><br><br>    中国储备粮管理总公司，各省、自治区、直辖市发展改革委、粮食局、财政厅（局）、物价局，农发行各省、自治区、直辖市分行：<br><br>    近一段时间，有些地方和企业反映部分最低收购价和国家临时存储粮食承储企业在销售出库过程中存在一些问题，如设置障碍阻挠出库、超过规定标准乱收费以及粮食质量不符要求等，这对保证市场供应和价格基本稳定带来了不利影响。为切实做好政策性粮食销售出库工作，增强宏观调控效果和国家政策的权威性、严肃性，现就有关问题通知如下：<br><br>    一、严格遵守政策性粮食销售出库的各项规定。中储粮总公司及其有关分公司要督促承储企业认真履行销售合同，严格按照合同规定的品种、数量、质量及时组织出库，除不可抗力原因并经有关部门确认外，不得以任何理由阻挠、拖延出库。政策性粮食承储企业要严格执行国家规定的出库费用标准，对出库粮食水分、杂质、不完善粒等高于或低于国家标准的，要严格按照原国家发展计划委员会、国家粮食局、国家质量监督检验检疫总局《关于执行粮油质量标准有关问题的规定》（国粮发〔2001〕146号）执行。除此之外，严禁以任何名目向买方额外收取或索要其他费用，变相抬高出库价格，增加买方负担。中储粮有关分公司和直属企业要及时跟踪掌握出库进展情况，按旬统计各承储企业实际出库数量，及时报送中储粮总公司，并分别抄送相关地方省级和市、县级粮食行政管理部门及农发行分支机构。中储粮分公司及其直属库对经采取有关措施仍不能按期出库的情况，要及时分别向当地省级和市、县级粮食行政管理部门、农发行分支机构反映，并报告中储粮总公司。中储粮总公司要按月将出库情况报告国家有关部门。<br><br>    二、严格落实政策性粮食出库责任制。各有关部门和单位要建立严格的工作责任制，把有关责任落实到人，确保出库顺利。对出现违法、违规和违纪问题的，要实行严格的问责制。中储粮总公司作为粮食最低收购价政策和临时收储政策的执行责任主体，对政策性粮食的销售出库负总责；中储粮分公司对政策性粮食的销售出库负全责，实行分公司总经理负责制；直属库对政策性粮食的销售出库负直接责任，具体负责粮食出库、商务处理等工作；实际储存库点按照销售合同和交易细则的规定，具体承担出库工作并负相应责任。有关粮食批发市场按照政策性粮食交易细则的规定，承担政策性粮食进场资格审核、交易、结算、商务纠纷调解等责任。地方粮食行政管理部门和农发行分支机构按照在地原则，对政策性粮食的销售出库负监督检查责任，督促承储库及时出库，对违法违规行为依法依规严格行政处罚，积极支持和配合中储粮分公司和直属库做好出库有关工作。<br><br>    中储粮分公司在竞拍前负责对拟拍粮食的库点进行严格把关，确保竞拍的粮食具备出库条件。中储粮直属库应派专人巡查督促粮食出库，协调解决粮食出库中出现的问题，对故意阻挠出库、索取不合理费用等行为，要采取相关措施及时制止。执行仍有困难的，书面报告中储粮分公司、省级和市、县级粮食行政管理部门及农发行分支机构及时查处。承储库点属于中储粮总公司以外其他中央企业的，还需上报其上级单位查处。责任各方都要切实负起责任，合力做好销售出库工作，对工作不力，出现问题的，要严肃追究责任。<br><br>    三、严格执行政策性粮食出库质量标准。中储粮有关分公司在提交拍卖标的时，要提报标的粮食所在货位混合扦样等级和收购等级，以及水分、杂质、不完善粒等指标。如买方对出库粮食数量、质量有异议，按照政策性粮食交易细则的有关规定处理。对因数量、质量等与挂牌标的不符造成损失的，由承储企业承担经济损失（具体由负责监管的中储粮直属企业按照代保管合同的有关规定处理），并追究承担对政策性粮食数量、质量等进行审核验收的中储粮分公司（或直属库）和有关人员的责任。<br><br>    对2010年收购入库的最低收购价小麦，中储粮总公司和有关分公司要按照预案规定抓紧审核验收，并建立质量档案，作为以后安排拍卖标的的质量依据。在拍卖时如发现粮食实际质量与标的质量严重不符的，要查明原因。属于审核验收环节的问题，要追究审核验收单位和个人的责任。对验收中发现小麦质量指标与收购码单等原始凭证标注的质量指标明显不符的，要全部退出政策性库存统计，扣回全部费用利息补贴,由承贷企业追回粮款归还农发行贷款；当地有关部门负责收回企业不当得利，并上交中央财政。中储粮有关分公司要严格组织验收，对政策性粮食库存验收结果负责，并将各承储库点质量验收结果于2010年10月底前汇总报中储粮总公司、有关省级粮食行政管理部门和农发行分行。中储粮总公司要及时将情况报告国家有关部门。<br><br>    四、加大监管和处罚力度。中储粮总公司及其有关分公司和地方粮食行政管理部门、农发行分支机构要加强对政策性粮食竞价销售出库工作的监管和检查，加大处罚力度。各级价格主管部门要严肃查处压级压价、抬级抬价、超过规定标准乱收费，以及不按规定实行增扣量、增扣价等价格违法行为。承担交易组织任务的批发市场要切实负责对交易过程和合同履约情况的监督。对违法违规行为发现一起，查处一起，绝不姑息。对中储粮直属库等中央企业、地方国有粮食企业、民营企业干扰客户正常交易、设置出库障碍、向买方额外收取或索要费用，以及出库粮食质量与拍卖标的质量（货位混合扦样的等级、质量）严重不符等违法违规行为，一经查实，有关部门和单位根据各自职责，立即停止向其拨付费用利息补贴，取消其政策性粮食收储资格，三年内不得从事政策性粮食收购、储存等业务，限期收回政策性粮食贷款，并公开予以通报。对购买企业拒不执行质量增减价增减量政策规定（国粮发〔2001〕146号文件），提出超出交易细则的无理要求，按违约处理，由批发市场扣除其履约保证金，暂停其交易资格。对违法违规企业，粮食行政管理部门要依据《粮食流通管理条例》进行严厉处罚。情节严重的，按照人事管理权限，责成有关部门和单位对违法违规企业负责人和直接责任人员给予就地免职、撤职直至开除的行政处分，构成犯罪的依法追究刑事责任。对中储粮直属库以外其他承储企业出库中违法违规，承担直接监管责任的中储粮直属库监管不到位的，也要追究中储粮直属库和相关人员的责任。对违法违规事实清楚、拒不出库的承储企业，中储粮分公司要安排人员实施强制出库，发生费用从出库费用中列支。地方粮食、价格主管部门、农业发展银行和中储粮分公司要向社会公布举报电话，积极接受并认真对待有关举报、投诉，并根据举报线索深入跟踪检查，及时查处各类违法违规案件，做到举报、投诉查处有结果，件件有回音。国家有关部门和单位将定期进行会商，分析了解进展情况。<br><br>    各地各有关部门和单位要按照本通知要求，加大工作力度，完善相关措施，始终保持高压态势，从根本上解决出库难问题，确保国家粮食购销政策和各项宏观调控措施的贯彻落实。重大问题要及时向国家有关部门报告。<br><br>    国家发展和改革委员会    国 家 粮 食 局<br><br>    财  政  部            中国农业发展银行<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

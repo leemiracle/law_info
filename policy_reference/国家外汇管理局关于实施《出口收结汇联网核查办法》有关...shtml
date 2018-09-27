@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家外汇管理局<BR>&nbsp;&nbsp;【发布文号】汇发【2008】31号<BR>&nbsp;&nbsp;【发布日期】2008-07-02<BR>&nbsp;&nbsp;【生效日期】2008-07-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.safe.gov.cn/model_safe/laws/law_detail.jsp?ID=80302000000000000,26&id=4" target=_blank>国家外汇管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家外汇管理局关于实施《出口收结汇联网核查办法》有关问题的通知<br><br></font>(汇发【2008】31号)</p><br><br><br>国家外汇管理局各省、自治区、直辖市分局、外汇管理部，深圳、大连、青岛、厦门、宁波市分局；各中资外汇指定银行：?<br>    国家外汇管理局、商务部、海关总署于2008年7月2日联合发布《出口收结汇联网核查办法》（汇发［2008］29号，以下简称《办法》），现就《办法》实施的有关外汇管理问题通知如下：?<br>    一、2008年7月14日起，在中国电子口岸试运行出口收结汇联网核查系统（以下简称核查系统）。2008年8月4日起正式运行。?<br>    核查系统试运行之日起，外汇指定银行（以下简称银行）应当按照《办法》规定，对企业出口收汇（包括出口项下境外收汇和符合规定的境内收汇，含预收货款，下同）进行出口电子数据联网核查。<br>    二、企业出口收汇应当按照《办法》规定先进入出口收汇待核查账户（以下简称待核查账户）。待核查账户纳入外汇账户管理信息系统，代码为1101。?<br>    待核查账户收入范围限于企业出口收汇。待核查账户支出须经银行联网核查后方可办理，其支出范围包括经银行联网核查后结汇、划入该企业经常项目外汇账户以及经外汇局批准的退汇等其他外汇支出。待核查账户之间不得划转。账户余额按活期存款计息。?<br>    三、银行为企业办理待核查账户内资金结汇或划出手续时，应当按照《办法》规定，在核查系统中企业相应贸易类别可收汇额范围内进行收汇核注（即在核查系统中录入实际结汇或者划出金额，扣减对应可收汇额，下同）：?<br>    （一）一般贸易、进料加工贸易或者边境小额、对外承包出口等其他贸易类别的出口可收汇额，分别等于相应出口贸易类别逐笔出口货物报关单成交总价之和；?<br>    （二）来料加工贸易的出口可收汇额，等于该出口贸易类别逐笔出口货物报关单成交总价与收汇比例乘积累加之和；?<br>    （三）预收货款可收汇额，依据企业已登记预收货款和前12个月出口收汇情况，由贸易信贷登记管理系统生成。船舶、大型成套设备出口等特殊行业以及出口买方信贷项下提前收汇的企业，可根据实际情况，向所在地外汇局申请提高预收货款可收汇额。申请时应提交书面申请、出口合同以及外汇局要求的其他材料。外汇局自收到完整材料之日起20个工作日内作出核准或不核准的决定。?<br>    企业预收货款对应的货物实际报关出口后，其经联网核查后结汇或者划出的金额，从该企业相应贸易类别出口可收汇额中扣减。?<br>    四、来料加工贸易收汇比例由国家外汇管理局各分局、外汇管理部（以下简称各分局）依据当地实际情况核定，报国家外汇管理局备案后确定。?<br>    对于来料加工贸易实际收汇比例高于核定比例的，企业从待核查账户中办理结汇或划出时，除提交《办法》规定的单证外，还应向银行提供对应的出口合同、加盖海关验讫章的出口货物报关单（收汇核销联，下同）正本及其加盖企业公章的复印件。银行应在核查系统中记录该笔收汇对应的出口货物报关单号、出口合同号和实际收汇比例，核注核查系统相对应的可收汇额后，为其办理结汇或划出手续。?<br>    企业来料加工贸易项下单笔出口货物报关单实际收汇比例高于25%的，办理银行应当于每月初5个工作日内以书面形式，汇总报告所在地外汇局，并附相关单证复印件。?<br>    五、2008年6月30日（含）之前出口未收汇的，依据出口收汇核报系统中企业的应收汇和已收汇情况确定其可收汇额，计入核查系统的“其他贸易”栏目。企业在通过待核查账户办理此类出口收汇的结汇或划出手续时，银行应核查该栏目出口可收汇额并在其范围内进行收汇核注。?<br>    六、核查系统试运行期间，由于系统或网络故障等原因，无法按照《办法》规定对出口收汇实施联网核查的，企业可持对应的加盖海关验讫章的出口货物报关单，办理待核查账户中对应收汇的结汇或划出手续。银行应当按照《办法》规定审核相应单证后办理。?<br>    企业凭出口日期在2007年12月31日（含）前的出口货物报关单办理待核查账户资金结汇或划出的，应当先到所在地外汇局按规定办理核销等手续。银行凭外汇局相关处理决定为企业办理待核查账户内对应收汇的结汇或者划出手续。?<br>    企业不得伪造、涂改、借用出口货物报关单办理出口收汇，已办理收汇或进料抵扣收汇的出口货物报关单不得重复用于收汇。 ?<br>    七、银行按《办法》及本通知规定为企业办理待核查账户内资金结汇或划出后，应在相应单证正本上签注已收汇情况并加盖银行业务公章，留存《出口收汇说明》及相关单证复印件五年备查。?<br>    八、《办法》实施之日起，《国家外汇管理局关于现阶段完善出口预收货款和转口贸易收汇管理有关问题的通知》（汇发〔2005〕33号）、《国家外汇管理局关于进一步改进贸易收汇与结汇管理有关问题的通知》（汇发〔2006〕49号）、《国家外汇管理局关于认真贯彻执行贸易收汇与结汇管理政策有关问题的通知》（汇发〔2006〕67号）和《国家外汇管理局关于进一步完善结汇“关注企业”管理有关问题的通知》（汇发〔2007〕45号）废止。?<br>    各分局收到本通知后，应尽快转发所辖中心支局、支局、外资银行、地方性商业银行和相关单位。各分局要加强政策实施的组织工作，及时对辖内机构、银行开展培训，做好政策解释和操作说明工作，便利银行和企业办理业务。各中资外汇指定银行收到本通知后，应尽快转发至所属分支机构。执行中如遇问题，请及时向国家外汇管理局反馈。?<br>    联系电话：?<br>    国家外汇管理局经常项目管理司 陈捷琼 010-68402450?<br>    国家外汇管理局资本项目管理司 梁勇  010-68402250?<br>    国家外汇管理局信息中心 王毅 010-68402499<br>?<br>                                                   二ＯＯ八年七月二日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

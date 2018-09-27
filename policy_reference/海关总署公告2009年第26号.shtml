@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】海关总署公告2009年第26号<BR>&nbsp;&nbsp;【发布日期】2009-05-25<BR>&nbsp;&nbsp;【生效日期】2009-05-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.customs.gov.cn/publish/portal0/tab3889/module1188/info171568.htm" target=_blank>海关总署 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>海关总署公告2009年第26号</font></p><br><br><br>    根据《中华人民共和国反倾销条例》的规定，国务院关税税则委员会（以下简称税委会）决定自2006年1月16日起对原产于日本、美国、英国和德国的进口初级形态二甲基环体硅氧烷征收反倾销税，期限为5年。海关总署为此发布了2006年第3号公告。<br><br>    2008年5月，根据国内产业申请，调查机关决定对原产于韩国和泰国的进口初级形态二甲基环体硅氧烷进行反倾销调查。根据调查结果，税委会决定自2009年5月28日起对原产于韩国和泰国的进口初级形态二甲基环体硅氧烷征收反倾销税，期限为5年。现将执行中的有关事项公告如下：<br><br>    一、自2009年5月28日起，对原产于韩国和泰国的进口初级形态二甲基环体硅氧烷（税则号列：29310000，38249099），海关除按现行规定征收进口关税外，还应区别不同的供货厂商，按照本公告计算公式和附件1所列的适用税率征收反倾销税及进口环节增值税。<br><br>    反倾销税税额=完税价格×反倾销税税率<br><br>    进口环节增值税税额=（完税价格+关税税额+反倾销税税额）×进口环节增值税税率<br><br>    应征收反倾销税产品的详细描述，详见本公告附件2。进口经营单位在申报进口税则号列29310000、38249099项下“初级形态二甲基环体硅氧烷”时，如果进口货物属于本公告附件2中产品描述所称的D3、D4、D5、D6中的任何一种化合物，应填报29310000.01；如果属于由D3、D4、D5、D6之中任何两种、三种或四种组成的混合物（本公告附件2中的简称为：水解物或水解料、DMC），应填报38249099.04。<br><br>    二、凡申报进口初级形态二甲基环体硅氧烷的进口经营单位，应当向海关提交原产地证明；原产地为泰国的，还需提供原厂商发票。<br><br>    对于能够确定货物的原产地是泰国，但进口经营单位不能提供原厂商发票，且通过其他合法、有效的单证也无法确定原生产厂商的，海关将按照本公告附件1所列其他泰国公司适用的反倾销税税率征收反倾销税。<br><br>    三、对于能提供原产地证明确定进口货物原产地为日本、美国、英国或者德国的，或者不能提供原产地证明但有证据证明进口货物原产地为日本、美国、英国或者德国的，均按照海关总署2006年第3号公告等相关公告的规定执行。<br><br>    四、对于不能提供原产地证明而有证据证明进口货物的原产地不是韩国和泰国，但没有证据证明货物原产地不是日本、美国、英国或者德国的，按照海关总署2006年第3号公告等相关公告的规定执行。<br><br>    对于不能提供原产地证明而有证据证明货物的原产地不是日本、美国、英国、德国的，但没有证据证明货物原产地不是韩国和泰国的，海关按照本公告附件1所列的最高反倾销税税率征收反倾销税。<br><br>    对于不能提供原产地证明，也没有证据证明货物的原产地不是日本、美国、英国、德国、韩国和泰国的，海关按照本公告附件1所列的最高反倾销税税率征收反倾销税。<br><br>    五、有关加工贸易保税进口原产于韩国和泰国的初级形态二甲基环体硅氧烷如何征收反倾销税等方面的问题，海关按照中华人民共和国海关总署2001年第9号公告和中华人民共和国海关总署令第111号的规定执行。<br><br>    六、对实施临时反倾销措施期间（2008年11月7日至2009年5月27日，下同）进口原产于韩国和泰国的初级形态二甲基环体硅氧烷已经缴纳的反倾销保证金，按本公告规定的征收反倾销税的商品范围和反倾销税税率计征并转为反倾销税，与之同时缴纳的进口环节增值税保证金一并转为进口环节增值税。上述保证金不足税款部分不再补征，超出税款部分可自2009年5月28日起6个月内向征收地海关申请退还。<br><br>    七、在对原产于韩国和泰国的进口初级形态二甲基环体硅氧烷征收反倾销税期间，进口相同或类似货物而海关无法确定是否应对其征收反倾销税时，有关进口经营单位应向商务部提出申请，由海关总署会同税委会、商务部研究做出裁定。<br><br>    特此公告。<br><br>    附件：1．初级形态二甲基环体硅氧烷反倾销税税率表<br>         2．中华人民共和国商务部公告2009年第31号 <br><br>                                               二○○九年五月二十五日 <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

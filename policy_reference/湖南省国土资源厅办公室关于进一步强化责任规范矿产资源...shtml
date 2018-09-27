@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖南省<BR>&nbsp;&nbsp;【发布文号】湘国土资办发〔2007〕157号<BR>&nbsp;&nbsp;【发布日期】2007-09-18<BR>&nbsp;&nbsp;【生效日期】2007-09-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hunan.gov.cn/zwgk/zfwj/bmwj/200808/t20080806_111670.htm" target=_blank>湖南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖南省国土资源厅办公室关于进一步强化责任规范矿产资源开发管理有关问题的通知<br><br></font>(湘国土资办发〔2007〕157号)</p><br><br> <br>各市州、县市区国土资源局：<br>    为了进一步规范矿产资源开发管理，加大责任追究力度，维护良好的矿产资源开发秩序，提高矿产资源开发利用水平，现就有关问题通知如下：<br>    一、高度重视当前矿产资源开发秩序中存在的突出问题<br>    自2005年以来，根据国务院和省人民政府的统一部署，我省各级国土资源部门采取有力措施，深入开展集中整治，严肃查处矿产资源违法违规行为，积极推进矿产资源开发整合，强化矿产资源规范管理，整顿和规范矿产资源开发秩序工作取得了重大进展，矿产资源开发秩序逐步走向良性发展的轨道。但不容忽视的是，当前我省矿产资源开发秩序中仍存在不少突出问题：非法开采反弹严重，还存在无证开采、一证多井等现象；超深越界开采普遍，破坏浪费资源、安全生产隐患突出；以采代探行为时有发生；资源整合工作进展不平衡等。这些突出问题的存在，破坏了正常的矿产资源开发秩序，影响了我省经济社会又好又快的发展。各地务必要认真分析情况，找出存在的问题，加大规范管理力度，强化责任追究，扎扎实实完成整顿和规范工作各项任务。<br>    二、进一步明确责任规范矿产资源开发管理<br>    各地国土资源部门要进一步明确职责，切实负起责任，完善矿产资源管理责任机制，规范矿产资源开发管理。<br>    1、严格探矿权采矿权审批管理。要进一步规范审批程序，完善探矿权和采矿权申请、延续、变更、注销等相关管理制度。加强勘查、开采资质管理，依法依规严格审查把关，杜绝越权、违规发证行为的发生。<br>    2、强化勘查开采监管责任。严格按照国家产业政策、矿产资源规划和技术规范设置探矿权、采矿权，加强矿产资源勘查开采活动的日常监管。对已取得开采许可证的矿山，要督促其严格实施开发利用方案；对已取得勘查许可证的，要督促其严格按勘查实施方案实施勘查活动；对矿山地质环境造成破坏和影响的，要责令其进行恢复治理，不依法治理的要依法查处。<br>    3、加大矿产资源整合力度。对今年需完成整合任务的重点矿区，要按经批准的整合实施方案按时保质完成整合任务，其余重点矿区要加快整合实施方案的编制工作。要按照国家和省的整合工作检查验收标准，认真开展自查验收，提交自查报告，做好迎接省和国务院检查验收的准备工作。<br>    4、建立矿产资源管理行政执法责任制。要进一步巩固并不断扩大整规工作成果，持续保持高压态势，加强动态巡查，严密监控矿产资源开发秩序动向。要建立本地区案件查处责任制和过错责任追究制度，发现非法开采反弹的，要重拳出击，立即组织开展彻底的集中整治行动；发现违法违规行为的，要依法查处，严厉打击。超深越界开采专项整治工作，要严格按照湘政办明电〔2007〕96号要求，严格执法，扎实推进，通过处罚一批、关闭一批、整合一批，严厉打击超深越界开采矿产资源违法违规行为，促进采矿权人依法守界开采。<br>    5、建立交办问题办理责任制。对于上级交办的重要问题，要采取有效措施，明确专人负责，认真分析研究，逐案督查落实，并及时报送处理情况，不得推诿拖拉、敷衍了事。<br>    三、落实措施确保整顿和规范矿产资源开发秩序工作取得实效<br>    全省整规工作已进入攻坚阶段，任务非常艰巨，时间十分紧迫。为确保整顿和规范矿产资源开发秩序各项任务取得实效，要进一步落实措施，建立省对市（州）、市（州）对县（市、区）的责任追究体系，层层分解，层层落实，加大监管力度。要将责任追究与年度工作目标考核、维护矿产资源管理秩序目标责任考核、主要领导评先评优以及建设用地、矿权审批结合起来。坚决清理不按法定权限、条件和程序发证的行为，凡违法违规审批发证的，要坚决予以纠正，并依法追究相关责任人的责任，在年度工作目标考核和维护矿产资源管理秩序目标责任考核中不得评优；凡因监管不力，导致本地区矿产资源违法违规行为不断发生并引发群众集体上访以及对交办的重大问题敷衍推诿、查处不力的，实行一票否决，主要领导不得参与评先评优；对整顿工作不到位、不彻底，对整规任务没有完成，验收不合格或因问题突出，影响国务院对我省检查验收的，要限期整改，追究有关领导和责任人员责任，并暂停该地区的建设用地和矿权审批。<br><br><br>湖南省国土资源厅办公室<br>二○○七年九月十八日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

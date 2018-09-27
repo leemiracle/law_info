@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发[2007]88号<BR>&nbsp;&nbsp;【发布日期】2007-03-12<BR>&nbsp;&nbsp;【生效日期】2007-03-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/18217.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于2006年化妆品不良反应监测情况的通报<br>  <br></font>(卫监督发[2007]88号)</p><br> <br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，卫生部卫生监督中心、中国疾病预防控制中心：<br><br>   为加强化妆品卫生监督，监测化妆品引起的皮肤不良反应情况，维护消费者健康权益，我部委托中国疾病预防控制中心环境与健康相关产品安全所组织中国人民解放军空军总医院等13个化妆品不良反应监测点进行监测，现将2006年监测的有关情况通报如下：<br><br>一、化妆品不良反应监测情况<br><br>（一） 总体情况。2006年1月至12月，各监测点按照监测工作要求和《化妆品皮肤病诊断标准及处理原则》（总则）（GB17149.1-1997）等八项皮肤病诊断国家标准，共监测发现化妆品不良反应1496例（见附件1），其中男性92例，女性1404例；年龄集中在20-40岁之间（见附件2），以中高学历为主。2006年监测到的不良反应病例数量比2005年增加了443例，病例年龄构成和职业分布等与以往监测情况基本一致。 <br><br>（二） 化妆品不良反应的病变类型。不良反应以化妆品接触性皮炎最常见，共1210例，占总监测例数的80.9％，与往年情况基本一致。2006年监测发现了化妆品引起的激素依赖性皮炎24例，较往年增加明显（具体病变类型见附件3）。化妆品引起的不良反应中的大部分病变比较局部、反应轻微。未发现由化妆品引起的大范围群体伤害事件。<br><br>（三） 引起不良反应的化妆品情况。共涉及3276种化妆品（见附件4），其中国产普通化妆品1457种，国产特殊用途化妆品228种；进口普通化妆品1299种，进口特殊用途化妆品92种。普通类产品中以护肤类化妆品引起的不良反应数量最多，共有1776个；其次是抗皱类，共有226个。特殊用途化妆品以防晒类化妆品引起的不良反应数量最多，共有141个；其次是祛斑类，共有92个。有106个不良反应病例是由美容院、理发店使用的自制或来源不明的化妆品引起的，且病变通常较为严重，该类病例数量比2005年增加了54例。<br><br>二、引起化妆品不良反应的主要原因<br><br>（一）化妆品原料导致的过敏反应或刺激反应。由于化妆品中含有某些致敏原料或刺激性原料，具有敏感体质的消费者使用后引发过敏反应或皮肤刺激作用，从而导致不良反应。对1929种引起不良反应的化妆品以患者自身进行斑贴试验后发现，693个产品呈阳性（强阳性20个），阳性率35.9%。在斑贴试验阳性的化妆品中，以普通类化妆品为主，共609个（斑贴试验阳性化妆品具体分类情况见附件5。）。依据斑贴试验结果推测，在监测到的不良反应中大约三成左右与过敏反应或刺激反应有关。<br><br>（二）化妆品的卫生质量不合格。有的化妆品生产企业不按照《化妆品生产企业卫生规范》和《化妆品卫生规范》组织生产，导致化妆品本身出现卫生质量问题，造成消费者不良反应。例如，部分化妆品违法添加激素，导致消费者发生激素依赖性皮炎。<br><br>（三）部分美容院化妆品引起消费者不良反应后，美容院未及时停用问题化妆品并引导消费者到正规医院就诊，而是擅自为消费者提供治疗服务，导致消费者不良反应进一步恶化。 <br><br>（四）标签标识说明书夸大宣传，误导消费者，造成消费者选择化妆品不当或使用不当，引起了化妆品不良反应。<br><br>三、措施和要求<br><br>（一）各有关省级卫生行政部门要督促化妆品皮肤病诊断机构按照监测要求继续做好2007年化妆品不良反应监测工作，中国疾病预防控制中心环境所要做好对监测点的技术指导和培训工作，完善工作制度，不断提高化妆品不良反应诊断和监测工作质量。<br><br>（二）各化妆品皮肤病诊断机构所在地省级卫生行政部门要主动加强与当地监测点的联系，及时了解不良反应监测信息，充分发挥监测资源和信息的作用，将监测工作与化妆品日常监督检查相结合，以监测信息和消费者投诉举报信息为线索，严厉查处制售假冒伪劣化妆品的违法行为。<br><br>（三）各地卫生行政部门要按照《卫生部关于印发2007年国家公共卫生重点监督检查计划的通知》（卫监督发[2007]55号）中布置的化妆品专项整治和监督抽检的要求开展监督检查工作，切实加强对美容院使用化妆品的监督工作力度，严历查处虚假夸大和医疗宣传等违法行为，避免因宣传误导使得消费者选择或使用化妆品不当而引起的不良反应。<br><br>附件：1. 各监测点不良反应报告情况<br><br>      2．化妆品皮肤不良反应病例年龄分布<br><br>      3．化妆品皮肤不良反应病例类型分布<br><br>      4．引起不良反应化妆品分类情况<br><br>      5．斑贴试验阳性的化妆品分类情况<br><br>二○○七年三月十二日<br> <br> <br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

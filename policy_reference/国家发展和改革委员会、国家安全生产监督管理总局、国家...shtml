@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展和改革委员会、国家安全生产监督管理总局、国家煤矿安全监察局<BR>&nbsp;&nbsp;【发布文号】发改运行〔2006〕2659号<BR>&nbsp;&nbsp;【发布日期】2006-11-28<BR>&nbsp;&nbsp;【生效日期】2006-11-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-12/01/content_207445.htm" target=_blank>国家发展和改革委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展和改革委员会、国家安全生产监督管理总局、国家煤矿安全监察局关于严格审查煤矿生产能力复核结果遏制超能力生产的紧急通知<br><br></font>(发改运行〔2006〕2659号)</p><br><br><br>各产煤省（区、市）煤炭行业管理、煤矿安全监管部门，各省级煤矿安全监察机构，有关中央煤炭企业： <br><br>    今年6月以来，各地贯彻国家发展改革委、国家安全监管总局、国家煤矿安监局关于开展全国煤矿生产能力复核工作的统一部署，迅速组织实施，目前现场复核工作已基本结束。通过复核，比较全面地摸清了全国煤矿特别是乡镇煤矿生产系统、工艺装备、资源储量等基本情况，为加强生产能力管理、促进安全生产和结构调整提供了重要基础依据。 <br><br>    但是，从近期对部分省煤矿督查和初步掌握情况看，各地复核工作极不平衡，有些省（区、市）存在严重问题。主要表现在：一些核定资质单位执业思想不端正，专业技术水平低，有的迎合煤矿不正当要求，放弃原则和标准；有的不能正确理解和执行各项规定，以偏概全，对资源储量达不到服务年限规定的、违规形成的能力擅自予以核定，甚至弄虚作假，虚增生产能力。有的煤矿特别是原生产能力在3万吨/年以下的煤矿，为逃避关闭，与核定资质单位通同作弊，上报违规和虚假能力。一些地方政府片面强调当地发展，盲目追求能力扩张，不支持依据国家规定开展能力复核。有的煤炭行业管理部门不能正确掌握安全第一、从严审查、总量控制的各项规定，审查把关不严，造成复核结果膨胀。有的煤矿安全监管部门、煤矿安监机构没有切实履行对复核结果的复审职责，对存在的问题没有提出意见。以上问题，如不坚决予以扭转，将严重影响有效应对产能过剩、安全生产和结构调整工作。当前部分煤矿超能力生产相当严重，仍是煤矿重特大事故多发的直接原因之一。 <br><br>    为进一步做好复核结果审查工作，保证复核质量，遏制超能力生产，经研究决定，在前一段各地初步审查的基础上，对生产能力复核结果重新组织一次全面审查，现紧急通知如下： <br><br>    一、进一步统一对复核工作目的和要求的认识。这次全国煤矿生产能力复核工作，是在近年来超能力生产引发的煤矿安全事故频繁发生、违规建设和盲目扩能十分严重、产能过剩趋势日益加剧、煤炭工业健康发展面临严峻挑战的形势下组织开展的，是应对产能过剩、制止违规建设、促进安全生产和结构调整、实现可持续发展的一项重要措施。其基本目的和要求是，通过实施生产能力管理办法和调整核定标准，全面开展复核，查处未经批准的新建、改扩建、技术改造项目以及“批小建大”形成的违规能力，压减近年来盲目扩张的生产能力，遏制超能力生产，防范重特大事故，促进煤炭供需总量基本平衡。各地必须认清形势，增强全局意识，服从国家宏观调控的统一部署，坚决、全面、不折不扣地贯彻执行有关生产能力复核的各项规定，认真总结吸取前一阶段的经验教训，切实加强组织领导，严肃认真地组织好复核结果审查工作，坚决把过高的生产能力压下来，全面完成复核结果总量控制的任务。 <br><br>    二、严格遵循复核结果审查的各项规定。各地要全面正确理解和执行复核工作的各项原则、政策和标准，不能断章取义、以偏概全。针对目前出现的问题，这次审查要严格执行以下规定： <br><br>    （一）对“四证”（采矿许可证、安全生产许可证、煤炭生产许可证、工商营业执照）不全的非法煤矿，一律不得参加能力复核，并在核查清楚后提请列入关闭煤矿名单。 <br><br>    （二）2005年上报统一核定结果之后，已完成的经批准的新建、改扩建、技术改造、资源整合、采煤方法改革的煤矿，必须提供初步设计和竣工验收批复文件，一律依批准文件认定的设计能力为准。对超过设计“批小建大” 形成的违规能力一律不予认可。 <br><br>    （三）未经批准擅自实施新建、改扩建、技术改造、资源整合、采煤方法改革的煤矿，提供不出规定的批准文件的，新增生产能力一律不予认可。 <br><br>    （四）2005年上报统一核定结果之后，没有进行改扩建、技术改造、资源整合、采煤方法改革的煤矿，应按照《煤矿生产能力核定标准》年工作日数由350日调整为330日的规定，相应调减生产能力。 <br><br>    （五）复核能力提高的煤矿，服务年限必须符合设计规范的规定，对应的资源储量必须有国土资源部门的认定文件。凡达不到服务年限规定，或对应的资源储量无国土资源部门认定文件的，一律不得提高复核能力。 <br><br>    （六）高瓦斯、煤与瓦斯突出的矿井，凡瓦斯抽采能力没有同步提高的，一律不得认可提高的复核能力。 <br><br>    （七）落后的采煤工艺、采煤方法未改进的煤矿，不得提高采掘工作面能力。 <br><br>    （八）提升绞车、钢丝绳等设备、设施必须符合《煤矿安全规程》关于安全系数的规定，不能以降低设备、设施的安全系数提高生产能力。 <br><br>    （九）未参加2005年全国统一核定，而参加本次复核的煤矿，必须单独列表，逐一说明原因，提供“四证”齐全的证明，复核结果应以煤炭生产许可证登记能力为基础，执行本次复核的各项规定。 <br><br>    对不符合以上规定的复核结果，必须坚决予以调整。 <br><br>    三、严肃认真的开展复核结果审查工作。自本通知下发之日起，各地要由省级煤炭行业管理部门牵头，煤矿安全监管部门、煤矿安监机构配合，在前一阶段初步审查的基础上，共同组织，集中开展一次全面系统的审查。审查结束后，联合行文上报国家发展改革委、国家安全监管总局、国家煤矿安监局。 <br><br>    各地要逐一对所有参与复核的煤矿认真进行审查。在此基础上，把以下煤矿作为审查重点：（一）复核结果与2005年统一核定上报能力相比持平或提高的煤矿；（二）2005年统一核定上报能力在3万吨/年及其以下，而复核结果在3万吨/年以上的煤矿；（三）2005年实际产量不足上报复核能力80%的煤矿；（四）落后的采煤工艺、采煤方法未改进而提高生产能力的煤矿。 <br><br>    各地在审查中，要对各核定资质单位的工作质量进行检查，对在复核中弄虚作假、工作质量低劣的，予以经济处罚，吊销核定资质，并严肃追究主要负责人和有关人员的责任。 <br><br>    在各地审查结束后，国家发展改革委、国家安全监管总局、国家煤矿安监局将严格按照本通知规定，联合组织专家组对各地上报复核结果进行审查。对未通过审查的，责成进一步做出调整。对经调整后仍达不到要求的，将联合组织现场抽查，发现问题的，将给予全国通报批评，并严肃追究有关部门主要负责人的责任，吊销核定资质单位的核定资质。 <br><br>    当前正值冬季煤炭需求旺季，各级煤炭行业管理部门、煤矿安全监管部门、煤矿安监机构要把查处年底超能力突击生产作为一项重点工作。复核结果经审查批复后，作为组织生产和监督检查的依据。复核结果未批复前，必须按照原能力组织生产和监督检查。对超能力生产的，依据《国务院关于预防煤矿生产安全事故的特别规定》和《煤矿生产能力管理办法》，责令停产整顿、实施经济处罚，直至吊销安全生产许可证和煤炭生产许可证，提请地方人民政府予以关闭。 <br><br>    附件：煤矿生产能力复核结果上报资料<br><br>         二00六年十一月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

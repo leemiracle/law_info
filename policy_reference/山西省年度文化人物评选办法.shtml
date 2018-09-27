@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政办发[2009]62号<BR>&nbsp;&nbsp;【发布日期】2009-05-08<BR>&nbsp;&nbsp;【生效日期】2009-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://218.26.168.124/jsp/red2/browser/view.jsp?id=2859" target=_blank>山西省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省年度文化人物评选办法<br><br></font>(晋政办发[2009]62号)</p><br><br><br>各市、县人民政府,省人民政府各委、厅,各直属机构:<br><br>        为进一步推动我省基层文化建设,实现文化强省战略目标,山西省文化厅制定的《山西省文化强县评选办法》和《山西省年度文化人物评选办法》已经省人民政府同意,现转发给你们,请认真贯彻执行。<br><br>二○○九年五月八日<br><br><br>山西省年度文化人物评选办法<br><br>    一、评选范围<br>    全省文化工作者;热心文化事业、文化产业,在支持、资助和推动文化建设中做出突出贡献、取得重大成果的山西社会各界人士。<br>    二、评选标准<br>    1.热爱中国共产党、热爱社会主义,遵守国家法律、法规,坚持“二为”方向和“双百”方针,具有良好的思想品德和职业道德,爱岗敬业,甘于奉献,德艺双馨。<br>    2.具有较高的专业技术水平和较强的业务能力,在全省乃至全国同行业中出类拔萃且有较大影响,本年度荣获国家级专业最高奖项。  <br>    3.在实施艺术精品创作生产、文化基础设施建设、文化惠民、文化产业发展、非物质文化遗产保护、山西形象提升、文化人才培养等七大文化建设工程中成绩显著,并产生较大的社会影响。<br>    4.积极支持、大力资助和热心参与文化建设,在推进文化创新,增强文化发展活力,打造特色文化品牌,提升地区形象和文化软实力,改善人民群众精神文化生活和推动当地经济文化同步发展中做出突出贡献。<br>    5.深入贯彻科学发展观,解放思想,开拓进取,积极推进我省文化转型发展、创新发展、跨越发展,取得了有利于提高人民群众精神境界的文化成果,推行了有利于发展文化事业和文化产业的管理方式,在本区域、本领域文化建设中取得重大成就。<br>    6.在推进我省文化大发展大繁荣中,社会贡献重大、引领作用显著,做出了推动发展和壮大行业的突出贡献,享有社会认同、行业肯定、备受推崇的良好声誉,在全社会拥有较高的知名度和较强的影响力。<br>    三、评选程序<br>    “山西省年度文化人物”评选工作遵照公开、平等、择优的原则,采取组织推荐和自我推荐相结合的方法。具体步骤是:  <br>    第一阶段:推荐评选对象(5月5日-9月30日)<br>    被推荐者由本单位通过各级文化行政主管部门或省直主管单位向省文化厅推荐。为进一步扩大评选表彰的范围,凡符合条件的个人均可直接向评选表彰工作办公室自荐。<br>    第二阶段:确定候选资格  (10月1日-10月15日)<br>    评选表彰工作办公室对所有推荐人选的推荐材料进行审核,将符合推荐要求的人选提交评选表彰工作专家组。专家组根据个人事迹,综合考虑被推荐人在文化领域所做出的贡献和社会影响面,确定50名候选人。<br>    第三阶段:社会公示及评选(10月16日-11月15日)<br>    对确定的候选人,将通过省文化厅网站和其他有关媒体进行公示,同时在省文化厅网站上刊登候选人先进事迹,广泛征求社会各界的意见,组织社会公众对候选人进行评选。<br>    第四阶段:组织确定(11月16日-11月30日)<br>    结合公示和评选情况,在充分征求社会各界意见的基础上,评选出“山西省十大年度文化人物”。<br>    第五阶段:表彰宣传<br>    拟定于12月召开“山西省十大年度文化人物”表彰大会。评选结果在省文化厅网站和其他有关新闻媒体公布,先进事迹在有关媒体刊登和宣传。<br>    四、材料报送要求<br>    上报的材料包括:1.山西省十大年度文化人物登记表和3000字的先进事迹材料及300字的简要事迹各一式三份(先进事迹材料必须内容真实,统一使用A4纸打印,同时上报word格式电子文本)。2.推荐人选需提供两寸近期彩色正面照片1张、个人工作照片5张和不少于5分钟的个人影像资料(数字带)。3.所有推荐人选须提供先进事迹材料中涉及到的奖励证书、原始证明及复印件(原件审核后退回)。4.自荐人按上述要求准备材料后可直接报送评选表彰工作办公室,并提供本人身份证及复印件。5.《山西省十大年度文化人物登记表》可从山西省文化厅网网站(http://www.sxwh.gov.cn)进行查询和下载。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

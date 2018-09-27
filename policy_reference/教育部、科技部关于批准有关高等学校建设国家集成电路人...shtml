@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部、科技部<BR>&nbsp;&nbsp;【发布文号】教高〔2003〕2号<BR>&nbsp;&nbsp;【发布日期】2003-07-01<BR>&nbsp;&nbsp;【生效日期】2003-07-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部、科技部<br>关于批准有关高等学校建设国家集成电路人才培养基地的通知<br><br></font>(教高〔2003〕2号)</p><br> <br><br>    为了适应我国经济结构战略性调整、推进新型工业化和壮大科研开发团队的要求，使我国集成电路技术与产业的发展得到高水平人才支撑和强有力的智力支持，实现专利、标准和人才三大科技战略目标，教育部、科技部决定在部分集成电路教学与科研有相对优势的高等学校设立国家集成电路人才培养基地。经过学校申报、专家评审，现批准北京大学、清华大学、浙江大学、复旦大学、西安电子科技大学、上海交通大学、东南大学、电子科技大学、华中科技大学建设“国家集成电路人才培养基地”（以下简称基地）。为做好基地建设工作，现将有关意见通知如下：<br><br>    一、 基地建设是新时期高等教育适应经济结构战略调整，实现专利、标准和人才三大科技战略的重大改革与建设项目。<br><br>    集成电路产业是关系经济建设、社会发展、国家安全的战略性产业，是国家核心竞争力的重要体现。《国务院关于印发鼓励软件产业和集成电路产业发展若干政策的通知》（国发[2000]18号）中明确提出要通过政策引导，鼓励资金、人才等资源投向软件产业和集成电路产业，力争到2010年使我国成为世界集成电路产业的主要开发和制造基地。集成电路科研开发水平的提高和产业发展的关键是人才，有关高等学校要以振兴我国集成电路产业发展为己任，加强对国外集成电路产业发展态势和人才培养工作的研究，以提高我国集成电路产业发展的国际竞争力为出发点，明确目标、精心规划、精心组织、务求实效，把基地建设成为具有国际影响力的，对国家集成电路科研开发和产业发展起关键作用的，能规模培养高水平实用化集成电路人才的专业教学单位，并通过示范、辐射作用带动我国集成电路人才培养的跨越发展。<br><br>    二、基地要大力推进教学改革，努力提高人才培养质量和科研开发能力。基地要以培养具有创新能力和国际竞争力的高素质人才为目标，要把保证和不断提高教育教学质量作为基地建设的核心，建立健全教学质量保障体系；要积极争取参与国家科技计划的工作，提高师生的科研开发能力，通过实践提高所培养人才的水平；要积极聘请国内外高水平教授和专家授课，建设学术造诣高、教学和集成电路开发设计经验丰富的教师队伍；要探索创新的人才培养模式，结合本校优势以及本地区集成电路产业发展的实际需要，办出自身的特色和水平；要加快教学内容与课程体系的改革，使用国际上最新的优秀原版教材，开展双语授课工作；要加强教学、实验和科研条件的建设和实验体系的改革，用现代教育技术改革教学手段和教学方法，力争使基地人才培养质量达到或接近世界先进水平。<br><br>    三、基地要以改革促发展、以科研上水平，大力推进办学机制改革。基地要积极开展境内外合作办学，多途径探索合作办学的管理体制和运行机制，积极推动产学研结合的办学模式，多途径筹集经费，吸引社会资金投入，为基地提供一流的教学与实验设备；要加强同国家集成电路设计产业化基地、国外高水平大学、跨国公司的合作，建立条件优越的实习基地，提高教师的科研开发水平，加强对学生工程实践能力的培养，在科研开发和人才培养两个方面，努力把基地办成国际上的一流水平。<br><br>    四、基地主要培养集成电路设计和工艺技术方面的工程硕士，招生对象为相关专业的应届本科毕业生或相关领域的本科以上从业人员；基地可以开展集成电路方向的第二学士学位办学；招生规模和方式由所在学校自主确定，国家不安排招生计划数。有关收费标准可参照示范性软件学院模式执行。?<br><br>    有关高等学校要根据本通知的精神，尽快组织基地的建设和实施工作，为我国集成电路产业的发展作出新的贡献。<br> <br>（2003年7月1日）<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

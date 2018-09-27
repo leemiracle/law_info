@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈办发[2007]3号<BR>&nbsp;&nbsp;【发布日期】2007-01-23<BR>&nbsp;&nbsp;【生效日期】2007-01-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=1361" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中共哈尔滨市委办公厅、哈尔滨市人民政府办公厅关于贯彻落实黑发[2006]29号文件精神的意见 <br><br></font>(哈办发[2007]3号)</p> <br><br><br>    （2007年1月23日） <br><br>    各区、县（市）党委和人民政府，市委各部办委，市直各党组、党委（工委）：? <br><br>    为认真贯彻落实《中共黑龙江省委 黑龙江省人民政府关于进一步解决煤矿安全生产突出问题 切实加强煤矿安全生产工作的意见》（黑发〔2006〕29号，以下简称《意见》）精神，进一步解决全市煤矿安全生产突出问题，切实加强煤矿安全生产工作，经市委、市政府同意，现提出如下意见。?   <br><br>    一、进一步提高对煤矿安全生产工作重要性的认识，切实解决煤矿安全生产存在的突出问题 <br>  ? <br>    市委、市政府始终高度重视安全生产工作，特别是方正县宝兴乡宝兴煤矿“10.5”水害事故后，采取了一系列重大举措，取得了一定成效。但是，由于我市煤矿生产条件复杂，灾害严重，煤矿安全生产长期存在的突出问题还没有从根本上解决，全市煤矿安全生产形势依然严峻，主要表现为：个别地区党政领导同志对做好煤矿安全生产工作的重要性认识不到位，政府的安全洁管责任没有得到全面落实，地方行业管理和监管机构不健全、职责不清；个别地区监管力量薄弱，没有配备专业的技术监管人员和驻矿安全监管员；个别煤炭生产企业负责人重效益轻安全，疏于管理，不同程度地存在侥幸心理，导致违章指挥、超能力生产的现象发生；对企业的安全生产主体责任认识不清，个别小煤矿矿主无视法律尊严、无视政府监管、无视矿工生命，违法抗法，违反作业规程，强令职工冒险作业，尤其是发生事故后不报告、不及时组织救援甚至逃逸。这些突出问题如不认真加以解决，煤矿重特大事故就难以遏制，人民生命财产安全就难以保障，全市和谐社会建设就会受到严重影响。因此，各级党委、政府和各有关部门务必进一步提高对解决煤矿安全生产突出问题重要性的认识，树立科学的发展观和正确的政绩观，切实增强责任感和紧迫感，及时解决煤矿安全生产存在的突出问题，坚决遏制煤矿重特大事故的发生。?   <br><br>    二、依法加大对不法矿主的打击力度，全面落实煤矿关闭任务  ? <br><br>    方正县宝兴乡宝兴煤矿“10.5”水害事故是由于该矿矿主拒不执行停产指令，违法抗法私藏火工品，擅自组织生产而导致的矿难。方正县委、县政府要把打击该矿不法矿主作为工作重点。公、检、法等司法机关要加大对不法矿主刑事责任的追究力度，依法从重从快判处相关责任人，决不姑息。要按照省煤矿安全监察局要求，尽快责成相关部门吊销该矿相关证照，对该矿实施关闭。关闭前，要详细论证该矿与相邻煤矿的关系，科学制订解决该矿水患的办法，在该矿对相邻矿水患威胁未解除之前，其它煤矿坚决不能恢复生产。? <br><br>    各地区要加强对整顿关闭煤矿工作的领导，认真落实整顿关闭矿井的措施。要建立关闭矿井负责制，有专人负责。对整顿关闭工作不力、措施落实不到位，不能按期完成关闭任务，特别是导致重大事故发生的，要严厉追究当地党委、政府主要领导和分管领导的责任。 <br>   ?   <br>    三、加大煤矿安全隐患排查力度，确保隐患整改取得实效 <br><br>    目前，我市井工煤矿除哈尔滨市煤炭工业公司建井处一井正常生产外，其它煤矿已全部停产整顿。各地区要充分利用停产整顿之机，按照国家和省、市有关要求对所辖煤矿进行拉网式排查，全面治理整顿安全隐患。对隐患整改不到位的煤矿，坚决不准复工生产。 <br><br>    各地区要建立煤矿重大隐患分级监管制度，层层落实责任制。各级煤矿安全监管、煤炭行业管理和国土资源部门要强化日常监管，严格执法、超前防范，及时发现重大安全隐患，督促煤炭生产企业建立健全隐患排查治理报告制度、及时治理和消除重大隐患。加大对瓦斯超限作业，超能力、超强度、超定员、超层越界开采等重大隐患和行为的查处力度。发现重大隐患要立即责令煤矿停产整顿，依法暂扣相关证照，及时通报当地政府，并跟踪检查、跟踪整改，直至隐患消除验收合格后方可生产。对拒不整改和整改不合格的煤矿，要吊销其所有证照，提请地方政府予以关闭。要加大重大隐患和问题整改监管责任追究力度，对因隐患排查不及时、整改措施落实不到位、跟踪问效不及时而导致发生煤矿事故的，要坚决追究有关部门和人员的责任。 <br><br>    哈尔滨市煤炭工业公司要加强企业内部管理，加大隐患排查整改力度，足额提取和使用煤矿专项费用，保证隐患整改资金足额到位。要建立隐患排查整改责任制和重大隐患检查整改不到位责任追究制，层层分解治理整改责任，确保有人排查隐患、有人负责整改、有人跟踪问效。要切实加强日常监督检查，将隐患排查治理制度化、经常化。要认真贯彻落实井下带班制度，加强对重点部位、关键环节的监督检查，及时发现和治理安全隐患。 <br><br>    四、强化煤矿安全地方监管队伍建设和煤炭行业管理，充分发挥地方监管的作用 <br><br>    各产煤地区政府要按照《意见》要求，尽快健全监管机构，解决人员编制，落实监管人员，切实履行地方政府的监管责任。要强化煤炭行业管理，明确行业管理职能，增强专业力量，依法履行对煤矿生产技术的管理，充分发挥安全基础保障作用。要配齐配强驻矿安全监察员，将煤矿驻矿安全监察员纳入事业编制管理，列入财政开支，理顺工作关系，认真解决其工资待遇不高、岗位补贴不到位等问题。要进一步加强煤矿安全执法队伍建设，充实监管力量，提高执法能力；要建立健全录用考核和执法过错追究制度，对失职渎职的要及时清理出执法队伍，情节严重的要追究法律责任。? <br><br>    对没有落实煤矿安全监管员驻矿制度、强化煤矿安全地方监管队伍建设，行业管理薄弱，对上级监察指令没有采取有效落实措施，造成重大伤亡事故的，要严肃追究当地政府主要领导和分管领导的责任。 <br><br>    五、进一步落实煤矿安全生产责任制，加强对煤矿安全生产工作的领导 <br><br>    各产煤地区党委、政府一定要把煤矿安全生产摆在更加突出的位置，采取有力措施，狠抓工作落实。要进一步完善和落实县（市）、乡（镇）两级安全生产包保责任制。各县（市）、乡（镇）政府主要领导是安全生产工作的第一责任人、负总责，必须亲自抓；分管领导负重要分管责任，必须具体抓。各产煤县（市）、乡（镇）要配备懂专业、事业心强的干部担任分管煤矿安全副县（市）长、副乡（镇）长，切实落实领导责任。? <br><br>    加强安全生产责任制考核。对县（市）发生一次死亡3人以上重特大煤矿事故的，要加大在党政主要领导责任指标考核中的扣分比重；对县（市）发生一次死亡10人以上特大煤矿事故的，要实行“一票否决”，党政一把手在处分期间不能提拔重用，不能获得荣誉和奖励。? <br>    加大责任追究力度。对各产煤县（市）、乡（镇）政府主要领导和分管煤矿安全工作的领导、有关部门主要领导和分管负责人，在煤矿重特大事故的防范、发生上，有失职、渎职行为或者负有领导责任的，要按照《安全生产领域违法违纪行为政纪处分暂行规定》（监察部、安全监管总局令第11号）和《黑龙江省煤矿重特大安全事故行政责任追究暂行规定》（黑政发〔2005〕7号）给予政纪处分，构成犯罪的，要追究刑事责任。? <br><br>    严肃查处煤矿安全生产和事故背后的失职渎职、官煤勾结等腐败问题，深入清理纠正国家机关和国有企业负责人投资入股煤矿问题，对国家机关工作人员、国有企业负责人参与办矿、收受贿赂，为非法煤矿充当保护伞，致使煤矿未能停产整顿或关闭取缔，甚至酿成事故的，要一查到底，依法依纪严肃处理。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

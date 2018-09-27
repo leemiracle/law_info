@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】环境保护部<BR>&nbsp;&nbsp;【发布文号】环办函〔2008〕373号<BR>&nbsp;&nbsp;【发布日期】2008-06-24<BR>&nbsp;&nbsp;【生效日期】2008-06-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/bbgth/200807/t20080707_125138.htm" target=_blank>环境保护部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上市公司环保核查行业分类管理名录<br> <br></font>(环办函〔2008〕373号)</p><br> <br><br>各省、自治区、直辖市环境保护局（厅），全军环办、新疆生产建设兵团环境保护局：<br>    <br>    根据《关于对申请上市的企业和申请再融资的上市企业进行环境保护核查的通知》（环发〔2003〕101号）与《关于进一步规范重污染行业生产经营公司申请上市或再融资环境保护核查工作的通知》(环发〔2007〕105号)的规定，为进一步细化环保核查重污染行业分类，我部制定了《上市公司环境保护核查行业分类管理名录》（以下简称《管理名录》），《管理名录》中未包含的类型暂不列入核查范围，现将该《管理名录》印发你们，请遵照执行。<br>    <br>    附件：上市公司环保核查行业分类管理名录<br><br>环境保护部办公厅    <br>二○○八年六月二十四日<br>    <br><br>附件：上市公司环保核查行业分类管理名录<br><br>行 业 类 别<br> 类        型<br> <br>1、火电<br> 火力发电（含热电、矸石综合利用发电、垃圾发电）<br> <br>2、钢铁<br> 炼铁（含熔融和还原）<br> <br>球团及烧结<br> <br>炼钢<br> <br>铁合金冶炼<br> <br>钢压延加工<br> <br>焦化<br> <br>3、水泥<br> 水泥制造（含熟料制造）<br> <br>4、电解铝<br> 包括全部规模、全过程生产<br> <br>5、煤炭<br> 煤炭开采及洗选<br> <br>煤炭地下气化<br> <br>煤化工（煤制油、煤制气、煤制甲醇或二甲醚等）<br> <br>6、冶金<br> 有色金属冶炼（常用有色金属、贵金属、稀土金属、其它稀有金属冶炼）<br> <br>有色金属合金制造<br> <br>废金属冶炼<br> <br>有色金属压延加工<br> <br>金属表面处理及热处理加工（电镀；使用有机涂层，热镀锌（有钝化）工艺）<br> <br>7、建材<br> 玻璃及玻璃制品制造<br> <br>玻璃纤维及玻璃纤维增强塑料制品制造<br> <br>陶瓷制品制造<br> <br>石棉制品制造；耐火陶瓷制品及其他耐火材料制造<br> <br>石墨及碳素制品制造<br> <br>8、采矿<br> 石油开采<br> <br>天然气开采<br> <br>非金属矿采选（化学矿采选；石灰石、石膏开采；建筑装饰用石开采；耐火土石开采；粘土及其他土砂石开采；采盐；石棉、云母矿采选；石墨、滑石采选；宝石、玉石开采）<br> <br>黑色金属矿采选<br> <br>有色金属矿采选（常用有色金属、贵金属、稀土金属、其它稀有金属采选）<br> <br>9、化工<br> 基础化学原料制造（无机酸制造、无机碱制造、无机盐制造、有机化学原料制造、其他基础化学原料制造）<br> <br>肥料制造（氮肥制造、磷肥制造、钾肥制造、复混肥料制造、有机肥料及微生物肥料制造、其他肥料制造）<br> <br>涂料、染料、颜料、油墨及其它类似产品制造<br> <br>合成材料制造（初级型态的塑料及合成树脂制造、合成橡胶制造、合成纤维单（聚合）体的制造、其他合成材料制造）<br> <br>专用化学品制造（化学试剂和助剂制造、专项化学用品制造、林产化学产品制造、炸药及火工产品制造、信息化学品制造、环境污染处理专用药剂材料制造、动物胶制造、其他专用化学产品制造）<br> <br>化学农药制造、生物化学农药及微生物农药制造（含中间体）<br> <br>日用化学产品制造（肥皂及合成洗涤剂制造、化妆品制造、口腔清洁用品制造、香料香精制造、其他日用化学产品制造）<br> <br>橡胶加工<br> <br>轮胎制造、再生橡胶制造<br> <br>10、石化<br> 原油加工<br> <br>天然气加工<br> <br>石油制品生产（包括乙烯及其下游产品生产）<br> <br>油母页岩中提炼原油<br> <br>生物制油<br> <br>11、制药<br> 化学药品制造（含中间体）<br> <br>化学药品制剂制造<br> <br>生物、生化制品的制造<br> <br>中成药制造<br> <br>12、轻工<br> 酿造<br> 酒类及饮料制造（酒精制造、白酒制造、啤酒制造、黄酒制造、葡萄酒制造、其他酒制造；<br> <br>碳酸饮料制造、瓶（罐）装饮用水制造、果菜汁及果菜汁饮料制造、含乳饮料和植物蛋白饮料制造、固体饮料制造、茶饮料及其他软饮料制造；精制茶加工）<br> <br>造纸<br> 纸浆制造（含浆纸林建设）<br> <br>造纸（含废纸造纸）<br> <br>发酵<br> 调味品制造（味精、柠檬酸、氨基酸制造等）<br> <br>有发酵工艺的粮食、饲料加工<br> <br>  <br> 制糖<br> <br>植物油加工<br> <br>13、纺织<br> 化学纤维制造<br> <br>棉、化纤纺织及印染精加工<br> <br>毛纺织和染整精加工<br> <br>丝绢纺织及精加工<br> <br>化纤浆粕制造<br> <br>棉浆粕制造<br> <br>14、制革<br> 皮革鞣制加工<br> <br>毛皮鞣制及制品加工<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

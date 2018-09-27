@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫医发〔2006〕125号<BR>&nbsp;&nbsp;【发布日期】2006-04-04<BR>&nbsp;&nbsp;【生效日期】2006-04-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11690&seq=0" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>医师资格考试报名资格规定（2006版）<br><br></font>(卫医发〔2006〕125号)</p><br><br> <br>各省、自治区、直辖市卫生厅局、中医药管理局，新疆生产建设兵团卫生局：<br><br>    为进一步贯彻落实《执业医师法》，指导各地做好医师资格考试报名资格审查工作，严格医师资格准入，不断提高医师素质，我们在总结前几年工作经验的基础上，经广泛征求意见，对医师资格考试报名资格有关规定进行了汇总，并对个别规定作了补充和修订，形成了《医师资格考试报名资格规定（2006版）》。现印发给你们，请遵照执行。<br><br>    附件：医师资格考试报名资格规定（2006版）<br> <br>二○○六年四月四日<br> <br><br>医师资格考试报名资格规定（2006版）<br><br>    为做好医师资格考试报名工作，依据《中华人民共和国执业医师法》（以下简称《执业医师法》），现对医师资格考试报名资格规定如下：<br>    一、符合《执业医师法》、《医师资格考试暂行办法》（卫生部令第4号）和《传统医学师承和确有专长人员医师资格考核考试暂行办法》（卫生部令第6号）的有关规定。<br>    二、报考人员应按本人试用期所从事的专业报考相应类别的医师资格。其中，中医、中西医结合、藏医、蒙医、维医、傣医医学专业毕业的报考人员，按取得学历的医学专业报考中医类别相应专业的医师资格。<br>    三、具有临床医学专业学历，试用期在医疗机构检验科承担检验医师工作的，可以参加临床类别医师资格考试。<br>    四、已获得临床执业医师资格的人员，取得省级以上教育行政部门认可的中医专业学历或者脱产两年以上系统学习中医药专业知识并获得省级中医药管理部门认可，或者参加省级中医药行政部门批准举办的西医学习中医培训班，并完成了规定课程学习，取得相应证书的，可以申请参加中西医结合执业医师资格考试。<br>    已获得临床执业助理医师资格的人员，取得省级以上教育行政部门认可的中医专业学历或者脱产两年以上系统学习中医药专业知识并获得省级中医药管理部门认可，或者参加省级中医药行政部门批准举办的西医学习中医培训班，并完成了规定课程学习，取得相应证书的，可以申请参加中西医结合执业助理医师资格考试。<br>    五、在《执业医师法》颁布前具有高等学校医学专业专科学历并已经转正，但未取得医师职务任职资格者，可凭转正证明和转正后连续工作两年以上并考核合格证明申请报考执业医师资格考试。<br>    在《执业医师法》颁布前具有中等专业学校医学专业学历并已经转正，取得医士职务任职资格，但未取得医师职务任职资格者，可凭医士职务任职资格证明和所在医疗、预防、保健机构连续从事医士业务工作五年以上或从事医士业务工作时间和取得执业助理医师执业证书后执业时间累计满五年的证明申请报考执业医师资格考试。<br>    六、临床医学、口腔医学、中医学（含民族医）、中西医结合医学专业的临床博士、硕士和七年制及以上的长学制毕业生，在学期间必须具有相当于大学本科的一年毕业实习和一年以上的临床工作实践，方可在毕业当年参加执业医师资格考试。<br>公共卫生预防医学硕士、博士研究生在学习期间必须保证具有一年以上的临床实践训练或公共卫生实践的经历，方可在毕业当年参加医师资格考试。<br>    上述毕业生在学习期间未能满足上述要求的，不允许在毕业当年参加医师资格考试。<br>    七、医学成人学历教育不作为执业医师资格考试的依据。但2002年10月31日前，成人高等教育、自学考试、各类高等学校远程教育的医学类专业学历教育除外。<br>2002年10月31日前，职业技术学院、非医药卫生类专科学校医学类专业学生，毕业后取得的医学学历可作为医师资格考试报名的学历依据。<br>    八、2001年9月1日以后入学，未取得省级以上教育行政部门和省级以上卫生、中医药行政部门批准、并未报国务院教育行政部门备案的中等专业学校医学专业学历的人员，其学历不作为医师资格考试报名的学历依据。其中，取得省级以上教育行政部门批准设置、医学专业设置未经省级以上中医药管理部门同意的中等专业学校中医、中西医结合、藏医、蒙医、维医、傣医医学专业学历的人员，2001年9月1日以后入学的，其学历可以作为医师资格考试报名的学历依据；2006年9月1日以后入学的，其学历不再作为医师资格考试报名的学历依据。<br>    2006年9月1日后入学，取得省级以上教育行政部门认可的高等学校中医学专业中西医结合方向本、专科学历的人员（七年制除外）以及取得省级以上教育行政部门批准设置、医学专业设置经省级以上中医药管理部门同意的中等专业学校中医学专业中西医结合方向学历的人员，只能报考中医类别中医学专业执业医师或执业助理医师资格。<br>    2001年9月1日以后入学的人员，取得的医学成人中专学历不作为医师资格考试报名的学历依据。<br>    九、符合《传统医学师承和确有专长人员医师资格考核考试暂行办法》中有关规定，经执业医师资格考试资格考核合格并推荐，或者取得执业助理医师执业证书后，在执业医师指导下，在医疗机构工作满五年的传统医学师承或确有专长人员，可以申请报考中医类别执业医师资格考试；经执业助理医师资格考试考核合格并推荐的传统医学师承或确有专长人员，可以申请报考中医类别执业助理医师资格考试。<br>    传统医学师承和确有专长人员取得执业助理医师执业证书后，取得国务院教育行政部门认可的成人高等教育中医（含藏医、蒙医、维医、傣医）医学专业本科以上学历，可以在取得学历的当年报名参加具有规定学历的中医类别相应专业的执业医师资格考试；取得省级以上教育行政部门认可的成人高等教育中医（含藏医、蒙医、维医、傣医）医学专业专科学历，在自取得执业助理医师执业证书并在医疗机构中工作满二年后，可报名参加具有规定学历的中医类别相应专业的执业医师资格考试。<br>    十、1998年6月26日前取得有效行医资格的传统医学师承或确有专长人员，可直接申请执业医师或执业助理医师资格考试的资格考核；1998年6月26日前未取得有效行医资格的传统医学师承或确有专长人员及1998年6月26日后作为传统医学师承或确有专长人员参加医师资格考试的，需符合《传统医学师承和确有专长人员医师资格考核考试暂行办法》（卫生部6号令）第六、七条的规定，方可申请执业医师或执业助理医师资格考试的资格考核。<br>    经医师资格考试资格考核合格并推荐的传统医学师承和确有专长人员，可报名参加中医类别医师资格考试。县级以上卫生、中医药行政部门指定的考核机构出具的传统医学师承和确有专长人员医师资格考试资格考核合格证明连续两次（两年）有效。<br>    十一、符合报考执业医师资格条件的人员可以报考同类别的执业助理医师资格。<br>    十二、在乡级以上计划生育技术服务机构中工作，符合《执业医师法》第九条、第十条规定条件的，可以报考临床类别医师资格考试。<br>    十三、在军队所属医疗、预防、保健机构中工作，符合报考条件的考生应作为地方考生按照属地管理原则，到驻地附近考点办公室报名，并参加相应考试。<br>    在公安边防、消防、警卫部队医疗、预防、保健机构工作、符合报考条件的在编人员报名参加医师资格考试，可参照地方报考人员按规定在地方报考。<br>    十四、医师资格考试报考人员试用期截止至考试当年8月31日。<br>    考生报名后未按期完成试用的，取消报名资格。<br>    十五、具有下列情形之一的，不予受理医师资格考试报名：<br>    1、卫生职业高中毕业生；<br>    2、基础医学类、法医学类、护理学类、辅助医疗类、医学技术类等相关医学类和药学类、医学管理类毕业生；<br>    3、医学专业毕业，但教学大纲和专业培养方向或毕业证书注明为非医学方向的；<br>    4、医学专业毕业，但教学大纲和专业培养方向或学位证书证明学位是非医学的；<br>    5、非现役军人持军队医疗、预防、保健机构出具的试用期证明报考或在军队报名参加医师资格考试的；<br>    6、现役军人持地方医疗、预防、保健机构出具的试用期证明报告的；<br>    7、持《专业证书》或《学业证书》报名参加医师资格考试的；<br>    8、1999年1月1日以后入学的卫生职工中等专业学校的学生毕业后报考执业助理医师资格考试的。<br>    十六、参加医师资格考试的考生，其试用机构按《医师资格考试暂行办法》第四十一条规定认定。<br>    十七、试用机构出具的试用期满一年并考核合格的证明连续两次（两年）有效。第三次（年）参加医师资格考试除需提供原试用期满一年并考核合格的证明外，还应提供县级以上卫生行政部门指定的培训机构培训6个月并考核合格的证明。<br>    十八、实践技能考试成绩当年有效。<br>    十九、盲人医疗按摩人员不参加医师资格考试，其考试办法另行制定。<br>    二十、台湾、香港、澳门永久性居民报名参加国家医师资格考试的，按照有关文件执行。<br>    二十一、在考生报名资格审查过程中，各地要互相支持。对于其它卫生行政部门提出协助确认考生毕业学校和学历的，要予以积极配合。<br>    二十二、本规定自颁布之日起施行。《卫生部关于医师资格考试报名资格暂行管理规定》（卫医发[2001]127号）和《卫生部关于医师资格考试报名资格暂行管理规定的补充规定》（卫医发[2002]111号）同时废止。<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

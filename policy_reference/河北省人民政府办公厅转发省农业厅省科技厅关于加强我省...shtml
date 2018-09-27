@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河北省<BR>&nbsp;&nbsp;【发布文号】办字〔2005〕37号<BR>&nbsp;&nbsp;【发布日期】2005-04-04<BR>&nbsp;&nbsp;【生效日期】2005-04-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hebei.gov.cn/govaffair/policy/detail_pub.jsp?id=585&policy_name=2005年第七期" target=_blank>河北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河北省人民政府办公厅转发省农业厅省科技厅关于加强我省农业科技推广工作意见报告的通知<br><br></font>(办字〔2005〕37号  2005年4月4日)</p><br><br><br>各设区市人民政府，省政府有关部门： <br><br>    省农业厅、省科技厅《关于加强我省农业科技推广工作意见的报告》已经省政府同意，现转发给你们，请结合实际，认真贯彻落实。 <br><br>              关于加强我省农业科技推广工作意见的报告 <br><br>省人民政府： <br><br>    现将近年来我省农业科技推广工作的基本情况和下一步意见报告如下： <br><br>    近年来，经过各级农业科技推广部门的共同努力，我省农业科技推广工作有了很大发展。一是推广体系建设取得新进展。围绕农业科技进村入户，进一步完善了技术推广机构。全省农业系统目前共有推广机构2672个，推广人员1.5万多人。按照立足农业、面向农村、服务农民的指导思想，创新农业科技推广服务体系，初步形成了省、市、县、乡、村、户“五级一户”新型农业科技服务体系。二是农业新技术推广应用步伐加快。全省每年组织推广的农业新技术、新品种、新成果应用面积在1亿亩次以上，先进技术普及率达到75％左右，主要农作物良种覆盖率达到95％以上，主要农作物病虫害损失率控制在5％以下，促进了农业生产技术水平的提高。三是农民科技文化素质不断提高。通过实施“绿色证书”培训和“农技电波入户”等项目，对农民进行多形式科技培训，提高了农民科技文化素质，农民对科技的接受和运用能力普遍增强。 <br><br>    虽然我省农业科技推广工作取得了一定成绩，但与新阶段农业和农村经济发展要求还有较大差距，一是科技推广服务体系承担的职能与相应的支持不相适应，有些纯公益性职能的履行没有得到财政的全额支持。二是科技推广内容与农业发展结合不够紧密，一些地方科技推广工作还局限在产中服务阶段，服务水平距农产品生产的优质化、产业化要求仍有较大差距。三是推广的方法与农民的需求还不适应，不少地方仍然沿用计划经济时期的“行政十技术”的方式。四是推广人员的知识更新滞后，不能为农民提供有效、优质、全方位的服务。 <br><br>    为进一步做好全省农业科技推广工作，当前和今后一个时期全省农业科技系统应重点抓好以下四方面工作： <br><br>    一、继续完善和创新农业科技服务体系。按照“高新技术建龙头，示范基地抓带动，科技服务进村，农技电波入户”的思路，进一步完善“五级一户”新型农业科技推广服务体系，推进农业科技创新和普及，为加快农业科技进步提供有力支撑。省级重点抓项目带动，突出抓好国家级薯类脱毒中心、果树脱毒苗木中心、设施农业服务中心、无公害农产品物流配送中心、蔬菜新品种引育中心等重点项目建设，加强高新技术引进和产业化开发，辐射带动全省。市级重点抓科技示范基地的示范作用，以设施农业、生态农业、特色农业为重点，开展关键技术的引进、试验、示范和推广，增强基地的示范带动作用；开展企业主导、专家指导、政府引导的“农业科技传播站”试点，探索市场化运作、企业化经营、产业化发展的科技示范新途径。县级重点抓“电波入户”设备更新，提高其作用，力争两年内全省基本普及“农技电波入户”，模拟设备基本更新为数字设备；不断提高节目制作水平和质量，更好地为广大农民提供技术和信息服务。乡级重点抓示范农场建设，每年建设科技示范农场15个，到2007年全省乡级示范农场总数达到164个；探索科技示范农场建设新模式，提高示范农场的技术带动能力。村级重点抓科技进村服务站的规范和完善，按照“扩大建设规模、突出规范管理、增强服务功能”的指导思想，加大科技进村服务站建设数量和速度，到2007年，力争全省25％的行政村都建有服务站，解决农业技术服务最后“一公里”的问题，为广大农民提供更直接、更及时、更全面的技术和物资服务。 <br><br>    二、提高农业技术推广队伍人员素质。认真落实《中华人民共和国农业法》和《中华人民共和国农业技术推广法》，稳定和加强农业技术推广队伍，提高从业人员素质，一是按照中共中央国务院中发〔2005〕1号文件有关要求，对公益性技术推广工作，各级财政要在经费上予以支持。从2005年起，有计划地对全省农业技术推广骨干进行系统培训，逐步实现对推广人员轮训，使农业技术推广人员掌握农业科技发展的新信息、新技术、新知识、新观念，适应新形势下农业技术推广工作。二是在机构改革中严把人员进口，严禁将一些非农专业人员安排到农业技术推广队伍中。同时落实好国家和省有关优惠政策，鼓励专业对口的优秀大中专毕业生到县以下基层农业技术推广机构工作，充实基层技术推广力量。组织县级以上农业技术推广机构的科技人员深入农业生产第一线，进行技术指导和技术服务，为农业结构调整和农民增收提供人才和科技支撑。 <br><br>    三、加快农业先进技术推广应用步伐。按照高新技术抓引进、关键技术抓突破、常规技术抓普及的要求，重点围绕优良品种、畜禽水产高效养殖、设施农业、防灾减灾、农产品加工等重点领域，组织各有关部门落实30项先进适用技术的推广工作，提高全省农业生产整体科技水平。省农业厅将采取“重点筛选、科学论证、招标定项、立项竞争”的方式，每年选择3―5项全省农业和农村经济发展急需的重大关键技术，面向全国进行公开招标，项目经费择优扶持。发挥政府和市场两个方面的作用，以产业化方式进行开发，创新农业科技应用转化机制，加快先进技术的集成、组装、配套、示范和应用，促进转化为现实生产力，带动区域特色农业经济的形成和发展。 <br><br>    四、加大农民科技培训力度。紧紧围绕农业结构调整和农业产业化经营，及时调整农民科技培训计划，优化培训内容，拓宽培训范围，力争到2007年底达到每10个农户中有一名持绿色证书的农民，在全省农村初步形成一支懂技术、善经营、会管理的农民技术骨干队伍。在此基础上继续实施“百、千、万”工程，在获得绿色证书的农民学员中，继续做好农民技术员职称评定和劳动技能鉴定，在3年内新评定高级农民技师100人，中级农民技师1000人，初级农民技师10000人，形成带领农民学科技、闯市场、奔小康的农民科技骨干队伍。 <br><br>    以上报告如无不妥，请批转各市、各有关部门贯彻落实。 <br><br>    河北省农业厅 <br><br>    河北省科技厅 <br><br>    二○○五年三月十五日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

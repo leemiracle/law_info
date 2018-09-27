@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫疾控发[2005]263号<BR>&nbsp;&nbsp;【发布日期】2005-07-08<BR>&nbsp;&nbsp;【生效日期】2005-07-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10173&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>血吸虫病突发疫情应急处理预案<br><br></font>(卫疾控发[2005]263号)</p><br><br><br>各省、自治区、直辖市卫生厅局，各有关单位：<br><br>    《血吸虫病重大疫情应急处理预案（试行）》印发2年来，对于规范各地血吸虫病重大和突发疫情应急处理工作起到了积极作用。为了更好地贯彻落实新的《中华人民共和国传染病防治法》和《国家突发公共卫生事件应急预案》，我部在广泛征求各省意见的基础上，组织专家对预案进行了修订。现将修订后的《血吸虫病突发疫情应急处理预案》印发给你们，请结合本地实际贯彻执行。原卫生部办公厅印发的《血吸虫病重大疫情应急处理预案（试行）》同时废止。<br> <br>附件:血吸虫病突发疫情应急处理预案<br><br>二○○五年七月八日<br><br><br>血吸虫病突发疫情应急处理预案<br><br>    血吸虫病是严重危害人民身体健康、阻碍社会经济发展的重大传染病。我国血吸虫病流行区分布在长江流域及其以南的湖北、湖南、江西、安徽、江苏、云南、四川、浙江、福建、广东、广西和上海等12省、自治区、直辖市。由于血吸虫病的传播环节多，流行因素复杂，加之受社会、经济和自然环境等多种因素的影响，目前尚未控制血吸虫病流行的地区以及部分已经达到血吸虫病传播阻断和传播控制标准的地区，都面临着出现急性血吸虫病暴发疫情或疫情复燃的威胁。为了提高对血吸虫病突发疫情快速反应和应急处理能力，保障广大群众的身体健康与生命安全，维护社会稳定，促进经济发展，特制定本预案。<br><br>    1. 总则<br><br>    1.1 目的<br><br>    有效预防和及时控制血吸虫病突发疫情，规范和指导突发疫情应急处理工作，最大限度地减少突发疫情造成的危害，保障人民身体健康和生命安全。<br><br>    1.2 工作原则<br><br>    血吸虫病突发疫情的应急处理工作贯彻预防为主、常备不懈的方针，坚持统一指挥、分级负责、快速反应、依靠科学、依法管理的原则。<br><br>    1.3 编制依据<br><br>    本预案以《中华人民共和国传染病防治法》、《突发公共卫生事件应急条例》、《国家突发公共卫生事件应急预案》和《突发公共卫生事件与传染病疫情监测信息报告管理办法》为依据编制。<br><br>    1.4 适用范围<br><br>    本预案适用于全国血吸虫病突发疫情的应急处理工作。<br><br>    2 血吸虫病突发疫情的判定标准与分级：<br><br>    2.1  出现以下情形之一时，视为血吸虫病突发疫情，应启动应急处理工作：<br><br>    2.1.1  在尚未控制血吸虫病流行的地区，以行政村为单位，2周内发生急性血吸虫病病例（包括确诊病例和临床诊断病例，下同）10例以上（含10例，下同）；或同一感染地点1周内连续发生急性血吸虫病病例5例以上。<br><br>    2.1.2  在达到血吸虫病传播控制标准的地区，以行政村为单位，2周内发生急性血吸虫病病例5例以上；或同一感染地点1周内连续发生急性血吸虫病病例3例以上。<br><br>    2.1.3  在达到血吸虫病传播阻断标准的县（市、区），发现当地感染的血吸虫病病人、病畜或有感染性钉螺分布。<br><br>    2.1.4  在非血吸虫病流行县（市、区），发现有钉螺分布或当地感染的血吸虫病病人、病畜。<br><br>    2.2  符合以下条件之一，即可终止应急处理工作：<br><br>    2.2.1  在尚未控制血吸虫病流行地区和传播控制地区应急处理工作启动范围内，连续1个月无新发生急性血吸虫病病例。<br><br>    2.2.2  在血吸虫病传播阻断地区和非流行区应急处理工作启动范围内，连续1个月无新发血吸虫病病例，钉螺分布环境已经得到有效处理(通过药物或环境改造灭螺后，使钉螺平均密度控制在0.01只/0.1平方米以下)。<br><br>    2.3  血吸虫病突发疫情的分级<br><br>    Ⅰ级：在2个以上（含2个，下同）相邻流行省（自治区、直辖市）出现突发疫情，并连续出现新的疫点，疫点所在县（市、区）急性血吸虫病病例总数是前5年同期平均水平的5倍以上（含5倍，下同），且有大范围蔓延趋势。<br><br>    Ⅱ级：在2个以上相邻流行市（地、州）范围内出现突发疫情，疫点所在县（市、区）急性血吸虫病病例总数是前5年同期平均水平的3倍以上，且有蔓延趋势；或在1个非流行市（地、州）范围内，出现突发疫情。<br><br>    Ⅲ级：在2个以上相邻流行县（市、区）范围内出现突发疫情，急性血吸虫病病例数是前5年同期平均水平的2倍以上，且有蔓延趋势；或在1个非流行县（市、区）范围内，出现突发疫情。<br><br>    Ⅳ级：在1个流行县（市、区）范围内出现突发疫情。<br><br>    3. 应急响应<br><br>    3.1 突发疫情报告<br><br>    各级各类医疗机构和疾病预防控制机构发现血吸虫病突发疫情时，应当在2小时内向所在地县级人民政府卫生行政部门报告，接到报告的卫生行政部门应当在2小时内向本级人民政府报告，并同时通过突发公共卫生事件报告管理信息系统向卫生部报告。<br><br>    3.2突发疫情分级响应程序<br><br>    Ⅰ级：由卫生部组织有关专家进行分析论证，提出启动或终止应急处理工作的建议，报国务院批准后实施。<br><br>    Ⅱ级：由省级人民政府卫生行政部门组织有关专家进行分析论证，提出启动或终止应急处理工作的建议，报省级人民政府批准后实施，并向国务院卫生行政部门报告。<br><br>    Ⅲ级：由市（地、州）级人民政府卫生行政部门组织有关专家进行分析论证，提出启动或终止应急处理工作的建议，报市（地、州）级人民政府批准后实施，并向上一级人民政府卫生行政部门报告。<br><br>    Ⅳ级：由县级人民政府卫生行政部门组织有关专家进行分析论证，提出启动或终止应急处理工作的建议，报县级人民政府批准后实施，并向上一级人民政府卫生行政部门报告。<br><br>    3.3 应急组织<br><br>    血吸虫病突发疫情发生后，根据突发疫情分级响应程序，在当地人民政府的统一领导下，由卫生、财政、农业、水利、宣传、教育、公安以及爱卫会等有关部门组成血吸虫病突发疫情应急处理工作领导小组，负责本行政区域内血吸虫病突发疫情应急处理工作的组织管理、指挥和协调；卫生行政部门成立血吸虫病突发疫情应急处理技术指导小组，负责本行政区域内血吸虫病医疗救治、疫情控制和调查评估等相关工作。<br><br>    4 紧急处置<br><br>    4.1 现场处置<br><br>    4.1.1 病人救治：出现血吸虫病突发疫情时，县级以上卫生行政部门应立即组织医疗队，深入突发疫情疫点进行救治。对发现的所有血吸虫病病人，应及时予以治疗。<br><br>    4.1.2人群预防性早期治疗：根据早发现、早诊断、早治疗的原则，对同期有疫水接触史的人群进行早期预防性治疗，防止急性血吸虫病发生。早期治疗的药物和时间是：用吡喹酮治疗应在首次接触疫水4周后、用蒿甲醚治疗应在接触疫水2周后、用青蒿琥酯治疗应在接触疫水1周后进行。<br><br>    4.1.3 环境处理：在发生血吸虫病突发疫情的地区，对疫点及其周围有钉螺的水域和钉螺孳生地，用氯硝柳胺杀灭尾蚴和钉螺。喷洒剂量为2克/平方米，浸杀剂量为2毫克/升；同时在易感区域设置警示标志，划定安全生活区。有条件时，采用环境改造灭螺的方法彻底改造钉螺孳生地，消灭钉螺。<br><br>    4.1.4健康教育：大力开展健康教育，利用各种宣传形式，迅速开展血吸虫病防治知识的宣传，提高群众的自我防护能力，并积极配合和参与所采取的控制措施。<br><br>    4.1.5安全用水：要求居民在划定的安全生活区内取水。对饮用水源可能含有血吸虫尾蚴的，饮用前要进行卫生处理。方法为每50公斤水加漂白精0.5克或漂白粉1克，30分钟后方可饮用。<br><br>    4.1.6 粪便管理：对病人、病畜的粪便进行灭卵处理，方法为50公斤粪便加尿素250克拌匀，储存1天以上。<br><br>    4.1.7个人防护：教育群众尽量避免接触疫水，必须接触疫水者应在下水前涂抹防护剂，穿戴防护用具。突发疫情应急处理工作人员在现场开展防治工作时应注意个人防护。<br><br>    4.2流行病学调查<br><br>    突发疫情的调查由县级卫生行政部门组织，县级疾病预防控制（血防）机构、动物防疫监督机构具体实施。县级疾病预防控制（血防）机构、动物防疫监督机构接到突发疫情报告后，应在24小时内到达现场开展调查。<br><br>    4.2.1个案调查：对所有急性血吸虫病病例逐一进行个案调查，同时对在与患者感染时间前后各2周内，曾经在同一感染地点接触过疫水的其他人员进行追踪调查。调查人员应及时将"急性血吸虫病个案调查表"（见《全国血吸虫病监测方案（试行）》附表2）录入数据库，并通过血吸虫病信息专报系统上报。或以最快的通讯方式报上级疾病预防控制（血防）机构，同时报告中国疾病预防控制中心寄生虫病预防控制所。<br><br>    4.2.2疫点调查：根据个案调查线索确定疫点及其范围，进行钉螺和感染性钉螺调查，有条件的可进行水体感染性测定。对疫点所涉及的居民区进行人群和家畜接触疫水情况调查，并开展人群和家畜查病、治病工作。<br><br>    4.2.3自然因素和社会因素调查：对水位、降雨量、气温、自然灾害、人、畜流动情况、居民生产生活方式等相关因素进行调查。<br><br>    5. 保障措施<br><br>    5.1组织保障<br><br>    各级人民政府要加强对血吸虫病突发疫情应急处理工作的领导，协调各有关部门按照各自的职责分工，及时安排落实突发疫情应急处理所需的人员、经费和物资，成立应急处理队伍，为突发疫情应急处理工作提供保障。各级卫生行政部门应建立相应的应急处理人力资源库，并按突发疫情的级别制定人力资源调配计划，组织开展疫情处理和血吸虫病人救治工作。<br><br>    5.2物资保障<br><br>    国家和各省卫生行政部门要指定疾病预防控制（血防）机构，做好血吸虫病突发疫情应急处理的技术、物资储备。应急储备物资应妥善保管、指定专人负责，并及时补充更新。储备物资应包括：<br><br>    （1）人、畜抗血吸虫药物：吡喹酮、蒿甲醚、青蒿琥酯。<br><br>    （2）灭螺药品：氯硝柳胺。<br><br>    （3）防护药品：防护油、防护膏、漂白粉、漂白精等。<br><br>    (4) 检测试剂：血清学诊断试剂及相关器材等。<br><br>    (5) 设备及器具：灭螺机、显微镜、解剖镜、病原学检查器具等。<br><br>    5.3技术保障<br><br>    5.3.1  培训<br><br>    各级卫生行政部门组织开展血吸虫病突发疫情应急处理的管理培训，各级疾病预防控制机构负责组织相关的技术培训。<br><br>    5.3.2  演练<br><br>    各级卫生行政部门应根据本地区血防工作实际，制定血吸虫病突发疫情应急处理演练的计划，并组织实施。<br><br>    本预案由卫生部制定并解释,自发布之日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

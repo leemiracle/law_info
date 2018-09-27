@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发〔2006〕207号<BR>&nbsp;&nbsp;【发布日期】2006-05-31<BR>&nbsp;&nbsp;【生效日期】2006-05-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12099&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于2005年公共场所卫生重点监督检查情况的通报<br><br></font>(卫监督发〔2006〕207号)</p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，中国疾病预防控制中心，卫生部卫生监督中心：  <br>    2005年我部组织对商场（超市）和游泳场（馆）等重点公共场所进行了监督检查，现将全国29个省、自治区、直辖市（未包括西藏自治区、新疆自治区、新疆生产建设兵团）卫生行政部门上报的监督检查情况通报如下：     <br>    一、检查结果  <br>    （一）公共场所卫生许可证持有情况：共检查商场（超市）、游泳场（馆）4380户，持有效卫生许可证的有4186户，占总数的95.6％。其中，商场（超市）1663家，持有效卫生许可证的有1624户，持证率97.7％；游泳场（馆）2717户，持有效卫生许可证的有2562户，持证率94.3％。  <br>    （二）公共场所从业人员健康检查情况：对商场（超市）、游泳场（馆）从业人员的健康检查证明拥有情况进行了检查，共检查162627人次，其中，156822人次持有效健康证明，占96.4％。  <br>    （三）卫生管理制度检查情况：共检查商场（超市）、游泳场（馆）4380户，设立卫生管理组织机构的有4025户，占91.9%；建立了卫生管理制度的有4146户，占94.7%；配备专职或兼职卫生管理人员的有4206户，占96.0%；具有日常卫生检查记录的有3586户，占81.9%；制定了公共卫生事件应急预案的有2549户，占58.2%；有传染病报告制度的2462户，占56.2%。  <br>    （四）商场（超市）空气质量情况：对664家商场（超市）空调送风情况进行检测，可吸入颗粒物（PM10）均值合格率为85.0%，细菌总数均值合格率为55.2%，真菌总数均值合格率为74.4%；对456个冷却塔进行了军团菌检测，军团菌检出率为15.2%。对1004家商场（超市）进行场所内空气质量检测，二氧化碳均值合格率为95.5%，细菌总数均值合格率为92.5%，可吸入颗粒物（PM10）均值合格率为98.8%。  <br>    （五）商场（超市）空气调节设备检查情况：共检查1383家单位，配备新风设施的单位有1259家，占91.0％；新风机组能够正常运行的单位有1194家，占94.8％；新风来自室外的单位有1200家，占95. 3％；新风进口附近没有污染源的1182家，占93.9％；符合新风机房卫生要求的1139家，占90.5％。  <br>    （六）游泳场（馆）水质检测情况：抽检水样9555件，合格6949件，总合格率为72.7％。其中，细菌总数合格率为89.3%，大肠菌群合格率为92.9%，尿素合格率为90.4%，浑浊度合格率为98.4%，余氯合格率为76.3% 。  <br>    （七）游泳场（馆）卫生设施及消毒产品许可情况：被检查的2717家游泳场（馆）中，有池水循环净化设施的2176家，占80.1%；运行正常的2158家，占79.4%；有池水消毒设施的2490家，占91.6%；运行正常的2403家，占88.4%；浸脚池符合卫生学要求的有2179家，占80.2%；消毒产品具有卫生许可批件的2020家，占74.3%。  <br>    （八）行政处罚情况：各地卫生行政部门依据《公共场所卫生管理条例》的有关规定，对违反条例规定的852户单位进行了行政处罚，占检查总数的19.5％。其中，处罚299户商场（超市），占检查总数的18.0%，包括警告188户，罚款100户，罚款金额75440元，停业整顿11户；处罚553户游泳场（馆），占检查总数的20.4%，其中，警告358户，罚款147户，罚款金额85860元，停业整顿48户。  <br>    二、结果分析  <br>    从上述结果可以看出，商场（超市）场所内二氧化碳均值合格率、细菌总数均值合格率、可吸入颗粒物（PM10）均值合格率、新风设施及其机房的配备、运行合格率均较高；与2004年相比游泳场（馆）池水中细菌总数及浑浊度合格率有所上升，分别上升了0.2％和2.0%，卫生许可证持证率上升了13.8%，对违法行为的处罚率上升了14.6%。从本次全国的监督检查结果看公共场所卫生管理方面存在的主要问题有：1、部分商场（超市）空调系统清洗不全面，一般仅限于机组过滤网的清洗，尚未涉及通风系统的表冷器、加湿器、新风机组、冷凝水盘等部件，集中空调通风系统在设计上存在缺陷，没有考虑卫生管理问题，新风口位置设计不合理，送、回风口不能拆卸，送风主管道没有预留检修口，无法进行管道积尘采样和日常的清洗消毒，导致送风质量较低，军团菌检出率高；2、部分游泳场（馆）不重视池水消毒工作，购进消毒产品时，没有索要消毒产品卫生许可批件，个别游泳场（馆），消毒系统未正常使用，造成了池水游离性余氯不能达到国家卫生标准，水质合格率低；3、公共场所经营者对传染病报告等工作重视不够，未制定公共卫生应急预案的单位占被检查单位总数的41.8%，无传染病报告制度的单位占被检查单位总数的43.8%。  <br>   <br>   <br>附件：1、商场（超市）、游泳场馆卫生管理制度检查汇总表  <br>2、公共场所从业人员健康检查情况汇总表  <br>3、商场（超市）空气质量卫生监督检查汇总表  <br>4、商场（超市）空气调节设备检查汇总表  <br>5、游泳场馆水质抽检结果汇总表  <br>6、游泳场（馆）卫生设施及消毒产品许可情况检查汇总表  <br>7、商场（超市）、游泳场馆监督检查行政处罚情况汇总表  <br>8、商场（超市）、游泳场(馆) 公开表扬或曝光情况汇总表  <br>      <br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

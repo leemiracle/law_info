@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】信息产业部、国家税务总局<BR>&nbsp;&nbsp;【发布文号】信部联产[2006]616号<BR>&nbsp;&nbsp;【发布日期】2006-09-01<BR>&nbsp;&nbsp;【生效日期】2006-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200610081507551208" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>税控收款机产品序列号管理办法<br><br></font>(信部联产[2006]616号)</p><br><br><br>各省、自治区、直辖市和计划单列市及新疆生产建设兵团信息产业主管部门、国家税务局、地方税务局、有关企业：<br>    根据《中华人民共和国税收征收管理法》、《国家税务总局、财政部、信息产业部、国家质量监督检验检疫总局关于推广应用税控收款机加强税源监控的通知》、《税控收款机生产企业资质管理办法》及其他法律、行政法规和部门规章的规定，为了保证我国税控收款机推广应用工作的顺利实施，落实对税控收款机产品实施序列号管理的要求，信息产业部会同国家税务总局制定了《税控收款机产品序列号管理办法》，现印发给你们，请认真贯彻执行。<br>    附件：1.税控收款机产品序列号申请材料<br>          2.税控收款机产品序列号管理办法<br><br>                           信息产业部 国家税务总局<br>                               二○○六年九月一日<br><br><br>税控收款机产品序列号管理办法<br><br><font class='zhang'>第一章</font> 总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为了保证我国税控收款机推广应用工作的顺利实施，落实对税控收款机产品实施序列号管理的要求，根据《<a href=javascript:ROF(37255,0) class=alink>中华人民共和国税收征收管理法</a>》、《国家税务总局、财政部、信息产业部、国家质量监督检验检疫总局关于推广应用税控收款机加强税源监控的通知》、《税控收款机生产企业资质管理办法》及其他法律、行政法规和部门规章的规定，制定本办法。<br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称税控收款机产品序列号，是指按照国家标准《GB 18240.6设备编码规则》，对税控收款机产品所设置的管理编码。<br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  本办法适用于税控收款机产品序列号的申请、受理、核准和监督管理。<br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  中华人民共和国信息产业部(以下简称“信息产业部”)负责税控收款机产品序列号的分配、监督管理以及相关政策措施的制定。<br>    根据工作需要，信息产业部可以委托相应的机构承担税控收款机产品序列号受理工作，并委托其建立和管理序列号管理信息系统。<br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  经信息产业部分配的税控收款机产品序列号是产品唯一的、始终不变的法定代码。<br><br><font class='zhang'>第二章</font> 申请与核准<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  企业获得税控收款机产品生产企业资质证书、税控收款机产品生产许可证，并在税控收款机产品选型招标中标后，可以向信息产业部申请税控收款机产品序列号。<br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  企业申请税控收款机产品序列号，应当提交下列材料，并保证材料齐全、真实：<br>    (一)税控收款机产品序列号申请表；<br>    (二)税控收款机产品生产许可证复印件；<br>    (三)税控收款机产品选型中标文件复印件；<br>    (四)已经分配序列号的使用及产品销售情况。<br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  信息产业部根据企业申请，确定生产企业编码、产品类型编码，核批产品序列号号段。<br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  税控收款机产品序列号应按规定格式标识在：<br>    (一)税控收款机产品存储器内；<br>    (二)税控收款机产品包装箱；<br>    (三)税控收款机产品机壳；<br>    (四)税控收款机产品《保修卡》；<br>    (五)税控IC卡卡面。<br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  税控收款机产品序列号应按照一机一号进行设置和标识。产品序列号应连续、唯一、正确，标识应清晰、牢固、便于查验。<br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  申请企业将本办法第七条要求的文件，以电子邮件、传真、邮寄、办公场所提交等方式送交信息产业部。以电子邮件、传真方式提供申请文件的应在随后7日内以邮政特快专递(EMS)或到受理现场将申请文件送交信息产业部。<br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  企业提交的材料齐全、符合法定形式的，信息产业部应当在12个工作日内核准分配相应的序列号，并书面通知申请企业；材料不齐全、不符合法定形式的，信息产业部应当在12个工作日内将不予分配的理由书面通知申请企业。<br><br><font class='zhang'>第三章</font> 监督和管理<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  生产企业在获得产品序列号后应按规定使用和标识，不得转借或自行变更产品序列号，不得使用已被注销的产品序列号。<br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  没有序列号的税控收款机产品不得销售和使用。<br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  生产企业应在每季度前15日内向信息产业部报送上季度序列号的使用及产品销售情况。<br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  如发现下列情况之一，信息产业部将取消已分配的序列号或不再分配新的序列号，被取消序列号的产品不得在市场上销售：<br>    (一)不按照规定使用和标识产品序列号；<br>    (二)不按规定报送序列号使用及产品销售情况；<br>    (三)已停止税控收款机产品生产超过一年；<br>    (四)生产企业有严重违法行为。<br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  信息产业部对不再使用的税控收款机产品的序列号予以注销。    <br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  为做好市场监督管理工作，保证税控收款机产品序列号管理信息系统中的信息全面、准确，信息产业部和国家税务总局建立信息交流沟通机制，相互提供税控收款机产品序列号分配和使用情况的有关信息。<br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  信息产业部、国家税务总局公布不按规定使用和标识产品序列号的生产企业名单。<br><br><font class='zhang'>第四章</font> 附则<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  本办法由信息产业部负责解释。<br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  本办法自印发之日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

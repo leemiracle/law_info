@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总厅规划［2007］8号<BR>&nbsp;&nbsp;【发布日期】2007-01-19<BR>&nbsp;&nbsp;【生效日期】2007-01-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-01/22/content_216442.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产信息系统各级节点机房和布线工程技术规范--国家安全生产信息系统建设技术指导书（四）<br><br></font>(安监总厅规划［2007］8号)</p><br><br><br>各省、自治区、直辖市及新疆安全生产建设兵团安全生产监督管理局，各省级煤矿安全监察机构： <br><br>    根据国家安全生产信息系统建设进展情况，为规范安全生产信息系统基础环境和设施标准，实现安全生产信息系统的正常运行，现将委托国家安全监管总局通信信息中心编制的《国家安全生产信息系统各级节点机房和布线工程技术规范－国家安全生产信息系统建设技术指导书（四）》印发给你们，请各单位以此为指导，做好安全生产信息系统项目建设中相关节点机房和布线工程。 <br><br>二○○七年一月十九日 <br><br><br>国家安全生产信息系统各级节点机房和布线工程技术规范<br>国家安全生产信息系统建设技术指导书（四） <br><br>国家安全生产监督管理总局 <br>二○○七年一月 <br><br><br>    国家安全生产信息系统包括四级节点，各级节点应根据网络、服务器等系统设备数量和规模的不同、机房面积的不同，对照本技术规范以及国家有关标准实施机房和布线工程，以满足各级节点信息系统运行和维护的实际需要。各级节点可以根据自身信息化建设的规划和实际需要，提升和扩展本节点机房和布线工程的实施标准，但至少应满足本技术规范所规定的相关要求。国家安全生产信息系统项目验收将以本技术规范为基本依据。 <br><br>    本技术规范参照中华人民共和国国家标准《电子计算机机房设计规范》（GB50174-93，1993年2月17日国家技术监督局 、建设部联合发布，1993年9月1日实施）制定，如与国家有关标准不一致，以国家标准为准。 <br><br>    省级节点机房和布线工程技术规范 <br><br>    1.机房工程实施要求 <br><br>    1.1总体原则 <br><br>    应设独立机房，不应与其它任何非信息系统设备共用同一空间。根据机房功能、规模等实际情况，为了保证机房内不同设备对环境的不同要求，便于空调控制、灰尘控制、噪音控制和机房管理，应采用隔离墙将大空间分隔成不同的功能区域。机房区内的隔断墙不必隔热，可使用玻璃隔断。对于面积小、功能单一的机房不需要分区。 <br><br>    机房应远离强振源和强噪声源、避开强电磁场干扰，当无法避开强电磁场干扰或为保障计算机系统信息安全，可采取有效的电磁屏蔽措施。机房位置应尽量选择在建筑平台中间区域并靠近竖井，以方便工作区网络布线，以及与所在建筑物的供电、消防、通讯的线缆联接。 <br><br>    与机房无关的给排水管道不得穿过机房。 <br><br>    楼层的选择应考虑空调机室外冷凝器的安装。对于机房专用的精密空调，室外冷凝器不得低于室内机3米，不高于室内机20米。放置冷凝器的平台应有足够的面积，一般两机组之间、机组与墙之间的距离要求≥1米。对于舒适性空调，应尽量将其室外机放在机房近处，避免因空调室内机与室外机距离过远或室外机与室内机高差太大而造成耗电量增加、效率降低、空调机寿命减损。同时应及时检修排水不畅的水管，防止空调机漏水造成设备损坏。 <br><br>    1.2机房承重要求 <br><br>    在选择机房位置时应及时确认机房所在建筑楼层楼板承重能力，对照本节点机房建设规模和设备数量，核定该承重是否满足需要，并采取相应加固措施。加固措施对活动地板下送风不得有大的阻挡。 <br><br>    1.3机房装修要求 <br><br>    机房装修应遵循国家有关标准，采用防火材料、防静电材料。墙面装饰宜采用贴墙材料（如铝塑板、彩钢板等）饰面，应做到：表面平整、气密性好、易清洁、不起尘、不变形。墙体基层应做好防潮、屏蔽、保温隔热处理。活动地板下的地表面应进行防潮处理（如涮防潮漆等）和下送风空调区域地台保温处理，保证下层顶板表面不会因楼板和冷风的温差而结露。 <br><br>    机房门窗应采用防火防盗门窗，机房内门窗可用无框大玻璃门，保证机房的安全，也保证机房内有通透、明亮的效果。机房的外窗应为双层密封窗。 <br><br>    机房应采用防静电活动地板。应符合《计算机机房用活动地板技术条件》（中华人民共和国国家标准 GB 6650-86）。活动地板应可拆卸，所有设备的线缆的连接、管道连接及检修更换都应方便。活动地板的高度应不低于350毫米。 <br><br>    机房墙面装饰施工中应做严格密封处理（特别是活动地板下的密封），不能有漏风缝隙，以保证机房的正压和洁净度。 <br><br>    1.4机房内环境要求 <br><br>    应安装独立空调系统，保证24小时运转，维持机房内恒定温湿度，以保证设备使用环境；应对门窗作密闭处理，以保证环境清洁；机房应避免阳光直射；机房必须安装新风系统，新风应有2~3级过滤，最后一级过滤应为亚高效过滤器，以补充机房新风和维持机房正压和洁净度。机房内不宜设采暖散热器，如设散热器必须采取严格的防漏措施。 <br><br>    机房应配备标准尺寸的网络机柜和服务器机柜，以便网络、服务器等标准设备机箱可以顺利上架固定，机柜前后门不应采用封闭式，应采用透气性好的网孔式柜门，以保证设备得到良好的通风和散热。 <br><br>    1.5机房电气要求 <br><br>    机房负载分为主设备负载和辅助设备负载。主设备负载指计算机及网络设备、外设设备、测试设备及监控系统，其供电质量要求非常高，应采用UPS来保证供电的稳定性和可靠性。辅助设备负载指空调设备、动力设备、照明设备、维修设备等，由市电直接供电。不间断电源系统应有自动和手动旁路装置，避免系统故障或维修时中断电源。未经不间断供电系统提供的电源不可直接向主设备供电，不间断供电系统容量应满足本节点信息系统建设的需要并考虑适当余量，尽量避免不间断供电系统带较大负荷运转，有条件的可以安装一主一备两套系统或采用模块化不间断电源系统实现系统冗余。后备电源时间视所保护的计算机设备及其应用系统情况而定，以保证断电时管理人员有足够的时间可以对系统进行必要的保护性操作。 <br><br>    机房电气装置应选择优质电缆、线槽和插座。插座应分为市电、UPS及主要设备专用的防水插座，并应有明显标识。照明应选择机房专用的无眩光灯具，应保证主机房平均照度大于500Lx（勒克斯）。 <br><br>    机房宜采用双回路供电，由所在建筑物总配电柜直接提供。有条件的可使用后备柴油发电机作为主要的备用动力电源，其容量应包括UPS的基本容量、空调和制冷设备的基本容量、应急照明及关系到生命安全等需要的负荷容量。 <br><br>    机房所在建筑必须安装避雷针等防直击雷保护装置，机房电源进线应按现行国家标准《建筑防雷设计规范》采取防雷措施。机房电源应采用地下电缆进线。当不得不采用架空进线时，在低压架空电源进线处或专用电力变压器低压配电母线处，应装设低压避雷器。雷雨较为频繁的地区或有条件的地区应在建筑物总配电柜、机房电源输入端、不间断电源输出端分别安装三级防过压保护装置，以防止感应雷所引起的雷电浪涌和其他原因引起的过电压。 <br><br>    机房接地应包括机房计算机直流逻辑地、配电系统交流工作地、安全保护地、防雷保护地等四种接地。交流工作接地电阻不应大于4Ω（欧姆）；安全保护接地电阻不应大于4Ω（欧姆）；直流工作接地电阻应按计算机系统具体要求确定；防雷接地应按现行国家标准《建筑防雷设计规范》执行。交流工作接地、安全保护接地、直流逻辑接地、防雷接地等四种接地宜共用一组接地装置，其接地电阻按其中最小值确定；若防雷接地单独设置接地装置时，其余三种接地宜共用一组接地装置，其接地电阻不应大于其中最小值。信号系统和电源系统、高压系统和低压系统不应使用共地回路。灵敏电路的接地应各自隔离或屏蔽，以防止地回流和静电感应而产生干扰。 <br><br>    1.6机房消防要求 <br><br>    根据本节点规模选择消防模式，应采用气体灭火方式或手提式干粉灭火器。消防系统应有24小时监控和报警装置，并与所在建筑物消防系统联动，否则应安排专人值班。 <br><br>    1.7机房管理要求 <br><br>    机房应专人管理、进出应有登记，以便日后审计。有条件的应通过门禁系统进行自动记录和管理审计。 <br><br>    应做好机房漏水检测，机房的水害来源主要有：机房天花屋面漏水；机房地面由于上下水管道堵塞造成漏水；空调系统排水管设计不当或损坏漏水；空调系统保温不好形成冷凝水。 <br><br>    应对机房设备的运行状态、温度、湿度、洁净度、供电的电压、电流、频率、配电系统的开关状态等进行定时监控并记录历史数据，为安全运营提供有力的保证。 <br><br>    有条件的可采用计算机系统实现上述综合监控和管理。 <br><br>    2.布线工程实施要求 <br><br>    布线系统应严格按照标准设计、施工、测试。同时，选购布线系统应着眼于未来，保证构建的布线系统有足够的传输余量，从而满足未来3~5年网络的升级更新。目前应以超五类和六类布线系统为主要选择。 <br><br>    机房内强、弱电走线应明显分开，以避免电磁干扰，一般要求强电采用地板下走线，弱电采用上走线，强电采用线槽，弱电采用吊装金属梯架。 <br><br>    工作区信息点布设数量应考虑充足，保证每台计算机直接接入机房内的交换机，不应在工作区设二级交换机级联，工作区与机房之间布线距离超过有关布线标准规定的传输距离的，应使用光纤布线作为骨干线路并通过交换机内部的光纤模块进行交换机的级联。 <br><br>    机柜内配线架、模块、跳线应与所选布线系统类型、性能要求、国际标准统一，并尽可能使用同一厂家的产品配合使用，以使整个系统的性能更为优化。工程完工后应使用测试仪按照所选种类布线系统的国际标准要求进行链路和通道的现场测试，以证明其能够满足标准规定的指标。 <br><br>    布线施工应选择具有相应资质并受过所选布线系统厂方培训的工程队伍，在施工中应防止线缆物理损伤、松动、变形、受力等，以避免损耗和串扰。 <br><br>    机柜内、工作区所有信息点应有清晰、准确、牢固的标识。机柜和工作区跳线应使用原厂产品，尽量避免手工压接（六类系统不允许手工压接），以保证网络负荷较大时的传输效果。 <br><br>    市级节点、煤监分局节点、县级节点机房和布线工程标准参照省级节点要求，根据本节点信息化建设规模执行。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

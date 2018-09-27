@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政文〔2007〕385号<BR>&nbsp;&nbsp;【发布日期】2007-10-31<BR>&nbsp;&nbsp;【生效日期】2007-10-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200712/t20071211_48766.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府关于加快发展集成电路设计业的意见<br> <br></font>(闽政文〔2007〕385号)</p><br> <br><br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业，各高等院校：<br><br>    集成电路是信息产业的核心和灵魂，而集成电路设计业是集成电路产业的龙头。加快发展集成电路设计业，将有效推动全省信息产品创新，提高信息产业的核心竞争力。为加快发展我省集成电路设计业，现提出以下工作意见：<br><br>    一、加快发展集成电路设计业是建设信息产业强省的重要措施<br><br>    集成电路设计业具有科技创新含量高、自然资源消耗少、与其他行业关联度大等特点。以发展集成电路设计业为切入点，大力开发具有自主知识产权的集成电路产品，将有力推动我省集成电路产业链的形成，提升福建信息产业的核心竞争力。<br><br>    近年来我省集成电路设计业取得了显著进步，据初步统计，目前全省已有30多家集成电路设计企业，其中5家企业获得信息产业部认定，省内一些较大规模的电子整机企业也具备一定的专用集成电路设计开发能力，已具备数字音视频芯片、微控制芯片、嵌入式系统芯片、电源管理芯片和消费电子产品芯片等设计能力。依托福州大学建设的福建省集成电路设计中心（ICC）已建成投入运行，并已争取到国家教育部批准福州大学依托ICC建设国家集成电路人才培养基地；争取到国家软件与集成电路公共服务平台在我省集成电路设计中心设立分中心，为本省集成电路设计企业提供研发、芯片测试、企业孵化和培养人才等公共服务；厦门市也已建成集成电路公共服务平台。<br><br>    但与国内集成电路设计业发展领先省市相比，我省集成电路设计业无论是在技术水平，还是在规模总量上都存在较大差距。主要是集成电路设计企业偏少，大部分企业实力较弱；芯片研发与省内整机生产企业脱节；集成电路行业人才严重缺乏；企业融资困难等，制约了全省集成电路设计业的加快发展。<br><br>    “十一五”期间，随着我省国民经济持续、快速、健康发展，社会信息化水平将进一步得到提高，预计信息产业将保持年平均20%以上的增长速度；我省已经初步形成的数字视听产品、计算机及外设产品和移动通讯产品三大产业链，以及一批有较大规模并在全国有一定影响的电子整机企业，对发展集成电路设计业提供了良好的市场机遇；承接在国际上占有较大优势的台湾集成电路设计业转移也有很大潜力。集成电路设计业的发展已处于关键时期，加快发展集成电路设计业，关系到我省信息产业总体水平的提升和规模壮大，也是建设信息产业强省的重要措施，各级各相关部门应增强紧迫感，整合资源，合力推动，扶持我省集成电路设计业进一步发展壮大。<br><br>    二、明确集成电路设计业发展工作目标<br><br>    根据国家关于发展集成电路产业中长期规划的指导精神，在“十一五”期间，我省集成电路设计业要以市场为导向，坚持自主研发与引进技术相结合，着力培育骨干企业，研发一批与我省电子整机企业发展相配套的自主创新集成电路设计产品，走可持续、跨越式的发展道路。<br><br>    ――加大与国际以及台湾先进技术合作交流力度，引进和培育一批集成电路设计企业和人才。瞄准世界尤其是台湾信息产业转移趋势，推动闽台集成电路产业对接，承接台湾集成电路设计业转移。“十一五”期间全省集成电路设计业销售额争取年均增长30%以上，到2010年全省集成电路设计企业自主创新能力及实力有明显提高，有一定规模的集成电路设计企业达50家以上，销售额超亿元的设计企业达5家以上（其中10亿元以上1家）；到2015年全省集成电路设计业销售额争取超过100亿元，争取全省集成电路设计开发能力达到国内先进水平，成为国家集成电路设计的重要产业基地，能够基本满足省内电子整机市场对芯片设计的需求。<br><br>    ――依托省集成电路设计中心（ICC）和厦门集成电路公共服务平台，建成有一定规模的我省集成电路设计业产、学、研基地。形成功能齐全的全省集成电路设计研发、测试、孵化、创业公共平台，以及集成电路高端人才实训和储备基地。大力开展集成电路设计与应用技术的研究与开发，并为各级政府集成电路产业决策提供咨询服务。<br><br>    ――加快集成电路重点学科建设，大力培养和引进各类集成电路适用人才。依托福州大学国家集成电路人才培养基地和厦门大学等重点高校，扩大集成电路及相关专业本科和工程硕士招生规模。到2010年，全省集成电路及相关专业本科以上在校生规模争取达到1000人以上，其中硕士以上研究生在校生规模达到300人以上，基本适应本省集成电路设计业发展需要，“人才引项目”的效应更加凸现。<br><br>    三、加大发展集成电路设计业的工作力度<br><br>    集成电路设计业属于知识、技术密集型且市场竞争程度高的行业，要结合集成电路设计业的产业特点，加大加快发展集成电路设计业的工作力度，努力建立产、学、研相结合的创新体系，培养一批行业技术和管理领军人物，不断增强自主创新能力，提升全省集成电路设计业的整体水平。<br><br>    （一）加强政府引导和行业管理。各级政府有关部门要加强领导，采取各种有效措施扶持发展集成电路设计业。省信息产业主管部门要加强集成电路设计业的规划和行业引导，通过建立有关部门参与的“加快发展集成电路设计业”工作联席会议制度，积极协调各方面行政资源，形成加快发展集成电路设计业的合力，从税收、融资、工商、人才培养与引进、政府资金扶持等方面给予实质性的支持，营造良好的发展环境和创业氛围。<br><br>    （二）加大金融扶持力度。积极扩大科技贷款对象，对列入符合信贷条件的国家重点集成电路项目在审定贷款时可适当扩大授信额度，简化审批手续；对集成电路开发设计和成果产业化对接项目，可从支持生产制造企业扩大和延伸到支持有效益、有还款能力的从事技术研究、开发、营销、培训的各类集成电路设计、科研院所等具有独立法人资格的非生产型单位或实体；对融资需求较大的集成电路设计重大产业化项目，可组织银团贷款给予支持；同时可根据集成电路设计企业高风险、高收益的特点，实行贷款利率风险定价，合理确定贷款利率水平。鼓励支持从事集成电路设计的大中型企业发展直接融资，如发行公司债、短期融资券、股票和吸引创业投资基金投入等。<br><br>    （三）培养和引进相结合，为加快集成电路设计业发展提供人才支撑。鼓励和支持有条件的高校创办微电子学院和设置集成电路及相关专业学科；鼓励和支持集成电路骨干企业与高校联合办学和设立互惠互利的实训基地，加快培养集成电路设计业本科和硕士、博士等多层次适用人才；支持和鼓励集成电路骨干企业设立博士后工作站；鼓励和扶持各类培训机构开办集成电路设计培训班，加强在职人员的知识更新和再教育；采取有效措施，鼓励和支持引进高层次的集成电路设计人才和管理人才。<br><br>    （四）重视闽台交流对接，搭建集成电路设计企业与电子整机生产企业的联系对接平台。扶持建立本省及闽台集成电路设计企业与省内电子整机生产企业经常性沟通联系和产品技术供需交流的渠道，通过电子整机生产企业的发展需求带动集成电路设计业的发展，努力实现电子整机产品集成电路设计本地化，提高本省电子整机企业的产品性能，降低企业成本，提升产品竞争力。<br><br>    （五）加强知识产权保护，保障集成电路设计业健康发展。鼓励和支持集成电路设计企业积极开展集成电路布图设计登记、软件著作权登记、商标和专利申请等，加强企业自主创新成果的知识产权保护；鼓励和支持集成电路设计企业购买相应的集成电路知识产权，尊重和自觉保护电子设计自动化（EDA）软件、硅知识产权（IP核）等集成电路领域的知识产权，共同维护集成电路设计业持续、健康、快速发展的创业环境。<br><br>    （六）加大财政性资金的扶持力度。从2008年开始，三年内省级财政每年安排2000万元专项资金，扶持集成电路设计行业的发展，重点用于补助集成电路设计公共服务平台建设、与本省电子整机生产企业对接和关键共性技术的研发、产业化项目，支持闽台集成电路设计企业交流合作与对接、引进和培养高层次技术和管理人才等；省信息产业厅、财政厅负责研究制定专项资金的使用管理办法。省发展改革委、经贸委、科技厅等部门应从部门有关专项资金中，调剂安排部分资金，共同扶持我省集成电路设计行业的发展；省直有关部门都应分别积极向国家有关部门争取对集成电路设计行业的补助资金，并给予适当的资金配套扶持。<br><br>    省政府有关部门要切实落实国家和省扶持集成电路设计业发展的各项政策，注重调查研究，加强部门与企业之间的互动关系，不断解决影响产业发展的瓶颈问题；各级政府、各部门要高度重视集成电路设计业的发展，有基础有条件的地区要充分发挥地域优势和资源优势，优化发展环境，加大招商引资力度，多方支持，形成合力，大力促进我省集成电路设计业快速发展。<br><br>    福建省人民政府<br>    二○○七年十月三十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

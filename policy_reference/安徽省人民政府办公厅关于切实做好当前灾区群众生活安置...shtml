@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办明电〔2007〕38号<BR>&nbsp;&nbsp;【发布日期】2007-07-11<BR>&nbsp;&nbsp;【生效日期】2007-07-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4146" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅关于切实做好当前灾区群众生活安置工作的紧急通知<br><br></font>(皖政办明电〔2007〕38号)</p><br><br>    <br>    各市、县人民政府，省政府有关部门：<br>     当前，淮河汛情紧急，沿淮淮北内涝严重，皖南山区突发山洪，全省灾情十分严重。胡锦涛总书记、温家宝总理、回良玉副总理先后对我省灾情作出重要批示，要求切实做好淮河防汛抗洪救灾工作，妥善安置灾区群众生活，确保人民群众生命安全。为认真贯彻落实党中央、国务院领导批示精神，切实做好当前灾区群众生活安置工作，确保灾害应急阶段灾民有饭吃、有衣穿、有房住、有干净水喝、有病能医，经省政府同意，现就有关问题紧急通知如下：<br>    <br>    一、要确保灾区群众饮水安全。要通过组织送水车运水、发放桶装瓶装水等方式，确保灾民特别是集中安置点群众有水喝。同时，要切实加强灾区生活饮用水卫生监测和消毒工作，及时发放净化剂和消毒药品，指导帮助群众对饮用水进行消毒杀菌，保证受灾群众能喝上干净水。<br>    <br>    二、要认真解决好灾民吃饭问题。要采取政府救济、社会捐赠、群众互借等方法，重点优先解决重灾户、绝收户、全倒户、家财全光户、特困户、五保户，以及集中安置点灾民和行蓄洪区转移出来灾民的吃饭问题。要及时组织运输车、水上流动供应服务船等，保证粮食、食用油、蔬菜、燃料等生活必需品的供应，主动上门提供粮食加工和农副产品收购等服务，确保灾民有饭吃。<br>    <br>    三、要尽快解决灾民住房问题。要采取动员投亲靠友、借住公房、租用住房、搭建简易住房、调运帐篷等措施，妥善安置转移出来的灾民，特别是要安排好倒房户的住宿问题。要注意检查受损房屋，防止发生次生灾害。同时，要把灾民建房工作摆上重要议事日程，提前谋划，超前运作，保证倒房户灾民在入冬前搬进新居。<br>    <br>    四、要及早解决灾民衣被问题。当前，要重点解决倒房户、被淹户等重灾户的衣被问题，大力开展社会捐助活动，积极募集衣被支援灾区，做好募集衣被接收和发放工作，及时送到缺衣少被灾户手中，保证灾区群众有衣穿、有被盖。<br>    <br>    五、要认真做好灾区防病治病工作。各级卫生部门和医疗机构要积极组织医务人员深入灾区，设立临时医疗点，开展巡回医疗，并做好防暑降温工作，保证灾民有病能及时得到治疗。要进一步做好疫情监测和报告工作，加强灾区食品卫生监测、监督和管理，搞好环境清理消毒。一旦发现疫情和突发公共卫生事件，要迅速控制处理，绝不能蔓延，确保大灾之后无疫情。<br>    <br>    六、要切实加强灾区社会治安管理。灾区各级政府要高度重视社会治安工作，公安机关要组织警力值班，发动群众联防，加大巡逻防范工作力度，特别是在灾民临时聚居地区要派驻更多警力，确保群众生命财产安全。<br>    各地、各有关部门要高度重视灾区群众的生活安置工作，进一步加强领导，层层建立责任制，分片、分项包干，责任到人，各类救灾款物要及时下拨发放，尽快如数送到灾民手中，坚决防止因工作不到位而出现问题，确保灾区群众生活得到妥善安置。<br>    <br>                                                 安徽省人民政府办公厅<br>                                                 二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

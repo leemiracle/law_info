@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券业协会<BR>&nbsp;&nbsp;【发布文号】中证协发[2009]154号<BR>&nbsp;&nbsp;【发布日期】2009-09-09<BR>&nbsp;&nbsp;【生效日期】2009-10-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sac.net.cn/newcn/home/info_detail.jsp?info_id=1252316159100&info_type=CMS.STD&cate_id=81183690929100" target=_blank>中国证券业协会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国证券业协会关于发布《证券营业部信息技术指引》的通知 <br><br></font>(中证协发[2009]154号)</p><br><br><br>    各证券公司会员：<br><br>    为规范证券公司营业部信息技术系统的建设和安全管理，防范技术操作风险，保护投资者利益，保障证券市场稳定运行，协会按照证券期货业信息化领导小组和证监会机构部的要求，制定了《证券营业部信息技术指引》，现予发布，请参照执行。<br><br>    附件：证券营业部信息技术指引<br><br>    二○○九年九月七日 <br><br>    证券营业部信息技术指引<br>    二零零九年<br><br>    目 录<br><br>    <font class='zhang'>第一章</font> 总则<br><br>    <font class='zhang'>第二章</font> 基础环境<br><br>    <font class='zhang'>第三章</font> 网络通信<br><br>    <font class='zhang'>第四章</font> 应用系统<br><br>    <font class='zhang'>第五章</font> 管理制度<br><br>    <font class='zhang'>第六章</font> 系统运维<br><br>    <font class='zhang'>第七章</font> 安全保障<br><br>    <font class='zhang'>第八章</font> 附则<br><br>    <font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强证券营业部信息系统建设和管理，防范技术风险，保障证券市场平稳运行，依据《<a href=javascript:ROF(105464,0) class=alink>中华人民共和国证券法</a>》、中国证监会法律法规和中国证券业协会自律规则的有关规定制定本指引。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 证券公司应按照信息系统安全性、实用性、可操作性原则，统一规划和建设证券营业部信息系统，全面负责证券营业部信息技术的安全管理。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 证券营业部应在所属证券公司的集中统一管理下，制定相应的信息技术工作流程和操作规范，确保信息系统对业务的有效支撑。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 在中华人民共和国境内依法设立的证券公司所属证券营业部适用于本指引。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 中国证券业协会对证券公司执行本指引的情况进行指导和督促。<br><br>    <font class='zhang'>第二章</font> 基础环境<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 证券营业部机房建设应符合GB9361-88《计算站场地安全要求》和GB2887-89《计算站场地技术条件》的有关规定。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 证券营业部机房应位于证券营业部场地内部，证券营业部场地选址应满足以下技术要求：<br><br>    (一）尽可能选择具有市电双路供电的场所；<br><br>    (二）远离强震源、强磁场源和强噪声源，无无线电电磁干扰；<br><br>    （三）远离产生粉尘、油烟、有害气体以及具有腐蚀性、易燃、易爆物品的工厂、仓库等场所；<br><br>    （四)具有机房空调室外机组安装条件；<br><br>    （五)符合当地抗震强度要求；<br><br>    （六）尽量避免低洼地带。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 证券营业部机房应满足以下技术要求：<br><br>    （一）尽量避让建筑物顶层、地下室、用水设备的下层或隔壁以及易漏雨、易渗水和易遭雷击的区域，避开易发生火灾危险的区域；<br><br>    （二）选择通信设施健全，相对安全、易于管理的区域；<br><br>    （三）避让主干电力电缆穿越场所，避让供水和消防管网经过；<br><br>    （四）应当设置设备区域、辅助设备区域，设备区域用于安放服务器、网络通信设备等设备，辅助设备区域用于安放UPS电源等设备；<br><br>    （五）设备放置处应考虑地面承重，应尽量选择有主干墙、承重墙的位置放置，必要时应进行地面加固；<br><br>    （六）应配备应急照明装置。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 证券营业部机房应采用结构化布线系统，综合布线应符合《建筑与建筑群综合布线工程系统设计规范》（GBT/T 50311）要求。各配线机柜内应配备理线架，做到跳线整齐，跳线与配线架统一编号，标记清晰。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 证券营业部机房应采用综合接地系统或独立接地系统。采用综合接地系统接地的证券营业部机房，直流接地、交流工作地和防雷保护地，直接连接大楼的综合接地，接地电阻应不大于4欧姆。采用独立接地系统的证券营业部机房，直流地和防雷保护地之间的距离应大于10米，直流地的接地电阻应小于2欧姆，交流工作地的接地电阻应小于4欧姆，防雷保护地的接地电阻应小于10欧姆。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 证券营业部机房须安装独立空调，采用一用一备、多用一备或多用多备的方式，主用空调单独运行时应能保证机房温度保持在21℃±3℃规定范围内。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 证券营业部机房机柜或机架宜配置双回路供电，相关电器设备、电线应与机柜用电负载相适应，并留有余量。机柜接地与机房接地应可靠连接。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 证券营业部机房应具有独立于一般照明电的专用供电线路，设有独立的配电柜或配电箱。供电容量应满足证券营业部配电规划需求，并留有一定余量。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 证券营业部机房建议采用双路供电，应配备UPS电源和至少一种其他持续供电方式（自备发电机、租用发电机、租用发电车等）。在供电中断情况下，应保证机房设备和不低于25%的现场交易设施在交易时间内持续供电，满足证券营业部客户证券交易需要。<br><br>    （一）具有自备发电机的证券营业部，UPS电源应保证机房设备和不低于25%的现场交易设施持续供电不低于1小时。<br><br>    （二）采用租用发电机、租用发电车等其它持续供电方式的证券营业部，UPS电源应保证机房设备和不低于25%的交易设施持续供电不低于4小时。<br><br>    （三）发电机的功率应满足机房设备运转和不低于25%的交易设施持续供电需要。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 严禁将与业务无关的设备接入UPS电源。市电插座和UPS插座应严格区分，插座面板应有明确的颜色标识或标签。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 证券营业部配备或租用发电机，应远离易燃易爆的物品，并安装在具有良好通风的场地内。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 消防系统建设应通过当地消防主管部门的消防安全验收。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 机房宜安装防火防盗门和门禁系统，有条件的可安装防盗报警系统。 <br><br>    <font class='zhang'>第三章</font> 网络通信<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 证券营业部与所属证券公司之间，应使用不同运营商或不同介质的2条以上通信线路建立可靠通信联接，且线路带宽能够满足业务需要并留有冗余。网络通信设备应有冗余备份，避免单设备故障，并能保证发生故障时实现及时切换。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 证券营业部与其他外联单位、互联网的通信线路，可根据业务需要，选择合适的通信线路、线路带宽和线路备份方式。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 证券营业部网络规范应符合所属证券公司有关的证券营业部局域网、广域网、互联网接入以及安全防护的网络建设规范。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 证券营业部局域网应采用多层网络架构，用于交易业务的核心层应部署至少两台交换机互为备份，网络接入层设备应避免使用HUB。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 证券营业部网络配置参数和IP地址段应由所属证券公司统一规划管理，证券营业部的IP地址、路由规则等网络配置应按所属证券公司要求设定。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 证券营业部局域网应合理划分用于交易业务的核心网、客户网和非交易业务的办公网等安全域，且相应确定各安全域的功能定位。各安全域之间应采取安全措施实现有效隔离。用于交易业务的网络禁止直接接入互联网。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 处理交易业务的计算机终端应实行专机专用，严禁接入互联网。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 证券营业部应按照所属证券公司的要求，部署正版防病毒、防木马、防恶意代码在内的系统安全防护软件，以确保信息安全。<br><br>    <font class='zhang'>第四章</font> 应用系统<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 证券营业部应用系统是指提供行情、开户、交易、资讯等客户服务的信息系统。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 证券营业部应用系统应具备足够的健壮性，系统处理能力具有一定的冗余度，行情、交易、资讯系统等关键硬件设备应通过热备、冷备等手段，避免单点故障，提高系统可用性。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 证券营业部服务器应采用双电源、双网卡等方式，提高系统可靠性。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 证券营业部未经所属证券公司批准，不得擅自安装使用与业务及技术维护无关的应用软件。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 证券营业部应当为客户提供2种以上行情揭示与分析系统，应当为客户提供现场委托以及网上委托、电话委托等2种以上非现场委托交易发式，其中证券公司电话委托线路应当不低于30线/万户合格资金账户。证券公司电话委托系统应提供集中服务，以保障局部地区发生突发事件时能够为该地区证券营业部提供持续的行情和交易服务。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a> 证券营业部电话委托、自助终端应能记录证券委托、撤单、银证转账、密码修改等操作的终端识别信息，其中电话委托应记录主叫电话号码，热自助应记录网卡物理地址，相关记录保存二十年。<br><br>    <font class='zhang'>第五章</font> 管理制度<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> 证券营业部应执行所属证券公司的人员管理、机房管理、网络管理、设备管理、数据管理、技术文档管理、系统运维管理、应急处理等制度。每年将信息系统运行及制度执行情况报告所属证券公司并同时按监管部门的要求抄报有关单位。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 证券公司应在确保证券营业部信息系统稳定运营的前提下，至少配备一名专职和一名兼职技术人员，技术人员应具有计算机及相关专业学历，并具有1年以上技术岗位从业经验。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a> 机房管理包括机房出入、设备出入等内容。机房内严禁放置易燃易爆物品及强磁物品。外来人员未经允许严禁进出机房。未经许可不得擅自挪动机房内设备、更改网络线路、私自安装软件。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a> 网络管理包括配置管理、访问控制、安全审计等内容。网络设备应按最小安全访问原则设置访问控制权限。路由器、交换机和防火墙等设备应根据子网安全隔离的需要限制允许登录的IP地址，严禁从公司网络以外登录。应于每一次变更后及时更新备份网络设备的配置信息。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a> 设备管理包括选型、购置、登记、保养、维修、报废等内容。关键设备应建立维护档案。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a> 数据管理包括数据备份、存放、调阅、销毁等内容。未实现集中管理的交易数据，应指定专人负责管理，并至少每日备份一次，数据调阅应经审批，不得随意对外泄露。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a> 技术文档管理包括文档的收集、更新、保管、借阅等内容。证券营业部技术文档涵盖机房平面图、供配电图、网络拓扑图、信息点对照表、UPS电源点分布表、系统维护手册、系统使用手册、应急预案、运维日志、设备维护档案、信息技术管理制度等资料。证券营业部应根据信息系统的变更情况及时更新技术文档。<br><br>    <font class='zhang'>第六章</font> 系统运维<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a> 用户权限管理<br><br>    （一） 证券营业部用于交易业务的信息系统权限变更应执行相关审批流程，并有完整的变更记录。<br><br>    （二） 员工应被授予完成所承担任务所需的最小权限，重<br><br>    要岗位的员工之间应形成相互制约的关系。<br><br>    （三） 对与客户交易相关的系统应采取必要的措施，限<br><br>    制重要岗位用户的登录，如错误登录次数限制、登录时间限制、网络地址限制等。<br><br>    （四） 证券营业部应建立系统用户及权限清单，定期对员工权限进行检查核对，发现越权用户要查明原因并及时调整，同时清理过期用户权限，做好记录归档。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a> 与交易业务相关系统和关键设备的管理员用户密码应专人管理，采用不低于12位的复合密码，每季度至少更换一次。发生人员变动时应及时更新密码。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a> 证券营业部在生产环境下的测试工作应在所属证券公司信息技术部门的统一管理和指导下进行，不得擅自安装测试软件。<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a> 测试前应制定详细的测试计划，同时做好系统、数据和应用程序测试前的备份工作。测试计划应包括测试目的、测试时间、参测人员、测试用例、测试步骤等内容。测试过程中要做好详细的测试记录。<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a> 测试结束后应有明确的测试结果，保证系统、数据和应用程序的恢复并进行恢复后的测试验证，同时总结测试经验、分析测试结果、形成测试报告。<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a> 证券营业部应用系统变更前须制定详细的变更方案和变更应急预案，变更前做好系统和数据的备份。<br><br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a> 对于供电、通信、服务器、核心交换机、核心交易业务系统等关键性设备或系统的变更，证券营业部应经过严格的测试。<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a> 除故障应急外，开市交易期间不得进行任何与交易业务相关的信息系统变更操作。<br><br>    <a name='48'><font class='TiaoNoA'>第四十八条</font></a> 证券营业部应建立完善的监控体系，以对信息系统的运行环境、运行状况等进行定时监控和事后分析。<br><br>    <a name='49'><font class='TiaoNoA'>第四十九条</font></a> 证券营业部的运行监控应落实到人，责任明确，并做好运行监控记录。<br><br>    <a name='50'><font class='TiaoNoA'>第五十条</font></a> 证券营业部应规范管理系统运维日志。日志内容应包括系统机房值班记录、巡视记录、故障处理记录、变更记录、测试记录、监控记录、重要设备维护记录等。日常操作及异常事件处理均应在系统运维日志中详细记录。<br><br>    <a name='51'><font class='TiaoNoA'>第五十一条</font></a> 证券营业部系统运维日志可采用电子文档或纸质件记录，并妥善保管，日志保留期限不少于2年。<br><br>    <a name='52'><font class='TiaoNoA'>第五十二条</font></a> 证券营业部应定期检查电力、空调、消防等设施，每季度选择非交易时间进行UPS电池的充放电测试，并详细记录。<br><br>    <font class='zhang'>第七章</font> 安全保障<br><br>    <a name='53'><font class='TiaoNoA'>第五十三条</font></a> 证券营业部应加强网络安全管理，未经所属证券公司批准不得擅自对外互联或设立网站，如确有必要，应在公司统一指导下设立和管理。网上交易客户端应通过所属证券公司网站下载。<br><br>    <a name='54'><font class='TiaoNoA'>第五十四条</font></a> 证券营业部应加强计算机终端的管理，记录网卡地址，防止非法使用。禁止客户将自备计算机接入证券营业部网络。<br><br>    <a name='55'><font class='TiaoNoA'>第五十五条</font></a> 证券营业部应加强客户访问互联网的管理，防止客户利用证券营业部网络访问非法网站，出现异常应及时配合公安机关进行处理。<br><br>    <a name='56'><font class='TiaoNoA'>第五十六条</font></a> 证券营业部应按所属证券公司要求及时更新系统补丁、升级防病毒软件。<br><br>    <a name='57'><font class='TiaoNoA'>第五十七条</font></a> 证券营业部应定期进行病毒检测，发现病毒立即处理并报告。移动存储、外来电子文档、软件系统使用前应进行病毒或木马查杀。<br><br>    <a name='58'><font class='TiaoNoA'>第五十八条</font></a> 证券营业部应按照所属证券公司的统一要求建立相应的信息系统应急预案，对系统故障、通信和网络故障、供电系统故障、自然灾害及其他突发事件制订明确的应急处理流程。<br><br>    <a name='59'><font class='TiaoNoA'>第五十九条</font></a> 证券公司对应用系统重大升级或改造时，应根据实际情况要求证券营业部制定专项预案或修订应急预案。必要时应当以适当的方式告知投资者并提醒防范可能出现的风险。<br><br>    <a name='60'><font class='TiaoNoA'>第六十条</font></a> 证券营业部应每年至少进行两次应急演练，并留存演练记录。<br><br>    <a name='61'><font class='TiaoNoA'>第六十一条</font></a> 证券营业部发生影响正常业务的技术故障，应立即启动应急预案、尽快恢复交易业务，并按有关要求及时上报所属证券公司和当地监管部门。<br><br>    <a name='62'><font class='TiaoNoA'>第六十二条</font></a> 应急事件处理完成后，应以书面形式上报所属证券公司和当地监管部门。<br><br>    <font class='zhang'>第八章</font> 附则<br><br>    <a name='63'><font class='TiaoNoA'>第六十三条</font></a> 证券营业部新设和迁址时，经监管部门批准不提供现场交易服务的证券营业部，在保障正常运营的前提下，其基础环境、网络通信、应用系统和人员管理等可参照本指引执行。<br><br>    <a name='64'><font class='TiaoNoA'>第六十四条</font></a> 本指引自2009年10月10日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

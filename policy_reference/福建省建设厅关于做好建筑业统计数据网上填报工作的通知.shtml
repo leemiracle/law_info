@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省建设厅<BR>&nbsp;&nbsp;【发布文号】闽建筑[2008]24号<BR>&nbsp;&nbsp;【发布日期】2008-08-24<BR>&nbsp;&nbsp;【生效日期】2008-08-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200808/t20080827_87471.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省建设厅关于做好建筑业统计数据网上填报工作的通知<br> <br></font>(闽建筑[2008]24号)</p><br> <br><br>各设区市建设局：<br><br>    根据省统计局《关于同意制发〈建筑业企业总产值分类完成情况表〉的复函》（闽统设管制字[2008]1号），《福建省建筑业管理信息系统》企业报表模块正式启用。为做好建筑业统计数据网上填报工作，现将有关事项通知如下：<br><br>    一、填报内容<br><br>    （一）总承包与专业承包企业：<br><br>    1、生产月报指标：新签工程承包合同额、新签省外工程承包合同额、建筑业总产值、省外完成产值、房屋建筑施工面积、房屋建筑新开工面积、房屋建筑竣工面积。<br><br>    2、财务季报指标：企业总收入、工程结算收入、企业利润总额、工程结算利润、应收工程款、应收竣工工程款。<br><br>    （二）主项资质为矿山工程、钢结构、建筑幕墙、金属门窗、商品混凝土、预制构件、建筑智能化的企业除填报以上生产月报与财务季报指标外，还要在本系统中填报工厂型企业季度定期报表，停止填报《福建省建筑行业定期报表系统》中的工厂型企业季度定期报表。<br><br>    （三）劳务分包企业填报生产经营和从业人员情况季报。<br><br>    网上填报的各项具体指标内容，详见《福建省建筑业管理信息系统》企业报表模块。<br><br>    二、填报时间<br><br>    月报填报时间为次月5日12点前，季报填报时间为季后第一个月的23日12点前。<br><br>    本系统首次填报时间为今年9月份，统一填报2008年1―8月间的数据；季报首次填报时间为今年10月份，统一填报2008年1―3季度间的数据。<br><br>    三、填报要求<br><br>    （一）总承包和专业承包的生产月报、财务季报以及劳务分包企业的季报与统计部门的统计口径一致，统计时间段均为年初至本月或年初至本季度末。工厂型企业季度定期报表的统计时间段为该季度内3个月，工厂型企业要补报2008年第一、二季度的定期报表。<br><br>    （二）建筑业总产值分类<br><br>    1、按企业资质类别。总承包与专业承包企业资质分为12类总承包资质和60类专业承包资质，劳务分包企业资质分为13类劳务分包资质。企业建筑业总产值的构成由该企业主项资质和增项资质对应承揽的工程在统计时段内完成的产值构成。对企业建筑业总产值按资质情况进行分解并满足平衡关系。<br><br>    2、按工程项目所在地。企业在各地完成的建筑业产值累计应当为本企业建筑业总产值。<br><br>    联系人：省建设厅建筑业处 陈智平 0591-87614203<br><br>    福建省建设厅<br><br>    二○○八年八月二十四日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

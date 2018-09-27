@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】环境保护部<BR>&nbsp;&nbsp;【发布文号】环办〔2008〕22号<BR>&nbsp;&nbsp;【发布日期】2008-05-16<BR>&nbsp;&nbsp;【生效日期】2008-05-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/bbgtwj/200805/t20080519_122662.htm" target=_blank>环境保护部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>环境保护部办公厅关于加强污染隐患排查信息报送工作的紧急通知<br><br></font>(环办〔2008〕22号)</p><br><br><br>四川、重庆、陕西、甘肃、宁夏、青海、湖北、湖南、贵州、云南、西藏、山东、山西、河南等省、自治区、直辖市环境保护局（厅）：<br><br>    四川汶川大地震灾害发生后，灾区各级环保部门按照环境应急预案，迅速开展隐患排查，强化环境安全监管，有效地防范了次生环境污染事件发生。但由于地震造成交通、通讯不畅，限制了对重灾区的深入排查，影响了信息报送的及时性。随着震情的逐步稳定，对重点污染隐患全面排查和定期巡查的条件已基本具备。为贯彻落实国务院抗震救灾保障会议精神，进一步加强次生灾害隐患排查和信息报送工作，现提出如下要求：<br><br>    一、切实做好隐患排查监管工作<br><br>    当前，维护环境安全的任务十分艰巨，在环境隐患排查和应急处置中，稍有疏忽，都会带来严重社会影响。各地要迅速组织调配精干的环境监察队伍，按照我部《关于防范和应对地震灾害次生环境污染事件的通知》要求，对辖区内重点污染源、危险源和环境敏感点进行全面的排查，定期进行巡查。发现重大环境安全隐患，要立即采取有效措施，决不允许出现因排查不到位或没有及时处置造成严重污染危害。<br><br>    二、严格执行突发环境事件报告制度<br><br>    各地凡发生环境污染事件，不论级别，一律立即上报，并及时续报事件处置情况。突发环境事件信息要一事一报，对于紧急或重要情况，可以先电话报告，随后补报文字材料。对于迟报、漏报、瞒报，造成重大损失或严重影响的，要按照《突发事件应对法》有关规定严肃进行责任追究。<br><br>    三、及时准确发布信息<br><br>    地震次生环境事件的应对工作，要在当地抗震救灾指挥部的统一领导下，及时通过新闻媒体发布信息。要密切关注网络及社会的信息和传言，发现谣言立即澄清，正确引导社会舆论，确保社会稳定。<br><br>    四、实行工作信息每日报告制度<br><br>    各省、自治区、直辖市环保局（厅）必须在每天14时前将前一日的工作情况报送我部应急指挥部。信息报告要简明扼要。同时要填报《次生环境灾害隐患排查工作信息调度表》（附后）。各单位要高度重视信息报送工作，指派责任心强、业务素质高的人员专门负责。<br><br>    联系人： 应急指挥部办公室  冯晓波 齐燕红<br><br>    联系电话：（010）66556467  66556462<br><br>    传真：（010）66556454<br><br>    E-mail:epi@12369.gov.cn <br><br>    附件：四川汶川县地震后次生环境灾害隐患排查工作信息表<br><br>二○○八年五月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

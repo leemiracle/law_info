@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部、国家发展改革委、水利部<BR>&nbsp;&nbsp;【发布文号】卫疾控发〔2008〕3号<BR>&nbsp;&nbsp;【发布日期】2008-01-07<BR>&nbsp;&nbsp;【生效日期】2008-01-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/20971.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部、国家发展改革委、水利部关于加强农村饮水安全工程卫生学评价和水质卫生监测工作的通知<br><br></font>(卫疾控发〔2008〕3号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团、计划单列市卫生厅（局）、发展改革委（厅）、水利（水务）厅（局）：<br><br>    为贯彻落实《全国农村饮水安全工程“十一五”规划》（以下简称《规划》），规范农村饮水安全工程建设和管理，保障农村居民饮用水卫生安全，根据《中华人民共和国传染病防治法》、《国务院办公厅关于加强饮用水安全保障工作的通知》（国办发〔2005〕45号）、《生活饮用水卫生标准》（GB5749-2006），现就加强农村饮水安全工程卫生学评价和水质卫生监测工作通知如下： <br><br>    一、进一步明确农村饮水安全工程卫生学评价和水质卫生监测工作目标和任务<br><br>    按照《规划》确定的建设目标，“十一五”期间，重点解决饮用水中氟大于2mg/L、砷大于0.05mg/L、溶解性总固体大于2g/L、耗氧量大于6mg/L、致病微生物和铁、锰严重超标的水质问题，使现已查明的中重度氟病区村、砷病区村、血吸虫疫区以及其他涉水重病区村的饮水问题全部得到解决。要实现上述目标任务，必须切实抓好农村饮水安全工程卫生学评价和水质卫生监测工作。<br><br>    开展饮水安全工程卫生学评价工作，是有效评估工程卫生防病效果，确保工程建成后水质达标和如期发挥效益的重要基础；做好饮水安全工程水质卫生监测工作，是保证供水水质卫生安全，促进农村饮水安全工程长期有效运转的重要措施。<br><br>    农村饮水安全工程卫生学评价的主要任务：一是新改扩建农村饮水安全工程受益范围，必须按照《规划》要求，切实优先解决中重度氟病区村、砷病区村、血吸虫疫区以及其他涉水重病区饮水卫生安全问题；二是从技术的角度，对工程技术方案、工艺流程的选择和落实情况提出意见和建议；三是从卫生安全的角度，有针对性地开展建设前水源和建成后验收性水质检测及分析。<br><br>    当前要重点开展设计供水能力≥3000 m3/日的农村集中式供水工程的卫生学评价工作；其他小型农村集中式供水工程及分散式工程，主要做好工程建设前水源及建成后验收性水质检测工作，保证防病改水工程能落实到病区。<br><br>    农村饮水安全工程水质卫生监测的主要任务：一是建立水质卫生常规监测制度；二是健全水质卫生监测体系；三是建立监测数据信息系统、报告制度和通报制度；四是开展水性疾病资料的收集、汇总和分析，探索建立水性疾病评估、预测体系。<br><br>    农村饮水安全工程卫生学评价和水质卫生监测工作，既相互影响又相互促进。要完成《规划》确定的目标任务，需要把这两项工作同布置、同检查、同落实。<br><br>    二、按照《规划》确定的职责分工，落实部门责任<br><br>    地方卫生、发展改革、水利部门要在当地人民政府的统一领导下，各负其责，密切配合，切实按照卫生部、国家发展改革委和水利部制定的《农村饮水安全工程卫生学评价管理办法（试行）》和《农村饮水安全工程水质卫生监测工作方案（试行）》的要求开展工作。 <br><br>    地方各级卫生行政部门负责根据《规划》提出中重度氟病区、砷病区、血吸虫疫区以及其他涉水重病区需解决饮水安全问题的范围；组织制定农村饮水安全工程卫生学评价和水质监测工作计划；组织实施农村饮水安全工程卫生学评价和水质卫生监测工作；完成年度工作报告报同级人民政府和上一级卫生行政部门，同时抄送同级发展改革和水行政主管部门。卫生行政部门要加强对辖区内农村饮水安全工程卫生学评价和水质卫生监测工作的检查、指导和监督，定期通报农村饮水安全工程卫生学评价和水质卫生监测工作进展情况。<br><br>    地方各级发展改革、水行政主管部门在会同有关部门落实饮水安全工程规划、编制项目可行性研究报告和初步设计时，要充分听取卫生部门的意见，科学规划、合理布局，切实做好《规划》内的病区和饮水水质未达标地区的饮水安全工作。年度项目投资计划下达后各级发展改革、水利部门要及时通报卫生行政部门。工程建设过程中，发展改革、水行政主管部门要加强行业监管，提高供水工程管理单位的服务水平，让群众真正喝上卫生、安全水。<br><br>    三、建立有效的监督保障措施，确保《规划》目标如期实现<br><br>    各地要高度重视农村饮水安全工程卫生学评价和水质监测工作，安排必要的经费，配备相应的人员和设备，保证卫生学评价效果和水质监测数据的准确。卫生行政主管部门要科学合理确定农村饮水安全工程卫生学评价内容，价格行政主管部门要合理确定相应的收费标准，防止加重地方和建设单位的不合理负担。饮水安全工程卫生学评价费用可纳入工程前期工作和建设经费解决，常规水质监测费用由各级财政安排解决。<br><br>    各级卫生、发展改革、水利部门要切实加强信息沟通与工作配合，建立部门工作协调机制，明确此项工作的分管领导，共同研究解决工作中出现的问题，联合开展监督和检查，确保《规划》确定的各项目标顺利实现。<br><br>    各级卫生、发展改革、水利部门要采取多种形式向广大农民宣传饮水卫生和环境卫生知识，提高农民的饮水安全和健康意识，积极引导农民全过程参与农村供水工程建设与管理，让广大农民群众和社会力量参与农村饮水安全各项工作落实情况的监督。<br><br>附件：1.农村饮水安全工程卫生学评价管理办法（试行）<br>2.农村饮水安全工程水质卫生监测工作方案（试行）<br><br>卫    生    部<br>国家发展改革委<br>水    利     部<br>二○○八年一月七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

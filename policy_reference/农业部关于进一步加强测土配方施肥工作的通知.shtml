@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农农发[2006]10号<BR>&nbsp;&nbsp;【发布日期】2006-11-14<BR>&nbsp;&nbsp;【生效日期】2006-11-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20061120_723600.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于进一步加强测土配方施肥工作的通知<br><br></font>(农农发[2006]10号)</p><br><br><br>    最近，按照我部统一布置，各省、自治区、直辖市（含中央直属垦区）农业行政主管部门对2005年度测土配方施肥试点补贴资金项目县（包括垦区项目农场）进行了检查。同时，我部组织人员对其中6个省（含黑龙江农垦总局）的项目执行情况进行了抽查。总的看，经过各级农业部门和财政部门的共同努力，测土配方施肥取得了阶段性成效，促进了粮食产量增加、农业节本增效、农业可持续发展，促进了农民施肥观念转变、肥料生产营销机制创新。为了更好地推进测土配方施肥工作深入开展，现就有关事项通知如下：<br><br>    一、正视存在问题，进一步提高思想认识<br><br>    一年多来，随着测土配方施肥工作逐步深入，各地思想认识不断深化，有力推进了测土配方施肥项目的实施。但与此同时，一些地方对该项工作的长期性、艰巨性缺乏足够认识和准备，工作积极性、主动性不够，有畏难情绪和应付倾向。有的地方技术力量不适应、工作机制不完善，特别是有的地方项目管理不够规范。对此，各级农业部门一定要引起高度重视。要认识到测土配方施肥是农业节本增效的关键技术措施，是新时期重要的支农惠农政策，进一步增强做好测土配方施肥工作的责任感和紧迫感；要认识到测土配方施肥技术推广是一项长期任务，在抓好项目实施的同时，发挥项目示范带动作用，推进测土配方施肥工作全面开展；要认识到机制创新是测土配方施肥的重要保障，进一步增强工作主动性、创造性，积极探索引导企业参与和服务指导农民的有效方法和运作模式；要认识到规范管理是实现项目预期效果的前提条件，进一步健全制度、完善措施、严格管理，把项目组织好、实施好，取得实实在在的成效，经得起实践的检验，得到农民的认可，以推动测土配方施肥工作持续、健康发展。<br><br>    随着实施规模逐步扩大，项目组织和工作推动的难度将日益增加，巩固测土配方施肥项目成果，保持来之不易的良好局面，是当前面临的一个现实问题。各级农业部门要切实把测土配方施肥摆上重要位置，统一思想认识，加强组织领导，加大工作力度，狠抓措施落实，不断开创测土配方施肥工作新局面。<br><br>    二、强化基础工作，努力提升测土配方施肥技术水平<br><br>    （一）进一步明确工作职责。省、市两级农业部门要在指导项目县开展测土配方施肥工作的同时，组织落实好省级和县级耕地地力评价工作，对技术力量薄弱的项目县提供必要的技术支持。县级农业部门要按照项目实施方案和技术规范要求，认真搞好田间试验、农户调查、分析化验、数据汇总，在建立县域耕地资源管理信息系统的基础上，开展耕地地力评价工作。要充分发挥各级土肥技术推广部门和相关科研教学单位的优势，整合力量，统筹协调，做好测土配方施肥和耕地地力评价工作。<br><br>    （二）切实加强技术培训和服务。要重视土肥技术队伍建设，运用多种形式，加大培训力度，严格技术规范，切实解决当前存在的培训不到位、技术不熟练、操作不规范等问题，不断提高技术人员业务素质和服务能力。要创新指导服务农民的工作机制，探索行之有效的技术推广方式，组织各级土肥技术人员和相关专家深入基层开展培训指导，切实提高技术到位率和覆盖率。<br><br>    （三）建立和完善测土配方施肥指标体系。作物施肥指标体系是测土配方施肥技术的核心内容，是制定肥料配方的重要依据。各级农业部门要把建立测土配方施肥指标体系作为当前的紧迫任务摆上重要议事日程。要严格按照测土配方施肥技术规范要求，抓紧收集整理分析现有数据，建立和完善主要粮食作物施肥指标体系。同时及早安排今冬明春“3414”田间试验、校正试验，为全面建立不同区域、不同作物施肥指标体系做好相应准备。各级技术专家组要充分发挥技术支撑作用，组织开展施肥科学与技术研究，协助各地建立施肥指标体系，研发专家施肥咨询系统，制定配方施肥建议卡，指导农民按照作物需肥规律，确定合理施肥量、施肥时期和施肥方法。<br><br>    （四）认真做好数据汇总和进度统计工作。采样调查、分析化验、田间试验、示范数据是项目的重要成果，是制定肥料配方和开展耕地地力评价的重要依据。各地要高度重视数据采集、分析、汇总工作，按照整体设计、分步实施的原则，逐步建立国家、省、县三级数据管理信息系统，为科学施肥、耕地质量建设与管理、农业生态环境保护提供支撑。为了保证汇总数据统一规范，我部正在研发测土配方施肥数据汇总系统软件，各地要做好相应的准备工作。要充分利用测土配方施肥统计管理系统软件统计项目进度，加强督促检查，确保统计信息准确、及时和规范。各项目县上报我部的进度情况必须经省级审核。<br><br>    三、创新工作机制，积极引导肥料企业参与测土配方施肥<br><br>    （一）建立健全定点企业招投标制度。省级农业行政主管部门要会同同级财政部门制定和完善配方肥定点企业招投标办法，没有制定的要抓紧制定，已经制定的要针对执行过程中出现的问题，按照公开、公平、公正的原则加以完善。在实际操作中，要明确投标企业的生产规模、供肥能力、企业信誉、质量保障体系、营销服务网络、当地推广基础等资质和条件，严格按照招投标程序和要求，确定配方肥定点企业，切实做到信息公开、过程公开和结果公开，广泛接受社会和媒体监督。外来企业与本地企业要一视同仁，不得抬高门槛或增设附加条件，不得向企业收取法律法规规定以外的任何费用，严格禁止任何形式的商业贿赂。各级农业部门和所属单位开办的肥料企业要与原单位脱钩，未脱钩的一律不得参加定点企业招标。<br><br>    （二）积极探索企业参与模式。配方肥是测土配方施肥技术的物化载体，企业参与是测土配方施肥的关键环节。各地要创新工作机制，进一步探索企业参与测土配方施肥的运作模式，着力解决配方肥区域性较强、小批量需求与肥料规模化生产、批量化供应之间的矛盾。要借鉴一些地区在实践中探索出的成功经验和模式，结合本地实际，进一步拓宽思路，制定相关扶持政策，支持、引导、鼓励大中型肥料生产经营企业进入测土配方施肥领域，开展配方肥的生产和经营。要运用连锁、超市、配送等现代物流手段，构建和完善基层供肥服务网络，减少中间经营环节和肥料在途时间，为农民提供质量优良、配方科学、价格合理的肥料。<br><br>    （三）切实抓好肥料质量监管。省级农业行政主管部门要增强服务意识，简化配方肥登记手续，加快审批速度，积极为配方肥企业提供便利条件。各地要加强配方肥质量监督管理，逐步建立配方肥质量追溯制度，定期开展配方肥质量抽检，确保配方肥质量。<br><br>    四、严格加强管理，确保项目建设取得预期效果<br><br>    （一）进一步明确项目任务。各地要严格按照项目确定的目标任务、工作内容和时间要求，完成取土采样、分析化验、田间试验、配方配肥、耕地地力评价等各项工作。确定的采样点要具有代表性，其中用于耕地地力评价的样点不低于10％。项目县启动当年完成测土配方施肥技术推广面积不低于40万亩，第二年扩大到60万亩以上。在安排“3414”试验时，每个项目县市每年安排1－2种主要作物，同一作物要布置10个以上试验，试验点按高、中、低肥力水平均匀分布。<br><br>    （二）严格加强项目资金管理。省级农业行政主管部门要会同同级财政部门，按照《农业部、财政部办公厅关于印发<测土配方施肥试点资金管理暂行办法>的通知》（财农[2005]101号）、《农业部关于加强农业财政专项资金管理的通知》（农财发[2006]16号）的规定，结合测土配方施肥补贴项目特点，制定具体的资金使用管理办法。县级农业部门要积极与财政部门沟通，按照保证资金安全和操作规范的原则，切实解决调查取样、分析化验、田间试验等有关费用的报销问题。各级农业部门要进一步加强资金使用管理，严禁截留挪用和超范围支出，确保资金使用安全。对各种形式反映或举报的问题，各省级农业部门要高度重视，发现一起，查处一起。对重大案件我部将直接安排查处，按照有关规定严肃处理，并在今后安排项目时，对相关省市区采取惩戒措施。<br><br>    （三）认真做好项目总结和验收工作。各级农业部门要按照《农业部办公厅关于印发<2006年全国测土配方施肥工作方案>的通知》（农办农[2006] 21号）、《农业部办公厅、财政部办公厅关于下达2006年测土配方施肥补贴项目实施方案的通知》（农办财[2006] 11号）的要求，加强督促检查，及时总结项目执行情况，分析存在问题，提出对策措施。省级农业行政主管部门要按照《农业部关于印发<测土配方施肥补贴项目验收暂行办法>的通知》（农农发[2006] 8号）要求，尽快制定具体的项目验收办法，指导项目县做好2005年测土配方施肥试点补贴资金项目的自验工作，组织完成好省级验收。<br><br>    各级农业部门要及早谋划明年的测土配方施肥工作。要积极主动向当地政府和有关部门汇报测土配方施肥成效，努力争取支持，增加资金投入。要根据实际需要，及时充实加强土肥技术力量，积极做好已有项目县续建准备和拟实施项目县前期准备等工作，为明年进一步推进测土配方施肥打好基础。<br><br>                             二○○六年十一月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

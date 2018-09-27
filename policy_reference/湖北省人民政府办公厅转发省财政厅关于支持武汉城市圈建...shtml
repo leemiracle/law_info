@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2007〕5号<BR>&nbsp;&nbsp;【发布日期】2007-01-16<BR>&nbsp;&nbsp;【生效日期】2007-01-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yghb/yg04/yg04c/200703/t18755.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅转发省财政厅关于支持武汉城市圈建设有关财税政策意见的通知<br><br></font>(鄂政办发〔2007〕5号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br><br>    省财政厅《关于支持武汉城市圈建设有关财税政策的意见》已经省人民政府同意，现转发给你们，请遵照执行。<br><br>湖北省人民政府办公厅<br>二○○七年一月十六日<br><br>         <br>关于支持武汉城市圈建设有关财税政策的意见<br>省财政厅<br><br>    为了加快推进武汉城市圈建设，结合财税部门工作职能，现就支持武汉城市圈建设的有关财税政策提出以下意见。<br>    一、创新税收分享机制，支持合作办区，促进武汉城市圈加快发展<br>    （一）创新分配机制。建立有利于武汉城市圈协调发展的利益分配机制，打破行政区域限制，充分发挥武汉东湖新技术产业开发区、武汉经济技术开发区两个国家级开发区以及城市圈内其他开发区的资源优势，统筹各方财政利益，促进合作办区、资源共享、共同发展。对武汉市与其他市以及其他市之间共同投资基础设施建设的开发区（或园区），落户企业形成的税收中地方分成部分，按双方政府商定的企业名单、分配比例和分享期限，通过省财政在相关市之间划转。对武汉市以外其他市招商引资项目选择落户武汉市国家级开发区的，武汉市招商引资项目选择落户城市圈内其他开发区的，以及其他市之间按上述方式招商引资的项目，按照“谁引进、谁受益”的原则，该项目实现的地方税收由双方政府商定项目名单、分配比例和分享期限，通过省财政划转给负责该项目招商引资的市。<br>    （二）完善激励政策。对武汉城市圈内地方税收收入增长较快的市，省财政将给予激励性转移支付。省在核定城市圈内各市财政收入增长幅度时，将合作办区分享的地方税收收入一并纳入计算。建立武汉城市圈内税费政策协调机制，避免因地区利益关系影响企业及各类经济要素合理流动和资源优化配置。<br>    二、优化财政资源配置，明确投入重点，支持解决武汉城市圈经济社会发展中的突出问题<br>    （一）支持改善基础设施。通过基本建设支出、增发国债补助资金、交通建设资金等加大对武汉城市圈基础设施投入，包括支持武汉城市圈高速公路、铁路、航空、信息和工业园区、工业集中地区基础设施建设，改善武汉城市圈内企业发展硬环境。充分利用国内政策性贷款、外国政府和国际金融组织贷款，支持武汉城市圈基础设施建设。省财政厅根据武汉城市圈内相关市、县政府的偿债能力，分别核定开发银行政策性贷款额度，主要用于开发区（园区）基础设施建设。<br>    （二）支持培育市场主体。支持武汉城市圈内国有企业改革发展，通过资产重组、授权经营、“债转股”等措施，加大资源整合力度，优化资源配置，支持国有资产向优势企业聚集。认真落实国家政策，对武汉城市圈内的老工业基地城市在增值税转型等方面给予支持。发挥财政资金对高新技术产业投入的引导作用，省财政及各级政府安排的“科技三项费用”、企业技术改造贴息资金、高新技术引导性资金、重大新产品开发专项资金等，对城市圈内的高新技术企业和重点项目予以倾斜，重点扶持大工业项目、工业园区和产业集群建设，提高企业自主创新能力。加大各类财政科技资金对非公有制科技企业的扶持力度，积极帮助符合条件的非公有制企业申报国家有关科技计划和科技型中小企业创新基金、高新技术产业化资金。设立招商引资专项奖励资金，对引进外资和外贸出口成效突出的地方和企业进行奖励，在安排其他相关专项资金时予以倾斜。省财政继续对武汉城市圈内各县（市、区）以借款或资金调度的办法支持500万元，用于建立中小企业信用担保体系。<br>    （三）支持社会事业发展。通过财政转移支付资金，支持武汉城市圈吸引优秀人才，对卫生、教育、文化、社会保障等公共服务给予重点保障。落实中央支持中部地区老工业基地振兴和资源型城市转型的相关政策，对城市圈内老工业基地城市在社会保障、厂办大集体改革等方面给予支持，对城市圈内重点资源枯竭型企业关闭破产、分离办社会职能、职工安置、沉陷区居民搬迁给予扶持。<br>    三、认真落实税费政策，改进工作方式，为武汉城市圈持续发展提供优质服务<br>    （一）严格执行统一的税收政策。全面清理规范各项税收政策，避免因税收政策的差异造成武汉城市圈内部分产业和企业的恶性竞争，创造有利于城市圈内要素流动的市场环境。<br>    （二）落实出口退税政策。对外贸企业出口的货物给予退税；对生产企业出口的货物给予免、抵、退税政策；对外商投资企业采购的国产设备给予退税；对区外企业运进武汉出口加工区内的货物视同出口，给予退免税；对武汉出口加工区内企业加工、生产的货物直接出口或在武汉出口加工区内销售的，免征增值税、消费税。<br>    （三）落实税收优惠政策。包括支持企业研发投入和自主创新能力建设，支持高新技术企业、软件产业、集成电路企业和农业产业化龙头企业，鼓励国有大中型企业主辅分离、改组改制，鼓励企业增加就业岗位、吸纳下岗职工，以及按规定落实外商投资企业税收优惠等方面的政策。<br>    （四）完善征收管理机制。在现行税收管理体制的框架下，加强城市圈内的税收征管协作，以政策统一、征管互动、信息共享、优势互补为目标，实现纳税服务一体化、税收征管一体化、税收稽查一体化、涉税信息一体化。<br>    （五）切实规范收费管理。坚决取消涉及企业的乱收费、乱罚款、乱集资、乱摊派以及不符合规定的基金项目。省直有关部门要将涉及企业投资、商务成本的收费、罚款项目、标准、依据、减免和优惠对象及幅度等，以适当方式进行公示，广泛接受社会监督。要严把涉企收费审批关，加强监督检查，加大执法力度，严禁任何地方、部门和单位违法违规收费。<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

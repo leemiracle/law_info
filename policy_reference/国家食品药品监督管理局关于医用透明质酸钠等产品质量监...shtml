@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监市[2007]260号<BR>&nbsp;&nbsp;【发布日期】2007-05-08<BR>&nbsp;&nbsp;【生效日期】2007-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64020570.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于医用透明质酸钠等产品质量监督抽验结果的通报<br> <br></font>(国食药监市[2007]260号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    根据国家医疗器械质量监督抽验计划，现将2006年国家局组织的医用透明质酸钠、银合金粉产品质量监督抽验结果以及对人工晶体、监护仪、医用内窥镜设备的异议处理结果通报如下：<br><br>    一、抽验情况<br><br>    （一）医用透明质酸钠的抽验结果<br>    此次共抽验8家生产企业和1家经营单位的9批产品，共涉及8家标示生产企业。依据行业标准YY0308-2004《医用透明质酸钠》进行检验。检验项目为：无菌、细菌内毒素、含量、透光率、pH值、动力粘度、蛋白质含量、紫外吸收、重金属含量、乙醇残留量等10项指标。经检验，7批产品被抽验项目合格，2批产品被抽验项目不合格（见附件）。不合格产品的主要问题是“无菌”、“含量”等二项指标不符合标准规定。<br><br>    （二）银合金粉的抽验结果<br>    此次共抽验2家生产企业和17家经营单位的19批产品，共涉及3家标示生产企业。依据行业标准YY1026-1999《齿科材料银合金粉》进行检验。检验项目为：蠕变值、硬固期间的尺寸变化、1h和24h抗压强度、质量损失、包装标识、细胞毒性试验、皮内反应试验等7项指标。经检验，17批产品被抽验项目合格（见附件）。<br><br>    二、异议处理结果<br>    按照《国家医疗器械质量监督抽验管理规定（试行）》，中国药品生物制品检定所组织专家评审会，对人工晶体、监护仪、医用内窥镜设备提出的异议进行了复核，结果为维持原承检机构的检验结论，结果如下：<br><br>    （一）人工晶体<br>    此次复核1家标示生产企业涉及1家经营单位的1批次产品。原承检机构依据行业标准YY0290.1-1997《人工晶体第1部分:术语》、YY0290.2-1997《人工晶体第2部分:光学性能及其测试方法》、YY0290.3-1997《人工晶体第3部分:机械性能及其测试方法》、YY0290.5-1997《人工晶体第5部分:生物相容性》、YY0290.8-1997《人工晶体第8部分:基本要求》进行检验。检验项目为：光焦度、像质、尺寸（总直径、主体直径、纯光学区直径、定位孔直径）、表面和材质均匀性、光谱透过率、动态疲劳耐久性等6项指标。经检验，1批次产品被抽验项目不合格（见附件）。不合格产品的主要问题是“光焦度”指标不符合标准规定。<br><br>    （二）监护仪<br>    此次复核1家生产企业的1台产品。原承检机构依据国家标准GB9706.1-1995《医用电气设备第一部分：安全通用要求》、行业标准YY0089-1992《病人监护系统专用安全要求》、YY91079-1999《心电监护仪》和注册产品标准进行检验。检验项目为：时间常数、频率特性、心率的检测和显示、心率显示的精确度、心率报警预置器、心率报警的准确度、心率报警的发生时间、走纸速度、控制器件和仪表的标记、按钮颜色、整机外壳安全性、保护接地阻抗、正常工作温度下连续漏电流和患者辅助电流、正常工作温度下电介质强度、面角边的安全性、电源中断后的复位、除颤效应的防护和ECG监护设备在除颤后的恢复、指示灯、与供电网的分断、外部标记等20项指标。经检验，1台产品被抽验项目不合格（见附件）。不合格产品的主要问题是正常工作温度下电介质强度1项指标不符合标准规定。<br><br>    （三）医用内窥镜设备<br>    此次复核1家生产企业的1台产品。原承检机构依据国家标准GB9706.1-1995《医用电气设备第一部分:安全通用要求》、国家标准GB9706.19-2000《医用电气设备第2部分:内窥镜设备安全专用要求》、国家标准GB9706.4-1999《医用电气设备第二部分:高频手术设备安全专用要求》、YY91081-1999《医用内窥镜冷光源》和注册产品标准进行检验。通用检验项目为：保护接地阻抗、正常工作温度下连续漏电流、正常工作温度下电介质强度、网电源熔断器和过流释放器、控制器件和仪表的标记、与供电网的分断、外部标记等7项，电子内窥镜系统的检验项目有：视场角、分辨率；医用冷光源的检验项目有：色温、显色指数；气腹机/膨宫机的检验项目有：流量、报警功能；膨宫机的检验项目有：膨宫压力；冲洗/吸引器的检验项目有：冲洗压力、负压；内窥镜高频附件的检验项目有：高频电介质强度；刨削系统的检验项目有：转动扭矩；摄像系统的检验项目有：最小照度（灵敏度）。经检验，1台产品被抽验项目不合格（见附件）。不合格产品的主要问题是正常工作温度下电介质强度、外部标记等2项指标不符合标准规定。<br><br>    三、处理要求<br>    对本次监督抽验中质量不合格的产品及有关生产企业，有关省（区、市）食品药品监督管理局应依照《医疗器械监督管理条例》的规定予以查处，责令生产企业限期整改，对不合格产品采取必要的纠正措施，强化质量控制，严禁不合格产品出厂。有关调查、处理情况，请及时报国家局药品市场监督司。<br><br><br>    附件：国家医疗器械质量公告〔（2007）第1期，总第33期〕<br><br><br>                                                        国家食品药品监督管理局<br>                                                          二○○七年五月八日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

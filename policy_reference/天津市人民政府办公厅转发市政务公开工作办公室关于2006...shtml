@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政办发〔2006〕032号<BR>&nbsp;&nbsp;【发布日期】2006-06-11<BR>&nbsp;&nbsp;【生效日期】2006-06-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tjzb.org/system/2006/07/10/000128976.shtml" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅转发市政务公开工作办公室关于2006年政务公开工作实施意见的通知<br> <br></font>(津政办发〔2006〕032号)</p><br> <br><br>    各区、县人民政府，各委、局，各直属单位：<br><br>    市政务公开工作办公室《关于2006年政务公开工作实施意见》已经市人民政府领导同志同意，现转发给你们，请照此执行。<br><br>                              二○○六年六月十一日 <br>     <br><br>          关于2006年政务公开工作实施意见 <br><br>         为深入贯彻《中共中央办公厅国务院办公厅关于进一步推行政务公开的意见》(中办发〔2005〕12号)、中纪委办公厅《2006年全国政务公开工作要点》(中纪办发〔2006〕6号)和市政府《关于进一步推行政务公开工作的通知》(津政发〔2005〕118号)精神，全面推动我市政务公开工作，现就我市2006年政务公开工作提出如下实施意见：<br><br>    一、工作目标<br><br>    重点抓好各级政府及其部门政务公开分类目录的编制和政务公开网络系统建设，全面推行网上政务公开，积极探索依申请公开制度，搞好政务公开评议制度试点，使群众的知情权、监督权和参与权切实得到保障。<br><br>    二、主要任务<br><br>    (一)规范内容，编制政务公开分类目录。<br><br>    各级政府及其部门，要按照市政府《关于进一步推行政务公开工作的通知》要求，以群众最关心、最关注，与群众利益密切相关的重大决策内容、决策过程和实施结果为重点，本着便于群众知情、方便群众办事、有利群众监督的原则，按照“公开是原则，不公开是例外”的要求，编制政务公开分类目录，明确公开内容，对按规定必须保密或经过审核暂不宜公开的予以备案。政务公开分类目录明确公开内容的类别、形式、时限、对象和责任部门。公开内容的类别包括职能类、政策法规类、许可类等。公开内容的形式包括网站、电视台(电台)、电子显示屏、触摸屏、公开栏、报刊等。公开内容的时限包括长期公开、定期公开、逐段公开和随时公开。公开的内容要面向社会公众或本地区、本系统、本单位内部干部职工。各级政府及其部门要按照责任分工，做好政务公开内容的汇总和目录编制工作，编制完成的政务公开分类目录报上级政务公开领导机构审定、备案。<br><br>    (二)完善形式，全面推行网上政务公开。<br><br>    进一步规范政务公开栏、政府公报、公开指南等政务公开形式，大力推行社会听证、专家咨询、新闻发布、点题公开等公开形式，重点抓好网上公开。<br><br>    各级政府及其部门要整合已有的网络资源，在政务门户网站和内部网络的基础上，建立“政务公开”栏目。应当对外公开的政务信息，要全部在政务门户网上公布；需在本系统、本部门、本单位内部公开的政务信息，要在内部网络上公开。要做好各级政府及其部门“政务公开”栏目之间的衔接，保证政务信息渠道畅通，资源共享。要加强政务公开网络建设和维护，完善网上公开信息的保障、控制、更新机制和管理体制。各级行政许可中心要在网站建设的基础上，逐步实现网上办公。各公用事业单位要在主管部门的指导下，建立和完善单位门户网站，积极探索网上办事，逐步实现网上交费、办证、咨询、投诉、求助等业务。<br><br>    (三)强化监督，建立和完善网上政务公开监督评议系统。<br><br>    各级政府及其部门要建立和完善网上政务公开监督评议系统，在政务网站“政务公开”栏目中，设立网上政务公开监督评议专栏，接受群众对政务公开情况的监督和评议。网上政务公开监督评议系统包括：网上投诉受理子系统、民意征集子系统、政务(办事)公开评议子系统。网上投诉受理子系统的功能是接受群众对政务公开情况的投诉。民意征集子系统的功能是接受群众对政务公开工作的意见建议。政务公开评议子系统的功能是接受群众对政务公开情况的评议打分。抓好蓟县政务公开评议制度试点工作，并做好网上政务公开监督评议系统的管理，处理相关投诉，组织政务公开评议。各级政府信息部门要做好网络技术支持。<br><br>    (四)建立制度，深化政务公开工作。<br><br>    在有条件的区县和部门开展依申请公开制度试点工作。建立健全政务信息公开的提出、审核、公开和反馈程序。<br><br>    区县政府及其部门，要结合各自实际，选择有条件的部门、街道和乡镇作为推行政务公开评议制度、社区代表会议制度或政务公开发布会制度的试点，积极探索，总结经验，不断完善政务公开制度和工作机制，促进政务公开工作的深入开展。<br><br>    进一步完善政务公开各项制度，探索建立政务公开监督、考核、奖惩制度，逐步将政务公开纳入法制化轨道。<br><br>    三、方法步骤<br><br>    各级政府及其部门，要结合本地区、本系统、本单位实际，制定具体方案，抓好工作落实。<br><br>    第一阶段：编制、审核政务公开目录(6月至7月)。<br><br>    根据市政府《关于进一步推行政务公开工作的通知》要求，参照《国务院办公厅关于做好中央政府门户网站内容保障工作的意见》(国办发〔2005〕31号)编制政务公开分类目录，明确政务信息公开的内容、形式、时限、范围、程序和责任部门。在汇总、初审的基础上，报送上级政务公开领导机构审核。<br><br>    市和区县政务公开领导小组办公室，分别组成专门审核小组，市政务公开审核小组负责区县及市级部门政务公开目录的审核、修订；区县政务公开审核小组负责本区县所属部门政务公开目录的审核、修订。<br><br>    第二阶段：规范政务公开栏目(8月至10月)。<br><br>    各级政府及其部门要依据所编制的政务公开分类目录进一步规范网上政务公开栏目，做好硬件装备和软件开发等前期准备工作，基本建立政务公开内容录入和信息共享机制，并在10月底前完成政务公开分类目录网上公开内容的录入、编辑，开通政务公开栏目和政务公开监督评议系统。<br><br>    第三阶段：督查考核(11月)。<br><br>    各级政务公开工作机构要分别组织人员对网上公开、网上办事及街道和乡镇政务公开落实情况开展监督检查。对未按照要求完成网上政务公开和其他形式公开的，要限期完成。对在工作中搞形式主义、做表面文章，甚至弄虚作假、侵害群众合法权益的，按照有关规定严肃追究责任。督查情况纳入考核，并向政务公开领导机构汇报。<br><br>    四、工作要求<br><br>    (一)各级领导要充分认识新形势下推行政务公开的重要意义，把深入推行政务公开作为加强党的执政能力建设、构建社会主义和谐社会、实现“十一五”发展目标的重要内容和重要保证。要增强做好工作的责任感和紧迫感，高度重视政务公开工作，做好安排部署。市级机关既要在推行本机关的政务公开上下功夫，又要在加强对本系统政务公开工作的指导和协调上下力量，认真抓好落实。<br><br>    (二)各级政府要自觉接受人大对政务公开的监督；各级监察、审计、人事、法制等部门要切实履行督促检查职责，及时发现和解决政务公开中存在的问题，积极提出改进工作的意见和建议；新闻单位要加强对政务公开的舆论引导和监督，为推进政务公开营造良好的环境。<br><br>    (三)各级政务公开工作机构要加强工作调研和理论研究，要善于发现新情况、新问题，并提出改进措施；要善于总结新情况、新经验，从理论上不断提高；要善于全面分析和准确把握政务公开发展的新趋势、新动向，为推动工作提供科学依据和理论指导。<br><br>天津市政务公开工作办公室 <br>二○○六年五月二十四日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

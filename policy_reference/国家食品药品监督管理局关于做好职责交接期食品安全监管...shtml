@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监食[2009]22号<BR>&nbsp;&nbsp;【发布日期】2009-01-08<BR>&nbsp;&nbsp;【生效日期】2009-01-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/35217.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于做好职责交接期食品安全监管工作的通知<br>  <br></font>(国食药监食[2009]22号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局，食品消费监管部门：<br><br>    根据《国务院办公厅关于印发国家食品药品监督管理局主要职责内设机构和人员编制规定的通知》（国办发〔2008〕100号），国家食品药品监督管理局承担食品卫生许可，餐饮业、食堂等消费环节食品安全监管和保健食品、化妆品卫生监督管理等职责。目前，卫生部与国家食品药品监督管理局职责交接工作已经完成，各地也在陆续进行相应的职责调整。为确保职责交接期的各项监管工作不松、不断、不乱，防止和及时处置群体性食物中毒等重大食品安全事故，切实保障公众饮食安全，现就做好机构职责交接期间食品安全监管工作提出如下要求：<br><br>    一、提高认识，进一步增强做好监管工作的责任感、使命感<br>    食品安全监管体制改革是党的十七大作出的重大决策，对进一步落实食品安全监管责任，提高食品安全保障水平具有十分重要的意义。各级食品药品监管部门必须充分认识食品安全工作面临的新形势、新任务，自觉把思想和行动统一到党中央的重大决策上来。要按照胡锦涛总书记在全党开展深入学习实践科学发展观活动动员大会上的讲话精神，切实增强宗旨意识、大局意识和责任意识，深刻认识消费环节食品安全监管和保健食品、化妆品卫生监督工作对维护人民群众身体健康、维护社会和谐稳定的重要意义，以高度的政治责任感和历史使命感做好机构改革职责交接期消费环节食品安全监管和保健食品、化妆品卫生监督工作。<br><br>    二、认真履行职责，做好职责交接和工作衔接<br>    各地食品药品监管部门要按照当地政府的部署认真做好职责交接和工作衔接，以保持各项工作的连续性。对已完成机构改革、明确了消费环节食品安全监管和保健食品、化妆品卫生监督职责的部门，要及时报告国家食品药品监督管理局，并接受国家食品药品监督管理局的业务指导和监督。对尚未进行机构改革的地区，原承担消费环节食品安全监管和保健食品、化妆品卫生监督职责的食品消费监管部门要继续履行职责，有关消费环节食品安全和保健食品、化妆品卫生监督工作的请示报告和重要信息要及时上报国家食品药品监督管理局；对国家食品药品监督管理局有关消费环节食品安全监管和保健食品、化妆品卫生监督工作的部署和安排，要及时贯彻落实并督促检查。对卫生部、国家食品药品监督管理局和当地党委、政府部署及本部门安排的尚未完成的工作要联手接续开展，共同完成。要加强消费环节食品安全和保健食品、化妆品的监督管理，切实落实行政许可、行政监督、执法检查、监督抽查和应急处理责任，不得因职责交接和职责不到位影响执法监督，放松监管。对玩忽职守、推诿扯皮、敷衍塞责的，要追究相关部门及有关领导的责任。<br><br>    三、强化应急管理，妥善处置突发食品安全事件<br>    要从三鹿牌婴幼儿奶粉事件中吸取教训，特别要对消费环节食品安全事故应急预案进行全面修订与完善，建立健全应急工作机制，提高应急处置能力。辖区内的消费环节发生突发重大食品安全事故及保健食品、化妆品不良反应和重大安全事件要立即报告国家食品药品监督管理局，并协调有关部门积极开展处置工作，做到反应迅速、应对及时、控制有力、处置得当。各地要将事故发生的时间、地点、经过、背景、原因、后果以及当地领导的要求、采取的处置措施、事态的进展情况、处理结果等内容，全面、及时地向国家食品药品监督管理局报告。<br><br>    四、建立协作机制，联手打击违法行为<br>    各地食品消费监管部门要在食品安全综合协调部门的指导下，充分依靠地方党委、政府的领导，加强与农业、商务、卫生、工商、质检等部门及地区间的协调与合作，建立消费环节食品安全监管联合协作机制，及时通报相关信息，形成监管合力，联手打击违法行为。<br><br>    五、深入调查研究，搞好队伍培训<br>    各地食品药品监管部门要切实转变工作思路，尽快进入工作状态，做好实施监管的各项准备工作。要积极开展调查研究，对本地区消费环节食品安全和保健食品、化妆品监管状况进行全方位调研，掌握基本情况；要组织开展学习培训，学习与消费环节食品安全监管和保健食品、化妆品卫生监督有关的法律法规和业务知识，培养一支精通法律、熟悉业务的监管骨干力量；要研究制定相关工作制度，落实工作责任；要积极开展食品安全宣传，特别是加强对农村、学校和建筑工地集体用餐的消费指导，进一步提高食品安全意识，预防群体性食物中毒事件发生；要在充分调研的基础上积极进行探索，与时俱进地创新监管模式和工作机制。<br><br>    国家食品药品监督局值班室  电话：010-68316825<br>                              传真：010-68310909<br><br>                                                        国家食品药品监督管理局<br>                                                          二○○九年一月八日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

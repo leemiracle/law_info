@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局、中国人民银行<BR>&nbsp;&nbsp;【发布文号】国税发[2005]193号<BR>&nbsp;&nbsp;【发布日期】2005-12-03<BR>&nbsp;&nbsp;【生效日期】2005-12-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200512141104468025" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局、中国人民银行关于实行电子缴税后使用电子缴款书有关问题的通知<br><br></font>(国税发[2005]193号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局，中国人民银行各分行、营业管理部、省会（首府）城市中心支行，大连、青岛、宁波、厦门、深圳市中心支行，各政策性银行，国有独资商业银行，股份制商业银行，外资银行：?   <br>    近年来，一些地区从本地实际出发，先后开展了多种形式的横向联网建设，试行了电子缴税，改善了纳税环境，提高了税收征管效率。2004年，财政部、国家税务总局、中国人民银行在总结地方经验的基础上，决定按照统一制定联网方案、统一业务标准、统一接口规范、统一软件开发、合理配置和节约资源的要求，实行财、税、库、行横向联网电子缴税。为了推动电子缴税工作的开展，提高税款入库效率，规范电子缴税行为，根据《中华人民共和国税收征收管理法》、《中华人民共和国电子签名法》、《中华人民共和国国家金库条例》等法律法规，现对实行电子缴税后使用电子缴款书有关问题通知如下：?<br>    一、关于使用电子缴款书的条件?<br>    电子缴税是指税库行联网单位通过横向联网系统，采用电子方式，办理税收收入缴库业务的行为。符合以下条件的电子缴税，税库行联网单位之间可使用电子缴款书划缴税款，不再使用纸质缴款书：?<br>    （一）联网系统的运行安全、可靠、稳定； ?<br>    （二）联网系统电子信息的传输实行了全过程加密及身份确认，符合国家有关业务信息安全和保密要求，能够保证电子信息的完整性、不可篡改性和不可否认性；?<br>    （三）联网系统电子信息由税务机关发起，通过国库汇集、校验后转发商业银行、信用社；?<br>    （四）联网系统电子信息能够及时备份、存档，并具备按权限随时调取、查用的功能，实现信息共享；?<br>    （五）联网系统具备及时电子对账功能，并保存详细的对账结果；?<br>    （六）各联网单位已制定完善的制度办法和操作规程，明确各方职责，建立联系协调机制，及时解决工作中出现的问题；?<br>    （七）从纳税人账户自动划缴税款的，税务机关、纳税人开户银行事先已与纳税人签订具有法律效力的委托缴税协议。?<br>    鉴于目前一些地区已在税务、国库和各商业银行之间建立专用通信网，税务直接将电子缴税信息发送联网商业银行，通过税银库横向联网系统实现了电子缴税，因此，对于在本通知下发之前已建立税银库专用联网系统实行电子缴税的地区，如果符合上述第三项规定以外的各项条件的，也可使用电子缴款书替代纸质缴款书。但要按照《中国人民银行  国家税务总局关于印发〈税务与国库横向联网业务需求书〉的通知》（银发〔2005〕252号）的有关要求，逐步向目标模式过渡。?<br>    二、关于电子缴税凭证?<br>    电子缴税使用电子缴款书、电子缴税付款凭证、电子缴税入库清单等凭证，其要素信息应当满足税务、国库、银行核算与管理的需要。?<br>    （一）电子缴款书。电子缴款书是纸质缴款书的电子形式，与纸质缴款书具有同等法律效力，由税务机关生成。电子缴款书的基本要素包括：征收机关、缴款书编号、交易流水号、生成日期；付款单位账户名称、账号、开户银行；收款国库、预算级次、分成比例、预算科目、金额、纳税人名称、纳税人识别号、所属时期、限缴日期等。?<br>    （二）电子缴税付款凭证。电子缴税付款凭证是国库经收处根据接收的电子缴款书而填制的、从纳税人账户划转款项的专用结算凭证。电子缴税付款凭证基本要素包括：凭证字号、转账日期；付款单位账户名称、账号、开户银行；收款国库、征收机关名称、大小写金额、税（费）种名称、所属时期、缴款书交易流水号、记账、复核、打印日期等。电子缴税付款凭证一式二联，第一联作纳税人开户银行记账凭证，第二联交纳税人作付款回单，纳税人以此作为缴纳税（费）款的会计核算凭证。电子缴税付款凭证必须加盖银行收讫章方为有效。?<br>    （三）电子缴税入库清单。电子缴税入库清单是国库依据电子缴款书相关要素生成、打印的已入库税收收入清单，是国库记账的依据。电子缴税入库清单基本要素包括：制单日期；缴款书交易流水号、生成日期；付款单位账号、开户银行；收款国库、金额、征收机关、纳税人名称、预算级次、分成比例、预算科目等内容。电子缴税入库清单应当分别按国库、预算级次编制。?<br>    三、关于使用电子缴款书后有关退库、更正业务的处理要求<br>    （一）税务机关办理退税业务时，必须在收入退还书上标注原电子缴款书交易流水号或其它相关信息；国库按有关规定审核无误后，在原电子缴款书上标注退库日期、退库金额等。?<br>    （二）税务机关办理更正业务时，必须在更正通知书上标注原电子缴款书交易流水号或其他相关信息；国库核对无误后在原电子缴款书上标注更正日期、更正金额等。?<br>    四、关于完税凭证?<br>    税库行联网单位之间不再使用纸质缴款书后，纳税人需要税务机关开具完税凭证的，税务机关应根据征管系统中已入库电子缴款书开具纸质完税凭证。对于仍须将《税收（出口货物专用）缴款书》第二联（收据乙）转交购货企业的纳税人，税务机关必须在纳税人电子缴税后，及时给纳税人开具《税收（出口货物专用）缴款书》。第一联（收据甲）和第二联（收据乙）交纳税人，第五、六联由开票税务机关留存备查，第三、四联由开票税务机关留存并定期销毁。?<br>    五、其它要求?<br>    （一）各联网单位应当各司其职，各负其责，加强管理，防范风险，确保电子缴税工作正常有序进行。税务机关是电子缴款书的发起者，应对已发出的电子缴款书的真实性、完整性和有效性负责；国库应当及时接收、处理各项联网信息，并对其已处理的各项联网信息的真实性、完整性和有效性负责；纳税人开户银行应当及时接收、转发电子缴税信息，保证应缴税款及时、足额划缴国库，并对转发的电子缴税信息和开具的电子缴税付款凭证的真实性、完整性和有效性负责。?<br>    （二）各联网单位在电子缴税业务中，应采取措施，确保有关业务信息的安全和保密，防止发生数据丢失或泄密行为。?<br>    （三）各地实行电子缴税后决定取消纸质缴款书的，税务和国库应及时将电子缴款书的适用范围、联网实施办法及操作规程等资料共同报送国家税务总局（计划统计司）和中国人民银行（国库局）备案。?<br>    （四）中国人民银行各分行、营业管理部、省会（首府）城市中心支行，大连、青岛、宁波、厦门、深圳市中心支行接此通知后，及时转发辖内城市商业银行、农村商业银行、农村合作银行和城乡信用社。?<br>    （五）本通知自下发之日起执行。各地执行过程中如遇有问题，应及时向上级反映。?<br>    特此通知。<br>??    <br>    附件：××××银行（信用社）电子缴税付款凭证<br><br>                            国家税务总局 中国人民银行<br>                             二○○五年十二月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

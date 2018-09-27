@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通运输部 中国气象局<BR>&nbsp;&nbsp;【发布文号】交公路发【2010】456号<BR>&nbsp;&nbsp;【发布日期】2010-08-31<BR>&nbsp;&nbsp;【生效日期】2010-08-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhuzhan/zhengwugonggao/jiaotongbu/gongluguanli/201009/t20100917_812264.html" target=_blank>交通运输部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于进一步加强公路交通气象服务工作的通知 <br><br></font>(交公路发【2010】456号)</p> <br><br><br>    各省、自治区、直辖市交通运输厅（委）、气象局，国家气象中心，国家气象信息中心，中国气象局气象探测中心，中国气象局公共气象服务中心，交通运输部公路科学研究院：<br><br>    为进一步落实《交通部与中国气象局共同开展公路交通气象监测预报预警工作备忘录》和《交通运输部与中国气象局深化交通气象合作会谈纪要》的有关精神，促进全国公路交通气象服务的健康发展，现就有关事宜通知如下：<br><br>    一、共同推进公路交通气象观测站点网络建设<br><br>    各地公路交通、气象部门要根据各地实际，围绕公路交通气象服务需求，以雾、雨、雪、低温冰冻、沙尘暴等影响公路交通安全的灾害性天气监测为重点，按职责分工，在高速公路、国省干线公路以及由公路部门管养的重点旅游公路沿线，积极推动建立专门的交通气象观测站网和视频实景观测系统。<br><br>    各地气象部门要加快对公路沿线附近气象站的升级改造，特别是要加强能见度的观测，以满足交通气象服务的需要。各地公路交通部门要加强对已建成公路气象设施的维护，使气象监测设施处于良好运行状态，并逐步实现与气象部门观测系统的联网。对于新建高速公路、国省干线公路项目，建设单位要根据公路沿线气象状况及对交通安全的影响程度，将交通气象观测设施建设纳入工程设计与项目概算中，同步建设。气象部门要为公路交通气象观测系统的建设、运行维护提供技术保障。对于已建公路需增加气象观测设施的，由两部门共同协商，采用多种方式，争取多方支持，共同建设。<br><br>    二、认真做好公路交通气象预报预警服务工作<br><br>    各地公路交通、气象部门要加强沟通和交流，共同分析和把握不同用户、地域、时段对公路交通气象服务的需求。气象部门要根据服务需求，进一步加强公路沿线灾害性天气的监测、预报和预警服务工作，努力提高对影响公路交通的雾、雨、雪、低温冰冻、沙尘暴等灾害性天气的预报预警水平。同时，应大力引进和发展公路交通气象专业预报模式，逐步提供针对性更强的公路交通气象专业预报预警产品。<br><br>    公路交通、气象部门以京港澳高速公路、京津塘高速公路、江苏省联网高速公路为试点，在交通气象监测站网建设、数据共享、精细化预报预警服务等方面联合开展研究与示范应用，在总结试点经验的基础上逐步推广应用。各地公路交通、气象部门应联合通过电视、广播、网络、手机短信、公路电子显示屏等，及时向社会公众提供公路交通气象监测预警信息和出行安全提示，为社会公众提供准确、便捷的公路交通气象服务。<br><br>    三、建立健全有效的公路交通气象应急工作联动机制<br><br>    各地公路交通部门要与气象部门建立应对恶劣天气和不利气象条件的应急联动工作机制。公路交通部门应根据气象部门提供的交通气象预警信息，加强应急值守，一旦发生影响公路交通的灾害性天气，要及时启动相关应急预案，切实做好灾害性天气应对防范工作。气象部门应加强交通灾害性天气的监测、预报与预警服务保障工作，根据公路灾害情况，组织开展加密观测和有针对性的预报会商，及时提供气象服务信息，并提出相关防范意见和措施建议。各地公路交通、气象部门要进一步加强应急联动能力建设，完善双方的信息互通制度，拓展灾害应急联动方式渠道，丰富应急联动的技术手段。双方要明确各自的责任部门、联络人员及联系方式，做到责任到人。<br><br>    四、促进公路交通气象服务的信息共享和集约化发展<br><br>    进一步建立健全公路交通、气象部门的信息共享机制，结合公路交通气象监测设施的建设，推动双方在部、省级信息共享渠道与平台的建设，并将其内容分别纳入公路网管理与应急处置中心和交通气象服务业务系统的建设范围。公路交通部门与气象部门要联合制定信息交互与共享方案及相关技术要求，建立信息共享流程和渠道，明确信息共享的具体内容、传输时间和传输方式等。各地公路交通部门应向气象部门提供公路交通气象观测、公路视频监测、路况等信息；气象部门应及时将公路交通气象观测信息、预报预警产品提供给公路交通部门。<br><br>    五、加强交通气象服务标准化建设<br><br>    要大力推进公路交通气象业务标准体系建设。双方要联合制定公路交通气象站设置安装、检测校准、通讯协议、信息交换共享、预报服务产品制作、信息发布等方面的规范和标准。要充分利用各自的资源和技术优势，形成合力，共同加快相关标准和规范的编制工作，促进公路交通气象业务的规范化发展。<br><br>    六、研究探索建立多样化的公路交通气象合作模式<br><br>    各地公路交通、气象部门要根据各地特点和需求，探索建立符合本地实际的公路交通气象业务发展长效合作机制，建立多方参与、权责明晰的公路交通气象监测系统建设、运营维护与服务提供模式。对于面向公众的灾害性天气预报预警、实况监测信息等服务，属气象部门公益服务范畴的，由各级气象部门无偿提供。对于相关部门和单位提出的个性化公路气象服务需求，由气象部门按照有关规定通过协议方式予以提供。<br><br>    二0一0年八月三十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

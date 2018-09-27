@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】辽宁省<BR>&nbsp;&nbsp;【发布文号】辽政发〔2004〕31号<BR>&nbsp;&nbsp;【发布日期】2004-09-09<BR>&nbsp;&nbsp;【生效日期】2004-09-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ln.gov.cn/communique/govfiles/govfiles/37_24150.htm" target=_blank>辽宁省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>辽宁省人民政府关于2004年减征农业税和取消除烟叶外农业特产税有关问题的通知<br> <br></font>(辽政发〔2004〕31号)</p><br><br><br>各市人民政府，省政府各厅委、各直属机构： <br>     为深化全省农村税费改革，进一步减轻农民负担，加强农村经济发展，根据《国务院关于做好2004年深化农村税费改革试点工作的通知》（国发〔2004〕21号）及有关农村税费改革规定，现就2004年减征农业税和取消除烟叶外的农业特产税有关问题通知如下：?<br>    一、降低农业税税率年，全省农业税税率由原7%下调3个百分点，统一执行4%，农业税附加为正税的20%。没有参与农村税费改革的国营农场（林场）以及有农业收入的部队、学校、企事业等纳税单位，从2004年起，与其他改革地区一样享受减征农业税政策，减征额为农村税费改革前依率计征农业税额的42.85％。?<br>    2004年，阜新、朝阳两市先行免征农业税改革试点。其他有条件的地区可视地方财力情况进行免征农业税或加大农业税税率下调幅度的改革试点。?<br>    二、取消除烟叶外的农业特产税从2004年起，对烟叶仍征收农业特产税，取消其他农业特产品的农业特产税。在农业税计税土地上生产的农业特产品，改征农业税，在非农业税计税土地上生产的农业特产品，不再改征农业税；对免征农业税的地区，农业特产品不再改征农业税。?<br>    三、制定方案，分步实施减征农业税工作，各市可采取审批到县、控制到乡、落实到户的办法，将降低税率后的正税及附加额落实到户。具体分三个阶段实施：?<br>    第一阶段：宣传发动。为确保全省政策宣传口径的统一，省将统一制订《全省减征农业税及取消除烟叶外的农业特产税宣传提纲》。各地要充分利用电视、广播、报纸、板报等多种方式，及时宣传减征农业税及取消除烟叶外的农业特产税有关政策，并贯穿到改革工作的始终，真正做到进村入户，家喻户晓，深入人心，把党和政府的关怀送到每个农户，为深化农村税费改革创造良好的舆论环境。要对参与减征农业税等项工作的干部进行培训，确保改革政策落到实处。?<br>    第二阶段：制定方案。各市、县(市、区)要深入基层，广泛听取基层和农民意见，摸清底数，制定切实可行的实施方案。各市要认真审核所辖县（市、区）的实施方案，并编制本市的汇总方案报省农村税费改革领导小组办公室备案。阜新和朝阳两市的免征农业税改革试点实施方案要报省农村税费改革领导小组审批；条件具备并自行决定进行免征农业税改革试点的市、县（市、区）或乡（镇），其实施方案经上一级人民政府审批后，报省农村税费改革领导小组办公室备案。?<br>    第三阶段：组织实施。各县（市、区）按照市批复的方案，将降低农业税税率以后的农业税及其附加征收任务核定到户，并于秋征开始前将每个农户的应纳农业税及其附加以村（组）为单位张榜公示，接受群众监督，公示时间不得少于10天，秋征开始前，各级政府要组织有关部门填写省统一印发的“农民负担手册”（简称“手册”），征收机关按照“手册”内容依法征税。?<br>    四、提高认识，确保政策落实到位减征农业税及取消烟叶外的农业特产税，是实践“三个代表”重要思想，继续推进农村税费改革试点，进一步促进农民减负增收和农村发展的重要举措，各级政府及有关部门要予以高度重视，切实加强领导，积极稳妥地推进这项改革工作。各级政府主要领导要亲自抓、负总责。要周密制订方案，精心组织实施，确保各项政策不折不扣地落实到基层和农户。要注意发现和研究改革中出现的新问题和新情况，加强部门配合和上下沟通，重大情况要及时向省农村税费改革领导小组办公室报告。同时，要稳定农业税征管队伍，确保改革工作顺利完成。?<br>    五、其他有关问题对已征收的2004年当年应缴纳的农业特产税（烟叶除外），由政府组织有关部门全额退还纳税人。减征农业税和取消烟叶外的农业特产税减少的地方财政收入及农业税附加，分别由各级财政承担，具体方案由省财政厅制定。?????<br><br><br>                                                                二○○四年九月九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

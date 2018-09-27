@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发[2007]66号<BR>&nbsp;&nbsp;【发布日期】2007-05-31<BR>&nbsp;&nbsp;【生效日期】2007-05-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=834" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于在全省重点行业和领域开展安全生产隐患排查治理专项行动的通知<br><br></font>(甘政办发[2007]66号)</p><br> <br> <br>各市、自治州人民政府，省政府有关部门，中央在甘有关单位：<br>    根据《国务院办公厅关于在重点行业和领域开展安全生产隐患排查治理专项行动的通知》(国办发明电〔2007〕16号)要求，省政府决定，在全省范围内开展重点行业和领域安全生产隐患排查治理专项行动(以下简称“专项行动”)。现将有关事项通知如下：<br>    一、工作目标<br>    通过开展专项行动，进一步落实企业的安全生产主体责任和各市州政府的安全监管主体责任，全面排查事故隐患和薄弱环节，着力解决安全生产存在的突出问题，完善隐患排查治理机制及分级管理制度，有效防止事故发生，促进全省安全生产状况进一步稳定好转。<br>    二、工作范围、内容及方法<br>    (一)工作范围。重大安全生产隐患的排查与治理范围包括全省所有生产经营单位。重点排查金属非金属矿山、冶金、有色、石油、化工、烟花爆竹、建筑施工、民爆器材、电力、交通运输、渔业、农机等企业和水库、学校、人员密集场所等。<br>    (二)工作内容。在排查规章制度、责任落实、“三违”现象(违章指挥、违章作业、违反劳动纪律)、劳动组织、设备管理、“三同时”制度执行状况(建设项目的安全设施与主体工程必须做到同时设计、同时施工、同时投入使用)、危险源监控的基础上，重点排查作业场所、设备及设施的不安全状态、人在生产经营活动中的不安全行为，可能导致人员死亡及重大经济损失的安全生产隐患。<br>    (三)工作方法。一是企业自查与部门集中排查相结合。各市州政府和安全生产监督管理等部门要督促企业对安全生产隐患进行全面自查，边排查，边治理。同时，要组成专项检查组，按管理职责分工，对本行政区域和行业的生产经营单位实行拉网式排查。二是发动群众参与隐患排查工作。各有关部门要通过当地新闻媒体公布安全生产隐患举报电话，并及时将举报信息整理汇总分类。对于反映的隐患信息，要立即派检查组进行排查。三是聘请专家参与隐患排查工作。各有关部门要结合本行业实际，从大专院校、科研单位、大型企业和中介机构聘请相关专家参加排查和督查工作，每个检查组应有2名以上专家。<br>    三、实施步骤<br>    (一)安排部署阶段：各市州政府要结合实际，于6月10日前，研究制定开展安全生产隐患排查治理专项行动的工作方案，并督促企业认真落实。<br>    (二)企业排查治理阶段：6月30日前，各类生产经营单位要结合实际，制定隐患排查治理具体方案，认真做好自查自改工作，全面整治安全生产隐患。<br>    (三)政府督查阶段：7月20日前，各市州、县市区政府要组织由政府分管领导、安全生产监督管理部门及其他相关部门参加的督查组，对隐患排查治理情况进行督查，并由市州政府将有关情况报省安委会办公室。8月20日前省安委会办公室组织有关部门对各市州隐患排查治理工作进行督查。<br>    (四)“回头看”阶段：为巩固专项行动成果，结合年终安全生产目标责任书考核，组织开展“回头看”，再检查。主要检查事故隐患排查治理是否到位，是否出现反弹，监管机制是否建立健全等。<br>    四、组织与分工<br>    省安委会办公室具体负责专项行动的协调指导和监督检查工作，省安委会成员单位和市州政府具体负责落实。<br>    各市州政府对辖区内安全生产隐患排查与整改工作负总责，负责组织、协调、实施本辖区重大安全生产隐患的排查治理工作，督促各相关部门切实履行职责，及时协调解决实施过程中发现的问题。<br>    安全生产监督管理部门负责对非煤矿山、危险化学品、烟花爆竹以及冶金、有色、石油、化工等工矿商贸企业的监督检查，指导督促企业建立健全隐患排查治理责任制，落实企业法人责任，全面排查治理隐患。重点检查透水、采空区坍塌、爆炸、井喷、高炉坍塌、钢水溢出等隐患。<br>    煤炭安全生产监督管理、煤矿安全监察部门牵头负责排查治理煤矿安全生产隐患；公安部门牵头负责排查治理道路交通运输和火灾等安全隐患；交通部门牵头负责排查治理道路和水上交通运输等安全隐患；国防科技工业部门牵头负责排查治理民用爆炸物品生产、销售等安全隐患；建设部门牵头负责排查治理建筑工程等安全隐患；质量技术监督部门牵头负责排查治理锅炉、压力容器等特种设备安全隐患；水利部门牵头负责排查治理水利设施、水利工程等安全隐患；电力部门牵头负责排查治理电力设备、设施等安全隐患；旅游部门牵头负责排查治理旅游景点等安全隐患；林业部门牵头负责排查治理林区火灾等安全隐患；教育部门牵头负责排查治理学校校园、教室、宿舍等安全隐患；农牧部门负责农机、渔业和草原防火等安全生产隐患的排查治理；民航、铁路、邮政等部门负责牵头组织本行业相关安全生产隐患的排查治理工作。<br>    各负有安全生产监督管理职责的部门和行业管理部门要切实履行职责，督促、指导本系统、本行业的生产经营单位搞好安全生产隐患的排查治理工作。对已经查明并登记建档的安全生产隐患，要督促、指导企业制订整改计划，落实整改措施，彻底消除隐患。短期内难以治理的要制定计划，限期整改。同时要加强监控，落实应急和安全防范措施。要指导督促企业认真执行安全费用提取使用制度，依法加大投入治理隐患。要加强对安全生产隐患的监督检查和重点抽查，一旦发现要及时通报隐患单位，并提出防范措施和整改建议。<br>    各生产经营单位及主要负责人是安全生产隐患排查与治理工作的责任主体和责任人，要按照本行业的安全规范和标准做好经常性安全检查和对重大安全生产隐患的排查与整改工作，对排查出的安全生产隐患必须登记建档，并落实整改资金、责任人、进度和期限，确保安全生产隐患得到及时有效的整改和消除。自查和整改情况要及时上报归口管理部门。在重大安全生产隐患消除前或者消除过程中无法保证安全的，要立即停产停业或者停止使用。由于条件所限，难以立即整改消除的重大安全生产隐患，要严密监控，并制定事故应急救援预案。<br>    各群众团体、新闻媒体要加强对重大安全生产隐患排查与整改工作的舆论监督和宣传报道。<br>    五、具体要求<br>    (一)提高认识，加强领导。各市州政府及安全生产监督管理等部门要从构建社会主义和谐社会的高度，充分认识安全生产隐患排查治理工作的长期性、艰巨性、复杂性和极端重要性，切实把隐患排查治理工作作为防范事故发生的重要措施，作为夯实安全管理基础工作的重要手段，作为实现全省安全生产状况根本好转的切入点和着力点，进一步加强组织领导，研究制定周密的工作计划，确保人员、责任、时限、经费、措施和应急预案落实到位，有效防止事故发生。<br>    (二)突出重点，健全机制。各市州政府及安全生产监督管理等有关部门要加强隐患排查治理工作的督促、检查和指导。要及时研究解决隐患排查治理过程中遇到的问题，保质保量地完成工作任务，建立长效机制，将安全生产隐患排查治理工作纳入规范化、经常化、制度化和法制化轨道。一是建立安全生产隐患公示机制；二是建立举报机制；三是建立市州政府对行政区域内安全生产隐患的挂牌督办机制；四是建立整改责任制度；五是建立整改督查抽查制度；六是建立协调联席工作会议机制。<br>    (三)广泛宣传，加强监督。要充分利用广播、电视、报纸等新闻媒体，广泛宣传安全生产隐患排查治理专项行动，及时披露反面典型，加大舆论监督和群众监督力度。各市州要加强信息反馈，适时指导，及时总结推广好经验、好方法，着力推动安全生产隐患排查治理工作的深入开展，最大限度地整改消除安全生产隐患，切实保障人民生命财产安全，为全省经济又好又快发展创造良好的安全环境。<br> <br>二○○七年五月三十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

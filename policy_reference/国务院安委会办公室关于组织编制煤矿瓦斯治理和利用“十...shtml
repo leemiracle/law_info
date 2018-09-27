@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办〔2008〕20号<BR>&nbsp;&nbsp;【发布日期】2008-09-01<BR>&nbsp;&nbsp;【生效日期】2008-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-09/03/content_287381.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于组织编制煤矿瓦斯治理和利用“十一五”后三年规划的通知<br><br></font>(安委办〔2008〕20号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团安全生产委员会，有关中央企业：<br><br><br>    为贯彻落实国务院安委会召开的全国煤矿瓦斯治理现场会精神，构建“通风可靠、抽采达标、监控有效、管理到位”的煤矿瓦斯综合治理工作体系（以下简称瓦斯治理工作体系），把煤矿瓦斯治理攻坚战扎实有效地推向深入，经研究，决定组织开展煤矿瓦斯治理和利用“十一五”后三年规划（以下简称《规划》）编制工作。现将有关事项通知如下： <br><br>    一、高度重视《规划》编制工作 <br><br>    （一）提高认识。近年来，通过各地区、各部门和广大煤炭企业的共同努力，煤矿瓦斯防治工作取得了明显成效。但一些煤矿企业瓦斯抽采率和利用率低、通风系统不可靠、监控系统形同虚设、现场管理不到位等问题仍十分突出，重特大瓦斯事故时有发生，与实现张德江副总理在全国煤矿瓦斯治理现场会上重要讲话中提出的“有效控制重特大瓦斯事故、坚决遏制百人以上事故”的目标还有很大的差距。实现通风可靠、抽采达标、监控有效、管理到位，是深化瓦斯治理，有效遏制重特大瓦斯事故，促进煤矿安全生产形势稳定好转的重要途径。贯彻全国煤矿瓦斯治理现场会精神，扎实推进瓦斯治理攻坚战，必须充分发挥《规划》的指导作用，进一步理清思路，明确目标，落实措施，强化瓦斯治理工作体系建设，确保煤矿瓦斯治理工作取得实效。 <br><br>    （二）精心组织。各省（区、市）安全生产委员会要指定牵头部门，明确参加单位，成立领导小组和专门工作小组，研究制定工作方案，启动《规划》编制工作。同时，组织各重点产煤市（地）和煤矿企业负责编制本地区、本企业的《规划》。 <br><br>    二、认真开展《规划》编制工作 <br><br>    （一）编制范围。主要包括本地区各类煤矿矿井通风、瓦斯抽采利用、监测监控、现场管理以及煤层气地面开发利用等方面的内容，统一按“瓦斯治理现状和问题，指导思想、发展思路和目标，工作任务和重点工程，保障措施，瓦斯治理工作体系示范矿井和示范县建设方案”五个部分编写。基准年为2007年，规划时间跨度为2008-2010年。 <br><br>    （二）分析现状。各地区要认真分析《国家安全监管总局关于印发煤矿安全生产“十一五”规划的通知》（安监总规划〔2007〕41号）在本地区的贯彻落实情况，全面总结2005年以来煤矿瓦斯治理工作情况，深刻分析瓦斯治理工作特别是在构建瓦斯治理工作体系方面存在的差距和问题，研究深化煤矿瓦斯治理工作思路。 <br><br>    （三）明确目标。按照整体规划、分步实施的原则，明确到2008年、2010年的总体工作目标以及瓦斯治理工作体系达标的年度目标，明确瓦斯治理工作体系示范矿井、示范县建设的具体单位。要建立瓦斯治理目标考核体系，对煤矿企业瓦斯事故控制、瓦斯抽采和利用指标以及瓦斯治理机构、瓦斯治理工程建设进展进行量化。 <br><br>    （四）突出重点。各地区、各煤矿企业要根据自身实际情况，明确工作任务、重点工程和保障措施。大型煤矿要根据《井工煤矿开采通风技术条件》，研究制定实现矿井通风系统稳定可靠的技术措施；要根据《煤矿瓦斯抽采基本指标》的要求，制定实现煤矿瓦斯抽采达标，抽、掘、采平衡和加强瓦斯利用工作的措施；煤与瓦斯突出矿区，要制定保护层开采和区域性超前预抽等防突的措施；要健全瓦斯治理机构和队伍，完善管理制度，充分发挥专业技术人员的积极性和作用；要建设一批瓦斯治理工作体系建设示范矿井。小型煤矿要采取有效措施实现正规开采，建立稳定可靠的通风系统；要建立抽采系统，实施瓦斯先抽后采；要加强监控系统的维护、传感器调校，保证系统运行稳定有效；要完善管理制度，加强对从业人员安全技术培训，强化安全管理。重点产煤地区，要明确推进瓦斯综合治理工作体系建设的政策措施，加强领导，深入开展隐患排查，加大安全投入，积极组织科技攻关和新技术推广，建设瓦斯治理工作体系示范县。要以治大隐患、防大事故和促进利用为目标，制定重点工程措施，明确项目、投资和进度安排。 <br><br>    三、按时完成《规划》编制任务 <br><br>    请各省（区、市）安全生产委员会办公室（或负责《规划》编制的牵头部门）于2008年10月31日前，将本地区的《规划》及其附表（见附表1-6），连同重点产煤市（地）和国有重点煤矿企业《规划》一并报送国家煤矿安监局（含电子文档）。有关中央企业的《规划》请直接报送国家煤矿安全监察局。 <br><br>    联系人:史宝中朱超联系电话：010-64463486 <br><br>    地址：北京市和平里北街21号邮编：100713 <br><br>    电子信箱：shibz@chiansafety.gov.cn <br><br>    附表：1.煤矿瓦斯综合治理工作体系建设规划汇总表<br><br>     2.煤矿瓦斯治理重点工程投资汇总表 <br><br>     3.应抽采矿井瓦斯抽采规划汇总表 <br><br>     4.瓦斯(煤层气)利用规划汇总表 <br><br>     5.煤矿瓦斯综合治理体系建设示范县（区）规划汇总表 <br><br>     6.煤矿瓦斯综合治理体系建设示范矿井规划汇总表<br><br>国务院安全生产委员会办公室<br>二○○八年九月一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

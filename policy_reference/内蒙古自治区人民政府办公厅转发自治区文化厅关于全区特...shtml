@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政办字〔2005〕332号<BR>&nbsp;&nbsp;【发布日期】2005-10-11<BR>&nbsp;&nbsp;【生效日期】2005-10-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nmg.gov.cn/pages/20051221/20051221271228392.htm" target=_blank>内蒙古自治区 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区人民政府办公厅转发自治区文化厅关于全区特色博物馆体系建设意见的通知<br><br></font>(内政办字〔2005〕332号)</p><br><br><br>中国人民解放军63600部队（东风航天基地），各盟行政公署、市人民政府，自治区各委、办、厅、局，各大企业、事业单位：<br><br>    经自治区人民政府同意，现将自治区文化厅《关于全区特色博物馆体系建设的意见》转发给你们，请结合实际，认真贯彻落实。<br><br><br>全区特色博物馆体系建设的意见<br>（自治区文化厅  二○○五年十月十一日）<br><br>    博物馆是一个国家、地区经济社会发展水平和文明程度的重要标志，也是民族历史文化的收藏、保护、研究与展览基地。为保护和利用好现有的文物资源，加快我区特色博物馆体系建设的步伐，促进民族文化大区建设，现提出如下意见。<br>    一、特色博物馆体系建设构想<br>    一是内容特色化。从坚持以人为本和满足多层次需求的角度出发，并结合我区文物资源的分布状况，选择特色鲜明、内容独特，国内外独有或少有的题材，兴办一批内容丰富、主题突出的专题博物馆。使文物征集和展览打破大而全或小而全、各馆雷同的格局，把各专题博物馆的展览内容办新、办深。如在呼和浩特市创办“草原马文化博物馆”、“旅蒙商博物馆”，在内蒙古博物馆举办“蒙古民族历史文物陈列”等。这些特色鲜明的博物馆和陈列既可发挥各地历史文化和文物的优势，又可展示了我区文物的精华，从整体上反映出内蒙古文物的特色和深厚的文化底蕴，在国内外独树一帜，必然会受到广大观众包括历史、民族、文物考古等方面专家学者的喜爱，进而提高我区文化的影响力和吸引力。<br>    二是体制多元化。根据我区实际，并参照其他一些省区市做法，我区建设特色博物馆，除了由各级政府投资兴办外，还应当鼓励和支持社会力量包括各个行业和国有、民营企业以及私人建立博物馆，并在特色博物馆主题的选择确定和依法筹集展品方面，予以指导和支持，实现政府依法管理下的体制多元化的博物馆建设体系。目前，在我区金融等一些行业及高校和知名企业中，存在着兴办专题博物馆的积极性，如果把工作做好，可在几年内兴办多座特色博物馆。<br>    三是布局重点化。根据我区实际，博物馆建设要坚持收藏、研究、教育和旅游相结合的原则，首先在人口较多，交通方便，文物藏品丰富，地方财政能给予资金投入，旅游景点较多的重点城市和地区建设博物馆，这样可使文物和旅游相结合，使资金和文物资源更好地发挥应有的效用。对于文物缺乏特色，藏品较少、学术研究滞后的地区，暂不宜创办新博物馆，避免稀缺和不可再生的文物资源过度分散。<br>    四是功能标准化。我区新建、改扩建博物馆，应当按照国家规定的标准进行建设，特别是要在防火、防盗、防雷和库房、展厅的温度、湿度控制等方面达到标准。同时，根据文物资源分布情况和经济实力，各地博物馆的馆舍建设不宜贪大求全，要严把关口，突出精品意识。<br>    五是投资多元化，特色博物馆的建设资金及运营管理资金可以多方筹集，实现投资主体的多元化，可采取冠名权等方式吸纳资金。国有博物馆也应采取多种方式吸纳社会资金。<br>    力争到2010年，全区博物馆的总数从现有的27座增加到50座，达到全区平均50万人拥有一座博物馆，接近全国平均水平。但在博物馆的特色和影响力方面，进入全国的前列。<br>    二、特色博物馆体系建设规划<br>    目前，我区已有喀喇沁旗清代蒙古王府博物馆、内蒙古酒文化博物馆等5个特色博物馆开始建设，其他拟建的博物馆分6类：第一类为中国马文化博物馆、中国草原乳业博物馆、内蒙古鄂尔多斯煤炭博物馆、园子沟原始社会遗址博物馆、元上都生态博物馆，上述5个博物馆均由企业出资建设；第二类为呼和浩特将军衙署博物馆、呼和浩特清公主府博物馆、呼和浩特旅蒙商博物馆等均利用古建筑进行维修后改建；第三类为内蒙古民族博物馆、辽文化和红山文化博物馆、鄂尔多斯青铜器艺术博物馆、辽中京博物馆等博物馆，均是利用现有博物馆进行改造或扩建后重新布展；第四类是利用古遗址建立的二连恐龙遗址博物馆、集宁路遗址博物馆、盛乐古城遗址博物馆、园子沟原始社会遗址博物馆等遗址博物馆；第五类是盟市、旗县已开工建设的博物馆，有呼伦贝尔市中国森林狩猎民族博物馆、包头市工业科学博物馆、辽上京博物馆等博物馆；第六类是需自治区和盟市、旗县投资新建的，有内蒙古博物馆新馆、巴彦淖尔市河套文化博物馆、居延博物馆等。<br>    在各级人民政府投资建设和管理的博物馆中，利用古建筑进行修复并改建的博物馆，主要是通过对古建筑的维修和内部复原进行，资金的投入因古建筑面积及维修工程量而定；利用古遗址建的博物馆，应根据遗址特点决定建筑结构，一般可搞金属架构的棚式建筑；新建的盟市、旗县博物馆，盟市级应控制在10000m2以内、旗县级应控制在3000m2以内，考虑将来的发展，各博物馆可预留扩建用地。严禁各类博物馆与其他单位混用一个建筑物或搞其他商业出租。<br>    据预测，到2007年自治区成立60周年大庆前除内蒙古博物馆新馆外，约有17个博物馆可建成并投入使用，其余在2010年前均可以建成。<br>    三、特色博物馆建设政策与措施<br>    (一)将全区特色博物馆建设纳入全区“十一五”经济和社会发展整体规划，纳入民族文化大区的建设规划。<br>    (二)国有博物馆改造和建设的资金投入，需由博物馆所在地地方人民政府自筹。对部分盟市、旗县的重点特色博物馆，自治区可给予一定的资金补助。<br>    (三)国有博物馆建设要按循序渐进的原则进行。哪个地区有积极性，文物资源丰富及文物研究充分、科研力量较强，并有相应的财政支持能力，就支持哪里。如果当地经济比较困难，博物馆日常运行经费难以保证，其博物馆建设暂不考虑。<br>    (四)鼓励各部门各行业和私人建立博物馆，进行文物陈列展示活动。非国有博物馆在门票税收等方面享受与国有博物馆同等待遇。<br>    (五)特色博物馆的文物展品来源，自治区文物行政管理部门可按照《中华人民共和国文物法》的相关规定，在全区范围内通过各地区博物馆之间调拨或借用，对文物资源实行优化组合，充实各特色博物馆的重点陈列内容。地方政府也应依法安排一定的财政资金，用于征集文物展品，防止文物非法流失。<br>    随着国内外对草原历史文化关注程度的提高，草原旅游热的出现和建设民族文化大区战略的实施，我区博物馆事业发展面临着难得的机遇。各级文物部门要抓住机遇，加快我区特色博物馆的建设步伐。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

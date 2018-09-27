@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河南省<BR>&nbsp;&nbsp;【发布文号】豫政办 〔2007〕70号<BR>&nbsp;&nbsp;【发布日期】2007-07-12<BR>&nbsp;&nbsp;【生效日期】2007-07-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.henan.gov.cn/zwgk/system/2007/08/01/010036640.shtml" target=_blank>河南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府办公厅关于全省2006年度城市环境综合整治定量考核结果的通报<br><br></font>(豫政办 〔2007〕70号)</p><br><br>  <br>各市、县人民政府,省人民政府有关部门:<br><br>    2006年度全省城市环境综合整治定量考核(以下简称城考)结果已由省环保局审核、汇总完毕,现通报如下:<br><br>    一、基本情况<br><br>    2006年,各省辖市、县级市政府以城市环境综合整治定量考核为载体,狠抓城市基础设施建设,提高环境监控能力,城市环境质量得到进一步改善。省辖市环境空气质量达到二级天数的平均达标率为85.9%,环境空气质量年均值达到二级标准的有信阳、新乡、鹤壁、周口、驻马店、商丘和漯河市,其余省辖市达到三级标准。环境空气质量二级天数达标率比2005年增加3.3个百分点,年均值达到二级标准的城市由4个增加到7个。鹤壁、漯河、信阳、周口和驻马店市环境空气质量年均值由三级变为二级,环境空气质量明显改善;濮阳和南阳市由二级变为三级,环境空气质量有所下降。<br><br>    省辖市市区水环境功能区达标率平均为89.12%。郑州、许昌、三门峡、新乡、焦作、济源、鹤壁、南阳、商丘、信阳和周口市达标率为100%;漯河、开封和安阳市达标率超过90%;濮阳、驻马店、洛阳和平顶山市不足90%,其中平顶山市仅16.70%,主要超标因子为氨氮。饮用水源地取水水质达标率均为100%,与2005年相比,提高2个百分点。其中,濮阳和周口市水质明显改善,达标率分别比2005年提高43个百分点和11.7个百分点;其他省辖市与2005年相比基本持平。工业固体废物处置利用率平均为95.47%,比2005年提高4.37个百分点;三门峡、濮阳、南阳市处置率低于90%。全省工业危险废物处置率平均为99.2%;郑州、南阳和洛阳市已建成医疗废物集中处置场并投入运行。省辖市生活污水集中处理率平均为68.41%,比2005年提高15.9个百分点。其中,濮阳、驻马店、许昌和漯河市的生活污水集中处理率超过80%。生活垃圾无害化处理率平均为62.53%。开封、鹤壁、三门峡、周口、驻马店和信阳市无害化垃圾处理场尚未建成投运,生活垃圾无害化处理率较低。省辖市建成区绿化覆盖率平均为37.89%。其中,商丘、开封和南阳市建成区绿化覆盖率低于35%。<br><br>    二、城考结果<br><br>    (一)省辖市得分排名<br><br>    1.郑州市(86.78)  2.漯河市(85.47)  3.许昌市(85.47)<br><br>    4.洛阳市(80.15)5.三门峡市(78.84)6.新乡市(78.81)<br><br>    7.济源市(78.63)8.焦作市(78.04)9.安阳市(74.96)<br><br>    10.鹤壁市(74.85)11.南阳市(74.84)12.驻马店市(74.70)<br><br>    13.濮阳市(74.18)14.平顶山市(70.08)15.信阳市(69.53)<br><br>    16.商丘市(69.22)17.开封市(69.06)18.周口市(60.88)<br><br>    (二)县级市得分排名<br><br>    1.新郑市(83.82)  2.荥阳市(81.35)  3.登封市(74.07)<br><br>    4.长葛市(68.77)5.偃师市(67.21)6.巩义市(66.43)<br><br>    7.新密市(66.28)7.沁阳市(66.28)8.孟州市(66.24)<br><br>    9.灵宝市(66.19)9.林州市(66.19)9.义马市(66.19)<br><br>    10.舞钢市(66.10)11.禹州市(64.58)12.辉县市(64.40)<br><br>    13.项城市(64.19)14.永城市(63.91)15.卫辉市(63.54)<br><br>    16.汝州市(54.35)17.邓州市(36.39)<br><br>    三、存在的主要问题<br><br>    (一)结构性污染问题突出。万元工业增加值主要污染物排放强度偏高,部分城市的排放强度超过国家规定的上限值,工业结构性、区域性污染防治任务相当艰巨。<br><br>    (二)城市环保基础设施建设依然落后。一是生活垃圾无害化处理率较低,大部分城市只对垃圾进行简单处理,没有真正做到无害化处理。二是部分县级市污水处理厂建设进度缓慢,且由于管网不配套、资金紧张等原因,已建成的污水处理厂普遍存在收水能力不足问题,不能做到满负荷正常运转和达标排放,给完成主要污染物化学需氧量减排任务带来一定压力。三是危险废物集中处置率较低,特别是城市医疗废物集中处置率偏低,全省只有郑州、南阳和洛阳市的医疗废物集中处置场建成投运。<br><br>    (三)机动车环保检测工作亟待规范。我省大部分省辖市都开展了汽车尾气检测,但由于种种原因,目前还没有一个城市按照国家要求取得机动车环保检测资质,监测工作程序有待规范。<br><br>    (四)环保监测能力需要进一步加强。部分县级市监测站能力较差,不具备水质监测能力,大气自动监测系统普及率低;部分县级市虽然进行了监测,但没有取得有关资质;部分县级市还没有开展监测工作。<br><br>    (五)城考数据准确性有待进一步提高。部分城市为提高城考成绩,存在数据统计和填报不规范的现象。<br><br>    四、工作要求<br><br>    各城市政府要按照《河南省人民政府办公厅关于认真贯彻十一五城市环境综合整治定量考核指标实施细则和全国城市环境综合整治定量考核管理工作规定进一步加强我省城市环境综合整治工作的通知》(豫政办〔2006〕64号)要求,认真做好以下工作:(一)加快城市环保基础设施建设步伐。各省辖市要尽快建成医疗废物集中处置场并投入运行,确保本辖区危险废物得到有效处置;2007年年底前,全省所有城市都要建成管网配套的污水处理厂和垃圾无害化处理场,所有城镇污水处理厂都要安装自动在线监控装置并与环保部门联网。<br><br>    (二)加强环境监测能力建设。尤其要加强县级市环境监测能力建设,普及空气自动监测系统,提高环境监测人员的业务水平,完善环境监测制度。<br><br>    (三)大力推进城市生态环境综合整治。城市内河流必须完成清污分流,城市污水截流并经城市污水管网系统进入城市污水处理厂处理达标后方能排放。有条件的城市要实施中水回用或引水补源措施,保持城市河流一定的生态流量,维护城市河流水体功能,最低要达到一般景观水域的标准。逐步对城市河道及周边生态环境进行综合整治,实施绿化、美化、亮化工程,改善人居条件,为人民群众创造良好的休闲娱乐环境。<br><br>    (四)加大城市大气污染综合防治力度。大力推广清洁能源,积极利用西气东输、西电东送和义马煤气等国家重点工程能源和其他清洁能源,减少城市原煤消耗量,调整和优化城市能源结构;实施城市集中供气、供热工程,推广清洁生产。<br><br>    (五)省环保局要加强对城考工作的领导和组织工作,完善考核形式,做好考核结果的初审、会审、抽查和审定等工作;加强督促检查,会同有关部门组织对各城市的环境综合整治工作进行检查(抽查),并将检查(抽查)结果及时向有关城市政府通报。<br><br>  河南省人民政府办公厅<br><br>  二○○七年七月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

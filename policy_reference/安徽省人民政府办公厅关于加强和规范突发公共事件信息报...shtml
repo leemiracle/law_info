@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2007〕19号<BR>&nbsp;&nbsp;【发布日期】2007-04-25<BR>&nbsp;&nbsp;【生效日期】2007-04-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4088" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅关于加强和规范突发公共事件信息报告工作的通知<br><br></font>(皖政办〔2007〕19号)</p><br><br> <br>各市、县人民政府，省政府各部门、各直属机构：<br>      为贯彻落实《国务院办公厅印发关于加强和改进突发公共事件信息报告工作意见等文件的通知》 （国办发〔2006〕105号），进一步加强和规范突发公共事件信息报告工作，经省政府同意，现就有关事项通知如下：<br>    一、高度重视信息报告工作。信息报告是应急管理运行机制的重要环节，信息报告渠道畅通与否和传递效率高低，直接影响对突发公共事件的预测预警、应急处置及善后工作。及时、准确报告信息，有利于掌握突发公共事件的动态和发展趋势，采取积极有效措施，最大限度减少事故和灾害的发生及造成的损失，保护公众的生命财产安全。但在实际工作中，信息报告不及时、内容不完整，报告渠道单一、职责不清等问题时有发生，甚至出现漏报、瞒报信息的现象。各地、各有关部门要切实加强对信息报告工作的领导，采取有力措施，确保信息报告及时准确，为积极有效应对突发公共事件创造条件。<br>    二、进一步明确信息报告责任主体。根据分类管理、分级负责、条块结合、属地管理为主的应急管理体制，突发公共事件发生地人民政府是信息报告的责任主体。突发公共事件发生单位有责任及时向当地人民政府和上级主管部门报告突发公共事件信息。跨行政区域的突发公共事件发生后，上级行政主管部门要及时汇总、报告相关信息。 <br>    各市人民政府负责向省政府报告突发公共事件信息。省政府有关部门按照各自职责，负责向省政府报告相关类别的突发公共事件信息。特别重大、重大突发公共事件事发地县级人民政府在向市政府报告信息的同时，要直接向省政府及相关主管部门报告。<br>    各市人民政府应急管理办事机构、省政府各部门承担应急管理职能的办事机构是信息报告的具体承办单位。<br>    三、统一规范信息报告内容和方式。按照省总体应急预案规定，突发公共事件信息实行分级报告。一般级别以上的各类突发公共事件信息，原则上要向省政府报告。较大级别以上的各类突发公共事件信息，必须向省政府报告。事件本身比较敏感或发生在敏感地区、敏感时间，以及可能演化为特别重大、重大突发公共事件的信息，不受分级标准限制。<br>    要统一信息报告格式，不断改进信息报告方式。2007年下半年，逐步推行信息网上报告。各级应急平台建设完成后，要通过应急平台向省政府报告，有条件的可同时报告音视频信息。较大级别以上或比较敏感的突发公共事件处置过程中，现场指挥机构负责人或授权专人要及时与省政府应急管理办公室(省政府总值班室)保持密切联络，及时报告有关情况。紧急情况下，可先通过电话口头报告，再书面报告。其他级别突发公共事件现场指挥机构也应设信息报告人员，具体负责对信息进行收集、汇总、报告。报告涉密信息应遵守相关规定。<br>    四、严格信息报告时限要求。特别重大、重大突发公共事件发生后，有关市人民政府、省政府有关部门要立即报告，最迟不得超过2小时，并及时通报相关部门和可能受事件影响的地区；对于个别情况特殊，确实难以在事发后2小时内向省政府报告的特别重大、重大突发公共事件信息，有关市人民政府、省政府有关部门要在接到事件报告后1小时内报至省政府，并说明具体原因。较大、一般突发公共事件发生后，有关市人民政府、省政府有关部门要及时报告省政府，最迟不得超过4小时。有关法律法规对突发公共事件信息报告另有规定的，从其规定。<br>    五、努力拓宽信息报告渠道。要重视发挥新闻媒体的优势和作用，及时收集和掌握突发公共事件信息及相关社会动态。要注意从互联网、境外媒体的报道中获取有关突发公共事件和社会热点问题的信息，对其中反映的重要和敏感情况及时核实，并视情报告。要结合实际，积极探索在企业、社区、农村、学校等基层单位设立信息报告员，建立风险隐患报告激励等机制。要建立开放的信息报告平台，接受公众的突发公共事件信息报告并在核实后视情报告。<br>    六、切实提高信息报告质量。突发公共事件信息报告要坚持实事求是原则，内容要简明、客观、准确，应包括以下要素：时间、地点、信息来源、事件起因和性质、基本过程、已造成的后果、影响范围、事件发展趋势、处置情况、拟采取措施以及下一步工作建议等。对突发公共事件及处置的新进展、可能衍生的新情况要及时续报；突发公共事件处置结束后，要进行终报。较大级别以上突发公共事件在处置结束后，有关市人民政府、省政府有关部门要认真总结分析，写出专项报告。<br>    七、认真执行信息报告通报和责任追究制度。省政府办公厅将对各市、各部门报告突发公共事件信息的情况进行不定期考核，对及时准确报告突发公共事件信息、报告质量高的提出表扬，对迟报、漏报以及报告质量差的进行通报批评，并要求查找原因，及时提出整改措施。对因迟报、漏报造成重大影响或损失，以及有意瞒报的，作为事件调查处理的一项重要内容，依据有关法律法规，追究相关人员的责任。<br>    八、强化信息报告基础工作。各地、各部门要结合实际，依据应急预案和本通知，研究制订本地区、本部门突发公共事件信息报告具体办法，把责任落实到岗位、落实到人。要加强硬件建设，为各级应急办（值班室）开展工作创造良好条件。要选派政治素质好、业务水平高、责任心强的干部从事这项工作，并加强培训，不断提高业务能力。要加强对基层信息报告工作的指导，建立健全工作机制，努力提高信息报告的质量。要认真落实信息报告工作制度，查找薄弱环节，不断总结经验，研究提出改进措施。<br>    <br>                                              安徽省人民政府办公厅<br>                                              二○○七年四月二十五日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

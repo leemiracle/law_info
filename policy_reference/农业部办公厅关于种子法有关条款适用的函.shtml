@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办政函［2006］8号<BR>&nbsp;&nbsp;【发布日期】2006-01-26<BR>&nbsp;&nbsp;【生效日期】2006-01-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/zcfg/bmgz/t20060223_556399.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于种子法有关条款适用的函<br><br></font>(农办政函［2006］8号)</p><br><br><br>各省、自治区、直辖市农业（农牧、农林）厅（委、局）：<br><br>    为了更好地贯彻落实《<a href=javascript:ROF(96094,0) class=alink>种子法</a>》的有关规定，针对近年来各地在执行《种子法》中遇到的普遍性问题，经研究，现就有关条款的适用提出以下意见，供参考。<br><br>    一、《种子法》第十六条“引种”的含义是什么？同意引种的种子是否要对其种植面积予以限制？<br><br>    “引种”是指需经审定并已通过审定的品种，在同一适宜生态区域的相邻省（区、市）推广种植，并经所在省（区、市）农业行政主管部门同意。根据《种子法》第十六条的规定，同意引种的品种在适宜生态区域种植不受面积限制，但引种时应当按照《农业技术推广法》的规定在推广地区先进行试验，证明其具有适用性。<br><br>    二、种子标签是否需要标注种子质量保证期？<br><br>    种子质量主要取决于种子纯度、净度、发芽率、水分四项指标，同时，根据使用者购买种子即买即用的实际情况，种子标签可以不标注种子质量保证期。但企业标注了保质期的，属于企业对外承诺，企业生产经营的种子要受保质期的约束。<br><br>    三、对育种者以试验示范的名义提供种子的行为如何界定？<br><br>    如果育种者提供的试验示范用种是有偿的，存在买卖关系，则属于销售行为，应当遵守《种子法》关于种子销售的规定。<br><br>    四、《种子法》第二十二条生产许可证记载事项是否应包括“面积”一项？不按照许可证规定面积生产的，能否予以处罚？<br><br>    生产许可证记载事项不包括面积。为保证主要农作物种子的质量，种子生产企业需保证其种子生产地点无检疫性病虫害，并具备繁育种子的隔离和培育条件，至于其制种面积和生产规模，属于种子生产企业自主决定的事项，不属于法定事项。不按照许可证规定面积生产种子的，不能对生产企业予以处罚。<br><br>    五、申领种子生产许可证是否需要提交品种审定证书？<br><br>    根据《种子法》和《农作物种子生产经营许可证管理办法》的规定，申领种子生产许可证时，可以不提交品种审定证书，但销售种子时，该品种应当通过审定。另外，按照《农业转基因生物安全管理条例》第十九条的规定，申请转基因农作物种子生产许可证，无论是主要农作物种子，还是非主要农作物种子，都应当提交品种审定证书。<br><br>    六、《农作物种子生产经营许可证管理办法》规定的注册资本范围是什么？哪些机构可以作为验资证明机构？<br><br>    《农作物种子生产经营许可证管理办法》规定的注册资本范围和验资证明机构应当与工商部门对注册资本和验资机构的要求一致。<br><br>    七、专门经营小包装种子的经营者，在未办理种子经营许可证的情况下，能否经营不拆包的小包装主要农作物种子？经营者在未经授权的情况下，能否销售不拆包的小包装保护权品种？<br><br>    《种子法》第二十九条第二款规定的不再分装的种子是指所有种子，既包括主要农作物种子，也包括非主要农作物种子。因此，经营者经营不拆包的小包装主要农作物种子，可以不办理种子经营许可证。销售获得品种权保护的种子，可以不需要授权。<br><br>    八、《种子法》规定种子企业可以委托代销，对杂交水稻种子生产是否可以委托他人代制，是否要对“代制资格”予以确认？<br><br>    可以委托他人代制种子。委托农民或者乡村集体经济组织制种的，由委托方办理杂交水稻种子生产许可证；委托其他经济组织制种的，由委托方或受委托方办理杂交水稻种子生产许可证。除此以外，不需要进行其他资格确认。<br><br>    九、农业技术推广部门在新品种推广过程中进行试验示范的，是否需要办理种子经营许可证？<br><br>    农业技术推广部门在推广过程中进行农作物新品种试验示范的行为是一种推广应用行为，属于《种子法》规定的种子经营行为，需要办理种子经营许可证，但依据《种子法》规定不需要办理种子经营许可证的除外。<br><br>    十、分装种子是否必须取得种子经营许可证？<br><br>    根据《种子法》第二十六、二十九、三十四条的规定，分装种子必须取得种子经营许可证，未取得种子经营许可证而分装种子的，依照第六十条的规定处罚。<br><br>    十一、《种子法》第六十四条仅对经营、推广未经审定品种的行为作了处罚规定，但对数量没有规定。对市场检查中出现的经营推广少量未经审定品种的行为应如何处理？<br><br>    根据《种子法》第十七条、第六十四条的规定，只要存在经营推广未经审定品种的违法行为，就应当予以处罚，其推广的未经审定品种的数量不是定性的依据。但是，经营推广的种子数量可以作为认定违法行为情节轻重的依据之一，在确定罚款幅度时予以考虑。<br><br>    十二、《种子法》第六十四条“应当审定而未经审定通过”的含义是什么？<br><br>    “应当审定而未经审定通过”包括以下两种情形：一是未经国家级审定通过，也未经省级审定通过；二是在审定公告的适宜生态区域外推广的。<br><br>    十三、以商品粮冒充种子、以大田用种（良种）冒充原种，是否属于假冒种子行为？<br><br>    根据《种子法》第四十六条规定，以商品粮冒充种子、以大田用种（良种）冒充原种，属于假冒种子行为。<br><br>                                                  农业部办公厅<br>                                                  二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

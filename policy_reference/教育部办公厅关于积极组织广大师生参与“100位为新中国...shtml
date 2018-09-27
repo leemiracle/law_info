@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教思政厅函〔2009〕15号<BR>&nbsp;&nbsp;【发布日期】2009-06-03<BR>&nbsp;&nbsp;【生效日期】2009-06-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/55/info1245138197670255.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于积极组织广大师生参与“100位为新中国成立作出突出贡献的英雄模范人物和100位新中国成立以来感动中国人物”评选活动的通知<br><br></font>(教思政厅函〔2009〕15号)</p><br><br><br>各省、自治区、直辖市党委教育工作部门、教育厅（教委），新疆生产建设兵团教育局，部属各高等学校：<br><br>    今年是中华人民共和国成立60周年。在创立和建设新中国的伟大历程中，中国人民在中国共产党领导下，谱写了中华民族历史上最壮丽的篇章，涌现出许多可歌可泣的英雄模范。他们是民族的脊梁、时代的先锋、祖国的骄傲，是爱国主义教育最生动、最直接的教材。<br><br>    为贯彻落实中央组织部、中央宣传部等11部门《关于组织开展“100位为新中国成立作出突出贡献的英雄模范人物和100位新中国成立以来感动中国人物”评选活动的通知》（中宣发〔2009〕13号，以下简称“双评”活动）要求，积极组织教育系统广大师生员工参与“双评”活动，现将有关事项通知如下：<br><br>    一、活动主题<br><br>    深切缅怀为新中国成立作出突出贡献的英雄模范人物，热情讴歌新中国成立60年来涌现出来的先进典型，颂扬他们的感人事迹，弘扬他们的崇高精神，在全社会唱响共产党好、社会主义好、改革开放好、伟大祖国好、各族人民好的时代主旋律，推动社会主义核心价值体系建设，激励全国各族人民继续解放思想，坚持改革开放，推动科学发展，促进社会和谐，为夺取全面建设小康社会新胜利、实现中华民族伟大复兴而努力奋斗。    <br><br>    二、评选标准<br><br>    （一）“100位为新中国成立作出突出贡献的英雄模范人物”，时间限定在从中国共产党诞生到新中国成立，即1921年到1949年这28年。新中国成立后担任党和国家、军队重要领导职务的，不列入评选范围。具体评选标准是：<br><br>    1．为了民族独立和人民解放英勇牺牲，值得永远铭记的革命先烈；<br><br>    2．为了党和人民的事业不懈奋斗的基层优秀共产党员、战斗英雄和革命群众的杰出代表；<br><br>    3．坚决拥护和支持革命事业，积极从事进步活动的著名民主爱国人士和国际友人；<br><br>    4．在全民族抗战中顽强奋战、为国捐躯的爱国将士。<br><br>    （二）“100位新中国成立以来感动中国人物”，重点面向基层，省部级领导干部原则上不参评。具体评选标准是：<br><br>    1．坚决贯彻落实党的路线方针政策，坚定理想信念，牢记党的宗旨，廉洁奉公，一心为民的基层优秀党员干部；<br><br>    2．为国家发展、民族振兴、社会和谐、人民幸福作出重大贡献的各行各业杰出代表；<br><br>    3．在平凡岗位上作出不平凡业绩的工人、农民、知识分子和解放军官兵、青年学生以及其他先进典型。<br><br>    三、推荐程序<br><br>    1．群众提名。请各省（区、市）教育工作部门和各级各类学校，通过多种渠道和方式，在本地本校内组织发动广大师生员工广泛推荐“100位为新中国成立作出突出贡献的英雄模范人物和100位新中国成立以来感动中国人物”。各地各学校要通过互联网、媒体公布提名推荐的专用电子邮箱、通讯地址、热线电话等，以方便师生员工参与。<br><br>    2．上报推荐候选人名单。各地各学校在师生员工推荐提名的基础上，将优秀人选积极向所在省（区、市）党委推荐。<br><br>    3．组织投票。今年7月，“双评”活动组委会办公室将确定正式候选人名单，并将名单及其主要事迹在中央主要报刊、都市类媒体和网络媒体公布。各地各学校要动员组织师生员工以填写报纸选票、网络投票和手机投票等不同方式参与评选活动。<br><br>    四、工作要求<br><br>    1．坚持正确导向，突出思想内涵。开展“双评”活动，根本目的是深化和拓展思想教育，推动社会主义核心价值体系建设。要深入挖掘英模人物的崇高精神，把评选典型与学习典型结合起来，把评选过程与教育过程结合起来。通过“双评”活动，引导广大师生深刻理解爱国主义的丰富内涵，进一步激发爱国热情，振奋民族精神，凝聚人民力量；引导广大师生增强历史责任感和使命感，努力把英雄模范的崇高精神转化为推动实际工作的动力；引导广大师生增强对中国共产党领导、社会主义制度、改革开放事业、全面建设小康社会的信念和信心，增强坚持中国特色社会主义“一面旗帜、一条道路、一个理论体系”的自觉性和坚定性。<br><br>    2．立足基层，广泛发动。“双评”活动是一次全国范围的群众性爱国主义教育主题实践活动，重在评选过程、重在群众参与。要始终注意突出群众性这一特点，畅通推荐渠道，及时向师生介绍电子邮箱、通讯地址、热线电话等联系方式。在推荐候选人、投票评选等各个环节上，多运用师生喜闻乐见的方式，多搭建便于师生参与的平台，广泛吸引、发动师生参与。要特别注意调动广大青少年学生的积极性和主动性，吸引他们参与进来，使评选活动成为广大学生了解中国现代史、革命史、改革史和发展史的过程，成为学习英雄模范人物感人事迹和崇高精神的过程。<br><br>    3．加大宣传力度，强化教育效果。各地各学校要把“双评”活动作为这次群众性爱国主义教育活动的重要内容，予以大力宣传。要充分运用校内报刊、广播、电视、互联网等多种形式和手段，通过开设专题专栏，大力宣传“双评”活动的重要意义和主要内容，宣传英雄模范人物的先进事迹和崇高精神，宣传活动的进展成效和师生的热烈反响，努力提高活动影响力，增强活动教育效果。<br><br>    4．加强领导，精心组织。“双评”活动是一项政治性、政策性和敏感性都很强的工作，涵盖内容广、持续时间长、涉及任务重。各地各学校要把这项活动作为迎接新中国成立60周年、深入开展“我爱我的祖国”主题教育活动的重点内容，摆上重要日程，根据活动要求，结合实际情况，制定切实可行的工作措施，严格执行评选标准，确保评选工作顺利进行。要坚持公平、公开、公正原则，对推荐和评选过程中弄虚作假、徇私舞弊的，一经查实，取消参评资格。坚持公益性，不搞商业炒作，任何单位和个人不得借机牟利。<br><br>    各地和部属高校组织广大师生参与评选活动的情况请及时报告我部。<br><br>教育部办公厅<br>二○○九年六月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

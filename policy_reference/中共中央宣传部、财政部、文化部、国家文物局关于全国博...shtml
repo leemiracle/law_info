@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中共中央宣传部、财政部、文化部、国家文物局<BR>&nbsp;&nbsp;【发布文号】中宣发[2008]2号<BR>&nbsp;&nbsp;【发布日期】2008-01-23<BR>&nbsp;&nbsp;【生效日期】2008-01-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ccnt.gov.cn/zcfg/whbwj/t20080229_51993.htm" target=_blank>文化部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中共中央宣传部、财政部、文化部、国家文物局关于全国博物馆、纪念馆免费开放的通知<br><br></font>(中宣发[2008]2号)</p><br><br><br>各省、自治区、直辖市党委宣传部，财政部（局），文化厅（局），文物局（文管会）：<br><br>    为贯彻落实党的十七大精神，充分发挥博物馆、纪念馆宣传和传播先进文化的重要作用，加强公共文化服务体系建设和公民思想道德建设，现就全国博物馆、纪念馆向社会免费开放有关事宜通知如下：<br><br>    一、博物馆、纪念馆免费开放的重要意义<br><br>    博物馆、纪念馆是陈列、展示、宣传人类文化和自然遗存的重要场所，是国民教育体系的重要组成部分。博物馆、纪念馆向全社会免费开放是党的十七大关于社会主义文化大发展大繁荣的具体实践，是加强社会主义核心价值体系建设和公民思想道德建设的有效手段，是进一步提高政府为全社会提供公共文化服务水平的重要举措，是实现和保障人民群众基本文化权益的积极行动。博物馆、纪念馆免费开放符合世界文物展示业的发展趋势，有利于完善我国现代国民教育体系和履行教育功能，有利于发挥博物馆和纪念馆作为公益性文化机构的社会价值，有利于加强国际文化交流和中华民族优秀文化的宣传推广。各地区、各有关部门要统一思想，提高认识。积极行动，切实把免费开放工作做实、做细、做好，为公众提供更多、更好的公共文化产品和服务。<br><br>    二、博物馆、纪念馆免费开放的实施范围和步骤<br><br>    （一）实施范围<br><br>    全国各级文化文物部门归口管理的公共博物馆、纪念馆，全国爱国主义教育示范基地全部免费开放。其中，文物建筑及遗址类博物馆暂不实行全部免费开放，继续对未成年人、老年人、现役军人、残疾人和低收入人群等特殊群体实行减免门票等优惠政策。博物馆、纪念馆、纪念馆按照市场化运作举办的特别（临时）展览，可根据实际情况确定门票价格。<br><br>    （二）实施步骤<br><br>    2008年，中央级文化文物部门归口管理的博物馆全部向社会免费开放；各省级综合博物馆全部向社会免费开放；各级宣传和文化文物部门归口管理的列入全国爱国主义教育示范基地的博物馆、纪念馆全部向社会免费开放；浙江、福建、湖北、江西、安徽、甘肃和新疆等7省（区）文化文物系统归口管理的省、市、县级博物馆全部向社会免费开放。鼓励有条件的省（区、市）探索全面实行免费开放。<br><br>    2009年，除文物建筑及遗址类博物馆外，全国各级文化文物部门归口管理的公共博物馆、纪念馆，全面爱国主义教育示范基地全部向社会免费开放。<br><br>    鼓励暂不能完全免费开放的博物馆、纪念馆实行低票价政策，继续对未成年人、老年人、现役军人、残疾人等社会群体实行免费或优惠参观，并向社会承诺定期免费日，制定灵活多样的门票制度，如家庭套票、特定时段票等，吸引公众走进博物馆和纪念馆。<br><br>    三、博物馆、纪念馆免费开放的保障机制<br><br>    要以博物馆、纪念馆免费开放为契机，实现“三个结合”：一是与文化体制改革中公益类文化事业单位改革要求相结合，进一步加大博物馆经费保障力度；二是与构建公共财政体制相结合，进一步完善财政投入方式，激励博物馆提高服务能力和服务质量；三是与博物馆运行规律相结合，推进我过博物馆机制改革和管理创新。<br><br>    （一）各级财政部门应将博物馆、纪念馆免费开放相关经费纳入财政预算，切实予以保障。中央财政设立专项资金，重点补助地方博物馆免费开放所需资金，鼓励改善陈列布展和举办临时展览，支持重点博物馆提升服务能力，对实行低票价的博物馆和自行实行免费并取得良好效果的省份给予奖励。其中，博物馆、纪念馆免费开放单位门票收入减少部分全部由中央财政负担；运转经费增量部分由中央财政分别按照东部20%、中部60%和西部80%的比例进行补助。<br><br>    地方财政部门要承担相应职责，保障当地博物馆、纪念馆免费或优惠开放的资金投入。要统筹使用中央和地方财政资金，落实配套设施建设和设备更新经费，落实增强接待能力、增设服务项目、改进服务手段所需资金，落实人员培训经费及增加业务时间和业务强度的必要补助，保证博物馆正常、高效运转。<br><br>    （二）要研究制定博物馆、纪念馆文化产品经营收入税收优惠政策，促进其依托文物藏品、陈列展示推出各类文化产品，拓展和延伸文化传播功能。鼓励社会力量对博物馆、纪念馆进行捐赠，拓宽博物馆经费来源渠道。<br><br>    （三）按照文化遗产保护和传播的重要程度科学界定博物馆等级，将部分地方所属的代表中华民族历史文明的重点博物馆确定为国家级博物馆，由中央政府承担更多的投入和管理责任。省级和省级以下博物馆也要参照此原则，进行科学分级，加强资源整合。市级和县级应重点发展特色博物馆，避免重复投资。<br><br>    四、博物馆、纪念馆免费开放的工作要求<br><br>    （一）改善管理和服务，努力满足观众需求。各有关博物馆要积极借鉴已经免费开放博物馆的经验，切实做好免费开放的前期准备。充分考虑免费开放后观众量短时间内急剧增加，对博物馆、纪念馆的管理、运行造成的巨大压力，科学地测算确定博物馆的接待能力，建立每日参观人数总量控制和疏导制度。健全开放服务管理制度，制定突发事件的应急预案，完善应急处理机制。加强媒体宣传，并在博物馆、纪念馆显著位置公示免费开放管理办法、服务项目、开放时间、文明参观须知等制度措施，方便公众了解和监督，引导观众有序、文明参观。同时要努力改善文物安全保护和观众服务设施条件，增加安全、保洁、讲解咨询等服务人员，强化内部管理，加强安全防范，切实保证免费开放的安全、规范、有序。<br><br>    （二）坚持以人为本，提高展示传播水平。各有关博物馆、纪念馆应贴近实际、贴近生活、贴近群众作为不懈的追求，准确把握免费开放后观众及其精神文化需求呈现出多层次、多方面、多样式的特点，在展示传播的内容上、形式上更加积极探索和大胆创新，成为文化教育和传播中心，成为公众流连忘返的文化园地。将专业性、学术性和知识性、趣味性、观赏性有机结合，不断创造新的文化样式，实现题材、品种、风格和载体的极大丰富，使陈列展览更具吸引力、感染力，打造公众喜闻乐见的文化品牌。要充分发挥博物馆、纪念馆社会教育功能，积极推进博物馆进校园、进社区和建设数字博物馆，不断拓展服务领域、方式和手段，提供更加人性化的服务设施和服务项目，努力强化文化的感染力和辐射力。<br><br>    （三）改革创新，增加博物馆、纪念馆活力。各有关博物馆、纪念馆要以免费开放为契机，认真研究和把握博物馆运行规律，按照国家关于文化事业体制改革的要求和部署，加强体制和机制创新。以深化人事制度改革为突破口，优化内部组织结构，整合内部资源，转变运营方式，完善激励机制，提高运行效率。要采取有效措施、创造有利条件，最大限度的动员社会各方面力量支持参与博物馆志愿者队伍的壮大，使之成为支持免费开放工作及博物馆发展的坚定，可信赖的社会力量。<br><br>    （四）加强管理，切实做好博物馆、纪念馆免费开放的协调、指导工作。要在各级党委、政府的领导下，各级宣传、财政、文化、文物部门要指导、督促各地做好免费开放工作，并对各单位实施情况进行督促检查和考评，对开放中出现的问题和困难及时沟通、协调。各级文物行政部门要发挥行业管理作用，加快完善博物馆、纪念馆管理法律法规和行业标准，建立政府主导、法律规范、社会参与的博物馆管理体系，建立以展示教育、开放服务为核心的评价体系和政府、社会、公众代表相结合的监督体系，开展评估定级和分类指导。<br><br>中共中央宣传部     财政部   文化部   国家文物局<br>二00八年一月二十三日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

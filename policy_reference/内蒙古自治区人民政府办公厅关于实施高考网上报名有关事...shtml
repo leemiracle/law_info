@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政办字〔2006〕64号<BR>&nbsp;&nbsp;【发布日期】2006-03-01<BR>&nbsp;&nbsp;【生效日期】2006-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nmg.gov.cn/pages/2006410/2006410271229297.htm" target=_blank>内蒙古自治区 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区人民政府办公厅关于实施高考网上报名有关事宜的通知<br>  <br></font>(内政办字〔2006〕64号)</p><br><br><br>各盟行政公署、市人民政府，自治区各委、办、厅、局，各大企业、事业单位：<br>    为切实维护高考的公平、公正，提高高考考生志愿满足率，推进“阳光招生”制度化，2006年普通高考我区将实施网上报名、网上分段多次公开补报志愿。为做好此项工作，经自治区人民政府同意，现就有关事宜通知如下：<br>    一、各高级中等学校（指2006年有高考考生的完全中学、普通高中、职业高中、中等专业学校，下同）负有为本校考生高考网上报名、网上分段多次公开补报志愿、网上查询信息提供无偿服务的职责。各高级中等学校必须具备上网条件，要进一步加强学校的网络建设和微机室建设，切实解决上网所需的计算机、路由器、服务器等终端设备以及上网场地。多数学校要能够实现宽带接入互联网，确保上网微机数量满足本校考生在本校内完成高考网上报名、网上分段多次公开补报志愿、网上查询信息的需求。自治区教育厅要将此项工作作为中学教育技术装备的一项重要内容实施专项检查，对没有达到要求的，应责令其限期整改。<br>    二、各旗县（市、区）教育招生考试机构负有为本旗县（市、区）社会考生高考网上报名、网上分段多次公开补报志愿、网上查询信息提供有偿服务的职责。各旗县（市、区）教育招生考试机构必须具备上网条件，并与当地电信运营公司加强沟通协调。每个旗县（市、区）都要设立“考生服务中心”，旗县（市、区）招生考试机构负责“考生服务中心”的场地和人员配备，当地电信运营公司为“考生服务中心”提供设备及网络环境。<br>    三、各盟市、旗县（市、区）教育行政主管部门对此项工作要给予高度重视，切实加强领导，根据本地区高级中等学校和旗县（市、区）教育招生考试机构实际情况，统筹协调，合理安排，积极为高级中等学校和旗县（市、区）“考生服务中心”创造条件，解决实际困难，确保本地区所有高考考生都能在规定地点、规定时间内完成网上报名、网上分段多次公开补报志愿和网上查询信息。<br>    四、各高级中等学校和旗县（市、区）“考生服务中心”要配备责任心强、精通考务的指导教师，在实施高考网上报名、网上分段多次公开补报志愿前，对考生进行一次系统训练，使考生熟悉有关政策规定，熟练掌握有关网上报名、网上分段多次公开补报志愿操作规程；在高考网上报名、网上分段多次公开补报志愿期间，要对考生进行全程指导。各旗县（市、区）招生考试机构要做好对指导教师的业务培训，组织电信运营公司对指导教师进行上网培训，使之不仅熟悉招生政策，同时掌握必要的上网知识和操作技能。<br>    五、为确保2006年4月1日起我区普通高考网上报名工作顺利进行，承担相关网络服务的电信运营公司要提前运作，在施工过程中涉及到通信管道铺设、杆路架设、道路穿越等问题，各级人民政府及相关部门要给予大力支持和配合。网通、电信、铁通三大电信运营公司要在高考网上报名前分别建立到自治区教育招生考试中心的100Mhz光缆传输直达路由。各电信运营公司要确保高考网上报名、网上分段多次公开补报志愿及网上查询信息期间的网络畅通与安全。<br>    六、高考网上报名、网上分段多次公开补报志愿期间，相关电信公司要为当地高级中等学校和旗县（市、区）教育招生考试机构提供收费低廉的互联网接入服务，对上网费用要给予最大程度的优惠。对于解决终端设备方面确有困难的地区，可采取低价租赁设备、短期接入等多种方式与当地高级中等学校和旗县（市、区）教育招生考试机构进行合作；对无法使用地面网络的偏远地区，联通、卫通等公司应充分利用自身优势，并按优惠价格提供高质量的网络服务。<br>    七、为方便广大考生及其家长能随时掌握相关信息自治区教育招生考试中心要按照相关规定申请ISP增值业务服务和配备相应的号码。移动、联通、网通公司应提供有关技术支持及手机、小灵通短消息服务，信息费用的收取要低于普通短消息费。<br>    八、各级教育行政主管部门要加强对当地高级中等学校和旗县（市、区）教育招生考试机构的监督，不得出现有损考生利益的行为，违者将追究有关领导的责任。各有关部门要积极支持当地高级中等学校和旗县（市、区）教育招生考试机构开展工作，确保2006年我区普通高考网上报名、网上分段多次公开补报志愿工作顺利实施。<br>    九、自治区教育厅与内蒙古通信管理局将联合成立工作小组，负责对有关部门和单位进行协调管理。各盟市、旗县（市、区）也要成立由当地教育行政主管部门和各电信运营公司参与的协调领导小组，负责协调解决当地高级中等学校和各旗县（市、区）教育招生考试机构上网等事宜。 <br>  <br>2006年3月1日 <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

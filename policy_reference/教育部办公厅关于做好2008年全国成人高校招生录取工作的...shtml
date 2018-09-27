@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教学厅[2008]12号<BR>&nbsp;&nbsp;【发布日期】2008-11-03<BR>&nbsp;&nbsp;【生效日期】2008-11-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/16/info1226636907498616.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于做好2008年全国成人高校招生录取工作的通知<br><br></font>(教学厅[2008]12号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）、成人高校招生办公室，新疆生产建设兵团教育局，有关部门（单位）教育司（局），部属各高等学校：<br><br>    2008年成人高校招生录取工作要认真贯彻落实《教育部关于做好2008年全国成人高校招生工作的通知》（教学〔2008〕14号）精神和规定，严格执行招生政策，有效规范招生行为，严格掌握录取标准，切实保证生源质量。现提出如下工作要求：<br><br>    一、规范招生行为，维护良好秩序<br><br>    各省级成人高校招生办公室（以下简称省级成招办）和成人高校要认真贯彻我部有关文件精神，严格执行招生政策和招生计划，加强工作培训，规范招生行为，确保录取工作顺利进行。严禁体制外违规招收学生，严禁普通高校招收成人高等教育脱产学生，严禁委托函授站（点）、教学点、合作办学单位、中介机构或个人以“代招”、“代理”等名义介入成人高校招生录取工作。<br><br>    二、严格操作程序，合理调整计划<br><br>    各成人高校在国家核定的招生总规模内可根据生源和考试情况对分省计划进行适当微调，但未经批准，不得擅自超计划招生和变更计划类型及层次，特别是业余和函授计划一律不得变更为脱产计划，不得向生源不足的省份调入计划；各省级成招办要积极协助成人高校做好生源调剂和分省计划调整工作，及时受理各成人高校分省计划调整的申请，在录取工作开始前一个星期应向各成人高校公布其各层次、各专业上线生源和可调剂生源情况。<br><br>    2008年成人高校招生分省计划调整全部在网上进行（网址：http://zs.moe.edu.cn/crzs）。各高校登录系统的用户名为单位代码，初始密码为crjhtz2008,除教育部直属高校外，其他高校登录系统的用户名和密码由所属主管部门设定，系统具体要求和操作办法仍按2006年全国成人高校招生录取工作的有关文件执行。<br><br>    三、严格录取标准，保证录取质量<br><br>    各省级教育行政部门、省级成招办和成人高校把保障新生质量放在招生工作的重要位置。各省级成招办要在对考生考试情况和成绩进行认真分析的基础上，科学合理地确定2008年本省（区、市）录取标准，原则上不低于2007年，不得为完成招生计划或为争取调整计划而过低划定录取控制分数线，录取控制分数线需报我部备案后方可公布执行；各省级教育行政部门应认真研究2008年各层次计划和各成人高校的生源情况，加大计划调整力度，特别是专升本生源不足的省份，应适当调减本科录取人数；各成人高校应在我部下达的招生计划总量内，根据生源状况合理确定录取人数，生源不足应予减招，不得为完成计划而降低录取要求。<br><br>    四、按时完成各项任务<br><br>    11月10日前，各省级成招办向我部高校学生司报送各考试科目试题内容和考生答卷分析情况、修改考试大纲和改进命题工作意见、评卷工作总结、各科目分数段考生成绩分布情况和确定的最低录取控制分数线；<br><br>    11月 10日，成人高校招生分省计划网上调整系统开通。<br><br>    11月 15日后，各省级成招办开始录取工作，并于12月底前向我部高校学生司报送录取新生数据库，此后各省（区、市）均不得再进行补录工作。<br><br>    请各省级成招办将本通知立即转发至本地区所有成人高校。<br><br>教育部办公厅<br><br>二○○八年十一月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

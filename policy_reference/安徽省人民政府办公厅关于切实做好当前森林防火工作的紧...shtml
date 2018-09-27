@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办明电〔2008〕18号<BR>&nbsp;&nbsp;【发布日期】2008-03-04<BR>&nbsp;&nbsp;【生效日期】2008-03-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4332" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅关于切实做好当前森林防火工作的紧急通知<br><br></font>(皖政办明电〔2008〕18号)</p><br><br> <br>    各市、县人民政府，省政府有关部门：<br>       2月中旬以来，气温迅速回升，森林火险等级急剧增高，我省四大林区4级以上火险等级高达20天，一些地方相继发生森林火灾。当前，我省正值森林防火戒严期和火灾高发期，防火形势十分严峻。对此，省委、省政府高度重视，要求狠抓森林防火工作。为切实做好当前森林防火工作，经省政府同意，现就有关事项紧急通知如下：<br>    一、加强组织领导，层层落实责任制。各地尤其是林区要切实把灾后森林防火工作摆上重要议事日程，进一步加强领导，层层落实森林防火行政领导负责制，坚持“一手抓生产自救，一手抓森林防火”。要认真分析当前森林防火形势，汲取一些地方发生森林火灾的教训，举一反三，克服松懈麻痹思想，精心组织，周密部署，切实做好各项防火工作，真正做到山有人管、林有人护、责有人担，确保灾后不发生大的森林火灾和人员伤亡事故。<br>    二、严格火源管理，杜绝森林火灾隐患。各地要根据实际情况，适时发布森林防火戒严令，划定戒严区域、戒严地段，采取必要的防范措施，严防发生火灾。要坚持“疏堵结合”原则，精心组织开展可燃物清理，既要加强对灾后重建及炼山、烧荒等野外生产用火的技术指导和监督，确保灾后重建和春耕春种顺利进行，又要通过组织开展隐患大排查，严防死守重点部位和重点人员，坚决管住违规用火。要加强特殊时期、重点地段、重要时节的火源管理，杜绝可能引发森林火灾的隐患。要采取多种形式，充分利用新闻媒体，大力开展面向基层、面向群众、面向重点区域的森林防火宣传教育活动，真正做到家喻户晓、人人皆知，把预防森林火灾变为全社会的自觉行动。<br>    三、完善应急预案，及时做好森林火灾扑救。各地要进一步完善森林防火应急预案，全面落实各项森林防火措施。一旦发生森林火灾，要立即启动预案，及时组织、科学指挥扑救，把损失减少到最低限度，确保不发生伤亡事故。要切实抓好森林防火物资储备工作，对现有扑火机具设施进行一次全面的检查检修，确保设备齐全完好。要加强各类森林消防队伍建设，随时做好扑救森林火灾的准备，提高扑救能力，做到早发现、早扑灭，实现森林火灾打早、打小、打了。<br>    四、加强值班调度，严格火情报告制度。各级森林防火办公室必须坚持24小时值班和领导带班制度，保证信息畅通无阻。要严格火情报告制度，规范森林火情、火灾报送程序和时限。对国家林业局卫星林火监测中心通报的热点火情信息，必须认真核查、及时报告。<br>    五、强化检查督查，严肃查处火灾案件。各级政府要由领导带队，抓紧深入到重点林区和火灾易发多发地区，结合生产自救逐项检查森林防火措施的落实情况，排查隐患，及时解决存在的问题。森林公安机关要切实做好森林火灾案件查处工作，依法严厉打击火灾肇事者，公开曝光典型案例，警示和教育广大群众引以为戒，对每起违章用火、每起森林火灾都要查清原因，依法从快从严追究。<br>    <br>                                               安徽省人民政府办公厅<br>                                                二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

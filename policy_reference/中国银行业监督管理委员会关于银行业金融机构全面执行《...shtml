@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】银监通〔2007〕22号<BR>&nbsp;&nbsp;【发布日期】2007-09-29<BR>&nbsp;&nbsp;【生效日期】2007-09-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cbrc.gov.cn/chinese/home/jsp/docView.jsp?docID=200711018A3F066DDF99935FFFF61F5449B69F00" target=_blank>中国银行业监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国银行业监督管理委员会关于银行业金融机构全面执行《企业会计准则》的通知<br> <br></font>(银监通〔2007〕22号)</p><br> <br><br>各银监局，各政策性银行、国有商业银行、股份制商业银行，各资产管理公司，邮政储蓄银行，银监会直接监管的信托公司、财务公司、租赁公司，各省级农村信用联社，北京、天津、上海农村商业银行，天津农村合作银行：<br><br>    2006年2月，财政部颁布了新的《企业会计准则》（以下简称新会计准则），要求自2007年1月1日在上市公司范围内施行，同时鼓励其他企业执行。为提高会计信息质量和可比性，完善风险管理，提高经营水平，加强银行业监管，促进我国银行业快速、健康发展，中国银监会决定银行业金融机构全面执行新会计准则。现就有关事项通知如下：<br><br>    一、统一思想，提高执行新会计准则的自觉性<br><br>    新会计准则反映了我国市场经济发展的要求，更加全面、系统地规范了企业会计确认、计量和报告行为，并与国际会计准则趋同。目前，银行业金融机构执行的会计制度存在较大差异，不同类型机构的相同业务、同一类型的不同机构采用不同的会计处理方法损害了会计信息的可比性、有用性，不利于分析和评价风险状况、财务成果，也不利于开展各项银行监管工作。各单位要统一思想，正确认识执行新会计准则的必然性和紧迫性，提高执行新会计准则的自觉性，早准备、早布置，保证银行业会计标准的平稳转换。<br><br>    二、执行新会计准则的时间表<br><br>    考虑到我国银行业金融机构众多，各银行业金融机构会计管理水平、人员素质、财务承受能力等方面存在着较大的差距，银行业金融机构应分层次实施新会计准则，并逐步建立适应新会计准则要求的内部管理流程和信息处理系统。按照财政部的总体要求，综合考虑各类型银行业金融机构的业务特点、管理水平和财务状况等实际情况，银行业金融机构应按以下时间表执行新会计准则：<br><br>    （一）已经上市银行业金融机构要全面执行新会计准则，继续完善内部管理制度和业务流程，提高执行新会计准则的质量。<br><br>    （二）政策性银行、中国农业银行、非上市的股份制银行、中国邮政储蓄银行、城市商业银行、信托公司、财务公司、金融租赁公司、汽车金融公司、货币经纪公司、外资银行等从2008年起按照新会计准则编制财务报告。<br><br>    （三）农村商业银行、农村合作银行、农村信用社、城市信用社、三类新型农村金融机构等从2009年起按照新会计准则编制财务报告，具备条件的可以提前执行。<br><br>    （四）金融资产管理公司待转制完成后的次年按新会计准则编制财务报告，但不得晚于2009年。<br><br>    三、执行新会计准则必须注意的几个问题<br><br>    （一）审慎使用公允价值。一是合理确定公允价值计量模式的使用范围。各银行业金融机构应严格按照新会计准则的要求，对于尚不存在活跃市场或不能持续可靠取得市场价格的金融工具不能使用公允价值计量。二是科学合理地确定公允价值。对决定使用公允价值计量的，要综合考虑活跃市场的各项因素，科学设定估值假设和主要参数。三是建立运用公允价值计量的内部控制制度，记录公允价值计量的依据和过程，确保公允价值计量的准确性、可靠性。<br><br>    （二）健全贷款减值评估体系。各银行业金融机构应完善贷款风险管理，全面收集贷款减值的历史数据，健全价值评估内部控制政策、程序和方法，准确计提贷款减值准备，不得利用贷款减值准备调节利润。<br><br>    （三）合理进行金融工具分类。各银行业金融机构在金融工具初始确认时应客观分析持有意图，准确划分各类金融工具，并严格按照新会计准则进行核算。<br><br>    四、精心准备，不断提高执行新会计准则的能力<br><br>    （一）各银行业金融机构主要负责人要亲自抓执行新会计准则的准备工作。执行新会计准则不仅仅是会计部门的工作，还涉及到各项业务，需要各个部门的配合，主要负责人必须高度重视，亲自负责，主动协调。要成立专门工作小组，制定规划，明确分工，加强协作，周密部署，既要保证按时执行新会计准则，又要确保各项业务和会计工作正常、有序地运转。各银行业金融机构（已经上市的除外）要于2007年底前将执行新会计准则的实施规划报直接监管的监管机构备案，并及时报告组织实施情况。<br><br>    （二）各银行业金融机构要加大对会计人员和相关业务人员、管理人员的培训力度，不仅要学习新会计准则的具体内容、主要变化和应用要求，还要紧密结合本单位实际，研究新会计准则对本单位管理制度、业务流程和信息系统的影响和应对措施，不断提高执行新会计准则的能力。<br><br>    （三）各银行业金融机构要做好执行新会计准则的衔接工作。一是制度衔接工作。在执行新会计准则前，必须按老制度开展各项会计核算工作，不得在新会计准则和老制度间选择使用。二是披露衔接工作。要保证信息披露的连续性和一致性，有关会计信息口径的变化要有准确的记录和说明。<br><br>    （四）农村信用社执行新会计准则的工作统一由各省联合社组织。<br><br>    五、加强领导，促进高质量地执行新会计准则<br><br>    （一）中国银监会成立实施新会计准则领导小组，指导和协调银行业金融机构执行新会计准则的有关工作。领导小组组长为银监会郭利根副主席，银监会财务会计部及各监管部门负责人为领导小组成员，办公室设在财务会计部。办公室主任由银监会财务会计部汤小青主任担任，副主任由银监会财务会计部杨树润副主任担任，各监管部门派专人参加办公室的日常工作。<br><br>    （二）各银监局要成立领导小组，跟踪辖内银行业金融机构执行新会计准则的准备和执行情况，重点做好辖内中小银行业金融机构执行新会计准则的指导、协调和服务工作。<br><br>    （三）各银监局要按照各银行业金融机构执行新会计准则的时间表，积极开展各项会计监管工作，重点检查银行业金融机构执行会计准则情况，分析财务变化状况，查处利用新会计准则操纵利润的行为。<br><br>    （四）各银监局要认真组织监管人员培训工作，掌握新会计准则的内容、方法，研究执行新会计准则可能出现的问题和监管措施，进一步提高监管能力。<br><br>    （五）银行业金融机构执行新会计准则后，银监会的各项监管政策、制度保持不变。各银监局必须继续督促银行业金融机构提高五级分类的质量，做实利润。<br><br>    同时，银监会将根据实施新会计准则带来的变化，在保持监管资本属性不变的前提下，对计算资本充足率涉及的部分会计数据进行调整，以准确计算资本充足率，避免执行新会计准则导致的资本充足率波动。考虑到新会计准则关于减值准备计提方法的变化，为增强减值准备计提的操作性、可靠性和可比性，银监会将另行发布减值准备计提和监管指引，对减值准备计提过程中的关键环节、重点因素进行规范。<br><br>    各银行业金融机构在执行新会计准则过程中发现的任何问题，请及时反馈银监会领导小组办公室。<br><br>    联系电话：010-66279033，传真：010-66299193。<br><br>    请各银监局将本文转发至辖内银行业金融机构。<br><br>    附件：银行业金融机构执行新会计准则时间表<br><br>二○○七年九月二十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

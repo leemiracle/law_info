@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办疾控发[2007]60号<BR>&nbsp;&nbsp;【发布日期】2007-03-27<BR>&nbsp;&nbsp;【生效日期】2007-03-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/18688.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>疟疾防治技术方案（试行）<br><br></font>(卫办疾控发[2007]60号)</p><br><br><br>各省、自治区、直辖市卫生局，新疆生产建设兵团卫生局，中国疾病预防控制中心：<br><br>    为了科学、规范地开展疟疾防治工作，认真组织实施《2006-2015年全国疟疾防治规划》，经征求各省、自治区、直辖市及有关专家意见，我部组织制定了《疟疾防治技术方案》（试行）。现印发给你们，请结合本地实际参照执行。<br><br>                                        二○○七年三月二十七日<br><br><br>疟疾防治技术方案（试行）<br><br>    根据《2006-2015年全国疟疾防治规划》确定的防治目标，按照因地制宜、分类指导的原则，以疟疾发病率为依据，并结合当地的主要传播媒介特征，采取相应的防治措施。为了规范全国疟疾防治工作，特制定本方案。<br><br>    一、传染源控制措施<br><br>    （一）病例发现。<br><br>    1. 发热病人血检。<br><br>    凡具备显微镜诊断条件的医疗卫生机构，对临床诊断为疟疾、疑似疟疾、不明原因的发热病人，均应开展显微镜检查疟原虫（以下简称镜检）；有条件的医疗卫生机构或村卫生室，也可使用快速诊断试剂盒进行疟原虫抗原检测（血检方法详见《疟疾诊断标准》（WS259-2006），下同）。各类地区发热病人血检应达到以下指标：<br><br>    （1）发病率在10/万以上的乡镇：年发热病人血检人数不低于乡总人口数的5％；<br><br>    （2）发病率在1/万-10/万的乡镇：年发热病人血检人数不低于乡总人口数的2％；<br><br>    （3）发病率在1/万以下的乡镇：年发热病人血检人数不低于乡总人口数的1％；<br><br>    （4）近3年无当地感染病例的乡镇：应结合本地实际，重点对来自其它疟区的发热病人开展血检。<br><br>    2. 主动病例侦查<br><br>    由县级疾病预防控制机构在疟疾传播季节组织开展。实施范围包括疟疾发病率大于20/万的行政村，以及在近3年无当地感染病例的乡镇发现当地感染病例的自然村。采用入户调查等方式了解当地疟疾发病情况，对遇到的发热病人或者近2周内有发热史者进行登记，并采集制作血片，进行检查。<br><br>    （二）疫情报告。<br><br>    各级各类医疗机构、疾病预防控制机构和采供血机构及其执行职务的人员（包括乡村医生和个体医生），均应按照《中华人民共和国传染病防治法》和《传染病信息报告管理规范》的规定，及时发现并报告所有疟疾病例，包括确诊病例、临床诊断病例和疑似病例。<br><br>    （三）病例治疗。<br><br>    对依据《疟疾诊断标准》诊断的确诊和临床诊断疟疾病例均应进行规范治疗。对疑似疟疾病例应进行假定性治疗，3天内症状得到控制者给予规范治疗（治疗方法详见附件1）。<br><br>    （四）休止期治疗。<br><br>    1. 休止期根治：在疟疾传播休止期，对一年内所有登记、报告，且已经规范治疗的间日疟病人，采用伯氨喹八日疗法进行根治。<br><br>    2. 休止期服药：近二年内发现有漏查、漏治和不规范治疗的地区，发病率在100/万-300/万的自然村，对所有间日疟病人、家属和四邻居民采用氯喹加伯氨喹八日疗法进行休止期服药; 发病率大于300/万的自然村，必要时可扩大到全民。<br><br>    二、媒介控制措施。<br><br>    （一）化学防制。<br><br>    1．实施范围。<br><br>    符合以下条件之一的，可在发病人数较集中的自然村采取化学防制措施。普遍使用蚊帐的，应采取杀虫剂浸泡蚊帐；蚊帐使用率低的，可采取室内滞留喷洒。<br><br>    （1）以嗜人按蚊、微小按蚊和大劣按蚊为主要媒介的地区，以乡镇为单位发病率大于10/万或者出现突发疫情；<br><br>    （2）以中华按蚊为主要媒介的地区出现疟疾突发疫情，且媒介按蚊密度异常升高时。<br><br>    2．实施方法。<br><br>    （1）浸泡蚊帐采用菊酯类杀虫剂，每年于传播季节前开展一次，蚊帐浸泡率达到90%以上（浸泡方法详见《疟疾防治手册》）。有条件的地区应推广使用长效蚊帐。<br><br>    （2）室内滞留喷洒采用持效性菊酯类杀虫剂或滴滴涕（DDT）。菊酯类杀虫剂在传播季节喷洒1―2次，每次间隔3个月；滴滴涕每年喷洒1次，连续使用不能超过3年（喷洒方法详见《疟疾防治手册》）。<br><br>    （二）生物防制。<br><br>    在有条件的地区，提倡采用稻田、沟渠等养鱼、投放生物制剂，控制孳生地幼虫。<br><br>    （三）环境治理。<br><br>    结合爱国卫生运动和社会主义新农村建设，开展清理洼地积水、疏通沟渠，间歇灌溉等有针对性的环境治理措施，减少按蚊幼虫孳生。宣传、引导群众改善室内通风条件，改变室外露宿习惯。<br><br>    三、人群防护措施               <br><br>    （一）防止蚊虫叮咬。<br><br>    在流行区提倡使用纱门、纱窗、蚊香等防蚊措施，对野外露宿的人员，应提倡使用驱避剂和/或使用蚊帐，避免蚊虫叮咬。<br><br>    （二）预防服药。<br><br>    进入国内、外疟疾高传播地区的人员，应于传播季节定期服用抗疟药，但连续服药的时间不宜超过3-4个月（药物选择及服用方法见附件）。疟疾流行区经常夜晚室外作业与野外露宿者等高危人群，在传播季节亦应进行预防服药。<br><br>    四、流动人口疟疾防治措施<br><br>    对流动人口中的疟疾病例实施属地化管理，重点加强边境地区和大型工程建设区域的疟疾防治。<br><br>    （一）边境地区。<br><br>    在与流行程度较高国家毗邻的边境自然村（寨），乡村医生应每月一次开展人群查病，可采用入户调查等方式了解疟疾发病情况，对发现的所有临床诊断病例和疑似疟疾病例及时给予规范抗疟治疗，并登记上报乡卫生院。有条件的可采用快速诊断试剂盒对病例给予确诊。县级疾控机构、乡卫生院对一个月内报告病例数超过5例的边境自然村（寨），应及时进行疫情核实及规范治疗情况的调查，并指导疟疾防治工作的开展。<br><br>    在已设立镜检站的边境口岸，对出入境的发热病人进行血检疟原虫，对发现的疟疾病人进行登记、报告，并给予规范治疗。对出境人员发放疟疾宣传材料和预防药物。<br><br>    （二）大型工程建设区域。<br><br>    1．人群疟疾查治。<br><br>    在发病率大于1/万或近两年出现疫情波动的县，开展大型工程建设项目时，在传播季节前，应由当地疾控机构组织向施工人员了解疟疾发病情况，对2年内有疟疾感染史者以伯氨喹八日疗法给予根治。在疟疾传播季节，当地疾控机构应在施工人员中开展发热病人血检疟原虫，对发现的疟疾病例均应登记、报告，并进行规范治疗。<br><br>    2．媒介防制。<br><br>    在以微小按蚊、嗜人按蚊或大劣按蚊为主要媒介的地区，大型工程建设项目施工期间，当地疾控机构应指导施工单位，每年在传播季节前对施工人员居住地实施1次药物浸泡蚊帐或室内滞留喷洒。<br><br>    五、突发疫情处理 <br><br>    根据《疟疾突发疫情应急处理预案》，凡出现以下情况之一时，视为疟疾突发疫情，应启动应急处理工作：<br><br>    （一）近3年无疟疾病例发生的乡（镇），1个月内同一行政村发现5例及以上当地感染的疟疾病例，或发现输入性恶性疟继发病例；<br><br>    （二）近3年有疟疾病例发生的乡（镇），1个月内同一行政村发现10例及以上当地感染的疟疾病例，或发现2例及以上恶性疟死亡病例。<br><br>    突发疫情应急处理按《疟疾突发疫情应急处理预案》执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

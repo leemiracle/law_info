@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2009〕98号<BR>&nbsp;&nbsp;【发布日期】2009-02-27<BR>&nbsp;&nbsp;【生效日期】2009-02-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/8899729.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于企业所得税若干税务事项衔接问题的通知<br> <br></font>(国税函〔2009〕98号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    《中华人民共和国企业所得税法》（以下简称新税法）及其实施条例（以下简称实施条例）自2008年1月1日正式实施，按照新税法第六十条规定，《中华人民共和国外商投资企业和外国企业所得税法》和《中华人民共和国企业所得税暂行条例》（以下简称原税法）同时废止。为便于各地汇算清缴工作的开展，现就新税法实施前企业发生的若干税务事项衔接问题通知如下：?<br>    一、关于已购置固定资产预计净残值和折旧年限的处理问题<br>    新税法实施前已投入使用的固定资产，企业已按原税法规定预计净残值并计提的折旧，不做调整。新税法实施后，对此类继续使用的固定资产，可以重新确定其残值，并就其尚未计提折旧的余额，按照新税法规定的折旧年限减去已经计提折旧的年限后的剩余年限，按照新税法规定的折旧方法计算折旧。新税法实施后，固定资产原确定的折旧年限不违背新税法规定原则的，也可以继续执行。?<br>    二、关于递延所得的处理?<br>    企业按原税法规定已作递延所得确认的项目，其余额可在原规定的递延期间的剩余期间内继续均匀计入各纳税期间的应纳税所得额。?<br>    三、关于利息收入、租金收入和特许权使用费收入的确认<br>    新税法实施前已按其他方式计入当期收入的利息收入、租金收入、特许权使用费收入，在新税法实施后，凡与按合同约定支付时间确认的收入额发生变化的，应将该收入额减去以前年度已按照其它方式确认的收入额后的差额，确认为当期收入。?<br>    四、关于以前年度职工福利费余额的处理?<br>    根据《国家税务总局关于做好2007年度企业所得税汇算清缴工作的补充通知》（国税函〔2008〕264号）的规定，企业2008年以前按照规定计提但尚未使用的职工福利费余额，2008年及以后年度发生的职工福利费，应首先冲减上述的职工福利费余额，不足部分按新税法规定扣除；仍有余额的，继续留在以后年度使用。企业2008年以前节余的职工福利费，已在税前扣除，属于职工权益，如果改变用途的，应调整增加企业应纳税所得额。?<br>    五、关于以前年度职工教育经费余额的处理?<br>    对于在2008年以前已经计提但尚未使用的职工教育经费余额，2008年及以后新发生的职工教育经费应先从余额中冲减。仍有余额的，留在以后年度继续使用。?<br>    六、关于工效挂钩企业工资储备基金的处理?<br>    原执行工效挂钩办法的企业，在2008年1月1日以前已按规定提取，但因未实际发放而未在税前扣除的工资储备基金余额，2008年及以后年度实际发放时，可在实际发放年度企业所得税前据实扣除。?<br>    七、关于以前年度未扣除的广告费的处理?<br>    企业在2008年以前按照原政策规定已发生但尚未扣除的广告费，2008年实行新税法后，其尚未扣除的余额，加上当年度新发生的广告费和业务宣传费后，按照新税法规定的比例计算扣除。?<br>    八、关于技术开发费的加计扣除形成的亏损的处理?<br>    企业技术开发费加计扣除部分已形成企业年度亏损，可以用以后年度所得弥补，但结转年限最长不得超过5年。 ?<br>    九、关于开（筹）办费的处理?<br>    新税法中开（筹）办费未明确列作长期待摊费用，企业可以在开始经营之日的当年一次性扣除，也可以按照新税法有关长期待摊费用的处理规定处理，但一经选定，不得改变。?<br>    企业在新税法实施以前年度的未摊销完的开办费，也可根据上述规定处理。<br><br>国家税务总局<br>二○○九年二月二十七日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

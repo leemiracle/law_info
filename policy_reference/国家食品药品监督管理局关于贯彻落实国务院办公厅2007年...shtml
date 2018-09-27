@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监协[2007]285号<BR>&nbsp;&nbsp;【发布日期】2007-05-16<BR>&nbsp;&nbsp;【生效日期】2007-05-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64020664.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于贯彻落实国务院办公厅2007年全国食品安全专项整治方案的通知<br> <br></font>(国食药监协[2007]285号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局，北京市人民政府食品安全监督协调办公室：<br><br>    最近，国务院办公厅印发了《2007年全国食品安全专项整治方案》（国办发〔2007〕28号），对2007年食品安全专项整治工作做出了部署。现就贯彻落实该方案的有关问题通知如下：<br><br>    一、全面推进食品安全监管责任落实<br>    积极推动地方各级人民政府对本地食品安全工作负总责，推进食品安全纳入政府工作目标考核，通过签订责任状、落实考评奖惩等制度，层层落实食品安全责任制和责任追究制，大力促进各监管部门食品安全监管责任的落实。<br><br>    二、切实抓好农村食品安全工作<br>    （一）全面推进农村食品安全监管责任网、市场流通网、群众监督网建设。在完善省、市、县三级政府食品安全综合监督协调机构的基础上，积极推进乡镇政府建立食品安全综合监督协调机构，配备专、兼职人员队伍，落实乡镇政府食品安全责任，将农村食品安全工作纳入政府年度工作目标，实施目标责任考核。制定发展农村食品市场流通网规划，各地要因地制宜，通过多种形式，逐步使农村食品流通连锁化、网络化、规范化，切实提高农村流通环节食品质量。发动群众，群防群控，建立食品安全信息员、监督员、协管员制度。<br>    （二）深入开展农村食品安全专项整治。制定农村食品安全专项整治方案，针对农村食品安全的突出问题，加大整治力度。强化农村食品安全监管能力建设，推进综合执法和联合执法，力争使农村食品安全状况得到明显改善。<br>    （三）积极推进“农村食品安全示范县”建设。国家食品药品监督管理局将按照各省、自治区、直辖市县（区、市）数量2%的比例，选择基础较好的县（区、市）开展食品安全示范县活动。各省、自治区、直辖市可根据本地实际，开展本省的示范县、示范乡活动，通过示范作用，推动农村食品安全工作深入开展。<br><br>    三、强化食品安全信息监测<br>    （一）编写食品安全状况报告。各地要在全面收集和分析本地食品安全信息的基础上，定期评价食品安全状况，编写本地区食品安全状况报告，针对突出问题和薄弱环节，开展集中整治。<br>    （二）加强重点品种的监测。结合本地区实际情况，有选择地开展重点品种的信息监测，动态了解食品安全状况，评价食品安全控制措施，形成专项报告。<br>    （三）推进食品安全信息与预警平台建设。加强日常食品安全信息的收集、汇总与报送，及时准确报送地方食品安全法规制订情况、食品安全综合监督情况、重点品种监测和抽检结果及重大食品安全事件调查与处理情况等日常信息。推进食品安全信息统一发布制度的实施。<br><br>    四、深化食品安全信用体系建设<br>    结合本地实际，有重点地选择部分食品行业进行全行业食品安全信用体系建设，积极探索食品安全信用征集、评价、披露等制度建设，建立健全食品生产经营企业信用档案，推进信用分类监管，建立食品企业“黑名单”，实行奖优罚劣，对严重失信的，坚决淘汰出局。<br><br>    五、加强食品安全宣传教育<br>    按照《全国食品安全宣传教育纲要（2006-2010）》的要求，充分发挥基层组织、学校、协会、学会等部门作用，采取群众喜闻乐见的方式，广泛开展食品安全宣传教育，让食品安全知识进学校、进社区、进农村。“十一黄金周”之前，组织开展食品安全宣传周活动。<br><br>    六、全面开展食品安全综合评价<br>    认真总结食品安全综合评价的经验，不断完善食品安全综合评价制度，使综合评价更加科学、规范、公正、权威。省、市、县三级食品安全综合监督部门要结合各自实际情况，全面开展食品安全综合评价，上级部门要切实加强对下级部门实施综合评价工作的督促和指导，积极探索综合评价与日常监督的有机结合，不断提高综合评价的效能。<br><br>    七、加强应急体系建设，及时查处大案要案<br>    进一步完善食品安全事故应急体系建设，建立健全事故报告、通报、预警机制，年内，省、市、县三级食品安全综合监督部门要全部制定重大食品安全事故应急预案和操作手册，并建立专家库。一旦发生重大食品安全事故，能做到报告及时、反应迅速、控制有力。同时做好对重大食品安全事故的调查处理和回访督查工作，防止同类事故再次发生。<br>    2007年是实施食品放心工程、开展食品安全专项整治的第五个年头，各地要认真总结五年来的经验和做法，年底形成专项整治总结报告报国家食品药品监督管理局。<br><br><br>                                                        国家食品药品监督管理局<br>                                                         二○○七年五月十六日<br> <br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

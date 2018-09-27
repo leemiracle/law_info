@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办疾控发〔2010〕143号<BR>&nbsp;&nbsp;【发布日期】2010-08-20<BR>&nbsp;&nbsp;【生效日期】2010-08-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohjbyfkzj/s3577/201008/48610.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于开展农民工健康关爱工程项目试点工作的通知 <br><br></font>(卫办疾控发〔2010〕143号)</p><br><br><br>    各省、自治区、直辖市卫生厅局：<br><br>    近年来，随着我国经济社会持续快速发展，大量农村劳动力转移到城（镇），农民工健康越来越受到社会的关注。为探索农民工健康保障的有效途径，切实保障广大农民工的身体健康，我部决定从今年起组织开展农民工健康关爱工程项目试点，现就有关事项通知如下：<br><br>    一、项目内容<br><br>    （一）开展农民工健康教育。一是开展传染病防治等知识的健康教育和卫生知识培训，提高农民工对艾滋病、结核病、计划免疫等传染病防治知识的知晓率。二是为农民工开展慢性病“三个一”工作，即免费测量一次血压，发放一本《生活方式与慢性病科普知识手册》，开展一次慢性病预防与营养知识讲座，提高农民工健康水平。在发现高血压患者后，应纳入基本公共卫生服务进行管理。三是通过心理健康教育和心理健康指导，重点指导农民工对城市环境的适应力，缓解心理压力。<br><br>    （二）建立农民工健康档案。为与集中用人单位签订劳动合同的农民工建立健康档案，并及时更新，逐步实现计算机管理。健康档案主要信息包括农民工个人基本信息、主要健康问题及卫生服务纪录等。<br><br>    （三）开展农民工结核病防治及其子女免疫规划工作。一是为农民工初诊肺结核可疑症状者或疑似肺结核患者免费进行胸片和痰涂片检查，为农民工肺结核患者提供免费抗结核药物治疗，并提供督导管理。二是加强农民工子女国家免疫规划疫苗接种，开展针对性强化免疫工作；联合教育部门，加强农民工子女入托入学接种证查验工作；加强儿童信息化建设，加强农民工子女信息化管理；加强针对农民工及其子女的宣传教育工作。<br><br>    （四）开展农民工艾滋病、梅毒、乙肝母婴阻断项目。一是落实孕产妇艾滋病病毒抗体筛查、梅毒筛查和乙肝检测，为艾滋病病毒感染孕产妇及所生儿童提供抗病毒药物及相关检测、随访等服务。二是对梅毒筛查阳性的孕产妇，提供规范的妊娠梅毒治疗，防治先天梅毒。三是对住院分娩的乙肝表面抗原阳性母亲所生新生儿在出生24小时内接种乙肝疫苗，同时免费注射1针乙肝免疫球蛋白。<br><br>    （五）开展农民工职业病防治关爱工程。一是开展农民工职业病防治宣传教育，提高农民工自我保护意识，加强用人单位职业病防治法律责任意识。二是加大对从事接触职业病危害作业的农民工职业健康监护的监督检查力度，督促用人单位组织农民工职业健康检查，建立健全农民工职业健康监护档案。三是加强农民工职业病诊断与鉴定管理工作，为农民工进行职业病诊断与鉴定提供方便。四是实施中央补助地方公共卫生专项资金职业病防治项目，开展农民工重点职业病监测工作，加强职业病信息报告管理。<br><br>    二、项目地点<br><br>    在除海南省和西藏自治区外的其他29个省（区、市），选择65个县（市、区）开展项目试点，具体名单见附件1。<br><br>    三、项目目标<br><br>    （一）开展农民工健康教育。一是项目地区农民工艾滋病、结核病、计划免疫等传染病防治知识知晓率达到85%以上。二是项目地区农民工接受血压测量率达到90%以上，慢性病及营养相关知识知晓率达60%以上。三是项目地区80%以上农民工接受1次以上提高心理适应力培训，50%以上有心理压力的农民工接受1次以上心理健康指导。<br><br>    （二）建立农民工健康档案。集中用人单位农民工健康档案建立率达到80%以上。<br><br>    （三）开展农民工结核病防治及其子女免疫规划工作。一是在项目地区实施现代结核病控制策略（DOTS），新涂阳肺结核患者治愈率达85%以上。二是到2015年，农民工子女适龄儿童以乡为单位原免疫规划疫苗单苗接种率达到并保持在90%以上，新纳入免疫规划的疫苗接种率达到85%；入托入学接种证查验率达到100%，补种率达90%以上；预防接种实现信息化管理，90%以上乡级预防接种单位实现预防接种信息化管理。<br><br>    （四）开展农民工艾滋病、梅毒、乙肝母婴阻断项目。项目地区孕产妇艾滋病检测率、梅毒筛查率及乙肝检测率分别达到80%以上；艾滋病病毒感染孕产妇及所生儿童、梅毒感染孕产妇及所生儿童、乙肝表面抗原阳性孕产妇所生新生儿采取预防母婴传播干预措施率达到90%以上。<br><br>    （五）开展农民工职业病防治关爱工程。项目地区要基本摸清当地职业病危害分布情况、用人单位职业健康监护情况和从事接触职业病危害作业的农民工情况，农民工职业病防治知识知晓率达到80％以上，农民工职业健康检查率达到85％以上，并为所有体检农民工建立职业健康监护档案。<br><br>    四、工作要求<br><br>    （一）加强组织领导，高度重视试点工作。试点地区各级卫生行政部门要深刻认识试点工作的重要意义，加强对试点工作的组织协调与业务指导。要在人员和经费上给予保障，确保试点工作顺利、有序地开展。<br><br>    （二）结合现有项目，全面推进试点工作。要将开展农民工健康教育和建立农民工健康档案纳入基本公共卫生服务项目，将试点地区农民工结核病防治及其子女免疫规划工作和农民工艾滋病、梅毒、乙肝母婴阻断项目纳入中央补助地方公共卫生项目，制订切实可行的工作方案，进一步扩点增面，推动项目深入全面开展。要利用基本职业卫生服务试点取得的工作经验，推进农民工职业病防治关爱工程的组织实施。<br><br>    （三）认真总结试点经验，探索工作模式。各试点地区要结合实际，针对本地区农民工健康保障工作重点，不断研究遇到的新情况、新问题，及时总结试点工作经验，积极探索农民工健康保障的工作模式和有效措施，并将有关情况及时向我部报告。<br><br>    （四）分步组织实施，做好阶段评估工作。我部将适时组织对试点地区项目开展情况的评估。各试点地区也要根据本地区试点工作方案，组织开展评估工作，确保如期完成各项工作目标。<br><br>    特此通知。<br><br>    附件：农民工健康关爱工程项目试点地区名单<br><br>    二○一○年八月二十日 <br><br>    附件<br><br>    农民工健康关爱工程项目试点地区名单<br><br>    序号<br>    省份<br>    试点县（区）<br><br>    1<br>    北京<br>    海淀区、大兴区<br><br>    2<br>    天津<br>    东丽区、西青区、宝坻区<br>    <br>    3<br>    河北<br>    高碑店市<br><br>    4<br>    山西<br>    寿阳县、孝义市<br><br>    5<br>    内蒙古<br>    霍林郭勒市、伊金霍洛旗<br><br>    6<br>    辽宁<br>    沈阳市苏家屯区、建平县、葫芦岛连山区<br><br>    7<br>    吉林<br>    长春市绿园区、磐石市<br><br>    8<br>    黑龙江<br>    哈尔滨市香坊区、甘南县<br><br>    9<br>    上海<br>    普陀区、青浦区<br><br>    10<br>    江苏<br>    江阴市、昆山市<br><br>    11<br>    浙江<br>    杭州市拱墅区、宁波市鄞州区、江山市、丽水经济开发区<br><br>    12<br>    安徽<br>    宣城市广德县、马鞍山市当涂县<br><br>    13<br>    福建<br>    泉州市惠安县、福州市马尾区<br><br>    14<br>    江西<br>    南昌县、乐平市、萍乡市湘东区<br><br>    15<br>    山东<br>    章丘市、淄博市临淄区<br><br>    16<br>    河南<br>    辉县、栾川县<br><br>    17<br>    湖北<br>    潜江市、远安市、郧县、谷城县<br>    <br>    18<br>    湖南<br>    浏阳市、常德市石门县<br><br>    19<br>    广东<br>    深圳市宝安区、江门市新会区<br><br>    20<br>    广西<br>    马山县、容县<br><br>    21<br>    重庆<br>    南岸区、璧山县<br><br>    22<br>    四川<br>    成都市武侯区、双流县<br>    <br>    23<br>    贵州<br>    遵义市桐梓县、松桃苗族自治县<br><br>    24<br>    云南<br>    个旧市、澄江县、腾冲县<br><br>    25<br>    陕西<br>    榆林市榆阳区<br><br>    26<br>    甘肃<br>    嘉峪关市、白银市白银区<br><br>    27<br>    青海<br>    大通回族土族县、湟中县<br><br>    28<br>    宁夏<br>    石嘴山市惠农区、平罗县、中宁县<br><br>    29<br>    新疆<br>    库尔勒市、富蕴县<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监注[2008]271号<BR>&nbsp;&nbsp;【发布日期】2008-06-03<BR>&nbsp;&nbsp;【生效日期】2008-06-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/30470_6.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>化学药品研究资料及图谱真实性问题判定标准<br><br></font>(国食药监注[2008]271号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为做好过渡期品种集中审评工作，按照《过渡期品种集中审评工作方案》和公开、公平、公正的原则，依据《药品注册管理办法》和有关技术指导原则，国家局组织制定了《化学药品技术标准》、《多组分生化药技术标准》、《中药质量标准不明确的判定标准及处理原则》、《含濒危药材中药品种处理原则》和《化学药品研究资料及图谱真实性问题判定标准》。现予印发，自印发之日起执行。<br><br><br>    附件：1．化学药品技术标准?<br>          2．多组分生化药技术标准?<br>          3．中药质量标准不明确的判定标准及处理原则?<br>          4．含濒危药材中药品种处理原则?<br>          5．化学药品研究资料及图谱真实性问题判定标准<br><br>                                                        国家食品药品监督管理局<br>                                                          二○○八年六月三日<br> <br><br>化学药品研究资料及图谱真实性问题判定标准<br><br>    原《药品注册管理办法》第九、十七、十九和四十七条等，以及现行《药品注册管理办法》第十三、二十三、二十四条等均对注册申报资料真实性有明确规定，要求申请人应当提供充分可靠的研究数据，证明药品的安全性、有效性和质量可控性，并对资料真实性负责。<br>    在药品注册过程中，药品注册监督管理部门也应当加强对资料真实性的审查，以净化注册环境，维护好遵纪守法申请人的利益，切实保证公众的用药安全。同时，研究资料和图谱真实性判定是一个比较复杂的过程，在工作中需认真、细致、慎重，注意结合具体试验方法从多方面着手，根据掌握的数据、存在真实性疑问的研究内容、图谱的数量和相似程度进行判定。<br><br>    一、申报资料内容和数据雷同，申报资料存在一图多用、数据造假等问题<br>    1．不同品种的研究资料、数据相同或雷同<br>    该项雷同是指同一单位不同品种，或不同单位同一品种/不同品种之间的研究资料的文字、实验数据、照片/图谱相同或有较明确证据的雷同，包括：研究资料中主要试验数据一致，TLC照片特征明显、可以确认相同，研究图谱雷同（如HPLC图谱峰形相似可以重叠并有多数峰或全部峰保留时间相同）等。<br><br>    2．不同申请人申请原料药的合成工艺路线相同，且经试验摸索确定的工艺条件相同（只是投料量按比例放大/缩小的）；不同申请人申请制剂的处方工艺类同，且经试验摸索确定的关键工艺参数完全相同。<br><br>    3．同一品种HPLC/GC图谱各峰的保留时间、峰面积（和/或峰高）完全一致，或多个峰中仅个别峰有微小差别，或TLC照片完全一致，存在一图多用的问题（包括：同一时间点不同批号样品、不同时间点相同批号或不同批号样品等）。<br>    该项问题是指同一品种存在较明确的一图多用（包括认为修改图谱和/或数据）的证据。对于TLC照片，主要通过斑点的形状、Rf值、原点和溶剂前沿特征、薄板边角特征和薄板斑点外其他区域显色情况等综合判定是否一致。对于HPLC/GC图谱，主要从保留时间、峰面积（和/或峰高）判定，其中保留时间相同，多个峰（半数以上）峰面积和/或峰高一致的情况在实际工作中不可能出现，可以判定系人为修改获得。<br><br>    4．HPLC/GC图谱的峰形相似，各峰的保留时间完全一致或多数峰的保留时间完全一致，峰面积（峰高）不同或仅有少数峰的峰面积（峰高）相同（包括：同一时间点不同批号样品、不同时间点相同批号或不同批号样品等）。<br>    该种现象在实际工作中也几乎不可能出现，可依据图谱及色谱峰的数量、保留时间相同峰的比例等进行判定。对于同时存在少数峰的峰面积和/或峰高，半峰宽、塔板数等一致的，是更充分的证据；对于试验日期相隔数日或数月仍出现上述问题的，也是较充分的证据。<br>    判断时还应注意：对于HPLC图谱中容量因子小于3的色谱峰，出现个别色谱峰保留时间一致的概率可能较高；对于GC图谱，色谱峰保留时间一致的概率可能较HPLC图谱高；保留时间的有效位数和保留时间出现一致的概率有关，较少的有效位数出现保留时间一致的概率大。<br>    5．HPLC/GC图谱的峰形相似，各峰的峰面积（和/或峰高、峰宽）完全一致或多数峰的峰面积（和/或峰高、峰宽）一致，但各峰的保留时间不同（包括：同一时间点不同批号样品、不同时间点相同批号或不同批号样品等）。<br>    该项问题主要依据色谱峰峰面积是否一致进行判定。此处“多数峰”可根据半数以上色谱峰峰面积一致判定。<br><br>    6．HPLC图谱中仅显示一个峰，但多张图谱保留时间（和峰面积）完全一致（包括：同一时间点不同批号样品、不同时间点相同批号或不同批号样品等）。<br>    该项问题主要依据多张图谱的单峰的保留时间（和峰面积）是否一致进行判定。对于研究资料中存在大量图谱的单峰的保留时间（和峰面积）一致，尤其是试验跨度较大、试验相隔较长时出现上述问题，均是较充分的证据。<br><br>    7．HPLC色谱图采集时间与运行时间矛盾。<br>    该项问题主要依据连续试验得到的图谱中的采集时间先于研究资料中方法规定的时间和图谱显示的试验时间进行判定，还包括连续多张HPLC图谱中运行时间与采样时间衔接正好吻合的问题。<br><br>    8．HPLC色谱图保留时间与坐标轴标示矛盾，或数据表与图中保留时间不一致。<br><br>    9．不同申报单位或同一申报单位不同批号样品的IR、粉末X线衍射、UV、核磁共振等图谱及相关数据（UV指波长和吸收度）完全一致。<br><br>    10．HPLC色谱图中各峰保留时间的绝对差值相同或呈规律性变化，不符合色谱行为的基本规律（包括：同一时间点不同批号样品、不同时间点相同批号或不同批号样品等）。<br>    该项问题主要依据图谱之间各峰保留时间的绝对差值规律性变化进行判定，比对中需注意图谱之间的相似性和图谱中色谱峰数量，如色谱峰过少可能会影响判定。<br><br>    11．效价测定中，抑菌圈数据相同；或微生物方法学研究中，试验组的数据相同（包括：不同时间点、不同批号等）。<br><br>    12．特殊安全性试验、生物等效性试验等研究资料中照片、图谱相同或雷同（包括：不同时间点、不同批号等）。<br>    特殊安全性试验数据、照片相同包括以下六种情况：不同单位同一品种、不同单位不同品种、同一单位不同品种、同一单位同一品种不同动物编号、同一单位同一品种同一动物不同部位的安全性试验的试验数据、照片相同；生物等效性试验主要依据研究数据、色谱图/光谱图雷同进行判定。<br><br>    13．不同单位注射剂过敏性试验结果相同（指不同单位的同一品种和同一单位的不同品种动物编号及相对应的试验数据完全一致）。<br><br>    14．其他申报资料图谱、数据造假现象（指申报资料图谱、数据存在不合常理之处）。<br>    主要现象包括：<br>    （1）多张或多组HPLC/GC图谱的进样时间（小时、分、秒）完全相同。<br>    （2）不同HPLC/GC图谱之间峰形相似，图中显示的峰高接近，数据表（分析结果表）中多数峰的峰面积、峰高数据相近，但个别峰的峰面积、峰高数据相差数倍以上。<br>    （3）HPLC/GC图谱数据表中各峰的峰面积、峰高加和与数据表中显示的总峰面积、总峰高数据不一致，且相差较大。<br>    （4）图谱信息部分存在明显有背常理的地方。例如，进样时间为“28：18：26”、日期为“2005-3-71”；一张HPLC图谱中数据采集日期为“Jnn 05，2005”，而其它图谱上日期均为Jun。<br>    （5）大量HPLC图谱中所有峰保留时间末位或后2～3位数呈现特征性。例如均为“8”或“5”或“2”；或所有色谱峰保留时间末位数均为0，3或7；或同一张色谱图中多个色谱峰保留时间最后2位数或最后3位数一致。<br>    （6）图谱的打印时间（或报告时间）早于其进样时间（或试验运行时间）。<br>    （7）HPLC方法学研究中破坏性试验在不同破坏试验条件下得到的图谱相似、叠放能够重合，特别是采用低波长检测时，溶剂峰的峰形相似。（上述问题可结合化合物的稳定性、所采用的破坏条件等综合判断） <br><br>    二、存在资料/图谱类似、或有研究资料造假嫌疑，可作为进一步查证的线索<br>    1．HPLC/GC图谱叠放能够重合，各峰的峰面积不一致，少数峰保留时间相同；TLC照片类似（包括：同一时间点不同批号样品、不同时间点相同批号或不同批号样品等）。<br><br>    2．HPLC色谱图的保留时间完全一致或多数峰的保留时间一致，但峰形不同。<br><br>    3．合成工艺、处方及工艺研究、质量研究、稳定性试验等资料文字、撰写思路和模式雷同，但研究数据不同。<br><br>    4．相同保留时间的色谱峰在数据表中重复出现，但峰高和峰面积不同，对于容量因子小于3的色谱峰，出现上述问题的概率增加，需注意。<br><br>    5．.同一品种不同用途图谱（不同试验可以合理共用图谱除外）的文件名、图谱和数据完全相同（如仅发现一对可继续查证）。<br><br>    6．色谱图数据表中个别峰保留时间位数与多数峰不一致等。<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

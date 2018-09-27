@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、国家粮食局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-09-27<BR>&nbsp;&nbsp;【生效日期】2005-09-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinagrain.gov.cn/scytk/20050927.html" target=_blank>国家粮食局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、国家粮食局关于在新粮收购期间暂停中央和地方储备稻谷轮换出库的通知</font></p><br> <br><br>各省、自治区、直辖市及新疆生产建设兵团发展改革委、粮食局，中国储备粮管理总公司： <br><br>    目前，早籼稻收购工作尚未结束，中晚稻收购工作已经陆续展开。为贯彻落实国务院领导同志关于“在粮食收购季节不可急于抛售储备粮”的重要批示精神，切实做好稻谷收购工作，稳定粮食市场价格，保护好种粮农民利益，现就在新粮收购期间暂停储备稻谷轮换出库的有关问题通知如下： <br><br>    一、统一认识，切实发挥储备粮在粮食市场调控中的重要作用。各级粮食储备是调控粮食市场的重要手段，对于调节粮食供求，稳定市场价格，保护种粮农民利益发挥着重要作用。特别是在粮食购销市场化改革全面推进的新形势下，当粮食供求形势和市场价格发生较大变化时，国家主要通过中央和地方储备粮的吞吐来加强调控，以稳定粮食市场。2005年，在国家一系列惠农政策的有力支持下，粮食生产继续呈现出良好的局面，夏粮和稻谷产量均比上年有所增加，但当年粮食产需仍有一定缺口。由于受粮食增产后市场预期的影响，当前稻谷市场价格下行压力较大。对此，国家已经采取了相应的调控措施，在稻谷主产省及时启动了早籼稻和中晚稻最低收购价执行预案，由指定收购库点按照国家规定的最低收购价挂牌收购，以稳定市场粮价，保护种粮农民利益。因此，各级储备粮轮换必须与国家宏观调控的方向和要求相协调，不得进行逆向操作，以充分发挥储备粮对调控粮食市场的重要作用。 <br><br>    二、严格管理，在新粮收购期间暂停中央和地方储备稻谷轮换出库。为稳定当前稻谷市场价格，促进产销区之间粮食的合理流通，要进一步加强对储备粮轮换的管理，除与加工企业已签订的长期供销合同可以继续履行外，在新粮收购期间要暂停各级储备稻谷轮换出库，有关部门和储备粮管理企业不得组织储备粮的集中拍卖，避免打压市场粮价，损害农民利益。粮食主销区也要从大局出发，坚决停止地方储备稻谷的集中轮换出库，为主产区腾出市场空间。各有关部门和单位要加强对储备粮承储企业的管理和指导，督促他们严格执行国家政策，自觉服从和服务于粮食宏观调控的需要，切实做到令行禁止。 <br><br>    三、严肃纪律，加强对储备粮轮换工作的监督检查。各级粮食行政管理部门要依据《粮食流通管理条例》、《粮食流通监督检查暂行办法》等有关规定，加强对粮食购销活动的监督检查。在新粮收购期间，要把各级储备粮是否集中销售出库、是否集中拍卖，作为监督检查的重点，切实维护好粮食市场秩序。对于违反有关政策规定的，一经发现要严肃处理。 <br><br>    特此通知。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家统计局<BR>&nbsp;&nbsp;【发布文号】国统字[2005]79号<BR>&nbsp;&nbsp;【发布日期】2005-08-18<BR>&nbsp;&nbsp;【生效日期】2005-08-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.stats.gov.cn/tjdt/zygg/t20050824_402272091.htm" target=_blank>国家统计局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家统计局关于统计上对公有和非公有控股经济的分类办法<br><br></font>(国统字[2005]79号)</p><br><br><br>各省、自治区、直辖市统计局，国务院各部门：<br><br>    为了全面反映我国公有经济和非公有经济的控股情况，我局对1998年制定的《关于统计上划分经济成分的规定》中的有关控股情况的分类进行了修订，制定了《关于统计上对公有和非公有控股经济的分类办法》。现印发给你们，请遵照执行。<br><br>    附件：关于对1998年《关于统计上国有经济控股情况的分类办法》修订的说明<br><br>国家统计局      <br>二○○五年八月十八日<br> <br><br>关于统计上对公有和非公有控股经济的分类办法<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为了全面反映我国公有经济和非公有经济的控股情况，完善1998年国家统计局关于控股情况的有关规定，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法以法人企业作为分类对象，根据企业实收资本中某种经济成分的出资人实际出资情况进行分类,并按出资人对企业的控股程度，分为绝对控股和相对控股。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  控股经济分类与代码<br><br>    100  公有控股经济<br>    110    国有控股<br>    111      国有绝对控股<br>    112      国有相对控股<br>    120    集体控股<br>    121      集体绝对控股<br>    122      集体相对控股<br>    200  非公有控股经济<br>    210    私人控股<br>    211      私人绝对控股<br>    212      私人相对控股<br>    220    港澳台商控股<br>    221      港澳台商绝对控股<br>    222      港澳台商相对控股<br>    230    外商控股<br>    231      外商绝对控股<br>    232      外商相对控股<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  绝对控股是指在企业的全部实收资本中，某种经济成分的出资人拥有的实收资本(股本)所占企业的全部实收资本（股本）的比例大于50%。<br><br>    投资双方各占50%，且未明确由谁绝对控股的企业，若其中一方为国有或集体的，一律按公有绝对控股经济处理;若投资双方分别为国有、集体的，则按国有绝对控股处理。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  相对控股是指在企业的全部实收资本中，某经济成分的出资人拥有的实收资本(股本)所占的比例虽未大于50%，但根据协议规定拥有企业的实际控制权（协议控股）；或者相对大于其他任何一种经济成分的出资人所占比例（相对控股）。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  本办法由国家统计局负责解释。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  本办法自发布之日起施行。1998年9月2日国家统计局印发的《关于统计上划分经济成分的规定》中的附件三《关于统计上国有经济控股情况的分类办法》同时废止。<br><br> <br><br>附件：<br><br>关于对1998年《关于统计上国有经济<br>控股情况的分类办法》修订的说明<br><br>    1998年，为了贯彻落实党的十五大会议精神，准确反映和研究我国所有制结构以及国有经济的控股情况，我局制定了《关于统计上划分经济成分的规定》（国统字[1998]204号）。该规定主要包括四个部分：一是《关于统计上划分经济成分的规定》；二是与之配套的《关于统计上经济成分的推算办法》；三是《关于划分企业登记注册类型的规定》（与国家工商行政管理局联合制定）；四是《关于统计上国有经济控股情况的分类办法》。该规定自发布实施以来，由于在统计和其他领域的广泛应用，对研究我国所有制结构以及国有经济的控股情况起到了积极作用。然而，随着非公有经济的快速发展，社会上对非公有经济的控股情况的关注程度也随之提高，而原规定在反映非公有经济的分类方面却略显不足。在广泛征求意见的基础上，我们对1998年《关于统计上划分经济成分的规定》中的《关于统计上国有经济控股情况的分类办法》进行了修订。现将有关情况说明如下：<br><br>    一、完善了原有关控股情况的分类办法<br><br>    为了全面反映我国目前除“国有经济控股”以外的各种经济成分的控股情况，我们对原有关控股情况的分类办法进行了修订。具体修订内容是在原“国有经济控股”情况分类办法的基础上，增加对“集体经济”和“非公有经济”控股情况的分类(详见《关于统计上对公有和非公有控股经济的分类办法》)。<br><br>    二、《关于统计上对公有和非公有控股经济的分类办法》使用规定<br><br>    修订后的《关于统计上对公有和非公有控股经济的分类办法》，将在各有关专业2005年统计年报和2006年定期统计制度中执行。具体规定如下：<br><br>    （一）日常统计简单分组<br><br>    在2005年基本单位情况表101表的09栏“控股情况”项下增加“集体绝对控股”、“集体相对控股”两项细分组。汇总后，该栏第“9 其他”项的合计，即为“非公有控股经济”的有关数据。表式如下：<br><br>09  控股情况<br> <br>1国有绝对控股<br><br>2国有相对控股<br><br>3集体绝对控股<br><br>4集体相对控股<br><br>9其他<br> <br><br><br>    （二）在普查年份，“控股情况”则按修订后的《关于统计上对公有和非公有控股经济的分类办法》中所列的五种经济成分控股的细分类列示。<br><br>    （三）从2005年统计年报开始，要求各专业在相关综合统计数据中，增加公有和非公有控股经济分组。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

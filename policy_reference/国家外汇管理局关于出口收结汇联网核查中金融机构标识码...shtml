@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家外汇管理局<BR>&nbsp;&nbsp;【发布文号】汇综发【2008】119号<BR>&nbsp;&nbsp;【发布日期】2008-07-22<BR>&nbsp;&nbsp;【生效日期】2008-07-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.safe.gov.cn/model_safe/laws/law_detail.jsp?ID=80200000000000000,54&id=4" target=_blank>国家外汇管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家外汇管理局关于出口收结汇联网核查中金融机构标识码有关事项的通知<br><br></font>(汇综发【2008】119号)</p><br><br><br>国家外汇管理局各省、自治区、直辖市分局、外汇管理部，深圳、大连青岛厦门、宁波市分局；各中资外汇指定银行：<br><br>    根据《国家外汇管理局商务部海关总署关于印发〈出口收结汇联网核查办法〉的通知（汇发［2008］29号）的规定，银行应当凭自身操作员ＩＣ卡登录核查系统，对企业出口收汇进行联网核查。同时，银行只有在具有金融机构标识码后方能向所在地中国电子口岸制卡分中心申领操作员ＩＣ卡。为配合出口收结汇联网核查的实施，现就金融机构标识码的有关事项通知如下：<br><br>    一、已申领金融机构标识码的银行办理ＩＣ卡的处理<br><br>    已申领金融机构标识码的银行到所在地中国电子口岸制卡分中心领取ＩＣ卡时，如果所在地中国电子口岸制卡分中心没有该银行的金融机构标识码，则该银行应前往当地外汇局分支局国际收支部门查询赋码情况，外汇局国际收支部门业务人员应登录新版国际收支统计监测系统（以下简称新版系统）进行查询，并视情况分别采取以下处理方法：<br><br>    （一）如果当地外汇局已将该银行金融机构标识码等相关信息录入新版系统，则应进一步核实该银行的金融机构基本情况表信息，对错误信息进行修改，并告知该银行5个工作日后可到所在地中国电子口岸制卡分中心申领ＩＣ卡。<br><br>    （二）如果当地外汇局未将该银行金融机构标识码等相关信息录入新版系统，则应于当日将该银行的金融机构基本情况表录入新版系统并打印金融机构基本情况表页传真到国家外汇管理局国际收支司（010－68519211），同时告知该银行5个工作日后可到所在地中国电子口岸制卡分中心申领ＩＣ卡。<br><br>    二、未申领金融机构标识码的银行办理ＩＣ卡的处理<br><br>    未申领金融机构标识码的银行应当按照《通过金融机构进行国际收支统计申报业务操作规程（试行）（见《国家外汇管理局关于新版国际收支统计监测系统推广上线有关事项的通知（汇发［2006］57号）附件三）的相关规定申领金融机构标识码。当地外汇局国际收支部门应当按照《通过金融机构进行国际收支统计申报业务操作规程（试行）》编制下发金融机构标识码，于下发当日将该银行的金融机构基本情况表录入新版系统并打印金融机构基本情况表页传真到国家外汇管理局国际收支司（010－68519211），同时告知该银行5个工作日后可到所在地中国电子口岸制卡分中心申领ＩＣ卡。<br><br>    三、各分支局国际收支部门应按照《通过金融机构进行国际收支统计申报业务操作规程（试行）》的相关规定编制金融机构标识码，确保同一家金融机构网点只能赋予一个金融机构标识码，不得重复赋码。<br><br>    四、国家外汇管理局收到金融机构标识码变动情况后3个工作日内将其提供给中国电子口岸，以便于银行到所在地中国电子口岸制卡分中心领取ＩＣ卡。<br><br>    五、各分局在收到本通知后应及时转发给辖内中心支局、支局和辖内银行。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

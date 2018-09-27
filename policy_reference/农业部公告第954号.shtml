@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农业部公告第954号<BR>&nbsp;&nbsp;【发布日期】2007-12-18<BR>&nbsp;&nbsp;【生效日期】2007-12-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/blgg/t20080124_960829.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部公告第954号</font></p><br><br><br>    根据《兽药管理条例》和相关配套规章规定，经研究，现就中兽药制剂生产有关问题公告如下：<br><br>    一、兽药GMP证书载明中药提取工艺并取得中兽药制剂产品批准文号的企业，应按现行工艺组织生产，并组织制定中药提取物企业内控质量标准，建立中药提取物批生产、批检验记录及相关管理制度。<br><br>    二、兽药GMP证书未载明中药提取工艺但具备中药提取条件的中兽药制剂生产企业，应由省兽医行政管理部门按GMP规范要求组织现场核查，对已具备中药提取条件的企业出具证明材料。企业自取得证明材料的30个工作日内向我部履行GMP证书和《兽药生产许可证》变更手续。<br><br>    三、经核查不具备中药提取工艺的中兽药制剂生产企业，可采取委托加工中药提取物方式，解决中兽药制剂产品生产问题，但必须遵守以下规定：<br><br>    (一)中药提取物委托加工企业必须依据加工范围，从列入农业部发布的《具备中兽药提取物加工资质企业名录》中选择被委托加工企业。<br><br>    (二)中药提取物委托加工企业和被委托加工企业均必须取得《兽药GMP证书》和《兽药生产许可证》，签定委托加工合同(协议)，合同需明确处方、制法、检验方法和质量责任。中药提取物制法须与兽药法定标准收载的制剂的制法(未稀释前)一致。<br><br>    (三)为保证中药提取物和中药制剂质量，一是中药提取物被委托加工企业的生产设施和产能应具有被委托加工中药提取物的生产和质量保证能力。二是与中药提取物直接接触的包装材料和容器应符合药用要求，并符合GMP规范相关规定。三是中药提取物委托加工企业和被委托生产企业须同时具备低温保存和运输设施，并采取就近委托原则。<br><br>    (四)被委托加工企业应制定中药提取物内控质量标准。中药提取物委托加工企业应按照被委托加工企业提供的中药提取物内控质量标准，建立中药提取物批生产、批检验记录及储存、运输、使用等相关质量保证制度和操作规程。<br><br>    (五)变质、污染、未达到内控质量标准、不符合制剂生产质量要求的中药提取物不得用于中兽药制剂生产。中药提取物委托加工企业和被委托加工企业的生产活动，纳入兽药监管范畴。委托加工企业所在地兽医行政管理部门应加强对该类企业的监督检查，掌握委托加工和中兽药制剂生产情况，发现问题及时处理。<br><br>    (六)采取委托加工中药提取物方式生产中兽药制剂的企业，在申报产品批准文号时，应提供委托加工合同副本、中药提取物内控质量标准、工艺、制法及制剂稳定性等相关材料。委托关系发生变更的，应提前向农业部和省级兽医行政管理部门提交申请变更报告，并按上述要求提供相关材料，经农业部核准后，方可组织生产。未履行变更手续的，将注销相关产品批准文号。<br><br>    四、以委托加工中药提取物方式生产中兽药制剂生产活动截止到2009年12月31日，此期间生产的产品在有效期内允许继续销售使用。自2010年1月1日起，停止委托加工中药提取物活动。凡不具备中药提取条件的中兽药制剂生产企业拟继续生产相关产品，必须采购已有国家标准和产品批准文号、保证中兽药制剂质量及药效的中药原料。<br><br>    五、为实现资源有效利用，在确保质量的前提下，兽药集团公司内其中一家企业已具备中药提取设施并通过GMP检查验收的，可采取内部调剂方式为集团内其他企业提供中药提取物，暂不设截止期限。属于该类情况的，应遵守第三条有关规定，并于2008年1月31日前，经省级兽医行政管理部门上报企业概况、拟生产品种和证明性文件及相关资质批件复印件，我部将公布该类企业名录。<br><br>    六、国家鼓励中兽药原料和制剂研发工作。各有关单位要积极推进中兽药原料和相应制剂国家标准制定、注册申报工作，保证中兽药制剂生产和质量控制需要，促进中兽药事业健康发展。<br><br>    七、各省(区、市)兽医行政管理部门应尽快组织中兽药生产企业生产条件核查工作，于2008年1月31日前按统一格式(见附件)向我部上报具备接受中药提取物委托加工条件的企业名单，我部将公布该类企业名录。<br><br>    八、本公告所称中兽药制剂包括口服液、注射液、灌注剂等剂型，不包括其他制剂。中药提取物系指直接用于加工生产制剂产品，不需再进行提纯、精制的提取物质．<br><br>    附件：中药提取物被委托加工企业申报表<br><br>                                           二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

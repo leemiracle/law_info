@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教学〔2008〕1号<BR>&nbsp;&nbsp;【发布日期】2008-01-04<BR>&nbsp;&nbsp;【生效日期】2008-01-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/level3.jsp?tablename=1207787013128597&infoid=1207803905460638" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于进一步加强考研辅导活动管理的通知<br><br></font>(2008年1月4日  教学〔2008〕1号)</p><br><br><br>各省、自治区、直辖市教育厅(教委)、高等学校招生委员会，新疆生产建设兵团教育局，有关部门(单位)教育司(局)，各研究生招生单位：<br><br>    《教育部办公厅关于严禁研究生招生单位举办考研辅导班的通知》(教学厅〔2004〕15号)印发以来，有关单位认真落实通知精神，采取有力措施进行治理，取得了初步成效。但近一段时期，仍发现有一些社会机构以所谓考研辅导的名义蒙骗学生，获取不当利益，有的甚至没有办学许可手续，有些所谓的辅导班不择手段，恶性竞争；有些社会辅导活动公然在高校设点招揽生源，有的甚至长期租用高校内部设施；一些高校教职工组织、参与考研辅导活动的现象仍然存在。上述种种现象，不仅危害学生利益，干扰招生工作环境和秩序，也影响高校教育教学秩序，严重者甚至会影响教育公平，亟待加强监管并依法整治。现就有关要求通知如下：<br><br>    一、高度重视做好考研辅导活动监管和整治工作<br><br>    地方各级教育行政部门和研究生招生管理部门要切实提高对规范考研辅导活动重要性的认识，高度重视做好相关工作。高校及广大教职工要充分认清参与考研辅导活动的弊端和危害，提高思想认识，增强责任意识，自觉抵制各类考研辅导活动，共同坚决制止考研辅导现象的蔓延。<br><br>    二、明确对社会培训机构举办考研辅导活动的监管责任<br><br>    教育行政部门要按照《民办教育促进法》及其实施条例的规定落实对社会培训机构举办考研辅导活动的监管责任。社会培训机构须严格按照办学许可证核定的办学内容进行教育教学活动，不得擅自开展考研辅导活动。社会培训机构确需跨省(区、市)进行教育教学活动的，须经两地省级教育行政部门分别审核同意。对发布虚假招生简章(广告)骗取钱财或管理混乱，社会影响恶劣的，当地教育行政部门或者其他有关部门要依据《民办教育促进法》责令其限期改正，并予以警告；有违法所得的，没收非法所得；情节严重的责令停止招生，吊销办学许可证；构成犯罪的依法追究法律责任。<br><br>    三、坚决清理、取缔在高校内部进行的考研辅导活动<br><br>    高校内部任何部门和工作人员不得举办或参与举办考研辅导活动，不得向社会培训机构提供举办考研辅导活动的场所和设施，严禁社会培训机构进入校园以张贴简章、广告等各种方式进行考研辅导培训的招生宣传和组织活动，以维持高校正常教育教学秩序。<br><br>    四、考试大纲编写人员、命题人员须严守纪律<br><br>    考试大纲编写人员、命题人员不得公开其参与命题、考试工作的身份或以考试及命题参与者的身份从事教学、学术及各种社会活动，不参加任何形式的有关研究生招生考试的补习和辅导活动，不以任何形式透露试题的内容、命题工作情况和从事有关考试内容方面的任何咨询。<br><br>    五、加强对高校教职工和学生的教育、引导和管理<br><br>    高校要加强对广大教职工特别是命题人员的保密教育和纪律培训，要求教师恪守职业道德，自觉抵制社会不正之风的诱惑，把精力集中到校内教学上，努力提高教学质量。高校教职工不应参与社会上组织的各种考研辅导活动和编写考研辅导书籍或资料，不得组织学生参加社会上的各种考研辅导活动。高校要对备考的学生进行专门的教育活动，引导学生认真学习，注重平时积累，提高自身素质和能力，具备真才实学，自觉抵制片面应试倾向。尤其要帮助他们克服过度依赖考研辅导活动的心理，纠正盲目参加考研辅导活动的倾向，谨防受骗上当。<br><br>    六、加大监管力度，及时消除隐患<br><br>    各级教育行政部门、研究生招生管理部门和各级教育纪检监察部门要把考研辅导活动的治理工作作为当前国家教育考试环境综合整治的重要内容，纳入工作部署，加大监管力度。社会机构举办考研辅导活动情况要列入年检内容，对于违反规定的办学单位，审批机关按《民办教育促进法》相关规定予以严肃处理，对于未经许可非法举办考研辅导活动的机构和个人，当地教育行政部门要及时将有关情况报告工商、公安、税务、物价等职能部门，并配合有关部门坚决予以制止和取缔。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

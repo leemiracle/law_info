@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安函〔2009〕26号<BR>&nbsp;&nbsp;【发布日期】2009-03-20<BR>&nbsp;&nbsp;【生效日期】2009-03-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/haqh/200903/t20090326_135740.htm" target=_blank>国家核安全局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家核安全局2009年第一次核安全与环境专家委员会会议纪要<br><br></font>(国核安函〔2009〕26号)</p><br><br><br>各有关单位：<br><br>    2009年2月27-28日,我局在北京组织召开了2009年第一次核安全与环境专家委员会部分专家委员会议，审议了湖南桃花江、湖北咸宁、江西彭泽等三个内陆核电厂厂址选择阶段安全分析报告和环境影响评价报告书的审评结论，讨论了《核电规划厂址评价》的评价指标体系及有关问题，现将会议纪要印发给你们，请按有关要求做好相关工作。<br><br>    附件：2009年第一次核安全与环境专家委员会会议纪要<br><br>    二○○九年三月二十日<br>    <br><br>    附件：2009年第一次核安全与环境专家委员会会议纪要<br><br>    2009年2月27日至3月1日，2009年环境保护部（国家核安全局）第一次核安全与环境专家委员会（简称专家委员会）会议在北京召开。会议审议了湖南桃花江核电厂一、二号机组选址阶段文件（《湖南桃花江核电厂厂址安全分析报告》和《湖南桃花江核电厂环境影响报告书（选址阶段）》）的审评结论，审议了湖北咸宁核电厂一、二号机组选址阶段文件（《咸宁核电厂厂址安全分析报告》和《咸宁核电厂环境影响报告书（选址阶段）》）的审评结论和江西彭泽核电厂一、二号机组选址阶段文件（《江西彭泽核电厂厂址安全分析报告》和《江西彭泽核电厂环境影响报告书（选址阶段）》）的审评结论，研讨了有关核电选址评价指标体系。<br><br>    专家委员会27名委员，环境保护部（国家核安全局）、湖南省环保局、湖北省环保局、江西省环保局、环境保护部核与辐射安全中心、环境保护部北方核与辐射安全监督站、环境保护部上海核与辐射安全监督站、环境保护部广东核与辐射安全监督站、湖南桃花江核电有限公司、湖北咸宁核电有限公司、中电投江西核电有限公司及清华大学等有关单位的代表出席了本次会议（名单见附）。<br><br>    环境保护部（国家核安全局）、环境保护部核与辐射安全中心、湖南桃花江核电有限公司、湖北咸宁核电有限公司、中电投江西核电有限公司及清华大学分别就湖南桃花江核电厂一、二号机组选址阶段文件，湖北咸宁核电厂一、二号机组选址阶段文件，江西彭泽核电厂一、二号机组选址阶段文件的审评，核电选址评价指标体系研究及有关情况进行了汇报，专家委员会委员就具体问题进行了认真细致的讨论。会议纪要如下：<br><br>    一、关于三个内陆核电厂址两评报告审评<br><br>    （一）国家核安全局关于《湖南桃花江核电厂厂址安全分析报告》和《湖南桃花江核电厂环境影响报告书（选址阶段）》、《咸宁核电厂厂址安全分析报告》和《咸宁核电厂环境影响报告书（选址阶段）》以及《江西彭泽核电厂厂址安全分析报告》和《江西彭泽核电厂环境影响报告书（选址阶段）》的总体审评结论是合适的。<br><br>    （二）建议如下：<br><br>    1.鉴于湖南桃花江、湖北咸宁核电厂厂址的小风和静风频率均较高，目前对该条件下的大气弥散特征尚不明确，建议上述业主单位针对本厂址区域的小风和静风条件下的扩散模式作进一步研究，对相关评价结果进行复核。<br><br>    2.关于内陆核电厂厂址的非居住区边界：<br><br>    （1）鉴于内陆核电厂厂址大气扩散条件的复杂性，待最终的气象模型和机型确定后，申请者应对非居住区大小重新进行评定。<br><br>    （2）建议国家核安全局组织内陆核电厂申请单位对非居住区边界计算过程中采用的事故源项、照射途径以及大气弥散因子等进行研究和对比分析。<br><br>    3.由于内陆厂址的受纳水体为河流（或湖泊、水库），对公众照射途径比近岸海域更多、更敏感（如饮水、灌溉、汇水区域内的沉降物汇入到受纳水体），建议各业主单位就进入受纳水体的源项、流出物的累积效应、受纳水体的扩散特征和流出物通过液态途径对环境造成的影响进行研究，在核电厂的设计中采取有效防范措施，并考虑液体废物排放的最小化。<br><br>    针对内陆核电厂环境特点，加强事故情况下放射性废液排放源项及防范措施的研究。<br><br>    4.建议进一步分析冷却塔对周围环境及放射性气载流出物输送的影响。<br><br>    5.鉴于内陆厂址人口密度较大、人口居住相对分散等特点，建议业主和地方政府相关部门及早考虑应急计划的相关事项。<br><br>    6.建议针对内陆厂址条件进一步提高放射性废物处理系统的技术水平，尽量考虑采用最佳可行技术。<br><br>    7.呼吁政府有关部门尽早落实区域性低中放固体废物处置场的建设。<br><br>    二、关于核电选址评价指标体系研究<br><br>    （一）在我国核电加快发展的背景条件下，开展核电选址评价指标体系研究，对进一步规范我国核电选址工作，保证我国核电的有序和顺利发展具有重要的现实意义。<br><br>    （二）评价指标体系较全面地反映了核与辐射安全、环境保护和区域规划等方面的选址要求，指标范畴和设置层次较为合理，所提出的厂址评价指标体系基本可行，能够满足本项目评价任务的要求。 <br><br>    （三）建议课题组根据专家意见进一步修改、完善指标体系，例如课题名称、受纳水体功能划分等问题。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

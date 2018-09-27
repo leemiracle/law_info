@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2005]860号<BR>&nbsp;&nbsp;【发布日期】2005-09-01<BR>&nbsp;&nbsp;【生效日期】2005-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200509150911258611" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于进一步加强货物运输业发票审核检查工作的通知<br><br></font>(国税函[2005]860号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br><br>    自2005年1月《国家税务总局关于增值税专用发票和其他抵扣凭证审核检查有关问题的补充通知》（国税发〔2005〕6号）下发以来，各级税务机关按照总局要求，精心组织、协调配合，做了大量艰苦细致的工作，取得一定成绩。但从近期查处的虚开发票案件看，信息采集质量不高，审核检查不到位，协查运转不顺畅等问题仍然存在。利用虚假货物运输发票骗抵税款问题时有发生。为此，各地必须进一步提高货物运输业发票信息采集质量，不断加强货物运输业发票的审核检查工作，现将有关问题通知如下：?<br><br>    一、地税征收机关必须对所有开具的货物运输业发票依法征税，并认真核对纳税人填报的清单，同时要将征税以后的货物运输业发票存根联数据形成的清单完整、准确上传。国税征收机关必须对纳税人填报的清单进行认真核对，并将清单信息完整、准确上传。?<br><br>    省级国家税务局、地方税务局必须按规定的时限将采集的货物运输业发票抵扣联、存根联数据上报总局，以确保总局及时进行稽核比对。对未按时上传数据、影响全国稽核比对的地区，总局将予以通报批评。?<br><br>    二、对今年以来比对异常的货物运输业发票，各地税务机关要集中时间、集中力量进行审核检查，不仅要查票面信息与采集的清单电子信息，还要查有关的账务处理、资金往来情况，确保每票必查，查深查细，查出结果。?<br><br>    三、比对异常的货物运输业发票先由抵扣方主管国税机关进行审核检查，经审核检查后，仍不能查清原因的，及时向开票方主管地税机关传递信息，发函核查。具体的信息传递办法按《国家税务总局关于增值税专用发票和其他抵扣凭证审核检查有关问题的通知》（国税发〔2004〕119号）执行。?<br><br>    地税机关在收到国税机关转来的需要审核检查的货物运输业发票后，对属于本税务机关管辖范围的，应及时进行审核检查，并将审核检查结果反馈国税机关；对不属于本税务机关管辖范围的，应及时转交其主管地税机关，由主管地税机关进行审核检查，并将审核检查结果反馈国税机关；对无法确定主管地税机关的，应及时退回委托审核检查的国税机关。?<br><br>    四、对国税机关、地税机关不认真核对纳税人填报的清单并及时准确上传、不进行审核检查、不按审核检查结果进行相应处理、不按规定传递、反馈有关信息的，以及地税机关不按本通知第一条的规定依法征税的（如不按规定税率征收、漏征税款等），按执法责任制的有关规定追究有关单位和人员的责任。?<br><br>    五、各省级国税机关、地税机关必须严格按照《国家税务总局关于增值税专用发票和其他抵扣凭证审核检查有关问题的通知》（国税发〔2004〕119号）文件规定的上报时限和上报路径，及时向总局上报审核检查结果。?<br><br>    六、2005年1-6月总局下发的货物运输业发票缺联票数据存在问题，总局将重新下发这部分缺联票数据，请各地到130.9.1.101服务器的目录下（“/data/download/补2005年1月-6月货运缺联票/”）获取新的缺联发票数据。各地下载数据后，要与前期总局下发的缺联票数据进行核对，对未进行审核检查的缺联票要抓紧组织审核检查。<br> <br>                                       国家税务总局<br>                                    二○○五年九月一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

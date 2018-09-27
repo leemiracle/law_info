@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局、财政部、中国人民银行<BR>&nbsp;&nbsp;【发布文号】国税发[2005]142号<BR>&nbsp;&nbsp;【发布日期】2005-11-01<BR>&nbsp;&nbsp;【生效日期】2005-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200511031645165849" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局、财政部、中国人民银行关于国家税务局系统行政性收费使用财政票据问题的通知<br><br></font>(国税发[2005]142号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、财政厅(局)，中国人民银行各分行、营业管理部、省会(首府)城市中心支行，深圳、大连、青岛、宁波、厦门中心支行：<br><br>    为进一步规范国家税务局系统行政性收费行为，落实《财政部关于印发<行政事业性收费和政府性基金票据管理规定>的通知》(财综字[98]104号)和《财政部关于国税局系统收取行政事业性收费使用票据问题的函》(财综函[2003]5号)的有关要求，方便税务机关征收开票、缴库和管理，我们设计了国家税务局系统收取税务登记证费和发票工本费(以下简称：“两费”)专用财政票据(以下简称：财政票据)，由财政部统一印制。自2006年1月1日起，各地国家税务局收取“两费”应使用财政票据，现将有关问题通知如下：<br><br>    一、票据的种类<br><br>    财政票据根据现行“两费”收缴所使用的相关税收票证设计，分为《国家税务局系统行政性收费专用缴款书》、《国家税务局系统行政性收费专用收据》、《国家税务局系统行政性收费收入退还书》和《国家税务局系统行政性收费(电子)转账专用收据》四种票据，收据联及收入退还书的收账通知联套印财政部的‘‘财政票据监制章”，边沿尺寸统一为13cm×19cm(此尺寸不包括滚筒式计算机票的孔边尺寸)。<br><br>    根据目前国家税务局系统的实际使用情况，《国家税务局系统行政性收费专用缴款书》、《国家税务局系统行政性收费专用收据》和《国家税务局系统行政性收费收入退还书》三类票据均设置手工填开票(订本式，设金额分位线及计价单位)、平推式机打票(订本式，不设金额分位线及计价单位)和滚筒式机打票三种，《国家税务局系统行政性收费(电子)转账专用收据》设置平推式机打票和滚筒式机打票两种。<br><br>    二、票据的联次及用途<br><br>    (一)国家税务局系统行政性收费专用缴款书：交款单位(人)直接向银行交纳“两费”时，或税务机关向银行汇总交款时使用该凭证。<br><br>    该凭证一式六联，各联用途及颜色为：<br><br>    第一联：(收据)收款银行盖章后退交款单位(人)作交费凭证(白纸黑油墨)；<br><br>    第二联：(付款凭证)交款单位(人)的支付凭证，开户银行作借方传票(白纸蓝油墨)；<br><br>    第三联：(收款凭证)收款国库作贷方传票(白纸红油墨)；<br><br>    第四联：(回执)国库收款盖章后退税务机关作税收会计凭证(白纸绿油墨)；<br><br>    第五联：(报查)银行收款盖章后退基层税务机关作税收会计凭证(白纸紫油墨)；<br><br>    第六联：(存根)基层税务机关留存(白纸黑油墨)。<br><br>    (二)国家税务局系统行政性收费专用收据：税务机关自收“两费”现金时给交款单位(人)开具该凭证。<br><br>    该凭证一式三联，各联用途及颜色为：<br><br>    第一联：(收据)交款单位(人)作交费凭证(白纸红油墨)；<br><br>    第二联：(报查)定期上报县级税务机关备查(白纸蓝油墨)；<br><br>    第三联：(存根)税务机关留存作税收会计凭证(白纸黑油墨)。<br><br>    (三)国家税务局系统行政性收费收入退还书：预交发票工本费的交款单位(人)申请退还预交款余额的，或者交款单位(人)发生多交“两费”的，税务机关将已收取入库的“两费”从国库退还给交款单位(人)时开具该凭证。<br><br>    该凭证一式五联，各联用途及颜色为：<br><br>    第一联：(报查)退款国库盖章后退税务机关作税收会计凭证(白纸黑油墨)；<br><br>    第二联：(付款凭证)退款国库作借方传票(白纸蓝油墨)；<br><br>    第三联：(收款凭证)收款单位(人)的开户银行作贷方传票(白纸红油墨)；<br><br>    第四联：(收账通知)收款单位(人)的开户银行退收款单位(白纸绿油墨)；<br><br>    第五联：(付账通知)国库随收入日报表退税务机关作税收会计凭证(白纸紫油墨)。<br><br>    (四)国家税务局系统行政性收费(电子)转账专用收据：交款单位(人)采用信用卡(或磁卡)、支票和电子结算等转账结算方式交纳“两费”时，以及税务机关通过税收电子联网缴税系统收取“两费”时，开具该凭证。该凭证不得用于收取现金。<br><br>    该凭证一式两联，各联用途及颜色为：<br><br>    第一联：(收据)税务机关留存作税收会计凭证(白纸黑油墨)；<br><br>    第二联：(存根)交款单位(人)作交费凭证(白纸红油墨)。<br><br>    通过税收电子联网缴税系统收取“两费”的，税务机关可以只打印该凭证第二联给交款单位(人)做交费凭证。<br><br>    三、票据的填写<br><br>    (一)“预算科目”栏：“名称”填写“税务行政性收费收入”；相应按照年度政府预算收支科目填写科目编码。<br><br>    (二)“收款国库”栏：填写办理该项预算收入入库手续的当地国库名称。<br><br>    (三)“项目”栏：可按“税务登记证收费”、“专用发票收费”和“普通发票收费”的项目填列，也可以按发票详细种类分别填列。税务机关向银行汇总缴款时按“税务登记证收费”、“专用发票收费”和“普通发票收费”的项目汇总填列。<br><br>    (四)“单价”栏：按税务登记证和发票种类与“项目”栏对应分行填写单价。税务机关向银行汇总缴款时不填。<br><br>    (五)“数量”栏：按所购发票的种类分行填写实购数量，领取税务登记证的不填。<br><br>    (六)“金额”栏：按单价乘以数量的实际金额分行填写。<br><br>    (七)行政性收费收入退还书的“退库性质”栏：按误收退库、结算退库等性质填写；“预算科目”、“收款单位(人)”以及“原‘两费’收取项目名称”栏的填写要与原入库凭证填写一致。<br><br>    (八)《国家税务局系统行政性收费专用缴款书》、《国家税务局系统行政性收费专用收据》和《国家税务局系统行政性收费(电子)转账专用收据》应加盖征税专用章，《国家税务局系统行政性收费收入退还书》应加盖退库专用章。<br><br>    四、票据的管理<br><br>    财政票据视同税收票证管理，其保管、使用、结报、缴销、作废、停用、盘点、损失处理、核算、审核、检查及相关责任处罚执行《税收票证管理办法》及《财政部关于印发<行政事业性收费和政府性基金票据管理规定>的通知》(财综字[19983104号)。其中《国家税务局系统行政性收费专用收据》视同现金严格管理，并严密核销手续。<br><br>    各地国家税务局应在《税收票证用存报表》中增设“6．国家税务局系统行政性收费专用缴款书”、“7．国家税务局系统行政性收费专用收据”、“8．国家税务局系统行政性收费收入退还书”、“9．国家税务局系统行政性收费(电子)转账专用收据”，原“6．其他各种票证”顺延为“10．其他各种票证”，反映财政票据的用存情况，按年上报国家税务总局。<br><br>    五、“两费”的缴退库和会统核算<br><br>    启用财政票据后，“两费”收入仍视同税收收入管理。“两费”的收取、缴库、退库流程与现行税款征收、缴库、退库相同，税务机关的会统核算按《国家税务总局关于国家税务局系统行政性收费缴库和会统核算有关事项的通知》(国税发[2001]58号)有关要求处理。<br><br>    六、票据的计划编制、印制、发运和费用结算<br><br>    财政票据由财政部统一印制发放，票据各联均采用防伪彩纤无碳复写纸。<br><br>    (一)计划编报和费用结算<br><br>    每年10月1日至12月5日，各省、自治区、直辖市和计划单列市国家税务局应向财政部收费票据监管中心报送下年度财政票据需用计划(具体格式详见附件一)，同时按国家有关部门核定的价格将票据款汇往财政部收费票据监管中心，发运费用按实际发生金额与发货单位另行结算。有关印制费用标准详见附件二。<br><br>    税务机关支付的财政票据印制和发运费用列入本单位年度经费预算。各省级国家税务局与用票单位的费用结算方式，由各地自定。<br><br>    (二)票据印制和发运<br><br>    财政部根据各省、自治区、直辖市和计划单列市国家税务局报送的年度需用计划，印制“两费”财政票据，并在每年的1月5日前将票据一次分送至各省、自治区、直辖市和计划单列市国家税务局。各省、自治区、直辖市和计划单列市国家税务局收到财政票据后填制发放回执(具体格式详见附件三)，一份留存作入库记账凭证，一份盖章后退财政部收费票据监管中心。    <br><br>    七、相关软件的修改<br><br>    各地国家税务局收到本通知后，应及时修改开票软件，综合征管软件由国家税务总局统一修改，确保按时启用财政票据。<br><br>    附件：1．国家税务局系统行政性收费财政票据需用计划表<br>          2．国家税务局系统行政性收费财政票据单价表<br>          3．国家税务局系统行政性收费财政票据发运回执<br><br>                       国家税务总局 财政部 中国人民银行<br>                             二○○五年十一月一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

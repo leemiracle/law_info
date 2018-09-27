@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2009-12-25<BR>&nbsp;&nbsp;【生效日期】2010-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohbgt/s6718/200912/45420.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于印发《卫生系统电子认证服务管理办法（试行）》的通知 <br><br></font></p><br><br><br>    各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    为保障卫生信息系统安全，规范卫生系统电子认证服务体系建设，满足卫生信息系统在身份认证、授权管理、责任认定等方面的信息安全需求，依据《中华人民共和国电子签名法》和《电子认证服务管理办法》（工业和信息化部令2009年第1号），结合卫生系统业务特点，我部制定了《卫生系统电子认证服务管理办法（试行）》，并经部务会讨论通过。现印发给你们，请遵照执行。<br><br>    附件：卫生系统电子认证服务管理办法（试行）.doc<br><br>    二○○九年十二月二十五日<br><br>    附件<br><br>    卫生系统电子认证服务管理办法（试 行）<br><br>    <font class='zhang'>第一章</font> 总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为保障卫生信息系统安全，规范卫生系统电子认证服务体系建设，依据《中华人民共和国电子签名法》和《电子认证服务管理办法》（工业和信息化部令2009年第1号），结合卫生系统业务特点，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法适用于在全国卫生系统范围内管理、使用和提供电子认证服务的管理方、使用方和提供方。管理方包括卫生部和各省级卫生行政部门信息化工作领导小组；使用方包括全国各级卫生行政部门和各级各类医疗卫生机构及其工作人员、涉及卫生业务的企事业单位和社会公众；提供方包括为卫生系统提供电子认证服务的电子认证服务机构。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本办法所称电子认证服务，是指电子认证服务机构按照卫生系统电子认证服务体系相关技术标准和服务规范，为使用方提供数字证书的颁发、更新、吊销、密码解锁、密钥恢复以及证书应用等服务，从而满足卫生信息系统在身份认证、授权管理、责任认定等方面的信息安全需求。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 坚持合法性原则、应用导向原则、市场竞争原则、一证多用原则，依托依法设立的第三方电子认证服务机构，按照“政府监管、企业承办”的方式，建设卫生系统电子认证服务体系。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 卫生部信息化工作领导小组负责全国卫生系统电子认证服务体系的建设和管理工作，负责组织制订卫生系统电子认证服务相关技术标准和服务规范。各省级卫生行政部门信息化工作领导小组负责指导、推进本辖区卫生信息系统开展安全、规范的电子认证服务应用。<br><br>    <font class='zhang'>第二章</font> 电子认证服务机构的管理<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 电子认证服务机构面向卫生系统提供电子认证服务应当具备以下必要条件：<br><br>    （一） 取得工业和信息化部颁发的《电子认证服务许可证》；<br><br>    （二） 符合《电子政务电子认证体系建设总体规划》（国密局联字〔2007〕2号）中关于电子认证体系建设的相关要求；<br><br>    （三） 具有符合《卫生系统电子认证服务规范》、《卫生系统数字证书格式规范》、《卫生系统数字证书介质技术规范》、《卫生系统数字证书应用集成规范》和《卫生系统数字证书服务管理平台接入规范》等的电子认证服务体系；<br><br>    （四） 符合法律、行政法规规定的其他条件。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 卫生部信息化工作领导小组办公室负责选择卫生部及其直属单位的电子认证服务机构。各省级卫生行政部门信息化工作领导小组办公室负责选择本辖区的电子认证服务机构。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 各省级卫生行政部门信息化工作领导小组办公室选定电子认证服务机构后，应当将服务机构名单及其相关材料向卫生部信息化工作领导小组办公室上报，并要求电子认证服务机构在开展服务前接入卫生部数字证书服务管理平台。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 鼓励各地卫生系统数字证书应用单位优先选择已接入卫生部数字证书服务管理平台的电子认证服务机构提供服务。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 卫生部信息化工作领导小组办公室与各省级卫生行政部门信息化工作领导小组办公室共同对各电子认证服务机构的服务质量及开展情况进行定期检查。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 卫生部信息化工作领导小组办公室通过数字证书服务管理平台收集、汇总电子认证服务机构面向卫生系统证书发放和服务质量反馈等信息，综合掌握全国卫生系统电子认证服务的整体应用情况。<br><br>    <font class='zhang'>第三章</font> 电子认证服务机构的服务要求<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 电子认证服务机构应当按照《卫生系统电子认证服务规范》的要求，建立全面、规范、安全、高效的运行服务体系，并至少提供以下服务： <br><br>    （一） 数字证书的颁发、更新、吊销、密码解锁、密钥恢复等服务；<br><br>    （二） 数字证书及黑名单的查询与下载服务；<br><br>    （三） 为数字证书用户提供应用支持服务；<br><br>    （四） 提供数字证书相关的培训服务。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 电子认证服务机构应当妥善保存数字证书业务申请材料，并承担保密责任，不得泄露或遗失，信息保存期至少为证书到期后5年。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 电子认证服务机构应当建立信息安全保障机制，针对相关资产、人员、物理环境和软件系统等制订安全策略及管理制度，采取有效的安全保障措施，并对安全策略的执行情况进行有效的监督检查，确保运行服务安全可靠，满足卫生信息系统业务连续性要求。<br><br>    <font class='zhang'>第四章</font> 数字证书的应用管理<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 凡涉及国家安全、社会稳定、公众利益等方面的各类重要卫生信息系统，应当按照国家法律法规、信息安全等级保护制度等要求，采用电子认证服务，解决身份认证、授权管理、责任认定等安全问题，主要包括：<br><br>    （一） 涉及公共卫生业务的信息系统；<br><br>    （二） 涉及医疗保健的医疗卫生信息系统；<br><br>    （三） 网上申报、年检、备案、资质认定等行政审批信息系统；<br><br>    （四） 各类网上招标采购信息系统；<br><br>    （五） 其他重要卫生信息系统。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 使用电子认证服务的各类卫生信息系统，应当遵循《卫生系统数字证书应用集成规范》进行建设，实现数字证书的各项安全功能。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 纳入卫生系统电子认证服务体系的电子认证服务机构，其颁发的数字证书应当能够在各类卫生信息系统中进行注册、授权及使用，确保实现互信互认、一证多用。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 数字证书使用单位应当加强证书管理，指导并要求证书持有人妥善保管数字证书介质。出现数字证书介质丢失或损坏等异常情况时，证书持有人应当立即联系电子认证服务机构进行妥善处理。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 数字证书原则上由信息系统建设单位统一采购配发并负责初次办理费用，其年服务费用由使用单位负责；对于向社会提供服务的信息系统，其费用由服务申请者支付。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 多个卫生信息系统覆盖相同用户群体时，由卫生部和各省级卫生行政部门信息化工作领导小组办公室协调各信息系统建设单位，分摊数字证书的初次办理费用。<br><br>    <font class='zhang'>第五章</font> 附 则<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 各省级卫生行政部门信息化工作领导小组应当按照本办法第六条要求，对本辖区已开展服务的电子认证服务机构进行评估。符合第六条各项条件的，方可接入卫生部数字证书服务管理平台并继续开展服务；不符合第六条规定条件的，应当责令其进行整改，如1年内仍达不到相关要求的，应当终止其服务。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 已建成但尚未采用数字证书的重要卫生信息系统，应当尽快采用数字证书，实现身份认证、授权管理和责任认定；已经采用数字证书的重要卫生信息系统应当尽快按照本办法的有关要求进行系统改造，纳入卫生系统电子认证服务体系。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 本办法由卫生部信息化工作领导小组办公室负责解释。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 本办法自2010年1月1日起试行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

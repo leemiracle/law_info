@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2004]70号<BR>&nbsp;&nbsp;【发布日期】2004-06-09<BR>&nbsp;&nbsp;【生效日期】2004-06-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=84910" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于进一步加强反避税工作的通知<br><br></font>(国税发[2004]70号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br><br>    为维护国家税收权益、保障税收公平和监控管理税源，总局于1998年5月6日下发了《关联企业间业务往来税务管理规程》（国税发〔1998〕59号文，以下简称《规程》），《规程》下发后，在各级税务机关共同努力下，反避税工作取得了显著成效，初步建立了符合国际惯例的转让定价税务管理机制。但随着我国改革开放不断深入和“请进来、走出去”战略的实施，反避税工作的重要性日渐突出。为了全面提升反避税工作水平，各地要进一步更新观念，完善工作机制，重视基础信息建设，强化国内联查和国际合作，配备充足的专职人员。现就具体要求通知如下：<br><br>    一、加强反避税与其它征管工作的衔接与协调?<br><br>    反避税管理是税收征管的重要内容和税源监控的重要手段，与纳税申报、审核评税、税务检查（审计）等日常征管工作有着紧密的联系。反避税调查和最终调整必须建立在全面掌握和了解企业生产经营情况、深入分析企业财务指标、多渠道查询分析可比信息的基础之上。因此，各地在反避税工作中，要将反避税与其他日常税收征管工作相结合，通过税收管理资源的共享与优化，提高反避税工作的质量。在纳税申报环节，要全面完整准确地审核企业关联申报的基本情况，对于未按规定申报或申报不实的企业，严格按照有关规定予以处罚，提高申报的真实性、可靠性；在审核评税环节，发现避税嫌疑户，要及时移交国际税收管理部门，实施反避税调查；在日常检查、审计环节，发现避税问题的，应按《涉外税务审计规程》的要求，将涉及反避税的工作底稿及有关资料移交国际税收管理部门，由反避税专业人员实施专项调查。?<br><br>    二、规范操作，不断完善反避税工作机制?<br><br>    （一）提高避税嫌疑户选案质量。各地在筛选避税嫌疑企业时，要结合年度所得税汇算清缴、审核评税和税务审计等方面的资料，重点审查长期亏损、微利却不断扩大经营规模的企业和跳跃性赢利企业，以增强选案的针对性。进入调查前，要进行详细的案头审计，认真分析企业历年生产经营状况和关联交易类型，并与同类企业的可比信息进行对比，确定存在的避税疑点，提高选案的质量。对企业调查要与稽查部门相协调，正式立案要按照《规程》的规定履行报批手续。?<br><br>    （二）深入开展转让定价调查。各地要严格按照《规程》规定的程序和方法开展工作，认真审核、分析企业提供的资料，准确定性关联交易，审查关联交易定价是否真实、合理，了解企业职能、行业背景等因素，积极寻找可比企业信息，为选择适当的调整方法、确定合理的调整方案提供依据。要注意与进出口税收管理部门配合，运用进口税收和出口退税有关资料进行相关分析。?<br><br>    （三）合理确定转让定价调整。各地在选择调整方法时，应在充分收集和详细调查分析可比信息资料的基础上，根据企业所承担的职能和风险、市场经济条件的变化、关联交易的类型和性质、受控交易与非受控交易的差异，结合各种调整方法的适用条件，选用合适的转让定价调整方法，合理确定调整方案。在选择调整方法时，要注意各种方法的不同特点和适用的不同情况，可比非受控价格法、再销售价格法、成本加成法三种传统调整方法对可比性分析要求较高，对存在的差异要进行量化修正。各地可积极尝试采用利润分割法、交易净利润法等较为新型的转让定价调整方法，并在实践过程中不断探索和总结完善。调整方案确定后，要按照《规程》及有关文件的规定履行报批手续，主管领导应对转让定价调查审计全过程中程序的完备性、方法的适用性、调整的合理性等进行把关。结案报告应报上一级税务机关备案。<br><br>    （四）强化跟踪管理，巩固反避税成果。对结案企业的跟踪监控是巩固反避税成果的主要手段。要按照《规程》的要求，对结案企业实施三年的跟踪管理，跟踪监控企业投资、经营状况、关联交易、纳税申报额等指标及其变化情况。通过对企业年度财务、会计报表的分析，评价企业的经营成果，对于仍存在转让定价避税问题的企业，在跟踪期内做税务调整，以巩固反避税成果。<br><br>    （五）积极开展预约定价谈签工作。为促进转让定价工作从事后调查调整向税源管理的转变，节约调查成本，降低税收风险，要按照有关规定，借鉴经验，积极受理预约定价申请、充分准备相关资料，认真开展审核评估、慎重进行协议谈签，严格监控执行情况，把预约定价工作推向更高层次。?<br><br>    （六）推动反避税工作的集中统一管理。反避税工作的管理对象主要是存在国内外关联交易的大型跨国企业，由于反避税管理的难度较大、专业化要求较高，如果在较低管理层面上采用分散管理的方式，上行层级过多，不利于信息沟通和跨区域联查、协查工作的开展，影响反避税工作的质量和效率。因此，要积极推进反避税工作的集中统一管理，根据本地区所辖大型外商投资企业的数量，适当上收管理层次，在基层税务机关进行属地管理的基础上，由地市级税务局实施集中优化的反避税管理，形成高水平、高效率的反避税管理能力。?<br><br>    三、整合信息，逐步充实反避税信息资料库?<br><br>    获取可比信息是转让定价调查调整得以完成的关键因素，拓宽可比信息来源渠道是提高转让定价工作效率的有效途径。要及时获取海关、银行、工商、外经贸、财政、统计、外管、行业主管局（行业协会）等部门发布的各类信息、动态。通过因特网和国际税收情报交换渠道，广泛收集、分析、整理国内外各行业的货物价格、无形资产价格、劳务费率、贷款利率、行业利润率等资料，建立适合本地区工作需要的反避税信息资料库。对于运用反避税信息管理系统的地区，要进一步扩大信息来源渠道，充实反避税信息资料库，条件成熟的，应并入统一的信息“一户式”管理；没有运用反避税信息管理系统的地区，要通过信息的“一户式”管理，实现反避税基础信息最大程度的利用和共享。?<br><br>    要利用税务机关已掌握的“口岸电子执法系统”出口退税子系统中的出口货物报送单电子数据，进一步充实反避税价格信息库。通过出口货物报送单“证明联”的商品编码、商品中文品名、单价、数量、计量单位、出口日期等信息，将被调查企业的关联出口交易价格与同期相同海关出口商品编码出口商品的价格进行比较，初步判定企业关联出口交易价格是否处于同期同类出口商品的价格区间。同时，到出口相同海关商品编码的企业，调查该出口商品的交易条件，货物的品名、品牌、规格、型号、性能和结构等，以及购销环节和购销环境等情况，确定该出口商品交易价格与被调查企业出口价格的可比性，进而寻找出可比价格。<br><br>    四、积极研究新问题，强化大户联查制度?<br><br>    要及时研究避税与反避税领域出现的新问题，分析避税成因，发现法律法规的漏洞，研究应对措施，并及时向上级税务部门提出改进意见。在实践中要开拓创新、大胆探索、努力尝试解决新型避税问题的新思路、新举措，不断提高税源监管能力。对于目前较为突出的利用避税地、资本弱化、假“来料加工”企业进行避税的问题，各地要重视调查研究，寻求有效的解决途径。<br><br>    各地要认真按照总局的部署开展大户联查工作，在人力物力的投入上提供充分保障。严格按照标准选择调查对象，并充分考虑成本效益原则，调查中注意协调配合，发挥全国联查的优势，逐步建立科学高效的联查模式，在现行的联查工作方式外，可开展产业链的纵向联查、同行业的横向联查和个别关联交易行为的专项调查等创新模式。?<br><br>    五、重视队伍建设?<br><br>    反避税工作专业性强、难度大、人员素质要求高。各地税务机关要从战略高度，重视反避税工作，配备足够的反避税专职人员，以保证反避税工作的实际需要。要加大反避税经费的投入，改善反避税工作环境和办公条件。要结合本地区具体情况，制定反避税人才培养发展规划，加大反避税培训力度，拓宽培训渠道，提高反避税工作人员的素质。<br><br><br>国家税务总局 <br>二○○四年六月九日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

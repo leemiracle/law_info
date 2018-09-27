@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福州市<BR>&nbsp;&nbsp;【发布文号】榕政办〔2007〕189号<BR>&nbsp;&nbsp;【发布日期】2007-11-01<BR>&nbsp;&nbsp;【生效日期】2007-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/sqswj/fz/200711/t20071115_45288.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福州市人民政府办公厅关于2007年第三季度全市网站运行维护情况的通报<br><br></font>(榕政办〔2007〕189号)</p><br>    <br><br>各县（市）区人民政府, 市直各有关单位：<br><br>    为进一步提高我市政府网站建设管理水平，迎接全省政府网站评比活动，今年7月份以来，市政务信息中心继续加强对全市各级各部门网站运行维护情况的监督检查。现将今年三季度全市网站检查评比情况通报如下：<br><br>    一、今年三季度全市网站运行维护基本情况<br><br>    今年7－9月，全市共有44个网站达到新闻信息更新的A类、B类标准，占全市政府网站总量的比重分别达39.6%、52.1%；45个网站达到政务信息公开的A类、B类标准，占全市政府网站总量的比重分别达39.6%、54.2%,比今年二季度增加4个；30个网站能够提供相关网上办事表格下载，占全市政府网站总量的62.5%；41个网站保留网上互动功能栏目，占全市政府网站总量的85.4%，比今年二季度增加3个（见附件二、三）。<br><br>    从市直部门网站检查情况看，在新闻信息更新方面，35个部门网站均能每周更新一定数量的政务新闻信息。其中，市物价局等14个网站达到A类标准，占部门网站总量的40%；市旅游局等17个网站达到B类标准，占部门网站总量的51.4%；市建设局等3个网站达到C类标准，占部门网站总量的8.6%。在网上政务信息公开方面，35个市直部门网站全部做到政务信息公开上网。其中，市档案局等13个网站达到A类标准，占市直部门网站总量的37.1%，比今年二季度增加3个；市工商局等20个网站达到B类标准，占部门网站总量的57.1%。在网上办事（办事表格上网）方面，市外经局等24个网站能够提供相关网上办事表格下载，占市直部门网站总量的68.6%。在网上互动功能方面，市外事办等29个网站保留网上互动功能栏目，占市直部门网站总量的82.9%。<br><br>    从县（市）区政府网站检查情况看，全市所有县（市）区都已开通了政府网站，除平潭县由于网站服务器所在地区近期电压不稳，导致在检查期间服务器暂时关闭、无法访问外，在新闻信息更新方面，福清市等5个网站达到A类标准，占县（市）区网站总量的38.5%；仓山区等7个网站达到B类标准，占县（市）区网站总量的53.9%，比今年二季度增加1个。在网上政务信息公开方面，长乐市等6个网站达到A类标准，占县（市）区网站总量的46.2%，比今年二季度增加1个；晋安区等6个网站达到B类标准，占县（市）区网站总量的46.2%。在网上办事（办事表格上网）方面，马尾区等6个网站能够提供相关网上办事表格下载，占县（市）区网站总量的46.2%，比今年二季度增加1个。在网上互动功能方面，12个县（市）区政府网站都开通了网上互动功能栏目，比今年二季度增加1个。<br><br>    总的看来，全市各级各类政府网站认真贯彻落实郑松岩市长关于加强政府网站建设的重要批示精神，在新闻更新、政务信息公开、便民服务等方面有新的提高。但要清醒地看到，与国内先进城市的政府网站相比，目前我市大多数政府网站建设的理念已明显落后，达不到新时期深化行政审批制度改革、推进政府信息公开等重要工作对政府网站建设提出的新要求，网上发布政务信息、提供在线服务、与公众互动交流等方面仍存在较多不足，亟需在今后工作中切实加以改进。<br><br>    二、下一阶段工作重点<br><br>    今年以来，国家、省里出台了一系列关于加强政府网站建设的文件，加大了政府网站绩效评估工作力度。近期，省政府将在全省范围内全面开展政府网站评比活动，并将对存在问题的政府网站予以通报批评。因此，下一阶段，全市各级各有关部门要继续认真贯彻落实郑松岩市长关于做好政府网站建设的重要批示精神以及《福州市人民政府办公厅关于加强政府网站建设和管理工作的通知》（榕政办〔2007〕118号）等一系列文件精神，针对第三季度检查中发现的问题，抓紧做好整改工作，进一步提高网站建设和管理水平。要严格按照《福建省人民政府办公厅关于开展我省政府网站绩效评估的函》（闽政办函[2007]74号）文件的要求，对栏目进行重新调整设计，加快网站升级改版，切实提升网站公共服务水平。市政务信息中心从今年第四季度开始，将重新制定新的政府网站评比标准，加强检查评比，促进全市政府网站建设与服务水平迈上新台阶。<br><br>    附件： 1. 新闻信息更新、网上政务信息公开评分标准<br><br>    2．2007年第三季度全市政府部门网站运行维护检查情况汇总表<br><br>    3. 福州市政府网站建设情况调查一览表<br><br>    二○○七年十一月<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

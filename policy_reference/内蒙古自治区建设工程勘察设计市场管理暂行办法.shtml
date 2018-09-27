@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政办发〔2007〕66号<BR>&nbsp;&nbsp;【发布日期】2007-06-09<BR>&nbsp;&nbsp;【生效日期】2007-06-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nmg.gov.cn/pages/2007621/20076212712013331.htm" target=_blank>内蒙古自治区 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区建设工程勘察设计市场管理暂行办法<br><br></font>(内政办发〔2007〕66号 二○○七年六月九日)</p><br><br><br><font class='zhang'>第一章</font>   总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强全区建设工程勘察设计市场管理，进一步规范建设工程勘察、设计市场行为，保证建设工程勘察、设计质量，维护社会公众利益及公共安全，根据《<a href=javascript:ROF(29133,0) class=alink>中华人民共和国建筑法</a>》、《<a href=javascript:ROF(35912,0) class=alink>建设工程勘察设计管理条例</a>》、《<a href=javascript:ROF(34449,0) class=alink>建设工程质量管理条例</a>》、《<a href=javascript:ROF(90685,0) class=alink>内蒙古自治区建筑市场管理条例</a>》等有关法律、法规及规章，结合自治区实际，制定本办法。<br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  凡在自治区行政区域内从事建设工程勘察、设计活动的企业、个人及勘察设计市场其他各方主体必须遵守本办法。<br>    本办法所称建设工程勘察设计市场（以下简称勘察设计市场）活动，是指从事建设工程勘察设计业务的委托、承接及相关服务的行为。<br>    第三条自治区建设行政主管部门对自治区行政区域内的勘察设计市场实施统一监督和管理。<br>    各盟市建设行政管理部门负责本行政区域内勘察设计市场活动的监督管理，并接受自治区建设行政主管部门的指导和监督。<br>    第四条从事建设工程勘察设计市场活动，应当遵循公开、公正、平等竞争的原则。禁止任何单位和个人以任何理由分割、封锁、垄断勘察设计市场。<br>    第五条任何单位和个人不得妨碍和阻挠依法进行的勘察设计市场活动。对于勘察设计市场活动及管理工作中违反有关法律、法规和工程建设强制性标准的行为，任何单位和个人都有权向建设行政主管部门或者其他有关部门进行检举、控告或投诉。<br><br><font class='zhang'>第二章</font>  市场准入<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  在自治区内从事建设工程勘察设计活动的企业需持国务院建设行政主管部门或省级建设行政主管部门颁发的工程勘察、工程设计资质证书。<br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 其他省、自治区、直辖市具有甲、乙级资质的勘察设计企业（简称外进勘察设计企业），可进入自治区从事勘察设计活动。<br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  自治区对外进勘察设计企业实行项目登记备案制度。<br>    项目登记备案是指外进勘察设计企业在自治区行政区域内承接勘察设计项目签订合同后30日内，必须到自治区建设行政主管部门办理项目登记备案手续。项目登记备案须具备以下条件：<br>    （一）填写《外进勘察设计企业承接工程勘察设计项目登记备案表》；<br>    （二）工程勘察设计证书正、副本复印件（加盖公章）及副本原件；<br>    （三）《企业法人营业执照》正、副本复印件（加盖公章）；<br>    （四）注册执业人员注册证书复印件（加盖注册执业印章）；<br>    （五）工程项目勘察设计合同及复印件（加盖公章）。<br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  国外企业（或机构）进入自治区行政区域内从事建设工程设计活动的，按照建设部《关于外国企业在中华人民共和国境内从事建设工程设计活动的管理暂行规定》（建市函〔2004〕78号）要求，需持建设单位对外国企业（机构）进行设计资格预审的证明材料，到自治区建设行政主管部门办理登记备案手续。<br>    办理登记备案手续需提供下列材料：<br>    （一）工程设计合同（副本）原件及复印件；<br>    （二）合作设计协议（副本）原件及复印件；<br>    （三）建设单位对外国企业进行设计资格预审的证明材料；<br>    （四）所在国政府主管部门核发的企业注册登记证明；<br>    （五）所在国金融机构出具的资信证明和企业保险证明；<br>    （六）所在国政府主管部门或者有关行业组织、公证机构出具的企业工程设计业绩证明；<br>    （七）所在国政府主管部门或者有关行业组织核发的设计许可证明；<br>    （八）国际机构颁发的ISO9000系列质量标准认证证书；<br>    （九）参与中国项目设计的全部技术人员的简历、身份证明、最高学历证明和执业注册证明；<br>    （十）与中方设计企业合作设计的意向书。<br>    外国企业（机构）提供的证明材料均要求有外国企业所在国官方文字与中文译本两种文本。<br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  区外甲级勘察设计企业在自治区设立分支机构，并以分支机构的名义承接勘察设计业务时，应按照勘察设计资质申请程序向自治区建设行政主管部门提交资质申请材料，取得资质证书后方可进行。取得资质证书的分支机构，自治区建设行政主管部门将进行资质证书年度复核，并不再进行项目备案登记。<br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  自治区行政区域内的施工图设计文件的审查，应由自治区建设行政主管部门认定的施工图审查机构（以下简称审查机构）承担。技术上确有特殊要求必须由自治区以外审查机构审查的，需在开展业务前向自治区建设行政主管部门提出申请，经自治区建设行政主管部门同意后方可进行委托。<br><br><font class='zhang'>第三章</font>  市场交易<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  建设单位在发包建设工程勘察设计业务时，可以采用招标发包或直接发包的方式。符合下列条件之一的可以不进行招标。<br>    （一）涉及国家安全、国家秘密的；<br>    （二）抗险救灾的；<br>    （三）主要工艺、技术采用特定专利或者专有技术的；<br>    （四）技术复杂或专业性强，能够满足条件的勘察设计单位少于3家，不能形成有效竞争的；<br>    （五）已建成项目需要改、扩建或者技术改造，由其他单位进行设计影响项目功能配套性的。<br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  勘察、设计招投标应遵循公开、公平、科学、诚信的原则。建设单位不得与拟参加投标的勘察设计单位相互串通，随意设定招投标资质标准，限制潜在竞争者。<br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  建设单位发包勘察设计业务时，应将建设工程勘察、设计业务发包给具有相应勘察、设计资质的单位。采用公开招标发包的，必须发布招标公告。招标公告应当载明招标人名称和地址、招标项目的基本要求、投标文件的编制深度、投标人的资质要求、取得招标文件的办法、评标方式以及对未中标人的经济补偿额等事项。招标公告发布前，须按照建筑市场管理权限，向自治区或盟市建设行政主管部门备案。<br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  建设单位发包勘察设计业务时，不得明示或暗示投标方违反基本建设程序、规划勘设条件等。<br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  经招投标方式发包的勘察设计业务，建设单位不得随意更换中标人，承接方不得随意变更项目组人员。<br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  对直接发包的建设项目，建设单位应按国家和自治区有关规定对承包人的资质、业务范围和项目组成员的资格进行审核。<br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  勘察、设计企业在开展勘察设计活动时，应组织与项目规模、技术复杂程度相适应的本企业技术人员开展工作。<br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  勘察、设计企业不得以任何形式将其承接的工程勘察设计业务转包给其他企业。<br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  勘察、设计评标一般采取综合评估法进行，以技术标为主。评标工作应充分体现公正性、科学性，注重方案设计的原创性、合理性、经济性，勘察设计的技术进步和新技术的运用等。<br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  勘察、设计招投标过程应接受自治区及盟市建设行政主管部门的监督和管理。<br><a name='22'><font class='TiaoNoA'>第二十二条</font></a>  建设行政主管部门应逐步建立健全并使用建设工程勘察、设计评标专家库。要通过公开招聘、单位推荐等方式，经审核、培训、考试最终确定评标专家库成员。也可采用特聘的方式聘用资深人员，纳入评标专家库的统一管理。<br><a name='23'><font class='TiaoNoA'>第二十三条</font></a>  发包方和承接方应依法签订勘察设计合同，双方应加盖企业公章或合同专用章，合同签订人应为法定代表人或持有法定代表人委托授权书的委托代理人。<br>    房屋建筑和市政基础设施工程勘察设计招标投标管理办法由自治区建设行政主管部门另行制定。<br><br><font class='zhang'>第四章</font>  质量管理<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  勘察设计企业应建立健全质量保证体系，加强职工技术培训和继续教育、职业道德教育，不断提高职工的质量责任意识。<br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  勘察设计企业必须建立工程勘察现场质量安全管理制度和责任制度，禁止违规违章作业。<br>勘察设计企业的劳务分包需委托具有勘察设计劳务资质的企业承担，并签订劳务委托合同。<br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  勘察设计企业应当按照法律、法规、国家有关技术规范和工程建设强制性标准进行勘察、设计，并符合各阶段的勘察、设计深度要求。<br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  勘察设计企业应加强图签、出图章、注册章等的管理，不得以分支机构的名义出具勘察设计文本、图纸等设计成果。<br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  勘察设计文件须在扉页上列明项目设计人员名单（含项目负责人、专业负责人、设计人员等），同时需列明各类图表原始记录责任人，加盖企业公章及相应的出图专用章。要严格按照国家和地方有关技术规范、规定进行技术经济指标的计算。<br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  设计图纸应正确标注图号、出图日期、设计阶段等内容，设计人员、校对、审核等人员签名齐全，并加盖相应的出图章。国家实行注册执业制度的专业在相应专业图纸上加盖设计人员注册执业专用章。<br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  施工图设计文件审查中的岩土工程勘察文件(详勘、补勘)实行前置审查，经审查合格的岩土工程勘察文件是施工图设计的依据和施工图设计文件审查的依据。<br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  施工图设计文件审查机构的审查人员应符合《房屋建筑和市政基础设施施工图设计文件审查管理办法》（建设部令第134号）规定，并参加自治区建设行政主管部门组织的继续教育。不符合审查条件及未参加继续教育的人员，不得承担施工图审查工作。<br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  审查机构应当建立健全内部管理制度。施工图审查应当有经各专业审查人员签字的审查记录。审查记录、审查合格书等有关资料应归档保存。<br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  施工图审查机构与所审查项目的业主、勘察设计企业之间不得有隶属关系或者其他利害关系。存在下列情况之一的，审查机构应主动回避：<br>    （一）股东单位是项目的业主或勘察设计单位；<br>    （二）股东是自然人的，该股东作为法定代表人的企业是项目的业主或勘察设计单位。<br>各审查机构应主动上报要回避的企业名单。<br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  审查机构应按照《房屋建筑和市政基础设施施工图设计文件审查管理办法》和自治区建设行政主管部门的有关规定，对施工图设计文件进行审查。<br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  严禁审查机构在设计底图上签章。任何单位和个人不得擅自修改审查合格的施工图，确需修改的，凡涉及规定审查的内容，建设单位应及时将修改后的施工图送原审查机构进行审查。<br><br><font class='zhang'>第五章</font>  从业人员管理<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  从事勘察设计活动的技术人员只能受聘于一个勘察设计企业，不得同时在两个或两个以上企业受聘。<br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  按照《中华人民共和国注册建筑师条例》、《勘察设计注册工程师管理规定》进行注册执业的勘察设计技术人员，其受聘企业与注册执业单位应一致。<br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  注册执业人员不得超越国家规定的执业范围执行勘察设计业务；非注册执业人员不得以注册执业人员的名义从事勘察设计业务。<br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  区外企业及其分支机构在自治区招聘技术人员，必须签订劳动合同并参加社会统筹。<br><br><font class='zhang'>第六章</font>  监督管理<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  建设单位、勘察设计企业、施工图设计文件审查机构应遵守国家法律、法规和规章，同时应遵守自治区的有关规定，守法、诚信经营，并接受和配合各级建设行政主管部门的监督检查。<br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  各级建设行政管理部门应加强对勘察设计企业、施工图设计文件审查机构及市场的监管，对勘察设计质量、施工图审查行为、市场行为等进行定期和不定期的监督检查。<br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  建设单位在发包勘察设计业务时，出现违反本规定的情况或伪造、涂改勘察设计文件并交付使用的，将依法严肃处理，并在全区公共媒体上予以曝光。<br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  盟市及自治区建设行政主管部门应加强对勘察设计企业的日常监管，同时定期对企业资质进行复核，发现勘察设计企业资质条件达不到资质标准的，将重新核定或注销该企业资质证书。<br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a>  盟市及自治区建设行政主管部门应加强对施工图设计文件审查机构的日常监管，同时定期对审查机构条件进行复核。发现审查机构条件达不到标准的，将重新认定或注销该审查机构审查认定证书。<br><br><font class='zhang'>第七章</font>  附则<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a>  本办法由自治区建设厅负责解释。<br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a>  本办法自发布之日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

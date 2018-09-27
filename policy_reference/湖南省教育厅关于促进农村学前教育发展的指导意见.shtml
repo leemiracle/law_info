@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖南省教育厅<BR>&nbsp;&nbsp;【发布文号】湘教发〔2008〕31号<BR>&nbsp;&nbsp;【发布日期】2008-05-07<BR>&nbsp;&nbsp;【生效日期】2008-05-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hunan.gov.cn/zwgk/zfwj/bmwj/200807/t20080721_110396.htm" target=_blank>湖南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖南省教育厅关于促进农村学前教育发展的指导意见<br> <br></font>(湘教发〔2008〕31号)</p><br><br>  <br>    学前教育是各级各类教育的奠基工程，农村学前教育是整个学前教育事业的重要组成部分。近年来，我省学前教育取得了长足发展，但农村学前教育发展滞后，与农村经济社会发展和广大群众需要不相适应，与建设教育强省的要求存在较大差距。为贯彻落实《中共湖南省委、湖南省人民政府关于建设教育强省的决定》（湘发〔2007〕18号）和《湖南省人民政府办公厅转发省教育厅等单位关于加快幼儿教育改革与发展意见的通知》（湘政办发〔2005〕43号）精神，加快推进农村学前三年教育的发展，提高农村学前教育水平，如期实现到2010年，全省学前三年教育毛入园率达到70％的目标，特提出如下意见： <br>    一、坚持以公办幼儿园为主体，多种形式办好农村幼儿园。 <br>    1、农村幼儿园建设应当依据村镇总体发展规划，以方便幼儿就近入园和兼顾办园效益为原则进行合理规划。原则上每4000～5000名服务人口应建设一所标准化幼儿园。每个乡镇应当至少举办一所公办中心幼儿园。经济条件较好、人口和幼儿较多的行政村，可以单独举办幼儿园；人口和幼儿较少、相距较近的行政村，可以几个村联合举办幼儿园；经济基础薄弱、人口稀少的偏远山区，可以由小学或教学点举办学前班或设立独立办班点，实行幼、小合办，方便当地幼儿接受早期教育。 <br>    2、大力推进乡镇中心幼儿园建设。各县市区教育行政部门应组织乡镇规划中心幼儿园建设，制定3年推进计划，确保到2010年每个乡镇都建有中心幼儿园。乡镇人民政府要按照有关规定，承担举办中心幼儿园的责任，筹措经费，改善办园条件。中心幼儿园建设应当符合有关规范要求，确保安全、适用，达到基本办园标准，因地制宜、突出特色。 <br>    3、积极鼓励和提倡社会力量采取联办、股份合作等形式举办农村幼儿园。鼓励村民自治组织举办村级幼儿园。民办幼儿园必须符合当地幼儿园建设规划，达到基本办园条件，按规定程序审批。民办幼儿园享受政策规定的优惠和支持。 <br>    4、逐步提高农村学前三年教育普及率。各级教育行政部门要通过加强幼儿园教育，引导农村学前教育发展。目前，各地要把非正规幼儿园纳入管理范围，结合实际加以规范，保障农村幼儿能够接受学前教育，其在园幼儿应纳入学前教育统计范畴。同时，要提高学前班教育水平，积极创造条件，促进农村学前班教育向幼儿教育转变。 <br>    二、坚持政府投入为主，多渠道筹措农村学前教育发展经费。 <br>    5、各级教育行政部门要争取当地政府加大对农村学前教育的投入。省级设立学前教育发展专项，重点支持乡镇中心幼儿园建设，整体推进县域学前教育发展。各市州、县市区也应安排学前教育专项经费，支持农村学前教育发展，确保公办幼儿园办园经费按时足额到位。 <br>    乡镇人民政府要落实发展学前教育的责任，积极筹措发展经费，动员和组织企事业单位、社会团体等支持本地学前教育发展。 <br>    6、进一步完善学前教育成本合理分担制度，遵循既减轻农民负担、又促进事业发展的原则，积极稳妥地推进农村公办幼儿园按教育培养成本在扣除财政拨款等经费后实行合理收费。各地应积极建立救助基金，探索建立救助机制，对家庭经济困难的幼儿给予入园资助。 <br>    7、要根据有关政策法规，落实学前教育发展的优惠政策。保障幼儿园的用水用电、改扩建和新建等，执行中小学的缴费标准。 <br>    三、大力加强农村幼儿教师队伍建设。 <br>    8、建立农村幼儿园教师队伍与农村学前教育发展良性互动机制。教职员工依据国家编制标准配备。争取公办幼儿园教职工人数纳入公办中小学教师核岗定编总体规划，具体核定工作与中小学教师核定工作同步进行，逐步形成根据幼儿园人数核定教职工人数的动态平衡机制。乡镇中心幼儿园应当保持一定比例的公办教师数量。 <br>    9、依法实施幼儿园教师资格制度和教师聘任制度。农村幼儿园新进教师应当从中等幼儿教育或中等师范教育及以上学校的毕业生中择优录用。争取实施农村幼儿园教师定向培养专项计划，为农村特别是贫困地区培养一批高素质的骨干教师。目前可以从中小学富余教师中挑选学历合格人员，通过转岗培训，取得幼儿园教师资格证书以后，充实到幼儿园任教，其性质和待遇不变。积极鼓励幼儿园教师通过自考、函授等途径进行自我提高。各地对已在农村幼儿园任教，但学历及素质不达标的，应限期达标；限期内不能达标的，应根据有关规定予以辞退，促进农村幼儿园教师队伍专业化建设。到2010年，农村幼儿园教师达到中等幼儿教育或中等师范教育毕业及以上学历，并取得幼儿园教师资格证书。幼儿园保健人员、保育员、食堂工作人员应当具有相关岗位资质。 <br>    10、切实保障幼儿教师合法权益。各地要根据当地经济和社会发展实际，按照幼儿园教职工提供劳动服务的情况，依法确定教职工薪酬。要确保幼儿园合同制教职工工资不低于当地劳动和社会保障部门发布的最低工资标准，确保公办园幼儿教师享有公办中小学教师同等待遇。在职称评审、优秀教师评选等方面应向农村幼儿教师倾斜。 <br>    11、提高农村幼儿教师队伍素质。各级教育行政部门应将农村幼儿教师培训纳入中小学教师培训序列，建立健全园长、教师及其他相关人员的岗前和岗后培训制度，组织实施全员培训计划。要建立学前教育骨干教师、学科带头人培养机制，逐步优化农村幼儿教师队伍结构。要选拔思想素质高、业务能力强，具有一定管理水平的教师到乡镇中心幼儿园任职，促进农村学前教育发展。 <br>    四、全面提高农村学前教育质量。 <br>    12、各级教育行政部门要用正确的教育观指导学前教育发展，采取多种形式，向社会广泛宣传先进学前教育理念。幼儿园要坚持保教并重的原则，遵循学前教育规律，坚持以游戏为基本活动形式，强调寓教于乐，寓教育于各项活动之中。要积极探索学前教育的新方法，注重幼儿早期身心发展和个性发展，做好学前教育与小学教育衔接。 <br>    13、加强幼儿园与家庭、村镇的合作，充分利用幼儿园和村民自治组织的资源优势，面向家长开展多种形式的早期教育宣传、指导等服务，争取家长的理解、支持和主动参与，帮助家长转变教育观念，提高教育能力，促进幼儿家庭教育质量的不断提高。 <br>    14、切实加强对幼儿园教学的指导和管理。建立幼儿教师用书推荐制度，省教育厅每三年对全省幼儿教师用书进行审查，推选出符合《纲要》精神和我省实际的版本，供各地幼儿教师选用。 <br>    鼓励幼儿教师利用乡土自然资源，开发地方和园本课程，制作教、玩具及活动器械，协同幼儿及家庭参与教育活动，突出地方特色，为农村幼儿提供有质量的学前教育。 <br>    各级教育行政部门要动员和组织幼教研究人员和示范幼儿园，通过送教下乡、对口支援等多种形式支持农村学前教育工作。要把乡镇中心幼儿园建设成当地农村学前教育的示范基地，充分发挥其指导和辐射作用。 <br>    五、切实加强对农村学前教育的领导和管理。 <br>    15、农村学前教育管理以县为主。各县（市、区）应当加强对农村学前教育的领导，将农村学前教育纳入本辖区国民经济和社会发展总体规划，列入政府工作业绩考核项目。各地要将学前教育总体发展规划和学前教育普及率指标结合起来，将普及指标层层分解，一直分解到乡镇，建立和完善农村学前教育发展目标管理责任制度、年度考核制度、表彰奖励制度和责任追究制度，加强检查、督促、落实，切实做到“组织领导、政策措施、资金投入、督导检查”四到位。 <br>    16、各级教育行政部门要加强对各级各类幼儿园的管理。市州、县市区教育行政部门应当配备专（兼）职幼教干部和管理人员，建立日常监督检查制度。县级教育行政部门可以授权乡镇中心学校（幼儿园），对本乡镇学前教育进行指导和管理，可以由中心幼儿园园长或在中心学校增聘一名副校长兼任幼教专（兼）职辅导员，负责当地幼儿园的具体管理和业务指导。 <br>    17、开展学前教育先进县（市、区）创建活动，促进政府统筹，调动各方面积极性，整体推进农村学前教育发展。各地要通过创建活动，加大学前教育投入，规范学前教育管理，推动学前教育跨上新台阶。 <br>    18、加强对学前教育工作的督导评估。各级教育督导机构特别是县（市、区）教育督导机构要建立对学前教育工作的督导评估制度，逐步形成运用督导评估手段推动农村学前教育发展的有效机制。 <br>    各地应根据本意见制定具体政策和措施，推进农村学前教育的改革与发展。 <br><br>湖南省教育厅 <br>二○○八年五月七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

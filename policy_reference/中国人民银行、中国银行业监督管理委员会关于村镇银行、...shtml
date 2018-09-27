@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国人民银行、中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】银发〔2008〕137号<BR>&nbsp;&nbsp;【发布日期】2008-04-24<BR>&nbsp;&nbsp;【生效日期】2008-04-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.pbc.gov.cn/detail.asp?col=100&ID=2638" target=_blank>中国人民银行 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国人民银行、中国银行业监督管理委员会关于村镇银行、贷款公司、农村资金互助社、小额贷款公司有关政策的通知<br><br></font>(银发〔2008〕137号)</p><br> <br><br>中国人民银行上海总部，各分行、营业管理部、省会（首府）城市中心支行、副省级城市中心支行，各银监局，各政策性银行、国有商业银行、股份制商业银行，中国邮政储蓄银行，各省（自治区、直辖市）农村信用社联合社：<br><br>    2005年以来，部分省市的县及县以下地区试点设立了村镇银行、贷款公司、农村资金互助社、小额贷款公司等四类机构(以下统称四类机构)，这对于改进和完善农村金融服务、培育竞争性农村金融市场发挥了积极作用。为保证四类机构规范、健康、可持续发展，更好地支持社会主义新农村建设，现就有关政策通知如下：<br><br>    一、存款准备金管理<br><br>    现阶段，农村资金互助社暂不向中国人民银行交存存款准备金。村镇银行应按照中国人民银行存款准备金的管理规定，及时向中国人民银行当地分支机构交存存款准备金，村镇银行的存款准备金率比照当地农村信用社执行。经批准开办代理国库业务和代理国债业务的村镇银行，除按规定交存存款准备金以外，还应向中国人民银行当地分支机构缴存财政存款。村镇银行存款准备金和财政存款的交纳范围由村镇银行所在地的中国人民银行分行、营业管理部或省会（首府）城市中心支行（以下统称中国人民银行省级分支机构）会计部门核定。村镇银行所在地的中国人民银行分支机构的营业部门在“21129其他商业银行存款”科目下为村镇银行开立存款账户，核算村镇银行的法定存款准备金和超额存款准备金；在“221金融机构划来财政存款”科目下开立账户，核算村镇银行划来的财政存款。<br><br>    二、存贷款利率管理<br><br>    经批准吸收存款的机构，其存款利率实行上限管理，最高不得超过中国人民银行公布的同期同档次存款基准利率。四类机构的贷款利率实行下限管理，利率下限为中国人民银行公布的同期同档次贷款基准利率的0.9倍。四类机构应建立健全利率定价机制，按照贷款定价原则自主确定贷款利率，并且符合司法部门的相关要求。四类机构应按照中国人民银行利率报备政策的要求，按时准确真实地报备有关利率。<br><br>    三、支付清算管理<br><br>    具备条件的四类机构可以按照中国人民银行有关规定加入人民币银行结算账户管理系统和联网核查公民身份信息系统。符合条件的村镇银行可以按照中国人民银行的有关规定申请加入大额支付系统、小额支付系统和支票影像交换系统。贷款公司、农村资金互助社和小额贷款公司可自主选择银行业金融机构开立存款账户，并委托存款银行代理支付结算业务。村镇银行的支付系统行别代码为“320”，行别类型为“其他商业银行”。村镇银行需要使用人民币票据凭证的，应按照中国人民银行的有关规定向中国人民银行当地分支机构提出申请，经中国人民银行总行批准后统一制版、印制。票据凭证由村镇银行所在地的中国人民银行省级分支机构支付结算管理部门组织订货和管理，结算凭证由村镇银行按照中国人民银行统一规定的格式自行印制和管理。村镇银行办理人民币业务需要使用汇票专用章的，应根据《中国人民银行办公厅关于规范银行汇票专用章事项的通知》（银办发〔2006〕[2006]54号）的相关规定，确定汇票专用章式样，并报中国人民银行省级分支机构支付结算管理部门备案。刻制汇票专用章时，应选择经公安机关批准、具有承制公章资格的印章经营单位刻制。本票专用章的格式、内容和刻制按照所在地的中国人民银行省级分支机构的规定办理。贷款公司、农村资金互助社和小额贷款公司办理支付结算业务使用的票据凭证和汇票专用章比照村镇银行管理。<br><br>    四、会计管理<br><br>    四类机构的会计科目设置不需要审批。村镇银行应根据《中华人民共和国商业银行法》和《中国人民银行关于银行业金融机构报送会计财务资料有关事宜的通知》（银发〔2004〕[2004]72号）的要求，及时向中国人民银行当地分支机构和所在地的中国人民银行省级分支机构报送会计制度、会计科目及其使用说明、年度会计决算资料和重大会计改革事项等相关会计财务管理信息资料。<br><br>    五、金融统计和监管报表<br><br>    四类机构应按季向中国人民银行当地分支机构调查统计部门报送资产负债表和其他相关统计信息资料，村镇银行、贷款公司和农村资金互助社要按照银行业监管机构的要求及时向当地银行业监管部门报送监管报表，小额贷款公司报送相关资料。受目前金融统计数据通讯传输条件的限制，中国人民银行相关分支机构现阶段暂以传真方式逐级将四类机构相关数据按季报送中国人民银行调查统计司。<br><br>    六、征信管理<br><br>    具备条件的四类机构可以按规定申请加入企业和个人信用信息基础数据库。根据“先建立制度、先报送数据、后开通查询用户”的原则，四类机构接入企业和个人信用信息基础数据库的，应按照中国人民银行的有关规定制定相应的管理制度和操作规程，定期报送相关数据并合规查询和使用查询结果，并接受中国人民银行的监督管理。<br><br>    七、现金管理<br><br>    四类机构应严格遵守现金管理规定，合理使用现金，防止洗钱行为。四类机构为自然人客户办理人民币单笔5万元以上现金存取业务的，要认真核对客户的有效身份证件或其他有效身份证明文件；为不在本机构开立账户的客户提供现金汇款、票据兑付等金融服务且交易金额单笔人民币1万元以上的，在认真核对客户的有效身份证件或者其他有效身份证明文件的同时，应当留存该客户的有效身份证件或者其他身份证明文件的复印件或者影印件。四类机构应当按照我国反洗钱的有关规定逐笔记录和保存单笔或者当日累计交易相当于20万元人民币数额以上的现金缴存、现金支取、现金汇款、现金票据解付及其他形式的现金收支记录。<br><br>    八、风险监管<br><br>    四类机构要制定完备的规章制度，积极完善公司治理结构，有效加强内控风险管理，切实做好风险防范工作。中国人民银行和中国银监会依据各自法定职责和相关制度规定，对村镇银行、贷款公司和农村资金互助社实施审慎监管。对小额贷款公司的监管，根据《中国银行业监督管理委员会中国人民银行 关于小额贷款公司试点的指导意见》的有关规定执行。<br><br>    中国人民银行各分支机构和各地银监局要根据本通知规定和相关政策要求，密切协作配合，依法履行职责，积极鼓励、引导和督促四类机构以面向农村、服务“三农”为目的，扎扎实实依法开展业务经营，在不断完善内控机制和风险控制水平的基础上，立足地方实际，坚持商业可持续发展，努力为“三农”经济提供低成本、便捷、实惠的金融服务。<br><br>    本通知自发布之日起执行，请中国人民银行各省级分支机构和各级银监局联合将本通知及本通知所列相关文件转发至相关单位。各地在政策落实过程中发现的新情况、新问题，请及时报告中国人民银行和中国银行业监督管理委员会。<br><br>中国人民银行      中国银行业监督管理委员会<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

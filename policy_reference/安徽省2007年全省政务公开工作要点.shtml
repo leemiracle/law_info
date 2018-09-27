@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2007〕21号<BR>&nbsp;&nbsp;【发布日期】2007-05-08<BR>&nbsp;&nbsp;【生效日期】2007-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4101" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省2007年全省政务公开工作要点<br><br></font>(皖政办〔2007〕21号)</p><br><br> <br>    各市、县人民政府，省政府各部门、各直属机构：<br>      经省政府同意，现将《2007年全省政务公开工作要点》印发给你们，请结合实际，认真贯彻落实。<br>    全面推行政务公开是推进政府管理创新、建设服务型政府的重要内容，是加强机关效能建设、从源头上预防和治理腐败的有力抓手。各地各部门要进一步贯彻落实《中共中央办公厅国务院办公厅关于进一步推行政务公开的意见》（中办发〔2005〕12号），高度重视政务公开工作，切实加强组织领导，完善工作机制，丰富公开形式，进一步规范行政权力运行和监督，不断提高政务公开工作水平，为迎接党的十七大胜利召开和实现安徽跨越式发展营造良好的社会环境。<br>    <br>                                       安徽省人民政府办公厅<br>                                        二○○七年五月八日 <br>    <br>    <br>                        2007年全省政务公开工作要点<br>    <br>    2007年，全省政务公开工作要以邓小平理论和“三个代表”重要思想为指导，认真落实科学发展观，根据《全国政务公开领导小组2007全国政务公开工作要点》和省政府第五次廉政会议、省直机关深入推进效能建设大会要求，以保障公众民主权力、维护人民群众根本利益为出发点和落脚点，以提高行政机关工作透明度和办事效率为重点，结合贯彻《中华人民共和国信息公开条例》（以下简称《条例》），创新行政管理体制，推动全省政务公开工作深入开展。<br>    <br>    一、健全领导体制，完善工作机制<br>    按照“党委统一领导、政府主抓、政府办公厅（室）组织协调、纪检监察机关监督检查”要求，继续完善政务公开工作领导体制和工作机制。各地各部门要切实把政务公开摆上重要议事日程，及时研究解决工作中存在的突出问题，把政务公开工作纳入政府目标和机关效能建设考核体系。要建立健全政务公开办事机构，明确专人负责，形成层层抓落实的工作局面。加大对政务公开的宣传力度，积极挖掘典型经验，推进示范点建设，扩大政务公开的社会影响。充分发挥省政务公开办公室《政务公开交流》的载体作用，加强区域和部门间的学习与交流，促进全省政务公开工作均衡发展。<br>    <br>    二、创新公开形式，增强工作实效<br>    要继续发挥政府公报、政府热线、新闻发布会，以及新闻媒体作用，通过公共查阅室、资料索取点、信息公告栏、电子信息屏等载体，及时公开政务信息，保障人民群众知情权。同时，充分发挥政府网站作用，加强电子政务建设，推进网上咨询、审批、办事。已经建立专网的政府部门，要重点解决互联互通问题，促进“横向到边、纵向到底”的网络体系早日实现。<br>    <br>    三、编制职权目录，推进阳光政务<br>    根据国家统一要求，编制政务公开职权目录，实现行政权力公开透明运行。省一级职权目录编制工作在省法制办对省政府部门行政执法依据梳理的基础上，实行政府行政职能（包括行政许可、非行政许可、行政征收、行政处罚、行政征用、行政监督检查、行政确认、行政裁决、行政强制措施等）以及为民办事等项目名称、实施主体、依据、条件、数量、收费、时限公开，绘制权力运行流程图，促进政务信息资源共享，方便群众应用和监督。省政府各有关部门要按照各自的职责任务，组织好本部门政务公开职权目录的编制工作。各市政府要组织实施好本地区政务公开目录的编制工作。<br>    <br>    四、推进事务公开，维护群众权益<br>    深入推行公用事业单位办事公开，要把关系群众切身利益的事项和群众关心的热点、难点问题，作为办事公开的重点，加大办事公开力度，整合便民服务设施，创新便民服务举措。卫生、教育行政主管部门要分别明确医疗和教育机构公开的重点内容，着力解决群众反映的“看病贵”、“上学难”等突出问题。供水、供电、供热、供气、环保、计生、建设、交通、电信等公共企事业单位要实施价格听证、政策咨询、服务承诺等制度，公开收费项目的内容、依据和标准。要加强职业道德教育，把办事公开与纠正部门和行业不正之风工作、执法监察工作结合起来，促进服务质量和服务效率的提高。要充分发挥典型示范作用，以点带面，整体推进，努力争创全国示范点。<br>    <br>    五、加强中心建设，提高窗口能力<br>    从政务中心集中办事的特点出发，进一步深化审批制度改革。推广告知承诺制、一审一核制、一票收费制等深受群众欢迎的审批方式。对招商引资中的重大行政许可事项，根据办事人申请提供全程代理服务。全面推行并完善首席代表制，督促单位选派政治素质好、业务水平精、协调能力强的同志担任窗口首席代表，并授予现场即办权、督查督办权、综合协调权。首席代表对符合现场办理要求的事项，必须尽快在窗口予以办理和答复，以提高审批透明度和效率。积极开展审批权相对集中改革试点，总结推广合肥、芜湖、巢湖、黄山、滁州等中心“两集中、两到位”经验，促进部门内的审批权向少数处室集中（有条件的可向一个处室集中），审批处室整建制进中心，使审批服务前移，做到精简、统一、高效，使决策、审批、监督相对分离，形成有效的权力制衡机制，促进政府职能转变和管理创新。进一步扩大服务范围，整合政府服务资源，不断开拓新的服务领域，完善“一站式”服务功能，逐步将面向社会、企业和群众的便民服务项目纳入政务中心办理，把政务中心建设成政府为社会提供公共服务的综合平台。<br>    <br>    六、建立统一平台，规范招投标行为<br>    按照政府引导市场、市场公开交易、交易规范运作、管理严格统一的原则，推进招投标管理体制改革。抓紧筹建省招投标服务中心，归并集中省级各类招标采购等交易活动，建立公开透明、公平公正、层次清晰、职责分明、相互制约的招投标交易服务和监管体系。省级使用国家和省财政性资金建设项目招投标、政府采购、产权交易以及其他依法必须进行招标采购的项目，其代理机构要与主管部门完全脱钩，统一进入省招投标服务中心进行交易。省政府相关行业主管部门在省招投标服务中心设立管理室并选派工作人员，按职责分工对各类交易活动进行管理；省监察厅相关监督处室进驻中心进行监察，受理投诉，查处违法违纪行为。<br>    <br>    七、认真贯彻《条例》，做好实施准备<br>    《条例》已经国务院正式颁布，于2008年5月施行。这是政务公开的基本法规，对于政务公开工作走上法制化轨道具有十分重要的意义。各地各部门要研究制订《条例》的贯彻意见，建立完善主动公开和依申请公开制度、评议制度、责任追究制度，促进政务公开规范化、法制化。县级以上政府办公室（厅）要切实担负起推进、指导、协调、监督本行政区域的政府信息公开工作职责，认真组织好对《条例》的学习和培训，不断提高政务公开工作人员的业务水平，提高公务员推行政务公开的自觉性，为《条例》的实施营造良好的社会氛围。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

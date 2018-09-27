@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府发〔2006〕43号<BR>&nbsp;&nbsp;【发布日期】2006-12-08<BR>&nbsp;&nbsp;【生效日期】2006-12-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1310" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府关于省属国有企业政策性关闭破产工作有关问题的通知<br><br></font>(黔府发〔2006〕43号)</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构：<br>    为进一步做好省属国有企业政策性关闭破产工作，根据国家有关规定，结合我省实际，现就有关事宜通知如下：<br>    一、关于退休及过渡性安置人员医疗保险属地移交地方医疗保险机构管理以及参保费用问题<br>      （一）省属国有政策性关闭破产企业（以下简称“关闭破产企业”）退休及过渡性安置人员基本医疗保险移交参保费，严格按照《省人民政府关于做好省属国有企业关闭破产工作的通知》（黔府发〔2004〕15号）规定的缴费比例测算，以法院公告破产上年度关闭破产企业所在统筹地区社会平均工资作为缴费基数，一次性计算10年。<br>    （二）将黔府发〔2004〕15号文件规定对关闭破产企业退休人员预留1年的大病统筹调整为按预留10年计算，对过渡性安置人员按预留10年大病统筹计算。<br>    （三）关闭破产企业退休及过渡性安置人员医疗保险移交地方属地管理后，纳入关闭破产企业所在地医疗保险统筹，各地不得以任何理由拒绝为破产企业退休及过渡性安置人员参保建立医疗保险关系。在10年内，如关闭破产企业所在地年度实际人均医疗费支出大于移交时测算的年人均参保费，地方医疗保险经办机构可提出申请，经省劳动保障厅组织省有关部门审核后，由省级财政予以补差解决。10年后确有困难的，由省有关部门报省人民政府研究决定。<br>    （四）关闭破产企业退休及过渡性安置人员移交地方属地管理后，适当给予相关地方医疗保险经办机构一次性工作经费补助，原则上按实际参保移交人员每人100元计算，所需资金从破产成本中列支。<br>    二、关于从事特殊工种职工的有关政策问题<br>    特殊工种提前退休政策和政策性破产提前5年退休政策不能同时适用于关闭破产企业从事特殊工种的同一名职工，但可在黔府发〔2004〕15号文件规定的过渡性安置年龄基础上，对从事特殊工种并达到规定年限，且不愿选择一次性安置的全民所有制职工，再提前5年（即男45周岁、女干部40周岁、女工人35周岁）进入社区管理机构作过渡性安置，待其达到黔府发〔2004〕15号文件规定的提前退休年龄时办理提前退休手续。<br>    三、有关房改政策问题<br>    （一）住房公积金。根据建设部、财政部、中国人民银行《关于住房公积金管理若干具体问题的指导意见》（建金管〔2005〕5号）有关规定，关闭破产企业应为职工补缴以前欠缴（包括未缴和国务院令第350号《住房公积金管理条例》规定的最低限少缴部分）的企业应缴部分住房公积金，所需资金在破产成本中列支。<br>    （二）住房存量补贴。关闭破产企业已参加所在地房改的，职工存量补贴严格按照关闭破产企业所在地住房货币化分配方案规定执行，由当地房改部门统筹安排解决。<br>    （三）住房增量补贴。关闭破产企业因长期亏损、资不抵债、生产经营困难，不具备兑现职工住房增量补贴条件，其职工按有关规定不能享受住房增量补贴。<br>   四、关于表外费用测算问题<br>    为进一步规范省属国有企业实施政策性关闭破产确需解决的表外费用测算项目和标准，明确以下表外费用：<br>    （一）经常性费用。<br>    1.关闭破产企业退休人员享受统筹项目外养老金。原则上按企业破产前实际发放的书报费、洗理费、知识分子补贴、高龄补贴、交通费、菜篮子补贴等进行测算。<br>    关闭破产企业过渡性安置人员在办理退休手续后与原企业退休人员同等享受统筹项目外养老金待遇。<br>    2. 关闭破产企业离休人员统筹外项目养老金按省劳动保障厅《研究完善省属国有困难企业离休人员离休费保障机制有关问题》（黔劳社厅专议〔2003〕2号）及国家和省确定的离休干部统筹外项目和标准进行测算。<br>    3. 关闭破产企业离休人员医药费按破产企业所在地离休人员医药费的资金筹措标准及国家和省有关规定测算。<br>    4. 关闭破产企业劳模、离休干部遗孀、军转干部、建国初期参加工作的退休人员生活补贴按现行国家和省有关规定标准测算。<br>    以上经常性费用自企业破产终结后次月起发放。<br>    5. 关闭破产企业过渡性安置人员参加基本养老保险，以上年度全省在岗职工平均工资的60%作为缴费基数，按照28%的缴费比例缴纳基本养老保险费。参加失业保险的，以上年度全省在岗职工平均工资的60%作为缴费基数，按照3%的缴费比例缴纳失业保险费。<br>    (二)一次性费用。<br>    1.关闭破产企业过渡性安置人员在过渡期间增加的基本生活费，按当地最低工资标准的70%测算后，再扣除已按黔府发〔2004〕15号文件规定计算的部分进行测算。<br>    2. 关闭破产企业清偿欠缴养老保险费确有困难的，除企业缴费中应划入职工个人帐户部分外，按省劳动保障厅《关于企业补缴欠费和预留基本养老保险费有关问题的通知》（黔劳社厅发〔2002〕25号）规定予以核销；企业欠缴的失业保险、医疗保险、工伤保险、生育保险费按社会保险经办机构核定的数据测算。关闭破产企业职工个人应缴纳的社会保险费由个人补缴。<br>    3.关闭破产企业拖欠职工医药费按企业原医药费报销制度据实核定。<br>    4.已鉴定的因工伤残人员有关补助费，工伤残职工及工亡直系亲属抚恤金及相关预留费用，按《工伤保险条例》（国务院令375号）、《贵州省实施〈工伤保险条例〉办法》（黔府令79号）及统筹地区有关规定执行。<br>    本通知自下发之日起实施，我省原有关规定与本通知不一致的，按本《通知》规定执行。<br><br>                                                                   贵州省人民政府<br>                                                                二○○六年十二月八日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财预[2009]5号<BR>&nbsp;&nbsp;【发布日期】2009-01-19<BR>&nbsp;&nbsp;【生效日期】2009-01-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://yss.mof.gov.cn/yusuansi/zhengwuxinxi/zhengceguizhang/200902/t20090201_110976.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于村级公益事业一事一议中央财政奖补事项的通知<br> <br></font>(财预[2009]5号)</p><br>    <br><br>各省、自治区、直辖市、计划单列市财政厅（局）：<br><br>    为支持地方开展村级公益事业一事一议建设财政奖补试点工作，根据《国务院农村综合改革工作小组 财政部 农业部关于开展村级公益事业建设一事一议财政奖补试点工作的通知》（国农改[2008]2号）、《国务院农村综合改革工作小组关于在联系村所在县（市）开展村级公益事业建设一事一议财政奖补试点的通知》（国农改[2008]4号）精神，现就有关事项通知如下：<br><br>    一、奖补原则<br><br>    （一）适当奖补，客观公平。村级公益事业建设属于地方事权，为促进村民民主建设，并考虑取消劳动积累工和农村义务工对村级公益事业建设的影响，中央财政在地方财政奖补的基础上，对村级公益事业建设一事一议予以适当支持和奖补，奖补力求客观公平。<br><br>    （二）分清责任，建立机制。村级公益事业具有准公共产品的性质，要在划分事权、分清责任、分级负责的基础上开展村级公益事业建设，建立村级公益事业建设的投入分担机制。跨村以及村以上范围的公益事业建设项目投入应主要由各级政府分级负责，由现有的投入渠道解决；村内小型水利、村内道路、环卫设施、植树造林等村民直接受益的公益事业，以村民通过一事一议筹资筹劳和村集体经济组织投入为主，国家适当给予奖补；农民房前屋后的修路、建厕、打井、植树等投资投劳由农民自己负责。<br><br>    （三）直接受益，注重实效。一事一议财政奖补项目必须考虑村级集体经济组织、农民和地方财政的承受能力，重点支持农民需求最迫切、反映最强烈、利益最直接的村级公益事业建设项目，适当向贫困村倾斜，提高项目效用，使农民直接受益，防止盲目攀比。<br><br>    二、奖补办法<br><br>    （一）奖补范围。一事一议财政奖补范围主要包括以村民一事一议筹资筹劳为基础、目前支农资金没有覆盖的村内水渠（灌溉区支渠以下的斗渠、毛渠）、堰塘、桥涵、机电井、小型提灌或排灌站等小型水利设施，村内道路（行政村到自然村或居民点）和户外村内环卫设施、植树造林、村容村貌改造等村级公益事业建设。<br><br>    （二）奖补因素。考虑乡村人口、农村劳动力、试点省份规定的一事一议筹资筹劳上限标准、地方财政（包括省级、地市级、县级、乡镇财政）对村级公益事业建设一事一议奖补金额、地方财力状况等客观因素，并适当向中西部省份倾斜。对农民规定范围内的筹劳折资标准，由于各地情况不一样，统一按每个工日20元标准折算。<br><br>    （三）奖补比例。政府对农民通过一事一议筹资筹劳开展村级公益事业建设按照三分之一的比例予以补助，所需政府补助资金由地方财政承担三分之二，中央财政通过奖补的方式承担政府补助资金的三分之一，并考虑地方财政困难程度调整确定各地奖补系数。中央财政对地方财政奖补资金的上限，按照规定的当地农民一事一议筹资筹劳上限标准及政府补助比例计算确定。<br><br>    （四）计算公式<br><br>    当地方财政安排奖补资金规模不超过按照当地农民一事一议筹资筹劳上限标准及政府补助比例计算确定数额时：<br><br>    中央财政对某地区财政奖补数额=该地区地方财政对一事一议财政奖补金额×中央财政奖补系数<br><br>    当地方财政安排奖补资金规模超过按照当地农民一事一议筹资筹劳上限标准及政府补助比例计算确定数额时：<br><br>    中央财政对某地区财政奖补数额=该地区按照当地农民一事一议筹资筹劳上限标准及政府补助比例计算确定的地方财政奖补金额×中央财政奖补系数<br><br>    三、财政奖补资金的管理和使用<br><br>    试点地区要高度重视，加强财政奖补资金的管理和使用，确保村级公益事业建设一事一议财政奖补试点工作的顺利进行。<br><br>    （一）实行资金预拨和清算制。为支持一事一议项目建设，上级财政可预拨部分奖补资金，实行建设和奖补并行，在项目竣工验收合格后办理清算，多退少补。村级公益事业建设一事一议财政奖补资金在“对村级一事一议的补助”科目中反映。地方财政要将中央财政安排的奖补资金用于支持村级一事一议建设，不得截留、挪用。<br><br>    （二）实行报账制。试点县（市）要按照新农村建设规划和群众意愿，建立一事一议项目计划，量力而行，分步实施。要按照不同的项目实施主体和项目金额大小，分别实行县级报账制和乡镇报账制，只有在村民筹资、村集体投入、社会捐赠资金到账，具备项目开工条件后，才能由村级提出申请，由县级或乡镇财政部门按工程进度拨付资金。<br><br>    （三）实行公示制。试点省份和地区要按照政府信息公开的要求，全面公开一事一议财政奖补的政策标准、实施办法、办事程序和服务承诺。一事一议奖补项目要有村民代表实施项目全程监督和管理。已建成的一事一议奖补项目，乡镇或村民委员会要将项目资金（实物）的安排使用情况向全体村民公示，得到村民认可。<br><br>    （四）加大监督考核力度。财政部门要加大管理力度，加强对财政奖补资金管理使用情况的监督检查和绩效考核。对财政奖补资金管理和使用中的违法行为，依据《财政违法行为处罚处分条例》（国务院令第427号）等有关规定追究法律责任。<br><br>                                                   财政部<br>                                                 二00九年一月十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

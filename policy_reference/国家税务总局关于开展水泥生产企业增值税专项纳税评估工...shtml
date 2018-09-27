@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2008〕407号<BR>&nbsp;&nbsp;【发布日期】2008-05-12<BR>&nbsp;&nbsp;【生效日期】2008-05-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7864891.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于开展水泥生产企业增值税专项纳税评估工作的通知<br> <br></font>(国税函〔2008〕407号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br>    近年来，各地在开展增值税纳税评估工作中，初步探索和建立起了分行业、分类的专项增值税纳税评估工作机制，取得了一定成效。为进一步加强增值税管理，在总结各地经验的基础上，税务总局研究决定，每年选择部分行业或项目统一组织全国增值税专项纳税评估，今年选择对水泥生产企业开展增值税专项纳税评估。现就专项评估工作安排通知如下：<br>    一、评估对象<br>    2007年生产销售水泥产品的生产企业。<br>    二、评估内容<br>    （一）水泥生产企业应税收入的真实性、完整性评估。是否存在隐瞒销售收入问题；是否存在无偿赠送商品、商品偿还债务、以物易物等行为以及各种价外费用不按规定计算收入问题；是否存在逾期包装物押金不计算收入问题；是否存在销货退回或折让不按规定处理问题；是否存在不按规定开具增值税专用发票问题等。<br>    （二）水泥生产企业取得的各类进项抵扣凭证是否符合政策规定的评估。取得增值税专用发票认证、入账和申报是否符合规定，申报抵扣进项税额的购进业务、价格是否真实，是否存在虚增进项税额的行为，是否存在接受虚开专用发票的问题；其他抵扣凭证项目填开是否完整齐全，取得运输发票的运输业务与销售购进货物的名称、数量是否匹配、吻合，有无取得虚开、代开运输发票抵扣进项税问题；有无擅自扩大进项税额抵扣范围的问题等。<br>    （三）水泥生产企业享受资源综合利用税收优惠政策的评估。就其取得资源综合利用认定证书资格、享受税收优惠条件、退税申报等政策执行情况进行全面评估。<br>    三、工作步骤<br>    2008年6月至8月，各地国税局对所辖水泥生产企业实施纳税评估；9月各省国税局对专项评估工作进行总结，并于9月底前将评估工作报告及《水泥生产企业增值税基本情况表》（附件4）、《水泥生产企业增值税纳税评估结果统计表》（附件5）上报税务总局流转税管理司。<br>    四、工作要求<br>    各级税务机关应高度重视，统筹安排，采取案头分析与实地核查相结合的方式认真做好本次专项评估工作。在实施纳税评估的过程中，基层税务机关评估人员应充分利用第三方信息（如供电部门开具的电费发票信息、国家公布的水泥行业能耗标准等），运用能耗法、投入产出法等评估方法，测算出水泥产品的产量、销量，与企业申报资料进行对比，验证企业申报资料是否真实，审核其是否存在骗取税收优惠政策资格的问题。对发现存在偷税嫌疑的企业，基层税务机关应严格按照《国家税务总局关于印发〈纳税评估管理办法（试行）〉的通知》（国税发[2005]43号）的规定，及时移交稽查部门进行查处。<br>    各地除了反馈评估工作开展情况外，还应对偷逃税企业的偷税手段及方法进行归纳总结，对日常征管工作的薄弱环节提出改进意见或建议。<br><br>    附件：1.水泥行业增值税纳税评估方法<br>          2.可比水泥综合电耗分级定额<br>          3. 可比熟料烧成标煤耗分级定额<br>          4. 水泥生产企业增值税基本情况表<br>?        5. 水泥生产企业增值税纳税评估结果统计表（略）<br><br>国家税务总局<br>二○○八年五月十二日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

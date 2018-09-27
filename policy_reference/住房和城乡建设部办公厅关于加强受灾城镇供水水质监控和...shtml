@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】住房和城乡建设部<BR>&nbsp;&nbsp;【发布文号】建办城函[2008]282号<BR>&nbsp;&nbsp;【发布日期】2008-05-22<BR>&nbsp;&nbsp;【生效日期】2008-05-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mohurd.gov.cn/zcfg/jswj/csjs/200805/t20080527_169895.htm" target=_blank>住房和城乡建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>住房和城乡建设部办公厅关于加强受灾城镇供水水质监控和相关信息报送工作的通知<br> <br></font>(建办城函[2008]282号)</p><br><br>  <br>四川省建设厅：<br><br>    国务院抗震救灾总指挥部对供水水质安全高度重视，要求进一步加强受灾地区的水质安全保障和相关信息报告工作。现将有关要求通知如下：<br><br>    一、进一步加强供水水质的监测。重点加强对水厂出厂水和管网末端水的余氯、浊度、细菌总数、总大肠菌数、耐热大肠菌群等指标的检测，增加检测频率。设市城市和主要县城，要对水源的主要指标进行检测。并请你厅根据可能出现的污染情况，对出厂水和水源水增加必要的检测项目。<br><br>    二、强化水厂消毒措施。立即对水厂消毒设施情况进行普查。适当提高出水余氯，杜绝余氯指标不合格现象。目前暂不具备消毒能力的水厂，要投加饮用水消毒药剂；要全力以赴调运设备和药剂、修复设施、尽快发挥作用；要加大与有关部门的协调力度，保障供货、保障运输、保障资金。消毒问题严重的，要立即向省政府报告，及时采用应急措施，防止误饮导致疾病传播。<br><br>    三、提高应对突发性水源污染的能力。做好防止细菌污染和化学污染的两手准备。大中城市要尽快配备粉末活性炭和高锰酸钾氧化剂等物资，安装应急处理设备；水源单一的县城,要做好调运反渗透膜移动供水设备的维修。<br><br>    四、建立水质信息的直通渠道。通过省应急部门，进一步协调环保、卫生和水利部门，强化水质信息的沟通。一旦发生水源污染事件，必须在第一时间内通报供水主管部门和供水单位，协同采取应急措施。同时，供水主管部门和供水单位也要把水质信息和所发现的问题及时通报有关部门，必要时可直报我部。<br><br>    五、立即建立水质等应急供水信息上报制度。国务院抗震救灾总指挥部已提出要求，必须每日上报水质信息和供水应急工作情况。我部城建司负责这方面的汇总上报工作。请你们自22日起，于每日下午3时，将城镇供水水质等有关情况书面报告我司。报告内容主要包括：<br><br>    县级以上城镇，要每日报送各水厂出厂水和有代表性的管网末端水的水质状况，主要为余氯、浊度、细菌总数、总大肠菌群、耐热大肠菌群等指标的检测结果。其中，设市城市和主要县城，还需报告水源和出厂水相关污染指标，具体项目由你厅根据水源情况确定。<br><br>    同时，请将供水设施的修复情况、主要问题和建议一并报告；并请中国城镇供水排水协会协助报送对口支援队伍和移动净水设备的相关情况和建议；请建设部城市供水水质监测中心协助建设厅做好水质化验对口支援的工作方案和实施的充分准备。<br><br>    本通知要求上报的信息报我部城市建设司，此前我部应急指挥部要求上报的有关信息和渠道不变。<br><br>    联系人：城市建设司水务处  王欢、殷皓<br><br>    联系电话：010-58933160；010-58934352（传真）<br><br>    电子信箱：chengshui@mail.cin.gov.cn<br> <br>中华人民共和国住房和城乡建设部办公厅<br>二○○八年五月二十二日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

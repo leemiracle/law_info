@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、国家税务总局、中国人民银行<BR>&nbsp;&nbsp;【发布文号】财行[2005]365号<BR>&nbsp;&nbsp;【发布日期】2005-11-14<BR>&nbsp;&nbsp;【生效日期】2006-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200512011153065102" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、国家税务总局、中国人民银行关于进一步加强代扣代收代征税款手续费管理的通知<br><br></font>(财行[2005]365号)</p><br><br><br>各省、自治区、直辖市、计划单列市财政厅(局)、国家税务局、地方税务局，中国人民银行各分行、营业管理部、省会(首府)城市中心支行，大连、青岛、宁波、厦门、深圳市中心支行，财政部驻各省、自治区、直辖市、计划单列市财政监察专员办事处：<br><br>    为进一步规范和加强代扣代缴、代收代缴和委托代征(以下简称“三代”)税款手续费的管理，根据《中华人民共和国预算法》和《中华人民共和国税收征收管理法》及其他有关法律、行政法规的规定，现就进一步加强“三代”税款手续费管理通知如下：<br><br>    一、“三代”范围<br><br>    (一)代扣代缴是指税收法律、行政法规已经明确规定负有扣缴义务的单位和个人在支付款项时，代税务机关从支付给负有纳税义务的单位和个人的收入中扣留并向税务机关解缴的行为。<br><br>    (二)代收代缴是指税收法律、行政法规已经明确规定负有扣缴义务的单位和个人在收取款项时，代税务机关向负有纳税义务的单位和个人收取并向税务机关缴纳的行为。<br><br>    (三)委托代征是指税务机关根据《中华人民共和国税收征管法》加强税收控管、方便纳税、降低税收成本的规定，按照双方自愿、简便征收、强化管理和依法委托的原则，委托有关单位和人员按照代征协议规定的代征范围、权限及税法规定的征收标准代税务机关征收税款的行为。<br><br>    二、“三代”税款手续费支付比例<br><br>    (一)法律、行政法规规定的代扣代缴、代收代缴税款，税务机关按代扣、代收税款的2％支付。<br><br>    (二)委托金融机构或邮政部门代征个人、个体及实行核定征收税款的小型企业的税收，税务机关按不超过代征税款的1％支付。<br><br>    (三)税务机关委托单位或个人代征农贸市场、专业市场的税收，税务机关按不超过代征税款的5％支付。<br><br>    (四)税务机关委托单位和个人代征交通、房地产、屠宰等特殊行业的税款，税务机关按不超过代征税款的5％支付。<br><br>    (五)委托证券交易所和证券登记结算机构代征证券交易印花税，税务机关按代征税款的0.3％支付；委托有关单位代征代售印花税票按代售金额5％支付。<br><br>    (六)税务机关委托单位或个人代征其他零星分散、异地缴纳的税收，税务机关按不超过代征税款的5％支付。<br><br>    三、“三代”的管理<br><br>    税务机关应严格按照《中华人民共和国税收征收管理法》及其实施细则有关规定和精细化管理的要求开展“三代”工作。除另有规定外，未经财政部、国家税务总局批准，税务机关不得自行扩大“三代”范围和提高“三代”税款手续费支付比例。<br><br>    (一)税务机关应对负有代扣代缴、代收代缴义务的扣缴义务人办理扣缴税款登记，核发扣缴税款登记证件。<br><br>    对法律、行政法规没有规定负有代扣代缴、代收代缴税款义务的单位和个人，税务机关不得要求履行代扣代缴、代收代缴税款义务。<br><br>    (二)税务机关委托代征应对代征单位或个人进行资格审定，必须具备以下条件，税务机关方可委托：<br><br>    1．财务制度健全、便于税收控管和方便纳税、能够独立承担民事责任，有熟悉税收政策的专门办税人员，并具有承担税收代征条件的单位。<br><br>    2．责任心强、具有高中以上文化、熟悉税收政策，能够独立承担民事责任，没有不良记录的个人。<br><br>    (三)税务机关委托单位和个人代征税款应签定委托代征协议书，明确双方的权利和义务，职责与责任。<br><br>    (四)委托代征应使用全国统一的代征协议文本，核发委托代征证书。<br><br>    (五)税务机关应监督代征单位和个人按照法律、法规和税务机关的规定代征税款、解缴票款。<br><br>    四、手续费的预算管理<br><br>    (一)“三代”税款手续费纳入预算管理，由财政通过预算支出统一安排。<br><br>    (二)各级国税机关负责征收的税款应支付的“三代”税款手续费，由中央财政负担；各级地税机关负责征收的税款应支付的“三代”税款手续费，由省级财政(含计划单列市，下同)明确负担办法。<br><br>    (三)各级税务机关应根据“三代”工作开展的实际情况，实事求是地编制预算，并按照财政部门编制部门预算的有关程序和要求向财政部门编报“三代”税款手续费预算。<br><br>    教育费附加的手续费预算，按代扣、代收、代征所划缴正税的手续费比例编制。<br><br>    (四)财政部、地方各级财政部门根据批复的“三代”税款手续费预算，及时核批用款计划或拨付经费。各级税务机关按照实际发生额及时支付相关手续费。<br><br>    (五)国税机关、地税机关支付的“三代”税款手续费，分别由财政部与国家税务总局、省级或者省以下财政部门与地税部门在下一年进行据实清算。不足部分，在下年预算中弥补；结余部分，相应扣减下年“三代”税款手续费预算。<br><br>    五、手续费核算管理<br><br>    (一)各级税务机关应当单独设置会计科目，及时、全面、完整核算“三代”税款手续费收支情况。<br><br>    (二)“三代”税款手续费的请领和核拨，按财政部有关规定执行。<br><br>    (三)省级国税机关应在每年年初将上年“三代”税款手续费收支情况报财政部驻各地财政监察专员办事处，经审核签章后，汇入部门决算报国家税务总局。国家税务总局汇总后报送财政部。<br><br>    财政部驻各地财政监察专员办事处对“三代”税款手续费进行实地抽样审查，并在10个工作日内完成。<br><br>    (四)对地税部门“三代”税款手续费核算要求，由省级地方税务局和省级财政部门比照国税部门共同确定。<br><br>    六、手续费支付管理<br><br>    (一)税务机关应按照本通知规定的比例支付“三代”税款手续费。<br><br>    (二)税务机关对单位和个人未按照法律、行政法规或者委托代征协议规定履行代扣、代收、代征义务的，不得支付“三代”税款手续费。<br><br>    (三)税务机关应在“三代”单位和个人申报并结报票款后，按有关规定支付“三代”税款手续费。对不能及时支付的，应予说明，并在一个季度内结清，最长不得超过6个月。<br><br>    (四)因税务机关的原因，未领或少领“三代”手续费的单位和个人，有权要求税务机关按照规定及时支付手续费。<br><br>    因“三代”单位和个人自己的原因，三年不到税务机关领取“三代”税款手续费的，税务机关将停止支付手续费。<br><br>    (五)税务机关之间委托代征税款，不得支付手续费。<br><br>    (六)“三代”单位所取得的手续费收入应该单独核算，计入本单位收入，用于“三代”管理支出，也可以适当奖励相关工作人员。<br><br>    七、手续费的监管<br><br>    (一)各级税务机关应加强对“三代”税款手续费监督检查，严禁将“三代”税款手续费作为税务机关的行政经费或者挪作它用，也不得用行政经费垫付“三代”税款手续费。<br><br>    有关部门应及时查处“三代”税款手续费中发生的各种违纪行为，并按规定追究有关人员的责任。<br><br>    (二)财政部驻各地财政监察专员办事处要加强对代扣、代收和代征税款手续费管理的监督检查。对违规使用的手续费，应责令限期予以收回；对违规提退的手续费，应责成以原预算科目补缴入库，并依照法律法规追究有关单位和人员的责任。<br><br>    (三)除法律、行政法规另有规定外，各级税务机关均不得从税款中直接提取手续费或办理退库。各级国库不得办理代扣、代收、代征税款手续费退库。<br><br>    本通知自2006年1月1日起执行。省级财政部门和省级税务部门应根据本通知规定制定本省具体管理办法。原有规定与本通知不一致的，按本通知规定执行。<br><br>                    财政部 国家税务总局 中国人民银行<br>                        二○○五年十一月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交公路发[2005]351号<BR>&nbsp;&nbsp;【发布日期】2005-08-10<BR>&nbsp;&nbsp;【生效日期】2005-08-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/05zhuzhi/gonglus/gonglusiglyhygl/t20050812_26170.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于加强治超站点管理规范治超执法行为的通知<br><br></font>(交公路发[2005]351号)</p><br><br><br>各省、自治区、直辖市、新疆建设兵团交通厅（局、委），天津市市政工程局，上海市市政工程管理局：<br><br>    今年以来，各级交通主管部门严格按照国务院办公厅《关于加强车辆超限超载治理工作的通知》（国办发[2005]30号，以下简称《通知》）精神，以及今年6月20日全国治超电视电话会议的有关要求，进一步加大治超工作力度，取得了明显成效。但近一段时间，一些治超站点出现管理松懈，少数执法人员行为不规范的情况，个别地方甚至出现与社会闲散人员内外勾结、收钱放车的严重违法违纪行为，如河南焦作温县黄河大桥治超检查站因执法人员集体违法被新闻媒体曝光，在社会上造成恶劣的影响。为深入贯彻落实《通知》精神，进一步加强对治超站点的管理，规范治超执法行为，确保全国治超工作的持续深入开展，现将有关问题通知如下：<br><br>    一、加强领导，抓好执法队伍建设<br><br>    目前全国治超工作已进入巩固成果、依法严管、重点突破、有效推进的新阶段。加强治超执法队伍管理，规范执法行为，真正把各项治超工作的政策和措施不折不扣地执行好、落实好，是当前治超工作的一项紧迫任务，也是决定全国治超工作成败的关键。各级交通主管部门一定要高度重视，采取切实有效措施，真正带好执法队伍，管好执法人员，特别是一线执法人员，严格规范执法行为。<br><br>    （一）加强组织领导。各级交通主管部门要把加强执法队伍管理、规范执法行为作为一项重要工作，全面加强组织领导。特别是在研究部署治超工作时，要把执法队伍和执法行为的管理作为重点，提出具体的目标和任务，并分级细化，分解到每一个辖区、每一个实施单位、每一个责任人。各有关单位的主要领导要亲自负责，一级抓一级，层层签署责任状，层层抓监督落实，要让每一名执法人员、每一个单位的负责同志都要感到有动力，有压力，从而增强依法治超、规范治超的责任感。<br><br>    （二）加强培训教育。随着治超工作的不断深入和治理难度的加大，各级交通主管部门要不断加强对执法人员特别是一线执法人员的培训教育工作，要经常性地组织路政、运政、养路费稽征等执法人员进行教育和培训，让广大执法人员真正吃透新的治理政策和措施，从而真正理解好、执行好、落实好。要加强法制教育、业务教育和职业教育，规范工作程序，完善责任制度，切实提高执法队伍的整体素质，不断增加一线治超执法人员的工作责任心和依法办事的自觉性。<br><br>    （三）加强监督检查。各级交通主管部门要会同有关部门，加强对治超工作的监督检查。特别是对各基层治超责任单位和治超站点，要定期不定期地组织暗访检查和督察指导。要结合本地实际，制定专门的监督检查工作制度，要确保对每个治超站点每月开展至少一次的检查活动；建立上级领导与一线治超负责人定期谈话制度；对于经常出现问题或被新闻媒体曝光的地区和治超站点，要及时开展专项整顿，肃清队伍，严明纪律，举一反三，防微杜渐。要通过制度化的明查暗访和检查督导，进一步推动和指导各基层单位开展治超工作，规范执法行为，同时及时纠正一线执法人员在工作过程中出现的违法违纪行为，严肃查相关的处责任人。<br><br>    二、依法严管，进一步规范治超执法行为<br><br>    （一）坚持联合治超。各级交通主管部门要严格按照国办《通知》要求，充实一线执法人员，特别是要积极协调公安部门增加治超警力投入，并在当地政府的统一领导下，会同公安部门，统一标准，统一行动，联合对超限超载车辆进行集中整治。公路路政人员、运政执法人员、征费稽查人员要集中力量，依托经省级人民政府批准的治超站点，按照“以固定检测为主，辅以流动检测”的方式，共同构建超限超载监控网络，联合开展治超执法工作。<br><br>    （二）严格执法程序。一是实施治超执法处罚工作，必须要求由2名以上的执法人员共同参加，并首先向当事人出示《行政执法证》，没有执法资格的，一律不得上岗执行治超执法工作；二是不得在同一路段实行双向拦车检查，开展治超执法工作；三是治超执法必须严格遵守《交通行政处罚程序规定》及其他国家有关程序规定，坚持以事实为依据，以法律为准绳，要严格按照规定制作《询问笔录》和《违法行为通知书》等法律文书，并将有关事项及时告知管理相对人。四是必须通过设置的称重设备对车辆进行科学检测，据此界定车辆是否超限超载，严禁凭经验和目测进行断定。<br><br>    （三）规范罚款收费行为。对超限超载违法行为主体实施罚款和收费时，要严格使用省、自治区、直辖市财政部门统一制发的罚款和收费票据，不得使用省级以下财政部门的代收罚款收据或者其他代收罚款收据。要实现检测、开票、收款三分离。条件具备的地方，罚款要按照“罚缴分离”的原则，要求相对人到银行缴纳罚款，收费要严格执行“收支两条线”的规定。<br><br>    （四）确保交通畅通。各地交通主管部门在治超工作中要继续坚持确保交通畅通优先的原则，一是在货车流量特别是超限超载车辆流量特别大的路段，要配置动态称重设备进行预检，凡预检显示车辆未超限超载的车辆，治超检测站可免检放行；二是凡是空载行驶的货车和客车，治超站点不得要求其进站检测；三是一旦出现交通严重堵塞的情况，对明显不超限超载的车辆，可先放行，减小检测范围，缩短拥堵时间，防止因治超而造成交通严重堵塞。<br><br>    三、建章立制，切实加强治超站点的管理<br><br>    各级交通主管部门要切实按照国办《通知》的要求，在构建全国超限超载车辆监控网络的同时，要立足长效治理的要求，逐步采取措施，加强和规范治超站点的管理。<br><br>    （一）对现有治超站点进行全面清理。所有在公路上设置的超限超载检测站点必须经过省级人民政府的批准。未经批准的治超站点，要及时予以撤销合并。同时，要结合公路基础设施建设，经省级人民政府批准，设置一批布局合理、标准规范的超限超载检测站，逐步形成全国超限超载车辆监控网络，对超限超载车辆实行长期、有效的监控管理。<br><br>    （二）逐步改善治超站点的条件。各级交通主管部门要积极向政府汇报，争取政府财政支持，加大资金投入，改善治超站点的执法工作和生活条件。特别是要确保治超站点的日常运营经费和人员工资补助，防止治超站点出现依靠罚款、收费来养站养人的现象。<br><br>    （三）建立健全治超站点管理规章制度。各省级交通主管部门要加强对本行政辖区内治超站点的管理。要会同有关部门，结合本地实际情况，就治超站点的作业流程、人员配备和管理、岗位职责、行为规范、财务和票据管理、审计监督等分别制定统一的规章制度。对治超站点要实行站长负责制，同时要加强对站长的选拔和考核管理工作，本辖区内的治超站长要实行定期轮换制度，从而形成良好的治超站点运行机制。<br><br>    （四）推进治超站点政务公开。各省级交通主管部门要结合治超监控网络建设，加快治超站点信息化进程，尽快在本省级辖区内的治超站点配备统一的治超信息管理系统，确保车辆检测、登记、处罚、执法文书等一线基础性工作信息资料全部实行计算机管理，自动化汇总报送，以减少人为干扰因素，实现治超工作政务公开。同时，各治超站点要公开举报电话，全面接受社会各界和人民群众的监督。<br><br>    四、明确纪律，严格实行治超违法责任追究制度<br><br>    （一）交通行政执法人员在治超执法工作中，要严格遵守以下“十条禁令”：<br><br>    一是严禁刁难、辱骂、殴打驾驶人员；二是严禁在治超工作时间饮酒；三是严禁伙同社会闲散人员通过收费带车放车或以其他约定形式擅自放行超限超载车辆；四是严禁接受与治超执法有关的吃请或馈赠；五是严禁对同一超限超载违法违章行为进行重复罚款；六是严禁利用职权参与或者让其亲属、朋友参与对超限超载车辆实施卸载的经济活动；七是严禁对超限超载车辆不卸载而只实施罚款和收取赔（补）偿费的行政处罚；八是严禁将超限超载车辆长时间扣留而不处理；九是严禁将罚款和收取的公路（补）偿费纳入小金库或者中饱私囊；十是严禁违法扣留运输车辆、车辆行驶证、道路运输证。<br><br>    （二）对于治超工作中出现的违法乱纪治超站点和工作人员，各级交通主管部门要会同有关部门认真查处，严惩不怠，建立健全并严格执行治超违法责任追究制度。<br><br>    1、对于违反规定，不认真执行《通知》以及国家其他有关治超工作的政策措施，或者对超限超载违法行为不制止、不作为的治超站点，要由其上一级主管部门追究治超站点主管单位领导的责任。<br><br>    2、对聘用无执法资格人员上岗进行执法的，要立即解聘其所聘用的工作人员；对于交通系统工作人员无执法资格但上岗执法的，要调离执法岗位；对在治超工作中损害道路运输从业者合法权益的，依法给予行政处分，直至追究其相应的法律责任。<br><br>    3、持有执法资格证的公路交通执法人员违反本通知规定“十条禁令”，造成恶劣影响的，要一律取消行政执法资格，调离执法岗位，同时按照有关规定给予行政记过、党内警告等党纪政纪处分；情节严重的，还要予以辞退或开除公职；构成犯罪的，移交司法机关处理。<br><br>    4、对于各地治超工作中出现的违法违纪案件，由各省、自治区、直辖市交通主管部门在本行政区域内予以通报，并报交通部备案；严重违法违纪或者影响大、性质恶劣的典型案件，交通部将会同有关部门将重点督办查处，公开曝光，并通报全国。<br><br>中华人民共和国交通部<br>二○○五年八月十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监注[2008]271号<BR>&nbsp;&nbsp;【发布日期】2008-06-03<BR>&nbsp;&nbsp;【生效日期】2008-06-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/30470_6.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中药质量标准不明确的判定标准及处理原则<br><br></font>(国食药监注[2008]271号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为做好过渡期品种集中审评工作，按照《过渡期品种集中审评工作方案》和公开、公平、公正的原则，依据《药品注册管理办法》和有关技术指导原则，国家局组织制定了《化学药品技术标准》、《多组分生化药技术标准》、《中药质量标准不明确的判定标准及处理原则》、《含濒危药材中药品种处理原则》和《化学药品研究资料及图谱真实性问题判定标准》。现予印发，自印发之日起执行。<br><br><br>    附件：1．化学药品技术标准?<br>          2．多组分生化药技术标准?<br>          3．中药质量标准不明确的判定标准及处理原则?<br>          4．含濒危药材中药品种处理原则?<br>          5．化学药品研究资料及图谱真实性问题判定标准<br><br>                                                        国家食品药品监督管理局<br>                                                          二○○八年六月三日<br> <br><br>中药质量标准不明确的判定标准及处理原则<br><br>    现行《药品注册管理办法》实施前申报的中药8、9类注册申请是依据2002年12月颁布实施的《药品注册管理办法（试行）》和2005年5月颁布实施的《药品注册管理办法》，按照工艺无质的改变申请减免临床试验直接申报生产的改剂型注册申请，以及申报生产的仿制药申请。减免临床试验的前提是药用物质的一致性，处方、工艺等的一致是保证改剂型产品与原剂型的一致，仿制药与已上市药品一致的基础。技术审评中，有部分改剂型及仿制的中药注册申请存在原质量标准不明确的情况，如质量标准中处方、工艺、日服（用）生药量等不明确，难以保证申请注册的品种与原剂型或已有国家标准品种的一致性。如何评价质量标准不明确对此类药品注册申请的安全性、有效性的影响，应遵循以下原则：<br><br>    药品质量标准是判断上述一致性的重要依据。当原质量标准不明确时，难以保证二者的一致性，进而无法评价申请注册品种的安全性和有效性。标准不明确具体包括以下情况：<br><br>    （一）中药质量标准中的处方、制法、日服（用）生药量不明确的品种，申请改剂型或仿制时难以保证药用物质的一致性。<br>    处方不明确的情形包括：标准中无处方、处方药味或剂量不全、处方中原料无法定标准。<br>    日服（用）生药量不明确的情形包括：制成总量、每次用量、用药次数等不明确，且无法通过【制法】或【规格】项推算出日服（用）生药量的。<br>    外用制剂的制成总量、日用生药量不明确的判断标准见《外用制剂相关问题的处理原则》。<br>    制法不明确的判断标准见《工艺相关问题的处理原则》。<br><br>    （二）凡列入《中成药品种国家秘密技术项目名单》或《国家秘密技术项目目录（中成药部分）》的中药品种，不得改剂型或仿制（秘密技术持有单位除外）。<br><br>    （三）中药质量标准仅发送注册申请人和相关药品监督管理部门的，申请改剂型或仿制时难以保证药用物质的一致性。<br><br>    （四）中药质量标准应以最新版的标准作为判断药用物质一致性的依据。<br>    如果原标准中处方、制法有误，正在药品监督管理部门修订当中的，原标准也不能作为判断药用物质一致性的依据。<br><br>    （五）中药质量标准不明确，申请人在申请改剂型或仿制时提供了以下证明性文件的，可依据申请人提供的文件判断药用物质的一致性。<br>    1．申请人为持有原剂型药品批准文号的药品生产企业，申请改剂型时应提供原剂型药品批准证明文件，包括药品注册批准文件及质量标准等附件；<br>    2．申请人为非持有原剂型药品批准文号的药品生产企业，申请改剂型或仿制时应提供持有已上市药品批准文号的药品生产企业出具的授权书和签章的完整质量标准；<br>    3．申请人持有2005年5月1日以前国家药典委员会出具的核实质量标准的证明文件的（应为原件）。<br><br>    （六）对于可能存在专利侵权问题的中药8、9类注册申请，申请人应就该申请是否可能侵犯他人知识产权进行说明，并提供充分的证据。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

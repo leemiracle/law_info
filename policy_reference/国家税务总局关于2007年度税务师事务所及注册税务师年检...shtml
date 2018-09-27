@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2008〕117号<BR>&nbsp;&nbsp;【发布日期】2008-01-30<BR>&nbsp;&nbsp;【生效日期】2008-01-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7494378.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于2007年度税务师事务所及注册税务师年检工作的通知<br> <br></font>(国税函〔2008〕117号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    为贯彻落实全国注册税务师管理工作精神，实现行业监管工作的重点转移，现将税务师事务所（以下简称"事务所"）及注册税务师2007年度检查（以下简称"年检"）的有关问题通知如下：<br>    一、 年检时间<br>    年检时间为2008年2月11日至5月31日；年检年度为2007年1月1日至12月31日。<br>    二、年检对象<br>    经批准成立的事务所及分所和执业注册税务师。<br>    三、年检内容<br>    2007年检工作以执业质量为重点，对事务所和执业注册税务师遵循业务规程、业务准则、执业准则等方面进行全面检查，同时对执业资格、执业行为等方面也要进行检查。<br>    四、事务所年检项目与处理标准<br>    （一）执业质量<br>    1.凡具有下列情形之一的，年检不予通过，责令2个月内整改，情节严重的，责令其整改期间停止执业，收回事务所执业证；整改期满仍达不到规定要求的，注销事务所执业证。<br>    （1）未与委托人签订业务约定书或业务约定书填写不全；<br>    （2）未按规定编制业务工作底稿或编制业务工作底稿不完整、记录不清晰；<br>    （3）业务工作底稿未建立逐级复核制度或业务工作底稿复核不规范；<br>    （4）鉴证报告内容不完整或鉴证报告不规范；<br>    （5）鉴证报告未实行三级审核签发制度或流于形式；<br>    （6）未获取充分、适当的证据支持鉴证结论；<br>    （7）因过失出具不恰当的鉴证报告；<br>    （8）业务档案资料不完整，管理制度不健全。<br>    2.凡具有下列情形之一的，年检不予通过，责令其停止执业，收回事务所执业证。<br>    （1）隐瞒发现问题，出具不实鉴证报告；<br>    （2）与委托方串通作弊，故意出具虚假鉴证报告。<br>    （二）执业资格<br>    凡具有下列情形之一的，年检不予通过，责令2个月内整改，情节严重的，责令其整改期间停止执业，收回事务所执业证；整改期满仍达不到规定要求的，注销事务所执业证，并向社会公告。<br>    1.注册税务师或从业人员未达到规定标准；<br>    2.发起人或合伙人以及出资人不符合规定条件；<br>    3.事务所发起人同时在2个以上事务所出资或执业；<br>    4.事项变更未按规定和程序办理相关手续；<br>    5.分所设立和管理不符合规定要求；<br>    6.无正当理由拒绝在规定时间参加年检。<br>    （三）其他方面<br>    1.凡具有下列情形之一的，年检不予通过，责令2个月内整改，情节严重的，责令其整改期间停止执业，收回事务所执业证；整改期满仍达不到规定要求的，向社会公告。<br>    （1） 采取强迫、欺诈等不正当方式招揽业务；<br>    （2）受到《注册税务师管理暂行办法》第四十三条、第四十四条所列行政处罚；<br>    （3）未按规定进行纳税申报及缴纳税款或有偷税行为。<br>    2.受到《注册税务师管理暂行办法》第四十五条所列行政处罚情节严重的，年检不予通过，注销事务所执业证，并向社会公告。<br>    五、执业注册税务师年检项目与处理标准<br>    （一）凡具有下列情形之一的，年检不予通过，责令2个月内整改，整改期间不得对外行使注册税务师签字权；整改期满仍达不到规定要求的，注销执业资格。<br>    1.同时在2个以上事务所出资或进行虚假出资；<br>    2.允许或默认他人以本人名义作为事务所出资人出资；<br>    3.允许或默认他人以本人名义接受事务所其他出资人转让股份。<br>    （二）凡具有下列情形之一的，年检不予通过，不得继续执业，注销其执业资格：<br>    1.同时在2个以上事务所或其他社会中介机构执业又不改正；<br>    2.连续2年有不良执业记录；<br>    3.连续2年未参加年检；<br>    4.无正当理由拒绝在规定期限内进行年检。<br>    （三）具有《注册税务师管理暂行办法》第二十五条、第二十六条所列行为2次以上处罚记录的，年检不予通过，注销执业资格。<br>    （四）受到《注册税务师管理暂行办法》第四十二条和第四十四条所列行政处罚的，在年检公告时向社会公告。<br>    （五）受到《注册税务师管理暂行办法》第四十五条所列行政处罚情节严重的，注销执业资格并向社会公告。<br>    六、年检报送材料<br>    （一）事务所<br>    1.《税务师事务所年检登记表》（附件1）；<br>    2.事务所执业证（副本）和工商营业执照（副本）复印件；<br>    3.《税务师事务所人员情况表》（附件2）；<br>    4.财务会计报表。<br>    （二）执业注册税务师<br>    1.《注册税务师年检登记表》（附件3）；<br>    2.注册税务师资格证书、注册证书原件及复印件。<br>    七、年检方式与程序<br>    （一） 注册税务师和事务所自检<br>    事务所和执业注册税务师应按照本通知年检的内容与标准首先进行自检，事务所应填写年检登记表，并对填写材料的真实性负责，执业注册税务师也应如实填写年检登记表，事务所负责人应对表中的内容予以审查并签署意见；自检结束后，事务所应将《税务师事务所年检登记表》和《注册税务师年检登记表》以及年检要求报送的其他材料报所在地县税务机关。<br>    （二）市、县税务机关审核<br>    县税务机关应分别对事务所上报的年检材料逐项进行审验，并签署意见加盖公章，而后将年检材料报市税务机关；市税务机关对年检材料进行审核并签署意见加盖公章后，将年检材料汇总后上报省注册税务师管理中心。<br>    （三）省注册税务师管理中心组织检查<br>    省注册税务师管理中心对市、县税务机关上报的年检材料进行复查，并根据需要对本地区的事务所进行实地抽查；检查结束后，在《税务师事务所年检登记表》和《注册税务师年检登记表》中签署年检意见，填写《注册税务师及税务师事务所年检情况汇总表》（附件4），并将年检结果在本地区主要报刊及行业网站进行公告，同时以文件形式发送市、县税务机关。<br>    （四）全国重点抽查<br>    国家税务总局根据各地年检开展情况组织重点抽查，并将抽查情况进行通报。<br>    八、年检要求<br>    （一）高度重视，统一部署。开展注册税务师和事务所年检是加强行业监管的重要手段，是促进行业健康发展的有效途径，各级国家税务局、地方税务局要高度重视，充分发挥注册税务师行业领导工作小组的作用，加强组织领导与协调配合，并根据本通知精神，结合本地区的实际情况，统一部署，确保年检工作有序开展。具体工作由省注册税务师管理中心负责组织实施。<br>    （二）突出重点，取得实效。各地要严格按照本通知规定的年检内容、处理标准和年检程序，并结合《国家税务总局关于印发〈企业财产损失所得税税前扣除鉴证业务准则〉（试行）的通知》（国税发[2007]9号）和《国家税务总局关于印发〈企业所得税汇算清缴纳税申报鉴证业务准则〉（试行）的通知》（国税发[2007]10号）的有关规定，重点对事务所的执业质量进行检查。要进一步细化年检项目，将工作落实到位。对违规违法行为要加大处罚力度，确保年检工作取得实效。对通过和未通过的事务所和执业注册税务师要予以记录，及时向当地税务机关通报，并向社会公告。<br>    （三）总结上报，情况反馈。年检工作结束后，各地应及时进行总结，并于2008年6月30日前将年检工作总结报告及《注册税务师及税务师事务所年检情况汇总表》，上报国家税务总局（注册税务师管理中心）。国家税务总局将各地年检开展情况及抽查情况进行通报，对年检开展好的地区予以表扬，同时对年检工作不重视、落实不力的地区予以批评。<br>    附件：1.税务师事务所年检登记表<br>?        2.税务师事务所人员情况表<br>          3.注册税务师年检登记表<br>          4.省（区、市）注册税务师及税务师事务所年检情况汇总表<br>            5.关于填写注册税务师及税务师事务所年检情况报表的说明<br><br>                                                  国家税务总局<br>                                                  二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

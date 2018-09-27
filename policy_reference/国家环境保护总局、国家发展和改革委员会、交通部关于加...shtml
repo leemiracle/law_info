@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局、国家发展和改革委员会、交通部<BR>&nbsp;&nbsp;【发布文号】环发〔2007〕184号<BR>&nbsp;&nbsp;【发布日期】2007-12-01<BR>&nbsp;&nbsp;【生效日期】2007-12-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/huangfa/200712/t20071210_114041.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局、国家发展和改革委员会、交通部关于加强公路规划和建设环境影响评价工作的通知<br><br></font>(环发〔2007〕184号)</p><br><br> <br>各省、自治区、直辖市环境保护局（厅），发展和改革委员会，交通厅（局、委）：<br><br>    近年来，我国公路交通快速发展，公路交通基础设施建设在推动国民经济社会发展、促进地区间交流等方面发挥了重要作用。为建设资源节约、环境友好型公路交通行业，各级环保、发展改革、交通主管部门出台了一系列政策措施，不断强化管理，总体上实现了公路建设与环境保护协调发展。但是，公路建设特别是高速公路建设不可避免地占用土地，扰动环境，部分公路建设还涉及到自然保护区、风景名胜区、饮用水源保护区等环境敏感区，公路交通噪声污染问题也日渐突出。<br><br>    为贯彻以人为本、全面协调可持续的科学发展观，落实《国民经济和社会发展第十一个五年规划纲要》和《国务院关于落实科学发展观加强环境保护的决定》，进一步规范公路规划和建设环境影响评价工作，现就有关事项通知如下：<br><br>    一、依法做好公路规划环境影响评价工作<br><br>    （一）各省级交通主管部门根据本地区经济社会发展需要，在组织编制公路规划时，应结合生态功能区划、土地利用总体规划及其他相关规划，按照“统筹规划、合理布局、保护生态、有序发展”的原则，从优化交通资源配置，完善网络结构等方面出发，科学合理地确定公路建设布局、规模和技术标准，并按规定程序审批。<br><br>    （二）根据《环境影响评价法》和国务院批准的规划环境影响评价范围的有关规定，在组织编制或修编国、省道公路网规划时，应当编制环境影响报告书，对规划实施后可能造成的环境影响进行分析、预测和评估，提出预防或减缓不利环境影响的对策措施。按照上述要求，未进行环境影响评价的公路网规划，规划审批机关不予审批，未进行环境影响评价的公路网规划所包含的建设项目，交通主管部门不予预审,环保主管部门不予审批其环境影响评价文件。<br><br>    （三）在公路网规划编制或修编过程中，要做好与相关规划的衔接与协调，增强规划的科学性和可操作性，必要时，应在报批规划前征求有关单位、专家和公众的意见。经批准的公路网规划在建设布局上发生重大调整变更，需要重新编制和报批规划时，应当重新进行环境影响评价。按规定进行了环境影响评价，且规划已经批准后，其他相关规划应与公路网规划相协调。<br><br>    二、严格公路建设项目准入条件，加强环境影响评价<br><br>    （一）公路建设项目应当符合经批准的公路网规划，严格按照建设程序规范各项前期工作。建设单位必须依照《环境影响评价法》、《建设项目环境保护管理条例》和《国务院关于投资体制改革的决定》规定的程序，在批准可行性研究报告或核准项目前，编制完成公路项目环境影响评价文件，经交通行业主管部门预审后，报有审批权的环保行政主管部门审批。环境影响评价文件未经环保主管部门审批，发展改革部门不予批准可行性研究报告或核准项目，建设单位不得开工建设。<br><br>    （二）环境影响评价文件经批准后，公路项目的主要控制点发生重大变化、路线的长度调整30%以上、服务区数量和选址调整，需要重新报批可行性研究报告，以及防止生态环境破坏的措施发生重大变动，可能造成环境影响向不利方面变化的，建设单位必须在开工建设前依法重新报批环境影响评价文件。<br><br>    （三）新建公路项目，应当避免穿越自然保护区核心区和缓冲区、风景名胜区核心景区、饮用水水源一级保护区等依法划定的需要特殊保护的环境敏感区。因工程条件和自然因素限制，确需穿越自然保护区实验区、风景名胜区核心景区以外范围、饮用水水源二级保护区或准保护区的，建设单位应当事先征得有关机关同意。  <br><br>    （四）公路工程建设应当尽量少占耕地、林地和草地，及时进行生态恢复或补偿。经批准占用基本农田的，在环境影响评价文件中，应当有基本农田环境保护方案。<br><br>    要严格控制路基、桥涵、隧道、立交等永久占地数量，有条件的地方可以采用上跨式服务区。尽量减少施工道路、场地等临时占地，合理设置取弃土场和砂石料场，因地制宜做好土地恢复和景观绿化设计。平原微丘区高速公路建设应尽可能顺应地形地貌，采用低路基形式。山区高速公路建设要合理运用路线平纵指标，增加桥梁、隧道比例，做好路基土石方平衡，防止因大填大挖加剧水土流失。<br><br>    （五）可能对国家或者地方重点保护野生动物和野生植物的生存环境产生不利影响的公路项目，应当采取生物技术和工程技术措施，保护野生动物和野生植物的生境条件。可能阻断野生动物迁徙通道的，应当根据动物迁徙规律、生态习性设置通道或通行桥，避免造成生境岛屿化。可能影响野生植物和古树名木的，应优先采取工程避让措施，必要时进行异地保护。<br><br>    （六）噪声环境影响预测应严格按照国家和行业有关技术规范导则进行，并结合公路工程可行性研究阶段线位不确定性的特点，提出相应的防治噪声污染措施。初步设计阶段，应当依据经批准的环境影响评价文件，落实防治噪声污染的措施及投资概算。经过噪声敏感建筑物集中的路段，应通过优化路线设计方案、使用低噪路面结构等进行源头控制，采取搬迁、建筑物功能置换、设置声屏障、安装隔声窗、加强交通管控等措施进行防治，减轻公路交通噪声污染影响，确保达到国家规定的环境噪声标准。严格控制公路两侧噪声敏感建筑物的规划和建设，防止产生新的噪声超标问题。<br><br>    （七）公路建设应特别重视对饮用水水源地的保护，路线设计时，应尽量绕避饮用水水源保护区。为防范危险化学品运输带来的环境风险，对跨越饮用水水源二级保护区、准保护区和二类以上水体的桥梁，在确保安全和技术可行的前提下，应在桥梁上设置桥面径流水收集系统，并在桥梁两侧设置沉淀池，对发生污染事故后的桥面径流进行处理，确保饮用水安全。<br><br>    （八）除国家规定需要保密的情形外，编制环境影响报告书的公路项目，建设单位应当在报批环境影响报告书前，采取便于公众知悉的方式，公开有关建设项目环境影响评价的信息，收集公众反馈意见，并对意见采纳情况进行说明。环保主管部门在受理环境影响报告书后，应当向社会公告受理的有关信息，必要时，可以通过听证会、论证会、座谈会等形式听取公众意见。<br><br>    三、强化监督管理，切实落实各项生态环境保护措施 <br><br>    公路建设应在项目设计、施工和运行管理等各个阶段，高度重视生态环境保护和污染防治工作，严格执行建设项目环境保护“三同时”制度，规范工程建设管理的各项工作，确保符合有关环保要求。<br><br>    设计单位在项目设计时，应当依据环境影响评价文件，落实各项生态环境保护措施，将环保投资纳入工程概算。建设单位应当按照环境影响评价文件的要求，制定施工期工程环境监理实施方案，并提交交通、环保主管部门，在施工招标文件、合同中明确施工单位和监理单位的环境保护责任，将工程环境监理纳入工程监理，定期向环保、交通主管部门提交工程环境监理报告。施工单位要严格按照合同中的环保要求，落实各项环保措施。<br><br>    各级交通和环保主管部门应加强公路建设、运行过程中的环保监督管理，必要时开展环境影响后评价工作。<br><br>国家环境保护总局<br>国家发展和改革委员会<br>交通部<br>二○○七年十二月一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

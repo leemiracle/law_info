@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办函〔2006〕53号<BR>&nbsp;&nbsp;【发布日期】2006-08-11<BR>&nbsp;&nbsp;【生效日期】2006-08-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-08/14/content_187147.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于云南省近期发生四起特大安全事故的通报<br><br></font>(安委办函〔2006〕53号)</p><br><br><br>云南省安全生产委员会：<br><br>    进入7月份以来，你省又一次在不到一个月的时间内，连续发生4起特大安全事故，造成66人死亡或失踪： <br><br>    7月11日,云南交通运输集团公司宣威公司一辆车牌为云D18899的客车，行至曲靖市陆良县324国道K2541KM+500M处，与昆明交通运输集团公司一辆车牌为云A37501的客车迎面相撞，造成21人死亡、34人受伤。 <br><br>    7月29日, 曲靖市富源县滇东能源公司白龙山煤矿（基建矿）掘进工作面发生煤与瓦斯突出事故，造成11人死亡。 <br><br>    8月9日，昭通市交通运输集团公司巧家县分公司，一辆车牌为云C06166的大客车由巧家县驶往昭通市，车辆核载35人，实载35人，行驶至巧家县包谷脑天生桥时翻入牛栏江，造成24人失踪，其中22人为中学生。 <br><br>    8月10日，昆明市官渡区小板桥镇鸣泉村委会陈旗营村一出租房发生火灾，造成10人死亡。 <br><br>    今年以来，你省共发生特大安全事故11起、死亡167人（其中道路交通事故9起，煤矿事故1起，火灾事故1起），分别占全国特大以上安全事故起数和死亡人数的16.7％、15.2％（其中特大交通事故起数和死亡人数分别占全国特大交通事故的29％和33％）。 <br><br>    针对你省今年特大事故特别是特大道路交通事故多发的情况，国务院安委会办公室于5月15日已向你省发出了《关于云南省近期发生多起特大道路交通事故的紧急通报》（安委办函〔2006〕29号）（以下简称《紧急通报》），你省人民政府还专门印发了《云南省预防特大道路交通事故专项整治行动方案》，但在近期又连续发生4起特大安全事故，说明你省落实《紧急通报》要求还有一定差距，也反映出你省在道路交通、矿山开采和消防安全等行业和领域的安全生产工作中还存在较多的薄弱环节和突出问题：一是一些企业特别是道路交通运输企业安全生产主体责任和法定代表人负责制不落实，从业人员素质低，规章制度不健全，安全措施不到位，管理工作不严格；二是一些地方、部门安全监管工作责任不落实，执法不严、监管不力、工作不实；三是专项整治特别是道路交通整治工作任务和措施落实不到位；四是一些重点行业和领域的事故隐患排查不全面、整改不彻底；五是对一些事故特别是特大道路交通事故的查处不严格、不认真，责任追究不到位。 <br><br>    为认真吸取事故教训，坚决遏制重特大安全事故的发生，现提出如下要求： <br><br>    一、请立即对你省特大安全事故频发的问题进行深刻分析，查找安全生产工作中存在的突出问题和漏洞，制定有针对性的整改措施，切实遏制特大事故多发的势头，并于8月24日前以省安委会的名义将自查报告和整改情况报送国务院安委会办公室。 <br><br>    二、请立即在道路交通、矿山、人员密集场所等事故多发的行业和领域认真开展道路隐患、车辆隐患、矿山隐患和火灾隐患的排查与整改工作，对发现的隐患要建档登记，明确整改负责人和整改时限，并根据隐患类型和危险程度，从资金、技术等方面制定有针对性的整改和监控措施，确保隐患得到及时彻底整改。 <br><br>    三、对已发生的特大事故，要严格按照《云南省人民政府办公厅关于印发〈云南省安全生产事故调查暂行规定〉的通知》（云政办发〔2005〕225号）规定，以及国务院安委会办公室《关于加强安全生产事故调查处理和道路交通安全监督管理工作的意见》（安委办函〔2006〕36号）要求，加快事故查处，严格责任追究，严惩事故责任人，并向社会公开处理结果。请于9月30日前将今年以来发生的11起特大事故的调查处理结果和责任人追究情况报送国务院安委会办公室。 <br><br>    四、要认真贯彻落实胡锦涛总书记在中央政治局第30次集体学习和温家宝总理在全国安全生产工作会议上的重要讲话精神，加强对安全生产工作的领导，把安全生产的两个"负责制"和"两个主体责任"落实到实处。要按照国务院安委会办公室《紧急通报》要求，加强生产经营单位的安全管理工作，督促企业建立健全安全生产规章制度，加强对从业人员的教育培训与管理，落实各个工种岗位和各级安全生产责任，加大安全投入，改善安全条件，确保安全生产。要加强政府相关部门的安全监管工作，强化责任意识，严格执法，把安全监管责任落实到每个执法人员。结合云南省道路交通运输、矿山开采、消防安全等重点行业和领域的实际，研究制定治本之策，采取切实有效措施，建立安全生产长效机制，大幅减少重特大事故的发生。 <br><br>    五、加大安全宣传教育工作力度。要将今年已发生的11起特大安全事故作为典型案例，通过广播、电视、报刊、网络等媒体，开展安全宣传教育活动，使从业人员及广大群众从中吸取教训，掌握安全知识，增强防范意识，切实在全省范围内营造"人人关爱生命、人人防范事故、人人关注安全"的氛围。 <br><br>    六、要做好自然灾害预防工作。目前正值台风、洪水、雷击等自然灾害多发期，要督促各有关部门认真贯彻国务院及安全监管总局等有关部门关于防范灾害、确保安全生产的要求，坚决消除麻痹思想和侥幸心理，做好灾害预防。要针对你省地形复杂、交通条件差以及煤层赋存条件复杂的特点，制定严密的安全监管方案，采取有针对性的措施，逐级逐层落实到位，确保安全生产。 <br><br>    七、要加强应急救援工作，最大限度地减少事故损失。各地、各部门、各单位都要制定并完善事故应急救援方案，加强值守应急工作，建立应急指挥机构和专兼职应急救援队伍，一旦发生事故，要做到灵敏反应、快速响应、有力施救、减少损失。 <br><br>    二00六年八月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

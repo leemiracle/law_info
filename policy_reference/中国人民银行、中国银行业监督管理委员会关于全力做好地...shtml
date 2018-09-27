@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国人民银行、中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】银发〔2008〕152号<BR>&nbsp;&nbsp;【发布日期】2008-05-19<BR>&nbsp;&nbsp;【生效日期】2008-05-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.pbc.gov.cn/detail.asp?col=100&ID=2684" target=_blank>中国人民银行 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国人民银行、中国银行业监督管理委员会关于全力做好地震灾区金融服务工作的紧急通知(第1号)<br><br></font>(银发〔2008〕152号)</p><br> <br><br>中国人民银行成都分行、西安分行、重庆营业管理部，兰州中心支行、昆明中心支行，四川、陕西、重庆、甘肃、云南省银监局，各政策性银行，国有商业银行，股份制商业银行，邮政储蓄银行：<br><br>    当前，抗震救灾工作进入关键阶段，为尽快向灾区群众提供最急需的金融服务，满足灾区居民基本生活需求，并为灾后重建做好准备，人民银行和银监会决定对受到地震灾害影响的四川、甘肃、陕西、重庆、云南等重灾省市实施恢复金融服务的特殊政策。现将各项特殊金融服务政策紧急通知如下：<br><br>    一、切实履行“六项服务承诺”，保证各项捐赠和救助资金及时到位。银行业金融机构都要切实履行“六项服务承诺”，特事特办，确保抗震救灾捐款、汇款通道顺畅运行；做好救灾款项的支付清算服务，确保救灾款项第一时间到达指定收款人账户；做好资金调运和汇划，保障灾区客户提取现金的需求，保证救灾款项及时入账和拨付；在保证安全的基础上，设法恢复受灾地区网点的正常营业，特殊情况下可设临时营业点，以保证客户办理业务的需求；对有关抗震救灾的国际救助资金快速办理，并尽可能减免费用；开启抗震救灾绿色授信通道，积极做好抗震救灾贷款投放，支持抗震救灾物资的及时采购和流通，对电力、通讯、公路、铁路等受灾害影响大的行业和企业采取特殊的金融服务支持，保证信贷审批效率，确保救灾贷款及时到位。<br><br>    二、紧急布设服务网点，确保受灾群众在安置点就近获得银行服务。由当地银监会派出机构和人民银行分支机构协调指定，在每个受灾群众集中安置区域，至少要有一家银行业金融机构设立网点，只要技术条件具备的，其他银行业金融机构应全力支持与合作，加紧改造相关系统，实现上述网点可受理其他银行业务，并免收客户各类相关跨行费用。同时，其他各金融机构要抓紧修复受损较小的营业网点，在保证员工人身和财产安全的前提下，及时恢复对外营业。对损毁严重、伤亡较重，不能正常营业的网点，各银行业金融机构总行要从全系统调配专业人员支援灾区，满足灾区网点正常营业的人员需求。根据灾区需要，安排充足的业务运作机具和相关设备，确保ATM机、电脑、发电机、不间断电源和保险箱等支持设备及时到位。要及时公告通知客户网点变更情况，确保受灾群众能够就近获得金融服务。当地人民银行分支机构要采取一切措施确保灾区现金供应和支付结算渠道畅通，帮助受损机构特别是当地农村信用社开展支付业务；当地银监会派出机构可以执行简便快捷、易行易控的特殊准入政策安排，同时做好临时银行营业网点非营业时间的安全管控。<br><br>    三、千方百计做好资金调度，采取灵活有效措施，确保受灾群众方便提取存款。根据受损的实际情况，尽一切力量保障受灾群众的存款支取。对于持有效存款凭证的，银行业金融机构应及时办理。对于有效存款凭证缺失，但存款人可以提供其他有效证明信息的，银行业金融机构可向其先行支付5000元以下的现金。对于其他可能出现的各类特殊情况，当地人民银行分支机构和银监局要及时组织商业银行迅速做出反应，提出安全可行的解决办法。对短期内恢复营业有困难的金融机构，当地银监局可协调其他银行业金融机构提供必要的技术和业务支持。<br><br>    四、妥善安排好灾害发生前已发放贷款的管理。各银行业金融机构要充分考虑到受灾地区群众和企业的实际困难，对灾区不能按时偿还各类贷款的单位和个人，不催收催缴、不罚息，不作不良记录，不影响其继续获得灾区其他救灾信贷支持。对借款人主动还款的，应及时周到地做好相应的服务工作。在条件许可的情况下，及时将上述措施以信函或公告等方式通知借款人。<br><br>    五、尽快做好受灾群众金融权益调查、跟踪和确认工作，尽力保障客户存款和银行资金等重要信息的安全。银行业金融机构在开展抗震救灾的同时，及时摸清各类财产，包括营业场所（如营业大楼、金库）、业务运作设备（如电脑、ATM机、POS机）、各类档案资料（如档案、合同、账册）等受灾情况，对各类财产损失要分门别类，准确评估登记；要保护好客户和银行机构各类业务数据和交易信息，尽快恢复备份数据；实时跟踪当地政府主管部门确认的罹难和失踪人员名单，严格确认客户身份信息，并及时核对其与本行相关债权债务基本信息，耐心妥善地处理好其家属和直接相关人员的查询核实工作。<br><br>    六、切实做好抗震救灾和灾区重建的信贷工作。银行业金融机构要加大资源调配力度，优先保证抗震救灾急需物资生产与流通的信贷需求。要抓紧制订灾区重建的信贷支持计划，合理调整信贷资源地区配置，从信贷总量、信贷资金和授信审查等多方面优先支持灾区重建。<br><br>    七、加强安全保卫，严防金融欺诈。确保重灾致损营业网点的安全，在保证人员搜救通道的前提下维护好划定的警戒线，设定专人轮流守护损毁的金库、保险箱、现金尾款箱等现场，确保现金安全。其他部分受损的网点和临时网点要做好金库守护和运钞安全工作，严格实施安全控制，保证网点安全运营。严防各类针对受灾地区银行服务的违法犯罪行为，发现问题应及时报告当地公安部门和监管部门，采取有效措施及时加以制止，同时保障银行员工人身和银行财产安全。<br><br>    八、加强协调，密切合作，为灾区恢复金融服务提供有力支持。有条件的重灾省市人民银行分支机构和银监会派出机构应适时公布服务热线电话或设置呼叫中心，及时了解灾区人民金融服务需求，并做好灾区金融服务政策等相关咨询工作；各银行业金融机构总行应尽全力对受灾地区网点提供支持，在可能和急需的情况下，积极协助受灾地区分支机构，配合当地人民银行分支机构和银监会派出机构对其他金融机构提供必要的帮助，共同做好恢复灾区金融服务工作。<br><br>    本通知相关内容适用四川、甘肃、陕西、重庆、云南等重灾省市，具体灾区范围由当地人民银行分支机构和银监局以县为单位进行划定。本通知从发文之日起施行，直至救灾工作基本结束，具体时间由当地人民银行和银监局根据实际情况确定。<br><br>    请人民银行分支机构和银监局联合将本通知迅速转发辖内银行业金融机构贯彻执行。<br><br>中国人民银行  中国银行业监督管理委员会<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

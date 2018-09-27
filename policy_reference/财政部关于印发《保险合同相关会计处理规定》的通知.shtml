@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财会[2009]15号<BR>&nbsp;&nbsp;【发布日期】2009-12-22<BR>&nbsp;&nbsp;【生效日期】2009-12-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://kjs.mof.gov.cn/kjs/zhengwuxinxi/zhengcefabu/200912/t20091230_254285.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于印发《保险合同相关会计处理规定》的通知 <br><br></font>(财会[2009]15号)</p><br><br><br>    国务院有关部委、有关直属机构，各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财务局，有关保险公司：<br><br>   为了规范保险混合合同分拆、重大保险风险测试和保险合同准备金计量的会计处理，根据《中华人民共和国会计法》和《企业会计准则――基本准则》等有关法律法规，我部制定了《保险合同相关会计处理规定》，现予印发。<br><br>   执行中有何问题，请及时反馈我部。                                                                                                      <br>    财政部                                                      <br><br>    二00九年十二月二十二日<br><br>    附件： <br><br>    保险合同相关会计处理规定 <br><br>    为了规范保险混合合同分拆、重大保险风险测试和保险合同准备金计量等问题，现就有关会计处理规定如下： <br><br>    一、保险混合合同分拆 <br><br>    （一）保险人与投保人签订的合同，使保险人既承担保险风险又承担其他风险的，应当分别下列情况进行处理： <br><br>    1.保险风险部分和其他风险部分能够区分，并且能够单独计量的，应当将保险风险部分和其他风险部分进行分拆。保险风险部分，确定为保险合同；其他风险部分，不确定为保险合同。 <br><br>    2．保险风险部分和其他风险部分不能够区分，或者虽能够区分但不能够单独计量的，如果保险风险重大，应当将整个合同确定为保险合同；如果保险风险不重大，不应当将整个合同确定为保险合同。 <br><br>    （二）确定为保险合同的，应当按照 《企业会计准则第 25 号――原保险合同》、 《企业会计准则第 26号――再保险合同》等进行处理；不确定为保险合同的，应当按照 《企业会计准则第 22 号――金融工具确认和计量》、 《企业会计准则第 37号――金融工具列报》等进行处理。 <br><br>    二、重大保险风险测试 <br><br>    （一）保险人与投保人签订的需要进行重大保险风险测试的合同，应当在合同初始确认日进行重大保险风险测试。保险人应当以单项合同为基础进行重大保险风险测试；不同合同的保险风险同质的，可以按合同组合为基础进行重大保险风险测试。 <br><br>    测试结果表明，发生合同约定的保险事故可能导致保险人支付重大附加利益的，即认定该保险风险重大，但不具有商业实质的除外。合同的签发对交易双方的经济利益没有可辨认的影响的，表明保险人与投保人签订的合同不具有商业实质。附加利益，是指保险人在发生保险事故时的支付额，超过不发生保险事故时的支付额的金额。 <br><br>    （二）保险人应当在附注中披露与重大保险风险测试有关的下列信息： <br>    <br>    1.重大保险风险的测试方法和标准； <br><br>    2.重大保险风险测试中合同的分组标准和选取方法； <br><br>    3.重大保险风险测试假设的设定依据。 <br><br>    经过重大保险风险测试后，未确认为保险合同的重大合同，应当披露其交易金额、保险责任、保险期间等信息。 <br><br>    三、保险合同准备金计量 <br><br>    保险人应当在资产负债表日计量保险合同准备金，以如实反映保险合同负债。寿险保险合同准备金包括寿险责任准备金、长期健康险责任准备金，分别由未到期责任准备金和未决赔款准备金组成。非寿险保险合同准备金包括未到期责任准备金、未决赔款准备金。 <br><br>    （一）保险合同准备金计量的基本要求 <br><br>    1.保险人在确定保险合同准备金时，应当将单项保险合同作为一个计量单元，也可以将具有同质保险风险的保险合同组合作为一个计量单元。计量单元的确定标准应当在各个会计期间保持一致，不得随意变更。 <br><br>    2.保险合同准备金应当以保险人履行保险合同相关义务所需支出的合理估计金额为基础进行计量。 <br><br>    保险人履行保险合同相关义务所需支出，是指由保险合同产生的预期未来现金流出与预期未来现金流入的差额，即预期未来净现金流出。其中，预期未来现金流出，是指保险人为履行保险合同相关义务所必需的合理现金流出，主要包括：（1）根据保险合同承诺的保证利益，包括死亡给付、残疾给付、疾病给付、生存给付、 满期给付等； （2）根据保险合同构成推定义务的非保证利益，包括保单红利给付等；（3）管理保险合同或处理相关赔付必需的合理费用，包括保单维持费用、理赔费用等。预期未来现金流入，是指保险人为承担保险合同相关义务而获得的现金流入，包括保险费和其他收费。 <br><br>    预期未来净现金流出的合理估计金额，应当以资产负债表日可获取的当前信息为基础，按照各种情形的可能结果及相关概率计算确定。 <br><br>    3.保险人在确定保险合同准备金时，应当考虑边际因素，并单独计量。保险人应当在保险期间内，采用系统、合理的方法，将边际计入当期损益。 <br><br>    保险人在保险合同初始确认日不应当确认首日利得，发生首日损失的，应当予以确认并计入当期损益。 <br><br>    4.保险人在确定保险合同准备金时，应当考虑货币时间价值的影响。 <br><br>    货币时间价值影响重大的，应当对相关未来现金流量进行折现。计量货币时间价值所采用的折现率，应当以资产负债表日可获取的当前信息为基础确定，不得锁定。 <br><br>    5.原保险合同现金流量和与其相关的再保险合同现金流量应当分别估计，并应当将从再保险分入人摊回的保险合同准备金确认为资产。 <br><br>    6.保险人在确定保险合同准备金时，不得计提以平滑收益为目的的巨灾准备金、平衡准备金、平滑准备金等。 <br><br>    （二）未到期责任准备金的计量假设和期间 <br><br>    1．未到期责任准备金计量假设应当以资产负债表日可获取的当前信息为基础确定。 <br><br>    （1）对于未来保险利益不受对应资产组合投资收益影响的保险合同，用于计算未到期责任准备金的折现率，应当根据与负债现金流出期限和风险相当的市场利率确定；对于未来保险利益随对应资产组合投资收益变化的保险合同，用于计算未到期责任准备金的折现率，应当根据对应资产组合预期产生的未来投资收益率确定。 <br><br>    （2）保险人应当根据实际经验和未来的发展变化趋势，确定合理估计值，作为保险事故发生率假设，如死亡发生率、疾病发生率、伤残率等。 <br><br>    （3）保险人应当根据实际经验和未来的发展变化趋势，确定合理估计值，作为退保率假设。 <br><br>    （4）保险人应当根据费用分析结果和未来的发展变化趋势，确定合理估计值，作为费用假设。 <br><br>    未来费用水平对通货膨胀反应敏感的，保险人在确定费用假设时应当考虑通货膨胀因素的影响。保险人确定的通货膨胀率假设，应当与确定折现率假设时采用的通货膨胀率假设保持一致。 <br><br>    （5）保险人应当根据分红保险账户的预期投资收益率、管理层的红利政策、保单持有人的合理预期等因素，确定合理估计值，作为保单红利假设。 <br><br>    2.保险人在计量未到期责任准备金时，预测未来净现金流出的期间为整个保险期间。对于包含可续保选择权的保险合同，如果保单持有人很可能执行续保选择权并且保险人不具有重新厘定保险费的权利，保险人应当将预测期间延长至续保选择权终止的期间。 <br>    <br>    （三）未决赔款准备金的计量方法 <br><br>    1.未决赔款准备金包括已发生已报案未决赔款准备金、已发生未报案未决赔款准备金和理赔费用准备金等。 <br><br>    2.保险人应当采用逐案估损法、案均赔款法等方法，以最终赔付的合理估计金额为基础，同时考虑边际因素，计量已发生已报案未决赔款准备金。 <br><br>    3.保险人应当根据保险风险的性质和分布、赔款发展模式、经验数据等因素，采用链梯法、案均赔款法、准备金进展法、B－F法等方法，以最终赔付的合理估计金额为基础，同时考虑边际因素，计量已发生未报案未决赔款准备金。 <br><br>    4.保险人应当以未来必需发生的理赔费用的合理估计金额为基础，计量理赔费用准备金。 <br><br>    （四）相关信息的披露 <br><br>    保险人应当在附注中披露与保险合同准备金计量有关的下列信息： <br><br>    1.各项保险合同准备金的增减变动情况； <br><br>    2.考虑分出业务和不考虑分出业务的索赔进展情况； <br><br>    3.保险合同准备金的计量方法、计量单元及其确定方法； <br><br>    4.预期未来现金流入和流出金额的组成内容和计量方法； <br><br>    5.保险合同准备金包含的边际的计量方法和计入当期损益的方法； <br><br>    6.计量保险合同准备金使用的重大假设及其来源，重大假设的敏感性分析，以及不同假设之间的关系； <br><br>    7.对重大假设产生影响的不确定性事项及其影响程度，以及重大假设确定过程中如何考虑过去经验和当前情况的描述； <br><br>    8.计量保险合同准备金使用的重大假设与可观察到的市场参数或其他公开信息的符合程度及其原因； <br><br>    9．计量保险合同准备金使用的方法和重大假设发生变更的，应当披露变更的事实、原因及其影响。 <br><br>    四、新旧衔接 <br><br>    保险公司应当自编制 2009年年度财务报告开始实施本规定。以前年度发生的有关交易或事项的会计处理与本规定不一致的，应当进行追溯调整。但是，追溯调整不切实可行的除外。    <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

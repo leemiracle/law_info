@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办〔2008〕33号<BR>&nbsp;&nbsp;【发布日期】2008-12-19<BR>&nbsp;&nbsp;【生效日期】2008-12-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/newpage/Contents/Channel_6287/2008/1225/48153/content_48153.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于认真汲取近期火灾事故教训进一步加强冬季防火工作的通知<br><br></font>(安委办〔2008〕33号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产委员会，国务院安委会各成员单位：<br><br>    入冬以来，一些地方接连发生较大以上火灾事故，给国家财产和人民群众生命财产造成严重损失。2008年11月14日6时13分，上海商学院学生宿舍楼发生火灾，造成4名女生坠楼死亡，起火原因系学生违章使用“热得快”，引燃周围可燃物所致；11月22日5时45分，山西省吕梁市离石区金田商务大厦发生火灾，造成8人死亡，起火原因系电气线路短路引燃可燃物所致；12月3日1时35分，浙江省温州市鹿城区宽心老人公寓发生火灾，造成7人死亡，起火原因系老人使用打火机不当引燃可燃物所致；12月4日1时41分，山东省青岛市佳元迈克食品有限公司一栋单层彩钢板职工宿舍发生火灾，造成11人死亡，起火原因系遗留火种引燃床铺所致；12月5日20时35分，安徽省铜陵市沙河路一商铺发生火灾，造成5人死亡，起火原因系电动车电瓶充电插座电源线短路引燃周围可燃物所致；12月8日5时52分，浙江省温州市龙湾区一民房发生火灾，造成5人死亡，起火原因正在调查中；12月11日0时38分，湖南省岳阳市岳阳楼区百汇服饰广场发生火灾，造成3人死亡，起火原因正在调查中；12月12日16时02分，山西省运城市中银大道名人保健中心发生火灾，造成7人死亡，起火原因正在调查中。<br><br>    上述火灾反映出部分生产经营单位消防安全责任制不落实、管理不到位，群众消防常识缺乏，不会扑救初起火灾，不会自救逃生，以致造成多人伤亡，教训十分惨痛。为有效遏制较大以上火灾事故的发生，保障公共消防安全，维护社会稳定，现就有关要求通知如下：<br><br>    一、坚持安全发展，切实加强对消防工作的领导<br><br>    今年以来，各地按照国务院安委会的部署，集中开展火灾隐患排查治理工作，消防安全形势总体稳定。但火灾隐患仍大量存在，旧的隐患没有消除，新的隐患又不断滋生，隐患整治反弹问题十分突出。特别是当前已进入冬季，气候寒冷，风干物燥，用火、用电、用油、用气增多，加之元旦、春节即将来临，人流、物流加剧，大型庆祝活动、商业促销活动增多，公共场所人员密集，很多地区烟花爆竹燃放开禁，地震灾区安置点消防安全条件较差，致灾因素增多。同时，受国际金融危机的影响，一些企业处于倒闭或半停产状态，消防安全管理难度加大，有的生产经营单位存在严重事故隐患，极易引发火灾。面对当前严峻的火灾形势，地方各级人民政府要按照科学发展观的要求，坚持安全发展，切实履行消防工作职责，加强对消防工作的领导，认真研判分析本地火灾形势，查找影响消防安全的薄弱环节，不断创新工作思路，强化工作措施，坚决遏制群死群伤火灾事故的发生。<br><br>    二、认真组织开展消防安全大检查，大力消除火灾隐患<br><br>    各地要督促各类生产经营单位落实消防安全责任，加强消防安全管理，开展消防安全自查自纠，消除火灾隐患。要在元旦、春节前后组织公安、安全监管、住房建设、文化、工商等部门集中一段时间开展消防安全大检查，重点加大对人员密集场所、易燃易爆单位、出租屋、城中村以及城乡结合部等重点场所和重点部位的检查力度，对检查发现的火灾隐患，要坚决责令整改，存在重大火灾隐患的，要实行政府挂牌跟踪督办；对举办的大型群众性活动要严格审查，没有消防安全保障的，不得举办；对公众聚集场所疏散通道、安全出口封堵、自动消防设施损坏，经检查发现不能立即整改的，依法责令停产停业整改；对人员密集场所室内装修装饰使用聚氨酯类泡沫塑料等高分子材料以及公共娱乐场所营业期间使用烟花爆竹的，依法责令立即整改。对拒不整改和责令停产停业后擅自使用、营业的，要坚决依法拘留违法人员。<br><br>    三、加大消防宣传教育力度，提高公民消防安全意识<br><br>    各地要结合新修订的《消防法》宣贯工作，通过各种新闻媒体和宣传阵地，广泛宣传冬季火灾防范措施，大力普及冬季安全用火、用电等防火常识和逃生自救知识；要根据冬季火灾规律和特点，及时向社会发布火灾预警信息；要重点加强对农民工等流动务工人员、广大农民群众及中小学生、老弱病残等弱势群体的宣传教育，提高自防自救能力；要督促生产经营单位在元旦、春节前对员工集中开展一次消防安全教育培训和灭火应急疏散演练，使人员密集场所、易燃易爆单位从业人员必须具备会查改本岗位火灾隐患、会扑救初起火灾、会组织人员疏散逃生的能力；要督促村民委员会、居民委员会广泛开展群众性消防安全宣传活动，建立消防安全多户联防制度，组织群众进行消防安全巡查，及时消除火灾隐患。<br><br>国务院安全生产委员会办公室<br>二○○八年十二月十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

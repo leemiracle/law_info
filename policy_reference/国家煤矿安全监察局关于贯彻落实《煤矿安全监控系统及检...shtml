@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家煤矿安全监察局<BR>&nbsp;&nbsp;【发布文号】煤安监技装〔2007〕29号<BR>&nbsp;&nbsp;【发布日期】2007-06-14<BR>&nbsp;&nbsp;【生效日期】2007-06-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-06/19/content_246999.htm" target=_blank>国家煤矿安全监察局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家煤矿安全监察局关于贯彻落实《煤矿安全监控系统及检测仪器使用管理规范》的通知<br><br></font>(煤安监技装〔2007〕29号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团煤矿安全监管部门和煤炭行业管理部门，各省级煤矿安全监察机构，司法部直属煤矿管理局，神华集团公司、中煤能源集团公司： <br><br>    今年以来，各地继续深化煤矿瓦斯治理攻坚战，煤矿安全监控系统的装备和联网工作取得了明显成效。但是，设备的现场管理尚有很大差距，部分煤矿特别是乡镇煤矿存在着装备不到位、数据不准确、断电不可靠、培训有不足等问题，使系统和网络不能充分发挥应有的作用。为指导煤矿正确安装、维护、使用和管理煤矿安全监控系统和安全检测仪器，国家安全监管总局发布了煤矿安全生产行业标准《煤矿安全监控系统及检测仪器使用管理规范》（编号AQ1029-2007，以下简称《AQ1029标准》）。该标准在《煤矿安全规程》通风安全监控相关条文的基础上，增加了传感器装备数量规定，修改了部分报警断电值，对安全监控设备的安装、维护、使用、管理及系统联网工作提出了具体要求。贯彻落实《AQ1029标准》，对于预防瓦斯事故、保障矿工生命安全具有十分重要的意义。现就有关要求通知如下： <br><br>    一、做好在用安全监控系统的改造工作 <br><br>    根据国务院安委会办公室《关于加强煤矿安全监控系统装备联网和维护使用工作的指导意见》(安委办[2006]21号)，煤矿在用安全监控系统的原制造单位按《煤矿安全监控系统通用技术要求（AQ6201-2006）》制造并取得新的煤矿安全标志证书后，应负责在用系统的改造工作。改造的重点：一是采用统一显示格式的系统软件；二是按新的煤矿安全标志证书确认的系统配置安装或更换稳定性为15天以上的传感器或传感元件等关联设备，严禁使用未经国家授权的安全生产检测检验机构进行安全联检的关联设备。 <br><br>    二、做好安全监控设备的装备工作 <br><br>    煤矿企业要按照《AQ1029标准》的规定，将监控设备安装到位。甲烷、馈电、设备开停、风压、风速、一氧化碳、烟雾、温度、风门、风筒等传感器的安装数量、地点和位置必须符合要求。中心站要装备2套主机，1套使用、1套备用，确保系统24小时不间断运行。 <br><br>    三、定期调校，确保数据准确 <br><br>    必须按使用说明书的要求对安全监控设备进行定期调校。新装备的按《煤矿安全监控系统通用技术要求（AQ6201-2006）》制造并取得新的煤矿安全标志的系统，接入系统的传感器稳定性大于15天，传感器调校期应为10天；在用系统已按本通知第一条要求进行改造并经上级主管部门验收合格后，传感器调校期可延长到10天；未经改造的在用系统的传感器稳定性只有7天，传感器必须每隔7天调校一次。在用甲烷传感器应在井下调校，调校的同时应测试瓦斯断电闭锁功能和数据跟踪误差。 <br><br>    四、确保断电可靠 <br><br>    安全监控系统最重要的功能是瓦斯超限后自动切断被控设备的电源，并保持闭锁状态。安装断电控制时，断电控制器与被控开关之间必须正确接线。为防止人为取消系统的断电功能，必须安装馈电传感器或馈电状态显示，监测开关负荷侧有无电压。应按《AQ1029标准》正确定义甲烷传感器的断电值。要使用合格的电气开关，采用DW10元件的DW80型馈电开关存在瓦斯超限断电后瞬间复电的严重缺陷，已被列入淘汰产品目录，应立即停止使用。 <br><br>    五、加强系统中心站值班工作 <br><br>    要吸取河南郑煤集团公司大平煤矿2004年"10.20"事故和辽宁阜新矿业集团公司孙家湾煤矿2005年"2.14"事故教训，煤矿安全监控系统地面中心站值班应设置在矿调度室内，执行24小时值班制度。发现瓦斯超限断电但馈电传感器显示开关仍然有电的异常信息时，中心站值班人员必须立即通知有关部门采取措施加以解决。当系统显示井下某一区域瓦斯超限并有可能波及其它区域时，矿井有关人员应按瓦斯事故应急预案，利用系统的异地断电功能遥控切断瓦斯可能波及区域的电源。 <br><br>    六、加强监督检查 <br><br>    各级煤矿安全监管和煤炭行业管理部门、煤矿安全监察机构要加强对煤矿安全监控系统的督查，指导煤矿企业采取有力措施，把贯彻落实《AQ1029标准》工作真正落到实处，做到装备到位、数据准确、断电可靠。落实《AQ1029标准》及在用安全监控系统的改造工作，国有重点煤矿应于2007年底前完成，其他煤矿应于2008年底前完成。逾期没有落实《AQ1029标准》的煤矿应停产整顿。 <br><br>    请各省级煤炭行业管理部门将本通知转发至辖区内各煤矿企业。 <br>     <br><br>    二ＯＯ七年六月十四日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

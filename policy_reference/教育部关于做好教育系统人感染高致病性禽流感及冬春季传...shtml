@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-11-10<BR>&nbsp;&nbsp;【生效日期】2005-11-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.edu.cn/edoas/website18/info17128.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于做好教育系统人感染高致病性禽流感及冬春季传染病防控工作的通知</font></p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局，部属各高等学校：<br><br>    近一个时期，我国相继有内蒙、安徽、湖南、辽宁等省份发生高致病性禽流感疫情。党中央、国务院高度重视禽流感防控工作，多次部署防控动物疫情和严防人感染高致病性禽流感。近日，国务院又专门召开“全国防控高致病性禽流感电视电话会议”，再次部署全国防控工作，明确要求各地区各部门要健全应急机制，落实责任制，采取更加有力有效的综合措施，切实加大防控工作力度，坚决防止疫情扩散蔓延，坚决防范人感染高致病性禽流感，打好全面预防和控制高致病性禽流感战役。为加强和做好教育系统人感染高致病性禽流感及冬春季传染病防控工作，现就有关事宜通知如下：<br><br>    一、提高认识，加强领导，认真落实责任制。各级教育行政部门和学校要高度重视人感染高致病性禽流感及学校传染病的防控工作，对当前禽流感疫情严峻性和危害性及对做好人感染高致病性禽流感防控工作重要性、紧迫性要有足够的认识。冬春季也是呼吸道传染病的高发季节，学校是人群高度密集的场所、学生是呼吸道传染病的主要易感人群，对冬春季呼吸道传染病防控工作也应引起足够的重视，切不可麻痹松懈。普通高等学校要加强领导，明确各有关部门和人员的职责。各级教育行政部门要在当地政府的统一领导下，明确领导责任及层层负责的工作机制，积极配合农业、卫生等有关部门，认真落实各项防控措施。要尽快对各类中小学防控人感染高致病性禽流感及冬春季传染病工作进行部署，层层落实防控工作责任，确保工作横向到边、纵向到底。  <br><br>    二、切实落实各项卫生防疫措施，消除疾病发生与传播的隐患。各级各类学校要按照有关食品卫生法规文件要求，严格落实各项食品卫生制度和措施。学校食堂采购食品原料时，必须坚持采购索证制度，不得购买无检疫证明的鲜、活、冻禽及其产品。学校食堂（特别是农村中小学）自养的家禽、家畜必须按照卫生、农业部门要求进行免疫接种；校园内特别是学生学习、生活区域不得放养家禽、家畜；未经检疫的家禽、家畜不得自行宰杀加工。加工食品时要确保煮熟煮透，要保持食堂环境卫生清洁，加强学校生活饮用水水源的管理，严防各种食源性疾病的发生。同时，要积极组织学生参加体育锻炼，增强体质，提高抵抗疾病的免疫能力；积极采取措施，确保教室、图书馆、食堂、宿舍、厕所等学生学习和生活场所的通风与清洁卫生，消除传染病发生和流行的条件。    <br><br>    三、加强卫生宣传与健康教育工作，增强学生防范意识和防范能力。各级各类学校特别是广大中小学校要利用健康教育课、班会、队会、讲座、板报、广播、电视、网络等形式在近期集中开展一次人感染高致病性禽流感及冬春季传染病预防知识的宣传教育活动，使学生了解禽流感和流感等呼吸道传染病的传播途径和预防方法，强化防范意识。要教育学生（特别是农村中小学生）养成良好的个人卫生习惯，避免与禽类近距离接触，尤其要避免接触病、死禽类，发现病、死家禽疫情，要及时向有关部门报告。中小学校还应利用家长会、家长学校等形式，向学生家长讲解人感染高致病性禽流感预防知识，并告知家长不宰杀、不销售、不贩运、不食用病、死家禽，要求家长关注学生的身体健康状况，一旦学生接触病、死家禽后出现发热、咳嗽等上呼吸道症状，要及时带学生到就近医疗机构就诊。教育部将在近期组织专家编制防控人感染高致病性禽流感及冬春季呼吸道传染病的科普知识，并通过农村中小学现代远程教育传输网络将相关教学资源送到广大农村中小学校，各农村有关学校要做好相应接收工作，充分利用这些资源对学生开展宣传教育。<br><br>    四、建立健全学校传染病疫情监控与报告制度，做到传染病早发现、早报告、早诊断、早治疗。各级教育行政部门和学校必须尽快明确学校传染病疫情的报告人，负责学校传染病的监控与报告工作。县（区）级教育行政部门应对辖区内学校传染病疫情报告人基本情况登记造册，并逐级上报备案。要主动争取卫生部门的支持和配合，对学校传染病疫情报告人进行人感染高致病性禽流感和学校传染病防控知识、监控与报告等方面的培训。学校传染病疫情报告人应及时了解学生的出勤、健康情况，一旦发现传染病病人或疑似传染病病人，要及时向当地的疾病预防控制机构进行报告，并同时向上级教育行政部门报告。各级教育行政部门接到学校传染病疫情报告后，应及时报告上一级教育行政部门和卫生行政部门，重大疫情要向当地政府报告。<br><br>     五、各级教育行政部门要在卫生部门的指导下，制定切实可行、具有操作性的人感染高致病性禽流感及呼吸道传染病防控工作指导意见，加强对各级各类学校，特别是农村中小学校的指导。同时，对学校传染病流行情况要密切关注，一旦学校发生不明原因的传染病流行事件，学校所在地教育行政部门在报告当地卫生部门的同时，报经当地（县级以上）人民政府批准，可以采取临时停课等特殊措施。<br><br>    六、加强对学校卫生防疫工作的督促检查。各级教育行政部门要加强与农业、卫生等部门的联系，及时了解有关信息和动态，特别是已经发生动物疫情的地区，要保持对人感染高致病性禽流感疫情的高度敏感性。普通高等学校要尽快组织力量对学校卫生防疫和食品卫生各项措施落实情况进行全面检查，特别要对食堂采购、加工环节进行认真检查。各级教育行政部门要在积极争取卫生部门对学校卫生防疫工作的支持和指导的同时，尽快组织力量对所辖学校食品卫生和冬春季学校传染病防控工作进行一次检查，督促学校真正落实各项防控措施。各级各类学校应按照上级教育、卫生行政部门的部署和要求，对落实学校食品卫生和传染病防控措施情况进行认真自查和整改，特别要加大对承包食堂采购环节、加工环节以及其他环节落实食品卫生安全措施情况的检查力度，消除有可能导致食源性疾病和呼吸道传染病传播的各种隐患，确保学校师生员工身心健康。教育部近期将对部分地区和学校落实人感染高致病性禽流感和冬春季传染病防控措施的情况进行一次督导检查，并适时公布检查结果。<br><br><br>教育部<br>二○○五年十一月十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

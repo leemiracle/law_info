@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]150号<BR>&nbsp;&nbsp;【发布日期】2005-09-12<BR>&nbsp;&nbsp;【生效日期】2005-09-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200509231332215418" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于加强增值税专用发票管理有关问题的通知<br><br></font>(国税发[2005]150号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br><br>    近据部分地区反映，一些增值税一般纳税人（以下简称一般纳税人）利用与小规模纳税人交易不需要开具增值税专用发票（以下简称专用发票）的机会，转手开具给第三方一般纳税人用于骗税的现象较为突出。为防范此种虚开专用发票行为，堵塞利用虚假专用发票骗取抵扣增值税和出口退税的漏洞，现就有关问题通知如下：?<br><br>    一、税务机关要加强对小规模纳税人的管理。对小规模纳税人进行全面清查，凡年应税销售额超过小规模纳税人标准的，税务机关应当按规定认定其一般纳税人资格。对符合一般纳税人条件而不申请办理一般纳税人认定手续的纳税人，应按销售额依照增值税税率计算应纳税额，不得抵扣进项税额，也不得使用专用发票。凡违反规定对超过小规模纳税人标准不认定为一般纳税人的，要追究经办人和审批人的责任。?<br><br>    二、税务机关要认真做好一般纳税人的认定工作。对一般纳税人资格认定要按照现行有关规定严格审核，但对达到一般纳税人认定条件的纳税人应当督促其申请认定一般纳税人资格。凡纳税人向税务机关提出一般纳税人资格认定申请的，主管税务机关应当及时进行案头审核、约谈和实地核查工作，对符合认定条件的要及时予以认定，不得以任何理由拖延，也不得无理由不予认定。?<br><br>    三、税务机关应加强一般纳税人专用发票的管理工作?<br><br>    （一）应加强一般纳税人增值税专用发票的使用管理，要求纳税人严格按照《增值税专用发票使用规定》及有关规定开具专用发票。 ?<br><br>    （二）对申报异常的一般纳税人要重点审核其取得的专用发票或销货清单注明的货物品名与其经营范围或生产耗用原料是否相符。要根据纳税人的购销合同、银行结算凭据等有关资料审核实际交易方与专用发票开具方是否一致。?<br><br>    对违反《增值税专用发票使用规定》的，应当按照有关规定进行处理；有涉嫌为第三方开票、涉嫌骗取进项税额抵扣和出口退税的，应移交稽查部门实施稽查。?<br><br>    四、税务机关在办理专用发票认证时，应认真审核专用发票的内容，对密文有误、认证不符（不包括纳税人识别号认证不符和发票代码号码认证不符）和重复认证的发票，应当即扣留，并移交稽查部门实施稽查。?<br><br>    五、税务机关应加强纳税评估工作，重点对以现金支付货款、赊欠货款、委托其他单位或个人支付货款抵扣增值税进项税额的一般纳税人进行纳税评估，必要时可进行实地核查。凡发现纳税人购进的货物与其实际经营业务不符、长期未付款或委托他人付款金额较大且无正当理由、以及购销货物或提供应税劳务未签订购销合同（零星购销业务除外）的，应转交稽查部门实施稽查。<br><br>    请遵照执行。<br><br>                                        国家税务总局<br>                                     二○○五年九月十二日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

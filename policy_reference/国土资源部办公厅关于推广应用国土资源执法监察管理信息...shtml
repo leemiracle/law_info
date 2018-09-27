@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国土资源部办公厅<BR>&nbsp;&nbsp;【发布文号】国土资厅发[2007]221号<BR>&nbsp;&nbsp;【发布日期】2007-12-17<BR>&nbsp;&nbsp;【生效日期】2007-12-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mlr.gov.cn/zwgk/zfgw/zfwj/200801/t20080102_97805.htm" target=_blank>国土资源部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国土资源部办公厅关于推广应用国土资源执法监察管理信息系统（网络版）的通知<br><br></font>(国土资厅发[2007]221号)</p><br><br><br>各省、自治区、直辖市国土资源厅（国土环境资源厅、国土资源局、国土资源和房屋管理局、房屋土地资源管理局），新疆生产建设兵团国土资源局： <br><br>    为规范执法监察工作，提高执法人员素质，促进执法公正，提高执法效率，进一步完善基层重要信息及时报送制度，进一步加快执法监察网络系统的建设，逐步实现国土资源执法监察工作信息化，部决定在全国各级国土资源管理部门推广应用国土资源执法监察管理信息系统（网络版）（以下简称“系统”）。自2008年1月1日起，全国31个省（区、市）、新疆生产建设兵团以及84个重点城市的国土资源管理部门要实时开通网络，全面应用“系统”。其他各级国土资源管理部门，要积极创造条件，争取尽早开通网络。在开通网络之前，也要应用“系统”开展案件查处等执法监察工作。<br><br>    开通网络的地方，要保障网络畅通，保证“系统”在网络环境下正常运行，确保执法监察数据通过网络逐级实时上传。尚未开通网络的地方，要建立违法案件电子档案逐级报送制度。县（市）级、市（地）级、省级国土资源管理部门要按照要求通过“案件查处子系统”分别向上一级国土资源管理部门报送本行政区域内所有违法案件电子档案。<br><br>    对于违法案件综合统计数据，要通过“案件统计子系统”按要求及时上报数据；对于卫片数据，要按照卫片执法检查的时间安排，通过“卫片汇总子系统”上报相关数据；对于执法监察机构、队伍及人员信息，要及时更新，由省级执法监察机构汇总后于每年1月20日、7月20日通过“机构信息子系统”报部执法监察局。<br><br>    为切实做好上述工作，提出以下要求：<br><br>    一、从组织、人员、经费等方面对“系统”的推广应用给予充分支持。各级国土资源管理部门要认真组织，指定专门人员，安排专项经费，配备必要的计算机、打印机、扫描仪、数码摄像机、照相机等硬件设备，为“系统”的推广应用提供充分的人、财、物保障。<br><br>    二、认真负责，确保数据准确。各级国土资源管理部门在应用“系统”从事案件查处、卫片汇总、案件统计、案件督办等工作时，一定要“准”字当头，实事求是，严禁瞒报漏报。<br><br>    三、加强培训，提高应用水平。各级国土资源管理部门要高度重视，认真抓好培训工作。省级执法监察人员以及市（地）级执法监察骨干人员的培训工作由部执法监察局和部信息中心负责，其余执法监察人员的培训工作由省级国土资源管理部门负责。“系统”应用列入国土资源执法监察培训内容，作为执法监察人员持证上岗的考核内容之一。<br><br>    各级国土资源管理部门的领导要提高认识，高度重视，按上述要求，指定专人负责，做好推广应用。推广应用中出现的问题，及时报部执法监察局。<br><br>                                       国土资源部办公厅<br>                                       二ＯＯ七年十二月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

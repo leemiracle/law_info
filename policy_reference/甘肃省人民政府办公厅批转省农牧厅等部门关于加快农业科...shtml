@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2005〕33号<BR>&nbsp;&nbsp;【发布日期】2005-03-25<BR>&nbsp;&nbsp;【生效日期】2005-03-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=456" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅批转省农牧厅等部门关于加快农业科技成果转化意见的通知<br><br></font>(甘政办发〔2005〕33号)</p><br> <br> <br>各市、自治州人民政府，省政府有关部门：<br><br>    省农牧厅、省科技厅、省财政厅《关于加快农业科技成果转化的意见》已经省政府同意，现予批转，请认真贯彻执行。<br><br>                                      二○○五年三月二十五日<br><br><br>                        关于加快农业科技成果转化的意见<br><br>    为了贯彻落实科教兴国战略，充分发挥科技进步对提升农产品竞争力的重要作用，推动我省农业和农村经济快速健康发展，结合我省实际，现就加快我省农业科技成果转化工作提出如下意见：<br><br>    一、深化加快农业科技成果转化重要性的认识。<br>    农业科技成果是广大农业科技人员的智慧结晶，是促进农业和农村经济发展强有力的智力支持。加快农业科技成果转化，是提高农业综合效益、增强农产品市场竞争力的根本途径。近年来，全省广大农业科技工作者针对我省农业生产中的难点、热点问题，积极开展试验研究与引进开发，形成了一批高产、优质、高抗的农业新品种和节本增效的农业新技术、新产品。“甘春”系列小麦、“陇薯”系列马铃薯、“华特”猪配套系、甘肃高山细毛羊等品种已成为我省农牧业生产的主导品种；模式化栽培、设施农业栽培、地膜覆盖栽培、旱作农业、暖棚养畜等综合配套技术已在全省大面积推广应用。这些农业科技成果对我省农业和农村经济的发展起到了重要推动作用。<br>    但目前我省农业科技成果实用性不强，商品化、市场化程度不高，还不能完全满足农业生产的需要，农业科技与生产脱节的问题依然存在，农业技术推广机制不活、渠道不畅、手段单一，农业科研、教育、推广各环节缺乏有机的联系，科技转化能力薄弱，科技体系为农业生产全方位服务的能力不强等问题还没有从根本上得到解决。加快农业科技成果转化已成为农业增效、农民增收、农产品竞争力增强的迫切需要。要充分发挥农业科技人员的积极性，焕发农业技术推广体系的生机与活力，强化农业科技部门科技创新与推广的能力，促进农业科技推广机制由单纯依靠政府推广机构向多方协作、优势互补、形成合力转变；着力推广应用一批高产、优质、高效的农牧业新品种和节本增效的标准化综合配套生产技术，提高农业劳动者的生产技能和综合素质，推动我省农业与农村经济持续协调健康发展。<br><br>    二、明确加快农业科技成果转化的指导思想和总体目标。<br>    (一)指导思想。以邓小平理论和“三个代表”重要思想为指导，牢固树立和落实科学发展观，坚持政府扶持和市场运作相结合，实施项目带动战略，整合资源，创新机制，充分调动各方面的积极性和创造性，构建多元化的农业科技推广体系，提高农业科技入户率，促进农业经济增长方式的根本转变。<br>    (二)总体目标。力争经过3―5年努力，使全省农业科技源头创新能力明显增强，储备一批主导品种和主推技术；初步建立和完善与农业和农村经济发展相适应的农业科技成果转化机制及推广服务体系，实现科技成果转化的社会化、转化形式的多样化；农民科技文化素质进一步提高；优势农产品科技含量明显提升，市场竞争力明显增强。<br><br>    三、调动各方面参与农业科技成果转化的积极性。<br>    (一)加强农业科技成果的源头创新和储备。各级政府和有关部门要整合资源，增加科研投入，针对农业生产中全局性、关键性问题，组织力量开展科研攻关，为成果转化储备一批成熟、适用技术。各级农业、科技行政主管部门要在充分调研的基础上，提出科技攻关的具体项目和目标，面向全省公开招标，促进科技与经济的紧密结合，提高科研水平。要加强现有单项科技成果的集成、组装和配套工作，建立成果数据库，根据不同需求，有计划地组织转化。<br>    (二)鼓励成果研发单位及个人自主实施成果转化。要鼓励和支持农业科技人员采取成果转让、技术入股、合作研发、创办科技型企业、有偿技术承包和技术服务等多种方式转化农业科技成果。农业科技人员可以在完成本职工作的前提下，在其他单位兼职从事研究开发和成果转化活动。<br>农业科研、教育机构持有的农业科技成果在成果完成后一年未实施转化的，科技成果完成人在不变更职务科技成果权属的前提下，可以自行实施该项成果的转化，可按照不低于50％的比例享有转化后的收益。<br>    农业科技、教育机构成果转让取得的收入，纳税人凭省级科技行政部门认定登记的技术转让、技术开发合同文本和有关部门出具的“甘肃省技术合同认定登记证明”，向省地税局税政一处申报备案后，免征营业税。农业科研单位、高等学校和各类职业院校通过技术成果转让、技术培训、技术咨询、技术服务、技术承包取得的技术性服务收入报经省地税局批准后，暂免征收所得税。<br>    (三)建立农业科技成果转化的多元化参与机制。省级农业部门重点抓好跨区域主导品种和重大技术的示范推广工作，市县两级农业部门结合本地实际，筛选、确定适合本地区的主导品种和主推技术，制定示范推广方案，面向科研、教学、推广、企业、协会、学会等部门和单位公开招聘技术承包单位和技术承包人，逐步建立以政府为主导、全社会共同参与的多元化农业科技成果转化体系。<br>    逐步完善以产业化龙头企业为载体的成果转化机制，鼓励企业和农业科研机构走向联合，通过合作研究、成果买断、成果转让、委托研究、股份合作等方式，形成“企业―科技―基地―农民”科技成果转化链，推动产、学、研一体化，发挥龙头企业在成果转化中的生力军作用。<br>    各级财政要安排农业科技成果转化专项资金，由科技部门会同财政、农业部门以项目形式支持农业科技成果转化。同时，加强财政资金的引导作用，广泛吸纳社会资金，促进农业科技成果转化。要安排农牧业新品种后补助专项经费，对拥有自主知识产权、推广面积大、增产增收效果显著的主要农牧业新品种育种者给予补助，鼓励广大农业科研人员积极开展农牧业新品种、新技术研发。此项工作具体由农业部门会同财政部门制定具体实施方案，负责组织评审、实施。<br>    (四)建立农业科技成果转化激励机制。重视对农业科技推广类成果的奖励。各级政府要对每年在农业科技成果转化中成绩突出的单位和科技人员进行表彰、奖励，以调动广大农业科技人员投身农业科技成果转化的主动性和积极性。对长期深入农业生产第一线从事成果转化的科技人员，在年度业绩考核中，结合其推广业绩，适当提高考核结果等级；在技术职称(职务)评聘工作中，要充分考虑其推广实绩和创造的社会经济效益，同等条件下应优先予以评聘，并适当放宽外语、论文、专著、科技奖励等方面的条件。  <br>    鼓励农业科技人员以技术要素参与收益分配。成果拥有单位以技术成果入股有限责任公司或非公司制企业的，成果的作价金额可占公司或企业注册资本的35％，成果研制者可持有该技术股不低于30％的股份，并依据其所持股份分享收益；职务科技成果转让给他人的，应当将成果转让所得净收入的30％一次性奖励给成果研制者；成果拥有单位自行实施转化或与他人合作实施转化的，应当在项目投产后，连续5年从实施该科技成果的年净收入中提取不低于10％的资金奖励成果研制者，或者参照此比例，给予一次性奖励。在研究开发和成果转化中作出主要贡献的人员，所得奖励份额应不低于奖励总额的50％。<br><br>    四、加快农业科技成果转化的保障措施。<br>    (一)加强对农业科技成果转化工作的领导。各级政府和有关部门要充分认识加快农业科技成果转化和技术推广工作的重要性和紧迫性，将农业科技成果转化工作纳入重点工作计划，把实施情况列入任期目标和岗位责任制的考评内容，实行“有目标、有计划、有措施、有考评、有奖惩”的目标管理机制，确保各项工作落到实处。<br>    (二)加大对农业科技成果转化工作的支持力度。加强协调，形成合力，充分发挥农牧、科技、扶贫、发展改革等部门各类项目、资金、人才、技术的优势，引导各部门和社会各方面积极参与农业科技成果转化工作。<br>    (三)加强对农民的科技培训。以新型农民科技培训、青年农民科技培训、阳光工程、绿色证书培训、农业远程教育培训、星火培训、星火学校等项目为重点，有效整合农业教育资源，积极开展农民科技教育与培训，提高农民对农业科技成果的接纳能力，增强广大农民学科技、用科技和传播科技的自觉性，为加快农业科技成果转化提供坚实的社会基础。<br><br>                                                省农牧厅<br>                                                省科技厅<br>                                                省财政厅<br>                                            二○○五年三月十日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

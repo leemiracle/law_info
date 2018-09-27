@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-12-14<BR>&nbsp;&nbsp;【生效日期】2005-12-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/05zhuzhi/gonglus/gonglusigljs/t20051214_28824.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于进一步做好交通建设领域清欠工作的紧急通知</font></p><br><br><br>各省、自治区交通厅，北京、天津、重庆市交通委员会，天津市市政工程局，上海市市政工程管理局，上海市港口管理局，各计划单列市交通局（委），新疆生产建设兵团交通局：<br>    解决建设领域拖欠工程款、征地拆迁款和农民工工资问题直接关系人民群众切身利益，关系国家经济健康发展，关系市场经济秩序的规范和社会稳定，党中央、国务院对此高度重视。清欠工作开展两年多来，各级交通主管部门按照国务院的总体部署和当地人民政府的统一要求，结合交通行业实际，采取积极有效措施，加大了对全行业清欠工作的督查、指导和协调力度，清欠工作取得了显著成效。截至12月9日，交通建设领域拖欠工程款的总解决比例为86.11%，其中政府投资项目的解决比例为86.17%，有9个省（直辖市）的政府投资交通项目的解决比例超过了95%。但目前各地清欠工作进度还很不平衡，交通行业的清欠任务仍很艰巨，防止拖欠的长效机制尚未完全建立。<br>    12月13日，国务院召开了第三次全国清理建设领域拖欠工程款电视电话会议，曾培炎副总理要求深入学习贯彻党的十六届五中全会和中央经济工作会议精神，继续坚持清欠工作“四个不动摇”，加大清欠力度，确保明年春节前完成政府投资项目清欠任务，建立健全防止拖欠的长效机制，切实维护企业和务工人员的合法权益。为贯彻落实国务院会议精神，进一步做好交通建设领域清欠工作，现将有关要求通知如下。<br>    一、迅速传达贯彻国务院会议精神，确保完成清欠任务<br>    从现在到春节还有不到两个月时间，清理政府投资项目拖欠工程款进入了关键阶段。各级交通主管部门要迅速传达、深入贯彻国务院会议精神，按照曾培炎副总理的指示，分析本地区清欠工作形势，对清欠工作进行再动员、再部署。要认真落实部制定的《预防和解决交通建设领域拖欠工程款的若干措施》，迅速组织力量对政府投资交通项目清欠情况进行全面检查，逐项摸清情况，对尚未解决的，要加大协调和督查力度，特别要对清欠缓慢地区和重点拖欠项目，抓住年底有限时间，紧紧依靠当地政府，加强督查督办，采取有力措施，限期解决，确保完成交通建设领域政府投资项目清欠任务。<br>    二、切实解决好拖欠征地拆迁款和农民工工资问题<br>    2006年春节将至，各地交通主管部门要高度重视交通建设项目中拖欠征地拆迁款和农民工工资问题，组织专门力量进行排查，发现拖欠征地拆迁款和农民工工资问题的，要采取有力措施，督促有关单位尽快解决，确保春节前解决拖欠征地拆迁款问题、确保农民工能在春节前足额拿到工资返乡过年。要建立拖欠征地拆迁款和农民工工资问题的快速处理方案和重大事件应急处理预案，确保不因拖欠问题造成群体性事件。<br>    三、认真做好明年的清欠工作<br>    2006年是三年清欠工作的最后一年，各级交通主管部门要巩固清欠成果，继续做好社会投资项目的清欠工作。要按照建立社会主义市场经济体制的要求，进一步健全交通行业防止拖欠的长效机制，加强交通建设项目投资、建设、资金的管理。加快交通建设市场信用体系建设，建立激励和约束机制，规范交通建设市场主体行为。抓紧修改完善相关的规章制度，把预防拖欠工作纳入法制轨道，努力从根本上解决工程款拖欠问题。<br>    各级交通主管部门要进一步提高对清欠工作重要性的认识，在当地政府的统一领导下，认真履行好行业管理职能，扎实工作，确保清欠任务的全面完成。<br><br>二○○五年十二月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

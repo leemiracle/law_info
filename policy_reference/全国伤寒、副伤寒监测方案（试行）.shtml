@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-09-06<BR>&nbsp;&nbsp;【生效日期】2005-09-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10397&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>全国伤寒、副伤寒监测方案（试行）</font></p><br><br><br>    一、概述<br><br>    伤寒、副伤寒是《<a href=javascript:ROF(96085,0) class=alink>中华人民共和国传染病防治法</a>》规定的乙类传染病，其传染性强、病程长、易复发、并发症多、疾病负担较重。1990年以后，我国的伤寒、副伤寒的发病得到一定控制，平均发病率在4.08-10.45/10万之间，每年报告病例5.1-12万例。但部分省份（如贵州、云南、广西、浙江、新疆等）的发病仍高居不下，远远高于全国平均发病水平，暴发时有发生；近五年一些地区副伤寒流行加重，病原流行谱发生变化，出现耐药菌株，流行因素尚不完全明确，防治工作面临困难。为进一步加强我国伤寒、副伤寒的监测工作，为制定防治策略和措施提供科学依据，特制订本方案。<br><br>    二、监测目的<br><br>    1、及时掌握伤寒、副伤寒在我国的发病情况，查明高发地区暴发、流行的主要原因；<br><br>    2、明确高发地区伤寒、副伤寒的病原变异、菌株耐药性的变迁情况； <br><br>    3、在重点地区追踪监测带菌者；<br><br>    三、监测定义<br><br>    （一）病例定义<br><br>    1、疑似病例 <br><br>    在伤寒、副伤寒流行地区，不明原因持续发热或反复发热3天或以上，体温≥38℃，伴头痛、乏力、腹部不适等症状，但实验室检验结果尚未明确的病例。<br><br>    2、临床诊断病例<br><br>    符合以下临床症状和实验室检查的病例作为临床诊断病例：不明原因持续发热或反复发热5天或以上，体温≥39℃，头痛、全身乏力、表情淡漠、相对缓脉、伴消化道症状或皮肤充血或多系统受累表现，白细胞总数低或正常。<br><br>    3、确诊病例  <br><br>    临床诊断病例如有以下项目之一者即为确诊病例：<br><br>    （1） 从血、骨髓、粪便、尿等任一种标本分离到伤寒或副伤寒沙门菌；<br><br>    （2） 血清特异性抗体阳性：肥达氏反应“O”抗体凝集效价≥1：80，伤寒或副伤寒鞭毛抗体凝集效价≥1：160，恢复期血清效价4倍以上增高。<br><br>    （二）暴发疫情定义<br><br>    在局部地区或单位（比如在一个自然村或一个居委会、或一个单位团体），两周内出现5例或以上伤寒、副伤寒病例。<br><br>    四、监测内容和方法<br><br>    （一）全国常规监测<br><br>    1、常规疫情监测<br><br>    按照《中华人民共和国传染病防治法》和《突发公共卫生事件与传染病疫情监测信息报告管理办法》，各级各类医疗机构、疾病预防控制机构、卫生检验机构执行职务的医务人员发现疑似、临床诊断或实验室确诊病例后，城镇应于6小时，农村应于12 小时内填写报告卡，通过传染病疫情监测信息系统进行网络直报。不具备网络直报条件的应在诊断后24小时内向相应单位送（寄）出传染病报告卡，县级疾病预防控制机构和具备条件的乡镇卫生院收到传染病报告卡后应立即进行网络直报，并及时开展现场调查与处理工作。<br><br>    2、暴发疫情监测<br><br>    按照《中华人民共和国传染病防治法》，各级各类医疗机构、疾病预防控制机构、卫生检验机构执行职务的医务人员发现伤寒暴发、流行疫情时，按照《国家突发公共卫生事件应急预案》规定级别的要求进行报告。 <br><br>    在暴发疫情调查处理过程中要加强主动搜索，及时发现带菌者，对所有病例和带菌者进行个案调查（见附表1），并将个案调查表录入数据库，在上报疫情总结报告时，一并上报数据库。<br><br>    伤寒、副伤寒暴发疫情调查和处理步骤见附件1。<br><br>    暴发疫情发生时，要对所有病例进行个案调查，并将个案调查表录入数据库，在上报疫情总结报告时，一并上报数据库。个案调查表见附表1。暴发疫情处理结束后，要及时收集、整理、统计、分析调查资料，写出详细的报告，报告主要内容包括：疫情概况、首发病例或指示病例的描述、流行基本特征、暴发原因、实验室检测结果和病原分型、控制措施和效果评估等。在疫情控制工作结束后7天内完成结案报告。<br><br>    3、实验室监测<br><br>    （1）病原分离与鉴定<br><br>    在流行季节，由各省组织收集临床诊断病例的不同病程的相应标本进行病原的分离和鉴定。结果录入伤寒、副伤寒采样登记表（见附表2）。各地病原分离和鉴定结果每年逐级上报（见附表3）。<br><br>    发生暴发疫情时，对新发病例和疑似病例，应在抗生素应用前，尽早采集血标本，进行病原分离和鉴定。在暴发疫情控制结束7日内，相关实验室采样、检测和分离结果，随疫情控制总结报告一并报告。标本采集，分离培养和鉴定见附件2。<br><br>    （2）耐药性分析 <br><br>    各省应加强分离菌株的耐药性分析，每季度均要完成一定数量菌株（散发菌株占90%，暴发菌株占10%）的药敏试验。检测药物种类包括青霉素类，头孢类，氨基糖甙类，喹诺酮类抗生素和其它抗生素，除指定必做的抗生素外，各地可根据当地实际情况增加药物种类，检测方法和结果判定详见附件3，药敏结果按季汇总逐级上报（见附表4）。<br><br>    （3）菌株的管理<br><br>    依据《中华人民共和国传染病防治法》、《中国医学微生物菌种保藏管理办法》及《病原微生物实验室生物安全管理条例》的规定与要求对分离到的伤寒、副伤寒菌株进行保存、运送与管理。各级医疗机构实验室分离的伤寒、副伤寒菌株，应送交当地疾病预防控制机构进行复核，复核菌株送省、市级疾病预防控制机构保存；各疾病预防控制中心实验室必须设立伤寒、副伤寒菌株登记本，基本内容参见附表5。各省级疾病预防控制中心每年按国家疾病预防控制中心传染病预防控制所的工作要求收集、上送菌株，并提供菌株来源信息（详见附表5）。<br><br>    （二）监测点监测<br><br>    1、国家监测点选择 <br><br>    （1）选择近5年伤寒、副伤寒发病率较高的贵州、云南、广西、浙江、江苏、新疆为国家监测省份。各省以县（区）为单位，根据既往发病水平和工作条件，设置两个疫情高发监测点（近5年来每年发病率均高于本省平均水平）。<br><br>    （2）监测点具有一定的工作基础，能够承担并完成监测任务。<br><br>    （3）根据疫情变化情况，可适时调整监测点。<br><br>    2、国家监测点工作内容<br><br>    各监测点除完成全国常规监测工作内容外，需完成以下工作：<br><br>    （1）病例监测  <br><br>    各监测省份每年至少采集600例疑似和临床诊断病例的标本（其中疑似病例200例），要求第三季度至少检测300例，其余季度各至少检测100例。每个病例根据病程，应采集病例早期发热时的血样和病程后期的粪便标本。对标本进行伤寒、副伤寒沙门菌分离和鉴定（副伤寒要明确区分甲、乙、丙型），并填报伤寒、副伤寒病例采样登记表（见附表2）。病原分离和鉴定结果按月逐级上报（见附表3）。<br><br>    （2）重点人群监测<br><br>    重点人群包括监测点内的饮食从业人员、自来水管理人员和伤寒副伤寒的出院患者。<br><br>    各监测点在本地选择5－6所厂矿、学校等集体单位共75例饮食从业人员等重点人群为监测对象，在7-10月每月采集一次粪便标本进行病原检测，监测其带菌情况，发现阳性带菌者要及时调离治疗。<br><br>    各监测点选择50例伤寒副伤寒确诊病例，在临床治愈或出院1个月后，间隔2－3天，粪检两次，了解其排菌情况。发现带菌者，督促其继续治疗，并对其带菌情况追踪观察，直至连续两次粪检阴性为止。<br><br>    各监测省份每年至少追踪观察200例重点人群，其中伤寒副伤寒的出院患者50例，饮食从业人员和自来水管理人员等重点人群共150例。<br><br>    以上监测结果填报伤寒副伤寒采样登记表（见附表2）按季度逐级上报。<br><br>    (3) 菌株耐药性监测<br><br>    监测点从病例、重点人群中分离到的菌株要进行药敏实验，动态观察菌株耐药性变迁。药物种类除指定必做的抗生素外，各地可根据当地实际情况增加药物种类；检测方法及结果判定详见附件3，药敏结果按季度汇总逐级上报（见附表6、附表7）。<br><br>    (4) 菌株分子生物学检测分析<br><br>    每年国家疾病预防控制中心传染病预防控制所腹泻病室组织各监测省，选择上年具有代表性的菌株按照PulseNet China中有关伤寒沙门氏菌的脉冲场凝胶电泳（PFGE）方法的标准进行分析，并将结果反馈给各省。<br><br>    五、监测系统组成和职责<br><br>    监测系统由卫生部、各级卫生行政部门、中国疾病预防控制中心及各级疾病预防控制机构和相关医疗机构组成。<br><br>    卫生部负责全国的监测工作，各级卫生行政部门负责组织开展本辖区内监测工作，并提供所需监测经费，保证监测工作顺利开展。<br><br>    中国疾病预防控制中心负责监测方案制订、组织考察、确定全国监测点布局、人员培训、技术指导和系统评价，并加强监测工作实施的检查和质量控制。各级疾病预防控制机构负责具体实施。国家对选择的监测点提供部分经费补助，监测点所在省应给予配套经费支持。<br><br>    各有关医疗机构在当地卫生行政部门的统一领导下，配合疾病预防控制机构的各项监测工作，协助完成就诊病例的标本采集和个案调查工作。<br><br>    六、数据收集、分析和反馈<br><br>    （一） 数据收集内容：<br><br>    1、伤寒、副伤寒流行病学个案调查表和个案数据库<br><br>    2、伤寒、副伤寒病例采样登记表<br><br>    3、伤寒、副伤寒病原分离鉴定月报表<br><br>    4、伤寒、副伤寒菌株药敏结果汇总季报表<br><br>    5、伤、寒副伤寒菌株登记表<br><br>    6、伤寒、副伤寒菌株药敏结果记录表<br><br>    7、暴发疫情调查报告<br><br>    （二）数据收集流程<br><br>    监测点实施监测内容，各种数据收集、分析以及各种标本的采集<br><br>    县疾病预防控制中心             市疾病预防控制中心<br><br>    省级疾病预防控制中心        <br><br>    中国疾病预防控制中心<br><br>    （三）统计分析内容和指标<br><br>    1、发病情况：发病数、死亡数、发病率、病死率和死亡率。<br><br>    2、病例分布情况：病人年龄、性别、职业和时间、地理分布等。<br><br>    3、重点人群带菌和慢性带菌者追索情况<br><br>    4、实验室监测结果<br><br>    （1）菌株型别构成和变迁<br><br>    （2）菌株敏感药物和耐药情况<br><br>    （3）分子生物学特征<br><br>    5、暴发疫情数量、分布和特征<br><br>    （四）数据的报告和反馈<br><br>    监测工作中规定的各类报表均以电子文件形式上报，月报每月10日前，季报在下季度首月10日前，年报于下年度3月10日前上报至中国疾病预防控制中心传染病预防控制所。中国疾病预防控制中心每季度以简报形式向各地反馈监测结果，并负责完成年度全国监测总结报告。<br><br>    电子信箱地址：fuxiejiance@icdc.cn<br><br>    传真：010-61739156<br><br>    七、监测质量控制<br><br>    （一）方案的起草和论证<br><br>    卫生部组织全国相关专家起草监测方案，并广泛论证。<br><br>    （二）培训 <br><br>    在监测工作开始前，由中国疾病预防控制中心组织统一培训。<br><br>    （三）病原核实<br><br>    各省对上送菌株进行复核鉴定，鉴定符合率不低于95％。中国疾病预防控制中心传染病预防控制所应对省级疾病预防控制中心送交的分离菌株抽样30％进行菌型鉴定。鉴定符合率不低于95％。<br><br>    （四）技术资料档案管理，原始记录，总结等。<br><br>    八、附件（略）<br><br>    附表1     年伤寒、副伤寒暴发疫情流行病学个案调查表<br><br>    附表2     年伤寒、副伤寒病例采样登记表<br><br>    附表3     年伤寒、副伤寒病原分离鉴定报表                <br><br>    附表4     年  季伤寒、副伤寒菌株药敏结果汇总报表<br><br>    附表5     年伤寒、副伤寒菌株登记表<br><br>    附表6     年伤寒、副伤寒菌株药敏结果记录表<br><br>    附件1  伤寒、副伤寒暴发疫情调查步骤<br><br>    附件2  标本采集、分离培养和鉴定<br><br>    附件3  药敏试验<br><br>    附件4  菌种管理<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

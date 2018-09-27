@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部办公厅<BR>&nbsp;&nbsp;【发布文号】商服贸字〔2007〕12号<BR>&nbsp;&nbsp;【发布日期】2007-04-24<BR>&nbsp;&nbsp;【生效日期】2007-04-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/b/d/200706/20070604763920.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部办公厅关于执行《服务外包统计报表制度》的通知<br><br></font>(商服贸字〔2007〕12号)</p><br><br><br>各省、自治区、直辖市、计划单列市及新疆生产建设兵团商务主管部门,杭州、南京、西安、成都、武汉、济南市商务主管部门: <br><br>    为及时掌握中国服务外包的情况，在广泛征求意见的基础上，我部编制了《服务外包统计报表制度》。目前，该制度已经国家统计局批准（详见附件1），现将具体要求通知如下，请各单位遵照执行： <br><br>    一、管理机构 <br><br>    服务外包统计采用属地管理方式，各地方商务主管部门负责管理本辖区内企业，企业的服务外包合同原则上应向注册地的区县级商务主管部门登记。为方便企业登记，经上一级商务主管部门同意，省（市）属企业可以将合同向省（市）商务主管部门登记。 <br><br>    服务外包基地城市的商务主管部门负责本基地城市的统计。 <br><br>    各地商务主管部门应明确服务外包统计的主管处室，并保证统计管理人员的稳定。鉴于目前服务外包与软件出口合同统计运行于同一平台，为方便业务管理与系统培训，请各级商务主管部门明确服务外包统计与软件出口统计由同一处室负责。 <br><br>    二、统计范围及对象 <br><br>    本制度的统计范围包括服务外包企业、服务外包合同、服务外包基地城市三部分。 <br><br>    （一）服务外包企业：从事跨境服务外包的企业。 <br><br>    （二）服务外包合同：跨境服务外包合同，我国企业承接国外发包的视为服务外包出口，我国企业向国外企业发包的视为服务外包进口。 <br><br>    （三）服务外包基地城市：经国务院主管部门批准的服务外包基地城市，主要统计基地城市资助本基地城市内企业进行的培训情况和认证情况。 <br><br>    三、报送时间与方式 <br><br>    服务外包统计应通过“服务外包统计管理系统”进行登记。目前，该系统与“软件出口合同登记管理系统”运行于同一平台。 <br><br>    服务外包企业应于每月5日前登记上一月服务外包合同协议情况、执行情况。 <br><br>    服务外包企业应在申请账户时登记服务外包企业基本信息，并于每年1月15日前更新上一年度基本信息。 <br><br>    服务外包基地城市应于每年1月15日前登记人员培训情况、企业认证情况。 <br><br>    三、系统登录 <br><br>    “服务外包统计管理系统”与“软件出口合同登记管理系统”运行于同一平台。企业在登录合同信息时在“合同类别”项中选择相应类别，以区分软件出口合同与服务外包合同。 <br><br>    （一）系统网址 <br><br>    用户可通过公众互联网登录系统。 <br><br>    商务主管部门端：http://fwwb.fwmys.mofcom.gov.cn/shangwu <br>     <br>    企业端：http://fwwb.fwmys.mofcom.gov.cn/qiye <br><br>    （二）账户管理 <br><br>    商务部负责为省、自治区、直辖市、计划单列市及服务外包基地城市商务主管部门分配账户。各地商务主管部门负责为下一级主管部门分配账户。初始用户名、密码请咨询上级主管部门。 <br><br>    企业用户可通过企业端网址申请开设新账户，相应的地方商务主管部门负责根据企业申请，据实核准其账户。 <br><br>    四、启用时间 <br><br>    《服务外包统计报表制度》于2007年5月1日开始执行，请各地商务主管部门将2007年1-4月的数据补入“服务外包统计管理系统”。 <br><br>    五、软件出口合同登记 <br><br>    新的软件出口合同登记管理系统要求企业分别登记软件出口合同协议情况、执行情况，报送方式、时间与服务外包合同相同。软件出口企业在登记合同协议情况时，各级商务主管部门不为其出具《软件出口合同登记证书》。待合同被执行后，由各级商务主管部门根据实际的执行金额为其出具《软件出口合同登记证书》，每执行一次出具一份证书。 <br><br>    新的合同登记管理系统于2007年4月1日起正式启用，登录方式与“服务外包统计管理系统”相同，旧系统同时废止。 <br><br>    六、联系方式 <br><br>    商务部服务贸易司联系人   孟巍  徐兴锋 <br><br>        电话：010-65197377  65197027 <br><br>    技术支持单位 中和志远公司，联系人  张现杰  王林波 <br><br>        电话：010-82865246 <br><br><br>    附件：1.<a href=javascript:ROF(120581,0) class=alink>国家统计局关于同意执行服务外包统计报表制度的函</a>（国统制[2007]21号） <br><br>          2.服务外包统计报表制度 <br><br>                                                        中华人民共和国商务部办公厅 <br>                                                        二○○七年四月二十四日 <br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

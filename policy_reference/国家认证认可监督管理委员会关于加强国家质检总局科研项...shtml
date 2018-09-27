@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家认证认可监督管理委员会<BR>&nbsp;&nbsp;【发布文号】国认科[2005]83号<BR>&nbsp;&nbsp;【发布日期】2005-11-07<BR>&nbsp;&nbsp;【生效日期】2005-11-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cnca.gov.cn/20040420/article/05-11/9421.htm" target=_blank>国家认证认可监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家认证认可监督管理委员会关于加强国家质检总局科研项目计划管理的通知<br><br></font>(国认科[2005]83号)</p><br> <br> <br>各部室、下属单位：<br><br>    2005年度国家质检总局检验检疫科研项目计划（见附件1）及专项经费已正式下达，为加强对认监委及下属单位承担的总局科研计划项目的管理，提高专项经费使用效益，使项目承担单位保质保量完成科研项目计划，根据《认证认可科技项目管理办法（试行）》及有关规定，结合认监委科研工作实际，对总局科研项目计划的实施及管理提出如下要求：<br><br>    一、项目过程管理<br><br>    1．项目（或课题，下同）实行“课题制”管理，即实行以项目为中心、以项目组为基本活动单位进行项目组织、管理和研究活动的科研管理制度。项目承担单位在项目实施过程中，须严格执行项目任务书中确定的各项任务，加强对项目实施过程的管理和监督，按既定时间保质保量完成项目预定目标；项目负责人应切实履行职责，做好项目实施过程的组织、协调和与科技主管部门的联系与沟通工作。每个项目确定一名联系人，具体负责材料上报等工作。<br><br>    2．项目管理实行项目进展情况报告及检查制度。项目组每半年向认监委科技标准部报送一次《认监委XXXX年度质检总局科研计划项目进展情况统计表》（以下简称《进展情况统计表》，见附件2），报送时间为每年6月10日、12月10日前；项目每一执行年度的年末（12月10日前）上报项目年度执行情况报告，内容包括项目年度进展情况、完成的任务和指标、经费使用及管理、自筹资金到位情况、存在的问题及下阶段工作安排等。认监委科技标准部将依据《项目任务书》、《进展情况统计表》及项目年度执行情况报告，对项目进行定期或不定期的监督检查并通报项目计划的总体执行情况。<br><br>    3．项目管理实行重大事项报告制度，即项目实施过程中发生技术路线或主要研究内容调整，主要研究人员、经费预算产生较大变动，或出现其它可能影响项目顺利完成的重大事项变更，项目组应及时向认监委科技标准部书面报告，经审核同意后按相关程序报总局审批。<br><br>    二、项目经费管理<br><br>    1．总局科研计划项目专项经费采取专项经费与项目年度执行情况考核相结合、经费分年度下拨的方式。<br><br>    （1）下属单位承担的项目。中国合格评定国家认可中心、中国质量认证中心和认监委信息中心等下属单位承担的总局科研计划项目第一年的专项经费，由认监委科技标准部根据项目任务书中确定的年度专项经费预算或专项经费总额的年平均数予以拨付；以后年度的项目专项经费，由认监委科技标准部根据《项目任务书》中年度专项经费预算，综合考虑上年度项目执行考核情况、专项经费使用情况以及自筹资金到位情况等下拨经费；对于年度执行过程中存在明显问题、漏洞或其它不符合相关要求的项目，次年的专项经费将暂缓下拨，直至项目组进行整改且达到要求。<br><br>    （2）认监委承担的项目。认监委承担的项目每年度经费使用额度的审批程序同上款所述。在具体经费使用过程中，由项目组向科技标准部提出经费使用申请，经批准后执行。<br><br>    2．项目承担单位须加强对项目经费来源预算的统一管理，在保证总局科研经费专款专用的同时，应对项目实施提供必要的配套保障资金；项目承担单位应建立健全内部财务管理制度，加强对科技专项经费与配套经费的管理，防止发生诸如不按规定提取管理费、结余资金不按规定程序报批使用、截留项目资金等违规违纪问题，切实提高资金使用的安全性、规范性和有效性。<br><br>    三、项目验收与档案管理<br><br>    1．项目承担单位在项目完成后应及时向认监委科技标准部报送验收或鉴定申请，经审核同意后报送总局科技司。项目承担单位应做好与项目（课题）验收（包括成果验收、固定资产验收、财务决算等）相关的所有准备工作，同时还须加强对项目研究过程中形成的固定资产的监管，防止国有资产的流失。未能按时申请项目验收的，必须说明原因并附上文字材料。<br><br>    2．项目承担单位在项目执行期内没有完成项目计划任务，又不能提供任何正当理由，其所拨项目专项经费须全额退回；认监委科技标准部将适情对有关情况做出通报，同时对该单位今后申报科研项目做出必要限制。<br><br>    3．科研档案是科研活动的真实记录，既是科技储备的必要形式，又是重要的信息资源。因此，各项目承担单位在项目实施过程中应认真做好各类科研材料的分类、整理和归档以及相关材料的报送工作，具体做法可参照科技部《科学技术研究档案管理暂行规定》的有关要求执行。<br><br>    请各有关单位按照上述要求做好2005年度总局科研项目计划的实施和管理。<br> <br>附件：1．关于下达2005年度国家质检总局检验检疫科研项目计划的通知(已有书面通知，网上不再转发)<br>      2．认监委XXXX年度质检总局科研项目计划进展情况统计表<br> <br>二○○五年十一月七日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

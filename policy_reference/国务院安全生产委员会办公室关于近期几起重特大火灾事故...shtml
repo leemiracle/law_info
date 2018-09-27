@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安全生产委员会办公室<BR>&nbsp;&nbsp;【发布文号】安委办[2006]39号<BR>&nbsp;&nbsp;【发布日期】2006-11-01<BR>&nbsp;&nbsp;【生效日期】2006-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-11/02/content_200998.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安全生产委员会办公室关于近期几起重特大火灾事故的通报<br><br></font>(安委办[2006]39号)</p><br><br> <br>各省、自治区、直辖市及新疆生产建设兵团安全生产委员会： <br><br>    9月份以来，浙江省湖州市、辽宁省沈阳市、广东省汕头市等地先后连续发生重特大火灾事故，造成重大人员伤亡和财产损失。 <br><br>    9月14日，浙江省湖州市吴兴区织里镇福音大厦发生火灾事故，死亡15人；10月21日,该镇安康西路一家童装厂发生火灾事故，死亡8人。 <br><br>    9月16日,辽宁省沈阳市苏家屯区沈阳市双鹿针织厂(民营企业)一栋简易二层楼发生火灾事故，死亡9人。 <br><br>    10月16日,广东省汕头市潮阳市谷饶镇谷饶民兴针织服装厂发生火灾事故,死亡6人。 <br><br>    发生事故单位都是地处乡镇的中小针织服装生产经营企业。事故暴露出的直接原因是：事故场所都是集生产经营、物资储存、人员住宿等为一体的"三合一"或"多合一"建筑，用火用电隐患多，疏散通道不足或不畅，消防设施缺乏，逃生自救困难。暴露出的主要问题是：当地没有把安全发展放到与经济发展同等重要的位置，降低了安全准入门槛，忽视安全生产条件；乡镇消防设施严重滞后，缺乏防灾救灾措施；业主安全生产意识淡薄，只顾经济利益、忽视安全投入，"三合一"埋下了隐患，安全疏散出口不足；消防安全管理责任不落实，制度不健全，违章用火用电用气，火灾隐患严重；消防安全教育培训工作不落实，务工人员缺乏基本的防火、灭火、逃生自救常识。 <br><br>    目前已进入火灾易发高发季节，为认真吸取事故教训，防止同类事故再次发生，切实加强消防安全工作，现提出如下要求： <br><br>    一、各地要按照科学发展、安全发展的要求，加强消防工作。乡镇消防安全要编制乡镇消防规划，与社会经济同步发展，对已编制完成村镇总体规划但缺少消防规划内容的必须补编，消防规划内容不齐全、深度不够的，一律不予通过技术审查，避免出现新的欠账，带来新的隐患。 <br><br>    二、切实抓好国务院安全生产委员会《关于集中开展火灾隐患普查整治工作的方案》（安委〔2006〕4号）的贯彻落实，各地要认真组织，细化方案，立即开展火灾隐患普查整治工作。要针对本地区存在的突出问题，强化重点行业、重点区域的排查。要把地处乡镇的 "三合一"或"多合一"建筑以及市场、宾馆饭店等人员密集场所，劳动密集型生产经营单位等，作为普查整治的重点。要制定操作性强的技术条件要求，对"三合一"、"多合一"场所，必须采取人员住宿与生产、储存、经营场所彻底分离和划分防火分区、增设安全通道出口、安装火灾自动报警装置、简易自动喷水灭火装置等技术防范手段，从根本上消除火灾隐患；对新建、改建、扩建工程，必须严格执行消防法律法规和消防技术标准，防止产生新的"三合一"或"多合一"场所；对经整治仍达不到基本消防安全要求、危及人员生命安全的，必须坚决责令停产停业。对重大火灾隐患，建议由地方政府挂牌督办。 <br><br>    三、按照《国务院关于进一步加强消防工作的意见》（国发〔2006〕15号）要求，加强日常消防安全监管，督促企业落实消防安全责任。各级公安消防和安全监管部门要督促生产经营单位尤其是中小企业建立健全消防安全制度，落实专职或兼职消防管理人员，确保消防设施完好有效和疏散通道、安全出口畅通，加强对员工特别是农民工等外来务工人员的安全教育和培训，制定完善灭火和应急疏散预案并定期组织演练，提高应对火灾事故的处置能力。要督促存在"三合一"、"多合一"建筑的企业立即落实有针对性的人防、技防措施。各相关部门和居民委员会、村民委员会要督促本行业、本系统、本地区企业落实好消防安全责任。 <br><br>    四、认真做好火灾事故调查处理工作。对发生的火灾事故，地方政府和有关部门要按照"四不放过"原则，尽快查明事故原因，分清事故责任，严肃追究相关责任单位和责任人的责任，并及时曝光，起到警示教育的作用。要求事故单位举一反三，吸取教训，提高消防安全管理水平。 <br><br>    请浙江省、广东省、辽宁省安全生产委员会对近期火灾事故认真进行分析，采取有针对性措施，坚决防止类似事故的发生。请重点指导湖州市、汕头市、沈阳市正在开展的火灾隐患整治工作，并将有关情况及时报送国务院安委会办公室。<br><br>二○○六年十一月一日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

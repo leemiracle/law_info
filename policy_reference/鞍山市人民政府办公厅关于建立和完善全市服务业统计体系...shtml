@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】鞍山市人民政府<BR>&nbsp;&nbsp;【发布文号】鞍政办发[2009]31号<BR>&nbsp;&nbsp;【发布日期】2009-06-22<BR>&nbsp;&nbsp;【生效日期】2009-06-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.anshan.gov.cn/pagelist/docContent.jsp?oid=26819" target=_blank>鞍山市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>鞍山市人民政府办公厅关于建立和完善全市服务业统计体系加强服务业统计工作的实施意见 <br> <br></font>(鞍政办发[2009]31号)</p> <br> <br> <br>    各县（市）、区人民政府，市政府各部门，各有关单位：?<br><br>    为全面贯彻落实《中共辽宁省委辽宁省人民政府关于加快发展服务业的若干意见》（辽委发〔2008〕11号）和《辽宁省人民政府办公厅关于印发全省服务业发展任务指标体系及考评制度和建立完善服务业统计体系实施意见的通知》（辽政办发〔2008〕49号）精神，及时了解我市服务业发展总体规模、结构、效益及地区和行业分布等情况，为制定全市服务业发展规划、政策等提供可靠依据，促进服务业持续、健康发展，满足国民经济核算和部门管理需要，现就建立和完善我市服务业统计体系、加强服务业统计工作提出如下实施意见：?<br><br>    一、服务业统计调查范围、对象和内容?<br><br>    （一）服务业统计调查范围：包括除农业、工业和建筑业以外的其他为生产和生活服务的行业。具体为：交通运输、仓储和邮政业；信息传输、计算机服务和软件业；批发和零售业；住宿和餐饮业；金融业；房地产业；租赁和商务服务业；科学研究、技术服务和地质勘查业；水利、环境和公共设施管理业；居民服务和其他服务业；教育；卫生、社会保障和社会福利业；文化、体育和娱乐业；公共管理和社会组织。共涉及14个门类、46个大类、179个中类和338个小类。?<br><br>    （二）服务业统计调查对象：在我市行政区划范围内所有从事服务业行业生产经营或业务活动的全部法人单位和个体经营户。?<br><br>    （三）服务业统计调查内容：主要反映服务业企事业单位和个体经营户的单位基本属性、财务状况、生产经营情况、从业人员和行业的主要业务指标。?<br><br>    二、建立和完善服务业统计体系?<br><br>    （一）服务业统计指标体系：一是反映服务业总体发展水平的综合指标。主要包括：服务业增加值及其增长速度，服务业增加值占地区生产总值比重，现代服务业增加值占服务业增加值的比重等。二是反映服务业运行质量与效益指标。主要包括：服务业税收增长速度，服务业税收占全部税收比重，服务业固定资产投资增长速度，服务业固定资产投资占全社会固定资产投资比重，服务业从业人员占全社会从业人员比重，服务业行业科技人员比重等。三是反映行业发展状况的指标。主要包括：限额以上批零、住宿餐饮业增加值及其增长速度，交通运输业客货运周转量及其增长速度，社会消费品零售总额及其增长速度，金融机构存贷款余额，电信业务总量及其增长速度，旅游业总量、收入及其增长速度，商品房销售面积及其增长速度，以及教育、卫生、文化等反映民生和社会发展情况的指标。四是反映服务业结构状况的指标。主要包括：按服务业行业分组、按经济类型分组和按地区分组等，及时了解服务业行业结构，投资主体以及地区分布状况等指标。?<br><br>    （二）服务业统计工作责任体系：各县（市）、区政府（含高新区、达道湾工业规划区、千山风景名胜区、玉佛山风景名胜区，下同）负责本地区服务业统计体系的总体部署、协调和实施。?<br><br>    各县（市）、区政府统计机构是本地区服务业统计工作的牵头单位，负责组织本地区服务业统计体系的建立和统计调查制度的制定、修订与部署；负责服务业统计业务培训和组织指导工作；组织实施部分服务业企业的统计和各类个体经营户的抽样调查工作；建立本级服务业单位名录库；开展有关服务业统计调查对象的清查；数据处理；服务业增加值的核算；对服务业发展进行统计分析；定期组织服务业统计执法检查和信息发布工作。?<br><br>    各有关部门和单位负责本系统服务业统计调查工作。负责完善本系统统计制度，细化统计内容，规范工作流程。强化对所属单位和行业管理范围内的企事业单位服务业统计工作的指导，按照市政府统一部署，认真做好本系统和行业统计资料的搜集、汇总、审核、报送工作。?<br><br>    三、服务业统计调查实施的主体?<br><br>    我市服务业统计调查实行“统一制度、条块结合、分级实施、集中核算”的模式，根据目前服务业的管理和统计现状，按服务行业类别将调查实施主体分为政府统计部门和行业管理部门（具体职责分解详见附件1、附件2）。?<br><br>    四、服务业统计调查方法?<br><br>    服务业统计调查采用政府统计和部门统计相结合，全面调查和抽样调查相结合的方式进行。?<br><br>    各相关行业管理部门和单位负责对本系统进行年（季）度的全面统计，以电子邮件方式按时上报市统计局对口专业处室。?<br><br>    市统计局负责按季分别对全市限额以上服务业企业进行全面统计、对限额以下服务业企业和个体经营户进行抽样调查。限额以上企业以营业收入200万元为限额。为减轻企业负担，对限额以上服务业企业的统计如与国家调查总队重复的，用国家样本替代。限额以下服务业企业和服务业个体经营户，由省统计局利用最新基本单位名录库为样本框，在19个行业大类进行抽样，市统计局和辽宁省统计局鞍山调查队组织各县（市）、区统计局及所属县（市）调查队实施。?<br><br>    五、服务业统计调查报告期?<br><br>    根据服务业发展需要，结合服务业行业的不同特点，服务业统计调查数据报告期分别为年报、季报。限额以上服务业企业财务状况表的报告期分别为2009年1―2月、1―5月、1―8月和1―11月，限额以下服务业企业和个体经营户调查表的报告期分别为2009年1―5月和1―11月。具体上报时间参照《鞍山市服务业统计调查制度》。?<br><br>    六、保障措施?<br><br>    （一）加强组织领导，开展协作配合。市政府成立鞍山市服务业统计工作领导小组（成员名单详见附件3），负责推动全市服务业统计工作有序开展。领导小组办公室设在市统计局，负责领导小组的日常工作。各县（市）、区政府，市政府各相关部门和单位要高度重视服务业统计工作，进一步增强责任感和紧迫感，认真组织落实。要建立分工明确、职责清晰的服务业统计工作责任体系，确保服务业统计工作各项任务的落实。要在资金、人员、设备等方面为服务业统计工作提供必要支持，为服务业统计工作长期顺利开展提供工作保障。?<br><br>    （二）各县（市）、区政府统计部门要健全服务业统计机构编制，充实统计力量。根据目前服务业统计工作的需要，海城市及四城区政府统计部门从事服务业统计人员应不少于3人（可内部调剂），台安县、岫岩县及高新区、达道湾工业规划区、千山风景名胜区、玉佛山风景名胜区要确保2名（可内部调剂）专门从事服务业统计的人员，人员确定后要尽快到位，以免影响日常统计工作的开展。年营业收入200万元以上的服务业企业要有专人负责统计工作。对服务业统计工作所需经费，按照分级负担的原则，由各级财政根据工作需要予以安排。<br><br>    （三）建立健全长效工作机制。各相关部门、单位和各县（市）、区统计部门要充分认识到服务业统计工作是推动服务业发展的重要基础性工作，要牢固树立起长期奋战、坚持不懈的工作态度，切实做好本系统、本部门、本地区服务业统计工作的数据采集、整理和汇总填报等各项工作，在扎实落实各项实际工作中不断提高服务业统计工作的制度化、科学化水平，有效建立健全服务业统计工作长效工作机制。?<br><br>    （四）加强数据审核、评估，确保数据质量。各相关部门、单位和各县（市）、区统计部门要在确保统计数据真实性的基础上，进一步提高统计数据的实用性和可比性，采取有效措施，做好服务业统计数据的评估工作，严把数据审核关，为决策部门准确全面掌握市、县（市）区服务业发展情况、制定出台服务业相关政策、科学指导服务业又好又快发展提供翔实可靠数据。?<br><br>    （五）加强统计执法力度，确保统计报送渠道的畅通。服务业统计基础工作薄弱，涉及行业多，私企比重大，企业配合程度差，各级统计执法部门要加大执法力度，对拒不参加培训会议、拒报和瞒报、虚报统计资料的单位和部门，要依法进行查处，并追究单位和部门领导的责任，确保统计资料准确及时上报。?<br><br>    （六）逐步完善服务业统计网络建设。各部门和单位、各县（市）区、乡（镇、街）和社区（村）要改善统计手段，提高工作效率，搭建服务业统计现代化工作平台，以实现信息的快速传输和共享。?<br><br>    《鞍山市服务业统计调查制度》由市统计局另行下发。?<br>?<br>    附件：<br><br>    1.行业管理部门工作职责<br><br>    2.政府统计部门职责<br><br>    3.鞍山市服务业统计工作领导小组成员名单<br>?<br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

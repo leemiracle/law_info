@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省发展和改革委员会<BR>&nbsp;&nbsp;【发布文号】闽发改高技〔2008〕566号<BR>&nbsp;&nbsp;【发布日期】2008-07-30<BR>&nbsp;&nbsp;【生效日期】2008-07-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200809/t20080902_88408.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省发展和改革委员会关于福建省级网上行政审批系统（二期）项目可行性研究报告暨初步设计方案的批复<br><br></font>(闽发改高技〔2008〕566号)</p><br><br><br>省经济信息中心：<br><br>    你中心《关于申请福建省级网上行政审批系统（二期）项可行性研究报告暨初步设计方案项目批复的报告》及有关附件收悉。经研究，原则同意该项目可行性研究报告暨初步设计方案。现批复如下：<br><br>    一、建设单位<br><br>    承建单位：省经济信息中心。<br><br>    参建单位：省效能办、省审改办、37个具有审批职能的省直单位、省空间信息工程研究中心。<br><br>    二、建设内容<br><br>    （一）部署省政府办公厅、省民族与宗教事务厅、省对外经济贸易合作厅、省交通厅、省文化厅、省外办、省海洋与渔业局、省广电局、省地税局、省新闻出版局、省环境保护局、省安监局、省药监局、省档案局、省劳教局、省监狱管理局、省消防总队、省交警总队、省边防总队、省测绘局、省盐务局、省体育局、省旅游局、省台办、省统计局、省粮食局、省贸促会、省库区移民开发局、省政府机关事务管理局、省国家保密局、省侨办、省口岸办、省人防办、省政府法制办、省残联、省政府新闻办、省事业单位登记管理局等37个省直单位的单体审批系统，开展流程梳理、审批事项流程及表单定制工作，部署上述厅局审批服务窗口终端设备和电子印章系统，以实现网上审批应用。<br><br>    （二）开发应用软件：<br><br>    (1)省直单位之间跨部门的网上并联审批系统。包括窗口收件受理登记、各单位子流程串联审批和并联审批、各单位联合签署意见、补齐材料、项目退办或撤回、消息通知、查询统计等功能模块。<br><br>    (2)省市两级网上审批联动系统。包括省市数据交换规范制定、开发省市数据采集和交换接口、省市联动事项受理、审批办理、补齐材料、消息通知、查询统计等功能模块。<br><br>    (3)信息共享库系统。开发表格模板库、全局字典库、信息复用共享库、数据导入验证处理和根据筛选条件导出处理功能；<br><br>    (4)与OA等其他部门业务接口开发。制定数据交换规范，开发与各省直单位OA、其它业务系统的数据共享和交换接口（web service接口）、开发数据交换引擎、开发发送和接受适配器、对交换业务规则进行初始化配置。<br><br>    (5)省政务信息共享平台证照信息验证接口定制开发，以实现共享法人、人口等基础数据库。<br><br>    （三）软硬件基础平台改造：主要包括外网备份服务器、内网存储系统、网络安全设备等的改造与建设，以及与政务网灾难备份中心的连接工作。<br><br>    （四）建设视频监控系统。在网上审批参建单位服务窗口部署摄像头，监控审批服务质量。<br><br>    省级网上行政审批系统（二期）项目的建设，将进一步深化我省行政审批制度改革，有效促进依法行政，提高行政效率、监管力度，扩大政务公开、透明度，提高政府公共服务水平。<br><br>    三、建设期限：三个月。<br><br>    四、项目总投资及资金来源：项目总投资330万元，根据《数字福建专项专项资金管理办法》从数字福建专项资金中按总投资的80%安排264万元。实际投资以招标额为准。<br><br>    五、项目招标事项：依照《福建省招标投标条例》及配套规定，核准除该项目审批事项流程及表单定制与部署由省经济信息中心自主组织实施外，所需软硬件采购应当依照省有关招投标和政府采购的规定执行。<br><br>    六、福建省级网上行政审批系统（二期）要充分利用数字福建前期建设成果，实现资源共享，避免重复建设。<br><br>    请据此批复抓紧组织实施。<br><br>    附表：项目投资概算表(略)<br><br>    二○○八年七月三十日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

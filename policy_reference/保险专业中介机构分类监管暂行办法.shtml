@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2008〕122号<BR>&nbsp;&nbsp;【发布日期】2008-12-30<BR>&nbsp;&nbsp;【生效日期】2009-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_7680/90545.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>保险专业中介机构分类监管暂行办法<br><br></font>(保监发〔2008〕122号)</p><br><br><br>各保监局：<br><br>    为切实增强保险中介监管的针对性和有效性，科学合理分配监管资源，现将《保险专业中介机构分类监管暂行办法》印发给你们，请遵照执行。<br><br>                                        中国保险监督管理委员会<br>                                        二○○八年十二月三十日<br>     <br><br>保险专业中介机构分类监管暂行办法<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为切实履行对保险专业中介机构的监管职能，形成保险中介市场风险预警机制，合理分配监管资源，提高保险中介监管效率和防范风险的能力，依据《<a href=javascript:ROF(77624,0) class=alink>保险法</a>》等法律法规和相关规章制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法所称分类监管是指中国保监会及其派出机构根据客观既有信息，综合分析评估保险专业中介机构风险，依据评估结果将其归入特定监管类属，并采取针对性监管措施的方法。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本办法所称保险专业中介机构是指依据《<a href=javascript:ROF(98499,0) class=alink>保险代理机构管理规定</a>》、《<a href=javascript:ROF(98500,0) class=alink>保险经纪机构管理规定</a>》、《<a href=javascript:ROF(38583,0) class=alink>保险公估机构管理规定</a>》依法设立的保险代理机构、保险经纪机构、保险公估机构及其分支机构。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 本办法建立合规性和稳健性两大类十四个指标，评估保险专业中介机构的合规风险、稳健风险和综合风险。合规风险分值和稳健风险分值分别为其项下各评估指标分值之和。综合风险分值为合规风险分值与稳健风险分值之和。分值越大，代表风险越高。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 原则上按照综合风险分值从高至低，将保险专业中介机构划分为现场检查类机构、关注性非现场检查类机构、一般非现场检查类机构。现场检查类机构、关注性非现场检查类机构的数量应分别不少于辖区内保险专业中介机构总数的5％、20%。<br><br>    根据监管实际，合规风险分值和稳健风险分值可以作为辅助分类依据。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 对一般非现场检查类机构原则上采取定期收集、分析、监测市场运行数据，关注市场反应等非现场检查方式。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 对关注性非现场检查类机构在实行非现场检查的同时，应加强风险监测、重点关注，可进一步采取以下监管措施：<br><br>    （一）进行风险提示或者监管谈话；<br><br>    （二）提高报表报送频率；<br><br>    （三）要求对存在风险的领域提交专项报告、报表；<br><br>    （四）要求聘请合格会计师事务所对所提供信息进行专项外部审计，提交专项审计报告；<br><br>    （五）组织现场检查；<br><br>    （六）其他必要的监管措施。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 对现场检查类机构除采取关注性非现场检查类机构的监管措施外，每年还应至少进行一次现场检查。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 中国保监会及其派出机构应以分类监管为基础，积极关注市场、关注风险、关注舆情动态和举报投诉。对涉嫌违法违规的保险专业中介机构，应根据实际及时采取现场检查等有效监管措施，不受年度分类结果约束。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 分类所依据信息和数据应客观准确，主要来源包括以下渠道：<br><br>    （一）监管部门；<br><br>    （二）保险行业组织；<br><br>    （三）保险公司；<br><br>    （四）保险专业中介机构；<br><br>    （五）外部审计机构；<br><br>    （六）举报投诉；<br><br>    （七）舆情动态；<br><br>    （八）其他真实有效信息渠道。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 派出机构原则上每年应对辖区内保险专业中介机构进行一次分类评估，并在每年第一季度末向中国保监会提交上一年度保险专业中介机构分类监管报告，应包括以下内容：<br><br>    （一）分类监管实施情况；<br><br>    （二）分类监管实施效果、存在的问题与原因分析；<br><br>    （三）完善分类监管的意见和建议；<br><br>    （四）下一年度的分类监管计划。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 中国保监会系统应加强横向信息沟通和监管协作，提高保险中介分类监管的统一性和协调性；派出机构对保险专业中介分支机构实施分类监管的情况应及时通报中国保监会及其他相关派出机构。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 依据本办法对保险专业中介机构进行分类的结果仅在中国保监会系统使用。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 附表构成本办法的组成部分。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 本办法由中国保监会负责解释。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 本办法自2009年1月1日起试行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部、财政部<BR>&nbsp;&nbsp;【发布文号】教高函[2009]5号<BR>&nbsp;&nbsp;【发布日期】2009-01-20<BR>&nbsp;&nbsp;【生效日期】2009-01-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/18/info1236671583581318.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部、财政部关于批准2008年度国家级实验教学示范中心建设单位的通知<br><br></font>(教高函[2009]5号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）、财政厅（局）,新疆生产建设兵团教育局、财务局,有关部门（单位）教育司（局）、财务司（局），教育部直属各高等学校：<br><br>    根据《教育部财政部关于实施高等学校本科教学质量与教学改革工程的意见》（教高〔2007〕1号）的精神，按照2008年度高等学校本科教学质量与教学改革工程项目中国家级实验教学示范中心申报评审的要求，有关专家对各省级教育行政部门报送的物理类、化学化工类、生物类、电子电气信息类、机械类、土建类、材料类、环境类、地学类、植物类、动物类、临床技能类、医学基础类、经济管理类、法学类、传媒类、艺术类、综合性工程训练中心、文科综合类等19个学科类别的实验教学中心进行了评审。经过网上初评、终审评议和网上公示等程序，经研究，现批准重庆大学物理实验教学中心等141个实验教学中心为2008年度国家级实验教学示范中心建设单位（名单见附件）。<br><br>    国家级实验教学示范中心建设单位要进一步加强建设，加大经费投入，完善运行管理机制，深化实验教学改革，探索创新性实验教学模式，凝练优质实验教学资源，开展培训、交流和合作，增强示范辐射能力，不断开拓创新，为全国高等学校实验教学提供示范。建设过程中应执行《高等学校本科教学质量与教学改革工程项目管理暂行办法》（教高〔2007〕14号）。<br><br>    各省级教育行政部门和有关主管部门要不断推进国家级、省级两级实验教学示范体系建设，加大投入力度，完善配套政策，积极组织和支持本地区、本部门高等学校与国家级、省级实验教学示范中心的交流与合作，充分发挥实验教学示范体系的示范辐射作用。<br><br>    附件：2008年度国家级实验教学示范中心建设单位名单<br><br>中华人民共和国教育部<br>中华人民共和国财政部<br>二○○九年一月二十日<br><br><br>附件：2008年度国家级实验教学示范中心建设单位名单<br><br>物理类：<br><br>    重庆大学物理实验教学中心<br><br>    大连理工大学基础物理实验中心<br><br>    广西师范大学物理学实验教学中心<br><br>    哈尔滨工程大学物理实验教学中心<br><br>    河北师范大学物理实验教学中心<br><br>    华中科技大学物理实验教学中心<br><br>    兰州大学大学物理实验教学中心<br><br>    南昌航空大学大学物理实验中心<br><br>    青海师范大学物理实验教学中心<br><br>    山东大学物理实验教学中心<br><br>    西北大学物理实验教学中心<br><br>    云南师范大学物理实验教学中心<br><br>化学化工类：<br><br>    北京化工大学化学化工教学实验中心<br><br>    复旦大学化学教学实验中心<br><br>    广州大学化学化工实验教学中心<br><br>    哈尔滨工业大学化学实验中心<br><br>    河北科技大学化工制药实验教学中心<br><br>    河南师范大学化学实验教学中心<br><br>    华中师范大学化学实验教学中心<br><br>    宁夏大学基础化学实验中心<br><br>    青岛科技大学化工过程实验教学中心<br><br>    西南石油大学化学化工实验教学中心<br><br>    中国科学技术大学化学实验教学中心<br><br>生物类：<br><br>    北京师范大学生命科学与技术实验教学中心<br><br>    福建师范大学生物学实验教学中心<br><br>    贵州大学农业生物实验教学中心<br><br>    海南大学海洋生物实验教学中心<br><br>    湖北师范学院生物学实验教学中心<br><br>    湖南师范大学生物学实验中心<br><br>    南京工业大学生物化学工程实验教学中心<br><br>    新疆大学生物学实验中心<br><br>电子电气信息类：<br><br>    北京信息科技大学电子信息与控制实验教学中心<br><br>    大连海事大学电工电子实验教学中心<br><br>    电子科技大学通信与信息系统实验中心<br><br>    东北电力大学电气工程实验教学中心<br><br>    湖南科技大学电子与电气技术实验教学中心<br><br>    华南理工大学电气信息及控制实验教学中心<br><br>    南昌大学电工电子实验中心<br><br>    清华大学电气工程实验教学中心<br><br>    上海交通大学电工电子实验教学中心<br><br>    天津大学电气电子实验教学中心<br><br>    西安电子科技大学通信与信息工程实验教学中心<br><br>    西藏大学信息技术实验教学中心<br><br>    厦门大学电子信息实验教学中心<br><br>机械类：<br><br>    长春理工大学机械工程实验教学中心<br><br>    合肥工业大学机械工程实验教学中心<br><br>    清华大学机械工程实验教学中心<br><br>    山东大学机械基础实验教学中心<br><br>    太原科技大学机械实验教学中心<br><br>    西安交通大学机械基础实验教学中心<br><br>    燕山大学机电液一体化实验教学中心<br><br>土建类：<br><br>    北京交通大学土木工程实验中心<br><br>    长沙理工大学土木工程专业实验教学中心<br><br>    东南大学土木工程实验教学中心<br><br>    武汉大学水利水电工程实验教学中心<br><br>    西安建筑科技大学土木工程实验教学中心<br><br>    西南交通大学土木工程实验教学中心<br><br>材料类：<br><br>    重庆大学工程材料实验教学中心<br><br>    东北大学冶金与材料工程实验教学中心<br><br>    哈尔滨工业大学材料科学与工程实验教学中心<br><br>    昆明理工大学冶金工程实验教学中心<br><br>    四川大学材料科学与工程实验教学中心<br><br>    湘潭大学材料科学与工程实验教学中心<br><br>环境类：<br><br>    桂林工学院水污染控制实验教学中心<br><br>    同济大学环境科学与工程实验教学中心<br><br>地学类：<br><br>    北京大学地球科学实验教学中心<br><br>    成都理工大学地质工程实验教学中心<br><br>    东华理工大学放射性地质实验教学中心<br><br>    南京师范大学地理科学实验教学中心<br><br>    石家庄经济学院地学实验教学中心<br><br>    中国海洋大学海洋学实验教学中心<br><br>植物类：<br><br>    东北林业大学林学实验教学中心<br><br>    河北农业大学植物科学与技术实验教学中心<br><br>    华中农业大学作物学实验教学中心<br><br>    江西农业大学植物生产实验教学中心<br><br>    内蒙古农业大学植物学实验教学中心<br><br>    南京农业大学植物生产实验教学中心<br><br>    浙江大学农业生物学实验教学中心<br><br>动物类：<br><br>    湖南农业大学动物科学实验教学中心<br><br>    吉林大学动物科技实验教学中心<br><br>    山东农业大学动物科学与动物医学实验教学中心<br><br>    山西农业大学动物医学实验教学中心<br><br>    西南大学动物科学实验教学中心<br><br>临床技能类：<br><br>    哈尔滨医科大学临床技能实验教学中心<br><br>    华中科技大学临床技能实验教学中心<br><br>    南京中医药大学护理实验教学中心<br><br>    四川大学华西临床技能实验教学中心<br><br>    中南大学临床技能训练中心<br><br>    中山大学临床技能中心<br><br>    遵义医学院临床技能实验教学中心<br><br>医学基础类：<br><br>    北京大学生物医学实验教学中心<br><br>    吉林大学基础医学实验教学中心<br><br>    南方医科大学医学基础实验教学中心<br><br>    宁夏医学院基础医学实验教学中心<br><br>    首都医科大学基础医学实验教学中心<br><br>    新疆医科大学基础医学实验教学中心<br><br>    中国医科大学医学基础实验教学中心<br><br>    重庆医科大学基础医学实验教学中心<br><br>经济管理类：<br><br>    安徽大学经济管理实验教学中心<br><br>    东北财经大学经济管理实验教学中心<br><br>    广西大学经济与管理实验中心<br><br>    哈尔滨商业大学经管综合实践中心<br><br>    兰州商学院经济管理实验教学中心<br><br>    南京财经大学经济管理实验教学中心<br><br>    南开大学经济实验教学中心<br><br>    上海财经大学经济与管理实验教学中心<br><br>    石河子大学经济与管理实验中心<br><br>    首都经济贸易大学经济与管理实验教学中心<br><br>    武汉大学经济与管理实验教学中心<br><br>    西安交通大学管理教学实验中心<br><br>    西南财经大学经济管理实验教学中心<br><br>    中国人民大学经济与管理实验教学中心<br><br>法学类：<br><br>    华东政法大学法学综合实验教学中心<br><br>    辽宁大学法学教学综合实训中心<br><br>    西北政法大学法学实验实训中心<br><br>    中国人民公安大学公安执法实验教学中心<br><br>    中南财经政法大学法学实验教学中心<br><br>传媒类：<br><br>    东北师范大学传媒实验教学中心<br><br>    河南大学新闻与传播实验教学中心<br><br>    暨南大学媒体实验教学中心<br><br>    南京大学传媒实验教学中心<br><br>    陕西师范大学数字传媒技术实验教学中心<br><br>    上海理工大学现代出版印刷实验教学中心<br><br>    天津师范大学新闻传播实验中心<br><br>    浙江师范大学信息传播实验教学中心<br><br>    中国人民大学新闻传播实验中心<br><br>艺术类：<br><br>    湖南大学艺术与设计实验教学中心<br><br>    四川美术学院艺术实验教学中心<br><br>    天津美术学院美术学实验教学中心<br><br>    中央音乐学院乐队教学实训中心<br><br>综合性工程训练中心：<br><br>    长春工业大学工程训练中心<br><br>    桂林电子科技大学机电综合工程训练中心<br><br>    河北工业大学工程训练中心<br><br>    华南理工大学工程训练中心<br><br>    上海大学工程技术训练中心<br><br>    沈阳航空工业学院工程训练中心<br><br>    天津工程师范学院工程实训中心<br><br>    武汉理工大学机电工程实验实训中心<br><br>    西南科技大学工程训练中心<br><br>    浙江大学工程训练中心<br><br>    中国石油大学(华东)石油工业训练中心<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

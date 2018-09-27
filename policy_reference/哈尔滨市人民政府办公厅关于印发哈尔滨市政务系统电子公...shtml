@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈政办综[2005]65号<BR>&nbsp;&nbsp;【发布日期】2005-11-29<BR>&nbsp;&nbsp;【生效日期】2005-11-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=974" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>哈尔滨市人民政府办公厅关于印发哈尔滨市政务系统电子公文传输管理暂行办法的通知<br><br></font>(哈政办综[2005]65号)</p><br> <br><br>    各区、县(市)人民政府，市政府各委、办、局： <br><br>    现将《哈尔滨市政务系统电子公文传输管理暂行办法》印发给你们，请认真贯彻执行。 <br><br>    二○○五年十一月二十九日 <br><br><br>    哈尔滨市政务系统电子公文传输管理暂行办法<br><br>    第一章 总则 <br><br>    第一条 为加强电子公文传输管理，确保电子公文传输安全有效，根据国务院办公厅《电子公文传输管理办法》和《哈尔滨市(国家行政机关公文处理办法)实施细则》的有关规定，制定本办法。 <br><br>    第二条 本办法适用于本市市、区、县(市)级政府、市政府各部门之间电子公文传输的管理。 <br><br>    第三条 本办法所称电子公文，是指通过由市政府办公厅统一配置的“哈尔滨市公文无纸化传输系统”处理后形成的具有规范格式的公文的电子数据。 <br><br>    本办法所称电子公文传输，是指电子公文的生成、发送和接收过程。 <br><br>    第四条 市政府办公厅负责对电子公文传输工作进行指导和检查。各区、县(市)政府，市政府各委、办、局办公室主管本单位的电子公文传输工作。 <br><br>    技术服务部门是电子公文传输的技术保障机构，负责本单位电子公文传输系统的技术保障工作。 <br><br>    第五条 电子公文与相同内容的纸质公文具有同等法定效力。电子公文的处理应当符合《哈尔滨市(国家行政机关公文处理办法>实施细则》的有关规定。 <br><br>    第二章 电子公文的传输 <br><br>    第六条 电子公文传输应当在“哈尔滨市电子政务网”各级中心平台上进行。各区、县(市)政府，市政府各部门按照系统命名规范，建立各自的公文发送、接收专门用户，并向市政府办公厅备案。 <br><br>    第七条 单位使用的下列传输电子公文设备，应当符合市信息化工作办公室统一的要求：  <br>  <br>    (一)电子公文传输系统(包括公文发送、接收管理系统软件，加密卡)； <br><br>    (二)路由器、防火墙及拨号设备； <br><br>    (三)彩色打印机。 <br><br>    第八条 公文完成审核、签批手续后，应当由负责录入、传输工作的部门将其通过“哈尔滨市公文无纸化传输系统”处理生成电子公文，经电子公文传输部门负责人核准后，通过“哈尔滨市电子政务网”发送至接收单位。 <br><br>    第九条 电子公文发送后，发送单位应当在24小时内对所发电子公文的接收情况进行查询；对接收单位退回的电子公文应当及时签收，发现问题应当及时与接收单位联系。 <br><br>    第十条 接收电子公文的单位应当对公文的发送单位、公文的完整性和体例格式等进行核对，确认无误后方可接收。对紧急公文应当及时签收处理。对不能正常接收的电子公文，接收单位应当及时与发送单位联系解决。 <br><br>    第三章 电子印章的制发与管理 <br><br>    第十一条 各区、县(市)政府，市政府各部门电子印章由市政府办公厅统一制作、颁发，任何单位和个人不得擅自制作、使用。对电子印章的管理，按实物印章管理的有关规定执行。 <br><br>    第十二条 电子印章使用单位应当指定专人负责保管和使用电子印章。 <br><br>    第十三条 电子印章由指定人员在专用计算机上使用。 <br><br>    第四章  安全保密 <br><br>    第十四条 涉及国家秘密的公文不得以电子公文的形式传输。 <br><br>    第十五条 电子公文传输各环节必须严格保密，不得向无关人员透露操作程序或者提供电子印章软盘等相关设备和软件。 <br><br>    第十六条 电子印章系统用户密码口令应当由使用单位定期更换。 <br><br>    第十七条 用于电子公文传输的计算机及其相关设备应当指定专人管理和维护。 <br><br>    第五章  附则 <br><br>    第十八条 电子公文应当存放于指定服务器，指定专人严格管理。未经电子公文传输部门负责人同意，不得删除和打印。 <br><br>    第十九条 电子公文的归档按照档案部门的有关规定执行。 <br><br>    第二十条 各区、县(市)政府，市政府各部门在本地区或者本系统内开展电子公文传输工作，参照本办法执行。 <br><br>    第二十一条 本办法由市政府办公厅负责解释。 <br><br>    第二十二条 本办法自下发之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

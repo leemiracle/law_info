@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安发〔2009〕135号<BR>&nbsp;&nbsp;【发布日期】2009-08-03<BR>&nbsp;&nbsp;【生效日期】2009-08-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/hwj/200908/t20090820_157910.htm" target=_blank>国家核安全局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>民用核安全电气设备核安全级电缆设计和制造单位资格条件（试行）<br> <br></font>(国核安发〔2009〕135号)</p><br><br><br>各有关单位：<br><br>    为保证《民用核安全设备监督管理条例》及其配套规章的顺利施行，进一步规范民用核安全设备许可证的管理，我局组织制定了《民用核安全电气设备1E级电缆设计制造单位资格条件》（试行）。<br><br>    现予发布，请遵照执行。<br><br>    附件：民用核安全电气设备1E级电缆设计制造单位资格条件（试行）<br><br>国家核安全局<br>二○○九年八月三日<br><br><br>民用核安全电气设备核安全级电缆设计和制造单位资格条件（试行）<br><br><font class='zhang'>第一章</font>  总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为了进一步明确核安全级电缆设计和制造许可证申请单位应该具备的资格条件，根据《<a href=javascript:ROF(119883,0) class=alink>民用核安全设备监督管理条例</a>》和《<a href=javascript:ROF(123937,0) class=alink>民用核安全设备设计制造安装和无损检验监督管理规定</a>》（HAF601）的要求，制定本文件。<br><br><font class='zhang'>第二章</font>  适用范围<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本资格条件适用于国家核安全局颁布的“民用核安全设备目录（第一批）”中列出的各类电缆设计和制造许可证申请单位的资格审查。本文本中“设计”系指核安全级电缆制造许可证申请单位针对其产品进行的设计活动。<br><br><font class='zhang'>第三章</font>  许可条件<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  核安全级电缆设计和制造许可证申请单位（以下简称”申请单位”）必须具有法人资格，并满足《民用核安全设备监督管理条例》的要求。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  申请单位必须取得GB/T 19001（或 ISO 9001）质量管理体系认证证书。申请单位应根据《核电厂质量保证安全规定》（HAF003） 及其导则的要求，结合所申请活动的技术和管理特点以及自身的实际情况，建立完善的核质保体系。该体系应能得到有效实施。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  申请单位应针对所申请的目标产品，选择有代表性的模拟件进行试制，试制活动从原材料采购开始，包括电缆制造的绝缘挤出、交联、成缆、护套挤出等各中间环节，直至所有的检测、试验项目完成为止。申请领取设计和制造许可证的单位，应当提交模拟件制作方案和质量计划，经国家核安全局认可后方可进行模拟件制造。在模拟件制作过程中，申请单位所须具备的同目标产品制造相适应的技术能力应得到体现，同时，申请单位已经建立的核质保体系也应得到有效实施。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  申请单位人员要求<br><br>    （一）无核安全级电缆批量供货业绩的申请单位，其在职人员数量至少为600人。申请单位应配备绝缘、电气、材料、检验试验、质量保证等各类工程技术人员。工程技术人员比例不应少于本单位职工的15%。<br><br>    （二）技术负责人（如总工、技术副总经理、技术总监等）应具有高级技术职称，并至少有10年以上从事类似产品设计和制造的经验。<br><br>    （三）设计技术负责人应具有5年以上核安全级电缆或相近业绩产品设计经历，主持至少1项核安全级电缆或相近业绩产品设计，且具有设计审定（或批准）资格。<br><br>    （四）各主要制造环节（如挤出、交联、成缆等）的技术责任人应具有中级技术职称和8年以上的相关活动经验。<br><br>    （五）设计人员资格要求<br><br>    根据所承担的职责，设计人员应有下述类似的级别划分，即一般设计人员、设计校核人员、设计审核人员、设计审定（或批准）人员。各级设计人员应符合下列条件：<br><br>    1、设计审定（或批准）人员应具有3年以上民用核安全级电缆或相近业绩产品的设计审核经历并具有高级技术职称；<br><br>    2、设计审核人员应具有3年以上民用核安全级电缆或相近业绩产品的设计校核经历并应具有中级及以上技术职称；<br><br>    3、校核人员应具有3年以上民用核安全级电缆或相近业绩产品的设计经历并具有初级及以上技术职称；<br><br>    4、设计人员要求具有初级及以上技术职称。<br><br>    （六）在专职设计技术人员中，设计审定（批准）人员数量不少于2名；设计审核人员数量不少于3名；设计校核资格人员数量不少于5名；设计人员数量不少于10名。<br><br>    （七）申请单位应至少有5 名专职质保（QA）人员，其中质保负责人应具有高级技术职称和8年以上质量管理工作的经验，并熟悉核质保体系的相关要求。<br><br>    （八）申请单位应配备至少2名持有合格资质的计量管理人员。<br><br>    （九）申请单位应按照原材料检验、工序检验和出厂检验的需要，配备足够数量的专职检验、试验人员。<br><br>    （十）申请单位应根据电缆制造工序的需要，配备相应的技术工人，如绝缘挤出、护套挤出、交联等。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  电缆设计和制造许可证申请单位厂房和装备要求<br><br>    （一）厂房方面<br><br>    1、制造车间<br><br>    制造车间的面积、跨度、高度、装备的布置、运输能力等应能满足目标产品制造的需要。制造车间应根据不同产品划分核安全级电缆专用的生产区域和半成品、成品临时堆放区域。<br><br>    2、仓储<br><br>    申请单位应有满足电缆制造要求的原材料、半成品和成品保管条件，有专用场地或者专用库房及货架，满足分区（待验、合格、不合格）摆放、防潮、防机械损伤、防污染等要求。<br><br>    3、试验场地<br><br>    申请单位应有满足电缆制造工序所要求的原材料进场检验、制造过程检测和出厂试验所需的专用试验检测场地和相应的配套设施，应能满足产品及其部件检测试验的特定要求。<br><br>    4、产品档案保管<br><br>    申请单位应设有档案室，核安全级电缆档案资料应专区保管，档案保管条件满足档案保管的有关规定，档案室的面积应当满足产品档案保管的需要。<br><br>    （二）装备方面<br><br>    1、生产设备<br><br>    申请单位应按照所设置的电缆制造工序，配备相应的设备，包括绕线、绞线设备、绝缘挤出设备、成缆设备、护套挤出设备等，设备的数量、精度等级应满足申请活动范围内电缆的批量制造需要。若制造工序中包括交联工艺，则必须配备相应的交联设备。<br><br>    2、工艺装备<br><br>    申请单位应配备满足电缆制造需要的工艺装备，如工位器具、模具等。<br><br>    3、检验设备<br><br>    申请单位应根据电缆材料复验、工艺试验和工艺评定、过程检验、成品检验等制造活动的需要配备相应的检验设备。<br><br>    4、计量器具<br><br>    申请单位应具有与电缆制造要求相适应的检测几何尺寸、厚度、温度等的计量器具。对于由本单位承担的检定工作，应具有相应的标准计量器具。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  电缆设计和制造许可证申请单位技术能力要求<br><br>    （一）业绩<br><br>    申请单位应有满5 年以上的与拟从事活动相关或者相近的工作业绩。相关业绩指与申请目标产品相同材料、相同工艺制造的核安全级电缆批量供货业绩，并应至少获得一个核设施主体工程同类电缆的一个标段的供货业绩；相近业绩指与申请目标产品相同材料、相同工艺制造的电缆在核设施主体工程、大型火电厂或国家重点项目的供货业绩，并应至少获得一个上述项目主体工程同类电缆的一个标段的供货业绩。<br><br>    申请单位应具有良好的质量史，至少5年内没有发生因质量问题引起退货、采购方拒绝验收等质量事件，未发生因质量问题而受到行业通报批评或行政处罚等事件。<br><br>    申请单位还应通过至少2家核电业主（或核电工程公司）以及15家以上大型企业（如省电力公司、民航、石油、石化、煤矿等）单位的合格供应商评审。<br><br>    （二）规范标准<br><br>    申请单位应熟悉核安全级电缆相关的法规、标准和规范并组织相关培训，且技术负责人和技术责任人应熟练掌握相关法规、标准和规范。<br><br>    （三）关键工艺<br><br>    对于电缆制造不可分包的关键工艺，如绝缘挤出、护套挤出、交联等，申请单位应具备相应的技术储备和解决措施。<br><br>    （四）工艺试验和工艺评定<br><br>    1、申请单位在常规产品制造中所开展的工艺试验和工艺评定工作应能表明其具备较多的工艺评定经验。<br><br>    2、对于核安全级电缆制造所需进行的工艺试验和工艺评定项目，申请单位在人员、设备等方面应能满足实施评定的需要。<br><br>    （五）分包控制<br><br>    申请单位必须有能力独立完成电缆的主体制造，不得将国家核安全局确定的不可分包的关键工艺分包给其他单位，对设计过程中涉及到的关键技术原则上不能分包。对于分包的项目，必须按核质保要求对分包过程进行有效的控制。<br><br>    （六）设计关键技术<br><br>    申请单位应掌握以下设计关键技术：<br><br>    1、结构设计；<br><br>    2、选材要求及材料理化特性适用性分析；<br><br>    3、制造技术和工艺要求；<br><br>    4、过程测试和成品试验要求及验收准则；<br><br>    5、电缆老化机理评价和老化效应分析等。<br><br>    （七）申请单位应拥有相应的设计验证能力。<br><br><font class='zhang'>第四章</font>  附  则<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  本资格条件由国家核安全局负责解释。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  本资格条件自发布之日起执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总管一[2006]151号<BR>&nbsp;&nbsp;【发布日期】2006-07-11<BR>&nbsp;&nbsp;【生效日期】2006-07-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-08/02/content_184631.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局关于陆上石油天然气建设项目安全设施设计审查与竣工验收有关事项的通知<br><br></font>(安监总管一[2006]151号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：<br><br><br>    根据《安全生产法》、《矿山安全法》及《非煤矿矿山建设项目安全设施设计审查与竣工验收办法》（原国家安全监管局令第18号，以下简称《办法》）等国家有关法律、行政法规和规章的规定，为规范工作程序，落实安全责任，紧密结合陆上石油天然气开采的实际情况，现就陆上石油天然气建设项目安全设施设计审查与竣工验收工作的有关事项通知如下： <br><br>    一、安全设施设计审查与竣工验收范围 <br><br>    下列石油天然气新建、改建和扩建的工程项目（以下简称建设项目）在施工前，安全设施设计应当经安全监管部门审查同意；建设项目竣工投入正式生产或者使用前，安全设施应当经安全监管部门验收合格。其他建设项目由企业按有关要求自行组织安全设施设计审查和竣工验收。 <br><br>    （一）陆上油气田开发项目 <br><br>    1.新建项目：按照整体开发方案或可行性研究报告，单独进行初步设计，有新投入使用或新开发的油气井，以及新建地面油气处理设施（一级或二级原油站场，三级或四级天然气站场）的建设项目。 <br><br>    2.扩建项目：依照初步设计已经完成主体工程和主要设施建设，并已正式投入生产的油气田，新建一级或二级原油站场，三级或四级天然气站场，或扩大产能的建设项目。 <br><br>    3.改建项目：一级或二级原油站场，三级或四级天然气站场，或者地面油气处理工艺、装置进行重大改造的建设项目。 <br><br>    （二）陆上油气长输管道建设项目（不含成品油管道和油气田集输管道） <br><br>    1.新建项目：根据可行性研究报告，单独进行初步设计，有新建的油气长输管道、站场（首站、末站、分输站、增压站等）、原油库或地下储气库，形成输油气能力的建设项目。 <br><br>    2.扩建项目：依照初步设计已经完成主体工程建设，并已正式投入使用的长输管道，新增输送能力的建设项目。 <br><br>    3.改建项目：管道路由发生重大改变、改变输送介质或站场移位，且项目投资额为三千万元及以上的建设项目。 <br><br>    （三）进口液化天然气接收、储运设施建设项目 <br><br>    1.新建项目：根据项目可行性研究报告，单独进行初步设计，有新建的码头工艺设施、站场（接收站、末站、分输站、增压站等）、液化天然气储罐、输气干线，实现进口液化天然气接收、储运功能的建设项目。 <br><br>    2.扩建项目：依照初步设计已经完成主体工程建设，并已正式投入使用的进口液化天然气接收、储运设施，新增接收、储运能力的建设项目。 <br><br>    3.改建项目：输气干线管道路由发生重大改变、站场移位或站场生产工艺、装置进行重大改造，且项目投资额为三千万元及以上的建设项目。 <br><br>    二、安全设施设计审查与竣工验收分工 <br><br>    （一）国家安全监管总局直接负责以下建设项目的安全设施设计审查和竣工验收： <br><br>    1.年产100万吨及以上的陆上新油田开发项目； <br><br>    2.年产20亿立方米及以上的陆上新气田开发项目； <br><br>    3.新建进口液化天然气接收、储运设施项目； <br><br>    4.跨省（区、市）的原油长输管道项目； <br><br>    5.跨省（区、市）或年输气能力为10亿立方米及以上的输气管道项目； <br><br>    6.其他跨省（区、市）和需要国家安全监管总局协调、有特殊要求或特殊影响的项目。 <br><br>    （二）根据《办法》的规定，应由国家安全监管总局负责审查和验收的陆上油气田开发项目、陆上油气管道项目、液化天然气接收储运设施项目，除上述由国家安全监管总局直接负责的以外，由省（区、市）安全监管局负责组织安全设施设计审查和竣工验收。 <br><br>    （三）根据《办法》的规定，应由省（区、市）安全监管局负责的建设项目，有关职责分工不变。 <br><br>    三、有关要求 <br><br>    （一）建设单位应在建设项目试运行6-12个月内提出验收申请。 <br><br>    （二）承担安全设施初步设计审查的专家组和安全设施竣工验收的验收组，应由该建设项目相关专业的专家组成。专家组、验收组一般应有7名或7名以上的专家，其中竣工验收组的组长由组织验收单位的有关负责人担任，副组长由技术专家担任。 <br><br>    （三）专家组、验收组应当提出安全设施设计或现状是否符合国家有关安全生产法律、法规和国家标准、行业标准的审查意见。 <br><br>    （四）上述二、（二）款的设计审查和竣工验收结果，各省（区、市）安全监管局应及时报国家安全监管总局监管一司备案。 <br><br>    国家安全监管总局负责对各省（区、市）安全监管局的安全设施设计审查和竣工验收工作进行指导，并对结果进行抽查。 <br><br>    （五）根据《办法》的规定，由国家安全监管总局负责的建设项目（含由省级安全监管局组织设计审查和竣工验收的建设项目）的预评价报告，继续由石油工业标准化技术委员会和中国安全生产科学研究院组织评审。<br><br>           二○○六年七月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

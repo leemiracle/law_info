@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政办发〔2005〕46号<BR>&nbsp;&nbsp;【发布日期】2005-06-19<BR>&nbsp;&nbsp;【生效日期】2005-06-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanxigov.cn/gb/zgsx/zwgk/zcfg/bgtwj/jzbf/userobject1ai34083.html" target=_blank>山西省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府办公厅关于加快实施村通电话工程意见<br><br></font>(晋政办发〔2005〕46号)</p><br><br><br>各市、县人民政府,省人民政府有关部门:<br><br>    《关于加快实施村通电话工程的意见》已经省人民政府同意,现印发给你们,请认真贯彻执行。 <br><br>                                   二○○五年六月十九日<br>    <br><br>关于加快实施村通电话工程意见 <br><br>    近年来,省委、省人民政府从解决“三农”问题,推进农村小康建设的大局出发,大力推进农村通信基础设施建设,省通信管理局、各电信运营企业加大投入力度,农村通信状况有了明显改善。但是,从全国情况看,我省农村通信发展依然相对滞后。到2005年3月底,全国691510个行政村中,已通电话的635047个,村通率达到91.8%。我省31025个行政村中,已通电话的为26271个,村通电话率只达到84.68%,低于全国7.12个百分点,目前还有4754个未通电话行政村,其绝对数居于全国各省第一。2005年2月,信息产业部决定将我省列入“村通电话工程”试点范围,并指定山西移动通信有限责任公司(以下简称省移动公司)承担我省未通村工程任务。为了推进我省农村信息化,加快农村通信建设,尽快实施“村通电话工程”,现提出以下意见。<br>    一、指导思想和目标<br>    我省加快“村通电话工程”的指导思想是:以“三个代表”重要思想为指导,全面落实科学发展观,明确目标、落实责任,形成政府支持、行业推动、条块结合、社会促进的工作机制,使“村通电话工程”成为推动贫困地区脱贫致富的“桥梁工程”,成为服务“三农”、改变落后地区面貌的“民心工程”,成为促进农村通信发展的“信息工程”。<br>    具体目标是:到2005年年底,确保3000个行政村通电话,力争3895个行政村通电话,使行政村通电话的比例达到97%以上。<br>    二、主要措施<br>    (一)成立山西省“村通电话工程”领导小组(以下简称“领导小组”,见附件),负责统筹协调全省“村通电话工程”建设中遇到的问题,听取工程进展情况汇报,监督工程进度,检查工程完成情况。领导小组下设办公室,办公室设在省通信管理局,负责“村通电话工程”领导小组议定事项的具体实施,日常工作的联系、沟通、监督等工作。<br>    (二)协调配合,各尽其责。“村通电话工程”时间紧、任务重,且未通电话行政村地形复杂、施工难度大,各级各部门要认真做好“村通电话工程”的协调、配合工作,对工程实施中遇到的困难和问题要采取有力措施,及时予以解决。对工程建设中涉及机房、线路、铁塔等通信设施在征地、施工补偿、村民交涉等方面要给予积极协调和帮助,施工杆路补偿要适当给予减免,涉及村通电话工程项目建设征用土地可以按行政划拨方式供地;电力部门对工程的电力接入、租用电力杆塔、跨越电力线路要积极配合,简化办事程序,提高施工效率;交通、林业、其他电信运营公司对穿越公路、林地、租用杆路等要大力支持和帮助;在工程施工中若遇到市、县、乡镇等有规划的地段,当地政府可按照城镇总体规划,优先考虑“村通电话工程”,抓紧对通信线路路由进行审批;各级地方政府及公安、电信部门要加强对已通电话通信设施、线路的保护,落实安全防范措施,防止破坏盗窃通信设施的事件发生,加大打击破坏、盗窃通信设施的力度,确保“村通电话工程”的顺利实施。各有关单位在“村通电话工程”建设中要提前考虑建设农村综合信息网的问题,并作好相应的准备工作。各级政府和相关部门要各负其责,不得相互推诿,延误工程进展。<br>    (三)给予工程资金补助。省、市、县人民政府按照工程任务要给予一定的资金补助。其他电信运营企业也要积极创造条件,加大对未通电话行政村的投入。<br>    (四)实施目标考核。“村通电话工程”的实施,是加快农村经济和社会发展,推动农村小康建设、构建和谐社会的一项重要任务,工程目标完成情况是对各市人民政府工作目标考核的一项内容,各级政府要高度重视。要将“村通电话工程”完成情况列为对省内各电信运营企业评比“文明单位”、“劳模企业”、“行风评议”的重要内容。要利用媒体、新闻发布会等形式进行大力宣传,对于在“村通电话工程”中做出突出贡献的企业,将予以通报表彰,不能如期完成任务的要向社会公布,实行社会公开监督。<br>    三、工作要求<br>    (一)加强组织领导,提高思想认识。各级人民政府要把“村通电话工程”作为2005年政府工作的一件大事来抓,要成立相应的工作机构,制定专门的工作制度。<br>    (二)建立“村通电话工程”旬报制度和每月情况通报制度。省移动公司及其他电信运营企业每旬应将“村通电话工程”的建设进度、实施情况、完成情况、验收情况和存在的问题等向领导小组办公室进行汇报。省通信管理局和省移动公司每月第一周召开一次情况沟通会,及时解决“村通电话工程”中存在的问题。领导小组将对工程进展情况定期检查。<br>    (三)省移动公司在“村通电话工程”的实施过程中,要积极筹措资金,发挥自身网络优势,采取多种方式确保任务的完成。“村通电话工程”目标村的具体实施方案由省移动公司制定,报经省通信管理局审核,并上报领导小组后组织实施。省内其他未承担村通工程任务的电信运营企业可先向省通信管理局申报计划,经研究协调后组织实施。新开通的未通村详细资料报省通信管理局核实认可后,作为已完成的任务从其所属企业集团任务总量中核减。“村通电话工程”的项目资金由具体的实施单位自行解决。<br>    (四)省内各电信运营企业要保证所建成的村通项目正常运营和网间互通,任何企业不得以任何借口对已建成的农村通信设施进行拆除、关闭。本意见实施后,已通电话行政村的通信保障仍由原电信企业负责。<br>    (五)对“村通电话工程”完成情况的核实,由当地政府予以确认后,领导小组办公室再通过拨测、走访、抽查、致函等形式加以核实。对工程完成情况不得弄虚作假,也不得前通后断,否则一经发现,将按有关规定严肃处理。 <br><br>    附件:山西省“村通电话工程”领导小组成员名单附件 <br><br>    山西省“村通电话工程”领导小组成员名单 <br><br>    组长:靳善忠副省长<br>    副组长:段建国省人民政府副秘书长<br>    姚高宽省发展改革委副主任<br>    刘永斌省通信管理局局长<br>    高步文山西移动通信有限责任公司总经理<br>    成员:王建生太原市市长助理<br>    王雁峰大同市副市长<br>    李栋梁朔州市副市长<br>    杨晋生忻州市副市长<br>    张中生吕梁市副市长<br>    杨随亭晋中市副市长<br>    陈继光阳泉市副市长<br>    马和平长治市副市长<br>    李协定晋城市副市长<br>    成洪才临汾市副市长<br>    张建喜运城市副市长<br>    高博省国土资源厅副厅长<br>    张润省交通厅副厅长<br>    马双柱省林业厅副厅长<br>    刘茂先省通信管理局副局长<br>    王抒祥省电力公司副总经理<br>    于长安山西通信实业集团有限公司总经理<br>    李贵祯山西移动通信有限责任公司副总经理<br>    武建光中国联通山西分公司副总经理<br>    翟清泽中国铁通山西分公司副总经理<br>    李红斌山西省电信公司副总经理<br>    左献军中国卫通山西省分公司副总经理<br>    领导小组办公室主任:刘永斌(兼)。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

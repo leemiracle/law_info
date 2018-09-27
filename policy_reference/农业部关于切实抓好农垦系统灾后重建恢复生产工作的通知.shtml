@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农垦发[2008]1号<BR>&nbsp;&nbsp;【发布日期】2008-02-20<BR>&nbsp;&nbsp;【生效日期】2008-02-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20080222_976147.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于切实抓好农垦系统灾后重建恢复生产工作的通知<br><br></font>(农垦发[2008]1号)</p><br><br><br>各有关省、自治区、直辖市农垦主管部门：<br><br>    今年1月10日以来，我国南方地区出现的持续低温雨雪冰冻天气给垦区生产、生活造成了严重的影响。截至2月20日，受灾垦区达19个，受灾农场495个，涉及人口199万人，受灾作物面积489万亩，倒塌房屋棚舍16741间，死亡牲畜87.91万头（只）。灾害造成直接经济损失达30.77亿元。灾害发生后，在各级党委和政府的领导下，垦区广大干部职工全力投入到抗灾救灾工作之中，已取得了阶段性的成果。目前正是灾后重建恢复生产的关键时期。为推进灾后恢复生产工作有条不紊地开展，确保春耕生产顺利进行，努力实现全年农垦经济发展目标，现就做好农垦系统灾后重建恢复生产工作通知如下：<br><br>    一、切实加强组织领导<br><br>    各级农垦主管部门要切实加强对灾后恢复生产工作的组织领导。灾情严重的垦区，要尽快成立灾后重建恢复生产工作领导机构，认真落实工作责任制。要把低温雨雪冻害给生产和经济发展带来的困难和问题估计足、分析透，因地制宜抓紧制定灾后恢复生产发展的方案，做到早谋划、早部署、早启动。要及时向各有关方面报告灾后重建恢复生产的情况，加强灾区农产品市场信息监测，做好产销衔接。要深入基层，组织发动农垦系统广大干部职工，齐心协力，扎实细致地做好各项工作，促进灾区农业生产尽快恢复和发展。<br><br>    二、抓紧修复基础设施<br><br>    修复和重建受损的基础设施，要明确目标、规划先行，统筹协调、突出重点，立足当前、着眼长远。进一步核实和细化、量化受损情况，确定恢复和重建目标、建设内容、实施步骤，落实责任主体和工作措施。积极筹措建设资金，努力争取支持，重点做好农业生产大棚、养殖圈舍等农业基础设施的修复重建。加强灾后重建项目管理工作，加大指导和监督力度。加快建设进度，确保工程质量，发挥修复设施对工农业生产的支撑作用，尽快恢复生产能力。<br><br>    三、强化灾后技术指导<br><br>    农垦受灾涉及的范围广、产业多、品种杂，包括种植业、畜牧业、水产业、农业机械、农产品加工和流通等。近日，我部已就这些产业的灾后恢复生产工作制定了工作方案。各级农垦主管部门要充分发挥农垦技术推广体系、科研教学单位、行业协会和专业合作社等组织机构的作用，按照各产业恢复生产的工作方案，加大技术服务力度。组织专家、农技人员和基层干部，深入生产一线开展技术指导、现场示范和咨询服务，举办不同层次的灾后恢复生产技术培训班，发放技术资料，帮助受灾职工解决恢复生产面临的实际困难。要密切关注天气变化，加强预测预报，及时发布灾情信息，确保信息畅通。要针对各垦区种养业实际情况，确定主推技术，进行分类指导，重点抓好小麦、油菜、蔬菜、果树等恢复生产工作，鼓励和支持规模养殖场发展健康养殖，引导散养农户加强科学饲养管理。要切实加强灾后疫病虫害的监测和防治，及早制定防控预案。与此同时，要充分发挥农垦的各种优势，积极帮助周边农民恢复生产。<br><br>    四、积极争取政策支持<br><br>    各级农垦主管部门要加大与当地政府、各有关部门的协调力度，主动反映垦区受灾损失情况，汇报灾后重建恢复生产计划，力争将农垦纳入当地抗灾减灾和恢复重建总体规划之中，为受灾农场争取更多的政策和资金支持。凡是我部下达的抗灾救灾和灾后恢复重建的项目、资金都将农垦包括在内。请各级农垦主管部门积极主动地与有关部门沟通协调，争取更多的支持。<br><br>    五、切实做好春耕备耕工作<br><br>    春耕备耕工作即将从南向北陆续展开。各级农垦主管部门要提早动手，落实各项生产措施。坚决遏制耕地撂荒现象，努力提高复种指数，引导职工种足种好春播粮食、油料等作物，同时针对市场需求，扩大蔬菜等小春作物的种植，多途径增加农业生产收益、增加市场供给。受灾垦区要着力做好保苗补种、保温防冻、清沟沥水、补施追肥等工作，搞好应急种子、种苗、肥料、农膜等生产资料的调剂调运，努力减少损失。全面加强夏收作物的田间管理，防范各种气候灾害，抓好病虫害防治。强化农业机械作业服务，积极开展跨区机耕、机播、机插作业，加快春耕春播进度，提高春耕春播质量。<br><br>                                         二○○八年二月二十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

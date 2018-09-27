@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员<BR>&nbsp;&nbsp;【发布文号】保监发〔2009〕104号<BR>&nbsp;&nbsp;【发布日期】2009-09-27<BR>&nbsp;&nbsp;【生效日期】2009-09-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/web/site0/tab40/i112162.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于执行《人身保险新型产品信息披露管理办法》有关事项的通知  <br><br></font>(保监发〔2009〕104号)</p><br><br><br>    各人身保险公司、各保监局：<br><br>    为确保《<a href=javascript:ROF(138291,0) class=alink>人身保险新型产品信息披露管理办法</a>》（保监会令〔2009〕年第3号，以下简称“《办法》”）的顺利实施，现将有关事项通知如下:<br><br>    一、关于保单利益演示<br><br>    保险公司在产品说明书和其他宣传材料中演示保单利益时，用于利益演示的分红保险的高、中、低三档假设投资回报率分别不得高于6%、4.5%和3%，现金红利累积年利率不得高于3%；用于利益演示的投资连结保险的高、中、低三档假设投资回报率分别不得高于7%、4.5%、1%；用于利益演示的万能保险高、中、低三档假设结算利率分别不得高于6%、4.5%和最低保证利率。其中，用于利益演示的分红保险的假设投资回报率是指用于计算分红保险红利分配的实际投资收益率假设，用于利益演示的投资连结保险的假设投资回报率是指投资连结保险对应资产扣除资产管理费后的净投资回报率。 <br><br>    二、关于信息披露材料<br><br>    除产品说明书以外的其他用于销售和展业的宣传材料，包括宣传单和宣传彩页等，可以对产品说明书的有关内容进行简化，但至少应当包括风险提示和该保险合同的主要内容。进行保单利益演示的，应当符合《办法》关于利益演示的有关要求。<br><br>    三、关于保单状态报告和红利通知书的提供方式<br><br>    保险公司向投保人提供投资连结保险、万能保险的保单状态报告和分红保险的红利通知书时，可以采取向投保人寄送纸质信函的方式提供。经投保人同意，也可以以电子邮件等非纸质方式提供。<br><br>    四、关于客户回访<br><br>    各保险公司总公司可以按照《办法》要求，对每一产品制定全国统一的回访标准话术，应用到对全国各地投保人的回访工作之中。制定全国统一回访标准话术的，应当将回访话术作为产品备案内容统一向中国保监会备案。<br><br>    五、关于《办法》有关条文的释义<br><br>    （一）《办法》第四条和第六条所指的“投保提示书”，是指按照《关于推进投保提示工作的通知》（保监发〔2009〕68号）及《人身保险投保提示书基准内容》有关要求制定的投保提示书。<br><br>    （二）《办法》第十八条要求投资连结保险在产品说明书中披露各投资账户过去10年每月末账户卖出单位价格变化图。保险公司在报备产品时，上述价格为产品报备时该投资连结保险所连结的各投资账户过去10年的账户价格。在产品销售过程中，保险公司可根据实际情况对产品说明书以及其他信息披露材料中有关上述价格变化情况进行随时更新。仅由于价格变化导致产品说明书的变更无需另行向中国保监会备案。<br><br>    （三）《办法》第二十一条所指的“各行业股票市值及占比”，行业按照有关市场分类标准执行；“各类债券账面余额及占比”，债券类别分为国债、央票、金融债、企业（公司）债和其他类别；“各类基金净值及占比”，基金类别包括开放式和封闭式两种，开放式基金又包括股票型、债券型、货币型和混合型。<br><br>    六、其他<br><br>    （一）自《办法》下发之日起，废止下列文件：<br><br>    1、《关于人身保险新型产品信息披露有关问题的通知》（保监发〔2002〕77号）<br><br>    2、《关于加强万能保险销售管理有关事项的通知》（保监发〔2005〕94号）<br><br>    3、《关于加强投资连结保险销售管理有关事项的通知》（保监发〔2007〕76号）<br><br>    （二）本通知自2009年10月1日起执行。<br><br>    中国保险监督管理委员会<br><br>    二○○九年九月二十七日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

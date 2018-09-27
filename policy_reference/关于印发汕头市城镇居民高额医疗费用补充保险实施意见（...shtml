@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】汕头市<BR>&nbsp;&nbsp;【发布文号】汕府〔2009〕145号<BR>&nbsp;&nbsp;【发布日期】2009-08-24<BR>&nbsp;&nbsp;【生效日期】2010-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shantou.gov.cn/common/zcfg_view.asp?id=1118&lmdm=04b500" target=_blank>汕头市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于印发汕头市城镇居民高额医疗费用补充保险实施意见（试行）的通知<br><br></font>(汕府〔2009〕145号)</p> <br>      <br><br>    各区县人民政府，市政府各部门、各直属机构：<br><br>    《汕头市城镇居民高额医疗费用补充保险实施意见（试行）》业经第十二届四十五次市政府常务会议同意，现予印发，请认真组织实施。<br><br>    汕头市人民政府                            <br><br>    二○○九年八月二十四日<br> <br>    汕头市城镇居民高额医疗费用补充保险实施意见（试行）<br><br>    为贯彻落实省劳动保障厅《关于进一步完善基本医疗保险政策和规范管理有关问题的意见》等文件精神，进一步提高我市城镇居民医疗保障水平，减轻参保居民的医疗费用负担，现就我市实施城镇居民高额医疗费用补充保险制度提出如下意见：<br><br>    一、适应范围<br><br>    参加本市城镇居民基本医疗保险的人员，从连续参保的第二个社会保险年度起，一次性缴纳了整个社会保险年度医疗保险费的，属于本意见的实施范围。<br><br>    本意见所指的高额医疗费用，是指参加城镇居民高额医疗费用补充保险的人员（下称参保人）就医时发生的基本医疗费用中，超过居民基本医疗保险基金累计最高支付限额对应的基本医疗费用。基本医疗费用是指参保人在保险期内发生的住院医疗费用、门诊特定病种医疗费用、在门诊抢救无效死亡的医疗费用中，属于城镇居民基本医疗保险药品目录、诊疗服务项目、医疗服务设施范围内的费用。<br><br>    二、承办机构<br><br>    城镇居民高额医疗费用补充保险由商业保险公司承办（以下简称承保人）。确定承保人原则上应采取政府采购方式，特殊情况下经市政府批准，可以采取其他方式确定。<br><br>    三、资金来源和待遇标准<br><br>    城镇居民高额医疗费用补充保险费由城镇居民基本医疗保险基金支付。<br><br>    参保人在一个社保年度内发生的高额医疗费用，由承保人按照50%的比例赔付，年累计最高赔付金额为6.4万元。<br><br>    四、其他要求<br><br>    （一）城镇居民高额医疗费用补充保险实行社会保险年度管理，当年7月1日至次年6月30日为一个社会保险年度。市社会保险经办机构于每年6月30日前将下一个社会保险年度的高额医疗费用补充保险费划拨给承保人。<br><br>    （二）高额医疗费用由定点医疗机构记帐的，社会保险经办机构代表参保人向承保人索赔后付还定点医疗机构；高额医疗费用由参保人垫付的，社会保险经办机构代表参保人向承保人索赔后付还参保人。<br><br>    参保人垫支医疗费用的，应当于出院之日起6个月内向社会保险经办机构申报结算，超过规定时间的，其费用由参保人负责。<br><br>    （三）定点医疗机构应当自参保人发生高额医疗费用之日起，5个工作日内通知社会保险经办机构，社会保险经办机构应当在5个工作日内通知承保人。<br><br>    （四）社会保险经办机构应当与承保人签订服务协议，明确双方的权利与义务，并将协议报市劳动保障行政部门备案。<br><br>    五、本意见由市劳动保障局负责解释。<br><br>    六、本意见自2010年1月1日起试行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

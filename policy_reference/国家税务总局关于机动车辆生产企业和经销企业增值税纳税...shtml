@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2006]546号<BR>&nbsp;&nbsp;【发布日期】2006-06-06<BR>&nbsp;&nbsp;【生效日期】2006-06-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200606141503365342" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于机动车辆生产企业和经销企业增值税纳税评估有关问题的通知<br><br></font>(国税函[2006]546号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局，扬州税务进修学院：?<br>    《国家税务总局关于加强机动车辆税收管理有关问题的通知》（国税发〔2005〕79号，以下简称《通知》）下发后，各地对机动车辆生产、经销企业的税收管理取得了初步成效。但是部分地区在利用车购税信息开展机动车辆增值税纳税评估方面还不够深入，仅停留在简单的数据比对层面。为进一步提高机动车辆税收管理水平，现就机动车辆生产和经销企业增值税纳税评估有关问题补充通知如下：?<br>    隐瞒销售数量是目前机动车辆生产和经销企业偷逃增值税的主要手段，因此，增值税纳税评估的重点应是评估销售数量。?<br>    评估销售数量的基本方法，是将车购税登记信息作为第三方信息，来验证企业申报销售数量的真实性。即：利用车辆识别代号（即VIN码）的编码规则，从车购税登记信息中查找生产企业相应类别车辆的车辆识别代号中的最大序列号，视此号之前的车辆为已销售的车辆，以此推算出相应类别车辆的最大销售数量。当其大于或者等于企业申报的销售数量时，表明企业存在少申报销售数量的可能。少申报的销售数量乘相应的车购税最低计税价格，即可计算出其可能隐瞒的销售收入和增值税销项税额。?<br>    生产地主管税务机关采取上述评估方法并经核实，确认车辆生产企业存在隐瞒销售数量的问题后，即可将这些隐瞒的机动车辆按销售对象（即经销企业）列出清单，转经销企业所在地税务机关，作为对经销企业纳税评估的依据之一。?<br>    鉴于《通知》中涉及的相关软件正在开发之中，在软件下发之前，对机动车辆的增值税纳税评估，由生产地主管税务机关按照上述方法，从下发的《车辆购置税车辆代码清单》中清分最大VIN码，推算最大销售数量，核实最大销售数量大于申报销售数量的差异，并将涉及经销企业的疑点，转经销企业所在地主管税务机关，由经销企业的主管税务机关对经销企业进行增值税纳税评估。?<br>    下一步总局将对机动车辆增值税纳税评估模式进行调整，其中推算最大销售数量、计算最大销售数量与申报数量的差异等工作将改由总局直接计算，并下发清单由主管税务机关进行核实；总局按《机动车销售统一发票》所列经销企业的纳税人识别号，从车购税信息中清分经销企业的车辆销售数量，并与经销企业的申报数量进行比对，下发清单由主管税务机关进行核实。评估模式改变后，总局对工作流程和相应的申报资料做出调整： <br>    一、修改纳税申报资料?<br>    （一）机动车辆生产企业在办理增值税纳税申报时，应向主管税务机关报送：?<br>    1．按月报送《机动车辆生产企业销售明细表》（附件1）及其电子信息。?<br>    2．每年第一个增值税纳税申报期，报送上一年度《机动车辆生产企业销售情况统计表》（附件2）及其电子信息。?<br>    3．按月报送《机动车辆销售统一发票清单》（《通知》的附件3，下同）及其电子信息。?<br>    （二）机动车辆经销企业在办理增值税纳税申报时，应向主管税务机关报送：?<br>    1．按月报送《机动车辆经销企业销售明细表》（附件3）及其电子信息。?<br>    2．按月报送《机动车辆销售统一发票清单》及其电子信息。<br>    （三）《通知》中的附件1停止报送。?<br>    二、纳税申报资料的处理?<br>    （一）《机动车辆生产企业销售明细表》和《机动车辆经销企业销售明细表》由主管税务机关留存备查。?<br>    （二）《机动车辆销售统一发票清单》和《机动车辆生产企业销售情况统计表》的电子信息在纳税申报期结束后20日内由主管税务机关逐级上传至总局。?<br>    三、车购税信息?<br>    主管税务机关按月将《车辆购置税纳税申报表》信息和对应的《机动车销售统一发票》信息上传至总局。?<br>    四、总局对上传的数据进行分类处理?<br>    （一）按照制造厂代码对车辆识别代码进行归类；按厂牌型号清分出每户生产企业每一厂牌型号的车辆识别代号，排序后找出该型号的最大序列号，作为该型号车辆的最大销售数量；将推算出的最大销售数量与生产企业报送的《机动车辆生产企业销售情况统计表》对应厂牌型号的销售数量进行比较，找出推算销售数量大于申报销售数量的企业，生成《机动车辆生产企业比对异常清单》（附件4）。?<br>   （二）按经销企业纳税人识别号对车辆识别代号进行归类；将清分的车辆识别代号与经销企业报送的《机动车辆销售统一发票清单》中的车辆识别代号进行逐一比对，找出存在差异的企业，生成《机动车辆经销企业比对异常清单》（附件5）。?<br>    （三）将《机动车辆生产企业比对异常清单》和《机动车辆经销企业比对异常清单》逐级下传至比对异常企业所在地主管税务机关。?<br>    五、主管税务机关核实异常情况?<br>    主管税务机关应在60日内，核实《机动车辆生产企业比对异常清单》、《机动车辆经销企业比对异常清单》中列明的企业异常信息，结合采集的《机动车辆生产企业销售明细表》及《机动车辆经销企业销售明细表》数据和其他申报资料，调查销售数量产生差异的原因，对存在的问题按照现行纳税评估办法的有关规定进行处理，并填制《机动车辆生产企业评估结果情况表》（附件6）和《机动车辆经销企业评估结果情况表》（附件7），逐级上报总局。?  <br>    六、总局根据机动车辆生产企业的评估结果，将《机动车辆生产企业评估结果情况表》中涉嫌取得生产企业隐瞒销售机动车的经销企业信息，逐级下传至经销企业所在地主管税务机关，以此为线索开展评估并反馈结果。?<br>    各地按照以上方法对车辆生产、经销企业进行评估时，还应结合其他评估方法一并运用，应随时总结工作经验，对评估过程中存在的问题及时上报总局。新流程的正式执行时间总局另行通知。<br><br>    附件：1.机动车辆生产企业销售明细表?<br>          2.机动车辆生产企业销售情况统计表?<br>          3.机动车辆经销企业销售明细表?<br>          4.机动车辆生产企业比对异常清单?<br>          5.机动车辆经销企业比对异常清单?<br>          6.机动车辆生产企业评估结果情况表?<br>          7.机动车辆经销企业评估结果情况表<br><br>国家税务总局<br>二○○六年六月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

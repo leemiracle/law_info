@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广州市<BR>&nbsp;&nbsp;【发布文号】穗府办〔2008〕21号<BR>&nbsp;&nbsp;【发布日期】2008-04-30<BR>&nbsp;&nbsp;【生效日期】2008-04-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gz.gov.cn/vfs/content/content2.jsp?contentId=583565&catId=4105" target=_blank>广州市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广州市法人基础信息共享暂行管理办法<br><br></font>(穗府办〔2008〕21号)</p><br><br><br>各区、县级市人民政府，市政府各部门、各直属机构：<br><br>    《广州市法人基础信息共享暂行管理办法》已经市政府同意，现印发给你们，请遵照执行。执行中遇到的问题，请径向市信息办反映。<br><br>广州市人民政府办公厅<br>二○○八年四月三十日<br><br><br>广州市法人基础信息共享暂行管理办法<br><br><font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为规范和促进本市政府部门间法人基础信息共享，支持业务协同，加强动态监管，优化办事流程，提高政府部门的监管能力和公共服务水平，根据国家法律、法规、规章和国务院信息办等四部门《关于开展企业基础信息共享工作的通知》(国信办〔2005〕10号)精神，结合本市实际，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称之法人基础信息，是指行政机关在办理法人设立、变更、注销等登记业务中产生的与法人有关的具有基础性、基准性、标识性和稳定性的信息。<br><br>    不具有法人资格的独立经济实体组织的基础信息，根据本市实际情况纳入本办法所规定的共享范围。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  与法人单位管理相关的行政机关提供相关法人基础信息，供本市各区、县级市政府及市政府所属行政机关通过电子化、网络化的方式共享的活动，适用本办法。<br><br>    本市行政区域内的其他组织在行使国家行政权力时共享法人基础信息的活动，参照本办法执行。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  本市行政机关之间共享法人基础信息，应当根据依法履行职能的需要，通过广州市电子政务数据中心信息共享交换平台实行无偿共享。<br><br>    行政机关应当按照“一数一源”原则，依法分别采集履行职责过程中产生的法人基础信息，避免重复采集、多头采集。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  行政机关之间进行法人基础信息共享，应当保障共享信息安全，保守国家秘密，不得侵害公民、法人和其他社会组织的合法权益，不得利用法人基础信息牟取非法利益。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  市信息化办公室为市法人基础信息共享指导、协调和监督机构，负责法人基础信息共享的日常工作，负责广州市电子政务数据中心信息共享交换平台、法人单位基础信息库的规划管理工作，以及信息共享技术标准制订工作。<br><br>    市信息化办公室指定市机关信息网络中心负责广州市电子政务数据中心信息共享交换平台和法人单位基础信息库的建设、日常维护和安全保障工作。<br><br>    提供法人基础信息的行政机关应指定专门机构和人员负责法人基础信息共享的日常工作，按时、按质、按规定提供本部门法人基础信息，参与法人基础信息目录的编制，对有异议的数据进行核准。<br><br><font class='zhang'>第二章</font>  信息提供和利用<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  广州市工商行政管理局为下列基础信息的责任采集部门：<br><br>    (一)企业：企业注册号、企业名称、法定代表人及其身份证件号码、行政区划代码、行政区划、登记住所(工商)、企业类型、行业、成立日期(工商)、登记机关(工商)。<br><br>    (二)个体工商户：个体工商户注册号、业户名称、经营者姓名及其身份证件号码、行政区划代码、行政区划、登记经营场所(工商)、经营范围、行业、成立日期(工商)、登记机关(工商)。<br><br>    广州市工商行政管理局同时应提供下列基础信息：<br><br>    (一)企业开业(变更)登记信息，具体内容包括：企业注册号、企业名称、法定代表人及其身份证件号码、联系电话、行政区划代码、行政区划、登记住所(工商)、企业类型、行业、成立日期(工商)、登记机关(工商)、登记状态、更新时间等。<br><br>    (二)企业注销信息，具体内容包括：企业注册号、企业名称、注销事由、注销日期、注销机关等。<br><br>    (三)企业年检信息，具体内容包括：企业注册号、企业名称、年检年度、年检情况代码、年检情况等。<br><br>    (四)个体工商户开业(变更)登记信息，具体内容包括：个体工商户注册号、业户名称、经营者姓名及其身份证件类型和身份证件号码、行政区划代码、行政区划、登记经营场所(工商)、经营范围、行业、成立日期(工商)、登记机关(工商)、登记状态、更新时间等。<br><br>    (五)个体工商户注销信息，具体内容包括：个体工商户注册号、业主名称、经营者姓名及其身份证件类型和身份证件号码、注销事由、注销日期、注销机关等。<br><br>    (六)个体工商户年检信息：个体工商户注册号、业主名称、年检年度、年检情况代码、年检情况等。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  广州市质量技术监督局为下列基础信息的责任采集部门：<br><br>    组织机构批准文号、组织机构代码、机构注册类型代码、机构注册类型、实际办公地址、成立日期(质监)、颁证日期(质监)。<br><br>    广州市质量技术监督局同时应提供下列基础信息：<br><br>    (一)组织机构代码颁证信息，具体内容包括：组织机构批准文号、企业注册号、组织机构代码、机构名称、机构注册类型代码、机构注册类型、法定代表人及其身份证件号码、联系电话、行政区划代码、行政区划、实际办公地址、成立日期(质监)、颁证日期(质监)、登记机关(质监)、登记状态代码、登记状态、更新时间等。<br><br>    (二)组织机构代码年检信息，具体内容包括：组织机构代码、机构名称、年检年度、年检情况代码、年检情况等。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  广州市地方税务局为下列基础信息的责任采集部门：<br><br>    纳税人识别号(地税)、注册地址(地税)、登记日期(地税)、登记机关(地税)。<br><br>    广州市地方税务局同时应提供下列基础信息：<br><br>    (一)法人地税登记(变更)信息，具体内容包括：组织机构代码、企业注册号、纳税人识别号(地税)、纳税人名称、法定代表人及其身份证件号码、联系电话、注册地址(地税)、行政区划代码、行政区划、登记日期(地税)、登记机关(地税)、登记状态、更新时间等。<br><br>    (二)法人注销地税登记信息，具体内容包括：组织机构代码、企业注册号、纳税人识别号(地税)、注销原因、注销日期、注销机关等。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  广州市国家税务局为下列基础信息的责任采集部门：<br><br>    纳税人识别号(国税)、注册地址(国税)、登记日期(国税)、登记机关(国税)。<br><br>    广州市国家税务局同时应提供下列基础信息：<br><br>    (一)法人国税登记(变更)信息，具体内容包括：组织机构代码、企业注册号、纳税人识别号(国税)、纳税人名称、法定代表人及其身份证件号码、联系电话、注册地址(国税)、行政区划代码、行政区划、登记日期(国税)、登记机关(国税)、登记状态、更新时间等。<br><br>    (二)法人注销国税登记信息，具体内容包括：组织机构代码、企业注册号、纳税人识别号(国税)、注销原因、注销日期、注销机关等。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  广州市民政局为下列基础信息的责任采集部门：<br><br>    (一)民办非企业：单位名称、单位地址、联系电话、民办非企业单位类型、行政区划代码、行政区划、法定代表人(责任人)姓名、法定代表人(责任人)身份证件号码、业务主管单位、业务范围、登记日期(民政)、登记机关(民政)。<br><br>    (二)社会团体：社会团体登记证号、单位名称、单位地址、联系电话、行政区划代码、行政区划、法定代表人(责任人)姓名、法定代表人(责任人)身份证件号码、业务主管单位、社团类型、登记日期(民政)、登记机关(民政)。<br><br>    (三)社会福利机构：社会福利机构登记证号、单位名称、单位地址、联系电话、行政区划代码、行政区划、法定代表人(责任人)姓名、法定代表人(责任人)身份证件号码、福利机构类型、登记日期(民政)、登记机关(民政)。<br><br>    广州市民政局同时应提供下列基础信息：<br><br>    (一)广州市民办非企业单位登记信息，具体内容包括：单位组织机构代码、单位名称、单位地址、联系电话、民办非企业单位类型、行政区划代码、行政区划、法定代表人(责任人)姓名、法定代表人(责任人)身份证件号码、业务主管单位、业务范围、登记日期(民政)、登记机关(民政)、登记状态、更新时间等。<br><br>    (二)广州市民办非企业单位注销信息，具体内容包括：单位组织机构代码、单位名称、注销原因、注销日期、注销机关等。<br><br>    (三)广州市社会团体登记信息，具体内容包括：社会团体登记证号、组织机构代码、单位名称、单位地址、联系电话、行政区划代码、行政区划、法定代表人(责任人)姓名、法定代表人(责任人)身份证件号码、业务主管单位、社团类型、登记日期(民政)、登记机关(民政)、登记状态、更新时间等。<br><br>    (四)广州市社会团体注销信息，具体内容包括：社会团体登记证号、组织机构代码、单位名称、注销原因、注销日期、注销机关等。<br><br>    (五)广州市社会福利机构登记信息，具体内容包括：社会福利机构登记证号、组织机构代码、单位名称、单位地址、联系电话、行政区划代码、行政区划、法定代表人(责任人)姓名、法定代表人(责任人)身份证件号码、福利机构类型、登记日期(民政)、登记机关(民政)、登记状态、更新时间等。<br><br>    (六)广州市社会福利机构注销信息，具体内容包括：社会福利机构登记证号、组织机构代码、单位名称、注销原因、注销日期、注销机关等。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  广州市机构编制委员会办公室为下列基础信息的责任采集部门：<br><br>    事业单位法人证书号、单位名称、单位地址、联系电话、法定代表人姓名、法定代表人身份证件号码、登记日期(编办)。<br><br>    广州市机构编制委员会办公室同时应提供下列基础信息：<br><br>    (一)广州市事业单位设立(变更)登记情况信息，具体内容包括：事业单位法人证书号、单位名称、宗旨和业务范围、单位地址、法定代表人姓名、法定代表人身份证件号码、经费来源、开办资金、举办单位、联系电话、从业人数、登记机关(编办)、变更事项、变更日期、原登记情况、变更后情况、年检审查情况、年检时间等。<br><br>    (二)广州市事业单位注销登记情况信息，具体内容包括：事业单位法人证书号、单位名称、法定代表人姓名、单位地址、联系电话、注销原因、注销日期、注销机关等。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  各有关部门提供的法人基础信息不限于本办法第七条至第十二条规定的范围。<br><br>    市信息化办公室定期组织法人基础信息提供部门进行法人基础信息目录的编制、修改和更新。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  法人基础信息提供部门应当确保本部门依职权采集或者形成的法人基础信息的内容真实、完整、准确，载体形式符合规定标准。<br><br>    法人基础信息以组织机构代码为唯一标识，无需办理组织结构代码的独立经济实体组织的基础信息除外。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  法人基础信息提供部门提供的同类信息不一致的，应当以采集责任部门提供的信息为准。<br><br>    法人基础信息的采集责任部门根据行政机关的法定行政职能确定。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  法人基础信息提供部门应当每日对所提供信息进行更新;推迟更新法人基础信息或因故需暂时更改法人基础信息更新频率的，应当及时报市信息化办公室备案。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  企业基础信息共享使用单位应定期以书面形式向市信息化办公室提交共享信息使用情况，由市信息化办公室汇总后向法人基础信息提供部门通报。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  市信息化办公室每年组织相关部门对法人基础信息共享工作进行检查和评估，并会同相关行政机关开展法人基础信息资源开发利用工作，深化电子政务应用，支持面向社会和政府的服务。<br><br><font class='zhang'>第三章</font>  共享程序<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  行政机关共享法人基础信息，应当通过广州市电子政务外网平台接入广州市电子政务数据中心信息共享交换平台。<br><br>    行政机关首次接入广州市电子政务数据中心信息共享交换平台，应按照广州市电子政务数据中心管理规定办理相关接入手续。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  市机关信息网络中心负责对行政机关提交的法人基础信息进行分类整理与比对，形成本市法人单位基础信息库，供本市行政机关共享。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  法人基础信息共享应当依照下列程序进行：<br><br>    (一)行政机关根据本单位的行政职能和业务需求向市信息化办公室提出信息共享申请。<br><br>    (二)市信息化办公室依据申请单位的行政职能和业务需求，确定可共享信息的内容及范围，并在10个工作日内答复申请单位，同时告知相关法人基础信息提供部门;不同意信息共享申请的，应当向申请单位说明理由。<br><br><font class='zhang'>第四章</font>  安全保障<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  市机关信息网络中心负责本市电子政务数据中心信息共享交换平台的建设与维护工作，并采取必要的措施，保障法人基础信息交换、查询等共享活动的安全。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  对依法共享的法人基础信息，各行政机关应当严格遵守相关法律、法规和规章的规定，采取必要的措施保障信息安全。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  依法共享的法人基础信息涉及公民个人隐私或法人和其他组织商业秘密的，行政机关之间应当签订保密协议。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  行政机关通过共享方式获取的法人基础信息只能用于本机关的行政管理，不得自行向公众发布或向其他部门或个人转让。<br><br><font class='zhang'>第五章</font>  争议处理与法律责任<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  行政机关(以下简称初核部门)对共享的法人基础信息有异议的，可向市信息化办公室提出复核申请。<br><br>    市信息化办公室接到信息复核申请后，应当要求市机关信息网络中心在3个工作日内对异议信息进行内部核查处理，并根据核查处理情况做出确认或者更正的说明。<br><br>    对非技术性原因产生的信息差异，市信息化办公室应当及时通知相关行政部门(以下简称复核部门)，由复核部门在7个工作日内对异议信息进行核查处理，并将复核结果报送市信息化办公室;复核结果不一致，复核部门应依职能进行修改。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  行政机关对法人基础信息的提交和使用发生争议的，由市信息化办公室会同各有关部门协商解决。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  行政机关工作人员在法人基础信息共享工作中有下列行为之一的，由所在单位责令立即改正;情节严重的，予以通报批评，并依法给予行政处分;构成犯罪的，由司法机关依法追究刑事责任：<br><br>    (一)故意拖延提供应当共享的法人基础信息的;<br><br>    (二)非法篡改法人基础信息内容的;<br><br>    (三)对共享信息的使用超越了履行职责的必要范围的;<br><br>    (四)故意泄漏国家秘密或者侵害公民、法人和其他组织合法权益的;<br><br>    (五)其他相关违法行为。<br><br><font class='zhang'>第六章</font>  附则<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  本办法自2008年4月30日起施行，有效期五年。有效期届满，根据实施情况依法评估修订。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

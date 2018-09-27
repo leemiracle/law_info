@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教社政厅〔2005〕5号<BR>&nbsp;&nbsp;【发布日期】2005-10-20<BR>&nbsp;&nbsp;【生效日期】2005-10-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.edu.cn/edoas/website18/info16816.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于个别高校主办的期刊违规出版增刊的情况通报<br><br></font>(教社政厅〔2005〕5号)</p><br><br><br>各省、自治区、直辖市教育厅(教委)，新疆生产建设兵团教育局，部属各高等学校，有关直属单位：<br><br>    最近，我部接到关于东北师范大学主办的《现代中小学教育》存在违规问题的举报。经我部调查，该刊确实存在违反《期刊管理暂行规定》、拆本出版增刊的行为。在此，特予以通报批评。<br><br>    近一时期，个别高校主办的期刊，受经济利益驱使，出现了一些违反出版管理规定的问题，主要表现在：①个别期刊不按照期刊出版管理规定出版增刊，没有在封面注明“增刊”字样。②个别期刊将出版增刊作为创收手段，以出版增刊或出版专辑、论文集等形式，向作者收取“版面费”，牟取钱财；③个别期刊一号多刊，将一次性获得批准出版的一期增刊，拆分出版两期甚至多期增刊，以达到多发表文章，多向作者收取费用的目的。这种不正之风，致使一些内容平庸甚至质量低劣的文章得以发表，浪费了出版资源，助长了学术腐败，也使一些不明真相的人上当受骗，严重损害了高校期刊界的形象，腐蚀了编辑队伍，破坏了出版工作秩序，在社会上造成了不良的影响。出现上述问题，尽管是个别的，但是各高校及其主管部门必须引起高度重视，引以为戒，举一反三，进一步规范高校期刊的管理。为此，提出以下意见： <br><br>    一、坚持正确的办刊方向和宗旨。各高校期刊要珍惜国家赋予的办刊权利，把社会效益放在首位，杜绝将出版期刊作为单纯的创收手段，特别要制止以创收为目的的收费现象；自觉遵守学术规范，抵制学术腐败，坚持质量第一，努力为教育、教学和教师更好地服务，全力办好刊物。<br><br>    二、认真执行《出版管理条例》、《期刊管理暂行规定》和有关期刊出版管理规定。各高校期刊要进一步规范期刊的出版行为，坚决制止一号多刊的违规做法，注意严格执行增刊、扩版等期刊出版管理规定。期刊出版增刊，其宗旨、开本和发行范围应当与正刊一致；出版增刊，除需刊印国内统一刊号外，还需同时刊印一次性增刊许可证编号，并在封面刊印正刊名称和注明“增刊”。<br><br>    三、加强队伍建设。各高校期刊要进一步提高编辑出版人员的政治水平和政策水平，加强职业道德教育，树立政治意识、大局意识和责任意识，不断提高刊物的学术品位和出版质量。<br><br>    四、落实领导责任制，进一步加强对高校期刊的管理。高校期刊的主管和主办单位，应根据《关于出版单位的主办单位和主管部门职责的暂行规定》要求，切实加强对期刊的领导和管理，对期刊所载文章的社会效果负责。各期刊主办高校要切实履行起主办单位职责，监管、指导所主办的期刊严格遵守国家的出版法规和规定。各主管部门，应协同中央、国务院有关部门，进一步加强对所主管期刊的宏观指导和管理，监督期刊出版单位及其主办高校加强管理，履行职责。一旦发现问题，要严肃查处，绝不姑息。<br><br>    请各高校及其主管部门按照国家有关规定，加强对本单位、本部门期刊的管理，杜绝期刊出版中出现的违规问题。<br><br>二○○五年十月二十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

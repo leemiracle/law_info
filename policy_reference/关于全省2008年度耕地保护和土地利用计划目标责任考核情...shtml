@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】青海省人民政府<BR>&nbsp;&nbsp;【发布文号】青政〔2009〕8号<BR>&nbsp;&nbsp;【发布日期】2009-02-03<BR>&nbsp;&nbsp;【生效日期】2009-02-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.qh.gov.cn/html/283/109393.html" target=_blank>青海省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于全省2008年度耕地保护和土地利用计划目标责任考核情况的通报 <br>  <br></font>(青政〔2009〕8号)</p>  <br><br><br>    西宁市、各自治州人民政府，海东行署，省政府各委、办、厅、局：<br><br>    根据2008年初省政府与各州（地、市）政府签订的《青海省2008年耕地保护和年度土地利用计划目标责任制领导责任书》（以下简称《责任书》），受省政府委托，省国土资源厅会同省农牧厅、省统计局对全省各地区2008年度耕地保护和土地利用计划目标责任完成情况进行了全面考核。根据考核结果，为进一步推进全省耕地保护工作，省政府决定对2008年度耕地保护和土地利用计划目标责任考核获得第一名的海南州政府，第二名海北州政府和海西州政府，第三名海东行署给予通报表彰，并分别给予海南州政府、海北州政府和海西州政府1万元，海东行署2万元的奖励。<br><br>    希望受表彰的地区保持荣誉、戒骄戒躁，发扬成绩，再接再厉，以更加出色的工作，在进一步加强耕地保护工作中做出更大的贡献。全省各地区要从学习实践科学发展观的战略高度出发，以先进地区为榜样，进一步增强责任感和使命感，按照基本农田总量不减少，用途不改变，质量要提高的要求，抓紧将省级土地利用总体规划分解下达的耕地保有量和基本农田保护面积的任务，落实到各州（地、市）土地利用规划的修编工作之中，研究分解和确定县、市（区）行政区域内的耕地保有量、基本农田保护面积和保护率等约束性考核指标，把耕地保护工作真正抓紧、抓实、抓好，确保国家下达的810万亩耕地保有量和651万亩基本农田保护任务的落实。<br><br>    青海省人民政府<br><br>    二○○九年二月三日<br><br>    全省州(地、市)政府2008年度耕地保护和土地利用计划目标责任考核结果<br><br>    受省政府的委托，省国土资源厅会同省农牧厅、省统计局于2008年底对全省州 (地、市)政府2008年度耕地保护和土地利用计划目标责任制落实情况进行了考核，具体考核结果如下:<br><br>    西宁市政府 <br><br>    西宁市政府在保障当地经济快速发展的同时，高度重视耕地保护工作。注重宣传，强化管理，落实责任，制定了《西宁市2008年耕地保护目标制度领导考核办法》，健全了基本农田保护监督检查责任体系，不定期进行巡回检查，有效遏制了在基本农田内滥采沙石、畜牧养殖、植树等行为；明确各区县政府主要负责人为辖区内耕地保护第一责任人。市、县（区）、乡(镇)层层签订了耕地保护目标责任书，将耕地保护目标责任落到实处；积极争取和实施土地开发整理项目，加大了耕地占补平衡工作的力度。严格实行土地利用计划台帐管理，新增建设用地总量没有突破省政府分解下达的年度计划指标；基本农田保护图、表、册等档案材料齐全，重新设立刷新标志牌490个。确保了全市17．85万公顷的耕地保有量和13．566万公顷的基本农田保护面积。考核评定成绩为90分。 <br><br>    海东行署 <br><br>    海东行署主要领导负总责、分管领导具体抓，把耕地保护和基本农田保护责任量化到县、乡级政府，进一步加强耕地保护措施，层层分解目标任务，明确责任；从严控制非农建设项目，实行了土地利用计划台帐管理。全区各类建设占用耕地120．4公顷，收取开垦费375万元，足额上缴省财政，由省国土资源厅选择与耕地占补平衡挂钩的土地开发整理项目统一实施，保证了全区耕地保护面积不减少，积极落实全省土地开发整理项目，年度全区实施了4个项目，总规模8483亩；基本农田保护县、乡（镇）、村签订目标责任书2．1万份，设立基本农田标志512块，图、表、册等档案资料齐全，较好地完成了与省政府签订的《责任书》目标任务。考核评定成绩为94分。 <br><br>    海北州政府 <br><br>    海北州政府切实加强全州耕地、特别是基本农田保护工作，成立了由政府主管领导为组长，国土、农牧、水利和林业等相关部门领导为成员的耕地保护领导小组。层层签订了耕地保护目标责任书，严把建设用地审批关，全年报批建设项目占用耕地13．8公顷，耕地占补平衡按规定足额缴纳了耕地开垦费73．57万元，委托省国土资源厅实施耕地占补平衡，确保耕地总量动态平衡;严格实行土地利用计划台帐管理，新增建设用地总量没有突破省政府分解下达的年度计划指标；基本农田保护图、表、册等档案材料齐全，全州共划定基本农田869块。确保了全州6．84万公顷的耕地保有量和5．78万公顷的基本农田面积，保护率达到84%，较好地完成了与省政府签订的《责任书》目标任务。考核评定成绩为95．5分。 <br><br>    海西州政府 <br><br>    海西州政府认真贯彻落实耕地保护工作的相关政策，加强领导，落实责任，抓督促、抓落实，制定了《海西州耕地保护目标责任考核办法》，州、县、乡、村层层签订了耕地保护目标责任书，将耕地保护的措施和目标管理责任落到了实处;加大耕地保护宣传和动态巡查工作，进一步规范基本农田管理;从严控制新增建设用地，实行土地利用计划台帐管理；全年报批建设项目占用耕地75．6公顷，耕地占补平衡按规定足额缴纳了耕地开垦费130万元，委托省国土资源厅实施耕地占补平衡，确保耕地总量动态平衡。基本农田保护图、表、册等档案材料齐全;确保了全州4．74万公顷的耕地保有量和4．14万公顷的基本农田面积，保护率达到87%，较好地完成了与省政府签订的《责任书》目标任务。考核评定成绩为95．2分。 <br><br>    海南州政府 <br><br>    海南州政府认真履行职责，切实加强领导，把保护耕地和基本农田工作作为全年工作的重中之重，州、县政府分别成立了由相关部门组成的基本农田工作领导小组。将耕地和基本农田保护纳入政府目标考核内容，层层签订了目标责任书，耕地保护目标责任落到实处;年初州政府下发了《关于进一步规范基本农田保护工作的通知》，明确要求，广泛宣传，细化措施，强化监督管理；建立健全基本农田保护的六项管理制度，基本农田保护图、表、册等档案材料齐全，设立永久性保护标志牌89块；全年报批建设项目用地44．74公顷，占用耕地14．8公顷。耕地占补平衡按规定足额缴纳了耕地开垦费71．8万元，委托省国土资源厅实施耕地占补平衡，确保耕地总量动态平衡。严格实行土地利用计划台帐管理，新增建设用地总量没有突破省政府分解下达的年度计划指标；积极实施国家投资的两个土地开发整理项目，建设总规模1535公顷，可新增耕地面积200公顷。确保了全州10．38万公顷的耕地保有量和8．95万公顷的基本农田面积，保护率为86%，较好地完成了与省政府签订的《责任书》目标任务。考核评定成绩为96．4分。 <br><br>    黄南州政府 <br><br>    黄南州政府明确职责，认真落实耕地保护制度，将耕地保护目标纳入州政府考核体系，层层签订了目标责任书。严格实行土地利用计划管理，新增建设用地总量没有突破省政府分解下达的年度计划指标；认真落实省国土资源厅选择的与耕地占补平衡挂钩的土地开发整理项目，确保新增建设用地与当地耕地总量平衡；基本农田保护图、表、册等档案材料齐全，确保了全州2．45万公顷的耕地保有量和2．02万公顷的基本农田面积，保护率达到82%，完成了与省政府签订的《责任书》目标任务。考核评定成绩为93．5分。 <br><br>    玉树州政府 <br><br>    玉树州政府明确耕地保护责任，年初制定下发了《玉树州2008年耕地保护目标责任考核办法》，层层签订了耕地保护目标责任书，将耕地保护的措施和目标管理责任落到实处;基本农田图、表、册等基础资料基本齐全。确保了全州1．77万公顷的耕地保有量和1．35万公顷的基本农田面积，保护率达到76%，完成了与省政府签订的《责任书》目标任务。考核评定成绩为84．5分。 <br><br>    果洛州政府 <br><br>    果洛州政府主管领导与各县政府签订了耕地保护目标责任书，将耕地保护的措施和目标管理责任落到实处;规范基本农田图、表、册等基础资料，确保了全州0．17万公顷的耕地保有量和0．12万公顷的基本农田面积，保护率达到71%，完成了与省政府签订的《责任书》目标任务。考核评定成绩为84．6分。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

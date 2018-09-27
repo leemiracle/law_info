@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】建设[1993]566号<BR>&nbsp;&nbsp;【发布日期】1993-07-30<BR>&nbsp;&nbsp;【生效日期】1993-07-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于勘察设计单位巩固深化全面质量管理，<br>贯彻GB／T 19000―ISO9000“系列标准”的通知 <br> <br></font>(建设[1993]566号)</p><br><br><br>国务院各有关部门，各省、自治区、直辖市建委（建设厅），有关省、自治区计委：<br><br>    自1990年我部(90)建设字第268号《关于勘察设计单位巩固深化全面质量管理的意见》发出后，我国勘察设计单位普遍推行全面质量管理，按照全面质量管理的理论、体系、手段和方法，建立健全了勘察设计单位的质量保证体系，使管理工作的现代化水平不断提高。在提高设计质量，增强全体职工的质量意识，提高单位的整体素质和效益等方面都取得显著的成效。截止1991年底甲、乙级勘察设计单位的达标验收工作基本按计划全部完成。在此基础上，1992年我部以建设[1992]471号文公布表彰了一批甲级勘察设计单位推行全面质量管理先进单位和积极分子,并于今年上半年颁发了奖牌及奖状。当前全面质量管理工作仍是各勘察设计单位的工作重点，不能放松，必须坚持下去深化发展，确保工程项目勘察设计质量、水平不断提高。<br><br>    为了进一步巩固勘察设计单位推行全面质量管理成果，适应国际国内市场发展的需要，不少勘察设计单位根据我部1990年建设字第268号文中提出的“学习、研究国家技术监督局发布的《质量管理与质量保证》系列国家标准”的意见,开展了宣传贯彻GB／T19000―ISO9000《质量管理和质量保证系列标准》（以下简称“系列标准”）活动，三年来积累了不少经验。今年，国家技术监督局决定由“等效”改为“等同”采用ISO9000系列国际标准，发布了GB／T19000“系列标准“，以代替1988年的GB／T10300系列标准。今年4月我们又组织制订了工程设计行业GB／T19004―ISO9004的实施导则，并已在具有对外经营权的工程勘察设计单位试行。为了使勘察设计单位巩固深化全面质量管理，更好地贯彻“系列标准”，现通知如下：<br><br>    一、继续加强对勘察设计单位推行全面质量管理的领导。<br><br>    甲级勘察设计单位，要继续在巩固深化全面质量管理方面下功夫，对行之有效的措施要坚持落实，有条件的单位要积极开展贯彻GB／T19000系列国标活动，健全完善质量体系。获奖单位更要继续巩固深化现有成果。为了鼓励先进单位和积极分子，主管部门可以从10％技术开发费中提取资金奖励那些至今还保持先进的单位及个人。对已取得先进证书，但质量滑坡较严重的单位要收回奖牌，情节严重的要吊销TQC合格证书。各地各部门对乙级单位要进行抽查,对于领导质量意识不强、管理混乱、出现严重设计质量事故的单位要吊销其乙级资格证书。各地各部年内应组织抽查组，有计划地抽查本地区（本行业）十个工程项目，并请将抽查情况总结后年终报我部。对于新升乙级或新成立领取暂定甲、乙级勘察设计资格证书的单位，要继续推行全面质量管理，对于换证后获乙级资格的单位要继续巩固、实施行之有效的全面质量管理成果；新成立获甲、乙级证书的单位，两年内要达到全面质量管理基本标准，两年后要进行TQC检查，凡不符合要求的不予换发正式定级的新证书，以保证甲、乙级单位的整体素质水平。<br><br>    二、提高认识，正确理解深化全面质量管理与贯彻系列标准之间的关系。<br><br>    “系列标准”是世界各国质量工作的理论和实践的科学总结，是国际公认的标准。“系列标准”对于完善质量体系，提高质量管理水平，适应市场竞争都有重要意义。“系列标准”的主要原理、指导原则与全面质量管理基本是一致的，方法可以互相兼容。前一段我们推行全面质量管理所取得的成效，为实施“系列标准”奠定了扎实的基础；“系列标准”为全面质量管理走向规范化提供了准则和指南。贯彻“系列标准”是巩固深化全面质量管理的进程中顺理成章的事，绝不是丢开全面质量管理另搞一套。因此，要把贯彻“系列标准”作为当前勘察设计单位质量管理的一项重要的工作，有计划有步骤地开展和推进，全面质量管理的原理、方法仍应在单位内部的质量管理工作中加以运用，那种以全面质量管理排斥“系列标准”，或以“系列标准”取代全面质量管理的观点和做法都是不正确的。<br><br>    三、单位领导要率先研究“系列标准”，把握标准要求的内涵。<br><br>    由于“系列标准”所产生的文化背景与我们有较大的差异，为了把握“系列标准”的含义，要有一个认真学习、研究的过程。因此，各地、各部要组织勘察设计单位各级管理人员组织学习“系列标准”，通过学习、研究，达到以下目的：<br><br>    1．正确理解和处理贯彻“系列标准”与全面质量管理的关系；<br><br>    2．懂得应如何结合本单位的实际情况贯彻“系列标准”；<br><br>    3．能对本单位的贯彻“系列标准”工作做出正确的决策，力求实效，防止流于形式。在领导率先学习、研究的基础上，组织全体职工进行学习和贯彻。<br><br>    四、认真总结全面质量管理的经验，紧密结合实际情况和实际需要健全完善质量体系。<br><br>    贯彻“系列标准”的核心是按标准的要求健全完善本单位的质量体系。过去七年推行全面质量管理，各勘察设计单位按照全面质量管理的原理结合行业的特点都建立了质量体系。从总体来看，现有的质量体系与“系列标准”的要求是相近的。贯彻“系列标准”并不是要求否定过去，一切从头做起，而是要求在总结过去全面质量管理经验的基础上，进一步按“系列标准”的要求健全完善现有的质量体系，加强质量管理工作、确保设计质量。因此，一定要认真总结本单位质量管理的经验，凡是过去行之有效的成功经验都应当保留。例如目标管理、质量信息反馈、QC小组活动等，虽然在“系列标准”中没有具体要求，但我们可以根据实际需要加以保留，使之进一步健全、发展。<br><br>    “系列标准”的目的并不是强制质量体系的统一性。各单位的实际状况和需要各有不同，贯彻“系列标准”必须密切结合单位的实际情况，从实际需要出发按标准的要求健全完善质量体系，注重实效、避免“走形式”、“一刀切”的现象。<br><br>    五、贯彻“系列标准”工作要有计划、有步骤、积极稳妥地推进。<br><br>    “系列标准”具有高度的科学性和严谨性，在贯彻中也必须要具备科学的态度和求实的精神，应当有计划、有步骤、积极稳妥地推进这项工作。对勘察设计全行业不要求齐头并进，不搞一刀切。总体部署是：<br><br>    1．我部组织制订勘察设计单位实施“系列标准”的指导原则。<br><br>    2．分期举办不同类型的培训班，学习、研究“系列标准”，培训骨干。<br><br>    3．组织试点，对试点单位重点辅导，适时总结经验，加以推广。<br><br>    4．逐步实施质量体系审核注册工作，制订相应的政策和法规，通过政策导向和市场导向，促进勘察设计单位自觉地贯彻“系列标准”，自愿要求体系认证，并使获得认证合格的单位取得质量信誉上的优势，从而有利于在市场竞争中取胜。<br><br>    各地区、各部门可结合实际情况，相应作出贯彻“系列标准”的总体部署，注意总结经验，对出现的问题要及时研究解决。贯彻“系列标准”工作主要在有条件的甲、乙级单位进行，丙、丁级单位要根据自身特点建立健全质量保证体系，在完善质量上下功夫。<br><br>    六、做好体系认证的准备工作<br><br>    获得质量体系认证合格，作为进入国际市场的“通行证”，已成为世界趋势。目前，勘察设计行业已有50多个单位获得了对外经营权，随着改革开放的进程，将会有更多的勘察设计单位走向国际市场。因此，各勘察设计单位，特别是具有对外经营权的单位，要在认真贯彻“系列标准”的基础上，做好体系认证的准备，编制必备的质量体系文件，健全和实施内部的体系审核和评审制度，待时机成熟时，即可申请第三方认证。<br><br>                                                            中华人民共和国建设部<br>                                                                1993年7月30日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

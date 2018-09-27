@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政办发〔2006〕019号<BR>&nbsp;&nbsp;【发布日期】2006-04-03<BR>&nbsp;&nbsp;【生效日期】2006-04-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tjzb.org/system/2006/05/10/000119948.shtml" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅转发市公安局市信息化办关于开展信息系统安全等级保护基础调查工作意见的通知<br><br></font>(津政办发〔2006〕019号)</p><br><br><br>各区、县人民政府，各委、局，各直属单位：<br><br>    市公安局、市信息化办《关于开展信息系统安全等级保护基础调查的工作意见》已经市人民政府领导同志同意，现转发给你们，请照此执行。<br><br>    二OO六年四月三日<br><br><br>关于开展信息系统安全等级保护基础调查的工作意见<br><br>    为进一步贯彻落实《中共中央办公厅国务院办公厅转发〈国家信息化领导小组关于加强信息安全保障工作的意见〉的通知》(中办发〔2003〕27号)和公安部、国家保密局、国家密码管委会办公室、国务院信息化工作办公室联合下发的《关于信息安全等级保护工作的实施意见》(公通字〔2004〕66号)要求，公安部、国务院信息化工作办公室下发了《关于开展信息系统安全等级保护基础调查工作的通知》(公信安〔2005〕1431号，以下简称《通知》)。为贯彻落实《通知》精神，全面了解掌握我市计算机信息系统的基本现状，进一步提高我市计算机信息系统安全建设水平，现提出如下工作意见：<br><br>    一、时间要求和工作职责<br><br>    从现在起至2006年4月20日，在全市范围内开展信息系统安全等级保护基础调查工作。此次调查工作按照统一领导、分工协作、层层负责、共同参与的原则，由市公安局、市信息化办共同组织推动。市公安局负责调查工作的组织实施，市信息化办负责调查工作的协调。各有关单位积极参与、密切配合，共同做好我市信息系统安全等级保护基础调查工作。<br><br>    二、调查对象和主要内容<br><br>    (一)调查对象。本市各级党政部门、事业单位、重要的国有和集体所有制企业、主要社会团体、民办非企业单位以及其他组织机构的信息系统。<br><br>    (二)重点范围。本市各级党政机关办公系统；各级财政、金融、税务、海关、审计、工商、社会保障、能源、交通运输、国防工业等关系国计民生的信息系统；各级教育、国家科研等单位的信息系统；各级公共通信、广播电视传输等基础信息网络中的信息系统；互联网管理中心、重要网站和网络节点的信息系统和其他领域的信息系统。<br><br>    (三)主要内容。信息系统所属单位的基本情况、信息系统的基本情况。<br><br>    三、调查方式及工作步骤<br><br>    各单位到指定网址下载调查辅助工具，按照使用说明认真填写后报送。调查工作分三个阶段进行：<br><br>    (一)动员部署阶段(从现在起至2006年4月10日)。向各级党政机关、各行业的主管部门下发文件。各单位结合自身及本行业的实际情况，进行组织落实，并确定负责本次调查工作的主管部门和专职人员。各有关单位到指定网址下载调查辅助工具及使用说明、有关资料，熟悉相关文件及软件使用说明，为调查数据的收集、汇总做好准备。<br><br>    (二)实施调查、收集数据阶段(2006年4月10日至4月15日)。各级党政机关、各行业的主管部门对本单位的信息系统进行调查，收集数据，填写调查表。同时，督促本系统、本辖区内的下级单位做好本单位、本部门信息系统调查和数据收集，并统一汇总后形成数据库文件制成光盘，于2006年4月15日前报送市公安局。社会团体、民办非企业单位和其他组织机构信息系统调查工作的组织以及数据汇总，由其对口的行政主管部门负责。<br><br>    (三)数据上报阶段(2006年4月16日至4月20日)。市公安局将全市各单位报送的调查数据整理、汇总后上报公安部。<br><br>    四、工作要求<br><br>    (一)高度重视，充分认识调查工作的重要性。参加调查工作的各有关单位要从维护和保障国家信息安全的大局出发，充分认识开展此项调查工作的重要性、必要性和紧迫性，结合自身实际，精心组织，周密安排，并做好调查和数据传输的保密工作，确保调查工作取得实效。各单位要将主管部门、负责人和专职人员情况(部门名称、姓名、联系方式)于4月10日前以电话或传真报送市公安局。<br><br>    (二)规范调查工作，做到各司其职、各负其责。各有关单位要认真做好此项工作，各级党政机关、各行业的主管部门要发挥职能作用，对本辖区、本系统内的下级单位做好有关此项工作的宣传和指导，防止出现漏报、误报现象，保证本单位及下级单位所收集、上报的调查数据准确、详实。<br><br>    (三)加大宣传力度，做好沟通协调。市公安局和市信息化办要加强与信息系统运营、使用单位和主管部门及其上级单位的沟通，积极做好调查的宣传工作，配合、协调做好调查工作。<br><br>    (四)及时收集、汇总、报送调查数据。各有关单位要如实、及时、准确地收集、报送调查数据，市公安局要及时掌握工作进展情况，并做好有关事项的咨询和解答。<br><br>    市公安局联系人：公共信息网络安全监察处郑巍、李宇，地址：和平区鞍山道41号，电话：27205693、传真：27319197<br><br>    市信息化办联系人：信息安全处董津，电话：23328903，地址：和平区大沽北路157号。调查工具及资料下载地址： www.cspec.gov.cn<br><br>    天津市公安局<br><br>    天津市人民政府信息化办公室<br><br>    二○○六年三月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-08-29<BR>&nbsp;&nbsp;【生效日期】2005-08-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10406&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于做好西部地区传染病与突发公共卫生事件网络直报计算机装备项目工作的通知</font></p><br><br><br>内蒙、广西、重庆、四川、贵州、云南、西藏、陕西、甘肃、青海、宁夏、新疆，省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    为认真落实党中央、国务院关于加强公共卫生体系建设工作的精神，自2004年1月起，全国范围内开展了传染病和突发公共卫生事件网络直报工作。截止到2004年底，进入网络直报的卫生机构总数已超过4万家，其中县及县以上医院1．4万多所（占医院总数的93％），乡镇卫生院1．8万所（占乡镇卫生院总数的42．％）。根据统计调查，目前还有部分医疗机构尚未开展网络直报工作，主要分布在西部地区。为了进一步扩大网络覆盖面，提高疾病监测工作的完整性和及时性，我部拟利用中央财政资金采购计算机，用于西部地区县医疗机构和乡镇卫生院网络直报工作。为做好此项工作，现将有关事项通知如下：<br><br>一、做好项目的组织管理工作<br><br>    卫生部信息化工作领导小组办公室具体负责项目的组织领导和协调工作，中国疾病预防控制中心承担具体的中央级项目执行任务。<br><br>    各地方卫生行政管理部门和有关单位应相应建立项目领导机构和工作机制，负责项目实施工作。<br><br>二、做好项目部署实施工作<br><br>    各地区应根据“西部地区县医院、乡镇卫生院配备数据采集计算机设备项目实施方案”（附件1）要求，制定本地区项目总体计划和相关管理制度，重点是设备分配、接收、验收工作计划和人员培训及设备安装工作。<br><br>    为强化项目管理责任，要求各省级项目单位与卫生部信息化工作领导小组签署“西部地区配备县乡数据采集计算机设备项目承诺书”（附件2）。<br><br>三、督导检查<br><br>    为保证项目顺利实施，按计划实现项目目标，我部将组织督导组对各地项目执行情况进行督导检查，重点是设备到位、运行、使用情况。<br><br>    为充分做好本项目组织实施工作，部信息化工作领导小组办公室拟于近期举办各省项目工作负责人会议。会议主要内容是：项目省提交项目承诺书；研究项目管理制度及培训工作；项目省与中标厂商讨论设备分发与安装详细计划。会议具体时间、地点另行通知。<br><br>    联系人：卫生部信息化工作领导小组办公室  胡建平<br><br>    联系电话：68792481<br><br>          传真：68792478<br><br>    电子邮箱：ｈｕｊｐ＠ｍｏｈ．ｇｏｖ．ｃｎ<br><br> <br><br>附件：<br><br>1．西部地区配备县乡数据采集计算机设备项目实施方案<br><br>2．“西部地区配备县乡数据采集计算机设备项目”承诺书<br><br>                                      <br><br>                                    二○○五年八月二十九日<br><br><br>附件1：西部地区县医院、乡镇卫生院配备数据采集计算机设备项目实施方案<br><br>    为加强西部地区县医院和乡镇卫生院传染病和突发公共卫生事件网络直报能力，提高疾病监测工作的完整性和及时性，中央财政利用专项资金，支持西部12个省（自治区、直辖市），新疆生产建设兵团县医院和乡镇卫生院传染病和突发公共卫生事件网络直报能力建设。<br><br>    一、项目目标<br><br>    （一）改善西部地区有条件的乡镇卫生院和西部地区国家重点扶贫县、少数民族自治县、边境县县级医院疫情网络直报条件。<br><br>    （二）加强基层网络直报人员的技术培训。<br><br>    （三）提升西部地区乡镇卫生院疫情网络直报能力，保障疫情报告的及时和有效。<br><br>    二、项目范围和内容<br><br>    （一）项目范围。<br><br>    西部地区12个省（区、市）599个国家扶贫工作重点县、边境县、少数民族自治县县医院；具备条件的乡镇卫生院（含中心卫生院、传染病发病率较高地区的乡镇卫生院、服务人口数较多的乡镇卫生院）；新疆生产建设兵团师、团医院。<br><br>    （二）项目内容。<br><br>    1、基本设备<br><br>    对部分乡镇卫生院和县医院配备疫情数据采集计算机设备。<br><br>    2、人员培训<br><br>    对乡镇中心卫生院防保组负责疾病报告的专兼职人员和其它乡卫生院防保组专兼职人员进行培训。<br><br>    三、项目组织实施<br><br>    （一）组织形式。<br><br>    1、项目由卫生部信息化工作领导小组办公室负责，中国疾病预防控制中心具体负责实施。各项目省（区、市）要设立项目建设领导管理机构和执行机构，领导和组织本省项目的具体实施、监督、检查和考核。<br><br>    2、中国疾病预防控制中心具体负责对省级师资培训，省级以下培训方式由各省自行决定。各省（区、市）省级疾病预防控制中心在完成设备验收后应组织设备配备单位人员进行现场培训，培训内容由各省级疾控中心负责协调安排。<br><br>    （二）基本设备配备要求。<br><br>    1、基本设备配备原则<br><br>    （1）具备条件的乡镇卫生院各补助一台（套）计算机。<br><br>    （2）西部地区12个省（区、市）599个国家扶贫工作重点县、边境县、少数民族自治县县医院各补助一台计算机；<br><br>    （3）原则上对省内的经济发达地区不予补助。<br><br>    2、基本设备调配原则<br><br>    （1）对未达到通电、无防保科的乡镇卫生院不予配备。<br><br>    （2）对暂无上网条件的乡镇卫生院，可调配给属地县（区）疾病预防控制中心代为报告。<br><br>    （3）按以上原则调整设备后如有多余的计算机设备，应按以下先后顺序进行配备：加强县（区）疾病预防控制中心（防疫站）的网络直报管理能力；加强县（区）级医疗机构的网络直报能力。<br><br>    （三）人员培训要求。<br><br>    乡镇中心卫生院防保组负责疾病报告的专（兼）职人员参加培训的不少于2人，其它乡镇卫生院防保组专（兼）职人员不少于1人。<br><br>    （四）资金安排。<br><br>    中央安排专项资金，改善项目省（区、市）有条件的乡镇卫生院和西部地区国家重点扶贫县、少数民族自治县、边境县县级医院疫情网络直报条件。各项目省（区、市）结合本项目情况合理安排与项目实施有关的专项资金，重点解决设备的仓储费用、运输费用、网络通讯费用和人员培训费用；各项目省（区、市）需落实与设备配备单位两人培训相关的费用。<br><br>    （五）招标采购。<br><br>    补助的设备由中国疾病预防控制中心按照政府集中采购的有关规定采购。各省（区、市）需增加购买的设备可与中标厂商分签合同，统一集成配置。中国疾病预防控制中心负责支付中央集中采购设备的资金，各项目省增加采购的设备由各省直接支付给中标厂商。<br><br>    （六）实施要求。<br><br>    1、逐级签署项目建设承诺书。最终由省卫生厅局向卫生部信息化工作领导小组办公室作出本省承担项目执行任务承诺；<br><br>    2、各项目省（区、市）根据分配计划，提交本省以县（区）为单位的计算机配备单位清单，内容包括单位名称、本次配备设备型号、来源、负责人、联系电话等；同时应及时通过网络直报系统建立单位信息，作为设备备案；并作为国家考核督导检查的依据；乡镇疾病报告网络设备的配备由各项目省根据国家补助数，提出实际分配计划，并根据本方案的要求，制定本省的细化实施方案报送中国疾病预防控制中心。<br><br>    3、设备验收与技术培训由各项目省负责。设备到货地点为各项目省省会城市。省级人员应负责本省设备的临时库存安置，妥善保存至本省设备全部分发完毕，并负责组织各设备分配单位在最短时间内完成设备的验收工作。以县为单位组织设备现场验收。各省以县为单位，组织设备接收单位会同设备供应商，对设备进行集中开机验收，完成现场交付与安装调试。县级提供设备安装验收所需接头、插座、电缆及特殊安装工具等备件，具体验收步骤如下：<br><br>    （1）设备到达各省会城市所在地后，各省级项目单位配合设备供应商，依据设备供货清单共同对设备进行外包装检验，并对设备的数量进行逐项检查。经过在场双方核对无误后，签署“设备到货验收报告”（一式四份，国家疾控中心、供货商、省疾控中心、存根各一份）。<br><br>    （2）以县为单位设备分发完毕后，以县为单位组织设备的现场加电开机测试验收。验收工作完成后，以省为单位签署“设备验收报告”（一式四份，国家疾控中心、供货商、省疾控中心、存根各一份）。<br><br>    （3）设备保修期自验收合格之日起计算，各地应妥善保存由供货商提供的设备保修文件。<br><br>    （4）各省（区、市）的技术培训，由各项目省（区、市）根据本省实际情况，具体安排，其中网络直报的培训内容由中国疾病预防控制中心统一提供。<br><br>    4、中央补助的设备，必须严格按照项目建设原则配备到相应的单位，保障网络直报工作需要。各级卫生行政部门、疾病预防控制机构、医疗卫生机构不得扣留、调换所配备的计算机设备。<br><br>    5、各分配单位尽可能向当地电信部门申请开通ＡＤＳＬ宽带网络接入，不具备宽带条件的须保障拨号网络接入。<br><br>    6、各项目省（区、市）根据当地实际情况自筹资金采购相应辅助设备。供电不稳定地区应考虑配置ＵＰＳ或稳压电源。其他相关外设，如打印机、终端桌等，由使用单位根据需要自行配备。<br><br>    四、项目执行时间<br><br>    1、2005年7月－8月完成设备采购、制定项目实施细则。各项目省（区、市）负责编制项目实施细则，落实相关组织机构和项目活动经费。请将项目组织机构和联系人报告卫生部信息化工作领导小组办公室。<br><br>    2、2005年9月－10月完成设备验收、技术培训工作。完成项目省（区、市）省级相关培训，指导各项目省（区、市）完成设备验收和技术培训工作。各项目省（区、市）根据本省项目实施细则，组织完成设备验收和配备单位人员的技术培训。<br><br>    3、2005年11月－12月项目督导和总结评估。<br><br>    五、项目监督与评估<br><br>    设备装备、人员培训完成后将进行严格的验收审评，由项目省（区、市）向卫生部信息化工作领导小组办公室呈报项目审评报告。卫生部信息化工作领导小组办公室将组织监督检查，主要包括：项目计划和配套资金落实情况；人员培训效果；设备配备和使用情况；项目指标完成情况等。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

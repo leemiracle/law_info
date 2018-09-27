@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2009]507号<BR>&nbsp;&nbsp;【发布日期】2009-09-14<BR>&nbsp;&nbsp;【生效日期】2009-09-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/9274498.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于执行税收协定特许权使用费条款有关问题的通知<br><br></font>(国税函[2009]507号)</p> <br><br><br>    各省、自治区、直辖市和计划单列市国家税务局、地方税务局，扬州税务进修学院：?<br><br>    根据中华人民共和国政府对外签署的避免双重征税协定（含内地与香港、澳门特别行政区签署的税收安排，以下统称税收协定）的有关规定，现就执行税收协定特许权使用费条款的有关问题通知如下：<br><br>    一、凡税收协定特许权使用费定义中明确包括使用工业、商业、科学设备收取的款项（即我国税法有关租金所得）的，有关所得应适用税收协定特许权使用费条款的规定。税收协定对此规定的税率低于税收法律规定税率的，应适用税收协定规定的税率。<br><br>    上述规定不适用于使用不动产产生的所得，使用不动产产生的所得适用税收协定不动产条款的规定。<br><br>    二、税收协定特许权使用费条款定义中所列举的有关工业、商业或科学经验的情报应理解为专有技术，一般是指进行某项产品的生产或工序复制所必需的、未曾公开的、具有专有技术性质的信息或资料（以下简称专有技术）。<br><br>    三、与专有技术有关的特许权使用费一般涉及技术许可方同意将其未公开的技术许可给另一方，使另一方能自由使用，技术许可方通常不亲自参与技术受让方对被许可技术的具体实施，并且不保证实施的结果。被许可的技术通常已经存在，但也包括应技术受让方的需求而研发后许可使用并在合同中列有保密等使用限制的技术。<br><br>    四、在服务合同中，如果服务提供方提供服务过程中使用了某些专门知识和技术，但并不转让或许可这些技术，则此类服务不属于特许权使用费范围。但如果服务提供方提供服务形成的成果属于税收协定特许权使用费定义范围，并且服务提供方仍保有该项成果的所有权，服务接受方对此成果仅有使用权，则此类服务产生的所得，适用税收协定特许权使用费条款的规定。<br><br>    五、在转让或许可专有技术使用权过程中如技术许可方派人员为该项技术的使用提供有关支持、指导等服务并收取服务费，无论是单独收取还是包括在技术价款中，均应视为特许权使用费，适用税收协定特许权使用费条款的规定。但如上述人员的服务已构成常设机构，则对服务部分的所得应适用税收协定营业利润条款的规定。如果纳税人不能准确计算应归属常设机构的营业利润，则税务机关可根据税收协定常设机构利润归属原则予以确定。<br><br>    六、下列款项或报酬不应是特许权使用费，应为劳务活动所得：<br><br>    （一）单纯货物贸易项下作为售后服务的报酬；<br><br>    （二）产品保证期内卖方为买方提供服务所取得的报酬；<br><br>    （三）专门从事工程、管理、咨询等专业服务的机构或个人提供的相关服务所取得的款项；<br><br>    （四）国家税务总局规定的其他类似报酬。<br><br>    上述劳务所得通常适用税收协定营业利润条款的规定，但个别税收协定对此另有特殊规定的除外（如中英税收协定专门列有技术费条款）。<br><br>    七、税收协定特许权使用费条款的规定应仅适用于缔约对方居民受益所有人，第三国设在缔约对方的常设机构从我国境内取得的特许权使用费应适用该第三国与我国的税收协定的规定；我国居民企业设在缔约对方的常设机构不属于对方居民，不应作为对方居民适用税收协定特许权使用费条款的规定；由位于我国境内的外国企业的机构、场所或常设机构负担并支付给与我国签有税收协定的缔约对方居民的特许权使用费，适用我国与该缔约国税收协定特许权使用费条款的规定。<br><br>    八、本通知于2009年10月1日起执行。各地应按本通知规定做好税收协定特许权使用费条款的执行工作，并将执行中遇到的问题及时报告税务总局。<br><br>    国家税务总局<br>    二○○九年九月十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

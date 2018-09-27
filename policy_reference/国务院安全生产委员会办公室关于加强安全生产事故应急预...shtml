@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安全生产委员会办公室<BR>&nbsp;&nbsp;【发布文号】安委办字〔2005〕48号<BR>&nbsp;&nbsp;【发布日期】2005-11-24<BR>&nbsp;&nbsp;【生效日期】2005-11-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2005-11/29/content_147917.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安全生产委员会办公室关于加强安全生产事故应急预案监督管理工作的通知<br><br></font>(安委办字〔2005〕48号)</p><br>  <br> <br>各省、自治区、直辖市及新疆生产建设兵团安全生产委员会，国务院安全生产委员会各成员单位，各中央企业：<br><br><br>    为全面贯彻落实全国应急管理工作会议精神，按照《安全生产法》等法律法规、《国家突发公共事件总体应急预案》、《国家安全生产事故灾难应急预案》对安全生产事故应急预案制定、培训、演练、监督管理的有关规定和要求，根据国务院办公厅印发的《国务院有关部门和单位制定和修订突发公共事件应急预案框架指南》和《省（区、市）人民政府突发公共事件应急预案框架指南》，国务院有关部门、地方各级人民政府及其有关部门和生产经营单位已经或正在制定相关安全生产事故的应急预案（以下简称应急预案）。为加强对应急预案的监督管理，逐步形成“横向到边、纵向到底”的安全生产事故应急预案体系，保障安全生产事故应急救援工作高效、有序进行，现将有关事项通知如下。 <br><br>    一、按照分类管理、分级负责、属地为主的原则,国家安全监管总局负责全国应急预案的综合监督管理工作，地方各级人民政府安全监管部门负责本行政区域内应急预案的综合监督管理工作，其他有关部门在各自的职责范围内负责有关行业或领域应急预案的监督管理工作。各级煤矿安全监察机构对有关煤矿安全生产事故的应急预案依法履行监察职责。 <br><br>    各级人民政府有关部门应当在各自的职责范围内监督、指导应急预案制定、培训、演练和宣传教育等工作，协调相关应急预案的衔接关系，对应急预案所涉及的资源和保障措施的落实情况进行监督检查。 <br><br>    二、应急预案应当符合相关的法律、法规、规章和标准的要求，所规定和明确的组织、程序、资源、措施等应当具有针对性、科学性和可操作性，满足安全生产事故应急救援的需要。 <br><br>    应急预案必须经制定单位组织论证和审查，并经实施应急预案有关单位认可，由制定单位发布，印送与应急预案实施有关的单位。 <br><br>    三、国务院有关部门制定的应急预案的内容应当符合国务院的有关要求，地方各级人民政府及其有关部门制定的应急预案的内容应当符合国务院和省级人民政府的有关要求。生产经营单位制定的应急预案应当包括以下主要内容： <br><br>    （一）应急预案的适用范围； <br><br>    （二）事故可能发生的地点和可能造成的后果； <br><br>    （三）事故应急救援的组织机构及其组成单位、组成人员、职责分工； <br><br>    （四）事故报告的程序、方式和内容； <br><br>    （五）发现事故征兆或事故发生后应当采取的行动和措施； <br><br>    （六）事故应急救援（包括事故伤员救治）资源信息，包括队伍、装备、物资、专家等有关信息的情况； <br><br>    （七）事故报告及应急救援有关的具体通信联系方式； <br><br>    （八）相关的保障措施； <br><br>    （九）与相关应急预案的衔接关系； <br><br>    （十）应急预案管理的措施和要求。 <br><br>    四、各级人民政府有关部门制定的应急预案应当上报同级人民政府备案。国务院有关部门制定的应急预案应当抄送国家安全监管总局；地方人民政府制定的专项应急预案应当抄送上级人民政府安全监管部门；地方人民政府安全监管部门制定的应急预案应当报送上一级人民政府安全监管部门；地方人民政府其他有关部门制定的应急预案应当抄送同级安全监管部门和相应的上级部门。 <br><br>    五、生产经营单位所属各级单位都应当针对本单位可能发生的安全生产事故制定应急预案和有关作业岗位的应急措施。生产经营单位所属单位和部门制定的应急预案应当报经上一级管理单位审查。 <br><br>    矿山、建筑施工单位和危险化学品、烟花爆竹和民用爆破器材生产、经营、储运单位的应急预案，以及生产经营单位涉及重大危险源的应急预案，应当按照分级管理的原则报安全监管部门和有关部门备案。 <br><br>    生产经营单位涉及核、城市公用事业、道路交通、火灾、铁路、民航、水上交通、渔业船舶水上安全以及特种设备、电网安全等事故的应急预案，依据有关规定报有关部门备案，并按照分级管理的原则抄报安全监管部门。 <br><br>    六、应急预案制定单位应当对与实施应急预案有关的人员进行上岗前培训，使其熟悉相关的职责、程序，对本单位其他人员和相关群众进行培训和宣传教育，使其掌握事故发生后应当采取的自救和救援行动；要定期组织应急预案演习，并按照分级管理的原则向安全监管部门和其他有关部门提交演习的书面总结报告。生产经营单位还应当对从业人员进行岗位应急措施的培训。 <br><br>    应急预案所涉及的有关单位对应急预案中明确的与其相关的职责应当组织落实。 <br><br>    七、应急预案在相关的法律、法规、标准，适用范围、条件，有关应急资源情况，以及与相关预案的衔接关系等发生变化时，或发现存在问题时，应当及时修订。 <br><br>    八、国务院安全生产委员会成员单位和各省、自治区、直辖市及新疆生产建设兵团安全生产委员会，要采取切实措施加强本部门、本地区应急预案监督管理工作，逐步建立本地区、本部门科学、适用、系统、完整的安全生产事故应急预案体系。 <br><br>    请各省、自治区、直辖市及新疆生产建设兵团安全生产委员会办公室将此通知转发至本行政区域内各市（地）、县（市）人民政府安全生产委员会和有关部门以及各生产经营单位。 <br><br>    此通知执行中如有问题，请及时向国家安全监管总局生产安全应急救援办公室反映。<br><br>二○○五年十一月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

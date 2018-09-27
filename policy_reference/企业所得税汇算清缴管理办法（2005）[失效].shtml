@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]200号<BR>&nbsp;&nbsp;【发布日期】2005-12-15<BR>&nbsp;&nbsp;【生效日期】2006-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=20051220112928725" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>企业所得税汇算清缴管理办法<br><br></font>(国税发[2005]200号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br><br>    为加强企业所得税征收管理，进一步完善企业所得税汇算清缴工作，按照“明确主体，规范程序，优化服务，提高质量”的工作要求，现将修订的《企业所得税汇算清缴管理办法》印发给你们，请遵照执行。<br><br>                                国家税务总局<br>                          二○○五年十二月十五日<br><br><br>企业所得税汇算清缴管理办法<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强企业所得税征收管理，进一步规范企业所得税汇算清缴工作，根据《<a href=javascript:ROF(37255,0) class=alink>中华人民共和国税收征收管理法</a>》及其<a href=javascript:ROF(76889,0) class=alink>实施细则</a>（以下简称“征管法及其实施细则”）和《<a href=javascript:ROF(18558,0) class=alink>中华人民共和国企业所得税暂行条例</a>》及其<a href=javascript:ROF(18988,0) class=alink>实施细则</a>（以下简称“条例及其实施细则”）的有关规定，制定本办法。?<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  企业所得税汇算清缴，是指纳税人在纳税年度终了后4个月内，依照税收法律、法规、规章及其他有关企业所得税的规定，自行计算全年应纳税所得额和应纳所得税额，根据月度或季度预缴所得税的数额，确定该年度应补或者应退税额，并填写年度企业所得税纳税申报表，向主管税务机关办理年度企业所得税纳税申报、提供税务机关要求提供的有关资料、结清全年企业所得税税款的行为。?<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  实行查账征收和实行核定应税所得率征收企业所得税的纳税人，无论是否在减税、免税期间，也无论盈利或亏损，都应按照条例及其实施细则和本办法的有关规定进行汇算清缴。<br><br>    实行核定定额征收企业所得税的纳税人，不进行汇算清缴。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  纳税人在进行企业所得税汇算清缴时，应按照税收法律、法规和企业所得税的有关规定进行纳税调整。纳税人需要报经税务机关审核、审批的税前扣除、投资抵免、减免税等事项，应按有关规定及时办理。税务机关受理和办理纳税人企业所得税审核、审批事项，应符合有关规定。?<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  纳税人12月份或者第四季度的企业所得税预缴纳税申报，应在纳税年度终了后15日内完成。?<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  纳税人除另有规定外，应在纳税年度终了后4个月内，向主管税务机关报送《企业所得税年度纳税申报表》和税务机关要求报送的其他有关资料，办理结清税款手续。主管税务机关受理纳税人年度纳税申报时，应对企业年度纳税申报表的逻辑性和有关资料的完整性、准确性进行审核，并及时办结企业所得税多退少补或抵缴其下一年度应纳所得税款等事项。?<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  纳税人（包括汇总、合并纳税企业及成员企业）办理企业所得税年度纳税申报时，应如实填写和报送下列资料：?<br><br>    （一）企业所得税年度纳税申报表及其附表；?<br><br>    （二）企业会计报表（资产负债表、利润表、现金流量表及相关附表）、会计报表附注和财务情况说明书；?<br><br>    （事业单位为各类收支与结余情况、资产与负债情况、人员与工资情况及财政部门规定的年度会计决算应上报的其他内容）<br><br>    （三）备案事项的相关资料；?<br><br>    （四）主管税务机关要求报送的其它资料。?<br><br>    纳税人采用电子方式办理纳税申报的，应附报纸质纳税申报资料。?<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  纳税人在办理年度企业所得税纳税申报时，如委托中介机构代理纳税申报的，中介机构应当出具包括纳税调整的项目、原因、依据、计算过程、调整金额等内容的报告。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  纳税人应当根据税收法律、法规和有关税收规定正确计算应纳税所得额和应纳所得税额，如实、正确填写企业所得税纳税申报表及其附表，完整报送相关资料，并对纳税申报的真实性、准确性和完整性负法律责任。?<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>   纳税人因不可抗力，不能按期办理纳税申报的，可按照征管法及其实施细则的规定，办理延期纳税申报。?<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>   纳税人在规定的年度纳税申报期内，发现纳税申报有误的，可在年度纳税申报期内重新办理纳税申报。?<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  纳税人在纳税年度内预缴的税款少于全年应纳税额的，应在汇算清缴期限内结清应补缴的税款；预缴的税款超过全年应纳税额的，主管税务机关应及时办理退税或者抵缴其下一年度应缴纳的所得税。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  纳税人补缴税款确因特殊困难需延期缴纳的，按征管法及其实施细则的有关规定办理。?<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  纳税人在年度中间发生解散、破产、撤销情形的，应在清算前报告主管税务机关，办理当期企业所得税汇算清缴；纳税人有其他情形依法终止纳税义务的，应当在停止生产、经营之日起60日内，向主管税务机关办理当期所得税汇算清缴。?<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  经批准实行汇总或合并申报缴纳企业所得税的总机构或集团母公司（以下简称汇缴企业），应在汇算清缴期限内，向所在地主管税务机关报送汇总各成员企业的《企业所得税年度纳税申报表》、本办法第七条所规定的有关资料及各个成员企业的《企业所得税年度纳税申报表》，统一办理汇缴企业及其成员企业的企业所得税汇算清缴。?<br><br>    汇缴企业应根据汇算清缴的期限要求，对各个成员企业规定向汇缴企业报送本办法第七条所规定的有关资料的期限。成员企业向汇缴企业报送的上述资料，必须经成员企业的主管税务机关审核。?<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  纳税人未按规定期限进行汇算清缴和与税务机关在纳税上发生争议，按征管法及其实施细则的有关规定办理。?<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  各级税务机关要结合当地实际，对每一纳税年度的汇算清缴工作进行统一安排和组织部署。税务机关内部各职能部门应充分协调和配合，共同做好汇算清缴的管理工作。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  各级税务机关要在汇算清缴开始之前和汇算清缴期间，为纳税人提供优质服务。应通过多种形式进行企业所得税的政策宣传，使纳税人了解企业所得税的政策规定，特别是了解当年出台的新政策和涉及纳税调整的政策；应通过各种途径向纳税人说明汇算清缴的工作程序和要求。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  汇算清缴工作结束后，税务机关应组织开展企业所得税纳税评估和检查。纳税评估的对象、内容、方法、程序等按照国家税务总局的有关规定执行。?<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  汇算清缴工作结束后，各级税务机关应认真总结，写出书面报告逐级上报。各省、自治区、直辖市、计划单列市国家税务局和地方税务局，应在每年7月底前将汇算清缴工作总结报告、年度企业所得税税源报表报送国家税务总局（所得税管理司）。总结报告的内容应包括：?<br><br>    （一）汇算清缴工作的基本情况；?<br><br>    （二）企业所得税税源结构的分布情况；?<br><br>    （三）企业所得税收入增减变化及原因；?<br><br>    （四）企业所得税政策的贯彻落实情况及存在问题；?<br><br>    （五）企业所得税管理的工作经验、问题及建议。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  各省、自治区、直辖市和计划单列市国家税务局、地方税务局可根据本办法制定具体实施办法。?<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>   本办法自2006年1月1日起执行。《<a href=javascript:ROF(31412,0) class=alink>国家税务总局关于印发〈企业所得税汇算清缴管理办法〉的通知</a>》（国税发〔1998〕182号）同时废止。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

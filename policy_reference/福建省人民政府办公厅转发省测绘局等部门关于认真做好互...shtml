@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办〔2008〕214 号<BR>&nbsp;&nbsp;【发布日期】2008-12-18<BR>&nbsp;&nbsp;【生效日期】2008-12-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200812/t20081229_105676.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅转发省测绘局等部门关于认真做好互联网地图和地理信息服务网站监管工作实施意见的通知<br><br></font>(闽政办〔2008〕214 号)</p><br>    <br><br>各市、县（区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：<br><br>    经省政府研究同意，现将省测绘局等部门制定的《关于认真做好互联网地图和地理信息服务网站监管工作的实施意见》转发给你们，请认真贯彻执行。<br><br>    二○○八年十二月十八日<br><br> <br>    关于认真做好互联网地图和地理信息服务<br><br>    网站监管工作的实施意见<br><br>    省测绘局  省政府外事办  省公安厅<br><br>    省信息产业厅  省通信管理局  省工商局<br><br>    省新闻出版局  省政府新闻办  省保密局<br><br>    （二○○八年十一月）<br><br>    为贯彻落实国家测绘局等九部门《关于加强互联网地图和地理信息服务网站监管的意见》（国测图字〔2008〕1号），加强互联网地图和地理信息服务网站监督管理，维护国家利益，促进和谐网络和地理信息产业的健康发展，现提出以下实施意见：<br><br>    一、提高认识，进一步增强责任感和使命感<br><br>    互联网地图作为地理信息的重要载体，是国家版图的主要表现形式之一，体现着一个国家在主权方面的意志和在国际社会中的政治、外交立场，具有严密的科学性、严肃的政治性和严格的法定性。近年来，互联网信息服务发展迅速，地图信息不断增加，在推进国家、我省信息化建设方面发挥了积极的作用。但一些单位未经批准，违反国家法律法规，擅自提供互联网地图和地理信息服务，发布错误的国家版图；一些单位在互联网地图上擅自标注、加载、上传重要地理信息数据，给国家安全造成隐患；一些单位不具地图编制资质、侵权盗版、非法编制、粗制滥造国家版图。这些违法违规行为，不仅损害消费者的利益，而且损害国家利益、民族尊严，甚至可能造成极为恶劣的政治影响。各级政府相关部门要从维护国家主权、民族尊严和人民群众切身利益的高度，充分认识加强互联网地图和地理信息服务网站监管工作的重要性，进一步规范互联网地图编制、出版、登载和上传地理信息的行为，深入开展国家版图意识和安全保密意识的宣传教育活动，杜绝损害国家主权、安全和民族尊严的“问题地图”在互联网上传播。<br><br>    二、严格市场准入，确保监管到位<br><br>    互联网地图是一种特殊的地图产品，从事互联网地图和地理信息服务活动必须遵守国家法律法规的规定。从事互联网地图编制活动，必须经国务院测绘行政主管部门审批，并取得相应的测绘资质证书。从事互联网地图出版活动，应经国务院新闻出版部门审批，并取得互联网出版许可证。外国的组织或者个人不得在我国境内从事互联网地图编制和出版活动。<br><br>    互联网地图在登载、出版前，应当报国务院测绘行政主管部门或省测绘主管部门审核；从事互联网地图和地理信息服务的，应当依法向信息产业（通信）主管部门申请办理互联网信息服务经营许可证或者履行备案手续。任何单位和个人不得在互联网上擅自公布重要地理信息数据。在互联网上需要使用重要地理信息数据的，应当使用依法公布的重要地理信息数据。利用涉及国家秘密的测绘成果开发生产互联网地图和提供地理信息服务，必须先经国家测绘局或者省测绘局进行保密技术处理。<br><br>    三、落实职责分工，提高监管力度<br><br>    （一）测绘主管部门要加强互联网地图编制资质的管理，严格互联网地图登载、出版前的审核，加强对网上地图的跟踪监督，发现有违规的网上地图，要保存网页，记录网址，通知有关网站及时更正，并与有关部门配合，依法查处，坚决制止涉密地图、高精度坐标成果及重要地形地物属性等通过网络扩散。要加快地理信息公共服务平台建设，积极研制公众版数字化地图产品，促进测绘成果的社会化应用。<br><br>    （二）新闻出版行政部门要加强互联网地图出版管理，严格执行互联网地图出版管理的有关规定，对违反国家出版法规的互联网地图出版行为依法进行查处。<br><br>    （三）工商行政管理部门在受理互联网地图和地理信息服务网站（企业）登记注册时，要查验是否取得了测绘行政主管部门颁发的相应测绘资质证书和新闻出版行政部门颁发的具有互联网地图出版业务的互联网出版许可证。<br><br>    （四）保密部门要加强对互联网地图和地理信息安全保密工作的指导，会同有关部门严肃查处泄露国家秘密的违法违规行为。公安部门要按照职能分工，协助负责相关工作。<br><br>    （五）通信管理部门要协助配合有关主管部门加强对互联网地图和地理信息服务网站的监管。对危害国家主权、安全和利益的互联网地图和地理信息服务网站，通信管理部门要根据相关主管部门通报的有关关闭网站的行政处罚决定，依法通知互联网接入服务提供者停止为其网站提供接入服务。<br><br>    （六）外事、新闻主管部门，在对外交往、新闻发布、传播过程中，要强化新闻媒体和其他宣传媒介的示范、导向作用，积极在全社会开展网络地图与地理信息安全普及教育，努力提高全民的网络地图与地理信息安全防护意识，自觉维护国家安全。<br><br>    四、开展专项整治，严肃查处违法违规行为<br><br>    各有关部门要着力开展对互联网地图的专项整治，规范互联网地图和地理信息服务活动，并强化日常监管。各地区要根据本地实际情况，对本行政区域内的互联网地图和地理信息服务网站进行全面、彻底的检查。<br><br>    （一）依法查处存在损害国家主权、安全和民族尊严的“问题地图”。重点是违反“一个中国”原则把我国台湾省按国家表示，错绘我国国界线、漏绘南海诸岛、钓鱼岛、赤尾屿等重要岛屿的地图和标注有涉及国家秘密地理坐标数据和属性内容的地图。<br><br>    （二）依法查处互联网地图未经测绘主管部门审核批准擅自登载的行为。重点是利用涉及国家秘密的测绘成果开发生产的地图，未经国务院或省测绘主管部门进行保密技术处理和审核批准在互联网上登载的行为。<br><br>    （三）依法查处互联网地图和地理信息服务网站违法违规行为。重点是未依法向信息产业（通信）部门办理互联网信息服务经营许可或履行备案手续，从事互联网地图和地理信息服务的行为。<br><br>    （四）依法查处违法编制互联网地图的行为。重点是未取得国务院或省测绘主管部门颁发的地图编制测绘资质证书，从事编制互联网地图的行为；外国的组织或者个人在我国境内从事互联网地图编制的行为。<br><br>    （五）依法查处互联网地图违法出版行为。重点是未取得新闻出版行政部门颁发的具有互联网地图出版服务范围的互联网出版许可证，从事互联网地图出版服务的行为。<br><br>    （六）对登载有违反“一个中国”原则等“问题地图”的有关责任单位、个人要依法进行查处，限期纠正；对涉嫌泄露国家秘密的地图网站要依法予以关闭。对未经国务院或省级测绘主管部门审核批准的互联网地图，应在指定期限内依法履行审批手续，否则一律不得登载和转发。对未经许可或备案的网站，互联网接入服务提供者应终止或暂停对其提供接入服务。对未经测绘主管部门和新闻出版行政部门审批，擅自从事互联网地图编制活动和出版服务的经营主体，要一律停止互联网地图编制活动和出版服务。<br><br>    五、广泛宣传教育，加快网络文化建设<br><br>    各地、各有关部门要在继续深入开展国家版图意识宣传教育的同时，按照国务院新闻办公室、国家测绘局《关于加强网上地理信息安全教育增强网民保密意识的意见》（国新办发文〔2007〕3号）的要求，组织开展有关地理信息网上安全政策法规宣传教育活动，进一步增强网民的保密意识和保密观念。加强网络信息安全的宣传教育工作，积极组织国家版图和网络信息安全知识培训，采取多种形式，广泛深入地宣传地图管理、保密等法律法规。教育网站经营者依法文明办网，教育公民不向互联网上传不宜公开的地理信息。引导互联网地图和地理信息服务行业加强自律，强化网站经营者的信息安全意识和社会责任感。建立举报奖励制度，鼓励广大人民群众积极举报违法违规互联网地图和地理信息泄密案件，发挥公众参与和社会监督作用。<br><br>    依法从事互联网地图和地理信息服务的企业要严格自律，禁止传输、标注、发布危害国家主权和领土完整的“问题地图”和可能危害国家安全的地理信息。<br><br>    六、健全工作机制，加强工作指导<br><br>    互联网地图和地理信息服务网站监管政治性强，涉及部门多，各有关部门要加强组织协调，进一步建立健全地图市场的联动机制。要加强工作指导，定期对工作情况进行督促检查。各地要着力建立完善长效机制，强化安全保密措施，规范互联网地图登载、出版和地理信息网站提供服务行为，促进和谐网络建设和地理信息产业的繁荣发展。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

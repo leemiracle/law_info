@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】税函[2004]66号<BR>&nbsp;&nbsp;【发布日期】2004-01-16<BR>&nbsp;&nbsp;【生效日期】2004-01-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="" target=_blank> </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于2003年度外商投资企业和<br>外国企业所得税汇算清缴工作有关问题的通知<br><br></font>(税函[2004]66号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局，深圳市地方税务局，扬州税务进修学院：<br><br>    为做好2003年度外商投资企业和外国企业（以下简称企业）所得税汇算清缴工作，现就有关问题通知如下：<br><br>    一、确保新修订的企业所得税申报表（以下简称新申报表）填报工作顺利运转。各地要按照《国家税务总局关于印发修订后的〈外商投资企业和外国企业所得税申报表〉的通知》（国税函〔2004〕54 号）的要求，确保2003年度涉外企业所得税年度申报使用新申报表。为此，一要将新申报表修改的主要精神和表样及时告知基层税务机关和企业；二要组织基层税务机关和从事涉外企业所得税汇算清缴工作的同志认真学习，掌握新申报表的填报说明尤其是其间逻辑关系；三要加强对企业的辅导，确保其正确填报新申报表。<br><br>    二、强化业务培训和纳税服务。提高征纳双方有关人员的业务素质，是确保汇算清缴工作有序、高效进行的基石。为此，对内要强化对税务干部的业务培训，主要是针对新申报表、汇缴管理办法及工作规程、汇缴工作涉及的税收政策、税法与新企业会计制度差异、历年汇缴工作存在的问题等内容对税务干部进行业务培训；对外要继续加强对企业的纳税宣传和辅导，注重向企业提供更具针对性和专业化的纳税服务，采取集中培训、重点辅导、网上讲解等多种形式，从新申报表填写方法、报表间勾稽关系、软件应用、税务审批事项、涉外税收政策等方面对中介机构和企业进行辅导。<br><br>    三、加强对企业申报资料的审核。加强对企业申报资料的审核，是确保汇算清缴数据准确性的关键。为此，一要重点审核申报表项目之间的逻辑关系和纳税调整项目。要按照税法规定对企业填报的申报表的准确性、真实性和合法性进行认真审核，及时调整企业不应在税前列支的项目；二要在注重减轻企业负担的同时，严格审核企业税前扣除审批项目。对于企业报送的税前扣除项目申请的审批，凡税务机关内部已有的资料，不得要求企业重复报送，加快审批速度，注重提高行政效率；同时要对报送资料的完整性、真实性和规范性进行严格审核，不得擅自批准不符合政策规定的税前扣除项目，并做好对企业的政策解释工作。<br><br>    四、继续加大对亏损企业的审核力度。近年来，企业亏损面一直居高不下，已引起各级领导的高度重视。为此，各地要把亏损企业作为汇算清缴审核的重点，对亏损年度的亏损额全部进行审核确认，并建立台帐进行跟踪管理，尤其要重点解剖连续亏损三年以上和近两个年度内盈亏转化变动较大的企业。要通过对亏损企业经营情况和会计核算情况的调查、分析，了解掌握企业亏损的真实原因。<br><br>    五、严格预缴制度。在2002年度汇算清缴工作中，个别省市以减轻纳税人负担为名，允许企业将第四季度企业所得税预缴与年终税款结算一并申报，违背了企业所得税“按季预缴、年终汇算清缴、多退少补”的原则，削弱了税法的严肃性。为此，各级税务机关必须严格执法，督促企业必须分四个季度预缴企业所得税。凡A类申报企业年终税款结算预缴率低于90%的省市，必须在汇算清缴工作报告中说明原因。<br><br>    六、做好汇缴软件升级及运用工作。由于自2002年度起国家采用新的国民经济行业分类代码（GB/T 4754?2002），总局据此并结合申报表修订对汇算清缴软件进行适当修改，请各地做好软件的升级和运用工作，并将运行中的问题及时向总局（国际税务司）反馈。新申报表软件和汇算清缴升级软件的网址为：http://www.taxcn.net或ftp://130.9.1.1/local/国际司。<br><br> <br>国家税务总局            <br>二○○四年一月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈信联[2004]2号<BR>&nbsp;&nbsp;【发布日期】2004-04-15<BR>&nbsp;&nbsp;【生效日期】2004-04-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=968" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于加强市政府各部门网站建设的指导意见<br><br></font>(哈信联[2004]2号)</p> <br><br> <br>    为了加强市政府各部门公众信息网站（以下简称政府部门网站）建设，适应市政府政务公开、职能转变和为社会服务的需要，根据市政府电子政务建设规划、《哈尔滨市政务公开规定》和《哈尔滨市公众信息网网站暂行管理办法》，现对各部门网站建设提出如下指导意见。 <br><br>    一、我市政府部门网站建设现状 <br><br>    近几年，在市政府电子政务建设规划指导下，市政府各部门网站建设有了很大发展，特别是近两年，各部门重视和加强了网站工作，政府部门网站由二十几个增加到目前的54个，各区县（市）政府也普遍建立了公众信息网站，使我市政府公众信息网面貌有了很大改善，在我市政府政务公开和职能转变中，发挥着日益重要的作用。但是，总体上看，政府各部门网站建设和发展还很不平衡。根据第二届哈尔滨市政府公众信息网最佳网站评选，公众和专家对各网站的测评，各部门网站大体可以分为三种类型： <br><br>    优秀网站。网站结构、页面布局合理有序，栏目设置规范；各类信息全面、准确，查询方便；网上办公事项全面，管理规范，初步具备交互功能。此类网站约占总数的三成。例如市人事局、财政局、信息产业局、劳动和社会保障局、开发区等部门网站。较好网站。网站结构、页面布局比较合理，栏目设置基本齐全；信息发布比较全面、及时；网上办公事项基本齐全，交互性较差（单向互动）。此类网站约占总数的三成。较差网站。网站结构简单，页面布局和栏目设置不够完整合理；信息不全面，更新不及时；不具备网上办事功功能。此类网站约占总数的四成。 <br><br>    部分部门网站存在的主要问题，一是网站结构简陋，页面布局无序、制作粗糙；二是栏目设置不合理、不规范，定义不统一，无关栏目、虚设栏目和缺设栏目问题并存；三是信息发布不全面，随意性强，政策法规信息不完整，审批和服务事项不规范，动态信息时效性差，文体不规范，文字质量差；四是网上直接办事功能差，有的不具备基本的查询服务功能；五是网站技术支持不足，工作人员不适应；六是管理制度不完善，不落实，运行维护无保障。政府部门网站存在的这些问题，影响了政务公开和为企业、为公众服务，必须认真加以解决。 <br><br>    二、政府部门网站建设的目标和要求 <br><br>    根据我市电子政务建设和政务公开的要求，市政府部门网站应该建设成为该部门“政务公开的喉舌，政策咨询的向导，公众办事的平台，社会监督的窗口”。市政府部门网站建设要贯彻国家和省、市关于电子政务、政务公开和互联网管理的有关法律规定，要根据全市电子政务建设的总体规划进行，坚持“以用户为中心，以需求为导向”的宗旨，实行统专兼顾、以人为本、双向服务、互联互通的原则。2004年，对政府部门网站建设总的要求是：通过调整、修改、完善或重建网站，改善网站结构，规范栏目设置，完善政务信息，提高时效性，强化在线服务功能，使优秀网站比例达到60%以上，基本消灭较差网站。 <br><br>    加强政府部门网站建设的要求： <br><br>    1、改善结构和布局。要合理确定网站结构和首页布局，根据需要设置界面、功能和栏目。从首页到末页，一般以三层界面为宜。要简化界面链接，强化导航服务，工作关系密切的网站要实现互联互通。要按统一要求设网站标识和名称（哈尔滨市XX局（委员会、办公室）。各级页面宽度设置以屏幕本宽为限。标题、正文的字体、字号、颜色、行距、行长要符合人的阅读习惯和需要（可参照《中国&#8226;哈尔滨》网站）。 <br><br>    2、规范栏目设置。栏目设置要合理有序，风格统一。一级栏目要在网头之下横排，重要栏目必须在首页显示，以主次为序排列。统一栏目作为必设栏目要按统一要求设置，按规定定义填加信息；专业栏目由各部门根据部门（行业）工作需要设置，要体现部门和行业特点。按要求缺少的栏目要增加，虚设栏目、与部门工作无关的栏目，要予以删除或整合。 <br><br>    3、提高信息质量。认真贯彻《哈尔滨市政务公开规定》，第八条规定的13类政务事项，应全部上网发布。各类信息发布，要做到内容全面、完整、及时，文体规范、内容适当、时效性强。政策法规等规范性文件要按国家、省、市分类排列；动态类信息要以反映本部门（行业）工作情况为主，每月发布20条以上，并注明发布日期；服务类信息（行政许可事项、行政服务事项）要按市编委确定的部门职能发布，不得擅自增加或减少。每个事项都必须做到内容准确、完整（许可项目名称、依据、条件，办理程序、收费依据及标准、办理时限）。 <br><br>    4、强化在线服务。实现在线互动式服务，是政府部门网站建设应用的发展方向。要根据行政审批改革进程，积极创造条件，加快推进网上办公。“窗口”部门网站所有行政许可事项今年要争取实现网上办理；“非窗口”部门网站在目前仅有表格下载的基础上，实现在线申报、反馈和查询功能，部分事项争取实现在线办理（此项功能作为今后网站评比的重要条件）。网上咨询、监督举报信箱和来信回复，要实现在线回复等互动式服务。 <br><br>    5、完善管理制度。政府部门网站的正常运行，要靠健全有效的制度保证。要建立健全网站建设、管理、运行、维护等各方面管理制度，包括：岗位责任制度、信息发布制度（采集、编辑、审查、发布）、在线办公（申报、审批、查询、反馈）制度、公众意见（建议、举报）办理制度、互动栏目管理制度、软件和设备维护制度、网络安全制度等。要根据制度落实责任，确保网站工作顺利进行。 <br><br>    三、加强对政府部门网站建设的组织领导 <br><br>    1、加强学习，提高认识。政府部门网站是政府部门实行政务公开的主要媒体。2004年末，市政府发布了《哈尔滨市政务公开规定》（市政府令第104号）、《哈尔滨市行政效能监察规定》（市政府令第102号）、《哈尔滨市行政机关实施行政许可监督规定》（市政府令第103号）、《哈尔滨市行政执法监督规定》（市政府令第107号）、《哈尔滨市行政执法投诉办法》（市政府令第106号）等5个文件，是我市贯彻落实《行政许可法》，推进政务公开的重要政府规章。各部门要结合贯彻实施《行政许可法》，认真学习贯彻落实《哈尔滨市政务公开规定》等5个文件，提高实行政务公开，推进电子政务建设重大意义的认识，增强网站建设的主动性和自觉性。 <br><br>    2、确定目标，加快推进。认真分析本部门网站现状，实事求是地确定工作内容和目标，是搞好网站建设的前提。政府各部门主要领导要把电子政务建设作为“一把手工程”，加强领导，明确目标，加大投入，加快推进。要落实机构、配备人员，定职定责，把网站建设和管理的各项工作落到实处。除了需要跟随行政审批改革确定的审批事项和在线办公事项外，各类网站的调整、修改、完善、重建，要制定计划（4月中旬前上报市信息产业局），并在6月末以前完成。 <br><br>    3、检查验收，加强考核。各部门网站调整、修改完成后，市政府新闻办公室、市信息产业局将组织检查验收，并在《中国&#8226;哈尔滨》网站公布。市政府政务公开办公室将继续把各部门网站建设作为政府年度工作目标，纳入目标管理体系，进行管理和考核。 <br><br>    4、学习交流，开展培训。我市财政局、人事局、劳动和社会保障局、信息产业局等政府部门网站比较规范、实用，可供各部门参考。各部门贯彻上述各项要求，可结合学习借鉴这些网站的经验、做法，提高办网质量。市信息产业局将在适当时候组织各部门就网站建设交流经验，进行技术、业务培训，以适应网站建设和发展的需要。 <br><br>    各区、县（市）政府门户网站的建设、管理工作，可根据《哈尔滨市公众信息网网站暂行管理办法》，参照本文件的有关原则和要求，组织实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

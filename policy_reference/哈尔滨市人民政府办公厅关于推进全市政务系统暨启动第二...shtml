@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈政办综〔2007〕42号<BR>&nbsp;&nbsp;【发布日期】2007-06-14<BR>&nbsp;&nbsp;【生效日期】2007-06-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=1513" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>哈尔滨市人民政府办公厅关于推进全市政务系统暨启动第二批市直及相关单位公文无纸化传输工作有关事宜的通知 <br><br></font>(哈政办综〔2007〕42号)</p> <br><br><br>    各区、县（市）人民政府，市政府各委、办、局，各有关单位：? <br><br>    按照《哈尔滨市人民政府办公厅关于印发全市政务系统公文无纸化传输实施方案的通知》（哈政办综〔2002〕87号）和《哈尔滨市人民政府办公厅关于转发哈尔滨市第二批市直及有关单位公文无纸化传输实施方案的通知》（哈政办综〔2006〕24号）等文件要求，我市从2003年起，在全市开展了公文无纸化传输系统建设工作，并于2005年4月1日开始系统试运行，从2006年4月1日起，实现了市政府与各区、县（市）人民政府，市政府各委、办、局等87个节点单位的电子公文双向传输。这项工作的开展，有效推动了全市电子政务建设，大大提高了政务办公效率，明显降低了行政成本。为进一步扩大公文无纸化传输的覆盖面，加快全市电子政务建设步伐，经市政府同意，现就推进全市政务系统暨启动第二批市直及相关单位公文无纸化传输工作有关事宜通知如下：? <br>   <br>    一、关于运行方式? <br>   <br>    （一）启动第二批节点单位和议事协调（临时）机构的双向传输电子公文工作。  从2007年7月1日起，市政府及市政府办公厅将通过哈尔滨市公文无纸化传输系统向第二批公文无纸化传输节点单位（以下简称"第二批节点单位"）和议事协调（临时）机构传输非密级电子公文，不再下发纸质公文，同时不再受理第二批节点单位和议事协调（临时）机构上报的非密级纸质公文；第二批节点单位和各议事协调（临时）机构办公室要认真搞好电子公文的接收工作，并搞好向市政府和市政府办公厅电子公文的传输工作。? <br>   <br>    （二）启动各单位之间横向传输电子公文。  第二批节点单位双向传输启动后，公文无纸化传输系统具备了市政府与各区、县（市）人民政府，市政府各部门（包括市政府各驻外办事处）和各有关企事业单位等共计130个单位之间横向双向传输电子公文的条件。各单位应从2007年7月1日起，积极应用该系统传输电子公文。? <br>   <br>    二、关于制作电子公章相关事宜? <br>   <br>    第二批节点单位须持本单位介绍信及本单位行政公章印模（将公章清晰地加盖在白纸上），制作电子公章；议事协调（临时）机构须由本机构办公室所在的单位持本单位介绍信、市机构编制委员会办公室关于成立该议事协调（临时）机构的批复及该机构公章印模，制作电子公章。? <br><br>    各有关单位可于2007年6月26日至6月29日，到市政府办公厅秘书处（2407室）制作电子公章。? <br><br>    联系人：办公厅秘书处陈佩华、赵一九，电话：84664056、84664803；市政府计算机网络管理服务中心张晓多、曲绍辉，电话：84664026、86778026。? <br>   <br>    三、有关要求? <br>   <br>    （一）积极应用，严格考核? <br>   <br>    各部门和单位主要领导要高度重视公文无纸化传输工作，认真搞好其建设及应用。市政府办公厅将会同市信息产业局等有关部门定期检查系统的应用情况，并对具备系统传输条件但仍通过机要交换、邮寄等方式传递公文的单位进行通报批评。? <br>   <br>    （二）切实加强系统管理? <br>   <br>    各部门和单位要认真执行《哈尔滨市政务系统电子公文传输管理暂行办法》（哈政办综〔2006〕65号），严格管理系统所有软硬件设备，做到专机专用，专人负责，及时上网查看、接收电子公文。在工作时间内，必须保证每小时上网查看、接收一次电子公文，做到及时接收、及时办理，不得迟误。发现未正常接收、办理且迟误工作的，要在全市进行通报批评，并追究有关人员的责任。? <br>   <br>    （三）严格电子公章管理? <br>   <br>    电子公章要存储在专用移动存储介质上，决不允许存储在计算机硬盘上，并按实物印章管理规定管理。若因机构变更、撤销或合并造成电子印章作废、损坏、丢失等，需要重新制作电子印章的，须由本单位出具证明，并向市政府办公厅提交电子印章制作申请，经批准后方可制作，原电子印章交由市政府办公厅销毁。? <br>   <br>    （四）规范进行电子公文传输? <br>   <br>    1.关于电子公文传输格式。文件正文及附件均应为电子格式进行传输。如有纸质文件，需扫描成JPG格式文件，与正文共同制作成同一个SEP文件通过该系统传输。如附件为竖版表格，应与正文共同制作成同一个SEP文件；如为横版表格，须在发文登记单备注栏中注明附件名称，以附件形式传输。特殊格式的公文，若幅面大于A4文件（如规划图纸、影像材料等）不便于电子传输的，仍可采用纸质文件报送。? <br><br>    2.电子公文的登记。系统公文登记单中文件标题、正文文件名称要与公文正文标题保持一致，不能使用非标准字符，标点符号必须用半角。? <br><br>    3.电子公文传输的内容。公文无纸化传输系统只允许传输非密级公文，涉密文件不得通过该系统传输。? <br><br>    特此通知。????? <br><br>    哈尔滨市人民政府办公厅 <br><br>    二○○七年六月十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

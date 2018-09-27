@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改产业[2006]1532号<BR>&nbsp;&nbsp;【发布日期】2006-07-28<BR>&nbsp;&nbsp;【生效日期】2006-07-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20060803_79030.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于完善车辆生产企业及产品公告管理有关事项的通知<br><br></font>(发改产业[2006]1532号)</p><br><br><br>各省、自治区、直辖市发展改革委、经贸委（经委），新疆生产建设兵团发展改革委、经贸委，有关中央企业：<br>    为加强车辆生产企业及产品管理工作，进一步完善车辆生产企业及产品申报管理，提高《车辆生产企业及产品公告》（以下简称《公告》）审查工作的规范性和科学性，经研究，我委对《公告》管理流程进行适当调整，加强生产一致性管理。现将有关事项通知如下：<br>    一、关于《公告》管理流程的调整<br>    （一）申报<br>    已获得道路机动车辆生产资格的企业，可以通过国家发展改革委指定的网络系统申报车辆新产品、产品扩展、产品变更、产品勘误和产品撤销。<br>    车辆新产品是指新设计的全新产品或改进型产品；产品扩展是指车辆产品在不改变其基本特征和产品型号的状况下，增加或减少某些配置（或参数）；产品变更是指车辆产品在不改变其基本特征和产品型号的状况下，替换某些配置（或参数）；产品勘误是指车辆产品在申报环节中，由于疏忽造成参数填报错误或漏报需要进行更正；产品撤销是指企业不再生产主动撤销的产品、不符合国家实施新标准、规定强制撤销的产品。<br>    申报新产品、产品扩展、产品变更时应当报送《车辆产品主要技术参数和主要配置备案表》（以下简称《备案表》，见附件一）和《车辆产品强制性检验项目检验方案表》（以下简称《检验方案表》，见附件二）。<br>    申报产品勘误，应当说明勘误理由并同时上报书面申请和相应的证明材料。对于《公告》技术参数（详见附件一）只允许勘误一次。<br>在申报产品扩展、产品变更或产品勘误时，同一型号的车辆产品在审查周期（指从申报到《公告》公布周期）内只允许选择其中之一申报。<br>    （二）资料受理<br>    国家发展改革委指定的中介机构（以下简称中介机构）应在5个工作日内，对企业上报的资料进行审查，企业申报资料完整的，应予以受理，并通知企业；资料不完整的，不予受理，并通知企业。<br>    （三）试验方案确定及车辆识别代号审查<br>    中介机构受理企业的申报资料后，应在10个工作日内审查确定产品试验方案并进行车辆识别代号（以下简称VIN）审查，出具VIN审查报告。必要时，应与企业充分沟通后再予确定试验方案（沟通及补充材料的时间不计算在本期限内）。<br>    企业和检验机构可通过网络下载审查后确定的试验方案、VIN审查报告及有关资料。<br>    （四）产品检验<br>    检验机构按照《备案表》进行样品主要配置（或参数）的核定，并按照中介机构确定的《检验方案表》进行强制性检验项目检验，同时按照车辆有关定型试验规程，确定定型试验方案并进行试验。检验和试验报告通过网络及时反馈给中介机构。<br>    （五）技术审查<br>    中介机构负责组织专家进行产品技术审查，应在收到全部申报资料后尽快完成审查工作，并将该月审查结果于下月初报送国家发展改革委。<br>    （六）批准<br>    国家发展改革委对中介机构的审查结果进行审核，并在政府网站（www.ndrc.gov.cn）上公示。先行对载货类汽车及专用汽车产品进行公示，再逐步扩大到其他类车型。对于符合要求的产品予以批准，登录《公告》。<br>    企业对上述管理程序中各环节的结果有异议时，可提出申诉。对于审核和公示中发现的问题，国家发展改革委可组织或指派中介机构对有关情况进行核查，包括必要时对企业及检验机构进行现场核查。<br>    （七）产品有效期限<br>    产品有效期限是指车辆产品从《公告》公布之日起至《公告》公布撤销之日止。在此有效期内，车辆产品为国家批准的产品，企业应当完成产品出厂检验、签发产品合格证、销售等手续。<br>    车辆新产品、产品扩展和产品变更经批准后，企业应当按照《公告》公布车型及相关国家标准进行检验，经出厂检验合格并发放产品合格证的产品，方可进行销售（即产品出厂检验及签发合格证日期应当在《公告》公布日期之后）。允许企业在新产品、产品扩展和产品变更批准前进行试生产（即试制产品日期可先于《公告》公布之前）。<br>    产品变更经批准后，给予一定的过渡期销售库存及在产的原参数产品（指按照原《公告》内产品参数生产的产品），过渡期一般为6个月，经国家发展改革委同意，可延长或缩短过渡期。超过产品过渡期后，按照原《公告》内产品参数生产的产品不得再进行生产、销售。经批准产品变更的同一型号产品，在过渡期内不得再次申报产品变更。<br>    产品撤销的，在《公告》规定的期限内有效。<br>    二、关于产品备案资料的要求<br>    《备案表》分为汽车及挂车、摩托车、三轮汽车和低速货车三个产品类别，填报内容主要包括：《公告》公布的有关参数、整车产品技术参数、发动机及主要配置状态、变速装置等总成、制动、转向和降噪系统、灯具、车身附件、新型动力车辆产品、产品照片及主要结构的资料等要求。<br>    《备案表》内的有关资料或技术参数发生变化时，应及时申报。属于《公告》技术参数（见附件一）发生变化的，应当在获得批准后方可组织批量生产；其他配置（或参数）发生变化的，可在3个月内更新备案，并提供相应的证明资料。<br>    在《备案表》中有关发动机及主要配置状态参数（指标注“<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

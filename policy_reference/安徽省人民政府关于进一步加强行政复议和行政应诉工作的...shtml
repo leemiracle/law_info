@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政〔2007〕35号<BR>&nbsp;&nbsp;【发布日期】2007-03-20<BR>&nbsp;&nbsp;【生效日期】2007-03-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4069" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于进一步加强行政复议和行政应诉工作的意见<br><br></font>(皖政〔2007〕35号)</p><br><br> <br>    各市、县人民政府，省政府各部门、各直属机构：<br>      当前，我国已进入改革发展的关键时期，这一时期，既是经济社会发展的战略机遇期，也是社会矛盾的多发期。许多矛盾以行政争议的形式反映出来，行政争议呈增多趋势。行政复议和行政诉讼是将解决群众利益诉求纳入制度化、规范化、法制化轨道的重要制度，是有效解决行政争议、化解社会矛盾的法定机制。各级行政机关要把加强行政复议和行政应诉工作，增强解决行政争议的能力作为促进行政机关职能转变的重要内容，充分发挥其在化解社会矛盾、促进社会和谐稳定中的重要作用。为推进法治政府建设，不断提高依法行政能力和行政执法水平，现就进一步加强行政复议和行政应诉工作，提出如下意见：<br>    <br>    一、建立和完善行政复议工作行政首长负责制<br>    行政复议工作是政府工作的重要组成部分，是全面推进依法行政的重要内容，是加快建设法治政府、构建和谐社会的重要环节。各级行政机关要切实依法履行行政复议职责，积极受理行政复议申请，认真办理行政复议案件，及时提供当初作出具体行政行为的证据、依据和其他有关材料。要进一步规范行政复议程序，积极探索符合行政复议工作特点的机制和方法。行政机关主要负责同志要高度重视行政复议工作，无论本机关作为行政复议机关还是作为行政复议被申请人，都要亲自听取汇报，研究案情，严格审查把关，对重大复杂案件要亲自督办处理。<br>    县级以上人民政府作为行政复议机关的，行政复议工作由本级政府法制工作部门承担。对决定撤销、变更、确认违法、责令履行法定职责的行政复议案件，由政府法制工作部门提出意见，行政复议决定书由政府主要负责同志或分管负责同志审签；对作出维持决定的行政复议决定书和其他行政复议文书，授权政府法制工作部门主要负责同志审签。县级以上人民政府作为行政复议被申请人的，行政复议答复书由政府主要负责同志或分管负责同志审签，答辩工作由本级政府法制工作部门主办，承办原具体行政行为的政府工作部门协办。<br>    县级以上人民政府工作部门作为行政复议机关的，行政复议工作由其法制工作机构承担。行政复议决定由法制工作机构提出意见后报本部门领导集体研究，行政复议决定书由主要负责同志审签；其他行政复议文书，由分管负责同志审签。以政府工作部门或法律、法规授权的组织作为行政复议被申请人的案件，行政复议答复书由该部门或组织主要负责同志或分管负责同志审签，答辩工作由该部门或组织的法制工作机构承办。<br>    建立行政复议案件公开听证制度。对重大复杂、群众关注的复议案件，行政复议机关要举行听证会，当面核实案情，增强行政复议的透明度和公信力，提高行政复议的质量和效率，作为被申请人单位的主要负责同志或分管负责同志应积极参加听证会。建立行政复议案件专家论证制度。行政复议机关在办理重大复杂及集团行政复议案件时，可召开论证会，邀请相关专家对案情进行分析讨论，确保案件得到正确处理，提高案件办理质量，充分发挥行政复议定纷止争的作用。建立行政复议案件办理情况报告制度，政府法制工作部门和政府部门法制工作机构要定期将行政复议案件的办理情况向本级政府和本部门报告；重大、复杂及集团行政复议案件要根据需要随时报告。<br>    行政复议机关在办理行政复议案件时，对行政执法中存在的主要问题，可以下达行政复议建议书，提出整改意见。<br>    <br>    二、切实做好行政诉讼案件的应诉工作<br>    行政诉讼是法律赋予行政管理相对人维护自身合法权益的重要法律救济制度，也是防止和制约行政权力滥用、化解社会矛盾、维护社会公平正义的法律监督制度。行政机关参加行政诉讼活动，执行人民法院生效的判决或裁定，是维护法律尊严、接受司法监督的体现，也是行政机关的一项重要职责。各级行政机关要进一步增强法制观念，自觉按照《行政诉讼法》的规定，高度重视、认真做好行政应诉工作，大力配合、支持人民法院的行政审判工作，不得拒绝签收人民法院送达的法律文书，不得拒绝应诉。倡导和鼓励行政机关领导出庭应诉，确因特殊事由无法出庭的，要依法委托代理人出庭应诉。有条件的市、县可积极探索建立行政领导出庭应诉制度。<br>    各级行政机关要自觉执行人民法院依法作出的生效判决或裁定，积极纠正违法或者不当的行政行为。执行中出现的问题，要及时与人民法院联系沟通，确保执行的正确有效。<br>    <br>    三、加强行政复议和行政应诉工作制度建设<br>    建立案件整改制度。各级行政机关对依法被撤销、变更、确认违法、责令履行法定职责的行政复议和行政诉讼案件，要深刻剖析原因，认真总结教训，切实加以整改；对行政复议机关的行政复议建议书和人民法院的司法建议书所提的意见，要认真研究整改，并将整改情况及时报告行政复议机关和人民法院。政府法制工作部门和部门法制工作机构对本地区、本部门通过行政复议和行政应诉活动反映出的行政执法中存在的主要问题，要及时向本级人民政府和本部门提出整改建议。<br>    建立案件分析制度。各级行政机关每半年要对本地区、本部门发生的行政复议和行政诉讼案件进行综合分析，总结行政执法中的经验，分析存在的问题，制定加强和改进行政执法工作的具体措施。<br>    建立行政复议和行政应诉工作考核制度。各级人民政府要把行政复议案件办理质量、执行行政复议决定和人民法院生效的判决与裁定情况，以及行政应诉工作情况，纳入依法行政工作考核范围。<br>    各级人民政府要按照《中共中央办公厅国务院办公厅关于预防和化解行政争议健全行政争议解决机制的意见》（中办发〔2006〕27号）的要求，采取有效措施，加强行政复议应诉工作机构和队伍建设，根据办案实际需要，抓紧配备、充实和调剂行政复议、行政应诉工作人员，确保行政复议应诉机构设置、人员配备与工作任务相适应。不断加强对行政复议应诉人员的培训，努力提高行政复议应诉人员的政治素质和业务能力。<br>        <br>                                               安徽省人民政府<br>                                             二○○七年三月二十日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

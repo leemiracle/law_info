@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】汕头市人民政府<BR>&nbsp;&nbsp;【发布文号】汕府办〔2009〕99号<BR>&nbsp;&nbsp;【发布日期】2009-06-15<BR>&nbsp;&nbsp;【生效日期】2009-06-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shantou.gov.cn/common/zcfg_view.asp?id=1099&lmdm=04b700" target=_blank>汕头市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>汕头市人民政府转发汕头市公安消防局关于汕头市城市建筑消防设施远程监控系统推广应用方案的通知<br><br></font>(汕府办〔2009〕99号)</p><br><br><br>    各区县人民政府，市政府有关部门、有关直属机构：<br><br>    根据市人民政府的意见，现将汕头市公安消防局制订的《汕头市城市建筑消防设施远程监控系统推广应用方案》转发给你们,请认真贯彻执行。各单位在执行中遇到的问题和意见建议请及时向市公安消防局反映。<br><br>    汕头市人民政府办公室                <br><br>    二○○九年六月十五日<br><br>    汕头市城市建筑消防设施远程监控系统推广应用方案<br><br>    市公安消防局<br><br>    为进一步加强我市建筑消防设施运行监控，提高应对火灾事故的能力，最大限度地减少火灾危害，我市高度重视，积极推进城市建筑消防设施远程监控系统（简称“远程监控系统”）建设工作。目前，中标单位已按招标文件要求完成系统建设，进入推广应用阶段。该系统由汕头市消防监测中心具体运作，主要由用户智能终端、通信网络、监控中心系统组成，利用通讯网络数据传输实现远程监控中心与各建筑（场所）设置的火灾自动报警系统进行实时数据采集和处理，将分散、独立的各个报警网络集成为集中、完整、高效的城域消防网络。该系统的推广应用能够提升消防安全监测管理水平和社会防控火灾能力，提升消防监督执法效率和质量，提升消防工作社会化水平，对预防火灾发生和减少火灾损失具有十分重要的作用。为做好推广应用工作，制定如下工作方案：<br><br>    一、工作依据<br><br>    根据《中华人民共和国消防法》、国务院办公厅《关于认真贯彻消防法进一步加强消防工作的通知》（国办发〔1998〕123号）的有关规定，公安部《“十一五”消防科技发展规划》和公安部消防局《关于印发<推进和规范城市消防安全远程监控系统建设应用的指导意见>的通知》（公消〔2008〕466）号、广东省公安消防总队《关于开展建筑火灾远程监控系统建设及推广应用试点工作的通知》（广公消〔2006〕73号）以及2007年8月省政府与市政府签订的《广东省消防安全工作目标管理责任书》的要求，制定本方案。<br><br>    二、城市建筑消防设施远程监控系统用户范围<br><br>    设置火灾自动报警系统的单位，设置自动消防设施的人员密集场所和生产、储存、经营易燃易爆危险品的场所，应列为远程监控系统联网用户。重点对象为：<br><br>    （一）宾馆、酒店、商场、集贸市场、体育场馆、会堂、公共娱乐场所等公众聚集场所；<br><br>    （二）医院、养老院、住宿制学校、托儿所、幼儿园；<br><br>    （三）广播电台、电视台和邮政枢纽、通讯枢纽（基站）；<br><br>    （四）客运车站、码头、民用机场；<br><br>    （五）公共图书馆、展览馆、博物馆、档案馆以及火灾危险性较大的文物保护单位；<br><br>    （六）发电厂（站）、变电站和电网经营企业；<br><br>    （七）易燃易爆化学物品的生产、储存、销售单位；<br><br>    （八）服装等劳动密集型生产、加工企业；<br><br>    （九）银行、保险、证券、期货等单位；<br><br>    （十）重要科研单位；<br><br>    （十一）消防安全重点单位和其他发生火灾可能性较大以及一旦发生火灾可能造成重大人员伤亡或财产损失的单位；<br><br>    （十二）其他设置自动消防设施的人员密集场所。<br><br>    对上述范围以外的场所，市公安消防部门要依法鼓励其抓紧消防安全配套设施建设，以自愿为原则加入远程监控系统。<br><br>    三、城市建筑消防设施远程监控系统的实施计划<br><br>    （一）各类场所按火灾危害性拟分三批实施联网：第一批为公众聚集场所，计划在2009年底前完成；第二批为消防安全重点单位及其他已设置火灾自动报警系统的相关单位，计划在2010年底前完成；第三批为按消防技术标准应当设置火灾自动报警系统而未设置的场所，通过实施技术改造实现与远程监控系统联网，计划在2011年底前完成。<br><br>    （二）原采用无线电监控的用户分期分批并入新系统。今后新建的按国家消防技术标准要求应设置火灾自动报警系统的建筑（场所），要按有关规定与远程监控系统实施联网。<br><br>    四、工作要求<br><br>    （一）高度重视远程监控系统联网工作。各级公安消防机构及各有关单位要高度重视系统联网推广工作，以此为契机，进一步提高我市各单位防控火灾的能力，提升消防安全管理水平。<br><br>    （二）采取积极措施，依法依规落实联网工作。各级公安消防机构及各有关单位在远程监控系统联网推广工作中，要依法依规办事，按照“先易后难，先重点后一般，先联网后验收”的原则，以公众聚集场所和消防安全重点单位为先行点进行推广，再向其他单位推开。要摸清辖区单位火灾自动报警系统的设置情况，做出联网的计划。在实际推广工作中，要讲究方式方法，力戒简单粗暴。在通过新闻媒介等进行大力宣传时，要注重向具体的联网单位宣传远程监控系统的作用和意义。各级公安消防机构在消防检查、管理、监督和行政审批工作中，要把推进远程监控系统建设应用与推行单位消防安全标准化管理有机结合起来，督促联网用户运用远程监控系统提供的平台，实施消防安全标准化管理，切实履行消防管理职责，确保本单位消防安全。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

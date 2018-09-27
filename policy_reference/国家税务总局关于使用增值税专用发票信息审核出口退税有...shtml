@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2004]862号<BR>&nbsp;&nbsp;【发布日期】2004-06-30<BR>&nbsp;&nbsp;【生效日期】2004-06-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=85638" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局<br>关于使用增值税专用发票信息审核出口退税有关问题的补充通知<br><br></font>(国税函[2004]862号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br>    为严格出口退税审核，进一步规范使用增值税专用发票信息审核出口退税的工作流程，现将出口退税用增值税专用发票稽核结果审核疑点数据（以下简称审核疑点数据）和特准退税企业的增值税专用发票申报数据报送、下发流程通知如下：?<br>    一、 各级税务机关按照《国家税务总局关于使用增值税专用发票电子信息审核出口退税有关事项的通知》（国税函〔2003〕995号）、《国家税务总局关于使用增值税专用发票认证信息审核出口退税的紧急通知》（国税函〔2004〕133号）和《国家税务总局关于出口货物退（免）税管理有关问题的通知》（国税发〔2004〕64号）有关规定，使用增值税专用发票信息进行退税审核过程中，凡出现国税函〔2003〕995 号文件第四条第二款所述情况，按本通知有关规定进行处理。?<br>    二、 自2004年7月1日起，各级税务机关可登陆国家税务总局内部办公业务网出口退税单证支持网站（http://130.9.1.116/ckts），通过纳税人识别号或省级税务机关对总局用于清分出口退税用增值税专用发票稽核结果数据的全国外贸企业代码库内容进行查询。该查询只针对全国的外贸企业，不包括特准退税企业信息。各级退税机关如遇本文件第一条所述情况，应先登陆该网站查询。对于纳税人识别号在该网站未查询到的外贸企业，主管退税机关应按照国税函〔2003〕995号文件第五条第二款规定的新增企业报送方式进行及时处理，该类企业的增值税专用发票信息不得作为审核疑点数据处理。?<br>    三、 为进一步规范数据处理流程，现将审核疑点数据分为两种类型：无信息和核对不符。类型定义明确如下：?<br>    （一）无信息：某外贸企业代码信息可在第二条所述查询中查询到，且该企业提供的增值税专用发票在认证通过之后60天内仍未收到总局下发的增值税专用发票稽核结果数据。?<br>    （二）核对不符：企业办理退税时申报的增值税专用发票信息与稽核、协查信息中相符发票或协查无误发票信息核对不符，将企业申报的发票信息作为审核疑点数据上传。?<br>    四、 审核疑点数据报送的数据格式及文件命名规则见附件。自该文件发布之日起，国税函〔2003〕995号文件中关于审核疑点数据的电子数据格式和文件命名规则的规定同时废止。?<br>    五、 特准退税企业增值税专用发票申报数据的处理应严格按照国税函〔2003〕995号文件相关规定执行，不得作为审核疑点数据上报 。审核疑点数据和特准退税企业增值税专用发票申报数据报送流程和相关部门职责划分，严格按照《国家税务总局关于加强出口退税电子数据传输管理工作的通知》（国税函〔2004〕481号）第四条和第六条规定执行。 ?<br>    六、 各省局信息中心必须通过出口退税用专用发票稽核结果数据传输系统中上传数据汇总功能将本区域内的审核疑点数据和特准退税企业增值税专用发票申报数据汇总上传。?<br>    七、总局相关数据处理流程。总局每月将上月16日至本月15日各地通过出口退税用专用发票稽核结果数据传输系统上传的审核疑点数据和特准退税企业增值税专用发票申报数据进行汇总，并进行以下处理。?<br>    （一） 对审核疑点数据的处理?<br>    1. 将对汇总数据中不符合本文件第四条类型定义和总局增值税专用发票稽核结果数据库中不存在的审核疑点数据进行清理，发回上传地。<br>    2. 对疑点类型为“无信息”的数据，总局将进行分析，对未下发的发票数据进行补发，对已下发的数据进行补发的同时定期发文通报。?<br>    3. 疑点类型为“核对不符”的数据，用各地上传的认证信息与总局增值税专用发票稽核结果数据库相应数据进行比对，如确不符，移送总局进出口税收管理司进行处理；如相符，对该条发票数据进行补发。?<br>    （二）对特准退税企业增值税专用发票申报数据的处理?<br>    首先将汇总的特准退税企业增值税专用发票申报数据按发票代码和号码、购方纳税人识别号（指上报电子数据中的Nsrdj_no字段）在总局增值税专用发票稽核结果数据库中查找，对查找到的相应稽核结果信息和协查信息进行下发，并对查找不到的数据进行清理，发回上传地。?<br>    （三）总局对上述（一）、（二）中的数据下发和补发工作于每月22日前处理一次，自7月份开始统一使用出口退税用专用发票稽核结果数据传输系统进行下发，出口退税用专用发票稽核结果数据传输系统相关升级工作将于近期部署，相关工作另行通知。?<br>    各级税务机关要充分认识审核疑点数据和特准退税企业的增值税专用发票申报数据报送和处理工作的重要性，积极做好文件转发和宣传工作，确保出口退税审核工作的顺利进行。<br><br>    附件：增值税专用发票稽核结果审核疑点数据格式及文件命名规则<br><br>国家税务总局 <br>二○○四年六月三十日 <br><br><br><br>附件<br><br><br><br>增值税专用发票稽核结果审核疑点数据格式及文件命名规则<br><br><br><br>数据格式（DBF）：<br><br>字段名<br>字段类型及长度<br>说明<br><br>inv_no<br>字符型（18）<br>发票代码号码<br><br>Saler_no<br>字符型（16）<br>销方纳税人识别号<br><br>Buyer_no<br>字符型（16）<br>购方纳税人识别号<br><br>Date_k<br>字符型（8）<br>开票日期（4位年+2位月+2位日）<br><br>Rzrq<br>字符型（8）<br>认证日期（4位年+2位月+2位日）<br><br>Sh_detail<br>字符型（1）<br>1：无信息；2：信息不符(按相应类型填1或2)<br><br><br><br>注：以上各项必须逐项认真填写，均不得为空。<br><br><br><br>文件命名规则：<br><br>Fcyymmdddddd_nn.dbf(yy为2位年，mm为2位月，dddddd为6位行政区划代码,nn指文件序列号) <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

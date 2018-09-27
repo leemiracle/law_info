@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委办公厅<BR>&nbsp;&nbsp;【发布文号】发改办投资[2005]2900号<BR>&nbsp;&nbsp;【发布日期】2005-12-29<BR>&nbsp;&nbsp;【生效日期】2005-12-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/zcfbtz2005/t20060106_56106.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委办公厅关于开展工程咨询单位资格认定工作的通知<br><br></font>(发改办投资[2005]2900号)</p><br><br><br>各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委，国务院有关部门办公厅（办公室），有关中央管理企业：<br><br>    根据《工程咨询单位资格认定办法》（中华人民共和国国家发展和改革委员会第29号令）（以下简称29号令）和2005年第23号公告，现将工程咨询单位资格认定的有关具体事项通知如下：<br><br>    一、工程咨询单位资格认定过程中有关申请受理、组织评审的基础性工作，由中国工程咨询协会（以下简称“中咨协”）协助我委进行。各省、自治区、直辖市及计划单列市、新疆生产建设兵团工程咨询协会协助同级发展改革委进行相应的基础性工作。<br><br>    二、工程咨询单位资格申报工作定于2006年1月4日开始。我委将在2006年4月10日至4月16日接收工程咨询单位资格申请报告及材料。请你们告知各申报单位访问中国工程咨询网（http://www.cnaec.com.cn），应用《中国工程咨询业务管理系统》（以下简称“管理系统”，要求IE6.0及以上版本）填写电子文件内容，并认真学习29号令，按规定报送申报材料。申请内容通过管理系统打印，与其他附件材料装订成册，形成书面文本申报材料。可行性研究报告范本可单独成册。请将所有申报文本材料先按初次申请、重新申请分为两类，再按31个专业顺序排序。<br><br>    三、按照隶属关系，由初审机构（审查单位）向我委申报。地方所属单位向所在省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委申请，国务院有关部门所属单位向所在部门申请。中央管理企业所属单位由中央管理企业审查后报我委。各初审机构（审查单位）应向我委提出申请报告，具体申报电子、文本材料，由中咨协接收。<br><br>    四、请你们在初审（审查）工作中，认真填写管理系统的接收材料清单及初审（审查）意见表，打印、签章上报，并扫描至管理系统中。<br><br>    五、鉴于我委原颁发的临时级、预备级、丙级工程咨询资格证书有效期截止至2005年12月31日，请告知持有上述证书的单位抓紧时间重新申请工程咨询资格。持有正式甲、乙级工程咨询资格证书的单位，按照我委2005年第23号公告的规定，2006年另行申请工程咨询资格。<br><br>国家发展和改革委员会办公厅<br>二○○五年十二月二十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

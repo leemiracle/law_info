@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】浙江省地方税务局<BR>&nbsp;&nbsp;【发布文号】浙地税函［2006］358号<BR>&nbsp;&nbsp;【发布日期】2006-08-08<BR>&nbsp;&nbsp;【生效日期】2006-08-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/zcfg/dffg/t20060925_692597.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>浙江省地方税务局关于支持社会主义新农村建设有关税收政策<br><br></font>(浙地税函［2006］358号)</p><br><br><br>各市、县(市、区)地方税务局(不发宁波)，省地方税务局直属一分局、稽查局：<br><br>    为坚决贯彻落实省委省政府工作部署，积极发挥地方税收的职能作用，大力支持社会主义新农村建设，现就支持社会主义新农村建设有关地方税收政策明确如下：<br><br>    一、支持发展高效生态农业和促进农民增收<br><br>    （一）对从事农业机耕、排灌、病虫害防治、植保、农牧保险以及相关技术培训业务，家禽、牲畜、水生动物的配种和疾病防治所取得的收入，免征营业税、城建税、教育费附加和地方教育附加。对农村的为农业生产的产前、产中、产后服务的行业，即乡、村的农技推广站、植保站、水管站、林业站、畜牧兽医产站、水产站、种子站、农机站、气象站以及农民专业技术协会、专业合作社，对其提供的技术培训等技术服务或劳务所取得的收入，暂免征收企业所得税。<br><br>    （二）对省级骨干农业龙头企业从事种植业、养殖业和农林产品初加工业（具体范围按财政部  国家税务总局财税字［1997］49号文件执行）取得的所得，可暂免征收企业所得税。<br><br>    （三）省级骨干农业龙头企业和经县级以上各级政府确认的重点农业龙头企业，以及以社员自产自销为主要经营方式的农民专业合作社，报经主管地税机关批准，可减免水利建设专项资金。<br><br>    （四）支持农民个人发展农家乐休闲旅游、红色旅游、森林旅游、民俗风情旅游，切实落实按期纳税的营业税起征点提高到5000元的税收政策，根据季节性经营的特点，合理确定税收负担。<br><br>    （五）对为农村提供垃圾处理、污水处理、保洁服务取得的劳务收入，免征营业税、城建税、教育费附加、地方教育附加和水利建设专项资金。<br><br>    （六）对农村、农场和农民个人将土地使用权转让给农业生产者用于农业生产，或将土地承包（出租）给个人或公司用于农业生产，收取固定承包金（租金），免征营业税、城建税、教育费附加和地方教育附加。农业生产包括农、林、牧、渔。<br><br>    （七）对农民个人因交通、城市建设等被征用农业用地而取得经济补偿的收入，免征营业税、城建税、教育费附加和地方教育附加。<br><br>    （八）对农民专业合作社社员从农民专业合作社取得的自产自销农产品收入，暂不征收个人所得税。<br><br>    二、支持社会力量参与助建新农村公益性项目<br><br>    （一）乡镇企业报经主管地税机关批准后，可按应缴企业所得税款减征10％，用于补助无偿助建新农村公益性项目等社会性开支费用。<br><br>    （二）转制后的乡镇企业，助建新农村公益性项目等社会性开支的费用支出，经主管地税机关核实后，可在应缴企业所得税款10％以内给予减征照顾(以不超过实际支出为限)。<br><br>    （三）企事业单位、社会团体和个人等社会力量通过非营利的社会团体和国家机关向新农村义务教育、公益性青少年活动场所、福利性（非营利性）老年服务机构的捐赠，准予在缴纳企业所得税和个人所得税前的所得额中全额扣除；向新农村公益性图书馆、博物馆、科技馆、美术馆、革命历史纪念馆的捐赠，经主管税务机关审核后，企业在年度应纳税所得额10％以内的部分，个人在申报应纳税所得额30％以内的部分，准予在税前扣除；向新农村其他公益性项目建设的捐赠，企业在年度应纳税所得额3％以内的部分，个人在申报应纳税所得额30％以内的部分，准予在税前扣除。<br><br>    三、支持加快发展新农村社会事业<br><br>    （一）对农村纪念馆、博物馆、文化馆、美术馆、展览馆、书(画)院、图书馆、文物保护单位和省级政府以上批准的爱国主义教育基地、少年儿童活动中心等公益性未成年人校外活动场所举办的文化活动收入，免征营业税、城建税、教育费附加和地方教育附加。<br><br>    （二）对农村各类公益性文化体育场馆的自用房产和土地，免征房产税和城镇土地使用税；对其“以租养馆”的出租房产和土地，纳税确有困难的，报经主管地税机关批准，可减免房产税和城镇土地使用税。<br><br>    （三）对农村非营利性医疗机构取得的医疗服务收入，按规定免征各项地方税收；对农村营利性医疗机构取得的医疗服务收入直接用于改善医疗卫生条件的，自其取得执业登记之日起，3年内免征营业税、城建税、教育费附加、地方教育附加和自用房产、土地、车船的房产税、城镇土地使用税、车船使用税。<br><br>    （四）对农业科技企业和农民个人从事技术转让、技术开发业务和与之相关的技术咨询、技术服务业务取得的收入，免征营业税、城建税、教育费附加和地方教育附加。?<br><br>    （五）对农村托儿所、幼儿园、养老院、残疾人福利机构取得的劳务收入，免征营业税、城建税、教育费附加和地方教育附加，其自用房产、土地、车船可免征房产税、城镇土地使用税和车船使用税。全省各级地税机关要深刻认识建设社会主义新农村的重大意义，积极主动地投身于新农村建设。要加强对税收政策落实工作的组织领导，大力开展政策宣传，加强监督检查，切实把中央和省里近年来出台的各项涉农税收政策落到实处，并结合本地新农村建设的新情况、新要求，努力探索税收支农新途径，充分发挥税收政策效应，为我省社会主义新农村建设作出应有的贡献。<br><br>    2006年8月8日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

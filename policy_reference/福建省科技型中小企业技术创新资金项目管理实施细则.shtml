@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽科企金〔2007〕6号<BR>&nbsp;&nbsp;【发布日期】2007-12-30<BR>&nbsp;&nbsp;【生效日期】2007-12-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200802/t20080203_56312.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省科技型中小企业技术创新资金项目管理实施细则<br><br></font>(闽科企金〔2007〕6号)</p><br>    <br><br>各有关单位：<br><br>    为营造科技型中小企业不同成长阶段的发展环境，完善科技型中小企业创新创业的抚育机制，做大做强中小企业，改进和加强项目管理，我厅研究制订了《福建省科技型中小企业技术创新资金项目管理实施细则》。现印发给你们，请认真遵照执行。<br><br>    二○○七年十二月三十日<br><br><br>    福建省科技型中小企业技术创新资金项目管理实施细则<br><br>    <font class='zhang'>第一章</font>  总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为保证福建省科技型中小企业技术创新资金（以下简称“省创新资金”）项目管理科学和公平、公正、公开，提高管理效率，根据福建省人民政府办公厅转发的《福建省科技型中小企业技术创新资金管理暂行规定》（闽政办[1999]247号）、《福建省科技计划项目管理办法》（闽科计〔2007〕86号）的有关规定，参照科技部《科技型中小企业技术创新基金项目管理暂行办法》(国科发计字[2005]60号)，特制定本实施细则。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  福建省科技型中小企业技术创新资金管理中心（以下简称“管理中心”）在福建省科学技术厅领导下，具体负责省创新资金项目的管理工作。省创新资金项目管理包括项目申请受理、项目评审立项、项目监理与验收等环节。<br><br>    设区市科技局为省创新资金项目推荐单位，也是项目实施的监理单位。负责项目的申报材料审核和项目实施的监督管理工作，督促、检查计划执行情况，定期汇总并提交项目年度执行情况表、年度财务决算报表和信息统计工作等。<br><br>    服务机构是指经管理中心择优认定的科技企业孵化器、火炬特色产业基地、软件园、高新区、经济技术开发区等具备科技型中小企业抚育能力的单位。服务机构作为辖区内的初创期小企业创新项目组织、实施的责任者，负责本辖区内的初创期小企业创新项目的组织、推荐、项目实施的监督管理，并根据管理中心的要求，按时组织辖区内的初创期小企业创新项目的验收工作。<br><br>    <font class='zhang'>第二章</font>  支持条件、范围和支持方式<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  申请省创新资金支持的项目需符合以下条件：<br><br>    （一）符合国家和福建省产业、技术政策，技术含量高，创新性较强，知识产权清晰，技术处于国内先进水平。<br><br>    （二）必须是以生产、销售、技术服务和盈利为目的，产品或服务有明确的市场需求和较强的市场竞争力，可以产生较好的经济效益和社会效益，并有望形成新兴产业。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  省创新资金支持的重点范围：<br><br>    （一）相关高新技术领域中自主创新性强、技术含量高、市场前景好、能够培育成新的经济增长点的项目；具有节能降耗效果的资源节约型、环境友好型项目。<br><br>    （二）各级政府重点关注的或能够作为国家创新基金重点项目申报的技术创新项目。<br><br>    （三）具有发明专利的项目。<br><br>    （四）初创期小企业创新项目。<br><br>    （五）科技成果转化、引进吸收再创新、利用高新技术改造传统产业的项目。<br><br>    （六）为中小企业提供公益性技术服务的机构的补贴资金项目。<br><br>    （七）为吸引社会资金共同支持科技型中小企业技术创新的资本金投入项目。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  有以下情形之一的，省创新资金不予支持：<br><br>    （一）不符合国家科技、经济和社会发展方针及产业政策的项目，单纯技术引进项目、低水平重复项目、单纯基本建设项目、一般加工工业项目、对社会和环境有不良影响的项目，以及正在实施的福建省各类科技计划项目。<br><br>    （二）已经上市的企业以及上市企业中占有股份的企业；资产和财务状况不好的企业；非技术性的纯服务企业；纯贸易性质的企业等。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  省创新资金支持方式为：<br><br>    (一)重点项目无偿资助。<br><br>    (二)重点项目贷款贴息。<br><br>    (三)中小企业公共技术服务机构补助。<br><br>    (四)初创期小企业技术创新项目资助。<br><br>    (五)资本金投入。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  申请省创新资金项目的企业应具备以下条件：<br><br>    （一）已在福建省内(计划单列市除外)工商行政管理机关依法登记注册，具备独立企业法人资格。<br><br>    （二）主要从事高新技术产品的研制、开发、生产和技术服务，领导班子有较强的市场开拓能力和较高的经营管理水平，并有持续创新意识。<br><br>    （三）职工人数不超过300人，其中具有大专以上学历的科技人员占职工总数的比例不低于30%，直接从事研究开发的科技人员应占职工总数的10%以上。<br><br>    （四）有良好的经营业绩，资产负债率合理；企业每年用于高新技术产品研究开发的经费不低于销售额的5%；有健全的财务管理制度和合格的财务管理人员。<br><br>    （五）企业净资产额不高于2000万元；年销售额不超过3000万元。<br><br>    （六）一个企业在同一年度内，只能申请一个项目。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  无偿资助项目申请条件：<br><br>    （一）主要用于科技型中小企业技术创新活动中新技术、新产品研究开发及中试放大等阶段的必要补助。<br><br>    （二）项目新增投资一般在1000万元以下，资金来源基本确定，投资结构合理，项目实施周期不超过2年；生物、医药类的药品项目实施周期可以放宽至3年。<br><br>    （三）申请的项目，目前尚未有销售或仅有少量试销售。<br><br>    （四）企业需有与申请创新资金资助数额等额以上的自有资金匹配。<br><br>    （五）推荐单位能落实配套经费。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  贷款贴息项目申请条件：<br><br>    （一）主要用于支持产品具有一定的创新性，需要中试并形成批量生产，银行已经给予贷款或意向给予贷款的技术创新项目。<br><br>    （二）项目新增投资在3000万元以下，资金来源基本确定，投资结构合理，项目实施周期不超过3年。<br><br>    （三）推荐单位能落实配套经费。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  中小企业公共技术服务机构补助<br><br>    中小企业公共技术服务机构补助是通过资助、引导和鼓励更多公益型机构开展面向中小企业群体的技术服务，更加有效地发挥财政的政策引导作用。中小企业公共技术服务机构补贴资金项目重点扶持非盈利性技术服务，立项审查关注的重点是机构的运营模式、服务能力和技术服务行为。<br><br>    申请补助资金的中小企业公共技术服务机构应具备以下条件：<br><br>    （一）具有独立的法人资格，已有2年以上的运营时间；<br><br>    （二）面向中小企业提供技术服务，已开展下述业务：组织中小企业共性技术研发，为中小企业采纳先进技术提供服务，为中小企业提供创新资源共享服务，为中小企业技术转移提供服务等；<br><br>    （三）具有开放的服务模式，有明确的服务对象群体和不少于3个成功的技术服务案例；<br><br>    （四）具有明显的专业特点，具有较高的专业技术水平、较为完备的技术条件和专业化的技术服务队伍。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  初创期小企业创新项目的申请条件：<br><br>    （一）初创企业<br><br>    1、具备独立企业法人资格，在服务机构内注册并经营，注册资金不超过300万元，企业注册成立时间不超过18个月；<br><br>    2、企业领导班子有较强的市场开拓能力、较高的经营管理水平和创新意识；<br><br>    3、申请企业没有承担过省创新资金项目；<br><br>    4、服务机构能落实配套经费。<br><br>    （二）创新项目<br><br>    1、项目技术含量高，创新性较强，企业拥有自主知识产权；<br><br>    2、处于研究中试和小批量生产阶段；其产品有明确的市场需求和较强的市场竞争力，可以产生较好的经济效益和社会效益。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  资本金投入是指技术创新创业投资引导资金，主要目的是引导创业投资机构向科技型中小企业技术创新项目的投入。其资助方式有：参股投资、跟进投资、风险补助与投资保障等。资本金投入项目管理办法另行制定。<br><br>    <font class='zhang'>第三章</font>  项目申请与受理<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  省创新资金项目年度重点支持范围由福建省科学技术厅制定并发布的年度《福建省科技计划重点项目申报指南》确定。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  申报单位根据《福建省科技计划重点项目申报指南》的要求，登录注册福建省科技计划项目管理系统，网上填报提交申报材料，并经项目推荐单位归口网上审查推荐。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  推荐单位应认真审查有关申报材料的真实性，通过审查推荐的项目，由申报单位通过科技计划项目管理系统打印纸质的《福建省科技计划项目申请书》及相关附件材料，逐级签章后由推荐单位汇总，报送管理中心。申请材料必须真实可靠，申请材料一律不予退还。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  管理中心负责受理省创新资金项目的申请，组织有关人员对所申报的项目进行受理审查，提出审查意见。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  受理审查主要包括资格审查和形式审查两种方式，审查内容有：<br><br>    （一）申报单位的条件是否符合省创新资金项目申报要求。<br><br>    （二）申报项目是否符合省创新资金项目的申报条件。<br><br>    （三）地方政府部门是否已承诺配套或已给予资助。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  下列情况不予受理：<br><br>    （一）属于本办法第六条内容的项目。<br><br>    （二）不符合年度申报指南要求的项目。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  受理审查合格的项目，管理中心将组织专家进行评审。<br><br>    <font class='zhang'>第四章</font>  项目评审立项<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  项目评审立项包括专家评审、管理评审和立项审批等环节。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  评审专家包括技术、经济、财务、市场和企业管理等方面的专家，由管理中心聘请。<br><br>    专家应具备以下条件：评审专家应熟悉该领域的技术经济发展状况，对所评领域有较丰富的专业知识和实践经验，具有较强的分析判断能力，能够独立、客观、公正地提出评审意见。具有良好的职业道德，在以往咨询评审活动中，没有不良记录。一般应具有高级专业技术职务。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  下列情况之一的，专家应当回避或主动申请回避：<br><br>    （一）评审专家属于项目申请单位。<br><br>    （二）专家家庭成员或近亲属为所审项目申请单位的负责人。<br><br>    （三）有利益关系或直接隶属关系。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  管理中心根据福建省科技厅的要求，制定评审标准。专家依据评审工作规范和评审标准，对申请项目进行全面的审查，并提出有针对性的评审意见。专家评审实行实名制。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  管理中心组织有关人员对项目进行现场考核和管理评分。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  管理中心根据我省科技和经济社会发展规划及省产业政策和科技政策，结合专家评审意见、现场考核，提出立项建议，报厅领导审定。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  立项项目通过项目合同书或任务书的形式，确定项目各方的权利和义务。项目的合同书按福建省科技厅统一制订的合同文本，由项目承担单位依据项目申请书和评审论证意见填写合同书或任务书。经签约各方审核后，方可履行签订手续。<br><br>    <font class='zhang'>第五章</font>  项目监理与验收<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  管理中心负责组织实施项目监督管理和验收工作，分析总结项目执行情况。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  项目监理主要方式：<br><br>    1、项目承担单位按项目有关管理规定填报项目年度执行情况表和年度财务决算报表，项目验收当年须报送项目总决算报表。<br><br>    2、设区市科技局实地检查项目执行情况，并填写监理意见。<br><br>    3、管理中心每年抽查部分项目，进行实地考察，填写考查报告，归入项目管理档案。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  项目监理的主要内容包括：项目资金到位与使用情况；合同计划进度完成情况；项目达到的技术、经济、质量指标情况；项目存在的主要问题和解决措施。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  项目验收原则上采用组织专家组现场验收，由管理中心或委托设区市科技局主持。验收专家组由熟悉专业技术、经济、财务和管理专家组成，专家人数一般不少于5人。<br><br>    验收专家组原则上应进行现场考察，审查项目验收材料，收集听取相关方面的意见，核实或复测相关数据，独立、负责任地形成专家验收评价表、验收意见。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  项目验收以签订的项目合同书为依据，对项目是否完成合同书约定的内容和目标、应用效果和对经济社会的影响、经费使用的合理性等做出客观的、实事求是的评价。项目验收工作原则上在合同到期后一年内完成；需要延期验收的，项目承担单位应提前一个月提出申请，报管理中心批准后执行，延期期限原则上不超过12个月。项目提前全面完成合同所规定的各项指标的，可申请提前验收。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  管理中心根据专家验收评审意见、专家验收评价表、设区市科技局的监理意见和现场考察情况，提出项目验收结论审查意见，报厅领导审定。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  验收结论意见为验收合格、验收基本合格、验收不合格。<br><br>    （一）验收合格--项目较好完成合同目标，全额拨付合同经费余额；<br><br>    （二）验收基本合格--项目基本完成合同目标，拨付合同经费余额的70%；<br><br>    （三）验收不合格--项目执行情况与合同目标差距较大，停拨合同经费余额。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  服务机构内的初创期小企业创新项目验收以服务机构为单元进行整体验收，同批初创期小企业创新项目要在合同到期后2个月内集中完成验收工作。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  申请项目鉴定的，按国家科技成果鉴定办法办理。<br><br>    <font class='zhang'>第六章</font>  合同变更与结题、中止<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  为维护合同的严肃性，合同的主要内容原则上不能修改。但由于在项目执行过程中出现了一些新的、在合同中未作明确规定的情况，以及不可抗拒因素造成需要适当调整合同任务的，经批准可允许合同变更。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  需要申请合同变更的，由项目承担单位提出申请，经项目推荐单位核实并签署意见后报管理中心，管理中心经必要咨询或组织专家论证后提出处理意见，报厅领导批准，方可生效。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  项目资金基本落实，项目承担单位工作努力，项目进行了大量实际开发工作，但由于客观原因，在合同到期后一年以上或延期验收到期后，项目距合同主体目标存有较大差距，短期内项目不会产生实质性进展，项目承担单位应提供项目总结及有关材料，并经项目推荐单位审核，项目作验收不合格处理，停拨合同经费余额。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  属于下列情况之一的，自动中止合同，停拨合同经费余额。<br><br>    （一）项目承担单位因不可抗拒因素、市场变化等原因无法继续履行合同的。<br><br>    （二）项目承担单位的项目负责人及技术骨干发生重大变化，致使项目无法继续实施的。<br><br>    （三）协作关系发生重大变化或产生知识产权纠纷，致使项目无法继续实施的。<br><br>    （四）项目承担单位拒绝接受管理中心或项目推荐单位对项目实施过程进行监理的。<br><br>    （五）项目承担单位在项目实施期间，未经管理中心批准擅自将项目以技术转让方式转出，不再作为项目的实施主体的。<br><br>    （六）项目承担单位或项目推荐单位要求中止合同的。<br><br>    （七）在合同书规定期限内既不提交验收申请又未提交延期申请且时间超过一年的。<br><br>    <font class='zhang'>第七章</font>  奖  惩<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  项目验收合格、实施成效显著的项目承担单位再申报的项目，经专家评审后，在同等条件下管理中心将予以优先支持。<br><br>    项目验收基本合格的项目承担单位在验收当年不得再申请省创新资金项目；项目验收不合格的项目承担单位三年内不得再申报省创新资金项目。被中止合同的项目承担单位及项目负责人三年内不得再申报省创新资金项目。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  对于项目承担单位在项目申报或执行过程中有严重违法、重大欺骗、重大事实隐瞒等行为的，不按合同执行或无故中止合同，不按计划用款、挪用经费，不按有关规定按期报送有关报表的项目承担单位，将终止拨款，直至追回已拨的全部经费，同时取消项目承担单位及项目主要人员申报各类科技计划项目的资格。违约的应承担合同规定的法律责任。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  建立省创新资金项目资信管理制度。对于项目验收不合格、项目中止的项目承担单位和项目负责人给予记录。<br><br>    <font class='zhang'>第八章</font>  附  则<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  本办法自发布之日起施行，未尽事宜按《福建省科技计划项目管理办法》和《福建省科技三项费用管理办法》执行。<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a>  本办法由福建省科学技术厅负责解释。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】龙岩市<BR>&nbsp;&nbsp;【发布文号】龙政综〔2007〕349号<BR>&nbsp;&nbsp;【发布日期】2007-10-26<BR>&nbsp;&nbsp;【生效日期】2007-10-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/sqswj/ly/200711/t20071105_43680.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>龙岩市关于进一步加强统计调查工作的通知<br><br></font>(龙政综〔2007〕349号)</p><br> <br><br>各县(市、区)人民政府，市政府各部门、各直属机构，中央、省垂直管理机构，龙岩经济开发区管委会，各大中专院校：<br><br>    根据《国务院办公厅关于印发国家统计局直属调查队管理体制改革方案的通知》精神，龙岩市农村社会经济调查队、城市社会经济调查队、企业调查队已正式撤消，组建了国家统计局龙岩调查队(正处级机构)。为确保我市调查队系统改革顺利进行和统计调查工作顺利开展，现就进一步加强统计调查工作的有关事项通知如下：<br><br>    一、充分认识调查队管理体制改革的重要性，切实加强对统计调查工作的领导<br><br>    改革调查队管理体制，是国务院增强国家统计调查力量，加强统计调查工作的一项重大举措，对于完善社会主义市场经济条件下的统计管理体制，有效整合统计资源，准确及时地采集宏观统计数据，提高国家宏观调控能力，具有十分重要的意义。新组建的国家统计局龙岩调查队承接了原龙岩市农村社会经济调查队、龙岩市城市社会经济调查队和龙岩市企业调查队的全部工作职能，并将逐步增加国家宏观调控和国民经济核算所需重要统计信息的抽样调查任务，负责实施统计快速反应制度等。同时，对我市经济社会发展各项指标，进行统计调查和数据加工，其调查成果将成为政府决策和反映龙岩经济社会发展情况的重要依据。各级各部门要高度重视统计调查工作对龙岩经济社会发展所起的重要作用，积极支持调查队体制改革工作，切实加强对统计调查工作的领导。各县（市、区）政府要确定一名分管调查队工作的领导，经常听取他们的工作汇报，帮助协调解决有关问题。各级各有关部门要将所在地国家统计局直属调查队列入地方中直机关序列进行管理，通知参加有关会议，下发有关文件。各有关部门要经常主动加强与所在地调查队的沟通协调，积极配合其工作开展。<br><br>    二、积极支持调查队管理体制改革，为统计调查工作顺利开展创造良好的环境<br><br>    国家统计局直属调查队管理体制改革工作涉及面广，要求高。目前，国家统计局龙岩调查队以及国家统计局长汀调查队、上杭调查队和永定调查队已经组建并正式挂牌。其它县（市、区）调查队的改革工作将在下一步全面展开，目前其行政管理仍由同级统计局负责，日常业务接受国家统计局龙岩调查队的组织指导。各县（市、区）政府要按照国务院办公厅及国家有关部委关于调查队管理体制改革的文件精神，积极支持全市调查队管理体制改革，主动协调解决好改革期间面临的困难和问题，确保改革顺利进行。财政部门要将原调查队承担的为地方政府服务项目所需的经费，继续列入地方经费预算，统筹安排各级调查队新增调查项目所需经费；编制和人事等部门要积极协助各级调查队理顺人事关系；各有关部门要主动帮助调查队改善办公条件、添置相关设备，为调查队改革及工作的顺利开展创造良好的环境。<br><br>    三、推进调查方法、制度改革，不断增强统计调查服务地方政府决策的水平<br><br>    各级调查队要适应管理体制改革，进一步推进调查方法、制度改革，认真履行好统计调查职能，努力为地方政府决策提供优质服务。要围绕提高调查数据质量，切实加强对粮食播种面积、城乡居民收支、居民消费价格、工业品出厂价格、限额以下批发零售及住宿餐饮业、企业景气、规模以下工业和服务业等指标的调查工作；要加强对调查网点的维护和管理，努力提高调查样本的代表性；要认真做好城乡居民调查户的换户和管理工作；要创造条件开展以县为总体的限额以下批发零售及住宿餐饮业调查，积极探索以县为总体的服务业调查方法、制度改革，确保调查数据如实反映我市实际；要认真做好政府和部门绩效评估公众评议调查和群众安全感等专项调查工作；围绕我市经济社会发展和党委、政府各项中心工作，主动做好经济社会发展的分析预警，不断提高优质服务水平。<br><br>    四、加大统计调查法律法规及业务知识的宣传培训，不断提高自身业务能力<br><br>    要进一步加强统计调查法律法规及业务知识的培训工作，特别是要加强对基层统计调查人员、城镇（农村）居民住户辅助调查员的培训，不断提高统计调查人员的业务水平。要加强统计调查法律法规宣传，加大对农业、工业、商业、价格、服务业等统计调查的执法检查力度，规范统计调查行为，加大对统计违法行为查处力度，维护统计调查法律的权威，保障调查数据质量。<br><br>    龙岩市人民政府<br>    2007年10月26日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

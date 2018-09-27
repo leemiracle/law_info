@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】环函〔2005〕344号<BR>&nbsp;&nbsp;【发布日期】2005-08-17<BR>&nbsp;&nbsp;【生效日期】2005-08-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/eic/649086802442846208/20050822/10522.shtml" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局关于对申报建立国家级自然保护区有关问题进行整改的函<br><br></font>(环函〔2005〕344号)</p><br><br> <br>山西、内蒙古、辽宁、黑龙江、江苏、安徽、福建、山东、河南、湖北、湖南、广西、四川、云南、陕西、甘肃、宁夏、新疆等省、自治区人民政府，农业部、国家林业局： <br><br>    山西五鹿山等30个自然保护区已通过国家级自然保护区评审委员会的评审。在评审过程中，评委对部分保护区提出了一些意见和建议。在评审后的公示过程中，评委会办公室也收到了针对一些保护区提出的意见。现将这些意见和建议转给你们，请认真核查、进行整改，并于2005年9月30日之前将有关情况报送我局。 <br><br>    一、山西五鹿山自然保护区 <br><br>    2004年2月面积扩大三分之一，扩大的必要性如何，提供相关范围调整的专家论证意见和文件；保护区开矿情况。 <br><br>    二、内蒙古额尔古纳自然保护区 <br><br>    经费不足，但其所处林场上交利润近千万元，两者关系是如何协调的。 <br><br>    三、辽宁努鲁尔虎山自然保护区 <br><br>    管理人员业务水平不高；科学考察不深入、不细致，申报材料质量较差。经费投入不足。 <br><br>    四、黑龙江凤凰山自然保护区 <br><br>    保护区与林场两块牌子一套人马，不利于资源的管护和保护区管理；保护区是松茸产地，如何协调保护与资源开发的关系。 <br><br>    五、黑龙江乌伊岭湿地自然保护区 <br><br>    保护区主管部门政企合一，经济状况较差，砍伐现象时有发生；保护区固定资产及运行经费较少，设备落后。 <br><br>    六、黑龙江红星湿地自然保护区 <br><br>    管理人员业务水平较低；区内资源开发活动严重。 <br><br>    七、黑龙江呼玛河自然保护区 <br><br>    保护区内是否存在淘金现象;该区域经济比较活跃，要进入相邻漠河等地必须先进入核心区，而且保护区面积过大，包含20多万人口，应取其中一段最重要区域保护，或与呼中自然保护区共同管理；区内部分河段采挖、污染严重，且涉及多个县和林业局，如何管理；申报书中所附权属证仅为呼玛一小块的水产养殖证，不是土地权属证明，其林地的林权属林业部门，保护与林业生产如何协调。 <br><br>    八、江苏洪泽湖湿地自然保护区 <br><br>    淮河污染问题可能会影响到保护区，应重视水体的污染防治。 <br><br>    九、安徽安庆沿江湿地自然保护区 <br><br>    管理站建在县城，固定资产较少；管理薄弱，人员编制不足，湖区仅依靠群众巡查，自身无力进行有效管护；养殖面积过大，达60%以上；生活面源污染、养殖导致水体严重的富营养化；保护区无湖区使用权属，划建保护区将影响渔民的生产生活。 <br><br>    十、安徽铜陵淡水豚自然保护区 <br><br>    保护区水面面积较大，如何发挥其他有关部门的作用。 <br><br>    十一、福建茫荡山自然保护区 <br><br>    保护区内有风景区，如何防止旅游开发对资源和环境造成破坏；自然保护区内国有土地比例过低，农民及集体土地应明确保护职责；申报书中反映在自然保护区内有采育场及工区。 <br><br>    十二、福建闽江源自然保护区 <br><br>    保护区建立时间短，基础设施严重不足，无派出所，缺乏管理档案。 <br><br>    十三、山东荣成大天鹅自然保护区 <br><br>    保护区内农田面积过大，占61.1%，周边人口众多；在保护区管理中海洋、林业等部门如何协调共管。保护区内养殖密度过大，媒体反映核心区存在养殖活动；总体规划将港口、养殖场、松林都划入自然保护区内；该保护区在已规划批准的马山港国家级旅游区范围内。 <br><br>    十四、山东滨州贝壳堤岛与湿地自然保护区 <br><br>    保护区内养殖场和盐场情况如何。 <br><br>    十五、河南小秦岭自然保护区 <br><br>    保护区科研工作开展较差，科学考察不深入，资源本底不清；应对旅游进行规划；申报材料存在错误。 <br><br>    十六、湖北九宫山自然保护区 <br><br>    保护区核心区邻近的江西周边开垦很严重；保护区与风景名胜区的关系如何。 <br><br>    十七、湖南乌云界自然保护区 <br><br>    专业人员业务水平有待提高；保护大型猫科动物，面积应更大一些；区内全为集体林，保护和利用如何协调；规划中搬迁1000多人，未明确时间表。 <br><br>    十八、湖南鹰嘴界自然保护区 <br><br>    申报材料简单粗糙，保护区技术人员业务水平不高；申报书有些内容不实。其经费紧张，但生态旅游年产值达60万元，两者如何协调； 保护区内有两个乡，其缓冲区、核心区内人口较多。 <br><br>    十九、广西千家洞自然保护区 <br><br>    保护区水源丰富，水电站建设需要关注；保护区内旅游开发强度过大。 <br><br>    二十、广西九万山自然保护区 <br><br>    保护区属三个县林业局，如何协调； 管理局级别未确定。 <br><br>    二十一、四川米仓山自然保护区 <br><br>    人口较多，虽已有搬迁计划，但未明确时间表；保护区是否与观雾山风景区有交叉。 <br><br>    二十二、四川雪宝顶自然保护区 <br><br>    管理力量不足，运行经费缺乏；进入保护区采摘、偷猎现象普遍，建议加强保护措施；区内存在放牧现象，周边还有开采钨矿等开矿现象。 <br><br>    二十三、云南永德大雪山自然保护区 <br><br>    保护区晋升后将管理局移至县城内，不利于管理保护；规划中将避雷设施建在山头，对于森林防火作用不大；保护区管理手段落后，基础设施缺乏。 <br><br>    二十四、云南会泽黑颈鹤自然保护区 <br><br>    管理人员偏少，经费紧张；核心区存在农业活动，影响黑颈鹤等栖息安全； 规划要恢复草地，将防护林砍掉，应慎重；科研监测中应加强鱼类调查。 <br><br>    二十五、陕西子午岭自然保护区 <br><br>    核心区区划不合理，过境公路如何处理。 <br><br>    二十六、甘肃盐池湾自然保护区 <br><br>    农业部已将保护区所在县列入重点草原建设规划，两者需要协调；依据《草原法》，草原的土地证早已发给当地牧民，而材料中仅仅说明林权归保护区，回避草原土地权属矛盾。如草原权属问题无法解决，可能会影响到牧民的生产生活；草原鼠兔对草原危害问题应该重视；面对保护区130多万公顷面积，管理人员仅有10人，管理力量单薄，建议相关部门增加编制和加强管理措施或缩小保护区面积。 <br><br>    二十七、甘肃安南坝野骆驼自然保护区 <br><br>    管护设备简陋、手段落后、资金匮乏；核心区存在开采石棉矿活动，破坏和污染严重；无管护站点，无人管理。 <br><br>    二十八、甘肃头二三滩自然保护区 <br><br>    技术人员能力有待加强；保护区名称易让人产生误解，头二三滩容易认为是滩涂，能否改名；材料中保护对象描述不具体；保护区周边人口众多，干扰大。 <br><br>    二十九、宁夏哈巴湖自然保护区 <br><br>    保护区在实验区内开展治沙造林，建议以封育为主；保护区管理局与林场合一，不利于管理和保护。 <br><br>    三十、新疆塔里木胡杨自然保护区 <br><br>    区内存在放牧问题。 <br><br>    二○○五年八月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

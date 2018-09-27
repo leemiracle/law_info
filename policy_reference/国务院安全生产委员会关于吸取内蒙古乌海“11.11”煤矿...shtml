@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安全生产委员会<BR>&nbsp;&nbsp;【发布文号】安委字[2005]2号<BR>&nbsp;&nbsp;【发布日期】2005-11-19<BR>&nbsp;&nbsp;【生效日期】2005-11-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2005-11/20/content_146565.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安全生产委员会关于吸取内蒙古乌海“11.11”煤矿事故教训进一步做好煤矿整顿关闭工作的通报<br><br></font>(安委字[2005]2号)</p><br>  <br> <br>各省、自治区、直辖市人民政府，国务院各部委、各直属机构： <br><br>    2005年11月11日，内蒙古自治区乌海市乌达区巴音赛煤焦有限责任公司发生一起特大瓦斯爆炸事故，造成16人死亡，3人受伤。事故发生后，国务院领导同志高度重视并作出重要批示，要求各地区、各部门严防煤矿重、特大事故的发生。为深刻吸取事故教训，进一步做好整顿关闭不具备安全生产条件和非法煤矿的工作，经国务院同意，现将有关情况通报如下： <br><br>    内蒙古自治区乌海市乌达区巴音赛煤焦有限责任公司原属地方国有煤矿，1999年改制为股份制企业，有矿井3对，年产煤能力9万吨，属低瓦斯矿井。由于存在超层越界开采、瓦斯监控系统不起作用、不认真执行瓦斯检查制度、未取得安全生产许可证等问题，地方煤矿安全监管部门、煤矿安全监察机构先后多次到该矿检查，并下达整改通知书；9月21日，乌海市人民政府有关部门和煤矿安全监察机构责令其停产整顿并向社会公告；10月16日，内蒙古煤矿安全监察局再次明确要求其停产整顿。但该矿拒不执行停产整顿的指令，仍然超层越界、非法组织生产，造成矿井之间相互贯通，破坏了原有通风系统，形成瓦斯积聚，由于违章作业，引发了这起特大事故。经初步调查认定，这是一起典型的停产整顿矿井拒不执行煤矿安全监管、监察指令，违法生产造成的责任事故。 <br><br>    这起事故发生在全国认真贯彻《国务院关于预防煤矿生产安全事故的特别规定》(国务院令第446号，以下简称《特别规定》)和《国务院办公厅关于坚决整顿关闭不具备安全生产条件和非法煤矿的紧急通知》（国办发明电[2005]21号，以下简称《紧急通知》）精神，严厉打击煤矿非法生产的关键时期，充分暴露了该煤矿无视国家法律法规，不顾职工生命财产安全，"要钱不要命"的严重问题，是典型的有令不行，有禁不止，顶风违法行为，性质十分恶劣。 <br><br>    各产煤省（区、市）、各有关部门和煤矿企业要深刻吸取这起事故的教训，举一反三，切实加强对煤矿整顿关闭工作的组织领导，认真落实煤矿整顿关闭工作要求，采取有力措施，坚决杜绝停产整顿矿井非法生产，遏制重、特大事故的发生。 <br><br>    一、 依法严肃追究事故责任，深刻吸取事故教训。内蒙古自治区人民政府要在查明事故原因的基础上，依据《特别规定》等有关法律法规，对相关责任单位和责任人作出严肃处理，构成犯罪的，要及时移送司法机关追究刑事责任，要督促乌海市按照《特别规定》的要求，对事故矿井依法进行关闭，并实行经济处罚。事故调查报告报国家煤矿安全监察局批复，向社会公布。内蒙古自治区人民政府要对本区煤矿安全生产工作特别是煤矿关闭整顿工作进一步作出部署，切实加强组织领导和监督检查，全面落实煤矿整顿关闭的各项措施，防止此类事故再次发生。 <br><br>    二、 加强组织领导，进一步落实整顿关闭责任。有关地方人民政府要把煤矿整顿关闭作为当前的工作重点，加强领导、落实责任，精心组织实施，防止只整顿不关闭、停而不整等走过场现象的发生。要组织有关部门联合执法，对无证非法开采的煤矿坚决关闭取缔，对不具备整改条件的矿井要依法立即关闭。截至10月底，全国停产整顿已验收煤矿中，不合格应关闭的占27.6％，但各地的情况差异很大。各产煤省(区、市)要结合实际确定年内应关闭矿井的数量目标，并落实到各产煤市(地)和县(市)，于2005年11月30日前，报国务院安全生产委员会办公室。 <br><br>    三、认真落实停产整顿措施，严把复产验收关。目前，各产煤省(区、市)的煤矿整顿关闭工作进展很不平衡，一些煤矿不认真制订整改措施，明停暗采或拒不停产整顿；部分地区验收标准过低、把关不严、验收复产矿井比例偏低。各停产整顿煤矿必须在规定的时限内完成整改工作，提出验收申请，对验收不合格或逾期不提出申请的一律予以关闭。验收合格的矿井复产前要制订恢复生产方案，加强人员培训，确保安全生产。各产煤省(区、市)要按照颁发煤矿安全生产许可证等证照所具备的基本条件，结合实际制订严格的整顿验收标准和验收程序，坚持"谁验收、谁签字、谁负责"的原则，组织分期分批地搞好停产整顿矿井的验收工作，避免将所有停产整顿矿井的验收时间都集中在年底。各产煤省(区、市)煤矿安全生产监管部门和监察机构，要组织对本地区停产整顿矿井的验收情况进行抽查。 <br><br>    四、强化检查监督，严厉打击非法生产行为。各产煤省(区、市)、各有关部门要按照《紧急通知》要求，切实加强对停产整顿矿井的监管，督促煤矿企业落实整顿措施，加快整顿进度，保证整顿质量。要向停产整顿矿井派驻安全监督员，监督检查煤矿停产整顿情况。严厉打击停产整顿矿井非法生产行为，发现停产整顿矿井明停暗采、只停不整、假整顿真生产的，要按《特别规定》要求立即予以关闭，并追究有关人员的责任。 <br><br>    五、加强对建设项目的检查复核，加大瓦斯治理力度。各地区要对技改、改扩建、新建和资源整合矿井进行检查复核。凡是工程项目及设计未经审批、未履行"三同时"审核手续、擅自违法施工或不具备安全施工条件的技改、改扩建、新建矿井，坚决整顿或关闭；资源整合必须坚持先关闭后整合、以大并小、以优并差的原则，被关闭矿井的资源仍有开采价值的，要纳入整合范畴。严禁借"技术改造"、"改扩建"、"资源整合"之名，拖延或逃避关闭。要深入贯彻落实国务院第81次常务会议确定的瓦斯治理七项措施，把瓦斯监控系统联网和核定矿井通风能力作为重点，加快工作进度。2005年年底前，国有煤矿必须在集团公司(矿务局)内部实现瓦斯监控系统联网，产煤县必须在县域内实现联网。尚未完成矿井通风能力核定的省(区、市)，要结合整顿关闭工作的实施，抓紧完成矿井通风能力核定。要继续抓好安全督导，严防超能力、超强度、超定员组织生产。 <br><br>    各产煤省(区、市)人民政府要将本通报转发至各产煤市(地)、县(市)、乡镇及各煤矿企业，并认真组织落实和监督检查，确保各项措施落到实处。 <br><br>                               二○○五年十一月十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

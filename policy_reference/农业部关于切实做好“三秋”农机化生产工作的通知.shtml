@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办机[2009]40号<BR>&nbsp;&nbsp;【发布日期】2009-09-14<BR>&nbsp;&nbsp;【生效日期】0200-09-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20090916_1351471.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于切实做好“三秋”农机化生产工作的通知 <br><br></font>(农办机[2009]40号)</p><br><br><br>    各省、自治区、直辖市农机管理局（办公室）：<br><br>    当前，“三秋”农业生产正逐步展开。秋收和秋冬种等机械化作业的成效，直接关系到全年粮食的丰产丰收和来年夏季粮油的收成。为认真贯彻落实全国秋冬种工作电视电话会议精神，切实做好“三秋”农机化生产工作，现将有关要求通知如下：<br><br>    一、明确目标，切实加强组织领导<br><br>    今年“三秋”农机化生产工作的目标是：紧紧围绕重点作物、关键生产环节和主产区的机械化生产，以狠抓水稻、玉米机收，秸秆机械粉碎还田，小麦、油菜机播以及农机抗灾减灾作业为重点，推进作业机具稳步增长、作业水平不断提高、作业市场稳定有序。确保投入机具总量比2008年增加200万台套，达到2800万台套以上；玉米机收水平提高2个百分点，超过12%；水稻机收水平提高4个百分点，越过54%；小麦机播水平提高2个百分点，超过82%；油菜、马铃薯等作物的机械化播种取得明显进展，进一步提升秋收和秋冬种生产机械化水平。各地要把“三秋”农机化生产工作作为当前农机化工作的中心任务，紧紧围绕上述目标，加强组织领导，结合实际，明确本地区目标任务，制定工作方案，狠抓措施到位，强化责任落实，提高农机具完好率、出勤率和作业效率，保障秋冬季农业生产的顺利进行。<br><br>    二、积极协调，全面落实扶持政策<br><br>    加强与财政部门的配合，认真落实好购机补贴政策，按照农业部、财政部的有关要求，规范操作，强化监管，提高工作效率，加大宣传力度，提高服务水平，确保补贴政策的实惠不折不扣落到农民手中，确保补贴机具在“三秋”中发挥作用。积极协调，落实好对农机作业服务和农机维修免征所得税和跨区作业免费通行政策，积极争取作业补贴、机具更新、信贷支持等扶持农机化发展政策。协调、组织有关部门和单位，实行优先、优惠、便利供应，确保物资及时到位。<br><br>    三、优化服务，大力推进跨区作业<br><br>    以水稻、玉米跨区机收为重点，推动秋季农机跨区作业由机收向机耕、机播等领域拓展。扎实做好跨区作业证发放、作业供需协调、机手培训、技术指导、信息引导和接待服务等工作。抽调管理干部和技术人员深入乡村，帮助和指导机手维修和保养机具，保证机具以良好的状态投入作业。密切部门配合，严格市场管理，保持供需平衡，促进机具顺畅转移、有效作业，保持机手收益平稳。有关省份要针对北方部分地区作物生育期明显比往年推迟、适时收获时间紧的情况，强化跨区作业组织调度，开展场县共建，推进区域协作，充分发挥农机抢收、抢种的作用，确保颗粒归仓，适时播种。<br><br>    四、狠抓培训，积极推广农机化新技术<br><br>    今年，我部制定了《“三秋”农机作业技术要点》，各地要结合实际，认真贯彻落实。组织技术人员深入生产一线，因地制宜开展技术示范、培训和指导，大力推广应用保护性耕作、化肥深施、机械深松、精量播种、秸秆还田、节水灌溉、高效施药等节本增效新技术、新机具，促进农机农艺结合，切实提高“三秋”农机化生产科技水平。要大力宣传农机作业质量标准，加强作业质量监督，推进优质优价，加速新技术推广。今年秋冬种要搞好旋耕、播种机的镇压器配套，突出解决播种镇压问题，保水保墒，提高播种质量和抗旱能力。各地要采取多种形式，认真组织开展技术培训，提高农机手操作技能，保证技术到位率。<br><br>    五、强化引导，着力提高组织化程度<br><br>    积极组织农机专业合作社、农机作业服务公司等农机社会化服务组织投入“三秋”生产，开展农机跨区作业，抓好农机防灾减灾。大力组织推广订单作业、承包服务、“一条龙服务”、“套餐服务”，降低交易成本和风险，提高跨区作业效益。要充分利用“农机跨区作业服务直通车”信息服务平台和手机短信等手段，及时发布生产作业进度和柴油供应、作业价格、天气等相关信息，加强信息引导。特别要组织合作社、作业队等积极开展帮扶，为农村军属、烈属、孤寡困难户、缺少劳力的农户和灾区受灾户提供优先、优惠作业服务，解决他们的后顾之忧。立足于防大灾、抗大灾、救大灾，各地要制定完善工作预案，开展农机防灾减灾宣传教育，及时组织农机作业队，开展抢收抢种、病虫防治、提水灌溉、抢排积水、抢修灾毁农田、抢运救灾物资等抗灾救灾应急作业，当前要进一步组织农机抗旱，充分发挥农机在防灾减灾中的积极作用。<br><br>    六、加强监管，切实维护作业安全<br><br>    深入全面开展农机安全生产“三项行动”和“三项建设”，加强“平安农机”创建工作，结合“三秋”农机化生产特点和“国庆”等重大节日安全工作要求，全面落实安全生产责任制，强化安全生产检查，加强农机手安全教育和操作技术培训，组织开展事故隐患排查治理，消除农机事故隐患，预防农机事故发生，推动农机作业快速、高效、安全开展。各地要密切与公安、交通等部门配合，严格查处驾驶操作人员违法违章行为，及时处理农机发生的道路交通事故，加强公路养护巡查，保证路况良好、畅通，为拖拉机、联合收割机等农机的安全转移和作业创造有利条件。当前，要按照《国务院安委会关于开展全国安全生产大检查的通知》（安委明电[2009]2号）的精神和《农业部办公厅关于开展全国农机安全生产大检查的通知》（农办机[2009]36号）要求，结合实际，组织好安全生产大检查，有效防范和坚决遏制重特大事故发生，为国庆60周年和秋季农机化生产创造良好的安全环境。<br><br>    七、做好宣传，努力营造良好氛围<br><br>    各省区市农机化主管部门要及时启动“三秋”机械化生产作业进度统计工作，作业期间每周一周四向我部报送秋季农机作业进度统计表（附件）和工作动态，及时准确反映各地工作进度和成效。要密切与新闻媒体合作，认真组织策划“三秋”农机化生产宣传报道，捕捉新闻焦点，挖掘新闻题材，培育宣传亮点，通过多种形式，面向社会广泛报道“三秋”农机化生产的工作动态、成效经验和先进典型，大力宣传玉米机收、油菜机播等农机化的新亮点，宣传农机化在提高农业综合生产能力和抵御灾害能力，保障粮食丰产丰收，促进农业稳定发展和农民持续增收等方面的重要作用和贡献，为“三秋”农机化生产营造良好的舆论氛围。<br><br>    附件：“三秋”农业机械作业进度统计表下载<br><br>    农业部办公厅<br><br>    二○○九年九月十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

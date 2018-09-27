@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财会［2008］16号<BR>&nbsp;&nbsp;【发布日期】2008-12-18<BR>&nbsp;&nbsp;【生效日期】2008-12-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://kjs.mof.gov.cn/kjs/zhengwuxinxi/gongzuodongtai/200812/t20081226_103317.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于推进会计从业资格无纸化考试的指导意见<br><br></font>(财会［2008］16号)</p><br> <br><br>中共中央直属机关事务管理局，铁道部（财务司）、国务院机关事务管理局（财务管理司），解放军总后勤部、武警部队后勤部，各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财务局：<br><br>    会计从业资格考试是我国会计人员的准入资格考试，具有基础性强和考生人数众多的特点。在传统考试模式下，开展会计从业资格考试，通常具有组织难度大、投入成本高、运转周期长等弊端。与传统考试模式相比，无纸化考试能够更加有效地确保考试的客观性、公正性、实时性，具有提高会计管理工作效率、节约考试资源、规范考试管理、方便考生应考等传统考试不可替代的优势，是贯彻落实科学发展观，积极构建节约型政府的有力举措，是会计从业资格考试发展的必然趋势。为此，根据《中华人民共和国会计法》和《会计从业资格管理办法》（财政部令第26号），我部决定在全国范围内有序推广和规范会计从业资格无纸化考试（以下简称无纸化考试）工作。现提出如下指导意见，请遵照执行。各部门、各地区会计从业资格管理机构在推进无纸化考试工作中有何问题，请及时反馈。<br><br>    一、会计从业资格无纸化考试的目标和原则<br><br>    （一）按照科学发展观要求，争取用3-5年的时间，逐步在全国范围内推进无纸化考试工作，提高会计从业资格管理工作效率和水平，进一步规范会计从业资格考试工作，提升考试权威性和公正性，甄选优秀的人才加入会计人员队伍。<br><br>    （二）开展无纸化考试工作，必须遵循以下原则：<br><br>    1.“依法开展”原则。各会计从业资格管理机构应当严格按照《行政许可法》、《会计法》和《会计从业资格管理办法》等法律法规的要求组织开展无纸化考试，做到方式合法、程序合法、结果合法。<br><br>    2.“以人为本”原则。各会计从业资格管理机构应当全面树立服务考生、方便考生的理念，以考生为中心，结合本地实际情况，研究、制定无纸化考试管理办法和考务规则，简化报名手续，优化网络服务、咨询平台，合理规划考试时间，科学设置考试场所。<br><br>    3.“因地制宜”原则。各会计从业资格管理机构应当综合利用现有条件，加强基础调查、研究，在充分借鉴无纸化考试试点地区（或部门）经验的基础上，结合本地区、本部门、本系统的实际情况，稳步推进无纸化考试工作，避免盲目上马和重复开发。<br><br>    4.“安全可靠”原则。各会计从业资格管理机构应当按照无纸化考试的特点，统筹安排考务工作流程，合理配置软、硬件环境，提前设置预防考试过程中出现死机、断电等突发事件的应急预案，确保无纸化考试环境的安全、可靠。同时，各会计从业资格管理机构应当加强对考试纪律的监管，严肃考风考纪，确保无纸化考试过程的平稳、安全。<br><br>    二、会计从业资格无纸化考试的具体要求<br><br>    （三）无纸化考试，是以财政部印发的《会计从业资格考试大纲》为依据、以优化的题库资源为基础、以现代信息技术为手段，通过随机组卷生成无纸化考试试卷（包括会计基础、财经法规与会计职业道德和初级会计电算化）进行考试，并及时生成考试成绩，集考试报名、试卷生成、上机考试、阅卷、成绩生成、合格证（单）打印等为一体的、多元化、新型的会计从业考试管理模式。<br><br>    （四）系统的建设与维护。开展无纸化考试的地区和部门，应当确保无纸化考试基本的软、硬件建设资金要求，加强系统的基础建设、后期维护和人员培训，严格内部管理及保密制度，确保无纸化考试系统的稳定、安全、有效。<br><br>    （五）题库的开发建设。题库是实施无纸化考试的关键环节。各会计从业资格管理机构应当重视无纸化考试题库的开发建设工作。<br><br>    题库的开发建设应当完全覆盖《会计从业资格考试大纲》中所有的知识点。现阶段可由各地自行组织专家开发建设题库；随着此项工作的推进，财政部将统一组织专家开发建设题库。<br><br>    题库中题目的类型可以是单选题、多选题、不定项选择题、判断题、计算题、案例题、情景题等，其中，单选题、多选题、不定项选择题的各选项在组卷时，应能做到随机排列出现。<br><br>    各会计从业资格管理机构应当重视题库的保密工作和后期管理，制定题库的保密规则，建立题库定期更新机制，更新的周期一般不超过1年，以确保会计从业资格考试的前瞻性、时效性、先导性、权威性和优质性。<br><br>    （六）考试报名工作的安排。各会计从业资格管理机构应当将无纸化考试报名时间和程序在当地财政网站、考试管理机构网站和相关新闻媒体上予以公告，并保留足够的公告期。<br><br>    采用现场报名方式的，报名现场应当配备具有直接读取二代身份证或其他有效证件存储信息功能的设备、采集考生影像的设备和采集考生指纹信息的设备等，增强考生信息录入的准确性，加强对考生信息的审核程序，有效杜绝可能发生的舞弊行为。<br><br>    采用网上报名方式的，应当在网上报名页面上告知网上报名具体流程，具备网上申请、图片数据上传、网上审核、在线支付、准考证下载打印等功能。同时，各会计从业资格管理机构应当加强对考生网上报名信息的审核程序，采取现场复核考生身份信息、现场采集考生指纹信息、现场核对考生影像等有效方式核实考生报名信息的真实性，有效杜绝可能发生的舞弊行为。<br><br>    （七）考试费用的确定。由于需要利用计算机考场组织无纸化考试，可能导致会计从业资格考试前期成本增加。会计从业资格管理机构应当及时会同所在地或具有管辖权的发展改革委和物价管理部门研究制定考试收费标准，并及时予以公布。<br><br>    （八）考试周期。在确保考生考试权利的基础上，各会计从业资格管理机构应当根据本地区、本部门、本系统的无纸化考试考场数量和考生数量，合理确定无纸化考试周期。<br><br>    （九）考场的部署。无纸化考试需要部署计算机考场组织考试工作，各会计从业资格管理机构应当以建立自有计算机考试基地为主；在安全可控的条件下，可适当利用社会资源部署计算机考场。<br><br>    （十）考场的监管。无纸化考试现场应当设置巡考和监考人员，严格执行有关考务工作要求。有条件的地区，可以同时采用考场视频监控系统对考场进行监管。<br><br>    （十一）电子试卷的生成、下载、发放和成绩判定。电子试卷应由无纸化考试系统随机生成。各地会计从业资格管理机构应当严格控制无纸化考试电子试卷的生成、下载和发放。<br><br>    电子试卷生成时间，应当在充分考虑所需生成试卷数量和服务器工作性能的基础上，合理加以确定，一般不超过24小时，允许各计算机考场在考试开始前的24小时之内下载。电子试卷在生成时应自动加密，在开考前保持加密状态。只有在指定的考试时间，考生登录考试系统后，电子试卷方可自动解密打开。考试终端设备应当与服务器保持时间同步，不得在考试开始后作任何调整。规定的考试结束时间到达后，考试系统应能立即强制中止考试并收卷。考生成绩应由考试系统自动判定生成。<br><br>    （十二）考生试卷和成绩的保存。考试过程中，无纸化考试系统能够定期自动保存考生答题情况，以预防死机、断电、误操作等突发事件而造成的考试中断。考试结束后，考生的考试成绩应由考场统一回收至数据库并永久保存，考生的电子试卷应当在数据库中至少保存1年；有条件的地区，可专设一台服务器作为考试试卷和考试成绩数据库的备份设备。<br><br>    （十三）考试软件标准化接口要求。各会计从业资格管理机构在自行开发、使用无纸化考试软件系统时，应当留有与财政部或本省、自治区、直辖市会计人员管理系统或信息平台的标准化接口，为实现全国会计从业资格网络化管理创造条件。<br><br>    三、会计从业资格无纸化考试的组织领导<br><br>    （十四）无纸化考试工作按照会计从业资格管理体制进行归口管理。<br><br>    财政部统筹领导全国无纸化考试工作。按照《会计法》、《会计从业资格管理办法》的要求，提出无纸化考试指导性意见，督促、协调、检查各地会计从业资格管理机构无纸化考试工作，并负责全国会计从业资格信息化管理接口建设等工作。<br><br>    各省级财政部门、新疆建设兵团财务局和中共中央直属机关事务管理局、铁道部财务司、国务院机关事务管理局财务管理司、解放军总后勤部、武警部队后勤部等会计从业资格管理机构分别负责本地区、本部门、本系统的无纸化考试工作。各会计从业资格管理机构按照本指导意见，结合本地区、本部门、本系统的实际，提出开展无纸化考试的实施方案，制定无纸化考试的规章、制度，具体组织无纸化考试工作，定期将有关情况报财政部备案。<br><br>                                                          财政部<br>                                                  二OO八年十二月十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

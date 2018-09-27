@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2010〕6号<BR>&nbsp;&nbsp;【发布日期】2010-01-25<BR>&nbsp;&nbsp;【生效日期】2010-01-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/web/site0/tab68/i121794.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于保险业做好《企业会计准则解释第2号》实施工作的通知 <br><br></font>(保监发〔2010〕6号)</p><br><br><br>    各保险公司：<br><br>    2008年8月以来，财政部和我会先后发布了《企业会计准则解释第2号》（以下简称《2号解释》）和《关于保险业实施<企业会计准则解释第2号>有关事项的通知》（保监发〔2009〕1号）。2009年12月22日，财政部印发了《财政部关于印发〈保险合同相关会计处理规定〉的通知》（财会〔2009〕15号）。为确保上述文件的顺利实施，现将有关事项通知如下：<br><br>    一、关于重大保险风险测试<br><br>    保险公司应当按照财政部《保险合同相关会计处理规定》的要求，对签发的保单进行重大保险风险测试。具体测试方法、标准和控制程序请遵照《重大保险风险测试实施指引》（见附件）执行。保险公司应于2010年5月15日前，按照《重大保险风险测试实施指引》的要求将重大保险风险测试制度和程序报中国保监会备案。<br><br>    二、关于准备金计量控制程序<br><br>    各公司应建立准备金计量工作流程和内控体系，确保准备金计量真实、公允，有效防范准备金计量的随意性，公司法定代表人对准备金会计信息的真实性负责。准备金计量工作由公司董事会负总责，管理层、职能部门和经办岗位分级授权，权责分明，分工合作，相互制约。<br><br>    （一）准备金计量涉及的重大会计政策和会计估计应当经公司总精算师（精算责任人）和财务负责人同意后，提交公司董事会或总经理办公会研究决定，包括但不限于：<br><br>    1、准备金的计量方法、计量单元及其确定原则；<br><br>    2、预期未来现金流入和流出金额的组成内容和计量方法；<br><br>    3、重要计量假设，特别是寿险业务折现率假设；<br><br>    4、边际的计量方法和计入当期损益的原则和模式；<br><br>    5、以上重大会计政策和会计估计的变更。<br><br>    有关职能部门应当向董事会或总经理办公会提交不同会计政策和会计估计对公司战略、财务报表的影响分析报告，供研究决策。<br><br>    （二）总精算师（精算责任人）和财务负责人应当保持专业判断的独立性。如果董事会和公司管理层确定的会计政策和会计估计违反会计准则有关规定的，总精算师（精算责任人）和财务负责人应当及时向董事会、总经理提出纠正建议；董事会、总经理没有采取措施纠正的，应当向中国保监会报告，并有权拒绝在相关文件上签字；若总精算师（精算责任人）和财务负责人未向中国保监会报告，将追究总精算师（精算责任人）和财务负责人的责任。<br><br>    （三）准备金计量承办部门应当会同相关部门共同研究确定准备金计量假设、模型、具体方法及其变更，建立准备金计量报告的会签制度。有关部门应积极配合准备金计量承办部门的工作，并及时提供所需的数据和资料。<br><br>    （四）保险公司应于2010年5月15日之前将准备金计量工作流程和内控制度报中国保监会备案。本通知发布之后新开业的保险公司，应在开业申请材料中向保监会报送准备金计量工作流程和内控制度，作为财务制度的一部分。<br><br>    （五）注册会计师在对保险公司财务报告进行审计时，应重点关注准备金计量的内控程序是否符合保监会相关规定，是否得到一贯遵循和有效执行。<br><br>    三、关于准备金计量的折现率假设<br><br>    对于未来保险利益不受对应资产组合投资收益影响的保险合同，用于计算未到期责任准备金的折现率，应当根据与负债现金流出期限和风险相当的市场利率确定。该市场利率可以中央国债登记结算有限责任公司编制的750个工作日国债收益率曲线的移动平均为基准（中国债券信息网“保险合同准备金计量基准收益率曲线”，www.chinabond.com.cn），加合理的溢价确定。溢价幅度暂不得高于150个基点。<br><br>    四、关于非寿险业务准备金的风险边际<br><br>    财产保险公司与再保险公司可以根据自身的数据测算并确定非寿险业务准备金的风险边际，但测算风险边际的方法限定为资本成本法和75%分位数法，风险边际与未来现金流现值的无偏估计的比例不得超出2.5%－15.0%的区间，同时测算风险边际的方法和假设应在报表附注中详细披露。不具备数据基础进行测算的财产保险公司与再保险公司，非寿险业务准备金的风险边际应采用行业比例，未到期责任准备金的风险边际按照未来现金流现值的无偏估计的3.0%确定，未决赔款准备金的风险边际按照未来现金流现值无偏估计的2.5%确定。<br><br>    五、关于分红保险专题财务报告<br><br>    重大保险风险测试和财务报告准备金计量原则均适用于分红保险专题财务报告，未通过测试的分红产品的经营情况也应当在分红保险专题财务报告的各张财务报表中反映。例如，某分红保险产品未通过重大保险风险测试，其保费和赔付支出不能确认为分红保险利润表中的保费收入和赔付支出，但其相关的经营费用、宣告红利等仍应在分红保险利润表中列示。<br><br>    未通过重大保险风险测试的分红保险产品的基本信息应在专题财务报告“分红保险业务基本情况”部分披露，其对应的负债，在分红保险资产负债状况表的“保户储金及投资款”项目中列示。<br><br>    六、关于非保险合同保单负债的计量<br><br>    非保险合同保单的负债应根据产品性质，适用相应的会计准则进行确认、计量和报告。其中，属于金融工具的，应按照金融工具相关会计准则进行确认、计量和报告，具体如下：<br><br>    1、未通过重大保险风险测试的保单的负债，应当采用实际利率法，按摊余成本计量，相关交易费用计入负债初始确认金额。在确定实际利率时，应考虑保险风险的现金流，除非这部分现金流对整个合同现金流的影响不重大。<br><br>    2、投资连结保险分拆后的独立账户负债，应当按照公允价值计量，相关交易费用计入当期损益。<br><br>    3、万能保险分拆后的投资账户负债，应当采用实际利率法，按摊余成本计量，相关交易费用计入负债初始确认金额。<br><br>    4、非预定收益型非寿险投资型产品的保户投资金负债，应当按照公允价值计量，相关交易费用计入当期损益。<br><br>    5、预定收益型非寿险投资型产品的保户投资金负债，应当采用实际利率法，按摊余成本计量，相关交易费用计入负债初始确认金额。<br><br>    七、关于寿险公司有关报告的衔接过渡<br><br>    为了保持寿险公司有关监管报告的前后衔接和监管信息的平稳过渡，寿险公司除按照新会计政策编报2009年年度及以后各期偿付能力报告和分红保险专题财务报告之外，还需要同时按照实施《保险合同相关会计处理规定》之前的会计政策和精算规定向保监会报送2009年和2010年分红保险专题财务报告（备考报告），2009年年度、2010年各季度和2010年年度偿付能力报告（备考报告）。<br><br>    八、关于报告报送时间<br><br>    各公司2009年年度财务报告、分红保险专题财务报告及其备考报告、年度偿付能力报告及其备考报告、交强险专题财务报告可以延迟至2010年5月15日前报送。<br><br>    2010年第1季度偿付能力报告，于2010年4月15日前报送。2010年第2季度偿付能力报告的期初数应根据审计后的2009年年度偿付能力报告做相应调整。<br><br>    九、关于保险业务监管费<br><br>    2008年12月，保监会发布了《关于调整保险业务监管费收费标准及收费办法有关事项的通知》（保监发〔2008〕121号），其中已将保险业务监管费计缴基础从以前的“自留保费收入”修改为“自留保费”。自留保费是指，保险人按照保险合同约定向投保人收取的全部保费减去分保给再保险人后的金额，不是财务报表中的自留保费收入，其计算口径不因会计核算口径的变化而变化。<br><br>    十、关于实施要求<br><br>    （一）统一思想，形成合力。执行《2号解释》是保险业贯彻落实科学发展观的重要举措，有利于更加客观、公允的反映保险公司的财务状况和经营成果，有利于促进保险业结构调整和行业“又好又快”地科学发展。各公司一定要牢固树立大局意识、政治意识，进一步提高认识，统一思想，形成合力，积极推进保险业贯彻落实《2号解释》的各项工作。<br><br>    （二）高度重视，加强学习。《2号解释》的施行将对保险公司的会计、审计、内部控制、公司治理及发展战略等方面产生重大影响，各公司务必高度重视，采取有效方式组织公司董事、监事、高管及公司员工对《2号解释》进行认真学习，深刻领会和准确把握《2号解释》的内涵和精神实质。《2号解释》实施后，绝大多数保险公司的净资产和利润将有所增加，但这只是由于财务报告所采用的准备金计量口径由审慎的法定责任准备金计提标准向公允的责任准备金计提标准转变的结果，这种影响是一次性的，并不代表公司的财务风险减弱或经营管理水平的改善。对此，公司管理层一定要有正确的认识，保持清醒的头脑，不断加强内部经营管理，加大结构调整力度。<br><br>    （三）精心组织，依法合规。保险业执行《2号解释》的各项工作，时间紧、任务重，各公司应成立以公司主要领导为第一责任人的《2号解释》实施工作小组，精心组织，统筹安排，明确目标，落实责任，确保《2号解释》顺利实施。同时，严格禁止各公司在执行《2号解释》的过程中，利用会计政策变更之机，滥用会计准则赋予的会计判断，操纵公司利润。中国保监会将对保险公司实施新会计政策后的2009年年报组织检查，对违法违规的公司和高管人员将进行严肃处理。<br><br>    十一、如有《2号解释》实施方面的建议或实施过程中遇到问题，请与我会财务会计部财务监管处联系。<br><br>    联系人：黄洋、郭菁<br><br>    电 话：010－66286125 66286182<br><br>    附件：重大保险风险测试实施指引<br><br>    中国保险监督管理委员会<br><br>    二○一○年一月二十五日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

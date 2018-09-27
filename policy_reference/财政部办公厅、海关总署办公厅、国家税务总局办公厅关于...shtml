@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部办公厅、海关总署办公厅、国家税务总局办公厅<BR>&nbsp;&nbsp;【发布文号】财办关税[2009]39号<BR>&nbsp;&nbsp;【发布日期】2009-07-23<BR>&nbsp;&nbsp;【生效日期】2009-07-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/9225211.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部办公厅、海关总署办公厅、国家税务总局办公厅关于落实汶川地震灾后重建进口税收政策有关问题的通知<br> <br></font>(财办关税[2009]39号)</p><br><br><br>各省、自治区、直辖市、计划单列市人民政府办公厅，国务院各部委、各直属机构办公厅：<br>    为支持和帮助地震受灾地区积极开展生产自救，重建家园，按照《国务院关于支持汶川地震灾后恢复重建政策措施的意见》(国发[2008]2 1号)和《财政部关于进口抗震救灾物资免税通关问题的通知》(财关税[2008]70号)的相关规定，自2008年7月1日起，对受灾地区企业、单位或支援受灾地区重建的企业、单位进口国内不能满足供应并直接用于灾后重建的大宗物资、设备等，在三年内给予进口税收优惠。为更好地落实上述政策，现将有关问题通知如下：<br>    一、根据《民政部 发展改革委 财政部 国土资源部 地震局关于印发灾害范围评估结果的通知》(民发[2008]l05号)的规定，迸口税收政策所称“受灾地区”包括极重灾区1 0个县(市)、重灾区4 1个县(市、区)和一般灾区l 86个县(市、区)。具体名单见附件l。<br>    二、受灾地区或对口支援受灾地区重建的省、自治区、直辖市、计划单列市人民政府或国务院有关部门负责将所在地企业或归口管理的单位提交的直接用于灾后重建的进口国内不能满足供应的物资减免税申请汇总后报财政部，财政部会同有关部门审核提出处理意见，报请国务院批准后执行。各省、自治区、直辖市、计划单列市人民政府或国务院有关部门免税申请原则于每年第一、三季度分两次汇总上报。    。<br>    三、申报免税进口的灾后重建项目具体范围<br>    (一)根据《国务院关于印发汶川地震灾后恢复重建总体规划的通知》(国发[2008]3 1号)的有关规定，原则上凡是明确列入《汶川地震灾后恢复重建总体规划》(以下简称《规划》)中处于四川、甘肃、陕西3省5 1个县(市、区)的灾后重建项目均可申请享受进口免税政策。这些项目包括《规划》中列明的城乡住房、城镇建设、农村建设、公共服务、基础设施、产业重建、防灾减灾、生态环境、精神家园等九个部分。进口税收政策支持的重点是灾后重建中的重大基础设施建设项目、国家需要扶持的重点企业、灾区支柱产业以及修复水、电、学校、医院等公共设施项目。此类项目由省级以上(含省级)主管部门出具项目已列入《规划》的证明文件。<br>    (二)对受灾地区未列入《规划》的其他灾后重建项目应限于在汶川地震中直接遭受严重破坏(以房屋、道路、桥梁倒塌或严重受损不能继续居住或通行为准，原则上不包括机器设备)的企业和单位直接修复或更新替换上述受损设施的重建项目，不包括企业和单位在正常经营活动中用于扩大固定资产投资进口物资的项目。企业和单位的实际受损情况需由地市级以上(含地市级)人民政府机构负责进行实地调查核定并出具实际受损情况的简明评估报告以及项目情况说明表(见附件2)。<br>    四、申报免税进口商品的具体范围：<br>    (一)国内不能满足供应并直接用于灾后重建的大宗进口物资，原则上限定在国内紧缺的资源性、不可再生的自然资源范围内。量少价低的零散物资不在免税之列。申报进口此类物资应说明进口物资的种类、数量、金额、来源和进口的必要性。此类项目免税主要用于政府主导或企业捐赠的公共设施、安居民房等带有公益性质的重建项目，原则上不包括企业正常经营生产项目以及其他明显带有盈利性质的商业项目。<br>    (二)国内不能满足供应并直接用于灾后重建的进口设备，按以下标准进行认定：<br>    1．进口设备的主要技术指标优于《国内投资项目不予免税的进口商品目录》(以下简称《目录》)的，可直接认定为国内不能生产或性能指标不能满足要求的设备，此类设备符合“国内不能满足供应”的免税条件。企业或单位申报免税，可比照《目录》在申请文件中直接注明所需进口设备的品种、数量、相关技术指标及国别、进口时间等内容。<br>    2．进口设备的主要技术指标在《目录》范围内，但国内产品性能或产量暂时无法满足灾后重建需要的，企业或单位在申请文件中应当就进口的必要性进行说明，由财政部在征求国家相关行业主管部门或行业协会意见的基础上，会同海关总署、税务总局等有关部门研究确定后，对符合条件的设备按“国内不能满足供应”对待。<br>    (三)申请免税的商品必须直接用于灾后重建，并限于重建项目自用，用于经营销售的进口物资不在免税之列。企业进行生产所用的原材料、消耗品以及从国内贸易商手中间接购买的进口物资不在免税之列。<br>    五、免税申请文件应按规定提交列入《规划》的证明文件或相关政府部门出具的实际受损情况评估报告，阐述重建进口需求，并汇总申请免税进口的商品(格式参考附件：3)。同时，说明商品进口方属受灾地区企业、单位或是支援受灾地区重建的企业、单位，当进口方属于后者时须得到前者的签章证明。政府部门负责进口的也应标明具体政府机构名称。免税申请文件还应明确进口物资的最终使用方以及使用计划等情况，并以表格形式汇总(见附件4)。<br>    六、上述进口的免税物资必须直接用于灾后重建，未经海关许可，不得擅自将免税物资转让、抵押、质押、移作他用或者进行其他处置。对违反海关规定的，按照有关法律法规的规定予以处理，涉嫌犯罪的，移送司法机关处理。<br><br>    附件：1．汶川地震灾害范围评估结果<br>    2．项目情况说明表<br>    3．_____省(市)申请免税进口商品汇总清单<br>    4．受损情况及进口需求评估表<br><br>    附件下载<br>     <br>                                 中华人民共和国财政部办公厅 中华人民共和国海关总署办公厅 国家税务总局办公厅<br>                                                                 二00九年七月二十三日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

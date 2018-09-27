@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发[2007]23号<BR>&nbsp;&nbsp;【发布日期】2007-02-27<BR>&nbsp;&nbsp;【生效日期】2007-02-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=793" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于分解落实“12件实事”的通知<br><br></font>(甘政办发[2007]23号)</p><br>  <br> <br>各市、自治州人民政府，省政府各部门，中央在甘各单位：<br>    今年省第十届人大五次会议通过的《政府工作报告》确定，围绕解决涉及群众医疗、教育和生活等方面的问题，办好12件实事。为保证“12件实事”的落实，经省政府研究，现分解如下：<br>    一、新型农村合作医疗制度基本覆盖全部农村人口。<br>    牵头单位：省卫生厅。<br>    协作单位：省财政厅。<br>    要求：在已经开展新型农村合作医疗试点的38个县(市、区)的基础上，从2007年1月1日起，增加31个县(市、区)开展试点工作，全省新型农村合作医疗试点县(市、区)达到69个。从2月份开始，嘉峪关市和17个未实施新型农村合作医疗制度的县(区)也要列入试点。力争在上半年新型农村合作医疗试点基本覆盖全部农村人口。<br>    二、城市医疗保险制度基本覆盖非职工人群。<br>    牵头单位：省劳动和社会保障厅。<br>    协作单位：省财政厅、省民政厅、省卫生厅。<br>    要求：将未参加医疗保险的263万城市非职工人群(城镇居民)全部纳入医疗保险范围。其标准是：城镇居民每人每年120元，其中个人缴费每人每年60元，省、市、县财政每人每年各补助20元；大、中、小学生统筹标准每人每年80元，个人缴费每年40元，省财政补助省属学校学生每人每年40元、补助市属和县属学校学生每人每年20元，市、县财政每人每年共补助20元。今年，省级财政补助城市非职工人群(城镇居民)医疗保险费达到7340万元。<br>    三、床位补贴翻番、济困病床制度覆盖省市县三级公立医院。<br>    牵头单位：省财政厅。<br>    协作单位：省卫生厅、省民政厅、省劳动和社会保障厅。<br>    要求：在去年每床补贴8000元的基础上，实现今年省级医疗机构床位补贴基本翻一番，达到每年每床1.52万元。<br>    2006年12月1日，省属8所医院设置了500余张济困病床。今年，全省所有公立医疗机构都要按照不少于10％的比例设置济困病床。同时，将部分具备济困病床设置条件、但不享受财政补助政策的非盈利性医疗机构列入济困病床设置单位，给予一定的资金补偿。<br>    四、基层卫生院人员工资由财政全额供给覆盖全省乡镇。<br>    牵头单位：省财政厅。<br>    协作单位：省卫生厅。<br>    要求：2006年底，全省乡镇卫生院共有2万人，工资由财政供给比例平均为70％左右，年人均工资1.5万元，共3亿元。今年实现全额供给，省财政增加经费9000万元，达到3.9亿元。<br>    五、实行贫困高校生政府助学金制度，启动生源地助学贷款，提高牧区寄宿生生活费补助标准。<br>    牵头单位：省教育厅。<br>    协作单位：省财政厅，兰州中心支行,甘肃银监局,有关市州、县市区。<br>    要求：省教育厅商省财政厅在3月底前制定出台甘肃省政府助学金管理办法，对全省公办全日制普通高校在校特困生实行生活费资助。<br>    落实2006年12月29日，省政府办公厅批转的《甘肃省生源地国家助学贷款暂行办法》(甘政办发〔2006〕146号)，让省内各普通高校符合条件的贫困学生领到生源地国家助学贷款。<br>    从今年春季学期开始，牧区义务教育阶段中小学寄宿生生活费标准由每生每学年239元提高到360元。所需资金由省、市、县按照7∶2∶1的比例全额承担。今年省财政列入预算2000万元专项补助资金，市州、县分别配套571.43万元和285.71万元，总资金达到2857.14万元。<br>    六、解决90万极度干旱地区农村人口的饮水安全问题，建成环县、靖远、会宁三县人畜饮水工程。<br>    牵头单位：省水利厅。<br>    协作单位：各市州、县市区。<br>    要求：2007年解决全省14个市州86个县区90万农村人口的饮水安全。落实省级配套资金4100万元，年底前完成建设任务。<br>    解决环县、靖远、会宁三县人饮困难工程于10月底前全面竣工，建设集中供水工程22处，雨水集蓄利用工程27167处，总投资1.2亿元。<br>    七、新建改建乡村道路6000公里。<br>    责任单位：省交通厅。<br>    协作单位：省发改委，有关市州、县市区。<br>    要求：2007年，全省农村公路建设新开工改建6684公里，完成投资14.6147亿元，其中争取国家投资9.4亿元，省市州县配套资金5.21亿元。按照中央扶持一点、省市县政府筹措一点、社会出资一点的办法实施项目。一季度按程序上报计划，二、三季度完成征地拆迁工作，四季度完成建设任务。<br>    八、完成全省村村通电话工程，1万个20户以上自然村通广播电视工程，基本完成户户通电任务。<br>    1、全省村村通电话工程。<br>    牵头单位：省通信管理局。<br>    协作单位：省财政厅。<br>    要求：对未通电话的314个行政村，3月底完成工程可研报告，10月底完成基础设施建设任务，11月底前完成村村通电话工程。<br>    2、1万个20户以上自然村通广播电视工程。<br>    责任单位：省广电局。<br>    要求：2007年，继续按省级60％和市县40％的标准筹集资金，并签订“村村通”工程建设责任书，省市县共同完成建设任务。<br>    3、基本完成户户通电任务。<br>    责任单位：省电力公司。<br>    协作单位：省发改委。<br>    要求：按省电力公司制定的全省实现大电网延伸“户户通电”建设计划，通电总户数为8.45万户，涉及9个市州的308个乡镇、1488个行政村。工程投资约15亿元，力争年底前完成“户户通电”目标，全省户户通电率达到99.7％。<br>    九、新增沼气用户12万户。<br>    牵头单位：省农牧厅。<br>    协作单位：有关市州、县市区。<br>    要求：新增沼气用户12万户，在13个市州的67个县(市、区)、533个乡镇、1154个村实施。总投资4.43亿元，市州、县市区配套1519.65万元，农户自筹2.76亿元。于11月底前完成。<br>    十、提高村干部报酬补助标准。<br>    责任单位：省财政厅。<br>    要求：2002年税费改革后，村干部报酬开始由国家在农村税费改革转移支付中安排，标准是按照当地农民人均纯收入的1.2倍确定，全省各地补助标准差别很大。2007年，省级财政计划安排专项资金3400万元，提高全省17000个村村干部的补助标准，每村每年达到2000元，即村支书800元，村主任、文书各600元。<br>    十一、城市居民最低生活保障标准再提高10％。<br>    责任单位：省民政厅。<br>    协作单位：省财政厅，各市州、县市区。<br>    要求：从1月份起，全省城市居民最低生活保障平均标准将由每人每月的153元提高到168元，保障对象由68万人增加到约71万人，城市低保覆盖人群将进一步增加。共需资金1.28亿元，省级财政配套4000万元，市县两级财政列支必须达到当地低保资金需求总量的20％。<br>    十二、市州所在地城市全部实施廉租房制度。<br>    牵头单位：省建设厅。<br>    协作单位：省民政厅、省财政厅、各市州。<br>    要求：全省已有5个市启动了廉租住房制度，根据《甘肃省廉租住房管理办法》，年内各市州全部制定出台廉租住房实施细则。廉租住房以低保人群中的住房困难户为主。<br>    省政府要求,各有关部门、各市州，要高度重视办好“12件实事”，主要领导同志要研究制定方案，落实措施，加强指导督促。各牵头单位、责任单位要积极发挥主导作用，加强组织协调，保证工作进度和质量；各协作单位要充分发挥作用,加强联系，通力合作，相互支持。各级督查部门要坚持定期督查，及时报告工作落实情况，确保把实事办好，给全省人民一个满意的答卷。<br>   <br> <br>二○○七年二月二十七日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

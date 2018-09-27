@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发[2007]76号<BR>&nbsp;&nbsp;【发布日期】2007-03-01<BR>&nbsp;&nbsp;【生效日期】2007-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/18068.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于西南合成制药有限公司职业病危害事件查处情况的通报<br><br></font>(卫监督发[2007]76号)</p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，卫生部卫生监督中心、中国疾病预防控制中心：<br><br>    2006年11月14日，《北京青年报》报道了西南合成制药股份有限公司二分厂酮基布洛芬（KP）车间发生4名职工患肺癌死亡的情况。我部对此高度重视，责成有关司局和单位会同重庆市卫生局及时组织有关人员调查核实，对监督检查中发现的违反职业病防治法的行为依法进行了查处。根据重庆市卫生局的建议，我部要求北京、江苏、湖北等9个省级卫生行政部门对辖区内生产酮基布洛芬（KP）同类企业开展职业病危害调查，进一步了解国内生产酮基布洛芬（KP）同类企业职工的健康状况，查明职工健康损害与劳动环境危害因素的关系。为贯彻实施《职业病防治法》，不断加大对用人单位职业健康监护情况的监督检查力度，切实有效保护劳动者健康及其相关权益，现将有关情况通报如下：<br><br>    一、调查核实情况<br><br>    根据卫生部办公厅《关于调查核实西南合成制药股份有限公司职工患肺癌死亡事件的紧急通知》（卫办监督函[2006]584号）要求，重庆市卫生局立即组织重庆市疾病预防控制中心对该公司酮基布洛芬（KP）生产线、萘丁美酮生产线、磺胺嘧啶生产线和头孢曲松钠生产线等四条生产线的职业病危害因素进行了现场职业卫生学调查、采样和实验室分析；组织卫生监督所职业卫生监督执法人员进行调查取证，封存企业有关职业卫生档案资料，责令停止职业病危害因素超标的作业，督促企业进一步落实职业病防治措施，并赴患者诊治医院进行调查，收集住院病历资料。经核查，西南合成制药股份有限公司存在以下主要问题：<br><br>    （一）未认真落实职业病防治法律法规规定的职业健康监护、职业病危害警示标识、职业卫生培训、职业病危害因素检测评价等有关法律制度，职业病防治工作不到位。<br><br>    （二）轻视职业病危害对劳动者健康造成的后果。事件发生后没有采取积极有效的措施控制危害、改善劳动条件。对监督检查提出的整改意见，采取应付、拖延的做法，规避责任。<br><br>    （三）对接触有毒害作业劳动者的健康监护不到位，缺乏动态的劳动者健康资料；未开展作业场所危害检测评价工作，没有作业场所的职业危害检测资料，档案资料不完整、不规范。<br><br>    （四）职业病防护设施不能保证有效运行，劳动者个人防护用品没有发放记录。<br><br>    二、初步处理情况<br><br>    2007年1月25日至26日，我部派人对西南合成制药股份有限公司职业病危害事件调查处理情况进行了督办，要求重庆市卫生局依法依职责履行查处职责，进一步做好监督取证工作，查处过程中的有关情况要及时向市政府报告，有关处理情况要向相关部门通报。<br><br>    重庆市卫生局对西南合成制药股份有限公司二分厂违反职业病防治法的行为立案调查。依据《职业病防治法》的有关规定，重庆市卫生局依法对该公司予以罚款15万元的行政处罚。同时，鉴于该公司KP车间存在多种职业病危害因素和硫化氢、三氯甲烷超过国家职业卫生标准等严重问题，重庆市卫生局已提请重庆市人民政府责令关闭该公司KP车间。<br><br>    三、关于进一步加强职业卫生工作的有关要求<br><br>    西南合成制药股份有限公司职业病危害事件的曝光与查处，是新闻媒体充分发挥社会舆论监督的结果，对增强用人单位职业病防治观念，提高劳动者维护健康及相关权益意识起到了积极作用，对指导全国开展职业卫生监督检查工作具有普遍意义。各级卫生部门要以此为鉴，结合职责分工，严格监督执法，切实有效保护劳动者健康及其相关权益。为进一步加强职业卫生工作，提出如下要求。<br><br>    （一）加强领导，认真履行部门职责。<br><br>    当前，我国正处于改革和发展的关键时期，也是各种社会矛盾的凸显期，各地卫生行政部门一定要充分认识做好职业病防治监管工作的极端重要性，按照卫生部门在职业病防治监管上的职责分工，认真贯彻职业病防治法。要加强对职业病防治工作的领导，按照中央关于全面落实科学发展观、构建社会主义和谐社会的要求，认真履行监督职能，加大力度维护劳动者的健康权利。<br><br>    （二）认真做好职业卫生、放射防护日常监督执法工作。<br><br>    要切实加大日常监督执法力度。依法督促用人单位建立健全职业病防治责任制，落实各项职业病防治措施。严格依法行政，对违反职业病防治法律、法规的单位和个人，坚决依法严肃查处，决不姑息。要会同有关部门做好职业病危害事件投诉举报受理工作，密切关注社会媒体有关侵害劳动者健康权益案件线索报道，突出工作重点，提高监督效率。对于重大案件线索，各省级卫生行政部门一定要尽早介入，加强对基层执法的指导，及时督办，一查到底。<br><br>    （三）不断提高职业卫生监督执法能力和水平。<br><br>    各级卫生监督机构要充实职业卫生监督执法人员，加强职业卫生监督执法能力建设和信息化建设，不断提高职业卫生监督执法人员的政治、业务素质，健全内部监督稽查制度，进一步贯彻落实卫生行政执法责任制，严格职业卫生监督执法过错责任追究。<br><br>    （四）加强对职业病防治技术机构的监督管理。<br><br>    督促各级各类职业病防治技术机构强化法治意识、责任意识、服务意识，不断加强自身科学管理和能力建设，完善内部管理制度和质量管理体系，切实抓好各项规章制度的落实，加强对企业的技术指导工作。对发现的不按法律法规要求履行职责的技术机构，要及时予以纠正，发现违法行为要依法查处。<br><br>           二○○七年年三月一日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

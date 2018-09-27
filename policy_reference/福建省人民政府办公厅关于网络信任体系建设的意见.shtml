@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办[2006]174号<BR>&nbsp;&nbsp;【发布日期】2006-08-01<BR>&nbsp;&nbsp;【生效日期】2006-08-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12140" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅关于网络信任体系建设的意见<br> <br></font>(闽政办[2006]174号)</p><br><br> <br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业，各高等院校：<br><br>    近年来，随着“数字福建”建设的推进，我省在网络信任体系建设和应用方面取得一定成效，先后建成了福建省电子商务数字认证中心、电子商务密钥管理中心和电子政务数字认证中心，为全省信息化健康发展提供了安全保障。但也存在基础设施不完善、应用面不广、授权管理和责任认定尚未开展等问题。为进一步规范和加强网络信任体系建设，推进“数字福建”建设，促进信息技术应用，根据《国务院办公厅转发国家网络与信息安全协调小组〈关于网络信任体系建设的若干意见〉的通知》（国办发〔2006〕11号）精神，结合我省实际，提出如下贯彻意见。<br><br>    一、提高认识，加强组织领导<br><br>    （一）网络信任体系是以密码技术为基础，以法律法规、技术标准和基础设施为主要内容，以解决网络应用中身份认证、授权管理和责任认定等为目的的完整体系。<br><br>    （二）网络信任体系是信息安全保障体系的重要组成部分，是“数字福建”建设的重要内容，各级各部门要充分认识到网络信任体系是建设海峡西岸经济区、打造“平安福建”、构建社会主义和谐社会的重要保障，是建设诚信社会的必然要求。网络信任体系建设已纳入我省“十一五”信息化专项规划，各设区市、各有关部门要进一步提高认识，密切配合，确保网络信任体系建设适应信息化建设的需要。<br><br>    （三）各有关部门要按照我国网络信任体系建设的总体要求和基本原则，在“数字福建”建设领导小组的指导下，充分利用现有信息化资源，避免重复建设，科学规划建设我省网络信任体系。要在信息化建设中同步规划电子认证、授权管理和责任认定等工作，加强事前评估、事中监督和事后验收工作，推动我省网络信任体系建设，确保国家秘密、保护商业秘密和个人隐私，促进信息资源共享。<br><br>    二、网络信任体系的建设目标<br><br>    我省网络信任体系的建设目标：以政务数字认证中心和政务密钥管理中心为基础，建设我省统一的授权管理和责任认定平台，实现政务信息网全网统一身份认定、统一密钥分配、统一权限管理、统一安全审计；以电子商务数字认证中心和电子商务密钥管理中心为基础，建立和完善适合我省电子商务发展的授权管理和责任认定体系。<br><br>    三、加快电子认证的发展<br><br>    （一）规范我省电子认证的管理。电子认证作为网络信任体系建设的重要内容，必须严格执行《中华人民共和国电子签名法》和国家信息产业部的《电子认证服务管理办法》等有关规定，完善《福建省政务数字证书管理暂行办法》等有关管理办法，不断提高规范化管理水平；明确管理职责，依法依规加强对电子认证的管理。福建省国家密码管理局会同有关部门做好我省电子政务中电子认证工作的规划和管理；福建省密钥管理中心承担电子政务数字认证中心的运行管理及密钥的管理和分配工作；数字证书审核小组负责政务数字证书的发放工作。<br><br>    （二）加快电子政务认证基础设施建设。按照“双证书、双中心”的建设模式，完善电子政务身份认证基础设施，建设电子政务密钥管理基础设施；各设区市建立证书受理中心，负责证书申请、发放、更新、维护及证书应用推广等工作；建立政务信息网授时服务体系，为政务信息网提供标准时间；加强电子政务安全认证，保障全省电子政务公文交换安全。<br><br>    （三）加强电子商务认证工作。继续支持福建省电子商务数字认证中心为我省各类电子商务活动提供认证服务，鼓励其充分发掘自身资源，积极参与国内市场竞争。加快建设电子商务密钥异地备份中心，确保我省密钥安全。<br><br>    （四）推进电子认证的应用。推进政务数字证书在政务信息网内的应用，以证书认证的强认证机制逐步替换各部门应用系统中“用户名口令”认证方式，2007年底前省直各部门基本完成数字证书强认证应用，2009年底前各设区市基本完成政务数字证书强认证应用，在政务信息网全网统一身份认证和统一密钥分配。引导我省各种互联网活动利用数字证书开展网上认证，深化我省电子商务活动中的证书应用，鼓励公民利用数字证书保护个人信息。<br><br>    （五）我省电子认证应利用已经依法设立的认证机构提供服务，电子政务认证统一由省电子政务数字认证中心提供，不得采用境外机构提供的认证服务。<br><br>    四、推进授权管理和责任认定工作<br><br>    （一）建设我省电子政务授权管理和责任认定平台。以建设政务信息网应用安全支撑平台为基础，将各应用系统的安全防范纳入全省网络信任体系，各级各部门在应用项目建设中应同步规划授权管理和责任认定工作，实现统一权限管理和统一安全审计。<br><br>    （二）积极开展电子商务授权管理和责任认定工作。走社会化、专业化道路，结合电子政务网络信任建设的经验，建立支撑全省互联网应用尤其是电子商务应用的授权管理和责任认定基础设施，建设我省互联网安全信息共享和交换平台。综合利用身份认证、访问控制、权限管理等技术措施，实现网络行为可核查、网络事件责任可追究和打击网络犯罪。<br><br>    （三）各类电子政务系统和重要电子商务系统要具备必要的安全审计、数据保留等功能，加强对日志、审计数据的管理，改进事件记录、证据保全、行为审计、取证分析的方法和手段。<br><br>    五、加强关键技术及标准化研究<br><br>    福建省密钥管理中心负责对电子认证进行技术支持，开展我省网络信任体系标准化研究，制定电子认证的技术标准，统一应用接口，以政务信息网网上统一认证、电子商务权限管理与安全审计等重点应用为突破，促进我省网络信任体系应用水平的提升；鼓励省内各大专院校积极开展网络信任体系的科研活动，做好相关成果转化工作；积极引导和支持我省更多信息企业积极开展网络信任体系相关技术研发，力争形成一批拥有自主知识产权产品的企业，做大做强我省信息安全产业。<br><br>    六、加强网络信任体系宣传教育工作<br><br>    （一）将以密码技术为基础的网络信任体系相关信息安全知识纳入各级党校、行政学院的培训内容，提高政府机关及企事业单位有关人员对信息安全认识和重视程度，增强政府公共服务能力，推动服务型政府建设。<br><br>    （二）加强相关政策法规宣传和舆论引导，提高我省信息技术应用水平；强化社会利用密码技术保护网络与信息安全意识，提高社会对网络信任体系工作及其相关政策的认知程度。<br> <br>福建省人民政府办公厅 <br>二○○六年八月一日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

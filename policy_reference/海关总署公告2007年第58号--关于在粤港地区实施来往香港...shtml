@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】海关总署公告2007年第58号<BR>&nbsp;&nbsp;【发布日期】2007-11-01<BR>&nbsp;&nbsp;【生效日期】2007-11-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.customs.gov.cn/YWStaticPage/433/2a0845b6.htm" target=_blank>海关总署 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>海关总署公告2007年第58号<br><br></font>关于在粤港地区实施来往香港公路车辆快速通关改革</p><br><br>  <br>    为适应区域经济发展的要求，进一步简化海关手续，提高粤港地区跨境公路运输通关效率，海关总署决定在粤港地区实施来往香港公路车辆快速通关改革，现将有关事项公告如下：<br><br>    一、来往香港公路车辆快速通关是指从事来往香港公路货物运输业务的承运人或其代理人，在车辆进境前或出口货物报关单申报前，向海关申报载货清单电子数据，海关应用卫星定位管理设备和电子封志等监控手段实施途中监控，实现对车辆及其所载货物在公路口岸自动快速核放的一种通关方式。<br><br>    二、经海关备案并使用海关认可的卫星定位管理设备和电子封志的车辆，其承运人或其代理人可选择来往香港公路车辆快速通关方式办理，具体包括以下三种：<br><br>    （一）进出口货物收发货人或其代理人在车辆及所载货物运抵指运地或启运地海关监管场所前，向海关申报货物进出口的，按转关提前报关方式办理；<br><br>    （二）进出口货物收发货人或其代理人在车辆及所载货物运抵指运地或启运地海关监管场所后，向海关申报货物进出口的，按直转方式办理；<br><br>    （三）过境货物采用过境方式办理。<br><br>    三、选择来往香港公路车辆快速通关方式的承运人或其代理人，在车辆抵达海关监管场所卡口通道时，应将纸质载货清单投入单证申报箱供海关核查，海关卡口控制与联网管理系统进行自动核放。正常情况下，海关人员不在相关纸质单证上批注、盖章；异常情况下，按海关提示操作。<br><br>    四、选择来往香港公路车辆快速通关方式的承运人或其代理人，应当在车辆进境前或出口货物报关单申报前向海关申报载货清单电子数据，并在车辆抵达进境地或启运地海关监管场所1小时前进行车次确认，同一车次应当只对应一份载货清单。<br><br>    五、承运人或其代理人未进行车次确认或车次提前确认不足1小时的，禁止入境或进入启运地海关监管场所。特殊情况经海关批准对车辆做滞后处理的，要求车辆等待至1小时之后，由海关对载货清单电子数据进行人工审核、放行操作。<br><br>    六、已作车次确认的车辆抵达进境地或启运地海关监管场所前，承运人或其代理人如对载货清单进行修改，必须重新办理车次确认，海关重新计算载货清单提前申报时间。<br><br>    七、自载货清单电子数据申报之日起超过5日，如该载货清单所对应的货物未运抵进境地或启运地海关监管场所办理手续，载货清单电子数据将被自动撤销。<br><br>    八、除海关特准外，车辆经进境地海关放行后，指运地海关方可办理进口货物报关单接单手续。<br><br>    对涉税货物，必须在车辆进境后，方可办理进口货物报关单接单手续。<br><br>    车辆运抵指运地或启运地海关监管场所后方可办理进出口货物放行手续。<br><br>    对采用转关提前报关方式的，同一车次对应的货物报关单，应一次性办理报关单接单手续。<br><br>    九、进出口货物运抵进境地或出口启运地海关监管场所前，且海关尚未受理审核相对应的进出口货物报关单的，承运人或其代理人可自行修改或者撤销载货清单电子数据，但必须重新办理车次确认，海关重新计算载货清单提前申报时间。<br><br>    十、货物已运抵进境地或启运地海关监管场所，或海关已办理了相对应的进出口货物报关单接单手续，承运人或其代理人如需修改纸质载货清单的，应向海关提出书面申请，经海关审核同意后，方可修改，提前向海关申报载货清单的时间将从修改载货清单电子数据后重新计算。其中：<br><br>    （一）承运进口货物时，在车辆离开进境地海关前，向进境地海关申请；离开进境地海关后，向指运地海关申请。<br><br>    （二）承运出口货物时，向启运地海关申请；<br><br>    （三）承运过境货物时，向进境地海关申请。<br><br>    十一、货物入境后、运抵指运地海关监管场所前；出口货物的车辆启运后、运抵出境地海关监管场所前，承运人或其代理人如确需作废纸质载货清单电子数据的，应向海关提出书面申请，经海关审核同意后，方可作废，并重新申报载货清单电子数据。如对应的出口货物报关单已通过海关审核的，须在撤销对应的出口货物报关单后，方可办理纸质载货清单的作废手续。其中：<br><br>    （一）承运进口货物或过境货物时，向进境地海关申请；<br><br>    （二）承运出口货物时，向启运地海关申请。<br><br>    货物运抵指运地或出境地海关监管场所后，海关不接受承运人或其代理人作废纸质载货清单的申请。<br><br>    十二、转关提前报关、直转方式下，海关对含有《中华人民共和国海关关于转关货物监管办法》（海关总署令第89号）附件1《限制转关物品清单》范围物品的载货清单不接受申报。<br><br>    过境方式下，海关对含有《中华人民共和国海关对过境货物监管办法》（海关总署令第38号）规定禁止过境货物的载货清单不接受申报。<br><br>    十三、来往香港公路车辆快速通关方式下，来往内地与香港的货运车辆使用的纸质载货清单为《内地海关及香港海关陆路进/出境载货清单》。纸质载货清单必须经海关确认后方可打印，内容应与向海关申报的载货清单电子数据完全一致。<br><br>    十四、对同一车次载运多个集装箱或使用多个电子封志的，所施加的全部电子封志号应在载货清单上列明。<br><br>    十五、进口货物运抵指运地海关监管场所后，因故需要退运的，需经书面申请及指运地海关核准，按转关货物的退运方式办理。<br><br>    十六、出口货物运抵出境地海关监管场所后，因故需要退运的，需经书面申请及出境地海关核准，按转关货物的退运方式办理。<br><br>    十七、对因电脑系统故障，货物在进境地或启运地海关无法按来往香港公路车辆快速通关方式通关的，承运人或其代理人应当改按转关方式办理。承运人或其代理人必须在电脑系统恢复正常后的一个工作日内，向海关补预录入相应的载货清单电子数据。<br><br>    十八、选择来往香港公路车辆快速通关方式的承运人或其代理人，应当按海关要求将货物运抵指定的场所。货物运输途中因交通意外等原因需更换运输工具或驾驶员的，承运人或其代理人应及时报告附近海关。经附近海关核实同意后，监管换装并通知进境地、指运地海关或启运地、出境地海关。<br><br>    十九、本公告中未明确事项按《中华人民共和国海关关于转关货物监管办法》等有关规定办理。<br><br>    二十、本公告适用于广东省内具备来往香港公路车辆快速通关条件的各类监管区域或场所。<br><br>    二十一、本公告由海关总署负责解释。<br><br>    二十二、本公告自2007年11月10日起施行。<br><br>    特此公告。<br><br>二○○七年十一月一日 <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

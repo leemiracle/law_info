@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2005]60号<BR>&nbsp;&nbsp;【发布日期】2005-02-04<BR>&nbsp;&nbsp;【生效日期】2005-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sfda.gov.cn/cmsweb/webportal/W945325/A64001611.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于一次性使用眼科手术用刀等产品分类界定的通知<br> <br></font>(国食药监械[2005]60号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    近期，我局陆续收到一些省市食品药品监督管理部门和企业对部分产品如何进行分类界定的请示。为适应医疗器械监督管理工作的需要，现将一次性使用眼科手术用刀等21种产品的分类界定通知如下：<br><br>    一、一次性使用眼科手术用刀：作为II类医疗器械管理。<br><br>    二、一次性使用眼科手术用镊/钩：侵入组织，作为II类医疗器械管理。<br><br>    三、一次性使用眼科手术用开睑器：作为I类医疗器械管理。<br><br>    四、一次性使用眼科手术用操纵器：作为I类医疗器械管理。<br><br>    五、一次性使用泪点扩张器及泪道探针：作为I类医疗器械管理。<br><br>    六、眼罩：放置在角膜上或角膜瓣与角膜基质之间，避免损伤视网膜及保护角膜瓣，作为II类医疗器械管理。<br><br>    七、器械手柄：在白内障手术中与灌注器械相连，作为I类医疗器械管理。<br><br>    八、滑片：白内障手术中经切口放置在角膜与虹膜之间，起到保护虹膜并辅助人工晶体植入的作用，作为II类医疗器械管理。<br><br>    九、功能磁共振成像技术（FMRI）：系用图像、言语信号刺激、磁共振成像技术对人体生理过程研究，作为II类医疗器械管理。<br><br>    十、微波热疗仪硅胶治疗导管：用于热疗仪实现人体腔内治疗，作为II类医疗器械管理。<br><br>    十一、激光洗眉机：用于治疗色素性皮肤病变和混合色料形成的外源性色素沉着，可能会对人体的生理功能造成潜在的影响或损伤，符合《医疗器械监督管理条例》有关医疗器械定义中对生理过程替代、调节的预期目的，作为II类医疗器械管理。<br><br>    十二、医用多环套扎器：用于消化道、食道静脉曲张的蚓状血管的结扎，套扎用的橡皮筋部分与消化道粘膜接触，且在非无菌环境中使用，作为II类医疗器械管理。<br><br>    十三、激光针刀：用于治疗各种风湿、类风湿关节炎、强直性脊柱炎、骨外伤后遗症、股骨头坏死、骨性关节病、痛风以及由此引起的关节强直畸形、驼背，各种因软组织造成的粘连、挛缩、结疤而引起疼痛，各种腱鞘炎、肌肉筋膜炎、滑囊炎、增生性关节炎，各种颈椎病、腰椎病等,作为II类医疗器械管理。<br><br>    十四、病人降温系统：用于降低病人体温，可对某些神经系统损伤的病人提供保护作用，并可限制对人体有害的代谢反应,作为II类医疗器械管理。<br><br>    十五、美容义眼片：用于眼球失明后弥补眼部外观缺陷的美容装饰，不作为医疗器械管理。<br><br>    十六、全自动尿液显微镜分析仪用鞘液（尿液标本悬浮缓冲液）：使尿液中的各有形成份的粒子悬浮并单层流过流式池，不与尿液标本发生任何生物及化学反应，不作为医疗器械管理。<br><br>    十七、标记垫：用于角膜标记器上，以帮助确定屈光手术中角膜瓣的位置，不直接接触角膜，不作为医疗器械管理。<br><br>    十八、封管热合器：用于血袋封口，不作为医疗器械管理。<br><br>    十九、器械清洁巾：用于清洁精密手术器械，不作为医疗器械管理。<br><br>    二十、唐氏综合症数据处理软件：用于对孕早期及孕中期测量的孕妇血清生化指标及孕妇年龄、孕周和体重等数据进行分析处理，用以评估胎儿患唐氏综合症、爱德华综合症和神经管缺陷的概率值，以供医生参考是否需要进行进一步的产前诊断，作为II类医疗器械管理。<br><br>    二十一、服药杯：用于临时性分药、装药的杯子，不作为医疗器械管理。<br><br>    上述凡界定为医疗器械的产品，从2005年9月1日起执行调整后的类别。从发文之日起，有关食品药品监督管理部门可受理该类产品的注册申请。<br><br><br>                                                        国家食品药品监督管理局<br>                                                          二○○五年二月四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

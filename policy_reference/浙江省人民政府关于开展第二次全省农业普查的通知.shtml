@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】浙江省<BR>&nbsp;&nbsp;【发布文号】浙政发〔2005〕49号<BR>&nbsp;&nbsp;【发布日期】2005-09-19<BR>&nbsp;&nbsp;【生效日期】2005-09-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhejiang.gov.cn/gb/node2/node50/node52/node68/node118/node1615/userobject11ai9040.html" target=_blank>浙江省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>浙江省人民政府关于开展第二次全省农业普查的通知<br> <br></font>(浙政发〔2005〕49号)</p><br> <br> <br>各市、县（市、区）人民政府，省政府直属各单位：<br><br>    为认真贯彻《国务院关于开展第二次全国农业普查的通知》（国发〔2005〕13号）精神，切实做好我省第二次农业普查工作，现将有关事项通知如下：<br><br>    一、充分认识开展农业普查的重要意义<br><br>    农业普查是国家统一部署的重大国情国力调查，主要是为了查清农业、农村和农民的发展变化情况，掌握农业生产、农田水利和农村基础设施建设、农村劳动力转移等方面的基本信息，为研究确定经济发展战略和规划，制定经济社会政策提供依据。搞好全省第二次农业普查，有利于进一步摸清农业资源状况，制定科学的粮食生产政策，确保粮食安全；有利于深化农业结构调整，加快农业科技创新和技术推广，提高农业综合生产能力，实现农业可持续发展；有利于落实科学发展观，统筹城乡发展，加速实现全面建设小康社会的宏伟目标。<br>    二、准确把握农业普查工作的各项要求<br>    根据国发〔2005〕13号文件精神，结合我省实际，本次农业普查主要包括六方面内容：一是从事第一产业活动单位和农户的生产经营情况；二是乡（镇）、村委会及社区环境情况；三是农业土地利用情况；四是农业和农村固定资产投资情况；五是农村劳动力就业及流动情况；六是农民生活质量情况。普查的标准时点是2006年12月31日，时期资料为2006年度。凡我省符合普查对象的有关单位和农户，必须严格按照《中华人民共和国统计法》的有关规定和普查的具体要求，如实填报普查数据，确保基础数据的真实可靠。任何地方、部门、单位和个人都不得虚报、瞒报、拒报、迟报，不得伪造、篡改普查资料。各地、各有关单位要准确把握农业普查要求，切实加强农业普查资料的管理。对农业普查取得的资料，严格限定用于普查目的，不得作为任何部门和单位对普查对象实施考核、奖惩的依据。对普查对象的个人和商业秘密，各级普查机构及其工作人员必须严格履行保密义务。<br>    三、切实加强农业普查工作的组织领导<br>    农业普查涉及广大农村地区及众多农户，普查任务重，参与部门多，工作难度大。为加强对普查工作的组织和领导，省政府决定成立“浙江省人民政府第二次农业普查领导小组”，负责农业普查的组织和实施工作。各市、县（市、区）人民政府应于2005年10月底前组建相应的农业普查领导机构；各乡（镇）人民政府的农业普查领导机构应在2006年3月底前组建完成。要充分发挥乡（镇）政府和村委会的作用，从乡（镇）、村干部中选调农业普查现场组织人员和调查员，并认真做好调查员的培训工作。农业普查经费由省财政和地方财政分别负担，并列入财政预算，按时拨付，确保到位。各级宣传部门、新闻单位要广泛深入地宣传农业普查的重要意义和有关要求，为普查工作的顺利实施创造良好的氛围。其他各有关部门要加强协作，密切配合，共同做好我省第二次农业普查工作。<br><br>    附件：浙江省人民政府第二次农业普查领导小组成员名单<br>             <br>                                  二○○五年九月十九日<br><br><br>   附件<br><br>      浙江省人民政府第二次农业普查领导小组成员名单<br><br>    组  长：茅临生（副省长）<br>    副组长：俞仲达（省政府副秘书长）<br>  金汝斌（省统计局局长）<br>    成  员：高海浩（省委宣传部副部长）<br>  童屏雄（省农办助理巡视员）<br>  李卫宁（省发改委副主任）<br>  马奇（省国土资源厅副厅长）<br>  朱志泉（省农业厅副厅长）<br>  邢最荣（省林业厅副厅长）<br>  沈继宁（省财政厅副厅长）<br>  刘向东（省海洋与渔业局副局长）<br>  高剑明（省中小企业局副局长）<br>  徐志祥（省工商局副局长）<br>  万亚伟（省民政厅副厅长）<br>  储雪青（省司法厅副厅长）<br>  王杰（省统计局副局长）<br>  洪玉（省农调队队长）<br>    领导小组下设办公室（设在省统计局），王杰兼任办公室主任。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

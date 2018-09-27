@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2007-04-28<BR>&nbsp;&nbsp;【生效日期】2007-04-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info27766.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于切实做好“五一”黄金周期间学校安全工作的紧急通知</font></p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局：<br><br>    今年以来，全国学校安全工作继续保持了总体稳定的发展态势，学校安全事故有所减少。但是最近一段时间，一些大中专学校和寄宿制中小学校安全管理存在漏洞，个别学校甚至引发了火灾事故，学校安全工作形势依然严峻。“五一”黄金周即将来临，为切实做好学校各项安全工作，确保师生生命财产安全和校园的稳定，现就做好节日期间安全工作的有关问题通知如下：<br><br>    一、要进一步重视节日期间的学校安全工作。各地教育行政部门和各级各类学校要从实践“三个代表”重要思想和构建和谐社会的高度，本着对学生和学生家长负责的精神，充分认识做好学校安全工作的重要性和紧迫性，要认真贯彻“安全第一、预防为主、综合治理”的方针，高度重视并切实做好学校安全工作。<br><br>    二、各级各类学校要在“五一”节前通过各种形式对师生普遍进行一次安全教育。要增强师生安全意识，提高自身的防范能力。学校在假期组织师生集体出游和学生外出游玩时，要以安全、就近为原则，注意饮食卫生和交通安全，防止发生食物中毒、拥挤踩踏和溺水事故。“五一”黄金周期间，各校要加强对校园、教职工和学生宿舍等重点部位的治安巡逻，严格门卫制度，重点防范和排查人员携带各类枪支或管制刀具等进入校园，防止学校财产和师生人身安全受到伤害。<br><br>    三、各地各级各类学校在“五一”节前要集中力量，突出重点，认真开展一次学校安全大检查。严格查找安全方面的漏洞和事故隐患，特别要把学生宿舍和校外学生公寓，教职工宿舍、食堂、实验室、教室、图书馆、会议室等人群集中场所作为检查的重点，并对消防设备、消防器材进行认真检查，确保消防设施完好和消防通道畅通，消除安全隐患，同时要制定火灾应急预案；要对学校食堂卫生安全责任制的落实情况进行检查，确保师生员工饮食安全。要认真排查、梳理存在的突出问题，迅速解决，确保节日期间的安全保卫工作万无一失。要加强校园网络与信息安全工作，及时删除和封堵有害信息。<br><br>    四、各地各级各类学校要切实加强领导，坚决落实学校安全工作领导责任制。“五一”黄金周期间，师生活动分散，校内人员减少，容易诱发事故，各级领导要切实加强组织领导，狠抓责任落实，坚决杜绝节日期间各种群体性案件和重大安全事故的发生。要强化行政领导负责制，主要负责人要组织对“五一”期间的安全工作进行专题研究和部署，制定严密的防范措施。要严格执行责任追究制，对由于责任制不落实而造成重大刑事案件、治安事故和群体性事件的部门、学校和单位，要严肃追究有关领导的责任。对治安防范和安全工作中的重大隐患不能及时发现、整改而造成严重后果的，对不履行职责，失职、渎职的，要依法、依纪追究有关领导和有关人员的责任。<br><br>    五、要加强节日期间值班制度和学校安全保卫工作信息报告制度。各地各高校都要加强节日值班工作，确保联络畅通；节日期间，对重要情况和重要信息要及时上报，并做到准确、全面，不得隐瞒不报或迟报、漏报。<br><br>    请各地速将本通知精神传达至本行政区域内各级各类学校。<br><br>教育部办公厅<br>二○○七年四月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部、中国出口信用保险公司<BR>&nbsp;&nbsp;【发布文号】商贸函[2006]80号<BR>&nbsp;&nbsp;【发布日期】2006-07-28<BR>&nbsp;&nbsp;【生效日期】2006-07-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/b/e/200608/20060802894162.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部、中国出口信用保险公司关于利用出口信用保险、进一步支持农产品出口的通知<br><br></font>(商贸函[2006]80号)</p><br><br><br>各省、自治区、直辖市、计划单列市及新疆生产建设兵团商务主管部门，中国出口信息保险公司各营业机构： <br><br>    今年以来，日本、欧盟相继实施食品安全新法规，大幅提高了食品、农产品的市场准入门槛，我农产品出口面临严峻形势。扩大优势农产品出口是带动农民增收、促进农业产业结构调整，解决“三农”问题的有效途径，也是落实科学发展观，转变外贸增长方式的重要体现。今年是“十一五”的开局之年，为了贯彻中共中央、国务院《关于推进社会主义新农村建设的若干意见》（中发[2006]1号）精神，构建农村和谐社会，加强对“三农”工作的支持力度，进一步促进优势农产品出口，推动农产品出口企业加强出口信用风险管理，提高农产品出口企业的国际竞争能力，现就利用出口信用保险支持农产品出口的有关问题通知如下： <br><br>    一、建立支持农产品出口工作机制。各级商务主管部门、和中国出口信用保险公司（以下简称“中国信保”）各营业机构要建立有效的工作沟通协调机制，及时了解当地农产品出口企业情况，采取针对性出口信用保险政策措施，积极支持农产品出口工作。 <br><br>    二、加大宣传力度，鼓励企业积极投保出口信用保险。各地商务主管部门要通过多种渠道加大宣传力度，有条件的地区可结合实际情况采取相应扶持措施，鼓励农产品出口企业积极利用政策性出口信用保险这一金融工具，规避出口收汇风险，提升自身信用等级，扩大出口规模，提高国际竞争能力。 <br><br>    三、缓解农产品企业资金紧张状况，提升企业信用等级。中国信保将继续通过保险项下融资等产品积极协助农产品出口企业解决资金短缺问题，加强信贸、信银合作，逐步形成对农产品出口的配套融资支持体系，加大对农产品出口企业贸易融资的力度，不断提升企业信用等级。 <br><br>    四、为农产品企业提供与信用险相关的增值服务。中国信保将在为农产品出口企业继续提供传统出口信用保险服务的基础上提供出运前风险保障、与出口相关的国内信用险、与出口信用险配套的担保产品等一揽子组合产品；为符合条件的农产品出口企业建立出口买家管理机制，开通“信保通”网上业务操作系统，优先提供国家风险报告、行业分析报告和风险管理建议书等各项增值服务。 <br><br>    五、为中小型农产品出口企业提供便捷服务。中国信保对中小农产品出口企业取消投保门槛，简化投保程序，提供便捷服务。中国信保各营业机构要针对本地区中小农产品出口企业的实际情况，提供“中小企业综合保险”产品，并根据其适保出口额情况，在可能的条件下，对企业实行优先承保、灵活费率、快速理赔、预赔等优惠服务。 <br><br>    请各单位认真研究、落实相关工作，并及时跟踪、了解农产品出口信保工作中出现的新情况、新问题，有关情况可随时向商务部（外贸司）和中国信保（业务发展部）反馈。 <br><br>    特此通知。 <br><br><br>                                                        商 务 部 <br>                                                  中国出口信用保险公司 <br>                                                 二○○六年七月二十八日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

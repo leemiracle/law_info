@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】最高人民法院<BR>&nbsp;&nbsp;【发布文号】法〔2013〕3号<BR>&nbsp;&nbsp;【发布日期】2013-01-04<BR>&nbsp;&nbsp;【生效日期】2013-01-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://rmfyb.chinacourt.org/paper/html/2013-01/14/content_56584.htm" target=_blank>人民法院报 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><span style="font-size: medium;">最高人民法院关于开展行政案件相对集中管辖试点工作的通知</span></p>
+<p style="text-align: center;"><span style="font-size: medium;">法〔2013〕3号&nbsp;</span></p>
+<p style="text-align: left;"><br />&nbsp;<br />&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;各省、自治区、直辖市高级人民法院，新疆维吾尔自治区高级人民法院生产建设兵团分院：</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;为深入贯彻党的十八大精神，充分发挥法治在国家治理和社会管理中的重要作用，确保人民法院依法独立公正行使行政审判权，充分保护公民、法人和其他组织的合法权益，维护国家法制统一、尊严、权威，最高人民法院决定在部分中级人民法院辖区内开展行政案件相对集中管辖试点工作。现就有关问题通知如下：</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp; 一、提高对试点工作重要性的认识</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;行政诉讼制度是新时期正确处理人民内部矛盾，完善党和政府主导的维护群众权益的重要机制之一，是畅通和规范群众诉求表达的重要渠道。行政诉讼法实施以来，各级人民法院审理了一大批行政案件，妥善化解了大量行政争议，为保障和促进经济社会科学发展、维护社会和谐稳定作出了重要贡献。但是由于有的地方司法环境欠佳，案件的受理和审理往往受到不当干预；有的地区行政案件不均衡，有的法院受案不多甚至无案可办；有的法院因怕惹麻烦而不愿意受理行政案件。人民法院不能依法受理行政案件，并独立公正地行使审判权，不仅损害司法的权威，最终也将损害法律和国家的权威，动摇党的执政基础。近年来，党中央和社会各界高度关注人民法院为确保依法独立公正行使审判权进行的改革与探索。部分地方人民法院在当地党委、人大、政府的支持配合下，以行政案件管辖制度改革为突破口，通过提级管辖、指定管辖、交叉管辖和相对集中管辖等方式，在现行法律框架下实现了司法审判区域与行政管理区域的有限分离，使行政审判制度及时有效化解行政争议、妥善处理人民内部矛盾的功能得以正常发挥。这些探索和实践，有利于依法治国基本方略全面落实，有利于回应和保障人民群众的司法诉求，有利于推进法治政府建设，也有利于改善行政审判司法环境、统一司法标准、促进司法公正。最高人民法院在总结各地经验的基础上，决定在部分中级人民法院辖区内开展行政案件相对集中管辖试点工作。各级人民法院要充分认识试点工作的重要意义，将其作为完善我国行政诉讼制度、进一步深化司法体制改革的重要措施，切实加强组织领导，认真研究具体实施方案，确保试点工作的顺利开展并取得实效。</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;二、做好试点法院的遴选工作</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;行政案件相对集中管辖，就是将部分基层人民法院管辖的一审行政案件，通过上级人民法院统一指定的方式，交由其他基层人民法院集中管辖的制度。各高级人民法院应当结合本地实际，确定1&mdash;2个中级人民法院进行试点。试点中级人民法院要根据本辖区具体情况，确定2&mdash;3个基层人民法院为集中管辖法院，集中管辖辖区内其他基层人民法院管辖的行政诉讼案件；集中管辖法院不宜审理的本地行政机关为被告的案件，可以将原由其管辖的部分或者全部案件交由其他集中管辖法院审理。非集中管辖法院的行政审判庭仍予保留，主要负责非诉行政执行案件等有关工作，同时协助、配合集中管辖法院做好本地区行政案件的协调、处理工作。集中管辖法院的选择，应当考虑司法环境较好、行政案件数量较多、行政审判力量较强、经济社会发展水平较高等因素，并制定试点方案报请高级人民法院决定。</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;三、落实试点工作保障措施</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;试点工作涉及机构编制、人员调配、物资保障等多方面问题。各高级人民法院、开展试点的中级人民法院以及相关基层人民法院，要主动向当地党委、人大、政府汇报，通报试点工作的重要意义和主要做法，力争各方面的理解与配合，并在党委领导、人大监督和政府的支持下，积极有序开展试点工作。集中管辖法院要研究落实试点工作保障措施，配齐配强行政审判人员，行政审判庭设置不少于两个合议庭，所需审判人员可以在所属中级人民法院辖区内择优调配，也可以其他方式选调充实。要结合试点工作需要，做好集中管辖法院行政审判庭的办公用房、办公设备、车辆等物资保障，为开展试点工作提供必要的物质条件。</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;四、贯彻司法便民原则</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;试点工作应当坚持和体现以人为本、便民利民原则。确定集中管辖法院，要充分考虑其所处地理位置和交通条件，尽可能方便当事人参与诉讼。试点中级人民法院辖区内各基层人民法院的立案窗口，要免费提供试点工作相关的宣传和释明材料，便于公众了解试点情况，指导当事人正确行使诉讼权利、参与诉讼活动。当事人向非集中管辖法院提起诉讼的，应当告知其向管辖法院起诉，或者在收到起诉状后及时将相关材料移送集中管辖法院。要充分考虑当事人诉讼的便利性，尽可能通过到当地调查取证、巡回审判等方式，减轻当事人诉讼负担。</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;五、加强组织领导和宣传</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;各高级人民法院和试点中级人民法院要加强对试点工作的组织领导，及时出台试点方案，支持、指导、监督集中管辖法院做好试点工作。要指导、监督集中管辖法院与其他法院的合理分工与配合，共同做好案件的受理、审理、执行和息诉稳控工作。对试点工作中存在的困难和问题，要适时进行调研和解决。试点工作中取得的经验和遇到的问题，要及时层报上级法院。试点中级人民法院要及时将集中管辖法院及其管辖范围以适当方式进行公告，充分利用各种形式向社会各界广泛宣传试点工作，争取对试点工作的理解、关心和支持。</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;各高级人民法院应当在2013年3月底前，将试点中级人民法院名单及其试点方案报最高人民法院。</p>
+<p style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二〇一三年一月四日 <br />&nbsp;</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

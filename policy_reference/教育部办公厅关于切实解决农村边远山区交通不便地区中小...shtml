@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】教基厅〔2006〕5号<BR>&nbsp;&nbsp;【发布日期】2006-06-07<BR>&nbsp;&nbsp;【生效日期】2006-06-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info23512.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于切实解决农村边远山区交通不便地区中小学生上学远问题有关事项的通知<br><br></font>(2006年6月7日  教基厅〔2006〕5号)</p><br><br><br>    在“十一五”开局之年，国务院决定实施农村义务教育经费保障机制改革，逐步把农村义务教育全面纳入公共财政保障范围的重大决策，为有效解决农村贫困地区中小学生上学难问题奠定了很好的基础。为防止在中小学布局调整过程中出现新的学生失学、辍学和上学难问题，近日，我部已发出《关于实事求是地做好农村中小学布局调整工作的通知》(教基〔2006〕10号)，要求各地教育行政部门在保证学生就近入学的前提下进行农村中小学布局调整，在交通不便的地区仍须保留必要的小学和教学点。为切实解决农村边远山区、交通不便地区中小学生上学远问题，现就有关事项通知如下：<br><br>    一、各地教育行政部门要按照科学发展观的要求，高度重视农村边远山区、交通不便地区中小学生上学远问题。要实事求是，因地制宜，坚持寄宿制学校建设和低年级学生就近入学并举的原则，采取有效措施，切实予以解决。要坚持以人为本，以学生为本，以方便和满足学生和家长的需求为出发点，合理规划，统筹安排学校的布局和建设。要切实担负起责任，为每一个孩子提供就近入学的便利。原则上低年级学生应就近入学。对于低学龄儿童上学道路偏远、交通不便的，要保留、改建一批小学或教学点。对于学龄儿童少，学生居住相对分散的，要采取合校分班、走教送教和普及推广教学光盘等方法，为低年级学生创造学习条件。寄宿制学校建设以初中为主，小学高年级学生确需住校的应征得当地学生家长同意后也可以寄宿。要加快对现有条件较差的寄宿制学校的改造工作，使确需寄宿的学生能进入具备基本条件的寄宿制学校学习。尤其要强化寄宿制学校的管理，确保低学龄学生在校的安全、生活和学习，努力为学生健康成长提供一个良好的环境。<br><br>    二、各地教育行政部门要进一步加强对农村边远山区、交通不便地区中小学校布局调整、寄宿制学校建设等方面的调查研究工作，慎重对待撤点并校，确保当地学生方便就学。各地要对本行政区域内农村边远山区、交通不便地区的教育发展状况、人口变动情况和人民群众的承受能力进行全面、细致、深入地调研，对中小学校的布局、学生的分布情况、道路交通、学生的需求、群众关注的问题等要做到心中有数。调研工作既要有定量的统计，也要做定性分析，做到掌握情况客观全面，解决办法科学务实，避免因决策的失误、工作简单化和“一刀切”造成新的学生上学远问题的发生。各地要积极探索和寻求解决学生上学远问题的新思路和新办法。<br><br>    三、充分发挥农村中小学现代远程教育工程“模式一”的作用。各地教育行政部门要在农村边远山区、交通不便地区的小学和教学点，大力推行以光盘教学为主教师教学为辅、光盘教学与教师教学相结合的教学方式，来弥补教师的不足，保证当地基本的教学质量。要组织具备接收卫星资源条件的农村中小学，将接收的教学资源下载下来并刻录成光盘，通过走教送教等各种途径，将教学光盘分送给农村边远山区、交通不便地区的小学和教学点。我部将组织专门力量，开发一套小学阶段语文、数学、英语、音乐和美术等5门学科的小班教学模式培训光盘，向农村地区中小学校免费提供，对利用模式一授课的教师及教研人员进行光盘培训。<br><br>    四、各级教育行政部门要从建设社会主义新农村的战略高度，把解决好农村边远山区、交通不便地区中小学生上学远问题作为贯彻科学发展观，推进义务教育均衡发展，办人民满意教育的重要保证，放在重要议事日程抓紧抓好。要加强领导，明确职责，健全制度和完善工作责任制，确保此项工作落到实处。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

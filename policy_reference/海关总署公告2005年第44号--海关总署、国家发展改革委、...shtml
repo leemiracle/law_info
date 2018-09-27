@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署、国家发展改革委、商务部<BR>&nbsp;&nbsp;【发布文号】海关总署公告2005年第44号<BR>&nbsp;&nbsp;【发布日期】2005-09-14<BR>&nbsp;&nbsp;【生效日期】2005-09-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.customs.gov.cn/Default.aspx?TabID=399&InfoID=9539&ctl=InfoDetail&mid=1147&ContainerType=G&ContainerName=_default&ContainerSrc=notitle.ascx" target=_blank>海关总署 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>海关总署公告2005年第44号<br><br></font>海关总署、国家发展改革委、商务部关于执行《汽车产业发展政策》有关问题的公告</p><br><br><br>海关总署 国家发展改革委 商务部联合公告 <br><br>    为贯彻落实《汽车产业发展政策》的有关规定，现将有关执行问题公告如下：<br><br>    一、关于实行指定进口口岸管理的汽车范围问题<br><br>    除《中华人民共和国进出口税则》货品名称为手扶拖拉机（87011000）、履带式牵引车、拖拉机（87013000）、轮式拖拉机（87019011）、其他拖拉机（87019019）、其他牵引车（87019090）、雪地行走专用车及高尔夫球车（87031000）、非公路用电动轮货运自卸车（87041030）的整车外，列入税则号列8701-8706和8716的汽车及8429的轮式自行机械整车，实行指定进口口岸管理。<br><br>    汽车零部件、关键件进口不实行指定进口口岸管理；汽车生产企业进口全散件（CKD）或半散件（SKD）的，可在国家指定进口口岸外的企业所在地海关办理报关手续；汽车生产企业进口的构成整车特征的汽车零部件应当在企业所在地海关办理进口报关手续。<br><br>    二、关于进口汽车海关签发《货物进口证明书》问题<br><br>    除挂车、半挂车和轮式自行机械车外，对实行指定进口口岸管理的汽车整车，进口时，海关签发“一车一证”的汽车用《货物进口证明书》，《货物进口证明书》数据与公安部实行电子联网。<br><br>    对进口挂车、半挂车、轮式专用机械车，海关签发“一批一证”的非汽车用《货物进口证明书》；其他未列入第一条实行指定进口口岸管理范围的车辆，应进口经营者要求，海关可签发“一批一证”的非汽车用《货物进口证明书》。非汽车用《货物进口证明书》数据与公安部不实行电子联网。<br><br>    对从非指定进口口岸进口的以展览为目的的进口汽车，展览后需留在国内的，海关可按转关方式从指定进口口岸凭商务部门签发的进口口岸为该口岸的《自动进口许可证》办理进口手续，并签发“一车一证”的汽车用《货物进口证明书》，《货物进口证明书》数据与公安部电子联网。<br><br>    三、关于海关对指定进口口岸保税区内汽车管理问题<br><br>    为实现政策平稳过渡，并尽快妥善处理保税区内存放的以进入国内市场为目的的汽车，现规定如下：<br><br>    （一）办理海关登记备案与确认手续<br><br>    对2005年9月30日前运抵保税区以进入国内市场为目的的进口汽车，经营者可凭仓库存储清单和原始合同向所在地海关办理登记备案（登记备案表见附件，可复印），海关审核确认后在登记备案表上加盖印章。2004年12月31日前和2005年1月1日至9月30日间运抵保税区的车辆应当分别登记。<br><br>    （二）办理进口许可手续<br><br>    经海关审核确认后，如经营者具备小轿车经营资格，该经营者可凭登记备案表，按现行申请程序向商务部办理《自动进口许可证》；如经营者不具备小轿车经营资格，须与具备小轿车经营资格的企业签订协议，由具备小轿车经营资格的企业凭协议和登记备案表，按现行申请程序向商务部办理《自动进口许可证》。<br><br>    （三）办理进口报关手续<br><br>    2004年12月31日前运抵保税区以进入国内市场为目的的进口汽车，须在2005年12月31日前向海关办理进口报关、纳税等手续；2005年1月1日至2005年9月30日间运抵保税区以进入国内市场为目的的进口汽车，须在2005年10月31日前向海关办理进口报关、纳税等手续。<br><br>    （四）保税区内存放的以进入国内市场为目的进口汽车在上述规定时间内不能办理进口报关手续的，应当全部实际退运出境。自2005年10月1日起，以进入国内市场为目的的汽车应直接在口岸海关办理进口报关、纳税等手续，保税区不得再存放以进入国内市场为目的的进口汽车，保税区海关将不再为此类汽车办理进口报关、纳税等手续。<br><br>    特此公告。<br><br>海关总署     国家发展改革委     商务部<br>二○○五年九月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

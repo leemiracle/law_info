@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】住房和城乡建设部<BR>&nbsp;&nbsp;【发布文号】建城容函[2008]70号<BR>&nbsp;&nbsp;【发布日期】2008-05-06<BR>&nbsp;&nbsp;【生效日期】2008-05-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mohurd.gov.cn/zcfg/jswj/csjs/200805/t20080507_167507.htm" target=_blank>住房和城乡建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>住房和城乡建设部关于加快推进数字化城市管理试点工作的通知<br> <br></font>(建城容函[2008]70号)</p><br><br>  <br>各省、自治区建设厅，北京市、重庆市市政管委，上海市建设交通委，天津市市容委，新疆生产建设兵团建设局，各试点城市人民政府：<br><br>    2005年以来，建设部在全国分三批共51个城市（城区）进行数字化城市管理新模式试点工作。目前，大部分城市（城区）已完成了系统建设，部分城市已通过部级验收。2008年是试点工作最后一年，根据全国建设工作会议要求和数字化城市管理试点工作安排，现就加快完成数字化城市管理试点工作提出如下要求：<br><br>    一、加快进度，确保今年内完成试点城市系统建设并通过验收<br><br>    各试点城市要加强领导，精心组织，周密部署，查找影响工作进度的原因和问题，加快进度，确保质量，圆满完成试点工作。各试点城市（城区）须在2008年6月30日前完成系统建设方案专家评审，在2008年10月31日前完成数字化城市管理系统建设，并实现稳定运行，在2008年12月31日前通过住房和城乡建设部组织的专家验收。<br><br>    二、组织评估，不能按期完成试点工作城市将被取消试点资格<br><br>    据了解，在试点城市中有部分城市重视不够，方案不落实，工作进展缓慢。因此，住房和城乡建设部将在今年5月至6月组织各省级建设行政主管部门（或相关行政主管部门）对未通过验收的试点城市进行专项评估。评估的重点为试点方案、组织设置、资金保障、工作进度等。对经评估确实无法按时完成系统建设和通过专家验收的试点城市（城区），取消其试点资格，并将取消理由及相关情况向省（区、市）人民政府、省级建设行政主管部门（或相关行政主管部门）及试点城市（城区）人民政府通报。<br><br>    三、结合实际，鼓励数字化城市管理新模式的推广<br><br>    数字化城市管理新模式的积极作用正在被广大城市管理者所认识，有些不是试点的城市也按照建设部的标准完成了系统建设，且运行良好；一些省份还开展了省级试点推广工作。为鼓励各城市推广数字化城市管理新模式，试点工作领导小组办公室决定，在自愿的基础上，经省级建设行政主管部门（或相关行政主管部门）审查同意和统一申请，由部里组织专家对这些城市进行系统验收。这些城市的经验作法将作为试点工作成果。<br><br>    四、认真总结工作经验，形成数字化城市管理理论基础<br><br>    数字化城市管理模式是现代信息技术在城市管理工作中的应用，是一种管理理念提升、手段改进、技术革命和体制创新。加强试点工作经验总结，形成系统的数字化城市管理理论是试点工作的重要内容。<br><br>    各试点城市（城区）要认真总结数字化城市管理新模式的建设和运行情况，系统分析其运行给城市管理工作效率和管理机制带来的深刻变化和积极影响，提出对策建议，完善数字化城市管理工作制度、规范、标准，形成系统的数字化城市管理理论。<br><br>    已通过验收的试点城市在今年8月底前要完成一份总结报告和两篇理论文章；未通过验收的城市也要认真总结，形成思路。部里将组织数字化城市管理论文征集和理论研讨。<br><br>    五、强化领导，保证试点工作健康发展<br><br>    各省（区、市）建设行政主管部门要加强数字化城市管理试点工作的组织、协调和督导工作，对本省（区、市）内试点工作情况进行全面调研，提出督导方案和保障措施；对已通过验收的城市（城区）要加强指导，促进其不断改进，完善机制，提高运行效率；对未完成系统建设的试点城市（城区），要严格督导，在5月31日前完成试点城市系统建设评估工作，并将评估情况上报住房和城乡建设部城建司。各省（区、市）要积极研究数字化城市管理的全面推广工作，探索建设省级平台，逐步实现同各市联网运行；同时要制定（编制）推广计划（规划），组织好本行政区域内的推广工作。<br><br>    联系人：杨海英  舒亮伟<br><br>    电  话：010-58933434<br><br>住房和城乡建设部<br>二○○八年五月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

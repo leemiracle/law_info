@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2007〕111号<BR>&nbsp;&nbsp;【发布日期】2007-11-05<BR>&nbsp;&nbsp;【生效日期】2007-11-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yg07/ezbf/200712/t20071227_43208.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省高速公路车辆通行费收费标准<br><br></font>(鄂政办发〔2007〕111号)</p><br><br><br>    各市、州、县人民政府，省政府各部门：<br><br>    根据《收费公路管理条例》（国务院令第417号）和湖北省高速公路车辆通行费收费标准听证会及一年的试行情况，省物价局、省财政厅、省交通厅制订的《湖北省高速公路、长江大桥车辆通行费车型分类收费标准》、《湖北省高速公路、长江大桥载货类汽车计重收费标准》已经省人民政府同意，现予以印发，请遵照执行。<br><br>    一、 凡通过全省联网高速公路、长江大桥、隧道和黄黄高速公路（以下简称高速公路）的车辆，按照“标准车型、标准装载、标准收费；标准车型、超额装载、超额收费”的原则收取车辆通行费。对免征车辆仍按国家和省有关规定执行。对于符合“绿色通道”运输政策的运输车辆（整车装载、无超限超载现象且证照齐全有效的鲜活农产品运输车辆），按应收通行费的60%计收。<br><br>    二、对载货类汽车实行“轻车少收、重车多收和大型车优惠”原则。按车货总质量称重合理计费，对超限车辆的超限部分确定合理的加价幅度并逐步加大，用经济手段调节和限制车辆超限超载。对于10吨以上的大型车辆，按照车货总质量线性递减费率实行优惠。根据《超限运输车辆行驶公路管理规定》（交通部令第2号）、《道路车辆外廊尺寸、轴荷及质量限值》（GB1589―2004）和《交通部印发关于收费公路试行计重收费指导意见的通知》（交公路发〔2005〕492号）的规定，比较车辆总轴重限载与总质量限载，取两者之中的最小值为判别标准。<br><br>    三、高速公路通行费根据车型分类、计重收费标准按车辆实际行驶收费站间里程（见附件）计算确定，长江大桥通行费根据车型分类、计重收费标准按次收费。通行费收费金额计费不足5元时按5元计收；计重收费时，车货总质量不足5吨时按5吨计收；收费金额尾数<2?50元舍为0；2?50元≤收费金额尾数<7?50元归5元；收费金额尾数≥7?50元归为10元。<br><br>    四、客、货车车型收费收入总额和载货类汽车正常装载部分计重收费收入总额的9?09%，不作为各高速公路、长江大桥经营管理单位的车辆通行费收入。省高速公路联网收费管理部门在通行费收入拆分时统一将上述收入部分按日全额缴入省交通厅，纳入财政专户，实行“收支两条线”管理，列入省级交通部门预算管理，专项计提，专款专用。<br><br>    五、各高速公路、长江大桥管理单位在执行本次确定的收费标准前，须到指定的物价部门办理《收费许可证》，按规定分别使用省财政厅统一印制的行政事业性收费票据或税务机关印制的税务票据。<br><br>    六、本通知从2007年11月10 日起执行3年。《省人民政府办公厅关于印发〈湖北省收费公路载货类汽车计重收费实施方案〉的通知》（鄂政办发〔2006〕13号）和《省物价局、省财政厅、省交通厅关于调整全省收费还贷公路车辆通行费收费标准的通知》（鄂价费字〔2000〕269号）中有关高速公路收费标准的规定以及《省物价局、省财政厅、省交通厅关于调整高速公路车辆通行费收费标准有关问题的通知》（鄂价费〔2006〕213号）同时停止执行。<br><br>湖北省人民政府办公厅<br>二○○七年十一月五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

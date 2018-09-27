@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发[2006]514号<BR>&nbsp;&nbsp;【发布日期】2006-12-30<BR>&nbsp;&nbsp;【生效日期】2006-12-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/17384.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生监督信息系统建设指导意见<br><br></font>(卫监督发[2006]514号)</p><br> <br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，卫生部卫生监督中心：<br><br>    现将《卫生监督信息系统建设指导意见》印发给你们，请参照执行。<br><br>                       二00六年十二月三十日<br><br><br>卫生监督信息系统建设指导意见<br><br>    卫生监督信息化工作是卫生信息化工作的重要组成部分，卫生监督信息系统建设是卫生监督体系建设的重要内容之一。为了贯彻党中央、国务院关于加强卫生监督体系建设的精神，落实《全国卫生信息化发展规划纲要〔2003-2010年〕》要求，规范和指导全国各级卫生监督信息系统建设，提出以下意见。<br><br>    一、指导思想及原则<br><br>    以邓小平理论和“三个代表”重要思想为指导，贯彻落实科学发展观，坚持以科技创新为动力推进卫生监督信息化建设，发挥信息化技术在提高卫生监督执法能力、增强突发公共卫生事件应急处置能力和促进政务公开方面的重要作用，强化政府卫生监管职能，推进和谐社会建设。<br><br>    遵循“整体规划、统一标准、分级负责、分步实施”的原则,从全国卫生监督信息化建设发展需要出发，制定阶段性建设规划，统一数据定义与编码，统一数据交换标准，统一功能规范，明确各级卫生行政部门的职责，充分发挥中央与地方、政府与社会各方面的积极性，逐步建立健全卫生监督信息系统，实现卫生监督信息网络互联互通和信息资源共享。<br><br>    二、建设目标<br><br>    “十一五”期间，要建成覆盖全国的卫生监督信息网络平台；建立健全卫生监督信息标准体系；完善卫生监督信息系统业务应用软件；建立卫生监督数据信息共享交换平台；实现卫生监督工作实时、动态和科学管理，规范卫生监督执法行为，提高卫生监督工作效率。<br><br>    三、建设内容<br><br>    （一）卫生监督信息网络平台<br><br>    依托互联网，建立安全、稳定、通畅的国家、省、市（地）、县（区）四级卫生监督信息网络平台，建设国家和省级卫生监督信息数据中心。<br><br>    各级卫生监督信息网络平台参照《卫生监督信息网络平台配置参考标准》（见附件1）建设。有条件的地区可适当提高建设标准。<br><br>    （二）卫生监督信息标准体系<br><br>    统一管理、规范卫生监督信息标准制定工作，编写卫生监督数据字典和基础数据集，并逐步建立健全卫生监督信息标准体系，保证卫生监督数据交换与信息共享。<br><br>    （三）卫生监督数据信息交换平台<br><br>    建立各级卫生监督信息网络平台之间、卫生监督信息系统与其他相关信息系统之间信息共享的卫生监督数据信息交换平台。卫生部负责国家级卫生监督数据信息交换平台建设，各省级卫生行政部门负责省级卫生监督数据信息交换平台建设。<br><br>    （四）卫生监督信息系统业务应用软件<br><br>    根据《关于卫生监督体系建设的若干规定》规定的卫生监督工作主要职责，规范各类卫生监督信息系统功能，提高卫生监督信息系统业务软件开发应用的效率与质量。卫生监督信息系统应实现以下业务功能：<br><br>    1.卫生行政许可审批信息管理。采集、处理卫生行政许可、审查和备案等管理相对人基本信息，进行动态管理，规范卫生行政许可、审查和备案工作程序，并实现与卫生监督信息报告系统的衔接。<br><br>    2.日常卫生监督检查和行政处罚信息管理。采集、处理各类日常卫生监督检查、监测以及行政处罚和行政控制措施信息，出具现场执法文书，对日常卫生监督工作进行动态管理，规范日常卫生监督工作，并实现与卫生行政许可审批管理、卫生监督员管理和卫生监督信息报告系统的衔接。<br><br>    3.卫生检测与评价信息管理。采集、处理各类卫生抽检和卫生评价信息，规范卫生抽检和卫生评价工作，并实现与其他相关业务应用软件的衔接。<br><br>    4.突发公共卫生事件和重大活动信息管理。收集、处理各类突发公共卫生事件相关信息，实现对突发公共卫生事件的应急指挥和辅助决策，对调查处理过程进行跟踪管理；对各类重大活动卫生保障过程进行数字化管理。<br><br>    5.投诉举报信息管理。对各类投诉举报的基本信息及处理过程进行动态管理。<br><br>    6.卫生监督员信息管理。收集、处理、查询、发布卫生监督员教育培训、考试发证、执法稽查等相关信息，完成对卫生监督员的绩效评估考核管理，建立卫生监督员基本信息电子档案，并实现与其他相关业务应用软件的衔接。<br><br>    7.卫生监督数据信息综合利用。对卫生监督数据信息进行综合处理、统计分析，辅助行政决策，提供公众服务。<br><br>    “十一五”期间，计划开发的卫生监督信息系统业务应用软件参见附件2。<br><br>    四、职责分工<br><br>    （一）卫生部负责制定国家卫生监督信息系统建设规划、卫生监督信息标准和各类卫生监督信息系统业务应用软件功能规范；建设国家级卫生监督信息网络平台和数据中心；开发和推广全国统一使用的卫生监督信息系统业务应用软件。<br><br>    （二）省级卫生行政部门负责制定省级卫生监督信息系统建设规划；建设省级卫生监督信息网络平台和数据中心；推广和应用国家统一使用的卫生监督信息系统业务应用软件。<br><br>    （三）市（地）和县（区）级卫生行政部门负责建设本级卫生监督信息网络平台；推广和应用国家或省级统一使用的卫生监督信息系统业务应用软件。<br><br>    （四）有条件的地区在符合卫生监督信息标准和卫生监督信息系统业务应用软件功能规范等要求下，可以开发相关业务应用软件。<br><br>    五、保障措施<br><br>    （一）组织机构和人员保障<br><br>    1.各级卫生行政部门要加强领导，将卫生监督信息化建设纳入本级卫生信息化建设规划，统筹考虑；成立由主管领导负责的卫生监督信息化建设工作组，负责辖区内卫生监督信息系统建设的组织实施。<br><br>    2.国家和省级卫生监督机构应设立专门的信息化管理部门；市（地）和县（区）级卫生监督机构应设立信息化管理部门或配备专职信息管理人员，负责卫生监督信息系统的日常运行管理和维护。<br><br>    （二）经费保障<br><br>    卫生监督信息系统建设是卫生监督机构建设的重要内容之一。卫生监督信息系统建设资金及日常运行、维护费用应按照国家有关规定，纳入同级政府财政预算，根据需要合理安排。中央和省级财政对困难地区卫生监督信息系统建设给予适当补助。<br><br>    （三）建立和完善管理制度<br><br>    各级卫生行政部门要不断理顺卫生监督信息管理体制，明确管理责任，完善管理制度，建立科学长效的卫生监督信息管理运行机制。<br><br>    （四）加强人才队伍建设<br><br>    各级卫生行政部门应加强卫生监督信息人才的培养，通过岗位培训和继续教育等多种方式，对卫生监督员进行信息化知识和技能培训，培养一批既掌握信息技术、又熟悉卫生监督业务的复合型人才。<br><br>    （五）加强交流与合作<br><br>    各级卫生行政部门应建立和完善卫生监督信息工作交流合作机制，切实加强卫生监督信息技术、信息资源和人才培养等领域的交流与合作；鼓励开展卫生监督信息工作的国际交流与合作。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

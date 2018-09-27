@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2010-05-07<BR>&nbsp;&nbsp;【生效日期】2010-05-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://kjs.mof.gov.cn/zhengwuxinxi/zhengcefabu/201005/P020100505328497850725.pdf" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>企业内部控制应用指引第18号――信息系统 <br><br></font></p><br><br><br>    <font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了促进企业有效实施内部控制，提高企业现代化管理水平，减少人为因素，根据有关法律法规和《企业内部控制基本规范》，制定本指引。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本指引所称信息系统，是指企业利用计算机和通信技术，对内部控制进行集成、转化和提升所形成的信息化管理平台。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 企业利用信息系统实施内部控制至少应当关注下列风险：<br><br>    （一）信息系统缺乏或规划不合理，可能造成信息孤岛或重复建设，导致企业经营管理效率低下。<br><br>    （二）系统开发不符合内部控制要求，授权管理不当，可能导致无法利用信息技术实施有效控制。<br><br>    （三）系统运行维护和安全措施不到位，可能导致信息泄漏或损，系统无法正常运行。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 企业应当重视信息系统在内部控制中的作用，根据内部控制要求，结合组织架构、业务范围、地域分布、技术能力等因素，制定信息系统建设整体规划，加大投入力度，有序组织信息系统开发、运行与维护，优化管理流程，防范经营风险，全面提升企业现代化管理水平。<br><br>    企业应当指定专门机构对信息系统建设实施归口管理，明确相关位的职责权限，建立有效工作机制。企业可委托专业机构从事信息系统的开发、运行和维护工作。<br><br>    企业负责人对信息系统建设工作负责。<br><br>    <font class='zhang'>第二章</font> 信息系统的开发<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 企业应当根据信息系统建设整体规划提出项目建设方案，明确建设目标、人员配备、职责分工、经费保障和进度安排等相关内容，按照规定的权限和程序审批后实施。<br><br>    企业信息系统归口管理部门应当组织内部各单位提出开发需求和关键控制点，规范开发流程，明确系统设计、编程、安装调试、验收、上线等全过程的管理要求，严格按照建设方案、开发流程和相关要求组织开发工作。<br><br>    企业开发信息系统，可以采取自行开发、外购调试、业务外包等方式。选定外购调试或业务外包方式的，应当采用公开招标等形式择优确定供应商或开发单位。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 企业开发信息系统，应当将生产经营管理业务流程、关键控制点和处理规则嵌入系统程序，实现手工环境下难以实现的控制功能。<br><br>    企业在系统开发过程中，应当按照不同业务的控制要求，通过信息系统中的权限管理功能控制用户的操作权限，避免将不相容职责的处理权限授予同一用户。<br><br>    企业应当针对不同数据的输入方式，考虑对进入系统数据的检查和校验功能。对于必需的后台操作，应当加强管理，建立规范的流程制度，对操作情况进行监控或者审计。<br><br>    企业应当在信息系统中设置操作日志功能，确保操作的可审计性。对异常的或者违背内部控制要求的交易和数据，应当设计由系统自动报告并设置跟踪处理机制。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 企业信息系统归口管理部门应当加强信息系统开发全过程的跟踪管理，组织开发单位与内部各单位的日常沟通和协调，督促开发单位按照建设方案、计划进度和质量要求完成编程工作，对配备的硬件设备和系统软件进行检查验收，组织系统上线运行等<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 企业应当组织独立于开发单位的专业机构对开发完成的信息系统进行验收测试，确保在功能、性能、控制要求和安全性等方面符合开发需求。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 企业应当切实做好信息系统上线的各项准备工作，培训业务操作和系统管理人员，制定科学的上线计划和新旧系统转换方案，考虑应急预案，确保新旧系统顺利切换和平稳衔接。系统上线涉及数据迁移的，还应制定详细的数据迁移计划。<br><br>    <font class='zhang'>第三章</font> 信息系统的运行与维护<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 企业应当加强信息系统运行与维护的管理，制定信息系统工作程序、信息管理制度以及各模块子系统的具体操作规范，及时跟踪、发现和解决系统运行中存在的问题，确保信息系统按照规定的程序、制度和操作规范持续稳定运行。<br><br>    企业应当建立信息系统变更管理流程，信息系统变更应当严格遵照管理流程进行操作。信息系统操作人员不得擅自进行系统软件的删除、修改等操作；不得擅自升级、改变系统软件版本；不得擅自改变软件系统环境配置。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 企业应当根据业务性质、重要性程度、涉密情况等确定信息系统的安全等级，建立不同等级信息的授权使用制度，采用相应技术手段保证信息系统运行安全有序。<br><br>    企业应当建立信息系统安全保密和泄密责任追究制度。委托专业机构进行系统运行与维护管理的，应当审查该机构的资质，并与其签订服务合同和保密协议。<br><br>    企业应当采取安装安全软件等措施防范信息系统受到病毒等恶意软件的感染和破坏。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 企业应当建立用户管理制度，加强对重要业务系统的访问权限管理，定期审阅系统账号，避免授权不当或存在非授权账号，禁止不相容职务用户账号的交叉操作。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 企业应当综合利用防火墙、路由器等网络设备，漏洞扫描、入侵检测等软件技术以及远程访问安全策略等手段，加强网络安全，防范来自网络的攻击和非法侵入。<br><br>    企业对于通过网络传输的涉密或关键数据，应当采取加密措施，确保信息传递的保密性、准确性和完整性。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 企业应当建立系统数据定期备份制度，明确备份范围、频度、方法、责任人、存放地点、有效性检查等内容。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 企业应当加强服务器等关键信息设备的管理，建立良好的物理环境，指定专人负责检查，及时处理异常情况。未经授权，任何人不得接触关键信息设备。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

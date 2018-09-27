@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院法制办公室<BR>&nbsp;&nbsp;【发布文号】国法秘函〔2004〕169号<BR>&nbsp;&nbsp;【发布日期】2004-06-23<BR>&nbsp;&nbsp;【生效日期】2004-06-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinalaw.gov.cn/jsp/contentpub/browser/contentpro.jsp?contentid=co31794185-7" target=_blank>国务院法制办公室 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院法制办公室对《关于行政许可实施主体清理有关问题的请示》的复函<br> <br></font>（2004年6月23日国务院法制办公室文件国法秘函〔2004〕169号发布 自发布之日起施行）</p><br><br><br>    上海市人民政府法制办公室：<br><br>    你办《关于行政许可实施主体清理有关问题的请示》收悉。经认真研究并征求全国人大常委会法工委意见，现函复如下：<br><br>    一、《社会团体登记管理条例》规定的业务主管单位对申请成立社会团体的审查行为不属于行政许可法规定的行政许可。<br><br>    二、根据《社会团体登记管理条例》的规定，在地方负责社会团体登记的行政机关是县级以上地方人民政府民政部门。<br><br>    三、《中华人民共和国教师法》有关教育行政部门委托普通高等学校认定教师资格的规定与《中华人民共和国行政许可法》有关委托的规定不一致。经商全国人大常委会法工委，有关规定可以暂不修改，待修订《中华人民共和国教师法》时一并解决。<br><br>    四、《中华人民共和国消防法》规定的“县级以上公安机关消防机构”是对外实施行政许可的行政机关，不是内设机构。<br><br>    五、行政机关实施行政许可，不得向申请人提出购买指定商品、接受有偿服务等不正当要求；除依法属于有数量限制的行政许可外，不得对申请人、被许可人的数量加以限制。行政机关指定相对人实施特定活动的行为，如果不需要申请人申请，是行政机关依职权可以主动作出的，原则上不属于行政许可，但需要予以规范。<br><br><br><br>    附：上海市人民政府法制办公室关于行政许可实施主体清理有关问题的请示<br><br>    （2004年5月13日  沪府法[2004]34号）<br><br>    国务院法制办公室：<br><br>    根据《国务院关于贯彻实施〈中华人民共和国行政许可法〉的通知》要求，我办对本市有关实施行政许可的主体进行了清理。在清理过程中，遇到了一些问题难以判断，请示如下：<br><br>    一、关于社团登记前置审批中业务主管单位的行政许可实施主体资格问题<br><br>    《社会团体登记管理条例》（以下简称《条例》）规定，申请成立社会团体，应当经其业务主管单位审查同意，由发起人向登记管理机关申请筹备。同时明确，国务院有关部门和县级以上地方各级人民政府有关部门、国务院或者县级以上地方各级人民政府授权的组织，是有关行业、学科或者业务范围内社会团体的业务主管单位。根据《条例》的规定，上海市委、市政府办公厅联合发文，确认下列单位为社团的业务主管单位：市委各工作部门及区（县）党委的相应部门；市政府的组成部门、直属机构及区（县）政府的相应部门和机构；经市委、市政府或区（县）党委、区（县）政府授权的组织。具体授权市总工会、团市委、市妇联等机构为社团的业务主管单位。<br><br>    这些授权的非行政机关的部门作为业务主管单位是否符合《条例》的立法本意，能否确定这些机构作为行政许可实施主体，希望能够明确。<br><br>    二、关于社会团体管理局的行政许可实施主体资格问题<br><br>    《条例》规定，民政部门为社团登记管理机关。而上海已设立上海市社会团体管理局，作为市民政局领导的负责全市社会团体和民办非企业单位登记管理的行政机关，机构级别为副局级。据了解，其他省市中也有部分设立了社会团体管理局，并由其独立行使社团登记审批权。根据《条例》规定，如果认定民政局为许可实施主体，那么社团管理局的功能发挥就会受到影响。<br><br>    能否确认社团管理局的许可实施主体资格，希望能予以明确。<br><br>    三、关于高校教师资格认定中高校的行政许可实施主体资格问题<br><br>    《教师法》第十三条明确规定，普通高等学校的教师资格由国务院或者省、自治区、直辖市教育行政部门或者由其委托的学校认定。据此，上海市教委委托了本市复旦大学等23所普通高校实施教师资格认定，实践中，这些高校都以教委的名义实施高校教师资格的认定。而《行政许可法》规定，接受委托实施许可的只能是行政机关，事业单位不得受委托实施许可。由此产生了新的一般法与旧的特别法不一致的问题。<br><br>    能否确认高校实施行政许可实施主体的资格，如将其明确为法律授权实施行政许可的组织，需要在全国范围内统一口径。<br><br>    四、关于县级公安消防监督机构的行政许可实施主体资格问题<br><br>    《消防法》明确了县级以上公安机关消防机构实施行政许可的主体地位。目前全国有两种模式，一种模式为，公安消防监督机构在市级层面有独立的市消防局，在区县级层面只有防火监督处或者防火监督科作为公安分局的内设机构，上海、北京、天津等地属于这一种情形；另一种模式是设立消防支队作为公安机关的消防监督机构，江苏、浙江等地都采用这种模式。根据《行政许可法》的规定，内设机构不具有独立实施行政许可的主体地位，不能以自己的名义实施行政许可。但是，本市公安局认为，消防监督工作相对独立，实践中需要以公安机关防火监督处（科）的名义独立从事行政管理活动，公安部也认可这一做法，建议确认其主体资格。据向最高院行政庭了解，他们认为，公安机关防火监督处（科）并非《消防法》的授权组织，只有公安机关消防支队才属于《消防法》所授权的公安消防监督机构。<br><br>    本市区县公安分局的防火监督处或防火监督科是否属于《消防法》规定的县级以上公安消防监督机构，希望能予以明确。<br><br>    五、关于指定相对人实施特定活动的行为是否属于行政许可的问题<br><br>    在上海的行政许可实施主体清理工作中，市地税局和市医保局上报的行政许可实施事项分别为指定发票印制企业和医保定点医疗机构的审批。在审核中，对行政机关指定相对人实施特定活动的行为是否属于行政许可有不同意见，需要予以明确。<br><br>    以上请示，请予批复。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

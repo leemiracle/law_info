@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部、公安部、工业和信息化部、国家工商行政管理总局、国家食品药品监督管理局、国家中医药局<BR>&nbsp;&nbsp;【发布文号】国食药监办[2009]342号<BR>&nbsp;&nbsp;【发布日期】2009-07-07<BR>&nbsp;&nbsp;【生效日期】2009-07-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/39865.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>药品安全专项整治工作方案<br>  <br></font>(国食药监办[2009]342号)</p><br><br> <br>各省、自治区、直辖市人民政府：<br><br>    经国务院同意，现将《药品安全专项整治工作方案》印发你们。请结合实际，认真组织实施。<br><br>                              中华人民共和国卫生部  中华人民共和国公安部<br>                   中华人民共和国工业和信息化部  中华人民共和国国家工商行政管理总局<br>                                  国家食品药品监督管理局  国家中医药局<br>                                            二○○九年七月七日<br><br><br>                            药品安全专项整治工作方案<br><br>    为贯彻落实国务院关于深入开展药品安全专项整治的工作部署，进一步解决影响药品安全的深层次问题，全面提升药品安全水平，维护人民群众切身利益，制定本工作方案。<br><br>    一、指导思想和总体目标<br>    （一）指导思想<br>    全面贯彻党的十七大精神，以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，把药品安全工作作为重要的民生工程，坚持标本兼治、着力治本，提高药品标准，严格准入条件，强化市场监管，落实安全责任，进一步规范药品市场秩序，健全药品安全工作机制，促进医药产业又好又快发展，确保公众用药安全。<br>    （二）总体目标<br>    通过两年左右的深入整治，进一步落实“地方政府负总责、监管部门各负其责、企业是第一责任人”的药品安全责任体系，进一步完善药品生产经营规范和质量标准，进一步强化药品市场准入管理和安全监管，进一步优化医药产业结构，使药品质量安全控制水平显著提高，企业安全责任意识和诚信意识显著增强，药品生产经营秩序显著好转，重大药品质量安全事故明显减少，人民群众的药品消费信心明显增强。<br><br>    二、整治任务<br>    （一）落实药品安全责任。加强组织协调，完善工作机制，建立健全强化药品安全的长效制度。<br>    （二）强化全过程监管。全面提高药品标准，严格药品审评审批和再评价，严格控制新开办企业，严格实施质量管理规范和质量追溯，确保上市药品的质量安全。<br>    （三）净化医药市场秩序。加快医药产业结构调整，整治违规违法行为，为人民群众创造更加安全的用药环境。<br><br>    三、整治措施<br>    （一）强化组织领导和责任落实。地方各级政府要加强领导，组织开展药品安全形势分析，组织制定并实施药品安全工作年度计划；加强对有关部门工作的评议考核，确保监管部门无障碍开展工作；加强对辖区内药品生产、流通、使用的检查和产品抽验，确保辖区内无制售假药的黑窝点，无非法药品集贸市场；加强不良反应监测和药品安全应急管理，健全工作体系和应急处置工作程序，及时消除药品安全隐患。<br>    （二）打击生产销售假药。按照国务院批准建立的打击生产销售假药部际协调联席会议的部署，各地要加强卫生行政、药品监管、公安、工业和信息化等部门的组织协调，统筹打击制售假药工作。重点打击利用互联网、邮寄等方式制售假药的行为，严格落实最高人民法院、最高人民检察院关于办理生产、销售假药、劣药刑事案件具体应用法律若干问题的解释，加强行政执法与刑事司法衔接，严厉查处重大案件。<br>    （三）整治违法药品广告。工商部门要会同有关部门加大违法药品广告查处力度，重点监测和打击利用互联网发布虚假广告和虚假宣传的行为，依法查处相关违法违规网站的主办者，严格落实药品生产企业、广告经营商和媒体的责任。<br>    （四）整治非药品冒充药品。药品监管部门要会同有关部门大力整治以食品、消毒产品、保健食品、化妆品等冒充药品上市的行为。按照谁审批、谁负责的原则，规范相关产品的上市许可。严厉打击仿冒药品，坚决维护药品市场秩序。<br>    （五）建立国家基本药物生产供应和质量保障机制。各地要根据国家建立基本药物制度的部署和安排，强化对基本药物生产供应、流通、配备、使用、定价报销和监管工作。工业和信息化部门要加强行业管理，提高生产供应能力，保障基本药物供应。药品监管部门要加强对基本药物的监管，确保基本药物的质量安全。政府指定的部门要加强对基本药物公开招标采购的管理，减少中间环节，降低配送成本，严格落实对中标企业质量、服务和能力的要求。物价部门要合理制定基本药物零售指导价格。卫生行政部门要加强对基本药物使用的管理，确保医疗机构优先合理使用基本药物。<br>    （六）完善医药产业政策。工业和信息化部门要会同有关部门制定医药产业发展政策，引导、规范创制新药，发展现代医药物流建设，鼓励同行业兼并重组，鼓励农村药品供应网建设，规范药谷和医药科技园等建设，推进医药产业结构调整。药品监管部门要严格控制新开办药品生产和批发企业数量，按照合理布局的原则从严审批零售药店。<br>    （七）提高药品质量标准。药品监管部门要全面落实“提高国家药品标准行动计划”，开展国家基本药物标准提高工作，加快医疗器械、中药、民族药等标准的制修订工作。开展药品再评价，重点提高注射剂产品的安全性和质量可控性。完善医疗器械标准管理，健全医疗器械标准管理机构。<br>    （八）加强药品研制、生产、流通环节监管。药品监管部门要提高审评审批门槛，加强现场核查，确保药品研制真实、规范。加强对高风险产品生产的监管，进一步加强对原料、辅料、化学中间体、中药饮片和药包材的管理，完善质量受权人和派驻监督员制度，坚决查处违规生产行为。组织开展上市药品的再注册，坚决淘汰不具备生产条件、质量不能保证、安全风险较大的品种。推行药品电子监管，监督企业完善质量追溯体系，实行更加严格的产品召回制度。<br>    （九）加强临床用药管理。卫生行政、中医药管理部门要加大对医疗机构用药的管理力度，加强合理用药宣传教育，规范医疗行为，防止不合理用药造成的伤害。医疗机构和医务人员要严格按照《处方管理办法》和说明书使用药品，防止超适应症、超剂量用药。药品监管部门要会同有关部门制定医疗机构药品质量管理办法，进一步加强药品使用环节的质量监管，规范医疗机构药品质量管理。<br><br>    四、工作要求<br>    （一）高度重视，精心组织。各地要从保增长、保民生、保稳定的高度，深刻认识开展药品安全专项整治的重大意义，切实加强组织领导，给予经费保障。要结合各地实际，制定详细的实施方案，细化整治目标和整治措施，确定重点地区和重点环节，确保专项整治取得实实在在的成效。<br>    （二）落实责任，形成合力。各地要严格落实药品安全责任制和责任追究制。发生药品安全突发事件，有关部门要采取严格的控制措施，督促企业召回产品，坚决依法查处生产经营中存在的违法违规行为；造成严重后果的，有关部门要坚决依法吊销企业证照。要加大行政问责和行政监察力度，督促有关部门依法履行职责，严肃查处失职、渎职行为。<br>    （三）广泛宣传，营造氛围。各地要组织媒体深入农村、社区跟踪采访，做好热点问题、重点问题的报道，大力宣传专项整治的措施和成效。组织开展药品安全科普宣传活动。加强舆情收集与分析，做好舆论引导和应对工作。进一步完善药品安全突发事件新闻发布机制，保证信息及时、准确、有序发布，创造良好的科学监管、安全用药舆论环境。<br>    （四）及时督查，确保实效。各地要根据整治任务、整治措施和整治要求，制定督查方案，逐级开展督促检查工作。对整治效果显著的地区，要表彰奖励；对药品安全问题突出、整治不力的地区，要通报批评，督促整改。卫生部、国家食品药品监督管理局将联合有关部门，对各地药品安全专项整治工作进行督查，并向国务院报告。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

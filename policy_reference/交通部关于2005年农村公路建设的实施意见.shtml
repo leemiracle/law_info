@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交公路发[2005]216号<BR>&nbsp;&nbsp;【发布日期】2005-05-26<BR>&nbsp;&nbsp;【生效日期】2005-05-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhengwu/zhengwu/t20050531_13404.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于2005年农村公路建设的实施意见<br><br></font>(交公路发[2005]216号)</p><br><br><br>各省、自治区、直辖市交通厅（委），天津市市政工程局，上海市市政工程管理局，新疆生产建设兵团交通局：<br>    2005年是全面实现“十五”农村公路建设目标的最后一年。为加强对全国农村公路建设的指导，提高建设管理水平，根据全国交通工作会议的总体部署和部农村公路建设领导小组会议精神，对今年农村公路建设的实施提出如下意见：<br>    一、农村公路建设工作的总体要求是：贯彻落实科学发展观，坚持以人为本和可持续发展理念，按照“统筹规划、分级负责，因地制宜、分类指导，建养并重、协调发展”的方针，进一步加大政府投入，落实建设管理责任，充分发挥广大农民群众的积极性，加快农村公路建设步伐。<br>    二、统筹规划，有序推进农村公路建设。各地要按照国务院批准的《农村公路建设规划》，结合本地区社会经济发展特点，尽快修编本省（直辖市、自治区）农村公路发展规划和实施计划，抓紧开展项目前期工作，为农村公路长期稳定发展奠定基础。农村公路建设要以贯彻科学发展观为根本，从农民群众实际需求出发，按照先通后畅、先易后难的原则，统筹安排，有序推进，科学确定建设规模，防止脱离实际的高标准、高指标，要因地制宜，合理选择路线方案、技术指标和路面结构型式；要优化设计，努力降低工程造价，节约投资；要充分利用老路，尽量避免占用农田，最大限度地节约用地；要尽量减少对自然环境的影响，保护生态环境，减少水土流失。<br>    三、正确处理好农村公路建设和维护农民群众利益的关系。一方面，要充分发挥广大农民群众的修路积极性，鼓励农民采用“一事一议”的办法，用自己的双手从事公益性劳动，改善自己的生产生活条件；另一方面，要充分尊重农民的意愿，不修农民不需要的路，不修农民没有积极性的路，不修没有经过“一事一议”确定的路。农村公路建设不得非法集资和强行摊派，不得强行征地拆迁，不得拖欠征地拆迁款和农民工的工资，不得增加农民负担，不得侵占农民利益。农村公路建设要就地取材，尽量使用农民的运输工具，以扩大农民的就业门路，增加农民收入。<br>    四、明确建设责任，加强资金管理。农村公路建设要坚持 “政府主导、分层负责、各方参与、共同推进”的原则，明确建设管理主体，落实各方责任，搞好协调配合。中央对农村公路建设的投入是引导和扶持性的，是针对地方政府筹措农村公路建设资金困难的实际而提供的补助资金，并不是代替地方政府的职责。要研究制定符合本地实际的农村公路建设筹资政策，加大地方政府的投入，建立稳定可靠的资金渠道，同时，要充分发挥广大农民群众和社会各界的积极性。农村公路建设资金管理要严格执行国家和部有关规定，做到专款专用，不得挤占和挪用。对于中央补助资金，未经批准，不得变更补助项目和补助金额，资金使用情况要公开透明，要按照政务公开和村务公开的要求，定期向当地群众公布，接受政府有关部门和人民群众的监督。各级交通主管部门要依据职责，加强对农村公路建设资金使用和管理情况的监督检查。<br>    五、加强实施管理，依法组织建设。农村公路建设要按照国家有关法律、法规的要求，结合农村公路项目的实际，建立健全符合农村公路建设特点的管理制度，实现管理的制度化、规范化；要深化项目的前期工作，对中央已下达投资计划和预算的项目，不得随意调整建设规模和技术标准，不得改变投资方向；对确需调整项目和改变规模与标准的，要按规定履行相应的手续；对符合法定招标范围和规模的项目，要依法实行招投标制度，对利用扶贫资金实行以工代赈以及组织农民投工投劳的建设项目，可不进行招标；要适当简化审批及有关手续，部分项目审批程序可合并进行，工程验收可结合农村公路项目特点，采用按地区分批验收的办法。<br>    六、加强监督检查，确保工程质量。各级交通主管部门要不断总结建设管理经验，完善质量管理的规章制度，认真履行对工程质量的行业监管职责。要切实处理好质量与速度的关系，“宁可慢一点，也要好一点”；在质量管理方式上，要灵活多样，讲求实效，探索以县为单位统一成立监理组或聘请社会监理等方式，开展质量监理工作；要注重发动农民群众参与质量监督，可以聘请农民质量监督员，发挥社会监督作用，切实把好农村公路工程质量关。<br>    七、加强队伍建设与技术指导。各级交通主管部门要充分发挥行业技术和人才优势，针对目前农村公路建设实际，加大对农村公路建设的技术指导力度，科学制定培训计划，分期分批组织对基层技术管理人员的培训，提高人员素质，提升管理水平。今年，部将重点组织对延安、井冈山等革命老区农村公路建设管理人员的培训，组织辽宁省交通厅等单位制作《农村公路施工技术科教片》，普及农村公路施工技术。<br>    八、利用示范工程，总结推广建设经验。要通过示范引路，总结新经验，探索新举措，解决新问题。各地要结合农村公路发展的新形势、新情况，选择一批示范点和示范路，从建设标准、施工技术、质量控制、资金监管、政策扶持、服务“三农”等多方面探索建设经验，并组织经验交流和推广，达到以点带面，整体推进的目的。今年，部确定了延安等8个市县的部分项目为部农村公路建设的示范工程，各地要抓好这些示范工程的实施，总结农村公路建设管理经验，以指导全国的农村公路建设。<br>    九、统筹农村客运站点建设。各级交通主管部门要按照“路、站、运一体化”的思想，统筹协调农村公路和农村客运的发展。农村公路与农村客运站点要统一规划、同步实施，努力为实现农村公路客运网络化创造条件。<br>    十、加大对农村公路的宣传力度。今年，要组织对农村公路建设的广泛宣传和深度报道，要总结“十五”农村公路建设成就，挖掘感人事迹，宣传农村公路对服务“三农”、促进农村社会经济发展所起到的重要作用。在宣传方式方法上，要拓展思路，可以通过制作农村公路公益广告等多种方式，让各级政府、各行业、全社会了解农村公路建设取得的巨大成就和显著成效，树立交通行业的良好形象。<br>    加快农村公路建设是构建社会主义和谐社会的重要内容，是实现全面建设小康社会的先决条件，是今后一段时期公路建设的重要工作。各地交通主管部门要从加强行政能力建设入手，树立新理念，采取新举措，与时俱进，开拓进取，全面完成农村公路建设任务。<br><br>                               中华人民共和国交通部<br>                               二○○五年五月二十六日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

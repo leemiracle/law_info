@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】国核安发〔2005〕102号<BR>&nbsp;&nbsp;【发布日期】2005-10-14<BR>&nbsp;&nbsp;【生效日期】2005-10-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/eic/649086815327748096/20051026/12239.shtml" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局关于核承压设备活动持证单位普查情况的通报<br><br></font>(国核安发〔2005〕102号)</p><br><br><br>各有关单位： <br><br>    为进一步加强民用核承压设备活动资格许可证持证单位（以下简称持证单位）的监督管理，根据《民用核承压设备安全监督管理规定》（HAF601）和《关于对核承压设备活动持证单位进行核安全检查的通知》（国核安办〔2005〕41号）要求，我局于2005年6月至9月对上海阀门有限公司等24个持证单位（名单附后）进行了核安全检查,现将检查情况通报如下： <br><br>    一、各持证单位基本上能遵守核安全法规及我局的管理要求，但部分单位存在不同程度的问题。 <br><br>    二、部分持证单位的核质量保证体系不健全，核质量保证体系必需的程序文件未制定。核质量保证体系没有得到有效实施，主要包括：核承压设备制造活动质量保证不到位；未按照核质量保证大纲的要求进行管理部门审查和内部监查；组织机构和职责划分已发生重大变化，而核质量保证大纲及其程序文件却未作任何修订，已不适用。 <br><br>      三、部分持证单位未按照许可证条件要求进行厂房设施的改造，也未向我局报告重大变动情况；一些持证单位从事核承压设备活动所需的资源和能力退化。 <br><br>    四、部分持证单位缺乏对企业员工核安全法规、核质量保证和技术标准规范的培训；核级焊工和无损检验人员培训取证、持证上岗的管理薄弱；对国家核安全法规和我局提出的核安全要求了解不全面等。 <br><br>    五、营运单位执行供方评价制度不严格，主要包括：供方评价拘于形式、深度和力度不够；将供方评价没有得出结论的单位纳入招投标范围等；营运单位对于从事核承压设备活动单位的质量管理和过程控制不严。 <br><br>    根据检查情况，以下9个持证单位问题较为严重： <br><br>    （一）河北沧海管件有限公司存在核质量保证体系不健全、资格许可证条件中要求的厂房设施改造至今未到位等问题。 <br><br>    （二）河北沧州渤海管件有限公司存在核质量保证体系不健全、厂房设施条件至今不满足目标产品的制造要求等问题。 <br><br>      （三）上海阀门有限公司正在搬迁改造中，暂不完全具备相应制造能力。 <br><br>    （四）上海耐莱斯・詹姆斯伯雷有限公司正在搬迁改造中，暂不完全具备相应制造能力。 <br><br>    （五）上海理工大学附属工厂正在搬迁改造中，暂不具备相应制造能力。 <br><br>    （六）镇江中高压阀门公司目前的厂房装备状况和技术储备不满足核级产品的制造要求。 <br><br>    （七）天津金鼎管道有限公司目前的管理现状不满足核级产品的要求，同时暂不具备许可证范围内超级管道制造的技术储备。 <br><br>    （八）国营四七一厂暂不具备许可证范围内热交换器制造所必须的设备设施和相应的技术储备。 <br><br>    （九）深圳施英达管道有限公司目前人员配置不齐、部分组织机构部门空置，暂不具备运行核质保体系的能力。 <br><br>     针对检查中发现的问题，我局提出以下要求： <br><br>    一、对于存在较为严重问题的9个持证单位，给以6个月时间限期整改,并将整改报告报我局审查。逾期未整改合格的单位，将撤销其资格许可证。 <br><br>    二、其他各持证单位应针对检查中发现的问题进行积极整改，进一步规范和加强核承压设备活动的管理。整改报告应在一个月内报我局审查。 <br><br>    三、各持证单位应针对检查出来的问题，认真完善各项制度，以确保达到核安全要求。 <br><br>    四、各营运单位应认真地做好核承压设备活动的供方评价、采购控制以及质量管理和过程控制等工作，从严把关，确保核承压设备的质量。    <br><br>    附件：核承压设备活动持证单位普查名单<br><br>    二○○五年十月十四日<br><br><br>附件：国家核安全局2005年核承压设备活动持证单位普查名单<br><br>    1. 上海阀门有限公司 <br><br>    2. 上海良工阀门厂 <br><br>    3. 上海阀门五厂 <br><br>    4. 上海耐莱斯・詹姆斯伯雷有限公司 <br><br>    5. 上海安德森・格林伍德・克罗斯比阀门有限公司 <br><br>    6. 上海电力修造总厂有限公司 <br><br>    7. 上海理工大学附属工厂 <br><br>    8. 上海大隆机器有限公司 <br><br>    9. 河北宏润管件有限公司 <br><br>    10. 河北沧海管件有限公司 <br><br>    11. 河北沧州渤海管件有限公司 <br><br>    12. 苏州高中压阀门厂 <br><br>    13. 镇江中电高压阀门公司 <br><br>    14. 江苏神通阀门有限公司 <br><br>    15. 江苏海达管件有限公司 <br><br>    16. 扬州市石化管件厂 <br><br>    17. 无锡新峰管业有限公司 <br><br>    18. 华阳金属管件有限公司 <br><br>    19. 南通特种钢厂 <br><br>    20. 天津金鼎管道有限公司 <br><br>    21. 大连海密梯克密封泵有限公司 <br><br>    22. 核工业国营471厂 <br><br>    23. 深圳施英达管道有限公司 <br><br>    24. 沈阳水泵股份有限公司<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

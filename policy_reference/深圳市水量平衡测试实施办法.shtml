@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳市<BR>&nbsp;&nbsp;【发布文号】深水务〔2006〕120号<BR>&nbsp;&nbsp;【发布日期】2006-04-05<BR>&nbsp;&nbsp;【生效日期】2006-05-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sz.gov.cn/zhengfu/gongbao/showgb.asp?rowid=200604130000000004" target=_blank>深圳市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳市水量平衡测试实施办法<br><br></font>（深水务〔2006〕120号）</p><br><br><br>     为贯彻实施《深圳市节约用水条例》，准确掌握用户用水现状和用水结构，推动用户完善节水措施，建立科学用水制度，合理评价用水水平，根据国家及行业的水量平衡测试标准，结合我市实际，我局制定了《深圳市水量平衡测试实施办法》。现予印发，请遵照执行。<br><br>深圳市水务局<br>2006年4月5日<br><br><br>深圳市水量平衡测试实施办法<br><br>     <a name='1'><font class='TiaoNoA'>第一条</font></a> 为贯彻实施《深圳市节约用水条例》，准确掌握用户用水现状和用水结构，推动用户完善节水措施，建立科学用水制度，合理评价用水水平，根据国家及行业的水量平衡测试标准，结合我市实际，制定本办法。<br>     <a name='2'><font class='TiaoNoA'>第二条</font></a> 水量平衡测试是指对用户的用水体系进行实际测试，确定其用水参数的水量值，并根据其输入水量与输出水量之间的平衡关系，分析用水合理程度的工作。<br>     <a name='3'><font class='TiaoNoA'>第三条</font></a> 水量平衡测试实行分级管理，市水务主管部门可以委托市节约用水管理机构承担水量平衡测试的具体管理工作。<br>     年实际用水量在30000立方米以上（含30000立方米）的单位用户，其水量平衡测试工作由市节约用水管理机构负责管理。<br>     罗湖、福田、南山、盐田区年实际用水量在5000立方米以上30000立方米以下的单位用户，其水量平衡测试工作由市节约用水管理机构负责管理；年实际用水量不足5000立方米的单位用户，其水量平衡测试工作由区水务主管部门负责管理。<br>     宝安、龙岗区年实际用水量不足30000立方米的单位用户，其水量平衡测试工作由区水务主管部门负责管理。<br>     <a name='4'><font class='TiaoNoA'>第四条</font></a> 凡本市行政区域内的单位用户，应根据市节约用水管理机构或区水务主管部门的安排至少每3年进行一次水量平衡测试。<br>     经审查的水量平衡测试结果是确定单位用户年度用水计划的重要依据。<br>     <a name='5'><font class='TiaoNoA'>第五条</font></a> 不同用水性质的用水应分表计量。单位用户每个用水单元和用水设备应按水量平衡测试要求安装计量设施，符合日常用水节水管理要求。<br>     用水计量设施应有质量技术监督部门或其授权机构出具的检验合格证明。<br>     <a name='6'><font class='TiaoNoA'>第六条</font></a> 市节约用水管理机构或区水务主管部门负责制定单位用户的水量平衡测试工作安排方案，并及时通知单位用户。<br>     单位用户应当按照工作安排方案的要求完成本单位水量平衡测试工作。需要调整测试时间的，应当在接到工作安排方案通知之日起两个月内，向制定工作安排方案的市节约用水管理机构或区水务主管部门提出书面申请，市节约用水管理机构或区水务主管部门可根据实际情况进行调整。<br>     测试单位应当在测试前一周将测试工作时间安排报市节约用水管理机构或区水务主管部门备案，市节约用水管理机构或区水务主管部门根据情况组织现场抽查。<br>     <a name='7'><font class='TiaoNoA'>第七条</font></a> 不同类别的单位用户水量平衡测试及验收办法按照市节约用水管理机构的有关规定执行。<br>     <a name='8'><font class='TiaoNoA'>第八条</font></a> 年实际用水量在30000立方米以上的重点单位用户，可委托独立的水量平衡测试机构（以下简称独立测试机构）进行测试。<br>     年实际用水量在5000立方米以上30000立方米以下的一般单位用户，可委托独立测试机构进行测试；或可自行组织测试，并取得独立测试机构的复核合格意见。<br>     年实际用水量不足5000立方米的一般单位用户，可委托独立测试机构进行测试；也可自行组织测试。<br>     <a name='9'><font class='TiaoNoA'>第九条</font></a> 单位用户水量平衡测试报告应包括管网图、用水工艺流程图、各级水表的配备率、用水性质构成、居民用户数、水量平衡差、合理用水水平、用水单耗、节水整改措施方案等内容，并按照规范的格式编写。<br>     <a name='10'><font class='TiaoNoA'>第十条</font></a> 单位用户按管理权限将水量平衡测试结果报市节约用水管理机构或区水务主管部门验收。市节约用水管理机构或区水务主管部门验收合格的，应当及时出具水量平衡测试验收合格证明文件。<br>     <a name='11'><font class='TiaoNoA'>第十一条</font></a> 单位用户经水量平衡测试发现有不合理用水的，应当按照市节约用水管理机构或区水务主管部门确认的整改方案进行整改。<br>     整改期间，其用水计划按照整改前实测的合理用水水平系数确定；整改完成后，其用水计划按照市节约用水管理机构或区水务主管部门整改验收合格后的合理用水水平系数确定。<br>     <a name='12'><font class='TiaoNoA'>第十二条</font></a> 单位用户水量平衡测试验收合格后，市节约用水管理机构或区水务主管部门应当按照水量平衡测试验收合格证明文件确定的合理用水水平系数和用水性质构成等调整用水计划。<br>     <a name='13'><font class='TiaoNoA'>第十三条</font></a> 独立测试机构应当取得国家或广东省质量技术监督部门颁发的水量平衡测试计量认证资格，并到市节约用水管理机构办理备案手续。<br>     从事水量平衡测试的工作人员，应当具备供水节水的专业技能和管理知识。<br>     <a name='14'><font class='TiaoNoA'>第十四条</font></a> 单位用户委托独立测试机构进行水量平衡测试的，可以使用市节约用水管理机构统一制定的合同示范文本。<br>     <a name='15'><font class='TiaoNoA'>第十五条</font></a> 市节约用水管理机构、区水务主管部门、独立测试机构及有关机构应当建立和健全保密制度，有责任对单位用户的有关资料保密。<br>     <a name='16'><font class='TiaoNoA'>第十六条</font></a> 单位用户对市节约用水管理机构或区水务主管部门验收结果有异议的，可以申请复核。<br>     由区水务主管部门做出的验收结果，向市节约用水管理机构提出复核申请；由市节约用水管理机构做出的验收结果，向市水务行政主管部门提出复核申请。<br>     申请复核的，当事人应当在收到验收结果书面通知之日起20个工作日内提出申请。<br>     市水务主管部门或市节约用水管理机构应当自接到申请之日起20个工作日内出具书面复核意见。复核意见变更原决定的，按复核意见执行。<br>     <a name='17'><font class='TiaoNoA'>第十七条</font></a> 凡超过3年未做水量平衡测试或未按市节约用水管理机构或区水务主管部门工作方案进行水量平衡测试的单位用户，其合理用水水平系数按照0.8确定，并由水务主管部门按《深圳市节约用水条例》第四十六条进行处罚。<br>     <a name='18'><font class='TiaoNoA'>第十八条</font></a> 本办法自2006年5月1日起实施。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

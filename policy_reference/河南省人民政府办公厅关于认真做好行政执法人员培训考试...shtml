@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河南省<BR>&nbsp;&nbsp;【发布文号】豫政办 〔2005〕75号<BR>&nbsp;&nbsp;【发布日期】2005-09-01<BR>&nbsp;&nbsp;【生效日期】2005-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.henan.gov.cn/zwgk/system/2005/11/24/000000201.shtml" target=_blank>河南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府办公厅关于认真做好行政执法人员培训考试考核和换证工作的通知<br>  <br></font>(豫政办 〔2005〕75号)</p><br>  <br>  <br>各市、县人民政府,省人民政府各部门:<br><br>    按照《河南省人民政府办公厅转发省政府法制办公室关于换发河南省行政执法证和河南省行政执法监督证报告的通知》(豫政办〔2000〕104号)的规定,2001年启用的《河南省行政执法证》和《河南省行政执法监督证》,到2005年12月31日到期,需要及时、全部换发。为了贯彻落实国务院《全面推进依法行政实施纲要》(国发〔2004〕10号,以下简称《纲要》)、《国务院办公厅关于推行行政执法责任制的若干意见》(国办发〔2005〕37号,以下简称《意见》)和省政府的有关规定,切实做好全省行政执法人员的培训考试考核和换证工作,现将有关问题通知如下:<br><br>    一、充分认识行政执法人员培训考试考核和换证工作的重要性<br><br>    搞好行政执法人员培训考试考核和换证工作,是全面推进依法行政、提高行政执法水平的重要措施。《纲要》明确规定:“实行行政执法人员资格制度,没有取得执法资格的不得从事行政执法工作。”《意见》要求:“对行政执法部门的执法人员,要结合其任职岗位的具体职权进行上岗培训;经考试考核合格具备行政执法资格的,方可按照有关规定发放行政执法证件”。《〈河南省行政机关执法条例〉实施办法》(省政府令第27号)规定行政执法人员“必须参加行政执法统一考试和考核。经考试和考核合格,取得《河南省行政执法证》的,方可上岗执法;未经执法培训或者考试、考核不合格,未取得《河南省行政执法证》的,不得上岗执法。”各地、各部门要统一思想,充分认识这次培训考试考核和换证工作的重要性,采取得力措施,抓好这项工作的落实。<br><br>    二、认真组织、严格程序,切实做好行政执法人员的培训考试考核和换证工作<br><br>    (一)关于培训和考试<br><br>    县级以上人民政府所属行政执法机关的在编人员,实行省垂直管理的行政执法机关的在编人员,实行全系统垂直管理的行政执法机关、中央部门驻豫机构申请领取《河南省行政执法证》的在编人员,法律、法规授权具有管理公共事务职能的组织的在编人员,以及受委托从事行政执法工作的组织的在编人员,都必须参加这次培训和考试考核;不参加这次培训和考试考核或者考试不及格的,不得领取新的《河南省行政执法证》。<br><br>    这次培训和考试的内容,包括行政诉讼法、行政处罚法、行政复议法、行政许可法、河南省行政机关执法条例等规范政府共同行为的法律法规(即共用法律法规)以及由各行政执法部门负责实施的专业法律法规。各级人民政府法制机构要根据省政府法制办组织编辑的《行政执法人员共用法规选编》和《行政执法人员培训教材》组织共用法律法规培训,各行政执法部门也要根据实际情况确定本系统专业法律法规的培训内容。共用法律法规培训考试和专业法律法规培训考试的时间不少于32学时。各地、各部门还应当保证行政执法人员有必要的自学时间。<br><br>    垂直管理系统共用法律法规和专业法律法规的培训考试工作,由该系统的省级部门组织实施。其他政府部门,共用法律法规的培训考试工作,由县级以上政府法制机构会同同级有关部门省、市、县分级组织实施;专业法律法规的培训考试工作,由县级以上政府所属部门分级按系统组织实施。省政府法制办负责监督检查。<br><br>    (二)《河南省行政执法证》的申请、审查和发放<br><br>    对参加培训、考试的人员,由其所在的行政执法机关进行考核。经考核,对符合法定条件的,准予申请;不符合法定条件的,不得申请。考核工作结束,各行政执法机关将本单位合格的行政执法人员名单汇总,按规定向同级政府法制机构申请。<br><br>    省辖市、县(市、区)人民政府法制机构对同级政府所属行政执法机关的申请,要从申请单位是否具有行政执法主体资格、申报人员是否在编、行政执法人员本次考试考核是否及格、申报程序是否符合规定等方面进行严格审查;对所在单位具有行政执法主体资格、在行政或者事业编制之内、本次考试及格、申报程序符合省政府规定以及经考核没有违法违纪行为的人员,按规定分别向省政府法制办和省辖市政府法制机构申报。垂直管理的省级部门对下级机构申请的审查,也照此办理。<br><br>    县级人民政府法制机构审查申报单位的行政执法主体资格时,对于该单位有“三定”规定或者编制文件的,按照“三定”规定或者编制文件执行;没有“三定”规定或者编制文件,涉及行政执法主体、职权细化、确定行政执法责任等问题,按照《纲要》和《国务院办公厅关于贯彻落实全面推进依法行政实施纲要的实施意见》(国办发〔2004〕24号)的规定,应当由机构编制部门为主进行指导和协调的,由机构编制部门牵头办理。<br><br>    省辖市政府法制机构对县(市、区)政府法制机构提交的材料,要从申请单位是否有行政执法依据、“三定”规定(或者编制文件)等方面进行严格审查,没有“三定”规定或者编制文件的不得认定;对符合法定条件的单位和人员要进行汇总,报省政府法制办。垂直管理部门参照该程序办理。<br><br>    省政府法制办对各省辖市政府法制机构、垂直管理的省级部门上报的材料,主要从申请单位是否具有行政执法主体资格及考试成绩方面进行复核。对符合法律规定的,按规定发放《河南省行政执法证》。该证经省辖市、县(市、区)政府法制机构、垂直管理的省级部门分别加盖钢印后向各行政执法机关发放,最后由各行政执法机关向本单位的行政执法人员颁发。<br><br>    (三)《河南省行政执法监督证》的换发<br><br>    按照省政府的规定,下列人员可以领取《河南省行政执法监督证》:省辖市、县(市、区)人民政府的有关负责人;省辖市、县(市、区)人民政府办公室负有监督职责的负责人;县级以上政府所属行政执法部门的主要负责人和分管法制工作的负责人;县级以上人民政府、县级以上政府部门法制机构的工作人员。乡级政府的负责人和工作人员不得申请办理该监督证。<br><br>    县级人民政府法制机构按照上述发放范围向省辖市政府法制机构申报。省辖市政府法制机构对各县(市、区)和本级政府所属部门的申报,应当按上述发证范围进行严格审查,从严控制,对符合规定条件的上报省政府法制办。省政府法制办经审查,对符合条件的,按《河南省行政执法证》的发放程序办理,最后由县(市、区)、省辖市政府法制机构按照省政府法制办审核的名单分别加盖钢印后向有关行政机关发放。垂直管理的省级部门法制机构发放《河南省行政执法监督证》参照该程序办理。<br><br>    (四)《河南省行政执法证》的补办<br><br>    这次换发的《河南省行政执法证》和《河南省行政执法监督证》,使用期限从2006年1月1日起至2010年12月31日止。在这5年时间内,新调入行政执法机关拟从事行政执法工作的人员、新获得行政执法权的单位拟从事行政执法工作的人员、从非行政执法岗位调整到行政执法岗位的人员以及其他需要进行法律知识培训的人员,由省辖市政府法制机构、垂直管理的省级部门法制机构按照《行政执法人员培训教材》和《行政执法人员共用法规选编》及有关专业法律法规的内容,每年组织1―3次培训,并经考试合格后,按照本通知关于换发证件的程序,于每年4月、7月、11月从省政府法制办领取《河南省行政执法证》。<br><br>    三、加强领导、周密组织,确保培训考试考核和换证工作按期完成<br><br>    这次培训考试考核和换证工作,时间紧、任务重、要求高,各省辖市、县(市、区)人民政府和垂直管理的省级部门要加强领导,周密组织,科学安排,认真细致地做好各项工作,确保培训考试和换证工作如期完成。<br><br>    各地、各部门政府法制机构要认真负责,努力工作,切实履行好审查把关职责,确保上报的单位和人员符合法律规定。要通过审查,杜绝无行政执法主体资格的单位从事行政执法工作,杜绝临时工、合同工、工勤人员、借用人员以及其他不符合持证条件的人员从事行政执法工作,确保行政执法队伍的纯洁性。<br><br>    省政府法制办要加强对各地、各部门的培训考试考核和换证工作的检查指导。培训考试考核和换证工作结束后,各地、各部门要将工作完成情况书面报告省政府法制办。<br><br> 河南省人民政府办公厅<br>二○○五年九月一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

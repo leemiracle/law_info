@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政办发〔2006〕18号<BR>&nbsp;&nbsp;【发布日期】2006-04-13<BR>&nbsp;&nbsp;【生效日期】2006-04-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanxigov.cn/gb/zgsx/zwgk/zcfg/bgtwj/jzbf/userobject1ai39128.html" target=_blank>山西省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府办公厅关于在全省煤矿建立煤炭产量监控系统的通知<br><br></font>(晋政办发〔2006〕18号)</p><br><br><br>各市、县人民政府,省人民政府有关部门,各国有重点煤矿集团公司:<br>    煤炭产业作为我省的支柱产业,所提供的税费已成为全省财政收入的主要来源。为了提高税收征管质量和工作效率,规范煤炭企业纳税行为,堵塞税费漏洞,增加财政收入,控制煤矿超能力生产,促进煤矿安全状况稳定好转,省人民政府决定依托全省煤矿瓦斯监测监控网络在全省煤矿建立煤炭产量监控系统。经省人民政府同意,现就有关事项通知如下:<br>    一、全省煤炭产量监控系统是指在全省各类煤矿所有生产矿井各建立一套煤炭产量计量监测装置,实时传输矿井实际产量的网络系统。网络系统利用目前已经运行的煤炭信息网在县、市、省建立煤炭产量数据传送和存储。各职能部门利用该系统随时监测各个煤矿的生产和设备运行情况。<br>    二、全省煤炭产量监控系统是一项系统工程,也是强化管理、控制超能力生产、搞好安全工作的重要手段。为此,要将各类煤矿所有矿井安装煤炭产量监控系统作为煤炭生产许可的一项重要内容。全省各类煤矿生产矿井必须按规定安装使用计量监控系统。今后,所有新建矿井投产时,也必须同步安装使用。<br>    三、全省煤炭产量监控系统建设工作涉及到多个方面,任务艰巨,各级、各有关部门要高度重视,按照各自的职能分工,协调配合,确保这项工作的顺利实施。省煤炭局要尽快制定实施意见,并及时组织有关部门研究制定保障措施,确保监控系统正常运行。<br>    四、全省煤炭产量监控系统建设所需资金,地方煤矿由省、市两级各负担50%,国有重点煤矿及监狱管理局所属煤矿由企业自筹解决。省级资金筹措由省财政厅、省煤炭局负责安排解决,主要用于网络建设及矿井计量装置补助。市筹集资金由各市负责安排解决,主要用于煤矿生产矿井计量装置购置安装。年运行维护费用由省、市、县分级负责解决。<br>    省统一制定技术标准、网络通信协议、数据安全规范等标准,通过招标方式确定供应厂家和限价,由各市人民政府负责设备的集中采购。<br>    五、工作进度安排<br>    (一)2006年4月底,完成矿级计量装置及控制器设备统一招标工作。<br>    (二)2006年6月底,全省煤矿所有生产矿井全部安装产量数据监测系统,市、县网络中心配备产量数据服务器,扩充网络相关设备,开发数据采集、应用软件等。<br>    (三)2006年7月底,全部矿井实现矿、县、市、省四级实时在线显示及监管。<br>    (四)2006年8月底,各市、县煤炭信息中心与税务等相关单位联网,提供数据查询服务。<br>    六、组织领导<br>    为了保证工作进度和工程质量,省、市、县都要相应成立组织领导机构,负责系统建设的组织、协调工作。省煤炭产量监控系统建设领导组组成人员名单如下:<br>    组长:靳善忠副省长<br>    副组长:段建国省人民政府副秘书长<br>    成员:郑建国省财政厅厅长<br>    王守祯省煤炭局局长<br>    许月刚省国税局局长<br>    卢晓中省地税局局长<br>    领导组下设办公室和网络开发建设组,均设在省煤炭局。<br>    具体推进和协调工作由领导组办公室负责。 <br><br>二○○六年四月十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

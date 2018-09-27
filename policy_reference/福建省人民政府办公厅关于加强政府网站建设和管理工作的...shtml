@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办[2007]20号<BR>&nbsp;&nbsp;【发布日期】2007-02-01<BR>&nbsp;&nbsp;【生效日期】2007-02-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12416" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅关于加强政府网站建设和管理工作的若干意见<br> <br></font>(闽政办[2007]20号)</p><br><br> <br>各市、县（区）人民政府，省人民政府各部门、各直属机构：<br><br>    近年来，随着国民经济和社会信息化的发展，尤其是“数字福建”建设的深入推进，我省政府网站建设和发展不断加快，“中国福建”政府门户网站（以下简称：省政府门户网站）于2002年8月正式开通，省政府各组成部门、直属机构和各设区市政府基本上建立了网站，全省政府网站体系初步形成。按照《国务院办公厅关于加强政府网站建设和管理工作的意见》（国办发〔2006〕104号）和“十一五”数字福建专项规划，为进一步加强我省政府网站建设和管理工作，现提出以下意见：<br><br>    一、充分认识办好政府网站的重要意义<br><br>    政府网站是各级人民政府及其部门在互联网上发布政务信息、提供在线服务、与公众互动交流的重要平台。办好政府网站，有利于促进各级人民政府及其部门依法行政，提高社会管理和公共服务水平，保障公众知情权、参与权和监督权，对加强政府自身建设和推进行政管理体制改革具有重要意义。各级政府、各部门要以邓小平理论和“三个代表”重要思想为指导，全面落实科学发展观，按照构建社会主义和谐社会和建设海峡西岸经济区的要求，认真贯彻国家和我省关于电子政务建设的一系列决策和部署，牢固树立以社会和公众为中心的理念，着力突出政务特色，坚持统筹规划、协同建设、分级管理，努力把政府网站真正办成政务公开的重要窗口和建设服务政府、效能政府的重要平台。<br><br>    二、不断健全和完善政府网站体系<br><br>    （一）各级政府、各部门要高度重视政府网站建设，29个尚未以本级人民政府名义建立网站的市、县（区）政府必须在今年3月底之前开通网站，已建立网站的各级政府、各部门要结合本地区、本部门的工作开设栏目，重点突出，并逐步提升建设、管理和服务水平。<br><br>    （二）省政府门户网站及省政府各部门网站要加强权威性政府信息发布，为公众和企业提供相关内容的办事服务，积极开展与公众互动交流。<br><br>    （三）市、县（区）人民政府网站要及时准确地发布政府信息，搭建与公众互动交流工作平台，拓宽社情民意的表达渠道，着重为公众和企业提供在线办事服务、公益性便民服务。<br><br>    （四）上下级政府和部门网站之间要做好链接，逐步实现资源共享、协同共建和整体联动。部门网站要为本级政府门户网站的相关内容提供保障，下级政府网站要为上级政府网站的相关内容提供保障。<br><br>    三、着力加强政府信息发布<br><br>    （一）省政府各部门、各直属机构和各设区市政府的网站要按照“严格依法、全面真实、及时便民”的政务公开要求，及时公布法律法规、发布适宜公开的规范性文件和国民经济统计数据、重大工作部署、人事任免、采购招投标、政府公报、领导政务活动等重要信息，及时更新本地区、本部门负责人简介、机构职能等概况信息，不断提升信息发布的深度和广度；县级政府网站要参照要求，做好政府信息发布工作。<br><br>    （二）要围绕政府重点工作和公众关注的经济社会发展中的热点问题，组织发布年度政府为民办实事内容和进展情况等热点政务专题、政策法规解读等权威政府信息，引导公众理解、支持和配合政府工作。<br><br>    （三）对重大突发公共事件，要主动、及时地发布权威性政府信息，为事件的妥善处理营造良好的舆论环境。<br><br>    （四）要按照有关保密工作的规定，加强审查，确保信息内容和发布的程序合法合规。<br><br>    （五）要编制信息公开目录，明确责任部门、公开范围及公开时限；制定信息分级分类管理办法，建立健全信息采集、编辑、审核、发布、共享等方面的规章制度。<br><br>    （六）各设区市、省直各部门要将本单位的概况信息、计划总结、规范性文件、业务工作统计数据等在省政府门户网站上发布；要围绕国务院和省政府的重点工作和重大决策，结合经济社会发展中的热点问题，积极向省政府门户网站报送日常工作动态信息和专题约稿。<br><br>    四、切实提高在线办事能力<br><br>    （一）各级政府网站要在今年3月底前逐步开设婚姻生育、户籍护照、学校教育、医疗卫生、社会保障、劳动就业、公用事业、消费维权、社会治安、民族宗教、文化娱乐、旅游交通、兵役转业、理财纳税、参政议政、死亡殡葬等方面的为民办事服务栏目。<br><br>    要公布办事项目的名称、依据、程序和要求，提供表格下载、业务咨询和办理指南，努力实现在线申请受理、状态查询和结果反馈。<br><br>    （二）省直各部门要在今年3月底之前结合自身职能，开设相关为民办事服务栏目，并将本部门所涉及的办事指南、表格下载等相关信息在省政府门户网站上发布，并提供在线办事链接。<br><br>    （三）各级政府、各部门要按照公众、企业等服务对象的需求，梳理业务流程，整合办事项目，积极探索推行“一点受理、抄告相关、并联审批、限时反馈”、“前台一口受理、后台协同办理”等在线办理模式。按照“网站受理、后台办理、网站反馈”的模式，通过办事指引和页面链接提供“一站式”的服务入口，逐步建立网上办事大厅。要确保到2010年，60%的行政许可项目实现在线办理。<br><br>    五、持续拓展公益服务<br><br>    （一）要着眼便民利民，针对不同受众和不同群体，进一步开发利用教育、科技、文化、卫生、社会保障、公用事业等与公众生活密切相关的公益性信息资源，努力提供各类便民服务。<br><br>    （二）要按照建设社会主义新农村的要求，进一步开发整合相关资源，努力向农民提供政策、科技、气象、农产品和农资市场、灾害防治等方面的信息服务。<br><br>    （三）要按照提高对外开放水平的要求，积极提供商贸活动等方面的公共服务。<br><br>    六、稳步推进互动交流<br><br>    （一）要按照“总体规划，分步实施，严格审理，确保安全”的原则，加强互动栏目建设，为公众参与互动交流创造条件。<br><br>    （二）要围绕政府重点工作和公众关注热点，开通各级政府、各部门领导在线访谈、热点解答、网上直播、网上咨询等栏目，做好宣传和解疑释惑工作，正确引导舆论，并向省政府门户网站提供链接或专稿。<br><br>    （三）各级政府、各部门要在今年3月底前开通行政首长信箱、公众监督信箱和留言板等，接受公众建言献策和情况反映，并有选择地在网上公布反馈意见和结果。<br><br>    （四）要围绕政府重要决策和与公众利益密切相关的事项，开展网上调查、网上听证、网上评议等工作，征集公众的意见和建议，及时分析汇总，为政府决策提供参考，并有选择地在网上公布。<br><br>    七、不断改进网站展示形式<br><br>    （一）政府网站页面设计要科学布局、重点突出，页面层级要合理规划、深度适中（一般不超过3层），栏目划分要清晰合理、避免歧义，便于公众快捷获取所需内容。<br><br>    （二）网站设计风格要美观大方、简洁庄重，既要体现政府网站共性，又要突出地方、部门特色，体现个性化，创新设计页面和栏目。<br><br>    （三）网站首页显著位置应标注本行政机关的合法名称，并可根据需要设计网站标志图案。<br><br>    （四）网站应提供上下级单位导航，并为重要服务和栏目提供使用说明。<br><br>    （五）网站域名应与本行政机关的合法名称或简称相适应（英文域名要以“.gov.cn”结尾，中文域名要以“.cn”结尾）。<br><br>    （六）网站的默认文版为简体中文，有条件的网站可编制繁体中文和外文版。<br><br>    八、切实提高技术保障水平<br><br>    （一）要根据政府网站运行维护和内容建设需要，加强网络技术平台和重要业务应用系统建设和功能性软件研发。<br><br>    （二）要根据资源共享和业务协同的需要，逐步实现相关政府网站之间网络技术平台的对接和业务应用系统的兼容。具备条件的地方，可逐步统一所属部门网站和下级人民政府网站的网络技术平台；具备条件的部门，可逐步统一本系统的重要业务应用系统。<br><br>    （三）要做好日常巡检和随时监测，确保网站全天候工作、信息页面正常浏览、办事和互动平台畅通有效。<br><br>    九、有效提升安全保障能力<br><br>    （一）要按照电子政务安全规范和技术要求，完善政府网站的安全基础设施，制定完备的安全策略和应急预案，加强安全技术和手段的应用，不断提高对网络攻击、病毒入侵、系统故障等风险的安全防范和应急处置能力。<br><br>    （二）要按照“谁主管谁负责、谁运行谁负责”的要求，明确相关单位的职责分工，建立健全责任制，形成多层次的完备的安全责任体系。<br><br>    十、进一步完善运行管理机制<br><br>    （一）各级政府、各部门要把政府网站建设和管理列入重要议事日程，纳入电子政务发展规划，并明确政府网站建设和管理的责任单位。<br><br>    （二）要根据内容保障工作特点，建立信息保障和栏目共建、信息处理和反馈、办事服务提供、互动交流等各方面的工作机制，并做好省政府门户网站的内容保障工作。<br><br>    （三）要积极探索委托管理、服务外包等多元化的技术保障工作机制。加强统筹协调和监督检查，确保工作中出现的问题得到及时解决。<br><br>    （四）要科学确定绩效评估的内容和指标体系，加强绩效评估，充分发挥绩效评估的导向和激励作用。省里将定期督查、评比和通报各级政府、各部门网站的建设情况。<br><br>    各级政府、各部门要进一步提高认识，切实加强对政府网站工作的组织领导，制定相应实施办法和具体方案，认真落实各项工作措施，按照“四个重在”的要求，不断提升政府网站建设、管理和服务水平，为全面推进海峡西岸经济区建设做好服务。<br> <br>福建省人民政府办公厅 <br>二○○七年二月一日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改价格[2008]1678号<BR>&nbsp;&nbsp;【发布日期】2008-06-29<BR>&nbsp;&nbsp;【生效日期】2008-06-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2008tongzhi/t20080702_222224.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于提高东北电网电价的通知<br><br></font>(发改价格[2008]1678号)</p><br><br><br>辽宁、吉林、黑龙江、内蒙古省（区）发展改革委、物价局、电力公司，东北电监局，东北电网公司：<br><br>    为缓解电力企业生产经营困难，保障电力供应，促进资源节约，根据《国家发展改革委关于提高电力价格有关问题的通知》（发改电〔2008〕207号）精神，经商国家电监会，决定适当提高东北电网电价水平。现将有关事项通知如下：<br>    一、适当提高上网电价<br>    （一）为缓解煤炭价格上涨的影响，适当提高发电企业上网电价。东北电网有关省（区）电网统调燃煤机组（含热电联产机组）上网电价（含税，下同）提价标准每千瓦时分别为：辽宁省1.17分钱、吉林省0.47分钱、黑龙江省0.83分钱、内蒙古东部0.43分钱。同时，适当提高部分电价偏低、亏损严重电厂的上网电价，有关电厂具体电价水平见附件一。<br>    （二）黑龙江、吉林和内蒙古东部地区燃煤机组向辽宁送电价格每千瓦时提高1.17分钱；东北电网向京津唐电网送电价格每千瓦时提高3分钱。内蒙古东部地区元宝山电厂1号、2号机组向辽宁、吉林、内蒙古东部地区送电价格分别调整为每千瓦时0.2503元、0.2433元、0.2459元；其余燃煤机组送辽宁、吉林、黑龙江电量上网电价按照受电地区煤电联动标准调整。<br>    （三）松花江水力发电有限公司向辽宁、吉林、黑龙江、内蒙古东部地区送电价格调整为每千瓦时0.2770元。<br>    （四）提高符合国家核准（审批）规定的新投产机组标杆上网电价。省级电网统一调度范围内，安装脱硫设施的新投产燃煤机组（含热电联产机组）上网电价每千瓦时分别调整为：辽宁省0.3738元、吉林省0.3607元、黑龙江省0.3650元。未安装脱硫设施的机组，上网电价在上述电价基础上每千瓦时扣减1.5分钱。内蒙古东部新投产机组供当地电量的上网电价为每千瓦时0.2890元。新投产机组进入商业运营后，上网电价一律按上述价格执行。<br>    二、为逐步理顺电网输配电价，将辽宁、吉林、黑龙江、内蒙古东部电网输配电价每千瓦时分别提高0.40分钱、0.45分钱、0.40分钱和0.44分钱(均含东北电网0.05分钱)。<br>    三、为促进可再生能源发展，可再生能源电价附加提高至每千瓦时2厘钱，其中，对居民生活用电和化肥生产用电仍维持原标准。<br>    四、辽宁、吉林、黑龙江电网销售电量每千瓦时提取0.05分钱用于解决地方小型水库移民后期扶持资金问题。<br>    五、适当提高销售电价水平。各省（区）电网销售电价平均提价标准每千瓦时分别为：辽宁省2.50分钱、吉林省1.72分钱、黑龙江省2.30分钱、内蒙古东部1.57分钱。各类用户电价具体调整标准见附件二至附件五。<br>    六、本次调价对居民生活用电、农业和化肥生产用电价格不作调整。<br>    七、适当调整销售电价结构。辽宁省非居民照明、非工业及普通工业、商业用电合并为“一般工商业及其他”电价类别；辽宁省、吉林省城乡各类用电价格实行同价。适当提高两部制电价中基本电价的比重；拉开各电压等级间的差价。<br>    八、以上电价调整自2008年7月1日起（抄见电量）执行。<br>    九、电力企业要加强管理，挖潜降耗，努力消化煤炭价格上涨等成本增支因素，确保电力供应安全稳定。<br>    十、各地价格主管部门要精心组织，周密安排，确保本通知规定的各项措施及时贯彻落实。执行中如发现问题，请及时报告我委。<br><br>    附件一、东北电网部分电厂上网电价表<br>        二、辽宁省电网销售电价表<br>        三、吉林省电网销售电价表<br>        四、黑龙江省电网销售电价表<br>        五、内蒙古东部电网销售电价表<br><br>国家发展改革委<br><br>二○○八年六月二十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

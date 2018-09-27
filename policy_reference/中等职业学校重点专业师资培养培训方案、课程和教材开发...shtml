@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅、财政部办公厅<BR>&nbsp;&nbsp;【发布文号】教职成厅〔2007〕6号<BR>&nbsp;&nbsp;【发布日期】2007-08-29<BR>&nbsp;&nbsp;【生效日期】2007-08-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/level3.jsp?tablename=603&infoid=32904" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中等职业学校重点专业师资培养培训方案、课程和教材开发项目实施办法<br><br></font>(教职成厅〔2007〕6号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）、财政厅（局），各计划单列市教育局、财政局，新疆生产建设兵团教育局、财务局，全国重点建设职教师资培养培训基地：<br><br><br>    为保障中等职业学校教师素质提高计划的顺利实施，根据《教育部财政部关于实施中等职业学校教师素质提高计划的意见》（教职成〔2006〕13号）有关规定，特制定《中等职业学校重点专业师资培养培训方案、课程和教材开发项目实施办法》和《中等职业学校紧缺专业特聘兼职教师资助项目实施办法》，现印发给你们，请遵照执行。 <br><br>教育部办公厅 财政部办公厅<br>二○○七年八月二十九日<br><br><br>中等职业学校重点专业师资培养培训方案、课程和教材开发项目实施办法<br><br><br>    一、工作目标 <br><br>    根据《国务院关于大力发展职业教育的决定》（国发〔2005〕35号）和《教育部财政部关于实施中等职业学校教师素质提高计划的意见》（教职成〔2006〕13号）的精神，“十一五”期间，中央财政安排专项资金，支持全国重点建设职教师资培养培训基地（以下简称职教师资基地）等有关机构，开展职教师资培训项目建设，开发80个重点专业的师资培养培训方案、课程和教材，形成一系列具有应用价值和示范作用的中等职业学校教师培训包、校长培训包和公共基础研究成果，促进职教师资培养培训工作的科学化、规范化，提升职教师资基地的培养培训能力，完善职教师资培养培训体系。 <br><br>    二、项目承担单位和人员 <br><br>    本项目由符合条件的职教师资基地牵头承担，吸收其他符合项目开发要求的单位共同参与。项目牵头单位须为相关学科、专业和师资优势明显，职教师资培养培训经验丰富、成绩显著的本科高等学校，具有职业技术教育学硕士点、具备课程与教学法研究力量的单位优先考虑。 <br><br>    项目开发人员由职教师资基地相关专业的专家学者，职业教育课程与教学法研究人员，中等职业学校骨干教师和校长，企业的专业技术和管理人员等组成。项目负责人应由具有较高的专业造诣，熟悉职业教育，具有高级专业技术职务的专家学者担任。 <br><br>    三、项目申报与立项 <br><br>    职教师资基地根据教育部、财政部公布的《中等职业学校师资培养培训项目专业目录》及有关要求，申报拟承担的相关专业的开发项目。教育部、财政部组织专家对各申报单位的申报材料进行评审，评审结果经两部审核后批准立项。 <br><br>    四、工作步骤 <br><br>    项目实施分为准备、研发、验收和成果汇总四个阶段。 <br><br>    准备阶段主要工作是制订项目开发计划、组织研究队伍、培训研究人员、开展前期调研、完成开题答辩等，时间截止到2007年12月。项目开题时间由项目负责人提出，项目牵头单位审核后，报项目开发管理办公室。开题答辩由教育部、财政部组织专家分批进行，对未通过答辩的要限期进行复评，复评仍未通过的取消项目承担资格，另行遴选项目承担单位。 <br><br>    研发阶段主要工作是开展深入调研、进行项目研究开发、形成阶段性成果、进行试验论证等，时间截止到2009年6月。项目研发过程中，教育部、财政部委托专门机构对项目进程进行监控，并组织专家进行中期检查。 <br><br>    验收阶段主要工作是项目牵头单位完成项目结题报告并对研究成果进行自评，教育部和财政部组织专家进行结题验收，时间截止到2009年12月。 <br><br>    成果汇总阶段主要工作是项目牵头单位根据验收意见进一步组织修改完善成果，并交教育部、财政部统一组织出版，时间截止到2010年6月。 <br><br>    五、项目成果要求 <br><br>    根据不同的工作任务，本项目的成果形式分为教师培训包、校长培训包和公共基础研究成果三种类型。 <br><br>    教师培训包内容包括五个部分：一是该专业教师的教学能力标准；二是一套包括该专业教师上岗培训、提高培训、骨干教师培训的培训方案；三是至少一部该专业教师培训的专业核心课程教材；四是一部该专业的专业教学法教材；五是该专业教师培训质量评价指标体系。 <br><br>    校长培训包内容包括四个部分：一是中等职业学校校长的岗位职责和能力标准；二是面向校长资格培训、提高培训和高级研修的培训方案；三是面向不同层次校长培训的系列教材；四是校长培训质量评价指标体系。 <br><br>    公共基础研究项目的成果形式，应结合各自的特点和任务，形成相应的课程、教材、制度研究和设计成果、信息服务平台等。 <br><br>    六、项目经费 <br><br>    本项目所需经费由中央财政安排专项资金予以支持。经费的使用和管理等按照《中等职业学校教师素质提高计划中央专项资金管理办法》执行。 <br><br>    七、组织管理 <br><br>    教育部、财政部对项目进行宏观管理和领导，负责项目评审立项、经费审核安排、项目检查和验收等；成立项目专家指导委员会，在两部领导下开展业务指导、人员培训、研究咨询、信息采集与绩效监控等工作；委托专门机构成立项目开发管理办公室，负责项目实施的日常管理工作。 <br><br>    项目牵头单位负责所承担项目的管理，确定项目负责人，为项目开发提供人财物保证，严格按照财务制度监督经费使用，并做好项目的协调工作，确保各阶段项目任务的完成。项目参与单位要积极支持项目研究人员的工作，提供相应的条件和保障。 <br><br>    项目负责人具体负责项目开发工作，制订项目开发方案，组织研究队伍，按照有关规定安排经费使用，确保所牵头项目的完成质量。如因项目开发需要变更项目负责人，项目牵头单位须向教育部、财政部提交书面报告，由两部组织专家指导委员会仲裁和批复。 <br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办函[2006]42号<BR>&nbsp;&nbsp;【发布日期】2006-11-14<BR>&nbsp;&nbsp;【生效日期】2006-11-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-11/16/content_203954.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于山西省连续发生四起煤矿特大、特别重大事故的通报<br><br></font>(安委办函[2006]42号)</p><br><br><br>山西省安全生产委员会：<br><br>    今年以来，你省在煤矿安全生产工作上做了大量工作，取得一定成效。但重特大事故多发，形势依然严峻。特别是10月24日至11月7日，山西省连续发生2起煤矿特大事故和2起特别重大事故，已造成102人死亡或下落不明： <br><br>    10月24日，山西省太原市万柏林区耙沟煤矿井下掘进头发生火药爆炸事故，造成11人死亡。 <br><br>    11月5日，山西省大同煤矿集团轩岗煤电公司焦家寨矿在井下51108进风巷切眼开启时，发生瓦斯爆炸事故，灾区47人被困，目前已发现38人死亡，9人下落不明。 <br><br>    11月7日4时左右, 山西省太原市万柏林区王封乡冀家沟村土圈头煤窑（属无证、私开非法煤矿）井下发生透水事故，造成10人死亡。 <br><br>    11月12日19时40分左右，山西省晋中市灵石县王禹乡南山煤矿井下发生炸药燃烧事故，34人被困。目前已发现25人死亡，9人下落不明。 <br><br>    这四起事故的发生，暴露出你省一些地方和单位存在严重麻痹松懈思想，在煤矿安全生产管理中存在着突出问题：一是思想麻痹、盲目乐观，一些地方和煤矿企业在安全生产管理上出现精力不集中、态度不认真、措施不扎实的状况，煤矿安全管理存在严重漏洞。二是整顿关闭工作不力，特别是太原市万柏林区政府、灵石县政府及其有关部门在整顿关闭非法煤矿和预防煤矿生产安全事故发生方面态度不坚决，措施不得力，连续发生煤矿特大事故。三是企业现场安全管理混乱，特别是一些煤矿在供电管理、瓦斯管理以及火工品管理上不严格、不细致，如大同煤矿集团轩岗煤电公司焦家寨矿"11.5"事故的原因为该矿51108掘进工作面非计划停电、停风后，瓦斯开始积聚，瓦斯监控系统多次显示该工作面瓦斯浓度异常甚至达到爆炸界限，但生产指挥系统和作业现场均没有采取有效措施，没有撤人，导致瓦斯爆炸，酿成惨剧。四是隐患排查整改不彻底，特别是对煤矿重大隐患的原因、现状、危害程度分析，整改方案的制定，责任和措施的落实等方面工作不到位；个别单位对违章行为熟视无睹、麻木不仁、习以为常。五是事故教训未能认真吸取，事故责任未能严肃追究，检查和查处违章指挥、违章作业和违反操作规程的行为等方面不认真、不严厉，整改工作不落实，以致事故重复发生。 <br><br>    为切实吸取事故教训，举一反三，坚决遏制煤矿等重特大事故的发生，现提出以下要求： <br><br>    一、坚决纠正思想松懈、盲目乐观的倾向。要采取各种措施，敦促各级人民政府及各部门、各单位清醒警觉、警钟长鸣，认清形势、知难而进，正确处理好安全与生产、安全与效益、安全与发展的关系。尤其在岁末年初、煤炭需求旺盛的特殊时期，更要针对煤矿企业容易超能力、超强度、超定员组织生产的倾向，做好超前预防，及时纠正，落实有效措施，消除事故隐患，确保安全生产。 <br><br>    二、扎实推进煤矿整顿关闭工作。要不折不扣地落实《国务院办公厅转发安全监管总局等部门关于进一步做好煤矿整顿关闭工作意见的通知》（国办发〔2006〕82号）和安全监管总局、国家煤矿安全监察局《关于山西省大同煤矿集团轩岗煤电公司焦家寨煤矿"11.5"特别重大瓦斯爆炸事故的通报》（安监总煤矿〔2006〕234号）要求，明确监管责任，开展联合执法，加大监督检查力度，严厉打击非法开采行为，凡属16种应关闭的矿井必须下决心坚决予以关闭，不能姑息迁就。 要结合国务院安全生产委员会正在开展的煤矿整顿关闭工作督查活动，认真开展自查自纠，严格按照煤矿整顿关闭三年规划提出的要求，加大煤矿整顿关闭和资源整合力度，公布整顿关闭煤矿的名单，关实关死。严格基建、技改矿井的管理，严格"三同时"制度，严防基建、技改矿井违规进行生产。坚决打击取缔非法采矿窝点，防止已关闭矿井死灰复燃，防止非法、违法建设和开采行为滋生。 <br><br>    三、切实加强煤矿安全基础工作。国有重点煤矿要认真落实全国国有重点煤矿安全基础管理工作座谈会精神，针对薄弱环节，解决突出问题，做好安全生产工作。各类煤矿都要夯实安全基础，加强安全管理，将各项安全措施落实到位。一是要督促煤矿企业切实加强通风和瓦斯管理工作，落实瓦斯监控系统的安全管理责任制和岗位操作责任制。加强对瓦斯监测系统的日常维护检查，确保矿井的通风系统稳定可靠，保证采掘工作面所需风量。二是要切实加强矿井供电管理，严格执行停送电制度，消除供电系统隐患，确保供电安全。三是要加强放炮管理，严格执行"一炮三检"制度。四是要强化矿井技术管理，认真核定矿井通风、回采、运输、提升、供电、排水能力，在确保安全生产的条件下，合理组织生产，合理安排采掘工作交替。五是要认真组织各煤矿企业开展隐患排查，主要负责人要深入井下检查安全生产工作，认真、全面、彻底排查矿井安全隐患，对发现的各种隐患和问题要及时进行分析研究解决和消除，存在重大隐患的要坚决停产整顿。 <br><br>    四、加大煤矿安全监管监察工作力度。各级煤矿安全监管部门和煤矿安全监察机构要针对冬季生产特点，切实加强安全监管、监察工作。加强对国有重点煤矿的监管监察，特别是加大对改制企业的监管力度，监督企业健全安全管理机构和规章制度，加大安全投入，认真排查、治理隐患；加强对停产整顿小煤矿的监管监察，监督检查停产整顿矿井的关闭整顿情况，严防死灰复燃，对"停而不整"、"明停暗开"、"假整顿真生产"的要坚决予以查处。对检查中发现矿井通风系统不合理、采掘工作面风量不足、随意停开局部通风机、违章放炮、水患严重等重大安全隐患的，要责令立即整改，隐患不除，不准作业生产。 <br><br>    五、请你省配合国务院调查组做好"11.5"、"11.12"特别重大煤矿事故调查，迅速缉拿逃匿矿主和责任人员；认真做好"10.24"和"11.7"等特大煤矿事故的调查处理工作，查明事故原因，严肃追究事故责任单位和责任人的相关责任。对太原市万柏林区政府、灵石县政府及其相关部门的责任也要按照《国务院关于预防煤矿生产安全事故的特别规定》（国务院令第446号）的规定进行严肃查处和追究。要切实吸取事故教训，举一反三，认真整改，迅速扭转重特大事故多发的状况。请就采取的防范措施情况写出书面报告，于11月30日前送国务院安全生产委员会办公室。 <br><br>     <br><br>    二00六年十一月十四日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交审发[2006]374号<BR>&nbsp;&nbsp;【发布日期】2006-07-24<BR>&nbsp;&nbsp;【生效日期】2006-07-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/05zhuzhi/shengjib/shenjibanwjgg/t20060801_34838.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于开展公路养路费（农村公路养护资金）审计调查（调研）的通知<br><br></font>(交审发[2006]374号)</p><br> <br>  <br>各省、自治区、直辖市及计划单列市交通厅（局、委），上海市建设和交通委员会，上海、天津市政工程（管理）局，新疆生产建设兵团交通局：<br>    根据部2006年交通审计工作计划和调研工作安排，经部领导同意，定于2006年7月至9月开展公路养路费（农村公路养护资金）审计调查（调研）。现就有关事项通知如下： <br>    一、审计调查（调研）的目的是了解公路养路费的征收、管理、使用情况，重点是农村公路养护资金的来源、管理、使用情况，以及贯彻落实《国务院办公厅关于印发农村公路管理养护体制改革方案的通知》的情况，掌握公路养路费及农村公路养护资金在来源、管理和使用过程中存在的问题，为部加强行业管理和宏观决策提供相关资料。<br>    二、审计调查（调研）的内容为2004年至2006年上半年的公路养路费（农村公路养护资金）。调查（调研）工作分为自查和重点调查（调研）两个阶段，自查阶段为7月下旬至8月中旬，重点调查（调研）阶段为8月下旬至9月上旬。<br>    三、各单位要根据2006年交通审计工作计划和审计调查（调研）方案（见附件）的要求，认真组织好公路养路费（农村公路养护资金）的自查工作，对自查发现的违纪违规问题，要提出具体整改意见并督促整改。对养路费管理、使用过程中及农村公路养护资金筹集、管理过程中存在的问题与困难，要如实反映并提出相关建议。各单位于8月31日前向部审计办报送自查情况报告及有关统计表格。<br>    部重点调查（调研）的时间、省份将由部审计办另行通知。<br>    四、在开展公路养路费（农村公路养护资金）审计调查过程中，各单位要加强对计划确定事项的督促检查，特别是加强对建设项目和建设资金审计工作的检查指导。部审计办还将根据2006年交通审计工作计划的安排，在重点调查（调研）阶段对有关单位开展建设项目和建设资金审计的情况进行检查指导。<br>    （注：本通知及审计调查<调研>方案、统计表格可在“交通部政府网站<www.moc.gov.cn>---审计办―文件公告”中下载。）<br>    附件：公路养路费（农村公路养护资金）审计调查（调研）方案<br><br><br>中华人民共和国交通部<br>二○○六年七月二十四日<br><br><br>公路养路费（农村公路养护资金）审计调查（调研）方案<br><br>    为切实贯彻落实《国务院办公厅关于印发农村公路管理养护体制改革方案的通知》精神，根据2006年交通审计工作计划，定于2006年7月至9月组织开展公路养路费（农村公路养护资金）审计调查（调研）。<br>    一、调查（调研）目的<br>    了解公路养路费的征收、管理、使用情况，重点是农村公路养护资金的来源、管理、使用情况，以及贯彻落实《国务院办公厅关于印发农村公路管理养护体制改革方案的通知》的情况，反映公路养路费及农村公路养护资金在来源、管理、使用过程中存在的问题，收集整理对公路养护特别是农村公路养护工作的意见，提出审计意见和建议，为部加强行业管理和宏观决策提供决策资料。<br>    二、审计调查（调研）依据<br>    1.2006年交通审计工作计划（交审发[2006]40号）；<br>    2.国务院办公厅关于印发《农村公路管理养护体制改革方案》的通知（国办发[2005]49号）；<br>    3.公路养路费使用管理规定（ (87)交公路字64号）； <br>    4.公路养路费征收管理规定（(91)交工字714号）；<br>    5.公路养路费审计工作规范（交审计发[1995]975号）； <br>    6.贷款修路、收费还贷审计办法（交审计发[1996]996号）；<br>    7.其他有关规定。<br>    三、审计调查（调研）范围<br>    此次审计调查（调研）以资金为主线，为便于比较分析，审计调查范围为2004年、2005年及2006年上半年公路养路费的征收、管理、使用情况以及农村公路养护资金的来源、管理、使用情况，侧重于公路养路费的使用和农村公路养护资金的来源两个方面。<br>    四、审计调查（调研）内容<br>    1.公路养路费及农村公路养护资金的基本情况：包括公路养路费征收、养护资金管理、养护资金安排与使用方面的情况，养护资金管理、公路养护管理特别是农村公路养护管理工作中的好经验、好做法，存在的问题、困难以及有关建议。<br>    2.执行“收支两条线”等规定的情况：是否严格预算管理和实行收支两条线管理；是否及时按规定编制养路费收支预算、决算，是否报经财政部门审批；征收收入是否专户存储，是否及时、足额解缴；有无少报、瞒报养路费收入现象，有无挪用、截留、坐支、转移养路费收入等问题(具体内容见审计调查情况统计表，下同)。 <br>    3.公路养路费的管理使用情况：是否严格执行有关财务会计制度，有关内部控制制度是否健全，执行是否严格；是否按照规定的使用范围使用养路费，有无挪用、挤占和虚列支出等问题。<br>    4.贯彻执行《国务院办公厅关于印发农村公路管理养护体制改革方案的通知》的情况。<br>    五、审计调查（调研）组织<br>    本次审计调查（调研）采取各单位自查与重点调查（调研）相结合的方式，分两个阶段进行。<br>    第一阶段为自查阶段。由各省（区、市）交通厅（局、委）根据部2006年交通审计工作计划和本方案的要求组织自查，对于自查发现的违纪违规问题，要提出具体整改意见并抓紧搞好整改，对养路费管理、使用过程中及农村公路养护资金筹集、管理过程中存在的带普遍性、倾向性问题与困难，要如实予以反映并提出相关建议。各单位8月底前完成自查工作，并将自查情况报告和有关表格（附后）报部审计办。<br>    第二阶段为重点调查（调研）阶段。由部审计办组织力量进行重点审计调查（调研），时间自8月下旬至9月底，调查（调研）地点另行确定。重点调查（调研）阶段主要采取听取情况汇报、现场察看检查有关养路费业务统计及会计资料等方式进行，要求调查（调研）组深入基层交通主管部门和养路费征收、使用部门，按照合理分工、工作细致、事实清楚、定性准确的要求，做好重点调查（调研）工作。重点调查（调研）结束后，由各组长提交重点调查（调研）报告，并于9月底前报部审计办。<br>    此外，重点调查（调研）阶段还将根据2006年交通审计工作计划的安排，对相关单位开展建设项目和建设资金审计情况进行检查指导。<br>    重点调查（调研）工作结束后，由部审计办对自查情况和重点调查（调研）情况进行汇总整理，撰写公路养路费（农村公路养护资金）审计调查（调研）报告，10月中旬报部领导审阅。<br><br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、国土资源部、国家质检总局、国家环保总局、国家安全监管总局、银监会、电监会<BR>&nbsp;&nbsp;【发布文号】发改产业[2006]699号<BR>&nbsp;&nbsp;【发布日期】2006-04-21<BR>&nbsp;&nbsp;【生效日期】2006-04-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20060511_68488.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、国土资源部、国家质检总局、国家环保总局、国家安全监管总局、银监会、电监会关于加快电石行业结构调整有关意见的通知<br><br></font>(发改产业[2006]699号)</p><br><br><br>各省、自治区、直辖市及计划单列市、副省级省会城市、新疆生产建设兵团发展改革委、经贸委（经委、工业局）、国土资源厅（局）、质检局、环保局、安全生产监督管理局，各银监局、电监会派出机构：<br>    根据《国务院关于加快推进产能过剩行业结构调整的通知》（国发[2006]11号）和《国务院关于发布〈实施促进产业结构调整暂行规定〉的决定》（国发[2005]40号）的要求，为促进电石行业结构调整，现将加快推进电石行业结构调整的有关意见通知如下：<br>    一、基本情况<br>    2005年，全国共有电石生产企业440多家，产量894万吨（国家统计局对413家电石企业统计数），国内消费量885万吨，出口9.7万吨，设备开工率仅为52.6%。《国务院办公厅转发发展改革委等有关部门关于对电石和铁合金行业进行清理整顿若干意见的通知》（国办发明电[2004]22号）、《国家发展改革委关于进一步巩固电石、铁合金、焦炭行业清理整顿成果规范其健康发展的有关意见的通知》（发改产业[2004]2930号）下发后，各地按要求对电石行业进行了清理整顿，电石行业重复建设和盲目扩张的势头得到初步遏制。但是，电石行业产能过剩、技术装备水平低、结构不合理、污染严重等问题仍然没有得到根本解决。<br>    (一)生产能力过剩，超过实际需求一倍。2005年底，国内电石生产能力已达1700万吨，是当年实际产量的两倍，生产能力已远大于市场需求。据统计，目前各地在建和拟建的项目陆续投产，每年仍将净增100－150万吨的生产能力。按这一增长量测算，2010年电石生产能力将超过2200万吨。届时，电石产能大大高于市场需求，不仅造成社会资源的浪费，企业间的恶性竞争将导致巨大的经营风险。<br>    (二)企业规模小，技术装备落后。从生产规模看，据2004年清理整顿工作中的统计，我国电石企业平均每家每年生产电石约2万吨；产量超过10万吨的企业仅6家，占电石生产企业总数的1.4%；5万吨以下的小型企业占了总数90%以上。从技术装备看，具有工艺技术较为先进、能够有效控制排放、资源综合利用比较充分的大型全密闭式矿热炉的生产能力只占总能力的5%左右；1―5万吨的内燃式矿热炉的生产能力约占65%；小于1万吨和敞开式电石炉的生产能力占30%左右。2005年，国内电石行业产业结构基本没有得到明显改善。由于企业规模小，技术装备落后，难以统筹安排资源综合利用设施，废气中大量一氧化碳和高温余热都不能有效回收，多数废渣也没有合理利用，造成资源的浪费。<br>    (三)环境污染依然严重。电石是高耗能、高排放行业，每吨电石平均综合电耗约3450千瓦时。生产过程中排放大量含尘烟气，目前每生产一吨电石，密闭炉要排放烟气400―500标准立方米，内燃式电石炉排放8000―9000标准立方米，敞开式电石炉烟气排放量更大，烟气中粉尘含量高达100―150克/标准立方米，远远高于国家标准150毫克/标准立方米（环境二类地区）的要求。国内电石行业中，占总生产能力95%的电石生产装置为内燃式和敞开式炉型，装备简陋，排放失控，即使有的配套了除尘设施，也难以杜绝粉尘的放散，成为重点污染源头。据测算，2004年我国电石行业生产排放的含尘烟气超过600亿立方米，对生态环境造成严重危害。<br>    (四)行业发展缺乏统筹规划。当前电石行业的投资和建设带有很大盲目性。许多地区不考虑资源、交通、环境承载能力，对来自各方面的投资不分规模大小和水平高低，大都采取鼓励、支持的态度。企业建成后又疏于管理，致使出现小企业数量过多、工艺技术水平落后、安全生产条件差、资源利用效率不高、环境污染严重的低水平扩张状况。<br>    二、电石行业结构调整的目标<br>    近年来，国际油价持续上涨，乙烯氧氯化法生产PVC成本大幅上升，电石法生产PVC显示出相对的成本优势。预计在今后一段时期里，电石法仍是我国PVC的主要生产工艺，电石法生产PVC对电石的需求比重还有可能继续上升。因此，“十一五”期间，要综合运用经济、法律和必要的行政手段，加快电石行业结构调整，提升行业总体水平。<br>    电石行业结构调整的目标：一是彻底关闭和淘汰5000千伏安以下（1万吨/年以下）电石炉及开放式电石炉、排放不达标的电石炉。二是严格控制新上电石项目，通过三年努力，使生产能力与市场需求相适应。三是加强排放控制和污染治理，电石生产企业各项污染物排放要达到环保要求；四是强化准入管理，发展大型、现代化的电石生产装置，优化行业结构，提高行业整体技术水平和产业集中度。<br>    三、主要政策措施<br>    (一)加强行业统筹规划。东部沿海地区和能源、资源比较匮乏的地区原则上禁止新建电石生产项目。新建和改扩建电石项目必须符合《电石行业准入条件》，环境保护管理部门要严格进行环评审批。特别是内蒙古、山西、宁夏、四川、陕西、甘肃等主要电石产区要全面贯彻落实科学发展观，根据本地区资源、电力、交通、环境的承载能力，统筹制定包括发展总量、地区布局、企业规模、装备水平、综合利用、污染治理等内容的电石行业发展规划，合理调整布局，扶持一批优势企业，淘汰落后生产能力，优化产业结构。<br>    （二）严格行业准入管理。对新建和改扩建的电石项目，地方有关部门在进行投资管理、环境评价、土地供应、信贷融资、电力供给等审核时，要以《电石行业准入条件》为依据，严格把关，对不符合准入条件的新建、改扩建项目，国土资源管理部门不予办理土地使用手续，环保部门不得办理环保审批手续，金融机构不得提供信贷支持，电力供应部门不得提供电力供应。对现有电石生产企业，各级政府部门要引导和促进当地电石企业的联合重组，集中建设和经营，统筹建设排放处理和资源综合利用设施，延长产业链，发展循环经济。支持大型PVC生产企业通过兼并改造的方式，在有资源优势的中西部地区建立大型电石生产基地，进行规模化、集约化生产，提高企业的生产管理水平。2006年，按照《电石行业准入条件》对现有电石生产企业的工艺装备、能源消耗和资源综合利用、环境保护等各项指标进行全面考核，并以国家发展改革委公告方式向社会公布符合《电石行业准入条件》的企业名单。<br>    (三)坚决淘汰落后能力。各地政府部门要认真贯彻《国务院关于加快推进产能过剩行业结构调整的通知》（国发[2006]11号）和《国务院关于发布实施〈促进产业结构调整暂行规定〉的决定》（国发[2005]40号）精神，严格执行国务院和国家有关部门关于电石行业清理整顿的各项要求，立即关闭和淘汰5000千伏安以下（1万吨/年以下）电石炉及开放式电石炉、排放不达标的电石炉。对必须淘汰的生产设备进行废毁处理，防止死灰复燃。<br>    (四)强化价格和税收等经济手段和经济杠杆。一是对电石行业执行国家差别电价政策，进一步研究制定针对不同规模、不同工艺装备的企业实行差别电价的具体措施。坚决取消各地自行出台的优惠电价政策，对5000千伏安以下（1万吨/年以下）电石炉及开放式电石炉用电加收0.05元/kwh。二是国家发展改革委、环保总局将会同有关部门研究调整排染费征收政策，加大排污处罚力度。三是加强许可证管理。对淘汰类和不符合《电石行业准入条件》的电石生产企业，质量监督部门不得发放《工业产品生产许可证》，安全监管部门不得发放危险化学品生产企业安全生产许可证，环境保护管理部门不得发放排污许可证。<br>    (五)建立长效监管机制。各省（区、市）人民政府、有关部门要建立长效监督管理机制，加强日常监管。环保、质量监督、工商、安全监管等部门要依据各自职责将《电石行业准入条件》规定的相关条件，纳入监督检查的范畴。对恢复建设和新建项目中采用国家产业政策明令淘汰的设备，要立即取缔。对生产设备不能规范运行、工艺消耗和污染物排放等相关指标不能达到规定标准的企业，要限期整改。巩固清理整顿成果，防止反弹。<br>    （六）加强信息引导和行业自律。有关行业协会要充分发挥对行业的指导、协调和自律作用，宣传国家产业政策，贯彻行业准入条件，汇集和发布行业生产、技术和市场信息，引导企业合理经营，推广新技术，指导企业进行整改，约束企业行为，促进行业健康、稳定和可持续发展。<br><br>国家发展改革委<br>国 土 资 源 部<br>质  检  总  局<br>环  保  总  局<br>安全监管总局<br>银    监    会<br>电    监    会<br>二○○六年四月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

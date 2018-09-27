@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2004〕130号<BR>&nbsp;&nbsp;【发布日期】2004-11-23<BR>&nbsp;&nbsp;【生效日期】2004-11-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=383" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于建立全省经济动员体系的通知<br><br></font>(甘政办发〔2004〕130号)</p><br> <br> <br>各市、自治州人民政府，陇南行署，省政府各部门，各有关单位：<br><br>    国民经济动员是保障国家有组织、有计划地由平时状态转入“应战”、“应急”状态的行动和措施，是国防建设和经济建设的桥梁和纽带。建立完善的全省经济动员体系，不仅是做好各项军事斗争准备的现实要求，也是确保我省经济和社会持续、健康发展，加强各级政府应对各类危机事件的客观需要，更是树立科学发展观，促进全省国防建设和经济建设协调发展的具体体现。为了认真贯彻落实甘肃省国防动员委员会第三次全体会议精神，扎实做好军事斗争准备工作，积极应对公共危机，维护公共安全和社会稳定，全面推进经济动员工作，现就建立我省经济动员体系有关问题通知如下：<br><br>    一、指导思想和基本原则<br><br>    (一)指导思想<br><br>    以“三个代表”重要思想为指导，以维护人民群众根本利益、确保全省安全稳定和经济社会可持续发展为目标，以理顺应急保障体制、建立运行机制、打破条块分割为突破口，积极构建经济动员应急保障体系；对“应战”、“应急”实施分类保障，逐步实现经济动员职能由单一的战时“应战”保障向与平时应对各种危机“应急”保障相结合、由事后应急向与事先预防相结合转变，努力形成权威高效、责权统一的危机应急保障机制，以提高政府应对各类公共危机的快速反应能力和防范保障能力。<br><br>    (二)基本原则<br><br>    1、以人为本。把保护人民生命财产安全，维护人民群众的根本利益作为全部工作的出发点和落脚点，把“以人为本”的理念渗透到政府应急管理的各个方面。<br><br>    2、经济建设与国防建设协调发展。树立科学的发展观，增强主体意识，履行主体职责，发挥主体作用，注重在“双向纳入”和结合上下功夫，在经济发展的基础上不断推进国防和军队现代化。<br><br>    3、预防为主、平战结合。努力把公共危机平时状态下的常态保障与战时状态下的应急保障有机地统一起来。<br><br>    4、属地管理。充分调动各市(州、地)政府(行署)、各部门和企业的积极性，分层面、分条块，形成一体化的“应战”、“应急”保障机制。<br><br>    5、实用、高效和节约相结合。既要及时、准确、有效地满足“应战”和“应急”的实际需要，又要避免重复建设，降低政府应急保障成本。<br><br>    二、建设内容<br><br>    (一)信息体系建设<br><br>    以省经济动员信息网络系统建设为契机，以先进的信息网络技术为支撑，依托经济动员信息通用平台，在系统功能的二次开发上，将全省自然资源、宏观经济、社会服务等潜力调查数据信息作为数据库建设的重要内容，并纳入全省统计部门的正常工作范围，共同联合实施调查统计。同时，利用地理信息系统技术，建立覆盖全省的经济动员信息网络体系，为政府实施应急处置构建便捷、通畅的综合应急决策指挥平台，并将省经济动员信息网络系统与国家经济动员、兰州军区经济动员和省国防动员委员会信息网络系统相对接，实现信息资源共享，指挥决策联动。<br><br>    (二)预案体系建设<br><br>    经济动员预案是应对社会各类公共危机的基础工作。要围绕制定各类预案，开展潜力调查、物质储备、动员能力建设、专业队伍组建与训练、预案演练等工作，做好军事斗争和处置公共危机的准备工作。要依托省经济动员预案体系，按照国家即将颁布的经济动员预案编制标准，充分发挥全省经济动员信息网络系统的潜力查询、预案编制、决策指挥和网上演练等功能，抓好各级各类经济动员中心建设。省经济动员办公室要对全省各类应急预案加强管理并进行有效指导，构建全省统一的应急预案体系。<br>    <br>    (三)保障体系建设<br><br>    按照统筹规划、科技主导、分类准备、全面保障的总体工作思路，建立健全组织体系，编制动员计划，规范动员程序和组织实施动员演练。重点在工业、财政金融、科学技术、物资储备、医疗卫生、邮电通信等领域，建立全省统一的“应战”、“应急”保障动员体系。<br><br>    工业动员准备工作由省发展改革委、省经委和省国防科工办负责。主要任务是挖掘工业生产潜力，增加工业产品产量，提高质量。以通用物资生产为主，同时在开发军民兼容技术、重要军工生产线保留、转产、扩产领域根据任务需要开展动员准备。<br><br>    财政动员准备工作由省财政厅负责。主要任务是加强各类应急资金的筹措和管理，为经济动员提供有效的资金支持。<br><br>    科学技术动员准备工作由省科技厅、省人事厅和省劳动保障厅共同负责。主要任务是开发应用高新技术，培养和储备各类科技人才和专业技术人员，并相应建立全省各类科技人才和专业技术人员资料库。<br><br>    物资储备动员准备工作由省粮食局和省商务厅负责。主要任务是加强对重要战略物资和通用物资的储备，按照市场化运作的方式，建立和完善一整套应急征用机制。同时，通过建立相应的动员机制，提高生产能力的储备。<br><br>    医疗卫生动员准备工作由省卫生厅和省食品药品监督管理局负责。主要任务是建立健全卫生医疗、食品药品安全防控救护体系，提高医疗救治水平，加大医疗卫生设施建设的投入力度，加强各级应急救护队伍建设。<br><br>    农业动员准备工作由省农牧厅和省林业厅负责。主要任务是根据农、林产品保障需求，有计划、有组织地开展保障准备。<br><br>    邮电通信动员准备工作由省电信有限公司、中国移动甘肃分公司、中国联通甘肃分公司负责。主要任务是保障邮电通信畅通无阻，加强应急通信能力建设，组织做好动员准备。<br><br>    (四)法规体系<br><br>    积极探索在市场经济条件下开展经济动员的办法和措施，尝试开展潜力调查、预案编制、军民通用物资征收、征用等方面地方性法规的制定工作。<br><br>    三、具体要求<br><br>    (一)各级政府和领导干部一定要站在维护国家安全稳定和确保我省经济社会发展的战略高度，树立忧患意识和全局观念，充分认识建立全省经济动员工作体系的重要性。主要领导要亲自过问，整体筹划安排，帮助协调解决问题，并加强督促检查。<br><br>    (二)建立全省经济动员工作体系任务重、涉及面广、协调量大，各地、各部门(单位)要按照职责分工，明确分管领导、负责业务处(室、科)和工作人员。各地、各部门(单位)要从全局出发，加强联系，主动配合，密切协作，形成合力，共同抓好全省经济动员工作体系的建立工作。<br><br>    (三)为了尽快建立健全经济动员工作体系的运行机制，省、市(州、地)、县(市、区)三级有关部门(单位)要将本部门(单位)分管领导、联系处(室、科)人员姓名以及通讯地址、联系电话(传真)，于2004年12月底前报同级发展改革委(发展计划委、计经局)经济动员办公室。<br><br>    省经济动员办公室通讯地址：兰州市中央广场1号，邮政编码：730030，联系电话：0931―8466580，传真号码：0931―8484190。<br><br>                                  二○○四年十一月二十三日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

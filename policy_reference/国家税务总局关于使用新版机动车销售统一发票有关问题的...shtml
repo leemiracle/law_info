@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2006]479号<BR>&nbsp;&nbsp;【发布日期】2006-05-22<BR>&nbsp;&nbsp;【生效日期】2006-05-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200605301001401002" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于使用新版机动车销售统一发票有关问题的通知<br><br></font>(国税函[2006]479号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局，扬州税务进修学院：?<br>    为了进一步加强机动车辆税收征收管理，适应使用税控器具开具发票的需要，总局决定从2006年8月1日起，统一使用新版《机动车销售统一发票》。现就有关问题明确如下：?<br>    一、凡从事机动车零售业务的单位和个人，从2006年8月1日起，在销售机动车（不包括销售旧机动车）收取款项时，必须开具税务机关统一印制的新版《机动车销售统一发票》（以下简称《机动车发票》），并在发票联加盖财务专用章或发票专用章，抵扣联和报税联不得加盖印章。?<br>    二、《机动车发票》为电脑六联式发票。即第一联发票联（购货单位付款凭证），第二联抵扣联（购货单位扣税凭证），第三联报税联（车购税征收单位留存），第四联注册登记联（车辆登记单位留存），第五联记账联（销货单位记账凭证），第六联存根联（销货单位留存）。第一联印色为棕色，第二联印色为绿色，第三联印色为紫色，第四联印色为蓝色，第五联印色为红色，第六联印色为黑色。发票代码、发票号码印色为黑色。《机动车发票》规格为241mm×177mm（票样附后）。当购货单位不是增值税一般纳税人时，第二联抵扣联由销货单位留存。?<br>    三、《机动车发票》的有关内容及含义是：“机打代码”应与“发票代码”一致，“机打号码”应与“发票号码”一致；“机器编号”指税控器具的编号；“税控码”指由税控器具根据票面相关参数生成打印的密码；“身份证号码”指购车人身份证号码；“组织机构代码”指由质检（技术监督）部门颁发的企业、事业单位和社会团体统一代码；“进口证明书号”指海关货物进口证明书号码；“商检单号”指商检局进口机动车车辆随车检验单号码；“车辆识别代号”指表示机动车身份识别的统一代码（即“VIN”）；“价税合计”指含税（含增值税）车价；“纳税人识别号、账号、地址、开户银行”指销货单位所属信息；“增值税税率或征收率”指税收法律、法规规定的增值税税率或征收率；“增值税税额”指按照增值税税率或征收率计算出的税额，供按规定符合进项抵扣条件的增值税一般纳税人抵扣税款时使用；“不含税价”指不含增值税的车价，供税务机关计算进项抵扣税额和车辆购置税时使用，保留2位小数；“主管税务机关及代码”指销货单位主管税务机关及代码；“吨位”指货车核定载质量；“限乘人数”指轿车和货车限定的乘座人数。?<br>    增值税税额和不含税价计算公式：?<br>    增值税税额＝价税合计-不含税价?<br>    不含税价＝价税合计÷（1＋增值税税率或征收率）?<br>    四、《机动车发票》税控码加密参数共10项：即开票日期、机打代码、机打号码、身份证号码/组织机构代码、车辆识别代号、价税合计、纳税人识别号、主管税务机关代码、增值税税率/征收率、增值税税额。?<br>    五、《机动车发票》开具要求?<br>    （一）《机动车发票》应使用计算机和税控器具开具。在尚未使用税控器具前，可暂使用计算机开具，填开时，暂不填写机打代码、机打号码、机器编号和税控码内容。?<br>    （二）《机动车发票》开票软件由国家税务总局统一开发，免费供机动车销售单位使用。税控器具及开票软件使用的具体规定由总局另行通知。?<br>    （三）“机打代码”、“机打号码”、“机器编号”在纳税人输入发票代码和发票号码后由开票软件自动生成；“增值税税额”和“不含税价”在选定增值税税率及征收率后由开票软件自动生成；“增值税税率及征收率”由纳税人按照税务机关的规定填开。<br>    （四）如发生退货的，应在价税合计的大写金额第一字前加“负数”字，在小写金额前加 “-”号。?<br>    （五）《机动车发票》税控码及10项加密参数填开的内容要保证打印在相关栏目正中，不得压格或出格。在开票过程中，发现有误的，可即时作废，并在废票全部联次监制章部位做剪口处理。?<br>    （六）如购货单位在办理车辆登记和缴纳车辆购置税手续前丢失《机动车发票》的，应先按照《国家税务总局关于消费者丢失机动车销售发票处理问题的批复》（国税函〔2006〕227号）规定的程序办理补开《机动车发票》的手续，再按已丢失发票存根联的信息开红字发票。?<br>    六、为了保证《机动车发票》相关数据采集认证的准确性，《机动车发票》采用干式复写纸（其中报税联、抵扣联需采用52克，发票联、注册登记联、记账联45克），由各省、自治区、直辖市和计划单列市国家税务局指定1家定点企业印制；发票代码、发票号码应严格按照全国统一的编码规则编印。各地的《机动车发票》票样（一式三份）要报总局审查批准后方可投入使用，并送同级公安和工商行政管理机关备案。?<br>    七、旧版《机动车发票》从2006年 8月 1日起停止使用；《国家税务总局关于统一机动车销售发票式样的通知》（国税发〔1998〕203号）同时废止。<br>??<br>    附件：机动车销售统一发票（票样）<br><br>                               国家税务总局<br>                           二○○六年五月二十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

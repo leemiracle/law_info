@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2010-06-30<BR>&nbsp;&nbsp;【生效日期】2010-06-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.csrc.gov.cn/pub/zjhpublic/G00306201/201007/t20100702_182150.htm" target=_blank>中国证券监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于加强上市证券公司监管的规定（2010年修订） <br><br></font></p><br><br><br>    上市证券公司具有证券公司与上市公司的双重属性，作为证券公司，要适用证券公司监管相关法规；作为上市公司，要适用上市、发行监管相关法规。为做好相关法律法规的协调和衔接，加强对上市证券公司的监管，现规定如下：<br><br>    一、证券公司首次公开发行并上市（以下简称IPO）和上市后发行新股、可转换公司债券等再融资行为，应当同时符合《证券法》、《证券公司监督管理条例》、《首次公开发行股票并上市管理办法》、《上市公司证券发行管理办法》等法律法规关于发行、变更注册资本等行政许可规定的条件，向监管部门申请出具监管意见书，提供包括监管意见书在内的相关申请审核材料。IPO和再融资行为涉及变更持有证券公司5%以上股权的股东、实际控制人的，还应当同时报送相关股东资格的审核材料。<br><br>    二、上市证券公司进行重大资产重组，同时涉及变更持有证券公司5%以上股权的股东、实际控制人的，应当同时提交相关股东资格审核材料。<br><br>    三、上市证券公司应当根据《证券公司监督管理条例》有关规定在章程中载明，任何单位或者个人未经国务院证券监督管理机构批准，持有或者实际控制证券公司5%以上股权的，应当限期改正；改正前，相应股权不具有表决权。<br><br>    四、上市证券公司应当根据我会《公开发行证券的公司信息披露内容与格式准则第2号――年度报告的内容与格式》等规定编制上市公司年报，同时上市证券公司还应根据《证券公司年度报告内容与格式准则》等规定编制证券公司监管年报，在规定期限之内先按上市公司要求披露上市公司年报，然后再向监管机构报送证券公司监管年报，并按要求将其中的审计报告、经审计的会计报表及附注在中国证券业协会网站和公司网站进行信息公示。如果向社会公开披露的年报和向监管部门报送的年报存在重大数据差异，上市证券公司应当及时以临时报告方式披露并充分说明产生差异的原因。<br><br>    五、根据《公开发行证券的公司信息披露内容与格式准则第2号――年度报告的内容与格式》规定，上市公司应当披露持有其他上市公司股权等情况。如果涉及上市证券公司商业秘密等特殊原因确实不便披露的，公司可按照规定向交易所申请豁免。<br><br>    六、上市证券公司在向监管部门报送综合监管报表的同时，应当以临时公告的形式在交易所网站公开披露公司月度经营情况主要财务信息，包括当期营业收入、当期净利润、期末净资产等数据，以及公司认为应当披露的其他财务信息。上市证券公司有控股证券子公司的，应当同时披露证券子公司相关数据（可不予披露合并报表数据）。上市证券公司披露上述数据应当注明数据统计范围及未经审计。<br><br>    七、根据上海、深圳证券交易所上市规则中关于应当披露交易的规定，对于上市证券公司重大对外投资包括证券自营超过一定额度可能需要及时披露和提交股东大会决议的情况，上市证券公司可以每年由股东大会审议并披露自营投资的总金额；实施自营投资过程中如果发生情况变化，可以在符合章程规定的情况下由股东大会授权董事会表决并予公告。<br><br>    八、根据《证券公司治理准则（试行）》、《证券公司风险控制指标管理办法》等规定，证券公司发生公司或者高管涉嫌重大违法违规行为，财务状况恶化，拟更换董事长、总经理、监事长，风险控制指标出现特定变化等情况时，需要书面通知全体股东。上市证券公司应当将上述情况在指定披露媒体及时公告以履行书面通知全体股东的义务。<br><br>    九、根据《证券公司治理准则（试行）》第10条规定，证券公司股东在出现特定情况时，应当及时通知证券公司。上述规定适用于持有上市证券公司5%以上股份的股东、实际控制人。<br><br>    十、根据《证券公司监督管理条例》第26条规定和《证券公司业务范围审批暂行规定》第5条规定，证券公司开展新业务和经营创新业务，应当经我会批准。上市证券公司在公告董事会、股东大会对拟开展新业务或者经营创新业务的决议时，应当同时向投资者进行风险提示，说明上市证券公司要实际开展相关业务尚需监管机构核准，且存在达不到法律法规和监管要求而导致监管机构不予核准的情形。<br><br>    十一、上市证券公司应当根据《上市公司信息披露管理办法》的规定，及时披露重大行政许可事项的相关情况，即公司应当在做出行政许可申请的决议或决定、监管部门作出行政许可决定后，及时在指定媒体公开披露相关情况。对于一般行政许可事项，上市证券公司应当在定期报告（中期报告和年度报告）中公开披露监管部门的行政许可决定。<br><br>    十二、上市证券公司应当在中期报告、年度报告中披露监管部门对公司的分类结果，其中在中期报告中披露其当年分类结果，在年度报告中披露其近三年的分类结果。<br><br>    十三、上市证券公司应当根据《上市公司信息披露管理办法》等规定披露其风险控制指标变化、被采取的监管措施等重大事项。其中：<br><br>    1.上市证券公司应当在年报和半年报中披露所有风险控制指标情况；日常经营中，当风险控制指标不符合《证券公司风险控制指标管理办法》规定标准的，应当及时以临时公告方式披露，说明原因、目前的状态和可能产生的影响。<br><br>    2.上市证券公司被采取重大监管措施或者风险处置措施，影响到其经营行为从而可能对市场价格产生较大影响的，应当确认发生重大事件，及时披露临时公告，并在半年报、年报中披露。这些措施包括但不限于公司被限制业务，责令暂停部分业务，停止批准新业务，停止批准增设、收购营业性分支机构，限制分红，限制向高管、董事、监事支付报酬、提供福利，撤销业务许可，责令控股股东转让股权或者限制股东权利，对公司进行临时接管等重大监管措施或者风险处置措施。<br><br>    十四、上市证券公司应当结合证券行业特点和自身情况，按照上市公司信息披露管理的监管要求，建立健全信息管理制度，包括但不限于以下方面：<br><br>    1.建立健全内幕信息知情人登记制度，按规定严格界定内幕信息及内幕信息知情人的范围，做好内幕信息知情人的登记和管理等工作。<br><br>    2.建立健全信息保密制度，明确责任及责任追究措施，要求公司所有内幕信息知情人和保密责任人签署保密承诺书，严格加强内幕信息价格敏感期的信息管理，防止泄露内幕信息。<br><br>    3.建立健全信息隔离墙制度，防止利益冲突和内幕交易行为的发生。<br><br>    4.建立健全信息管理应急机制，制定切实可行应急预案，明确相关部门和人员责任，适时采取有效的应急措施，及时应对市场有关传闻，积极防范和有效处置公关危机。<br><br>    5.建立健全涉及控股子公司的信息披露管理制度。<br><br>    十五、上市证券公司确有必要需与监管部门沟通有关事项的，应当在交易日收市之后进行，涉及可能影响公司股价的重大事项，应当按规定及时停牌或公告。沟通事项涉及内幕信息的，上市证券公司应当将监管部门有关知情人员纳入内幕信息知情人范围进行登记。<br><br>    十六、上市证券公司应当按照从严的原则，严格执行《证券公司治理准则（试行）》、《上市公司治理准则》等证券公司监管法规和上市公司监管法规，不断完善法人治理结构，提高公司治理水平。<br><br>    十七、本规定自公布之日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

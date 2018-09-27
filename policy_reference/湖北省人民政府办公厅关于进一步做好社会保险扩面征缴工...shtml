@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2008〕1号<BR>&nbsp;&nbsp;【发布日期】2008-01-03<BR>&nbsp;&nbsp;【生效日期】2008-01-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/govopen/zfwj/ezbfwj/ezbf2008/200804/t20080428_56027.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于进一步做好社会保险扩面征缴工作的通知<br><br></font>(鄂政办发〔2008〕1号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br><br>    近年来，我省社会保险覆盖面逐步扩大，社会保险费征缴额持续增长，为保障劳动者合法权益、促进经济发展、构建和谐社会发挥了重要作用。但还存在着一些突出问题，少数地方扩面征缴工作不力，政策执行不严；一些参保单位少报、漏报、瞒报缴费工资基数；部分单位和个人没有依法参保。为进一步加强社会保险扩面征缴工作，使用人单位和劳动者个人做到依法参保缴费，确保社会保险待遇按时足额发放，经省人民政府同意，现就有关事项通知如下：<br><br>    一、加强社会保险登记<br><br>    各级劳动保障部门要根据工商、税务、民政、人事等部门提供的单位登记年检信息，建立用人单位社会保险参保登记信息数据库。对未参保的用人单位和新设立的用人单位，劳动保障部门应及时下达《社会保险参保通知书》，告知其应参保险种、业务流程和应提供的资料，督促其办理社会保险登记。<br><br>    各地要以贯彻实施《中华人民共和国劳动合同法》为契机，在2008年第一季度前，对本行政区域内用人单位参保情况进行一次全面检查，重点检查外资企业、民营企业，特别是使用外来工相对集中的餐饮、服务、矿山、建筑等企业参保情况。对没有参保的用人单位，应督促其限期到劳动保障部门办理社会保险登记，参加社会保险。<br><br>    二、规范社会保险申报<br><br>    从2008年起，全省社会保险缴费工资基数核定年度统一调整为每年7月1日至次年6月30日。用人单位在申报年度缴费工资基数时，应提供劳动工资报表、财务报表以及职工本人签字认可的缴费工资基数。职工工资总额的申报要严格执行国家和省有关规定。除政策规定外，同一缴费个人只能申报1个缴费工资基数，各险种参保人数必须一致。用人单位申报的参保人数和缴费工资基数必须经法人代表签字确认。<br><br>    项目施工周期短、作业人员流动性大的建筑业等企业参加工伤保险，可按项目年度工程造价中人工成本费用计算缴费工资基数。工程周期不足1年的，按全部人工成本费用计算缴费工资基数。<br><br>    用人单位在申报月度应缴纳的社会保险费时，应按“五险一表”和核定的年度缴费工资基数填报《社会保险费申报表》。有条件的地方要积极推行网上申报。劳动保障部门对经催办仍不按时申报的用人单位，可按其上次缴费额的110％核定应缴费额。<br><br>    三、加大社会保险费征缴力度<br><br>    劳动保障部门要依法履行社会保险费核定职能。在核定应缴社会保险费额时，要认真审核用人单位申报的资料是否齐全、文本是否规范、各险种参保人数和缴费工资基数是否符合政策规定、是否经职工本人和法人代表签字确认。对不符合要求的，要责成其重新申报。用人单位对劳动保障部门核定的社会保险费额有异议的，经法人代表签字后，可以向劳动保障部门提出重新核定。<br><br>    地税部门要严格按照劳动保障部门核定的应缴社会保险费额进行全额征缴。对劳动保障部门核定的社会保险费额有异议或通过税务检查发现用人单位少报、漏报社会保险费额的，应及时反馈劳动保障部门，由劳动保障部门依法查处，重新核定。要实行用人单位和个人自觉缴费与督促催缴相结合、缴费检查与税务稽查相结合，不断提高征缴率。<br><br>    有条件的地方，地税部门应根据劳动保障部门核定汇总的社会保险费应缴额，按“社会保险费”项目一票填开《中华人民共和国税收通用缴款书》。人民银行各分支机构应在科目和程序上作相应调整，对入库的社会保险费要及时划入财政专户。<br><br>    要完善信息网络系统，尽快实现劳动保障、地税、财政、人民银行间的联网。<br><br>    四、强化行政监督执法<br><br>    各级劳动保障部门要加强对用人单位参保和申报缴费的专项稽核、监察。对未按《社会保险参保通知书》要求办理社会保险登记的用人单位，由劳动保障部门下达《限期整改指令书》。对在规定时间内仍未按要求整改的，由劳动保障部门依法进行处罚，并根据工商等部门提供的单位登记信息办理社会保险登记，同时根据其经营状况、职工人数等有关情况预核应缴社会保险费额，地税部门将其纳入社会保险费征收范围。对少报、漏报参保人数和缴费工资基数的，劳动保障部门应责令其改正，并依法予以处罚。对有意逃避缴费和恶意欠费的，地税部门要依法强制征缴。对当地难以查处的，可以报请上一级劳动保障或地税部门直接进行查处。对社会保险经办人员未严格执行规定，造成少核、漏核、错核参保人数和缴费工资基数以及少征社会保险费的，要追究相关人员责任。<br><br>    劳动保障部门内部要建立劳动合同管理、社会保险登记核定、稽核、监察的联动机制，充分发挥整体合力。要充分发挥社会舆论作用，对拒不参保以及欠费大户通过新闻媒体进行曝光，并记入用人单位守法诚信档案。<br><br>    五、科学编制和严格执行预算<br><br>    各地要按照《省财政厅、省劳动和社会保障厅关于印发湖北省社会保险基金预算管理试行办法有关问题的通知》（鄂财社发〔2005〕119号）规定，科学编制和严格执行社会保险基金预算，加强社会保险基金的制度化、规范化、科学化管理。社会保险基金收入预算的编制要做到真实、准确、科学，基金收入的确定要与经济社会发展水平、职工工资水平的提高及其社会保险覆盖面实际相适应。要通过编制社会保险基金预算，挖掘基金征管的潜力，加强基金管理，实现社会保险基金收支平衡，确保社会保险待遇按时足额支付和社会保险基金安全与完整。<br><br>    六、切实加强组织领导<br><br>    各市、州、县人民政府要高度重视社会保险扩面征缴工作，足额安排社会保险扩面征缴工作经费。中央和省下拨资金的分配要与各地扩面征缴工作实绩和社会保险基金预算编制及执行情况挂钩，对因工作不到位而完不成目标任务的，将扣减中央和省下拨资金。省每年组织对各地社会保险扩面征缴工作进行定期检查。省级财政安排一定的奖励资金，专项用于奖励社会保险扩面征缴工作取得突出成绩的地区和单位。<br><br>    各有关部门要密切配合，齐抓共管，形成扩面征缴整体联动工作机制。各市、州、县要建立由劳动保障部门牵头的社会保险扩面征缴工作联席会议制度，定期研究社会保险扩面征缴工作有关问题，互通情况。劳动保障部门要充分发挥综合管理职能，加强对扩面征缴工作的组织协调。地税部门要进一步加大社会保险费征缴力度，提高征缴率。财政部门要加强对社会保险基金的监管，专款专用，确保安全，切实落实扩面征缴工作经费。劳动保障、地税部门要会同工商、民政、人事等部门，定期交流用人单位年检登记信息，及时督促未参保用人单位办理社会保险登记。安全生产监督和建设部门在核发《安全生产许可证》、《建筑施工许可证》时应查验用人单位《社会保险登记证》，督促用人单位参加社会保险，尤其要重点加强对建筑、交通、矿山、危化、民爆等高风险行业企业的管理，对未参加工伤保险的用人单位不得核发《安全生产许可证》和《建筑施工许可证》。宣传部门要加大扩面征缴宣传力度，营造扩面征缴的良好社会氛围，形成扩面征缴的合力。<br><br>    湖北省人民政府办公厅<br>    二○○八年一月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

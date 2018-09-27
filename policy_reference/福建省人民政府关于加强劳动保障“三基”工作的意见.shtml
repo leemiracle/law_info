@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政〔2008〕14号<BR>&nbsp;&nbsp;【发布日期】2008-07-21<BR>&nbsp;&nbsp;【生效日期】2008-07-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zfxxgkl/xxgkml/ssqk/200808/t20080804_84279.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府关于加强劳动保障“三基”工作的意见<br><br></font>(闽政〔2008〕14号)</p><br>    <br><br>各市、县（区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：<br><br>    加强劳动保障基础工作、基层组织和基本能力（以下简称劳动保障“三基”）建设，完善各级劳动保障服务体系，是推动统筹城乡的重要举措，是实施品牌带动的重要抓手，是做好劳动保障工作的重要平台，对把海峡西岸经济区建设成为科学发展的先行区、两岸人民交流合作的先行区具有重要意义，现就加强我省劳动保障工作“三基”建设提出如下意见。<br><br>    一、指导思想和工作目标<br><br>    （一）指导思想<br><br>    贯彻落实党的十七大和省第八次党代会精神，坚持科学发展观，按照统筹城乡、建设惠及人民群众的公共服务体系要求，加快服务重心下移，加强劳动保障基础工作、基层组织和基本能力建设，更好地为建设两个先行区服务。<br><br>    （二）工作目标<br><br>    按照“整合资源、构筑平台、统筹城乡、强化保障、整体推进”的要求，到2009年底，全省基层劳动保障基础工作比较扎实，人力资源市场信息系统基本建成，劳动保障各项工作制度、管理服务办法比较健全；基层劳动保障组织建设到位，所有街道（乡、镇）、社区（村）建立劳动保障工作平台，机构、人员、经费、场地到位；基层劳动保障工作人员基本工作能力得到明显提升，队伍相对稳定，业务熟悉，胜任本职工作。<br><br>    二、工作措施<br><br>    （一）做好基层劳动保障基础工作<br><br>    1.建立基础台账。基层劳动保障工作平台要摸清辖区内劳动力资源和用工底数，建立健全劳动保障相关信息基础台账，做到辖区内的城乡居民、外来劳动力的就业状况和社会保障情况清、用人单位用工需求情况清。基础台账要落实实名制，并及时更新，动态管理。<br><br>    2.建设信息系统。建立统一的人力资源和用工信息系统，推动省、市、县（市、区）、街道（乡、镇）四级联网，并将信息网络延伸到社区（村）。省、市、县（市、区）要建立求职者信息和企业用工信息数据库，为政府决策、企业用工、劳动者求职和职业培训等方面提供服务。<br><br>    3.提供就业服务。基层劳动保障工作平台要为城乡劳动者免费办理就业、失业登记、职业介绍，发布职业供求和职业培训信息，组织有劳动能力、有就业愿望的劳动者参加职业技能培训。开展对就业困难人员的就业援助，协助落实促进就业相关政策。创新就业服务方式，加强与劳务派遣单位合作，促进劳动者有序就业。<br><br>    4.协助做好社会保障服务工作。基层劳动保障工作平台要协助做好企业退休人员领取养老金的资格认证、死亡人员终止养老保险关系和社会化管理服务工作。协助做好城乡居民社会保险政策咨询、宣传发动、参保登记、信息变更和失业保险金发放等服务工作。<br><br>    5.促进劳动关系和谐稳定。基层劳动保障工作平台要积极推动本辖区落实劳动合同制度，完善基层和谐劳动关系三方协调机制建设，推动创建和谐工业园区、和谐企业活动。协助劳动保障监察机构实施“网格化”监察管理工作，分片包干、责任到人。协助做好劳动争议调解工作，维护辖区内用工单位和劳动者合法权益。<br><br>    （二）加强劳动保障基层组织建设<br><br>    1.明确职责。街道（乡、镇）劳动保障工作平台名称统一为劳动保障事务所。主要职责是：宣传党和政府关于劳动和社会保障的方针政策和法律法规，开展劳动和社会保障政策咨询，协调社会各方面力量共同做好劳动保障工作。建立劳动保障相关信息数据库，为就业再就业人员和用人单位提供信息登记、职业介绍、职业培训服务；承担失业登记、《就业失业登记证》的申领、发放等具体服务工作；承担城乡居民社会保险具体服务工作；开展和谐劳动关系调解工作。<br><br>    社区劳动保障工作平台（建制村根据实际情况也可以建立劳动保障工作平台），作为公共就业服务窗口，受街道（乡、镇）劳动保障机构的委托，承担劳动和社会保障方面的服务工作。<br><br>    2.人员配备。街道（乡、镇）劳动保障事务所应配备专职劳动保障工作人员，所需人员根据当地实际，从现有的街道（乡、镇）事业单位人员中调剂解决。社区劳动保障工作人员根据社区实际需要向社会公开招聘；建制村从事劳动保障工作的人员，由村干部兼任。<br><br>    3.经费来源。根据《国务院关于做好促进就业工作的通知》（国发〔2008〕5号）文件规定，街道（乡、镇）劳动保障事务所作为公共就业服务机构，经费列入县（市、区）财政预算。社区劳动保障专职工作人员按照政府招收公益性岗位人员补贴办法，由设区市、县（市、区）财政给予公益性岗位补贴。同时，按照“费随事转”的原则，各级财政根据社区（村）劳动保障工作人员完成的工作量，从就业再就业和社会保障专项经费中给予一定补贴或奖励。<br><br>    4.工作条件。街道（乡、镇）政府要统筹解决街道（乡、镇）、社区劳动保障工作平台办公场地和服务场所，完善服务设施，设立窗口，提供服务。<br><br>    （三）提升基层劳动保障工作平台基本能力<br><br>    1.强化队伍建设。基层劳动保障工作人员要具备较强的事业心、责任感、良好的沟通协调能力和一定的专业知识。街道（乡、镇）劳动保障事务所工作人员，要优先录用有基层工作经历的大中专毕业生。社区（村）劳动保障工作人员一般要具备高中以上文化程度。<br><br>    2.强化业务培训。要将基层劳动保障工作人员培训纳入各级劳动保障干部培训计划，建立日常学习和定期培训制度，及时掌握劳动保障有关法律、法规、政策，提升业务素质。<br><br>    3.提高运作能力。各级政府要统筹协调，整合资源，形成合力，加强对基层劳动保障工作人员的管理，充分调动其工作积极性。基层劳动保障工作人员要结合实际，讲求实效，务实运作，不断总结基层工作经验，创新工作方法，及时完成工作任务，确保劳动保障政策落实到位。<br><br>    三、加强组织领导<br><br>    各级政府要切实加强对劳动保障“三基”建设工作的领导，将“三基”建设列入地方政府促进就业工作目标责任制，制定实施方案。充分发挥就业和社会保障工作领导小组、就业工作厅（局）际联席会议作用，定期召集相关部门及时研究解决推进劳动保障“三基”建设工作中遇到的重大问题，共同推进劳动保障“三基”工作。劳动保障部门要加强对劳动保障“三基”建设工作的组织、协调和指导；农办部门要将劳动保障“三基”建设工作作为社会主义新农村建设的重要抓手，通盘考虑；财政部门要落实劳动保障“三基”建设工作的经费；民政部门要将劳动保障“三基”建设工作纳入基层组织建设的总盘子予以统筹发展；编制部门要协调解决街道（乡、镇）劳动保障工作机构、编制等问题，确保劳动保障“三基”建设取得实效。<br><br>二○○八年七月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

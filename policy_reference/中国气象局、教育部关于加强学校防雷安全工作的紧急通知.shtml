@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国气象局、教育部<BR>&nbsp;&nbsp;【发布文号】气发〔2007〕152号<BR>&nbsp;&nbsp;【发布日期】2007-05-25<BR>&nbsp;&nbsp;【生效日期】2007-05-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info28530.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国气象局、教育部关于加强学校防雷安全工作的紧急通知<br><br></font>(气发〔2007〕152号)</p><br><br><br>各省、自治区、直辖市气象局、教育厅（教委）：<br><br>    雷电灾害是最严重的自然灾害之一，我国雷电灾害频发，对国民经济发展、社会和谐稳定，尤其是对人民生命财产安全构成了严重威胁。近年来，随着教育事业的迅速发展，学校高层建筑物不断增多，信息技术的应用也日益普及，但由于部分学校，尤其是农村和偏远山区的学校防雷意识淡薄，许多建筑物和电子电器设备未及时按国家有关法律法规和技术标准规定采取适当防雷措施，一些新建、改建和扩建的建筑物未按要求进行防雷装置的设计审核、竣工验收，已有防雷装置未进行定期检测，对存在的防雷隐患不能及时整改，致使雷击造成师生伤亡和经济损失的事故时有发生。为贯彻落实《国务院办公厅关于进一步做好防雷减灾工作的通知》（国办发明电〔2006〕28号）的精神，组织做好学校防雷安全工作，切实保障广大师生的生命财产安全，现就进一步加强学校防雷安全工作通知如下：<br><br>    一、进一步提高对做好防雷安全工作重要性的认识<br><br>    各级气象主管机构和教育部门要站在全面落实科学发展观，建设社会主义和谐社会，对广大师生生命财产安全极端负责的高度，充分认识防雷安全工作的重要性和当前雷电灾害多发的严峻形势，切实增强责任感和使命感，把防雷安全工作作为学校安全责任管理的重要内容，在各自职责范围内，加强协调、密切配合，采取切实有力措施，共同做好防雷安全工作，保障各级各类学校师生的生命财产安全。中国气象局与教育部将组织编写防雷安全宣传材料，向社会做好广泛、深入的宣传教育工作。广大中小学校还要认真落实好教材中有关防雷的安全教育内容。<br><br>    二、切实落实学校防雷安全工作职责<br><br>    各级气象主管机构要依法履行雷电灾害防御工作的组织管理职责，加强对学校新建、改建、扩建建设工程防雷装置的设计审核和竣工验收工作，进一步检查和落实防雷装置定期检测制度，切实从源头把好学校防雷安全质量关。各级气象台站要加快雷电监测预警业务体系建设，并充分利用各种信息传输手段及时将雷电灾害预警信息提供给有关教育部门和单位，为学校和广大师生采取避险措施提供支持和帮助。各级教育部门要督促学校将防雷安全工作纳入学校安全工作范围，履行好对学校的安全监管职责，并配合气象主管机构检查、落实各项防雷安全措施。<br><br>    三、依法做好学校防雷安全工作<br><br>    各级气象主管机构和教育部门要联合组织对本行政区域内学校的防雷安全工作进行全面检查，对未按规定安装防雷装置或安装的防雷装置不符合标准规范要求的，必须按照法律法规规定和相关防雷标准及时整改，切实排除雷击隐患。学校的新建、改建、扩建工程必须在依法取得防雷装置设计审核核准书后方可开工建设，在取得防雷装置竣工验收合格证书后方可投入使用。防雷装置必须由持有相应防雷工程专业资质的单位设计、施工。对于已投入使用的防雷装置，必须由具有相应资质的防雷专业技术服务机构依法进行年度定期检测，确保防雷装置发挥作用。<br><br>    四、加强防雷安全宣传和雷电灾害应急处置与调查工作<br><br>    各级气象主管机构要会同教育部门加大对学校师生的防雷法规、科普知识方面的宣传力度，积极开展各种形式的宣传、教育活动，不断提高师生避险、自救、互救的能力和依法防雷、科学防雷、主动防雷的意识。各级气象主管机构和教育部门要督促各级各类学校建立和完善相关应急处置预案，雷电灾害发生后，各学校要及时启动应急预案，在最短时间内做到组织领导到位、技术指导到位、物资资金到位、救援人员到位，确保高效妥善处置灾情。各学校要建立健全雷电灾害报告制度，在遭受雷电灾害后应及时向教育部门和气象主管机构报告灾情，并协助气象主管机构组织做好雷电灾害的调查、鉴定工作，分析雷电灾害事故原因，提出解决方案和措施。<br><br>    五、严格执行学校防雷安全责任追究制度<br><br>    各级气象主管机构和教育部门要按照有关法律法规的规定，加大对学校防雷安全责任事故的查处力度，依法维护学校防雷安全工作秩序。对于拒不接受防雷装置设计审核和竣工验收、拒不接受防雷装置定期检测、防雷装置不合格又拒不整改、使用不合格防雷产品的学校和责任人，要按照有关规定进行严肃查处；对于违反法律法规规定导致雷击责任事故或灾害应急处置不力造成重大事故的行为，要及时组织调查，依法追究有关单位和相关人员的责任。<br><br>    请各省、自治区、直辖市气象局、教育厅（教委）按照本通知要求，结合各地实际迅速组织贯彻落实。中国气象局与教育部将在汛期期间组成检查组对各地、各学校的防雷安全工作情况进行抽查，对排查和清除隐患不力的，要进行严肃查处。<br><br>中国气象局<br>教  育  部<br><br>二○○七年五月二十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

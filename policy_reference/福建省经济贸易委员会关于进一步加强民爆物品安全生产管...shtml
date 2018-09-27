@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省经济贸易委员会<BR>&nbsp;&nbsp;【发布文号】闽经贸机电〔2008〕608号<BR>&nbsp;&nbsp;【发布日期】2008-09-16<BR>&nbsp;&nbsp;【生效日期】2008-09-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200810/t20081010_93858.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省经济贸易委员会关于进一步加强民爆物品安全生产管理有关问题的通知<br> <br></font>(闽经贸机电〔2008〕608号)</p><br> <br><br>各设区市经贸委（经委、经发局、贸发局），各民用爆炸物品生产、销售企业：<br><br>    近期我省民爆企业发生了几起与火灾相关的事故，2007年12月9日，福建民爆化工公司红炭山化工厂一部装载近10吨炸药（416箱）乳化炸药的运输车，在途经同安路段时，与一辆摩托车撞击着火并引燃运输车辆，造成车内炸药全部烧毁；2008年4月26日，永定县物资公司I号炸药库房发生火灾，仓库内近18吨炸药烧毁；今年清明节期间，宁德市联盛民用爆炸物品有限公司柘荣分公司、福建省闽联民用爆炸物品有限公司武夷山分公司的民爆物品储存仓库周边山林发生火灾，由于仓库的安全防护系统发挥了作用，库区的防火隔离带隔离了火源，仓库安然无恙。上述事故中，有两起事故发生了炸药燃烧，所幸未引发更严重的爆炸事故，事故发生的原因有偶然因素，也有安全监管不到位的原因。望各单位从以上事故中总结经验、吸取教训，堵塞安全管理工作方面的漏洞，确保安全生产。为进一步加强民爆物品安全生产管理，现就有关工作要求通知如下：<br><br>    一、要认真学习《安全生产法》、《道路交通安全法》等法律法规，严格执行国家关于爆炸物品生产、储存、经销、运输管理的有关规定，严格执行行业管理有关规定和企业的安全管理制度。发生安全生产事故的单位，要严格按照国务院《生产安全事故报告和调查处理条例》第九条规定将事故情况及时上报有关部门，不得迟报、漏报、谎报和瞒报。<br><br>    二、运输民爆物品必须采用符合国家标准的专用运输车，并按公安机关批准指定的时间、线路、速度行驶，悬挂警示标志并采取必要的安全措施，严禁超载。非营业性的民爆器材运输单位只能运输本企业生产、储存和使用的民爆器材产品。生产经营单位不得将生产经营场所、运输车辆发包或者出租给不具备安全生产条件或者相应资质的单位或者个人；暂不具备运输能力的经营单位应委托经交通部门资质认定的危险化学品运输企业运输民爆器材产品，并在委托合同中明确双方的安全生产管理职责。<br><br>    三、要严格执行民爆物品储存安全管理制度和安全操作规程，严格现场管理，杜绝“三违”现象的发生。凡进入仓库的所有民爆物品必须严格检查并按照进入库的管理规定登记入册，做到帐物相符，对寄存、回收的民爆物品应严格按照规定办理有关手续，并经单位负责人批准同意后方可存放；对不合格品或性质不明的民爆物品要立即进行处理或组织销毁，严禁入库；特别是对罚没收缴的民爆物品要严格检查，严禁废品入库，严禁性质相抵触的民爆物品同库存放。<br><br>    四、各生产企业要按照生产线的安全生产许可能力和国家下达的计划组织均衡生产，不得超能力、超时突击生产，要严格执行定员定量规定，严禁工房、库房超员超量，凡关键设备发生故障后，必须全线停产，在排除设备故障前应疏散无关人员，认真清理余药，故障排除并确认能够保障安全后，再恢复全线生产，严禁边生产边排除故障。炸药生产企业必须对主要危险岗位和关键设备的运行情况进行监控，有关生产运行记录信息需保留三个月以上。<br><br>    五、各企业要建立和完善防暑降温、防火、防洪涝等灾害的各项应急措施，切实加强安全防护和防范能力，加强对危险区和危险点的巡回检查，确保安全。在遇到暴雨、强雷电、冰雹、大雾、大风、暴雪等恶劣天气时，企业不得组织民爆器材的生产、装卸、运输等活动，特别是遇高温异常天气，企业应视情况调整作业时间。<br><br>    六、企业在改组、改制、管理层人员调整时，主要负责人和负责生产安全管理的负责人，必须经行业培训，取得资质后方可任职。企业负责人要切实履行安全生产的监管责任，经常性组织对本单位民爆器材的生产、经销、储存、运输等环节进行检查，要从技术上、管理上、制度上查找薄弱环节，发现隐患要立即进行整改，要认真吸取事故教训，举一反三，杜绝事故发生，确保安全生产。<br><br>    各级民爆行业主管部门要切实加强对本地区民爆企业安全生产工作的管理和指导。要督促、加强对民爆企业的安全检查，对存在的各类事故隐患的整改情况，要实施跟踪监督，督促整改责任单位切实落实好隐患整改和防范措施；要加强协调和服务，特别是加强与负有安全生产监管职责部门之间的协调沟通，切实为企业解决安全生产方面的实际困难和问题。<br><br>    福建省经济贸易委员会<br><br>    二○○八年九月十六日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

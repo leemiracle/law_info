@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交水发[2007]747号<BR>&nbsp;&nbsp;【发布日期】2007-12-20<BR>&nbsp;&nbsp;【生效日期】2007-12-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhuzhan/zhengwugonggao/jiaotongbu/qita/200801/t20080110_458247.html" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于港口节能减排工作的指导意见<br><br></font>(交水发[2007]747号)</p><br> <br>  <br>各省、自治区、直辖市交通厅（委），上海市港口管理局，部属各有关单位，有关港口企业：<br>    为深入贯彻科学发展观，建设资源节约型、环境友好型水路交通，按照国务院有关节能减排工作的要求，我部相继发布实施了一系列行业节能减排指导意见。调查统计显示，随着生产规模化、专业化程度的提高，港口能源单耗虽已呈下降趋势，但仍存在较大的节能减排空间。港口节能减排工作的实践证明，要转变港口经济发展方式，发展港口循环经济，推进港口节能减排工作的新进展，必须坚持依靠科技进步、技术创新，全面提升全员职工的节能减排意识，要坚持优化设计与强化管理相结合、应用先进技术与淘汰落后工艺相结合、健全制度与宣传培训相结合等工作原则。<br>    为做好当前和今后一段时间港口节能减排工作，促进港口可持续发展，提出如下意见：<br>    一、各级交通（港口）主管部门和港口企业，要以高度的政治责任感，充分认识节能减排工作的重要性。要强化组织领导，积极贯彻国家及我部有关节能减排工作的方针、政策及相关要求，因地制宜，切实做好港口节能减排工作。<br>    二、对于新建港口工程项目，应优化装卸工艺和设备选型设计，选用低能耗、高效率的装卸设备，优先选用以电能作为动力源的装卸设备。改进各类码头装卸工艺系统，使系统各环节能力匹配，提高装卸效率、降低能耗。加快对集装箱码头设备和散货码头设备关键技术的研究，优先采用轻型、高效、变频控制的设备。<br>    三、对于现有港口的技术改造项目，应逐步更新改造耗能高、效率低的老旧设备，提高装备的整体技术水平，减少能耗及废气排放，提高作业效率。加快现有集装箱码头以柴油发电机为动力源的轮胎式集装箱门式起重机改造为由港区电网供电的“油改电”技术改造工作。推进散货码头皮带机系统节能控制技术的推广应用。针对以燃油为动力的水平运输车辆、流动机械提倡采用先进内燃机节油技术，降低内燃机燃油消耗。<br>    四、新码头建设和老港区的功能调整，应优化港区布局和码头设计，利用信息技术，加强港口科学生产调度，优化运输组织结构。减少单车单放空驶现象，降低设备的空驶率，提高运输效率，降低装卸的单耗；合理配备装卸机械和工具，使工艺流程先进、合理、科学。<br>    五、新建港区或在老港区电网改造时，应与供电部门相结合，积极采用先进技术，治理高次谐波，减少高次谐波产生的附加损耗，提高港区电网供电质量。大型专业化码头应推广变频调速、自动化系统控制技术，减少电能在传输过程中的消耗；充分利用港口装卸过程中产生的回馈能，减少能源浪费。<br>    六、积极推广绿色照明工程，科学、合理控制照明照度。如采用分段、分时控制照明亮度、调整功率、无功补偿、高精度稳压等方式降低电能消耗、延长灯具使用寿命。<br>    七、新港区建设和老港区改造中，继续推进雨污水采集、处理、利用。应充分利用现有雨污收集、处理系统，处理污水、收集雨水，用于港口绿地浇洒、洗车、降尘等；在港口推广使用节水、环保器具，节约水资源、减少污染物排放。<br>    八、散货码头堆场应采取有效的防风防尘措施，加强堆场防风防尘集成技术研究，从而达到节水、减少扬尘、保护大气环境的目的。<br>    九、对于油气码头及码头加油站点，鼓励采用先进的油气回收技术和装置，收集油码头、码头加油站点储运过程中蒸发的油气，消除油气挥发造成的安全隐患，减少大气污染。<br>    十、应采取有效的减噪措施，减少工程施工期间和码头生产运营期间的噪声，努力改变生产作业环境，努力营造和谐的环境。<br>    十一、应及时引进、消化与吸收国内外节能减排技术创新成果，积极采用新技术、新工艺、新设备、新材料等节能减排技术，提升港口企业核心竞争力。提倡采用绿色节能技术，鼓励电能回馈、储能回用等节能技术的研究与应用。鼓励研制开发电动水平运输车辆等新工艺新技术。支持再生水、海水淡化水、微咸水、雨水开发利用，最大限度地节约用水。鼓励可再生资源利用，采用太阳能提供热水、利用地源/海水源热泵采暖空调、研究利用潮汐能、设立小型风能利用装置。<br>    十二、建立健全节能减排工作机制，认真落实目标责任制。交通(港口)主管部门要研究相应的工作机制，确定专门机构和专人负责，加强与有关部门的协调和沟通，认真解决工作中的难点，制定相应的政策和措施。推行节能减排工作的绩效考核制度，把港口企业节能减排指标作为对企业负责人的评价考核内容。<br>    十三、健全节能减排监督管理体系。要充分利用信息管理系统等现代化手段，加强节能统筹工作，以提高效率、减少能源浪费；实现能耗精准计量，以衡量出各个企业的节能重点。要进一步完善节能减排监察制度，加大行业内重点耗能设备和运输装备的抽查检测力度，对达不到节能减排指标的设备要坚决淘汰。<br>    十四、加大节能减排政策扶持力度。对节能技术与产品推广、重点行业的节能技术改造、重大节能技术示范工程、宣传培训、信息服务、表彰奖励以及节能监督管理体系建设给予政策支持。<br>    十五、加大节能减排宣传和培训力度，深入宣传国家节约能源法律法规和方针政策。加强国内外节能技术的经验交流与合作，加强国内港口企业之间、企业和科研单位之间节能减排经验、技术的交流。不定期举办节能减排技术现场交流会，学习交流节能减排先进技术与管理经验。<br>    十六、各级交通（港口）主管部门和港口企业要建立节能减排工作激励机制，认真做好节能减排工作总结，对在节能工作中做出显著成绩的单位和个人予以表扬奖励。<br><br>中华人民共和国交通部<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

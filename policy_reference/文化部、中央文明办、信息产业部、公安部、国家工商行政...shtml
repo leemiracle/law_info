@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】文化部、中央文明办、信息产业部、公安部、国家工商行政管理总局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-06-09<BR>&nbsp;&nbsp;【生效日期】2005-06-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ccnt.gov.cn/content.php?GName=whxx&id=3801" target=_blank>文化部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>文化部、中央文明办、信息产业部、公安部、国家工商行政管理总局关于净化网络游戏工作的通知</font></p><br><br> <br>各省、自治区、直辖市文化厅（局）、文明办、通信管理局、信息产业主管部门、公安厅（局）、工商行政管理局： <br><br>    近年来，网络游戏在我国发展很快，对促进我国网络文化产业发展、丰富人民群众文化娱乐生活起到了一定的积极作用，但同时也存在比较严重的问题：一些网络游戏产品中存在淫秽、色情、赌博、暴力等不健康内容，进口网络游戏产品占据国内市场主导地位，而未成年人缺乏自制能力，容易成瘾并影响到学业和身心健康，“私服”、“外挂”等侵犯知识产权、扰乱市场秩序的问题突出。这些问题引起了社会各界的高度关注，广大学生家长、老师反映强烈。为净化网络游戏市场，营造健康向上的网络文化环境，现通知如下： <br><br>    一、净化网络游戏工作是当前互联网文化管理工作的重点之一。根据中央领导同志指示精神，文化部、中央文明办会同信息产业部、公安部、国家工商行政管理总局决定从现在起到2005年9月1日，在全国开展净化网络游戏工作。净化工作的重点：一是打击含有淫秽、色情、赌博、暴力、迷信、非法交易敛财和危害国家安全等违法内容的网络游戏产品及相关经营行为；二是查处未经主管部门审查擅自上网运营的境外游戏产品；三是清理未经主管部门许可擅自从事网络游戏经营活动的单位；四是严厉打击 “私服”、“外挂”等侵犯知识产权、扰乱市场秩序的违法行为；五是加强宣传教育工作，积极引导社会舆论。 <br><br>    二、各级文化、文明办、信息产业、公安、工商行政管理等部门要进一步统一思想，提高认识，明确职责，密切配合，通过依法行政、严格监管，打击非法经营，保护合法经营，强化舆论监督，确保净化工作取得实效。 <br><br>    文化部门会同信息产业部门负责严格审批网络游戏等互联网经营单位，严把市场准入关。要严格审查标准，加强内容审查和日常监管，严把网络游戏产品进口关和上网关，坚决查处一批违法网络游戏。要配合集中开展互联网站清理整顿工作，对现有的网络游戏产品提供和运营单位进行一次清理，对提供含有色情、暴力、赌博等违法内容的网络游戏产品提供和运营单位依法从严查处，直至吊销《网络文化经营许可证》。进一步深化对网吧的管理，不允许违法游戏在网吧中运营，不允许网吧销售其点卡。加强对网络游戏点卡、月卡销售点的检查，对违法游戏的点卡、月卡要予以收缴。 <br><br>    文明办负责组织主要新闻单位和主流网站对不良网络游戏产品和相关经营行为进行揭露谴责，开辟道德法庭，鞭挞见利忘义的网络游戏商，同时要注意疏堵结合，着力提高未成年人的自我保护意识，鼓励有社会责任感的网络游戏企业，呼吁社会、科研院所、心理研究机构积极开展青少年网络成瘾症的治疗。通过专访主管部门、邀请专家解读、刊发群众来信等方式，广泛宣传党和政府关注群众呼声、打击不良网络游戏的坚定决心和方针政策。同时，介绍国外相关的管理法规和做法。 <br><br>    信息产业部门根据文化部门提供的依法查处的违法游戏网站情况，配合文化部门要求相关网站接入服务提供商暂停或者停止该违法网站的接入。在互联网站清理整顿工作中，根据文化部门提供的对游戏网站年度审核意见，对游戏网站进行年度审核。对于未按《软件产品管理办法》进行登记备案的网络游戏产品，文化部门将不受理其内容审查申请。 <br><br>    公安机关负责落实利用网络游戏传播淫秽、色情、赌博等有害信息的监管措施，依法对利用网络游戏进行违法犯罪活动的网站和运营商及相关人员实施处罚。 <br><br>    工商行政管理部门要严把网络游戏经营单位的市场准入关，未经文化部门许可，不予核发营业执照。要加大对无照经营网络游戏经营单位的查处取缔力度，积极配合有关部门加强对网络游戏经营单位的监管。 <br><br>    三、标本兼治、净化网络游戏市场，探索建立长效管理机制。 <br><br>    要加强宏观规划和引导，强化日常监管、注重源头治理，净化市场秩序。对未经文化部和信息产业部许可，擅自利用互联网从事网络游戏等互联网文化经营活动的要依法予以取缔，包括经营性展览和各种以电子竞技为名的网络游戏比赛活动。要大力清除未经文化部内容审查和未按信息产业部《软件产品管理办法》进行登记备案的网络游戏产品，凡未经文化部内容审查和未按信息产业部《软件产品管理办法》进行登记备案的网络游戏产品一律不得在国内运营，不得作为电子竞技等网络游戏比赛项目。 <br><br>    要完善技术监管手段，加快建设全国统一的网上监管系统；制定网络游戏开发和运营等有关强制性行业标准，建立网络游戏中防范传播有害信息等违法犯罪活动的安全技术措施，实现与信息网络安全报警处置系统联网。引导网络游戏企业自觉守法经营。充分发挥行业协会的作用，加强行业自律。 <br><br>    要实施民族游戏精品工程，用健康向上的游戏产品占领市场。要合理引导未成年人的游戏娱乐需求，向社会广泛征集一批游戏精品，在经专家、学者、老师多方确认后，于暑假期间向未成年人推荐。 <br><br>    四、充分发挥新闻媒体的作用，切实做好宣传教育和舆论引导工作。既要严格执法、严厉打击违法行为，又要坚持于法有据、依法行政。要向社会公布查处违法网络游戏的举报电话和举报网站，落实举报制度。 <br><br>    五、各地各有关部门要以科学发展观来指导和检验网络游戏发展和管理工作，正确处理好社会效益和经济效益的关系，本着对党负责、对人民负责、对子孙后代负责的精神，清醒地看到当前网络游戏市场中存在问题的严重性，充分认识净化网络游戏工作对保护未成年人健康成长和国家文化安全的重要性，充分认识加强舆论监督和引导工作的紧迫性和促进网络游戏产业健康发展的必要性，精心组织，周密部署，协调行动，使净化工作取得预期效果，为广大社会公众特别是青少年营造良好的网络文化环境，为建设和谐社会做出积极贡献。 <br><br>    特此通知。 <br><br><br>二00五年六月九日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

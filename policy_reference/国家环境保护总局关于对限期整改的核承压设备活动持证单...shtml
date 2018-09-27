@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】国核安发〔2006〕73号<BR>&nbsp;&nbsp;【发布日期】2006-05-15<BR>&nbsp;&nbsp;【生效日期】2006-05-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/eic/649086815327748096/20060522/18034.shtml" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局关于对限期整改的核承压设备活动持证单位处理情况的通报<br><br></font>(国核安发〔2006〕73号)</p><br><br><br>河北沧海管件有限公司、河北沧州渤海管件有限公司、上海阀门有限公司、上海耐莱斯・詹姆斯伯雷有限公司、上海理工大学附属工厂、镇江中电高压阀门公司、天津金鼎管道有限公司、国营四七一厂、深圳施英达管道有限公司： <br><br>    为进一步加强民用核承压设备活动的安全监督管理，2005年6月至9月,我局组织对河北沧海管件有限公司等24家民用核承压设备活动持证单位进行了核安全检查,印发了《关于核承压设备活动持证单位普查情况的通报》（国核安发〔2005〕102号），对其中9家问题较为严重的持证单位提出了核安全管理要求和6个月限期整改的意见。在限期整改期间，8家持证单位向我局提交了整改报告，镇江中电高压阀门公司未提交整改报告。我局对整改报告进行了审查，并于2006年1月至4月组织检查组对8家持证单位的整改情况进行了现场检查。根据审查及检查情况，现将处理情况通报如下： <br><br>      一、河北沧海管件有限公司、河北沧州渤海管件有限公司、上海阀门有限公司、上海耐莱斯・詹姆斯伯雷有限公司、上海理工大学附属工厂、核工业国营四七一厂6家持证单位通过整改，基本达到我局提出的整改要求，恢复了制造能力，现有的硬件和软件条件基本满足许可范围内活动的需要。国核安发〔2005〕102号文件通报的问题可以关闭。 <br><br>    二、天津金鼎管道有限公司虽然进行了一定的整改，但多数整改措施未真正落实，整改报告中多数整改结果与实际整改状况不符；目前的核质保体系、质保人员能力、工艺过程控制能力和采购、外协控制能力均无法满足核设备活动的需要；未执行《关于对核承压设备活动持证单位进行核安全检查的通知》（国核安办〔2005〕41号）要求的报告制度。 <br><br>    根据关于印发《关于执行〈民用核承压设备安全监督管理规定〉中有关问题的说明》和《民用核承压设备资格许可证持证单位报告制度》的通知（国核安发〔2005〕41号）附件一《关于执行〈民用核承压设备安全监督管理规定〉中有关问题的说明》（以下简称“说明”）第四条第二款的规定，我局决定暂停天津金鼎管道有限公司的民用核承压设备制造资格许可证。 <br><br>      三、深圳施英达管道有限公司虽然采取了一些整改措施，但与1998年取证时相比，人员数量明显减少，目前的人员数量和状态无法满足核级管道预制的需要；该公司在完成岭澳一期不锈钢管道预制之后多年没有运行过任何经过认证的质保体系，现场检查发现，常规产品的质量控制状况及修改后的质保程序适应性较差；奥氏体不锈钢原材料和大型成品储存不满足核级不锈钢产品的储存要求；没有核级管道预制的有效焊接工艺评定，难以证明其具备相应的焊接工艺技术储备。 <br><br>    根据“说明”第四条第二款的规定，我局决定暂停深圳施英达管道有限公司的民用核承压设备制造资格许可证。 <br><br>    四、镇江中电高压阀门公司在限期整改期间没有提交任何整改报告。其持有的民用核承压设备制造资格许可证有效期截止到2006年3月18日。自截止之日起，该公司不得再从事民用核承压设备制造活动。 <br><br>    五、各持证单位应按照核安全法规及关于印发《关于执行〈民用核承压设备安全监督管理规定〉中有关问题的说明》和《民用核承压设备资格许可证持证单位报告制度》的通知的要求，认真履行民用核承压设备活动持证单位报告制度，确保核承压设备的质量。<br><br>     <br><br>    二○○六年五月十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

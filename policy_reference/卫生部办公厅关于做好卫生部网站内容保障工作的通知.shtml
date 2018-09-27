@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-09-02<BR>&nbsp;&nbsp;【生效日期】2005-09-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10474&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于做好卫生部网站内容保障工作的通知</font></p><br><br> <br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，各直属单位，部机关各司局：<br>    为贯彻落实《中共中央办公厅、国务院办公厅关于进一步推行政务公开的意见》（中办发[2005]12号）和《国务院办公厅关于做好中央政府门户网站内容保障工作的意见》（国办发[2005]31号）的要求，进一步加强卫生部网站建设，同时做好向中央政府门户网站（以下简称央网）的信息提供工作，推行政务公开，服务社会公众。现就做好卫生部网站内容保障工作有关事项通知如下：<br>    一、卫生部网站内容保障工作的指导思想和原则<br>    卫生部网站内容保障工作，要以邓小平理论和“三个代表”重要思想为指导，坚持全面落实科学发展观，围绕完善社会主义市场经济体制和构建社会主义和谐社会为目标，坚持立党为公、执政为民，牢固树立“以人为本”的观念，及时公布国家卫生法律法规和卫生工作的重大决策、规范性文件等权威信息，促进政务公开；以服务公众和企业为重点，积极开展网上公共服务，推进依法行政；增进政府与公众的沟通交流，接受公众监督，增强政府工作透明度。<br>    卫生部网站内容保障的基本原则是：合力共建、资源共享，及时准确、公开透明，强化服务、便民利民。<br>    合力共建、资源共享。卫生部网站由卫生部主办，网站内容由卫生部机关各司局与各省级卫生厅局、部直属单位共同保障。充分发挥地方和部门的积极性，以各省级卫生厅局、部直属单位网站为基础，构建以卫生部网站为枢纽，各省卫生行政部门、部直属单位网站为节点的卫生系统政府网站体系，促进信息资源共享与利用。<br>    及时准确、公开透明。依法及时发布医疗卫生服务、公共卫生监管等卫生政务信息以及法定报告传染病疫情、突发公共卫生事件等信息，确保信息全面、准确、权威，构建网上政务公开主渠道。<br>    强化服务、便民便利。以政府为主体，以服务公众和企业为重点，充分利用先进的信息技术，整合信息资源和服务项目，努力为人民群众提供快捷、方便的服务。<br>    二、卫生部网站的内容保障方式<br>    卫生部网站内容主要来源于卫生部机关各司局、各省级卫生厅局以及部直属单位，采取信息报送、网站链接、栏目共建等方式保障。<br>    （一）信息报送。卫生部机关各司局、各省级卫生厅局、部直属单位通过卫生部网站后台管理系统，将拟发布的信息提交到卫生部网站的相应栏目信息数据库，供审批选用。<br>    （二）网站链接。包括主页链接和栏目链接。主页链接是将各省级卫生厅局、部直属单位网站的主页与卫生部网站实现链接导航，方便用户访问；栏目链接是将各省级卫生厅局、部直属单位网站中的重要栏目及其内容深度链接，整合在卫生部网站的相应栏目中，实现信息和服务的准确快速定位。<br>    （三）栏目共建。对于热点专题类和内容相对独立的栏目，采取卫生部网站与各有关单位合作共建。<br>    三、卫生部网站内容的审核管理<br>    （一）卫生部办公厅负责网站内容建设规划、业务协调和信息内容审核发布工作。<br>    （二）卫生部机关各司局负责各自业务领域的信息更新维护工作。卫生部制定印发的不涉及国家秘密的下行文件，原则上均应及时发布于“法律法规” 和“政策信息”栏目中，并在“新闻中心”配发相应的新闻通稿和政策背景解读；部领导参加的重要活动和重要讲话、司局开展的重要工作以及卫生领域的各项重要工作情况，应及时反映在“工作动态”等栏目中。<br>    （三）各省级卫生厅局、部直属单位负责将本地区、本单位的重要卫生工作在卫生部网站相应的地方工作动态和直属单位工作动态栏目中发布。<br>    （四）卫生部机关各司局、各省级卫生厅局和部直属单位负责承建本单位的办事指南、网上审批服务和数据库查询等项目，供卫生部网站相应栏目整合链接。<br>    四、加强网站建设，做好卫生部网站和“央网”内容保障工作<br>    “央网”是国务院办公厅组织建设的中央政府门户网站，是我国电子政务建设的重要组成部分，对促进政务公开，改进行政管理，提高行政效能具有重要意义。其内容主要来源于国务院办公厅和地方政府网站、部门网站，通过网上抓取、信息报送、网站链接和栏目共建等方式获取信息。各省级卫生厅局和部直属单位要不断加强本单位网站的建设，做好卫生部网站和“央网”的内容保障工作。<br> <br>    （一）卫生部办公厅负责做好“央网”的内容保障工作。要不断充实卫生部网站内容，及时更新网站信息，不断提高信息和服务质量，便于与“央网”的有效链接和信息抓取无障碍。新闻办公室指定专人作为“央网”内容保障工作的联系人，负责在每个工作日及时将卫生部网站更新的重要信息内容，包括法律法规、重要的规范性文件、重大的卫生工作动态和突发公共卫生事件信息等，经办公厅领导审核后以信息报送的形式提供给“央网”使用。<br>    （二）部机关各司局、各省级卫生厅局、部直属单位按照卫生部网站内容保障的统一要求，做好卫生部网站的内容保障工作。各省级卫生厅局、部直属单位网站要适应新形势的要求，结合自身实际，不断开拓服务功能，提升网站整体服务水平。<br>    五、加强制度建设，建立良好的内容保障机制<br>    （一）卫生部机关、各省级卫生厅局、部直属单位要建立规范的网站信息采集、审核和发布制度，分级管理、严格把关，未经审核的信息不得上网发布。<br>    （二）卫生部机关、各省卫生厅局、部直属单位要提高本单位网站安全防范意识，要制订应急预案，建立健全安全管理制度，确保网站安全可靠运行。<br>    （三）各省卫生厅局、部直属单位应保证必要的人员编制和运行维护经费，逐步建立起规范、高效、可靠的网站运行机制。<br>    （四）各省级卫生厅局、部直属单位应明确一名领导作为卫生部网站内容保障工作责任人，同时指定内容联系人、技术联系人，并于2005年9月16日之前将责任人、内容联系人、技术联系人的联系信息（姓名、性别、单位、职务、联系电话）报送卫生部办公厅新闻办公室。<br>    （五）未建网站的单位，要加紧建设本单位网站。<br>    六、建立健全监督考评机制，不断提高服务质量和水平<br>卫生部办公厅和统计信息中心将定期（年度）组织对各地、各直属单位的网站进行检查、评估和通报；卫生部办公厅将定期（季度）对各司局的上网信息和选用各省卫生厅局、部直属单位的信息进行考评和通报，促进卫生部网站和各省级卫生厅局、部直属单位网站质量和服务水平的不断提高。<br>  <br>二○○五年九月二日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

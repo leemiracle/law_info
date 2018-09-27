@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽建科〔2008〕60号<BR>&nbsp;&nbsp;【发布日期】2008-09-19<BR>&nbsp;&nbsp;【生效日期】2008-09-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200811/t20081117_99197.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省建筑结构设计暂行规定<br><br></font>(闽建科〔2008〕60号)</p><br><br><br>各设区市建设局、各有关单位：<br><br>    由省土木建筑学会建筑结构委员会、省勘察设计协会结构与抗震委员会主编的《福建省建筑结构设计暂行规定》，经审查，批准发布，自2008年12月1日起实施。施行中有什么问题和意见请函告省厅科技处。<br><br>    附件：福建省建筑结构设计暂行规定<br><br>                                        福建省建设厅<br>                                        二○○八年九月十九日<br> <br> <br>福建省建筑结构设计暂行规定<br>    <br>    为了规范福建建筑设计市场，保证建筑结构安全，根据《福建省建设厅关于下达<福建省建筑结构抗震设计暂行技术规定>编制计划的通知》（闽建科函[2008]106号）的要求，省土木建筑学会建筑结构委员会、省设协结构与抗震专业委员会组织专家，参照补充新标准《建筑抗震设计规范》GB50011-2001、《高层建筑混凝土结构技术规程》JGJ3-2002、《超限高层建筑工程抗震设防管理规定》（建筑部令第111号）和汶川地震的震害情况，针对我省设计合同出现含钢量、混凝土用量等指标降低结构安全度，预应力管桩存在适用条件考虑不足，结构概念设计方面存在强柱弱梁考虑不足，结构体系布置方面应优先采用二道以上防线等问题，结合我省结构设计经验和工程实践，编制以下规定：<br>    1、设计招投标和设计合同中严禁有不符合相关规范要求的含钢量和混凝土用量等指标。<br>    [条文说明]：由于设计市场竞争激烈，有些业主在设计合同、招标文件中提出的经济指标低于建筑物本身按照规范设计的经济指标，个别设计单位为了取得设计项目，各项指标均采用规范容许的最低限值或者规范未作规定的情况，极个别设计人员甚至不按规范的设计参数取值，弄虚作假编制计算书，压低经济指标，造成结构的安全度的降低，工程存在安全隐患。<br>    鉴于规范给出的规定和构造要求是最低要求，结构设计如果都采用最低限，结构的安全度会大大降低，多数专家认为，设计合同，招标文件中不应含有含钢量和混凝土用量规定指标，但同时又担心设计项目会存在浪费，所以在导向上是不提倡的，因此这一条文作这样规定。<br>    2、预应力混凝土管桩在以下条件不应使用：<br>    ⑴ 对钢结构和混凝土有强腐蚀性的场地。<br>    ⑵ 地下室或承台周边存在中等或严重液化土层的场地。<br>    ⑶ 建筑结构无地下室（半地下室），且在承台周边存在软弱土层，结构高度超过28m（10层以上）的建筑。<br>    ⑷ 建筑结构有一层地下室，且在地下室周边存在软弱土层，结构高度超过80m（25层以上）的建筑。<br>    ⑸ 桩端持力层为中微风化岩、碎块状强风化岩、密实的碎卵石层，且桩端持力层以上土层均为淤泥质土层、淤泥层等软弱土层。<br>    [条文说明]：<br>    ⑴ 对钢结构、混凝土有强腐蚀性的场地，由于技术上无法对桩身进行防护，对这种场地不应采用预应力混凝土管桩；但当必须选用预应力混凝土管桩时，应经试验论证并采取可靠措施，确能满足防腐蚀要求时方可使用。<br>    ⑵ 地下室或承台周边存在中等或严重液化以上的土层，在地震的情况下，土层液化，形成高桩承台，对现阶段常用的400、500直径的管桩，不能承受水平力，因此不应采用Aφ400、Aφ500的预应力混凝土管桩；<br>    ⑶、⑷ 对于无地下室（或半地下室）的建筑，结构超过一定的高度和有一层地下室结构高度超过80m（25层以上），且在地下室或承台周边存在软弱土层，由于预应力混凝土管桩抗压承载力远大于水平承载力，采用竖向承载力控制桩数的工程，Aφ400、Aφ500无法满足抗剪要求，因此Aφ400、Aφ500不应采用，除非经过抗剪承载力验算；<br>    ⑸ 承台底以下存在较厚的淤泥层，由于桩顶处没有硬壳层，对桩身上部的约束较差，容易产生偏斜，断桩，桩身受力尤如悬臂杆受压，受力性能差。有些工程会出现上部均为淤泥质土、淤泥等软弱土层，持力层为中微风化岩、碎块状强风化岩、密实的碎卵石层，桩端无法进入持力层一定深度。这种情况不应使用预应力混凝土管桩。<br>    3、对无地下室的建筑，采用预应力混凝土管桩基础，当地梁线刚度不能达到底层结构柱的线刚度2倍以上时，不应采用单柱单桩和单柱两桩。<br>    [条文说明]：对无地下室的建筑，柱下采用单桩（或单柱两桩短向）、除柱底轴力外，柱底弯矩无法由桩基承受，这时需用地梁平衡。经过有限元分析，柱底弯矩由地梁平衡的情况，地梁线刚度需达到2倍结构柱的线刚度以上时，才可作为建筑物的嵌固端处理。<br>    4、对于采用预应力混凝土管桩基础的建筑，应验算桩基的水平承载力。<br>    [条文说明]：建筑物桩基的布置，一般按竖向承载力布置桩基，设计院不重视桩基的水平承载力验算，由于预应力混凝土管桩抗压承载力远大于水平承载力，对于底部剪力较大的结构，按竖向承载力控制的桩基，其桩基水平承载力不经验算是不安全的。<br>    当单桩基础和单排桩基纵向轴线与水平力方向相垂直时，桩顶按铰接考虑，否则桩顶约束状态介于铰接与固接之间。<br>    预应力混凝土管桩的单桩水平承载力特征值如下：<br>    地基土水平抗力系数的比例系数m=2.5(5.0)MN/ ，水平位移允许值 10mm，桩的换算深度 ，桩与承台连接按铰接。<br>    PHC400-95单桩水平承载力特征值 22.4(34.0)KN<br>    PHC500-100单桩水平承载力特征值 34.0(51.5)KN<br>    PHC500-125单桩水平承载力特征值 35.0(53.0)KN<br>    承台下属淤泥层土层（其水平抗力系数的比例系数m=2.5 MN/ ），预应力混凝土管桩PHC500-125A，其单桩水平承载力特征值仅有35 KN；对于无地下室的建筑，为了满足桩基水平承载力要求，对于剪重比为1.6%的结构，其单桩抗压承载力特征值不应高于2187KN；对于剪重比为2.4%的结构，其单桩抗压承载力特征值不应高于1458KN；对于剪重比为3.0%的结构，其单桩抗压承载力特征值不应高于1166KN；<br>    从中可看出，单桩水平承载力与单桩抗压承载力不匹配，因此必须验算桩基的水平承载力。<br>    5、高层建筑宜设置地下室；对于无地下室的高层建筑，应满足规范埋置深度的要求，在地面和承台面标高处均应设置地梁。<br>    [条文说明]：一般情况高层建筑宜设置地下室，如不设置地下室，除应满足规范埋置深度的要求外，在承台面和地面标高处均应设置地梁。<br>    6、为了保证强柱弱梁，强剪弱弯，强节点弱构件的抗震设计概念，设计中应满足如下要求：<br>    ⑴  实配柱纵筋和箍筋时，应考虑梁翼缘板的作用和梁裂缝宽度验算或超配而增加梁纵筋的影响。<br>    ⑵  对于大跨度的框架结构，框架柱的线刚度须大于框架梁的线刚度的1.1倍。<br>    ⑶  高层建筑结构柱的最小截面不应小于350×400，且须满足梁钢筋的水平锚固的要求。<br>    ⑷  框架柱纵向钢筋的最小配筋率，应比《建筑抗震设计规范》规定的最小配筋率提高0.2%，框架柱纵向钢筋直径宜≥16<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

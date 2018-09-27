@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院第三次全国文物普查领导小组办公室<BR>&nbsp;&nbsp;【发布文号】文物普查函〔2008〕731号<BR>&nbsp;&nbsp;【发布日期】2008-07-23<BR>&nbsp;&nbsp;【生效日期】2008-07-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sach.gov.cn/tabid/337/InfoID/15897/Default.aspx" target=_blank>国家文物局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院第三次全国文物普查领导小组办公室关于对云南省第三次全国文物普查专项督察情况的通报<br> <br></font>(文物普查函〔2008〕731号)</p><br> <br><br>云南省人民政府办公厅，云南省第三次全国文物普查领导小组：<br><br>    按照国务院第三次全国文物普查领导小组办公室的统一部署，2008年7月1日至7月3日，由国家文物局副局长董保华、第三次全国文物普查领导小组成员单位代表、文物普查专家和国家文物局有关人员组成的第三次全国文物普查2008年度联合督察组对云南省昆明、曲靖等市的文物普查工作进行了检查。本次督察的重点是各地区普查第一阶段任务完成情况，开展实地文物调查工作情况，并调研各地区普查工作中遇到的困难与问题。督查组在滇期间与云南省文化厅、文物局及昆明、曲靖、官渡、富源等市、县（区）的党委、政府及领导小组各成员单位就普查的进展情况交换了意见。督察组一行还实地考察了昆明市红庙收信台、宝源庵等新发现文物点。<br><br>    从督察所掌握的情况看，云南省普查工作总体进展顺利，第一阶段各项工作已经圆满完成，第二阶段工作正在有条不紊的进行。全省各级政府均成立了普查机构；2007年度共落实普查经费457万元，其中中央补助云南全省352万元，省级财政105万元；2008年度共落实普查经费1338.72万元，其中中央补助云南全省440万元，省级财政70万元，有12个州市共安排336万元，有64个县区列入492.72万元，州市和县区的经费列入率分别为75%、50%；全省16个州市和129个县区全部配发了普查设备，共有2900余人参加了各级普查培训班；截至2008年5月31日，云南省各普查队共调查和登记文物点1971处，其中复查1297处，新发现文物点674处。<br><br>    尽管云南省文物普查工作取得了一定的实效，但也存在一些问题和不足：一是部分州市、县区政府对文物普查重视不足，领导小组成员单位之间缺乏沟通协作。二是国家级和省级贫困县地方财政困难，难以及时落实普查配套经费，严重制约了文物普查工作的进度。三是省级文物普查机构对各州市、县区开展第三次文物普查的指导和督促不够，部分县区的普查工作未按要求及时启动第二阶段工作。四是由于普查人员业务水平参差不齐、普查经验缺乏，一定程度上影响普查工作效率和质量。五是由于云南省部分地区地处山区，交通不便，缺乏相应的交通工具，给各县（市）区文物普查工作的开展带来一定的困难。<br>  <br>    针对督察中发现的问题和困难，结合云南省的工作实际，督察组要求云南省各级普查机构要严格按照国务院的统一部署，积极推进普查工作，并提出以下建议：<br><br>    一、第三次全国文物普查是由国务院组织实施的一次重大的国情国力调查。希望云南省各级人民政府对普查工作予以重视和支持，领导小组各成员单位之间加强沟通配合，确保普查工作在人力、物力、财力得到较好保障的情况下有序进行。<br><br>    二、云南省各级财政部门要确保本年度普查经费及时到位。省普查领导小组应督促个别未能安排经费的市县抓紧落实。在经费使用过程中确保专款专用，并着力解决好一线普查队员田野补助、保险等关系到队员切身利益的问题，保护普查队员积极性。<br><br>    三、云南省普查领导小组对本省区内文物普查工作要加强监督、检查力度，及时落实各项工作安排，组织专家论证、调研文物普查工作中的重大问题，指导市、县两级普查办做好普查工作，督促各级普查机构全面启动实地调查工作。<br><br>    四、云南省普查机构要认真贯彻国家文物局下发的通知文件，严格执行简报、月报制度，与国家文物局普查办加强沟通，准确上报普查中的各种数据和信息，及时通报工作进度与遇到的问题。<br><br>    五、针对云南省技术力量薄弱、业务人员较少等困难，要充分发挥本省区文物考古研究所、博物馆等业务单位的主力军作用，把专业人员组织起来，派到普查的第一线去。省普查办还可以不定期对各州地、区县普查队员进行指导、培训，提高普查人员业务水平，规范普查数据的采集和标本收集，保证普查质量。<br><br>    六、加强宣传。文物普查是全民参与的过程，社会比较关注新发现的文物点，各级人民政府和普查机构不仅要宣传文物普查的意义、工作进度、阶段性成果，还要加强对存在困难的宣传，以求得社会广泛关注与参与。<br><br>    督察工作得到云南省省委、省政府的高度重视与支持，省文物局、地方人民政府、各被督察单位充分准备，积极配合，国家文物局也将继续加大力度支持、指导云南省文物普查工作，共同推进第三次全国文物普查。<br><br>                                          国务院第三次全国文物普查领导小组办公室<br>                                                    （国家文物局代章）<br>                                                  二○○八年七月二十三日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

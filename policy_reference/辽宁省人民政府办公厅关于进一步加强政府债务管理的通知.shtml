@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】辽宁省<BR>&nbsp;&nbsp;【发布文号】辽政办发〔2004〕100号<BR>&nbsp;&nbsp;【发布日期】2004-11-26<BR>&nbsp;&nbsp;【生效日期】2004-11-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ln.gov.cn/communique/govfiles/office/38_24471.htm" target=_blank>辽宁省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>辽宁省人民政府办公厅关于进一步加强政府债务管理的通知<br> <br></font>(辽政办发〔2004〕100号)</p><br><br><br>各市人民政府，省政府各厅委、各直属机构，各有关单位：<br><br>    自2001年《辽宁省政府债务管理暂行办法》（省政府令133号，简称《办法》）施行以来，各级政府对政府债务风险的认识普遍提高，对政府债务的监控管理逐步加强，债务拖欠数额逐年减少，政府债务管理逐步走上规范管理的轨道。但一些地区和部门仍然不同程度地存在未经审批擅自举借政府债务，不良债务规模居高不下，各级财政因拖欠债务而被财政部扣款等问题。为进一步加强全省政府债务管理，根据《办法》的有关规定，经省政府同意，现将有关事宜通知如下： <br><br>    一、加强政府债务监控力度，切实防范政府债务风险各级政府领导要高度重视政府债务管理工作，严格控制政府债务规模，及时偿还到期政府债务，慎重举借新的政府债务，逐步化解沉积债务风险，防止出现新的风险。各市财政部门要按省财政厅要求认真监控本地区政府债务，并于每年1月31日前向省财政厅报送上年度本地区政府债务情况。审计部门要将政府债务纳入财政审计和领导干部经济责任审计范围，在审计报告中进行专项评价。省政府将继续对各市政府偿债情况进行考核，督促各市及时偿还财政部列入扣款范围的到期国债转贷债、中央专项再贷款、国际金融组织贷款和外国政府贷款，对因拖欠上述债务被财政部预算扣款的市和省直部门，省财政将不再为其新的举债进行转贷和担保。<br><br>    二、要将政府债务偿债资金纳入预算管理各级政府要逐步将政府债务纳入预算管理，用政府预算机制和公共财政原则约束政府债务的举借、使用和偿还行为。各市政府和省直部门要按政府直接显性债务余额的4%在财政预算和部门预算中安排偿债资金，其数额高于当年应偿还额的部分转为政府偿债准备金，低于当年应偿还额的部分应由偿债准备金补充。对于到期的政府债务，本届政府要履行偿债责任，不能将当期政府偿债责任推给下届政府，累积政府债务风险。清收政府债权收入应列入财政收入。<br><br>    三、审慎借入新的政府债务各级政府在举借新的政府债务时，要认真履行政府债务审批程序，充分考虑债务成本、项目效益、偿债能力和地方财政的承受能力，避免举借政府债务过程中的短期行为。今后，政府举债重点放在融资成本比较低、贷款期较长、管理规范、可以享受国家免除进口关税和可以引进先进技术和管理方法的国际金融组织贷款和外国政府贷款上，并将债务资金用于公共财政支出领域。对于需要省财政厅担保和转贷的国际金融组织贷款、外国政府贷款和国债转贷项目，要出具由市长和市财政局长签署的还款承诺函，落实偿债责任和资金来源。最终债务人是企业和自收自支事业单位的，要办理资产抵押手续，并对最终债务人的财务状况和偿债能力进行监控，及时采取债权保全措施。有关部门在审批和向国家有关部门申报需要省级财政担保和转贷的举债项目时，要事先征得省财政厅同意后方能上报。省财政厅在对外担保和承诺转贷前，须经省政府批准。<br><br>    四、加大陈欠项目债权清收和债务偿还工作力度对以前年度拖欠的政府债务，要按省财政厅要求，分年度在2006年以前偿清。属于竞争领域的项目要补办资产抵押手续，积极督促项目单位偿还到期债务，落实偿债责任。对没有能力偿还债务的企业，可通过处置和变卖资产筹集还款资金，也可以通过委托资产管理公司清收债权或转让债权等方式筹集还款资金。有关部门在办理企业转让、改制、重组时，如涉及政府债权，要征求财政部门意见，防止债权悬空，造成损失。各级政府要通过加大清收政府债权力度，处置政府经营性资产和非经营性资产，调整预算支出结构等措施积极筹措偿债资金，保证按期偿还到期政府债务，维护各级政府信誉。<br><br>    五、加强各项财政暂付款管理，做实政府财力各级财政部门要加强对财政各项暂付款的管理，及时清理各项暂付款，制定相应措施，确保财政预付资金及时回收，缓解财政隐性债务压力。对由于特殊原因无法回收的暂付款挂账，要及时处理，属于按政策应由财政安排的事项，要在财力允许的范围内由财政列支。对于上级财政结算扣款，要在每年财政决算后，按规定及时进行账务处理，不得长期挂账。各级财政部门要按照收支平衡的原则安排各项支出，杜绝超财力拨付所形成的暂付款挂账，以做实政府财力，确保财政收支平衡。<br><br>    六、严格处罚违规行为对于未按照规定原则和程序举借政府债务，政府部门未将债务收入或者支出纳入财政预算，擅自出具担保，虚报项目、骗取政府债务资金，不及时向财政部门登记政府债务、提供财务报表和债务报告，截留、挪用政府债务资金和偿债资金，不能偿还到期政府债务等违规行为，由上级主管部门按照《国务院关于违反财政法规处罚的暂行规定》（国发〔1987〕58号），对偿债行政责任人、偿债监督行政责任人予以行政处罚；构成犯罪的，依法追究其刑事责任。加强政府债务管理是贯彻科学发展观，实现全省经济可持续发展的重要措施。各级政府要按照举债适度、审批严格、使用得当和偿还及时的原则，切实加强政府债务管理工作，实现政府债务的规范化管理。<br><br>二○○四年十一月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】食药监注函[2008]231号<BR>&nbsp;&nbsp;【发布日期】2008-11-18<BR>&nbsp;&nbsp;【生效日期】2008-11-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/34002.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于报送“含氯氟化碳类物质药用吸入式气雾剂”豁免申请材料等有关事宜的通知<br>  <br></font>(食药监注函[2008]231号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    按照我国签署加入的《关于消耗臭氧层物质的蒙特利尔议定书》（以下简称《议定书》），除必要用途可以申请豁免外，2010年1月1日起完全停止氟氯化碳类物质（CFCs）的生产和消费。凡申请必要用途豁免的，必须每年向《议定书》缔约方大会提出申请，经缔约方大会批准后方可生产和消费。我国使用CFCs作为药用辅料的药用吸入式气雾剂（MDI），属于可以申请豁免的范围。<br><br>    为了更好地做好豁免申请工作，我司此前已组织相关省局和企业开展了宣传、研讨等工作，并将豁免申请资料发放给相关企业进行试填报。根据试填报的情况，我司组织专家和相关省局研究制定了相应的“填表说明”。现将相关申请豁免的资料转发你局，请组织本行政区域内生产“含氟氯化碳类物质药用吸入式气雾剂”（CFCs-MDI）的药品生产企业认真填报，有关事宜通知如下：<br><br>    一、请你局组织相关药品生产企业填写“CFCs-MDI药品生产企业申请豁免情况表”（附件1），确定是否申请豁免以及申请豁免的品种，并填报拟申请豁免品种2004年～2008年CFCs实际消耗量及2009、2010年CFCs预计消耗量。<br><br>    二、请你局组织拟申请豁免的CFCs-MDI药品生产企业按照填表说明，认真填写“药用吸入式气雾剂豁免申请提名表”（附件2）。<br><br>    三、由于豁免申请工作时间紧、程序多，包括企业提出及填报申请；国家局组织专家汇总、编纂统一的国家申请，并报送环保部；环保部报送《议定书》臭氧层秘书处等。请你局对企业申请资料审核确认后，务必于2008年11月24日前将申请资料中文纸质版和电子版报送我司（英文版可于2008年12月10日前报送），逾期不报者，视为放弃豁免申请。<br><br>    四、相关附件请登陆www.sfda.gov.cn下载。其他未尽事宜，请联系<br>    国家食品药品监督管理局药品注册司<br>    联 系 人：夏军平<br>    联系电话：010-88331203<br>    电子邮件：xiajp@sfda.gov.cn<br>    传    真：010-88363236<br>    中国药品生物制品检定所<br>    联 系 人：王  峰<br>    联系电话：010-67095696<br>    电子邮件：alion@sina.com<br>    传    真：010-67052750<br><br>    附件：1．CFCs-MDI药品生产企业申请豁免情况表<br>          2．药用吸入式气雾剂豁免申请提名表<br><br>                                                国家食品药品监督管理局<br>                                                二○○八年十一月十八日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

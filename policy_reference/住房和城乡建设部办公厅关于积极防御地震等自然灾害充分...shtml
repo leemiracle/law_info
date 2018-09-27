@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】住房和城乡建设部<BR>&nbsp;&nbsp;【发布文号】建办档[2008]39号<BR>&nbsp;&nbsp;【发布日期】2008-06-24<BR>&nbsp;&nbsp;【生效日期】2008-06-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mohurd.gov.cn/zcfg/jswj/zh/200806/t20080627_173680.htm" target=_blank>住房和城乡建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>住房和城乡建设部办公厅关于积极防御地震等自然灾害充分发挥城建档案作用的通知<br> <br></font>(建办档[2008]39号)</p><br><br>  <br>各省、自治区建设厅，直辖市建委（规划委、规划局），新疆生产建设兵团建设局，各计划单列市建委：<br><br>    四川汶川地震对当地城建档案工作造成很大损失，据了解，汶川、北川、平武县城建档案室库房倒塌，所存档案均被掩埋，广元、绵阳、江油、都江堰、崇州、绵竹、什邡等市城建档案馆，以及青川、安县、三台等县城建档案室馆房受损严重。当地城建档案工作人员不顾个人安危，抢救出一批重要城建档案资料。这些城建档案在抗震救灾和灾后恢复重建工作中，为供水、排水、燃气等基础设施的抢修恢复，危屋的鉴定评估，以及房屋的维修加固等提供了依据，发挥了重要作用。<br><br>    为提高城建档案工作应对地震、台风、雨雪冰冻等自然灾害的能力，确保城建档案的安全，充分发挥城建档案在抢险救灾、恢复重建等工作中的重要作用，现通知如下：<br><br>    一、坚持依法治档，紧紧围绕灾后恢复重建，防御自然灾害，确保城市安全运行，全面做好城建档案的收集、利用、管理和服务工作。各级建设（规划）行政主管部门要认真贯彻落实《汶川地震灾后恢复重建条例》（国务院令第526号），按照《条例》第七十条“地震灾区的各级人民政府及有关部门和单位，应当对建设项目以及地震灾后恢复重建资金和物资的筹集、分配、拨付、使用情况登记造册，建立、健全档案，并在建设工程竣工验收和地震灾后恢复重建结束后，及时向建设主管部门或者其他有关部门移交档案”的规定，积极督促有关部门和单位建立、健全灾后重建工程项目档案，并要求各单位在工程项目竣工验收后，及时向建设（规划）行政主管部门移交档案。各有关地区城建档案馆（室）要充分利用城建档案为抢险救灾、抢修市政基础设施、评估检测和鉴定房屋建筑、防御自然灾害、灾害调查评估、灾后恢复重建规划及实施等工作，提供详实的资料和依据。<br><br>    二、积极组织开展城建档案异地备份、应急预案等工作，提高应对、处置自然灾害和突发公共事件的能力，确保城建档案的安全和应急利用。各级建设（规划）行政主管部门要高度重视并积极督促城建档案馆（室）开展档案信息化建设，根据工作需要适时、有序推进馆藏档案数字化，并加强与其他省市建设（规划）行政主管部门之间的联系与协作，通过东西结合、南北合作以及省市之间的协作，积极开展本地重要城建档案的电子化、数字化载体在异地备份的相关工作。各城建档案馆（室）在开展档案计算机管理的同时，要定期制作、打印纸质的馆藏档案总目录和分类目录，确保紧急状态下对档案的查找利用。在城建档案的报送、移交和管理工作中，必须坚持纸质档案与电子档案并重的原则。各地城建档案馆还应制定针对地震等自然灾害以及突发公共事件的应急预案，并适时加强平时的应急演练，不断提高应对、处置自然灾害和突发公共事件的能力。<br><br>    三、严格执行国家档案馆建设标准规范，切实加强各地城建档案馆（室）的建设，抓紧开展城建档案馆抗震安全检查和改造加固工作。各地要严格按照《档案馆建设标准》以及《档案馆建筑设计规范》等的要求，切实加强城建档案馆馆房的建设，保证档案馆建设项目的工程质量，提高城建档案馆的抗震设防能力和应对其他自然灾害的能力，确保城建档案安全。对现用的城建档案馆（室）馆房，要组织有关专家和技术人员，开展一次安全隐患、特别是抗震设防能力的检查，凡存在工程质量安全及抗震设防能力隐患的，要上报地方政府并商请有关部门，尽早采取措施进行加固和改造。<br><br>    四、加强城建档案执法检查工作，加大城建档案收集工作力度，保障抢险救灾和灾后恢复重建等工作的查阅利用。各级建设（规划）行政主管部门要加强城建档案执法检查工作，对违反《城乡规划法》、《建设工程质量管理条例》、《汶川地震灾后恢复重建条例》、《城市建设档案管理规定》、《城市地下管线工程档案管理办法》等法律、法规和规章，拒不向城建档案馆（室）移交工程项目档案的单位和个人，依法给予处罚。为保证抢险救灾和灾后重建对城建档案的查阅利用需要，各级建设（规划）行政主管部门要适时组织开展一次对本地重要建筑、重要基础设施（尤其是地下管线）的档案资料普查清查工作，凡没有向城建档案馆（室）归档移交的，要督促其限期移交。各级建设行政主管部门还要加大对乡镇建设档案的收集管理力度，将乡镇建设档案纳入城建档案馆（室）的接收范围，实行城乡建设档案的统一管理。<br><br>    五、加强对自然灾害及灾后重建档案信息资料的收集管理，为日后查考留下宝贵资料。灾区各地城建档案馆及有关地区城建档案馆（室）要积极协助和配合各级抗震救灾工作机构，认真搜集、记录和保存损毁建筑物、构筑物的文字、声像及样品资料，以及在抗震救灾、恢复重建过程中形成的档案资料（包括纸质文件、照片、声像资料、电子文件等），为今后工作查考、历史研究、经验借鉴等留下重要参考资料。<br><br>    六、高度重视城建档案工作，进一步加强对城建档案工作的领导。各级建设（规划）行政主管部门要充分认识城建档案工作的重要性，切实履行对城建档案工作的管理职责，进一步加强对城建档案管理机构的领导，把城建档案工作纳入建设事业的发展规划和年度计划，纳入职责考核范围，及时研究和解决城建档案工作发展中的重大问题，特别是在加大经费投入、配备高素质人才、保持机构人员稳定等方面给予充分关注，为保证城建档案事业的可持续发展，充分发挥城建档案的作用打下坚实基础。<br><br>中华人民共和国住房和城乡建设部办公厅<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳市<BR>&nbsp;&nbsp;【发布文号】深质监〔2005〕107号<BR>&nbsp;&nbsp;【发布日期】2005-08-01<BR>&nbsp;&nbsp;【生效日期】2005-10-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sz.gov.cn/zhengfu/gongbao/showgb.asp?rowid=200508160000000010" target=_blank>深圳市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳经济特区技术规范《学生饮用奶》<br><br></font>（深质监〔2005〕107号）</p><br><br><br>    为保障我市学生饮用奶的质量水平，规范学生饮用奶市场秩序，根据国家、广东省及我市有关法律法规的规定，我局组织制定了深圳经济特区技术规范《学生饮用奶》（SZJG14―2005），现予印发，自2005年10月1日起实施。宝安、龙岗两区参照执行。<br><br>2005年8月1日<br><br><br>深圳经济特区技术规范《学生饮用奶》<br><br>前 言<br><br>    本技术规范第5章、第6章和第9.1.1条为强制性的，其余为推荐性的。<br>    为保障我市学生饮用奶的质量水平，规范学生饮用奶市场秩序，根据国家、广东省及我市有关法律法规的规定，制定本规范。<br>    本规范由深圳市人民政府提出。<br>    本规范由深圳市标准技术研究院、深圳市计量质量检测研究院、深圳市晨光乳业有限公司起草。<br>    本规范由深圳市质量技术监督局归口并负责解释。<br>    本规范主要起草人：李翔、周鹏、罗美中、黄曼雪、温利峰、陈巧燕、黄锦敏。<br>    本规范为首次发布。    <br><br>学生饮用奶<br><br>    1 范围<br>    本规范规定了供深圳学生饮用的学生饮用奶的技术要求、试验方法、检验规则、标签、包装、运输和储存。<br>    本规范适用于供深圳学生饮用的学生饮用奶。<br>    2 规范性引用文件<br>    下列文件中的条款通过本规范的引用而成为本规范的条款。凡是注日期的引用文件，其随后所有的修改单（不包括勘误的内容）或修订版均不适用于本规范，然而，鼓励根据本规范达成协议的各方研究是否可使用这些文件的最新版本。凡是不注日期的引用文件，其最新版本适用于本规范。<br>    GB/T191             包装储运图示标志<br>    GB2760              食品添加剂使用卫生标准<br>    GB/T4789.18         食品卫生微生物学检验 乳与乳制品检验<br>    GB/T5009.5         食品中蛋白质的测定<br>    GB/T5009.11         食品中总砷及无机砷的测定<br>    GB/T5009.12         食品中铅的测定<br>    GB/T5009.17         食品中总汞及有机汞的测定<br>    GB/T5009.19         食品中六六六、滴滴涕的测定<br>    GB/T5009.20         食品中有机磷农药残留量的测定<br>    GB/T5009.24         食品中黄曲霉毒素M1和B1的测定<br>    GB/T5009.46         乳与乳制品卫生标准的分析方法<br>    GB/T5009.93         食品中硒的测定<br>    GB/T5009.103        植物性食品中甲胺磷和乙酰甲胺磷农药残留量的测定<br>    GB/T5009.123       食品中铬的测定<br>    GB/T5009.145        植物性食品中有机磷和氨基甲酸酯类农药多种残留的测定<br>    GB5408.2―1999      灭菌乳<br>    GB/T5409           牛乳检验方法<br>    GB/T5413.30         乳与乳粉 杂质度的测定<br>    GB/T5413.32         乳粉 硝酸盐、亚硝酸盐的测定<br>    GB7718              预包装食品标签通则<br>    JJF1070             定量包装商品净含量计量检验规则<br>    DB440300/T16        新鲜生牛乳质量管理规范<br>    3 术语<br>    学生饮用奶：由国家有关部门认定的定点企业生产的、符合本技术规范要求的、专供中小学生饮用的灭菌牛乳。<br>    4 产品分类<br>    4.1 学生饮用纯牛奶：不添加辅料的学生饮用奶。<br>    4.2 学生饮用调味奶：添加不超过20%辅料的学生饮用奶。<br>    5 技术要求<br>    5.1 原料要求<br>    5.1.1 不得使用复原乳。<br>    5.1.2 不得使用食品营养强化剂。<br>    5.1.3 牛乳应符合DB440300/T16的规定。<br>    5.1.4 辅料应符合相关国家标准、行业标准的规定。<br>    5.2 感官特性<br>    应符合表1的规定。<br><br><br>    表1 感官特性<br><br>项目 <br> 学生饮用纯牛奶 <br> 学生饮用调味奶 <br> <br>色泽 <br> 呈均匀一致的乳白色，或微黄色 <br> 呈均匀一致的乳白色或具有调味乳应有的色泽 <br> <br>滋味和气味 <br> 具有牛乳固有的滋味和气味，无异味 <br> 具有调味乳应有的滋味和气味 <br> <br>组织状态 <br> 均匀的液体，无凝块，无粘稠现象，允许有少量沉淀 <br> <br>    5.3 理化指标<br>    5.3.1 净含量<br>    单件定量包装商品的净含量负偏差不得超过表2的规定；同批产品的平均净含量不得低于规范标明的净含量。 <br>表2 净含量要求<br><br>净含量 /ml <br> 负偏差允许值 <br> <br>相对偏差， % <br> 绝对偏差， ml <br> <br>180 <br> 4.5 <br> ― <br> <br>200 <br> ― <br> 9 <br> <br>250 <br> ― <br> 9 <br> <br>    5.3.2 脂肪、蛋白质、非脂乳固体、酸度和杂质度<br>    应符合表3的规定。 <br>表3 脂肪、蛋白质、非脂乳固体、酸度和杂质度要求<br><br>项目 <br> 学生饮用纯牛奶 <br> 学生饮用调味奶 <br> <br>全脂 <br> 部分脱脂 <br> 脱脂 <br> 全脂 <br> 部分脱脂 <br> 脱脂 <br> <br>脂肪， % <br> ≥ 3.1 <br> 1.0 ～ 2.0 <br> ≤ 0.5 <br> ≥ 2.5 <br> 0.8 ～ 1.6 <br> ≤ 0.4 <br> <br>蛋白质， %         ≥ <br> 2.9 <br> 2.3 <br> <br>非脂乳固体， %     ≥ <br> 8.1 <br> 6.5 <br> <br>酸度， o T         ≤ <br>             18.0 <br> ― <br> <br>杂质度， mg/kg     ≤ <br> 2 <br> <br><br>    5.4 卫生指标<br>    应符合表4的规定。<br><br>表4 卫生指标<br><br>项目 <br> 学生饮用纯牛奶 <br> 学生饮用调味奶 <br> <br>汞（以 Hg 计）， mg/kg                     ≤ <br> 0.01 <br> <br>无机砷， mg/kg                             ≤ <br> 0.05 <br> <br>铅（以 Pb 计）， mg/kg                     ≤ <br> 0.05 <br> <br>铬（以 Cr 6+2 计）， mg/kg                 ≤ <br> 0.3 <br> <br>硒， mg/kg                                ≤ <br> 0.03 <br> <br>硝酸盐（以 NaNO3 计）， mg/kg             ≤ <br>                 11.0 <br> <br>亚硝酸盐（以 NaNO2 计）， mg/kg           ≤ <br> 0.2 <br> <br>黄曲霉毒素（以 M 1计）， μ g/kg           ≤ <br> 0.5 <br> <br>六六六， mg/kg                             ≤ <br> 0.01 <br> <br>滴滴涕， mg/kg                             ≤ <br> 0.02 <br> <br>甲胺磷， mg/kg                             ≤ <br> 0.01 <br> <br>倍硫磷， mg/kg                             ≤ <br> 0.05 <br> <br>久效磷， mg/kg                             ≤ <br> 0.002 <br> <br>甲拌磷， mg/kg                             ≤ <br> 0.05 <br> <br>杀扑磷， mg/kg                             ≤ <br> 0.001 <br> <br>林丹， mg/kg                               ≤ <br> 0.01 <br> <br>抗生素 <br> 阴性 <br> <br>食品添加剂 <br> 应符合 GB2760 的规定 <br> <br>微生物 <br> 菌落总数 / （ cfu/g ）         ≤ <br> 10 <br> <br>大肠菌群 / （ MPN/ 100g ）     ≤ <br> 3 <br> <br>致病菌（沙门氏菌、金黄色葡萄球菌） <br> 不得检出 <br> <br>注：农药、兽药禁用限用，按国家有关规定执行。 <br> <br>    6 灭菌要求<br>    应采用超高温瞬时灭菌，符合GB5408.2―1999中5.1的要求。<br>    7 试验方法<br>    7.1 感官检验<br>    7.1.1 色泽和组织状态：取适量试样于50ml烧杯中，在自然光下观察色泽和组织状态。<br>    7.1.2 滋味和气味：打开样品包装先闻气味，然后用温开水漱口，再品尝样品的滋味。<br>    7.2 理化检验<br>    7.2.1 净含量：按JJF1070测定。<br>    7.2.2 蛋白质：按GB/T5009.5检验。<br>    7.2.3 脂肪、非脂乳固体、酸度：按GB/T5009.46检验。<br>    7.2.4 杂质度：按GB/T5413.30检验。<br>    7.3 卫生检验<br>    7.3.1 汞：按GB/T5009.17检验。<br>    7.3.2 无机砷：按GB/T5009.11检验。<br>    7.3.3 铅：按GB/T5009.12检验。<br>    7.3.4 铬：按GB/T5009.123检验。<br>    7.3.5 硒：按GB/T5009.93检验。<br>    7.3.6 硝酸盐、亚硝酸盐：按GB/T5413.32检验。<br>    7.3.7 黄曲霉毒素M1：按GB/T5009.24检验。<br>    7.3.8 六六六、滴滴涕、林丹：按GB/T5009.19检验。<br>    7.3.9 杀扑磷：按GB/T5009.145检验。<br>    7.3.10 甲胺磷：按GB/T5009.103检验。<br>    7.3.11 倍硫磷、久效磷、甲拌磷：按GB/T5009.20检验。<br>    7.3.12 抗生素：按GB/T5409检验。<br>    7.3.13 微生物检验：按GB/T4789.18检验。<br>    8 检验规则<br>    8.1 组批规则<br>    以同一班次，同一生产线的同品种、同规格的产品为一组批。<br>    8.2 型式检验<br>    型式检验是对本规范规定的全部要求进行检验，有下列情形之一者应对产品质量进行型式检验。<br>    a）新产品试制鉴定时；<br>    b）正式生产后，如原料、工艺有较大变化，可能影响生产质量时；<br>    c）产品长期停产后，恢复生产时；<br>    d）交收检验结果与上次型式检验有较大差异时；<br>    e）国家质量监督机构提出要求时。<br>    8.3 交收检验<br>    交收检验项目包括感官、净含量、蛋白质、脂肪、非脂乳固体、微生物。产品应经生产企业按本规范检验合格，签发合格证后方可出厂。<br>    8.4 判定规则<br>    8.4.1 一项指标试验不合格，则该批产品判为不合格。<br>    8.4.2 对检验结果有争议时，应对留存样进行复检，或在同批产品中重新加倍抽样，对不合格项目进行复检，以复检结果为准。<br>    8.4.3 感官、净含量及微生物指标不合格不得复检。<br>    9 标志、包装、运输、储存<br>    9.1 标志<br>    9.1.1 产品标签应符合GB7718的规定，还应标明产品的种类（纯牛奶或调味奶）和蛋白质、脂肪、非脂乳固体的含量，并在包装盒（袋）上印制统一标志，且注明“不准在市场销售”的字样。<br>    9.1.2 外箱包装应符合GB/T191的规定。<br>    9.2 包装<br>    所有包装材料应符合食品卫生要求。<br>    9.3 运输<br>    运输产品时应避免日晒、雨淋。不得与有毒、有害、有异味的物品混装运输。<br>    9.4 储存<br>    产品应储存在干燥、通风良好的场所。不得与有毒、有害、有异味，或对产品产生不良影响的物品同处储存。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

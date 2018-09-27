@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】天津市<BR>&nbsp;&nbsp;【发布文号】津政办发〔2005〕18号<BR>&nbsp;&nbsp;【发布日期】2005-03-29<BR>&nbsp;&nbsp;【生效日期】2005-03-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/b/g/200505/20050500103015.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>天津市人民政府办公厅关于转发市商务委等八部门关于加快天津保税物流园区发展实施意见的通知<br><br></font>(津政办发〔2005〕18号)</p><br><br><br>各区、县人民政府，各委、局，各直属单位：<br><br>    市商务委、市交委、天津海关、天津检验检疫局、市财政局、市国税局、国家外汇局天津市分局、保税区管委会《关于加快天津保税物流园区发展的实施意见》已经市人民政府领导同志同意，现转发给你们，请照此执行。<br><br>天津市人民政府办公厅<br>二○○五年三月二十九日<br><br><br>关于加快天津保税物流园区发展的实施意见<br><br>    为充分发挥天津保税区政策功能和港口区位优势，根据《国务院办公厅关于同意扩大保税区与港区联动试点的复函》(国办函〔2004〕58号)精神，现就加快天津保税物流园区(以下简称“园区”)发展提出如下实施意见：<br>    一、园区性质<br>    (一)园区是经国务院批准，由天津海关实施封闭管理的特定区域，具有国际中转、国际配送、国际采购和国际贸易等功能。<br>    (二)园区内可设立行政管理机构、仓储物流企业、跨国公司地区总部的物流中心、专为仓储物流提供服务的运输企业、贸易企业；不得设立生产加工型企业。除安全保卫人员和企业值班人员外，其他人员不得在园区内居住，不得建立营业性生活消费设施。<br>    (三)园区是天津港保税区的组成部分。除本实施意见有特别规定之外，园区适用天津港保税区的相关法律、法规和政策。<br>    二、海关监管<br>    (四)海关对进出园区的货物、物品、运输工具及园区内相关场所实行24小时监管。<br>    (五)园区实行电子计算机联网管理和海关稽查制度。区内企业应建立符合海关监管要求的电子计算机管理数据库。海关对企业实行电子账册管理。<br>    (六)园区与境外之间进出的货物，除实行出口被动配额管理外，不实行进出口配额、许可证管理，由货主或其代理人向主管海关备案。<br>    (七)海关对园区与境外之间进出货物的监管，从毗邻园区的港区进出的，直接通过海关设立在连接园区和港区之间的自动卡口进出办理海关手续；从非毗邻园区的港区进出的，运抵园区办理海关手续。跨关区货物，按照转关运输的有关规定办理。<br>    (八)园区内的仓储物流企业需开展进口货物分拨配送的，经海关核准后，可按“凭担保分批出区、集中报关”的程序操作。<br>    (九)从区外运入园区的货物视同出口，需办理出口报关手续。如属许可证管理的商品，应向海关出具有效的出口许可证。<br>    (十)对从区外进入园区供区内企业使用的国产设备、包装物料、建造基础设施以及行政管理部门办公用房所需合理数量的基建物资等，海关按照对出口货物的有关规定办理通关手续，并签发报关单出口退税联。<br>    (十一)园区内可进行分级、挑选、刷贴标志、改换包装形式等简单加工。<br>    (十二)园区与其他海关特殊监管区域、场所(指保税区、出口加工区、保税仓库等)之间货物的往来，由收发货企业联名向转出地主管海关提出申请，经海关核准后，按照海关转关运输的有关规定办理。园区与同一海关其他特殊监管区域、场所之间货物的往来，由收发货企业在特殊监管区域的公共平台上申请。经海关审核同意，可按“分批送货、集中报关”的程序操作。<br>    三、检验检疫<br>    (十三)进出园区的货物及其包装物、交通工具和集装箱等，由区内检验检疫机构统一办理检验检疫手续，实施监督管理。<br>    (十四)检验检疫机构对需在园区内进行分拣、换包装、整理等简单加工的动植物产品和食品等重点产品的加工过程实施监管。<br>    (十五)需在园区中转、转口的货物，短期仓储并且包装密封状况良好的，入境时一般仅实施外包装检疫；出境时一般不实施内容物的检验检疫。<br>    (十六)园区的进口货物到港后，可直接运往园区内指定的查验场地实施查验和检疫处理。<br>    (十七)应检货物在进出境时，实施卫生检疫、动植物检疫和检疫除害处理，法定检验货物除涉及环境保护的免予实施检验；法定检验货物出入园区时按规定实施检验。<br>    (十八)国内货物进入园区视同出口，凭产地检验检疫机构的验讫证明向区内检验检疫机构办理查验、换证手续。对入区后又复出区进入国内市场的货物，免予实施检疫。<br>    (十九)园区内企业的自用设备、办公和生活消费用品，检验检疫机构免予强制性产品认证，免予实施品质检验。<br>    (二十)通过在园区建立局域网，实现检验检疫与港区、海关信息共享，试行“电子提单”和“一单两报”、“无纸化”通关。区内检验检疫机构将非必检货物信息通过电子通关系统直接发送给港区、海关，以提高通关效率。<br>    四、税收管理<br>    (二十一)对园区运往区外的货物，海关按照对进口货物的有关规定办理进口报关手续，并对报关的货物征收关税和进口环节增值税、消费税。<br>    (二十二)按照《国家税务总局关于保税区与港区联动发展有关税收问题的通知》(国税发〔2004〕117号)的规定，对园区外企业运入园区的货物视同出口，园区外企业凭海关签发的出口货物报关单(出口退税专用)及其他规定凭证向主管税务机关申请办理退(免)税。主管税务机关接到园区外企业的退(免)税申请后，严格按照《国家税务总局关于印发〈出口加工区税收管理暂行办法〉的通知》(国税发〔2000〕155号)、《国家税务总局关于出口加工区耗用水、电、气准予退税的通知》(国税发〔2002〕116号)、《国家税务总局关于芜湖出口加工区基建物资出口退税的批复》(国税函〔2004〕805号)及其他规定，审核无误后，予以办理。<br>    (二十三)园区内企业销售货物、出口货物及委托加工货物，其税收政策及税收管理办法比照国税发〔2000〕155号文件的规定执行。<br>    (二十四)对园区内企业从境外进口自用基建项目所需的设备和物资、生产所需的设备及其维修用零配件、为物流配送等加工所需的包装物料、自用合理数量的办公用品，予以免税。<br>    (二十五)园区内企业按现行有关法律、法规和规章缴纳地方各种税金。园区内的内、外资企业分别按照国家有关法律、法规和规章缴纳所得税。<br>    五、外汇管理<br>    (二十六)按照《国家外汇管理局关于发布〈保税区外汇管理办法〉的通知》(汇发〔2002〕74号)及《国家外汇管理局综合司关于〈上海外高桥保税区物流园区企业非贸易项下购汇试点管理办法〉的批复》(汇综复〔2004〕57号)的规定，加强对园区企业非贸易项下购汇的监管，做好园区企业非贸易购汇的统计工作。<br>    (二十七)园区内企业在办理非贸易项下对境外支付时，所需外汇资金可按规定直接从其外汇账户中支付或者到外汇指定银行购汇后支付。<br>    (二十八)园区内企业凭保税区管委会批准其在园区注册的批复、保税区外汇登记证及《国家外汇管理局关于下发〈非贸易售付汇及境内居民个人外汇收支管理操作规程〉(试行)的通知》(汇发〔2002〕29号)规定的有关材料到外汇指定银行办理购付汇手续。<br>    六、行政管理<br>    (二十九)成立由保税区管委会和港口、海关、税务、外汇和检验检疫等部门组成的领导小组，加强领导和协调，规范各部门对园区的管理。保税区管委会负责园区行政事务的日常管理，配合和协调其他行政管理部门对园区进行业务管理，并为企业提供必要的服务。<br>    (三十)外国及港澳台投资者在园区内设立中外合资、中外合作或外商独资企业，比照保税区有关企业设立的规定和程序审批。<br>    (三十一)对落户园区内属于保税区管委会审批权限的外资贸易企业和仓储物流企业，按保税区有关企业登记管理的规定和程序实行直接登记。<br>    (三十二)园区内的企业经批准后，可以在园区外设立分支机构。<br>    (三十三)除涉及国家安全、公共安全和环境安全事项外，本市有关行政管理部门涉及对园区的行政管理事项，应征求保税区管委会的意见；需要进入园区进行指导、检查和监督的，应当由保税区管委会统一协调安排。<br>    (三十四)各行政管理机构应按照政务公开的要求，将涉及园区审批事项的依据、内容、条件、程序、期限以及需要提交的全部材料目录、申请书示范文本等在办公场所或保税区网站上公示。<br>    (三十五)本实施意见自发布之日起实施。与国家有关部门颁布的配套管理办法不符的，以国家有关部门颁布的管理办法为准。<br><br><br>天津市商务委员会<br>天津市交通委员会<br>中华人民共和国天津海关<br>天津出入境检验检疫局<br>天津市财政局<br>天津市国家税务局<br>国家外汇管理局天津市分局<br>天津港保税区管理委员会<br>二○○五年三月八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

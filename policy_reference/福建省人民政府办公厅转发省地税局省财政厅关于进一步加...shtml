@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办[2006]156号<BR>&nbsp;&nbsp;【发布日期】2006-07-07<BR>&nbsp;&nbsp;【生效日期】2006-07-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12082" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅转发省地税局省财政厅关于进一步加强个人所得税代扣代缴工作意见的通知<br> <br></font>(闽政办[2006]156号)</p><br><br><br>各市、县（区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：<br><br>    省地税局、省财政厅《关于进一步加强个人所得税代扣代缴工作的意见》已经省政府批准，现转发给你们，请认真贯彻执行。<br><br>福建省人民政府办公厅<br>二○○六年七月七日<br><br><br>关于进一步加强个人所得税代扣代缴工作的意见<br>省地税局  省财政厅<br>（二○○六年五月）<br><br>    《中华人民共和国个人所得税法》实施以来，各级政府和部门高度重视，广大纳税人和扣缴义务人积极配合，税务机关认真履职，保证了我省个人所得税收入平稳较快增长。但在个人所得税代扣代缴工作中仍存在一些不容忽视的问题：一是个人收入信息采集较难，无法全面有效监控。特别是个人的第二职业收入、无账可查的中介服务收入、境外劳务收入等难以掌握，影响了对高收入者的税收调节力度。二是代扣代缴不到位，自行申报率低。各代扣代缴单位财务部门支付的工资单以外收入以及其他工资外收入扣缴率低，有的单位甚至连工资单上的收入也不申报。三是部分纳税人纳税意识差。特别是部分民营企业、个人承包经营企业等，往往采取虚列人员、化整为零的办法逃避纳税义务。四是一些政府部门之间配合还不够密切，难以形成强有力的执法合力。<br><br>    为了维护税法的严肃性，坚持依法治税，根据《财政部国家税务总局关于行政机关和事业单位做好个人所得税代扣代缴工作的通知》（财税［2006］9号）精神，现就进一步加强我省个人所得税代扣代缴等工作提出以下意见：<br><br>    一、充分认识做好个人所得税代扣代缴工作的重要意义<br><br>    个人所得税是涉及千百万纳税人利益的税种，是国家重视、社会关心的税种，也是税收征管难度较大的税种。依法纳税是每个公民应尽的义务，做好个人所得税代扣代缴工作是所有扣缴义务人的法律责任。各级政府和部门对此要有充分认识，高度重视，积极支持个人所得税的征收管理工作。特别需要强调的是，行政机关、事业单位是个人所得税扣缴义务人的重要组成部分，依法认真履行代扣代缴义务，既能提高党和政府的形象，又能起到表率示范作用，促进全体纳税人与扣缴义务人进一步增强法律意识和诚信纳税意识，自觉依法纳税、依法扣缴。<br><br>    二、全体扣缴义务人应依法履行个人所得税代扣代缴义务 <br><br>    根据个人所得税法的有关征管规定，凡支付个人应纳税所得的企事业单位、党政机关、社团组织等，都必须履行全员全额代扣代缴申报义务。<br><br>    （一）做好全员全额代扣代缴工作。扣缴义务人向个人支付应税所得时，不论其是否属于本单位人员、支付的应税所得是否达到纳税标准，均应向主管地税机关报送支付的相关信息。行政机关干部、职工工资实行国库统一支付后，各单位应将国库支付的工资和本单位支付的工资性津贴、补贴、奖励及时进行合并计算个人所得税。企事业单位应将财务以外的部门支付给个人的工资性收入及时合并到财务部门计算扣缴个人所得税。扣缴义务人应自觉接受主管地税机关依法进行的检查。对扣缴义务人应扣未扣，逃避、拒绝或者以其他方式阻挠地税机关依法检查的，将按照税收征管法有关规定予以处罚。<br><br>    （二）落实代扣代缴工作责任人。扣缴义务人应指定支付应纳税所得的财务会计部门或其他有关部门的人员为办税人员，办税人员具体办理个人所得税的代扣代缴工作。扣缴义务人要对代扣代缴工作提供便利，支持办税人员认真履行义务。<br><br>    （三）加强扣缴税款登记管理。扣缴义务人应积极支持、配合主管地税机关做好扣缴税款登记工作，按照有关规定自觉向主管地税机关申报办理扣缴税款登记，领取《个人所得税扣缴税款登记证》，不得以任何借口进行阻挠、拖延和刁难。<br><br>    三、地税机关要全面加强和改进个人所得税的管理服务工作<br><br>    管理服务是税收管征的基础性工作，对促进税收征管、构建和谐纳税环境起着至关重要的作用。各级地税机关要在进一步贯彻落实现行个人所得税各项征管办法、措施的基础上，着重做好以下几项工作：<br><br>    （一）建立定期通报制度，督促认真履行代扣代缴义务。各级地税机关应将本级各行政机关、事业单位个人所得税代扣代缴情况按季报送同级政府。对于代扣代缴工作不重视、不落实的单位，可以一定形式进行通报批评，以此督促代扣代缴单位认真履行代扣代缴义务。<br><br>    （二）加大宣传力度，精心开展纳税辅导。今年是实施新修订的《中华人民共和国个人所得税法》第一年，各级财政、地税部门要充分利用电视、报纸、网络等媒体，通过印发宣传材料、开展知识竞赛、开卷有奖竞答、代扣代缴单位评先评优等多种形式，广泛开展个人所得税法宣传普及工作，提高全社会自觉依法诚信纳税的意识。各主管地税机关要积极开展个人所得税专项培训工作，确定专（兼）职税务管理员负责行政机关、事业单位的个人所得税代扣代缴工作，开展上门辅导有关税收政策。  <br><br>    （三）加强纳税申报软环境建设,努力创造轻松方便纳税的条件。一是加强申报窗口建设，有条件的地方要设立个人所得税纳税申报绿色窗口,专人负责,热情接待。二是加强开放式申报服务建设，尽快实现申报方式多样化。三是进一步完善代扣代缴明细账制度,利用信息化手段加强个人所得税源泉管理,促进个人所得税征管科学化、精细化。四是积极试行向纳税人开具个人所得税完税证明。  <br><br>    （四）加强专项检查，实现以查促管。各级地税机关要认真开展纳税评估，分析可能存在的漏洞，确定检查的重点单位和内容，做好检查的统筹安排，保证检查质量。要发动和鼓励全社会举报和揭露税收不法行为，一经查实，要严格执法，坚决打击。对行政机关、事业单位个人所得税代扣代缴工作不到位被地税机关查处的，将在适当范围内予以通报。<br><br>    （五）加强部门配合，共同协税护税。财政、工商、公安、劳动、房管、交通、文化、审计、外汇管理、银行、邮电等部门要在经费保证、打击偷抗税、提供税源和纳税信息、帮助税款征收和提供纳税服务等方面，予以积极配合和支持，并商请法院、检察院进一步建立健全相关的协调与配合制度，形成协税护税网络，构建长效机制，共同做好个人所得税征管工作。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

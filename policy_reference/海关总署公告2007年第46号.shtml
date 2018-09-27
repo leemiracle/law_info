@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】海关总署公告2007年第46号<BR>&nbsp;&nbsp;【发布日期】2007-08-22<BR>&nbsp;&nbsp;【生效日期】2007-08-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.customs.gov.cn/YWStaticPage/3889/62322c24.htm" target=_blank>海关总署 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>海关总署公告2007年第46号</font></p><br><br><br>     为进一步规范对限制类商品加工贸易的管理，现就《商务部、海关总署2007年第44号公告》（以下简称《44号公告》）的有关执行问题公告如下：<br><br>    一、关于台账保证金征收环节的问题<br><br>    对限制类商品加工贸易业务，企业应按《44号公告》规定，在办理纸质手册、电子帐册、电子手册、电子化手册（以下简称手册）备案（变更）时，缴纳台账保证金。<br><br>    二、关于台账保证金计征方法的问题<br><br>    根据《44号公告》第二条规定，对A类（包括AA类）、B类企业，应缴纳的台账保证金计征方法如下：<br><br>    （一）“限制进口类商品应缴纳台账保证金=全部限制类进口商品应缴进口关税和进口环节增值税之和×50%”的计算公式中，以深加工结转方式转入的限制类料件不计入“全部限制类进口商品”。<br><br>    （二）“限制出口类商品应缴纳台账保证金=保税进口料件备案总金额×（限制类商品出口备案金额/加工贸易出口商品备案总金额）×综合税率×50%”的计算公式中，以深加工结转方式转出的限制类制成品的备案金额不计入“限制类商品出口备案金额”；“加工贸易出口商品备案总金额”是指全部制成品的备案金额；综合税率暂定为22%。<br><br>    （三）“当进口料件为限制进口类商品，且加工制造成品为限制出口类商品时，只按限制进口类商品计征台账保证金，计征方法同第（一）项。”是指当商务主管部门出具的《加工贸易业务批准证》中进口料件包含非深加工结转转入的限制进口类商品且出口制成品包含非深加工结转转出的限制出口类商品时，企业在向海关申请备案（变更）时，只须缴纳按限制进口类料件计征的台账保证金，而不须再缴纳对限制出口类制成品计征的台账保证金。限制类进口料件台账保证金的计征方法同本条第（一）项。<br><br>    三、关于深加工结转限制类商品管理的问题<br><br>    自2007年8月23日起，企业应按照商务主管部门出具的《加工贸易业务批准证》的标注内容要求，在申请备案（变更）时将深加工结转的限制类进口料件及出口制成品予以单项备案，并在“商品名称”栏首字节起注明“[深]”（注：中括号为半角字符）字样。该部分加工贸易业务不得以来料加工和进料加工方式直接进、出口。<br><br>    中西部地区符合《44号公告》 “空转”管理规定的，不适用本条规定。<br><br>    四、关于以企业为单元管理的电子帐册问题<br><br>    《44号公告》第四条中“以企业为单元管理的”，是指企业实施电子帐册联网监管的情况（以下简称电子帐册企业）。<br><br>    （一）电子帐册企业开设台账手册。<br><br>    1．自2007年8月23日起，电子帐册企业申请新的电子帐册（或变更电子帐册）涉及限制类商品且需按规定征收台账保证金的，主管海关将在办理电子帐册备案的同时，为企业备案专门用于计征保证金台账的手册（以下简称台账手册）。<br><br>    2．若企业备案商品项涉及非深加工结转方式进出口限制类商品的，应根据批准证备案台账手册内容，对不论是否以深加工结转方式进出口的限制类料件和制成品均予单项备案并加以区分，其中，在台账手册中备案的非深加工结转限制类商品项应与批准证对应的商品项一致，其他非限制类料件、非限制类制成品则分别合并为一项料件、制成品金额予以备案。同时，按照《44号公告》第二条规定缴纳台账手册保证金。<br><br>    3．台账手册不能用于进出口通关。<br><br>    （二）电子帐册变更新增限制类商品。<br><br>    1．若新增商品项涉及非深加工结转方式进出口限制类商品的，企业应按照《加工贸易业务批准证》内容在电子帐册中一次性、逐项备案新增的非深加工结转限制类料件和制成品的数量、单价、金额等内容。<br><br>    2．对不属于上述情况变更的，可按原规定办理电子帐册变更手续。<br><br>    （三）有关后续管理问题。<br><br>    1．主管海关对电子帐册的后续管理模式不变，仍按设定的核销周期办理电子帐册的核销手续。<br><br>    2．主管海关在核销周期到期、电子帐册正式报核通过之后直接核销台账手册。<br><br>    新开设的电子帐册涉及限制类商品的，比照本条规定办理。<br><br>    五、关于电子手册的问题<br><br>    商务主管部门在2007年8月23日前审批并向海关申请备案的电子手册仍按原规定执行。<br><br>    部分地方商务主管部门审批内容为经营范围，主管海关对其电子手册实行分段备案的，自2007年8月23日起，原电子手册不得新增涉及限制类商品项目。<br><br>    商务主管部门自2007年8月23日起审批的加工贸易业务，采用电子手册管理的，企业应按照批准证内容一次性备案电子手册的料件和制成品，需要征收台账保证金的，按规定计征台账保证金。<br><br>    六、关于信息化系统调整期的业务执行问题<br><br>    海关总署将根据加工贸易限制类商品政策调整的要求，对H2000系统和电子口岸预录入系统进行调整，修改完善有关系统程序。在信息化系统调整完成（另行通知，下同）前，企业应按照以下要求办理保证金台账手续：<br><br>    （一）关于采取手工方式简易计征保证金台账的问题。<br><br>    自2007年8月23日起，在H2000系统调整完成之前，计征手册台账保证金的方式如下：<br><br>    1．深加工结转限制类商品需按照本公告第三条规定办理。<br><br>    2．对手册涉及限制进口类商品的，H2000系统将对所有手册（不包含C类企业的手册）按照B类企业计算规则（剔除深加工结转部分）自动计算应缴纳台账保证金，主管海关根据本公告规定调整为应征保证金金额，打印台账联系单后交由企业办理有关台账手续。<br><br>    3．对手册涉及限制出口类商品且不涉及限制进口类商品的，台账保证金计征方法如下：应缴纳台账保证金=保税进口料件备案总金额（限制类商品出口备案金额/加工贸易出口商品备案总金额）×综合税率×汇率×50%。其中，“保税进口料件备案总金额”为所有备案料件金额；“限制类商品出口备案金额”为所有非深加工结转限制类制成品的备案金额；“加工贸易出口商品备案总金额”包含所有备案制成品金额。系统在备案环节将自动开设空转台账联系单，主管海关手工计算限制出口类商品的应缴纳台账保证金，打印台账联系单后交由企业办理有关台账手续。<br><br>    信息化系统调整完成之前，手册和台账手册变更时产生台账变更联系单的，参照上述要求办理台账手续。属于上述第3种情况的手册和台账手册变更时，企业应变更料件备案金额，以产生台账联系单供人工修改。<br><br>    （二）关于对AA类企业银行保证金台账管理的问题。<br><br>    对非限制类商品的加工贸易业务，海关仍按原加工贸易银行保证金台账制度进行管理。其中，AA类企业免开保证金台账。手册备案时，系统自动产生空转保证金台账联系单。<br><br>    对AA类企业，主管海关打印台账开设联系单（00单）并直接办理回执登记手续（回执编号为“0”）后交由企业留存，企业无须到银行开设保证金台账。<br><br>    上述手册变更不涉及限制类商品的，参照上述要求办理保证金台账变更手续；手册变更涉及限制类商品的，主管海关打印保证金台账变更联系单交给企业，企业持同一手册所有未办理银行台账手续的联系单，一并到银行办理台账开设和变更手续。<br><br>    七、关于H2000系统修改情况<br><br>    H2000系统在纸质手册、电子手册和电子化手册表头增加限制类标志，标志类型包括3种：<br><br>    （一）第1种标志表示手册由商务主管部门在2007年8月23日前审批的（含所有已备案手册），H2000系统审核界面显示的选项是“调整前旧手册”；系统按原规定计征台账保证金。<br><br>    （二）第2种标志表示手册由商务主管部门自2007年8月23日起审批的，H2000系统审核界面显示的选项是“调整后新手册”；系统按《44号公告》规定计征台账保证金。<br><br>    （三）第3种标志表示手册专门用于联网监管台账管理的，H2000系统审核界面显示的选项是“台账专用手册”；系统按《44号公告》规定计征台账保证金。<br><br>    企业在向主管海关办理手册备案（变更）手续时，应正确填报手册限制类标志。对限制类标志填报不正确的，将被退单。<br><br>    对批准证的限制类标注与提示内容不一致的，企业应按照规定向商务主管部门办理变更手续。<br><br>    八、已征收的台账保证金一律待有关加工贸易业务核销结案后予以退还。<br><br>    特此公告。<br><br>二○○七年八月二十二日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

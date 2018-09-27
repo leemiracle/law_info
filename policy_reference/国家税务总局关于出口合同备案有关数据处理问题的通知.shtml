@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2006]877号<BR>&nbsp;&nbsp;【发布日期】2006-09-25<BR>&nbsp;&nbsp;【生效日期】2006-09-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200610100834412711" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于出口合同备案有关数据处理问题的通知<br><br></font>(国税函[2006]877号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br>    根据《财政部、发展改革委、商务部、海关总署、国家税务总局关于调整部分商品出口退税率和增补加工贸易禁止类商品目录的通知》（财税〔2006〕139号）、《国家税务总局关于出口合同备案有关问题的通知》（国税函〔2006〕847 号）文件精神，为及时准确做好出口合同备案及后续相关出口退税工作，经研究，现将有关事项通知如下：?<br>    一、出口企业根据财税〔2006〕139号、国税函〔2006〕847 号文件的有关规定，向其主管税务机关申请出口合同备案时，应通过出口退税申报系统出口合同备案相关模块完成备案合同的数据采集工作，将生成的《出口合同备案申请表》（见国税函〔2006〕847 号文件附件1，下同）等电子数据，以及两份纸质《出口合同备案受理回执》（见本通知附件1）一并报送税务机关。?<br>    二、税务机关受理出口企业出口合同备案时，必须将纸质的备案合同、表格等资料与相关的电子数据进行对比，主要对出口合同备案份数、记录条数及总金额进行核对。对核对不符的，以及受理环节就发现不符合国税函〔2006〕847 号文件第一、二条规定的，应将不符合规定的出口合同退还出口企业，今后也不再受理该出口合同备案，同时将该出口合同相关记录从备案表及电子数据中删除。对于受理中发现出口企业录入错误及技术问题导致报送的电子数据有误的，可以要求企业修改后重新上报。受理后，税务机关在《出口合同备案受理回执》上签字盖章，一份退还出口企业，一份税务机关留存。?<br>    税务机关受理后应严格按照国税函〔2006〕847 号文件规定进行审核，对于审核中发现不符合规定退回企业的出口合同，今后一律不再受理该出口合同备案，同时将该出口合同相关记录从备案表及电子数据中删除。对于审核中发现出口企业录入错误及技术问题导致报送的电子数据有误的，应进行修改。审核结束后，税务机关须将确认的电子数据读入出口退税审核系统，作为电子底账，以备今后审核出口退税时使用。同时，税务机关打印两份《出口合同备案审核结果回执》（见本通知附件2），一份反馈出口企业、一份税务机关留存。?<br>    三、对于本通知下发前出口企业已完成出口合同备案的，如果税务机关已给出口企业出具了备案出口合同的受理和审核结果单据的，出口企业不必补办《出口合同备案受理回执》和《出口合同备案审核结果回执》；未出具的，必须按本通知规定补办《出口合同备案受理回执》和《出口合同备案审核结果回执》。此外，税务机关应要求出口企业按审核确定的备案出口合同，通过出口退税申报系统生成《出口合同备案申请表》电子数据提供给税务机关。?<br>    四、企业于2006年9月15日至2006年12月14日期间报关出口备案合同中的货物，申报退（免）税时需在出口退税申报明细表的备注栏内填写“HTBA”字样（合同备案的拼音字头，字体大写）。由于目前出口合同备案中货物审核退税相关功能的软件正在抓紧升级中，在此之前，税务机关受理企业申报后，采取人机结合的方式，对出口合同备案出口货物退（免）税进行审核。<br>    五、为配合出口合同备案的电子数据管理，总局将出口退税申报、审核系统进行了升级，升级后的生产企业出口退税申报系统（版本号6.2）、外贸企业出口退税申报系统（版本号8.2）、出口退税审核系统（版本号6.0 SP3）与本通知一并下发。本次出口退税申报系统有关出口合同备案升级的主要内容是：增加了出口合同备案相关参数配置、备案合同数据采集、检查、上报、撤销等相关功能。出口退税审核系统升级的主要内容是：增加了出口合同备案数据读入、调整、审核、复核、出具回执、反馈数据等相关功能。具体操作说明见《出口合同备案申报、审核系统升级设计方案》（见附件3）。?<br>    六、系统发布及技术支持?<br>    出口退税申报、审核系统升级软件放置在“总局应用系统技术支持网站”及“总局进出口司服务器\程序发布\出口退税网络管理系统”。各地税务机关下载出口退税审核系统补丁后，可直接安装升级；各地税务机关下载出口退税申报系统补丁后，应当确认软件可以正常安装，发放给出口企业使用，也可通知出口企业登录www.taxrefund.com.cn免费下载软件。?<br>    目前出口退税系统的技术支持服务已纳入总局税务管理信息系统呼叫中心。税务系统人员需要支持服务时，请按照《税务管理信息系统运行维护管理办法（试行）》（国税发〔2005〕128号）和《国家税务总局关于建立总局税务管理信息系统呼叫中心的通知》（国税函〔2005〕833号）规定，通过热线电话（4008112366）或支持网站（内网130.9.1.248）提起服务请求。<br>    请各地税务机关注意收集软件运行中的问题，并及时向总局（进出口税收管理司）反馈。反馈方式：将电子文档上传至进出口税司FTP通讯服务器（内网IP：100.16.125.25）“各地上传/情况反映”目录内。?<br>    七、各地税务机关应立即向出口企业做好宣传辅导工作，确保出口合同备案电子数据处理工作及时开展。<br><br>    附件：1.出口合同备案受理回执?<br>          2.出口合同备案审核结果回执?<br>          3.出口合同备案申报审核系统升级设计方案<br><br>                                    国家税务总局<br>                                二○○六年九月二十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

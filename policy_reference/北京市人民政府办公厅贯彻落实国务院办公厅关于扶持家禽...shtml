@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】北京市<BR>&nbsp;&nbsp;【发布文号】京政办发[2005]65号<BR>&nbsp;&nbsp;【发布日期】2005-12-24<BR>&nbsp;&nbsp;【生效日期】2005-12-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://govfile.beijing.gov.cn/Govfile/front/content/22005065_0.html" target=_blank>北京市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>北京市人民政府办公厅贯彻落实国务院办公厅关于扶持家禽业发展若干意见的通知<br><br></font>(京政办发[2005]65号)</p><br><br> <br>各区、县人民政府，市政府各委、办、局，各市属机构：<br>    为贯彻落实《国务院办公厅关于扶持家禽业发展的若干意见》（国办发〔2005〕56号，以下简称《若干意见》），缓解国内部分地区发生高致病性禽流感疫情对本市家禽业的冲击，促进本市家禽业稳定发展，经市政府同意，现就扶持家禽业发展有关事项通知如下：<br>    一、继续对家禽免疫和疫区家禽扑杀给予财政补贴<br>    继续落实本市禽流感疫苗由政府采购、供生产者免费使用的政策。对按规定扑杀禽只给养殖者造成的损失，按国家及本市有关规定给予补偿。市财政、农业等部门要认真落实补偿与补助政策，确保补偿补助资金及时足额发放到位。<br>    二、在税收政策上对家禽业相关企业给予优惠，并减免部分政府性基金和行政性收费<br>    按照税务总局和财政部确定的标准和有关规定，自2005年11月1日至2006年6月30日，对属于增值税一般纳税人的家禽加工企业和冷藏冷冻企业加工销售禽肉产品，实行增值税即征即退政策，并免征城市维护建设税和教育费附加。对家禽养殖（包括种禽养殖）、加工和冷藏冷冻企业进行家禽养殖（包括种禽养殖）、加工和冷藏冷冻禽肉的所得，免征2005年度企业所得税，2006年视情况另行规定。对企业或个人由于禽类扑杀所取得的财政专项补助，免征企业所得税或个人所得税；对企业由于禽类扑杀所造成的净损失，允许其在所得税前全额列支。减收的增值税、所得税按现行财政体制负担。对禽类加工产品出口后的应退税款，及时足额退给企业。在全市范围内对家禽养殖（包括种禽养殖）、加工、冷藏冷冻企业及个人用于生产经营的土地、房产和车船，减免2006年上半年度城镇土地使用税、房产税和车船使用税。由市农委、市农业局负责确定享受上述税收优惠政策的企业名单。<br>    自2005年11月1日至2006年6月30日，对家禽养殖、加工企业和从事家禽养殖的农户免征部分政府性基金，减免部分行政事业性收费，减免范围及程序由市财政局、市发展改革委会同市农业局依照国家有关规定制定。<br>    三、加强流动资金贷款和财政贴息支持<br>    中国人民银行营业管理部按照《若干意见》要求，负责协调相关银行对本市家禽定点屠宰企业、重点家禽养殖企业给予必要的流动资金贷款支持，在防控高致病性禽流感期间为企业贷款提供便利；在疫情发生期间，对已到期并发生流动资金贷款拖欠的受损企业，贷款银行免收贷款罚息。<br>    北京银监局按照《若干意见》要求，负责协调辖内相关金融机构在贷款审批、发放等方面为疫情防控开辟方便快捷的通道，完善服务方式，提高服务效率；对已向本市家禽定点屠宰企业、重点家禽养殖企业发放但尚未到期的流动资金贷款，在疫情发生期间视企业实际困难适当延长还款期限，具体条件由贷款机构决定；在防范信贷风险的基础上，根据实际需要适当调整存贷比例和授信额度，并加强系统内规模和资金调剂；加强贷款用途及贷款投向的监测分析，防止资金被挤占挪用和产生新的不良贷款。<br>    市财政局负责制定并组织落实对本市家禽定点屠宰企业、重点家禽养殖企业给予流动资金贷款贴息支持的具体措施。按现行一年期流动资金贷款利率的一半给予贴息，贴息期为2005年11月1日起至2006年6月30日,以银行结息票据为准。贴息所需资金除按《若干意见》规定由中央财政负担20％外，其余资金由市财政负担。<br>    市农委、市农业局会同市财政局确定享受流动资金贷款和财政贴息支持政策的具体企业名单。<br>    四、保护种禽生产能力和家禽品种资源<br>    原种禽场、祖代种禽场和家禽品种资源场优先享受流动资金贷款、免征企业所得税等扶持政策。<br>    北京银监局应明确一家商业银行或政策性银行负责落实原种禽场、祖代种禽场和家禽品种资源场优先享受国家有关流动资金贷款支持的政策，中国人民银行营业管理部依据职责做好落实该项政策的协调工作。北京银监局要根据本通知规定，对辖内相关金融机构落实有关金融政策情况进行监督、检查。<br>    对种禽场和家禽品种资源场给予扶持和保护。一是对原种禽场和家禽品种资源场采取严格的隔离保护措施，区县政府组织当地定点屠宰企业对重点种禽场半径3公里范围内的所有散养家禽进行收购。二是对原种禽场、祖代种禽场按存栏规模给予补助，原种禽和祖代种禽每只补助8元。具体补贴标准、种禽场名单和规模由市财政局商市农委和市农业局确定。<br>    五、科学引导禽类产品消费，稳步推进家禽业转变饲养方式<br>    加大对动物防疫和消费禽类产品等科学知识的宣传力度，正确引导消费，维护正常的市场流通秩序，稳定家禽业发展。同时，要科学规划，合理布局，稳步推进家禽业转变饲养方式。市发展改革委、市农委、市农业局等部门要根据各自职责抓紧制定养殖业发展规划和动物疫病防治规划，建立动物疫病防控长效机制，促进家禽养殖业持续健康发展。<br><br>                            二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

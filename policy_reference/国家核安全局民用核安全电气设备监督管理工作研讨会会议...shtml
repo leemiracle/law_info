@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安办〔2008〕9号<BR>&nbsp;&nbsp;【发布日期】2008-01-24<BR>&nbsp;&nbsp;【生效日期】2008-01-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/haqwj/200801/t20080130_117799.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家核安全局民用核安全电气设备监督管理工作研讨会会议纪要<br><br></font>(国核安办〔2008〕9号)</p><br><br><br>上海核工程研究设计院，苏州核安全中心，核工业第二研究设计院，机械院核设备安全与可靠性中心，北方核与辐射安全中心：<br>    <br>    为保证《民用核安全设备监督管理条例》和《民用核安全设备设计制造安装和无损检验监督管理规定（HAF601）》于2008年1月1日起顺利实施，我局于2008年1月9～11日在上海召开了民用核安全电气设备监督管理工作研讨会。现将会议纪要（见附件）印发给你们，请参照执行。<br>    <br>    附件：民用核安全电气设备监督管理工作研讨会纪要<br><br>    二○○八年一月二十四日<br><br>    <br>附件：民用核安全电气设备监督管理工作研讨会会议纪要<br><br>    2008年1月16日至18日，国家核安全局在上海组织召开了民用核安全电气设备监督管理工作研讨会。来自上海核工程研究设计院、苏州核安全中心、机械科学研究院核设备安全与可靠性中心、核二院安审中心和国家环保总局北方核与辐射安全监督站等单位的代表参加了会议，与会人员名单见附件。<br>    <br>    本次研讨会的议题是讨论《核安全电气设备设计单位资格条件》、《核安全电气设备制造单位资格条件》、《核安全电气设备关键工艺清单》、《核安全电气设备设计、制造和安装许可证监管基本要求》、《核安全电气设备许可证监管措施研究报告》和《核安全电气设备模拟件选取原则》等文件。与会人员对上述文件进行了深入、细致的讨论，一致认为这些文件的编制工作为下一步核安全电气设备的监管工作奠定了基础，文件内容完整，覆盖了电气设备许可证审评的各个环节，对电气设备的审评具有指导意义，对电气设备活动的监督也具有参考意义。建议根据意见修改后尽快试行。主要的修改意见和建议如下： <br>    <br>    （一）针对《核安全电气设备设计单位资格条件》：<br>    <br>    1）建议文本编写格式以及与机械设备通用的要求采用已通过核安全局组织专家讨论的“民用核安全机械设备设计单位资格条件”中的相应条款。<br>    <br>    2）建议设计技术人员的数量统一按设计、校核、审核、审定（或批准）四档来分类要求。<br>    <br>    3）建议在“E类资质要求”中补充关于技术人员专业涵盖范围和目标设备设计关键技术的描述。<br>    <br>    4）建议在界定关键技术时应明确区分电厂系统设计和设备设计范畴，避免混淆。<br>    <br>    （二）针对《核安全电气设备制造单位资格条件》：<br>    <br>    1）建议在“质量管理体系要求”中，对关于ISO9001持证要求的条款进行适当修改。<br>    <br>    2）附件二“核安全电气设备质量鉴定要素”是对申请单位的已有鉴定能力或开展模拟件鉴定能力的要求，建议文件定位在核安全电气设备许可证申请单位质量鉴定审查要素的描述，拟编入 “技术见解文件”中。<br>    <br>    3）建议在附件三“制造能力要求”的“关键技术岗位要求” 中增加关于电气设备焊接和无损检验人员资质的要求，具体为“对于涉及电子线路焊接工艺的目标产品，其相关技术人员和操作人员应取得相应的岗位资质；如果目标产品涉及机械结构完整性要求，则相关技术和操作人员应取得相应岗位所要求的焊接或无损检验人员资质”。<br>    <br>    4）建议对附件三“制造能力要求”中的“试验和检测设备”作进一步细化，可采用“民用核安全设备设计制造安装和无损检验监督管理规定”中的相应描述。<br>    <br>    5）建议将附件三“制造能力要求”中的“规范标准”描述改为“核安全法规和相关标准规范的相关规定”。<br>    <br>    6）建议将附件三“制造能力要求”中的“关键技术”改为关键工艺，展开表应罗列关键工艺而非关键技术，其中原则是，关键技术重点针对设备设计环节，关键工艺则侧重设备制造环节对关键技术的落实和其他重要加工工艺。目前的关键工艺清单为暂行方案，有待下步工作开展期间进一步完善和修正。<br>    <br>    7）建议在“制造能力要求”中增加关于申请单位规模的要求。<br>    <br>    （三）针对《核安全电气设备设计、制造和安装许可证监管基本要求》和《核安全电气设备许可证监管措施研究报告》：<br>    <br>    建议将“核安全重要电气设备设计、制造和安装活动许可证监管基本要求”和“核安全重要电气设备许可证监管措施研究报告” 根据会议意见修改后转化为支持核安全电气设备设计、制造和安装许可证审查的技术见解文件，其目标定位在核安全电气设备设计、制造和安装许可证审查大纲。在该文件中应明确关于设计、制造和安装许可证审查的要点，关于安装单位的审查要点由核二院安审中心编写。<br>    <br>    （四）针对《核安全电气设备模拟件选取原则》：<br>    <br>    建议将《核安全电气设备制造单位资格条件》的附件一“核安全电气设备模拟件试制推荐方法”与苏州核安全中心编制的“核安全电气设备模拟件选取原则”合并成一个文件，并建议不具体列出模拟件鉴定所需遵循的标准，替代以“经核安全局认可的标准”这一概括性描述。上述合成后的文件最终纳入“民用核安全设备模拟件实施细则”，相关工作由苏州核安全中心负责。<br>    <br>    国家核安全局还对下一步工作提出了要求：<br>    <br>    1）各电气设备监管活动的支持单位应积极做好准备，具体落实开展工作所需的组织保障、人力落实和机制完善，以保证监管活动的顺利进行和审查工作的独立性和公正性。<br>    <br>    2）各主审单位应在审评过程中注意总结和积累，充分借鉴国家核安全局多年来在核承压设备监管方面积累的经验，并在现有文件的基础上建立起相对完善的核安全电气设备审查体系。<br>    <br>    3）北方监督站应做好现阶段核安全电气设备的监督工作，保证核安全电气设备活动处于受控状态，并抓紧落实监督活动所需大纲及相关程序文件的编写工作。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

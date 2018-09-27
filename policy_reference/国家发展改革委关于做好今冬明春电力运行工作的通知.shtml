@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改运行[2006]2014号<BR>&nbsp;&nbsp;【发布日期】2006-09-26<BR>&nbsp;&nbsp;【生效日期】2006-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20061017_88731.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于做好今冬明春电力运行工作的通知<br><br></font>(发改运行[2006]2014号)</p><br><br><br>各省、自治区、直辖市经贸委（经委、工交办），北京市、河北省、河南省、海南省发展改革委，国家电网公司、中国南方电网有限责任公司，中国华能集团公司、中国大唐集团公司、中国华电集团公司、中国国电集团公司、中国电力投资集团公司：<br>    今年夏季，全国大部分省级电网用电负荷都创出历史新高。各地区、各有关部门按照国务院的部署，积极采取有效措施，较好的完成了迎峰度夏任务。当前，发用电增幅均保持较高水平，全国多半水电厂水位偏低、蓄能不足，为切实做好今冬明春电力供应保障，增强电力对经济社会发展的支撑，现将有关事项通知如下： <br>    一、提高对做好今冬明春电力供应工作重要性的认识<br>    当前我国发输电能力增长较快，大部分地区电煤供应紧张的状况得到缓解，有利于提高电力生产和供应能力。同时，也要看到，我国华北、东北和西北等地区的用电高峰都在冬季，受前期大部分地区投资高位增长的拉动，钢材、水泥等高耗能投资品生产近期仍将维持较高增速，南方大部分水电厂蓄水少于常年，局部电网供电“卡脖子”问题仍然存在等问题，这些将给今冬明春电力供应增加困难。今冬明春电力供需将呈现发用电增幅整体较高、大部分地区趋于基本平衡、部分地区供应偏紧、个别省区紧张仍需限电的走势。因此，确保今冬明春电力供应形势的基本平稳是当前经济运行中的一项重要工作，应引起各地区、各有关部门和单位的高度重视，并及早研究制定有关措施，切实把工作安排好、落实好。<br>    二、各地经济运行部门要加强统筹协调，及时解决运行中出现的矛盾和问题<br>    要针对今冬明春电力供需形势的特点，进一步加强电力需求侧管理，要像抓迎峰度夏一样抓好迎峰度冬，制定和完善好有序用电方案和应急预案，必要时应按照有保有限的原则，统筹安排好电力供应，确保居民生活等重点方面的用电。<br>    会同煤炭、铁路、交通等部门及有关企业，充分发挥煤电油运协调机制的作用，督促有关煤炭企业在确保安全的前提下，合理安排煤炭生产，确保电煤合同的兑现，提高煤炭质量；协调有关交通运输企业继续把电煤作为重点予以保证，优先装车、装船。确保发电、供热用煤的需要。<br>    三、发电企业要保证机组设备健康水平，及早做好冬储煤工作<br>    要充分利用秋季用电负荷低的有利时机，科学安排生产与检修，按照“当修必修、修必修好”的原则，认真开展秋季安全检查，做好电气设备清扫、定检和预试，落实好预防季节性事故措施，抓紧进行供热电厂供暖前的设备检查与维护，安排好临检消缺，扎实做好机组防寒防冻，提高设备的健康水平和可用系数。要强化运行管理和考核，确保在出现电力紧张时，机组能做到稳发、满发。<br>    要在各地经济运行部门指导下，抓紧与煤矿、运输部门进行衔接，落实好煤源和运力，特别是要及早落实新增机组的煤源和运力，调整好储煤场地，确保接卸煤设备健康完好，尽可能地多接、多储煤炭，尽快将存煤偏少的电厂恢复到合理水平，确保冬季发电、供热的需要。<br>    四、电网企业要合理安排电网运行方式，有效提高电力供应能力<br>    要加强负荷预测和供需形势分析，及时完成输变电设备秋季检修和维护，会同发电企业搞好新机并网投运衔接，强化电网安全管理，配合政府制定、落实好有序用电方案和应急预案。调度机构要灵活安排运行方式，发挥区域联网作用，统筹协调资源，确保在出现电力供应紧张时，能有效增加电力供应能力。要针对冬季容易出现的“污闪”、“覆冰”等自然灾害，制定好应急预案，确保灾害发生后能在最短时间内恢复供电，最大限度地避免拉限电。<br>    五、要认真做好水库蓄水工作，充分利用水利资源<br>    今年夏季全国大部分江河来水偏枯，出现罕见的汛期无汛现象，目前主要水库水位偏低、蓄能偏少，三峡、龙滩等水利枢纽的集中蓄水还可能影响到一些水电厂的发电出力。因此，各水力发电企业要加强气象预报分析，准确掌握水情，在有关部门和部门的指导和支持下，认真做好拦蓄洪尾的工作，尽可能多蓄水，并正确处理好短期发电与长期利用的关系，充分利用好宝贵的水力资源，确保水电在调峰、调频和事故备用的作用不受影响。四川、重庆、云南等水电比重较大的地区，电力运行部门要密切关注重点水库蓄水情况，帮助电力企业协调解决困难，防止今冬明春出现缺水造成的电力紧张的情况。<br>    六、及早研究制定方案，确保 “两节”、“两会”等重大活动的用电<br>    电网企业要在总结以前经验的基础上，针对今年电力供需的特点，及早研究制定保电方案，并做好事故预想和应急处理预案，强化运行值班和事故通报，确保老百姓过节和“两会”顺利召开用电的安全可靠。<br><br>中华人民共和国国家发展和改革委员会<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】文化部、财政部、人事部、国家税务总局<BR>&nbsp;&nbsp;【发布文号】文市发[2005]31号<BR>&nbsp;&nbsp;【发布日期】2005-11-04<BR>&nbsp;&nbsp;【生效日期】2005-11-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200511231432409859" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>文化部、财政部、人事部、国家税务总局关于鼓励发展民营文艺表演团体的意见<br><br></font>(文市发[2005]31号)</p><br><br><br>各省、自治区、直辖市文化厅(局)、财政厅(局)、人事厅(局)、国家税务局、地方税务局，新疆生产建设兵团文化局、人事局：<br><br>    党的十六大以来，文化体制改革逐步深化，民营文艺表演团体发展迅速。为更好地支持民营文艺表演团体发展，进一步调动社会力量和民间文艺工作者参与文化建设的积极性，提出以下意见：<br><br>    一、积极支持民营文艺表演团体的发展。民营文艺表演团体是我国社会主义文化事业的重要组成部分，是社会主义精神文明建设的重要力量。民营文艺表演团体来自于民间、成长于民间、服务于民间，对发展社会主义先进文化、繁荣基层文化市场、丰富城乡文化生活、满足人民群众精神文化需求，具有重要意义。各级文化、财政、人事和税务部门要提高对支持民营文艺表演团体发展重要性的认识。要根据表演门类、艺术水准、经营模式和布局结构，因地制宜，分类指导，制定符合本地民营文艺表演团体发展的目标、措施和相关政策，努力挖掘民族传统和地域特色演艺资源，支持、鼓励和引导民营文艺表演团体健康发展。<br><br>    二、放宽民营文艺表演团体的市场准入。认真执行《国务院关于非公有资本进入文化产业的若干决定》，鼓励社会资本以个体、独资、合伙、股份等形式投资兴办民营文艺表演团体，扶持农民和民间艺人自筹资金组建民营文艺表演团体。取消对民营文艺表演团体注册资本限额的特殊规定和个体演员证，允许成立个人独资、合伙的民营文艺表演团体。允许民营文艺表演团体以合资、合作、并购等形式，参与市、县国有文艺院团转企改制。允许国有文艺院团演职人员经单位批准离职自主创办民营文艺表演团体。对符合设立条件的民营文艺表演团体，县级文化和工商部门要按照《营业性演出管理条例》和企业登记法律法规规定的时限，及时发放营业性演出许可证和营业执照。<br><br>    三、简化民营文艺表演团体的演出审批手续。民营文艺表演团体从事演出活动，在申报、审批等方面与国有文艺院团享受同等权利和义务。演出所在地县级文化部门可直接受理民营文艺表演团体的演出申请，应在规定时限内做出答复，符合条件的，发放批准文件。对外埠民营文艺表演团体，不得指定承办单位。有关部门要维护民营文艺表演团体演出的合法权益，在审批监管中不得收取法律法规规定以外的任何费用。<br><br>    四、加强对民营文艺表演团体创作演出的指导和支持。要加强对民营文艺表演团体创作演出剧(节)目的指导，使之符合社会主义精神文明的要求。对于适合在基层特别是农村演出的优秀剧本，可由政府出资购买版权，免费提供给包括民营文艺表演团体在内的县以下基层文艺团体移植、改编和演出，同时鼓励著作权人许可这些表演团体无偿使用其创作的优秀剧(节)目在农村演出。支持民营文艺表演团体演出非物质文化遗产保护成果中的民间音乐、歌舞、戏曲、说唱等项目。在全国性文艺评奖、文艺调演和表彰活动中，对民营文艺表演团体的原创剧(节)目，应与国有文艺表演院团同等待遇。鼓励社会资本向民营文艺表演团体面向基层、面向农村的公益性演出提供捐赠，捐赠部分可按照国家税收法规的有关规定予以税前扣除。<br><br>    五、鼓励和支持民营文艺表演团体参加对外文化交流。鼓励民营文艺表演团体参加政府对外文化交流项目的招投标活动，支持有条件的民营文艺表演团体参加国际民间文化交流活动。鼓励有比较优势的民营文艺表演团体到国外演出、投资、注册公司，在信息咨询、宣传推广、营销人员培训等方面，与国有文艺院团同等待遇；经批准的重大演出项目，可给予一定的资金补助。有关部门要在项目审批、人员出入境及物品通关方面，提供便捷高效的服务。对积极开拓国外市场的民营文艺表演团体，凡符合条件的，可根据其资质和市场前景，给予中小企业国际市场开拓资金支持。允许民营文艺表演团体依法邀请国外文艺表演团体或个人参加本团的对外演出活动。<br><br>    六、加强民营文艺表演团体人才培养。文化部和省级文化厅(局)可委托有关艺术院校，为民营文艺表演团体经营管理人员的培训提供方便。鼓励艺术院校毕业生到民营表演团体就业。鼓励专业文化工作者深入民营文艺表演团体开展业务辅导。鼓励兴办民办艺术学校。民营文艺表演团体演员及相关技术人员在专业技术职称评定中，与国有文艺院团演员及专业技术人员实行同一标准。<br><br>    七、完善对民营文艺表演团体的管理。加强对民营文艺表演团体的引导和规范，完善规章制度，健全工作机制。加强对民营文艺表演团体演职人员的职业道德教育和法制培训，增强法制意识，倡导诚实文明经营。严厉打击违法违规演出活动，取缔无证经营行为。严格内容审查，强化现场监管，抵制低俗之风，对危害社会公德和民族优秀文化传统、宣扬淫秽色情和邪教迷信、利用人体缺陷或以展示人体变异等方式招徕观众的表演等，要坚决予以制止。要帮助民营文艺表演团体建立会计核算制度和劳动合同关系，按规定参加社会保险，规范经营行为。加强演出行业协会建设，制定行业规范，鼓励民营文艺表演团体及其经纪入和骨干演员加入行业协会，促进行业自律。<br><br>    八、努力形成有利于民营文艺表演团体健康发展的社会舆论氛围。文化部门和新闻单位要加强对民营文艺表演团体的宣传报道，及时准确地发布有关信息，宣传民营文艺表演团体的优秀剧(节)目、优秀演员，提升行业形象。组织文艺评论家关注民营文艺表演团体的作品，在媒体上进行宣传评介，选择其中一定数量的优秀剧(节)目在电台、电视台播放。组织民营文艺表演团体参加汇演、调演，并通过各类艺术节推介优秀剧(节)目。对优秀民营文艺表演团体和演员给予表彰。<br><br>                        文化部 财政部 人事部 国家税务总局<br>                               二○○五年十一月四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

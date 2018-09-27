@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2007〕52号<BR>&nbsp;&nbsp;【发布日期】2007-05-22<BR>&nbsp;&nbsp;【生效日期】2007-05-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yghb/yg04/yg04c/200709/t31505.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于加强政府门户网站建设和管理工作的意见<br><br></font>(鄂政办发〔2007〕52号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br><br>    近年来，随着国民经济和社会信息化的发展，尤其是电子政务的深入推进，全省政府网站建设和发展不断加快，由省政府门户网站、省政府各部门门户网站和各市、州、县人民政府门户网站组成的政府网站体系基本形成。经省人民政府同意，为进一步加强政府门户网站建设和管理工作，现提出以下意见：<br><br>    一、充分认识办好政府网站的重要意义。政府网站是各级人民政府及其部门在互联网上发布政务信息、提供在线服务、与公众互动交流的重要平台。办好政府网站，有利于促进各级人民政府及其部门依法行政，提高社会管理和公共服务水平，保障公众知情权、参与权和监督权，对加强政府自身建设和推进行政管理体制改革具有重要意义。各地、各部门要以邓小平理论和“三个代表”重要思想为指导，全面落实科学发展观，按照构建社会主义和谐社会的要求，牢固树立以社会和公众为中心的理念，着力突出政务特色，坚持统筹规划、协同建设、分级管理，努力把政府网站办成提高效率的平台、为民办事的平台、助民生活的平台、监督政务的平台、与民交流的平台。<br><br>    二、不断健全和完善政府网站体系。各地、各部门要高度重视政府网站建设，努力提升管理水平。省政府门户网站及省政府各部门网站要着重加强权威政府信息发布，为公众和企业提供在线办事服务指引或特定内容的办事服务，积极开展与公众互动交流。市（州）级人民政府网站要及时准确地发布政府信息，搭建与公众互动交流平台，拓宽社情民意的表达渠道，着重为公众和企业提供在线办事服务、公益性便民服务。所有县、市、区都要办好政府网站，加强对网站信息、在线服务和技术功能等的整合，按照“发布政务信息、提供网上服务、开展互动交流”的功能定位，不断提高政府网站解决实际民生问题的能力。要建立健全政府网站体系的内容保障制度，各级政府和部门网站之间要做好链接，逐步实现资源共享、协同办公和整体联动。<br><br>    三、着力加强政府信息发布。认真贯彻实施《中华人民共和国政府信息公开条例》，遵循公正、公平、便民的原则，及时、准确地通过政府门户网站公开政府信息。各级政府门户网站都要在各自职责范围内确定主动公开的政府信息的具体内容，并重点公开以下内容：行政法规、规章和规范性文件；国民经济和社会发展规划、专项规划、区域规划及相关政策；国民经济和社会发展统计信息；财政预算、决算报告；行政事业性收费的项目、依据、标准；政府集中采购项目的目录、标准及实施情况；行政许可的事项、依据、条件、数量、程序、期限以及申请行政许可需要提交的全部材料目录及办理情况；重大建设项目的批准和实施情况；扶贫、教育、医疗、社会保障、促进就业等方面的政策、措施及其实施情况；突发公共事件的应急预案、预警信息及应对情况；环境保护、公共卫生、安全生产、食品药品、产品质量的监督检查情况。属于主动公开范围的政府信息，应当自该政府信息形成或者变更之日起20个工作日内予以公开。同时建立健全政府信息发布保密审查机制，明确审查的程序和责任。要编制、公布政府信息公开指南和政府信息公开目录，并及时更新。政府信息公开指南，应当包括政府信息的分类、编排体系、获取方式，政府信息公开工作机构的名称、办公地址、办公时间、联系电话、传真号码、电子邮箱等内容。政府信息公开目录，应当包括政府信息的索引、名称、内容概述、生成日期等内容。<br><br>    四、切实提高在线办事能力。要从满足公众日益增长的需求出发，增强服务意识，不断提高在线办事能力和水平。不断增加在线办事的项目，使在线办事成为政府为公众办事的主要渠道。要全面系统地公布办事项目的名称、依据、程序和要求，提供表格下载、业务咨询和办理指南，努力实现在线申请受理、状态查询和结果反馈。按照公众、企业等服务对象的需求，梳理业务流程，整合办事项目，推行“一点受理、抄告相关、并联审批、限时反馈”、“前台一口受理、后台协同办理”等在线办理模式。各地、各部门要加快行政许可事项网上办理进度，确保“十一五”期间50％的行政许可项目实现在线办理，并及时与省政府门户网站链接。<br><br>    五、持续拓展公益服务。要发挥各地、各部门的创造性，着眼便民利民，针对不同受众和不同群体，进一步开发利用与公众生活密切相关的公益性信息资源，开发各类便民服务项目，并通过省政府门户网站集中展示和提供服务，以充分体现政府为民服务的宗旨。直接涉及群众生活及公共安全的省直部门，今年内新增1-2项网上便民服务的项目，如食品安全、医疗卫生、计划生育、环境质量信息、学生招生信息、旅游信息、涉农信息、气象信息、疫情灾害防治、法律援助、消费者权益保护、各类应急信息等等，进一步丰富网站助民生活特色服务专区内容。<br><br>    六、稳步推进互动交流。要按照“总体规划，分步实施，严格审理，确保安全”的原则，加强互动栏目建设，不断丰富互动交流方式，为公众参与互动交流创造条件。围绕政府重点工作和公众关注热点，开通在线访谈、热点解答、网上咨询等栏目，做好宣传和解疑释惑工作，正确引导舆论。通过行政首长信箱、公众监督信箱等，接受公众建言献策和情况反映，适时开通留言板功能。围绕政府重要决策和与公众利益密切的事项，开展网上调查、网上听证、网上评议等工作，征集公众的意见和建议，及时分析汇总，为决策提供参考，提高科学民主决策水平。<br><br>    七、精心办好特色栏目。省政府门户网站要做好表率，建立健全省行政许可事项管理系统及省电子监察系统、省资质资格管理系统、省企业信用信息管理系统、省信访信息管理系统及省公众诉求应答系统等重点应用系统的保障机制，继续办好《省长信箱》、《典型事例》、《在线访谈》等重点栏目，同时不断创新栏目形式，丰富网站内容，通过开办《在线沟通》等栏目，选择一批政治思想素质高、综合业务能力强并具有一定计算机操作能力的同志直接为公众提供即时的政府信息咨询服务。各地、各部门要积极配合省政府门户网站编辑部、省电子政务中心等单位，做好相关内容保障工作，同时结合各地、各部门的实际情况，精心办好一批为民服务的特色栏目。<br><br>    八、不断改进网站展示形式。政府网站页面设计要科学布局、重点突出，页面层级要合理规划、深度适中，栏目划分要清晰合理、避免歧义，便于公众快捷获取所需内容。设计风格要美观大方、简洁庄重，体现政府网站共性与地方、部门特色的统一。首页显著位置应标注本行政机关的合法名称。英文域名要以“?gov?cn”结尾，中文域名要以“?cn”结尾，并与本行政机关的合法名称或简称相适应，同时逐步规范二级域名，统一页面风格。政府网站页面默认文版为简体中文，有条件的网站还可编制繁体中文和外文版。<br><br>    九、切实提高技术保障水平。要根据政府网站运行维护和内容建设需要，加强网络技术平台和重要业务应用系统建设及功能性软件研发。根据资源共享和业务协同的需要，逐步实现相关政府网站之间网络技术平台的对接和业务应用系统的兼容。具备条件的地方，应逐步统一所属部门网站和下级人民政府网站的网络技术平台；具备条件的部门，应逐步统一本系统的重要业务应用系统。要做好日常巡检和随时监测，确保网站全天候工作、信息页面正常浏览、办事和互动平台畅通有效。<br><br>    十、有效提升安全保障能力。要按照电子政务安全规范和技术要求，完善政府网站的安全基础设施，制定完备的安全策略和应急预案，加强安全技术和手段的应用，不断提高对网络攻击、病毒入侵、系统故障等风险的安全防范和应急处置能力。要按照“谁主管谁负责、谁运行谁负责”的要求，明确相关单位的职责分工，建立健全责任制，形成多层次的完备的安全责任体系。<br><br>    十一、进一步完善运行管理机制。各地、各部门要把政府网站建设和管理列入重要议事日程，纳入电子政务发展规划，并明确政府网站建设和管理的责任单位。根据内容保障工作特点，建立信息保障和栏目共建、信息处理和反馈、办事服务提供、互动交流等各方面的工作机制；积极探索委托管理、服务外包等多元化的技术保障工作机制。加强统筹协调和监督检查，及时发现并解决工作中出现的问题。加强绩效评估，探索建立有关部门、社会机构和公众共同参与的政府网站绩效评估机制，科学确定评估内容和指标体系，充分发挥绩效评估的导向和激励作用。政府网站绩效评估工作采取经常性评议与定期评议相结合的方法，委托权威的社会中介机构进行网上评议。<br><br>    各地、各部门要进一步提高认识，切实加强对政府网站建设和管理的组织领导，紧密结合各自实际，制定相应实施办法和具体方案，认真落实各项工作措施，不断提升政府网站建设和管理水平，使之成为政务公开的重要窗口和建设服务政府、效能政府的重要平台。<br><br>附件：1?省政府门户网站《典型事例》栏目内容保障要求（略）<br>2?省政府门户网站《在线访谈》栏目2007年度计划（略）<br>3?省政府门户网站《在线沟通》栏目参与单位名单（略）<br>湖北省人民政府办公厅<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

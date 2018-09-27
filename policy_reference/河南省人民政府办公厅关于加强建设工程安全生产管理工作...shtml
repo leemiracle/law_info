@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河南省<BR>&nbsp;&nbsp;【发布文号】豫政办 〔2005〕77号<BR>&nbsp;&nbsp;【发布日期】2005-09-08<BR>&nbsp;&nbsp;【生效日期】2005-09-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.henan.gov.cn/zwgk/system/2005/11/24/000000203.shtml" target=_blank>河南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府办公厅关于加强建设工程安全生产管理工作的通知<br>  <br></font>(豫政办 〔2005〕77号)</p><br>  <br>  <br>各市、县人民政府,省人民政府有关部门:<br><br>    为认真贯彻落实《国务院进一步加强安全生产工作的决定》(国发〔2004〕2号)及《建设工程安全生产管理条例》(国务院令第393号)、《安全生产许可证条例》(国务院令第397号)等有关法律、法规,切实加强房屋建筑和市政基础设施工程的安全管理,保障人民生命和国家财产安全,更好地促进我省建设工程的健康发展,现就进一步加强建设工程安全生产工作通知如下:<br><br>    一、提高认识,切实增强抓好建设工程安全生产工作的责任感和使命感<br><br>    建设工程安全生产工作是构建和谐社会的重要内容之一,是加快我省经济发展,实现中原崛起的重要保障措施。随着我省城镇化进程加快,基本建设规模逐步扩大,建设项目技术含量和施工难度不断增大,不安全因素大量增加,建设工程安全生产面临的任务日趋繁重。各级政府、各有关部门和单位要从落实科学发展观、构建和谐社会、促进河南经济发展的高度,充分认识建设工程安全生产工作的重要性,牢固树立以人为本的思想,认真落实“安全第一、预防为主”的方针,切实增强安全生产法制观念和做好安全工作的责任感,正确处理安全与建设、安全与效益、安全与发展的关系,真正把建设工程安全作为一项重要工作纳入议事日程,纳入建设事业和经济社会发展的总体规划,切实采取有效措施,狠抓各项工作的落实,坚决遏制重大事故的发生,确保建设工程的顺利进行。<br><br>    二、完善制度,加强监督管理<br><br>    (一)加强建设工程安全生产监督执法。各级建设行政主管部门要认真履行法定的监管职责,加强对各类房屋建筑和市政基础设施工程的安全生产监督管理,完善监管机制,创新监管方式,规范监管程序,运用检查、巡查、随机抽查等多种形式,加大监督检查和执法力度,消除监管盲区和死角,依法查处重大安全隐患和违法违规行为。任何单位不得以重点工程、开发区工程、招商引资工程等为由不接受建设行政主管部门的监管。对存在重大安全隐患又不能及时整改的工程,要坚决停工;对问题严重的,要进行严厉处罚和公开曝光;对拒不接受管理的,要会同监察部门严肃查处,或申请审判机关强制执行。对监管中存在的重大问题要及时向当地政府报告,以便及时解决。各级政府和有关部门要认真清理和废除与法律法规相抵触、不利于建设工程安全生产监管或限制正常安全检查的地方性规定,支持建设行政主管部门依法开展安全生产监管工作。<br><br>    (二)建立健全建设工程安全生产考核体系。各级政府及建设行政主管部门、建设工程相关单位要研究制定本地区、本行业、本单位的建设工程安全生产中长期规划,确定年度工作目标,建立健全责任制,逐级分解、量化责任目标,形成上下联动、分级负责、防范严密的责任体系。要完善建设工程安全生产考核机制和奖惩机制,加强对落实情况的检查、监督,把建设工程安全生产工作情况作为业绩考核的重要依据,真正把建设工程安全生产工作落到实处。<br><br>    (三)建立健全建筑市场安全准入制度。各级建设行政主管部门要对建筑施工企业安全生产条件进行严格审查,不具备条件的企业,不予颁发安全生产许可证。未取得安全生产许可证的企业不得参加工程投标,工商部门不得办理营业执照年度审验,建设单位不得使用。建筑企业负责人、项目负责人、专职安全管理人员未取得安全考核合格证的,不得从事管理活动,项目经理不得参加投标。对未取得安全生产许可证和安全生产考核合格证而擅自从事建筑生产活动和管理活动的单位和个人,要予以严肃处理。<br><br>    (四)完善安全生产监管手段和监管机制。建设行政主管部门要加强对建设工程安全生产检查、巡查、督查,建立和完善建筑市场主体安全生产业绩档案,通过信息网络、新闻媒体发布安全生产动态,公示建筑市场有关方面的安全生产优良业绩或不良记录,并将安全生产状况与市场准入、资质升降、个人执业资格、招标投标、企业评优评先、奖惩等方面有机结合起来,加大管理力度,充分体现安全生产的否决作用。积极研究探讨运用经济手段管理安全的措施和办法,完善安全风险约束机制,提高建筑安全生产的综合监督水平和应急救援能力。<br><br>    (五)严格安全责任追究。建设工程安全事故发生后,建筑施工单位在迅速组织事故抢救的同时,要立即上报当地建设行政主管部门及有关部门,建设行政主管部门及有关部门要按照事故上报的规定及时向当地政府和上级主管部门报告,任何单位和部门不得迟报、谎报和瞒报。对不按规定上报事故的责任单位和责任人,要严肃追究责任。各级政府要按照事故调查处理权限和程序,坚持客观公正、廉洁高效、依法办事的原则,组织有关部门查清事故原因,划清事故责任,及时批复结案,使责任单位和责任人依法受到严肃处理。<br><br>    三、加强培训,落实经费<br><br>    各级建设行政主管部门、建设工程相关单位要针对行业特点、企业特点和工程特点,根据安全生产工作的具体要求,多渠道、多形式、多层次开展建设安全生产的宣传教育培训,广泛普及安全生产的法律、法规、规范、标准和基本知识,大力营造安全生产的浓厚氛围,巩固和扩大安全生产的宣传教育培训效果,提高各级各类人员的安全意识、法制观念、防范技能和管理水平。特别要针对建筑行业整体素质不高和农民工多的特点,认真做好对建筑施工企业管理人员和一线作业人员的安全教育培训,重点加强对建筑施工企业负责人、项目负责人、专职安全生产人员及特种作业人员和现场作业人员的教育培训和考核,严格持证上岗制度和班前交底制度,未取得上岗证的人员,一律不准上岗。建筑务工人员比较集中的县、乡政府,要从促进当地经济发展的高度出发,集中组织开展对建筑务工人员的培训,提高建筑务工人员安全生产意识和技能,把好务工人员出口关。<br><br>    认真落实安全生产经费,确保安全生产投入。各建设工程单位要按照《建设工程安全生产管理条例》的要求,将安全施工措施费用列入工程概算和招标预算,并按照有关规定或合同约定按时支付施工单位。施工单位要制订和落实施工安全技术措施,确保安全施工措施费用专款专用。建设单位和施工单位不得以任何理由减少和取消此项费用;监理单位要把此项费用拨付使用情况作为造价控制的内容;建设行政主管部门要根据工程安全文明施工的要求,合理确定并适时调整安全文明施工措施费用的计取标准,并加强对建设单位支付和施工单位使用安全施工措施费用情况的监督检查。对建设单位不支付或施工单位挪用安全施工措施费用的,要依法严肃处理。<br><br>    四、强化措施,明确主体责任<br><br>    各建设、勘察、设计、施工、监理单位和建筑材料、配件及设备的生产、供应、租赁单位,要认真执行法律、法规、规章和工程建设强制性标准,切实履行各自的安全生产责任、义务,自觉规范自身的安全生产行为,健全制度,完善措施,加强管理,接受监督,共同确保建设工程安全生产。<br><br>    各建设单位要严格执行法定建设程序,认真做好开工前的各项准备工作,加强施工过程中安全生产协调和管理。按照《建设工程安全生产管理条例》的要求,在规定的时间内向建设行政主管部门报送安全施工措施资料,保证资料的真实性、有效性。<br><br>    各勘察单位要按照法律、法规和工程建设强制性标准进行勘察,勘察作业要严格执行操作规程,采取措施保证各类管线设施和周边建筑物、构筑物的安全。提供勘察文件应当真实、准确,满足建设工程安全生产的需要。<br><br>    各设计单位要按照法律、法规和工程建设强制性标准进行设计,对涉及施工安全的重点部位和环节在设计文件中注明,对采用新结构、新材料、新工艺的建设工程和特殊结构的建设工程在设计中提出保障施工作业人员和防范生产安全事故的指导意见和措施建议。<br><br>    各施工单位要根据工程特点和安全技术规定及有关要求编制安全技术措施和专项施工方案,严格按程序进行审核和审批,认真组织实施,不得擅自更改。要按照国家和行业安全规范标准要求,切实加强施工现场安全防护,确保防范措施落实到位。严格执行设备淘汰制度,坚决清除国家明令淘汰、禁止使用的设备。施工现场使用的塔吊、人货电梯、物料提升机等垂直运输设备和提升设施,必须按规定进行检验检测,并在建设行政主管部门登记备案,未按规定检测或检测不合格的设备设施不得使用。<br><br>    监理单位要依照《建设工程安全生产管理条例》的规定和要求,切实履行职责,认真做好安全监理工作。对不认真履行职责、造成重大安全隐患或安全事故的相关责任单位和责任人,要给予严肃处理。<br><br>    各建筑材料、配件及设备的生产、供应、租赁单位提供的建筑材料、配件及设备应有制造许可证、产品合格证及检测合格证,并对提供的材料和产品质量负责。<br><br>河南省人民政府办公厅<br>二○○五年九月八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

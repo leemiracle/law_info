@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部<BR>&nbsp;&nbsp;【发布文号】建市[2006]40号<BR>&nbsp;&nbsp;【发布日期】2006-03-06<BR>&nbsp;&nbsp;【生效日期】2006-09-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/indus/file/2006031702.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>消防设施工程设计与施工资质标准<br><br></font>(建市[2006]40号)</p><br><br><br>各省、自治区建设厅，直辖市建委（北京市规划委），国务院有关部门建设司，新疆生产建设兵团建设局，解放军总后营房部工程局，国资委管理的有关企业，有关行业协会：<br><br>    为进一步贯彻落实《行政许可法》，减轻企业负担，推进专业工程总承包发展，加强对建筑市场的监管，结合有关专业工程的具体情况，我部组织制定了《建筑智能化工程设计与施工资质标准》、《消防设施工程设计与施工资质标准》、《建筑装饰装修工程设计与施工资质标准》、《建筑幕墙工程设计与施工资质标准》。现印发给你们，请认真贯彻执行。执行中有何问题和建议请及时与我部建筑市场管理司联系。<br><br>    附件：1.建筑智能化工程设计与施工资质标准<br>          2.消防设施工程设计与施工资质标准<br>          3.建筑装饰装修工程设计与施工资质标准<br>          4.建筑幕墙工程设计与施工资质标准<br><br>中华人民共和国建设部<br>二○○六年三月六日 <br><br><br>消防设施工程设计与施工资质标准<br><br>一、总    则<br><br>    （一）为了加强对从事消防设施工程设计与施工企业的管理，维护建筑市场秩序，保证消防设施工程质量和安全，促进行业健康发展，结合消防设施工程的特点，制定本标准；<br><br>    （二）本标准工程范围系指各类建设工程中的消防设施工程；<br><br>    （三）本标准是核定从事消防设施工程设计与施工活动的企业资质等级的依据；<br><br>    （四）本标准设一级、二级两个级别；<br><br>    （五）本标准中工程业绩和专业技术人员业绩指标是指已竣工并经消防验收质量合格的消防设施工程。<br><br>二、标    准<br><br>    （一）一级<br><br>    1、企业资信<br><br>    （1）具有独立企业法人资格；<br><br>    （2）具有良好的社会信誉并有相应的经济实力，工商注册资本金不少于800万元，净资产不少于960万元； <br><br>    （3）近五年独立承担过单体建筑面积不小于3万平方米的消防设施工程（设计或施工或设计施工一体）不少于3项，其中3项均含有火灾自动报警、联动控制系统以及自动灭火系统，至少1项含有气体灭火系统或泡沫灭火系统或防烟排烟系统；<br><br>    （4）近三年每年工程结算收入不少于1200万元。<br><br>    2、技术条件<br><br>    （1）企业技术负责人具有不少于8年从事消防设施工程经历，并主持完成单体建筑面积不少于3万平方米的消防设施工程（设计或施工或设计施工一体）不少于2项。具备注册电气工程师（公用设备）执业资格或高级工程类专业技术职称；<br><br>    （2）企业具有从事消防设施工程的中级及以上工程类职称的专业技术人员不少于20名。其中，有不少于2人具有至少1项气体灭火系统设计或施工业绩，有不少于2人具有至少1项泡沫灭火系统设计或施工业绩，有不少于2人具有至少1项防烟排烟灭火系统设计或施工业绩，有不少于2人具有至少2项自动喷水灭火系统设计或施工业绩，有不少于2人具有至少2项火灾自动报警及其联动控系统设计或施工业绩；<br><br>    （3）企业专业配置合理，其中电气、自动化、给水排水、暖通专业各不少于3人。注册电气工程师（结构工程师、公用设备）执业资格或高级以上工程类专业技术职称人员不少于5人，一级注册建造师（一级项目经理）不少于5人。<br><br>    3、技术装备及管理水平<br><br>    （1）有必要的技术装备及固定的工作场所； <br><br>    （2）具有完善的质量管理体系，运行良好。具备技术、安全、经营、人事、财务、档案等管理制度。<br><br>    （二）二级<br><br>    1、企业资信<br><br>    （1）具有独立企业法人资格； <br><br>    （2）具有良好的社会信誉并有相应的经济实力，工商注册资本金不少于500万元，净资产不少于600万元； <br><br>    （3）近五年独立承担过单体建筑面积不大于4万平方米的消防设施工程（设计或施工或设计施工一体）不少于2项。其中，2项均含有火灾自动报警及其联动控制系统和自动灭火系统，至少1项含有气体灭火系统或泡沫灭火系统或防烟排烟系统； <br><br>    （4）近三年每年工程结算收入不少于800万元。<br><br>    2、技术条件<br><br>    （1）企业技术负责人具有不少于6年从事消防设施工程设计和施工经历，并主持完成单体建筑面积不小于2万平方米的消防设施工程（设计或施工或设计施工一体）不少于2项。具备注册电气工程师（公用设备）执业资格或高级工程类专业技术职称；<br><br>    （2）企业具有从事消防设施工程的中级及以上工程类职称的专业技术人员不少于12名。其中，有不少于1人具有至少1项气体灭火系统设计或施工业绩，有不少于1人具有至少1项泡沫灭火系统设计或施工业绩，有不少于1人具有至少1项防烟排烟灭火系统设计或施工业绩，有不少于2人具有至少1项自动喷水灭火系统设计或施工业绩，有不少于2人具有至少1项火灾自动报警及其联动控系统设计或施工业绩；<br><br>    （3）企业专业配置合理，其中电气、自动化、给水排水、暖通专业各不少于2人。注册电气工程师（结构工程师、公用设备）执业资格或高级及以上工程类专业技术职称人员不少于3人，二级及以上注册建造师（项目经理）不少于3人。<br><br>    3、技术装备及管理水平<br><br>    （1）有必要的技术装备及固定的工作场所； <br><br>    （2）具有完善的质量管理体系，运行良好。具备技术、安全、经营、人事、财务、档案等管理制度。<br><br>三、承担业务范围<br><br>    （一）取得消防设施工程设计与施工资质的企业，可从事各类建设工程中的消防设施项目的咨询、设计、施工和设计与施工一体化工程，还可承担相应工程的总承包、项目管理等业务；<br><br>    包括：1、火灾自动报警及其联动控制系统；2、自动喷水灭火系统；3、水喷雾灭火系统；4、气体灭火系统；5、泡沫灭火系统；6、干粉灭火系统等自动灭火系统；7、防烟排烟系统自动消防设施工程；<br><br>    （二）取得一级资质的企业，承担消防设施工程的规模不受限制；<br><br>    （三）取得二级资质的企业，可承担单体建筑面积不大于4万平方米的民用建筑、火灾危险性为丙类及以下的厂房和库房的消防设施工程。<br><br>四、附    则<br><br>    （一）企业申请二级资质晋升一级资质，应在近两年内无违法违规行为，无质量、安全责任事故；<br><br>    （二）取得《消防设施工程设计与施工资质证书》的单位，其原《消防设施专项工程设计资格证书》、《消防设施工程专业承包企业资质证书》收回注销；<br><br>    （三）新设立企业只能申请二级，除对“企业资信”中（2）中净资产以及（3）、（4）不作要求外，其他条件均应符合二级资质标准要求；<br><br>    （四）本标准由建设部负责解释；<br><br>    （五）本标准自二○○六年九月一日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

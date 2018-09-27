@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】办医政发〔2010〕108号<BR>&nbsp;&nbsp;【发布日期】2010-06-29<BR>&nbsp;&nbsp;【生效日期】2010-06-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.china.com.cn/policy/txt/2010-07/02/content_20404217.htm" target=_blank>中国网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于加强医疗质量控制中心建设推进同级医疗机构检查结果互认工作的通知 <br><br></font>(办医政发〔2010〕108号)</p><br><br><br>    各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    2009年6月，我部印发了《医疗质量控制中心管理办法(试行)》（卫医政发〔2009〕51号，以下简称《办法》），对全国省级以上医疗质量控制中心的规划、设置、考核、管理等作出了明确规定。各地按照《办法》有关要求，结合当地实际情况，积极推进医疗质量控制中心建设和管理工作，在规范诊疗行为，提高诊疗水平，保障医疗质量和医疗安全等方面发挥了积极作用。<br><br>    为贯彻落实国务院办公厅《关于印发医药卫生体制五项重点改革2010年度主要工作安排的通知》（国办函〔2010〕67号）中关于“实行同级医疗机构检查结果互认”的有关要求，现就加强医疗质量控制中心建设、推进同级医疗机构检查结果互认有关工作通知如下：<br><br>    一、充分认识加强医疗质量控制中心建设、推进同级医疗机构检查结果互认工作的重要意义<br><br>    医疗质量控制中心建设是保障医疗质量的有效手段，是推进同级医疗机构检查结果互认的重要基础，是医疗质量管理与控制体系建设的重要组成部分，是深化医药卫生体制改革的重要内容，与人民群众切身利益息息相关。推进同级医疗机构检查结果互认，对于有效利用卫生资源，提高诊疗水平，规范诊疗行为，改进医疗服务，促进合理检查和合理诊疗，降低患者就诊费用，强化患者对深化医药卫生体制改革切身感受具有重要意义。<br><br>    各级卫生行政部门和医疗机构要充分认识这两项工作的重要意义，积极创造条件开展各专业医疗质量控制中心建设和管理，推进同级医疗机构检查结果互认，促进医疗质量管理与医疗技术水平的提高。<br><br>    二、统筹组织安排，稳步推进医疗质量控制中心建设<br><br>    省级卫生行政部门负责辖区内医疗质量控制中心的规划、设置、考核和管理。根据当地实际情况，加强组织领导，制订工作规划，统筹安排进度，逐步建立质控网络、程序和标准。指导辖区内省级医疗质量控制中心和各级卫生行政部门开展医疗质量控制工作。对省级医疗质量控制中心实施动态管理，制订相应的检查和考核办法并组织实施。<br><br>    省级卫生行政部门可按照《办法》有关规定，根据医疗机构不同专业质控需要，设立不同专业的省级医疗质量控制中心,原则上同一专业只设定一个省级医疗质量控制中心。要按照《医疗机构诊疗科目名录》及补充目录中的二级科目，在2012年底前建立各临床主要专业的省级医疗质量控制中心。<br><br>    省级医疗质量控制中心在省级卫生行政部门指导下实施医疗质量控制工作。要应用质量管理与控制的专业手段，通过建立信息资料数据库等方式，对医疗质量全过程实施动态控制与管理；逐步组建本行政区域相关专业质控网络，拟定质控程序、标准和计划；定期向医疗机构通报考核方案、质控指标和考核结果，指导市(地)、县级医疗质量控制机构开展工作；对医疗机构进行专业质量考核，向省级卫生行政部门报告医疗质量控制工作。医疗质量控制中心所在医疗机构要在办公场所、设备、经费和必要的专(兼)职人员等方面提供保障。<br><br>    三、以加强医疗质量控制中心建设为切入点，进一步推进同级医疗机构间检查结果互认工作<br><br>    省级卫生行政部门要以加强医疗质量控制中心建设为切入点，大力推进同级医疗机构间检查结果互认工作。要继续按照我部《关于医疗机构间医学检验、医学影像检查互认有关问题的通知》（卫办医发〔2006〕32号）有关要求，根据辖区医疗机构实际状况,合理确定开展检查互认的项目。对于开展检查结果互认的医疗机构或项目要有科学、合理的认定依据。地方各级卫生行政部门应当首先选择稳定性好、质量能够监控和费用较高的检查项目,组织辖区内有条件的医疗机构间逐步开展检查结果互认工作。参加省级医疗质量控制的检查项目,可以在本省（区、市）范围内实行检查结果互认。对于参加国家级医疗质量控制的检查项目,有条件的省（区、市）之间可以探索开展检查结果互认。省级医疗质量控制中心出具的质控结论可以作为本辖区检查结果互认的依据。<br><br>    各省（区、市）同级医疗机构之间要于2010年底实现医学影像资料互认和常规临床检验项目结果互认。请各省级卫生行政部门将有关工作情况于2010年12月 1日前报我部医政司。<br><br>    联系人：医政司医疗处张洪涛、吴健、付文豪<br><br>    电话：010-68792413、68792209、68792205<br><br>    传真：010-68792513<br><br>    E-mail: mohyzsylc@163.com<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

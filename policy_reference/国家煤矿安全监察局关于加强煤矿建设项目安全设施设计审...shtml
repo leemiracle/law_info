@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家煤矿安全监察局<BR>&nbsp;&nbsp;【发布文号】煤安监监察〔2007〕44号<BR>&nbsp;&nbsp;【发布日期】2007-10-14<BR>&nbsp;&nbsp;【生效日期】2007-10-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-10/23/content_263739.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家煤矿安全监察局关于加强煤矿建设项目安全设施设计审查与竣工验收工作的通知<br><br></font>(煤安监监察〔2007〕44号)</p><br><br>  <br>各省级煤矿安全监察机构：<br><br>    为进一步规范煤矿建设项目安全设施设计审查与竣工验收工作，从源头上严把安全关，促进煤炭工业持续健康发展，现就有关事项通知如下： <br><br>    一、煤矿建设项目必须经政府有关部门核准（或批准）。未经核准（或批准）的煤矿建设项目，煤矿安全监察机构不得受理安全设施设计审查业务。 <br><br>    二、合理界定项目类型，分级负责，共同做好安全设施设计审查和竣工验收工作。煤矿建设项目包括以下三种类型： <br><br>    新建项目，指在新开发井田内新设计建设的煤矿建设项目； <br><br>    扩建项目，指现有合法生产煤矿通过技术改造等手段，使得生产能力增加的煤矿建设项目； <br><br>    改建项目，指现有合法生产煤矿改变了煤矿原有主要生产系统及安全设施，但没有增加生产能力的煤矿建设项目。主要包括：增加井筒数目或者改变井筒功能的，扩大煤层开采范围的，矿井延伸水平开拓方式与原设计不一致的项目。 <br><br>    新建、扩建项目的安全设施设计审查、竣工验收工作，继续按照《煤矿建设项目安全设施监察规定》（原国家局令第6号）办理；改建项目的安全设施设计审查、竣工验收工作，由项目所在地省级煤矿安全监察机构（以下简称省局）或煤矿安全监察分局（以下简称分局）负责，具体办法由省局自行确定。 <br><br>    三、煤矿建设单位申请安全设施设计审查或竣工验收，必须同时上报规定的各项资料，并对其真实性负责；所报资料必须完整可靠，如系复印件应加盖建设单位公章。 <br><br>    （一）提出安全设施设计审查申请时，应当提交下列资料： <br><br>    1．安全设施设计审查申请文件及申请表； <br><br>    2．政府有关部门对该建设项目核准（或批准）文件； <br><br>    3．采矿许可证或者划定矿区范围批复文件； <br><br>    4．安全预评价报告书； <br><br>    5．井田勘探（精查）地质报告（小型煤矿必须符合《煤炭工业小型矿井设计规范》要求）； <br><br>    6．煤矿初步设计； <br><br>    7．煤矿初步设计安全设施设计； <br><br>    8．其他需要说明的材料。 <br><br>    （二）提出安全设施竣工验收申请时，应当提交下列资料： <br><br>    1．安全设施竣工验收申请文件及申请表； <br><br>    2．经批准的安全设施设计； <br><br>    3．施工期间伤亡事故及其他重大工程质量事故的有关资料； <br><br>    4．单项工程质量认证报告书； <br><br>    5．建井地质报告（大中型项目）； <br><br>    6．联合试运转报告； <br><br>    7．安全验收评价报告； <br><br>    8．经国家授权单位鉴定的煤层自燃倾向性、煤尘爆炸危险性报告，设计为突出矿井和设计要求进行突出危险性鉴定的高瓦斯矿井已揭露煤层的突出危险性鉴定报告，本年度或上年度矿井瓦斯等级鉴定报告及审批文件； <br><br>    9．《煤矿安全规程》规定的反映实际情况的图纸； <br><br>    10．建设单位编写的安全预验收报告书； <br><br>    11．建设单位对安全验收评价报告所提问题的整改情况说明； <br><br>    12．其他需上报的资料。 <br><br>    四、煤矿建设单位必须按照批准的安全设施设计组织施工，不得擅自变更设计内容。遇以下情形，煤矿建设单位和设计单位必须提前对已批准的安全设施设计进行变更修改，经原审批机构审查同意后实施。 <br><br>    （一）矿井瓦斯、煤层自燃、煤尘爆炸危险等级以及矿井水文地质类型发生变化的； <br><br>    （二）开采地质条件、采煤方法及工艺发生变化的； <br><br>    （三）通风系统、排水系统、矿井供电系统、开拓方式、提升运输方式发生变化的； <br><br>    （四）首采区及首采工作面布置发生变化的。 <br><br>    其他方面变更的，在不降低安全保障水平的前提下，建设、设计单位应提供变更依据报煤矿安全监察机构备案。 <br><br>    五、联合试运转工作必须严格遵守以下规定： <br><br>    （一）具备以下条件的煤矿建设项目，必须在编制联合试运转方案，报经有关主管部门批准（大中型项目报省级煤炭行业管理部门审批，小型项目报市、地级煤炭行业管理部门审批），并按规定报煤矿安全监察机构备案后方可组织实施： <br><br>    1．煤矿生产系统和安全设施已按设计建成完工； <br><br>    2．安全管理机构及安全生产管理制度健全； <br><br>    3．矿长具备安全资格、特种作业人员持证上岗、其他入井人员培训合格。 <br><br>    4．矿井已建立矿山救护队或已与具有资质的专业矿山救护队签订救护协议。 <br><br>    （二）联合试运转方案应当包括以下内容： <br><br>    1．联合试运转的系统、范围和期限； <br><br>    2．联合试运转的测试项目、测试方法、测试机构和人员； <br><br>    3．联合试运转的预期目标和效果； <br><br>    4．联合试运转期间产量计划与劳动组织； <br><br>    5．应急预案与安全技术措施； <br><br>    6．其他规定事项。 <br><br>    （三）联合试运转报告应当包含以下主要内容，且经煤矿矿长和技术负责人审签： <br><br>    1．各主要系统分项运行报告； <br><br>    2．主要生产安全设备故障处理记录与分析； <br><br>    3．提升、排水、通风等主要生产安全设施与装备的检测、检验报告； <br><br>    4．联合试运转的效果分析； <br><br>    5．今后有关生产安全的建议； <br><br>    6．其他应予以说明的事项。 <br><br>    六、煤矿安全监察机构组织开展安全设施设计审查和竣工验收工作时，选聘的专家必须涵盖该建设项目所涉及的各相关专业人员；同时应实行回避制度，凡与建设、设计和施工单位有利害关系的专家不得参加该项目安全设施设计审查和竣工验收。 <br><br>    七、建设项目安全设施设计审查和竣工验收工作中，要充分重视以下关键环节： <br><br>    （一）高瓦斯、煤与瓦斯突出矿井，必须健全瓦斯抽采系统，立足于采前、掘前预抽，并满足《瓦斯抽采基本指标》要求。 <br><br>    （二）新建矿井原则上要一次设计、一次建成。如有特殊原因，只能分期投产的，也必须保证安全设施和主要生产系统一次建成一次验收，做到同时设计、同时施工、同时投入使用。 <br><br>    （三）设计中必须明确投产时主要巷道的长度和位置，保证形成完善的通风和排水系统，保证“三个煤量”符合国家有关规定，保证安全开采。扩建、改建项目安全设施设计中应明确扩建或改建工程的范围、工程量及与原矿井安全生产系统衔接、影响关系。 <br><br>    （四）煤矿企业应设立矿山救护队，不具备单独设立矿山救护队条件的煤矿企业，应与就近的救护队签订救护协议或联合建立矿山救护队。大型煤矿、灾害严重的中型煤矿、最近矿山救护队至矿井的行车时间超过30分钟的小型煤矿，必须建立矿山救护队。 <br><br>    （五）煤矿设计能力必须符合国家产业政策和相关规定。 <br><br>    （六）煤矿建设项目移交生产后原则上3年内不得申请改扩建。 <br><br>    八、安全设施设计审查和竣工验收后，应督促有关单位及时整改审查或验收中发现的问题，整改结束并经指定单位或人员复核同意后，煤矿安全监察机构要组织专题研究，经研究通过方可行文批复。 <br><br>    九、安全设施设计审查批复后，1年内未进行施工的，施工前建设单位必须重新申请审查。<br><br>        二○○七年十月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

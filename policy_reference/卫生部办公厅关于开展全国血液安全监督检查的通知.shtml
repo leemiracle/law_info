@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部办公厅<BR>&nbsp;&nbsp;【发布文号】卫办监督发〔2006〕123号<BR>&nbsp;&nbsp;【发布日期】2006-07-03<BR>&nbsp;&nbsp;【生效日期】2006-07-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12362&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于开展全国血液安全监督检查的通知<br><br></font>(卫办监督发〔2006〕123号)</p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br>    为了进一步巩固2004－2005年全国非法采供血液和单采血浆专项整治成果，保证人民群众的用血安全和身体健康，严厉打击在临床用血和原料血浆采集、供应过程中出现的违规、违法行为，我部决定2006年下半年开展全国血液安全监督检查。现将有关事项通知如下：<br>一、检查时间及工作安排<br>检查自2006年7月至12月，分为三个阶段：<br>第一阶段：2006年7月下旬－8月底各血站、单采血浆站和医疗机构对照有关法规开展内部自查自纠；<br>第二阶段：2006年9月初－10月底各省、自治区、直辖市卫生行政部门组织开展对辖区内血站、单采血浆站和医疗机构临床用血进行监督检查；<br>第三阶段：2006年11月－12月底卫生部组织对部分省、自治区、直辖市进行抽查。<br>二、检查内容<br>（一）血站：根据《献血法》、《血站管理办法》、《血站基本标准》等规范性文件，检查血站采供血资格、献血者管理、血液检测、实验室管理等情况，重点对人员资质、献血者身份进行核对和登记情况、血液采集、储存、发放、运输的过程管理、实验室质量管理规范、传染病疫情报告制度、医疗废物处理等法规的贯彻落实情况进行检查；同时对血站设置的分支机构、固定采血点（室）、流动采血车以及储血点情况进行检查。<br>（二）单采血浆站：根据《血液制品管理条例》、《单采血浆站基本标准》等法规文件，以及2006年3月我部联合中编办、发展改革委、人事部、劳动保障部、国家食品药品监管局等9部委共同印发的《关于单采血浆站转制的工作方案》的要求，检查单采血浆站血源管理、体检、化验、原料血浆采集供应、传染病疫情报告制度、医疗废物处理等方面的管理规范的落实情况，在单采血浆站转制期间，重点要对供血浆者身份进行核对（有无跨区域采集血浆）、原料血浆采集量与采集间隔、一次性采血浆器材使用后的处置情况以及原料血浆供应情况进行检查。<br>（三）医疗机构临床用血情况：检查医疗机构血液来源是否为经批准的合法血站提供，医疗机构临床用血是否经审批，紧急情况下的应急用血是否经过检测。重点检查对医疗机构有无自采自供临床用血行为，临床用血是否全部经检测合格。<br>三、有关要求<br>（一）各级卫生行政部门要进一步提高对血液安全监管工作的认识，加大日常监管力度，组织开展对重点区域、重点的血站和单采血浆站进行重点监督检查，继续保持打击违法采供血行为的高压态势，确保血液安全。<br>（二）2006年11月10日前，请各省、自治区、直辖市卫生行政部门将本辖区的集中执法检查工作总结及汇总表（见附件）上报我部卫生监督局。总结不但要包括检查的基本情况（如检查的机构数、检查人数等）、检查发现的问题、整改措施等内容，还要统计2005年以来各级卫生行政部门受理、处理对各根据各地检查及我部组织的抽查情况，对工作开展迅速有力、成效显著的单位予以表扬，对工作开展不力的单位进行通报批评。<br>附件：血液管理执法检查汇总表<br><br>二○○六年七月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

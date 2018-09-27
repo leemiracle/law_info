@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】教体艺厅［2006］2号<BR>&nbsp;&nbsp;【发布日期】2006-03-01<BR>&nbsp;&nbsp;【生效日期】2006-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info21100.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于转发卫生部《全国流行性脑脊髓膜炎防控工作方案》的通知<br><br></font>(教体艺厅［2006］2号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局：<br><br>    为加强全国流行性脑脊髓膜炎预防与控制工作，卫生部制定印发了《全国流行性脑脊髓膜炎防控工作方案》，现转发给你们，并提出以下工作要求。<br><br>    一、各地中小学校及幼儿园应建立和落实晨检制度，加强对学生健康状况的监测。晨检工作应在学校专职（兼职）卫生保健人员或学校传染病疫情报告人的指导下，由班主任或班级卫生员对早晨到校的每个学生进行观察、询问，及时了解学生出勤、健康状况；发现学生有传染病早期症状者（例如发热、全身疼痛、头痛、呕吐、咳嗽、皮肤和粘膜出血点或瘀斑等）以及可疑传染病患者（请病假的学生应查明病因），应及时报告专职（兼职）卫生保健人员或学校传染病疫情报告人进行排查，以确保做到早发现，早报告。<br><br>    班主任要利用晨检时间有针对性地对学生进行健康教育，教育学生进行自我观察，如有发热、全身疼痛、头痛、呕吐、咳嗽等身体不适时，要及时告诉家长或老师，以确保早发现、早治疗。<br><br>    二、各级教育行政部门和学校必须尽快明确学校传染病疫情的报告人，负责学校传染病的监控与报告工作。学校传染病疫情报告人要与班主任加强沟通，及时了解学生的出勤、健康情况，一旦发现传染病病人或疑似传染病病人，应在第一时间向所在地、县(区)级疾病预防控制机构报告，同时向上级教育主管部门报告。报告内容应包括：发病时间、发病地点、发病人数、主要症状、密切接触者、已采取的措施等。各级教育行政部门接到疫情报告后，应及时报告上一级教育行政部门和卫生行政部门，重大疫情要向当地政府报告。<br><br>    三、各级各类学校应认真落实传染病预防与控制的各项措施，特别是要加强教学、生活场所通风与换气，教室等教学场所应根据季节和天气的不同，确定换气方式与次数，如温暖天气宜实行全日开窗的方式换气，寒冷天气在课前和课间休息期间宜利用教室和走廊的窗户开窗换气。学生宿舍等生活场所应采取切实措施，保持良好的通风与换气，宿舍管理员每天应督促学生在起床后，将宿舍窗户打开通风，确保宿舍空气新鲜。学校应每天对各班教室、宿舍等学生学习、生活场所开窗通风换气情况进行督促检查，纳入对年级、班级评比的内容。<br><br>    四、学校应根据传染病流行特点，通过多种形式加大对学生进行冬春季传染病预防知识的宣传教育，增强学生防范意识和防范能力，特别要教育学生养成良好的个人卫生，如：打喷嚏、咳嗽时应使用纸巾、手帕并掩着口鼻，不要直接面对他人打喷嚏、咳嗽，用过的纸巾、手帕应妥善处理勿乱扔；打喷嚏、咳嗽和擦鼻子后要洗手。接触病人及呼吸道分泌物后要立即洗手，看护患者要带口罩。要加强体育锻炼和营养、保持充足的休息，以增强体质、提高机体抵御疾病的能力。鼓励有病及时就医并居家休息等。<br><br>    五、在“流脑”等呼吸道传染病流行季节，尤其是已发生传染病流行的地区，学校应根据实际情况减少或停止大型室内集体活动，尽量避免全校范围的集会。<br><br>    六、为预防、控制流脑的发生、流行，按照《疫苗流通和预防接种管理条例》要求，经学校所在地县级以上人民政府决定，并报省、自治区、直辖市人民政府卫生主管部门备案的群体性预防接种工作，学校应配合当地疾病控制部门对学校人群实施预防接种。<br><br>    七、各级教育行政部门应主动协调卫生行政部门，加强对学校传染病预防与控制工作的督促检查，促进学校认真落实各项防控措施。<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2006〕73号<BR>&nbsp;&nbsp;【发布日期】2006-10-26<BR>&nbsp;&nbsp;【生效日期】2006-10-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=3941" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅关于进一步加强特种设备安全生产工作的意见<br><br></font>(皖政办〔2006〕73号)</p><br><br> <br>各市、县人民政府,省政府各部门、各直属机构：<br>    近年来，随着经济的快速发展，我省特种设备数量大幅度增加，应用范围迅速扩大，安全生产形势总体平稳，但在局部区域，特别是安全管理工作比较薄弱的乡镇、街道，因非法生产、非法使用特种设备或管理缺位而导致的事故时有发生。为确保人民群众生命财产安全，经省政府同意，现就进一步加强特种设备安全生产工作提出以下意见：<br>    一、充分认识做好特种设备安全生产工作的重要性<br>    特种设备是指涉及生命安全、危险性较大的锅炉、压力容器、压力管道、电梯、起重机械、客运索道、大型游乐设施等，其安全运行关系到人民群众的生命财产安全，关系到经济社会健康发展和社会稳定。各地、各有关单位要牢固树立“以人为本”和“安全发展”的理念，从构建和谐安徽、促进科学发展的高度充分认识加强特种设备安全工作的重要性，落实责任，强化措施，加强监管，确保特种设备运行安全。<br>    二、认真落实特种设备安全生产责任制<br>    一要落实特种设备生产、使用单位的主体责任。特种设备生产、使用单位必须严格执行国家有关法律、法规和安全技术规范。建立健全安全管理制度和岗位责任制度，合法生产、依法使用、严格管理特种设备，及时消除事故隐患；加强安全培训教育，提高从业人员操作技能和安全防范意识，做到持证上岗，按章作业；保证特种设备安全方面的投入。<br>    二要落实特种设备检验检测机构的把关责任。特种设备检验检测机构要认真履行职责，确保工作质量，及时报告检验检测中发现的严重事故隐患和重大问题，杜绝因把关不严而导致的安全责任事故。<br>    三要落实质监部门的安全监管责任。各级质监部门必须依法履行特种设备安全监察职责，建立完善安全监察责任制，不断提高特种设备登记率、定期检验率、持证上岗率、事故结案率；严把安全准入关，依法对特种设备相关单位和人员实施行政许可；强化现场安全监察，对特种设备生产、使用和检验检测活动开展监督检查，严肃查处违法行为；认真查处各类事故，严格追究相关责任。<br>    四要落实行业管理部门的安全管理责任。安全监管部门负责安全生产综合管理工作；建设行政主管部门负责房屋建筑和市政工程起重机械、公园游乐园、燃气等市政公用行业安全管理工作；能源行政主管部门负责电站锅炉、天然气管道等安全管理工作；交通行政主管部门负责安装有承压罐的危险化学品运输车辆安全管理工作；教育行政主管部门负责在校学生特种设备安全防护知识的教育，做好学校特种设备安全管理工作。<br>    三、深入开展特种设备安全生产专项整治工作<br>    各地要结合实际，把气瓶、压力管道、电站锅炉、起重机械、危险化学品承压特种设备，特别是土锅炉、简易电梯等作为重点，因地制宜地开展专项整治。切实解决当前特种设备安全工作中存在的突出问题，消除重特大事故隐患，逐步实现特种设备规范管理和运行。<br>    四、构建特种设备安全监管长效机制<br>    进一步健全监管组织网络。建立以特种设备安全监管部门为主导，企业为主体，有关基层政府、社区组织为延伸的安全监管组织体系。在落实安全监管部门和企业安全责任的同时，通过开展特种设备安全法规、业务知识的培训，提高基层政府、社区组织和企业有关人员的安全业务管理水平，发挥其在安全生产、隐患整改等方面的协管作用。<br>    充分运用现代信息技术，建设特种设备安全监管信息网络。通过信息网络平台，建立健全特种设备数据库，准确掌握特种设备的安全状况，及时发现并消除事故隐患，实现快捷有效的动态监管。<br>    制定和落实监管工作的各项措施，建立重要设备、重点场所、重点行业事故隐患定期排查和整改的有效机制，落实整改情况反馈制度。<br>    五、建立健全特种设备安全生产应急救援体系和预警机制<br>    各地要抓紧建立健全特种设备事故应急救援体系，制订完善应急救援预案，依托企业建立应急救援抢险队伍，特别是要根据需要，落实液氯、液氨、液化石油气等承压特种设备的应急救援专业抢险队伍。完善应急装备，组织开展应急救援演练。加强事故应急信息平台建设，及时准确地传递和反馈特种设备事故预测、预警信息，提高事故应急处置能力。针对我省电梯数量迅猛增加，电梯关人故障时有发生的现状，各级公安、安全监管、质监等部门要密切协作，落实电梯故障应急救援“110”联动措施。<br>    六、加强领导，广泛宣传，营造良好的特种设备安全工作环境<br>    各市、县人民政府要切实加强对特种设备安全工作的领导，将特种设备安全工作纳入政府安全生产体系，同时部署、同时检查、同时考核。要大力支持特种设备安全监管部门依法履行职责，对特种设备安全工作中存在的重大问题及时予以协调、解决。<br>    各地、各有关单位要大力宣传特种设备安全生产方面的法律法规，普及与群众生产生活联系密切的特种设备安全操作技能和应急处置知识，宣传先进典型和经验，对严重忽视安全生产、导致重特大事故的单位和人员要依法依纪予以严肃处理，不断增强全社会重视特种设备安全的意识和能力。<br><br>                                               安徽省人民政府办公厅<br>                                               二○○六年十月二十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

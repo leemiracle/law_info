@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交质监发[2006]179号<BR>&nbsp;&nbsp;【发布日期】2006-04-21<BR>&nbsp;&nbsp;【生效日期】2006-04-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/05zhuzhi/zhijianzz/zhijianwjgg/t20060430_32817.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于2006年交通基本建设质量监督工作的意见<br><br></font>(交质监发[2006]179号)</p><br> <br>  <br>各省、自治区、直辖市交通厅（委），天津市市政工程局，上海市市政工程管理局，上海市港口管理局，新疆生产建设兵团交通局，长江航务管理局：<br><br>    为全面贯彻落实科学发展观和全国交通工作会议精神，切实加强交通建设质量监督工作，现就2006年质量监督工作提出如下意见：<br><br>    一、各省级交通主管部门要按照分级管理原则和质量监督工作的要求，根据《公路工程质量监督规定》、《水运工程质量监督规定》，合理设置质量监督机构，进一步明确质量监督职责。未设置专职质监机构的市、县级交通主管部门须承担相应的质量监督职责。<br><br>    二、农村公路建设的质量监督管理主体是县级人民政府交通主管部门。各地要根据《农村公路建设质量管理办法》，结合当地实际，努力创新和完善适合当地实际的农村公路监督体制。各省级交通主管部门及其质监机构要加强对农村公路质量监督工作的指导，市级质监机构要加强农村公路的质量监督工作，并注意充分发挥当地群众的监督作用。<br><br>    三、各级交通主管部门要加强对水运工程质量监督工作的领导，切实履行好行业管理职能。继续做好港口体制改革后质量监督职能的转移调整工作，省级质监机构要按照部《关于港口体制改革中有关港口工程质量监督工作意见的函》（交函水[2003]84号）的要求，进一步落实监督职责，理顺管理体制，妥善处理遗留问题。<br><br>    对涉及交通、水利、电力等多部门管理的航电枢纽工程，各地应积极探索其质量监督工作的职责和模式，按照各方协调配合、明确各自监管职责、促进航电事业发展的原则，进一步落实交通主管部门在航电枢纽工程建设中的质量监督主体责任。<br><br>    四、各级交通主管部门要采取有效措施，加强行业监管，保证合理工期，落实工程质量事故上报制度和责任追究制度，严肃查处违法分包和转包，切实提高从业单位和从业人员的履约意识。<br><br>    五、各级质监机构要遵循科学、客观、公开、公正、公平的原则，健全质量监督工作制度，落实监督工作责任，完善监督模式，改进监督方法，细化监督工作程序，加强监督检查力度，提高监督工作的系统性、规范性和科学性。<br><br>    六、各级质监机构要进一步加大对质量保证体系的监督力度，重点监督各从业单位质量保证体系的建立和运行情况，确保制度完善、手段完备、控制有效，促进质量保证体系由结果的检查整改转变为过程的有效控制，充分发挥质量保证体系在工程质量管理中的基础性作用。<br><br>    七、各省级质监机构要继续加强对国家和部、省重点建设项目的监督，特别是要加强对重大工程的质量监督工作力度。要制定重点项目年度监督检查计划，建立项目监督责任人制度，对一些技术要求高、施工难度大的重大工程，质监机构要派驻现场监督组。<br><br>    八、各级质监机构要按照质量监督规定和质量监督检查的有关要求，进一步加强工程现场质量管理行为和工程实体质量的监督检查工作，重点是质量管理的薄弱环节，涉及工程质量、安全和耐久性的主要技术指标，以及工程技术标准强制性条文的贯彻和质量通病的防治情况。<br><br>    九、各级质监机构要提高监督检查的范围和频率，采取综合检查、专项检查和巡视检查相结合的方式，切实加强对在建工程项目的监督检查力度，对重大工程的综合检查每年不少于2次。<br><br>    对督查中发现的质量问题应书面告知责任单位，并对整改情况进行跟踪检查。对一般质量管理问题和一般质量缺陷，责令限期整改；对不合格工程，责令限期返修；对违法的质量行为要依法予以查处。<br><br>    十、各级交通主管部门要高度重视农村公路的质量监督工作，结合农村公路量大面广、投资少、管理和技术力量薄弱的特点，积极探索适合农村公路质量管理的有效监督方式，注重对路基工程、路面工程、桥涵构造物等重点环节、重点部位的质量控制，确保工程的耐久和使用安全。<br><br>    十一、各级质监机构要进一步加强内河水运工程的质量监督工作，采取有效措施，从施工工艺、质量行为、实体质量等方面加强监督，改变内河建设管理粗放、质量水平不高的现状。相关省份要按照七省两市高端会议提出的合力建设长江黄金水道，促进长江沿线经济发展的要求，重点加强长江黄金水道水运工程建设项目的质量监督工作。<br><br>    十二、各级质监机构要按照公路工程竣工验收办法、水运工程竣工验收办法的要求，做好竣工验收质量鉴定工作，注重质量数据的积累和汇总分析，全面、科学、公正地提出检测报告和鉴定意见。要加强对质量检测单位的管理，保证检测结果真实地反映工程质量状况。质监机构要对质量鉴定结果负责。<br><br>    十三、各地要结合自身实际情况创新质量监督模式，不断丰富质量监督的方式方法，通过示范工程、典型剖析、评比创优等活动，营造良好的质量氛围。<br><br>    十四、各级交通主管部门及其质监机构应以质量通病的研究治理为切入点，结合本地实际，督促从业单位找准质量通病、分析产生原因、优化治理方法、加大治理力度，通过解决管理通病和工艺通病，促进实体质量的提高。在质量督查中注意加强对易产生质量通病部位的工艺、工序的检查，及时总结推广治理质量通病的典型经验和现场质量控制的新技术、新工艺。<br><br>    十五、各省级质监机构应重视试验检测市场的培育，根据公路水运工程建设市场需求，按照布局合理、结构优化的原则，及时组织检测机构等级申报评定和换证复查工作，特别是要尽快建立和水运工程建设规模相适应的试验检测机构网络。各地应逐步建立第三方检测制度和检测单位的招投标制度，培育规范、有序的试验检测市场。<br><br>    各省级质监机构要按照《公路水运工程试验检测管理办法》、《公路水运工程试验检测人员考试办法》的要求，加强对试验检测机构和人员的动态管理，严肃查处试验检测数据弄虚作假行为。试验检测机构和有关人员应严格按照规程进行试验和检测，确保数据真实可靠。<br><br>    十六、各地要进一步整顿监理市场、规范监理行为，加强对监理企业的动态管理，形成企业能进能出的机制。通过监理诚信体系建设，促进监理企业严格履约，诚实守信。<br><br>    十七、各级交通主管部门要进一步加强监理招投标管理工作，切实保证招投标工作的公开、公正、公平、规范、有序。按部《关于完善公路基本建设工程概算预算编制办法有关内容的通知》（交公路发[2005]230号）要求，检查公路工程监理费用调整的落实情况，督促建设单位严格按照国家有关规定确定监理费用，不得盲目压价，充分体现“优监优酬”的原则。招标单位要以能力为主、报价为辅进行招标，选择有实力的单位承担监理任务，实现依法招标、规范运作、注重实力、严格履约的良好氛围。<br><br>    十八、各级交通主管部门及其质监机构要认真总结交通建设工程监理的经验，研究论证监理工作方式和运行机制，完善监理制度，推行监理工程师负责制。监理工程师担任的监理岗位必须与其执业资格相符，对监理企业不按合同履行职责或建设单位不严格执行监理制度、干预监理履行职责等违规行为要严肃处理。<br><br>    十九、各级质监机构要以监理工程师执业信息登记为手段，加强监理人员资格的动态管理。进一步做好监理工程师的资格考试和继续教育工作，不断提高监理人员的职业道德和业务能力，严肃查处监理人员弄虚作假、吃拿卡要等行为。<br><br>    二十、各级质监机构要依法履行行政执法职能，认真贯彻落实现行质量管理的法律法规，依法监督、规范管理，做到不缺位、不越位、不错位。<br><br>    二十一、各级质监机构要不断加强廉政建设，自觉规范监督行为，努力把质监机构建设成为执法文明、管理规范的专门管理机构。<br><br>    二十二、各级质监机构要把队伍建设作为一项长期任务，努力提高质量监督人员的政治素质，不断加强业务培训，完善知识结构，提高监督能力和执法水平，努力造就一支懂技术、会管理、作风硬的质监队伍。<br><br>    二十三、各级质监机构要按照《公路工程质量监督规定》、《水运工程质量监督规定》的要求，合理配备监督人员，专业技术人员比例力争达到80%以上。要根据监督工作实际需要，充分利用社会资源，建立专家库，为质量监督工作提供技术支持。<br><br>    二十四、各级质监机构要充分利用现代信息技术和网络技术，加快质量、安全、监理、试验检测的数据库建设和管理系统开发，为实现科学高效管理奠定良好基础。<br><br>    二十五、各级质监机构应加强质量动态信息的统计分析工作，定期发布工程建设质量分析报告。通过收集工程质量数据，分析判断质量状况，研究质量发展变化的规律和趋势，解决共性的质量问题，使工程质量监督工作更具有针对性，为改进和加强工程质量管理工作提供依据。<br><br>中华人民共和国交通部<br>二ＯＯ六年四月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

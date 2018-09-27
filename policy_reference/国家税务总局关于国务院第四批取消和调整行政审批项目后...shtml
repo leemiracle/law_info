@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发〔2008〕56号<BR>&nbsp;&nbsp;【发布日期】2008-05-22<BR>&nbsp;&nbsp;【生效日期】2008-05-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7936685.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于国务院第四批取消和调整行政审批项目后涉及简并纳税人涉税资料业务操作处理办法的通知<br> <br></font>(国税发〔2008〕56号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    根据《国务院关于第四批取消和调整行政审批项目的决定》（国发[2007]33号，以下简称决定），决定对《国家税务总局关于清理简并纳税人报送涉税资料有关问题的通知》（国税函[2007]1077号，以下简称通知）相关内容进行调整，具体要求通知如下：<br>    一、取消的业务<br>    （一）决定中取消的行政审批目录第48－61项所得税业务分别为"企业技术改造国产设备投资抵免企业所得税核准"，"农、林、牧业和经济不发达的边远地区外商投资企业延长减征企业所得税期限审批"、"外商投资企业的外国投资者再投资退税审批*"、"外国企业改变纳税年度审批"、"外商投资企业定期减免企业所得税审批*"、"外商投资企业分阶段投资或追加投资享受税收优惠审批*"、"中西部地区鼓励类外商投资企业延长三年减按15％税率征收企业所得税审核"、"中外合资、合作经营企业可行性研究费用列入开办费核准"、"外商投资企业和外国企业购买国产设备投资抵免企业所得税审批*"、"外国企业在我国境内设立两个或两个以上营业机构汇总申报企业所得税审批*"、"外商投资企业固定资产缩短折旧年限审批"、"外商投资企业特许权使用费预提所得税减免审批*"、"在特定地区设立的从事特定项目的外商投资企业减征所得税审批*"、"从事能源交通基础设施项目的外商投资企业减低税率缴纳企业所得税审批"，对应通知中《保留的办税业务清单》的第125、130、147、43、143、139、140、146、150、129、38、148、132、141 、135项，予以取消。<br>    （二）决定中取消的行政审批目录第62项 "拆本使用发票行政审批事项"，对应通知中《保留的办税业务清单》的第62项，该业务作为禁止行为予以取消。<br>    （三）决定中取消的行政审批目录第64项"跨规定的使用区域携带、邮寄、运输空白发票的审批"业务，按国家税务总局规定除可跨省市开具的发票及到外省市印制的发票，允许跨地区携带、邮寄和运输空白发票外，严禁跨使用区域携带、邮寄、运输，因此，对应通知中《保留的办税业务清单》第64项予以取消。<br>    二、调整的业务<br>    （一）决定中取消的行政审批目录第41项"出口企业退税登记证核准"业务，在行政审批取消后，业务改为"出口货物退（免）税认定"，对应通知中《保留的办税业务清单》第20项业务的办理及操作指南内容不变。<br>    （二）决定中取消的行政审批目录第45项"普通发票领购行政审批"事项，对应通知中《保留的办税业务清单》第46项，纳税人报送的主表中不必再报送《税务行政许可申请表》，原报送的主表《纳税人领购发票票种核定申请审批表》改名为《纳税人领购发票票种核定申请表》，表的内容不变，其他报送资料不变。税务机关受理后应对纳税人提出的申请进行审核，并根据纳税人生产经营等情况，核准纳税人使用发票的种类、联次、版面金额。审核期限为5天。审核完毕，通知纳税人办理领购发票事宜。<br>    （三）决定中取消的行政审批目录第63项"使用计算机开具发票行政许可审批"事项，对应通知中《保留的办税业务清单》第63项，纳税人报送主表时不再报送《税务行政许可申请表》，改为报送《纳税人领购发票票种核定申请表》（表式与"普通发票领购行政审批"相同）。<br>    三、下放审批权限的业务<br>    决定中下放行政审批权限目录第19项 "外国政府、非营利机构等在我国设立代表机构给予免税待遇审批"，对应通知中《保留的办税业务清单》第131项，审批权限调整为"省、自治区、直辖市国家税务局"，其"税务机关承诺时限"改为在60个工作日内办结，今后可根据新企业所得税法实施后相关政策的调整情况来确定。<br>    四、其他业务<br>    《保留的办税业务清单》中未列明的其他业务，按如下原则处理：<br>    （一）决定中下放管理层级第20项审批"国家银行和金融机构在境外发行债券所得利息符合优惠利率标准免征所得税审批"，属不存在的业务，不予执行。<br>    （二）取消的行政审批项目中第42项"列名钢铁企业销售'以产顶进'钢材准予退税审批"，政策已调整，不予执行。<br>    （三）取消的行政审批项目中第46项"建立收支粘贴簿、进销货登记簿或者使用税控装置审批"，税控装置的安装使用属于行政强制推行范畴，凡是推广范围内的纳税人必须按照有关规定安装和使用税控装置，不需审批。<br>    建立收支粘贴簿和进销货登记簿工作由各地税务机关确定，税务总局不做统一规定。<br>    （四）取消的行政审批项目中第47项业务，"企业跨地域改组、分立、合并中整体资产置换的税收待遇确认"，原审批改为备案类业务，所需报送的资料按新的所得税法规定另行通知。<br>    （五）以新政策为准的业务。新的企业所得税法及其实施条例自2008年1月1日起实施，原内外资企业所得税业务已发生变化，同时与新税法相配套的有关办法正在研究制定中，待相关办法公布后，通知中《保留的办税业务清单》除上述业务外，相应业务后续调整。<br>    本通知第一条取消的业务中标注*号为适用新企业所得税法衔接或过渡政策的业务，其办税业务清单的调整应以衔接或过渡政策规定为准。<br><br>                                                  国家税务总局<br>                                              二○○八年五月二十二日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

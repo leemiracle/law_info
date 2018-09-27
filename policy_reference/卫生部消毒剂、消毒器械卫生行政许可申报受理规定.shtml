@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发[2006]191号<BR>&nbsp;&nbsp;【发布日期】2006-05-18<BR>&nbsp;&nbsp;【生效日期】2006-06-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12010&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部消毒剂、消毒器械卫生行政许可申报受理规定<br><br></font>(卫监督发[2006]191号)</p><br><br> <br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，卫生部卫生监督中心、中国疾病预防控制中心，有关单位：<br><br>    《健康相关产品卫生行政许可程序》（以下简称《程序》）将于2006年6月1日起正式实施。为配合《程序》的实施，我部制定了《健康相关产品生产企业卫生条件审核规范》（附件1）、《卫生部化妆品卫生行政许可申报受理规定》（附件2）、《卫生部消毒剂、消毒器械卫生行政许可申报受理规定》（附件3）、《卫生部涉及饮用水卫生安全产品卫生行政许可申报受理规定》（附件4）及相关许可申请表（附件5-22）。现印发给你们，请遵照执行。<br> <br>二00六年五月十八日<br><br><br>卫生部消毒剂、消毒器械卫生行政许可申报受理规定<br><br>    <font class='zhang'>第一章</font>  总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为规范消毒剂、消毒器械申报受理工作，保证许可工作公开、公平、公正，制定本规定。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本规定所称消毒剂、消毒器械是指依据《<a href=javascript:ROF(96085,0) class=alink>中华人民共和国传染病防治法</a>》及《<a href=javascript:ROF(15700,0) class=alink>消毒管理办法</a>》，由卫生部许可的消毒剂和消毒器械。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  消毒剂、消毒器械的申报受理应当严格按照《<a href=javascript:ROF(109665,0) class=alink>健康相关产品卫生行政许可程序</a>》的规定进行。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  申报材料的一般要求：<br><br>    （一）  首次申报消毒产品许可的，应提供原件1份、复印件4份；复印件应当清晰并与原件一致；<br><br>    （二）  申请延续、变更、补发批件、补正资料的，提供原件1份；<br><br>    （三）  除检验报告及官方证明文件外，申报材料原件应逐页加盖申报单位公章或盖骑缝章；<br><br>    （四）  使用A4规格纸张打印，使用明显区分标志，按规定顺序排列，并装订成册；<br><br>    （五）  使用中国法定计量单位；<br><br>    （六）  申报内容应完整、清楚，同一项目的填写应当一致；<br><br>    （七）  所有外文（国外地址除外）均应译为规范的中文，并将译文附在相应的外文资料前。        <br><br>    <font class='zhang'>第二章</font>  首次申请许可的申报材料<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  申请国产消毒剂许可的，应提交下列材料：<br><br>    （一）国产消毒剂卫生行政许可申请表； <br><br>    （二）省级卫生监督部门出具的生产现场审核意见； <br><br>    （三）研制报告； <br><br>    （四）企业标准； <br><br>    （五）经认定的消毒产品检验机构出具的检验报告及相关资料，按下列顺序排列：<br><br>    1、检验申请表；<br><br>    2、检验受理通知书；<br><br>    3、产品说明书；<br><br>    4、采样单；<br><br>    5、理化检验报告；<br><br>    6、杀灭微生物效果检测报告；<br><br>    7、毒理学安全性检验报告；<br><br>    8、消毒产品检验规定要求的其它检验报告； <br><br>    （六）代理申报的，应提供委托代理证明； <br><br>    （七）可能有助于评审的其它资料。 <br><br>    另附未启封样品小包装1件。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  申请进口消毒剂许可的，应提交下列材料：<br><br>    （一）进口消毒剂卫生行政许可申请表； <br><br>    （二）研制报告； <br><br>    （三）产品配方； <br><br>    （四）生产工艺简述及简图； <br><br>    （五）质量标准； <br><br>    （六）经卫生部认定的消毒产品检验机构出具的检验报告及相关资料，按下列顺序排列：<br><br>    1、检验申请表；<br><br>    2、检验受理通知书；<br><br>    3、产品说明书；<br><br>    4、理化检验报告；<br><br>    5、杀灭微生物效果检测报告；<br><br>    6、毒理学安全性检验报告；<br><br>    7、消毒产品检验规定要求的其它检验报告。 <br><br>    （七）产品原包装（含产品标签）； <br><br>    （八）产品说明书； <br><br>    （九）产品生产国（地区）允许生产销售的证明文件； <br><br>    （十）代理申报的，应提供委托代理证明； <br><br>    （十一）可能有助于评审的其它资料。 <br><br>    另附未启封样品小包装1件。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  申请国产消毒器械许可的，应提交下列材料：<br><br>    （一）国产消毒器械卫生行政许可申请表； <br><br>    （二）省级卫生监督部门出具的生产现场审核意见； <br><br>    （三）研制报告； <br><br>    （四）产品结构图和作用原理； <br><br>    （五）企业标准； <br><br>    （六）经认定的检验机构出具的检验报告及相关资料，按下列顺序排列：<br><br>    1、检验申请表；<br><br>    2、检验受理通知书；<br><br>    3、产品说明书；<br><br>    4、采样单；<br><br>    5、杀菌因子强度检测报告；<br><br>    6、杀灭微生物效果检测报告；<br><br>    7、毒理学及电器安全性检验报告；<br><br>    8、产品使用寿命或主要元器件寿命的检测报告； <br><br>    9、消毒产品检验规定要求的其它检验报告。 <br><br>    （七）产品铭牌； <br><br>    （八）代理申报的，应提供委托代理证明； <br><br>    （九）可能有助于评审的其它资料。 <br><br>    另附完整产品样品1件。大型消毒器械无法提供样品的，应提供产品照片。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  申请进口消毒器械许可的，应提交下列材料：<br><br>    （一）进口消毒器械卫生行政许可申请表； <br><br>    （二）研制报告； <br><br>    （三）结构图和作用原理； <br><br>    （四）生产工艺简述及简图； <br><br>    （五）质量标准； <br><br>    （六）经卫生部认定的检验机构出具的检验报告及相关资料，并按下列顺序排列：<br><br>    1、检验申请表；<br><br>    2、检验受理通知书；<br><br>    3、产品说明书；<br><br>    4、杀菌因子强度检测报告；<br><br>    5、杀灭微生物效果检测报告；<br><br>    6、毒理学及电器安全性检验报告；<br><br>    7、产品使用寿命或主要元器件寿命的检测报告； <br><br>    8、消毒产品检验规定要求的其它检验报告。<br><br>    （七）产品铭牌和使用说明书；<br><br>    （八）产品生产国（地区）允许生产销售的证明文件；<br><br>    （九）代理申报的，应提供委托代理证明；<br><br>    （十）可能有助于评审的其它资料。<br><br>    另附完整产品样品1件。大型消毒器械无法提供样品的，应提供产品照片。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  申报消毒剂新产品许可的，应提交下列材料：<br><br>    （一）消毒剂新产品卫生行政许可申请表； <br><br>    （二）研制报告； <br><br>    （三）产品配方；<br><br>    （四）生产工艺简述及简图； <br><br>    （五）主要成分含量及检验方法；<br><br>    （六）企业标准（进口产品提供质量标准）； <br><br>    （七）产品使用说明书和标签； <br><br>    （八）国内外的文献资料； <br><br>    （九）进口产品提供产品生产国（地区）允许生产销售的证明文件； <br><br>    （十）代理申报的，应提供委托代理证明； <br><br>    （十一）可能有助于产品评审的其它资料。 <br><br>    另附未启封样品小包装1件。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  申报消毒器械新产品许可的，应提交下列材料：<br><br>    （一）消毒器械新产品卫生行政许可申请表； <br><br>    （二）研制报告； <br><br>    （三）产品结构图及作用原理； <br><br>    （四）生产工艺简述及简图； <br><br>    （五）作用原理及检验方法；<br><br>    （六）企业标准（进口产品提供质量标准）； <br><br>    （七）产品使用说明书和铭牌； <br><br>    （八）国内外的文献资料； <br><br>    （九）进口产品提供产品生产国（地区）允许生产销售的证明文件； <br><br>    （十）代理申报的，应提供委托代理证明； <br><br>    （十一）可能有助于产品评审的其它资料。 <br><br>    另附完整产品样品1件。大型消毒器械无法提供样品的，应提供产品照片。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  申报产品以委托加工方式生产的，除按规定提交相关材料外，还须提供以下材料：<br><br>    （一）委托方与被委托生产企业双方签订的委托加工协议书； <br><br>    （二）进口产品应提供被委托生产企业的质量管理体系或良好生产规范的证明文件。<br><br>    <br><br>    <font class='zhang'>第三章</font>  延续、变更许可及补发批件的申报材料<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  申请延续许可有效期的，应提交以下材料：<br><br>    （一）消毒剂、消毒器械卫生行政许可延续申请表； <br><br>    （二）卫生许可批件原件； <br><br>    （三）产品配方；<br><br>    （四）质量标准或经备案的企业标准； <br><br>    （五）市售产品标签（器械为铭牌）；<br><br>    （六）市售产品使用说明书； <br><br>    （七）代理申报的，应提供委托代理证明；<br><br>    （八）可能有助于评审的其它资料。 <br><br>    消毒剂另附未启封的市售产品小包装1件，消毒器械另附完整的市售产品1件（大型消毒器械可以提供照片）。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  申请变更许可事项的，应提交以下材料：<br><br>    （一）健康相关产品卫生行政许可变更申请表； <br><br>    （二）卫生许可批件原件； <br><br>    （三）其它材料； <br><br>    1、生产企业名称、地址的变更：<br><br>    （1）国产产品须提供当地工商行政管理机关出具的证明文件原件、生产企业卫生许可证复印件；<br><br>    （2）进口产品须提供生产国政府有关部门或认可机构出具的相关证明文件。其中，因企业间的收购、合并而提出变更生产企业名称的，也可以提供双方签订的收购或合并合同的复印件。证明文件需翻译成中文，中文译文应有中国公证机关的公证；<br><br>    （3）企业集团内部进行调整的，应提供当地工商行政管理机关出具的变更生产企业与变更前的生产企业同属于一个集团的证明文件；子公司为台港澳投资企业或外资投资企业的，可提供《中华人民共和国外商投资企业批准证书》或《中华人民共和国台港澳侨投资企业批准证书》公证后的复印件；<br><br>    （4）涉及改变生产现场的，应提供变更后生产企业产品的卫生学检验报告。消毒剂需提供三批产品的有效成分含量、pH值和稳定性检验报告；消毒器械应按《消毒产品检验规定》的要求，提供相应的检验报告。国产产品，还应提交变更后生产企业所在地省级卫生监督部门出具的生产现场审核意见；进口产品，必要时卫生部对其生产现场进行审查和（或）抽样复验。<br><br>    2、产品名称的变更：<br><br>    申请变更产品中文名称的，应在变更申请表中说明理由，并提供变更后的产品设计包装；进口产品外文名称不得变更。<br><br>    3、国产产品批件备注栏中实际生产企业的变更：<br><br>    （1）涉及委托生产关系的，提供委托加工协议书； <br><br>    （2）提供变更后生产企业产品的卫生学检验报告。消毒剂需提供三批产品的有效成分含量、pH值和稳定性检验报告；消毒器械应按《消毒产品检验规定》的要求，提供相应的检验报告<br><br>    （3）变更后生产企业所在地省级卫生监督部门出具的生产现场审核意见。<br><br>    4、申请其他可变更项目变更的，应详细说明理由，并提供相关证明文件。<br><br>    <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  申请补发许可批件的，应提交下列材料：<br><br>    （一）健康相关产品卫生许可批件补发申请表； <br><br>    （二）因批件损毁申请补发的，提供健康相关产品卫生许可批件原件;<br><br>    （三）因批件遗失申请补发的，提供刊载遗失声明的省级以上报刊原件（遗失声明应刊登20日以上）。<br><br>    <br><br>    <font class='zhang'>第四章</font>  各项申报材料的具体要求<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  生产国（地区）允许生产销售的证明文件应符合下列要求:<br><br>    （一）由产品生产国（地区）政府主管部门、行业协会出具。无法提供文件原件的，可提供复印件，复印件须由出具单位确认或由我国驻产品生产国使（领）馆确认；<br><br>    （二）应载明产品名称、生产企业名称、出具文件的单位名称并盖有单位印章或法定代表人（或其授权人）签名及文件出具日期；<br><br>    （三）所载明的产品名称和生产企业名称应与所申报的内容完全一致；如为委托加工或其它方式生产，其证明文件所载明的生产企业与所申报的内容不一致时，由申报单位出具证明文件予以说明；<br><br>    （四）一份证明文件载明多个产品的应同时申报，其中一个产品提供原件，其它产品可提供复印件，并提交书面说明，指明原件在哪个产品申报资料中；<br><br>    （五）生产销售的证明文件如为外文，应译为规范的中文，中文译文应经中国公证机关公证；<br><br>    （六） 无法提交生产销售证明文件的，卫生部可对产品生产现场进行审核。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  委托代理证明应符合下列要求：<br><br>    （一）应载明委托申报的产品名称、受委托单位名称、委托事项和委托日期，并盖有委托单位的公章或法定代表人签名；<br><br>    （二）一份委托代理证明文件载明多个产品的应同时申报，其中一个产品提供原件，其它产品可提供复印件，并提交书面说明，指明原件在哪个产品申报资料中；<br><br>    （三）如为外文，应译成规范的中文，并应经中国公证机关公证。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  生产现场审核意见应按下列顺序提交：<br><br>    （一）  生产现场审核表；<br><br>    （二）  健康相关产品生产企业卫生条件审核申请表；<br><br>    （三）  产品配方或结构图； <br><br>    （四）  生产工艺简述和简图； <br><br>    （五）  生产设备清单； <br><br>    （六）  产品使用说明书、标签（铭牌）；<br><br>    （七）  生产企业卫生许可证复印件； <br><br>    （八）  其他材料。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  研制报告应符合下列要求：<br><br>    （一）消毒剂研制报告要求：<br><br>    1、产品开发目的，近5年国内外同类产品研究现状分析；<br><br>    2、配方各成分的作用及其科学依据，配方筛选试验数据；<br><br>    3、生产工艺流程，反应条件、工艺技术参数等的依据；<br><br>    4、产品感官性状、物理特性、化学稳定性，pH值、主要杀菌成份的含量（应附完整的分析方法或测试原理）、对物品（金属、织物等）的腐蚀性；<br><br>    5、消毒功效试验应根据产品的特性和用途进行设计，结果应描述该产品对不同微生物的最低有效剂量；温度、pH值、有机物等因素对该产品杀菌效果的影响；模拟现场或现场消毒效果，并提供所用测试方法和具体试验数据；<br><br>    6、产品和配方各组分的毒理安全性资料。<br><br>    （二）消毒器械研制报告要求：<br><br>    1、产品开发目的，近5年国内外同类产品研究现状分析；<br><br>    2、产品结构、作用原理；<br><br>    3、生产工艺流程，组装程序以及重要技术参数等工艺技术要求；<br><br>    4、具有消毒、灭菌作用的消毒器械，应进行杀菌因子的强度检测（应附完整的分析方法或测试原理）、对物品（金属、织物等）的腐蚀性检测等。并根据产品的特性和用途设计消毒功效方面的试验；<br><br>    4、其它器械需按有关标准要求进行全面测试；<br><br>    5、可能对人体产生危害的产品需提供产品的安全性资料。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  补正材料应按下列要求提交：<br><br>    （一）针对"行政许可技术审查延期通知书"提出的评审意见提交完整的补正材料，补正材料须逐页加盖申报单位的公章；<br><br>    （二）接到"行政许可技术审查延期通知书"后，申报单位应在一年内提交补正资料，逾期未提交的，视为终止申报。如有特殊情况的应提交书面说明。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  产品配方应符合下列要求： <br><br>    （一）标明全部成份名称，规格、等级及准确加入量；<br><br>    （二）成分名称以化学名称表述，写出其结构式、分子量；<br><br>    （三）植物提取物，注明提取液用量、生药含量及植物的来源，并给出拉丁文学名；<br><br>    （四）二元或多元包装的产品应将各包装配方分别列出；<br><br>    （五）对于化学合成的产品，应给出合成所用原料、规格和用量，以及最终产品的组份。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  产品标准应符合下列要求：<br><br>    （一）企业标准应符合《标准化工作导则第一部分：标准的结构和编写规则》（GB/T 1.1-2000）的要求，应包括感官指标、理化指标；<br><br>    （二）感官指标应描述产品的感官性状；理化指标应符合《消毒卫生规范》的要求，包括：有效成份含量、pH值、重金属含量；<br><br>    （三）进口产品可提供产品的质量标准。 <br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  消毒器械检验报告的要求：<br><br>    （一）  省级以上卫生行政部门认定的检验机构能够进行检验的试验项目需提供认定检验机构出具的检测报告；<br><br>    （二）  电器安全性试验和电器寿命试验的报告需通过国家计量认证的检验机构出具；<br><br>    （三）  国内检验机构无法进行的试验项目可以提供国外实验室的报告，并提供相关检测方法及使用标准。国外实验室的资质应满足下列条件：<br><br>    1、  经过实验室资格认证的，应提供资质认证证书；<br><br>    2、  未经实验室资格认证的，应提供实验室严格遵循《良好实验室操作规范》（Good Laboratory Practice，GLP）的证明；<br><br>    3、  其它有助于说明实验室资质的资料。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  大型消毒器械是指体积大、不易搬动的消毒器械，必须符合下列条件之一：<br><br>    （一）高度≥150cm；<br><br>    （二）长度或者宽度≥100cm；<br><br>    （三）重量≥50Kg。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  本规定由卫生部解释。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  本规定自2006年6月1日起实施，以往卫生部发布的有关文件与本规定不一致的，以本规定为准。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

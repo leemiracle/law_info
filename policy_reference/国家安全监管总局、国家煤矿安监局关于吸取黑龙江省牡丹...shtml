@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局、国家煤矿安监局<BR>&nbsp;&nbsp;【发布文号】安监总煤监〔2008〕9号<BR>&nbsp;&nbsp;【发布日期】2008-01-09<BR>&nbsp;&nbsp;【生效日期】2008-01-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-01/10/content_270822.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局、国家煤矿安监局关于吸取黑龙江省牡丹江市穆棱市顺发煤矿“12・29”重大瓦斯爆炸事故教训做好春节“两会”期间煤矿安全生产工作的通知<br><br></font>(安监总煤监〔2008〕9号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团煤矿安全监管部门和煤炭行业管理部门，各省级煤矿安全监察机构，司法部直属煤矿管理局，有关中央企业：<br><br>    2007年12月29日18时33分，黑龙江省牡丹江市穆棱市顺发煤矿发生重大瓦斯爆炸事故，当时井下共有21人，其中19人死亡、2人受伤。 <br><br>    顺发煤矿为乡镇煤矿，始建于1996年，1998年投产，双斜井开拓。该矿设计能力3万吨/年，2006年生产能力核定为4万吨/年，现开采3号煤层，通风方式为中央并列抽出式，属低瓦斯矿井。安全生产许可证被暂扣，煤炭生产许可证已过期，采矿许可证造假，超层、非法盗采。经初步调查分析，该起重大事故暴露出以下突出问题：一是非法违法生产。弄虚作假，非法超层盗采2号煤层，证照不全，安全生产许可证被暂扣，煤炭生产许可证过期而继续违法生产；二是瓦斯防治存在重大隐患，矿井通风能力不足，回风系统部分巷道断面狭小、风阻大，存在不合理串联通风和循环风，暖风炉未投入使用致使防尘水管冻结，监测监控系统不能显示数据无法正常使用；三是违规生产，4万吨/年能力的矿井井下布置3采6掘共9个采掘工作面，事故当班有2采3掘共5个采掘工作面作业，严重违反煤矿安全生产相关规程标准；四是抗拒安全执法，对黑龙江煤矿安监局哈南分局和穆棱市安全监管局分别于2007年11月26日和12月13日下达的停产指令置若罔闻。 <br><br>    事故发生后，国务院领导同志做出重要批示，提出明确要求。安全监管总局、煤矿安监局立即派员赶赴现场。目前，事故调查组已经成立并开展事故调查工作，公安机关已控制相关责任人。 <br><br>    为深刻吸取“12.29”事故教训，进一步加强煤矿安全生产工作，确保春节和“两会”期间煤矿安全生产，特提出如下要求： <br><br>    一、煤矿企业要切实加强“一通三防”管理，落实隐患排查、节日期间停产检修和值班工作 <br><br>    1.煤矿要严格落实“先抽后采，监测监控，以风定产”的瓦斯治理方针。要严格矿井采掘工作面的布置，按规定控制布置采掘工作面的数量，保证通风系统稳定可靠，严禁井下多头作业。要实行分区通风，坚决杜绝无风、微风作业，严禁不合理串联通风。要加强矿井通风设施的管理，确保采区和工作面通风系统稳定可靠。严格按规定安装瓦斯监测监控系统，并加强系统维护，必须按规定的地点和数量安装瓦斯监测监控探头，并要定期调试、校正，瓦斯超限必须能够及时报警、断电，保障系统正常运行。一旦发现井下作业地点无计划停风和瓦斯超限，必须立即停止作业，采取措施，撤出人员。 <br><br>    2.煤矿在春节和“两会”期间要继续深入开展隐患排查。煤矿企业要严格遵守《国务院关于预防煤矿生产安全事故的特别规定》（国务院令第446号）的相关要求，建立健全安全生产隐患排查、治理和报告制度。要定期组织隐患排查，并将排查情况每季度向县级以上地方人民政府负责煤矿安全生产监督管理的部门、煤矿安全监察机构写出书面报告，报告应当经煤矿企业负责人签字。对查出的问题必须及时整改并落实整改负责人和整改期限，隐患排查情况和隐患整改情况应当及时书面上报驻地煤矿安全监察分局。 <br><br>    3.煤矿要切实落实节日放假或停产检修和值班工作的具体措施。计划在春节和“两会”期间停产检修的煤矿，要制定节日停产检修工作方案和具体安全保障措施，落实节日停产检修工作的组织机构。坚决杜绝只停产不检修而留下事故隐患。春节放假和“两会”期间停产的煤矿，要加强通风和排水，严防因停止通风和排水滋生事故隐患。煤矿企业要制定和落实领导值班制度，认真做好节日期间安全应急值守工作，切实做到24小时安全生产调度值班。 <br><br>    二、地方有关部门要采取有力措施，严厉打击非法违法生产行为，切实做好煤矿整顿关闭和节后复产验收工作 <br><br>    1. 严厉打击非法违法生产行为。要建立健全联合执法机制，落实责任措施，加强监督检查，严厉打击非法开采、超层越界开采，打击无证或证照不全矿井擅自生产等非法、违法行为。对发现的非法、违法违规生产行为，要依法没收其非法所得，严格查处直接责任者和有关人员的责任，构成犯罪的，要移送司法机关依法追究刑事责任。对抗拒执法、拒不执行监管监察指令的，要依法实施关闭。要鼓励职工、群众和各类媒体举报煤矿非法违法生产现象。 <br><br>    2.进一步加强煤矿整顿关闭工作。地方有关部门要进一步加快关闭进度，已公告关闭矿井要坚决关闭到位；对能力核定由3万吨升为4万吨的矿井进行复核，对存在重大隐患拒不整改或整改无效的矿井，要吸取“12.29”事故教训，加大力度再关闭一批。要进一步采取有效措施，依法严厉打击非法采煤窝点，加强对已关闭矿井的监管巡查工作，严防已关闭矿井“死灰复燃”。 <br><br>    3.地方煤矿安全监管部门要切实做好煤矿节后复产验收工作。煤矿要成立专门的复产验收工作组织机构，落实责任制；要制定具体的复产验收工作标准和方案；落实送电、供风、瓦斯排放和井下劳动定员等各项安全保障措施。煤矿复产前必须向行业主管部门提出书面申请，主管部门应组织相关单位检查验收，验收合格的煤矿必须经地方政府主管领导签字同意、下达书面通知后方可恢复生产。对验收不合格的煤矿要下达限期整改指令，并加强监督检查；整改后仍达不到复产验收标准的，提请地方人民政府予以关闭。 <br><br>    三、各级煤矿安全监察机构要依法从快严肃查处事故，加强春节和“两会”期间的煤矿安全监察工作 <br><br>    1.依法从快严肃查处事故。要切实加大事故查处力度，对组织调查的事故要严格按照“四不放过”原则，加快查处进度，依法加大事故责任追究力度，查处情况及时向社会公布，接受监督。通过责任追究、推动安全生产责任制的落实，通过吸取教训、切实起到警示作用，举一反三、认真整改，推动煤矿安全生产工作。 <br><br>    2.进一步加大春节和“两会”期间煤矿安全监察工作力度。各省级煤矿安全监察机构和区域监察分局要根据辖区内煤矿安全生产状况，合理制定一季度安全监察执法计划，组织开展好重点监察和专项监察。 <br><br>    1月份，各省级煤矿安全监察机构要组织开展一次重点监察。重点是春节期间不放假、不进行停产检修的国有重点煤矿，重点监察制定的安全措施及措施的落实情况；暂扣安全生产许可证或者下达停产整改指令的各类煤矿，发现无视指令违法组织生产的矿井，必须立即提请地方人民政府予以关闭。 <br><br>    3月1日-15日，各省级煤矿安全监察机构要组织开展一次“两会”期间的专项监察。专项监察的内容：检查地方人民政府春节后煤矿复产验收相关工作的落实情况，是否制定了小煤矿复产验收标准和方案并对小煤矿节后复产验收工作进行了部署和实施；检查资源整合煤矿是否规范进入技改基建程序，是否存在边改造边生产现象。凡发现被整合矿井违规组织生产的，要建议相关部门取消整合资格，予以关闭。 <br><br>    以上两次监察的情况，要向所在地省级人民政府报告，同时上报国家煤矿安监局。 <br><br>    请地方各级煤矿安全监管部门将本通知及时转发到辖区内所有煤矿。<br><br>        二○○八年一月九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

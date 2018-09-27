@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】海关总署<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-08-22<BR>&nbsp;&nbsp;【生效日期】2005-08-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tjc.gov.cn/displayf.asp?id=1114&bt=海关总署2005年第41号关于网上支付税费担保事宜的公告" target=_blank>海关总署 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>网上支付银行担保业务操作程序</font></p><br><br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 选择网上支付银行担保方式缴纳税费的纳税义务人，应是现行网上支付企业，并应向银行申请担保。<br><br>    银行按照规范的资信评定标准和审批程序，对纳税义务人的申请予以审核，确定相应的网上支付税费担保额度。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  银行同意向纳税义务人提供担保的，应按海关要求的格式出具银行担保文书。<br><br>    银行决定终止对纳税义务人提供担保的，应在终止前5日书面告知有关海关和中国电子口岸数据中心。<br><br>    银行应每季度向海关总署和中国电子口岸数据中心提供纳税义务人名单、担保额度和担保有效期限。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  纳税义务人应至少在担保文书生效前5日向有关直属海关的关税职能部门申请进行网上支付银行担保业务的备案。海关审核真实有效后，应当予以备案。<br><br>    纳税义务人未按照本条第一款规定及时申请备案的，海关可以不予受理。<br><br>    经海关核实，纳税义务人不具备网上支付资格或银行担保文书不符合规定的，海关不予备案，并应在担保文书生效前通知纳税义务人和担保银行。<br><br>    纳税义务人在某一海关只能办理一份担保的备案手续。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  实行网上支付担保的税费种类与现行网上支付的税费种类相同。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  审单环节。海关对审结后有税费的进出口报关单，通过计算机自动向中国电子口岸网上支付系统发送税费缴纳通知，由纳税义务人自行选择办理网上支付或柜台支付。<br><br>    税费缴纳通知因故无法自动送达时，海关应根据纳税义务人的要求选择再次发送或改为柜台支付，新的税费缴纳通知覆盖原有数据。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  网上支付环节。纳税义务人登录中国电子口岸网上支付系统，查询税费缴纳通知。如对通知内容无异议，可选择网上支付方式向银行发送“税费支付”指令进行支付；如有异议，应向海关提出重新处理申请。<br><br>    纳税义务人对税费有异议，海关经核实需重新计征税费的，重新计征后计算机再次自动发送税费缴纳通知。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 银行担保环节。中国电子口岸数据中心将纳税义务人的“税费支付”指令送达银行，银行系统根据接收到的“税费支付”指令，自动判断纳税义务人是否为本行网上支付担保业务的被担保人。<br><br>    如银行未向纳税义务人提供网上支付银行担保，银行系统按现行无担保的网上支付业务流程进行处理。<br><br>    如银行已经向纳税义务人提供了网上支付银行担保，银行系统不扣减纳税义务人账户资金，而是扣减其担保额度，并将“担保成功”的回执反馈给中国电子口岸数据中心，银行的担保义务同时发生；如纳税义务人的担保额度不足，银行系统应自动转按无担保网上支付业务流程进行处理。<br><br>    中国电子口岸数据中心通过中国电子口岸系统将银行预扣处理结果（担保成功）向纳税义务人公布，同时送达海关。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 海关通关环节。纳税义务人通过网上支付系统查询获知“担保成功”后，可准备有关纸质单证到海关现场办理交单、验放手续。海关按规定办结接单、复核后，打印出税费缴款书（税费缴款书右上角应标注“网上担保”字样），并办理货物的验放手续。<br><br>    对确定不需查验的货物，海关应在打印税费缴款书当日或次日放行货物。<br><br>    海关放行后，海关计算机系统自动通过中国电子口岸网上支付系统向银行发送税费实际扣缴通知（简称实扣通知）。中国电子口岸网上支付系统应立即将该实扣通知指令传送给银行。在银行实际扣款后，海关系统根据实扣成功回执自动核注税费缴款书，核注日期为实扣日期。<br><br>    实扣通知因故未发送至银行，海关经核实报关单已作放行且税费已完成网上支付的，应根据银行的要求重新发送实扣通知。<br><br>    海关计算机系统收到银行扣款成功回执与税单库不一致时，系统将自动向中国电子口岸网上支付系统发送核注失败通知。银行应向海关再次发送实扣成功回执。<br><br>    网上支付银行担保项下打印的税费缴款书，应按无担保网上支付的相同程序进行流转和交接。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 银行扣缴环节。银行在纳税期限内收到纳税义务人税费缴纳请求的，应立即（收到税费缴纳请求当日，最迟不得超过次日）进行税费扣缴处理，并将实扣成功回执传送给中国电子口岸数据中心，同时中国电子口岸数据中心将实扣成功回执送达海关。<br><br>    若纳税义务人未能在规定期限内提交税费缴纳请求，银行应在该笔税费的纳税期限期满前无条件履行支付该笔税费的义务，并将实扣成功指令传送给中国电子口岸数据中心。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 税费入库环节。银行应在税费扣缴当日将纸质税费缴款书与电子数据进行核对。核对无误后，应立即（一般应为税费扣缴当日，最迟不得超过次日）将税款划转国库，费款划转入海关行政性收费账户。银行在完成划转操作后，将入库结果回执传送给中国电子口岸数据中心。银行将入库回执结果传送给中国电子口岸数据中心时，相应的担保义务同时终止，已经核减的担保额度同时恢复。<br><br>    银行应对完成入库处理的税款缴纳书进行核对，加盖有效签章后，按规定进行流转处理。<br><br>    对于核对不符的凭证，银行退回海关，由海关重新开具税款缴纳书。银行领取该税款缴纳书后，应在领取当日或次日完成税款入库划转工作。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  因操作失误，对同一份报关单同时进行了网上支付和柜台支付作业的，若报关单未放行，海关计算机系统自动向中国电子口岸网上支付系统发送取消网上支付通知；若报关单已放行且柜台支付已完成，银行应协助纳税义务人撤销对担保额度的预扣，必要时海关应提供帮助。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  网上支付银行担保业务中涉及的网上支付其他事宜仍按现行网上支付的有关规定或协议办理。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

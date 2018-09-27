@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委办公厅<BR>&nbsp;&nbsp;【发布文号】发改办高技[2008]123号<BR>&nbsp;&nbsp;【发布日期】2008-01-10<BR>&nbsp;&nbsp;【生效日期】2008-01-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2008tongzhi/t20080122_186304.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委办公厅关于请组织申报卫星应用高技术产业化专项的通知<br><br></font>(发改办高技[2008]123号)</p><br> <br><br>各省、自治区、直辖市、计划单列市及新疆生产建设兵团发展改革委，国务院有关部门、直属机构办公厅，有关中央管理企业，有关单位：<br>    根据《国民经济和社会发展第十一个五年规划纲要》的有关要求，为贯彻落实《关于促进卫星应用产业发展的若干意见》，满足国民经济和社会发展对卫星应用的迫切需求，加速推进卫星应用由试验应用型向业务服务型的转变，促进民用卫星应用产业发展，国家发展改革委决定于2008-2009年组织实施卫星应用高技术产业化专项。现将有关事项通知如下：<br>    一、专项的主要内容<br>    卫星应用专项主要包括卫星通信广播、导航、卫星遥感应用等三大领域。根据我卫星应用产业发展特点，产业技术基础和发展现状，以满足国民经济发展、公共安全重点领域迫切需求和具有巨大市场前景的应用为重点，以经济发展为目标，坚持突出重点、有限目标的原则，选择具有产业化前景的重大应用示范，重点扶持自主创新技术及产品，突破核心技术与关键产品制约，开展重大标准研究，实现卫星应用产业化规模化发展。<br>    （一）卫星通信广播应用领域<br>    支持卫星固定通信系统、设备国产化和卫星直播终端产业化内容，包括：C和Ku频段卫星通信自主地面系统产业化；直播星信源识别、数字电影传输与接收技术及系统产业化。<br>    （二）卫星导航应用领域<br>    1、开展基于北斗／GPS/GLONASS/伽利略卫星导航系统兼容的终端模块化、小型化、低功耗技术及系统应用开发与产业化，重点促进车载前装、双频测量、高灵敏度、GNSS与蜂窝电话融合等重大产品产业化。<br>    2、开展导航电子地图增量更新与应用服务及产业化。<br>    3、开展重大示范应用工程。包括：北斗高精度授时在移动通信领域的示范；兼容型卫星导航系统在公路、铁路客货运车辆安全保障、渔业生产安全保障与信息服务、特殊人群与个人监护服务领域的应用示范。<br>    （三）卫星遥感应用领域。<br>    1、开展重大示范应用工程。鼓励重点部门和地区推动自主卫星数据在国土资源调查与管理、生态环境遥感监测、城乡规划与管理监测评价、重大自然灾害与应急监测、全球粮食估产与增值服务领域的示范应用；支持低成本、多功能遥感小卫星及微小卫星的研制及其应用；<br>    2、开展重大技术标准的制定。研究制定自主遥感卫星原始数据（0级数据产品）标准，高级遥感数据产品标准，数据模型、格式和交换的接口协议。<br>    二、专项的目标<br>    通过3年左右的时间，加快卫星应用技术成果的产业化，提高自主卫星应用于政府公益性服务中的产品、服务应用比例；形成一批具有自主知识产权，有重大市场前景的新产品，扭转卫星应用主要产品和服务依赖进口的局面，促进自主产品的技术和标准的产业化，满足国民经济建设和公共安全的迫切需求。<br>    在通信广播领域，争取在公益性卫星固定通信系统中设备国产化率达到80%；在卫星导航领域，兼容型终端、模块、芯片形成年产百万台套的产能，并开始在重点领域推广；在卫星遥感应用领域，实现自主卫星数据在重点领域的应用比例超过50％的目标。<br>    三、专项实施原则<br>    为确保专项实施能够取得应有的效果，在专项的组织实施过程中，重点把握以下原则：<br>    （一）坚持重点突出、有限目标的原则。选择在全国具有比较优势的重点项目，集中国家有限资源，取得市场突破，实现产业化，并起到带动和示范作用。<br>    （二）坚持研制、开发符合市场要求的、具有竞争力且具有自主知识产权的卫星应用产品或服务。<br>    （三）坚持以经济发展为目标，追求投入产出效益最大化和项目的商业成功。<br>    （四）促进产学研联合。重点支持合作关系清晰、合作实体明确、合作任务落实的产学研合作项目。<br>    四、具体要求和进度安排<br>    （一）专项项目应按照我委颁布的《国家高技术产业发展项目管理暂行办法》（国家发展改革委令第43号），开展项目组织、资金申请报告编制和申报工作。<br>    （二）主管部门要严格审查项目的产业化基础和申报单位的建设条件。申报单位（包括技术依托单位）应是行业或区域具有实力和影响力的企业，应具备较强的技术开发、经营管理、资金筹集等方面的能力。<br>    （三）项目主管部门应对资金申请报告及相关附件（如银行贷款承诺、自有资金证明文件等）进行认真核实，并负责对其真实性予以确认。<br>    （四）项目主管部门申报项目的数量原则上不超过3项。<br>    请你们对已完成项目备案程序、并符合专项重点内容的项目进行认真审查，组织编写资金申请报告（具体要求见附件），于2008年4月30日前，将项目资金申谙报告、项目简介和有关附件等材料一式三份报送我委高技术产业司，同时提供电子文本。2009年专项实施时间将另行发文通知。<br>    在项目主管部门申报的基础上，我委将按照公正、公平的原则组织专家评选，择优支持。<br>    特此通知。<br>    附件：国家高技术产业化项目资金申请报告编制要点<br><br>国家发展和改革委员会办公厅<br>二○○八年一月十日<br><br><br>附件：国家高技术产业化项目资金申请报告编制要点<br><br>    一、项目意义和必要性。国内外现状和技术发展趋势，对产业发展的作用与影响，产业关联度分析，市场分析，与国家高技术产业化专项总体思路、原则、目标等关联情况。<br>    二、项目技术基础。成果来源及知识产权情况，已完成的研究开发工作及中试情况和鉴定年限，技术或工艺特点以及与现有技术或工艺比较所具有的优势，该重大关键技术的突破对行业技术进步的重要意义和作用。<br>    三、项目建设方案。项目的产能规模、建设的主要内容、采用的工艺技术路线与技术特点、设备选型及主要技术经济指标、建设地点、建设工期和进度安排、建设期管理等。<br>    四、项目投资。项目总投资规模，投资使用方案、资金筹措方案以及贷款偿还计划。<br>    五、环境保护、资源综合利用、节能与原材料供应及外部配套条件落实情况等。其中节能分析章节按照《国家发展改革委关于加强固定资产投资项目节能评估和审查工作的通知》（发改投资[2006]2787号）要求进行编写。<br>    六、项目法人基本情况。项目法人的所有制性质，主营业务，近三年来的销售收入、利润、税金、固定资产、资产负债率、银行信用等级，项目负责人基本情况及主要股东的概况等。<br>    七、项目财务分析、经济分析及主要指标。内部收益率、投资利润率、投资回收期、贷款偿还期等指标的计算和评估，项目风险分析，经济效益和社会效益分析。<br>    八、项目招标内容（适用于申请国家补贴资金500万元及以上的投资项目），并填写招标事项核准意见（见附表），主管部门提出初审意见并盖章。<br>    九、资金申请报告附件：<br>    1、银行承贷证明(省分行以上)文件；<br>    2、项目法人近三年的经营状况（包括损益表、资产负债表、现金流量表）和项目法人自筹资金保证落实文件；<br>    3、地方、部门配套资金及其它资金来源证明文件；<br>    4、前期科研成果证明材料(需经权威机构认证或出具技术检测报告、专利证书等)；前期科研成果的成熟度，应能够满足产业化试验或产业化示范的要求；<br>    5、相应的环境保护主管部门意见；<br>    6、城市规划部门出具的城市规划选址意见（适用于城市规划区域内的项目）；<br>    7、有关部门出具的产品生产、经营许可文件等；<br>    8、土地、重要原材料以及其它所需证明材料；<br>    9、政府投资项目需提供可行性研究报告的批准文件，企业投资项目需提供核准或备案的批准文件（在有效期内且未满两年）；已开工项目需提供投资完成、工程进度以及生产情况证明材料；<br>    10、项目单位填报对项目资金申请报告内容和附属文件真实性负责的声明。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

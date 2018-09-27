@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、国家税务总局<BR>&nbsp;&nbsp;【发布文号】财税[2006]9号<BR>&nbsp;&nbsp;【发布日期】2006-01-24<BR>&nbsp;&nbsp;【生效日期】2006-01-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=20060208152537728" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、国家税务总局关于行政机关和事业单位做好个人所得税代扣代缴工作的通知<br><br></font>(财税[2006]9号)</p><br><br><br>各省、自治区、直辖市、计划单列市人民政府，国务院各部委、直属机构：<br>    《中华人民共和国个人所得税法》(以下简称个人所得税法)实施以来，各级行政机关和事业单位认真履行个人所得税扣缴义务，保证了个人所得税收入的平稳较快增长。近年来，随着行政机关、事业单位干部、职工工资发放方式的改变，个人所得税代扣代缴工作中也出现了一些不容忽视的问题：一是一些单位在国家统一政策外自行发放的津贴、补贴及其他工资外收入未全部纳入个人收入并扣缴个人所得税；二是一些单位借保密等理由不如实提供个人收入资料，瞒报、少报个人收入；三是个别单位干部、职工对纳税不理解甚至阻挠代扣代缴工作。为维护税法的严肃性，坚持依法治税，经国务院同意，现就进一步做好行政机关、事业单位个人所得税代扣代缴工作要求如下：<br>    一、充分认识做好依法扣缴个人所得税工作的重要意义<br>    依法纳税是每个公民应尽的义务，做好个人所得税代扣代缴工作是行政机关和事业单位的法律责任。行政机关、事业单位是个人所得税扣缴义务人的重要组成部分，应依法认真履行代扣代缴义务，为全社会个人所得税代扣代缴工作起到示范带头作用。<br>    二、行政机关、事业单位应依法履行个人所得税扣缴义务人的职责<br>    根据个人所得税法和有关政策规定，行政机关、事业单位代扣代缴个人所得税应实行全员全额扣缴申报，将财政部门(或机关事务管理、人事等部门)及本单位内部当期向职工发放的所有工资、津贴、补贴和奖金等收入进行合并计算应扣缴的个人所得税，按时向主管税务机关报送扣缴个人所得税报告表、代扣代收税款凭证、支付个人收入明细表以及税务机关要求报送的其他有关资料，切实履行扣缴个人所得税义务。<br>    行政机关、事业单位履行扣缴税款义务，应自觉接受主管税务机关依法进行的检查。对扣缴义务人应扣未扣，逃避、拒绝或者以其他方式阻挠税务机关依法检查的，将按照税收征管法有关规定予以处罚。<br>    三、税务部门要改进和加强纳税服务管理<br>    依法征税是各级税务机关的工作职责，税务部门要根据税收征管法和个人所得税法的规定，完善对行政机关、事业单位扣缴个人所得税工作的服务和管理，建立健全并落实相关制度，协助行政机关、事业单位正确履行扣缴个人所得税的义务。要主动掌握扣缴义务人的情况，为行政机关、事业单位扣缴个人所得税提供工作上的便利，做好政策咨询和服务工作，有针对性地加强税法宣传、业务辅导和培训，维护扣缴义务人的合法权益；要加强对行政机关、事业单位扣缴个人所得税情况的检查，依法纠正、处理违反个人所得税法的行为；广大税务干部要努力提高自身素质，秉公办事，规范执法。<br><br>                                    财政部 国家税务总局<br>                                  二○○六年一月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

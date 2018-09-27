@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部、教育部<BR>&nbsp;&nbsp;【发布文号】卫疾控发〔2005〕408号<BR>&nbsp;&nbsp;【发布日期】2005-10-11<BR>&nbsp;&nbsp;【生效日期】2005-10-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10875&seq=0" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部、教育部关于做好入托、入学儿童预防接种证查验工作的通知<br><br></font>(卫疾控发〔2005〕408号)</p><br><br><br>各省、自治区、直辖市卫生厅局、教育厅（教委），新疆生产建设兵团卫生局、教育局：<br><br>    国务院发布的《<a href=javascript:ROF(101202,0) class=alink>疫苗流通和预防接种管理条例</a>》（以下简称《条例》）已于2005年6月1日实行。为切实依法实施儿童入托、入学查验预防接种证工作，加强托幼机构和学校的传染病控制，保护儿童身体健康，依据《条例》相关规定，现提出如下要求：<br><br>    一、加强领导，广泛宣传，确保《条例》贯彻实施<br><br>    各级卫生、教育行政部门要高度重视《条例》宣传工作，依照各自的职责制定宣传计划，通过宣传提高各地卫生、教育部门对预防接种工作重要性的认识，增进儿童及家长自觉接受预防接种意识，形成全社会重视、关心儿童预防接种工作的良好环境。<br><br>    各级教育行政部门应加强对托幼机构和学校查验预防接种证工作的领导和管理，将其纳入传染病防控管理内容，开展定期检查。各级卫生行政部门应加强对漏种儿童补种工作的领导和管理，疾病预防控制机构应积极指导托幼机构和学校开展预防接种宣传工作。<br><br>    托幼机构和学校要充分利用多种形式向学生及家长宣传预防接种意义和有关知识；应当将查验预防接种证纳入儿童入托、入学报名程序，在报名须知中明确告知查验预防接种证的要求和国家免疫规划要求接种的疫苗种类，要求没有预防接种证或未按国家免疫规划接种疫苗的儿童，在入托、入学前应到居住地的接种单位补办或补种。<br><br>    二、开展培训，确保查验预防接种证工作的落实<br><br>    各级卫生行政部门应当会同当地教育行政部门结合实际制定具体培训计划，组织开展辖区内各级各类托幼机构和学校查验预防接种证的培训工作，各级疾病预防控制机构要加强技术指导。各级教育行政部门应协助卫生行政部门落实有关培训工作，确保托幼机构和学校派员参加。培训内容应包括：纳入国家免疫规划疫苗的种类及其免疫程序、预防接种证查验、登记报表填写、查验结果报告（包括报告机构、时限、内容等）、漏种儿童补种等具体内容和要求。<br><br>    托幼机构和学校应明确专人负责查验预防接种证工作，并接受相关培训。<br><br>    三、加强管理，切实落实查验预防接种证情况通报和补种工作<br><br>    县级卫生行政部门应当将漏种儿童补种工作列入常规工作计划。县级疾病预防控制机构应在儿童入托入学前做好辖区内漏种儿童补种的工作安排，提前将查验预防接种证登记报表和补种（补证）通知单提供给托幼机构和学校，对接种单位开展补种和补证情况进行检查，及时收集统计儿童补种和补证情况并逐级上报。<br><br>    接种单位应根据县级疾病预防控制机构的安排按时对漏种儿童开展补种（漏种儿童的补种原则见附件），对遗失预防接种证的已种儿童经核对无误后给予补证，将补种或补证信息及时反馈给儿童所在托幼机构或学校，按照要求报告儿童补种和补证情况。<br><br>    托幼机构和学校应按照《条例》要求，在儿童入托、入学时查验预防接种证，查验情况必须如实填写并登记造册。发现未依照要求接种纳入国家免疫规划疫苗的儿童，或无预防接种证的儿童，应当在30日内向托幼机构和学校所在地的接种单位或县级疾病预防控制机构报告，同时将补种（补证）通知单交儿童监护人，督促监护人带儿童到当地规定的接种单位补种。托幼机构和学校应在儿童补种或补证后复验预防接种证。托幼机构或学校对学期中新接收的转学儿童也应当查验其预防接种证，漏种儿童应按要求补种或补证。<br><br>    四、落实保障措施，加强监督检查，确保预防接种各项措施的实施<br><br>    各级卫生行政部门和教育行政部门要制定切实可行的漏种儿童补种方案，积极争取财政部门的支持，落实工作经费，以确保儿童入托、入学查验预防接种证和漏种儿童补种工作的开展。<br><br>    各级卫生、教育行政部门应加强对托幼机构和学校查验预防接种证工作和漏种儿童补种工作的监督和管理，每年定期开展检查。对儿童入托、入学时，托幼机构、学校未依照规定查验预防接种证，或者发现未依照规定受种的儿童后未向疾病预防控制机构或者接种单位报告的，要按照《条例》第67条规定由县级以上地方人民政府教育主管部门责令改正，给予警告；拒不改正的，对主要负责人、直接负责的主管人员和其他直接责任人员依法给予处分。<br><br>    各省、自治区、直辖市卫生、教育行政部门可根据本地实际情况制定具体实施办法。<br>  <br>                       二○○五年十月十一日<br> <br>  <br>附件:国家免疫规划疫苗漏种儿童的补种原则<br> <br>      根据《疫苗流通和预防接种管理条例》要求，在入托入学查验预防接种证时，对未完成免疫程序的儿童，按以下原则进行补种：<br>      一、未接种国家免疫规划疫苗的儿童，按照疫苗免疫程序进行补种；<br>      二、未完成国家免疫规划疫苗免疫程序规定剂次的儿童，只需补种未完成的剂次；<br>      三、未完成吸附百白破联合疫苗免疫程序的儿童，3月龄～6岁儿童使用吸附百白破联合疫苗，7～11岁使用吸附白喉破伤风联合疫苗，12岁以上儿童使用成人及青少年型吸附白喉破伤风联合疫苗；<br>      四、未完成脊髓灰质炎减毒活疫苗免疫程序的儿童，4岁以下儿童未达到3剂次（含强化免疫等）的应补种完成3剂次。4岁以上儿童未达到4剂次（含强化免疫等）的应补种完成4剂次；<br>      五、未完成2剂次麻疹减毒活疫苗免疫程序的儿童，应补满至2剂次；<br>      六、如需补种多种国家免疫规划疫苗，两种疫苗可以同时在不同部位接种。两种减毒活疫苗可在同一天注射，如未在同一天注射，则接种注射时间应至少间隔4周。严禁将不同疫苗混合在1支注射器中接种。<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

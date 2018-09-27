@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2007]688号<BR>&nbsp;&nbsp;【发布日期】2007-11-12<BR>&nbsp;&nbsp;【生效日期】2007-11-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/26327.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于公布医疗器械生产企业质量管理体系规范试点检查通过企业名单的通知<br>  <br></font>(国食药监械[2007]688号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    根据《关于开展无菌和植入性医疗器械生产企业质量管理体系规范试点工作的通知》（国食药监械〔2006〕622号），国家局对北京、天津、上海、江苏、浙江、广东、四川、陕西等8个省（市）45家无菌和植入性医疗器械生产企业分别进行了试点检查，其中有39家通过试点检查。现将试点检查通过企业的名单和试点品种予以公布。<br><br>                                                        国家食品药品监督管理局<br>                                                        二○○七年十一月十二日<br>  <br><br>试点检查通过企业名单<br><br>企业名称 生产地址 试点品种 <br>北京市富乐科技开发有限公司 北京市平谷区马坊工业开发区西区50号 脊柱内固定系统、脊柱内固定钢板、固定针 <br>北京乐普医疗器械有限公司 北京市昌平科技园区超前路37号3号楼 血管内药物（雷帕霉素）洗脱支架系统、PTCA球囊扩张导管 <br>北京市昌平区白扶泉路10号北控科技大厦3层 <br>北京蒙太因医疗器械有限公司 北京市昌平科技园区超前路12号 JT系列髋关节假体、JY型股骨柄（金枪鱼柄） <br>北京市意华健科贸有限责任公司 北京市昌平区沙河镇松兰堡北京市百货公司批发仓库 羟基磷灰石生物陶瓷（ZC-J基本型） <br>天津市金兴达实业有限公司 天津市东丽区徐庄工业开发区巨丰一号路1号 金属接骨板、金属接骨螺钉、金属髓内针 <br>天津市人立骨科器械有限公司 天津市河东区红星路120号 金属接骨板、金属髓内针 <br>天津和杰医疗器械有限公司 天津华苑产业区二纬路6号B座102 宫内节育器 <br>天津市威曼生物材料有限公司 天津华苑产业园区物华道2号海泰火炬创业园B座401 金属接骨板、金属髓内针、金属接骨螺钉 <br>上海康德莱企业发展集团有限公司 上海市嘉定区华江路668弄18号 一次性使用输液器 <br>上海输血技术有限公司 上海市闵行区友东路500号 一次性使用塑料血袋 <br>江苏省吴江（市）同里镇长胜路 <br>上海达华医疗器械有限公司 上海市崇明县长征农场 一次性使用单采血浆离心分离器、一次性使用血浆收集袋 <br>上海淞行实业有限公司 上海闸北区万安路西张贵桥东路29-30号二层楼厂房 一次性使用无菌导尿管 <br>上海凯乐输液器厂 上海市松江区新桥镇新蟠路189号 一次性使用输液器 <br>苏州市双羊医疗器械有限公司 江苏省张家港市杨舍镇包基双羊大厦 钛质接骨螺钉、钛质接骨板 <br>苏州市兴达医械制造有限公司 江苏省张家港市锦丰镇杨锦路 金属接骨板（加压和保护性接骨板）、金属接骨板（支持接骨板）、金属接骨板（角度接骨板）、金属接骨板（脊柱前路钛板）、金属接骨螺钉、金属股骨颈固定钉、金属矫形用棒、金属矫形用钉、椎弓根内固定器、圆形髓内针（交锁髓内钉）金属骨针、扎丝、扎丝纽扣 <br>创生医疗器械（江苏）有限公司 江苏省常州市南门外牛塘镇人民西路 胫骨（有远、近端瞄准装置）带锁髓内钉、胫骨带锁髓内钉(钛合金制)、掌、指骨接骨板、逆行带锁髓内钉、伽玛（γ）型带锁髓内钉、股骨端接骨板(DHS、DCS)、股、胫骨端接骨板（纯钛制）、金属直型接骨板、金属接骨板、金属接骨螺钉、中空螺钉、单独绑扎钢绳、GSS型脊柱通用内固定器、胸腰椎前路内固定器 <br>常州市康辉医疗器械有限公司 江苏省常州市新北区天山路1-8号 金属接骨板（加压保护性接骨板）、金属接骨板（支持接骨板）、金属接骨板（角度接骨板）、金属接骨板（脊柱固定板）、金属接骨板、金属微型接骨板、鹅头钉钢板、金属接骨螺钉、动力加压螺钉、金属骨针、FC型分叉交锁式髓内钉、交锁式髓内钉、脊柱钢板内固定系统（胸腰椎钢板内固定系统）、脊柱钢板内固定系统（颈椎钢板内固定系统）、脊柱内固定系统、椎节融合固定装置 <br>南京欧加农制药有限公司 江苏省南京浦口高新技术开发区 母体乐―铜宫内节育器 <br>苏州欣荣博尔特医疗器械有限公司 江苏省张家港市锦丰镇永新南路 金属骨针、金属接骨螺钉、金属接骨板、金属股骨颈固定钉、金属直型接骨板、金属异型接骨板、髋关节假体（骨水泥型）、髋关节假体（生物型）、带锁髓内钉、脊柱内固定器RRS、锥体融合器、脊柱钛板固定系统、解剖形接骨板、加压滑动鹅头钉、齿状臂记忆环抱内固定器 <br>常州奥斯迈医疗器械有限公司 江苏省常州新区秦岭路177号 金属螺钉、带锁髓内钉、金属保护性、支持性接骨板、金属加压接骨板、金属鹅头接骨板 <br>杭州健群医疗器械有限公司 浙江省杭州市萧山区萧绍动路98号 一次性使用微量注液泵 <br>温州市贝普科技有限公司 浙江省温州工业园区金水路7号 一次性使用输液器 <br>浙江康德莱医疗器械股份有限公司 浙江省温州市龙湾区永中永强路252号 一次性使用输液器 <br>浙江灵洋医疗器械有限公司 浙江省临海市白水洋镇 一次性使用输液器 <br>浙江苏嘉医疗器械股份有限公司 浙江省嘉兴市振兴路168号 一次性使用镇痛泵、一次性使用电子控制镇痛泵 <br>浙江玉升医疗器械股份有限公司 浙江省玉环县芦浦镇漩门工业区 一次性使用输液器 <br>浙江伏尔特医疗器械有限公司 浙江省桐乡经济开发区新民南路35号 一次性使用输注泵 <br>广州华南医疗用品有限公司 广州市保税区保盈大道43号 一次性使用塑料血袋 <br>佛山市捷港医疗用品有限公司 广东省佛山市佛山大道南329号三楼 心脏二尖瓣球囊扩张导管 <br>广州市卫信工贸有限公司 广州市黄埔区骏丰路81号 自粘性无菌敷料 <br>稳健实业（深圳）有限公司 深圳市龙华镇布龙公路旁稳健工业园 一次性使用产包 <br>广东龙心医疗器械有限公司 广东省开平市百合镇乌金路38号 一次性使用输液器、一次性使用输液器带针、一次性使用静脉输液针、一次性使用滴定管式输液器 <br>珠海丽珠医用生物材料有限公司 广东省珠海市珠海大学路99号3区4栋、5栋4、5楼 一次性使用血液灌流器 <br>成都迪康中科生物医学材料有限公司 四川省成都市高新区西部园区迪康大道1号 可吸收骨折内固定螺钉 <br>四川国纳科技有限公司 四川省成都市高新区倍特科技工业园2幢4层E1、F2号 医用纳米羟基磷灰石/聚酰胺66复合骨填充材料 <br>四川大学生物材料工程研究中心 四川省成都市望江路29号 骨诱导磷酸钙生物陶瓷（商品名：骨诱导人工骨）、磷酸钙涂层人工髋关节(BAM人工髋关节)、羟基磷灰石生物陶瓷 <br>四川南格尔生物医学股份有限公司 四川省简阳市东溪镇省医科院附属医院 一次性使用输液器（带针）、一次性使用单采血浆分离器、一次性使用塑料血袋 <br>西安申兰生物医学工程有限公司 陕西省三原县周肖工业园 一次性使用动脉插管、一次性使用体外循环管路、一次性使用气管插管 <br>陕西沃源科技有限责任公司 陕西省西安市丰庆路99号 一次性使用离心式血浆分离器 <br><br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

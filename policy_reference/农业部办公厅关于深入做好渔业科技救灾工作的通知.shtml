@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办渔[2008]6号<BR>&nbsp;&nbsp;【发布日期】2008-02-15<BR>&nbsp;&nbsp;【生效日期】2008-02-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20080215_971325.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于深入做好渔业科技救灾工作的通知<br> <br></font>(农办渔[2008]6号)</p><br><br><br>各省、自治区、直辖市渔业主管厅（局），中国水产科学研究院，全国水产技术推广总站，中国水产学会：<br><br>    今年南方地区发生的罕见低温雨雪冰冻灾害，给人民群众的生命财产和工农业生产等造成了重大损失，渔业生产也遭受了严重影响。在重大灾害面前，广大水产科研、推广人员积极响应号召，主动深入灾区，采取各种措施，及时开展科技服务，为渔业防灾减灾做出了应有贡献。当前正是灾后恢复生产的关键时期，各级渔业主管部门和科研推广机构要增强责任感和紧迫感，强化大局意识，按照中央的统一部署和我部的总体安排，积极行动起来，深入基层、进村入户，扎实做好渔业科技救灾工作，帮助广大群众尽快恢复渔业生产，最大限度减少灾害损失，力争今年渔业生产有个好收成，农渔民收入不受大的影响。现就有关事项通知如下：<br><br>    一、把握当前灾后重建的严峻形势<br><br>    初步统计，截至目前，水产养殖受灾面积1455万亩，损失水产品87万吨，直接经济损失68亿元。其中损失较重的主要是苗种、亲本和一些温热带养殖品种，部分地区温室大棚垮塌，育苗等基础设施损毁。由于此次受灾严重的长江中下游地区和两广等地是我国水产养殖主产区，也是苗种繁育、亲鱼和鱼种越冬的主要区域，因此，对上述地区乃至全国的养殖生产都将产生不利影响，特别是大量亲本和鱼种的死亡将直接影响全年早繁、供种以及罗非鱼等大规格商品鱼的供给。目前面临的主要问题，既有恢复生产所需资金及劳动力不足、良种繁育体系严重受损、苗种供应难度大的问题，也有发生水生动物疫病的潜在风险，广大渔民群众对灾后恢复生产、减少损失的科技需求十分迫切。这些情况表明，灾后渔业生产任务十分繁重，对此要有清醒的认识，要予以高度重视。<br><br>    二、切实组织好渔业科技救灾工作<br><br>    近日，我部已组织专家制定了渔业灾后重建相关的技术指导要点（见附件1、2）。各地区、各单位要从实际出发，努力提高渔业科技救灾的针对性、及时性和有效性。要区别不同品种及其养殖方式，不同区域的不同灾情和潜在的疫情风险，尽快调研分析需要重点解决的主要技术问题，提出具体的指导措施，制定详细的工作计划和方案，动员和组织科研、推广人员，深入基层特别是边远受灾地区，指导养殖户灾后恢复生产。<br><br>    一是要尽快组织专家组和技术小分队进村入户，通过培训、示范、咨询，发放实用技术资料等措施，现场直接解决各类技术问题；二是充分利用广播、电视、互联网等传播手段，以科技入户、科技直通车、农技110、农民信箱、手机信息和“明白纸”等形式传授技术要领；三是充分利用各级水产良种场、苗种场做好恢复生产亲本调配、苗种生产供应等相关服务工作；四是各级推广机构要认真做好灾区水产养殖疫病测报工作，指导科学防病、依法用药，要特别加强对水霉病和小瓜虫病等灾后主要病害防治技术指导，杜绝使用孔雀石绿等违禁药物；五是各级渔业科技入户专家组和技术指导员要及时调整工作计划，明确春季行动的服务重点，采取分片、分户包干等方式，到各联系点开展技术指导服务。<br><br>    三、立足当前、着眼长远，统筹做好渔业科技推广工作<br><br>    为贯彻落实好中央领导同志关于“要千方百计保渔业生产和供应”的指示精神，各级渔业主管部门和科研推广机构要立足当前灾后重建这一紧迫任务，深入细致做好渔业科技救灾和科技服务工作；同时要着眼长远，针对此次灾害所暴露出来的突出问题和薄弱环节，围绕“两确保、两促进”目标，按照全国一盘棋思想，统筹安排、科学调配，充分发挥全国水产科技协作网络和推广体系的作用，相互支持配合，全力做好今后渔业科技推广工作。要加快推进国家渔业科技创新体系建设，尽快启动对虾、罗非鱼等现代产业技术体系建设。着力做好国家科技支撑计划、行业科研专项以及“948”引进计划等渔业项目的组织实施工作，重点攻克渔业重大科学技术难题和制约瓶颈。要结合科技救灾，大力推进渔业科技入户工作。通过实施水产高效健康养殖科技示范活动，引导和鼓励广大科技人员深入基层，切实解决渔业生产中的实际问题，加快科技成果转化和推广应用，促进渔业生产持续健康发展，保障水产品安全有效供给，保持市场稳定。<br><br>                                                            二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办〔2008〕118号<BR>&nbsp;&nbsp;【发布日期】2008-06-24<BR>&nbsp;&nbsp;【生效日期】2008-06-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200807/t20080708_79197.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省新型农村合作医疗信息平台建设实施意见<br><br></font>(闽政办〔2008〕118号)</p><br>    <br><br>各设区市人民政府，省发展改革委、省财政厅、省劳动和社会保障厅、省卫生厅：<br><br>    现将省卫生厅、省劳动和社会保障厅、省发展改革委、省财政厅制定的《福建省新型农村合作医疗信息平台建设实施意见》转发给你们，请认真组织落实。<br><br>    福建省人民政府办公厅<br>    二○○八年六月二十四日<br> <br><br>    福建省新型农村合作医疗信息平台建设实施意见<br><br>    省卫生厅  省劳动和社会保障厅<br><br>    省发展改革委   省财政厅<br><br>    （二○○八年六月十九日）<br><br>    为实现我省新型农村合作医疗制度建设目标，省卫生厅、省劳动和社会保障厅共同制定了《福建省新型农村合作医疗信息系统建设的可行性研究报告暨初步设计方案》（以下简称《方案》），已经省数字办组织专家论证通过，省发展改革委于6月20日正式批复该方案（《福建省发展和改革委员会关于福建省新型农村合作医疗信息系统项目可行性研究报告暨初步设计方案》的复函）（闽发改高技〔2008〕441号）。现就组织实施《方案》提出如下意见：<br><br>    一、为保证项目实施的顺利进行，各设区市人民政府要加强对项目的领导和工作协调，成立以政府分管领导为组长的项目实施小组，指定具体单位负责落实项目。<br><br>    二、各设区市应根据《方案》框架原则，结合本地区的实际情况制定各自的实施计划并倒计时安排实施工作。实施计划的内容包括：系统建设、设备配置、资金落实、进度安排等。<br><br>    三、按照省政府《关于研究新型农村合作医疗信息平台建设有关问题的会议纪要》（〔2008〕47号）精神，省级数据交换平台的实施由省劳动和社会保障厅牵头，省卫生厅配合。<br><br>    四、新农合应用软件（含数据交换软件）是省医保软件平台的扩展，省卫生厅统一制定全省软件需求，由省级按单一来源采购方式统一招标购买，各设区市不另开发软件。省级平台的硬件设备和系统软件（主机、数据库、中间件软件、操作系统等），由省劳动和社会保障厅、省卫生厅共同组织公开招标采购。各设区市平台的硬件设备和系统软件按《方案》确定的技术规范自行组织招标采购。<br><br>    五、《方案》明确新农合信息系统与现有的医保信息系统共享网络平台，项目实施单位和软件开发商要研究制定周密的工作方案，并有应急预案作备份，确保在实施过程中软硬件设备的安装和调试不影响已在运行的医保业务系统，保证新农合业务工作平稳过渡。<br><br>    六、新的应用软件开发后应提交省新农合技术指导组评估后开通启用。跨设区市异地就医的数据交换软件功能调试由省卫生厅牵头，省劳动和社会保障厅协调各设区市平台统一进行。<br><br>    七、按数字福建项目管理要求，通过公开招标方式选择一家资质条件较好的工程监理机构，对各平台的工程实施进行监督和控制，确保投入的各种资源达到《方案》和实施计划的要求。<br><br>    八、各设区市卫生行政部门要尽快成立本辖区的异地就诊费用结算中心，确保在系统启用后实现设区市范围内跨县（市）就诊的费用即时结算。<br><br>    九、工作进度要求：<br><br>    （一） 2008年7月15日前各设区市完成实施计划的制定，并上报省新农合领导小组办公室；<br><br>    （二）7月31日之前完成资金筹措，同时进行软硬件设备的招标采购；<br><br>    （三） 8～9月完成设备安装调试，9～10月软件上线测试，同时完成平台数据迁移，10月底之前正式开通试运行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

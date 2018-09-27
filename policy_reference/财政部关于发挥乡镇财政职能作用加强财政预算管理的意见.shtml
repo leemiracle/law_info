@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财预[2008]406号<BR>&nbsp;&nbsp;【发布日期】2008-09-24<BR>&nbsp;&nbsp;【生效日期】2008-09-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://yss.mof.gov.cn/yusuansi/zhengwuxinxi/zhengceguizhang/200810/t20081014_81929.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于发挥乡镇财政职能作用加强财政预算管理的意见<br> <br></font>(财预[2008]406号)</p><br>     <br><br>各省、自治区、直辖市、计划单列市财政厅（局）：<br><br>    随着社会主义市场经济体制的逐步建立，财政体制改革的不断深化，乡镇财政面临着新的形势与任务，在职能转变与规范管理方面也存在一些突出矛盾和问题。为适应落实科学发展观、统筹城乡发展的要求，逐步构建覆盖城乡的公共财政体系，切实发挥乡镇财政的作用，现就加强乡镇财政管理等相关工作提出以下意见。<br><br>    一、完善乡镇财政管理，做好农村公共服务<br><br>    要健全乡镇财政预算制度，坚持量入为出、收支平衡的原则，科学合理地编制乡镇年度财政收支预算。要切实保障乡镇党政机构行政和社会管理等基本运转的支出需要。要适应统筹城乡发展的要求，增加农村基础设施建设，支持农业和农村社会事业发展，努力满足农村社会基本公共产品和服务需求。要健全乡镇基本支出定员定额管理，严格控制预算追加，切实增强预算的约束力。要规范乡镇财政预算执行，深化“收支两条线”改革，稳步推进国库集中支付制度和政府采购制度，积极探索通过政府购买等方式提供公共服务和公共产品。要加强和规范农村收费管理，坚决取消不合法、不合理收费，优化农村经济发展环境。要按照政务公开的要求，及时公开预算及执行、专项资金分配和使用等情况，自觉接受社会监督。要切实加强乡镇债务管理，坚决制止发生新的乡镇债务。要建立激励约束机制，通过奖补等方式，鼓励、引导和督促乡镇政府积极化解逾期债务。<br><br>    二、做好涉农补贴工作，认真落实惠农政策<br><br>    要充分利用乡镇财政贴近农村、直接服务农村的优势，发挥乡镇财政在落实涉农补贴政策中的作用。乡镇财政要会同有关部门认真做好涉农补贴对象的申报、认定、审核和公示等工作，确保符合条件的补贴对象全部纳入政策保障范围。要积极创新涉农补贴资金发放方式，逐步将直接补贴给农民的资金纳入“一卡通”或“一折通”发放范围。要积极创新为民服务方式，对居民申请办理涉农政策咨询、补贴资金发放等服务事项实行“一站式”办结，努力为农民群众提供优质、便捷、高效的服务。要加强涉农财政补贴信息化管理工作，建立健全涉农财政补贴信息管理系统。<br><br>    三、参与专项资金监督管理，提高资金使用效率<br><br>    乡镇财政要积极参与专项资金的监督管理，对于列入乡镇财政预算的专项资金，要建立健全项目库管理制度，加强项目论证、立项、申报、实施等各环节的监督，严防截留、挪用、挤占专项资金的行为发生。对于上级财政部门直接管理、未列入乡镇财政预算的专项资金，包括农林水专项、农业综合开发、环境保护、土地开发整理、国际金融组织和外国政府贷款等，上级财政在下达资金时，要同时抄送项目所在地市（县）财政局，市（县）财政部门要分解告知有关乡镇财政所，建立上级财政与乡镇财政以及乡镇财政之间的信息沟通机制，保证乡镇财政全面掌握有关专项资金的政策、额度、项目要求等情况。乡镇财政要加大对上述各类专项资金使用的监督检查和跟踪问效，及时将资金使用中的存在问题、项目实施效果等信息上报上级财政部门。<br><br>    四、加强财务监督，健全乡村理财机制<br><br>    要建立和完善乡镇行政事业单位财务管理制度，统一财务开支范围和标准，严格规范财务收支行为。要推行乡镇行政事业单位财务公开制度，建立健全民主理财机制，广泛接受社会监督。要加强乡镇国有和集体资产管理，建立健全资产购买、处置、登记和台账制度，做到资产实物管理与价值管理相统一，防止资产流失。要加强乡镇财务监督检查，及时查处违法违纪行为，严肃财经纪律。要建立健全村级组织运转经费保障机制，加大对村级财政补助资金的监督管理，积极推行“村账乡管”试点工作，由乡镇财政会同有关职能站所代理村级财务会计核算，全面提高村级财务管理水平并定期公示。<br><br>    五、搞好队伍建设，提高乡镇财政管理水平<br><br>    要按照深化乡镇机构改革的要求，适应乡镇财政职能调整，加强乡镇财政建设，完善乡镇财政机构，合理确定乡镇财政编制。要强化干部队伍建设，着力提高财政干部综合素质，制订乡镇财政人员岗位条件和培训规划，选拔业务素质高、工作能力强的同志充实乡镇财政队伍。要推进乡镇财政信息化建设，加强业务学习，适应财政管理科学化、精细化的要求。要贯彻为民、务实、清廉的要求，加强反腐倡廉建设，落实“为国理财、为民服务”的财政工作宗旨，转变工作作风，提升乡镇财政干部的综合素质和工作能力，提高乡镇财政管理水平。<br><br>    六、创新体制机制，为乡镇财政工作创造良好条件<br><br>    要根据乡镇经济发展水平、税源分布等情况，区别对待，合理确定乡镇财政管理体制，妥善处理县与乡镇财政分配关系。要完善省以下财政体制，加大转移支付力度，努力缩小地区间财力差异，逐步建立县级基本财力保障机制，为乡镇财政履行职能提供必要的财力保障。要按照《财政部关于进一步推进乡财县管工作的通知》要求，深入推进“乡财县管”改革，建立符合当地实际的财政管理方式。<br><br>    各地财政部门要按照本意见的要求，深入调查研究，广泛听取基层意见，制定措施，切实落实，充分发挥乡镇财政职能作用，促进农村经济和社会发展。<br><br>                                                      财 政 部<br>                                                 二○○八年九月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

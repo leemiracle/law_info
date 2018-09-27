@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广东省<BR>&nbsp;&nbsp;【发布文号】粤府办〔2008〕24号<BR>&nbsp;&nbsp;【发布日期】2008-04-28<BR>&nbsp;&nbsp;【生效日期】2008-04-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gd.gov.cn/govpub/zfwj/zfxxgk/gfxwj/yfb/200809/t20080910_63830.htm" target=_blank>广东省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省人民政府办公厅关于进一步加强应急管理宣教培训工作的意见<br><br></font>(粤府办〔2008〕24号)</p><br><br><br>各地级以上市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构：<br><br>    加强应急管理宣教培训工作，是提高各级领导干部处理突发事件能力的需要，是增强公众公共安全意识、社会责任意识和自救、互救能力的需要，是最大程度预防和减少突发事件发生及其造成损害的需要。为进一步贯彻落实《中华人民共和国突发事件应对法》、省人民政府《印发广东省突发公共事件总体应急预案的通知》（粤府〔2006〕16号）和全省应急管理工作会议精神，认真组织实施《广东省突发公共事件应急体系建设“十一五”规划》（粤府办〔2007〕89号），进一步提升全省应急管理水平，经省人民政府同意，结合广东省实际，提出如下意见：<br><br>    一、指导思想<br><br>    以邓小平理论和“三个代表”重要思想为指导，以科学发展观为统领，按照党的十七大和省委十届二次全会的要求，认真贯彻落实全省应急管理工作会议精神，切实加强对应急管理宣教培训工作的组织指导，充分发挥各级政府、各有关单位、新闻媒体和社会各界的作用，深入开展应急管理宣教培训活动，普及预防、避险、自救、互救和减灾等防护知识，增强公众应急意识，提高干部队伍素质和各级组织、各基层单位应对突发事件的能力，保障公众身体健康和生命财产安全，维护社会稳定。<br><br>    二、总体目标<br><br>    从2008年开始，用3年时间，初步在全社会树立公共安全意识和社会责任意识，宣传“尊重生命，热爱生活”的理念，普及基本的防灾、避险、自救、互救和减灾等技能，逐步在公众中推广应急识别系统，倡导通过科学合理的生产方式、健康文明的生活方式减少突发事件的发生，妥善应对突发事件，减少人员伤亡和财产损失。<br><br>    各级各类干部的应急管理培训纳入全省干部教育培训总体安排，用3年至5年时间，对各级应急管理干部进行全面、系统的培训，形成以应急管理理论为基础、以应急管理相关法律法规和应急预案为核心、以提高应急处置和安全防范能力为重点的培训体系；健全培训管理制度，优化配置培训资源，落实各项保障措施，完善培训激励和约束机制，不断提高培训质量；建立以实际需要为导向，政府主导和社会参与相结合，注重实效、充满活力的应急管理培训工作格局。<br><br>    三、主要内容<br><br>    （一）以宣传突发事件应对法为契机，普及应急管理法律法规。按照省府办公厅《转发国务院办公厅关于认真贯彻实施突发事件应对法的通知》（粤府办〔2007〕102号）要求，结合近年来应急管理工作情况，对这部法律的重大意义、立法背景、主要内容和贯彻实施要求等，以各种形式进行广泛深入的宣传报道，重点加强对基层单位的宣传。借助“一网五库”（应急管理工作联络网，救援专业队伍库、物资库、专家库、法规库、典型案例库）中的法规库，宣传与应急管理相关的其他法律法规。<br><br>    （二）以总体应急预案为核心，做好应急预案的宣传和解读工作。要深入分析我省公共安全形势，宣传做好应急管理工作的重要意义；宣传在党中央、国务院，省委、省政府领导下，各地、各有关单位围绕“一案三制”（应急预案，应急管理体制、机制、法制）、“一网五库”建设所做的大量卓有成效的工作；宣传应急预案的主要内容和处置规程。特别要宣传抓好总体应急预案落实的重要性，要坚持防患于未然，在加强培训和演练上下功夫，不断完善各类应急预案，重点抓好社区、农村、企业、学校等基层单位的应急预案编制工作。<br><br>    （三）以应急知识普及为重点，提高公众预防、避险、自救、互救和减灾等能力。要通过开辟应急管理科普知识专栏，设置应急标识及张贴应急管理宣传口号，编辑出版科普读物、音像制品，举办论坛、讲座等形式，按照灾前、灾中、灾后的不同情况，分类宣传普及应急知识。灾前教育以了解突发事件的种类、特点和危害为重点，掌握预防、避险的基本技能；灾中教育以自救、互救知识为重点，普及基本逃生手段和防护措施，提高公众在事发第一时间迅速反应，开展自救、互救的能力；灾后教育以经历过突发事件的公众尤其是妇女、儿童为重点，抚平心理创伤，恢复正常社会生产生活秩序。<br><br>    （四）以典型案例为抓手，增强公众的公共安全意识。通过总结分析典型案例中使用的处置手段、采用的应对措施等，进一步提高各级组织应对突发事件的能力。通过介绍国内外应对突发事件的正反两方面典型案例，剖析公众在遭遇突发事件时，临危不乱、灵活运用自救、互救知识，配合政府救援、减少人员伤亡的正确做法，增强公众忧患意识，提高公众应对突发事件的综合素质。<br><br>    （五）以学生为主要对象，开展公共安全教育。组织编写大、中、小学及幼儿园公共安全课程教材，尽快让公共安全知识进校园、进课堂、进学生头脑。各级各类学校要按突发事件应对法要求，把应急知识教育纳入教学内容，适时组织学生进行应急演练，培养学生的安全意识和自救、互救能力。<br><br>    （六）以定期培训为主要手段，提高公务员和从业人员的应急处置水平。制订培训计划，定期对各级领导干部、应急管理办事机构负责人、公务员和新闻发言人等进行应急培训；对应急救援队伍、志愿者队伍进行实战培训；对高危行业、事故多发领域的从业人员进行安全知识培训，在职业资格认证及招考公务员考试中逐步增加公共安全内容。通过多种途径，提高全民的应急素质，提升应对突发事件的能力。<br><br>    四、工作要求<br><br>    （一）加强组织领导。各地、各有关单位要高度重视，周密组织，加强领导，分管领导要亲自抓，应急管理办事机构主要负责人要具体抓，形成齐抓共管的良好局面，确保领导到位，组织措施到位，确保应急管理宣教培训工作取得良好效果。<br><br>    （二）制订详细计划。各地、各有关单位要根据职责，结合实际，制订应急管理宣教培训工作计划。每项计划要有具体内容、牵头负责单位、协助单位、完成具体时间表、预期效果等。<br><br>    （三）创新工作形式。要采取群众喜闻乐见、寓教于乐的方式，利用广播、电视、报刊、网络等多种媒体，细分受众层次，尽可能使用通俗语言，简明扼要，多题材、多角度、有针对性地进行应急管理科普宣教，触角要延伸进社区、农村、企业、学校和家庭。要借助广东省与加拿大卑诗省签署的应急管理合作谅解备忘录，加快双方在人员培训等方面的合作。要充分依托有实力的高等院校，加快建设应急管理学院，加强高层次的应急管理专业人才培训，推动应急管理产学研工作，实现应急管理事业可持续发展。<br><br>    （四）保障工作经费。各地、各有关单位开展应急管理宣教培训工作所需经费，由同级财政予以积极支持。新闻媒体要根据突发事件应对法的要求，无偿开展突发事件预防与应急、自救与互救知识的公益宣传。<br><br>    （五）加强督促检查。省政府应急办要会同宣传部门共同负责科普工作方案的指导和协调工作；会同组织、人事、教育部门共同负责培训工作方案督促和检查，确保取得实效。<br><br>    附件：<br>    1．广东省应急管理标志和宣传口号<br>    2．广东省应急管理宣教培训工作任务分工表<br>    3．广东省突发事件专项应急预案简本目录<br><br>广东省人民政府办公厅          <br>二○○八年四月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

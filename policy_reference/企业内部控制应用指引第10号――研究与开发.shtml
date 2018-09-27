@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2010-05-16<BR>&nbsp;&nbsp;【生效日期】2010-05-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://kjs.mof.gov.cn/zhengwuxinxi/zhengcefabu/201005/P020100505328497850725.pdf" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>企业内部控制应用指引第10号――研究与开发 <br><br></font></p><br><br><br>    <font class='zhang'>第一章</font> 总 则 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了促进企业自主创新，增强核心竞争力，有效控制研发风险，实现发展战略，根据有关法律法规和《企业内部控制基本规范》，制定本指引。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本指引所称研究与开发，是指企业为获取新产品、新技术、新工艺等所开展的各种研发活动。 <br><br>   <a name='3'><font class='TiaoNoA'>第三条</font></a> 企业开展研发活动至少应当关注下列风险： <br><br>    （一）研究项目未经科学论证或论证不充分，可能导致创新不足或资源浪费。 <br><br>    （二）研发人员配备不合理或研发过程管理不善，可能导致研发成本过高、舞弊或研发失败。 <br><br>    （三）研究成果转化应用不足、保护措施不力，可能导致企业利益受损。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 企业应当重视研发工作，根据发展战略，结合市场开拓和技术进步要求，科学制定研发计划，强化研发全过程管理，规范研发行为，促进研发成果的转化和有效利用，不断提升企业自主创新能力。 <br><br>    <font class='zhang'>第二章</font> 立项与研究 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 企业应当根据实际需要，结合研发计划，提出研究项目立项申请，开展可行性研究，编制可行性研究报告。 <br>企业可以组织独立于申请及立项审批之外的专业机构和人员进行评估论证，出具评估意见。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 研究项目应当按照规定的权限和程序进行审批，重大研究项目应当报经董事会或类似权力机构集体审议决策。审批过程中，应当重点关注研究项目促进企业发展的必要性、技术的先进性以及成果转化的可行性。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 企业应当加强对研究过程的管理，合理配备专业人员，严格落实岗位责任制，确保研究过程高效、可控。 企业应当跟踪检查研究项目进展情况，评估各阶段研究成果，提供足够的经费支持，确保项目按期、保质完成，有效规避研究失败风险。 <br><br>    企业研究项目委托外单位承担的，应当采用招标、协议等适当方式确定受托单位，签订外包合同，约定研究成果的产权归属、研究进度和质量标准等相关内容。 <br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 企业与其他单位合作进行研究的，应当对合作单位进行尽职调查，签订书面合作研究合同，明确双方投资、分工、权利义务、研究成果产权归属等。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 企业应当建立和完善研究成果验收制度，组织专业人员对研究成果进行独立评审和验收。企业对于通过验收的研究成果，可以委托相关机构进行审查，确认是否申请专利或作为非专利技术、商业秘密等进行管理。企业对于需要申请专利的研究成果，应当及时办理有关专利申请手续。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 企业应当建立严格的核心研究人员管理制度，明确界定核心研究人员范围和名册清单，签署符合国家有关法律法规要求的保密协议。 <br><br>    企业与核心研究人员签订劳动合同时，应当特别约定研究成果归属、离职条件、离职移交程序、离职后保密义务、离职后竞业限制年限及违约责任等内容。 <br><br>    <font class='zhang'>第三章</font> 开发与保护 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 企业应当加强研究成果的开发，形成科研、生产、市场一体化的自主创新机制，促进研究成果转化。研究成果的开发应当分步推进，通过试生产充分验证产品性能，<br>在获得市场认可后方可进行批量生产。 <br><br>   <a name='12'><font class='TiaoNoA'>第十二条</font></a> 企业应当建立研究成果保护制度，加强对专利权、非专利技术、商业秘密及研发过程中形成的各类涉密图纸、程序、资料的管理，严格按照制度规定借阅和使用。禁止无关人员接触研究成果。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 企业应当建立研发活动评估制度，加强对立项与研究、开发与保护等过程的全面评估，认真总结研发管理经验，分析存在的薄弱环节，完善相关制度和办法，不断改进和提升研发活动的管理水平。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

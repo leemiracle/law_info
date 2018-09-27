@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教技［2005］2号<BR>&nbsp;&nbsp;【发布日期】2005-06-08<BR>&nbsp;&nbsp;【生效日期】2005-06-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.edu.cn/edoas/website18/info13604.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部科技基础资源数据平台建设管理办法<br><br></font>(教技［2005］2号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局，部属各高等学校：<br><br>    教育部科技基础资源数据平台（以下简称平台）是运用信息、网络等现代技术，对高校科技基础资源数据，特别是自然科技资源和科学数据等进行战略重组和系统优化，以促进高校科技资源的高效配置和综合利用，提升高校科技创新能力，拓宽人才培养手段的共享性基础设施。<br><br>    平台建设是一项长期性、基础性和公益性的工作。为加强平台建设的组织与管理工作，保障平台建设规范、有序进行，现印发《教育部科技基础资源数据平台建设管理办法》，请参照执行，并将执行中的具体情况及时反馈我部。<br><br>二○○五年六月八日<br><br><br>教育部科技基础资源数据平台建设管理办法<br><br><font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强科技基础资源数据平台建设的组织与管理工作，保障平台建设规范、有序进行，特制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  教育部科技基础资源数据平台（以下简称平台）是运用现代信息技术，对高校科技基础资源数据，特别是自然科技资源和科学数据等进行战略重组和系统优化，以促进高校科技资源的高效配置和综合利用，提升高校科技创新能力，拓宽人才培养手段的共享性基础设施。平台建设是一项涉及多个高校的，长期性、基础性和公益性的工作。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  平台建设按照统筹规划、分步实施、共建共享、优化提升的原则，在《2004-2010年国家科技基础条件平台建设纲要》和国家中长期规划指导下，整合高校优势资源，具备条件的争取逐步纳入国家科技基础条件平台建设计划，集成于国家科技资源中，成为重要组成部分。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  教育部由科技司负责平台建设的具体组织实施工作。<br><br><font class='zhang'>第二章</font>  职能与职责<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  教育部组织实施平台建设工作的主要职责是：<br><br>    （一）根据国家科技基础条件平台建设纲要和实施意见，制定教育部科技基础资源数据平台的整体规划,发布年度平台建设方案;<br><br>    （二）制定平台建设项目遴选原则和程序，聘请评议专家，确定平台建设单位与牵头建设单位；<br><br>    （三）通过申报书形式确定项目各方的职责；<br><br>    （四）对平台建设进行宏观指导和督促，组织专家对平台建设进行中期检查和最终验收；<br><br>    （五）综合协调并处理平台建设中需要解决的重大问题；<br><br>    （六）引导平台健康发展，为纳入国家科技基础条件平台建设规划创造有利环境。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  平台建设单位是教育部科技基础资源数据平台建设的具体实施主体，主要职责是：<br><br>    （一）制定平台建设方案和发展规划，按照平台建设项目计划完成规定任务；<br><br>    （二）为平台建设顺利实施提供必要的条件保障和配套经费；<br><br>    （三）明确平台建设的管理机构，统一和规范资源数据整理、整合标准，制定资源数据共享机制，建立平台运行体制；<br><br>    （四）定期报告平台建设进展情况，撰写工作简报；<br><br>    （五）定期报告经费使用情况，编报年度经费决算；<br><br>    （六）向教育部反映平台建设中出现的重大问题；<br><br>    （七）接受教育部对平台建设项目的中期检查和最终验收；<br><br>    （八）组织平台积极争取纳入国家科技基础条件平台建设规划。<br><br><font class='zhang'>第三章</font>  组织与立项<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  平台建设以项目形式实施，项目采取以多个单位联合参与、一个单位牵头的方式组织申请，每个领域原则建设1个平台，每个平台建设期为2－3年。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  申请平台建设的单位应拥有与申请建设平台相关的较丰富的资源数据，具备良好的研究条件和结构合理的人才队伍。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  申请平台建设的牵头单位还应具有与其它学校较好的合作基础、较强的协调能力、较高的责任感和良好的信誉度。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  申请平台建设单位，以牵头单位为主填写《教育部科技基础资源数据平台建设申报书》。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  平台建设的组织本着“公开、公平、公正”的原则，具体程序为组织汇报，专家评议，协调整合，专家复评，择优支持进行遴选：<br><br>    （一）教育部对项目申报书进行形式审查；<br><br>    （二）教育部组织评议专家组，听取通过形式审查项目的汇报；<br><br>    （三）申请平台建设单位在评议会上就项目的总体目标、建设方案、现有工作基础、分年度有限考核指标等进行汇报；<br><br>    （四）评议专家组根据汇报，形成专家组意见和建议，明确指出该领域建议牵头单位和整合方案；<br><br>    （五）教育部根据专家组意见和建议，责成建议牵头单位，联合该领域优势单位，召开协调整合工作会；<br><br>    （六）根据专家组意见建议和工作会协调结果，由牵头单位组织参与单位研究协商，对项目申报书进行修改后，报送教育部进行复评；<br><br>    （七）教育部组织专家对修改后的项目进行复评，提出修改建议和意见；<br><br>    （八）依据专家复评的意见和建议，调整项目申报书，经平台建设单位各方共同核准后，报教育部；<br><br>    （九）教育部审定项目申报书后，正式批准平台立项建设。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  平台建设申报书是平台建设的立项、结题和验收的重要依据：<br><br>    （一）申报书的年度有限考核指标应尽可能量化，对于无法量化的，必须有准确含义的定性说明；<br><br>    （二）申报书中设计各方职责必须明确和落实，并作为验收的主要指标之一。<br><br><font class='zhang'>第四章</font>  建设与管理<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  平台建设实行分步实施，动态调整，分为三种类型：<br><br>    （一）新建平台：指根据平台建设整体规划和年度建设方案，拟立项建设的平台；<br><br>    （二）扩容平台：指已建平台在建设期间，根据发展需要，为整合更多资源数据、吸纳新的参与单位的平台；<br><br>    （三）调整平台：指已建平台在建设期间，因故不能顺利开展工作需进行必要调整的平台。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  平台建设采取边建设、边共享、边运行的方式进行。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  牵头单位的主管校领导作为平台建设总负责人，下设两级管理机构：管理委员会为一级管理机构，协调工作组和实施工作组为二级管理机构：<br><br>    （一）管理委员会下设协调工作组和实施工作组；<br><br>    （二）管理委员会成员由平台建设单位的主管科技的校级领导组成，管委会主任由平台建设牵头单位的主管科技的校领导担任，负责平台建设的经费筹措，条件保障和重大事项决策，制定本平台的工作章程；<br><br>    （三）协调工作组成员由平台建设单位的科技部门负责人组成，组长由牵头单位的科技部门负责人担任，负责平台建设单位的联络和协调；<br><br>    （四）实施工作组成员由平台建设单位的具体承担人组成，实施工作组组长由平台建设牵头单位的具体责任人担任，负责平台建设的全面实施。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  平台建设项目在建设期内被纳入国家基础条件平台建设计划，将按照国家科技基础条件平台建设有关管理办法进行建设与管理。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  平台建设单位依法享有项目建设过程中研究和开发出来的新技术、新系统等成果的知识产权，在遵循我国有关知识产权保护的法律法规的基础上，实现资源、数据信息等的共享。<br><br><font class='zhang'>第五章</font>  中期检查与验收<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  平台建设项目中期检查时间一般根据平台建设周期确定，教育部选聘专家组成检查组，采用现场检查和集中汇报相结合的方式进行。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  专家组对平台建设情况和下一步发展提出意见和建议，并做出检查结论。检查结论分为合格、调整或撤销。<br><br>    出现下列情况之一的，予以调整或撤销：<br><br>    （一）配套资金或保障条件不能落实，影响项目正常实施的；<br><br>    （二）项目执行中因人为因素导致项目难以实施或未能按期完成计划任务的；<br><br>    （三）建设目标发生重大调整，建设内容产生变更，技术方案进行了重新修订，或者由于项目负责人出现变更等原因对项目执行产生重大影响的。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  平台建设项目验收应在建设期完成后半年内，由牵头单位向教育部提出书面验收申请，并提交有关验收资料，包括：<br><br>    （一）项目结题验收报告；<br><br>    （二）教育部批复立项文件；<br><br>    （三）经费决算表和使用说明。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  教育部对验收资料进行审查合格后，同意验收。验收工作一般采用现场验收的方式，由教育部选聘专家组成验收组，听取平台建设项目汇报，形成专家组验收意见。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  专家组根据项目汇报、资料审查及现场检查，对项目提出验收意见并作出验收结论。验收结论分为通过验收、需要复验或未通过验收三种情况。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  验收平台建设项目存在下列情况之一者，不能通过验收：<br><br>    （一）未全部完成项目计划任务；<br><br>    （二）未经批准擅自修改项目申报书中的考核目标、内容、技术路线等；<br><br>    （三）提供的验收文件、资料、数据不真实；<br><br>    （四）建设过程中存在纠纷尚未解决；<br><br>    （五）超过项目申报书中规定的建设年限半年以上未完成任务，事先未作出说明；<br><br>    （六）经费使用中存在严重问题。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  需要复验的项目，应在接到通知后30个工作日内提出复验申请。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  验收未通过的项目，应在接到通知后半年内，针对存在的问题提出整改方案并做出相应改进后，可再次提出验收申请。如再次验收未通过者，教育部不推荐平台建设单位承担国家科技基础条件平台建设项目。<br><br><font class='zhang'>第六章</font>  经费<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  平台建设项目经费来源包括：教育部资助经费；平台建设单位配套经费，其中牵头建设单位不低于1：2，参与建设单位不低于1:1。同时鼓励多渠道筹措经费，以保障项目的顺利进行。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  教育部依据项目立项批复分年度拨付经费。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  平台项目建设经费的管理和使用必须遵守财务制度，严格执行国家有关财经法规，专款专用。任何部门和单位不得截留、挤占或挪用，不得提取项目管理费。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  因故终止的项目，平台建设单位应及时清理账目，编制终止项目的决算并上报，并将已拨经费的余额退还教育部，不得挪作他用。<br><br><font class='zhang'>第七章</font>  运行与发展<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  平台建设是一项长期的基础性工作。在明晰平台未来建设内容和发展目标的基础上，遵循“整合、共享、完善、提高”的建设思路，本着“以发展为动力、以共享为核心、以服务求支持”的原则，确保平台健康、持续发展。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  平台建设项目中共享的基础资源数据，应做到及时补充和更新。除公益性资源数据外，均可依照国家有关规定开展有偿服务工作，向社会开放，逐步实现依靠自身发展，保障平台正常运行的目标。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  平台建设项目牵头单位与参与单位在利益共享的原则下，依托牵头单位建立健全保障平台运行和发展的管理机构，完善科技基础资源数据平台的相关工作章程，确保互利互惠，共同承担平台运行、服务、共享的责任。<br><br><font class='zhang'>第八章</font>  附则<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  本办法自公布之日起执行。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  各平台参照本办法，结合各自特点，制定平台建设运行管理办法。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

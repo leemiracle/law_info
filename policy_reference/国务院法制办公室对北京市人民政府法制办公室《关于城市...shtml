@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院法制办公室<BR>&nbsp;&nbsp;【发布文号】国法秘函〔2002〕15号<BR>&nbsp;&nbsp;【发布日期】2002-01-24<BR>&nbsp;&nbsp;【生效日期】2002-01-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinalaw.gov.cn/jsp/contentpub/browser/contentpro.jsp?contentid=co1463671038" target=_blank>国务院法制办公室 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院法制办公室对北京市人民政府法制办公室<br>《关于城市私有房屋拆迁补偿适用法律问题的请示》的答复<br> <br></font>（2002年1月24日国务院法制办公室文件国法秘函〔2002〕15号发布 自公布之日起施行）</p><br><br><br>北京市人民政府法制办公室：<br><br>    你办《关于城市私有房屋拆迁补偿适用法律问题的请示》收悉。经商建设部、国土资源部，现答复如下：<br><br>    一、关于1999年1月1日现行土地管理法施行前拆迁城市私有房屋的补偿问题<br><br>    根据法不溯及既往的原则，1999年1月1日现行土地管理法实施之前拆迁城市私有房屋的补偿，应当适用原土地管理法和原城市房屋拆迁管理条例的规定。<br><br>    二、关于1999年1月1日现行土地管理法施行后至2001年11月1日现行城市房屋拆迁管理条例施行前，拆迁城市私有房屋的补偿问题<br><br>    现行土地管理法第五十八条规定，收回国有土地使用权，对土地使用权人应当给予适当补偿。《北京市城市房屋拆迁管理办法》第二十八条第二款规定：“拆除执行国家规定租金标准的私有出租住宅房屋，拆迁人对被拆迁房屋所有人应当按照被拆迁房屋原建筑面积的重置价及成新，结合被拆除房屋所在区位给予补偿。具体补偿办法由各区、县房地局确定并报市房地局批准。”根据立法法有关中央专属立法权以外的事项地方可依照本地情况作出具体规定的精神，在国家统一的补偿办法、标准出台前，北京市人民政府作出上述规定，将土地使用权补偿因素纳入补偿范畴，不存在法律问题。因此，北京市可以依照上述规定对被拆除的房屋进行补偿。<br><br>    三、关于2001年11月1日现行城市房屋拆迁管理条例施行后，拆迁城市私有房屋的补偿问题<br><br>    2001年11月1日起施行的现行《城市房屋拆迁管理条例》第二十四条规定：“货币补偿的金额，根据被拆迁房屋的区位、用途、建筑面积等因素，以房地产市场评估价格确定。”根据上述规定，2001年11月1日以后实施的拆迁，货币补偿款中包括对土地使用权的补偿。今后，对被拆除房屋的补偿应当按照《城市房屋拆迁管理条例》的规定执行。<br><br><br><br>附：北京市人民政府法制办公室关于城市私有房屋拆迁补偿适用法律问题的请示<br><br>    （2001年12月11日  京政法制规字[2001]43号）<br><br>国务院法制办公室：<br><br>    为了贯彻实施《中华人民共和国土地管理法》和国务院《城市房屋拆迁管理条例》，切实保障被拆迁人的合法权益，现就城市私有房屋拆迁补偿适用法律问题请示如下：<br><br>    一、关于现行《中华人民共和国土地管理法》施行以前拆迁城市私有房屋的补偿问题<br><br>    现行的《中华人民共和国土地管理法》自1999年1月1日起施行，该法第五十八条规定：“有下列情形之一的，由有关人民政府土地行政主管部门报经原批准用地的人民政府或者有批准权的人民政府批准，可以收回国有土地使用权：<br><br>    “（一）为公共利益需要使用土地的；<br><br>    “（二）为实施城市规划进行旧城区改建，需要调整使用土地的；<br><br>    “（三）土地出让等有偿使用合同约定的使用期限届满，土地使用者未申请续期或者申请续期未获批准的；<br><br>    “（四）因单位撤销、迁移等原因，停止使用原划拨的国有土地的；<br><br>    “（五）公路、铁路、机场、矿场等经核准报废的。<br><br>    “依照前款第（一）项、第（二）项的规定收回国有土地使用权的，对土地使用权人应当给予适当补偿。”<br><br>    根据国务院法制办公室《关于对被拆迁私房的产权人原使用的国有土地使用权是否给予补偿的报告》（国法综[2000]13号）的意见，可否认为，对现行《中华人民共和国土地管理法》生效以前发生的私有房屋拆迁补偿，应当适用当时的土地管理和城市房屋拆迁管理的法律、行政法规的规定，不适用现行《中华人民共和国土地管理法》第五十八条关于“对土地使用权人应当给予适当补偿”的规定。<br><br>    二、关于现行《城市房屋拆迁管理条例》施行以后，拆迁城市私有房屋的补偿问题<br><br>    现行《城市房屋拆迁管理条例》（以下简称《条例》）自2001年11月1日起施行。《条例》第二十四条中规定：“货币补偿的金额，根据被拆迁房屋的区位、用途、建筑面积等因素，以房地产市场评估价格确定。”据此，可否认为，自2001年11月1日起，凡依据《条例》规定对私有房屋所有权人进行拆迁补偿的，其中已包含了对收回的国有土地使用权的补偿。<br><br>    三、关于现行《中华人民共和国土地管理法》施行以后至《条例》施行之前，拆迁城市私有房屋的补偿问题<br><br>    现行《中华人民共和国土地管理法》施行以后至《条例》施行之前，国家法律、行政法规和部门规章没有具体规定在拆迁私有房屋中对土地使用权人如何给予补偿。根据国家有关规定并结合我市实际情况，市人民政府于1998年10月15日颁布了《北京市城市房屋拆迁管理办法》（以下简称《办法》），自1998年12月1日起施行。《办法》第二十八条第二款规定：“拆除执行国家规定租金标准的私有出租住宅房屋，拆迁人对被拆除房屋所有人应当按照被拆除房屋原建筑面积的重置价格及成新，结合被拆除房屋所在区位给予补偿。具体补偿办法由各区、县房地局确定并报市房地局批准。”实际执行中，市房地局一般批复区、县房地局对拆除执行国家规定租金标准的私有出租住宅的所有权人给予两项补偿：一是按照被拆除房屋原建筑面积的重置价格结合成新给予作价补偿；二是按照被拆迁房屋原建筑面积和房屋所在地的区人民政府确定的被拆除房屋所在区位拆迁补偿价格的20％给予补偿。《办法》第二十九条第一款中规定：“被拆除房屋所在区位的拆迁补偿价格由各区、县根据拆迁地点等因素确定，并报市房地局批准后执行。”市人民政府《关于调整本市城市房屋拆迁补偿办法的批复》（京政函[2000]60号）进一步明确：“拆迁补偿价格由各区、县政府参照被拆除房屋所在地区届时普通住宅商品房价确定，并报市国土资源和房屋管理局批准后执行。”<br><br>    综上所述，可否认为，在国家没有出台统一的对土地使用权进行补偿的办法之前，我市制定《办法》并依《办法》规定对私有出租住宅所有权人进行的拆迁补偿中，已经包含了土地使用权补偿的因素，即具体落实了现行《中华人民共和国土地管理法》第五十八条第二款的规定。<br><br>    特此请示。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】环发〔2006〕188号<BR>&nbsp;&nbsp;【发布日期】2006-11-22<BR>&nbsp;&nbsp;【生效日期】2006-11-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/huangfa/200611/t20061128_96628.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局关于湖北省汉川市环保局排污费收缴工作违规问题的通报<br> <br></font>(环发〔2006〕188号)</p><br><br> <br>各省、自治区、直辖市环境保护局（厅）：<br><br>    湖北省汉川市环保局违反国务院《排污费征收使用管理条例》相关规定，连续三年将收缴的排污费缴入预算外资金管理局，给排污费征收管理工作造成不良社会影响。现通报如下：<br><br>    2006年6月，部分群众举报湖北省汉川市环保局存在对汉川电厂协商收费、排污费未缴入国库并未纳入预算管理等问题。我局立即发出环境监察通知书，责成湖北省环保局进行调查。湖北省环保局立即会同湖北省财政厅、湖北省监察厅组成联合调查组，深入汉川市进行查处。经查，汉川市环保局2003、2004、2005年连续三年未将收缴的排污费缴入国库，而是缴入预算外资金账户；征收排污费时未使用湖北省财政厅统一印制的《排污费缴款书（收据）》；2004年、2005年应征收汉川电厂排污费（二氧化硫排污费除外）1185.9万元，实际征收480万元，少征705.9万元。汉川市环保局违反了排污费征收使用及行政事业性收费收支两条线管理的有关规定，造成应上缴中央财政及湖北省财政的资金没有到位。<br><br>    根据调查情况，湖北省环保局等部门责令汉川电厂补缴排污费705.9万元，目前已全部解缴国库，同时对违规缴入汉川市预算外资金管理局的排污费按规定比例上缴国库并纳入预算管理；汉川市纪检监察机关按照《排污费资金收缴使用管理办法》（财政部、国家环境保护总局令第17号）、《违反行政事业性收费和罚没收入收支两条线管理规定行政处分暂行规定》（国务院令第281号）、《环境保护违法违纪行为处分暂行规定》（监察部、国家环境保护总局令第10号）的有关规定，对汉川市环保局局长张先平、财政局局长杨大银予以戒勉谈话。<br><br>    2005年，湖北省就出现过被央视“焦点访谈”以“万能的排污费” 为题曝光的南漳县环保局以招待费、房租费、医疗费等冲抵、挪用、乱支排污费问题，原南漳县环保局局长因此被免职，但汉川市环保局并未从中汲取教训。 <br><br>     各级环保部门要引以为戒，举一反三，认真查找和处理排污费征收使用管理工作中存在的违纪违规问题，并认真落实好如下几个方面要求：<br><br>    一、严格核定污染物排放量和排污费征收额。各级环保部门要按国家规定的排污量核定方法，在排污者如实申报基础上，按照污染源自动监控数据、常规监督性监测数据、物料衡算数据的先后顺序，严格核定排污者污染物排放量，并按照国家规定的排污费征收标准确定排污者应缴纳的排污费数额，及时送达排污费缴纳通知单，对拖欠、拒缴排污费的，要按规定的时限进行催缴并收取滞纳金。<br><br>    二、规范排污费减免行为。各级环保部门要按照国家规定的排污费减免范围、审批权限和办理程序对申请排污费减免的排污者进行审批。任何地方不得以任何名义擅自扩大对公用事业单位在内的排污者应缴纳排污费的减免范围，不得超越审批权限或违反审批程序批准减免排污费，更不得将减免缓缴排污费作为招商引资等活动的优惠条件。<br><br>    三、实行排污费征收公告制度。各级环保部门每半年要对本级负责征收排污费的重点排污单位的污染物排放种类、数量和排污费应缴数额和实缴数额、减免缓缴排污费的数额和时限、拖欠和拒缴排污费数额及限期缴纳时限等，在媒体上进行公告，接受社会监督。<br><br>    四、切实加强排污费征收稽查工作。各级环保部门要规范排污费征收行为，坚决杜绝人情收费、协商收费等乱收费行为。上级环保部门要对下级环保部门的排污费征收使用情况进行稽查，对违法违纪单位和责任人要按照《排污费征收使用管理条例》和《环境保护违法违纪处分暂行办法》等规定给予严肃处理。                            <br><br>    <br><br>二○○六年十一月二十二日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

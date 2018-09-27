@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳证券交易所<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-07-18<BR>&nbsp;&nbsp;【生效日期】2005-07-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.szse.cn/Web/Article/2005/07/18/0904177656C7417.aspx" target=_blank>深圳证券交易所 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳证券交易所权证管理暂行办法<br><br></font>2005-07-18</p><br>  <br> <br><font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为规范权证的业务运作，维护正常的市场秩序，保护投资者的合法权益，根据《<a href=javascript:ROF(96089,0) class=alink>证券法</a>》等法律、行政法规以及本所相关业务规则，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本办法所称权证，是指标的证券发行人或其以外的第三人（以下简称发行人）发行的，约定持有人在规定期间内或特定到期日，有权按约定价格向发行人购买或出售标的证券，或以现金结算方式收取结算差价的有价证券。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  权证在本所发行、上市、交易、行权，适用本办法，本办法未作规定的，适用本所其他有关规定。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  本所对权证的发行、上市、交易、行权及信息披露进行监管，中国证监会另有规定的除外。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  在本所发行、上市、交易、行权的权证，其登记、托管和结算由本所指定的证券登记结算机构办理。<br><br>    <font class='zhang'>第二章</font>  权证的发行上市<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  发行人申请发行权证并在本所上市的，应在发行前向本所报送申请材料。本所自受理之日起20个工作日内出具审核意见，并报中国证监会备案。<br><br>    前款申请材料的内容与格式，由本所另行制定。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  权证发行申请经本所核准后，发行人应在发行前2至5个工作日内将权证发行说明书刊登于至少一种指定报纸和指定网站。<br><br>    权证发行说明书的内容与格式由本所另行规定。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  发行人应在权证发行结束后2个工作日内，将权证发行结果报送本所，并提交权证上市申请材料。<br><br>    权证上市申请经本所核准后，发行人应在其权证上市2个工作日之前，在至少一种指定报纸和指定网站上披露上市公告书。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  申请在本所上市的权证，其标的证券为股票的，标的股票在申请上市之日应符合以下条件：<br><br>    （一）最近20个交易日流通股份市值不低于30亿元；<br><br>    （二）最近60个交易日股票交易累计换手率在25%以上；<br><br>    （三）流通股股本不低于3亿股；<br><br>    （四）本所规定的其他条件。<br><br>    标的证券为其他证券的，其资格条件由本所另行规定。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  申请在本所上市的权证，应符合以下条件：<br><br>    （一）约定权证类别、行权价格、存续期间、行权日期、行权结算方式、行权比例等要素；<br><br>    （二）申请上市的权证不低于5000万份；<br><br>    （三）持有1000份以上权证的投资者不得少于100人；<br><br>    （四）自上市之日起存续时间为 6个月以上24个月以下；<br><br>    （五）发行人提供了符合本办法第十一条规定的履约担保；<br><br>    （六）本所规定的其他条件。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  由标的证券发行人以外的第三人发行并在本所上市的权证，发行人应按照下列规定之一，提供履约担保：<br><br>    （一）通过专用帐户提供并维持足够数量的标的证券或现金，作为履约担保。<br><br>    履约担保的标的证券数量＝权证上市数量×行权比例×担保系数；<br><br>    履约担保的现金金额＝权证上市数量×行权价格×行权比例×担保系数。担保系数由本所发布并适时调整。<br><br>    （二）提供经本所认可的机构作为履约的不可撤销的连带责任保证人。<br><br>    发行人应保证按前款第（一）项规定所提供的用于履约担保的标的证券或者现金不存在质押、司法冻结或其他权利瑕疵。权证存续期间，用于履约担保的标的证券或者现金出现权利瑕疵的，发行人应当及时披露，并采取措施使履约担保重新符合规定。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  申请权证上市的，发行人应向本所提交下列文件：<br><br>    （一）上市申请书；<br><br>    （二）权证发行情况说明；<br><br>    （三）上市公告书；<br><br>    （四）董事、监事和高级管理人员持有标的证券和权证的情况报告、禁售申请；<br><br>    （五）本所要求的其他文件。<br><br>    上市公告书的内容和格式，由本所另行规定。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  发行人应当在权证上市前与本所签订上市协议，明确双方的权利、义务和有关事项。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  出现下列情形之一的，权证将被终止上市：<br><br>    （一）权证存续期满；<br><br>    （二）权证在存续期内已被全部行权；<br><br>    （三）本所认定的其他情形。<br><br>    权证存续期满前5个交易日，权证终止交易，但可以行权。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  发行人应当在权证存续期满前至少7个工作日发布终止上市提示性公告。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  发行人应于权证终止上市后2个工作日内刊登权证终止上市公告。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  本所有权根据市场需要，要求发行人和相关投资者履行相关信息披露义务。<br><br>    发行人应指定一名专职人员作为权证信息披露事务联络人。<br><br>    <font class='zhang'>第三章</font>  权证的交易行权<br><br>    第一节  交易<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  经本所认可的具有本所会员资格的证券公司（以下简称本所会员）可以自营或代理投资者买卖权证。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  本所会员应向首次买卖权证的投资者全面介绍相关业务规则，充分揭示可能产生的风险，并要求其签署风险揭示书。风险揭示书由本所统一制定。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  单笔权证买卖申报数量不得超过100万份，申报价格最小变动单位为0.001元人民币。权证买入申报数量为100份的整数倍。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  当日买进的权证，当日可以卖出。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  权证交易实行价格涨跌幅限制，涨跌幅按下列公式计算：<br><br>    权证涨幅价格＝权证前一日收盘价格+（标的证券当日涨幅价格－标的证券前一日收盘价）×125%×行权比例；<br><br>    权证跌幅价格＝权证前一日收盘价格－(标的证券前一日收盘价－标的证券当日跌幅价格)×125%×行权比例。<br><br>    当计算结果小于等于零时，权证跌幅价格为价格最小变动单位。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  权证上市首日开盘参考价，由保荐机构计算；无保荐机构的，由发行人计算，并将计算结果提交本所。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  本所在每日开盘前公布每只权证可流通数量、持有权证数量达到或超过可流通数量5%的持有人名单。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  权证发行人不得买卖自己发行的权证，标的证券发行人不得买卖标的证券对应的权证。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  禁止内幕信息知情人员利用内幕信息进行权证交易活动，获取不正当利益。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  禁止任何人从事下列活动：<br><br>    （一）直接操纵权证价格；<br><br>    （二）通过操纵标的证券价格影响其对应权证的价格；<br><br>    （三）通过操纵权证价格影响其对应的标的证券价格。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  标的证券停牌的，权证相应停牌；标的证券复牌的，权证复牌。本所根据市场需要有权暂停权证交易。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  已上市交易的权证，合格机构可创设同种权证，具体要求由本所另行规定。<br><br>    第二节  行权<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  权证持有人行权的，应委托本所会员通过本所交易系统申报。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  权证行权以份为单位进行申报。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  当日行权申报指令，当日有效，当日可以撤消。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  当日买进的权证，当日可以行权。当日行权取得的标的证券，当日不得卖出。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  标的证券除权、除息的，权证的发行人或保荐人应对权证的行权价格、行权比例作相应调整并及时提交本所。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  标的证券除权的，权证的行权价格和行权比例分别按下列公式进行调整：<br><br>    新行权价格=原行权价格×（标的证券除权日参考价/除权前一日标的证券收盘价）；<br><br>    新行权比例=原行权比例×（除权前一日标的证券收盘价/标的证券除权日参考价）。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  标的证券除息的，行权比例不变，行权价格按下列公式调整：<br><br>    新行权价格=原行权价格×（标的证券除息日参考价/除息前一日标的证券收盘价）。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  权证行权采用现金方式结算的，权证持有人行权时，按行权价格与行权日标的证券结算价格及行权费用之差价，收取现金。<br><br>    前款中的标的证券结算价格，为行权日前十个交易日标的证券每日收盘价的平均数。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  权证行权采用证券给付方式结算的，认购权证的持有人行权时，应支付依行权价格及标的证券数量计算的价款，并获得标的证券；认沽权证的持有人行权时，应交付标的证券，并获得依行权价格及标的证券数量计算的价款。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  采用现金结算方式行权且权证在行权期满时为价内权证的，发行人在权证期满后的3个工作日内向未行权的权证持有人自动支付现金差价。<br><br>    采用证券给付结算方式行权且权证在行权期满时为价内权证的，代为办理权证行权的本所会员应在权证期满前的5个交易日提醒未行权的权证持有人权证即将期满，或按事先约定代为行权。<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  权证交易佣金、费用等，参照在本所上市交易的基金的标准执行。<br><br>    <font class='zhang'>第四章</font>  罚则<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  权证发行人违反本办法或本所相关业务规则的，本所可责令其改正，并视情节轻重，给予下列惩戒：<br><br>    （一）通报批评；<br><br>    （二）公开谴责；<br><br>    （三）本所认为需要采取的其他措施。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  本所会员违反本办法或本所其他业务规则，本所可视情节轻重，给予下列惩戒：<br><br>    （一）责令改正；<br><br>    （二）通报批评；<br><br>    （三）公开谴责；<br><br>    （四）暂停其权证自营或经纪业务，限制其在自营或经纪业务中买入权证；<br><br>    （五）本所认为需要采取的其他措施。<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  本所会员严重违反证券登记结算机构结算规则，根据证券登记结算机构的提请，本所可暂停其权证自营或经纪业务，或限制其在自营或经纪业务中买入权证。<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a>  本所对权证交易进行实时监控，对存在异常交易，或内幕交易、市场操纵嫌疑的，本所视具体情况，可采取下列措施：<br><br>    （一）口头警告相关人员；<br><br>    （二）约见相关人员谈话；<br><br>    （三）限制出现重大异常交易情况的证券帐户的权证交易；<br><br>    （四）向中国证监会报告。<br><br>    <font class='zhang'>第五章</font>  附则<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a>  本办法下列用语含义如下：<br><br>    （一）标的证券：发行人承诺按约定条件向权证持有人购买或出售的证券。<br><br>    （二）认购权证：发行人发行的，约定持有人在规定期间内或特定到期日，有权按约定价格向发行人购买标的证券的有价证券。<br><br>    （三）认沽权证：发行人发行的，约定持有人在规定期间内或特定到期日，有权按约定价格向发行人出售标的证券的有价证券。<br><br>    （四）行权：权证持有人要求发行人按照约定时间、价格和方式履行权证约定的义务。 <br><br>    （五）行权价格：发行人发行权证时所约定的，权证持有人向发行人购买或出售标的证券的价格。<br><br>    （六）行权比例：一份权证可以购买或出售的标的证券数量。<br><br>    （七）证券给付结算方式：指权证持有人行权时，发行人有义务按照行权价格向权证持有人出售或购买标的证券。<br><br>    （八）现金结算方式：指权证持有人行权时，发行人按照约定向权证持有人支付行权价格与标的证券结算价格之间的差额。<br><br>    （九）价内权证：指权证持有人行权时，权证行权价格与行权费用之和低于标的证券结算价格的认购权证；或者行权费用与标的证券结算价格之和低于权证行权价格的认沽权证。<br><br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a>  本办法所称“以上”、“以下”含本数，“超过”、“低于”不含本数。<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a>  本办法经本所理事会通过，报中国证监会批准后生效，修改时亦同。<br><br>    <a name='48'><font class='TiaoNoA'>第四十八条</font></a>  本办法由本所负责解释。<br><br>    <a name='49'><font class='TiaoNoA'>第四十九条</font></a>  本办法自发布之日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

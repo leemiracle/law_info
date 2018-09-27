@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2009]637号<BR>&nbsp;&nbsp;【发布日期】2009-11-17<BR>&nbsp;&nbsp;【生效日期】2009-11-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/9366561.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于推行纳税人网上开具缴款凭证有关工作的通知 <br><br></font>(国税函[2009]637号)</p> <br><br><br>    各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br><br>    为进一步优化纳税服务，提高税款征缴效率，国家税务总局决定在全国范围内推行纳税人网上开具缴款凭证工作。现就有关问题通知如下：<br><br>    一、充分认识纳税人网上开具缴款凭证工作的重要意义<br><br>    纳税人网上开具缴款凭证，是充分利用信息化条件，结合横向联网电子缴税、个人所得税全员全额申报等工作，对电子缴税开票方式的完善和制度创新。推行网上开具缴款凭证工作，能够使纳税人通过互联网系统自行在计算机终端打印缴款凭证，实现网上申报、缴税、开票“一条龙”服务，最大程度地方便纳税人完成缴税义务。推行网上开具缴款凭证工作，有利于完善纳税服务、减少纳税人办税时间和费用、有效维护纳税人的知情权、真正实现纳税人足不出户完成纳税义务，有利于税务机关缓解办税大厅压力、优化资源配置、节约征税成本、提高办税效率，是税务机关提升纳税服务水平，提高征缴效率，实现税务机关和纳税人“双赢”的重要举措。各级税务机关应当高度重视，认真组织，积极推进此项工作的开展。<br><br>    二、网上开具缴款凭证的工作内容<br><br>    （一）工作前提<br><br>    具备以下两项条件之一的地区，均可实施纳税人网上开具缴款凭证工作：<br><br>    1．已实施推广税务、国库、商业银行横向联网电子缴税，且横向联网系统的运行安全、可靠、稳定，能保证电子税票数据准确完整。<br><br>    2．个人所得税扣缴义务人能按期向税务机关申报个人所得税明细信息，申报数据准确。<br><br>    （二）基本流程 <br><br>    以省辖市或省级税务机关为单位，在互联网网站建立网上开具缴款凭证平台（以下简称网上开票平台），按日将纳税人缴税信息和个人所得税代扣代缴明细申报缴税信息从税收征管系统导出，经整理转换为可开具缴款凭证信息后，存入网上开票平台数据库。税务机关也可以将网上开具缴款凭证功能纳入电子申报系统，由商业银行将电子缴税扣款成功的税票信息上传到税务机关电子申报网站，供纳税人下载打印。<br>  <br>    纳税人通过税务机关互联网网站或到办税服务厅申请网上开票登录密钥后，按权限登录税务机关互联网网站，查询缴款情况，打印缴款凭证。<br><br>    （三）系统功能<br><br>    主要包括纳税人缴款情况查询及缴款凭证的下载和打印、税务人员查询、密码修改或重置等。<br><br>    （四）服务范围<br><br>    开票对象包括所有电子缴税的纳税人（缴款人）、扣缴义务人以及个人所得税明细申报的自然人。<br><br>    业务范围包括已缴纳的各项收入，即：企业和事业单位、机关和社会团体、个体户和个人缴纳的税款、基金、费等，包括扣缴义务人代扣代缴的个人所得税明细税款，以及个人从多处取得收入自行申报缴纳的个人所得税税款。<br><br>    网上开票系统应提供至少半年至一年的纳税人缴款数据供纳税人查询和打印，具体时期由各地自行决定。<br><br>    （五）缴款凭证式样和用途<br><br>    1.凭证式样<br><br>    网上开具的电子缴款凭证基本要素包括：凭证编号、系统税票号、打印日期、税务征收机关、纳税人识别号、纳税人全称、银行账号、税（费）种名称、税（品）目名称、所属时期、实缴金额、缴款日期等。其中，凭证编号指所打印的电子缴款凭证的编号；系统税票号为缴款信息在税务征管系统中的税票号码，是该信息在税务征管系统中的唯一性标志；银行账号指纳税人缴款银行账号；缴款日期指商业银行扣款日期或纳税人、扣缴义务人缴纳、解缴现金日期；代扣代缴个人所得税的，备注栏填写扣缴义务人名称或税务登记证号码。<br><br>    电子缴款凭证上应包含省辖市或省级税务机关电子缴款专用章图像（即电子章）。章戳大小、形状、颜色、内容等由各地自行决定。<br><br>    本凭证可按纳税人每次缴款记录开具明细缴款信息，可一票多税。<br><br>    电子缴款凭证参考式样如下，各地可根据当地实际情况对此凭证的基本要素、式样等进行适当调整。<br>     <br>    电子缴款凭证<br><br>    国<br><br>    （凭证编号） <br><br>    打印日期：****年**月**日<br><br>    纳税人识别号<br><br>    税务征收机关<br><br>    纳税人全称<br><br>    银行账号<br><br>    系统税票号<br><br>    税（费）种<br><br>    税（品）目<br><br>    所属时期<br><br>    实缴金额<br><br>    缴款日期<br><br>    备注<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

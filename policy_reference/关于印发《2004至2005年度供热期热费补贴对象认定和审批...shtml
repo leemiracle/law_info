@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈热办发[2004]22号<BR>&nbsp;&nbsp;【发布日期】2004-11-05<BR>&nbsp;&nbsp;【生效日期】2004-11-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=751" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于印发《2004至2005年度供热期热费补贴对象认定和审批程序》的通知<br><br></font>(哈热办发[2004]22号)</p><br><br> <br>    各供热单位：? <br><br>    为了做好全市2004至2005年度供热期热费补贴审核发放工作，解决好社会困难群体供热问题，现将《2004至2005年度供热期热费补贴对象认定和审批程序》印发给你们，望遵照执行。 <br>? <br>    特此通知。?? <br><br>    二○○四年十一月五日 <br><br>    2004至2005年度供热期热费补贴对象认定和审批程序??<br><br>    根据中共哈尔滨市委办公厅、哈尔滨市人民政府办公厅《关于切实做好2004至2005年度城市供热工作的通知》（哈办发［2004］45号）要求，为保障本供热期热费补贴工作的顺利完成，现将2004至2005年度供热期热费补贴对象的认定和审批程序规定如下。? <br><br>    一、统计方法? <br><br>    供热单位按照哈尔滨市城市供热领导小组办公室统一制发的《2004至2005年度供热期热费补贴人员审批表》，分类统计、填报、认定。? <br><br>    二、热费补贴对象的认定 <br><br>    热费补贴对象必须为所住房屋产权人（承租人），由相应发证（管理）部门负责认定。热费补贴面积不超过我市户均住房使用面积45平方米；低于45平方米的，按实际住房使用面积计算。经批准的市属、区属国有关停、破产企业离休人员和企业退休建国前老军人热费补贴面积按哈房改组字［1994］2号文件规定的职级面积控制标准执行，超控制标准面积的热费全部由个人承担。? <br><br>    （一）家庭成员中均无职业的城市最低生活保障对象? <br><br>    1、此类人员指持有《城市居民最低生活保障证》，且同一户口家庭成员均无职业；热费补贴比例为100%。? <br><br>    2、此类人员由户口所在区民政局或市农垦总局民政局最低生活保障管理部门负责认定。 <br>? <br>    3、认定所需证件：城市居民最低生活保障证和城市居民最低生活保障金领取存折、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    4、同一户口家庭成员虽有工作单位，但其单位关停、破产、解体的，或与单位解除劳动关系的，或被单位除名的，需持市经委批准的企业关停批复件；人民法院宣告企业破产裁定书；已解体企业原上级主管部门出具的企业状况证明；失业保险待遇领取证；与单位解除劳动关系或被单位除名的正式文件可比照无工作单位执行。? <br><br>    （二）家庭成员中均无职业的民政定补优抚对象 <br><br>    1、此类人员指持有在乡复员军人定补领取证、革命伤残军人证、“三属”（革命烈士家属、因公牺牲军人家属、病故军人家属）定期抚恤金领取证，且同一户口家庭成员均无职业；热费补贴比例为100%。? <br><br>    2、此类人员由所在区民政局负责认定。 <br>? <br>    3、认定所需证件：在乡复员军人定补领取证、革命伤残军人证、“三属”定期抚恤金领取证、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    4、同一户口家庭成员虽有工作单位，但其单位关停、破产、解体的，或与单位解除劳动关系的，或被单位除名的，需持市经委批准的企业关停批复件；人民法院宣告企业破产裁定书；已解体企业原上级主管部门出具的企业状况证明；失业保险待遇领取证；与单位解除劳动关系或被单位除名的正式文件可比照无工作单位执行。? <br><br>    （三）家庭成员中均无职业的失业救济对象? <br><br>    1、此类人员指持有《失业保险待遇领取证》（失业保险期含本年度10―12月有效），且同一户口家庭成员均无职业；热费补贴比例为100%。? <br><br>    2、此类人员由户口所在区劳动和社会保障局失业保险经办部门负责认定。 <br>? <br>    3、认定所需证件：失业保险待遇领取证、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    4、同一户口家庭成员虽有工作单位，但其单位关停、破产、解体的，或与单位解除劳动关系的，或被单位除名的，需持市经委批准的企业关停批复件；人民法院宣告企业破产裁定书；已解体企业原上级主管部门出具的企业状况证明；失业保险待遇领取证；与单位解除劳动关系或被单位除名的正式文件可比照无工作单位执行。? <br><br>    （四）市属国有福利企业盲人、重度残疾人 <br><br>    1、此类人员指持有中华人民共和国残疾人证，并属于残疾人评定标准中重度残疾等级的市属国有福利企业职工；热费补贴比例为100%。? <br><br>    2、此类人员由市民政局（福利企业办公室）负责认定。? <br><br>    3、认定所需证件：中华人民共和国残疾人证、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    （五）经批准的市属、区属国有关停、破产企业离休人员 <br><br>    1、此类人员指持有中华人民共和国老干部离休荣誉证，且所在企业是经市经委批准的市属、区属国有关停企业或经人民法院依法宣告破产的市属、区属国有破产企业；热费补贴比例为90%，10%由个人承担。? <br><br>    2、此类人员所在企业是市属国有关停、破产企业的，由市委老干部局负责认定；是区属国有关停、破产企业的，由区委老干部局负责认定。 <br>? <br>    3、认定所需证件：中华人民共和国老干部离休荣誉证、市经委批准的企业关停批复件或人民法院宣告企业破产裁定书、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    （六）进入社保领取养老金的国有破产企业退休人员 <br><br>    1、此类人员指持有职工退休证，在社保部门领取养老金，且退休企业是经人民法院依法宣告破产的国有企业；热费补贴比例为90%，个人承担10%。 <br>? <br>    2、此类人员所在企业在省、市和建筑企业社保部门参加养老统筹的，分别由省、市和建筑企业社保部门负责认定。? <br><br>    3、认定所需证件：职工退休证、人民法院宣告企业破产裁定书、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    （七）市属国有福利企业残疾职工 <br><br>    1、此类人员指持有中华人民共和国残疾人证，且所在单位是市属国有福利企业；热费补贴比例为45%，另45%由所在单位承担，个人承担10%。? <br><br>    2、此类人员由市民政局（福利企业办公室）负责认定。? <br><br>    3、认定所需证件：中华人民共和国残疾人证、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    （八）城市最低生活保障对象中退休人员? <br><br>    1、此类人员指持有《城市居民最低生活保障证》和职工退休证；热费补贴比例为10%，90%由所在单位承担。? <br><br>    2、此类人员由户口所在区民政局或市农垦总局民政局城市居民最低生活保障管理部门负责认定。? <br><br>    3、认定所需证件：城市居民最低生活保障证和城市居民最低生活保障金领取存折、退休证、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    （九）无工作单位和虽有工作单位，但单位关、停、破产等企业的退休建国前老军人? <br><br>    1、此类人员指持有企业退休建国前老军人荣誉证，现无工作单位或虽有工作单位，但其退休时所在单位是经市经委批准的关、停企业或经人民法院依法宣告破产等企业的退休建国前老军人；热费补贴比例为100%。? <br><br>    2、此类人员由市民政局（优抚部门）负责认定。 <br>? <br>    3、认定所需证件：企业退休建国前老军人荣誉证、市经委批准的企业关停批复件、人民法院宣告企业破产裁定书、房屋产权证（承租证、进户通知单、购房发票）、户口。? <br><br>    三、审批程序和补贴资金归集、拨付 <br><br>    （一）供热单位负责收集认定所需证件（原件），进行初审并填写《2004至2005年度供热期热费补贴人员审批表》，持此表和认定所需证件（原件）到相应部门报审、认定。? <br><br>    （二）对已认定合格的补贴对象，供热单位要分类统计，录入微机，并将录入微机软盘和审批所需证件（《2004至2005年度供热期热费补贴人员审批表》原件一份，各类证件复印件一份。）一并上报市供热办政策法规处；未予认定的热费补贴材料，供热单位要及时返还热用户，并将情况向热用户解释清楚。? <br><br>    （三）市供热办政策法规处负责复核、汇总。? <br><br>    （四）省、市、区级财政承担的热费补贴资金由市财政负责统一归集，统一拨付。? <br><br>    （五）热费补贴资金到位后，市供热办将补贴资金拨付给供热单位。? <br><br>    （六）财政、审计部门加强对热费补贴工作的监督、检查和指导。 <br>? <br>    四、审批须报的相关证件 <br><br>    经认定的《2004至2005年度供热期热费补贴人员审批表》原件一份，城市居民最低生活保障证、城市居民最低生活保障金领取存折、在乡复员军人定补领取证、革命伤残军人证 、“三属”定期抚恤金领取证、失业保险待遇领取证、中华人民共和国残疾人证、企业退休建国前老军人荣誉证、市经委批准的企业关停批复件、人民法院宣告企业破产裁定书、中华人民共和国老干部离休荣誉证、职工退休证及相应户口、房屋产权证（承租证、进户通知单、购房发票）等材料复印件一份，供热单位留存一份明细备查。? <br><br>    五、公示 <br><br>    （一）供热单位须将热费补贴对象种类、认定需提报的证件和供热单位办理初审起止时间等有关要求，在辖区内公布，让居民了解热费补贴政策和相关事宜。 <br>? <br>    （二）供热单位须将初审合格的热费补贴人员名单，向辖区居民公示，公示期为5天，公示期内供热单位要设置公示监督电话，接受居民群众的监督。居民对公示的补贴人员名单有异议的，由供热单位负责将情况调查清楚，做出决定；无异议的，供热单位按规定程序持认定所需证件（原件）到相应部门报审、认定。? <br><br>    （三）供热单位要认真负责、细致做好辖区内热费补贴对象调查、统计、报审工作，做到应补尽补。因供热单位原因造成漏报的，由供热单位承担被漏报对象本供热期应补贴的热费；补贴对象要积极配合供热单位做好热费补贴工作， 因补贴对象个人原因造成漏报的，本供热期补贴热费由个人承担。? <br><br>    六、认定、审批期限及地址 <br><br>    （一）认定、审批受理期限：自本审批程序下发之日起至2004年12月末。 <br>? <br>    （二）市供热办审批地址：道里区工厂街92号512室。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

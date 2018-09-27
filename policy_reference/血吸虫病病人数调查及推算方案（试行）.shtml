@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办疾控发[2007]66号<BR>&nbsp;&nbsp;【发布日期】2007-04-04<BR>&nbsp;&nbsp;【生效日期】2007-04-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/18689.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>血吸虫病病人数调查及推算方案（试行）<br><br></font>(卫办疾控发[2007]66号)</p><br><br><br>江苏、安徽、江西、湖北、湖南、四川、云南省卫生厅：<br><br>    为了准确掌握我国现有血吸虫病病人数，了解血吸虫病疫情动态，为考核防治效果提供科学依据，我部组织有关专家制定了《血吸虫病病人数调查及推算方案（试行)》，现印发给你们。请各地严格按照本方案的要求，结合每年安排的血防查治病工作任务，认真组织实施。实施过程中如发现问题，请及时反馈我部疾控局。<br><br>联系人：陈朝 <br><br>联系电话：010-68792374<br><br>传    真：010-68792342<br><br>二○○七年四月四日<br> <br><br>血吸虫病病人数调查及推算方案（试行）<br><br>    为了规范全国血吸虫病年度病人数调查和推算工作，为评价防治效果提供科学依据，特制订本方案。<br><br>    一、方法<br><br>    （一）抽样<br><br>    1．抽样原则<br><br>    以各血吸虫病流行县（市、区）的一至四类流行村为抽样总体，按分层整群随机抽样原则，每年由省级血吸虫病防治（以下简称血防）专业机构负责抽取一定比例的流行村作为样本村。其中，首次采用此方案调查时，应采用容量比例概率抽样(PPS)法抽样。<br><br>    2.抽样比例<br><br>    根据不同类别流行村选择抽样比例。一、二类村原则上抽取全部流行村作为样本村；三、四类村分别抽取5％－10％、1％－5％的村作为样本村。某类流行村按抽样比例不足抽取1个村时，至少要抽取1个村。<br><br>    （二）人群查病<br><br>    每年在感染季节后，对样本村中6岁-65岁的常住居民采用血清学方法进行筛查（以下简称血检）；对血清学阳性者进行病原学检查（以下简称粪检），可采用改良加藤厚涂片法（Kato-Katz法，一粪三片）或尼龙绢袋集卵孵化法（一粪三检）。血检和粪检人群受检率均应达到90%以上。<br><br>    （三）病人数的推算方法及步骤<br><br>    1. 方法<br><br>    病人数的推算工作由省级血防专业机构负责。根据全省各流行县各类流行村的常住人口数和样本村调查汇总结果，推算全省各流行县的病人数，并将病人数推算结果反馈各流行县。<br><br>    2. 步骤<br><br>    （1）样本村人群感染率的计算：统计各县各样本村血检人数、血检阳性人数、粪检人数、粪检阳性人数。分别计算各样本村人群感染率。计算公式：<br><br>    样本村人群感染率（％）=（该村粪检阳性人数÷该村粪检人数）×（该村血检阳性人数÷该村血检人数）×100%<br><br>    （2）各类样本村人群平均感染率的计算：以县为单位，对各类样本村的血检总人数、血检阳性总人数、粪检总人数、粪检阳性总人数进行汇总统计。分别计算各类样本村人群平均感染率。计算公式：<br><br>    某类样本村人群平均感染率（％）=（某类样本村粪检阳性总人数÷某类样本村粪检总人数）×（某类样本村血检阳性总人数÷某类样本村血检总人数）×100%<br><br>    （3）各类流行村病人数的推算：根据各类样本村人群平均感染率推算各类流行村病人数。计算公式：<br><br>    某类流行村病人数＝某类流行村人口数×该类样本村人群平均感染率<br><br>    （4）某县病人数的计算：根据某县各类流行村病人推算数进行计算。计算公式：<br><br>    某县病人数＝各类流行村病人数总和＋该县当年急性感染病人数＋当年该县晚期血吸虫病人数<br><br>    （5）某省病人数的计算：根据某省各流行县的病人推算数进行计算。计算公式：<br><br>    某省病人数＝各县病人数的总和<br><br>    （6）全国病人数的计算：根据全国各省流行县的病人推算数进行计算。计算公式：<br><br>    全国病人数＝各省病人数总和<br><br>    （四）数据整理与上报<br><br>    县级血防专业机构应确定专人负责样本村的数据收集和整理，完整、准确地统计全县各类流行村的常住人口数、人群查病原始资料、基础资料和汇总资料，建立样本村资料数据库；当年12月底前，将样本村的基本情况调查汇总表、人群查病汇总表和当年的血吸虫病年报资料，报送省级血防专业机构。省级血防专业机构负责汇总与分析全省样本村调查数据，于次年1月中旬前将审核后的病人数推算汇总资料和全省的血吸虫病年报资料，报送中国疾病预防控制中心寄生虫病预防控制所。<br><br>    二、质量控制<br><br>    （一）培训<br><br>    中国疾病预防控制中心寄生虫病预防控制所负责对省级的专业技术骨干进行培训；省级血防专业机构负责对市（地）、县（市、区）级的专业技术骨干进行培训；承担任务的县（市、区）级血防专业机构负责对具体从事现场工作的防治人员进行培训。<br><br>    （二）督导<br><br>    中国疾病预防控制中心寄生虫病预防控制所制定血吸虫病病人数调查和推算工作的质量控制和督导方案，每年组织对各省查病和病人数推算工作的质量控制和督导。质量控制指标包括：血检覆盖率、血检假阴性率、粪检覆盖率、粪检假阴性率。督导内容包括：组织领导、工作计划、抽样方法、人员培训、操作规程、现场实施、信息资料等。<br><br>    省级血防专业机构应对现场查病工作实施全程质量控制，每年有目的、有重点地组织专业技术人员参与各流行县市的现场工作，并对查病、资料整理等重点环节进行督导。<br><br>    三、组织领导<br><br>    卫生部疾病预防控制局负责全国血吸虫病病人数调查和推算工作的组织领导，省、市（地）、县（市、区）级血防主管部门应结合本省工作实际和每年安排的血防查病任务，负责本辖区内血吸虫病人数调查和推算工作的组织实施，安排所需的工作补助经费，保证工作的顺利开展。<br><br>    中国疾病预防控制中心寄生虫病预防控制所负责对全国血吸虫病人数调查和推算工作的技术指导、培训、质量控制和资料汇总分析。<br><br>    省级血防专业机构负责辖区内的技术指导、培训、现场质量控制、病人数推算、资料审核汇总和上报。<br><br>    县级血防专业机构要将此项工作作为一项基础性和常规性的业务工作，纳入工作计划，安排技术骨干，并保持人员相对稳定，确保工作质量。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

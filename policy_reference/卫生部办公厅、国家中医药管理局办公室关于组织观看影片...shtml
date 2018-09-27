@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部办公厅、国家中医药管理局办公室<BR>&nbsp;&nbsp;【发布文号】卫办新发〔2006〕106号<BR>&nbsp;&nbsp;【发布日期】2006-06-11<BR>&nbsp;&nbsp;【生效日期】2006-06-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12183&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅、国家中医药管理局办公室关于组织观看影片《生死托付》和《苍生大医》的通知<br><br></font>(卫办新发〔2006〕106号)</p><br><br><br>各省、自治区、直辖市卫生厅局、中医药管理局，新疆生产建设兵团卫生局，部、局直属（管）各单位：<br>    由卫生部和山西电影制片厂联合摄制的故事片《生死托付》，作为纪念建党85周年的献礼片将于6月20日起在全国陆续公映。影片以全国劳动模范、白求恩奖章获得者、广东省第二人民医院医生王玲为原型，生动地再现了医务工作者视病人为亲人，以高尚的医德、精湛的医术、无私奉献的爱心为病人服务，赢得广大患者和人民群众爱戴的感人故事，集中展现了新时期卫生战线白衣战士的良好风范。<br>    由河南省卫生厅、省中医管理局和河南影视集团联合摄制的故事片《苍生大医》已制作完成。影片以写实的艺术语言，生动地反映了“人民健康好卫士”郭春园同志以高尚的医德和精湛的医术为人民群众解除病痛而忘我工作的奉献精神，成功塑造了以郭春园同志为杰出代表的医务工作者的光辉形象。<br>    电影《生死托付》和《苍生大医》的公映，对当前全国卫生系统开展的社会主义荣辱观教育和“以病人为中心、以提高医疗服务质量为主题”的医院管理年活动有着积极的现实意义，也是全国开展治理医药购销领域商业贿赂专项活动的正面教材。为了组织全国卫生系统广大党员干部和职工深入学习王玲和郭春园同志的感人事迹和崇高精神，正确树立社会主义荣辱观，加强医德医风建设，巩固保持共产党员先进性教育活动的成果，配合全国医院管理年活动和治理医药购销领域商业贿赂专项工作的深入开展，卫生部办公厅、国家中医药管理局办公室决定在全国卫生系统组织观看影片《生死托付》和《苍生大医》。<br>    各级卫生、中医药行政部门和医疗卫生单位要认真组织广大干部职工观看电影《生死托付》和《苍生大医》，要利用集体观看、组织座谈交流等形式，通过撰写观后感、影评等手段，引导广大医务工作者认真学习王玲和郭春园同志始终坚定党的信念，视病人为亲人，全心全意为人民群众服务的无私奉献精神；学习他们爱岗敬业，对工作极端负责、对患者满腔热忱、对技术精益求精的白求恩精神；学习他们刻苦学习，勇于实践，努力攀登医学高峰的科学精神；学习他们恪守医德，严于律己，廉洁行医的良好医德风范。通过观看活动，教育广大医务工作者以王玲和郭春园等卫生系统的先进人物为榜样，牢记为人民健康服务和为社会主义现代化建设服务的卫生工作宗旨，坚持以人为本，坚持科学发展观，坚定信心，扎实工作，推动医疗卫生事业发展，维护人民群众健康，为构建社会主义和谐社会作出更大的贡献！<br>    影片《生死托付》的发行、放映事宜请与山西电影制片厂李水合联系（联系电话：13603516071）；《苍生大医》的发行、放映事宜请与河南省卫生厅、省中医管理局联系（联系人：刘品  樊英戈，联系电话：0371－65997078  65953307）。<br><br>            卫生部办公厅   国家中医药管理局办公室<br>                 二○○六年六月十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

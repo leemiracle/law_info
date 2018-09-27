@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部办公厅<BR>&nbsp;&nbsp;【发布文号】厅水字[2006]359号<BR>&nbsp;&nbsp;【发布日期】2006-11-08<BR>&nbsp;&nbsp;【生效日期】2006-11-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/06shuiyuns/wenjiangg/200611/t20061127_126841.html" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部办公厅关于建立内河水运建设项目动态管理系统和动态数据库的通知<br><br></font>(厅水字[2006]359号)</font><br><br>  <br>    为全面掌握、了解、分析内河水运建设项目的动态情况，提高各级交通行政主管部门的科学决策、宏观调控和行业监管能力，确保内河水运快速健康有序发展，在2005年广泛征求各有关部门对《内河水运建设指标体系》意见的基础上，我部决定建立《内河水运建设项目动态管理系统和动态数据库》。为做好该项工作，现将有关事项通知如下：<br>    一、建设目标<br>    利用现代信息技术手段，建立全国《内河水运建设项目动态管理系统和动态数据库》，形成部省市水运建设项目信息分级共享机制，实现全国内河水运建设项目的动态管理。<br>    二、主要内容<br>    《内河水运建设项目动态管理系统和动态数据库》要求以每个项目为对象进行动态管理。主要内容包括以下六个部分：一是建设项目基本信息表，二是相关单位基本情况表，三是项目工程设计情况表，四是项目资金计划情况表，五是项目资金控制情况表，六是项目工程形象进度完成情况表。具体内容详见《内河水运建设项目统计制度（试行）》（经国家统计局国统制〔2006〕37号批准，见附件，电子版可从http://www.catsic.com/jttj下载）。<br>    三、组织方式<br>    《内河水运建设项目动态管理系统和动态数据库》采取分级负责、逐级上报的组织管理方式，具体为：<br>    （一）我部负责建立全国《内河水运建设项目动态管理系统和动态数据库》，组织开发信息管理软件，对省级单位人员进行培训和提供技术支持，定期收集、整理、审核、汇总和分析相关数据，并负责协调解决各省级单位工作过程中的问题，监督工作进度。<br>    （二）各省（区、市）交通厅（局、委）负责建立省级《内河水运建设项目动态管理系统和动态数据库》，利用部统一制发的信息管理软件定期收集、整理、审核、汇总和向部上报本省内河水运建设项目的动态管理数据，并负责组织省内相关人员的技术培训和协调解决各下级单位工作过程中的问题，监督其工作进度。<br>    长江航务管理局负责建立长江干线《内河水运建设项目动态管理系统和动态数据库》。<br>    （三）省级以下《内河水运建设项目动态管理系统和动态数据库》的建设组织方式，在满足部、省两级系统对内河水运建设项目的动态管理信息需要的前提下，由各省（区、市）交通厅（局、委）根据本省实际情况自行规定。<br>    （四）《内河水运建设项目动态管理系统和动态数据库》的数据采集、填写一律由项目建设单位负责。<br>    四、进度安排<br>    本项工作要求于12月份开始上报相关信息，年底前完成系统建立，并实现相关信息的定期上报和共享。具体进度为：<br>    （一）11月底前，部组织确定信息指标体系、研制信息管理软件，并制定详细工作实施方案。<br>    （二）11月进行工作布置，并组织对信息管理软件的技术培训；12月完成相关信息从省级单位到部的初步上报，基本建立全国水运建设项目动态数据库。<br>    （三）11月至12月，系统试运行，并根据暴露出的问题修改完善指标体系和信息管理软件；12月底前，正式形成信息定期上报和共享制度。<br>    五、实施措施<br>    （一）为保证数据传输的安全性，部和各省（区、市）交通厅（委）的连接方式，统一采用交通电子口岸数据中心配备的VPN保密网关进行连接。<br>    （二）《内河水运建设项目动态管理系统和动态数据库》纳入交通电子口岸数据中心，统一部署、统一运行、统一维护。<br>    六、保障措施<br>    本项工作时间紧、任务重，且在系统建立后需长期运行，要求各单位必须从组织、人力、物力和监督等方面予以充分保障。<br>    （一）组织保障。各省（区、市）交通厅（局、委）和长江航务管理局要加强领导，尽快落实具体承担本项工作的机构和人员。我部水运司内河建设处具体负责此项工作，责任人：杨亚东，联系电话：010-65292654，传真：010-65292653。并委托交通部科学研究院交通信息中心提供系统软件开发、培训及相关技术支持，联系人：武瑞利，联系电话：010-58278328，黄莉莉，联系电话：010-58278350，传真：010-64925538。委托部交通电子口岸数据中心提供系统部署及运行维护支持，联系人：韩志波，联系电话：010-64442842转300，13621309386，王艳宝，联系电话：13051774148，传真：010-64426668。各单位须在11月20日前正式行文，将具体负责本项工作的机构和责任人（包括其联系电话和传真）上报我部水运司。<br>    （二）经费保障。本项工作所需经费按照分级承担的原则，部级相关工作所需经费由我部解决，各省（区、市）交通厅（局、委）、长江航务管理局配备相关计算机硬件和信息管理软件、参加技术培训以及开展日常工作所需费用自行解决。<br>    （三）监督保障。我部将把此项工作纳入内河水运建设的目标考核范围，各单位也要制定相应措施，加强监督检查，保证工作顺利开展。<br>    附件：内河水运建设项目统计制度（试行）<br><br>中华人民共和国交通部办公厅<br>二○○六年十一月八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

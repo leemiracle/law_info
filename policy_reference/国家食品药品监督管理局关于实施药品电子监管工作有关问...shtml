@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监办[2008]165号<BR>&nbsp;&nbsp;【发布日期】2008-04-10<BR>&nbsp;&nbsp;【生效日期】2008-04-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL0055/29178.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于实施药品电子监管工作有关问题的通知<br>  <br></font>(国食药监办[2008]165号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为贯彻落实《国务院关于加强食品等产品安全监督管理的特别规定》和《国务院办公厅关于进一步加强药品安全监管工作的通知》（国办发〔2007〕18号），加快建立重点药品安全追溯体系，强化药品质量安全监管，确保公众用药安全，国家局决定，在特殊药品监控信息网络基础上，进一步加强药品电子监管，完善药品标识制度，建立全国统一的药品电子监督管理网络（以下简称药品电子监管网），分类分批对药品实施电子监管。现将有关事项通知如下：<br><br>    一、工作目标<br>    （一）2008年，在全国范围内实现对血液制品、疫苗、中药注射剂及第二类精神药品等重点药品的生产、经营情况实施电子监管。<br>    （二）从2009年起,逐步将已批准注册的药品和医疗器械的生产、经营纳入电子监管。<br><br>    二、工作方法及实施步骤<br>    （一）国家局制定、公布《入网药品目录》和实施办法，按照全面规划、分步实施、逐步推进的原则，分类、分批将已批准注册的药品列入《入网药品目录》，并统一纳入药品电子监管。<br>    （二）凡生产、经营《入网药品目录》中药品的企业，必须在规定的时间内加入药品电子监管网。《入网药品目录》中的品种上市前，必须在产品最小销售包装上加贴统一标识的药品电子监管码（监管码标识见附件1）。<br>    （三）首批《入网药品目录》（见附件2）为血液制品、疫苗、中药注射剂及第二类精神药品。<br>    （四）凡生产列入《入网药品目录》药品的企业，在申请药品注册并获得药品注册生产批件时，必须同时办理该药品电子监管网入网手续并具备药品电子监管码赋码条件；已获得药品注册生产批件的，应于2008年10月31日前完成赋码入网。<br>    （五）新开办药品经营企业,如需经营《入网药品目录》药品的，在申请《药品经营许可证》时，应当办理药品电子监管网入网手续并配备药品电子监管码采集设备；已取得《药品经营许可证》的企业，如需经营《入网药品目录》药品的，应在2008年10月31日前完成入网和相关设施的配备，并同时利用网络进行数据报送。<br>    （六）对列入《入网药品目录》的药品品种，未入网及未使用药品电子监管码统一标识的，一律不得销售。药品生产、经营企业不得伪造和冒用药品电子监管码。<br><br>    三、工作要求<br>    （一）各省（区、市）局要充分认识实施药品电子监管网络对加强药品监管、提高监管效率的重要性，按照全国一盘棋的要求，建设好全国统一的药品电子监管网络。各省（区、市）局的主要负责人要亲自抓，并有专人负责，做好相关工作。要明确责任，周密安排，狠抓落实，严格按照国家局的工作部署，在规定的时限内完成相关工作，确保药品电子监管网实施工作顺利进行。<br>    （二）要按照国家局的统一要求，认真组织辖区内的有关药品生产、经营企业，做好相关人员的组织培训工作，保证药品电子监管网工作培训的效果与质量。<br>    （三）要督促辖区内的有关药品生产、经营企业，按照规定时限完成药品电子监管网入网、赋码、扫码工作，及时、准确地采集和上报信息。<br>    （四）药品电子监管网的技术服务机构及运营维护管理机构，必须确保网络的正常运行和数据信息的安全、可靠，积极主动地做好企业入网、产品赋码、核注核销、消费查询、监管追溯、通报预警等各个环节的技术服务工作，以及对入网企业的技术指导和培训工作, 各地食品药品监管部门要予以积极配合。<br>    在实施过程中，如有问题或工作建议，可及时与国家局信息办联系。<br>    联 系 人：海颖、胡漾<br>    联系电话: 010-88331937、88330332<br>    传    真：010-88331937、68355521<br>    电子邮箱：haiying@sda.gov.cn, huyang@sda.gov.cn<br><br><br>    附件：1．中国药品电子监管码标识样本<br>          2．入网药品目录<br><br><br>                                                        国家食品药品监督管理局<br>                                                          二○○八年四月十日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

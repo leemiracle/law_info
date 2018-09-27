@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发〔2009〕17号<BR>&nbsp;&nbsp;【发布日期】2009-02-26<BR>&nbsp;&nbsp;【生效日期】2009-02-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1702" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅关于构建全省主要产煤区煤炭税收征管协税护税机制的意见<br><br></font>(黔府办发〔2009〕17号)</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构：<br>    近年来，随着我省经济的快速发展，煤炭行业作为国民经济的基础性能源产业和我省的支柱产业之一，得到了长足发展，为我省各级地方财政提供了大量税收。煤炭税收是我省各级地方财政收入的重要来源，严格依法治税，加强税收征管，堵塞税收流失，是税收及时、足额征收入库的重要保障。支持、协助税务机关依法征收，是各级政府和有关部门的重要责任，也是国家税法赋予政府有关部门和单位的法定义务。为在全省范围内建立起政府主导、税务主管、部门协作、多方联动、齐抓共管、信息共享的煤炭行业税收征管协税护税机制，经省人民政府同意,现提出如下意见：<br>    一、切实加强领导<br>    主要产煤区的市（州、地）、县（市、区、特区）应成立煤炭行业综合治税领导小组，由政府分管财税工作的领导任组长，地税、国税、工商、物价、公安、交通、煤炭管理、国土、财政、审计、纪检监察等部门为成员单位，负责煤炭行业税收协税、护税工作的组织协调和具体实施。各成员单位要明确一名分管业务工作的领导具体落实协税护税责任，指定一名业务联络人负责开展日常工作。领导小组下设办公室，具体负责协税护税的日常工作。<br>    二、明确职责。各级政府及各部门要切实发挥职能作用，明确职责分工，充分发挥协税护税网络重要作用。<br>    （一）各级政府要切实加强对规范煤炭税费征收工作的领导，明确本级政府分管领导具体负责，组织相关部门制定本地区实施方案，及时协调处理工作中出现的矛盾和问题，对协税护税工作进行考核，确保煤炭税费征收工作顺利开展。<br>    （二）工商行政管理部门应于每月终了后20日内向同级税务部门提供煤炭生产经营业户开业、变更、注销、吊销登记情况。<br>    （三）物价部门应于每季度终了后20日内向同级税务部门提供煤炭市场均价等情况。<br>    （四）交通部门应于每季度终了后20日内向同级税务部门提供从事货物运输车辆营运证发放情况。<br>    （五）公安部门应于每季度终了后20日内向同级税务部门提供煤炭企业开采煤矿使用爆破耗材的情况。<br>    （六）煤炭管理部门应于每月终了后20日内向同级税务部门提供煤炭产品产量等情况。<br>    （七）国土资源部门应于每月终了后20日内向同级税务部门提供土地使用证和采矿许可证发放、矿山转(出)让、收取矿产资源补偿费等情况。<br>    （八）财政部门要严格财经管理制度，按照“收支两条线”原则加强煤炭税费收支管理。<br>    （九）审计部门要加强有关煤炭税费征收和使用管理的审计监督。<br>    （十）纪检监察部门要加强有关煤炭税费征收和使用的监督检查，对存在贪污腐败行为、不依法征收煤炭税费和贪污、截留、挪用煤炭税费的部门及责任人，应依法追究行政纪律责任。<br>    （十一）地税、国税部门主要负责提供煤炭企业税务登记注销及变更信息等，并根据相关部门提供的涉税信息，有效开展登记认定、税收分析、纳税评估和税款征收工作。<br>    三、认真组织实施。各成员单位要严格按照分工要求，认真履行职责，按时保质交换涉税信息，圆满完成规定任务。地税、国税部门应联合对相关信息进行分析和比对，并将有关情况按季向同级政府反映。协税护税领导小组应于每半年组织召开一次工作联席会，听取各成员单位的意见和建议，完善工作方法，提高工作效率。<br><br>                                                          贵州省人民政府办公厅<br>                                                          二○○九年二月二十六日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

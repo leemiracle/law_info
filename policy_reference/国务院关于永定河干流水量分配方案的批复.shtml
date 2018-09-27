@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院<BR>&nbsp;&nbsp;【发布文号】国函〔2007〕135号<BR>&nbsp;&nbsp;【发布日期】2007-12-31<BR>&nbsp;&nbsp;【生效日期】2007-12-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gov.cn/zwgk/2008-01/08/content_852552.htm" target=_blank>中国政府网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院关于永定河干流水量分配方案的批复<br><br></font>(国函〔2007〕135号)</p><br><br><br>北京市、天津市、河北省、山西省人民政府，发展改革委、水利部：<br>    水利部、发展改革委《关于请求批复永定河干流水量分配方案的请示》（水资源〔2007〕524号）收悉。现批复如下：<br>    原则同意《永定河干流水量分配方案》（以下简称《方案》），请你们认真组织实施。<br>    永定河流域水资源严重短缺，组织实施《方案》对保障流域经济社会可持续发展意义重大。各有关省（市）人民政府要加强领导，将《方案》的实施纳入地方经济社会发展年度计划，按照《方案》确定的可利用水资源，调整经济结构和产业结构，全面建设节水型社会。在水量分配方案的基础上，鼓励地区间开展水量交易，运用市场机制，合理配置水资源。国务院有关部门要根据各自职责分工，加强对《方案》实施的组织、协调、监督和指导。<br><br>    附件：永定河干流水量分配方案<br><br>                                                         国务院<br>                                                 二○○七年十二月三十一日<br> <br><br>附件：永定河干流水量分配方案<br><br>    永定河是海河流域重要水系之一，流经山西省、河北省、北京市和天津市。永定河流域水资源严重短缺，随着流域内人口急剧增加和经济社会快速发展，用水量大幅度增长，上下游之间用水矛盾日益突出。为规范永定河干流用水秩序，合理配置流域水资源，保障首都供水安全和流域经济社会又好又快发展，依据《中华人民共和国水法》，制订本方案。<br>    一、分配原则<br>    永定河干流水量分配方案的制订，遵循下列原则：<br>    （一）充分考虑历史和现状用水；<br>    （二）坚持公平、公正；<br>    （三）兼顾上下游地区的利益；<br>    （四）坚持节约用水；<br>    （五）统筹考虑生活、生产和生态用水。<br>    二、分配意见<br>    （一）正常年份（保证率50%），山西省出境水量达到1.2亿立方米，河北省出境水量达到3.0亿立方米；<br>    （二）一般枯水年份（保证率75%），山西省出境水量达到0.65亿立方米，河北省出境水量达到1.5亿立方米；<br>    （三）特殊枯水年份（保证率95%），山西省出境水量达到0.3亿立方米，河北省出境水量达到0.6亿立方米；<br>    （四）正常年份与特殊枯水年份之间，山西省、河北省的出境水量按照丰增枯减原则，采用直线内插法核定；<br>    （五）天津市的用水问题在编制全国水资源综合规划时统筹研究解决。<br>    三、核定方法<br>    （一）山西省出境水量包括南洋河、桑干河和壶流河的出境水量。<br>    1.南洋河出境水量按柴沟堡水文站实测径流量核定；<br>    2.桑干河出境水量按册田水库下泄水量与册田水库以下山西省区间产水量之和（扣除区间用水量）核定；<br>    3.壶流河出境水量按壶流河水库入库水量（依山西、河北省流域面积比例分摊）核定。<br>    （二）河北省出境水量按八号桥水文站实测径流量核定。<br>    四、保障措施<br>    （一）加强领导，落实责任。各有关省（市）人民政府要将水量分配方案确定的任务层层分解，落实行政首长负责制，做到责任到位、管理到位、措施到位。同时，要加强监督管理和绩效考核。<br>    （二）积极推进节水型社会建设。各有关省（市）县级以上地方人民政府要将水量分配方案的实施纳入地方经济社会发展年度计划，按照确定的可利用水资源，调整经济结构和产业结构。要以用水总量控制为核心，建立健全水资源管理制度。要深化水价改革，运用经济杠杆促进节约用水，合理利用和有效保护水资源。要严格控制灌溉面积增长，加快灌区续建配套与节水改造，积极推广用水户参与用水管理。<br>    （三）加强水资源管理。水利部海河水利委员会负责统一管理永定河流域水资源，实施省界断面出境水量管理，组织制定年度水量分配方案和调度计划，实施水量统一调度。要加快建设水资源监测监控设施，建立监控网络。各有关省（市）县级以上地方人民政府发展改革部门会同同级水行政主管部门，根据水量分配方案、用水定额以及经济技术条件，制定年度用水计划，对本行政区域内的年度用水实行总量控制。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

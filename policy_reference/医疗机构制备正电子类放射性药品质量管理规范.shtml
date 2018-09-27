@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局、卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-01-05<BR>&nbsp;&nbsp;【生效日期】2006-03-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W4244/A64006728_4.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>医疗机构制备正电子类放射性药品质量管理规范</font></p><br><br><br>                                  <font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  根据《<a href=javascript:ROF(36847,0) class=alink>中华人民共和国药品管理法</a>》和《<a href=javascript:ROF(8643,0) class=alink>放射性药品管理办法</a>》等规定，参照《药品生产质量管理规范》的基本原则，制定本规范。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  医疗机构正电子类放射性药品系指由医疗机构利用本单位的医用回旋加速器生产的正电子类放射性核素制备的放射性药品。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  本规范适用于具有Ⅲ类以上（含Ⅲ类）《放射性药品使用许可证》的医疗机构。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  国家食品药品监督管理局和省、自治区、直辖市食品药品监督管理局（药品监督管理局）负责对医疗机构正电子类放射性药品进行质量监督。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  本规范是医疗机构正电子类放射性药品制备和质量管理的基本准则，适用于正电子类放射性药品制备的全过程。<br><br>                               <font class='zhang'>第二章</font>  机构与人员<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  医疗机构应具有从事正电子类放射性药品制备和质量管理的专职人员，人员职责明确。应配备专门从事加速器、自动合成模块操作的专业人员。应有放射性药品质量控制与检测人员。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  放射性药品制备和质量管理负责人应具有核医学专业知识、具有化学或药学相关专业大学学历，有能力对放射性药品制备过程和质量控制中的实际问题作出正确的判断和处理，对本规范的实施和产品质量负责。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  医疗机构制备正电子类放射性药品时应有各自独立的制备和质量控制人员，不得由同一人兼任。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  从事正电子类放射性药品制备操作人员应具有基础理论知识和实际操作技能，经专业技术及辐射防护知识培训，并取得岗位操作证书。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  从事正电子类放射性质量检验的人员应经中国药品生物制品检定所或国家食品药品监督管理局授权的药品检验机构专业技术培训，并取得培训合格证书。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  医疗机构制备正电子类放射性药品时应指定辐射防护负责人员，负责本单位开展相关辐射防护工作。<br><br>                               <font class='zhang'>第三章</font>  房屋与设施<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  医疗机构制备正电子类放射性药品应当有整洁的制备环境，制备区域的设计应当附合国家关于辐射防护的有关规定，并经当地环境保护部门认可。<br>存放易燃、易爆危险品的场所应有防爆和消防设施。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  制备区域应按制备工艺流程及所要求的空气洁净级别进行合理布局。放射性操作区应保持负压，与非放射性工作区应隔开。制备区出入口应设置去污、更衣设备，出口处应设置放射性沾污检测仪。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  制备区域应有防止昆虫和其他动物进入的设施。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  在设计和建设时，应考虑制备区内的保洁需求。洁净室（区）的内表面应平整光滑、无裂缝、接口严密、无颗粒物脱落，地面应使用便于去污的材料。墙壁与房顶、地面的交界处应成弧形或采取其他措施，以减少灰尘积聚和便于清洁。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  洁净室(区)的窗户、天棚及进入室内的管道、风口、灯具与墙壁或天棚的连接部位均应密封。在设计和安装上述设施时，应考虑避免出现不易清洁的部位。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  洁净室(区)应根据制备要求提供足够的照明。主要工作室的照度宜为300勒克斯；对照度有特殊要求的制备部位可设置局部照明。制备区内应有应急照明设施。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  进入洁净室(区)的空气应当净化。正电子类放射性药品为无菌药品，制备环境应在不低于10，000级条件下，最终产品的局部暴露环境为100级。洁净室(区)内空气的微生物数和尘粒数应定期监测，监测结果应记录存档。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  制备区内空气不得循环应用。洁净级别不同的相邻房间之间的静压差应大于5帕，洁净室(区)与室外大气的静压差应大于10帕，并应有指示压差的装置。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  洁净室(区)的温度和相对湿度应与药品制备工艺要求相适应。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  洁净室(区)内安装的水池、地漏不得对药品产生污染。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  不同空气洁净度级别的洁净室(区)之间的人员及物料出入口应有防止交叉污染的措施。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  与药品直接接触的干燥用空气、压缩空气和惰性气体应经净化处理。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  放置自动化合成模块的防护箱其技术指标应符合国家有关规定。防护箱应有独立的通风系统，废气排放前应有相应的净化措施，排放标准应符合国家有关规定。进入合成室的放射性物料传输管道和气体管道应有密封和防止交叉污染的措施。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  不同核素的放射性药品应在不同的防护箱内制备。药品质量控制与制备不得在同一工作室内进行。<br><br>                                  <font class='zhang'>第四章</font>  设备<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  医疗机构应当具备与所制备的放射性药品相关的化学自动合成模块、放射性活度计和放射化学纯度检测仪。化学自动合成模块应易于清洗、消毒或灭菌，便于制备操作和维修、保养，并能防止差错。设备所用的润滑剂、冷却剂等不得对药品造成污染。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  与化学自动合成模块连接的主要固定管道应有明确外标志，标明管内物料名称、流向。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  用于制备和检验的自动化合成模块、活度计、放射化学纯度检测仪等，其适用范围和精密度应符合制备和检验要求，有明显的合格标志，并定期校验。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  为保证自动化合成工艺的稳定，对计算机和相关自动化设备应予以控制，不得擅自改变参数。如确需改变，应当经授权人员按规定进行。每次修改应予以记录，并按规定进行验证。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  应定期对操作规程和控制工艺流程的计算机软件进行产品验证，一年至少验证一次。如变更操作规程或计算机软件，应进行重新验证，并对至少连续制备的三批成品进行检验，结果符合质量标准规定时，方可用于正电子类放射性药品的制备。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  制备区内设备应有明显的状态标志，并定期维修、保养和验证。设备安装、维修、保养的操作不得影响产品的质量。不合格的设备如有可能应搬出制备区，未搬出前应有明显标志。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  制备、检验设备均应有使用、维修、保养记录，并由专人保管。<br><br>                                 <font class='zhang'>第五章</font>  物  料<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  制备正电子类放射性药品所用原料(包括靶材料)、试剂、除菌过滤器、产品容器、塞盖、注射器等应合法进货渠道及规格标准，并有详细的进料和使用记录。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  对温度、湿度或其他条件有特殊要求的合成前体和化学试剂，应按规定的保存条件储存。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a> 原料(包括靶材料)、试剂、除菌过滤器、产品容器应按规定的使用期限储存，定期更新。无规定使用期限的，其储存一般不超过三年。<br><br>                                 <font class='zhang'>第六章</font>  卫  生<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  医疗机构制备正电子类放射性药品应有防止污染的卫生措施，制定各项卫生管理制度，并由专人负责。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  正电子类放射性药品制备室应按洁净度级别的要求制定热室、设备等的清洁规程，内容应包括：使用的清洁剂、各部位的清洁方法、程序、间隔时间，清洁工具的清洁方法和存放地点。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  洁净区内不得存放非制备物品和杂物。制备中的废弃物应及时处理。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  更衣室、浴室及厕所的设置不得对洁净室(区)产生不良影响。<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  工作服的选材、式样及穿戴方式应与制备操作和空气洁净度级别要求相适应，不得与一般工作服装混用。洁净工作服的质地应光滑、不产生静电、不脱落纤维和颗粒性物质。无菌工作服应当包盖全部头发、面部及脚部，并能阻留人体脱落物。工作服应制定清洗周期。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  洁净室（区）仅限于该区域操作人员和经批准的人员进入。进入洁净室(区)的人员不得化妆和佩带饰物。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  洁净室(区)应定期消毒。使用的消毒剂不得对设备、物料和产品产生污染。消毒剂应定期更换。<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  参与正电子类放射药品制备和检验的人员应佩带个人剂量仪，建立剂量、健康档案。直接接触药品的制备人员每年至少体检一次。传染病、皮肤病患者和体表有伤口者不得从事直接接触药品的制备。<br><br>                                 <font class='zhang'>第七章</font>  验  证<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a> 正电子类放射性药品制备验证应包括制备场地、设施及设备安装确认、运行确认、性能确认和产品验证。<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a> 产品的制备工艺及关键设施、设备应按验证方案进行验证。当影响产品质量的主要因素，如工艺、质量检验方法、主要原辅料、主要制备设备等发生改变时，以及运行一定周期后，应进行再验证。<br><br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a> 应根据验证对象提出验证项目、制定验证方案，并组织实施。验证工作完成后应写出验证报告，由验证工作负责人审核、批准。<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a> 验证过程中的数据和分析内容应以文件形式归档保存。验证文件应包括验证方案、验证报告、评价和建议、批准人等。<br><br>                                 <font class='zhang'>第八章</font>  文  件<br><br>    <a name='48'><font class='TiaoNoA'>第四十八条</font></a>  医疗机构应有正电子类药品制备管理、质量管理的各项制度和记录。至少应包括：<br>    1、制备场所、设施和设备的使用、保养、检修等制度和记录；<br>    2、制备场所、设备、人员等卫生管理制度和记录；<br>    3、本规范和专业技术培训等制度和记录<br><br>    <a name='49'><font class='TiaoNoA'>第四十九条</font></a>  产品制备管理文件应包括：<br>    1、制备工艺规程和标准操作规程。<br>    2、制备记录，内容包括：产品名称、制备日期、操作者的签名，相关制备阶段的原料数量、批号、产品数量、及特殊问题记录。<br><br>    <a name='50'><font class='TiaoNoA'>第五十条</font></a>  产品质量管理文件应包括：<br>    1、正电子放射性药品的制备申请和审批文件；<br>    2、成品质量标准及其质量控制操作规程；<br>    3、检验记录。<br><br>    <a name='51'><font class='TiaoNoA'>第五十一条</font></a>  医疗机构应建立文件的起草、修订、审查、批准及保管的制度。<br><br>                                <font class='zhang'>第九章</font>  制备管理<br><br>    <a name='52'><font class='TiaoNoA'>第五十二条</font></a>  制备管理包括正电子类放射性药品制备的全过程、靶材料和前体等影响成品质量的关键因素。制备工艺规程、岗位操作和标准操作规程不得任意更改。<br><br>    <a name='53'><font class='TiaoNoA'>第五十三条</font></a>  每次产品应按产量和数量的物料平衡进行检查。<br><br>    <a name='54'><font class='TiaoNoA'>第五十四条</font></a>  制备记录应字迹清晰、内容真实、数据完整，并由操作人签名。记录应保持整洁，不得撕毁和任意涂改；更改时，在更改处签名，并使原数据仍可辩认。制备记录应按批号归档，保存期为三年。<br><br>    <a name='55'><font class='TiaoNoA'>第五十五条</font></a>  为防止药品被污染和混淆，制备操作应采取以下措施：<br>    1、制备前应确认无前次制备的遗留物品；<br>    2、对制备过程中产生的放射性废气和气溶胶，应有有效的吸附和排除措施，以防止污染。<br><br>                                <font class='zhang'>第十章</font>  质量管理<br><br>    <a name='56'><font class='TiaoNoA'>第五十六条</font></a>  医疗机构应设专人负责药品制备全过程的质量管理和检验，并有与质量控制要求相适应的场所、仪器、设备。<br>    <a name='57'><font class='TiaoNoA'>第五十七条</font></a>  质量管理和检验人员的主要职责：<br>    1、制定和修订产品的检验操作规程；<br>    2、对产品进行取样、检验，并填写产品质检报告；<br>    3、监测洁净室(区)的微生物和尘粒数；<br>    4、负责对原料(包括靶材料)、试剂、除菌过滤器产品容器、塞盖等供货商资格审定；<br>    5、制定质量管理和检验人员的职责。<br><br>                              <font class='zhang'>第十一章</font>  产品的调剂<br><br>    <a name='58'><font class='TiaoNoA'>第五十八条</font></a>  符合本规定要求的医疗机构制备的正电子类放射性药品可进行调剂。调剂仅限于医疗机构之间。国家食品药品监督管理局根据需要定期发布调剂的品种。<br><br>    <a name='59'><font class='TiaoNoA'>第五十九条</font></a>  正电子类放射性药品每次调剂应有调剂记录。调剂记录内容应包括：品名、批号、放射性活度、体积、标定时间、发货日期、收货单位。调剂记录应保存三年。<br><br>                               <font class='zhang'>第十二章</font>  辐射防护<br><br>    <a name='60'><font class='TiaoNoA'>第六十条</font></a>  医疗机构应指定辐射防护和安全运行的负责人员，负责本单位正电子类放射性药品制备的相关辐射防护工作。<br><br>    <a name='61'><font class='TiaoNoA'>第六十一条</font></a>  正电子类放射性药品制备区域应有规范的放射性标识。<br><br>    <a name='62'><font class='TiaoNoA'>第六十二条</font></a>  医疗机构应当具备与所制备的正电子类放射性药品相关的防止环境污染的设施、工作场所剂量监测设备、表面放射性沾污检测仪、个人剂量仪等。<br><br>    <a name='63'><font class='TiaoNoA'>第六十三条</font></a>  医疗机构应当建立防止放射性污染、泄漏、意外照射的相关制度，建立个人剂量监测的档案。<br><br>    <a name='64'><font class='TiaoNoA'>第六十四条</font></a>  医疗机构的放射性废物处理应按有关规定执行。<br><br>    <a name='65'><font class='TiaoNoA'>第六十五条</font></a>  医疗机构制备正电子类放射性药品应制定防止意外事故应急处理预案。一旦发生意外，应按预案处理，并逐级上报。<br><br>    <a name='66'><font class='TiaoNoA'>第六十六条</font></a>  医疗机构应定期对本单位安全及辐射防护进行自检，作出结论。对存在问题及时整改。<br><br>                                <font class='zhang'>第十三章</font>  自  检<br><br>    <a name='67'><font class='TiaoNoA'>第六十七条</font></a>  制备正电子类放射药品的医疗机构应定期组织自检。自检应按预定的程序，对人员、场所、设备、文件、制备、质量控制、药品调剂等项目定期进行检查。<br><br>    <a name='68'><font class='TiaoNoA'>第六十八条</font></a>  自检应有记录。自检完成后应形成自检报告，内容包括自检的结果、评价的结论以及改进措施和建议。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发〔2009〕23号<BR>&nbsp;&nbsp;【发布日期】2009-03-13<BR>&nbsp;&nbsp;【生效日期】2009-03-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1708" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅转发省经贸委贵阳电监办贵州电网公司关于进一步加强电力供应侧管理措施的通知<br><br></font>(黔府办发〔2009〕23号)</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构，各有关企业：<br>    省经贸委、贵阳电监办、贵州电网公司《关于进一步加强电力供应侧管理的措施》已经省人民政府同意，现转发给你们，请认真贯彻执行。<br><br>                                贵州省人民政府办公厅<br>                                二○○九年三月十三日   <br>    <br><br>                          关于进一步加强电力供应侧管理的措施<br>                         省经贸委   贵阳电监办   贵州电网公司<br>    <br>    为进一步做好电煤供应，确保电网安全稳定运行，保障经济社会发展电力需求，根据《省人民政府办公厅印发关于加强电力供应侧管理意见的通知》（黔府办发〔2008〕46号）和《南方电网电煤预警与预控调度管理办法》（南方电网调〔2009〕1号）等有关文件精神，结合我省实际，制定本措施。<br>    一、原则<br>    在当前煤电市场总体平稳、电网装机相对富余的情况下，协同电网调度机构，科学调度，合理安排，实施火力发电与电煤供应挂钩管理，采取及时签订电煤合同、供应平稳有序、电煤库存保持在合理水平的火电企业多发电等措施，保持贵州电网电力供需平衡，确保全省社会经济发展和“西电东送”对电力的需求。<br>    二、电力供应侧管理<br>    电力供应侧管理主要是指从电煤组织、供应和水库水位调节开始，到调度机组发电的全过程管理，着重强调从电煤供应到机组发电的管理过程。各地、各有关部门及重点煤炭企业要按照省政府每年年初确定的年度电煤框架量，合理调整生产结构，协调组织电煤供应，确保完成全年省内电煤供应任务。<br>    各发电企业要认真履行电煤供应主体责任，及时与煤炭企业签订全年电煤购销合同，确保完成全年电煤采购任务。<br>    各火电企业要积极采取有效措施，保质保量组织电煤采购，保证电煤供应平稳有序，力争每日电煤购进和消耗总体平衡并略有富余，电煤库存达到储备要求。<br>    各火电厂存煤在每年10月至次年3月要按照15天以上用量储备，每年4月至9月要按照12天以上用量储备。<br>    各发电企业要按照省政府的统一部署，建立冬季电力储备和应急电煤储备机制，完成电煤储备任务的企业，省政府除给予一定电煤储备补贴，还将在平衡和调整发电计划、增加机组发电安排上给予倾斜。<br>    三、电煤预警管理<br>    全省电煤预警分为白色、黄色、红色三级。当存煤低于火电机组满发12天所需时启动白色预警，低于7天时启动黄色预警，低于3天时启动红色预警。春节前30天和春节期间，白色、黄色、红色预警存煤可用天数分别上调至20天、15天、7天。<br>    全省电网电煤预警。当全网辖内火电厂总存煤低于200万吨时启动白色预警，低于120万吨时启动黄色预警，低于60万吨时启动红色预警。春节前30天和春节期间，白色、黄色、红色预警存煤分别上调至340万吨、250万吨、120万吨。<br>    电网出现白色、黄色电煤预警后，贵州电力调通局须立即书面报告省经贸委、贵阳电监办、贵州电网公司，出现红色预警增报南方电网公司。省经贸委、贵阳电监办、贵州电网公司将根据电煤预警等级及时采取相应对策。<br>    发电企业出现白色、黄色电煤预警后，贵州电力调通局要立即向发电企业发出书面警告，并报告省经贸委、贵阳电监办、贵州电网公司，出现红色预警增报其上级发电集团公司。贵州电力调通局可根据省经贸委、贵州电网公司授权，按发电侧管理的规定采取相应措施。<br>    四、发电侧管理<br>    （一）实施发电计划管理。<br>    当年年底前由省经贸委、贵州电网公司根据电力需要预测，编制下一年度全网发供电计划，并按年发电计划及有关原则与发电企业签订年度购售电合同。贵州电力调度通信局根据全网发供电计划和电网运行实际，在节能发电调度原则的基础上，负责编制月度发电计划，并按计划组织实施，进行实时调度。<br>    每年7月份，由省经贸委、贵州电网公司根据电网运行变化和各发电企业实际利用小时数、电煤供应、电煤库存量情况，以及水电来水与主要水库库容等，适时调整年度全网发供电计划。对因电煤供应问题而调减电量的企业，按“欠发不补”原则处理。<br>    （二）实施发电与电煤供应挂钩调度。<br>    1.实施发电与电煤合同签订挂钩管理。发电企业没有在规定时间内签订全年电煤合同，将通报批评并限期改正，限期不改的，由于电煤供应无保障，可安排其机组减负荷出力直至停机。<br>    2.实施发电与电煤供应挂钩管理。对于及时签订电煤合同、电煤供应平稳有序、长期保持合理较高库存的企业，安排多发电。对于电煤低于合理正常库存的企业，按不同情况区别对待：<br>    （1）进入白色预警的发电企业，按“来煤发电”的原则安排出力发电，电厂日耗煤不超过实际来煤，使其电煤库存尽快恢复到合理正常水平；<br>    （2）进入黄色预警的发电企业，原则上按装机容量50%安排出力发电，并督促其加大组织电煤供应力度，限期达到电煤库存合理正常水平；<br>    （3）进入红色预警的发电企业，原则上按装机容量25%安排出力发电直至全面停产，并通告其上级集团公司，督促采取切实可行措施增加电煤供应。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

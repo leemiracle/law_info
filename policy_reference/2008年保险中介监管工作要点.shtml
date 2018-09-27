@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监中介〔2008〕154号<BR>&nbsp;&nbsp;【发布日期】2008-02-02<BR>&nbsp;&nbsp;【生效日期】2008-02-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_7267/66274.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>2008年保险中介监管工作要点<br><br></font>(保监中介〔2008〕154号)</p><br><br><br>各保监局、中国保险行业协会、各保险公司，保险中介公司：<br><br>    为贯彻2008年全保会精神，促进保险中介行业健康发展，现将《2008年保险中介监管工作要点》印发给你们，请认真组织学习落实。<br><br>    特此通知<br><br>                                            二○○八年二月二日<br><br><br>2008年保险中介监管工作要点     <br><br>    2008年，保险中介监管工作以科学发展观为指导，全面贯彻落实全保会精神，贯彻落实保监会《关于保险中介市场发展的若干意见》（保监发〔2007〕107号），以保护保险消费者权益为核心，扎实推进保险中介市场基础建设，不断加强队伍建设，加大检查力度，维护好保险中介市场秩序和市场信用，促进保险中介更好服务经济社会和保险业发展。<br><br>    一、加强保险中介市场监管的基础建设<br><br>    在制度建设方面，完成《保险代理机构管理规定》、《保险经纪机构管理规定》、《保险公估机构管理规定》和《兼业代理管理规定》的修订工作，制定相应实施细则，做好培训、舆论宣传等颁布实施工作；借鉴国际上保险营销管理制度经验，建立保险营销员分级分类管理制度，探索建立适合农村特点的农村保险营销员管理制度；配合保险行业协会，研究制订并颁布保险代理合同范本，研究保险中介行业标准化建设。<br><br>    在信息化建设方面，继续完成保险中介信息系统建设。做好“保险营销员管理信息系统”全面推行工作；完成“保险兼业代理管理信息系统”、“保险专业中介和人员管理信息系统”以及“非现场监管信息系统”的开发工作，启动“保险中介稽核系统”的开发工作。<br><br>    在执行力建设方面，做到有法必依，执法必严，违法必究，提高中介监管系统执行政策和法律法规的水平，努力建立服务型保险中介监管体系。<br><br>    二、加强对投保人和被保险人权益的保护力度<br><br>    从建章立制的角度贯彻对投保人和被保险人权益的保护原则，完善对损害保险消费者权益行为的处罚手段和处罚措施。在现场检查方面，要以保护投保人和被保险人利益为重点，加强对中介市场的监管。重点关注和打击群众反映强烈、具有普遍性的侵害消费者利益的行为，如销售误导、假冒保险名义进行非法集资或诈骗活动、伪造或者变造保单、以类似于传销或者非法集资的手段进行违规营销活动等行为；严肃查处保险营销员和中介机构欺骗保险公司、投保人、被保险人、受益人以及挪用侵占保险费等违法违规行为；维护市场秩序，提倡公平竞争，严厉打击低价倾销、依靠行政权利及垄断地位索要高额手续费等不正当竞争行为；坚决制止保险中介机构以虚开发票、参与制造假退费、假赔案等方式为保险公司套取费用等违规行为。<br><br>    督促保险公司改进内部管理，完善相关制度，加强对其营销员和代理渠道的管理，健全委托销售协议，规范两核业务流程，规范单证领用程序，规范保费结算办法，落实管理责任，逐步建立保险销售和保险事故索赔的服务规范，防范化解市场风险。探索建立专业保险代理和经纪机构客户回访制度。<br><br>    三、加强保险中介从业人员队伍建设<br><br>    以保险营销员管理信息系统的推广为契机，完善全国联网的管理信息平台，落实保险营销员的市场行为监管，建立保险营销员诚信档案，加大社会信息披露力度，发挥社会监督机制的作用，构建保险营销诚信文化。<br><br>    督促保险公司加强对保险营销员的管理，提升保险营销服务质量，改善保险营销员收入待遇，完善营销员权益保障制度。要按照《劳动合同法》和《保险法》的要求，严格员工制与代理制保险营销的管理界限，规范代理合同。开通营销员投诉渠道，完善营销员纠纷协调处理机制，建立保险行业协会保险营销专业委员会，发挥协会和各保险公司力量，有计划地主动协助保险营销员疏通参加社保的渠道。对个别基层保险机构存在挤占、克扣营销员佣金和管理费用的问题，要密切关注，严肃查处，对于处理不力，酿成群体性事件的，要严肃追究保险公司总分公司的责任。表彰保险营销员先进典型，加强对营销员的宣传和引导，形成良好的社会风气和舆论氛围。<br><br>    加强对保险中介机构高级管理人员的培训。通过保监局和保险行业协会等多种渠道，加强保险中介高级管理人员培训，提高高级管理人员素质，提升行业的专业化水平和合规经营意识。严格落实持证上岗制度和继续教育制度，提高保险中介机构从业人员和营销员的整体素质，建立继续教育机构的末位淘汰机制。<br><br>    四、加强对保险中介行业的指导<br><br>    指导保险公司与保险中介开展深层次合作。建立保险中介与保险公司的和谐关系，提高市场效率，实现保险公司与保险中介共赢发展。包括：推介保险公司与保险中介合作的成功模式，支持双方扩大合作领域，拓宽在产品开发、业务管理、市场拓展、广告宣传、人员培训、理赔服务等领域的合作。<br><br>    指导行业协会发挥更大作用。支持条件成熟的地区成立独立的保险中介行业协会。指导行业协会建立经纪师、公估师评审制度。将保险营销员分类管理，经纪师和公估师管理等工作逐步移交到行业协会。探索建立保险公估行业服务标准和收费标准，探索建立行业黑名单制度，发挥行业协会在服务会员、信息交流、行业自律方面的作用。<br><br>    继续做好《中国风险管理报告》编制工作。选择具有一定研究力量的中介机构，与相关行业合作开展行业风险管理研究工作，增强保险中介机构在行业风险管理中的重要地位。加强行业内外风险管理交流，提升保险业风险管理水平和社会影响力。<br><br>    五、推进保险中介创新<br><br>    推进相互代理创新，总结保险集团框架内保险公司相互代理的经验，研究建立非集团框架内保险公司相互代理制度，制定《保险公司相互代理管理制度》，促进相互代理保险业务健康发展；推进组织形式创新，鼓励保险中介集团化创新，支持符合条件的保险专业中介机构上市融资，鼓励风险投资在内的各类资本投资保险专业中介机构，调研保险中介组织形式创新的特点，明确相应的管理措施；研究制订相关政策，积极鼓励保险中介机构立足渠道特点，加强对客户保险需求的研究，为开发适销对路的保险产品发挥积极的作用，满足投保人和被保险人的需求；推进经营模式创新，鼓励保险中介机构结合区域特点和市场实际，创新经营模式，挖掘市场潜力，拓展服务领域，调研并推广保险中介机构在经营模式创新方面的先进经验，提升专业中介的竞争力。保险中介创新应当注意合法合规，不损害保险消费者、中介从业人员以及行业利益。<br><br>    六、建立保险中介社会评价体系<br><br>    建立独立第三方的保险中介机构评价体系对增强市场透明度，促进消费者与保险中介以及保险公司与中介机构的合作，提升保险中介的专业水平都有积极的意义。2008年，我们要在推动保险中介社会评价体系建设方面迈出实质性步伐。通过沟通协调保监会机关有关部门、各保监局、各保险机构、承办方等相关单位，积极稳妥搞好系统测试、数据采集、报告撰写、信息披露、监管利用等各项工作，力争年内建成独立第三方中介机构评价体系。<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

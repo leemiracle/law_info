@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】长沙市人民政府<BR>&nbsp;&nbsp;【发布文号】长政办发〔2009〕18号<BR>&nbsp;&nbsp;【发布日期】2009-08-24<BR>&nbsp;&nbsp;【生效日期】2009-08-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.changsha.gov.cn/xxgk/fggw/zftztg/200910/t20091020_177579.html" target=_blank>长沙市政务公开网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>长沙市人民政府办公厅关于进一步规范税收征管经费管理的通知<br><br></font>(长政办发〔2009〕18号)</p><br><br> <br>    各区、县（市）人民政府，市直机关各单位：<br><br>    为了进一步规范我市税收征管秩序，加强税收征管经费（含原代扣、代收和代征税款手续费）和目标奖励管理，确保国家税款及时足额入库，根据有关文件精神，经市人民政府研究，现就全市税务机构税收征管经费以及目标奖励资金纳入财政预算管理的有关事项通知如下：<br><br>    一、地税部门征管经费市本级和内五区以上年度征管经费的85%为基数、四县（市）以上年度征管经费的80%为基数。当年若完成市人大通过的收入任务，收入比上年实际完成数每增长1%，按基数的1.2%增加当年征管经费；当年若未完成<br>市人大通过的收入任务，收入比市人大通过的收入任务每下降1%，按基数的1.2%扣减当年征管经费。<br><br>    按照《财政部国家税务总局中国人民银行关于代扣、代收和代征税款手续费纳入预算管理的通知》（财预〔2001〕523号）的规定，国税部门征管经费由中央财政负担，不由当地财政负担。<br><br>    二、国税部门的目标奖励以上年度目标奖励的90%为基数。当年若完成市人大通过的收入任务，收入比上年实际完成数每增长1%，按基数的1.6%增加当年目标奖励；当年若未完成市人大通过的收入任务，收入比市人大通过的收入任务每下降1%，按基数的1.6%扣减当年目标奖励。<br><br>    市地税部门的目标奖励以上年度目标奖励的90%为基数。当年若完成市人大通过的收入任务，收入比上年实际完成数每增长1%，按基数的1.2%增加当年目标奖励；当年若未完成市人大通过的收入任务，收入比市人大通过的收入任务每下降1%，按基数的1.2%扣减当年目标奖励。<br><br>    三、征管经费必须优先足额安排扣缴义务人和代征人的手续费。<br><br>    四、上述经费由财政部门纳入年度预算统一安排，并根据收入进度按月拨付，税务部门不得从税款中直接提取手续费和征管经费。资金使用情况接受同级和上级人民银行、财政、审计部门的监督检查。<br><br>    五、未经市人民政府同意，不得在上述规定之外对国税、地税部门以其他名义给予资金补助和配备交通工具、电脑、办公用品等。<br><br>    六、全市各级国税、地税工作人员的年度考核，纳入当地政府绩效考核范围，绩效考核奖励由国税、地税部门在上述目标奖励中参照当地人均标准统筹安排，财政不另行追加专项。<br><br>    七、以上规定自2009年1月1日起先试行1年，试行期满，视执行情况再进一步完善相关内容后施行。若中央、省统一规范税务征管经费和目标奖励提取办法，本办法将相应进行调整。<br><br>    长沙市人民政府办公厅<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

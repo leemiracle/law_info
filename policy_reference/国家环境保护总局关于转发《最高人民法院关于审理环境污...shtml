@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】环函〔2006〕322号<BR>&nbsp;&nbsp;【发布日期】2006-08-15<BR>&nbsp;&nbsp;【生效日期】2006-08-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sepa.gov.cn/info/gw/huanhan/200608/t20060823_91744.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局关于转发《最高人民法院关于审理环境污染刑事案件具体应用法律若干问题的解释》和《最高人民检察院关于渎职侵权犯罪案件立案标准的规定》（节选）的通知<br><br></font>(环函〔2006〕322号)</p><br><br><br>各省、自治区、直辖市环境保护局（厅），各直属单位，各派出机构：<br><br>        为依法惩治环境污染和环境监管失职犯罪行为，2006年7月21日，最高人民法院发布了《最高人民法院关于审理环境污染刑事案件具体应用法律若干问题的解释》，2006年7月26日，最高人民检察院发布了《最高人民检察院关于渎职侵权犯罪案件立案标准的规定》。上述两个司法解释的发布施行，对于贯彻实施刑法中有关惩治环境污染和环境监管失职犯罪行为的规定，震慑环境违法犯罪行为，规范环保行政执法，促进环保法律法规的贯彻执行，落实科学发展观、建设资源节约型和环境友好型社会，具有重要意义。<br>         各级环保部门要认真学习、贯彻落实上述两个司法解释，强化依法行政意识，严格执行环保法律法规，认真履行环境监督管理职责，加大环境执法力度。在依法查处环境违法行为过程中，发现环境违法事实涉及的金额、情节或造成的后果等涉嫌构成犯罪，依法需要追究刑事责任的，必须依照国务院《行政执法机关移送涉嫌犯罪案件的规定》（国务院令第310号）向公安机关移送，不能以行政处罚代替移送；发现环境监管失职违法行为，涉嫌构成犯罪的，应当及时将案件移送人民检察院。<br>        现将《最高人民法院关于审理环境污染刑事案件具体应用法律若干问题的解释》和《最高人民检察院关于渎职侵权犯罪案件立案标准的规定》（节选）转发你们，请认真贯彻执行。在执行中发现问题或遇到困难，应及时向总局报告。<br><br>附件：1．最高人民法院关于审理环境污染刑事案件具体应用法律若干问题的解释<br>           2．最高人民检察院关于渎职侵权犯罪案件立案标准的规定（节选）<br><br>二○○六年八月十五日<br><br><br>主题词：环保 司法解释 转发 通知<br><br> <br><br>附件一：<br><br>中华人民共和国最高人民法院公告<br><br>《最高人民法院关于审理环境污染刑事案件具体应用法律若干问题的解释》已于2006年6月26日由最高人民法院审判委员会第1391次会议通过，现予公布，自2006年7月28日起施行。<br><br>二○○六年七月二十一日<br><br>最高人民法院关于审理环境污染刑事案件<br>具体应用法律若干问题的解释<br>（2006年6月26日由最高人民法院审判委员会第1391次会议通过）<br>（法释〔2006〕4号）<br><br>        为依法惩治有关环境污染犯罪行为，根据刑法有关规定，现就审理这类刑事案件具体应用法律的若干问题解释如下：<br>        第一条  具有下列情形之一的，属于刑法第三百三十八条、第三百三十九条和第四百零八条规定的“公私财产遭受重大损失”：<br>        （一）致使公私财产损失三十万元以上的；<br>        （二）致使基本农田、防护林地、特种用途林地五亩以上，其他农用地十亩以上，其他土地二十亩以上基本功能丧失或者遭受永久性破坏的；<br>        （三）致使森林或者其他林木死亡五十立方米以上，或者幼树死亡二千五百株以上的。<br>        第二条  具有下列情形之一的，属于刑法第三百三十八条、第三百三十九条和第四百零八条规定的“人身伤亡的严重后果”或者“严重危害人体健康”：<br>        （一）致使一人以上死亡、三人以上重伤、十人以上轻伤，或者一人以上重伤并且五人以上轻伤的；<br>        （二）致使传染病发生、流行或者人员中毒达到《国家突发公共卫生事件应急预案》中突发公共卫生事件分级Ⅲ级情形，严重危害人体健康的；<br>        （三）其他致使“人身伤亡的严重后果”或者“严重危害人体健康”的情形。<br>        第三条  具有下列情形之一的，属于刑法第三百三十八条、第三百三十九条规定的“后果特别严重”：<br>        （一）致使公私财产损失一百万元以上的；<br>        （二）致使水源污染、人员疏散转移达到《国家突发环境事件应急预案》中突发环境事件分级Ⅱ级以上情形的；<br>        （三）致使基本农田、防护林地、特种用途林地十五亩以上，其他农用地三十亩以上，其他土地六十亩以上基本功能丧失或者遭受永久性破坏的；<br>        （四）致使森林或者其他林木死亡一百五十立方米以上，或者幼树死亡七千五百株以上的；<br>        （五）致使三人以上死亡、十人以上重伤、三十人以上轻伤，或者三人以上重伤并十人以上轻伤的；<br>        （六）致使传染病发生、流行达到《国家突发公共卫生事件应急预案》中突发公共卫生事件分级Ⅱ级以上情形的；<br>        （七）其他后果特别严重的情形。<br>        第四条  本解释所称“公私财产损失”，包括污染环境行为直接造成的财产损毁、减少的实际价值，为防止污染扩大以及消除污染而采取的必要的、合理的措施而发生的费用。<br>        第五条  单位犯刑法第三百三十八条、第三百三十九条规定之罪的，定罪量刑标准依照刑法和本解释的有关规定执行。<br><br>相关链接<br><br>《中华人民共和国刑法》<br><br><br>        第三百三十八条   违反国家规定，向土地、水体、大气排放、倾倒或者处置有放射性的废物、含传染病病原体的废物、有毒物质或者其他危险废物，造成重大环境污染事故，致使公私财产遭受重大损失或者人身伤亡的严重后果的，处三年以下有期徒刑或者拘役，并处或者单处罚金；后果特别严重的，处三年以上七年以下有期徒刑，并处罚金。<br>        第三百三十九条   违反国家规定，将境外的固体废物进境倾倒、堆放、处置的，处五年以下有期徒刑或者拘役，并处罚金；造成重大环境污染事故，致使公私财产遭受重大损失或者严重危害人体健康的，处五年以上十年以下有期徒刑，并处罚金；后果特别严重的，处十年以上有期徒刑，并处罚金。<br>        未经国务院有关主管部门许可，擅自进口固体废物用作原料，造成重大环境污染事故，致使公私财产遭受重大损失或者严重危害人体健康的，处五年以下有期徒刑或者拘役，并处罚金；后果特别严重的，处五年以上十年以下有期徒刑，并处罚金。<br>        以原料利用为名，进口不能用作原料的固体废物、液态废物和气态废物的，依照本法第一百五十二条第二款、第三款的规定定罪处罚。<br>        第四百零八条  负有环境保护监督管理职责的国家机关工作人员严重不负责任，导致发生重大环境污染事故，致使公私财产遭受重大损失或者造成人身伤亡的严重后果的，处三年以下有期徒刑或者拘役。<br><br> <br><br>《国家突发公共卫生事件应急预案》<br><br><br>        突发公共卫生事件分级Ⅲ级中传染病发生、流行或者人员中毒的情形包括：<br>        （1）发生肺鼠疫、肺炭疽病例，一个平均潜伏期内病例数未超过5例，流行范围在一个县（市）行政区域以内；<br>        （2）腺鼠疫发生流行，在一个县（市）行政区域内，一个平均潜伏期内连续发病10例以上，或波及2个以上县（市）；<br>        （3）霍乱在一个县（市）行政区域内发生，1周内发病10－29例，或波及2个以上县（市），或市（地）级以上城市的市区首次发生；<br>        （4）一次食物中毒人数超过100人；<br>        （5）一次发生急性职业中毒10－49人。<br>        突发公共卫生事件分级Ⅱ级中传染病发生、流行的情形包括：<br>        （1）在一个县（市）行政区域内，一个平均潜伏期内（6天）发生5例以上肺鼠疫、肺炭疽病例，或者相关疫情波及2个以上的县（市）；<br>        （2）发生传染性非典型肺炎、人感染高致病性禽流感疑似病例；<br>        （3）腺鼠疫发生流行，在一个市（地）行政区域内，一个平均潜伏期内连续发病20例以上，或流行范围波及2个以上市（地）；<br>        （4）霍乱在一个市（地）行政区域内发生，1周内发病30例以上，或波及2个以上市（地），有扩散趋势。<br>        突发公共卫生事件分级Ⅰ级中传染病发生、流行的情形包括：<br>        （1）肺鼠疫、肺炭疽在大、中城市发生并有扩散趋势，或者肺鼠疫、肺炭疽疫情波及2个以上的省份，并有进一步扩散趋势；<br>        （2）发生传染性非典型肺炎、人感染高致病性禽流感病例，并有扩散趋势。<br><br> <br><br>《国家突发环境事件应急预案》<br><br><br>        突发环境事件分级Ⅱ级中水源污染、人员疏散转移的情形包括：<br>        （1）因环境污染造成重要河流、湖泊、水库及沿海水域大面积污染，或县级以上城镇水源地取水中断；<br>        （2）因环境污染致使当地经济、社会活动受到较大影响，疏散转移群众1万人以上、5万人以下的。<br>        突发环境事件分级Ⅰ级中水源污染、人员疏散转移的情形包括：<br>        （1）因环境污染造成重要城市主要水源地取水中断；<br>        （2）因环境事件需疏散转移群众5万人以上的。<br><br> <br><br>附件二：<br><br>中华人民共和国最高人民检察院公告<br><br>        《最高人民检察院关于渎职侵权犯罪案件立案标准的规定》已于2005年12月29日由最高人民检察院第十届检察委员会第四十九次会议通过，现予公布，自公布之日起施行。<br><br>最高人民检察院<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、国家税务总局、中国人民银行<BR>&nbsp;&nbsp;【发布文号】财库[2009]94号<BR>&nbsp;&nbsp;【发布日期】2009-07-17<BR>&nbsp;&nbsp;【生效日期】2009-07-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/9210704.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、国家税务总局、中国人民银行关于2009年财税库银税收收入电子缴库横向联网试点工作的通知<br> <br></font>(财库[2009]94号)</p><br><br><br>北京、山西、内蒙古、黑龙江、上海、江苏、江西、山东、广东、贵州、云南、青海省(区、市)财政厅(局)，北京、内蒙古、黑龙江、上海、江苏、江西、贵州、云南、青海省(区、市)国家税务局，山西、内蒙古、上海、山东、广东、云南省(区、市)地方税务局，中国人民银行上海总部、营业管理部，南京、济南、广州分行，太原、呼和浩特、哈尔滨、南昌、贵阳、昆明、西宁支行：<br>    为推进全国财税库银税收收入电子缴库横向联网工作，根据《财政部 国家税务总局 中国人民银行关于印发<财税库银税收收入电子缴库横向联网实施方案>的通知》(财库[2007]49号)、《财政部 国家税务总局 中国人民银行关于印发<财税库银税收收入电子缴库横向联网管理暂行办法>的通知》(财库[2007]50号)和《财政部 国家税务总局 中国人民银行关于财税库银税收收入电子缴库横向联网试点有关问题的通知》(财库[2007]92号)有关规定，现将2009年财税库银税收收入电子缴库横向联网推进工作有关事项通知如下：<br>    一、关于横向联网新系统测试范围及时间安排<br>    为了解决横向联网系统存在的问题，2009年国家税务总局、中国人民银行对横向联网系统进行了升级改造，目前系统升级改造工作已经完成。为保证新系统正式上线后运行顺利，确定北京市及贵州省的国税系统对新系统进行测试。<br>    北京市、贵州省国税系统要按照《2009年财税库银税收收入电子缴库横向联网新系统测试时间安排表》(见附件1)要求，做好系统测试前的各项准备，按时完成联调测试、软件定版等工作，具体时间安排如下：<br>    (一)2009年7月中下旬至7月27日，测试地区国税、人行国库、商业银行各单位完成实施方案和计划上报、软件开发及测试优化等工作。<br>    (二)2009年7月27日至8月14日，测试地区国税、人行国库、商业银行各单位完成联调测试工作。<br>    (三)2009年8月21日前，测试地区国税、人行国库、商业银行各单位完成接口软件定版工作。<br>    二、关于2009年新增试点范围及时间安排<br>    内蒙古、黑龙江、青海等3个省份国税系统，内蒙古、山东等2个省份地税系统作为2009年第一批新增试点单位；上海、江苏、江西、云南等4个省份国税系统，山西、上海、广东、云南等4个省份地税系统作为2009年第二批新增试点单位。上述省份应按照积极稳妥、分步推进的原则，先选择部分地(市)试点，再逐步扩大试点范围。<br>    新增试点地区要按照《2009年财税库银税收收入电子缴库横向联网分批试点时间安排表》(见附件2)要求，做好系统上线前的各项准备，按时完成联调测试、业务测试、系统切换等工作，具体时间安排如下：<br>    (一)第一批试点上线时间安排。<br>    1．2009年8月中旬至9月18日，试点地区税务、人行国库、商业银行各单位完成实施方案和计划上报、软件开发及测试优化、联调测试、软件定版等工作。<br>    2．2009年10月19日至23日，试点地区税务、人行国库、商业银行各单位完成生产环境集成。<br>    3．2009年10月26日，试点地区横向联网电子缴税系统上线运行。<br>    (二)第二批试点上线时间安排。<br>    1．2009年10月中旬至11月13日，试点地区税务、人行国库、商业银行各单位完成实施方案和计划上报、软件开发及测试优化、联调测试、软件定版等工作。<br>    2．2009年11月16日至20日，试点地区税务、人行国库、商业银行各单位完成生产环境集成。<br>    3．2009年11月23日，试点地区横向联网电子缴税系统上线运行。<br>    三、关于财政部门与人行国库接口问题<br>    试点地区财政部门与人行国库横向联网工作，按照《财政部 中国人民银行关于印发<财政部门与人民银行联网财政收入接口参考规范>的通知》(财库[2008]99号)、《财政部 中国人民银行关于财政部门与人民银行国库横向联网接口软件上线工作流程有关问题的通知》(财库[2008]100号)及《关于2009年财政部门与人民银行国库横向联网接口软件上线试点有关问题的通知》(财办库[2009]50号)有关规定执行。<br>    四、工作要求<br>    (一)加强组织领导。财政部门、税务机关、人行国库、商业银行要成立跨部门的横向联网工作领导小组，建立各层级、点对点的联系机制，明确部门职责，落实负责人员，加强沟通，注意协调，制定详细的工作方案。<br>    (二)强化基础工作。新系统测试地区、新增试点地区要做好设备配置、网络联接、数据整理等准备工作，制定详细的应急处理预案。要根据实际业务需要，按照横向联网电子缴税系统业务需求书和技术方案要求，编写联调测试业务案例，及时排除测试中发现的问题。通过测试后，方可组织系统正式上线运行。<br>    (三)注意跟踪反馈。新系统测试地区、新增试点地区要做好运行情况的跟踪记录，及时发现问题，解决问题。要不断总结经验，完善制度，细化操作规程，遇有重大情况及时向上级部门报告。<br>    (四)加强宣传培训。新增试点地区要采取多种形式对纳税人进行广泛宣传，开展好纳税人委托商业银行划缴税款的签约工作。加强财政部门、税务机关、人行国库、商业银行业务和技术人员的培训，提高工作质量和效率。<br>    请新系统测试地区、新增试点地区的相关部门按照本通知要求，抓紧做好横向联网工作。<br><br>    附件：1．2009年财税库银税收收入电子缴库横向联网新系统测试时间安排表<br>    2．2009年财税库银税收收入电子缴库横向联网分批试点时间安排表<br>    <br>财政部 国家税务总局 中国人民银行<br>二OO九年七月十七日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

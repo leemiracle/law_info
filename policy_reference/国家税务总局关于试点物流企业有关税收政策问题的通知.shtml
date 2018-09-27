@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]208号<BR>&nbsp;&nbsp;【发布日期】2005-12-29<BR>&nbsp;&nbsp;【生效日期】2005-12-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=20051231102414764" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于试点物流企业有关税收政策问题的通知<br><br></font>(国税发[2005]208号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    为促进现代物流业发展，根据国家发展和改革委员会 商务部 公安部 铁道部 交通部 海关总署 国家税务总局 中国民用航空总局 国家工商行政管理总局《印发关于促进我国现代物流业发展的意见的通知》（发改运行〔2004〕1617号）精神，对国家发改委和国家税务总局联合确认纳入试点名单的物流企业及所属企业（以下简称试点企业）的有关税收政策问题通知如下：  <br>    一、关于营业税政策?<br>    （一）交通运输业务?<br>    1.试点企业开展物流业务应按其收入性质分别核算。提供运输劳务取得的运输收入按“交通运输业”税目征收营业税并开具货物运输业发票。凡未按规定分别核算其营业税应税收入的，一律按“服务业”税目征收营业税。?<br>    2.试点企业将承揽的运输业务分给其他单位并由其统一收取价款的，应以该企业取得的全部收入减去付给其他运输企业的运费后的余额为营业额计算征收营业税。?<br>    3.试点企业适用《国家税务总局关于加强货物运输业税收征收管理的通知》（国税发〔2003〕121号）规定的“货物运输业营业税纳税人认定和年审试行办法”。对被取消自开票纳税人资格的试点企业，同时取消对该企业执行本通知规定的税收政策，并报国家发改委和国家税务总局备案。?<br>   （二）仓储业务?<br>    试点企业将承揽的仓储业务分给其他单位并由其统一收取价款的，应以该企业取得的全部收入减去付给其他仓储合作方的仓储费后的余额为营业额计算征收营业税。?<br>   （三）关于营业额减除项目凭证管理问题?<br>    营业额减除项目支付款项发生在境内的，该减除项目支付款项凭证必须是发票或经税务机关认可的合法有效凭证；支付给境外的，该减除项目支付款项凭证必须是外汇付汇凭证，或外方公司的签收单据、出具的公证证明。?<br>    二、关于货物运输业发票抵扣增值税问题?<br>    （一）增值税一般纳税人外购货物（未实行增值税扩大抵扣范围企业外购固定资产除外）和销售应税货物所取得的由试点企业开具的货物运输业发票准予抵扣进项税额。?<br>    （二）准予抵扣的货物运费金额是指试点企业开具的货运发票上注明的运输费用、建设基金；装卸费、保险费和其他杂费不予抵扣。货运发票应当分别注明运费和杂费，对未分别注明，而合并注明为运杂费的不予抵扣。?<br>    三、试点企业应定期将经营情况报送所在地地方税务局。国家发改委、国家税务总局将采取定期或不定期方式，抽查试点企业经营情况。对违反有关规定的企业，国家发改委、国家税务总局取消其试点资格。?<br>    四、各地地方税务机关对试点工作中出现的问题，应及时上报国家税务总局（流转税管理司）。同时，可以根据本地区物流行业发展的实际情况，选取具有一定经营规模、管理集约化并依法纳税的现代物流企业，向国家税务总局推荐参与试点。被推荐的企业经国家发改委、国家税务总局联合确认后，纳入试点物流企业名单。<br>    五、本通知自2006年1月1日起执行。<br>??    <br>    附件：试点物流企业名单<br><br>                                         国家税务总局<br>                                   二○○五年十二月二十九日<br> <br><br>附件<br>试点物流企业名单<br><br>    1.中国远洋物流有限公司?<br>    2.中海集团物流有限公司?<br>    3.中国外运股份有限公司?<br>    4.中国物资储运总公司?<br>    5.中邮物流有限责任公司?<br>    6.中铁快运股份有限公司?<br>    7.中铁现代物流科技有限公司?<br>    8.中铁行包快递有限责任公司?<br>    9.中铁联合物流有限公司?<br>    10.招商局物流集团有限公司?<br>    11.宝供物流企业集团有限公司?<br>    12.远成集团有限公司?<br>    13.天津大田集团有限公司?<br>    14.北京宅急送快运有限公司?<br>    15.北京福田物流有限公司?<br>    16.鲁能帆茂物流有限公司?<br>    17.黑龙江农垦北大荒物流有限公司?<br>    18.青岛裕龙国际物流有限公司?<br>    19.厦门建发物流有限公司?<br>    20.北京陆港国际物流有限公司?<br>    21.上海现代物流投资发展有限公司?<br>    22.河南省豫鑫物流有限公司?<br>    23.上海虹鑫物流有限公司?<br>    24.杭州八方物流有限公司?<br>    25.民航快递有限责任公司?<br>    26.志勤美集（北京）国际货运代理有限公司?<br>    27.上海惠尔物流有限公司?<br>    28.安得物流有限公司?<br>    29.南通大地物流有限公司?<br>    30.北京长久物流有限公司?<br>    31.中信物流有限公司?<br>    32.捷利物流有限公司?<br>    33.浙江省八达物流有限公司?<br>    34.珠海市吉泰物流有限公司?<br>    35.南方物流（无锡）有限公司?<br>    36.嘉里大通物流有限公司?<br>    37.广东鱼珠物流基地有限公司<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

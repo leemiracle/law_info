@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】环办〔2007〕25号<BR>&nbsp;&nbsp;【发布日期】2007-02-12<BR>&nbsp;&nbsp;【生效日期】2007-02-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/huanban/200702/t20070214_100919.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局办公厅关于14个环境影响评价资质单位处理情况的通报<br><br></font>(环办〔2007〕25号)</p><br><br><br>各省、自治区、直辖市环境保护局（厅），新疆生产建设兵团环境保护局，解放军环境保护局，14个环境影响评价资质单位：<br>    <br>    近期，我局在环境影响评价单位资质延续审查和日常考核中发现，部分单位不符合资质条件、违规开展业务或工作质量较差。根据《建设项目环境影响评价资质管理办法》（国家环保总局令第26号）的有关规定，我局决定对14个环境影响评价单位分别予以限期整改和通报批评。现将有关情况通报如下：<br>    <br>    一、对以下达不到资质基本条件的单位予以限期整改：<br>    <br>    （一）因不具备法人资格或改制后单位名称尚未确定，对包钢环境保护研究所（证书编号为国环评证乙字第1410号）、抚顺煤矿环境保护研究所（证书编号为国环评证乙字第1523号）、湛江港务局（证书编号为国环评证乙字第2832号）、长庆石油勘探局环境保护研究所（证书编号为国环评证乙字第3703号）、宁夏电力试验研究所（证书编号为国环评证乙字第3808号）等5家单位予以6个月限期整改，整改期自2007年2月1日至2007年7月31日。<br>    <br>    （二）因环境影响评价专职人员数量不足，对西图国际（中国）有限公司（证书编号为国环评证乙字第T001号）予以3个月限期整改，整改期自2007年2月1日至2007年4月30日。<br>    <br>    上述单位，在整改期间不得承担环境影响评价业务，达到资质基本条件后，我局再行准予资质延续。整改期满，仍未达到资质基本条件的，我局将注销资质。<br>    <br>    二、对以下违规开展环境影响评价业务的单位予以通报批评：<br>    <br>    （一）吉林省兴环环境技术服务有限公司（证书编号为国环评证乙字第1610号）超范围承接四平市巨丰实业有限公司奶牛饲养项目环境影响评价工作。<br>    <br>    （二）四平市环境保护研究所（证书编号为国环评证乙字第1614号）在环境影响评价资质申报过程中提供虚假材料。<br>    <br>    上述单位应认真进行内部整顿，加强环境影响评价专职人员管理，规范从业行为。两单位向我局提交整改情况报告后，我局再行准予资质延续。<br>    <br>    三、对以下工作质量较差的单位予以通报批评：<br>    <br>    （一）核工业第四研究设计院（原证书编号为国环评证甲字第1205号）：中粮生化能源(衡水)有限公司30万吨/年燃料乙醇项目环境影响报告书编制质量较差，存在现状监测因子和恶臭源分析预测不全面、未提出总量区域削减措施和地下水污染防治措施等问题，在审查过程中被我局退回。<br>    <br>    （二）松辽水环境科学研究所（原证书编号为国环评证甲字第1608号）：黑龙江鸡西市青龙山水库项目环境影响报告书编制质量较差，存在水库水温影响预测结论有误，未调查下游河段取用水设施分布情况和工程运行对取用水设施的影响，水质预测内容不全，未明确迁建铁路选线的环境合理性等问题，在审查过程中被我局退回。<br>    <br>    （三）中交第二航务工程勘察设计院有限公司（证书编号为国环评证甲字第2603号）：锦州港第二港池集装箱码头二期工程环境影响报告书编制质量较差，存在环境保护目标描述不清，所引用的渔业资源现状资料针对性不强，未提出渔业资源补偿措施，风险评估内容不全等问题，在审查过程中被我局退回。<br>    <br>    （四）湖北省环境科学研究院（证书编号为国环评证甲字第2606号）：湖北泰盛化工有限公司20000吨/年草苷膦项目环境影响报告书编制质量较差，存在选址可行性论证、现状监测和风险评价内容不全面等问题，在审查过程中被我局退回。<br>    <br>    （五）广西壮族自治区环境保护科学研究所（证书编号为国环评证甲字第2902号）：西部开发省际公路通道阿荣旗至北海公路六寨至河池段工程环境影响报告书编制质量较差，存在比选方案结论依据不足，噪声敏感点分布情况描述不清，噪声预测和防治措施缺乏可信性和针对性，工程沿线野生动物分布现状调查不清等问题，在审查过程中被我局退回。<br>    <br>    （六）伊犁哈萨克自治州水利电力勘测设计研究院（证书编号为国环评证乙字第4002号）：所抽查的新汶矿业集团(伊犁)泰山阳光新型建材有限责任公司300万平方米陶瓷生产线项目环境影响报告表编制质量较差，存在排放标准不清，环境影响预测漏项，源强计算错误，污染因子分析不全等问题。<br>    <br>    上述单位应切实建立和完善内部管理机制，落实内部管理措施，努力提高业务水平。六家单位向我局提交整改情况报告后，我局方予受理其编制的其他项目环境影响报告书或准予其资质延续。<br>    <br>    目前，环境影响评价队伍中仍存在不了解环境影响评价相关规定、不按规定开展工作以及工作中不负责任和水平不高等问题，环境影响评价单位要进一步提高认识，增强社会责任感，要针对行业发展新形势和管理新要求，不断加强学习和研究，加强职业道德建设和业务能力建设，不断提升工作水平。同时，环境影响评价单位在从业过程中要遵循行业规范，防止为获取经济利益而违背职业道德和市场公平竞争规则的情况发生。环保部门亦应在环境影响报告书（表）受理时核实编制单位的环境影响评价资质，并在日常建设项目审批中加强对环境影响评价单位的监督指导。   <br><br>    二○○七年二月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

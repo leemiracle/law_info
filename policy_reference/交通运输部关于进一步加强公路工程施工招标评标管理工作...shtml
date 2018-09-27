@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通运输部<BR>&nbsp;&nbsp;【发布文号】交公路发【2008】261号<BR>&nbsp;&nbsp;【发布日期】2008-08-18<BR>&nbsp;&nbsp;【生效日期】2008-08-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhuzhan/zhengwugonggao/jiaotongbu/gongluguanli/200808/t20080829_517802.html" target=_blank>交通运输部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通运输部关于进一步加强公路工程施工招标评标管理工作的通知<br><br></font>(交公路发【2008】261号)</p><br> <br>  <br>各省、自治区、直辖市交通厅（委），上海市市政工程管理局、天津市市政公路管理局、新疆生产建设兵团交通局：<br>    近年来，随着公路建设招投标制度的不断完善和规范，各地交通主管部门加强了对招投标活动的监督管理，公路工程施工招投标工作总体情况良好。但仍存在一些问题：一是招标文件中废标条款不明确，使得废标存在随意性，引发各方争议；二是部分项目评标委员会不认真履行职责，未对全部投标文件进行审查，而是采用抽查方式验证清标结果，甚至直接采用清标结果进行评标；三是评标时间短，造成评标深度不够；四是部分地方交通主管部门未认真履行监督职责，对非法干涉评标的行为不闻不问。这些问题的存在严重影响了评标活动的公平和公正性，扰乱了公路建设市场秩序。为确保评标工作质量，保护招标投标活动当事人的合法权益，现就进一步加强公路工程施工招标评标管理工作的有关事项通知如下：<br>    一、认真编制招标文件，合理设置评标标准。招标人在招标文件中应合理设置评标标准和方法，评标标准和方法不得含有倾向性或排斥潜在投标人的内容，不得妨碍或者限制投标人之间的公平竞争。招标文件载明的废标条款应符合有关法律、法规、规章的要求，废标条款的文字表述应具体、清晰、易懂、无争议，且以醒目的方式予以提示，不得使用原则性的、模糊的或者容易引起歧义的词句。<br>    除省级及以上交通主管部门作出的取消投标资格或禁止进入公路建设市场且处于有效期内的行政处罚外，招标人不得以其他任何条件限制潜在投标人参与投标。<br>    二、严格依法评标。清标工作应全面、客观、准确，不得营私舞弊、歪曲事实或不公正对待投标人。清标结果应当如实反映投标文件与招标文件规定的响应情况，不得故意遗漏或片面摘录，不得对投标文件作出任何评价，不得提出倾向性意见。清标工作组对清标结果负责。<br>    评标委员会应根据招标文件规定，对清标工作组提供的评标工作用表认真核对，有与招标文件不一致的内容要进行修正，对清标工作组的清标结果要认真复核，全面评审。清标结果仅供评标委员会参考，不得直接据此评标。评标委员会应在评标报告中对清标工作进行评价，并特别注明清标结果是否有倾向性、不公正、遗漏和重大偏差的现象。<br>    评标委员会应根据评标工作量和工程特点，制定工作计划，明确分工，交叉评审，评标委员会主任委员负责组织协调各成员的评标工作。评标委员会应当根据招标文件规定的评标标准和方法，对投标文件进行系统评审和比较，招标文件没有规定的标准和方法不得作为评标的依据。<br>    评标委员会成员应当严谨、客观、公正地履行职责，遵守职业道德，对所提出的评审意见负责。评标委员会成员和其他参与评标活动的人员在评标过程中不得发表有倾向性或诱导、影响其他评标专家的言论。评标委员会应对投标文件进行全面检查，对发现的问题不符合招标文件中的废标条款或评标委员会三分之二以上成员认为不属于重大偏差的，不得废标，可以通过澄清和酌情扣分的方式处理。<br>    招标人应保证评标工作在严格保密的情况下进行，所有参与评标活动的人员不得泄露评标的有关信息。任何单位和个人不得非法干预、影响评标工作。<br>    三、保证合理的评标时间。评标工作时间应由评标委员会根据评标工作量确定，原则上不得少于2天。招标人不得指定或限制评标时间。<br>    四、加强监管，严格责任追究。各地交通主管部门要认真履行监管职责，强化对招投标备案资料和评标活动的监督，坚决杜绝任何干预或诱导评标委员会评标的行为，对发现的评标过程中有营私舞弊或不公正对待投标人行为，以及泄露与评标工作有关信息的，要依法追究相关人员责任。同时，要认真受理公路工程招投标活动中的投诉举报，查处违法行为，确保评标工作公平、公正。<br>    部将结合招标投标专项督查活动对评标工作进行重点检查，对发现的问题在全国通报。<br><br>中华人民共和国交通运输部<br>二○○八年八月十八日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

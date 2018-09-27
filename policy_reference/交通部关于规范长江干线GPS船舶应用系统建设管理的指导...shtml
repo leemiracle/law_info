@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交科教发[2005]281号<BR>&nbsp;&nbsp;【发布日期】2005-06-24<BR>&nbsp;&nbsp;【生效日期】2005-06-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhengwu/zhengwu/t20050629_24247.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于规范长江干线GPS船舶应用系统建设管理的指导意见<br><br></font>(交科教发[2005]281号)</p><br> <br>  <br>各有关省、自治区、直辖市交通厅（局、委），长江航务管理局，部海事局，中国船级社，长江航运（集团）总公司，各有关港航管理机构、港航企业：<br><br>    为规范长江干线GPS船舶应用系统的建设和管理，解决建设发展中出现的开发各自为政，系统难以兼容，资源无法共享，建设投入增大等问题，推动长江航运GPS技术的广泛应用并促其健康有序发展，切实减轻航运企业负担，特提出如下指导意见：<br><br>    一、GPS技术的应用能有效改善航运行政管理，提升航运生产管理的科技含量，对加强水上安全管理、提升船舶安全意识，提高航运企业效益起到了积极推动作用，有利于长江航运生产力的发展。在相关条件和政策具备的情况下，鼓励并引导该技术在长江干线水上安全管理和航运生产调度等业务中广泛运用。<br><br>    二、长江干线GPS船舶应用系统主要分为公共服务系统和内部管理系统。公共服务系统主要用于政府部门行政管理，提供航运安全、船舶动态等服务；内部管理系统主要用于单位内部的管理，以满足生产、经营和管理的需要。满足公共服务要求的基本信息，一般包括船舶识别属性和船舶动态等信息。<br><br>    三、公共服务系统建设必须遵循一条船只安装一台公共服务系统船载设备的原则，按照信息共享要求，开放通信协议和解码标准，统一数据格式，相互兼容船载设备，实现互联互通。内部管理系统的开发，要按照公共服务信息共享的要求，实现与公共服务系统的联通，以减少船载设备的重复安装。<br><br>    四、交通部长江航务管理局负责统筹规划长江干线GPS船舶应用系统的建设和管理工作；组织开发航运公共基础信息资源，规范长江干线GPS船舶应用系统公共服务信息传输格式和交换协议，规范长江航运信息服务市场，为航运管理部门、企业及社会公众提供公益性服务；研究、协调解决推广应用中的有关问题。<br><br>    五、长江干线各航运行政管理部门要加强自我约束，规范公共服务系统的建设和管理行为，维护船方的正当权益。应允许企业自主选择船载设备和运营服务商，管理部门不得违规提出强制性要求，干预企业正常经营。向社会提供公众服务的成本费，应依据相关规定适当收取，不得额外变相收费。<br><br>    六、交通部有关行政主管部门将加紧研究制定船舶配备GPS应用系统的船检规范和相关政策规定，为长江干线船舶GPS技术的推广应用提供法规依据。<br><br>    请各单位认真贯彻执行，并做好宣传和落实工作，积极沟通、互相协调，切实规范长江干线GPS船舶应用系统建设和管理，确保长江航运信息化有序健康发展。长江水系支流、湖泊水域，其它内河流域同类系统的建设和管理可参照本意见执行。<br><br>中华人民共和国交通部<br>二○○五年六月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办〔2008〕13号<BR>&nbsp;&nbsp;【发布日期】2008-02-02<BR>&nbsp;&nbsp;【生效日期】2008-02-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200802/t20080214_57116.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅关于成立省政府煤电油运和抢险抗灾应急指挥中心的通知<br><br></font>(闽政办〔2008〕13号)</p><br>    <br><br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业：<br><br>    为应对当前低温雨雪冰冻灾害，做好我省煤电油运和抢险抗灾工作，按照《国务院办公厅关于成立国务院煤电油运和抢险抗灾应急指挥中心的通知》（国办发〔2008〕7号）要求，经省政府研究，决定成立省政府煤电油运和抢险抗灾应急指挥中心（以下简称“指挥中心”）。现将有关事项通知如下：<br><br>    一、主要职责<br><br>    （一）及时掌握全省煤电油运和抢险抗灾有关方面的综合情况。<br><br>    （二）协调解决全省煤电油运和抢险抗灾的重大突发问题。<br><br>    （三） 督促各设区市、各有关部门和单位落实有关政策措施。<br><br>    （四）向省委、省政府报告协调会商的综合情况。<br><br>    （五）建立新闻发布制度，统一发布政府信息。<br><br>    二、组成人员<br><br>    总   指   挥：李  川     省政府副省长<br><br>    常务副总指挥：徐  钢    省经贸委、国资委主任<br><br>    副 总 指 挥：马跃征     省民政厅厅长<br><br>    林宝金      省政府副秘书长<br><br>    成       员：钟安平      省经贸委副主任、食安办主任<br><br>    马鉴康      省经贸委副主任<br><br>    李德金      省发改委副主任、重点办主任<br><br>    刘剑津      省委教育工委副书记<br><br>    陈永共      省委农办副主任<br><br>    戴滨辉      省军区副参谋长<br><br>    李  清      省公安厅副厅长<br><br>    黄新銮      省财政厅总会计师<br><br>    王兆飞      省交通厅副厅长<br><br>    严效东      省信息产业厅副厅长<br><br>    张天明      省水利厅副厅长<br><br>    檀云坤      省农业厅副厅长<br><br>    黄家铭      省林业厅副厅长<br><br>    陈文加      省卫生厅副厅长<br><br>    翁玉耀      省建设厅副厅长<br><br>    赖诗卿      省劳动保障厅副厅长<br><br>    蔡万源      武警福建总队副总队长<br><br>    林作明      省物价局副局长<br><br>    陈乙熙      省工商局副局长<br><br>    李毅强      省旅游局副局长<br><br>    陈松青      省口岸与海防办副主任<br><br>    卢承圣      省政府新闻办副主任<br><br>    陆昌鼎      省交警总队总队长<br><br>    施惠财      省安监局副局长<br><br>    杨锦炎      省通信管理局局长<br><br>    林新彬      省气象局副局长<br><br>    李  伟      福建海事局副局长<br><br>    丁明干      福建煤监局副局长<br><br>    李志峰      民航福建监管办主任<br><br>    张建平      福州电监办副主任<br><br>    孙样生      南昌铁路局福州办事处副主任<br><br>    许新生      省电力有限公司副总经理<br><br>    周联清      省煤炭工业（集团）公司董事长<br><br>    唐建辉      省高速公路有限公司董事长<br><br>    廉小强      省交通运输（控股）公司总经理<br><br>    黄宪培      华电福建发电有限公司总经理<br><br>    王  琴      中石化森美（福建）石油公司副总经理<br><br>    陈克雄      中石油福建销售分公司福州公司经理<br><br>    三、指挥中心工作机构及有关要求<br><br>    （一）指挥中心下设办公室，办公室设在省经贸委，办公室主任由徐钢同志兼任，副主任由钟安平、马鉴康同志兼任。指挥中心各成员单位确定一名处级干部为联络员，具体人员名单抓紧报送指挥中心办公室。<br><br>    （指挥中心办公室日常联系电话：0591-87853875；传真：0591-87832628）<br><br>    （二）各设区市政府要成立相应的工作机构，负责统筹协调本地区煤电油运和抢险抗灾各方面工作。<br><br>    （三）各设区市、各有关部门和单位每日下午17：30前将前日及当日有关情况报送指挥中心办公室，重大突发问题及时报告。<br><br>    （四）指挥中心实行会商制度，各成员单位要积极参加会商，密切配合，相互支持，形成合力，确保煤电油运和抢险抗灾工作有序进行。<br><br>福建省人民政府办公厅<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

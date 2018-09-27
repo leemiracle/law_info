@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发〔2006〕337号<BR>&nbsp;&nbsp;【发布日期】2006-08-28<BR>&nbsp;&nbsp;【生效日期】2006-08-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12828&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于河南省洛阳东方医院和河北省秦皇岛军工医院违规行为查处情况的通报<br><br></font>(卫监督发〔2006〕337号)</p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br>    全国开展打击非法行医专项行动以来，各地按照专项行动要求，加强领导，加大执法力度，严厉打击非法行医行为，医疗服务市场有一定好转。但是，非法行医在部分地区还不同程度发生。近期，河南省卫生厅、河北省卫生厅分别对洛阳东方医院、秦皇岛军工医院的违法违规行为进行了查处，并依纪依法做出严肃处理。现将有关情况通报如下：<br>    一、河南省洛阳东方医院违规行医案。洛阳东方医院于2005年4月，擅自引进迷走神经分离术治疗类风湿性关节炎，造成一部分患者术后病情加重。2005年9月，河南省卫生监督所曾责令该院停止开展此项手术，但该院置之不理，在今年4月前又先后做了4例此类手术。同时，该院在媒体上发布未经审批的医疗广告，夸大疗效宣传，误导患者，在社会上造成了严重影响。中央电视台生活栏目于今年4月对此事进行了曝光。 <br>    根据《医疗机构管理条例》、《中华人民共和国执业医师法》和《卫生部关于打击非法行医专项行动责任追究的意见》， 洛阳市卫生局对洛阳东方医院给予通报批评；同时，给予该院罚款3000元、没收违法所得11640元的行政处罚；对东方医院业务副院长、骨伤科主任、主刀医师赵为民和执业医师周海洋给予暂停执业活动六个月的行政处罚。中国一拖集团有限公司对负有领导责任的东方医院院长杨黎红给予行政警告处分，对业务副院长赵为民给予行政记过处分。东方医院对在该院委托广告公司发布医疗广告工作中负有监管责任的该院宣传科科长庞海燕给予通报批评、扣发三个月奖金的处理。<br>    二、河北省秦皇岛军工医院出租承包科室案。秦皇岛军工医院自2005年4月起，擅自与外单位人员赵××、刘××、陆××等个人签定协议，合作开设中医肝病科、激光科、美容科、男性科和皮肤科，开展非法诊疗活动。合作科室实行经济独立核算，收益按比例分成，定期向医院缴纳管理费。同时，合作科室管理混乱，私自收费和售药，出具虚假诊断证明，聘用非卫生技术人员执业。<br>    河北省卫生厅对秦皇岛军工医院作出了立即查封合作科室，责令停止承包行为，依法没收非法所得296811元，罚款8000元的行政处罚；对合作方的处罚正在进行中。同时，鉴于秦皇岛市卫生局对秦皇岛军工医院执业活动监管不力、执法不严，秦皇岛市卫生监督所存在对违法违规案件事实调查不清、处罚程序不当、适用法律条文不准、行政处罚不到位等问题，河北省卫生厅也在全省予以通报批评，取消2006年度打击非法行医专项工作评先资格；责成秦皇岛市卫生局立即组织开展一次医疗市场的监督检查。<br>    各级卫生行政部门和卫生监督机构要以此为鉴，总结经验教训，认真查找工作中存在的问题，采取有力措施，切实推进打击非法行医专项行动工作。要按照全国打击非法行医专项行动的要求，进一步加强领导，提高认识，落实责任。要抓住打击非法行医专项行动的工作重点，结合当地实际，加大打击非法行医的工作力度。对政府举办医疗机构存在的违法违规行为，在依法做出行政处罚的同时，还要按照《卫生部打击非法行医专项行动责任追究的意见》（卫监督发〔2005〕45号），依纪依法追究有关负责人和相关责任人的责任；对卫生行政部门、卫生监督机构监管不力的，也要追究责任；涉嫌犯罪的，要及时移送司法机关。<br><br>二○○六年八月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

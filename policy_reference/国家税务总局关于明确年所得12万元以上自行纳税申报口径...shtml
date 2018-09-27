@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2006〕1200号<BR>&nbsp;&nbsp;【发布日期】2006-12-15<BR>&nbsp;&nbsp;【生效日期】2006-12-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480498/n575817/4718818.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于明确年所得12万元以上自行纳税申报口径的通知<br><br></font>(国税函〔2006〕1200号)</p><br><br><br>各省、自治区、直辖市和计划单列市地方税务局，西藏、宁夏自治区国家税务局：?<br>    《国家税务总局关于印发〈个人所得税自行纳税申报办法（试行）〉的通知》（国税发〔2006〕162号，以下简称《办法》）下发后，部分地区要求进一步明确年所得12万元以上的所得计算口径。现就有关问题通知如下：?<br>    一、年所得12万元以上的纳税人，除按照《办法》第六条、第七条、第八条规定计算年所得以外，还应同时按以下规定计算年所得数额：?<br>    （一）劳务报酬所得、特许权使用费所得。不得减除纳税人在提供劳务或让渡特许权使用权过程中缴纳的有关税费。?<br>    （二）财产租赁所得。不得减除纳税人在出租财产过程中缴纳的有关税费；对于纳税人一次取得跨年度财产租赁所得的，全部视为实际取得所得年度的所得。?<br>    （三）个人转让房屋所得。采取核定征收个人所得税的，按照实际征收率（1%、2%、3%）分别换算为应税所得率（5%、10%、15%），据此计算年所得。?<br>    （四）个人储蓄存款利息所得、企业债券利息所得。全部视为纳税人实际取得所得年度的所得。?<br>    （五）对个体工商户、个人独资企业投资者,按照征收率核定个人所得税的，将征收率换算为应税所得率，据此计算应纳税所得额。?<br>    合伙企业投资者按照上述方法确定应纳税所得额后，合伙人应根据合伙协议规定的分配比例确定其应纳税所得额，合伙协议未规定分配比例的，按合伙人数平均分配确定其应纳税所得额。对于同时参与两个以上企业投资的，合伙人应将其投资所有企业的应纳税所得额相加后的总额作为年所得。?<br>    （六）股票转让所得。以一个纳税年度内，个人股票转让所得与损失盈亏相抵后的正数为申报所得数额，盈亏相抵为负数的，此项所得按“零”填写。?<br>    二、上述年所得计算口径主要是为了方便纳税人履行自行申报义务，仅适用于个人年所得12万元以上的年度自行申报，不适用于个人计算缴纳税款。各级税务机关要向社会广泛宣传解释12万元以上自行申报年所得的计算口径。?<br>    三、按照《办法》第二十四条规定：“纳税人可以委托有税务代理资质的中介机构或者他人代为办理纳税申报”。年所得12万元以上的纳税人，在自愿委托有税务代理资质的中介机构（以下简称中介机构）、扣缴义务人或其他个人代为办理自行纳税申报时，应当签订委托办理个人所得税自行纳税申报协议（合同），同时，纳税人还应将其纳税年度内所有应税所得项目、所得额、税额等，告知受托人，由受托人将其各项所得合并后进行申报，并附报委托协议（合同）。?<br>    税务机关受理中介机构、扣缴义务人或其他个人代为办理的自行申报时，应审核纳税人与受托人签订的委托申报协议（合同），凡不能提供委托申报协议（合同）的，不得受理其代为办理的自行申报。<br>        <br>                                                        国家税务总局<br>                                                    二○○六年十二月十五日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

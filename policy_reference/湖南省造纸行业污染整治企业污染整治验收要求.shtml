@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖南省<BR>&nbsp;&nbsp;【发布文号】湘环发〔2008〕12号<BR>&nbsp;&nbsp;【发布日期】2008-02-18<BR>&nbsp;&nbsp;【生效日期】2008-02-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hunan.gov.cn/zwgk/zfwj/bmwj/200807/t20080721_110404.htm" target=_blank>湖南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖南省造纸行业污染整治企业污染整治验收要求<br> <br></font>(湘环发〔2008〕12号)</p><br><br>  <br>各市州环保局，各造纸企业： <br>    为进一步抓好全省造纸企业污染整治工作，根据湖南省人民政府办公厅《湖南省造纸企业污染整治专项行动方案》的要求，现将《湖南省造纸行业污染整治企业技术改造项目环保审批规定》和《湖南省造纸行业污染整治企业污染整治验收要求》印发给你们，请你们遵照执行，执行中的有关情况，请及时上报省环保局。 <br>    附件：1、《湖南省造纸行业污染整治企业技术改造项目环保审批规定》 <br>    2、《湖南省造纸行业污染整治企业污染整治验收要求》 <br><br>湖南省环境保护局 <br>二○○八年二月十八日 <br><br><br>湖南省造纸行业污染整治企业污染整治验收要求 <br><br>    根据《湖南省人民政府关于落实科学发展观切实加强环境保护的决定》和湖南省人民政府办公厅《关于印发湖南省造纸企业污染整治专项行动方案的通知》（湘政办函〔2007〕208号）的有关规定，经研究，制定湖南省造纸行业污染整治企业污染整治验收要求。 <br>    一、关闭企业要求 <br>    根据《湖南省造纸企业污染整治专项行动方案》的明确要求，对于关闭取缔的企业，在企业拆除生产设备的同时，工商部门负责注销或吊销其营业执照，电力部门对其实行停止供应生产用电、断电措施，金融部门不予办理信贷业务。 <br>    二、停产治理企业验收程序和相关规定 <br>    （一）整治或技改项目竣工后，建设单位应向原审批该项目环评文件的环保行政主管部门申请进行试生产，环保行政主管部门应当自收到企业试生产申请之日起5个工作日内对企业试生产进行批复，企业获得准许试生产批复后方可进行试生产。 <br>    （二）项目试生产期间，建设单位应当委托环境监测部门对项目环保设施运行情况和项目对环境的影响进行监测。环境监测部门应当自接受委托申请之日起30日内完成验收监测。省环境监测中心站负责组织制浆造纸企业的验收监测；各市环境监测站负责组织本市辖区内废纸造纸企业的验收监测，省站予以指导。 <br>    （三）建设单位应自试生产之日起1个月内完成排污申报登记。 <br>    （四）建设单位应自试生产之日起3个月内向原审批该项目环评文件的环保行政主管部门申请项目竣工环境保护验收。环保行政主管部门应当自收到验收申请之日起30日内，完成验收。 <br>    三、停产治理企业验收要求 <br>    （一）建设项目环境保护审批手续齐全。 <br>    （二）生产规模：制浆造纸企业必须达到5万吨／年以上（含5万吨）的生产规模；废纸造纸必须达到1万吨／年以上（含1万吨）的生产规模。同时企业必须由有稳定的原材料来源。 <br>    （三）企业污染物达标排放 <br>    1、企业生产废水的处理 <br>    （1）制浆造纸企业必须做到浆纸平衡，建有碱回收系统，碱回收系统的固形物处理能力与企业制浆能力配套；木浆造纸技改项目黑液提取率达到92％以上，碱回收率达到90％以上；非木浆造纸技改项目黑液提取率达到80％以上，碱回收率达到70％以上。 <br>    （2）制浆造纸企业必须建有相应容积的黑液事故应急池，确保避免黑液事故性排放。 <br>    （3）制浆造纸企业及废纸造纸企业须配套建设白水回收系统，白水回收率大于90％。企业的综合废水在采用以生化法为主的两级处理方法后水质、排水量达到国家排放标准后排放。废纸造纸废水处理采用闭路循环工艺的，循环水进水ＣＯＤ浓度必须控制在150ｍｇ／1以下。 <br>    2、企业生产废气的处理 <br>    （1）碱炉、锅炉配套安装脱硫、除尘设施，烟气经处理后达标排放，排气筒高度符合要求。 <br>    （2）备料工序产生的粉尘经除尘净化后达标排放，排气筒高度符合要求。 <br>    3、企业生产过程产生的工业固废的处理 <br>    （1）对苇灰渣、苇浆渣、锅炉炉渣进行综合利用。 <br>    （2）废水处理产生的污泥、石灰渣、绿泥、白泥等固体废物按要求妥善处置。新建的渣场及企业原有渣场的整改要达到《一般工业固体废物贮存、处置场污染控制标准》的相关要求。 <br>    4、企业厂界噪声达标。 <br>    （四）区域无相关环境制约因素：选址不在各类保护区范围内；区域有环境容量。项目排污总量纳入当地总量控制范围。 <br>    （五）安装污染源在线监控系统 <br>    1、依照《湖南省污染源自动监控管理办法》的有关规定配套安装水（气）污染源自动监控系统，并同步建设运行。 <br>    2、安装的废水污染源自动监控系统必须保障能有效的对外排废水中ＣＯＤ、ＳＳ、ＰＨ、流量等主要污染因子和参数进行在线监测；安装的废气污染源自动系统必须保障能有效的对外排锅炉烟气中的ＳＯ2、烟尘等主要污染物进行实时监测；同时与省、市、县三级环境保护行政主管部门联网运行。 <br>    3、污染源自动监控系统设备选型要严格按照省环保局《关于推荐第一批全省污染源自动监控系统建设主要仪器设备产品名录的通知》（湘环发〔2006〕56号）的要求执行。 <br>    4、污染源自动监控系统实行社会化营运管理，统一由省环保局招标有资质的运营公司从验收合格之日起运营管理。 <br>    （六）实施厂区环境综合整治。 <br>    1、厂区内污水收集和排放系统等各类污水管线设置清晰，企业须采取雨污分流和循环水、污水分流系统，减少生产过程中的跑、冒、滴、漏。 <br>    2、企业煤场须采取雨棚覆盖措施，不得露天堆存。 <br>    （七）验收监测符合《建设项目环境保护设施竣工验收监测技术要求》、《环境监测技术规范》等相关要求，验收监测时须达到75％的工况。 <br>    四、本文件由省环保局负责解释。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

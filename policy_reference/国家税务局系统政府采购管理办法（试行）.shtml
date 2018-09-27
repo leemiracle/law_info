@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]210号<BR>&nbsp;&nbsp;【发布日期】2005-12-05<BR>&nbsp;&nbsp;【生效日期】2005-12-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200601121436429747" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务局系统政府采购管理办法（试行）<br><br></font>(国税发[2005]210号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局，扬州税务进修学院，局内各单位：<br><br>    为了加强国家税务局系统政府采购管理，规范政府采购行为，明确职责范围，提高采购效率，促进廉政建设，根据《中华人民共和国政府采购法》等相关法律、法规和规章，国家税务总局制定了《国家税务局系统政府采购管理办法（试行）》。现印发给你们，请遵照执行。<br><br>                                     国家税务总局<br>                                  二○○五年十二月五日<br><br><br>国家税务局系统政府采购管理办法（试行）<br><br><font class='zhang'>第一章</font>  总   则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了加强国家税务局系统（以下简称国税系统）政府采购管理，规范政府采购行为，明确职责范围，提高采购效率，促进廉政建设，根据《<a href=javascript:ROF(76235,0) class=alink>中华人民共和国政府采购法</a>》（以下简称《政府采购法》）等相关法律、法规和规章，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 国税系统政府采购是指国税系统的采购人按照政府采购法律、法规和规章制度规定的方式和程序，使用财政性资金（包括预算内资金、预算外资金和其他配套资金），采购国务院公布的《政府集中采购目录》内、总局制定的《国家税务局系统部门集中采购目录》内或者采购限额标准以上的货物、工程和服务的行为。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 国税系统的采购人是指具有预算单位资格的各级国家税务局和所属单位。<br><br><font class='zhang'>第二章</font>  组织机构和职责<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 国税系统政府采购工作主要通过国家税务总局与省级局两级工作架构组织实施。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 各级国家税务局的政府采购工作实行内部统一管理，应指定专门机构全面负责政府采购工作。<br><br>    （一）国家税务总局集中采购中心主管国税系统的政府采购工作，承担国税系统的政府集中采购和部门集中采购，负责国税系统政府采购业务工作的指导、监督和管理。<br><br>    （二）各级国家税务局应当根据内设机构的实际情况和采购工作的需要，明确政府采购工作的主管机构，并参照《国家税务总局机关政府采购各部门（机构）职责和工作规程》（附后）确定工作职责。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 国家税务总局政府采购职责<br><br>    （一）制定国税系统政府采购管理制度、实施办法、操作规程；<br><br>    （二）制定《国家税务局系统部门集中采购目录》；<br><br>    （三）编制国税系统的政府采购预算；<br><br>    （四）编制国税系统的政府采购实施计划；<br><br>    （五）统一组织实施国税系统政府集中采购和部门集中采购工作；<br><br>    （六）按规定权限或经授权对国税系统的政府采购活动实施管理，指导和监督国税系统政府采购工作；<br><br>    （七）按规定统一向有关部门报送本部门或本系统政府采购的审批或备案文件、执行情况和信息统计报表；<br><br>    （八）《政府采购法》等法律、法规和规章规定的其他职责。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 省以下（含省级）国家税务局政府采购职责<br><br>    （一）制定本系统政府采购管理制度、实施办法、操作规程；<br><br>    （二）编制、审核、汇总、报送本系统政府采购预算；<br><br>    （三）编制、审核、汇总、报送本系统政府采购实施计划；<br><br>    （四）组织政府采购项目实施工作，依法签订和履行政府采购合同；<br><br>    （五）按规定权限或经授权对本系统政府采购活动实施管理，指导和监督本系统政府采购工作；<br><br>    （六）审核、报送规定的审批或备案文件、执行情况和信息统计报表；<br><br>    （七）国家税务总局规定的其他职责。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 省以下各级国家税务局之间政府采购职责的具体划分，由各省国家税务局确定。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  国税系统的政府采购工作实行岗位责任制度，应当设立综合管理岗位、项目操作岗位、审核监督岗位、合同执行岗位等四个政府采购岗位。<br><br>    省级国家税务局应当根据工作需要配备一定数量的专职人员。其中综合管理岗位、合同执行岗位应当实行专岗专人配置，政府采购项目操作岗位根据工作量实行一岗多人配置。<br><br>    地市级国家税务局应当配置专人负责政府采购工作。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  综合管理岗位职责：拟定政府采购规章制度，界定采购组织形式和采购方式，界定政府集中采购项目、部门集中采购项目、分散采购项目，编制政府采购实施计划，办理备案和审批事项，拟定质疑答复意见等。 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  项目操作岗位职责：组织实施政府采购项目招标、谈判、询价的具体业务，拟制政府采购合同等。 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 审核监督岗位职责：审核采购合同，管理采购文件，监督、检查所属单位的政府采购活动等。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  合同执行岗位职责：办理合同验收、采购资金的支付与结算手续，编报采购信息报表等。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  各省和地市级国税部门应根据本单位政府采购工作的实际需要，设立政府采购领导小组和采购工作组，建立政府采购内部运行机制。政府采购领导小组和采购工作组的组成和职责，可以参照《国家税务总局机关政府采购各部门（机构）职责和工作规程》确定。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  国税系统的采购人自行组织项目采购的，应当按照有关规定确定项目的采购方式，并组建项目评标委员会、谈判小组、询价小组。项目评标委员会、谈判小组、询价小组的组成和职责应当按照《政府采购法》等法律、法规和规章的规定执行。<br><br><font class='zhang'>第三章</font>  政府采购组织形式<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 国税系统政府采购组织形式分为政府集中采购、部门集中采购和分散采购。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  政府集中采购，是指国税系统的采购人采购《政府集中采购目录》内项目的采购活动。<br><br>    国家税务总局集中采购中心根据《政府集中采购目录》确定当年度国税系统政府集中采购项目，明确划分国家税务总局与省级局的执行范围。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  部门集中采购，是指国家税务总局集中采购中心统一组织实施《国家税务局系统部门集中采购目录》内项目的采购活动。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  分散采购，也称单位自行采购，是指国税系统的采购人采购《政府集中采购目录》和《国家税务局系统部门集中采购目录》以外、采购限额标准以上项目的采购活动。<br><br>    （一）采购限额标准按照《政府集中采购目录》规定执行；<br><br>    （二）分散采购的实施办法，由国税系统的采购人制定；<br><br>    （三）分散采购可以委托当地政府的集中采购机构或财政部、省级人民政府认定资格的政府采购代理机构采购。实行委托采购的，应当与代理机构签订书面委托代理协议，依法确定委托代理事项，约定双方的权利义务。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 国税系统的政府集中采购和部门集中采购，由国家税务总局集中采购中心根据当年度国税系统集中采购项目，通过组织招标、定点采购、跟标采购、协议供货以及授权采购的方式实施。<br><br>    （一）国税系统的协议供货、定点采购等采购方式通过“中国税务政府采购网 ”（http：//www.ctaxnews.com.cn/swcg）进行信息公布、在线交易和管理，具体实施办法另行制定；<br><br>    （二）授权采购是指国税系统的采购人采购《政府集中采购目录》和《国家税务局系统部门集中采购目录》中的项目，在取得国家税务总局集中采购中心授权后组织实施的采购活动。<br><br>    国家税务总局集中采购中心以总局文件方式进行授权或通过采购人填报《国家税务局系统集中采购项目授权采购审批表》方式进行授权。<br><br><font class='zhang'>第四章</font>  采购方式和采购程序管理<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 国税系统政府采购采用以下方式：<br><br>    公开招标、邀请招标、竞争性谈判、单一来源采购、询价，经财政部授权，国家税务总局认定的其他方式。<br><br>    公开招标、邀请招标、竞争性谈判、单一来源采购、询价采购的适用条件和标准，按照《政府采购法》第三章有关条款的规定执行。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 国税系统政府采购应当以公开招标为主要的采购方式。公开招标数额标准按照《政府集中采购目录》执行。        <br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 省级国家税务局组织实施的采购项目，预算达到公开招标数额标准而需要采取公开招标以外的采购方式的，应当报国家税务总局核准后执行。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 招标采购、谈判采购、询价采购的程序应当按照《政府采购法》和《政府采购货物和服务招标投标管理办法》的规定执行。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 国税系统的采购人应当按照《政府采购法》有关规定，建立内部采购工作程序，主要内容包括： <br><br>    （一） 政府采购事项内部决策程序<br><br>    1.政府采购领导小组<br><br>    2.政府采购工作组<br><br>    3.集中采购部门<br><br>    （二）政府采购事项内部协调程序<br><br>    （三）政府采购内部监督程序<br><br>    （四）政府采购项目操作程序（流程）<br><br>    1.采购项目立项审批程序<br><br>    2.业务需求提交程序<br><br>    3.技术方案提交程序<br><br>    4.采购方式确定程序<br><br>    5.公开招标采购程序<br><br>    6.邀请招标采购程序<br><br>    7.废标处理程序<br><br>    8.竞争性谈判采购程序<br><br>    9.单一来源采购程序<br><br>    10.询价采购程序<br><br>    11.委托代理机构采购程序<br><br>    12.合同审核及付款程序<br><br>    13.验收程序<br><br>    14.质量问题处理程序<br><br>    15.询问处理程序<br><br>    16.质疑处理程序<br><br>    17.回避申请处理程序<br><br>    18.信息公告程序<br><br><font class='zhang'>第五章</font>  政府采购预算和计划管理<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 国税系统的采购人应当严格按照批准的预算实施政府采购，未列入政府采购预算、未办理预算调整或未追加预算的政府采购项目，不得实施采购。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  国税系统在编制下一财政年度部门预算时，应当将该财政年度政府采购项目及资金预算在预算表中单列，按程序和预算编制要求逐级上报。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  在编制政府采购预算表时，政府集中采购项目按照《政府集中采购目录》确定；部门集中采购项目按照《国家税务局系统部门集中采购目录》确定；分散采购项目由国税系统的采购人确定。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  国税系统的采购人应当根据财政部、国家税务总局或上级国税机关下达的政府采购预算，编制政府采购实施计划。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  国税系统的采购人编制、审核、汇总、报送的政府采购实施计划，包括政府集中采购实施计划、部门集中采购实施计划、分散采购实施计划。<br><br>    （一）政府集中采购实施计划，是指国税系统的采购人根据财政部、国家税务总局或上级国税机关下达的政府采购预算，将本系统属于《政府集中采购目录》中的项目，按照项目构成、使用单位、采购数量、技术规格、使用时间等内容编制的具体采购实施计划。<br><br>    （二）部门集中采购实施计划，是指国税系统的采购人根据财政部、国家税务总局或上级国税机关下达的政府采购预算，将本系统属于《国家税务局系统部门集中采购目录》中的项目，按照项目构成、使用单位、采购数量、技术规格、使用时间等内容编制的具体采购实施计划。<br><br>    （三）分散采购实施计划，是指国税系统的采购人根据财政部、国家税务总局或上级国税机关下达的政府采购预算，将本单位属于分散采购的项目，按照项目构成、使用单位、采购数量、技术规格、使用时间等内容编制的具体采购实施计划。    <br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 政府采购实施计划的编制。<br><br>    （一）国家税务总局在统一布置预算“一上”时，明确《政府采购预算表》、《政府采购预算表》（政府集中采购部分）、《政府采购预算表》（总局部门集中采购部分）、《政府采购预算表》（各省分散采购部分）的编报口径。<br><br>    （二）省级国家税务局在汇总本系统预算“二上”后，根据预算“二上”方案，编制政府采购实施计划草案，上报国家税务总局集中采购中心。<br><br>    （三）国税系统的采购人应当自接到财政部、国家税务总局或上级国税机关下达的预算后，尽快组织政府采购实施计划的编报工作。省级国家税务局应当自接到国家税务总局下达的预算批复之日起30个工作日内，将本系统的政府采购实施计划报送国家税务总局集中采购中心。<br><br><font class='zhang'>第六章</font>  备案和审批管理<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  国税系统政府采购备案和审批管理，是指国家税务总局对国税系统的采购人按规定以文件形式报送备案、审批的有关政府采购文件或采购活动事项，依法予以备案或审批的管理行为。 <br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> 下列事项应当报国家税务总局备案：<br><br>    （一）省级国家税务局制定的本系统政府采购管理制度、实施办法、操作规程；<br><br>    （二）经国家税务总局批准，采用公开招标以外采购方式的执行情况； <br><br>    （三）公开招标数额标准以下、采购限额标准以上的项目实行单一来源采购情况；<br><br>    （四）按规定需要备案的项目评标委员会、谈判小组、询价小组的组成情况；<br><br>    （五）国家税务总局规定的其他需要备案的事项。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 下列事项应当报国家税务总局审批： <br><br>    （一)因特殊情况对达到公开招标数额标准的采购项目需要采用公开招标以外的采购方式的；<br><br>    （二）因特殊情况需要采购非本国货物、服务或工程的；<br><br>    （三）需要审批的授权采购;<br><br>    （四）国家税务总局规定的其他需要审批的事项。    <br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  在备案和审批管理中，国家税务总局根据管理需要，对国税系统采购人的备案或审批管理权限进行授权。<br><br><font class='zhang'>第七章</font>  政府采购合同及档案管理<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a> 政府采购合同（包括采购代理协议，下同），由各级国税系统采购人的法定代表人或授权代表签署。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a> 政府采购合同订立后，原则上不得擅自变更、中止或者终止；订立政府采购合同时，应当明确交纳合同履约保证金的办法。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a> 国税系统的采购人应当按合同约定及时支付采购资金。实行国库集中支付改革的单位，按国库集中支付规定程序办理资金支付。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a> 国税系统的采购人应当加强政府采购基础管理工作，建立采购文件档案管理制度。<br><br><font class='zhang'>第八章</font>  评审专家使用管理<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  评标委员会、谈判小组、询价小组中评审专家的产生，应按照《政府采购法》、《政府采购评审专家管理办法》、《政府采购货物和服务招标投标管理办法》的有关规定执行。<br><br>评审专家应当主要从《中央单位政府采购评审专家库》中抽取产生。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a> 国税系统的采购人按照采购项目的实际需要，聘请评审专家参加采购项目评标委员会、谈判小组、询价小组的，按照以下顺序产生：<br><br>    （一）从财政部建立的《中央单位政府采购评审专家库》中抽取产生；<br><br>    （二）从地方人民政府（采购中心）评审专家库中抽取产生； <br><br>    （三）对特殊项目所需税务业务专家，从《中央单位政府采购评审专家库》、从地方人民政府（采购中心）评审专家库中无法抽取产生的，可从《国家税务局系统政府采购专家库》中抽取产生；<br><br>    （四）按照上述办法仍然无法产生的，由采购人确定。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  国税系统的采购人从《中央单位政府采购评审专家库》、地方人民政府（采购中心）评审专家库以外聘请、产生评审专家的，应当在评标、谈判、询价工作完成后七个工作日内逐级上报国家税务总局集中采购中心备案。<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a> 《国家税务局系统政府采购专家库》的建立、管理、使用办法，另行制定。<br><br><font class='zhang'>第九章</font>  监督检查<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a> 财政部是国家税务局系统政府采购的监督管理部门。<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a>  国家税务总局根据规定的权限对国税系统的采购人政府采购活动依法履行监督检查职责。<br><br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a>  国家税务总局对国税系统的采购人下列政府采购活动进行监督检查：<br><br>    （一）政府采购有关法律、法规、制度、政策的执行情况；<br><br>    （二）《政府集中采购目录》和《国家税务局系统部门集中采购目录》的执行情况； <br><br>    （三）政府采购预算的执行情况； <br><br>    （四）政府采购组织机构、岗位责任制度落实情况；<br><br>    （五）政府采购制度建设情况；<br><br>    （六）政府采购实施计划的编制情况； <br><br>    （七）政府采购信息的发布情况；<br><br>    （八）对供应商质疑的处理情况；<br><br>    （九）政府采购合同的执行情况；<br><br>    （十)政府采购备案或审批事项的落实情况和国家税务总局授权事项的落实情况；<br><br>    （十一）国家税务总局规定的其他事项。<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a> 各级国家税务局的监察部门和内部审计部门应当按照各自职责，对政府采购活动依法进行监督。<br><br>    <a name='48'><font class='TiaoNoA'>第四十八条</font></a> 国税系统的采购人及其工作人员在从事政府采购工作中出现违法违纪违规现象的，依照《政府采购法》等相关法律、法规和规章的规定处理。<br><br><font class='zhang'>第十章</font>  附 则<br><br>    <a name='49'><font class='TiaoNoA'>第四十九条</font></a> 国税系统的政府采购工作适用本办法。 <br><br>    <a name='50'><font class='TiaoNoA'>第五十条</font></a>  本办法未尽事宜，按照《政府采购法》等相关法律、法规、规章和国家税务总局发布的政府采购有关规定执行。<br><br>    <a name='51'><font class='TiaoNoA'>第五十一条</font></a> 各级国家税务局根据本办法，结合政府采购工作的实际，制定实施办法。<br><br>    <a name='52'><font class='TiaoNoA'>第五十二条</font></a> 本办法自发布之日起施行。<br><br>    <a name='53'><font class='TiaoNoA'>第五十三条</font></a> 本办法由国家税务总局负责解释。<br><br>    附件：<a href=javascript:ROF(107422,0) class=alink>国家税务总局机关政府采购各部门（机构）职责和工作规程</a><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

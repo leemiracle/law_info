@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院办公厅<BR>&nbsp;&nbsp;【发布文号】国办发〔2006〕47号<BR>&nbsp;&nbsp;【发布日期】2006-06-15<BR>&nbsp;&nbsp;【生效日期】2006-06-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.tj.gov.cn/szf/index.nsf/showit?openform&unid=F0B054BF11BDFE11C8257193000DECEE" target=_blank>天津市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院办公厅关于加快煤层气（煤矿瓦斯）抽采利用的若干意见<br><br></font>(国办发〔2006〕47号)</p><br><br> <br>各省、自治区、直辖市人民政府，国务院各部委、各直属机构：<br>    煤层气俗称煤矿瓦斯，是宝贵的能源资源。我国高瓦斯、煤与瓦斯突出矿井多，煤矿瓦斯一直是煤矿安全生产的重大隐患。近年来，煤矿重特大瓦斯爆炸事故时有发生，给人民群众生命财产造成了重大损失；同时，未经处理或回收的煤层气直接排放到大气中，也造成了严重的环境污染和资源浪费。为进一步加大煤层气抽采利用力度，强化煤矿瓦斯治理，减轻煤矿瓦斯灾害，经国务院同意，现就加快煤层气抽采利用提出以下意见：<br>    一、加快煤层气抽采利用是贯彻以人为本，落实科学发展观，建设节约型社会的重要体现。必须坚持先抽后采、治理与利用并举的方针，采取各种鼓励和扶持措施，防范煤矿瓦斯事故，充分利用能源资源，有效保护生态环境。<br>    二、煤层气抽采利用项目经各省（区、市）煤炭行业管理部门会同同级人民政府资源综合利用主管部门认定后，可享受有关鼓励和扶持政策。主要包括：井下抽采系统项目，地面钻探、泵站项目，输配气管网项目，煤层气压缩、提纯、储存和销售站点项目，利用煤层气发电、供民用燃烧及生产化工产品项目等。<br>    三、煤层气年输气能力5亿立方米及以上的输气管网项目或跨省（区、市）输气管网项目，由国务院投资主管部门核准；年输气能力5亿立方米以下的输气管网项目，由省级人民政府投资主管部门核准。煤层气发电并网项目，由省级人民政府投资主管部门核准。煤矿企业自采自用煤层气项目，由煤矿企业自主决策，报地方人民政府投资主管部门备案。<br>    四、国土资源管理部门要依法加强对煤层气勘查开采活动的监督管理，严格执行国家关于最低勘探投入量和施工期的基本要求，对达不到要求的，按照《矿产资源勘查区块登记管理办法》的有关规定予以处理。<br>    五、煤层中吨煤瓦斯含量必须降低到规定标准以下，方可实施煤炭开采。煤矿安监局要会同有关部门组织制订具体标准，并加强监督检查。<br>    六、坚持采气采煤一体化，依法清理并妥善解决煤层气和煤炭资源的矿业权交叉问题。凡新设探矿权，必须对煤层气、煤炭资源进行综合勘查、评价和储量认定。煤层中吨煤瓦斯含量高于规定标准且具备地面开发条件的，必须统一编制煤层气和煤炭开发利用方案，并优先选择地面煤层气抽采。煤层气和煤炭资源实施综合勘查、评价和储量认定的具体办法由国土资源部研究制订。<br>    七、限制企业直接向大气中排放煤层气，环保总局要研究制订煤层气大气污染物排放的具体标准，并对超标准排放煤层气的企业依法实施处罚。<br>    八、煤层气抽采利用项目建设用地，按国家有关规定予以优先安排。<br>    九、煤矿企业提取的生产安全费用可用于煤层气井上井下抽采系统建设。<br>    十、统筹规划煤层气和天然气输送管网建设。煤层气经处理后，质量达到规定标准的，可优先并入天然气管网及城市公共供气管网。煤层气售价由供需双方协商确定，各级人民政府价格主管部门要加强监管，防止无序竞争。<br>    十一、煤矿企业利用煤层气发电，可自发自用；多余电量需要上网的，由电网企业优先安排上网销售，不参与市场竞争，发电机组并网前要符合并网的技术要求和电网安全运行的有关标准。利用煤层气发电，其上网电价执行国家价格主管部门批准的上网电价或执行当地火电脱硫机组标杆电价。<br>    十二、进一步加大煤层气抽采利用的科技攻关力度，加大科技投入，有关部门要积极研究制定相关政策措施。<br>    十三、对煤层气抽采利用实行税收优惠政策，具体办法由财政部会同税务总局、发展改革委等有关部门制订。<br>    十四、煤层气抽采利用设备在基准年限基础上实行加速折旧，折旧资金在企业成本中列支。加速折旧的具体比例由税务总局商有关部门研究确定。<br>    十五、对地面直接从事煤层气勘查开采的企业，2020年前可按国家有关规定申请减免探矿权使用费和采矿权使用费。<br>    十六、各级人民政府要积极筹措资金，为煤层气抽采利用项目提供资金补助或贷款贴息。<br><br>国务院办公厅<br>二○○六年六月十五日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

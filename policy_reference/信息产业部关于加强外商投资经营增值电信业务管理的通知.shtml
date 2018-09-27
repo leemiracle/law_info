@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】信息产业部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-07-28<BR>&nbsp;&nbsp;【生效日期】2006-07-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://news.xinhuanet.com/tech/2006-07/28/content_4886944.htm" target=_blank>新华网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>信息产业部关于加强外商投资经营增值电信业务管理的通知<br><br></font>2006年07月28日</p><br> <br> <br>    《<a href=javascript:ROF(38764,0) class=alink>外商投资电信企业管理规定</a>》（国务院令第333号，以下简称《规定》）颁布实施以来，多数外国投资者严格遵守《规定》要求，履行外商投资电信企业设立审批和电信业务经营许可审批等相关审批手续，依法进入我国电信业务市场开展增值电信业务经营活动。但近来，也发现一些外国投资者通过域名授权、注册商标授权等形式，与境内增值电信公司规避《规定》要求，在我国境内非法经营增值电信业务。为进一步加强外商投资经营增值电信业务有关管理工作，维护公平的市场环境，现将有关问题通知如下：<br><br>    一、外国投资者在我国境内投资经营电信业务，应严格按照《规定》要求，申请设立外商投资电信企业，并申请相应电信业务经营许可证。未依法在我国境内设立外商投资电信企业并取得电信业务经营许可证的，外国投资者不得在我国境内投资经营电信业务。 <br><br>    境内电信公司不得以任何形式向外国投资者变相租借、转让、倒卖电信业务经营许可，也不得以任何形式为外国投资者在我国境内非法经营电信业务提供资源、场地、设施等条件。 <br><br>    境内电信公司在境外上市，必须经国务院信息产业主管部门审查同意，并按照国家有关规定获得批准。 <br><br>    二、各省、自治区、直辖市通信管理局在市场准入和市场规范管理工作中应按照如下要求加强对外商投资经营增值电信业务的管理，规范外国投资者与境内增值电信公司的合作行为： <br><br>    （一）关于互联网域名：根据《中华人民共和国电信条例》第十三条第三项规定，增值电信业务经营者应当具有为用户提供长期服务的能力或信誉，鉴于互联网域名是开展相关增值电信业务经营活动的重要资源，是增值电信业务经营者为用户提供长期服务的能力或信誉的重要表现，因此增值电信业务经营者所使用的互联网域名应为其（含公司股东）依法持有。 <br><br>    （二）关于注册商标：根据《中华人民共和国电信条例》第十三条第三项规定，增值电信业务经营者应当具有为用户提供长期服务的能力或信誉，鉴于注册商标是开展增值电信业务经营活动的重要无形资产，是增值电信业务经营者为用户提供长期服务的能力或信誉的重要表现，因此，增值电信业务经营者所使用的注册商标应为其（含公司股东）依法持有。 <br><br>    （三）关于场地和服务器等设施的设置：《电信业务经营许可证管理办法》第六条第三项规定，申请经营增值电信业务应当有必要的场地和设施。该规定所指的场地和设施应当在经营许可证业务覆盖范围内设置，并与经营者所获准经营的增值电信业务相适应。 <br><br>    （四）关于网络信息安全保障措施：增值电信业务经营者应当按照信息产业部发布的《增值电信业务网络信息安全保障基本要求》（YDN126-2005）完善网络与信息安全保障措施、制定相应的信息安全管理制度、建立网络与信息安全应急流程、落实信息安全责任。 <br><br>    三、在增值电信业务经营许可证日常审批工作中，各省、自治区、直辖市通信管理局要进一步加强对域名、注册商标、服务器等设施的设置以及信息安全保障承诺等材料的审查，对不符合上述要求的，依法不予批准。 <br><br>    四、对已取得增值电信业务经营许可的公司，各省、自治区、直辖市通信管理局要组织其对照上述有关要求开展自查自纠活动，并对增值电信业务经营者上报的自查自纠结果进行监督检查，对那些消费者关注的热点公司，要进行重点检查。对发现不符合要求的，责令限期改正，逾期仍未改正的，可依法撤消其相应增值电信业务经营许可。 <br><br>    开展工作时遇到问题请及时与我部沟通，监督检查结果请于2006年11月1日前报送我部。 <br><br>    特此通知。     <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】全国爱卫会<BR>&nbsp;&nbsp;【发布文号】全爱卫发[2007]2号<BR>&nbsp;&nbsp;【发布日期】2007-01-23<BR>&nbsp;&nbsp;【生效日期】2007-01-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/17788.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>全国爱卫会关于对2006年国家卫生城市（区、镇）复审工作的通报<br><br></font>(全爱卫发[2007]2号)</p><br> <br><br>各省、自治区、直辖市及新疆生产建设兵团爱卫会：<br><br>    2006年，根据《国家卫生城市考核鉴定和监督管理办法（试行）》的规定和《国家卫生镇（县城）复核方案》的要求，全国爱卫办对2002年底以前命名的50个“国家卫生城市”、3个“国家卫生区”及2004年以前命名的196个国家卫生镇（县城）进行了复审。现将有关情况通报如下：<br><br>    一、复审情况<br><br>    2006年上半年，有关省、自治区、直辖市爱卫办组织对其所辖命名满3年的国家卫生城市（区）和2004年底前命名的国家卫生镇（县城）进行了复查，并于6月底前将复查结果报全国爱卫办。2006年9―11月份，全国爱卫办组织专家采取明查暗访相结合的形式，抽查了14个省份的19个城市、2个区以及24个省份的61个镇（县城），重点是一些命名时间较长或创卫巩固工作不力的城市（区、镇）。其中，邀请全国人大代表和政协委员带队对广东、山东、新疆等省（自治区）的5个城市、4个镇（县城）进行了调研督导；组织有关专家对11个省份的21个镇（县城）进行了明查；其余14个城市、2个区、36个镇则采取暗访的方式进行。复查的重点内容是，国家卫生城市、区、镇在基础设施建设与日常卫生管理等方面的巩固与发展情况，特别是在旧城区、背街小巷、城中村、城乡结合部、集贸市场、镇辖农村等部位以及“五小”行业的卫生管理情况。<br><br>    复审结果表明，大多数国家卫生城市（区、镇）在取得荣誉称号后，继续加大投入，进一步完善了城镇基础设施，加强了日常卫生管理，在巩固原有创卫成果的基础上，又有了新的发展和提高。但有少数国家卫生城市（区、镇）在取得荣誉称号后，对巩固工作重视程度不够，工作滑坡明显，特别是在旧城区、背街小巷、城中村、城乡结合部、集贸市场、“五小”行业等方面的基础设施建设与日常卫生管理薄弱，市民文明卫生素质还需要进一步提高。<br><br>    二、复审结果<br><br>    根据明查暗访结果，并广泛听取全国爱卫会有关成员单位及省、自治区、直辖市爱卫会办公室的意见，经研究，全国爱卫会决定：<br><br>   （一）重新确认辽宁省大连市等43个市为“国家卫生城市”、上海市静安区等3个区为“国家卫生区”，北京市顺义区马坡镇等125个镇（县城）为“国家卫生镇（县城）”（名单见附件）。<br><br>    （二）暂缓确认福建省三明市、河南省新郑市、广东省汕头市等3个市为“国家卫生城市”及辽宁省大连市水师营镇、瓦房店市炮台镇、浙江省湖州市南浔镇、河南省开封县城、广东省东莞市石龙镇等5个镇（县城）为“国家卫生镇（县城）”。上述城市、镇（县城）要限期整改，全国爱卫会于将2007年进行再次复审，对合格的予以重新确认；对仍然不合格的，撤销其荣誉称号。<br><br>    （三）由于行政区划调整，原江苏省吴县市、浙江省萧山市、广东省南海市已并入其他城市，上海市奉贤区原洪庙镇、江苏省苏州市原乘航镇、大义镇、莫城镇、城北镇已并入其他镇，成都市新都县县城已更名为新都区，以上城市、镇（县城）不再予以命名。按照2006年全国爱卫会印发的《国家卫生镇（县城）考核命名和监督管理办法》（试行）有关规定，对仍行使镇政府行政职能的街道办事处按现行行政区划单位给予重新确认。<br><br>    希望各国家卫生城市、区、镇（县城），特别是早期命名的城市、区、镇（县城），要认真按照新颁布的《国家卫生城市标准》和《国家卫生镇标准》的要求，进一步完善城镇基础设施，加强全民健康教育与日常卫生管理，健全长效管理机制，努力做好巩固提高工作。各级爱卫会办公室要采取以暗访为主的形式，加强对所辖国家卫生城市、区、镇（县城）的日常监督和检查，确保创卫工作成果，并不断把创卫工作引向深入。<br><br>                      二OO七年一月二十三日<br> <br><br>附件1：<br><br>重新确认国家卫生城市、区名单<br><br>内蒙古自治区：赤峰市<br><br>辽宁省：大连市、鞍山市<br><br>江苏省：扬州市、苏州市、无锡市、张家港市、江阴市、昆山市、常熟市、吴江市、太仓市、海门市<br><br>浙江省：杭州市、绍兴市<br><br>安徽省：马鞍山市<br><br>福建省：福州市、厦门市<br><br>山东省：青岛市、威海市、烟台市、泰安市、淄博市、莱芜市、滨州市、胶州市、莱州市、青州市、招远市<br><br>河南省：濮阳市、登封市<br><br>湖南省：常德市<br><br>广东省：深圳市、珠海市、佛山市、惠州市、中山市、肇庆市<br><br>四川省：成都市、绵阳市、泸州市<br><br>新疆维吾尔自治区：库尔勒市、阿克苏市<br><br>上海市：黄浦区、静安区<br><br>重庆市：渝北区<br> <br><br>附件2：<br><br>重新确认国家卫生镇（县城）名单<br><br>北京市<br><br>顺义区：马坡镇<br><br>怀柔区：怀柔镇、北房镇<br><br>丰台区：王佐镇<br><br>上海市<br><br>闵行区：莘庄镇、七宝镇、虹桥镇、梅陇镇<br><br>嘉定区：南翔镇、马陆镇、安亭镇、黄渡镇<br><br>浦东新区：花木街道（原花木镇）<br><br>松江区：洞泾镇<br><br>青浦区：华新镇、徐泾镇<br><br>奉贤区：南桥镇（原南桥镇、江海镇合并）<br><br>崇明县：城桥镇<br><br>河北省<br><br>秦皇岛市：南戴河旅游度假区<br><br>山西省<br><br>长治市：黎城县县城<br><br>辽宁省<br><br>大连市：红旗镇、龙王塘镇、石河满族镇、长兴岛镇、杨树房镇<br><br>鞍山市：西柳镇<br><br>吉林省<br><br>长春市：玉潭镇 <br><br>江苏省<br><br>扬州市：小纪镇<br><br>泰州市：张郭镇<br><br>南通市：二甲镇     <br><br>无锡市：璜土镇、华士镇、官林镇、旺庄街道（原旺庄镇）<br><br>苏州市：塘桥镇、金港镇(原后滕镇、德积镇、港区镇合并后更名)、凤凰镇（原西张镇、港口镇合并后更名）、乐余镇(原乐余镇、兆丰镇合并)、大新镇、锦丰镇、周庄镇、淀山湖镇、花桥镇、陆家镇、海虞镇、尚湖镇（原王庄镇、练塘镇合并后更名）董浜镇、古里镇、辛庄镇、七都镇、同里镇、沙溪镇<br><br>浙江省<br><br>杭州市：千岛湖镇<br><br>湖州市：德清县县城、长兴县县城<br><br>嘉兴市：嘉善县县城<br><br>绍兴市：大唐镇<br><br>金华市：磐安县县城<br><br>安徽省<br><br>马鞍山市：当涂县县城<br><br>六安市：舒城县县城  <br><br>福建省<br><br>泉州市：永春县县城<br><br>江西省<br><br>九江市：武宁县县城<br><br>上饶市：广丰县县城<br><br>山东省<br><br>烟台市：东江镇<br><br>威海市：筒山镇<br><br>东营市：仙河镇<br><br>河南省<br><br>郑州市：北山口镇、竹林镇、小关镇、薛店镇、马寨镇<br><br>洛阳市：栾川县县城 <br><br>湖北省<br><br>襄樊市：谷城县县城<br><br>湖南省<br><br>长沙市：长沙县县城<br><br>彬州市：嘉禾县县城 <br><br>广东省<br><br>深圳市：新安街道（原新安镇）、龙华街道、大浪街道、民治街道（原龙华镇拆分）、横岗街道(原横岗镇)、龙岗街道、龙城街道（原龙岗镇拆分）、大鹏街道(原大鹏镇)、公明街道(原公明镇)、松岗街道(原松岗镇)、坪地街道(原坪地镇)、平湖街道(原平湖镇) 、西乡街道 (原西乡镇)、观澜街道 (原观澜镇)、沙井街道(原沙井镇)、坪山街道(原坪山镇)、福永街道(原福永镇)、石岩街道(原石岩镇)、光明街道(原光明镇)、葵涌街道(原葵涌镇)、布吉街道、南湾街道、坂田街道（原步吉镇拆分）、南澳街道（原南澳镇）、坑梓街道（原坑梓镇）<br><br>中山市：小揽镇、古镇镇、沙溪镇、三乡镇、坦洲镇<br><br>东莞市：长安镇、樟木头镇、清溪镇、虎门镇<br><br>佛山市：大沥镇（原大沥镇、盐步镇、黄岐镇合并）、罗村街道（原罗村镇）、西樵镇（原西樵山镇）、九江镇（原九江镇、沙头镇合并）、桂城街道(原平洲镇、南海区桂城街道合并) <br><br>四川省<br><br>成都市：青城山镇<br><br>绵阳市：科学城<br><br>陕西省<br><br>咸阳市：礼泉县县城<br><br>榆林市：神木县县城<br><br>新疆自治区<br><br>巴音郭愣蒙古自治州：轮台县县城、焉耆县县城、且末县县城<br><br>吐鲁番地区：鄯善县县城<br><br>阿勒泰地区：布尔津县县城、哈巴河县县城<br><br>新疆生产建设兵团<br><br>142团团场<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

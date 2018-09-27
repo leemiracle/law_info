@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-09-17<BR>&nbsp;&nbsp;【生效日期】2006-09-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=12990&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于做好“12320”全国公共卫生公益电话建设工作的通知</font></p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，中国疾病预防控制中心、卫生部卫生监督中心、卫生部统计信息中心：<br><br>    按照《卫生部关于启用“12320”全国公共卫生公益电话的通知》（卫办发[2005]486号）的要求，卫生部办公厅会同相关司局、中国疾病预防控制中心开展了大量基础性工作，各地卫生厅局也积极行动，加紧筹备，为启动“12320”全国公共卫生公益电话（以下简称“12320”）做了充分的准备。为了推动全国“12320”的建设工作，做好开通“12320”的各项准备，现将有关事项通知如下：<br><br>    一、统一思想，提高认识，做好“12320”建设的组织领导工作<br><br>    “12320”的开通和运行是贯彻实施《中华人民共和国传染病防治法》、《突发公共卫生事件应急条例》、《艾滋病防治条例》等法律法规的具体要求，是传播卫生政策信息和健康防病知识的重要平台，是加强政府信息公开、沟通社会和公众的重要渠道。做好“12320”的各项工作，在全国有效的使用并良好的运行“12320”公共卫生公益电话，有利于及时有效地应对突发公共卫生事件和重大公共卫生问题，提高卫生行政和应急反应能力；有利于引导满足公众日益增长的健康需求，引导公众的健康行为，提高群众的健康素质；有利于加强卫生系统与社会各界的沟通，增进群众对卫生工作和广大医务工作者的理解和爱护，对于提高人民群众的健康水平、促进我国卫生事业的发展、塑造卫生系统的形象，将会发挥重要的作用。<br><br>    为了加强对全国“12320”公共卫生公益电话系统建设工作的领导，卫生部决定成立“12320”工作领导小组，负责对全国“12320”工作的宏观指导；研究制定开展“12320”工作的重大政策措施；协调解决“12320”工作中的重要问题；对各地区“12320”工作进行督促检查。领导小组由主管部长任组长，卫生部办公厅、卫生应急办公室、卫生监督局、疾病预防控制局、医政司、妇幼保健与社区卫生司等司局和中国疾病预防控制中心、卫生部卫生监督中心、卫生部统计信息中心等直属单位为领导小组成员单位。领导小组下设办公室，与设在中国疾病预防控制中心的全国“12320”管理中心合署办公，负责全国“12320”建设的组织协调和管理工作，由办公厅主管领导任办公室主任，同时兼任全国“12320”管理中心主任，设常务副主任主持全国“12320”管理中心日常工作（附件1）。<br><br>    各省、自治区、直辖市卫生厅局要加强对“12320”建设工作的领导，建立相应的工作机构和工作机制，将“12320”建设纳入日常工作管理，创造条件争取多方面的支持，保障“12320”工作运行经费和相应的办公条件，积极做好本地区“12320”的建设工作。<br><br>    二、认真组织，加紧工作，尽快完成“12320”开通的准备工作<br><br>    卫生部“12320”工作领导小组办公室（全国“12320”管理中心）组织制定了《卫生部“12320”全国公共卫生公益电话管理办法（试行）》（附件2）、《“12320”全国公共卫生公益电话开通技术方案》（附件3）和《“12320”全国公共卫生公益电话标准化建设基本技术要求》（附件4），各地要按照“统一规划、分级建设、属地管理”的建设原则，认真组织，加紧工作，制定本地区的“12320”系统建设方案，建设各级的“12320”管理中心和相应的电话中心。同时，各地还要按照信息产业部《关于核配卫生部全国公共卫生公益服务专用电话号码的函》（信部电函[2005]332号）的要求和卫生部制定的技术方案，抓紧完成本地区“12320”在地方通信管理局的开通前报告备案工作，并及时将完成情况反馈至全国“12320”管理中心。<br><br>    三、先行试点，稳步推进，不断完善“12320”的建设工作<br><br>    由于“12320”建设任务重、时间要求紧、工作难度大，目前各地工作进展不平衡。本着先行试点、稳步推进的原则，卫生部“12320”工作领导小组决定选择北京、上海、江苏、河北、青海等条件比较成熟的省市，先期开通“12320”公共卫生公益电话，作为全国的试点，不断总结经验，完善功能，逐步在全国全面开通“12320”。<br><br>    全国“12320”管理中心将组织开展“健康信息资源库”与“录入、分析、评价”工作管理软件的统一开发，开发工作将组织各地共同参与，共同完成，共同使用和分享。同时，为了更好的开展“12320”工作，加强各地信息和经验的交流，全国“12320”管理中心将定期编制印发《12320工作简报》。请各地将“12320”工作进展情况和工作遇到的问题，及时与全国“12320”管理中心反馈与沟通，以保证各项工作的顺利进行。<br> <br>联系人：李  蓉   电话：010―63131938<br>陈  怡   电话：010―68792013<br>        <br> <br>                                   二○○六年九月十七日 <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

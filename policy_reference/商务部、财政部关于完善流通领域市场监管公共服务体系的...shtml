@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部、财政部<BR>&nbsp;&nbsp;【发布文号】商秩发[2009]271号<BR>&nbsp;&nbsp;【发布日期】2009-06-05<BR>&nbsp;&nbsp;【生效日期】2009-06-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/b/d/200906/20090606335205.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部、财政部关于完善流通领域市场监管公共服务体系的通知<br><br></font>(商秩发[2009]271号)</p><br><br><br>各省、自治区、直辖市、计划单列市商务主管部门、财政厅（局），新疆生产建设兵团商务局、财务局： <br><br>    根据《国务院办公厅关于搞活流通扩大消费的若干意见》（国办发[2008]134号）和《财政部商务部关于做好支持搞活流通扩大消费有关资金管理的通知》（财建[2009]16号）要求，商务部、财政部决定依托现有12312举报投诉服务中心（以下简称12312服务中心），延伸网络，扩展功能，进一步完善流通领域市场监管公共服务体系。有关事项通知如下： <br><br>    一、工作目标 <br><br>    以现有12312服务中心为基础，建成以省、市两级12312服务中心为主体，以商务执法队伍为依托，以现代信息技术为支撑，具备快速反应和应急处置能力的流通领域市场监管公共服务体系，畅通流通领域举报投诉服务渠道，切实强化市场监管，维护流通秩序。 <br><br>    二、建立健全举报投诉服务工作网络 <br><br>    完善现有省级12312服务中心，建设地级以上城市12312服务中心以及县级举报投诉服务联系点，形成省、市、县上下一体的举报投诉服务工作网络，作为生猪屠宰、酒类流通、特许经营、零售商促销、零供交易、报废汽车回收、“家电下乡”、“汽车摩托车下乡”等流通领域举报投诉、咨询服务的公共服务窗口，执法和举报投诉等方面数据统计汇总的工作平台。 <br><br>    （一）完善省级12312服务中心 <br>    省级商务主管部门要进一步完善现有12312服务中心，开通互联网在线举报投诉窗口，调整工作职能，拓宽工作范围。中心主要负责： <br>    1．受商务主管部门委托，承担指导、督促本省（区、市）地市级12312服务中心有关工作。 <br>    2．接收涉及本省（区、市）的互联网在线举报投诉。 <br>    3．协助执法队伍督办处理重大案件和跨区域案件。 <br>    4．统计、汇总、分析、上报本省（区、市）举报投诉信息、数据，以及执法数据等。 <br>    5．组织开展相关宣传及培训工作。 <br>    6．维护中国市场秩序网（www.12312.gov.cn）地方子站。 <br>    所在省会城市或其他地级城市未开通12312举报投诉热线前，省级12312服务中心要继续承担其举报投诉和咨询工作，确保工作有效衔接。 <br><br>    （二）建设完善地级以上城市12312服务中心 <br>    地级以上城市商务主管部门建设12312服务中心，开通12312举报投诉服务热线，作为承担举报投诉咨询服务的主渠道，同时承担执法和举报投诉等方面数据统计汇总等工作。应达到以下条件： <br>    1.成立专门机构，配备一定数量的工作人员。条件不成熟的，也可设在商务执法队伍内部，安排专职工作人员，保障工作经费和人员工资。工作人员须经过专业培训，持证上岗。 <br>    2.有相对独立的办公场所，面积原则上不少于50平方米，并按照商务部确定的统一标识和风格进行装修。 <br>    3.配备开展举报投诉咨询服务及数据统计汇总工作所需要的电脑、PC坐席台、12312语音呼叫应答一体机、网络交换机、操作控制台及应用服务器等软硬件设备。 <br>    4.建立举报投诉流转、案件督办、数据统计汇总等工作机制，形成完整的举报投诉案件分流、转交、办理、反馈流程。 <br>    5．建立举报投诉奖励制度。 <br><br>    （三）设立县级12312举报投诉服务联系点 <br>    县级商务主管部门在商务执法队伍内部安排专人，配备必要的设备，作为商务执法队伍与地市级12312服务中心，以及上级商务执法队伍之间的联系点，不单设机构。主要负责： <br>    1．处理流通领域群众来信来访。 <br>    2．接收地市级12312服务中心转交本级商务执法队伍处理的举报投诉案件，及时反馈处理情况。 <br>    3．通过地市级12312服务中心，及时上报需由上级商务主管部门执法队伍处理的案件。 <br>    4．采集上报扰乱流通秩序的突发事件，报送有关执法数据和信息。 <br><br>    三、加强快速反应和应急处置能力建设 <br><br>    整合、充实、加强现有商务执法队伍，作为12312服务中心的快速反应和应急处置力量，保证接收的举报投诉案件得到及时有效处理。 <br><br>    （一）建立省级商务执法队伍与12312服务中心间协作配合机制 <br>    省级商务主管部门要探索建立内部商务执法队伍与12312服务中心间的协作配合及应急处置机制，密切二者工作联系。重大举报投诉案件由商务执法队伍进行调查处理，相关执法数据信息由12312服务中心统一汇总上报。 <br><br>    （二）提高市县商务执法队伍快速反应和应急处置能力 <br>    市、县级商务主管部门要整合、充实、加强现有执法力量，配备必要的交通、通讯、快速检测、调查取证、防护等执法装备，加强执法人员法律法规、业务技能及相关知识培训，提高执法能力。建立健全快速反应和应急处置机制，提高市场监管水平和突发事件处置能力。 <br>     <br>    四、搭建信息化的后台支撑服务系统 <br><br>    运用现代信息技术，搭建后台支撑服务系统，为流通领域市场监管公共服务体系提供电子数据信息传输通道。 <br><br>    （一）改造中央后台支撑服务系统 <br>    商务部改造现有中央数据库，以及举报投诉流转、公文传输、语音呼叫、集中管理等子系统，实现数据统计汇总、综合分析、分类查询等功能。 <br><br>    （二）建设地方信息化数据终端 <br>    各省、市、县级商务主管部门要按照商务部确定的统一标准和技术要求（具体方案另发），为12312服务中心（联系点）配备相应的信息化数据终端设备，与中央后台支撑服务系统对接，实现中央、省、市、县四级上下贯通、横向连接，保证数据信息快速传输。 <br>     <br>    五、工作安排及要求 <br><br>    （一）商务部会同财政部对全国流通领域市场监管公共服务体系进行统一规划，制定具体建设标准和工作要求；各省级商务主管部门会同本级财政部门制定工作方案，统筹安排并组织实施本省（区、市）流通领域市场监管公共服务体系建设。 <br><br>    （二）各市县商务、财政部门根据本省（区、市）统一工作部署及要求，建设本地流通领域市场监管公共服务体系。 <br><br>    （三）中央财政促进服务业发展专项资金将对符合条件的流通领域市场监管公共服务体系建设给予奖励。2009年主要支持商务综合行政执法试点市、县。具体办法另行下发。 <br><br>    （四）各地要切实加强对流通领域市场监管公共服务体系建设工作的组织领导，做好统筹规划和工作部署，明确工作要求，落实工作责任。加强调查研究，准确评价工作成效，及时总结工作经验。工作中遇到的问题及有关建议，请及时向商务部（市场秩序司）和财政部（经济建设司）反映。 <br>       <br>                                                                    商务部 <br>                                                                    财政部 <br>                                                              二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

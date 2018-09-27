@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局、国家煤矿安监局<BR>&nbsp;&nbsp;【发布文号】安监总煤调〔2008〕119号<BR>&nbsp;&nbsp;【发布日期】2008-05-30<BR>&nbsp;&nbsp;【生效日期】2008-05-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-06/02/content_282091.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局、国家煤矿安监局关于近期三起瓦斯事故的通报<br><br></font>(安监总煤调〔2008〕119号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团煤矿安全监管和煤炭行业管理部门，各省级煤矿安全监察机构，司法部直属煤矿管理局，有关中央企业：<br><br>    5月22日16时50分，山西省盂县万隆煤业有限公司发生瓦斯爆炸事故，造成5人死亡、1人受伤。该矿为乡镇煤矿，低瓦斯矿井。处于基建阶段，建设规模15万吨/年。初步调查，事故的原因是井底车场回风绕道积水，导致通风系统堵塞，引起瓦斯积聚，井下人员吸烟引发瓦斯爆炸。事故的详细原因正在调查之中。 <br><br>    5月25日23时24分，湖南省涟源市新岩煤矿发生煤与瓦斯突出事故，造成3人被困。该矿为乡镇煤矿，煤与瓦斯突出矿井。正在进行技术改造，生产能力由3万吨/年扩至6万吨/年。初步调查，该矿在采矿许可证和煤炭生产许可证均过期、安全生产许可证暂扣期间违法生产，没有进行瓦斯抽放，防突措施不落实，在放炮掘进后出煤支护过程中发生突出事故。事故的详细原因正在调查之中。 <br><br>    5月26日4时13分，河南省郑州煤炭工业（集团）公司侯寨振兴煤矿发生煤与瓦斯突出事故，造成6人死亡。该矿原为乡镇煤矿， 2005年11月30日由郑州煤炭工业（集团）公司将该矿和原郑州市二七区龙岗煤矿整合重组为郑州煤炭工业（集团）龙岗煤业有限公司，企业性质改为国有，为高瓦斯矿井。事故前正在进行技术改造，技改设计能力30万吨/年。初步调查，该矿307采面回风巷有一向斜构造，在进行巷道扩修时发生了突出事故。事故的详细原因正在调查之中。 <br><br>    以上3起事故均是瓦斯事故，又都发生在基建、技改矿井。暴露了当前一些地区煤矿隐患排查不细致、通风瓦斯管理混乱等突出问题，同时也暴露出有关单位对基建、技改矿井安全监管不扎实，存在薄弱环节和漏洞。为深刻吸取事故教训，切实加强煤矿安全生产工作，坚决遏制重特大事故的发生，确保煤矿安全生产形势稳定好转，特提出以下要求： <br><br>    一、全面强化“一通三防”管理工作。煤矿企业要落实通风、瓦斯管理的各项规章制度，确保矿井通风系统畅通、稳定可靠，杜绝无风微风作业。合理进行采掘布置，生产水平和采区必须实行分区通风，采掘工作面实行独立通风，严禁风流断路、短路、多次串联等现象。加强对瓦斯监测系统的日常维护检查，瓦斯传感器要定期调试、校正，监控设备要每天进行检查，保障系统正常运行。必须建立并严格执行瓦斯检查制度，严禁超限作业。对存在超通风能力生产、通风系统不完善、安全监测监控系统不起作用等问题的矿井，要立即责令其进行停产整顿，未经验收合格不得恢复生产，对拒不整改的要按照有关规定严肃查处。 <br><br>    二、切实加大防治煤与瓦斯突出工作力度。煤矿企业要进一步健全防突机构，充实防突人员，完善防突制度。强力推进先抽后采，坚持“多措并举、应抽尽抽、抽采平衡”的原则，巩固和扩大瓦斯治理成果。要推进煤矿企业加强区域防突措施，超前防治，源头治理。有条件的突出矿井必须首先开采保护层，不具备开采保护层条件的，要对突出煤层进行大面积预抽，并确保预抽时间和效果。驻地煤矿安全监察机构要加大煤与瓦斯突出事故的查处力度，深入勘查事故现场，严格事故定性，对发生过突出没有按突出矿井管理、有突出征兆仍然违章作业的，要依法严肃追究有关人员的责任。 <br><br>    三、加强对基建和技改矿井的安全管理。基建和技改矿井必须建立健全安全生产责任制，加强施工过程日常安全管理，做好高瓦斯、突出矿井瓦斯抽采与安全监测监控工作，新建、改扩建、资源整合的高瓦斯、突出矿井，必须同时建设瓦斯抽放系统，先抽放、后施工。施工单位在施工期间，发现煤矿建设项目的安全设施设计不合理或者存在重大事故隐患时，应当立即停止施工，并报告煤矿企业。各级煤矿安全监管、煤炭行业管理部门和煤矿安全监管机构要加强对基建、技改矿井的监管监察，严厉查处新建煤矿边建设、边生产或改扩建煤矿在施工区域生产的行为，严肃追究有关人员责任。 <br><br>    四、深化隐患排查治理工作。煤矿企业要落实安全生产隐患排查治理的主体责任，按照“隐患治理年”的总体部署，全面深入排查治理煤矿各生产系统、各环节存在的隐患，尤其是要加大对煤矿“一通三防”、 煤与瓦斯突出及汛期水害等方面的隐患排查治理力度，及时发现问题、解决问题、消除隐患，及时查处违章指挥、违章作业和违反劳动纪律的行为，做到排查不留死角、整治不留后患。各级煤矿安全监管、煤炭行业管理部门和煤矿安全监察机构要结合辖区安全生产工作实际，立足于治大隐患、防大事故，深入基层和生产一线加强督促指导，推进安全生产各项措施落实；对重大安全隐患要实施“挂牌”督办，对整改措施不落实、违法违规组织生产的，要依法严肃惩处。 <br><br>    请地方各级煤矿安全监管部门立即将本通报转发到辖区内所有煤矿。<br><br>                                                      国家安全监管总局<br>                                                      国家煤矿安监局<br>                                                      二○○八年五月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家粮食局<BR>&nbsp;&nbsp;【发布文号】国粮财〔2016〕74号<BR>&nbsp;&nbsp;【发布日期】2016-04-15<BR>&nbsp;&nbsp;【生效日期】2016-04-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinagrain.gov.cn/n316635/n746804/c921827/content.html" target=_blank>国家粮食局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>国家粮食局关于规范粮食行业信息化建设的意见</strong><br />国粮财〔2016〕74号</p>
+<p>&nbsp;</p>
+<p>各省、自治区、直辖市及新疆生产建设兵团粮食局，中国储备粮管理总公司、中粮集团有限公司、中国中纺集团公司、中国航空工业集团公司:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近年来，各地区各单位积极探索以数字粮库为主要内容的粮食行业信息化建设，提升了粮食收储企业运营效能，提高了政府宏观调控能力和粮食安全保障水平，为全面推进粮食行业信息化发展奠定了基础。但是，当前粮食行业信息化建设也存在发展不平衡、建设不规范、标准不统一、可复制性不强、与业务结合不紧密、投资效率不高、单项突进、互联互通不足以及重建设轻运维等问题。为进一步规范粮食行业信息化建设，加强顶层设计，现提出如下意见。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、指导思想和总体目标<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）指导思想。按照党中央、国务院关于&ldquo;新型工业化、信息化、城镇化、农业现代化&rdquo;同步发展的战略部署，着眼粮食流通产业全局和长远发展要求，贯彻&ldquo;创新、协调、绿色、开放、共享&rdquo;发展理念，顺应信息技术发展趋势，抓住信息化快速发展历史机遇，加强顶层设计和统筹协调，以涉粮企业信息化为基础，以标准规范为指引，以数据采集和应用为核心，以信息技术与粮食业务深度融合和管理创新为手段，消除&ldquo;数据孤岛&rdquo;，积极培育粮食信息化发展环境，促进新业态、新模式、新技术快速发展，推动&ldquo;大众创业、万众创新&rdquo;，促进粮食流通产业转型升级，全面提升粮食流通能力现代化水平，为确保国家粮食安全奠定更加坚实的基础。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）总体目标。到&ldquo;十三五&rdquo;期末，粮食企业信息化应用比较普遍，数据采集利用和业务协同能力明显增强，粮食装备和库存管理信息化、智能化水平显著提高，粮食信息服务更加高效，以信用为基础的新型监管方式得到广泛应用，信息技术在粮食行业现代化进程中发挥重要作用。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;库存粮食数量管理基本实现信息化。各类粮食收储、加工企业均装备具有出入库和库存管理功能的信息化系统，粮食数量管理的精细化、规范化、实时化水平显著提高。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;政策性粮食和政策性业务全面采用信息化监管方式。承担各级储备粮存储、最低收购价粮食收购任务的企业均装备与相关监管部门和单位联网的信息化管理系统，使政策性粮食和政策性收储业务处于全流程、全方位的监管状态，部分企业和业务实现在线监管。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;粮食质量监测预警信息化水平进一步提升。监管单位可以通过网络即时自动获取收购、出入库环节产生的质量信息以及库存粮食品质情况，一批具备信息化功能的检化验设备（仪器）得到推广应用。粮食质量监测预警能力和对特定粮食质量监管能力显著提升。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;粮食市场监测预警和应急指挥更加高效。利用信息化技术逐步扩大市场监测范围和监测内容，更多采用自动抓取等新技术提高数据采集质量、效率和灵敏度。省级和大中城市粮食应急预案均实现信息化管理。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;粮食流通监管信息化不断创新。以粮食行业信息化为基础，建立健全粮食企业信用信息档案，全面归集企业的基础信息和信用信息。为企业信用评级，健全守信激励失信惩戒机制，对不同信用级别的粮食经营者实施分类服务和监管提供数据支撑。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;业务协同能力明显增强。通过信息技术与粮食业务的深度融合和管理创新，企业管理效率更高，行业监管和指导更有力，服务售粮农民、粮食消费者和市场经营主体的能力更强。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;形成&ldquo;大众创业、万众创新&rdquo;的良好环境。新业态、新模式、新技术迅速发展，并在搞好产销对接、活跃市场、方便群众、保障食品安全、促进粮食产业经济发展方面发挥重要作用。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;互联网+、大数据、物联网、智能制造等信息技术和应用模式在粮食行业得到推广应用。粮食装备自动化、智能化水平提高，涉粮信息化标准体系基本建成。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、建设内容<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 粮食行业信息化是一个系统工程，涉及收购、储存、调运、加工、供应等各个环节，包括基础设施建设、硬件设备配置、应用软件开发、信息标准制定、信息安全管理、数据分析应用等相关内容，需要政府、粮食经营企业、粮食装备企业以及科研部门等共同参与、协同推进。粮食行业信息化建设要紧密围绕总体目标，重点加强国家及省级粮食管理平台、粮库智能化升级改造、粮食交易中心和现货批发市场电子商务信息一体化平台建设、重点粮食加工企业信息化改造、粮食应急配送中心信息化建设，简称&ldquo;1+1+4&rdquo;建设模式，逐步形成&ldquo;技术先进、功能实用、运维简便、安全可靠、规范统一、运行高效&rdquo;的粮食行业信息化体系，全面提升粮食行业信息化水平。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）国家级粮食管理平台。粮食行业信息化采取国家、省级、企业三级总体平台架构，国家和省级平台主要服务粮食行政管理和宏观调控，企业平台主要服务粮食企业生产和经营决策。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国家级粮食管理平台（以下简称&ldquo;国家级平台&rdquo;）是粮食行业信息化的核心和龙头，是全行业信息化的数据中枢和决策中心，实现对全国粮食信息实时监控和宏观调控的决策支撑。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国家级平台主要实现以下功能：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;数据汇集。在省级粮食管理平台的基础上，通过映射、转换和提取，实时汇总全国涉粮数据。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;数据交换。一方面，实现与国家发展改革委、财政部、中国农业发展银行等部门和单位的数据交换；另一方面，为各省份之间的数据交换提供服务。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;数据分析。利用大数据等技术进行数据挖掘，服务国家粮食宏观调控。此外，国家级平台还可以根据管理需要向下逐级钻取细节信息，为信息追溯和监督检查提供技术支持。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）省级粮食管理平台。省级粮食管理平台（以下简称&ldquo;省级平台&rdquo;）是粮食行业信息化体系的关键环节，是全省涉粮&ldquo;数据管理中心、应用创新中心、决策指挥中心、市场监测中心、社会服务中心&rdquo;。省级平台应涵盖粮食行政管理和公共服务的各项业务，能够面向市县粮食行政管理部门、各类涉粮企事业单位、售粮农民和消费者提供全方位服务。省级平台通过公共网络或专用网络与各级储备粮库、基层粮食收储企业、批发市场、交易中心和重点加工企业联通，实现信息采集、汇总、分析和利用，为粮食行政管理、社会服务、宏观调控、应急保障、粮食收购等提供信息支持。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 省级平台应具备以下功能：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;行政管理。包括粮食收购资格等行政许可事项网上审批，统计及价格监测，预警和应急处置，质量安全测报、监测、预警、质检机构管理等。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;公共服务。利用平台及平台数据资源，为售粮农民、消费者、涉粮企业提供政策法规、市场信息、质量安全、在线交流、技术支持等服务。有条件的地区可依托省级粮食行政管理部门门户网站，建立覆盖市、县粮食行政管理部门的网站群，加大微博、微信等新媒体技术的应用。支持省级平台配套建设网络视频会议系统，并逐步扩展为应急指挥系统。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;宏观调控。利用信息技术，提高统计调查、市场监测的准确性、及时性。创新数据采集方式，扩大采集范围，丰富数据内容。运用大数据技术，进一步挖掘涉粮数据价值，提高监测预警能力、监督管理能力、市场把控能力和应急保供能力，提高各级储备粮的运行效率，服务国家和本地区粮食宏观调控。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;监督检查。推进粮食监督检查工作信息化，归集管理机构、法规制度、执法培训、经费落实、执法人员以及工作动态等信息。建立一户一档的企业信用信息档案，详细记录企业基本信息。归集各部门和单位对企业实施监督、管理产生的各类信用信息。提供信息查询服务，为&ldquo;双随机&rdquo;监管提供支撑。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 省级平台建设应做好顶层设计，按照&ldquo;先进、实用、管用&rdquo;的原则分阶段稳步实施。到&ldquo;十三五&rdquo;期末，各地区都能够建成一个具备数据管理、业务支持、社会服务等基本功能的省级平台。省级平台建设应充分利用现有软硬件资源，避免重复建设、多头建设。有条件的地区应当将省级平台部署在政务云或满足要求的公共云上，节省建设及运维投入。自建省级数据中心的，也要本着&ldquo;可扩展、可迁移、易维护&rdquo;的原则组织建设。尚不具备自建省级平台的地区，应依托国家或省级现有信息系统实现平台基本功能，具备条件时再组织开发建设。鼓励省级平台提供虚拟平台服务，满足市、县粮食部门对行业管理的需求。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （三）粮库智能化升级改造。粮库信息化系统是粮食行业信息化的基础，是&ldquo;数据采集终端、创新应用终端、监督管理终端、社会服务终端&rdquo;。粮库信息化系统应当紧密围绕粮库核心业务，充分考虑企业实际需求，着力解决粮库经营管理粗放、运行效率低下、业务协同能力不足、信息流转不畅、监管存在漏洞等问题。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 粮库信息化系统是辅助企业做好粮食数量、质量、粮情和相关资源管理的计算机系统。一般包括出入库及库存管理模块、仓储管理模块、综合业务模块、安防管理模块等。能够实现对粮食购销、出入库、仓储、安防、质检、财务、统计等业务高效管理。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各地区各单位在实施粮库智能化升级改造中，应充分考虑企业业务类型、管理基础、投入和运维能力、人员素质、现实需求等因素，引导企业在做好总体规划的前提下，进行分级分步建设。粮库信息化系统一般分收纳库系统、储备库系统、示范库系统三个层级。每个层级建设都要从最基础、最适用的功能入手，并为将来的升级预留接口。各层级的总体建设要求是：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;收纳库系统。收纳库信息系统功能要简单，操作要方便，建设运维成本要低廉。系统可单机或组网运行，原则上不建设单独的机房。系统一般包含粮食出入库、收购资金结算、统计报表等基本功能。粮食重量数据必须由信息系统从汽车衡自动采集。承担政策性收储任务的收纳库系统还应具备售粮人身份识别登记、图像和视频采集、收购资金审核与结算等功能。省级粮食行政管理部门宜采用统一采购的方式确定一定数量的系统供应商承担本地区收纳库信息系统建设任务，以降低建设成本和实施难度，尽量扩大实施覆盖面。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;储备库系统。储备库信息系统是粮库智能化升级改造的重点，应做到储备粮承储企业全覆盖。储备库信息系统应在收纳库信息系统功能基础上，增加储备粮管理与仓储管理等模块。系统应组网运行，可建设单独的机房，宜配备自动扦样设备、库区安防系统和数据存储设备，有条件的企业还可增加车牌识别、客户引导、IC卡应用、自动称重、数量监测等智能出入库功能。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;示范库系统。各地区可以选择1-5个规模大、管理基础好的粮库进行&ldquo;数字粮库&rdquo;示范建设。示范库系统建设可积极探索自动控制、物联网、智能仓储、数量监测、电子商务、BI等新技术应用。要在一个平台或系统内实现企业经营决策、作业流程控制、资源管理利用等功能的集成，实现全面的信息化管理。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （四）粮食交易中心和现货批发市场电子商务信息一体化平台建设。粮食交易中心和现货批发市场是现代粮食市场体系的重要组成部分。通过一体化平台建设，着力解决交易行为分散、信息系统重复建设、市场资源不共享、交易成本高、市场竞争力弱等问题。充分发挥一体化平台的信息优势和资源配置作用，建立涵盖粮食生产、原粮交易、物流配送、成品粮批发、应急保障的完整供需信息链和数据中心，打造全国统一开放、竞争有序、协同发展的电子商务一体化信息大平台。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地方主要做好粮食交易中心省级终端和现货批发市场的信息化建设，并逐步实现与国家平台的联网运行。同时，整合现货批发市场、种粮大户、放心粮油店和应急保供配送中心的电子商务内容，围绕粮食交易主业，拓展大数据分析、物流配送、投融资等衍生服务，打造交易平台生态圈。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 粮食交易中心省级终端重点是改善硬件条件，增强信息采集、服务能力。已有的交易系统应逐步与全国粮食统一竞价交易系统合并，不再建设新的交易系统。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现货批发市场应依托全国统一竞价交易系统或其他系统平台，积极发展B2B、B2C、C2C、O2O等交易模式。利用信息技术实现传统批发市场的转型升级。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （五）重点粮食加工企业信息化改造。粮食加工企业原粮出入库和库存管理部分应符合粮库信息化系统的建设要求。成品粮应急管理部分应符合粮食应急配送中心信息化系统的建设要求。同时，鼓励和支持重点粮食加工企业基于省级平台或自行建设粮食质量安全追溯信息系统。如企业自行建设质量追溯信息系统，应预留与省级平台联通的接口。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （六）粮食应急配送中心信息化建设。粮食应急配送中心是各地依据粮食应急预案设立，承担粮食应急配送任务的机构。粮食应急配送中心信息化建设应以实现各项业务&ldquo;全时在线&rdquo;管理为目标，全面提高配送效率，缩短反应时间，与应急加工企业及供应网点协同运行，确保本区域应急保供的精准性、有效性和及时性，为各级政府调控市场提供信息技术支撑。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 粮食应急配送中心信息化建设应重点加强商业客户、产品库存、仓储资源、运输装备的信息化管理，积极采用卫星定位、电子托盘、RFID等技术，实现出入库管理、作业调度、自动盘库、客户合同、物流配送（含车辆调度、路线优化）以及安防监控等功能。粮食应急配送中心信息系统对下要与应急供应网点联通，即时或定期掌握各网点库存和销售情况；对上应与粮食行政管理部门联通，接受粮食行政管理部门的应急指挥调度，并实时动态反馈执行情况。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各地应严格依据应急预案和应急管理要求，重点支持影响大、覆盖广的应急配送中心信息系统建设。考虑到应急配送中心一般依托成品粮食批发市场、粮食应急加工企业、骨干军粮供应站及大型储备粮库等单位建设，因此应急配送中心信息系统要做好与依托单位信息系统的衔接、融合，具备条件的应统一规划、统一设计、同步实施。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、建设要求<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）统筹规划，整合资源。各地区各单位要按照全国粮食流通工作会议的总体部署和《粮食收储供应安全保障工程建设规划（2015-2020年）》要求，结合本地区本单位信息化发展需求，科学编制本地区本单位信息化发展规划或建设方案，明确信息化建设主要目标、重点工程、技术路线及保障措施。在规划和方案的引领下，逐项建设，分步实施，有序推进。要遵循信息化发展规律，集中优势资源完成一个领域建设任务后再启动另一个领域的建设工作，在每个领域也要坚持先试点后推广的渐进模式。要整合各方资源，借力公共网络和平台，充分利用现有软硬件，尽量减少软硬件开发和购置投入，提高投资效率和使用效果，防止低水平重复建设。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）明确定位，突出重点。各地区各单位信息化建设要以需求为导向，聚焦关键共性问题，集中力量做好主要领域和关键信息系统开发部署工作。在谋划信息系统建设方案时，须用信息化思维方式对传统业务模式、管理流程和工作要求进行改造，充分发挥信息技术优势，实现系统部署与管理创新&ldquo;双赢&rdquo;。要将数据采集、政策性业务监管、流程控制、资源共享等作为信息化建设重点，在资金政策上给予保障。要准确界定各重点建设内容的边界范畴，分清轻重缓急，集中力量搞好关键系统开发部署。要选择技术成熟、使用广泛的产品和有发展前景的先进技术，避免超标准建设使用率不高的大屏幕、自动门窗等设施设备，除示范库外不宜安排试验性应用建设。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （三）统一标准，互联互通。粮食行业信息化建设要严格执行国家及行业标准，为实现全行业互联互通奠定基础。暂时没有国家和行业标准的，鼓励地方或企业制订标准，或采用公认的标准规范。各地区各单位要本着开放、共享的精神组织信息系统建设，互相开放接口和数据，打通政府部门、企事业单位之间的数据壁垒。要积极贯彻落实国务院《促进大数据发展行动纲要》，探索涉粮大数据应用，创新行业监管模式，提升科学决策水平，强化社会服务能力。系统开发要以数据为中心，为确保数据的全面性，省级平台还应当为不具备信息化系统条件的单位提供基于表单填报的数据直报系统。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （四）安全保密，运行稳定。信息系统建设要遵循相关安全标准，加强风险评估和安全防护，防止各种形式与途径的非法侵入，确保系统稳定运行、数据安全。要注重信息系统安全制度建设，强化网络与信息安全意识，加强人员培训和日常管理，提高行业信息网络安全保障能力。要建立稳定的信息系统运行维护经费保障机制，确保系统稳定持续运行。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （五）统一组织，降低成本。各地区各单位要在软件开发、硬件购置、系统集成采购等工作中，引入市场竞争机制，严格执行招标采购法律法规，选定合格的、可提供持续服务的供应商。要尽量采取统一采购方式采购统一规范的软硬件设备，降低采购成本，节省建设资金，对于粮油统计等全国性通用软件，原则上由国家粮食局统一组织开发。要积极创造条件，开展通用型软硬件产品质量性能测试，确保采购产品质量水平。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （六）加强领导，协同推进。各地区各单位要加强对粮食行业信息化建设工作的领导，将粮食行业信息化建设作为&ldquo;一把手工程&rdquo;列入重要议事日程。各地区各单位要建立粮食行业信息化建设领导小组，协调解决信息化建设中面临的问题和困难。要建立粮食行业信息化建设协调推进工作机制，加强与发展改革、财政等部门的协调，整合资源，形成合力。要做好与中国农业发展银行、中国储备粮管理总公司等单位信息系统的衔接，最大程度实现资源共享，减少重复建设。要充分发挥行业协会、软件开发企业、高等院校和专家队伍在推进粮食行业信息化建设工作中的积极作用。</p>
+<p>&nbsp;</p>
+<p style="text-align: right;">国家粮食局<br />2016年4月15日</p>
+<p><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （此件公开发布）</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

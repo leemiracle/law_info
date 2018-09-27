@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财关税[2008]78号<BR>&nbsp;&nbsp;【发布日期】2008-08-26<BR>&nbsp;&nbsp;【生效日期】2008-08-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://gss.mof.gov.cn/guanshuisi/zhengwuxinxi/zhengcefabu/200809/t20080908_72155.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于调整大型石化设备及其关键零部件原材料进口税收政策的通知<br> <br></font>(财关税[2008]78号)</p><br>  <br><br>各省、自治区、直辖市、计划单列市财政厅（局），新疆生产建设兵团财务局，财政部驻各省、自治区、直辖市、计划单列市财政监察专员办事处：<br><br>    为贯彻落实国务院关于加快振兴国内装备制造业有关进口税收政策的精神，现就大型石化设备及其关键零部件、原材料进口税收政策有关问题通知如下：<br><br>    一、根据《财政部 国家发展改革委 海关总署 国家税务总局关于落实国务院加快振兴装备制造业的若干意见有关进口税收政策的通知》（财关税[2007]11号）的有关规定，自2008年1月1日（以进口申报时间为准）起，对国内企业为开发、制造大型石化设备而进口的关键零部件、原材料所缴纳的进口关税和进口环节增值税实行先征后退，所退税款作为国家投资处理，转为国家资本金，主要用于企业新产品的研制生产以及自主创新能力建设。<br><br>    二、本通知第一条所称大型石化设备是指：1.年产量不小于80万吨的乙烯成套设备，包括乙烯裂解气压缩机组及其配套用工业汽轮机、乙烯制冷压缩机组及其配套用工业汽轮机、丙烯制冷压缩机组及其配套用工业汽轮机、离心式急冷油泵、离心式急冷水泵、乙烯冷箱、加氢反应器、加氢装置空冷器，年产量不小于40万吨的聚乙烯循环气压缩机和聚乙烯配套用往复式压缩机(迷宫密封式)，年产量不小于20万吨的混炼挤压造粒机组；2.年产量不小于80万吨的对苯二甲酸（PTA）成套设备，包括PTA氧化反应器、加氢精制装置加氢反应器、蒸汽回转干燥机、PTA工艺空气压缩机组。<br><br>    提出申请享受进口税收政策的企业应具备以下条件：1.具有从事大型石化设备及其关键部件设计试制能力；2.具备专业比较齐全的技术人员队伍；3.有较强的消化吸收能力和生产制造能力；4.已有本条前款所述大型石化设备的合同订单。<br><br>    三、享受退税政策的进口零部件、原材料目录详见附件1。今后退税商品清单将根据企业申请、政策实施效果、国内配套能力等情况适时进行调整。<br><br>    四、符合本通知第二条规定的企业如需进口附件1中关键零部件、原材料，可按照财关税[2007]11号文件的有关规定申请办理退税手续。<br><br>    五、自2008年9月15日起，对新批准的内、外资投资项目（以项目的审批、核准或备案日期为准，下同）进口附件2中的石化设备和《国内投资项目不予免税的进口商品目录（2006年修订）》（财政部公告2007年第2号）专用设备第二十四类中部分设备（见附件3），一律停止执行进口免税政策。<br><br>    2008年9月15日以前批准的内、外资投资项目，其进口本条前款所述设备，在2009年9月15日前继续按照《国务院关于调整进口设备税收政策的通知》（国发[1997]37号）的有关规定执行；在2009年9月15日以后（含9月15日）对上述项目进口本条前款所述设备，一律停止执行进口免税政策。<br><br>    中西部外商投资优势产业项目、外国政府贷款和国际金融组织贷款项目进口本条第一款所述自用设备，比照本条前两款规定执行。<br><br>    自2008年9月15日起，对外商投资企业自有资金项目和加工贸易企业以加工贸易项下外商提供的不作价设备方式进口本条第一款所述自用设备，一律停止执行进口免税政策。<br><br>附件：1.大型石化设备进口关键零部件、原材料退税商品清单<br><br>2.石化设备进口不予免税清单1<br><br>3.石化设备进口不予免税清单2<br><br>二○○八年八月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

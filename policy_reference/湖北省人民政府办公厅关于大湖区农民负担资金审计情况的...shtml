@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2008〕2号<BR>&nbsp;&nbsp;【发布日期】2008-01-12<BR>&nbsp;&nbsp;【生效日期】2008-01-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/govopen/zfwj/ezbfwj/ezbf2008/200804/t20080428_56026.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于大湖区农民负担资金审计情况的通报<br><br></font>(鄂政办发〔2008〕2号)</p><br><br><br>    各市、州、县人民政府，省政府各部门：<br>    最近，省审计厅对我省洪湖、洞庭湖湖区（以下称大湖区）的洪湖市、监利县、江陵县、荆州市荆州区和沙市区、沙洋县、潜江市、仙桃市、公安县、石首市、松滋市等11个县（市、区）2006年农民负担资金收取、使用和管理情况进行了审计。从审计情况看，2006年，大湖区11个县（市、区）认真贯彻执行省委、省政府关于减轻农民负担的政策措施，加强农民负担的监督管理，使农民负担资金的收取进一步规范，税费改革后农民负担明显减轻、干群关系明显改善、农民务农的积极性普遍提高，但仍不同程度地存在一些问题。经省人民政府同意，现将有关情况通报如下：<br>    一、基本情况<br>    经审计，11个县（市、区）2006年实际收取农民负担资金48610?50万元，其中：卡内3项负担（含“投工投劳”折资）金额26765?98万元；卡外负担13项，金额21844?52万元。实际使用负担资金47500?04万元，其中：用于村级集体生产和公益事业11634?35万元，用于排涝9354?57万元，用于灌溉8324?33万元，用于防汛83?38万元，用于通村公路建设7571?33万元，用于偿还农业综合开发和世行贷款还款1464?39万元，用于县乡基础设施建设5380?20万元，用于非生产性费用支出3687?49万元。<br>    二、存在的主要问题<br>    （一）负担资金收取方面。<br>    1?卡内的3项负担项目成固定收费项目。11个县（市、区）均将卡内3项负担作为固定的收费项目，按政策允许上限收取。特别是“投工投劳”折资存在的问题较为突出，还有少数地方超出政策规定下达“投工投劳”计划。主要表现：一是按上限折资。大部分地方将“投工投劳”变成以资代劳，一般按政策上线折资清算（每个工8元）。二是“投工投劳”折资未严格遵循农民自愿的原则。如监利县、仙桃市2006年下达的“投工投劳”全部折资收取。三是个别乡镇超出政策规定下达“投工投劳”计划，收取以资代劳负担资金。如仙桃市郭河、杨林尾2个乡镇在市农管办审批投工投劳负担项目之外，增加投工投劳用工8?06万个，并按每个工8元标准收取以资代劳负担资金64?5万元。<br>    2?利用政策允许的卡外负担项目平摊、加码或搭车收费。如监利县、洪湖市、石首市、江陵县、松滋市将经营灌溉水费纳入了农民负担审批方案，并按亩平摊到户。石首市横沟市、调关等8个乡镇按超过5元／亩的标准，收取村组排涝水费136?64万元。监利县、洪湖市、江陵县、松滋市的10个乡镇在收取农业综合开发还款、世行贷款还款时，搭车收费240?07万元。<br>    3?政策外自立收费项目9项，涉及资金9797?94万元。主要有防汛费、联村排涝水费（或抗灾费、排水费）、泵站还贷准备金、河渠疏挖费、沼气建设补助费、水厂改造、路灯集资、公路集资及“机动地”承包费等。如潜江市、松滋市、仙桃市、江陵县、石首市和荆州市荆州区收取防汛费555?06万元，仙桃市收取排湖泵站还贷准备金146?39万元，江陵县、监利县部分乡镇收取联村排涝水费（或抗灾费、排水费）236?94万元；荆州市沙市区岑河镇11个村将农户二轮承包面积统一按比例折算出“机动地”收取承包费48?7万元。<br>    （二）负担资金使用方面。<br>    1?超政策规定使用负担资金，部分资金被用于县乡基础设施建设。审计发现，有10个县（市、区）跨村投工投劳数量超过了政策规定20％的标准，由县、乡两级集中使用的资金有6275?39万元，占折资使用总额的52?76％。部分负担资金被用于县乡道路、堤防、水利基础设施等建设。如公安县2006年将负担资金用于堤防、县乡道路等1660?67万元，占同期使用负担资金的28?12％。<br>    2?“两项水费”（易涝地区排涝水费、经营灌溉水费）支出用于水利部门经费支出较高，部分资金被用于非排灌人员和非排灌部门。2006年，11个县（市、区）“两项水费”支出总额中，用于水利部门人员和公用经费的支出占两项水费支出总额的31?66％；特别是易涝地区的排涝水费，用于水利部门人员和公用经费支出占易涝地区排涝水费支出的50％。在用于水利部门人员和公用经费支出中，有1854?42万元被用于县（市、区）水利部门非排、灌机构经费支出。<br>    3?不同程度地存在“提非所用”和挪用负担资金的问题。审计发现，在负担资金使用中，有1074?44万元被用于平衡乡镇财政收支和政府运转等支出，有443?19万元被用于偿还村级债务和村级运转等支出，少数乡镇或村甚至挪用负担资金。如松滋市纸厂河镇政府挪用“荆南四河治理”资金17?62万元，用于镇政府行政公用支出；江陵县熊河镇花桥等21个村以疏挖排灌渠道的名义向农民收取资金88?83万元，实际全部用于偿还村级债务；仙桃市水利局水利监察大队从收取的以资代劳负担资金中，按4％的比例计提手续费32?14万元，用于单位人员和公用经费支出。<br>    4?部分乡镇存在平调村级负担资金的问题。审计发现，公安县、监利县、洪湖市、石首市、江陵县、松滋市的部分乡镇存在平调村级“一事一议”筹资、村组排涝水费，由乡镇集中使用。特别是平调村组排涝水费负担资金问题较为突出。2006年，6个县（市、区）共收取村组排涝水费负担资金2161?4万元，其中由乡镇集中使用的资金503?1万元，占其收取资金的23?28％。<br>    （三）负担资金管理方面。<br>    1?负担资金的管理与核算不规范。如一些乡镇、村将几项负担资金混合收支核算，有的乡镇将负担资金与乡镇机关经费、财政资金混合收支核算，到年底将未使用的负担资金与其他资金混合结转。有的地方“用水者协会”水费收支未建账，缺少相应的内部管理制度。<br>    2?负担资金支出票据、支出手续不合规。11个县（市、区）及乡镇、村三级普遍存在白条报账现象，有的地方大额工程支出以现金支付，且无合同（协议）、无原始支出附件。<br>    3?少数乡镇和村用粮食综合补贴、征地补偿和青苗补偿费、村级转移支付抵扣农民负担资金。<br>    三、整改要求<br>    （一）进一步加强组织领导，落实工作责任制。减轻农民负担工作能否抓落实、抓到位，关键在领导。从审计情况看，部分地方的干部认为税费改革后农民负担大幅度减轻，工作措施有所弱化。对此，各地必须进一步提高认识，认真落实减负工作党政一把手亲自抓、负总责的工作制度和违反减负政策的责任追究制度，坚持“多予、少取、放活”的方针，不折不扣地落实党在农村的各项方针政策，坚决维护农民群众的根本利益，促进全省农业农村经济持续、和谐发展。<br>    （二）严明政策纪律，严禁违法违规加重农民负担。各地要认真执行农村税费改革政策监督卡管理制度，坚决维护监督卡的严肃性，做到不增项、不加码；要切实加强卡外负担项目监督管理，认真落实涉农收费“四项制度”，严禁乱收费、乱集资、乱罚款和各类摊派。农村公益事业投工投劳要以投劳为主，不得强行以资代劳；农民自愿以资代劳的，要严格执行折资标准。跨村的投工投劳数量不得超过总额的20％，严禁乡镇平调使用，不得变成固定的筹资项目。农民灌溉水费要由供水单位与村组、农民签订合同，据实收取，不得平摊，不得变成固定性的收费项目，不得只收费不服务。严禁村组除“一事一议”筹资和经过批准的排涝水费外，以其他名义向农民收取任何费用。严禁“以上挤下”，平调村级资金。对因国家投入有限、需要农民投资投劳的项目，要认真贯彻执行有关文件规定，坚持“直接受益、民主议定、上报审批、跟踪监管、专款专用”的原则，切实把村民“一事一议”筹资筹劳纳入规范化、法制化管理轨道。对继续违规加重农民负担的地方，要追究有关直接责任人和主要领导的责任。<br>    （三）认真开展督办检查，切实抓好督办整改。各县（市、区）要针对审计发现的问题，开展督查，举一反三，发现问题，尽快整改到位。农民负担监督管理部门要加大对农民负担的监督管理力度，定期开展专项检查，重点检查现有减负政策不落实和以防汛排涝为名增加卡外收费项目、加重农民负担的行为。对违反减负政策规定自立项目向农民乱收费、乱集资、乱摊派的，要坚决予以纠正；对非法收取款物的，要如数退还农民。<br>    （四）加大农村综合改革力度，构建农民负担监管长效机制。各级领导干部要深入基层，深入群众，研究新情况，解决新问题，防止农民负担反弹。要加大农村综合改革力度，按照公益性与经营性职能分离的原则，大力精简基层水管机构和编制，严格定编定岗，杜绝收费养人现象。要加强村级基层财务管理，研究制定乡镇农民负担资金实行财经所统管、专户储存、报账核算、监督管理的制度和办法，确保负担资金管理规范，专款专用。要坚持和完善农民负担监测、检查、信访、负担卡、专项审计、文件项目审核等日常监管制度，强化制度管理，构建起农民负担监管的长效机制。<br><br><br>    湖北省人民政府办公厅<br>    二○○八年一月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽经贸技术[2006]313号<BR>&nbsp;&nbsp;【发布日期】2006-05-09<BR>&nbsp;&nbsp;【生效日期】2006-06-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12242" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省省级企业技术中心管理办法<br><br></font>(闽经贸技术[2006]313号)</p><br><br> <br>各设区市经贸委（经委、经发局）、科技局、财政局、国税局、地税局，省直有关部门：<br><br>    根据国家发展改革委、财政部、海关总署和国家税务总局2005年第30号令的精神，结合我省实际，省经贸委、省科技厅、省财政厅、省国税局、省地税局和福州海关、厦门海关共同制定了《福建省省级企业技术中心管理办法》，现将该办法印发你们，请各地贯彻执行。<br><br>    原《福建省鼓励和支持大中型企业和企业集团建立技术中心暂行办法》（闽经贸科［1995］483号）同时废止。<br><br>福建省经济贸易委员会<br>福建省科学技术厅<br>福建省财政厅<br>福建省国税局<br>福建省地税局<br>福州海关<br>厦门海关<br>二○○六年五月九日<br><br><br>福建省省级企业技术中心管理办法<br><br><font class='zhang'>第一章</font>  总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为建立和完善企业技术创新体系，提高企业的技术创新能力，发挥企业技术中心在技术创新体系和企业自主创新能力建设中的引导与示范作用，依据《中共中央、国务院关于实施科技规划纲要，增强自主创新能力的决定》（中发［2006］4号）、《中华人民共和国科学技术进步法》和国家发展和改革委员会、财政部、海关总署和国家税务总局联合发布的《国家认定企业技术中心管理办法》（国家发展改革委2005年第30号令）的精神，特制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  企业技术中心的认定、评价和管理工作，是坚持科学发展观，依靠科学技术，加速科技与经济结合，促进科技成果转化，增强企业技术开发能力，推进企业技术创新体系建设的重要内容。省级企业技术中心是以企业为主体，具有较强技术创新能力和技术竞争能力，创新业绩显著，在行业或产业集群起重要导向作用的示范体。省有关部门予以省级认定，并给予相应的政策扶持，以此引导和推动全省企业自主创新能力的提高和产业结构的优化升级。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  福建省经济贸易委员会牵头，福建省科学技术厅、福建省财政厅、福建省国家税务局、福建省地方税务局和福州海关、厦门海关参加，共同负责省级企业技术中心的认定、撤销和评价工作。各部门按照各自的职能扶持省级企业技术中心发展，形成共同推进企业自主创新工作的协调互动机制。省经贸委作为牵头单位，重点支持企业技术中心的创新能力建设，并具体负责组织认定和评价工作。<br><br><font class='zhang'>第二章</font>  认  定<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  企业技术中心的主要职能：<br><br>    （一）从事新产品、新技术、新工艺、新装备的研究与开发。结合市场分析,重点从事中长期的新产品开发，实施以科技成果转化为生产技术和产品的中间试验和工业性试验，以产品为龙头带动相关技术、工艺、装备和材料的研究开发，负责引进技术消化吸收和创新，形成具有自主知识产权的主导产品和专有技术。<br><br>    （二）从事产品和技术的决策咨询。使企业对本行业及相关领域的技术和市场信息有较强的获取能力、综合分析能力和判断能力。参与企业发展战略和技术进步规划的制定，组织技术创新重大项目的评估和论证，对企业重大问题提出建议意见。<br><br>    （三）开展产学研联合和对外合作交流，提高企业多渠道运用技术资源的能力。充分利用高等院校、研究院所的科技力量和研究成果提高企业创新能力和提升产品水平。<br><br>    （四）开展人才吸收、凝聚和培训。建立有效的激励机制，吸引国内外技术人才以各种形式为企业工作，凝聚企业现有科技人员，充分发挥其作用。以提高企业技术人员的整体素质为目标,加强企业科技人才的培养，为企业培训和造就一支科技人才队伍。<br><br>    （五）从事产品、技术的服务。负责对企业内部多层次技术开发的指导和服务，协调解决生产和销售过程中的技术问题。组织学习和引入企业外部成熟的共性技术，并在企业内进行应用。<br><br>    （六）从事行业和产业集群的技术服务和辐射。跟踪和研究行业技术发展趋势，利用人才、技术和信息优势，发挥技术的集散和辐射、信息集聚与扩散、共性技术开发和推广应用、技术服务与咨询、产品分析、检测、试验以及人才交流与培训等职能，在行业和产业集群企业技术开发体系中发挥核心作用。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  申请认定省级企业技术中心的企业应具备以下基本条件：<br><br>    （一）企业年销售额在2亿元以上。（软件、光电、制药等高新技术企业年销售额不低于1亿元）；<br><br>    （二）有较强的技术实力和较好的经济效益，在行业和产业集群中具有显著的规模优势和竞争优势；<br><br>    （三）企业领导层重视技术中心工作，具有较强的市场意识和创新意识，能为技术中心建设创造良好的条件；  <br><br>    （四）研究、开发、实验条件完善，技术开发仪器设备原值不低于800万元。有较高的研究开发投入，企业科技活动经费支出额占销售收入的比例不低于3%。有一支结构合理、业务素质较高的研究开发队伍，专职从事研究开发的人员不少于30人；<br><br>    （五）技术中心组织体系和运行机制完善，发展规划和目标明确，具有稳定的产学研合作机制，技术创新绩效显著； <br><br>    （六）已被所在设区市认定为市级企业技术中心；<br><br>    （七）企业上年度盈利、并在认定前两年内没有确定的偷漏税、重大安全质量和环境事故等行为。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  省级企业技术中心的认定每年组织一次。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  申请企业按属地原则向设区市经贸委（经委、经发局）提出申请并按要求填写申请材料（申请材料包括：附件一《福建省省级企业技术中心申请报告》和附件三《福建省省级企业技术中心评价表》）。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  各设区市经贸委（经委、经发局）对企业上报的申请材料进行初审，会同科技局、财政局确定推荐企业名单，并将推荐企业的申请材料和推荐意见在规定时间内上报省经贸委，并抄报省科技厅、财政厅。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  省经贸委根据申请企业行业情况组织相关专家按照《福建省企业技术中心评价标准》（见附件四）进行综合评审。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  省经贸委会同省科技厅、省财政厅、省国税局、省地税局和福州海关、厦门海关对综合评审结果进行审核，择优确定省级企业技术中心名单，并联合行文公布。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  省级企业技术中心企业，其控股子公司企业技术中心如具备省级企业技术中心条件，可申请作为该企业省级企业技术中心的分中心，申请材料和认定程序与省级企业技术中心相同。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  因评价不合格被撤销省级企业技术中心认定资格的，企业两年后重新申请认定的，按照本办法规定的条件和程序重新申报。<br><br><font class='zhang'>第三章</font>  评  价<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  依据评价标准，省级企业技术中心每两年进行一次评价。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  初审。经认定的省级企业技术中心于当年4月底前将企业技术中心评价材料（评价材料包括：附件二《福建省省级企业技术中心工作总结》、附件三《福建省省级企业技术中心评价表》）报送各设区经贸委（经委、经发局）汇总初审后，于考核年度的5月底前报省经贸委。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  核查及评价。省经贸委组织专家或中介评估机构对上报评价材料等进行核查，核查方式包括实地核查和集中核查等。<br><br>    第十六  条数据分析与反馈。省经贸委组织专家或中介评估机构对核查数据进行计算分析，得出初步评价结果，在网上公示接受反馈意见。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  企业技术中心评价结果分为优秀、合格、不合格。评价得分低于60分、未在规定时间内报送评价材料的企业技术中心、企业上报材料中有弄虚作假并经查实的企业技术中心评价为不合格。<br><br>    对于评价得分65分至60分以及不符合本办法第五条规定条件的省级企业技术中心，给予警告，并由省、市相关主管部门督促其限期整改。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  评价结果的确认。省经贸委会同省科技厅、省财政厅、省国税局、省地税局和福州海关、厦门海关负责评价结果的确认并予以公布。<br><br><font class='zhang'>第四章</font>  管  理<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  集团公司技术中心被认定为省级企业技术中心的，其下属公司原有的省级企业技术中心资格视情况调整为集团公司省级企业技术中心的分中心。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  有下列情况之一的，撤销其省级企业技术中心资格：（一）不符合本办法第五条规定的条件，逾期未整改或整改仍达不到规定要求的；（二）技术中心评价不合格；（三）企业自行要求撤销其省级企业技术中心资格；（四）省级企业技术中心企业被依法终止；（五）企业有偷漏税、重大安全、质量以及环保事故等行为。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  省经贸委会同省科技厅、省财政厅、省国税局、省地税局、福州海关、厦门海关负责调整与撤消省级企业技术中心，以公告形式颁布。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  企业上报的省级企业技术中心申请材料和省级企业技术中心上报的评价材料内容和数据应真实可靠。提供虚假材料的企业，经核实后，两年内不受理该企业认定申请。已是省级企业技术中心的撤消其认定资格，两年内不受理该企业认定申请。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  省级企业技术中心所在企业发生更名、重组等重大调整的，应在每年度评价时由企业一并提出变更申请，经当地经贸主管部门确认后报送省经贸委办理更名等手续。<br><br><font class='zhang'>第五章</font>  政  策<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  省级企业技术中心企业向有关部门申报的项目经专家评审确认良好的，优先列入省经贸、科技、财政等有关部门扶持的技术创新项目。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  省级企业技术中心为推荐国家认定企业技术中心的必要条件。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  对考核评价优秀的企业技术中心省有关部门给予表彰奖励。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  省经贸委每年从省技术创新资金中安排专项资金，引导和扶持企业技术中心建设，鼓励企业加大技术创新投入，促进省级企业技术中心创新能力的提高。<br><br><font class='zhang'>第六章</font>  附  则<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  本办法由省经贸委会同省科技厅、省财政厅、省国税局、省地税局和福州海关、厦门海关负责解释。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  本办法自二○○六年六月一日开始施行。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部办公厅<BR>&nbsp;&nbsp;【发布文号】卫办疾控发〔2007〕193号<BR>&nbsp;&nbsp;【发布日期】2007-11-07<BR>&nbsp;&nbsp;【生效日期】2007-11-07<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/20626.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>渔船民集散地无害化公厕建设技术规范（试行）<br>  <br></font>(卫办疾控发〔2007〕193号)</p><br><br><br>江苏、安徽、江西、湖北、湖南省卫生厅，中国疾病预防控制中心：<br>    为贯彻落实《血吸虫病防治条例》，促进以传染源控制为主的综合防治策略的实施，切实加强渔船民等水上流动人群粪便无害化处理工作，财政部、卫生部近期下发了《2007年公共卫生专项资金的通知》（财社〔2007〕117号），就血吸虫病防治地区开展渔船民等水上流动人群集散地（以下简称渔船民集散地）公厕建设项目给予专项补助。为规范该项目的实施与管理，我部组织制定了《渔船民集散地无害化公厕建设项目管理方案（试行）》和《渔船民集散地公厕建设技术规范（试行）》。现印发给你们，请认真组织实施。实施中如有问题，请及时反馈我部。<br>联系人：卫生部疾控局血防处  陈朝<br>联系电话：010－68792374<br>传真：010－68792342。<br><br>卫生部办公厅<br>二○○七年十一月七日<br>                  <br><br>渔船民集散地无害化公厕建设技术规范（试行）<br><br>    为进一步规范血吸虫病重点防治地区渔船民集散地无害化公厕建设项目，促进以传染源控制为主的综合防治策略的实施，制定本规范。<br>    一、规范性引用文件下列文件中的条款通过本规范的引用而成为本规范的条款，其最新版本适用于本规范。<br>    《城市公共厕所规划和设计标准》（ＣＪＪ14－2005）<br>    《城市公共厕所卫生标准》（ＧＢ／Ｔ17217－1998）<br>    《粪便无害化卫生标准》（ＧＢ7959）<br>    《农村户厕卫生标准》（ＧＢ19379）<br>    《血吸虫病流行地区农村改厕技术规范（试行）（全爱卫办发〔2006〕2号）<br>    卫生部《消毒技术规范》<br>    二、技术要求<br>    （一）基本原则。血吸虫病重点防治地区渔船民集散地无害化公厕建设属于预防血吸虫病传播的环境干预措施，其目的在于使沿江、沿湖渔船民等流动人群的粪便得到无害化处理。<br>    1．无害化公厕建设类型为三格化粪池式。<br>    2．建造的厕所应符合《血吸虫病流行地区农村改厕技术规范（试行）》的基本要求，并应正确使用和维护。<br>    （二）无害化公厕的组成。主要部分包括：<br>    1．外墙和屋顶的围护结构；<br>    2．厕室内设施：便器、排臭管、冲水设施、照明设施、通风设施，男厕内小便池；<br>    3．粪便处理设施：三格化粪池、进粪管、过粪管、粪池盖板；<br>    4．配套设施：供水设施、清洗池、洗手池。<br>    （三）材料要求。建造材料选择要求：选择的产品与材料应坚固耐用，有利于卫生清洁与环境保护。便器首选白色陶瓷制品，也可选用质量好的工程塑料材料制造的便器；使用水泥制件时，水泥应选择425＃以上标号。建造材料必须是正规生产厂家的合格产品，具有质量鉴定报告，并保留其复印件。<br>    （四）无害化公厕选址要求。<br>    1．要充分考虑附近渔船民的需求；<br>    2．要考虑潮汐水位变化，不宜被潮水淹没，地势较高，地基相对坚实；<br>    3．使用方便，容易到达；<br>    4．远离饮用水源。<br>    （五）设计与施工要求。<br>    1．蹲位数量：参考渔船民集散地船只数量、船只大小和是否在船上生活等情况，确定公厕规模。一般对5条船以上10条船以下的集散地可建2蹲位的无害化卫生公厕，超过10条船以上的集散地可建4蹲位的无害化卫生公厕，100条船以上的集散地可根据需求分段建设。<br>    2．化粪池容积：三格化粪池的有效容积应保证粪便在第一池贮存20天，第二池贮存10天，第三池贮存30天。2蹲位的公厕总容积不得小于4ｍ  3，4蹲位的公厕不得小于6ｍ  3，第一、二、三池的容积比例以2：1：3为宜，但第三池的容积根据清理周期长短可适当增加。化粪池深度：有效深度以1200ｍｍ－1500ｍｍ为宜，化粪池的上部应留有100ｍｍ－150ｍｍ的空间。<br>    3．过粪管：过粪管可用直径150ｍｍ－200ｍｍ的ＰＶＣ管、陶管或水泥管。安装位置：过粪管应安装在三格化粪池的两堵隔墙上，与隔墙的水平夹角呈60°。其中第一池到第二池过粪管下端（即粪液进口）位置在第一池的下1／3处，上端在第二池距池顶150ｍｍ；第二池到第三池过粪管下端（即粪液进口）位置在第二池的下1／3或中部1／2处，上端在第三池距池顶150ｍｍ。为方便施工，可以采用倒Ｌ型过粪管，上下口位置不变。两根过粪管交错安装，以增加过粪距离。若化粪池的容积〉6ｍ  3，可适当增加过粪管的数量。<br>    4．便器和冲水：一般采用节水型便器，以白色陶瓷蹲便器为佳。冲水设施可采用自来水冲洗，设置高位水箱，没有自动冲洗条件的可采用水桶加水舀冲洗的方式。便器位置以便器下口中心为基础，距后墙350ｍｍ，距边墙400ｍｍ；有条件的，两蹲位间最好设置不低于1200ｍｍ高的隔板。<br>    5．由于公厕化粪池较大，应采用钢筋混凝土浇筑池盖，安装时要用水泥沙浆密封，防止雨水渗入。各池留500ｍｍ×500ｍｍ的带拉手的活动盖，便于清渣和清掏粪肥。化粪池高度应至少高于周围地面100ｍｍ，以防雨水倒灌流入。<br>    6．通风和照明设计：以自然通风和自然采光为主，安装电力照明；在第一格安装1－2根110ｍｍ直径的ＰＶＣ管用于排臭，底端位于化粪池盖板下，顶端要高于厕屋顶500ｍｍ以上，最好设计成Ｔ型或弯管，以避免雨水流入。7．倒粪口：为方便渔船民倾倒渔船马桶内粪便，应在公厕化粪池附近设倒粪口，并加盖，将粪便导入第一格化粪池。倒粪口可高于地面300ｍｍ－350ｍｍ，紧邻清洗池，并备有清洗设施。<br>    8．清洗池和洗手池：在附近设置清洗池以方便便桶的清洗；洗手池长600ｍｍ、宽400ｍｍ、高250ｍｍ，池底距地面400ｍｍ。设置1－2个水龙头，龙头把手以扳手式为宜。<br>    9．供水设施：首选村镇自来水供水，在没有安装自来水的地区，可选用在厕所附近打手压井或潜水泵＋高位水池（箱）的办法，以方便冲洗厕所和马桶。<br>    三、使用与管理<br>    （一）三格化粪池的使用。<br>    1．新池建成需养护2周后正式启用，在启用前要做渗水试验，以判断是否有渗水现象；<br>    2．使用前在第一池内注入一些河塘水或井水，水深以高出过粪管下端口为宜，第二池和第三池不要加水；<br>    3．首选节水型便器，控制用水量，不宜安装冲水量大的便器；<br>    4．应在第三池清掏粪液，可直接用于施肥，第一、二格的粪皮、粪渣，根据使用情况，经1－2年后应清淘，并就地或就近进行高温堆肥或化学法进行无害化处理，禁止使用没有经过无害化处理的粪便和粪渣施肥，严禁将其直接排入水体；<br>    5．如果第三格粪液不用于施肥而排出，需从第三池引入至渗滤坑的上层中央，渗滤坑以卵石填充，防止粪水中氮、磷直接进入水体造成富营养化；<br>    6．在自然灾害与其他特殊需要时，可在粪液、粪渣中直接加入足量的生石灰、漂白粉或含氯消毒剂进行应急消毒处理，处理过程与处理效果必须符合《消毒技术规范》的要求。<br>    （二）无害化公厕的管理。要建立必要的保洁和清扫制度，落实维护管理的责任人，及时清理化粪池和倒粪口的粪渣，经常性维护粪池盖板和出粪口。1．有专人管理，保洁落实，地面及四周墙壁整洁；<br>    2．墙壁、隔断板等整洁无乱涂乱画污迹；<br>    3．便器及时清洁，无粪迹、尿迹、痰迹和其他污物；<br>    4．空气流通无臭气；<br>    5．厕内设施和工具摆放有序、干净整洁；<br>    6．外墙、屋顶及卫生责任区内环境整洁。<br>    四、监督与检测当地血防办应组织或委托有关部门指派专业技术人员承担新建或改建厕所的技术指导、施工检查、健康教育与促进、进行正确使用与维护卫生厕所的宣传指导、粪便无害化效果检测与评价等工作。<br>    <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

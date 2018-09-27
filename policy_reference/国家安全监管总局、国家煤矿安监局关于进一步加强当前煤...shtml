@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局、国家煤矿安监局<BR>&nbsp;&nbsp;【发布文号】安监总煤综〔2008〕113号<BR>&nbsp;&nbsp;【发布日期】2008-05-26<BR>&nbsp;&nbsp;【生效日期】2008-05-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-05/27/content_281766.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局、国家煤矿安监局关于进一步加强当前煤矿安全生产工作的通知<br><br></font>(安监总煤综〔2008〕113号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团煤炭行业管理部门、煤矿安全监管部门，各省级煤矿安全监察机构，有关中央企业： <br><br>    5月12日四川汶川特大地震灾害发生后，在党中央、国务院的坚强领导下，抗震救灾各项工作取得了阶段性成效。为全面贯彻落实党中央、国务院的决策部署，进一步加强当前煤矿安全生产工作，以确保安全生产的实际行动支援全国抗震救灾，现就有关事项通知如下： <br><br>    一、充分认识抓好当前煤矿安全生产工作的重大意义 <br><br>    当前抗震救灾任务十分艰巨。加强煤矿安全生产工作既是实现煤矿安全生产形势持续稳定好转的客观要求，更是保障全国抗震救灾和经济工作大局的要求。全国煤矿安全监管监察系统和煤矿企业的广大干部职工，一定要充分认识抓好当前安全生产工作的极端重要性，保持清醒头脑，进一步重视和加强安全生产工作；一定要按照中央的决策部署，一手抓好抗震救灾、一手抓好煤矿安全生产，要在抓好停产煤矿恢复生产安全工作的同时，抓好生产矿井的安全监管；一定要进一步树立政治意识、责任意识，从支援全国抗震救灾的大局出发，积极响应党中央、国务院的号召，认真落实张德江副总理在煤矿安全生产座谈会上的重要讲话精神，深入基层、坚守一线，努力实现煤矿安全生产，为支援抗震救灾工作、保障和谐稳定做出应有的贡献。 <br><br>    二、深入开展煤矿安全生产百日督查专项行动 <br><br>    各单位要按照国家安全监管总局、国家煤矿安监局的安排部署，持续深入地开展安全生产百日督查专项行动。要对前一阶段专项行动工作进行小结，总结经验，查找不足，研究制定措施，充实队伍力量，进一步谋划好下一步的工作，做到更深、更细、更扎实、更见实效。各煤矿企业要持续深入地开展隐患排查治理工作，做到“排查不留死角、整治不留后患”，坚决把“治大隐患、防大事故”的要求落到实处。要根据“隐患治理年”的总体工作部署，通过百日督查专项行动，摸清搞准煤矿安全生产基本情况，寻求科学有效的途径，解决煤矿生产过程中的实际问题，提升煤矿安全生产保障能力；通过抓好“隐患治理年”各项措施的落实，推进地方政府和煤矿企业进一步落实相关法律法规和政策措施，建立煤矿安全生产长效机制。当前，特别要针对台风、暴雨、洪水等自然灾害多发的情况，做好易由自然灾害引发煤矿事故灾难的隐患排查治理，严防洪水淹井等事故的发生。 <br><br>    三、更加注重抓好煤矿瓦斯治理工作 <br><br>    各级煤炭行业管理和煤矿安全监管、监察机构、各煤矿企业要坚持把瓦斯治理作为煤矿安全的重中之重来抓，在认真排查、治理隐患的基础上，把瓦斯治理各项措施做细、做实、做到位。要不断完善矿井通风系统，做到合理可靠、风量充足；要加强瓦斯抽采抽放，做到先抽后采、不抽不采、抽采不达标不采；要加强防治煤与瓦斯突出工作，强化区域性防突，严格落实“四位一体”防突措施；要加强矿井瓦斯监测监控，保证监测监控系统运行稳定、数据准确、断电可靠；要加强“一通三防”现场管理，建立健全和严格落实各项规章制度，有效遏制重特大瓦斯爆炸事故，巩固和扩大瓦斯治理攻坚战成果。 <br><br>    四、进一步加大煤矿整顿关闭工作力度 <br><br>    各级煤炭行业管理和煤矿安全监管部门一定要坚持抓好小煤矿的治理整顿，进一步加大工作力度，不断深化整顿关闭攻坚战，在地方人民政府的领导下，加强协调，狠抓落实，强力推进。要按照国家关于调整、优化煤炭产业结构总体要求和《煤炭工业发展“十一五”规划》明确的小煤矿控制数量目标，督促各地认真研究编制“十一五”后三年煤矿整顿关闭规划，并列入地方工作考核，将整顿关闭任务落实到市（地）、县（区）和煤矿。要严格落实煤炭产业政策、规划，坚决关闭淘汰灾害严重、技术落后、浪费资源、污染环境的小煤矿。要通过严格的煤矿安全生产许可证延续审查，进一步关闭整顿无望、不具备安全生产条件的小煤矿。要严格按规定停止审批年产30万吨及以下的煤矿建设项目，坚决防止小煤矿前关后建，边关边建。要积极引导国有大型煤矿企业对小煤矿的兼并重组工作，加快大型煤炭基地建设步伐，依靠先进的技术、装备和科学的管理提升煤矿安全保障能力。 <br><br>    五、进一步强化煤矿安全生产基础管理 <br><br>    各煤矿企业要始终坚持“安全第一、预防为主、综合治理”的方针，全面落实企业安全生产主体责任，切实把煤矿安全生产领导责任、技术责任、监督责任和现场管理责任，层层落实到区队、班组和井下各个工作岗位。要严格煤矿负责人下井带班制度，加强对重点部位、关键环节的检查，及时发现和消除事故隐患，有效制止违章违纪现象。要坚持把加强安全基础管理作为实现安全生产的重要手段，按照国家7部委局关于加强安全基础管理“两个45条”要求，逐条对照整改、认真落实到位。要严把安全质量关，深入开展煤矿安全质量标准化活动，促进安全工作创水平、上台阶；大力提高采掘机械化水平，努力实现张德江副总理在煤矿安全生产座谈会上提出的目标要求。要强化安全培训工作，按规定选送“三项岗位人员”参加安全培训并经考核合格后方可上岗；落实企业全员安全培训工作，提高队伍的安全技术素质。要重视抓好煤矿专业技术人才的使用和培养，加强安全生产技术管理。 <br><br>    六、认真抓好受灾煤矿恢复生产验收工作 <br><br>    由于特大地震影响，部分地区煤矿受损严重。其中，大部分矿井瓦斯积聚、巷道坍塌、积水严重，恢复生产的难度很大、危险性很高，务必引起高度重视。一是要抓紧摸清矿井受灾程度和实际状况，对属于淘汰关闭范畴的和破坏严重、没有恢复价值的，可不再恢复，依法提请地方政府予以关闭。二是对具备恢复生产条件的矿井要全面彻底排查隐患，有针对性地制定专项方案和安全措施，有序恢复各个生产系统，严防恢复系统期间发生重特大事故。三是要在当地人民政府的统一领导下，建立停产煤矿复产验收制度。由煤矿企业提出复产验收申请，有关部门组织现场验收。验收合格的，由参加验收各部门负责人签字后方可恢复生产；验收不合格的，继续停产整顿。要严格把关，不准随意降低标准、弄虚作假。其他地区由于各种原因停产的煤矿，恢复生产工作也要严格按上述要求落实，始终做到不安全不生产。 <br><br>    七、严格监管监察，严肃查处事故 <br><br>    各级煤矿安全监管部门和监察机构，要认真履行职责，坚持关口前移，重心下移，把功夫下在现场、下在隐患的排查治理和督促整改上、下在防范大事故上。要始终坚持严格执法、公正执法、文明执法、廉洁执法，提高工作效率和效能。要加强生产能力监管，严禁资源整合矿井、基本建设矿井边施工边生产。要加大执法力度，对不具备安全生产条件的，坚决暂扣或吊销相关证照；对存在重大事故隐患的，立即责令停产整顿，挂牌督办、跟踪治理；对煤矿超能力、超强度、超定员组织生产的，要按照《国务院关于预防煤矿生产安全事故的特别规定》的要求坚决依法责令停产整顿并处罚款。要进一步健全完善联合执法机制，继续依法严厉打击煤矿非法开采、违法生产行为，严防已关闭煤矿死灰复燃。 <br><br>    请各省级煤矿安全监管部门将本通知及时转发到辖区内所有煤矿。 <br><br>国家安全生产监督管理总局<br>国家煤矿安全监察局 <br>二○○八年五月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

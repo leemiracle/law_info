@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发〔2009〕11号<BR>&nbsp;&nbsp;【发布日期】2009-02-09<BR>&nbsp;&nbsp;【生效日期】2009-02-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/8859275.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>非居民企业所得税汇算清缴工作规程<br> <br></font>(国税发〔2009〕11号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局，广东省和深圳市地方税务局：?<br>    现将《非居民企业所得税汇算清缴工作规程》印发给你们，请遵照执行。执行中发现的问题请及时反馈到税务总局（国际税务司）。<br>    附件：<br>    1.非居民企业汇总申报纳税事项协查函?<br>    2.非居民企业汇总申报纳税事项处理联络函?<br>    3.非居民企业所得税汇算清缴汇总表（据实申报企业适用）<br>    4.非居民企业所得税汇算清缴汇总表（核定征收企业适用）<br>    5.非居民企业所得税汇算清缴指标分析表（据实申报企业适用）<br><br>国家税务总局<br>二○○九年二月九日<br><br><br>非居民企业所得税汇算清缴工作规程<br><br>    为贯彻落实《国家税务总局关于印发〈非居民企业所得税汇算清缴管理办法〉的通知》（国税发〔2009〕6号，以下简称《办法》），规范税务机关对非居民企业所得税的汇算清缴工作，提高汇算清缴工作质量，制定本规程。<br>    一、汇算清缴工作内容<br>    非居民企业所得税汇算清缴包括两方面内容：一是非居民企业（以下简称企业）应首先按照《办法》的规定，自行调整、计算本纳税年度的实际应纳税所得额、实际应纳所得税额，自核本纳税年度应补（退）所得税税款并缴纳应补税款；二是主管税务机关对企业报送的申报表及其他有关资料进行审核，下发汇缴事项通知书，办理年度所得税多退少补工作，并进行资料汇总、情况分析和工作总结。<br>    二、汇算清缴工作程序<br>    企业所得税汇算清缴工作分为准备、实施、总结三个阶段，各阶段工作的主要内容及时间要求安排如下：<br>    （一）准备阶段。主管税务机关应在年度终了之日起三个月内做好以下准备工作：<br>    1.宣传辅导。以公告或其他方式向企业明确汇算清缴范围、时间要求、应报送的资料及其他应注意事项。必要时，应组织企业办税人员进行培训、辅导相关的税收政策和办税程序及手续。<br>    2.明确职责。汇算清缴工作应有领导负责，由具体负责非居民企业所得税日常管理的部门组织实施，由各相关职能部门协同配合共同完成。必要时，应组织对相关工作人员的业务培训。<br>    3.建立台账。建立日常管理台账，主要记载企业预缴税款、享受税收优惠、弥补亏损等事项，以便在汇算清激工作中进行核对。<br>    4.备办文书。向上级税务机关领取或按照规定的式样印制汇算清缴有关的表、证、单、书。<br>    （二）实施阶段。主管税务机关应在年度终了之日起五个月内完成企业年度所得税纳税申报表及有关资料的受理、审核以及办理处罚、税款的补（退）手续。<br>    1.资料受理。主管税务机关接到企业的年度所得税纳税申报表和有关资料后，应检查企业报送的资料是否齐全，如发现企业未按规定报齐有关附表、文件等资料，应责令限期补齐；对填报项目不完整的，应退回企业并责令限期补正。<br>    2.资料审核。对企业报送的有关资料，主管税务机关应就以下几个方面内容进行审核：<br>    （1）企业年度所得税纳税申报表及其附表与年度财务会计报告的数字是否一致，各项目之间的逻辑关系是否对应，计算是否正确。<br>    （2）企业是否按规定结转或弥补以前年度亏损额。<br>    （3）企业是否符合税收减免条件。<br>    （4）企业在中国境内设立两个或者两个以上机构、场所，选择由其主要机构、场所汇总缴纳企业所得税的，是否经税务机关审核批准，以及各机构、场所账表所记载涉及计算应纳税所得额的各项数据是否准确。<br>    （5）企业有来源于中国境外的应纳税所得额的，境外所得应补企业所得税额是否正确。<br>    （6）企业已预缴税款填写是否正确。<br>    3.结清税款。主管税务机关应结合季度所得税申报表及日常征管情况，对企业报送的年度申报表及其附表和其他有关资料进行初步审核，在5月31日前，对应补缴所得税、应办理退税的企业发送《非居民企业所得税汇算清缴涉税事宜通知书》，并办理税款多退少补事宜。<br>    4.实施处罚。主管税务机关对企业未按《办法》规定办理年度所得税申报，应按照规定实施处罚；必要时发送《非居民企业所得税应纳税款核定通知书》，核定企业年度应纳税额，责令其缴纳。<br>    5.汇总申报协调。<br>    （1）汇缴机构所在地主管税务机关在接受企业年度所得税汇总申报后，应于5月31日前为企业出具《非居民企业汇总申报所得税证明》。<br>    （2）汇缴机构所在地主管税务机关对企业的汇总申报资料进行审核时，对其他机构的情况有疑问需要进一步审核的，可以向其他机构所在地主管税务机关发送《非居民企业汇总申报纳税事项协查函》（见附件1），其他机构所在地主管税务机关应负责就协查事项进行调查核实，并将结果函复汇缴机构所在地主管税务机关。<br>    （3）其他机构所在地主管税务机关在日常管理或税务检查中，发现其他机构有少计收入或多列成本费用等所得税的问题，应将有关情况及时向汇缴机构所在地主管税务机关发送《非居民企业汇总申报纳税事项处理联络函》（见附件2）。<br>    （4）其他机构所在地主管税务机关按照《办法》规定对其他机构就地征收税款或调整亏损额的，应及时将征收税款及应纳税所得额调整额以《非居民企业汇总申报纳税事项处理联络函》通知汇缴机构所在地主管税务机关，汇缴机构所在地主管税务机关应对企业应纳税所得额及应纳税总额作相应调整，并在应补（退）税额中减除已在其他机构所在地缴纳的税款。<br>    （三）总结阶段。各地税务机关应在7月15日前完成汇算清缴工作的资料归档、数据统计、汇总以及总结等工作，并于7月31日前向税务总局报送企业所得税汇算清缴工作总结及有关报表。工作总结的主要内容应包括：<br>    1.基本情况及相关分析。<br>    （1）基本情况。主要包括企业税务登记户数、 应参加汇算清缴企业户数、实际参加汇算清缴企业户数、未参加汇算清缴企业户数及其原因、据实申报企业户数、核定征收企业户数；据实申报企业的盈利户数、营业收入、利润总额、弥补以前年度亏损、应纳税所得额、应纳所得税额、减免所得税额、实际缴纳所得税额、亏损户数、亏损企业营业收入、亏损金额等内容；核定征收企业中换算的收入总额、应纳税所得额、应纳所得税额、减免所得税额、实际缴纳所得税额。<br>    （2）主要指标分析和说明。主要分析汇算清缴面、所得税预缴率、税收负担率、企业亏损面等指标。<br>    （3）据实申报企业盈亏情况分析。根据盈利企业户数、实际参加汇缴户数分析盈利面变化情况；分析盈利和亏损企业的营业收入、成本、费用、未弥补亏损前利润总额、亏损总额等指标的变化情况及原因等。<br>    （4）纳税情况分析。包括预缴率变化，所得税预缴、补税和退税等情况。<br>    2.企业自行申报情况。主要包括申报表及其附表的填写和报送，自行调整的企业户数、主要项目和金额等情况。<br>    3.税务机关依法调整情况。主要包括税务机关依法调整的户数、主要项目、金额，同时应分别说明调增（减）应纳税所得额及应纳所得税额、亏损总额的户数、金额等情况。<br>    4.主要做法。包括汇算清缴工作的组织安排和落实情况，对税务人员的业务培训及对企业的前期宣传、培训、辅导情况，对申报表的审核情况以及汇算清缴工作的检查考核评比等情况。<br>    5.发现的问题及意见或建议。分企业和税务机关两个方面，企业方面主要包括申报表的填报、申报软件的操作使用情况和《办法》的执行情况等；税务机关方面主要包括所得税汇算清缴工作规程在实际操作中的应用情况及效果，说明存在的问题及改进的意见和建议。<br>    三、《办法》及本规程所涉及的文书，由各省、自治区、直辖市和计划单列市国家税务局和相关地方税务局按照规定式样自行印制。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

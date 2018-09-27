@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】南宁市人民政府<BR>&nbsp;&nbsp;【发布文号】南府办〔2009〕154号<BR>&nbsp;&nbsp;【发布日期】2009-06-23<BR>&nbsp;&nbsp;【生效日期】2009-06-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nanning.gov.cn/n722103/n722150/n722871/n723413/6711100.html" target=_blank>南宁市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>南宁市人民政府办公厅关于全市行政审批事项超时办结情况的通报 <br><br></font>(南府办〔2009〕154号)</p><br><br><br>    各县、区人民政府，各管委会，市直各有关单位：<br><br>    根据《南宁市开展“项目建设年”、“服务企业年”活动实施方案》要求，为加强对行政审批事项的监督检查，切实提高工作效率，提升服务质量和水平，扎实推进“项目建设年”、“服务企业年”活动的顺利开展，2009年5月市监察局根据自治区监察厅、自治区政务服务中心《关于2008年全区行政审批事项超时办结情况的通报》（桂监发〔2009〕9号）的要求，对全市政务服务中心2008年至2009年5月7日电子监察运行情况进行了一次全面系统的综合分析。从总体上看，我市各级政务服务中心运行情况良好，各窗口单位行政效能有所提高，工作人员的工作作风明显好转，责任意识和服务意识进一步增强，但个别县（区）和部门仍然不同程度地存在行政审批事项超时办结现象。现将有关情况通报如下：<br><br>    一、行政审批事项超时办结情况<br><br>    行政审批电子监察运行数据显示，2008年至2009年5月7日全市各级政务服务中心办理的行政审批事项中有216件超时办结，其中2008年158件，2009年1月1日至5月7日58件。在2008年的158件中，市本级23件（其中市质监局5件，市卫生局4件，市工商局3件，市园林局、市消防支队、市物价局、市商务局、市散装水泥办、市人防办、市民政局、市林业局、市国税局、市公安局、市地税局各1件）、武鸣县24件、横县22件、宾阳县5件、马山县20件、上林县7件、隆安县4件、兴宁区3件、青秀区32件、西乡塘区9件、邕宁区1件、良庆区8件；在2009年1月1日至5月7日的58件中，市本级4件（其中市消防支队1件、市卫生局1件、市统计局1件、市国土资源局1件）、武鸣县7件、横县1件、宾阳县7件、马山县1件、上林县6件、兴宁区20件、青秀区8件、邕宁区2件、良庆区2件。<br><br>    二、行政审批事项超时办结的主要原因<br><br>    （一）网络出现故障造成超时。由于网络出现故障造成行政审批事项出现超时办结的有147件（其中数据服务器原因的有143件、网络设备原因的有4件），占总数的68.05%。<br><br>    （二）操作失误导致超时。由于窗口工作人员频繁换岗，业务不熟悉，操作失误，造成实际已经办结，但没有及时点击办结而引发超时的有65件，占总数的30.09%。<br><br>    （三）工作人员不及时办理行政审批事项导致超时。由于窗口工作人员责任心不强、不及时办理相关审批事项造成超时的有4件，占总数的1.85%。其中2008年2件（武鸣县1件、青秀区1件），2009年2件（青秀区1件、横县1件）。<br><br>    三、对下一步开展行政审批事项工作的要求<br><br>    行政审批事项超时办结的情况说明部分县、区和部门对超时办结行政审批事项问题没有引起足够重视，没有采取有效措施认真解决。为了进一步增强窗口工作人员的责任和服务意识，认真履行职责，提高工作效率，各行政审批部门和政务服务中心应切实履行以下两点要求：<br><br>    （一）加强内部管理。各行政审批部门和政务服务中心要认真贯彻落实《关于印发广西壮族自治区政务服务管理暂行规定的通知》精神（桂政发〔2007〕38号），进一步加强对窗口工作人员的教育、管理和监督，促进窗口工作人员切实增强责任意识，提高工作效率，提升服务质量和水平。各行政审批部门要选派责任心强、业务素质高的人员充实行政审批工作队伍，并保持窗口工作人员的相对稳定，确保工作的连续性，确保能够按照自治区“三项制度”、 南宁市“1180”项目建设“三项制度”和行政程序的规定开展行政审批工作，坚决杜绝因人为因素造成行政审批事项超时办结的现象。<br><br>    （二）加强业务培训。各级行政审批部门和政务服务中心要加强对窗口工作人员的业务培训和指导，不断提高窗口工作人员的综合素质和服务水平，增强操作技能和履行职责的能力，窗口工作人员上岗前必须经过业务培训，培训合格后才能上岗，并认真履行限时办结制等相关制度规定，严格按规定时限办理审批事项，避免因对业务不熟悉操作而产生超时的现象。<br><br>    四、启动问责机制，加大监督检查力度<br><br>    各级监察机关要按照《自治区党委办公厅  自治区人民政府办公厅关于印发广西壮族自治区行政机关首问负责制制度限时办结制度责任追究制度的通知》（桂办发〔2007〕7号）文件精神,充分发挥职能作用，加强监督检查。利用网络技术切实加强对审批全过程的监控，加大对审批事项超时办结问题的督查力度，并将检查结果作为该单位年度绩效考评的一项重要依据。对因工作不负责、拖拉推诿、操作失误等导致超时办结审批事项的相关责任单位和人员，要严肃追究责任，严格问责。 <br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

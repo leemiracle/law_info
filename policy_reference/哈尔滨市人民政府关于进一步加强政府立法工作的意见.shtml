@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈政发〔2003〕10号<BR>&nbsp;&nbsp;【发布日期】2003-11-14<BR>&nbsp;&nbsp;【生效日期】2003-11-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=537" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>哈尔滨市人民政府关于进一步加强政府立法工作的意见<br><br></font>(哈政发〔2003〕10号)</p> <br><br> <br>    各区、县（市）人民政府，市政府各委、办、局： <br><br>  ?《中华人民共和国立法法》颁布实施以来，我市各级政府及其工作部门积极探索政府立法工作的有效形式和途径，努力提高政府立法工作质量，政府立法工作有了长足进步，为我市经济和社会发展提供了有力的法制保障。但是，也应当看到，政府立法工作还有一定的差距，主要表现在部分立法项目选项重点不突出，照抄照搬上位法、外地立法的项目比较多，体现本市特色、解决突出问题的立法项目比较少；立法计划执行不够严肃，计划外项目冲击计划内项目，立法计划难以落实；立法程序缺乏透明度，社会参与政府立法的制度、方式和渠道不完善；一些部门借政府立法扩大权力，争收费、审批、处罚权的现象比较普遍，严重影响了政府立法工作的顺利进行。为进一步加强政府立法工作，不断适应完善社会主义市场经济体制和经济社会发展的需要，现提出以下意见。 <br><br>    一、政府立法工作原则 <br>    严格遵守宪法，维护法制统一。政府立法工作必须符合国家宪法规定的基本原则，维护国家的整体利益，严格按照法定职权和程序立法，起草的地方性法规、规章，不得同国家宪法、法律、行政法规相抵触。对不属于地方管理权限范围内的事项，不得随意立法；对同一管理事项，国家法律、行政法规没有设定行政许可的，政府立法不得设定行政许可事项。市政府规章和规范性文件不得设定行政许可事项，设定行政处罚和行政强制措施，要严格按照《中华人民共和国行政处罚法》的规定执行。 <br><br>?  坚持群众路线，民主立法。政府立法要体现民情、反映民意、集中民智。要畅通民主立法渠道，通过召开立法座谈会、论证会、听证会和在新闻媒体及网络上公开立法草案等形式，广泛征求社会各界意见和建议，充分倾听人民群众的呼声，让人民群众充分行使知情权、参与权，努力提高政府立法工作的民主性。 <br><br>?  紧密联系实际，服务社会发展。政府立法工作要从实际出发，突出地方特色，把立法决策与改革发展稳定紧密结合起来。要围绕市委、市政府的中心工作，重点解决经济发展中的重点问题，体制改革中的难点问题，社会稳定中的热点问题。要切合实际，不能盲目照抄、照搬国家和外地立法。坚持立、改、废并重，及时清理、修改和废止现行不符合发展要求或已经过时、失效的法规、规章。 <br><br>?  深化政府立法改革，转变政府职能。通过加强立法工作，促进政府职能转到经济调节、市场监管、社会管理和公共服务上来。按照精简、统一、效能的原则，合理调整、科学确定部门职权，把政府立法从强化公民义务和部门权力转变到强化公民权利和部门责任上来，从源头消除政府公共权力部门化、部门权力利益化的倾向。按照权力与责任和义务相统一的原则，在赋予行政机关权力的同时，必须规定其行使权力的程序和应负的责任；在规定公民、法人和其他组织义务的同时，必须规定其应享有的权利和实现其权利的措施和途径。对法律赋予公民、法人和其他组织的权利，不得在立法中加以限制；设定公民、法人和其他组织义务要与其权利相一致，充分考虑其履行义务的能力。 <br><br>    二、加强政府立法计划工作 <br>  ?各区、县（市）人民政府和市政府各部门，要按照市委、市政府每年的总体工作部署和确定的主要任务，在充分调查研究的基础上，对本地区、本部门需要立法的事项进行认真研究，科学论证，区别轻重缓急，提出立法项目，于每年10月底前，向市政府法制部门报送拟列入翌年政府立法计划项目。在提报立法项目时，要同时提交与政府立法项目有关的材料。市政府法制部门应当围绕市委、市政府的中心工作，根据各地区、各部门提报的立法项目成熟程度，统筹规划，拟定计划，提请市政府常务会议讨论通过后组织实施。 <br><br>?  政府立法项目立项要坚持少而精，符合实际，并具有前瞻性，既要解决改革发展稳定中面临的现实问题，又要为深化改革、加快发展留有空间和余地。对国家和省法律、法规、规章已有原则规定，但需明确具体执行做法的，可以立项；对国家和省已经立项正在制订或者修订的，暂缓立项；对国家和省未做规定，本市发展急需、有地方特色的，作为重点立项；对一些急需解决的问题需要立法，但短时间内难以准确设定的，可以立项，制定的法规、规章以暂行、试行方式出台，为修改完善留有空间，避免朝令夕改，以维护政府立法的严肃性。 <br><br>  ?政府立法计划一经确定，必须严格执行。对市政府年度立法计划中确定的立法项目，负责起草的地区和部门必须按照计划规定的时间提报。对未列入市政府年度立法计划，因特殊情况需要追加立法项目的，应当征得市政府法制部门同意，报请市政府分管法制工作的副市长或市长批准后，方可追加立法项目，并按立法程序办理。 <br><br>    三、严格政府立法程序 <br>  ?地方性法规、规章的设立要严格按照规定的程序进行。列入政府立法计划的地方性法规、规章项目，由项目涉及部门负责起草，也可以由市政府法制部门起草或组织起草，起草时可以邀请有关专家、组织参加，也可以委托有关专家、组织起草。起草地方性法规、规章，应当深入调查研究，认真总结经验，采取书面征求意见、座谈会、论证会、听证会等多种形式，广泛听取有关部门、组织和公民的意见。对重要的立法项目，应当在充分调查研究、学习借鉴其他城市经验的基础上起草。调研应当由起草部门、市政府法制部门和市人大相关部门共同参与；对涉及相关部门的立法项目，可由几个部门共同参与调研，以节省立法时间，降低立法成本。对一些直接涉及公民、法人或者其他组织切身利益，有关部门、组织或者公民对其有重大分歧意见的，应当按照规定举行听证会，或者向社会公布，广泛征求社会各界意见。起草的地方性法规、规章在上报市政府前，必须经部门领导班子集体讨论。对起草过程中遇到的问题和协调过程中出现的分歧意见，有关部门要站在全局的高度，从全市人民的利益出发，寻求解决问题的途径。市政府法制部门要严格按照规定的程序和要求，对上报的地方性法规、规章草案进行审查，严格把关，对不符合法律、法规规定，脱离实际的要求，要坚持原则，予以修正。对涉及主要措施、管理体制、权限分工等问题存在分歧，经市政府法制部门协调而不能达成一致意见的，应当提请市政府领导协调。在地方性法规、规章草案起草、审核过程中，要邀请市人大常委会相关部门提前介入；部门在起草地方性法规、规章规章草案时，市政府法制部门也要提前介入，共同研究，及时沟通，统一认识，努力提高政府立法质量。要适当调整和充实政府立法咨询专家队伍，把责任心强、造诣较深的专家、学者和法律工作者充实进来。建立年度优秀立法项目评选奖励制度，每年对上一年部门提报、已经出台的立法质量较高的项目予以奖励。 <br><br>    四、建立健全政府立法工作责任制 <br>  ?列入政府立法计划的地方性法规、规章项目，应同时列入部门的年度工作考核目标。承担法规、规章草案起草任务的部门，要把起草工作纳入重要工作日程，明确分管领导，落实起草人员，确保工作进度和提报时间。列入年度政府立法计划的项目，政府立法经费要同时列入部门年度预算，专款专用。对政府立法中涉及的重大问题，部门主要领导要亲自过问，积极协调，并及时向市政府分管领导汇报。政府立法计划实施后，对因国家政策调整或者国家和省即将出台相关法律、法规等特殊情况，而不能按时提报法规、规章项目初稿或者需要撤销立法项目的，承担起草任务的部门要向市政府写出专题报告，经市政府批准后方可延期提报或者撤销立法项目，或者列入下一年度政府立法计划。对未经市政府批准，没有按照规定时间提报的，不予列入下一年度政府立法计划，在市政府年度目标考核中予以扣分。 <br><br>  ?市政府法制部门要建立文稿审核责任制，明确审核时限和质量要求，确保政府立法计划在规定时间内完成。 <br><br>    五、提高政府立法人员素质 <br>  ?加强政府立法工作，提高政府立法工作质量，必须有一支政治强、业务精、作风正的政府立法工作人员队伍。各区、县（市）人民政府及市政府各部门应当加强法制机构建设，要配备专人从事政府立法工作，政府立法任务较重的市政府工作部门要适当增加人员。要高度重视政府立法工作人员的选拔和培养，保持政府立法工作人员的相对稳定。各级政府及其工作部门的立法工作人员要认真学习贯彻党的十六大精神，增强立法为民的观念，提高践行“三个代表”重要思想的自觉性；要加强业务培训，不断拓宽知识领域，更新知识结构，提高素质和能力，适应政府立法工作发展的需要。 <br><br>    二○○三年十一月十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

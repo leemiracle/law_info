@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政办字〔2005〕66号<BR>&nbsp;&nbsp;【发布日期】2005-03-14<BR>&nbsp;&nbsp;【生效日期】2005-03-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nmg.gov.cn/nqnsii1.asp?id=210&zl=4" target=_blank>内蒙古自治区 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区人民政府关于做好地震应急基础数据收集工作的通知<br><br></font>(内政办字〔2005〕66号)</p><br> <br><br>各盟行政公署、市人民政府，自治区各有关委、办、厅、局：<br>    为提高对破坏性地震的应急反应和指挥能力，国务院和自治区地震应急指挥技术系统建 设已全面展开，我区将进行地震应急指挥技术系统基础数据的收集汇总工作。经自治区人民政府同意，现将有关事项通知如下。<br>    一、基础数据收集主要内容<br>    (一)基础地理图(比例尺：1∶50000，盟市所在地1∶10000，要求以数字化地理图的形 式提供)<br>    (二)行政区划图<br>    (三)城区图(城区道路分布图、城区管道分布图、城区内桥梁分布图、城区疏散场地分 布图、城区重要建筑分布图等)<br>    (四)人口统计数据<br>    (五)房屋统计数据(含不同结构类型房屋的分布情况、分年代建筑面积情况)<br>    (六)国民经济统计数据<br>    (七)企业经济统计数据<br>    (八)地质资料(1∶200000地质图)<br>    (九)地震资料(地震区划图、地震台站分布图、地震分布图等)<br>    (十)机场数据<br>    (十一)交通分布图(公路分布图、铁路分布图)<br>    (十二)桥梁、隧道分布(除市内桥梁)<br>    (十三)大型油气管线分布图<br>    (十四)水库数据及分布图<br>    (十五)悬河段分布图<br>    (十六)重大火灾、爆炸、有毒、放射危险源分布图<br>    (十七)崩塌、滑坡、泥石流危险区分布图<br>    (十八)国家级、自治区级旅游景点和自然保护区分布图<br>    (十九)国家级和省级文物保护单位分布图<br>    (二十)旗县行政的少数民族数据<br>    (二十一)国家级、自治区级贫困旗、县分布图<br>    (二十二)各盟市、旗县气象统计数据<br>    (二十三)各地学校统计数据<br>    (二十四)各地(到旗县所在地)医疗救护力量数据<br>    (二十五)各地(到旗县所在地)消防力量数据<br>    (二十六)各地物资储备数据(含救灾物资仓库明细)<br>    (二十七)各地地震应急预案数据<br>    (二十八)军队与武警联系数据<br>    (二十九)盟市、旗县抗震防灾规划的报告及附图、大中型企业的抗震防灾规划及附图<br>    二、基础数据收集任务分工<br>    盟市、旗县抗震防灾规划的报告及附图、大中型企业的抗震防灾规划及附图、城市街图 ，由盟市、旗县建设部门负责提供；盟市、旗县人口与社会经济数据、苏木乡镇级人口数据 ，由盟市、旗县统计部门负责提供；次生灾害分布图，由负责次生灾害管理的部门负责提供 (如燃气公司、石油公司、医院、科研单位、化工厂)；盟市、旗县消防数据，由盟市、旗县 消防部门负责提供；盟市、旗县医疗救护数据，由盟市、旗县卫生部门负责提供；生命线工 程图，由邮电通讯、交通、建设、水利等部门负责提供。基础数据收集的统计方法和统计工 作中的技术问题，由盟市地震部门负责指导。<br>    各地区、各有关部门要高度重视基础数据的收集工作，加强领导，明确任务，落实责任 ，密切配合。对基础数据收集工作中遇到的具体困难和问题，要及时协调解决。此项工作由 内蒙古地震局牵头负责。各盟市基础数据的汇总工作由盟市地震部门负责。收集汇总后的基 础数据于2005年11月底报送内蒙古地震局。<br>                                   <br>                                                         二○○五年三月十四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]179号<BR>&nbsp;&nbsp;【发布日期】2005-11-01<BR>&nbsp;&nbsp;【生效日期】2005-11-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200511180926169162" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于印发全国统一税收执法文书式样的通知<br><br></font>(国税发[2005]179号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局： <br><br>    为进一步规范税收征纳行为，促进税收执法文书合法、准确、规范地使用，推进依法治税，根据《中华人民共和国税收征收管理法》及其实施细则的有关规定，我们重新制定、修改了部分税收执法文书。现印发给你们，并就有关问题通知如下:?<br><br>    一、各级税务机关要充分认识税收执法文书的重要性，严格按照规定的权限及程序使用和管理税收执法文书。同时，要加强各部门的协调配合，充分发挥信息化管理的优势，保证税收执法文书使用规范、流转畅通、归档及时。?<br><br>    二、本次制定、修改的税收执法文书共67 个(见附件1：全国统一税收执法文书式样)，包括税务管理、税款征收、税务检查以及税务行政处罚等使用的文书。各省、自治区、直辖市和计划单列市国家税务局、地方税务局可根据实际工作需要，适当增加文书的联次，并制定具体的管理办法。?<br><br>    没有纳入此次统一下发范围内，但已在总局（包括总局和其他部门联合发文）制定的其他有效规章、规范性文件中规定的税收执法文书可继续使用。?<br><br>    三、总局在制定、修改税收执法文书的同时，制定了税收执法文书标准（见附件2：税收执法文书标准）。各级税务机关在制作、使用税收执法文书时，应当按照统一的标准执行。除有特殊规定或业务上有特殊需求的外，未在本次统一的文书，也应当按照《税收执法文书标准》制作和使用。?<br><br>    四、各级税务机关要以此次推行全国统一税收执法文书为契机，加强科学化、精细化管理，认真总结和积累文书使用和管理经验。执行中发现的问题请及时报告总局（征收管理司）。?<br>此次下发的全国统一税收执法文书，自2006年5月1日起执行。<br>?<br>    附件：1.全国统一税收执法文书式样<br>          2.税收执法文书标准<br><br>                                       国家税务总局<br>                                     二○○五年十一月一日<br><br>附件1：<br><br>    1.全国统一税收执法文书式样<br><br> <br><br>附件2<br><br><br>税收执法文书标准<br><br>    为规范、简化税收执法文书的制作和使用，有利于信息化管理，促进信息共享，根据《中华人民共和国税收征收管理法》及其实施细则的规定，确定税收执法文书标准如下：<br>    一、文书名称<br>    统一对外文书的税务机关名称，除法律、行政法规特别规定和部门之间对等原则外，均采用“××税务局”，与现行文书发文文头保持一致，税务局和稽查局都使用的文书，文头采用“××税务局（稽查局）”。<br>    二、文书字号<br>    文书字号统一为“    税    〔   〕   号”，年份应使用公元全称，去掉“年”字，例如“2004”不得写成“04”，并用六角号“〔   〕”括起；年份和序号一律使用阿拉伯数码；序号前一律不加“第”字和虚位“0”。稽查局使用文书时，应在字轨中增加“稽”字，以区别于本级税务局。如《税收强制执行决定书》（扣缴税收款项适用），税务局使用时，字轨为“    税强扣〔   〕    号”；稽查局使用时，字轨为“    税稽强扣〔   〕    号”。<br>    三、引用条款<br>    文书引用新《税收征管法》及其实施细则等法律、行政法规、行政规章时，应尽量直接标明具体的条款，并引用原文。<br>    四、文书的受理和审批<br>    文书的受理和审批栏，统一使用经办人、负责人，税务机关签章。在使用中应按照《税收征管法》及其实施细则规定的权限和程序使用，例如《税收征管法》明确为税务局局长批准的，签字的负责人应为局长。 <br>    五、告知事项<br>    文书中有告知事项的，统一将告知事项作为文书的内容，放在文书正文的尾部。复议事项中应写明具体的复议税务机关名称，需要先缴纳税款、滞纳金或者提供纳税担保的，在告知事项中标明。<br>    六、技术规范<br>    1.文书尺寸。除有个别要求的文书外，统一使用A4幅面纸张(210mm×297mm)印制。<br>    2．字体字号。税务机关名称使用2号宋体；文书名称使用1号宋体；文书字轨文号、字号和正文使用3号仿宋；表格内文字使用小4号仿宋。使用说明使用3号仿宋。<br>    3．文书一般每页22行，每行28个字。<br>    4．文书页数在2页或者2页以上的，需在页码处标注“共×页第×页”。<br>    5．取消一式两栏或多栏文书，统一采用一式多份文书。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

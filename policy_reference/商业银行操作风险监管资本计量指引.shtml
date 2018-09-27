@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2008-09-18<BR>&nbsp;&nbsp;【生效日期】2008-10-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cbrc.gov.cn/chinese/home/jsp/docView.jsp?docID=200810170D14AE6910E038E6FF06B4DC18740400" target=_blank>中国银行业监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商业银行操作风险监管资本计量指引</font></p><br><br><br>机关各部门、各监事会办公室，各银监局，各政策性银行、国有商业银行、股份制商业银行，邮政储蓄银行：?<br><br>    为推动新资本协议实施准备工作，确保2010年底新资本协议如期实施，银监会制定了第一批新资本协议实施监管指引，包括《商业银行银行账户信用风险暴露分类指引》、《商业银行信用风险内部评级体系监管指引》、《商业银行专业贷款监管资本计量指引》、《商业银行信用风险缓释监管资本计量指引》和《商业银行操作风险监管资本计量指引》（以下简称5个监管指引），现印发给你们，并就有关事项通知如下：?<br><br>    一、5个监管指引是新资本协议实施配套监管制度的重要组成部分，银监会将陆续发布其它监管指引。5个监管指引中，有关监管资本的计量方法自银行获得银监会批准实施新资本协议之日起施行，有关风险暴露分类、内部评级体系、专业贷款评级、信用风险缓释管理和操作风险管理的监管要求和技术规范自2008年10月1日起施行。?<br><br>    二、实施新资本协议银行应对照5个监管指引进行达标评估，确保监管合规。5个监管指引确立的相关技术规范和监管标准是新资本协议银行应达到的最低要求。新资本协议银行应对照5个指引逐条进行合规性评估，对未达标的领域和环节，应制定切实可行的限期达标方案。对监管标准尚不明确的，新资本协议银行应主动与监管部门沟通，尽早达成共识。从2008年第四季度起，新资本协议银行应根据银监会发布的相关监管指引按季进行达标评估，建立详细的达标评估文档。新资本协议银行应于2008年底前向银监会提交首轮5个监管指引达标评估报告。?<br><br>    三、加强相关培训工作，为新资本协议实施提供人才保障。监管部门、银监局和新资本协议银行要以5个监管指引发布为契机，加强对监管人员和从业人员的培训。银监会负责会机关监管人员、银监局负责人以及新资本协议银行董事和高管层的培训。各银监局负责辖内监管人员的培训。新资本协议银行的培训范围应覆盖各层级高级管理人员、主要业务条线员工、风险管理条线所有员工。?<br><br>    四、全面开展定量影响测试，加强对新资本协议实施准备工作的监督检查。从2009年开始，银监会将对新资本协议银行进行定量影响测算，持续监测实施新资本协议对资本充足率的影响。新资本协议银行要做好相关数据和信息系统的准备工作。监管部门和银监局要将新资本协议银行实施准备情况列入今后几年监管工作的重点，建立与新资本协议银行的定期会晤机制，持续监督实施准备工作进展。2009年上半年完成对两家新资本协议银行的现场评估，2009年下半年完成对计划2010年底开始实施新资本协议的银行的第一轮现场评估。?<br><br>    五、请各银监局将5个监管指引转发给辖内城市商业银行、农村商业银行、农村合作银行和外资法人银行。银监会鼓励暂不准备实施新资本协议的银行参照5个监管指引改进风险管理。<br><br>中国银行业监督管理委员会<br>二○○八年九月十八日<br><br><br>商业银行操作风险监管资本计量指引<br><br>    <font class='zhang'>第一章</font>  总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为规范商业银行操作风险监管资本计量，根据《<a href=javascript:ROF(114078,0) class=alink>中华人民共和国银行业监督管理法</a>》、《<a href=javascript:ROF(90483,0) class=alink>中华人民共和国商业银行法</a>》等法律法规，制定本指引。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本指引适用于《中国银行业实施新资本协议指导意见》确定的新资本协议银行和自愿实施新资本协议的其他商业银行。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  本指引所称操作风险是指由不完善或有问题的内部程序、员工、信息科技系统，以及外部事件所造成损失的风险。本定义所指操作风险包括法律风险，不包括策略风险和声誉风险。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  商业银行应按照《商业银行操作风险管理指引》的要求，将操作风险管理作为主要风险管理职能纳入全行风险管理体系。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  商业银行应选择下列方法之一计量操作风险监管资本：标准法、替代标准法、高级计量法。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  商业银行计量操作风险监管资本应符合本指引规定的条件，经中国银行业监督管理委员会（以下简称银监会）批准后方可实施。未经银监会批准，商业银行不得变更操作风险监管资本计量方法。<br><br>    银监会依据审慎监管规则，认定商业银行内部控制不健全、操作风险管理薄弱的，可要求商业银行在按照本指引方法计量结果的基础上提高操作风险监管资本。<br><br>    <font class='zhang'>第二章</font>  标准法<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  商业银行使用标准法，应符合以下条件：<br><br>    （一）商业银行董事会应承担监控操作风险管理有效性的最终责任，高级管理层应负责执行董事会批准的操作风险管理策略、总体政策及体系。<br><br>    （二）商业银行应建立与本行的业务性质、规模和产品复杂程度相适应的操作风险管理系统。该管理系统应能够记录和存储与操作风险损失相关的数据和操作风险事件信息，能够支持操作风险及控制措施的自我评估和对关键风险指标的监测，能够帮助商业银行有效地识别、评估、监测、控制、缓释操作风险。该管理系统应配备完整的制度文件，规定对未遵守制度的情况进行合理的处置和补救。<br><br>    （三）商业银行应系统性地收集、整理、跟踪和分析操作风险相关数据，包括业务条线的操作风险损失金额和损失频率，定期根据损失数据进行风险评估，并将评估结果纳入操作风险监测和控制。<br><br>    （四）商业银行应建立清晰的操作风险内部报告路线。商业银行负责操作风险管理的部门应定期向高级管理层和董事会提交全行的操作风险管理报告，报告中应包括操作风险及控制措施的评估结果、关键风险指标、主要操作风险事件、已确认或潜在的重大操作风险损失等信息，并对报告中反映的信息采取有效举措。<br><br>    （五）商业银行应投入充足的人力和物力支持在业务条线实施操作风险管理，并确保内部控制和内部审计的有效性。<br><br>    （六）商业银行的操作风险管理系统和流程应接受验证和审查，验证和审查应覆盖业务条线和全行的操作风险管理。<br><br>    （七）商业银行的操作风险管理系统及其验证情况应接受银监会的监督检查。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  商业银行使用标准法计量的操作风险监管资本，等于前三年操作风险监管资本的算术平均数。<br><br>    前三年中每年的操作风险监管资本等于当年以下业务条线监管资本的总和：公司金融、交易和销售、零售银行、商业银行、支付和清算、代理服务、资产管理、零售经纪、其他业务条线。以上各业务条线监管资本相加为负数的，当年的操作风险监管资本用零表示。<br><br>    每年各业务条线的监管资本等于当年该业务条线的总收入与该业务条线对应β系数的乘积。<br><br>    业务条线的总收入等于该业务条线的净利息收入与净非利息收入之和。业务条线对应β系数和标准法计算说明详见附件1。总收入的范围和业务条线的归类原则详见附件2。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  商业银行用标准法计算操作风险监管资本的公式为：<br><br>    KTSA= {S 1-3年 max[S(GI1-9 × b1-9),0]}/3<br><br>    其中: <br><br>    KTSA 为商业银行用标准法计算的操作风险资本要求；<br><br>    {S 1-3年 max[S(GI1-9 × b1-9),0]} /3的含义是前三年操作风险监管资本的算术平均数；<br><br>    max[S(GI1-9 × b1-9),0]的含义是当年的操作风险资本要求为负数的，用零表示；<br><br>    GI1-9 = 各业务条线当年的总收入；<br><br>    ?1-9 =  各业务条线对应的?系数。<br><br>    <font class='zhang'>第三章</font>  替代标准法<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  商业银行使用替代标准法，应符合本指引第七条规定的条件，并应向银监会书面证明与使用标准法相比，使用替代标准法能够减缓风险重复计量的程度。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  除零售银行和商业银行业务条线的总收入用前三年贷款余额的算术平均数与3.5%的乘积替代外，替代标准法的业务条线归类原则、对应系数和计算方法与标准法相同。零售银行和商业银行业务条线的监管资本计算公式分别为：<br><br>    零售银行业务条线的监管资本=3.5%×前三年零售银行业务条线贷款余额的算术平均数×12%<br><br>    商业银行业务条线的监管资本=3.5%×前三年商业银行业务条线贷款余额的算术平均数×15%<br><br>    商业银行业务条线的贷款余额中还应包括银行账户证券的账面价值。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  商业银行对除零售银行和商业银行以外的业务条线的监管资本，可以按照标准法计算，也可以用其他业务条线的总收入之和与18％的乘积代替。替代标准法计算说明详见附件3。<br><br>    <font class='zhang'>第四章</font>  高级计量法<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  高级计量法是商业银行通过内部操作风险计量系统计算监管资本的方法。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  商业银行使用高级计量法，除应符合本指引第七条规定的条件外，还应符合以下定性要求：<br><br>    （一）商业银行的操作风险计量应成为操作风险管理流程的重要组成部分，相关计量系统应能促进商业银行改进全行和各业务条线的操作风险管理，支持向各业务条线配置相应的资本。<br><br>    (二)商业银行的操作风险计量系统应通过验证，验证的标准和程序应符合银监会的有关规定。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  商业银行使用高级计量法，还应符合以下定量要求：<br><br>    （一）操作风险计量系统应具有较高的精确度，考虑到了非常严重损失事件发生的频率和损失的金额。<br><br>    （二）商业银行应具备操作风险计量系统的模型开发和模型独立验证的严格程序。<br><br>    （三）商业银行如不能向银监会证明已准确计算出了预期损失并充分反映在当期损益中，就应在计量操作风险监管资本时综合考虑预期损失和非预期损失之和。<br><br>    （四）商业银行在加总不同类型的操作风险监管资本时，可以自行确定相关系数，但要书面证明所估计的各项操作风险损失之间相关系数的合理性。<br><br>    （五）商业银行操作风险计量系统的建立应基于本行内部积累的损失数据、外部相关损失数据、情景分析、本行的业务经营环境和内部控制等四个基本要素。<br><br>    （六）商业银行应对本条第（五）款所提的四个基本要素在操作风险计量系统中的作用和权重做出书面合理界定。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  商业银行用于计量操作风险的内部损失数据至少应符合以下条件：<br><br>    （一）商业银行应具备至少5年观测期的内部损失数据。初次使用高级计量法的商业银行，可使用3年期的内部损失数据。<br><br>    （二）商业银行应书面规定对内部损失数据进行加工、调整的方法、程序和权限。<br><br>    （三）商业银行收集内部损失数据，应设置合理的损失事件统计金额起点。<br><br>    （四）商业银行操作风险计量系统使用的内部损失数据应与本指引附件2规定的业务条线归类目录和附件4规定的损失事件类型目录建立对应关系。<br><br>    （五）商业银行的内部损失数据应全面覆盖对全行风险评估有重大影响的所有重要的业务活动。<br><br>    （六）商业银行除应收集损失金额信息外，还应收集损失事件发生时间、损失事件发生的原因等信息。<br><br>    （七）商业银行对由一个中心控制部门（如信息科技部门）或由跨业务条线及跨期事件引起的操作风险损失，应制定合理具体的损失分配标准。<br><br>    （八）商业银行对因操作风险事件(如抵押品管理缺陷)引起的信用风险损失，如已将其反映在信用风险数据库中，应视其为信用风险损失，不纳入操作风险监管资本计量，但应将此类事件在操作风险内部损失数据库中单独做出标记说明。<br><br>    （九）商业银行对因操作风险事件引起的市场风险损失，应反映在操作风险的内部损失数据库中，纳入操作风险监管资本计量。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  商业银行的操作风险计量系统应使用相关的外部数据，包括公开数据、银行业共享数据等，并书面规定外部数据加工、调整的方法、程序和权限。外部数据应包含实际损失金额、发生损失事件的业务规模、损失事件的原因和背景等信息。<br><br>    银监会鼓励实施高级计量法的商业银行之间以适当的形式共享内部数据，作为操作风险计量的外部数据来源。商业银行之间汇总、管理和共享使用内部数据，应遵循事先确定的书面规则。有关规则和运行管理机制应事先报告银监会。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  商业银行的操作风险内部损失数据收集情况及评估结果、对外部数据的使用情况，应接受银监会的监督检查。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  商业银行运用外部数据估计潜在的操作风险大额损失时，应借助风险管理专家的主观情景分析。商业银行对操作风险计量系统所使用的相关性假设，也应进行情景分析。<br><br>    商业银行应及时将事后真实的损失结果与情景分析进行对比，不断提高情景分析的合理性。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  商业银行在运用内部、外部损失数据和情景分析方法计量操作风险时，还应考虑到可能使操作风险状况发生变化的业务经营环境和内部控制因素，并将这些因素转换成为可计量的定量指标纳入操作风险计量系统。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  商业银行可以将保险理赔收入作为操作风险的缓释因素。保险的缓释最高不超过操作风险监管资本要求的20%。保险缓释作用的认可标准由银监会另行规定。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  商业银行可根据本行业务性质、规模和产品复杂程度以及风险管理水平自行选择操作风险计量模型，包括损失分布模型、打分卡模型等。操作风险计量模型的置信度应设定为99.9%，观测期为1年。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  经银监会批准，商业银行可就大部分业务条线使用高级计量法，对其余业务条线使用标准法，但应符合下列条件：<br><br>    （一）商业银行全球范围业务的所有重大操作风险均无遗漏。<br><br>    （二）商业银行使用高级计量法计量的部分应符合高级计量法的要求；使用标准法计量的部分应符合标准法的要求。<br><br>    （三）商业银行应向银监会提交未来全行统一实施高级计量法的计划和时间安排，并确保其可实行。<br><br>    <font class='zhang'>第五章</font> 附则<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  附件1至附件4为本指引的组成部分。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  本指引由银监会负责解释。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  本指引自2008年10月1日起施行；有关监管资本要求的计算规则自获得银监会批准实施新资本协议之日起施行。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

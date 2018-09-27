@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院办公厅<BR>&nbsp;&nbsp;【发布文号】国办发〔2015〕31号<BR>&nbsp;&nbsp;【发布日期】2015-04-27<BR>&nbsp;&nbsp;【生效日期】2015-04-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gov.cn/zhengce/content/2015-04/29/content_9667.htm" target=_blank>国务院办公厅 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>国务院办公厅关于清理规范国务院部门行政审批中介服务的通知</strong><br />国办发〔2015〕31号</p>
+<p>国务院各部委、各直属机构：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 近年来，行政审批中介服务在促进政府部门依法履职、为企业和群众提供专业技术服务等方面发挥了重要作用，但同时存在着环节多、耗时长、收费乱、垄断性强等问题，一些从事中介服务的机构与政府部门存在利益关联，在一定程度上消解了行政审批制度改革的成效，加重了企业和群众负担，扰乱了市场秩序，甚至成为腐败滋生的土壤。为进一步深化行政审批制度改革，促进中介服务市场健康发展，经国务院同意，现就清理和规范国务院部门行政审批中介服务有关事项通知如下：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、清理规范的范围<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国务院部门开展行政审批时，要求申请人委托企业、事业单位、社会组织等机构（以下统称中介服务机构）开展的作为行政审批受理条件的有偿服务（以下称中介服务），包括各类技术审查、论证、评估、评价、检验、检测、鉴证、鉴定、证明、咨询、试验等。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、清理规范的措施<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）清理中介服务事项。对国务院部门行政审批涉及的中介服务事项进行全面清理。除法律、行政法规、国务院决定和部门规章按照行政许可法有关行政许可条件要求规定的中介服务事项外，审批部门不得以任何形式要求申请人委托中介服务机构开展服务，也不得要求申请人提供相关中介服务材料。审批部门能够通过征求相关部门意见、加强事中事后监管解决以及申请人可按要求自行完成的事项，一律不得设定中介服务。现有或已取消的行政审批事项，一律不得转为中介服务。严禁将一项中介服务拆分为多个环节。依照规定应由审批部门委托相关机构为其审批提供的技术性服务，纳入行政审批程序，一律由审批部门委托开展，不得增加或变相增加申请人的义务。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）破除中介服务垄断。放宽中介服务机构准入条件，除法律、行政法规、国务院决定明确规定的资质资格许可外，其他各类中介服务机构资质资格审批一律取消。各部门设定的区域性、行业性或部门间中介服务机构执业限制一律取消。进一步放开中介服务市场，严禁通过限额管理控制中介服务机构数量，各部门现有的限额管理规定一律取消。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （三）切断中介服务利益关联。审批部门所属事业单位、主管的社会组织及其举办的企业，不得开展与本部门行政审批相关的中介服务，需要开展的应转企改制或与主管部门脱钩。对专业性强、市场暂时无力承接，短期内仍需由审批部门所属（主管）单位开展的中介服务，审批部门必须明确过渡期限，提出改革方案，由国务院审改办组织专家论证后按程序报批。审批部门不得以任何形式指定中介服务机构，对各类中介服务机构提供的服务应同等对待；对申请人已委托中介服务机构开展的服务事项，不得再委托同一机构开展该事项的技术性审查。行业协会商会类中介服务机构一律与审批部门脱钩，平等参与中介服务市场竞争。政府机关工作人员一律不得在中介服务机构兼职（任职），政府机关离退休人员在中介服务机构兼职（任职）的，必须符合国家有关规定且不得领取报酬。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （四）规范中介服务收费。对于市场发育成熟、价格形成机制健全、竞争充分规范的中介服务事项，一律通过市场调节价格；对于垄断性较强，短期内无法形成充分竞争的，实行政府定价管理，同时深入推进中介服务收费改革，最大限度地缩小政府定价范围。事业单位提供中介服务的，纳入行政事业性收费管理。审批部门在审批过程中委托开展的技术性服务活动，必须通过竞争方式选择服务机构，服务费用一律由审批部门支付并纳入部门预算。严禁通过分解收费项目、重复收取费用、扩大收费范围、减少服务内容等变相提高收费标准，严禁相互串通、操纵中介服务市场价格。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （五）实行中介服务清单管理。对清理规范后保留为行政审批受理条件的中介服务事项，实行清单管理，明确项目名称、设置依据、服务时限，其中实行政府定价或作为行政事业性收费管理的项目，同时明确收费依据和收费标准。国务院审改办会同发展改革委、民政部、财政部、法制办等有关部门对审批部门提出拟保留的中介服务事项进行研究论证，在听取各方面意见、组织专家评估的基础上，编制中介服务事项清单并向社会公布，接受社会监督。凡未纳入清单的中介服务事项，一律不得再作为行政审批的受理条件。今后确需新设的，必须进行必要性、合理性、合法性审查论证，依照法定程序设定并纳入清单管理。各审批部门要在本部门网站将中介服务事项及相关信息与行政审批事项一并向社会公开。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （六）加强中介服务监管。各行业主管部门要制定完善中介服务的规范和标准，指导监督本行业中介服务机构建立服务承诺、限时办结、执业公示、一次性告知、执业记录等制度，细化服务项目、优化服务流程、提高服务质量。规范中介服务机构及从业人员执业行为。建立惩戒和淘汰机制，严格查处违规收费、出具虚假证明或报告、谋取不正当利益、扰乱市场秩序等违法违规行为。完善中介服务机构信用体系和考核评价机制，相关信用状况和考评结果定期向社会公示。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、组织实施<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）加强组织领导。清理规范中介服务是深化行政审批制度改革的重要内容，政策性强、涉及面广、情况复杂，各有关部门要充分认识这项工作的重要性和紧迫性，加强组织领导，将清理规范工作与取消下放行政审批事项、分类推进事业单位改革、推进行业协会商会与行政机关脱钩、建设社会信用体系等工作结合起来，制定本部门、本系统清理规范的具体工作方案，统筹安排，认真实施。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）明确任务分工。各审批部门负责本部门、本系统清理规范工作，对本部门、本系统行政审批涉及的中介服务事项进行全面梳理，提出清理规范的意见，于2015年5月底前送国务院审改办。发展改革委、财政部、民政部等部门分别负责研究提出规范中介服务收费、建立健全中介服务机构监管制度、强化行业自律等方面的配套改革措施。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （三）严格监督检查。各审批部门要建立健全申请人对中介服务评价反馈机制，向社会公布举报投诉电话、电子邮箱等，主动接受社会监督。国务院审改办要会同发展改革委、民政部、财政部、法制办等部门，及时跟踪各审批部门工作进展情况，加强统筹协调和督促检查，确保清理规范中介服务工作取得实效。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地方各级人民政府要参照本通知要求，结合实际，研究制定本地区清理规范中介服务工作的具体措施并组织实施。</p>
+<p style="text-align: right;">国务院办公厅<br />2015年4月27日</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

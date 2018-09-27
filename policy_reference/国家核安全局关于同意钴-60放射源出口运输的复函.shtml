@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安函〔2008〕36号<BR>&nbsp;&nbsp;【发布日期】2008-06-02<BR>&nbsp;&nbsp;【生效日期】2008-06-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/haqh/200806/t20080606_123641.htm" target=_blank>国家核安全局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家核安全局关于同意钴-60放射源出口运输的复函<br><br></font>(国核安函〔2008〕36号)</p><br><br> <br>北京双原同位素技术有限公司：<br><br>    你公司《关于钴-60放射源货包出口运输的请示报告》（双原发〔2008〕001号）收悉。经研究，批复如下：<br><br>    一、你公司申请使用的H08A型钴-60货包目前尚不完全满足《放射性物质安全运输规程》(GB11806-2004)的要求，鉴于该货包从2000年起至今已有23次的国内运输经验和安全记录，货包外表面的污染水平和外表面的辐射水平均符合GB11806-2004的要求，我局同意你公司以特殊安排的方式向印度出口运输一次放射源，该货包必须于2008年6月30日前离境。该特殊安排的批准序列号为：CN/009/X-96（NNSA）。<br><br>    二、运输过程中，你公司应严格遵守下列要求和限值：<br><br>    1.H08A型货包设计最大装源活度为7.4×1014Bq（20000Ci），本次出口运输的钴-60源总活度限于2×1014Bq（5400Ci）；<br><br>    2.运输线路仅限于中国北京-天津-印度，由北京至天津采用公路专载运输，由天津新港至印度采用货轮运输；<br><br>    3.运输活动应指派押运人员，栓系符合安全要求，装卸、换装时押运人员要现场指导；<br><br>    4.为确保本次运输活动安全，你公司应制定专用的管理程序和应急措施；<br><br>    5. 请你公司在运输实施前10个工作日将运输计划报北京市环保局，以便实施监督、检测；<br><br>    6.本次运输活动除遵守上述限值外，还应遵守公路、水路危险品运输的有关法律、法规和标准。<br><br>    附件：钴-60放射源清单<br><br>二○○八年六月二日<br><br><br>    附件：钴-60放射源清单<br><br>序号<br> 核 素<br> 出厂日期<br> 出厂活度（贝可）<br> 标号/频次<br> 编  码<br> <br>1<br> Co-60<br> 2008.04.19<br> 10.20E+12 Bq<br> B2101<br> 0108CO000612<br> <br>2<br> Co-60<br> 2008.04.19<br> 10.69E+12 Bq<br> B2102<br> 0108CO000622<br> <br>3<br> Co-60<br> 2008.04.19<br> 10.58E+12 Bq<br> B2103<br> 0108CO000632<br> <br>4<br> Co-60<br> 2008.04.19<br> 11.00E+12 Bq<br> B2104<br> 0108CO000642<br> <br>5<br> Co-60<br> 2008.04.19<br> 10.61E+12 Bq<br> B2105<br> 0108CO000652<br> <br>6<br> Co-60<br> 2008.04.19<br> 10.44E+12 Bq<br> B2106<br> 0108CO000662<br> <br>7<br> Co-60<br> 2008.04.19<br> 10.88E+12 Bq<br> B2107<br> 0108CO000672<br> <br>8<br> Co-60<br> 2008.04.19<br> 11.05E+12 Bq<br> B2108<br> 0108CO000682<br> <br>9<br> Co-60<br> 2008.04.19<br> 10.90E+12 Bq<br> B2109<br> 0108CO000692<br> <br>10<br> Co-60<br> 2008.04.19<br> 11.03E+12 Bq<br> B2110<br> 0108CO000702<br> <br>11<br> Co-60<br> 2008.04.19<br> 11.23E+12 Bq<br> B2111<br> 0108CO000712<br> <br>12<br> Co-60<br> 2008.04.19<br> 11.03E+12 Bq<br> B2112<br> 0108CO000722<br> <br>13<br> Co-60<br> 2008.04.19<br> 10.95E+12 Bq<br> B2113<br> 0108CO000732<br> <br>14<br> Co-60<br> 2008.04.19<br> 10.95E+12 Bq<br> B2114<br> 0108CO000742<br> <br>15<br> Co-60<br> 2008.04.19<br> 10.27E+12 Bq<br> B2115<br> 0108CO000752<br> <br>16<br> Co-60<br> 2008.04.19<br> 10.78E+12 Bq<br> B2116<br> 0108CO000762<br> <br>17<br> Co-60<br> 2008.04.19<br> 10.78E+12 Bq<br> B2117<br> 0108CO000772<br> <br>18<br> Co-60<br> 2008.04.19<br> 10.95E+12 Bq<br> B2118<br> 0108CO000782<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

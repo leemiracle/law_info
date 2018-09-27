@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】住房和城乡建设部<BR>&nbsp;&nbsp;【发布文号】建城综函[2010]101号<BR>&nbsp;&nbsp;【发布日期】2010-07-13<BR>&nbsp;&nbsp;【生效日期】2010-07-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mohurd.gov.cn/zcfg/jswj/csjs/201007/t20100714_201516.htm" target=_blank>住房和城乡建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于做好应对高温暴雨极端恶劣天气保障城市市政公用设施安全运行的紧急通知 <br><br></font>(建城综函[2010]101号)</p> <br><br><br>    各省、自治区住房和城乡建设厅，北京市市政市容委、交通委、水务局、园林绿化局，上海市建设交通委、绿化市容局、水务局，天津市建设交通委、市容园林委，重庆市城乡建设委、市政管委、交通委，新疆生产建设兵团建设局：<br><br>    入夏以来，我国出现了高温、暴雨等极端恶劣天气，严重影响到正常的生产生活，预计这类天气仍将持续。为做好城建行业应对高温、暴雨等极端恶劣天气工作，确保城市运行安全，现紧急通知如下：<br><br>    一、切实加强组织领导。各级城建主管部门要高度重视应对工作，结合供排水、供气、环卫、风景园林等各行业实际情况，加强组织领导，深入生产、生活一线，了解实际情况，采取有效措施，强化责任落实，加强协调配合，把恶劣天气的影响减少到最低限度，确保城市市政公用设施安全运行和社会和谐稳定。<br><br>    二、切实提高排涝能力，确保城市安全度汛。加强城市排水系统维护，及时清淤管渠，检修维护泵站，确保设施完好，排水排涝通畅；做好重点部位的排查，特别是城市立交桥下、地下构筑物、城乡结合部的棚户区、危旧房等重点区域的设施检查和维护，若有隐患要及时采取措施；完善应急预案，强化应急措施，坚持24小时值班制度，做到及时快速响应。<br><br>    三、加强供水水质安全监测。增加对水源、出厂水的水质监测项目和频率，根据原水水质变化及时调整药剂投加量，严格防范急性传染性疾病发生。做好供水机电设备运行维护，确保高温条件下设备运行正常。落实应急预案，做好应急水源调配、备用电力设备储备工作,切实保障城市用水安全。<br><br>    四、加强供气安全检查。加强对各类供气设施的安全巡查，特别是消防水池、消防泵、喷淋管线的使用状况和安全阀、放散管、压力表的工作情况，高温天气下要根据设施情况增加喷淋次数。要重点检查清理供气管道占压、供气管线被暴雨侵蚀等情况，防范因高温暴雨恶劣天气导致的燃气安全事故。严禁销售使用充装超期未检、过量充装等不合格的液化石油气钢瓶。<br><br>    五、加强对污水和垃圾处理设施的检查。要及时清掏污水处理厂进水格栅，避免由于暴雨冲刷夹带的垃圾杂物堵塞管道、阀门和水泵等；加强污水处理厂进水量及各处理构筑物的液位与水质监控；加大高温天气下重点设施安全生产监控，确保污泥消化池避雷措施有效，严防发生爆炸事故。生活垃圾收集、转运和处理设施的油泵房、油库、油箱、垃圾坑等要做好防爆、防高温、防火措施。加强垃圾填埋场安全检查，确保坝体安全，防止因暴雨引起坍塌事故，防范渗沥液外溢渗透引发水体污染事故。<br><br>    六、加强道桥和公交场站建设维护。要加强对城市道路、桥梁等设施的巡查和检修，及时排除故障和隐患，确保道路安全畅通。在公交车站建设候车亭，并加强现有候车亭的维护，发挥其防晒防雨功能。协调道路绿化与公交车站建设，发挥行道树的遮阳降温作用。重点做好公共交通场站、轨道交通车站出入口、地下通道等部位应对暴雨水淹的处置方案和应急物资储备。<br><br>    七、加强公园、景区管理，保障游客人身安全。公园、景区要设置防暑降温服务站，做好高温防暑提示警示，并加强医疗、应急救援服务。山岳型景区要防范暴雨引发山体滑坡、滚石和泥石流对游人安全造成影响。夏季公园要适当延长开放时间，为居民提供消暑纳凉服务。动物园要做好高温天气下动物防暑降温工作，密切观察动物异常情况，一旦发现，及时救治。<br><br>    八、加强后勤保障，保证作业人员人身安全。各单位要合理安排作业计划，适当调整作业时间，按时发放劳保用品和高温补贴，加强防暑降温后勤保障工作，切实保障环卫工人等一线工作人员安全健康。<br><br>    中华人民共和国住房和城乡建设部城市建设司<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

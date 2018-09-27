@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银监会办公厅<BR>&nbsp;&nbsp;【发布文号】银监办发〔2008〕23号<BR>&nbsp;&nbsp;【发布日期】2008-02-04<BR>&nbsp;&nbsp;【生效日期】2008-02-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cbrc.gov.cn/chinese/home/jsp/docView.jsp?docID=20080226A5FAF86C984988EAFF85A4A4AF3C1F00" target=_blank>中国银监会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国银监会办公厅关于进一步加强信贷资产证券化业务管理工作的通知<br><br></font>(银监办发〔2008〕23号)</p><br> <br><br>国家开发银行，中国工商银行、中国农业银行、中国银行、中国建设银行、交通银行，各股份制商业银行：<br><br>    自2005年信贷资产证券化试点工作启动以来，部分银行相继开办了该项业务，业务规模日益扩大。为保障信贷资产证券化业务的稳健发展，切实加强风险监管，现就有关事项通知如下：一、强调资产质量，循序渐进推进证券化业务。各行要根据自身业务水平及管理能力等情况循序渐进发展证券化业务。鉴于目前市场情况及投资者风险偏好和承受能力，应强调资产质量，证券化资产以好的和比较好的资产为主；如试点不良资产证券化，由于其风险特征完全不同，各行要切实做好违约风险和信用（经营）风险的分散和信息披露工作。<br><br>    二、确保“真实出售”，控制信贷风险。一是发起行要切实落实证券化资产的“出表”要求，做到真实出售，降低银行信贷风险；二是发起行要准确区分和评估交易转移的风险和仍然保留的风险，对保留的风险必须进行有效的监测和控制。<br><br>    三、强调“经济实质”，严格资本计提。参与证券化业务的相关银行要严格遵循资本监管的有关要求，对于风险的衡量应依据交易的“经济实质”，而不仅仅是“法律形式”，准确判断资产证券化是否实现了风险的有效转移，对于因证券发起、信用增级、投资以及贷款服务等形成的证券化风险暴露都要计提资本，确保资本充足和审慎经营。<br><br>    四、加强风险管理和内部控制，防范操作风险。一是在发起资产支持证券时，发起行应建立针对性较强的证券化业务内部风险管理制度，具体内容应涵盖业务流程与管理、基础资产选调流程、证券化业务会计处理方法等。要确保将信贷资产证券化业务风险管理纳入总体风险管理体系，持续有效地识别、计量、监测和控制各类相关风险。二是在履行贷款服务功能时，贷款服务银行要明确信息提供、资金划付等工作的业务操作流程和内部规章制度，建立严格的内部监督审核机制，动态监控系统运行情况，提高系统功能完备性及稳定性，优化信息系统支持，明确每一个环节的时间截点，确保严格履行相关合同中的义务。<br><br>    五、科学合理制定贷款服务考核机制，防范道德风险。贷款服务银行应建立健全证券化资产管理服务的内部规章和标准，明确岗位职责，充实人员，规范服务管理行为，建立相应的激励考核机制，将证券化贷款管理尽职情况纳入对相关人员的考核范围，确保管理水平达到交易文件约定标准，切实防范贷款服务道德风险。尤其是对于证券化后出现借款人违约的贷款，要切实加大催收力度，提高催收要求和处置效率，实施动态监控，降低操作风险和声誉风险。<br><br>    六、规范债权转移相关工作，防范法律风险。一是发起行应聘请具有良好专业能力和丰富经验的律师事务所、承销商、会计顾问、评级机构等专业机构，确保业务各个环节、步骤的规范运作。二是发起行应与相关司法以及监管部门充分沟通，确保交易结构设计以及实际操作依法合规。三是发起行按照相关规定做好与债务人的沟通工作，防止债务人对证券化业务产生误解，为信贷资产证券化业务提供方便，防范证券化业务可能引发的法律风险。<br><br>    七、严格信息披露，保护投资者利益。参与证券化业务的相关银行要按照有关监管规定做好基础资产池信息披露工作，切实保护投资者利益。在向次级证券投资者披露基础资产信息时，应督促投资者按照相关约定做好重要客户信息的保密工作。<br><br>    八、加强投资者教育工作。参与证券化业务的相关银行要提高公众对信贷资产支持产品价值的认识，充分揭示风险。同时，做好投资者培养工作，尤其是对中小投资者的培养工作。<br><br>二○○八年二月四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

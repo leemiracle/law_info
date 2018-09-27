@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2006]454号<BR>&nbsp;&nbsp;【发布日期】2006-08-31<BR>&nbsp;&nbsp;【生效日期】2006-08-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64014197.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于合成树脂义眼片等产品分类界定的通知<br> <br></font>(国食药监械[2006]454号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为适应医疗器械监督管理工作需要，现将合成树脂义眼片等产品的分类界定通知如下：<br><br>    一、合成树脂义眼片：主要成分为甲基丙烯酸甲酯、聚甲基丙烯酸甲酯、自凝聚甲基丙烯酸甲酯。用于人体眼球摘除后放置于眼结膜内，起填充、支撑、美容作用。作为Ⅱ类医疗器械管理。<br><br>    二、急性中毒现场急救快速检验箱：以临床毒物分析化学为理论基础，采用化学显色反应和高效薄层层析法，对临床上常见含磷农药、安眠药、含氯农药、无机毒物、醇类化合物、有毒气体等提供完整的样品提取、分析鉴定方法，以及配套的实验器具和化学试剂。作为Ⅲ类医疗器械管理。<br><br>    三、抗菌纱布、抗菌敷料：材质为棉花或非织造敷布，含有0.2%聚六甲基撑基双胍盐酸盐（PHMB）抗菌成分。适用于裂口、擦伤、烧伤、渗出伤口、一度和二度烧伤、外科伤口和伤口包扎，以及静脉输注口、气管切开导管切口、胸腔导管切口、插管管口和排液口。阻止细菌在敷料内滋生，减少局部和全部伤口感染。作为Ⅲ类医疗器械管理。<br><br>    四、医用臭氧治疗仪,医用臭氧心血管病、肝病治疗仪：产生臭氧，将洁净无菌并含有一定浓度的臭氧气体充入输液瓶、输血袋内，或对自体回输的血液进行处理后再回输到人体内。用于改善血液流变学指标、改善微循环、抗炎、促进组织修复。治疗血栓、中风后康复、冠状动脉硬化、高血脂、慢性病毒性肝炎。作为Ⅲ类医疗器械管理。<br><br>    五、烧伤敷料：以动物（猪、牛）腹膜为原材料制成，主要是弹力纤维、胶原纤维。用于三度烧伤切痂植皮创面覆盖、浅二度烧伤创面覆盖、深二度烧伤削痂创面覆盖、肉芽植皮创面覆盖。保持烧伤创面的湿润环境，达到促进烧伤创面愈合的功能。作为Ⅲ类医疗器械管理。<br><br>    六、人体癌细胞原代培养组件：由胶原凝胶液滴培养器具，细胞分散用酶，烧瓶、预培养用培养基、无血清培养基、中性红溶液组成。用于抗癌药剂敏感性试验中癌细胞原代培养。作为Ⅲ类医疗器械管理。<br><br>    七、自身免疫性疾病ENA抗体谱微阵列酶联免疫诊断试剂盒：用于检测系统性红斑狼疮等自身免疫性疾病。作为Ⅲ类医疗器械管理。<br><br>    八、可膨胀骨成型器、专用注射器：与KyphxXpander膨胀专用注射器使用，用于压缩性骨折手术复位，在松质骨（如椎骨）内膨胀复位形成一个中空的区域，并为充填骨水泥预留手术通道。作为Ⅲ类医疗器械管理。<br><br>    九、微创骨折复位用11号针：用于微创骨折复位术，一次性使用。初步建立经皮进入骨骼（含椎骨）的路径。作为Ⅲ类医疗器械管理。<br><br>    十、骨导引器系统：由钝骨导引器探针，套管、钝导引针、尖导引针、高精度钻组成。一次性使用。用于微创骨折复位术，通过导针引导，建立经皮进入骨骼的通道。作为Ⅲ类医疗器械管理。<br><br>    十一、无菌硫酸软骨素钠溶液：用于修补膀胱内聚氨糖层，使受损膀胱恢复非渗透性保护性屏障功能。作为Ⅲ类医疗器械管理。<br><br>    十二、长效抗菌材料：含有机硅季铵盐1％－3％，用于皮肤粘膜等创面长效抗菌。如该产品抗菌作用不是通过药理学或药效学达到的，作为Ⅲ类医疗器械管理。<br><br>    十三、溃疡油无菌纱布：主要由花生油和少量大黄、川芎、白芷炸制而成。用于滋润伤口、伤口引流及伤口表面处理。如药品作用为辅，作为Ⅲ类医疗器械管理。<br><br>    十四、纳米活金（无痛金丝植入）：用于植入除皱。作为Ⅲ类医疗器械管理。<br><br>    十五、胶原丝网：用于植入除皱，祛除色斑。作为Ⅲ类医疗器械管理。<br><br>    十六、空气流动床：通过空气流通使医疗用微细陶瓷球流动，依照患者形体提供支持的装置。预防及治疗皮肤组织的压力损伤；排除外部摩擦及植皮的偏位等原因，防止破坏皮肤组织；防止皮肤浸软，消除恶臭，促进睡眠。作为Ⅱ类医疗器械管理。<br><br>    十七、医用弹力袜：用于支撑、纠正、防止腿部畸形，以及用于腿部功能改善的袜形弹力支撑带。作为Ⅱ类医疗器械管理。<br><br>    十八、乳房肿物辅助自检片：产品的外套由两片很薄的聚醚聚氨酯材料制成的薄片对合组成，周边用加热融合的方法封闭，留有一个开口用来填充装有液态硅酮的袋子和少量空气。当填充物装完后开口将通过加热融合封闭，并加上一个聚乙烯材料制成的封口夹。用于辅助乳房肿块的早期自检。作为Ⅱ类医疗器械管理。<br><br>    十九、温热刺激治疗床：通过温热器释放出远红外线和温热,矫治脊椎。作为Ⅱ类医疗器械管理。<br><br>    二十、麻醉视频喉镜：用于挑起患者会厌部暴露声门，指引医护人员准确进行麻醉插管。作为Ⅱ类医疗器械管理。<br><br>    二十一、内窥镜摄像系统：主要包括摄像机、监视器、光学接口、台车、录放机等。与内窥镜相连，不进入人体。用于诊断及手术原始依据的保留。作为Ⅰ类医疗器械管理。<br><br>    二十二、骨水泥填充器（可重复使用）：用于向骨空部位输送和填充骨水泥。作为Ⅰ类医疗器械管理。<br><br>    二十三、病人固定系统：包括头颈部固定系统、胸部固定系统、腹部固定系统、治疗床面系列、CT床板系列、填充物。用于放疗中对病人进行固定。作为Ⅰ类医疗器械管理。<br><br>    二十四、时间分辨荧光检测用增强液、诱导剂：用于与标记在抗体上的铕离子或钐离子鳌合形成强荧光复合物，以便定量检测荧光强度。作为Ⅰ类医疗器械管理。<br><br>    二十五、时间分辨荧光检测用试剂盒稀释液：用于AutoDELFIA和DELFIA试剂盒，检测时，稀释样品和质控品。作为Ⅰ类医疗器械管理。<br><br>    二十六、贫血预处理包：用于DELFIA和AutoDELFIA叶酸及维生素B12试剂盒检测时，对病人样品、质控品和校准品进行预处理。作为Ⅰ类医疗器械管理。<br><br>    二十七、血样溶解溶液（BSA溶液）：用于DELFIA和AutoDELFIA红细胞叶酸检测时溶解血样。作为Ⅰ类医疗器械管理。<br><br>    二十八、手持压力表：用于给各种气管插管、气管切开插管、双腔支气管插管等的球囊充气及测定球囊压力。通过手工对压力表的气囊挤压而达到对各种插管的套囊进行充气或放气，同时在表盘上显示压力值。不与人体接触。作为Ⅰ类医疗器械管理。<br><br>    二十九、数字口腔观察仪：利用高像素摄像头将口腔内牙齿和牙龈以及粘膜组织的病变状态拍摄下来，将图像贮存，并可回放，供临床诊断。作为Ⅰ类医疗器械管理。<br><br>    三十、环孢霉素预处理液：一种含甲醛的辅助液体，用于全自动生化分析仪环孢霉素样本的预处理，萃取样本中环孢霉素。作为Ⅰ类医疗器械管理。<br><br>    三十一、红细胞叶酸溶解剂：成分为抗坏血酸维生素C，用于前处理红细胞，制备红血细胞溶解液，促进红血细胞的叶酸释放。是叶酸检测用辅助试剂。作为Ⅰ类医疗器械管理。<br><br>    三十二、医学光盘刻录机：连接到PACS系统或各类医学影像工作站，作为外围设备，将接收到的信息刻录到光盘上。不作为医疗器械管理。<br><br>    三十三、全自动食品菌落计数仪：用于食品行业，通过软件，自动计算出单位面积内培养皿中菌落的数量。不作为医疗器械管理。<br><br>    三十四、医用悬吊系统：用于手术室与ICU中使用的吊梁设备，供医院手术室设备悬吊和气体及电源供给用的装置，并提供通讯及数据交换接口。不作为医疗器械管理。<br><br>    三十五、全自动样品前处理机：用于临床和科研实验室，用于液体的预分类和分装。不作为医疗器械管理。<br><br>    三十六、尿液收集器：尿液样品的收集和转移以进行临床试验分析。不作为医疗器械管理。<br><br>    三十七、浓缩洗液：用于DELFIA洗板机或AutoDELFIA或DELFIAXpress随机式全自动时间分辨荧光免疫分析系统清洗微孔板。不作为医疗器械管理。<br><br>    三十八、集便袋除臭品：集便袋除臭品包括消臭布、粉末消臭剂。不作为医疗器械管理。<br><br>    三十九、手工判读仪：使用白光或365nm紫外线为各种体外诊断试剂盒提供检测光源，通过目视观察试剂颜色变化来判定结果。不作为医疗器械管理。<br><br>    四十、空气净化装置：通过过滤膜吸附，改善办公环境，提供新鲜洁净的空气。如不用于手术室净化洁净，不作为医疗器械管理。<br><br>    四十一、血型检测卡（不含试剂）：每个筛选卡由六个微柱组成，微柱内主要成份是强亲和力的凝胶高密度介质。将试剂和样本加入微柱内，反应后离心，分离阴阳性结果。不作为医疗器械管理。<br><br>    四十二、血库信息管理系统：实现血库的计算机化作业，对血源、样本、血库检验项目进行管理。不作为医疗器械管理。<br><br>    四十三、椎间溶合手术工具：可重复使用。用于给患者安装椎间溶合器。由不锈钢制成的钳子、椎间盘扩张器。由钛合金制成的直锥和模板固定器、引导锉、曲锥。作为Ⅱ类医疗器械管理。由不锈钢制成的缩肌牵引器模板、变形器、模板测量器。作为Ⅰ类医疗器械管理。<br><br><br>                                                        国家食品药品监督管理局<br>                                                        二○○六年八月三十一日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

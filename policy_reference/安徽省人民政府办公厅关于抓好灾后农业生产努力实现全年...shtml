@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2007〕56号<BR>&nbsp;&nbsp;【发布日期】2007-09-04<BR>&nbsp;&nbsp;【生效日期】2007-09-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4203" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅关于抓好灾后农业生产努力实现全年农民增收目标的通知<br><br></font>(皖政办〔2007〕56号)</p><br><br> <br>    各市、县人民政府，省政府有关部门：<br>      今年以来，我省农业农村经济总体运行良好，夏粮喜获丰收，养殖业健康发展，农产品价格稳中有升，农民收入增长幅度较大。但是，受严重洪涝等自然灾害影响，全省农业损失严重，完成今年农民增收目标任务十分艰巨。为切实抓好灾后农业生产，拓宽农民增收渠道，努力实现全年农民增收目标，经省政府同意，现就有关事项通知如下：<br>    一、切实抓好灾后农业生产，确保全年粮食增产增收。粮食生产是我省农民家庭经营收入的重要来源。今年夏粮生产再创历史新高，为农民增收奠定了基础。当前，粮食生产的关键是要加强灾区在地作物特别是补种作物的田间管理，促进苗情转化，抓好病虫害防控；扎实推进水稻产业提升行动和小麦高产攻关活动，发挥技术集成创新和农业机械的作用，实现增产增收；认真抓好玉米、棉花等高效作物生产，力争实现全年农业生产目标。<br>    二、突出规模化、标准化，加快养殖业发展。把加快畜牧业发展作为调整农业结构、促进农民增收的重点，全面落实国家和省出台的奖补政策，突出发展养猪业和奶牛业。以推进生猪适度规模养殖为突破口，落实资金扶持等保障措施，加快生猪产业化生产，同时要继续鼓励散养户饲养生猪；积极组织招商引“牛”，抓好奶牛改良、扩群，加快奶源基地建设，推进奶业跨越式发展，力争年内新增奶牛16000头以上；加大水产良种繁育体系建设力度，促进名特优水产品规模化、产业化生产；实行以奖代补，重点支持和培育畜产品优势区域和标准化、优质化畜牧业基地建设，确保年内全省建设200个左右的高标准畜禽养殖小区和适度规模畜禽养殖场，使全省畜禽规模养殖比重达到35%以上。加快推进兽医管理体制改革，进一步健全完善村级动物防疫员队伍和防疫体系，加大强制免疫力度，强化检疫和流通环节监督管理，有效防控重大动物疫病，推进畜牧业又好又快发展。  <br>    三、大力培育特色农业，拓展农民增收空间。挖掘农业内部潜力，重点围绕发展现代农业，推进农业结构调整和优化升级，变对抗性农业为适应型农业。突出培育特色农业，重点对蔬菜、茶叶、水果、蚕桑、中药材、菊花及特种养殖发展进行规划引导，抓好一批标准化生产示范基地建设，加快建立区域特色明显、对农民增收起支撑作用的特色产业带，打造一批规模化生产、产业化开发的精深加工产业集群。把茶产业作为促进山区农民增收的重要支柱，加强政策扶持，整合品牌，做大茶产业，振兴茶经济。实施蔬菜产业化促进工程，开展“菜篮子”科技创新，大力发展特色蔬菜，扩大食用菌、水生蔬菜、高山生态蔬菜、地方名特优蔬菜种植规模，实行“以奖代补”，加快棚菜和设施园艺基地建设，促进蔬菜产业发展。<br>    四、提升龙头企业运行质量，大力推进农业产业化经营。全面落实各项扶持政策措施，优先扶持畜牧、粮油类重点龙头企业和其他产业行业排头兵，加快提升龙头企业带动力，确保今年完成“121”强龙工程目标。构建农产品加工科技创新体系和推广应用平台，加快龙头企业科技队伍和创新能力建设，重点突破农产品精深加工等一批重大关键技术，提升农产品精深加工水平。积极构筑招商引资平台，以引进国内外大型企业和优势企业为重点，组织国内外大型农业招商活动，扩大招商引资领域，为龙头企业联合重组创造条件。认真贯彻《农民专业合作社法》，积极整合资金，抓好省、市、县三级示范点建设，大力发展农民专业合作社，推广完善“龙头企业+合作经济组织+农户”的农业产业化运行模式和机制。坚持高起点、高标准，突出科技创新和招商引资，认真谋划新一轮农业产业化发展思路，全面提升农业产业化整体水平。<br>    五、加强农民培训，推进农业科技进步。围绕灾后农民增收，加大农村劳动力培训“阳光工程”实施力度，用好中央财政和省财政“阳光工程”培训补助资金，打造“徽工徽匠”劳务品牌，提高农民就业技能，加快农村劳动力转移，实现外出务工就业收入有较大幅度增长；大力推进农业科技入户，抓好新型农民科技培训和重点农业适用技术培训，力争年内培训新型专业农民3.8万多人，辐射培训农民50万人次，努力提升农民科技水平和生产经营能力；加强农科教统筹协调，建立联动机制，组织农业科研、教学、技术推广人员深入生产第一线，多形式开展“科技促增收”活动，加快推进农村科技进步。<br>    六、树立市场理念，强化市场营销。把拓展农产品市场空间作为促进农民增收的重要举措，努力拓展农产品市场流通渠道。办好2007’中国安徽名优农产品交易会和第八届安徽名优农产品（上海）交易会，组织好第五届中国国际农产品交易会参展活动。同时，大力推进皖优农产品进超市，年内重点培育10个在国内市场有较强竞争力、规模较大、销售链条完备，能为龙头企业产品进超市提供优质原材料或直接进超市的特色农产品生产基地，扶持30个具有地方特色、在国内市场占有一定份额的龙头企业与“长三角”大超市建立稳定销售关系，畅通农产品流通“绿色通道”，力争全省皖优农产品进超市销售额有较大幅度增长。<br>    七、推进农村全民创业，增强县域经济活力。把推进农村全民创业和发展县域经济作为促进农民增收的主要渠道，按照统筹城乡发展的要求，加大政策支持和资金投入力度。重点支持农产品深加工业发展，培育农民就地务工的产业载体，引导外出有成的农村务工人员回乡创业，鼓励本地种养大户、运销大户、经纪人等成为产业化经营主体，加快推进农民就业身份转换，实现农民增收质的飞跃。<br>    八、落实惠农政策，强化为农服务。认真贯彻落实党的各项惠农政策，加强农民负担监管和农资市场监管，严防农民负担反弹，为农民持续增收创造良好的环境。深入推进农村综合改革，加大基层农技推广体系、兽医管理体制和种子管理体制等改革力度，积极推进现代农业服务体系建设。大力推进机关效能建设，搞好服务，切实把促进农民增收的各项措施落到实处，确保实现全年粮食增产、农业增效、农民增收目标。<br>    <br>                                            安徽省人民政府办公厅<br>                                             二○○七年九月四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

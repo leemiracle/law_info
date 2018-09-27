@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动和社会保障部<BR>&nbsp;&nbsp;【发布文号】劳社厅发〔2004〕16号<BR>&nbsp;&nbsp;【发布日期】2004-09-30<BR>&nbsp;&nbsp;【生效日期】2004-09-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.molss.gov.cn/news/2004/1015b.htm" target=_blank>劳动和社会保障部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>劳动和社会保障部办公厅关于建立失业登记和失业保险监测制度的通知<br><br></font>(劳社厅发〔2004〕16号)</p><br><br><br>各省、自治区、直辖市劳动和社会保障厅（局）：<br><br>    为提高失业管理和失业保险宏观决策水平，按照金保工程建设任务安排，根据《关于全面实施金保工程统一建设劳动保障信息系统的意见》（劳社部函〔2003〕174号）要求，我部决定建立失业登记和失业保险监测制度。现就有关事宜通知如下：<br><br>    一、工作目标<br>    在进一步完善劳动力市场信息系统的基础上，依托“金保工程”信息网络，在2006年实现全国范围内市、省、中央三级劳动保障部门对登记失业人员和领取失业保险金人员情况的信息监测，为各级政府的宏观决策提供支持。<br><br>    二、工作内容<br>    （一）建立市级失业登记和失业保险基础信息库。各地级城市劳动保障部门要在建设劳动力市场信息系统的基础上，按照《失业登记和失业保险监测基本项目及指标说明》（附件1）和《失业登记和失业保险监测数据标准及数据库结构》（附件2）要求，将生产区内登记失业人员和领取失业保险金人员的原始信息（以下简称“失业登记和失业保险监测原始信息”），按月转入本市统一的劳动保障数据中心交换区，并上传到省级劳动保障数据中心。<br>    （二）建立省级失业登记和失业保险监测数据库。各省级劳动保障数据中心将辖区内各市上传的失业登记和失业保险监测原始信息在省级交换区合并，并按月上传到部数据中心，同时追加到省级数据中心决策区，形成省级失业登记和失业保险监测数据库。对于地市未建数据中心，业务原始信息集中在省级数据中心的地区，由省级劳动保障部门统一完成监测数据由生产区到交换区的转换以及向部数据中心的上传工作。直辖市直接完成本市全部数据的转换并将数据上传部数据中心。<br>    （三）建立全国失业登记和失业保险监测数据库。劳动保障部按月将各省级数据中心上传的失业登记和失业保险监测原始信息在交换区合并，并追加到决策区，建立全国失业登记和失业保险监测数据库。 <br>    （四）中央、省、市三级劳动保障部门按照统一技术要求和进度要求分别建立失业登记和失业保险监测信息分析制度（失业登记与失业保险监测信息分析内容见附件3）。<br><br>    三、工作要求<br>    （一）2005年，部里将选择15―20个省份实现市―省之间和省―部之间监测信息的上传，完成省级失业登记和失业保险监测数据库建设。其余省份要积极创造条件，做好准备工作，在2006年上半年完成失业登记和失业保险监测数据库建设，并进行数据上传。同时，部里将指导各省、地级城市逐步开展本辖区范围内的监测信息分析工作。<br>    （二）各地要按照《失业登记和失业保险监测数据标准及数据库结构》（附件2），做好数据整理工作和核对工作。要加强基础管理工作，保证登记失业人员和领取失业保险金人员数据的准确性和及时性，对于目前数据项目不全的，要抓紧补齐补记，并做到全部记实。凡已列为全国失业登记和失业保险监测基本项目的数据，必须如实采集、上报，不得瞒报、修改。<br>    （三）失业登记和失业保险监测必须使用统一的监测数据标准、指标体系和监测软件。监测软件（包括数据上传、分析功能）将由我部统一组织开发并提供各地使用。<br>    （四）失业登记和失业保险监测的数据上报由金保工程部―省―市主干网来实现，不得另建网络系统和网络中心。尚未实现部省联网和省内联网的地区，要抓紧进行联网工作。<br>    （五）各地要结合实际，尽快制定出本地区失业登记和失业保险监测实施计划，明确分工，确定主要实施单位和负责人，并于2004年底以前，将实施计划上报我部信息中心。<br>    （六）各地信息化建设综合管理机构要认真做好监测数据的管理工作和技术支持工作；就业服务、失业保险等业务部门要充分利用数据中心集中存储的失业登记和失业保险监测信息，对本省范围内各市失业人员和失业保险金发放情况进行监测和分析，为宏观决策提供支持。<br>    （七）部里将从2004年第四季度起将失业登记和失业保险监测纳入金保工程调度制度当中，对各地工作开展情况进行调度和督导。同时，将组织专项检查，着重检查监测工作的准备情况，包括基础工作规范情况、数据库指标体系的落实情况、基本项目建立健全和数据记实情况等。各地在监测工作中遇到的问题，请及时向上级劳动保障部门报告。<br><br>    附件：1.失业登记和失业保险监测基本项目及指标说明（略）<br>          2.失业登记和失业保险监测数据标准及数据库结构（略）<br>          3.失业登记和失业保险监测信息分析内容（略）<br><br>                                                  劳动和社会保障部办公厅<br>                                                    二○○四年九月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

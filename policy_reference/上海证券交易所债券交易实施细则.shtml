@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】上海证券交易所<BR>&nbsp;&nbsp;【发布文号】上证债字〔2006〕7号<BR>&nbsp;&nbsp;【发布日期】2006-02-06<BR>&nbsp;&nbsp;【生效日期】2006-05-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sse.com.cn/cs/zhs/xxfw/flgz/rules/sserules/sserule20060206.htm" target=_blank>上海证券交易所 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>上海证券交易所债券交易实施细则<br><br></font>(上证债字〔2006〕7号)</p><br><br><br>各会员单位： <br><br> 《上海证券交易所债券交易实施细则》（以下简称“《债券交易细则》”）已经中国证监会核准，现予以发布，并就相关实施事项通知如下。<br><br>     一、自2006年5月8日起，债券现券交易和新挂牌的质押式回购交易执行《债券交易细则》，请做好相关技术准备。 <br><br>     二、对于本所原挂牌的质押式国债回购品种, 1月25日-5月5日期间，以2006年1月25日收市后各会员单位融资回购未到期余额为限, 各会员单位可以继续按照现行回购交易方式进行交易。 <br><br>     三、对于企业债券回购，暂继续执行现行回购交易制度。<br><br>        特此通知。 <br><br>        附件：上海证券交易所债券交易实施细则 <br><br>二○○六年二月六日<br><br><br>上海证券交易所债券交易实施细则<br><br>    <font class='zhang'>第一章</font>  总则 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为规范上海证券交易所（以下简称“本所”）债券市场交易行为，维护市场秩序，防范市场风险，保护投资者的合法权益，根据国家有关法律法规和《上海证券交易所交易规则》（以下简称“交易规则”），制定本细则。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 国债、企业债（以下统称“债券”）的现货交易及质押式回购交易，适用本细则，本细则未作规定的，适用交易规则及本所其他有关规定。 <br>           债券买断式回购交易由本所另行规定。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 债券现货交易、债券质押式回购交易（以下简称“债券回购交易”）可采用集合竞价、连续竞价、大宗交易等方式进行。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 具有本所会员资格的证券经营机构（以下简称“会员”），可在本所市场进行债券经纪业务或自营业务。 <br>           符合规定条件的其他机构（以下简称“特定机构”），可向本所申请取得债券专用席位，用于债券自营业务。 <br>           其他符合规定的投资者，可委托本所会员在本所市场进行债券交易。会员应当承担其申报所产生的交易、交收责任。 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 投资者参与本所市场债券交易，应按照本所全面指定交易的规定，事先指定一家会员作为其债券交易受托人，并与其订立全面指定交易协议、债券现货交易及债券回购交易委托协议。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 会员及其它拥有债券专用席位的机构，应建立完备的业务管理制度及风险控制机制。 <br>           会员不得擅自使用客户的证券帐户或者挪用客户债券为自己或他人从事债券回购交易。违反本规定者，本所可限制或暂停其从事债券回购交易业务，直至取消交易资格，情节严重的，提交中国证监会查处。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 债券现货交易中，当日买入的债券当日可以卖出。<br><br> <a name='8'><font class='TiaoNoA'>第八条</font></a> 债券交易的登记、托管和结算，由本所指定的证券登记结算机构（以下简称证券登记结算机构）按照相关规则办理。 <br><br>  <font class='zhang'>第二章</font>  债券现货交易<br><br>   <a name='9'><font class='TiaoNoA'>第九条</font></a> 国债现货交易按证券帐户进行申报，并实行净价交易。 <br><br>          企业债券现货交易按席位进行申报，并实行全价交易。 <br><br>   <a name='10'><font class='TiaoNoA'>第十条</font></a> 债券现货交易集中竞价时，其申报应当符合下列要求： <br><br>          （一）交易单位为手，人民币 1000 元面值债券为 1 手；<br>          （二）计价单位为每百元面值债券的价格； <br>          （三）申报价格最小变动单位为 0.01 元； <br>          （四）申报数量为 1 手或其整数倍，单笔申报最大数量应当不超过 1 万手；<br>          （五）申报价格限制按照交易规则的规定执行。 <br><br>   <a name='11'><font class='TiaoNoA'>第十一条</font></a> 债券现货交易开盘价，为当日该债券集合竞价中产生的价格；集合竞价不能产生开盘价的，连续竞价中的第一笔成交价为开盘价。 <br><br>           债券现货交易收盘价为当日该债券最后一笔成交前一分钟所有成交价的加权平均价（含最后一笔成交）。当日无成交的，以前一交易日的收盘价为当日收盘价。 <br><br><br>    <font class='zhang'>第三章</font>  债券回购交易 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 国债回购交易按证券帐户进行申报，企业债回购交易按席位进行申报。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 债券回购交易实行质押库制度，融资方应在回购申报前，通过本所交易系统申报提交相应的债券作质押。用于质押的债券，按照证券登记结算机构的相关规定，转移至专用的质押帐户。 <br>             国债回购中，申报提交的质押券应当为国债；企业债回购中，提交的质押券应当为企业债。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 会员接受投资者的债券回购交易委托时，应要求投资者提交质押券，并对其证券帐户内可用于债券回购的标准券余额进行检查。              标准券余额不足的，债券回购的申报无效。 <br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 债券回购交易申报中，融资方按“买入”予以申报，融券方按“卖出”予以申报。 <br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 当日购买的债券，当日可用于质押券申报，并可进行相应的债券回购交易业务。 <br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 质押券对应的标准券数量有剩余的，可以通过本所交易系统，将相应的质押券，申报转回原证券帐户。当日申报转回的债券，当日可以卖出。 <br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 债券回购交易集中竞价时，其申报应当符合下列要求： <br><br>       （一）申报单位为手，1000元标准券为1手；<br>       （二）计价单位为每百元资金到期年收益； <br>       （三）申报价格最小变动单位为0.005元或其整数倍； <br>       （四）申报数量为100手或其整数倍，单笔申报最大数量应当不超过1万手； <br>       （五）申报价格限制按照交易规则的规定执行。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 国债回购交易设1天、2天、3天、4天、7天、14天、28天、91天和182天等回购期限；企业债券回购交易设1天、3天和7天等回购期限。 根据市场需要，本所可调整债券回购期限和品种。 <br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 债券回购交易实行“一次成交、两次结算”制度，具体的清算交收，按照证券登记结算机构的规则办理。 <br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 回购到期日，证券登记结算机构根据购回价公式计算应进行交割的资金和质押券数量。 <br>               购回价计算公式为：购回价=100元＋年收益×100元×回购天数/360 计算结果按照四舍五入原则取至小数点后三位。 <br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 债券回购交易期限按日历时间计算。若到期日为非交易日，顺延至下一个交易日。 <br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 可作质押式回购的债券品种，由本所在债券上市通知中予以公布。 <br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 债券回购交易的融资方，应在回购期内保持质押券对应标准券足额。 <br>               债券回购到期日，融资方可以通过本所交易系统，将相应的质押券，申报转回原证券帐户，也可以申报继续用于债券回购交易。当日申报转回的债券，当日可以卖出。 <br><br>    <font class='zhang'>第四章</font>  附则 <br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 本细则下列术语含义为： <br>       （一）净价交易：指在债券现货交易中，以不含有应计利息的价格报价并成交的交易方式。 <br>       （二）全价交易：指在债券现货交易中，以含有应计利息的价格报价并成交的交易方式。 <br>       （三）质押式回购交易：指将债券质押的同时，将相应债券以标准券折算比率计算出的标准券数量为融资额度而进行的质押融资，交易双方约定在回购期满后返还资金和解除质押的交易。其中，质押债券取得资金的会员或特定机构为“融资方”；作为其对手方的会员或特定机构称为“融券方”。 <br>       （四）标准券：由不同债券品种按相应折算比率折算形成的，用以确定可通过质押式回购交易进行融资的额度。<br>       （五）标准券折算比率：指各债券现券品种所能折成的标准券金额与债券面值之比。 <br>       （六）质押券：指申报提交给证券登记结算机构，作为债券回购交易质押物的债券。 <br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 投资者在本所市场进行债券交易,须向本所会员交纳佣金等费用。会员或拥有债券专用席位的机构在本所市场从事债券交易,须向本所交纳交易经手费等费用。 <br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 本细则经本所理事会讨论通过后生效,修改时亦同。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 本细则由本所负责解释。 <br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 本细则自2006年5月8日起实施。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

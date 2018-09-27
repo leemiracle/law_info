@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】厅公路字[2008]43号<BR>&nbsp;&nbsp;【发布日期】2008-03-04<BR>&nbsp;&nbsp;【生效日期】2008-03-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhuzhan/zhengwugonggao/jiaotongbu/gongluguanli/200803/t20080312_472296.html" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部办公厅关于做好公路技术状况评定标准贯彻实施工作的通知<br><br></font>(厅公路字[2008]43号)</p><br> <br>  <br>各省、自治区、直辖市、新疆生产建设兵团交通厅（委、局），上海市市政工程管理局，天津市市政公路管理局：<br>    部2007年第39号公告公布了《公路技术状况评定标准》（JTGH20-2007，以下简称《标准》），并于2008年2月1日起实施。《标准》统一了高速公路和普通公路的技术状况评定等级，明确了公路技术状况评定数据的采集和计算方法，为客观评定公路技术状况提供了依据，对加快推进我国公路养护科学化、规范化进程具有重要意义。为做好《标准》的贯彻实施工作，现将有关事项通知如下：<br>    一、认真做好培训工作<br>    认真学习和贯彻《标准》是做好公路养护管理工作的基本要求。各级交通主管部门、公路管理机构和收费公路经营管理单位要结合本地实际，切实做好实施《标准》的培训工作。要以学用结合为原则，采用自学和专家集中培训等灵活多样的方式开展培训工作。通过学习和培训，使广大公路养护工作者全面理解、正确把握《标准》，为《标准》顺利实施提供人才和技术保障。<br>    部近期将委托《标准》主编单位组织开展全国培训。各省级交通主管部门今年应至少组织两次本辖区的集中培训。<br>    二、精心组织，稳步推进《标准》实施工作<br>    公路技术状况是衡量公路养护水平的重要指标。为实现原公路技术状况评定标准和新标准的平稳过渡，各省级交通主管部门要分别组织高速公路、国省干线、县乡公路三类公路管养单位，选择不同的路段先期实施，为三季度全面实施新标准积累经验。同时，要根据《标准》相关规定，对现行的公路养护质量检查、养护质量报表制度中的相关内容进行调整和完善，为全面实施《标准》提供制度保障。<br>    三、依法加强公路技术状况监管<br>    公路技术状况水平直接影响社会公众的满意程度，也是做好“三个服务”，加强行业监管的重要内容。各省级交通主管部门或指定的行业管理机构要以贯彻实施《标准》为契机，进一步加强公路技术状况监管工作。<br>    （一）要根据《公路法》和《收费公路管理条例》等法律法规规定，建立和完善收费公路技术状况监管制度，根据公路的技术等级和功能，明确技术状况要求，并报部公路司备案。公路技术状况要求既应包括MQI的总体要求，也应考虑便于快速检测，且对服务水平、行车安全影响较大的分项指标，如平整度、路面损坏、车辙深度、抗滑性能等。部将根据各地情况研究制定统一的公路技术状况要求。<br>    （二）强化养护检查和复核检测工作。各省级交通主管部门和指定的行业管理机构，应每年至少组织一次以公路技术状况评定为重点的公路养护工作检查，并重点对一些路况水平不高、技术评定工作不规范的收费公路进行监管和复核检测。技术状况评定和复核检测资金可在公路养路费中列支。<br>    （三）切实加强行业监管。各地要按照《标准》，督促公路管养单位做好技术状况评定工作，建立和完善公路技术状况评定结果报告制度，并对各管养单位上报的评定结果进行分析、复核，确保评定结果真实可信。对于评定结果不实的单位，要通报批评并予以纠正。同时，逐步建立公路路况水平公示制度，自觉接受社会公众的监督。部将建立和完善主要公路的技术状况上报制度，并向社会公示，以促进全国公路服务水平的不断提高，更好地为公众服务。<br>    2009年1月31日前，各省级交通主管部门要向部公路司报送2008年《公路技术状况统计表》（附后）。<br>    四、大力推进检测与评定工作的专业化、自动化<br>    采用传统的人工方式对公路技术状况进行评定，势必影响群众出行和交通安全，并易产生病害识别不统一、人为因素影响评定结果等问题。为此，鼓励由省级公路管理机构或高速公路管理单位每年统一组织一次采用自动化快速检测方法对相关技术指标进行检测，并按《标准》规定进行全面评定工作，鼓励使用计算机自动识别路面病害、计算结果评定和养护决策工作，鼓励公路技术状况评定工作实现专业化和社会化。各地应积极研究公路养护资金分配模式，将公路技术状况评定结果作为编制公路养护预算的依据之一，不断提高公路养护工作决策的管理科学化和规范化水平。已经推广使用路面管理系统（CPMS）的，请在www.CPMS.com.cn下载最新升级系统；未推广CPMS的，也可在该网站下载MQI计算程序。<br>    五、实施《标准》中需要注意的几个问题<br>    （一）处理好《标准》与原相关标准规范的关系。《标准》实施后，原《公路养护质量检查评定标准》（JTJ075-94）和《高速公路养护质量检评方法（试行）》同时废止。《公路水泥混凝土路面养护技术规范》（JTJ073.1-2001）和《公路沥青路面养护技术规范》（JTJ073.2-2001）中与《标准》不一致的内容，以《标准》为准。<br>    （二）正确处理公路技术状况评定和日常养护质量检查的关系。《标准》中规定的“最低检测与调查频率”是对公路进行全面技术状况评定所必需数据的最低采集要求，不替代现行的日常养护质量检查工作。不得因《标准》的实施影响各养护管理单位的日常养护检查。日常养护检查仍应按照现行频率（每季度一次）和要求进行，但实际检查的内容应根据《标准》进行调整，并以路面损坏（PCI）、路基损坏（SCI）、桥隧构造物损坏（BCI）和沿线设施损坏（TCI）等主要指标为主。对MQI评定所需的路面平整度和车辙数据，在日常养护检查评定时可采用最近一次自动检测设备采集的数据。<br>    （三）按《标准》“最低检测与调查频率”所进行的公路技术指标检测，应在该指标的最不利季节进行。对竣工验收不满三年的公路，其技术状况评定可采用竣工验收时采集的平整度、抗滑性能和结构强度数据。<br><br>    附件：公路技术状况统计表<br><br>中华人民共和国交通部办公厅<br>二○○八年三月四日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

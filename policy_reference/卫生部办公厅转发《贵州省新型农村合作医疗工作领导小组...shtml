@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办农卫发〔2006〕42号<BR>&nbsp;&nbsp;【发布日期】2006-03-15<BR>&nbsp;&nbsp;【生效日期】2006-03-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11672&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅转发《贵州省新型农村合作医疗工作领导小组办公室关于对纳雍县新型农村合作医疗试点工作管理不善、监管不力有关问题的通报》的通知<br><br></font>(卫办农卫发〔2006〕42号)</p><br><br> <br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：<br><br>    新型农村合作医疗试点工作开展以来，各地区、各有关部门认真贯彻落实党中央、国务院有关文件及会议精神，在推进新型农村合作医疗试点中做了大量工作并进行了许多有益的探索，从总体上看，试点工作进展比较顺利，取得了比较明显的成效。但在一些地区的个别试点县（市、区）还存在新型农村合作医疗政策执行不到位，基础管理工作薄弱等问题。贵州省纳雍县在新型农村合作医疗试点工作中，对国家有关政策学习理解不够透彻，在制定具体政策上偏离了国家的一些原则要求。同时，在实际执行工作中方法简单，管理粗放，责任心不强，导致该县在合作医疗试点工作中出现了一些违背中央政策要求和农民意愿的错误做法，如参加合作医疗的农民先交钱，为调整运行周期，又组织退钱；以体检为名，统一将合作医疗基金预拨到所有乡镇卫生院后没有具体落实体检工作；虚假报销，冒领合作医疗资金等，在群众中造成较为严重的负面影响，也给试点工作带来一些不良后果。纳雍县的问题出现后，贵州省卫生厅高度重视，及时对有关问题进行调查核实并提出处理意见。纳雍县也拿出具体整改措施并进行了落实，对有关责任人进行了严肃处理。<br><br>    近日，贵州省新型农村合作医疗工作领导小组办公室在《贵州省新型农村合作医疗工作简报（第四期）》上，发出了《关于对纳雍县新型农村合作医疗试点工作管理不善、监管不力有关问题的通报》，对纳雍县在试点工作中出现的违规问题进行了通报。为使各地能从纳雍县的问题中汲取教训，防止类似问题发生，现将此通报转发各地。希望各地在今后的试点工作中，提高认识，扎实工作，注重检查指导，进一步加强对工作各个环节的监督和管理，把工作做细，做实，发现问题要及时纠正，严肃查处，决不姑息，保证新型农村合作医疗试点工作的积极稳妥推进。 <br><br>    附件：贵州省新型农村合作医疗工作领导小组办公室关于对纳雍县新型农村合作医疗试点工作管理不善、监管不力有关问题的通报<br><br>二○○六年三月十五日<br> <br> <br>关于对纳雍县新型农村合作医疗试点工作管理不善、监管不力有关问题的通报<br><br>    2005年8月份以来，群众陆续来信反映我省纳雍县在新农合试点工作中存在一些问题。经查，主要存在以下事实：<br><br>    一、筹资退补（即先交钱后退钱），违背国家新农合政策。纳雍县新型农村合作医疗试点工作于2003年11月启动，由于地理环境特殊、宣传力度不够等原因，筹资难度较大。为提高参合率，该县筹资时间一直持续到2004年9月。而在2005年筹资工作中，县政府将2004年流水式筹资转变为按自然年筹资，即在2004年12月31日完成2005年筹资工作，统一缴费时间。由此出现了部分农民交了费未享受满一年的问题，为兑现承诺，在没有向省管理部门请示汇报的情况下，县政府于2004年11月28日下发了《关于2004年新型农村合作医疗筹资实行退补的通知》，自主实行了由财政拨款对2004年未享受完月份的农民按参保月份减1的方式向参保农民退补参保金，退补经费由各乡镇财政先垫资退补，再由县财政统一审核后下拨到各乡镇。<br><br>    二、体检工作组织落实不好，质量不高，完成不及时，导致合作医疗资金使用不善等问题。纳雍县是全省第一批新型农村合作医疗试点县，由于补偿设计过于保守、封顶线过低、就诊可补偿范围过窄等原因，参保群众受益人数较少，2004年全年合作医疗资金沉淀过多。考虑到增加受益面的问题，县决定对所有参合农民进行一次健康体检。2004年12月，县合医办由大病统筹基金中统一按人均6元预拨给25个乡镇体检费累计1981210元，用于对2004年所有参保人员进行健康体检。由于部分乡镇卫生院有条件开展“三大常规”检查但没有及时开展；一些卫生院确实因条件简陋而无法开展“三大常规”体检，只进行了简单的听诊、测血压等常规体格检查，但体检费仍然一律定为人均6元；县合管办在体检工作开始后对此项工作组织督查不力，导致一些乡镇体检任务未及时完成、体检质量不高、体检项目不全。截止到2005年9月，全县参合农民应进行健康体检和建立家庭健康档案人数为338614人，只完成230256人，占体检人数的67.9%，没有及时完成体检工作，没有完全达到体检的目的，客观上也造成使用了合作医疗资金而相当部分农民没有受益的状况。<br><br>    三、管理不善，监管不力，致使个别乡镇卫生院造假套取合作医疗资金。纳雍县沙包乡卫生院副院长闵煦在主持工作期间，于2005年2月未按报批程序经有关部门批准，违规在沙包乡街上村开设二门诊，并将二门诊以每月2500元承包费承包给本院医师张奇、李治二人。承包后，张、李二人向闵反映完不成承包任务。为完成承包任务，闵授意张、李二人用23名农村合作医疗参保对象的名单，采取弄虚作假、医少报多的手段虚列农村合作医疗补偿金5576.98元，经闵签字后上报县合管办。在报账过程中，因群众举报，县合管办停止支付冒领资金。<br><br>    纳雍县发生的上述问题，反映了该县负责合作医疗的各级领导干部对国家新农合政策理解不深、执行不力、把关不严，工作责任心不强。也暴露了合作医疗定点机构内部管理混乱，有章不循，卫生行政部门对其监管不力等问题。这些问题在群众中造成了不良影响。<br><br>    问题发生后，卫生部、省卫生厅、毕节地区卫生局高度重视，根据群众的举报，及时派出人员对此事进行调查。在问题调查清楚后，纳雍县委、县政府立即采取了一系列纠正措施。<br><br>    一是针对筹资退补、体检的问题，限期进行整改。目前，退补工作已由县财政专门拨款解决完成。体检工作正在抓紧进行，保证在2006年2月底前保质保量完成。<br><br>    二是县审计部门对合作医疗资金进行了一次全面审计。经2006年1月18日纳雍县审计局审计结果证实，资金无滥用、流失情况发生，但存在着乡镇合管办财务核算不够规范、体检费的管理和使用不规范等问题。<br><br>    三是责成县卫生局领导向县人民政府写出深刻的书面检查，同时，县人民政府向上级人民政府作检查。<br><br>    四是认真学习，吃透政策，吸取教训，进行整改，完善规章，严格管理，继续抓好新型农村合作医疗试点工作。<br><br>    五是经调查核实，2006年元月4日，纳雍县监察局给予闵煦行政撤销其沙包乡卫生院副院长职务处分，纳雍县卫生局分别给予乡镇卫生院医师张奇、李治行政记大过处分。<br><br>    六是2006年2月14日，纳雍县人民政府对负有直接领导责任的纳雍县卫生局局长兼合医办主任何德义、副局长兼合医办副主任谌茂业分别给予行政警告处分。<br><br>    总的来说，我省新型农村合作医疗试点工作进展顺利，已取得初步成效。大多数试点县、乡都能够严格按照省委、省政府对新型农村合作医疗试点工作的部署和要求开展工作。但纳雍县尤其是沙包乡的违规做法，对我省新型农村合作医疗试点工作产生的负面影响较大，教训是深刻的。为引以为戒，警示全省各试点县，教育广大干部，规范我省新农合试点各项工作，确保试点工作顺利实施,现对纳雍县的违规做法进行通报批评。<br><br>    为进一步认真贯彻落实国务院第101次常务会议以及全国、全省新型农村合作医疗试点工作会议精神，扎实深入地抓好新农合试点，希望各地在当前要认真做好以下几项工作：<br><br>    一、各市（州、地）和各试点县（市、区）、乡在开展新型农村合作医疗试点过程中，必须严把政策关，加强合作医疗资金的管理，坚决杜绝合作医疗资金滥用情况发生。合作医疗资金的管理要坚持县级集中管理、封闭运行、专款专用、方便患者、公开透明的原则，保证资金安全。<br><br>    二、各级卫生行政部门要切实加强对各级定点医疗机构的监管。对新型农村合作医疗定点机构要实行动态管理，实行一年一审，对群众反映意见大、多次整改无效的要进行停业整顿直至取消其定点资格；对违规的医疗行为和提供过度医疗服务所造成的费用由医疗机构自行承担，情节严重的，要依照法规给予经济处罚。实行单病种或特殊项目的补偿要严格按有关规定执行。不得随意扩大服务项目套取合作医疗补偿资金。同时，要抓好定点医疗机构的宣传教育，要使广大医务人员深刻认识到服务于新型农村合作医疗工作，是新时期历史赋予的神圣职责。县乡村定点医疗机构要摆正自己在合作医疗工作中的位置，扮演好自己的角色，处理好利益和服务的关系，在医疗行为上要自我规范，自我约束，为适应新型农村合作医疗的需要，加强自身的管理和提高医疗服务水平，为广大参合农民提供质优价廉的服务。<br><br>    三、要认真吸取纳雍县的教训，各市（州、地）和各试点县（市、区）、乡要在近期进行一次全面自查，找出存在问题和薄弱环节，及时认真进行整改，对存在与国家新农合政策相违背的行为，要坚决予以制止和严肃处理，确保试点工作健康有序开展。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

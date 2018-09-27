@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】科技部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2004-06-01<BR>&nbsp;&nbsp;【生效日期】2004-06-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.most.gov.cn/tztg/t20040611_13973.htm" target=_blank>科技部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>科技部关于组织申报新建国家重点实验室的通知</font></p><br><br> <br>各有关单位：<br><br>    根据《国家重点实验室建设与管理暂行办法》，国家有计划、有重点的装备、新建和调整国家重点实验室。按照国家重点实验室“十五”发展计划和工作安排，经研究，决定在农业、人口与健康、能源、资源环境等社会公益性领域，以及若干重要新兴交叉领域开展新建国家重点实验室的遴选工作。现将有关事项通知如下： <br><br>    一、申报方向<br><br>    申报实验室必须符合以下方向，具体实验室名称和主要研究方向一般应比指南方向更集中。<br>    1、病原微生物与传染病<br>    2、生物治疗<br>    3、肿瘤生物学<br>    4、脑与认知科学<br>    5、认知科学与学习<br>    6、生物电子学<br>    7、植物系统发育与进化<br>    8、动物营养学<br>    9、海洋地质<br>    10、海洋环境<br>    11、能源清洁利用与高效转换<br>    12、环境化学与生态毒理学<br>    13、岩石圈演化与矿产资源<br>    14、激光物理<br>    15、计算机科学<br>    16、水资源、水利水电工程<br>    17、气象科学<br>    18、有色金属材料制备加工<br>    19、精密合金与制备<br><br>    二、基本条件<br><br>    申报实验室必须符合以下基本条件：<br>    1、已运行、并对外开放两年以上的部门重点实验室，从事基础或应用基础研究，具有国际先进水平或特色，在国内本领域中处于领先地位，能承担和完成国家重大科研任务，有比较充足的国家纵向科研项目经费。<br>    2、具备高水平的科研队伍，年龄与知识结构合理，能够满足参与国际竞争和承担国家重大科研任务的需要。<br>    3、实验室具备良好的科研实验条件。科研用房集中，面积在3000平方米以上。仪器设备总值（原值）1500万元以上。<br>    4、实验室依托单位和主管部门能保证实验室建成后的运行经费，承诺建设期间匹配投入仪器设备购置经费1000万元以上。<br><br>    三、申报方式<br><br>    申报新建国家重点实验室统一由实验室主管部门向科技部申报。本通知下发后，各主管部门即可参照国家重点实验室总体要求（附件1），择优组织具备条件的单位填报《国家重点实验室建设申请报告》（格式见附件2），审核后报我司。无主管部门的单位，可直接向我司申报。<br><br>    四、注意事项<br><br>    1、申报时可对现有实验室的研究方向、人才队伍、管理体制等做适当调整，使实验室成为集中依托单位精华力量、代表相关领域最高研究水平的科研基地。<br>    2、申请报告一式10份，并加盖依托单位和主管部门公章。<br>    3、主管部门和依托单位配套经费的到位情况，以其每年下达的经费预算和实验室实际进账数额为依据。<br>    4．科技部将按照宁缺毋滥的原则，择优遴选不超过19个实验室（每个方向最多1个），请主管部门和依托单位对照申报条件认真衡量，严格把关，不要盲目申报。一个部门在1个个方向最多只能推荐1个实验室，多报无效。<br>    5、申报截止日期：2004年7月20日（以收到时间为准）。逾期和不符合条件的申请报告将不予受理。<br>    6、申报工作结束后，科技部将组织专家评审，重点审查实验室研究方向与内容、研究工作的基础和水平、实验条件、人才队伍状况、运行管理机制以及依托单位和主管部门的支持等。评审以实验室汇报演示和答辩、现场考察等多种方式进行，请相关实验室做好准备工作。<br>    7、本通知同时在网上公布，网址http://www.most.gov.cn和http://www.chinalab.gov.cn。<br>  <br><br>                                   <br>                                二00四年六月<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

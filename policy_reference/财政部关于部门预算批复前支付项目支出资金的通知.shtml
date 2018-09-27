@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财库[2009]9号<BR>&nbsp;&nbsp;【发布日期】2009-01-15<BR>&nbsp;&nbsp;【生效日期】2009-01-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://gks.mof.gov.cn/guokusi/zhengfuxinxi/guizhangzhidu/200901/t20090120_109449.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于部门预算批复前支付项目支出资金的通知<br><br></font>(财库[2009]9号)</p><br>     <br><br>党中央有关部门，国务院各部委、各直属机构，武警部队，新疆生产建设兵团，全国人大常委会办公厅，全国政协办公厅，高法院，高检院，有关人民团体，有关中央管理企业：<br><br>    十一届全国人大常委会第十五次委员长会议同意财政部在全国人民代表大会批准预算之前，预拨一定比例的项目支出资金，在批准之后，按照批准的预算执行。根据委员长会议精神，为全面推进财政科学化、精细化管理，切实做好预算批复前项目支出资金拨付工作，促进财政支出进度均衡化，提高财政资金使用效益，现就有关事项通知如下：<br><br>    一、部门预算批复前，列入新年度部门预算的项目，根据项目进度，可以按支出功能分类科目“一下”预算控制数的1/4左右编报用款计划（不含有特殊要求的项目），办理请款手续。报送用款计划时，同时向财政部部门预算管理司和国库司提供付款项目的预算单位、项目名称、项目预算等情况，供部门预算管理司和国库司审核用款计划时参考。未能在规定时间正常报送项目支出分月用款计划的，可以根据工程实施进度和项目开展情况补报第一季度项目支出分月用款计划。部门预算批复后，批复的项目预算小于实际支付数的，要严格按照批复的项目预算及时办理资金支付和账务调整手续。<br><br>    二、按照《财政部关于中央单位2008年深化国库集中支付改革若干问题的通知》（财库[2007]101号）有关规定，2009年1-3月将分别按年终结余资金总额的50%、25%、25%（单个基层预算单位的单个预算科目结余不足10万元的，全部于1月份结转）下达各部门（单位）2008年国库集中支付年终结余资金用款计划额度。若下达的结余资金用款计划额度不能满足需要，请预算单位及时向财政部提出调整申请，财政部根据项目实施进度调增年终预算结余资金用款计划额度恢复比例。<br><br>    三、预算单位要切实完善项目支出预算编制，加强项目支出执行管理。要做好项目申报前期准备工作，提高项目申报质量；要按照细化项目支出预算的相关规定和程序要求，做好年初项目预算的细化工作，将项目支出切实落实到具体实施单位，做到从最基层预算单位开始编制预算。要提高项目预算的真实性、完整性、准确性，减少预算执行中的调整事项。预算年度开始后，要尽快开展项目的组织实施工作，切实提高项目支出执行进度。要继续按照《财政部关于切实抓好预算执行进度有关工作的通知》（财库[2008]32号）要求，加强预算执行管理，做好资金支付工作，加快预算执行进度，提高财政资金使用效益。<br><br>                                                              财政部<br>                                                       二○○九年一月十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

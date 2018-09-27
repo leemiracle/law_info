@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农机发［2007］14号<BR>&nbsp;&nbsp;【发布日期】2007-10-31<BR>&nbsp;&nbsp;【生效日期】2007-10-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/zcfg/bmgz/t20071105_915611.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于加强农机安全监理工作的意见<br><br></font>(农机发［2007］14号)</p><br><br><br>各省、自治区、直辖市农业厅（委）、农机管理局（办公室）：<br><br>    农机安全生产是国家安全生产的重要组成部分。农机安全监理工作直接关系到人民群众生命和财产安全，关系到农业机械化、农业生产和农村经济安全发展，关系到社会和谐稳定。近年来，随着农机安全法规建设积极推进，农机安全监理业务逐步规范，监理装备与信息化水平明显提高，安全监管体系不断完善，农机安全生产状况趋于稳定好转。但是,从总体上看，农机安全监理工作基础仍然薄弱，一些地方对农机安全监理工作重视不够，投入不足，少数监理机构执法行为不规范，安全管理存在漏洞，农机安全生产形势依然严峻。为了贯彻落实《农业机械化促进法》、《道路交通安全法》等法律法规和中央1号文件关于“加强农机安全监理工作”的要求，进一步提高农机安全监管能力，保障农机安全生产，推进农业机械化又好又快发展，提出如下意见：<br><br>    一、明确农机安全监理工作的指导思想和目标任务<br><br>    1.指导思想。以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，牢固树立安全发展理念，按照“安全第一、预防为主、综合治理”的方针，紧紧围绕农业和农村经济发展，以预防和减少农机事故、推进农业机械化又好又快发展为目标，以完善农机安全政策法规体系、落实安全生产责任制、提高农机安全监理规范化水平为重点，从抓好农业生产关键环节、重点农机具和重要农时季节的安全生产入手，坚持依法行政、文明监理、优质服务，转变思想观念，改善监理手段，提高监管能力，构建以源头管理、执法监控、宣传教育为主要内容的农机安全生产长效机制，促进农机安全生产，为发展现代农业、建设社会主义新农村和构建和谐社会做出积极贡献。<br><br>    2.总体目标。强化农民安全生产意识，提高农机驾驶操作人员技术水平，改善农业机械安全技术状态，不断提高农机注册登记率、检审率和驾驶操作人员持证率，全面提升农机安全监理工作水平，确保农业机械安全生产控制考核指标的落实。<br><br>    3.基本原则。坚持以人为本的原则，把保障广大人民群众的生命财产安全作为农机安全监理工作的出发点和落脚点；坚持安全发展的原则，促进安全生产与农业机械化同步协调发展；坚持依法监理的原则，做到有法必依、执法必严、违法必究；坚持科技兴安的原则，充分发挥科学技术对农机安全生产的支撑和保障作用，提高农机安全监理科学化、信息化、现代化水平。<br><br>    二、建立健全农机安全政策法规体系<br><br>    4.完善法规体系。深入贯彻实施《农业机械化促进法》、《道路交通安全法》，推进配套法规规章的制定工作，积极配合做好地方法规规章的制定和修订工作，进一步完善农业机械安全监督管理法规体系。<br><br>    5.健全技术标准。制订和完善农机安全技术标准，明确检测和安全操作技术要求，规范培训、检验、考试、事故处理等工作，提高农机安全监管水平。<br><br>    6.落实扶持政策。把落实农业机械化扶持政策与加强农机安全生产相结合，鼓励支持农民购置使用先进、适用、安全的农业机械，淘汰、更新高耗能、安全状态差的农业机械。研究制定农机安全宣传、培训教育、保险等支持政策，引导农民遵规守法，安全致富。<br><br>    三、落实农机安全生产责任制<br><br>    7.落实安全监管主体责任。积极争取政府重视和支持，将农机安全生产工作列入当地政府工作考核内容，把农机安全生产控制考核指标逐级下达到基层，分解到行政主管部门，形成一级抓一级、条块结合、齐抓共管的工作格局。<br><br>    8.完善安全生产考核制度。把农机安全生产与农机化工作同部署、同落实、同考核，督促农机安全监理机构层层落实安全生产责任制，依法履行职责，落实防控措施，确保责任到位。<br><br>    9.强化事故应急处理职责。制定重特大农机事故应急处理预案，按照统一指挥、分级分责、属地为主、快速反应、依靠科学、依法规范、信息共享的原则，建立统一指挥、职责明确、规范有序、反应灵敏、运转高效的工作机制。落实应急处理工作责任制，及时、妥善处理重特大农机事故，高效、有序地开展应急处理和救助工作，最大限度地减少农机事故损失。<br><br>    10.加强责任制落实检查。坚持属地管理和“谁主管、谁负责”、“谁发证、谁负责”、“谁审批、谁负责”的原则，对安全生产责任不落实，导致重大事故的，严格按照责任倒查制、过错追究制和“四不放过”的原则，依法追究责任。建立农机安全生产激励机制，奖罚分明，充分调动农机安全监理工作人员的主动性和积极性。<br><br>    四、加强农机安全监理队伍建设<br><br>    11.推进农机安全监理机构依法履行职责。要根据法律法规的规定，明确农机安全监理机构承担的公共安全管理职责，合理设置岗位，科学配备人员，保障工作经费。加强农机安全监理机构执法能力建设。<br><br>    12.进一步加强乡村基层农机安全组织建设。明确乡镇负责农机安全监理工作的机构和人员。充分发挥村委会在农机安全生产中的作用，推进农机安全村建设。支持和鼓励建立农机安全互助组织，加强安全自律。建立健全与各类农机作业服务组织的安全生产联系制度，整合社会资源，完善基层农机安全监管体系。<br><br>    13.提高农机监理人员素质。有计划、有组织地开展农机监理人员培训工作，加强思想政治、职业道德和法制观念教育。严格按照农机监理人员管理办法录用监理人员，推行考试员、检验员、事故处理员资格考试、持证上岗制度。鼓励农机监理人员参加继续教育，不断更新知识。<br><br>    五、依法规范农机安全监理业务<br><br>    14.推行政务公开。严格实行执法依据、办事程序、收费项目标准、办事人员、办事结果五公开制度。完善层级、岗位监督机制，做到用制度管权，按制度办事，靠制度管人。实行承诺服务和首问负责制，推进一站式业务办理模式。<br><br>    15.规范牌证核发。严格按照规定和程序办理拖拉机和联合收割机牌证业务，对不符合标准要求、不按规定检验合格的不准办证上牌，严禁跨行政区域发牌发证。依法打击非法制作登记证书、牌证和检验合格标志等行为。<br><br>    16.严格驾驶人考试。统一使用全国农业机械驾驶人员考试题库。严格考试纪律，规范考试行为。对未经考试或考试不合格的人员，不得核发驾驶证。<br><br>    17.加强统计工作。严格执行统计报告制度，按层级、时限规定上报重特大农机事故和业务报表。按照法律规定，定期做好与公安交管部门的信息通报工作，建立信息交换机制。<br><br>    18.搞好安全检查。建立健全与安全监督、公安等部门的联合执法机制，加大安全检查力度，严格查处无牌行驶、无证驾驶、超速超载、违法载人、不按规定进行年检以及使用伪造、变造登记证书、牌证、检验标志、保险标志等违法行为。<br><br>    19.强化宣传教育。建立适合农村实际的农机安全生产宣传教育制度，推广先进、适用的农机安全宣传教育模式，充分利用电视、广播、报刊和网络等媒体，大力宣传党和国家安全生产方针政策、法律法规，宣传农机安全生产工作的先进典型和经验，普及农机安全生产知识，提高农机驾驶操作人员和农机生产参与者的安全生产意识，营造关爱生命、关注农机安全的社会氛围。<br><br>    六、提高农机安全监理装备水平<br><br>    20.加强安全科研和技术开发。整合资源，充分发挥高等院校、科研院所、生产企业及农机安全监理机构等各自优势和积极性，建立农机安全科技创新平台，形成以企业为主体，产学研推相结合的安全科技创新机制，加快农机安全新技术、新装备的开发应用，提升农机安全监理科技水平。<br><br>    21.推进监理工作信息化。加快推进全国农机安全监理信息网络建设，建立统一、高效、安全、适用的信息平台，及时发布相关信息，开通网上查询，实现监理业务网上办理和信息资源共享。<br><br>    22.加快监理装备设施建设。加强基础设施装备建设，为农机安全监理工作创造良好的工作条件。加快业务用房、安全技术检测线、驾驶员考试设施和安全检查用车等基础设施装备的建设步伐，积极推广质量可靠、先进适用的安全检查、宣传教育、检验、考试、事故处理等农机安全监理装备，强化手段，不断提高农机安全监理工作水平。<br><br>    七、加强对农机安全监理工作的组织领导<br><br>    23.摆上重要位置。各级农机管理部门要把农机监理工作摆在更加突出的位置，认真贯彻党和国家关于加强安全生产和农机安全监理工作的决策、部署和要求，切实加强对农机安全监理工作的领导和监督检查，定期分析农机安全生产形势，及时研究解决工作中的困难和问题，坚持不懈地把农机安全生产工作抓实抓好。<br><br>    24.加大安全投入。积极争取把农机安全生产纳入各地政府安全生产规划，把农机安全监理工作经费列入财政预算，加大基本建设和财政专项投入，强化监理装备设施建设，保障宣传教育、安全检查、平安农机创建等工作的开展。<br><br>    25.搞好部门配合。加强与安全监督、公安、保险等部门的协调与合作，搞好“创建平安农机，促进新农村建设”、“五整顿、三加强”和“安全生产月”等活动，努力形成“政府主导、农机主抓、部门配合、社会参与”的农机安全管理工作机制。<br><br>                                农  业  部<br><br>                            二○○七年十月三十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

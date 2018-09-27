@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委 国家电监会 国家能源局<BR>&nbsp;&nbsp;【发布文号】发改价格[2009]2474号<BR>&nbsp;&nbsp;【发布日期】2009-10-11<BR>&nbsp;&nbsp;【生效日期】2009-10-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2009tz/t20091026_308827.htm" target=_blank>国家发改委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、国家电监会、国家能源局关于规范电能交易价格管理等有关问题的通知<br><br></font>(发改价格[2009]2474号)</p><br><br> <br>    各省、自治区、直辖市发展改革委、经贸委（经委）、物价局，各区域电监局、城市电监办，国家电网公司、南方电网公司，内蒙古电力公司，华能、大唐、华电、国电、中电投集团公司：<br><br>    为进一步规范电能交易价格行为，维护正常的市场交易秩序，促进电力资源优化配置，现就有关问题通知如下：<br><br>    一、关于发电企业与电网企业的交易价格<br><br>    （一）发电机组进入商业运营后，除跨省、跨区域电能交易及国家另有规定的以外，其上网电量一律执行政府价格主管部门制定的上网电价。<br><br>    （二）发电机组进入商业运营前，其调试运行期上网电价按照当地燃煤发电机组脱硫标杆上网电价的一定比例执行。其中，水电按照50%执行，火电、核电按照80%执行；水电以外的可再生能源发电机组自并网发电之日起执行价格主管部门批复的上网电价。电网企业据此支付购电费，并计入购电成本。<br><br>    （三）发电企业启动调试阶段或由于自身原因停运向电网购买电量时，其价格执行当地目录电价表中的大工业类电度电价标准。<br><br>    （四）燃煤发电机组安装脱硫设施、具备在线监测功能且运行正常的，已经环保部门验收合格的，自环保部门验收合格之日起执行脱硫加价；环保部门不能按时验收的，由省级价格主管部门商环保部门通知电网企业，自发电企业向环保部门递交验收申请之日起30个工作日后执行脱硫加价；经环保部门验收不合格的，相应扣减已执行的脱硫加价。发电企业向环保部门递交验收申请时应抄送省级价格主管部门和电力监管机构，并抄录电能表起始表示数。<br><br>    （五）经政府有关部门批准的替代发电或发电权交易中，发电企业按照合同或协议约定的交易电量和价格进行结算。<br><br>    二、关于跨省、跨区域电能交易价格<br><br>    （一）跨省、跨区域电能交易的受电价格由送电价格、输电价格（费用）和输电损耗构成。<br><br>    （二）跨省、跨区域电能交易国家已规定价格的，要严格按照国家规定的价格执行。国家尚未规定价格的，在送电、受电地区省级价格主管部门、电力监管机构和电力管理部门的指导下，由送受双方参考送端电网平均上网电价和受端电网平均购电电价协商确定厂网间结算电价。其中，送电省（区、市）电网企业的输电价格（含损耗）原则上不得超过每千瓦时3分钱。<br><br>    （三）跨省、跨区域电能临时交易的送电价格按照上述原则确定。紧急情况及事故支援交易，事先交易各方有约定的，按照约定价格进行结算；事先没有约定的，原则上按照购电方所在电网燃煤机组标杆上网电价上浮20%确定。紧急情况及事故交易免交输电费。<br><br>    （四）除国家规定的跨省、跨区域电能交易外，电网企业之间不得以降低发电企业上网电价为目的，在同一时点相互进行没有电能物理流量的虚假交易和接力送电。<br><br>    （五）受电省（区、市）电网企业购外省电量的电价与本省平均购电价有差异的，纳入本省销售电价方案进行平衡。<br><br>    （六）省级电网企业每月汇总本省的跨省、跨区域电能交易情况，并于每月15日前将上一月度的交易情况报省级价格主管部门、电力管理部门和电力监管机构。国家电网公司、南方电网公司将季度、年度跨省、跨区域交易情况，报国家发展改革委、国家电监会和国家能源局。各电网公司应当在每月20日前，向各利益相关方公布上一月度的交易电量、送电价格、输电费用、输电损耗、购电来源、售电去向等交易情况。<br><br>    （七）电力企业要保留跨省、跨区域电能交易的详细调度、交易记录，包括交易电量、价格、输电费用、输电损耗、购电来源、售电去向、联络线关口计量数据等内容，接受政府有关部门和电力监管机构的监督检查。<br><br>    三、关于电网企业与终端用户之间的交易价格<br><br>    （一）电网企业对电力用户的销售电价，要严格按照国家发展改革委颁布的电价标准执行。各级政府和电网企业不得自行提高或降低电力用户销售电价，不得自行以大用户直购电（或直供电）等名义实行电价优惠。<br><br>    （二）各地要按照《国务院办公厅转发发展改革委关于完善差别电价政策意见的通知》（国办发[2006]77号）和《国家发展改革委、财政部、电监会关于进一步贯彻落实差别电价政策有关问题的通知》（发改价格[2007]2655号）要求，继续加大差别电价贯彻落实力度。要加强对高耗能企业的动态监管，及时更新执行差别电价的企业名单，确保差别电价政策执行到位。<br><br>    （三）拥有自备电厂的企业，应在发电机端加装电能量计量表计，自用电量由政府有关部门和电力监管机构核定，并按照国发[2007]2号文件规定交纳国家规定的三峡工程建设基金、农网还贷资金、城市公用事业附加费、可再生能源电价附加、水库移民后期扶持资金等政府性基金及附加，并由当地电网企业负责代征并上缴。拥有自备电厂并与公用电网连接的企业，应按规定支付系统备用费。<br><br>    四、其他事项<br><br>    （一）现有办法和规定与本通知不一致的，按本通知规定执行。<br><br>    （二）政府价格主管部门、电力监管机构依法对电能交易价格执行情况进行监督检查。<br><br>    国家发展改革委<br><br>    国家电监会<br><br>    国家能源局<br><br>    二○○九年十月十一日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

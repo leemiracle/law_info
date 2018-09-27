@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总培训〔2007〕249号<BR>&nbsp;&nbsp;【发布日期】2007-12-04<BR>&nbsp;&nbsp;【生效日期】2007-12-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-12/07/content_268672.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>烟花爆竹生产经营单位从业人员安全培训大纲（试行）<br><br></font>(安监总培训〔2007〕249号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：<br><br><br>    为进一步规范和加强高危行业从业人员特别是农民工的安全培训工作，依据《安全生产法》、《生产经营单位安全培训规定》（国家安全监管总局令第3号）和国家安全监管总局等七部门《关于加强农民工安全生产培训工作的意见》（安监总培训〔2006〕228号），组织编制了金属非金属矿山、危险化学品和烟花爆竹等3个高危行业从业人员安全生产培训大纲（试行），现印发给你们，请结合各地实际认真贯彻落实。同时，请各省级安全监管部门将大纲转发至有关企业和培训机构。 <br>     <br>国家安全监管总局<br>二○○七年十二月四日<br> <br><br>烟花爆竹生产经营单位从业人员安全培训大纲（试行）<br>    <br>    本大纲规定了烟花爆竹（含烟花爆竹制品和用于生产烟花爆竹的民用黑火药、烟火药、引火线等物品，下同）生产、经营单位除主要负责人、安全生产管理人员和危险作业人员以外的其他从业人员安全培训的目的、要求和具体内容。<br>    1．培训对象	<br>    烟花爆竹生产、经营单位除主要负责人、安全生产管理人员和危险作业人员以外的其他从业人员（以下简称烟花爆竹生产经营单位从业人员）。<br>    2．培训目的<br>    通过培训，使培训对象了解我国安全生产方针政策、有关法律法规和规章；熟悉烟花爆竹生产经营单位从业人员安全生产的权利和义务；掌握烟花爆竹安全生产经营基本知识、安全操作规程，个人防护、避灾、自救与互救方法，事故应急措施，安全设施和个人劳动防护用品的使用和维护，以及职业病预防知识等，具备与其从事作业场所和工作岗位相应的知识和能力。<br>    3．培训要求<br>    3.1 烟花爆竹生产经营单位从业人员必须按照本大纲的要求接受安全生产培训，具备必要的安全生产知识和安全操作技能，经考核合格，方可上岗作业。<br>    3.2 具备安全生产培训条件的生产经营单位，应自己组织对本单位从业人员进行培训，并建立健全培训档案，详细、准确记录培训、考试、考核情况；不具备安全生产培训条件的生产经营单位，应委托具有相应资质的安全培训机构对本单位从业人员进行培训。<br>    3.3 培训要坚持理论与实际相结合，重点加强安全意识、规章制度、基础知识、基本方法和实际安全操作技能的综合培训；要充分考虑农民工的实际，使培训内容易学易懂，易于掌握。<br>    4．培训内容<br>    4.1 安全管理法律法规<br>    4.1.1 国家安全生产方针、政策和有关烟花爆竹安全生产的主要法律、法规、规章。主要包括：《安全生产法》、《职业病防治法》和《烟花爆竹安全管理条例》、《生产安全事故报告和调查处理条例》、《工伤保险条例》、《烟花爆竹安全生产许可证实施办法》、《烟花爆竹经营许可证实施办法》等。<br>    4.1.2 相关标准。主要包括：《烟花爆竹工厂设计安全规范》、《烟花爆竹劳动安全技术规程》和《烟花爆竹安全与质量》等。<br>    4.1.3 烟花爆竹生产经营单位从业人员的权利、责任与义务。<br>    4.1.4 案例分析与讨论。<br>    4.2 安全管理基础知识<br>    4.2.1 烟花爆竹基础知识。主要包括：烟花爆竹的分级分类与特性，生产、储存、运输、包装、销售、燃放及废弃残余物品处理等安全要求；主要原辅料的性能、用途和使用、储存、运输等的安全要求。<br>    4.2.2 安全管理概念、目的、任务和安全管理制度。<br>    4.2.3 职业危害及其预防。主要包括：职业危害因素、分类、职业病及其预防。<br>    4.2.4 案例分析与讨论。<br>    4.3 安全技术基础知识<br>    4.3.1 主要产品的生产工艺流程与危险因素。<br>    4.3.2 岗位安全操作规程。<br>    4.3.3 生产设备使用、维护基本知识及安全技术要求。<br>    4.3.4 安全设施与器材的使用、维护基本知识及安全技术要求。主要包括：防火防爆、防静电、防雷电、防撞击、防摩擦、防高温、防雨水、防粉尘等设施。<br>    4.3.5 案例分析与讨论。<br>    4.4 事故预防及应急救援<br>    4.4.1 事故类型、起因、危害及预防。<br>    4.4.2 危险源和隐患的辨识。<br>    4.4.3 工作环境及危险因素的分析。<br>    4.4.4 个人防护、避灾、自救与互救的基本方法。<br>    4.4.5 事故应急处置和现场紧急疏散。<br>    4.4.6 个人劳动防护用品的使用和维护要求。<br>    4.4.7 案例分析与讨论。<br>    4.5 技能训练<br>    4.5.1 烟花爆竹产品、主要原辅料的认识。<br>    4.5.2 厂房布置、工艺流程及危险因素的认识。<br>    4.5.3 本岗位安全操作的认识。<br>    4.5.4 安全设施和器材的正确使用与维护。<br>    4.5.5 个人防护用品的正确使用与维护。<br>    4.5.6 个人防护、避灾、自救与互救训练。<br>    4.5.7 事故应急处置和现场紧急疏散训练。<br>    5．再培训内容<br>    烟花爆竹生产经营单位从业人员应当按照有关规定，每年进行一次再培训。其内容包括：<br>    ――有关烟花爆竹安全管理新的法律、法规、标准、规程、规范及规章制度；<br>    ――有关烟花爆竹生产的新材料、新技术、新工艺、新设备及其安全技术要求；<br>    ――典型事故案例分析与讨论。<br>    6．学时安排<br>    6.1 烟花爆竹生产经营单位从业人员岗前培训不少于72学时，具体培训学时安排应符合表1的规定。<br>    6.2 烟花爆竹生产经营单位从业人员再培训时间不少于20学时。<br>    <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

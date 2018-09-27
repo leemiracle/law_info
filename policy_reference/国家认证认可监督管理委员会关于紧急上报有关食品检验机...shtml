@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家认证认可监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2009-04-21<BR>&nbsp;&nbsp;【生效日期】2009-04-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cnca.gov.cn/cnca/zwxx/xwdt/zxtz/159552.shtml" target=_blank>国家认证认可监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家认证认可监督管理委员会关于紧急上报有关食品检验机构信息的函</font></p><br> <br>  <br>    各省、自治区、直辖市质量技术监督局，各有关行业计量认证评审组，中国合格评定国家认可中心：<br>    为贯彻落实《食品安全法》对食品检验机构资质的要求，保证已获得资质认定的食品检验机构在《食品安全法》正式施行后仍然可以正常有序地开展检验活动，实现对食品检验机构资质管理的有效衔接和平稳过渡，根据《行政许可法》和《认证认可条例》等法律法规的规定，国家认监委拟统一对社会公布可以从事食品检验活动的食品检验机构信息。现将有关数据上报的要求紧急通知如下。<br>    一、上报食品检验机构资质认定信息要求<br>    各单位务必于5月10日前将已批准的食品检验机构资质认定的基本信息(见附件1)及信息上报通知单(附件2)上报国家认监委实验室部。基本信息必须以电子版excel格式上报，信息上报通知单应加盖单位公章，用传真或邮寄方式上报。根据《食品安全法》的规定，食品检验机构主要指涉及食品、添加剂、食品包装物及容器等检验的机构。<br>    二、食品检验机构资质认定信息更新<br>    为及时准确地向社会公布食品检验机构信息，国家认监委将开发食品检验机构资质认定信息系统，该系统将实现网上填报、传递、更新、审核功能，并于6月中旬通过国家认监委网站正式发布。各单位上报的食品检验机构名单及基本信息数据将作为原始数据存放于该系统中。6月中旬起，各单位应及时组织经本单位资质认定的食品检验机构通过国家认监委网站的“食品检验机构资质认定信息系统”对本实验室有关数据进行持续更新，并将实验室上报的信息进行认真审核和管理，确保食品检验机构数据信息的真实性、完整性和准确性。<br>    今后，凡申请食品检验机构资质认定的食品检验机构，必须先行登录国家认监委网站食品检验机构资质认定信息系统上报或核对本实验室的有关数据信息，经所在地省级质量技术监督局或国家认监委审核确认后，方可获得食品检验机构资质认定证书。<br>    三、食品检验机构资质认定信息公布<br>    国家认监委将对各单位提供的实验室信息进行审核，6月初在国家认监委网站统一向社会公布已获得资质认定的食品检验机构的相关信息。今后将通过有关食品检验机构资质认定信息系统随时对各相关单位食品检验机构资质认定工作进行监督检查，并公布相关结果。<br>    技术咨询联系人：谭晓东 王鼎<br>    联系电话： 010-65993907 82262672<br>    传真： 65994585 82260763<br>    Email: tanxd@ccai.cc wangding@cnca.gov.cn<br>    附件：1.食品检验机构资质认定信息统计表<br>          2.信息上报通知单<br>     <br>二○○九年四月二十一日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

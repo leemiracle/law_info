@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、信息产业部、海关总署、国家税务总局<BR>&nbsp;&nbsp;【发布文号】发改高技[2007]1879号<BR>&nbsp;&nbsp;【发布日期】2007-08-01<BR>&nbsp;&nbsp;【生效日期】2007-08-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2007tongzhi/t20070814_153464.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、信息产业部、海关总署、国家税务总局关于发布第一批国家鼓励的集成电路企业名单的通知<br><br></font>(发改高技[2007]1879号)</p><br> <br><br>各省、自治区、直辖市及计划单列市发展改革委、经委（经贸委）、信息产业主管机构、海关、国家税务局、地方税务局：<br><br>    为贯彻落实集成电路产业政策，根据《国家鼓励的集成电路企业认定管理办法（试行）》（发改高技[2005]2136号），经研究，国家发展改革委、信息产业部、海关总署、国家税务总局联合审核认定了第一批国家鼓励的集成电路企业（名单附后），现予以公布。其中部分企业线宽小于0.25微米或0.8微米（含）（见名单备注），可享受有关优惠政策，具体事宜按规定程序办理。<br>    此前按有关规定认定的集成电路生产企业继续享受相关政策。<br><br>    附：国家鼓励的集成电路企业（第一批）名单<br><br>国家发展改革委<br>信 息 产 业 部<br>海  关  总  署<br>税  务  总  局<br>二○○七年八月一日<br><br><br>附：国家鼓励的集成电路企业（第一批）名单<br> <br>序号<br> 申  报  企  业  名  称<br> 企业类别<br> 备注<br> <br>1<br> 武汉新芯集成电路制造有限公司<br> 芯片制造<br> 线宽小于0.25微米<br> <br>2<br> 上海集成电路研发中心有限公司<br> 芯片制造<br> 线宽小于0.25微米<br> <br>3<br> 无锡华润微电子有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>4<br> 中国电子科技集团公司第五十五研究所<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>5<br> 华越微电子有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>6<br> 中国电子科技集团公司第五十八研究所<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>7<br> 珠海南科集成电子有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>8<br> 江苏东光微电子股份有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>9<br> 无锡中微晶园电子有限公司<br> 芯片制造 <br> 线宽小于0.8微米（含）<br> <br>10<br> 无锡华普微电子有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>11<br> 日银IMP微电子有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>12<br> 中电华清微电子工程中心有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>13<br> 中纬积体电路（宁波）有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>14<br> 深圳方正微电子有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>15<br> 北京华润上华半导体有限公司<br> 芯片制造<br> 线宽小于0.8微米（含）<br> <br>16<br> 福建福顺微电子有限公司<br> 芯片制造<br>   <br> <br>17<br> 北京半导体器件五厂<br> 芯片制造<br>   <br> <br>18<br> 贵州振华风光半导体有限公司<br> 芯片制造<br>   <br> <br>19<br> 天水华天微电子股份有限公司<br> 芯片制造<br>   <br> <br>20<br> 天水天光半导体有限责任公司<br> 芯片制造<br>   <br> <br>21<br> 常州市华诚常半微电子有限公司<br> 芯片制造<br>   <br> <br>22<br> 锦州七七七微电子有限责任公司<br> 芯片制造<br>   <br> <br>23<br> 北京燕东微电子有限公司<br> 芯片制造<br>   <br> <br>24<br> 河南新乡华丹电子有限责任公司<br> 芯片制造<br>   <br> <br>25<br> 西安微电子技术研究所<br> 芯片制造<br>   <br> <br>26<br> 长沙韶光微电子总公司<br> 芯片制造<br>   <br> <br>27<br> 威讯联合半导体（北京）有限公司<br> 封装<br>   <br> <br>28<br> 英特尔产品（上海）有限公司<br> 封装<br>   <br> <br>29<br> 上海松下半导体有限公司<br> 封装<br>   <br> <br>30<br> 南通富士通微电子股份有限公司<br> 封装<br>   <br> <br>31<br> 瑞萨半导体（北京）有限公司<br> 封装<br>   <br> <br>32<br> 江苏长电科技股份有限公司<br> 封装<br>   <br> <br>33<br> 勤益电子（上海）有限公司<br> 封装<br>   <br> <br>34<br> 瑞萨半导体（苏州）有限公司<br> 封装<br>   <br> <br>35<br> 日月光半导体（上海）有限公司<br> 封装<br>   <br> <br>36<br> 星科金朋（上海）有限公司<br> 封装<br>   <br> <br>37<br> 威宇科技测试封装有限公司<br> 封装<br>   <br> <br>38<br> 安靠封装测试（上海）有限公司<br> 封装<br>   <br> <br>39<br> 上海凯虹电子有限公司<br> 封装<br>   <br> <br>40<br> 天水华天科技股份有限公司<br> 封装<br>   <br> <br>41<br> 飞索半导体（中国）有限公司<br> 封装<br>   <br> <br>42<br> 无锡华润安盛科技有限公司<br> 封装<br>   <br> <br>43<br> 上海纪元微科电子有限公司<br> 封装<br>   <br> <br>44<br> 快捷半导体（苏州）有限公司<br> 封装<br>   <br> <br>45<br> 中电智能卡有限责任公司<br> 封装<br>   <br> <br>46<br> 宏茂微电子（上海）有限公司<br> 封装<br>   <br> <br>47<br> 美商国家半导体（苏州）有限公司<br> 封装<br>   <br> <br>48<br> 上海长丰智能卡有限公司<br> 封装<br>   <br> <br>49<br> 矽品科技（苏州）有限公司<br> 封装<br>   <br> <br>50<br> 江阴长电先进封装有限公司<br> 封装<br>   <br> <br>51<br> 华微半导体（上海）有限责任公司<br> 封装<br>   <br> <br>52<br> 广东省粤晶高科股份有限公司<br> 封装<br>   <br> <br>53<br> 珠海南科电子有限公司<br> 封装<br>   <br> <br>54<br> 南通华达微电子有限公司<br> 封装<br>   <br> <br>55<br> 杭州士兰光电技术有限公司<br> 封装<br>   <br> <br>56<br> 上海华旭微电子有限公司<br> 封装<br>   <br> <br>57<br> 上海雅斯拓智能卡技术有限公司<br> 封装<br>   <br> <br>58<br> 浙江华越芯装电子股份有限公司<br> 封装<br>   <br> <br>59<br> 安徽国晶微电子有限公司<br> 封装<br>   <br> <br>60<br> 合肥合晶电子有限公司<br> 封装<br>   <br> <br>61<br> 哈尔滨海格科技发展有限责任公司<br> 封装<br>   <br> <br>62<br> 浙江金凯微电子有限公司<br> 封装<br>   <br> <br>63<br> 济南晶恒有限责任公司<br> 封装<br>   <br> <br>64<br> 江门市华凯科技有限公司<br> 封装<br>   <br> <br>65<br> 江门市骏华电子有限公司<br> 封装<br>   <br> <br>66<br> 晶方半导体科技（苏州）有限公司<br> 封装<br>   <br> <br>67<br> 宁波华泰半导体有限公司<br> 封装<br>   <br> <br>68<br> 苏州固锝电子股份有限公司<br> 封装<br>   <br> <br>69<br> 河北博威集成电路有限公司<br> 封装<br>   <br> <br>70<br> 超威半导体技术（中国）有限公司<br> 测试<br>   <br> <br>71<br> 赛美科微电子(深圳)有限公司<br> 测试<br>   <br> <br>72<br> 深圳安博电子有限公司<br> 测试<br>   <br> <br>73<br> 北京华大泰思特半导体检测技术有限公司<br> 测试<br>   <br> <br>74<br> 上海华岭集成电路技术有限责任公司<br> 测试<br>   <br> <br>75<br> 成都芯源系统有限公司<br> 测试<br>   <br> <br>76<br> 无锡中微腾芯电子有限公司<br> 测试<br>   <br> <br>77<br> 京隆科技（苏州）有限公司<br> 测试<br>   <br> <br>78<br> 优特半导体（上海）有限公司<br> 测试<br>   <br> <br>79<br> 有研半导体材料股份有限公司<br> 硅单晶材料<br>   <br> <br>80<br> 宁波立立电子股份有限公司<br> 硅单晶材料<br>   <br> <br>81<br> 上海合晶硅材料有限公司<br> 硅单晶材料<br>   <br> <br>82<br> 麦斯克电子材料有限公司<br> 硅单晶材料<br>   <br> <br>83<br> 杭州海纳半导体有限公司<br> 硅单晶材料<br>   <br> <br>84<br> 宁波立立半导体有限公司<br> 硅单晶材料<br>   <br> <br>85<br> 国泰半导体材料有限公司<br> 硅单晶材料<br>   <br> <br>86<br> 南京国盛电子有限公司<br> 硅单晶材料<br>   <br> <br>87<br> 上海银笛微电子科技有限公司<br> 硅单晶材料<br>   <br> <br>88<br> 浙江金西园科技有限公司<br> 硅单晶材料<br>   <br> <br>89<br> 上海通用硅晶体材料有限公司<br> 硅单晶材料<br>   <br> <br>90<br> 上海通用硅材料有限公司<br> 硅单晶材料<br>   <br> <br>91<br> 珠海南科单晶硅有限公司<br> 硅单晶材料<br>   <br> <br>92<br> 上海新傲科技有限公司 <br> 硅单晶材料<br>   <br> <br>93<br> 万向硅峰电子股份有限公司<br> 硅单晶材料<br>   <br> <br>94<br> 陕西易佰半导体有限公司<br> 硅单晶材料<br>   <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

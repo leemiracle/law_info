@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家体育总局<BR>&nbsp;&nbsp;【发布文号】体党字[2004]18号<BR>&nbsp;&nbsp;【发布日期】2004-04-20<BR>&nbsp;&nbsp;【生效日期】2004-04-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sport.gov.cn/admin/show_info.php?n_id=4902" target=_blank>国家体育总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家体育总局关于严格禁止、<br>从重处理赠送和收受“红包”、礼金行为的通知<br><br></font>(体党字[2004]18号)</p><br><br><br>各省、自治区、直辖市、计划单列市、新疆生产建设兵团体育局，总参军训部体育训练局，总政宣传部文化体育局，各行业体协，总局各厅、司、局，各直属单位：<br><br>    近年来，党中央、国务院和中央纪委对严禁赠送和收受“红包”、礼金问题三令五申，多次作出规定，国家体育总局对这一腐败现象坚持不懈地进行整治，取得了一定成效。但是，据反映，随着2004年雅典奥运会和2005年第十届全国运动会的临近，一些地方体育部门和有关单位对中央的上述规定置若罔闻，为了使本地区、本单位的运动员获得参加奥运会比赛资格和在十运会上取得奖牌、金牌，假借各种名义，向国家体育总局有关运动项目管理中心的一些工作人员和国家队教练员赠送“红包”、礼金，这种行为严重腐蚀了干部的思想，助长了“不给好处不办事、给了好处乱办事”的不正之风，影响极其恶劣。为了坚决制止赠送和收受“红包”、礼金现象的滋生蔓延，维护“公开、公平、公正”的竞赛原则，纯洁体育竞赛环境，保证体育事业持续健康发展，特作如下通知：<br><br>    一、国家体育总局机关各单位、各运动项目管理中心和地方各级体育部门接此通知后，要组织全体干部，尤其是主管运动项目的各级领导干部、工作人员和国家队、省队的领队、教练员、科研人员、医生等人员，认真学习中央和总局关于严禁赠送和收受“红包”礼金的有关规定，严令禁止，严肃纪律，严格监督，上下齐抓，共同努力，坚决制住这种不正之风。<br><br>    二、地方各级体育部门和有关单位除对本地区、本单位在国家队担任教练员、科研工作和医疗工作的人员外，一律不得以感谢费、过节费、代训费、劳务费、奖金等各种名义向国家体育总局机关、各运动项目管理中心工作人员和国家队其他教练员和科研人员赠送“红包”、礼金。<br><br>    三、国家体育总局机关、各运动项目管理中心工作人员和国家队教练员、科研人员，一律不得收受“红包”、礼金。对因各种原因拒绝不掉而收受的，必须在一个月内向所在单位报告并上缴单位财务部门。<br><br>    四、地方各级体育部门、有关单位及其工作人员，违反中央和国家体育总局的规定，向总局系统工作人员和国家队教练员、科研人员赠送“红包”、礼金的，一经发现，总局将把举报件和核查情况转交有关省、自治区、直辖市和部门的纪检监察机关处理。<br><br>    五、国家体育总局系统工作人员和国家队教练员收受“红包”、礼金不按照规定报告和上缴的，一经查实，一律按顶风违纪严肃处理。数额不满5000元的，由纪检监察部门依照有关规定给予党纪、政纪处分；数额在5000元以上的，移送司法机关依法追究刑事责任；主动索取“红包”、礼金的，从重处罚。<br><br>    六、党员干部收受“红包”、礼金的，不论数额多少，一律给予党纪处分，并视情节，给予责令辞职、免职、解聘、辞退等组织处理。<br><br>    七、国家体育总局机关、各运动项目管理中心的各级党政领导干部，要以身作则，带头廉洁自律，自觉抵制不正之风。要按照党风廉政建设责任制的规定，切实负起责任，加强对干部职工和国家队教练员、科研人员的教育、管理和监督。对领导不重视，疏于教育、管理和监督，对收受“红包”礼金的行为视而不见，不抓不管，甚至隐瞒不报、压制不查的，除对有关当事人严肃处理外，要追究有关领导的责任。<br>                      <br><br>国家体育总局党组<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

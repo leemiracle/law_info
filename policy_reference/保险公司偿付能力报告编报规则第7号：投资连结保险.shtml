@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-12-19<BR>&nbsp;&nbsp;【生效日期】2005-12-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/notes/list_detail.asp?AUTO_ID=344" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>保险公司偿付能力报告编报规则第7号：投资连结保险</font></p><br><br> <br>各保险公司： <br>    为加强偿付能力监管，科学评估保险公司的偿付能力，我会研究制定了《保险公司偿付能力报告编报规则第6号：认可负债》、《保险公司偿付能力报告编报规则第7号：投资连结保险》、《保险公司偿付能力报告编报规则第8号：实际资本》和《保险公司偿付能力报告编报规则第9号：综合收益》。现予印发，请遵照执行。 <br><br>中国保险监督管理委员会<br>二○○五年十二月十九日 <br><br><br>保险公司偿付能力报告编报规则第7号：投资连结保险<br><br>    引言<br><br>    1．本规则规范保险公司的投资连结保险业务在偿付能力报告中的编报。<br><br>    定义<br><br>    2．本规则使用的下列术语，其定义为：<br><br>    （1）投资账户，指保险公司根据投资连结保险合同建立的资产单独管理、投资风险完全由保单持有人承担的资金账户。<br><br>    （2）独立账户资产，指投资连结保险各个投资账户中的投资资产组合。<br><br>    （3）独立账户负债，指保险公司对投资连结保险提取的单位准备金和投资账户负债。其中，投资账户负债是指在投资账户资产投资过程中形成的卖出回购证券、应付款项等负债。<br><br>    （4）单位准备金，指保险公司按照准备金评估日的投资连结保险保单持有人享有的投资账户价值提取的责任准备金。其中，投资账户价值应当按照中国保险监督管理委员会（以下简称"中国保监会"）关于投资连结保险投资账户价值评估的规定计算。<br><br>    投资连结保险合同形成的资产<br><br>    3. 保险公司因投资连结保险合同的履行而形成的资产，包括独立账户资产、未转入投资账户的资产和转出投资账户的资产。<br><br>    4.独立账户资产为认可资产，以投资账户资产的评估价值作为其认可价值。<br><br>    5. 投资账户资产的评估价值应当按照中国保监会关于投资连结保险投资账户资产评估的规定计算。<br><br>    6. 独立账户资产应当在认可资产表中单独列示。<br><br>    7．保险公司应当按照中国保监会规定的相应资产认可标准和披露要求确定未转入投资账户的资产和转出投资账户的资产的认可价值，并披露有关信息。<br><br>    投资连结保险合同形成的负债<br><br>    8. 保险公司履行投资连结保险合同而形成的负债包括独立账户负债、非单位准备金和其他负债。<br><br>    9. 独立账户负债为认可负债，其中，以投资连结保险保单持有人享有的投资账户价值作为单位准备金的认可价值，以投资账户负债的账面余额作为其认可价值。<br><br>    10. 独立账户负债应当在认可负债表中单独列示。<br><br>    11.保险公司应当按照《保险公司偿付能力报告编报规则第6号：认可负债》规定的认可标准和披露要求，确定投资连结保险合同形成的非单位准备金和其他负债的认可价值，并披露有关信息。<br><br>    投资连结保险合同形成的综合收益<br><br>    12. 保险公司因投资连结保险合同的履行而导致的资产变动或负债变动，应当计入当期综合收益。<br><br>    13. 保险公司运用投资账户资金投资产生的投资收益中，由保险公司享有的部分，应当计入当期综合收益；由投资连结保险保单持有人享有的部分，不应当计入当期综合收益。<br><br>    披露<br><br>    14. 保险公司应当在偿付能力报告明细表中披露以下信息：<br><br>    （1）各投资账户中各项资产的期末评估价值和评估原则。<br><br>    （2）各投资账户中各项负债的期末账面余额。<br><br>    （3）各投资账户期末的投资账户价值、投资单位数、保险公司享有的投资单位数、投资单位价值、单位准备金。<br><br>    （4）报告期间各投资账户的投资收益，包括导致资产增加或负债减少的债券投资收益、基金投资收益、股票投资收益、存款利息收入、未实现利得等，导致资产减少或负债增加的卖出回购证券支出、未实现损失等。<br><br>    （5）报告期间各投资账户价值的增减变动情况，包括保单持有人投入和收回的资金、保险公司收取的费用、投资账户的投资收益等。<br><br>    附则<br><br>    15. 本规则及相关问题解答等规定未涉及的投资连结保险业务的编报要求，适用国家统一的会计制度。<br><br>    16. 本规则自2005年度偿付能力报告编报起施行。<br><br>    17．《保险公司偿付能力额度及监管指标管理规定》（保监会令〔2003〕1号）中有关投资连结保险业务的规定同时停止执行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

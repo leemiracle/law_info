@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办明电〔2007〕65号<BR>&nbsp;&nbsp;【发布日期】2007-12-22<BR>&nbsp;&nbsp;【生效日期】2007-12-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4288" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅转发国务院办公厅关于做好防范大雾天气影响交通安全工作的紧急通知<br><br></font>(皖政办明电〔2007〕65号)</p><br><br> <br>    各市、县人民政府，省政府有关部门：<br>      经省政府同意，现将《国务院办公厅关于做好防范大雾天气影响交通安全工作的紧急通知》（国办发明电〔2007〕54号）转发给你们，并结合我省实际提出如下意见，请认真贯彻落实。<br>    <br>    一、认真做好预测、预报、预警工作。我省是一个雾天频发的省份，各级气象部门要切实加强大雾天气的监测预警，通过广播、电视、报纸和手机短信等各种有效方式，及时发布预报、警报和预警信号，做好公众气象服务工作。<br>    <br>    二、切实加强道路交通安全。公安、交警部门要根据雾天交通管理工作的特点，调整警力部署，加强夜间和凌晨雾情多发时段的巡逻，尤其是要加大高速公路和临水、近山、湿地路段的巡逻密度。一旦出现大雾情况，视情采取限制车速、疏导分流、局部封闭、全线封闭等交通管制措施，对已进入管制路段的车辆，通过车载喊话器、电子显示屏等方式，引导驾驶人员控制车速，就近驶入服务区或驶离高速公路。<br>    <br>    三、切实加强水上交通安全。市、县人民政府要督促县、乡（镇）人民政府切实加强渡口安全管理。海事部门要加强现场巡查监管，把好船舶发航签证关，禁止船舶冒险航行，防止渡运船舶超载行为。航运企业要加强对自身船舶的安全检查和对船员的安全教育，落实各项安全制度，严防安全事故的发生。<br>    <br>    四、迅速落实事故救援处置措施。一旦发生雾天交通事故，要做到快速反应，快速救援，快速勘查，快速撤除现场。对雾天交通事故现场，要按照有关要求，摆放警示标志，必要时封闭现场，严防发生二次事故。<br>    <br>                                               安徽省人民政府办公厅<br>                                              二○○七年十二月二十二日<br>    <br><br>          国务院办公厅关于做好防范大雾天气影响交通安全工作的紧急通知<br>                          国办发明电〔2007〕54号<br>    <br>    各省、自治区、直辖市人民政府，国务院各有关部门：<br>    今年入秋以来，我国中东部大部分地区出现了5天以上的大雾天气，影响范围较大，由此造成的交通安全事故时有发生，造成了一定程度的人员伤亡和经济损失。同时，雾天导致的航班延误、机场旅客滞留、道路封闭、交通拥堵等，给社会生产生活带来了很大不便。根据气象卫星监测，由于冷空气势力较弱，近地面层湿度较大，我国中东部大部分地区仍将持续出现雾或霾天气，部分地区能见度在100米以下。为做好防范大雾天气影响交通安全有关工作，经国务院领导同志同意，现将有关事项紧急通知如下：<br>    <br>    一、高度重视大雾天气的防范应对工作。大雾造成近地面层能见度低，对航空、公路交通、海洋航运而言都是高危险天气，容易诱发群死群伤的恶性交通事故。国务院领导同志对此高度重视，要求进一步做好防范大雾天气影响交通安全的工作，防止重大事故发生。各地区、各有关部门要认真贯彻落实国务院领导同志的要求，坚持以人为本，牢固树立安全发展理念，以对党对人民高度负责的精神，切实加强组织领导，层层落实责任制，全面落实防范应对措施，最大程度地减轻雾害影响，维护和保障人民群众生命财产安全。<br>    <br>    二、切实加强监测、预报、预警工作。各级气象部门要进一步强化决策服务和公众服务工作，不断加强对雾、霾天气的监测预警，强化监测分析和适时临近预报，及时发布预报、警报和预警信号，为各级政府、有关部门、企事业单位和人民群众采取有效防范措施提供科学依据。气象、公安、建设、铁道、交通、民航、安全监管等部门要密切合作，进一步完善大气能见度观测系统，填补近海海面、新建交通干线等区域存在的大雾观测空白点，落实交通安全气象信息发布制度，切实增强应对大雾引发突发事件的能力。要进一步扩大预报预警信息的发布渠道，通过电视、广播、互联网、报纸等媒体和手机短信、公共场所电子显示屏等方式，及时准确地发布大雾天气预警信息和交通管制措施，提醒有关运输企业和个人合理安排生产营运，提醒人民群众合理安排出行计划和时间，做好公众出行信息服务。<br>    <br>    三、加强科学管理，落实应对措施，防范和减轻大雾天气对交通安全的影响。地方各级政府、各有关部门要积极主动地做好大雾天气的应对准备工作，建立科学有效的雾害防控机制，完善和实施科学的雾害防御专门预案，及时掌握大雾天气预报信息和雾情发生的时段、路段、海域范围，做到早准备、早部署、早行动。民航部门要制定、完善大雾天气条件下的飞行/运行标准、应急处置预案及有关工作程序，并指导各航空公司、机场运行管理部门严格执行有关规定，合理调配运力，提前做好应对大面积航班延误的准备工作，一旦乘客大量滞留，要做好通报解释和善后服务工作，维护好航班运行秩序。道路交通管理部门要对容易发生浓雾的路段，加大能见度检测设备布设密度，及时掌握雾的发展趋势，同时在雾区路段密布具有自主发光能力的轮廓标、凸起路标、雾灯等设施，引导车辆安全出行；要根据大雾的能见度和路面状况，科学合理地采取限速、限量和封闭措施；浓雾时要根据有关规定适时采取交通安全管制措施，加大道路巡逻管控力度，对已经滞留在路上的车辆，要及时护送、引导至绕行路线或安置在就近服务区等候，防止出现长时间、大范围交通拥堵。铁路部门要根据大雾天气影响情况，严格执行雾天作业标准，做好列车运行调整，强化运输调度指挥，对穿越雾区的列车实行调度引导；要做好接触网和电力机车受电弓的清洁工作，防止发生雾闪。水运管理部门要充分发挥船舶自动识别系统和船舶交通管理系统的作用，加强港区、航道和锚泊船的监管，把好船舶发航签证关，严禁船舶冒险离港航行，严格督促在航船舶主动采取锚泊扎雾等措施，防止船舶碰撞、搁浅等险情事故发生。发生大雾天气，有关地方政府和部门要迅速启动应急预案，积极落实雾天交通事故救援联动措施，确保发生事故后能够快速救援、快速勘查、快速撤除现场，最大限度减少损失。<br>    <br>    四、加大宣传和培训工作力度，提高全社会应对大雾天气的意识和能力。公安、交通、民航等有关部门要切实抓好相关教育培训工作，重点使营运单位、驾驶人员掌握雾天驾驶、航行规定以及不同天气环境下的安全运行要求和应急避险措施。地方各级政府要切实加大大雾危害和应对知识的宣传力度，使社会公众切实增强安全防范意识，提高预防、避险和互救能力。<br>    <br>    五、加强应急值守，确保信息畅通、快速反应。各地区、各部门要认真落实24小时值班制度和领导带班制度，确保信息联络畅通。因大雾天气造成道路、水上、航空安全事故及其他重大突发事件，要立即报告、不得延误，及时做好应对处置工作。各地区、各部门、各单位之间要加强协作配合、联系沟通，在信息资源、应急准备、事故处置等环节形成合力，切实做好防范和应对大雾天气影响交通安全工作。<br>    <br>                                                      国务院办公厅<br>                                                 二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

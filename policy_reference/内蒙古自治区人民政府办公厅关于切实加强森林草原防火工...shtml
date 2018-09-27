@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政办字〔2006〕97号<BR>&nbsp;&nbsp;【发布日期】2006-03-28<BR>&nbsp;&nbsp;【生效日期】2006-03-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nmg.gov.cn/pages//2006515/2006515271229572.htm" target=_blank>内蒙古自治区 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区人民政府办公厅关于切实加强森林草原防火工作的通知<br><br></font>(内政办字〔2006〕97号)</p><br><br>  <br>各盟行政公署、市人民政府，自治区各有关委、办、厅、局，各有关企业、事业单位：<br>    2005年，我区森林草原防火工作取得了较好成绩，防扑火机构、队伍和基础设施建设得到了进一步加强，综合防控能力有了新的提高。但是，目前我区森林草原防火工作仍面临着严峻形势，全区大部分地区大风日数多，降水偏少，气温偏高，个别地区将面临严重的春旱，东部地区春季防火期已经来临，西部地区防火工作正处于关键时期。为切实加强2006年森林草原防火工作，现将有关事宜通知如下：<br>    一、进一步深化防火行政领导责任制<br>    各地区、各有关部门要严格按照温家宝总理关于防火工作的“五项标准”要求以及《内蒙古自治区森林草原防火条例》的有关规定，进一步深化行政领导负责制、部门领导负责制和单位领导负责制，层层划定责任区，签订责任状，并将森林草原防火工作列为各级领导干部实绩考核的重要内容。各地区、各有关部门主要领导要自觉承担起责任，及时研究森林草原防火工作中存在的突出问题，制定有针对性的措施，认真部署、检查和落实防扑火工作，有火险时要亲临现场，组织指挥扑救。凡因机构不健全、责任不明确、人员不到位、经费不落实、发生火灾有关领导不及时赶赴火场造成重大损失的，要坚决追究有关领导和责任人的责任。<br>    二、大力开展防火宣传教育<br>    针对严峻的森林草原防火形势，各地区要采取多种形式，扩大宣传教育的覆盖面，注重实效性。一是要抓好群众性的宣传教育活动，调动广大人民群众参与森林草原防火工作的积极性；二是要抓好典型火灾案件的宣传，发挥震慑作用；三是要抓好专业人员培训，强化安全扑火技能；四是要积极破除封建迷信思想，提倡安全文明的祭奠方式，特别是防火重点区域各级人民政府要按照有关要求，尽快对墓葬进行迁移和清理，划定区域集中安葬。<br>    三、全面提高管控火源的能力<br>    各地区、各有关部门在全面落实森林草原火灾防范措施的基础上，要突出火源管理重点，坚决管死、管住火灾源头。防火期内，各类用火要严格按规定审批，用火责任落实到人，监督到位。严格按照“六烧六不烧”的原则进行计划烧除，严防跑火引发森林草原火灾。要切实加强火情监测工作，充分发挥苏木乡镇、嘎查村护林人员在火情监测中的重要作用，并综合运用各种技术手段，对火情实行全方位立体监测。要及时开展武装“三清”、隐患排查和防火戒严工作，重点地段做到死看死守。要打破地域观念，树立防扑火无界的思想，积极与周边地区加强沟通，建立各级联防组织，扎实有效地开展联防联治工作。要进一步规范和加强监督检查工作，深入防扑火第一线，及时发现问题，及时进行整改，从根本上排除隐患。要加大防火法规、制度完善工作力度和火灾案件查处力度，进一步推进依法治火工作进程。森林草原火灾扑救工作要以专业力量为主，坚持以人为本的原则，牢固树立安全第一的思想，严密防范，科学指挥，科学扑救，坚决杜绝扑救人员伤亡事故的发生。<br>    四、不断强化防扑火基础设施和队伍建设<br>    各地区、各有关部门要按照国家和自治区要求，进一步加大森林草原防火投入，巩固成果，夯实基础。一是要抓好边境防火隔离带的开设工作，在全面开设贯通的基础上，对重点险段要采取特殊措施，确保阻火效能；二是要抓好林缘、林内城镇、嘎查村屯、农牧场、林场场址等重要设施周围防火隔离带的开设工作，严防火烧连营；三是要抓好信息指挥、  望监测、交通运输、监测通讯、机具装备等方面的建设，提高防控能力；四是抓好防扑火队伍建设。武警森林部队要继续发扬特别能战斗的优良传统，强化战备训练；航空消防队伍要严格管理，确保安全，发挥空中巡护、运输、灭火优势；地方专业防扑火队伍要强化业务技能，不断提高战斗力，尚未组建防扑火队伍的，要尽快完成组建工作。<br>    五、充分做好扑救火灾的各项准备<br>    各地区、各有关部门要针对2006年的森林草原防火工作特点，及早制定和完善扑火应急预案，并切实加强预案培训和演练，保障预案及时启动、顺利实施。要备足和检修好各种扑火机具、交通运输工具等防扑火设施设备，确保设备齐全完好。武警森林部队、航空消防队伍、地方专业防扑火队伍等扑火力量要提前布防到位，进入战备状态。按照《内蒙古自治区森林草原防火条例》的有关规定，各有关部门要各负其责，各司其职，密切配合，全力做好防扑火的各项准备工作。<br>    六、切实加强防火值班调度工作<br>    各级防火办公室要坚持24小时值班和领导带班制度，加强对值班情况的检查督促，保持良好的值班秩序，确保上情下达和下情上报顺畅高效。要严格执行火灾报告和新闻报道的相关规定，及时准确上报火情，坚决禁止瞒报、谎报和越级上报，特别是需要向国家有关部门和自治区党委、政府报告的火情，各地区、各有关部门必须报自治区防火指挥部，由自治区防火指挥部按规定上报。 <br> <br>2006年3月28日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

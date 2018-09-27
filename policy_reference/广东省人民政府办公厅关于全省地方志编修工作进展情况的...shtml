@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广东省<BR>&nbsp;&nbsp;【发布文号】粤府办〔2005〕5号<BR>&nbsp;&nbsp;【发布日期】2005-01-13<BR>&nbsp;&nbsp;【生效日期】2005-01-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gd.gov.cn/gov_files/wj_title.asp?id=934" target=_blank>广东省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省人民政府办公厅关于全省地方志编修工作进展情况的通报<br><br></font>(粤府办〔2005〕5号)</P><br><br><br>各地级以上市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构： <br><br>    我省第一届新方志编修任务于2001年6月基本完成。根据国务院的部署，2002年2月，省人民政府决定启动我省第二届新方志编修工作。但极少数地区和单位的第一届修志任务至今仍未完成，少数地区和单位的第二届修志工作进展缓慢。为加快推进全省地方志编修工作，确保全省第一届、第二届修志任务的全面完成，根据省人民政府意见，现将有关情况通报如下： <br><br>    一、全省第一届新方志编修任务完成的情况 <br>    全省第一届修志工作共编修《广东省志》1部（由94部分志组成），市、县志100部。目前，《广东省志》94部分志中，已出版80部，正在出版7部，7部没有出版；100部市、县志中，已出版94部，正在出版1部，5部没有出版。 <br>    尚未完成编修任务的志书是：省总工会编修的《广东省志・工会志》、团省委编修的《广东省志・青年运动志》、省妇联编修的《广东省志・妇女志》、省农业厅（原省乡镇企业局）编修的《广东省志・乡镇企业志》、省文化厅编修的《广东省志・文物志》、省盐业总公司编修的《广东省志・盐业志》、省建设厅编修的《广东省志・城乡建设志》、陆丰市政府编修的《陆丰县志》、海丰县政府编修的《海丰县志》、惠州市惠城区政府编修的《惠州志》、高州市政府编修的《高州县志》和英德市政府编修的《英德县志》。由于这些志书未能按时出版，影响了全省第一届修志任务的全面完成。 <br><br>    二、全省第二届新方志编修工作进展情况 <br>    根据省政府的部署，全省第二届修志工作从2002年3月开始，至2008年底全面完成。共编修《广东省志》1部（由43卷组成），市、县、区志120部。 <br>    全省第二届修志工作总体计划：第一阶段，制定规划、动员布置、健全机构和队伍、培训修志人员、制订志书篇目、完成资料搜集等工作，时间约2年；第二阶段，进行志书编写、志稿评议和总纂等工作，时间约3年；第三阶段，志稿送审、修改和志书出版等工作，时间约2年。 <br>    第二届修志工作启动两年多来，大多数地区和单位基本能按计划完成第一阶段工作。目前，参加第二届修志的121个市、县、区中，有100个市、县、区已经完成了动员部署、培训人员和篇目设计工作，进入资料收集阶段，其中有66个市、县、区基本完成资料收集工作，进入志稿撰写阶段。第二届《广东省志》43卷中，有31卷已经完成了人员培训和拟定篇目工作，进入搜集资料阶段，部分卷进入志稿撰写阶段。 <br>    第二届《广东省志》中，至今尚未启动编修工作的是：《党派・群团卷》、《城乡建设卷》、《工业卷》、《劳动・社会保障卷》和《人口卷》。编修工作进展缓慢的是：《新闻・传播卷》、《社会科学卷》、《政权・政协卷》、《国内贸易卷》、《专记・粤港澳台经济文化交往》、《专记・海洋经济》和《经济管理卷》中的“行业管理篇”。 <br>    第二届市、县、区志中，至今尚未启动编修工作的是：《湛江市坡头区志》、《湛江市麻章区志》、《遂溪县志》、《茂名市茂南区志》、《电白县志》和《潮州市湘桥区志》。编修工作进展缓慢的是：《佛山市志》、《佛山市禅城区志》、《韶关市武江区志》、《始兴县志》、《汕尾市志》、《汕尾市城区志》、《陆河县志》、《江门市志》、《恩平市志》、《湛江市志》、《吴川市志》、《清远市志》、《清远市清城区志》、《清新县志》和《连山县志》。 <br>    汕头市由于近年行政区划有较大调整，所属的6个区和1个县第二届修志工作起步晚，2004年上半年才成立机构，下半年动员布置，落实修志人员。 <br><br>    三、加快推进全省地方志编修工作的要求 <br>    （一）统一认识，加强领导。 <br>    编修地方志是中华民族的优良传统，是社会主义文化建设事业的重要组成部分，也是我省建设文化大省的重要内容。各级政府、省直各有关单位要把地方志编纂工作列入议事日程，主要领导亲自过问，分管领导具体抓，及时协调解决编修志书工作中出现的困难和问题。要建立、健全地方志机构，充实修志队伍，为修志提供必要的工作条件和经费，确保全省志书编修工作顺利开展。 <br>    （二）制定规划，确保进度。 <br>    尚未完成第一届修志任务和第二届修志工作进展缓慢的市县和省直有关单位，要认真分析、查找修志工作落后的原因；根据省政府关于全面完成第一届修志任务的具体要求和第二届新方志编修工作的总体目标，认真制定修志工作计划，落实工作措施，并于2005年1月30日前将工作计划和措施书面报告省地方史志办公室。 <br>    尚未完成第一届修志任务的地区和单位，必须按如下时间要求完成编修出版任务：目前已经通过审查验收的《英德县志》、《海丰县志》和《广东省志・城乡建设志》，在2005年3月底前出版；正在三审的《高州县志》和已完成二审的《广东省志・妇女志》，在2005年6月底前出版；已完成一审的《陆丰县志》、《广东省志・工会志》、《广东省志・青年运动志》、《广东省志・乡镇企业志》、《广东省志・文物志》和《广东省志・盐业志》，在2005年8月底前出版；惠州市惠城区政府主持编修的《惠州志》，在2005年10月底前出版。 <br>    （三）加强督查，狠抓落实。 <br>    各级人民政府和省直有关单位要切实负起责任，加强督促检查工作，推动全省地方志编修工作的顺利开展。各地级以上市、省直有关单位完成修志工作的进度情况，要于每年7月和次年1月初书面报省地方史志办公室，由其汇总报省人民政府。省地方史志办公室要切实加强对各地和省有关单位修志工作的业务指导与督促检查，特别是对修志工作进展缓慢地区、单位，要重点督查，及时了解情况，帮助分析原因，督促其采取改进措施，确保全省修志任务按时全面完成。 <br><br>广东省人民政府办公厅<br>二○○五年一月十三日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

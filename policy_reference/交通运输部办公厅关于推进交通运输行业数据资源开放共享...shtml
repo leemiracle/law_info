@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通运输部办公厅<BR>&nbsp;&nbsp;【发布文号】交办科技[2016]113号<BR>&nbsp;&nbsp;【发布日期】2016-08-25<BR>&nbsp;&nbsp;【生效日期】2016-08-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://zizhan.mot.gov.cn/zfxxgk/bnssj/kjs/201609/t20160902_2083604.html" target=_blank>交通运输部办公厅 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>交通运输部办公厅关于推进交通运输行业数据资源开放共享的实施意见</strong><br />&nbsp;交办科技[2016]113号</p>
+<p>&nbsp;</p>
+<p>各省、自治区、直辖市、新疆生产建设兵团及计划单列市交通运输厅（局、委），部属各单位，部内各司局： <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为贯彻落实国家关于促进大数据发展和政务信息资源共享管理有关要求，充分挖掘交通运输行业数据资源价值，实现用数据说话、用数据决策、用数据管理、用数据创新，提升行业治理能力和服务水平，促进行业提质增效与转型升级，现提出如下实施意见。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、 总体要求&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (一) 指导思想。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 深入贯彻落实党的十八大和十八届三中、四中、五中全会精神，按照党中央、国务院决策部署，遵循以目录管理数据资产、以共享促进数据融合、以开放实现数据增值的总体思路，坚持需求导向和问题导向，加强统筹协调，激发市场活力，着力突破交通运输大数据发展机制与技术障碍，提升行业数据资源开发利用价值，为打造精准治理、多方协作的行业治理模式，构建贴近需求、便捷高效的运输服务体系提供有力支撑，促进安全便捷、畅通高效、绿色智能的现代综合交通运输体系建设。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (二) 基本原则。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 统筹协调、联合推进。加强管理与技术体系统筹，强化行业数据资源治理，推动各类平台有效对接，打破部门分割和行业壁垒，政企合作，上下联动，共同推进数据资源开放共享。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 需求导向、互利共赢。以跨部门、跨地区、跨领域业务协同需求为导向，注重盘活整合现有资源，实现行业数据资源有效共享。以提升综合交通服务品质为导向，推动行业数据资源向社会开放，充分释放行业数据红利，实现多方共赢。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 激发活力、创新应用。创新行业数据资源开发利用模式，激活数据增值能力，引导鼓励企业和社会机构开展交通运输服务大数据创新应用，推动交通运输服务联动创新、融合创新、万众创新。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 规范有序、保障安全。统一数据资源开放共享标准，完善相关业务规则，规范数据资源全生命周期管理，提升行业数据质量。妥善处理创新发展与保障安全的关系，强化大数据技术背景下的安全防护。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (三) 实施目标。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 通过3&mdash;5年时间，实现以下目标：&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1．建立健全行业数据资源开放共享体制机制，基本建成协调联动、高效运转的行业数据资源管理体系。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2．完善行业数据资源开放共享技术体系，建立互联互通的行业数据资源开放共享平台。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 围绕科学决策、精准治理、便捷服务等重点需求，开展一批跨部门、跨地区、跨领域协同应用的试点示范。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、 主要任务和措施&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (一) 健全行业数据资源开放共享管理体系。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.完善组织管理体系。明确承担部综合交通运输数据资源管理及促进应用服务职能的机构，加强行业数据资源交换共享、对外开放和开发利用等工作统筹。完善地方交通运输数据资源管理相关职能，强化数据资产管理，确保部省、省际间数据资源共享交换机制有效运行。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.加强管理制度建设。贯彻落实国家政务信息资源共享管理有关要求，制定交通运输数据资源共享交换管理制度，厘清各单位各部门数据管理、维护及共享交换的职责、权利和义务，明确数据资源共享交换范围和工作程序，推动行业数据资源共享共用。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.研究建立目录体系。以行业协同性、综合性业务需求为重点，梳理行业数据资源，制定行业数据资源分级分类标准，按照行业内&ldquo;共享为原则、不共享为例外&rdquo;研究制定数据资源共享目录。在保障信息安全和个人隐私的基础上，合理界定数据资源权属，研究制定公共数据开放目录，建立健全目录定期更新发布机制。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.健全监督考评机制。完善信息化建设项目管理制度，在项目立项、验收等环节，加强对数据资源建设和开放共享方案的审核。研究建立行业数据资源开放共享考评机制，将评估结果作为信息化投入的重要参考，加强对行业数据资源开放共享效能的激励和约束。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (二) 完善行业数据资源开放共享技术体系。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.加强开放共享标准规范建设。研究完善行业信息数据标准体系，加快信息资源核心元数据、信息资源标识符编码规则、信息平台互联共享、空间信息应用共享交换等基础性数据标准制修订，进一步加强标准执行的监督管理。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.建立数据资源目录服务系统。研究制定行业数据资源目录服务系统建设指南，推动行业数据资源目录服务体系建设，开展存量数据资源著录工作，实现基于目录的数据资产管理，确保行业数据资源底数清、情况明。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.完善数据资源共享交换平台。加快部省两级数据资源共享交换平台建设，建立各业务数据资源共享交换主干通道，形成行业统一的数据资源共享交换体系，并接入国家数据共享交换平台，实现行业数据资源共享交换，推动信息系统互联互通。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.推动公共数据开放平台建设。加快各级交通运输公共数据开放平台建设，并接入国家数据统一开放平台，促进行业公共数据对外开放，支持大数据产品及增值服务的社会化开发。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (三) 开展行业数据资源开放共享示范应用。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.推动跨部门数据资源共享示范应用。结合行业数据资源共享交换平台建设，开展水路领域数据资源共享交换应用示范。推进部、省、市、县四级道路运输管理信息系统互联互通。加快推进交通运输信用信息管理系统建设，逐步实现行业信用信息归集共享。在交通运行协调、综合行政执法等领域，进一步推动跨部门数据共享和业务协同应用示范。依托国家和行业统一的数据资源共享平台，开展与公安、海关、安监、旅游、气象、测绘等部门的跨部门数据资源共享应用示范。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.推进跨地区数据资源共享示范应用。加快推进京津冀交通信息共享机制建设，在路政执法、运政执法、高速公路运行及应急管理等领域开展业务协同示范。落实长江经济带发展要求，深入推进长江航运信息资源整合工作，推动长三角地区交通运输数据资源共享交换示范。支持西部地区交通运输跨省数据资源开放共享应用。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.推动交通运输大数据创新应用。依托行业统一的数据资源开放共享平台，以及物流、运政、海事等专业数据资源共享平台，促进行业数据资源和社会数据资源整合共享，鼓励企业和社会机构创新应用，支持建立促进创新应用的开放式技术平台，提升综合交通出行及物流信息服务能力和品质。引导社会优质资源参与交通旅游服务大数据应用开发，推进交通旅游服务大数据创新应用。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (四) 保障行业数据资源开放共享规范有序。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.完善业务规则。进一步完善行业管理业务规则，着力促进业务流程再造，明确跨部门、跨地区、整体性、协同性业务对数据资源的开放共享需求，以业务需求驱动数据资源开放共享，以数据资源开放共享促进业务流程优化和管理模式创新。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.提升数据质量。推动交通运输基础设施与数据采集系统同步建设、同步养护，从源头保障数据完整性和及时性。各级交通运输主管部门应进一步加强数据运维与质量管控，切实保障数据准确性和一致性。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.加强数据安全。落实数据安全管理有关法规制度，加强数据采集、传输、存储、使用、开发等关键环节的安全防护。加强行业重要数据资源容灾备份，提升重要数据容灾恢复能力。细化界定行业涉密信息内容，依法加强对涉及国家秘密、个人隐私和商业秘密数据的保护。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、 加强组织实施&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (一) 强化协调领导。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各级交通运输主管部门要高度重视，落实&ldquo;一把手&rdquo;责任制，细化分解各项工作任务，合理安排工作计划，加大协调监督力度，加强实施工作的集中统筹，主动推进各项工作，确保各项任务落实到位。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (二) 确保制度执行。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各级交通运输主管部门要认真贯彻国家、行业和本部门制定实施的数据资源开放共享规章制度，将其落实到信息化建设、管理、运维等各个环节，确保各项规章制度执行有力，避免有规不依、执规不严。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (三) 保障资金投入。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各级交通运输主管部门应统筹安排好相关经费，保证各项工作有效投入。依托各地交通运输&ldquo;十三五&rdquo;规划，推动数据资源目录服务系统、数据资源共享交换平台、公共数据开放平台、开放共享示范应用等任务有序开展。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (四) 加强督查评估。&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 各级交通运输主管部门要加强督促检查，将工作推进落实情况列入年度工作目标考核，并纳入&ldquo;十三五&rdquo;相关规划的中期评估。</p>
+<p>&nbsp;</p>
+<p style="text-align: right;">&nbsp;交通运输部办公厅（章） <br />2016年8月25日</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监财会〔2006〕701号<BR>&nbsp;&nbsp;【发布日期】2006-06-30<BR>&nbsp;&nbsp;【生效日期】2006-06-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gov.cn/zwgk/2006-07/10/content_331882.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于加强对保险机构所属境内非保险类经济实体和境外保险机构财务监管若干事项的通知<br><br></font>(保监财会〔2006〕701号)</p><br><br><br>各保险公司：<br>    为适应保险业快速、健康发展的客观需要，切实履行对保险行业的财务监管职责，健全统一归口管理的行业财务监管体制，为下一步实施对保险集团（控股）公司的并表监管做好准备，有效防范和化解行业财务风险，促进保险业又快又好发展，现就加强对保险公司（含集团公司、控股公司）所属境内非保险类经济实体和境外保险机构（以下简称所属非保险和境外机构）财务监管工作有关事项通知如下：<br>    一、建立管理制度备案制度和重大财务事项报告制度。<br>    （一）本通知所称保险公司所属境内非保险类经济实体，是指保险公司能对其实施控制、共同控制或重大影响的除保险公司、保险资产管理公司、健康保险公司、养老保险公司之外的各类经济实体，包括保险公司所属银行、证券公司、信托公司、保险中介机构及其他独立经营、独立核算的经济实体或投资项目。保险公司所属境外保险机构，是指保险公司能对其实施控制、共同控制或重大影响的境外的保险营业机构，其中包括境外分支机构，但不包括在境外设立的代表处、办事处等非营业性机构。<br>    （二）保险公司所属非保险和境外机构的资产质量、财务状况、经营效益直接关系到保险公司和整个行业的资产安全和偿付能力，是促进保险业发展和防范保险业风险的重要环节。保险公司应当建立以财会部门牵头，相关部门密切配合的财务管理体制，将所属非保险和境外机构的会计核算、筹资、投资、资金收益分配、预算、业绩考核等财务管理活动纳入公司整体财务管理的框架中，在符合公司治理原则的前提下，切实履行对所属非保险和境外机构应尽的财务监督职责。<br>    （三）保险公司应建立健全资产管理制度，加强对长期股权投资尤其是所属非保险和境外机构的长期股权的日常管理，将有关管理制度和办法报保监会财务会计部备案。有关制度和办法修订后，应向保监会及时更新备案材料。<br>    （四）保险公司应当将其长期股权投资有关的重大财务决策、事项，以及所属非保险和境外机构有可能对保险公司财务状况和偿付能力产生重大影响的事项，及时向保监会报告。与长期股权投资有关的重大财务决策、事项包括：转让所属非保险和境外机构股权；投资设立或参股非保险类经济实体或境外机构；所属非保险和境外机构上市融资等。可能对保险公司财务状况和偿付能力产生重大影响的事项包括所属非保险和境外机构发生严重亏损或进行重大债务重组等。<br>    （五）对于不具备持续经营条件或已无法进行正常经营活动的所属非保险和境外机构（例如停业、被吊销营业执照或被监管部门接管等），保险公司应当加强清理整顿工作，并将有关情况及时向保监会报告。<br>    二、建立财务报告的定期报告、外部审计和监管审核制度。<br>    （一）各保险公司于每年4月30日前，向保监会财务会计部报送所属非保险和境外机构上一会计年度的财务报告的纸质文本和电子文本。其中，境外保险机构的财务报告应分别按照中国会计准则和境外机构所在国（地区）会计准则编制。<br>    （二）所属境内非保险类经济实体的财务报告和所属境外保险机构按所在国（地区）会计准则编制的财务报告应经会计师事务所审计。<br>    （三）所属非保险和境外机构本身属于控股管理机构，不从事实体经营的，保险公司在报送该所属机构财务报告的同时应报送其控股管理的下一级经济实体的财务报告。<br>    （四）不具备持续经营条件或已无法进行正常经营活动的所属非保险和境外机构可以不报送财务报告，但保险公司应当向保监会附送专题报告，汇总说明该类机构上一会计年度的经营情况、清理整顿情况或清算情况。<br>    （五）保监会依法对保险公司所属非保险和境外机构的财务报告实施监管审核。对违反国家财会制度和监管法规的，保监会将根据监管职责实施查处，不属于保监会职权范围内的事项，移送其他监管部门查处。<br>    三、其他事项<br>    （一）凡投资有境内非保险类经济实体和境外保险机构的保险公司，应于2006年8月15日前向保监会财务会计部报送以下材料：<br>    1．所属境内非保险类经济实体和境外保险机构基本情况一览表（见附件）；<br>    2．保险公司财会部门制定的长期股权投资管理制度、对所属非保险和境外机构的财务管理办法等相关内部管理制度；<br>    3．所属非保险和境外机构经审计后的2005年度财务报告。其中，电子文本通过电子邮件发送到ac_jgc@circ.gov.cn 。<br>    （二）执行中遇到问题，请及时向保监会财务会计部报告。<br>    联系人：郭菁  栗利玲<br>    电话：010-66286182  66286183<br>    传真：010-66288102<br>    附件：所属境内非保险类经济实体和境外保险机构基本情况一览表<br><br>                                                    二○○六年六月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

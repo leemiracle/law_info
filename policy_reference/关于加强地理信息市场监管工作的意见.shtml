@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】测绘局 工业和信息化部 国家安全部 工商总局 新闻出版总署 保密局 总参测绘局<BR>&nbsp;&nbsp;【发布文号】国测管发〔2010〕15号<BR>&nbsp;&nbsp;【发布日期】2010-04-23<BR>&nbsp;&nbsp;【生效日期】2010-04-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sbsm.gov.cn/article/tzgg/201005/20100500065948.shtml" target=_blank>国家测绘局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>关于加强地理信息市场监管工作的意见 <br><br></font>(国测管发〔2010〕15号)</p><br><br><br>    各省、自治区、直辖市、计划单列市测绘行政主管部门，通信管理局，国家安全厅（局），工商行政管理局，新闻出版局，保密局，军区、军兵种测绘主管部门： <br><br>    2009年1月以来，各地区、各部门认真贯彻落实《国务院办公厅转发测绘局等部门关于整顿和规范地理信息市场秩序意见的通知》（国办发〔2009〕4号）精神，加强领导，周密部署，密切配合，扎实工作，圆满完成了全国地理信息市场专项整治工作，地理信息市场秩序得到明显好转，有力地促进了地理信息产业健康发展。但是，地理信息产业具有产业链长、关联度大的特点，涉及到国民经济建设诸多领域，监管难度大；一些地方在市场监管上仍然存在认识不到位及监管体制不顺、力量薄弱、手段缺乏的问题；地理信息市场违法违规行为仍时有发生。这些问题的存在，给国家安全带来了隐患。为进一步加强地理信息市场监管，保障国家安全，促进地理信息产业又好又快发展，现提出以下意见： <br><br>    一、深刻认识加强地理信息市场监管的重要性 <br><br>    （一）深化地理信息关系国家安全和利益的认识。地理信息是国家重要的战略性信息资源，关系到国家安全和利益。涉密地理信息数据是境外有关机构长期收集我国情报的重点领域之一，一旦失泄密或流失到境外，会给国家安全和利益带来长期、潜在的危害。因此，加强地理信息市场监管，是对国家安全和利益高度负责的体现，是确保地理信息资源广泛、高效、安全应用的基本前提。 <br><br>    （二）深刻理解加强监管对促进产业健康发展的重要意义。地理信息产业属于战略性新兴高技术产业，依法加强地理信息市场监管，将地理信息产业纳入规范化、法制化的发展轨道，对于维护地理信息安全、加快构建数字中国、推进国家信息化建设、服务政府决策、方便人民群众生产生活等都具有重要意义，也是贯彻落实科学发展观，促进我国地理信息产业优化升级和集群发展，壮大产业规模，提高产业竞争力的必然要求。 <br><br>    二、当前加强地理信息市场监管的主要任务 <br><br>    （三）严把市场准入关。地理信息市场监管工作要从阶段性集中整治向日常化的事前监管转变，前移市场监管“关口”。测绘部门要认真执行《测绘资质管理规定》，进一步加强地理信息产业单位的资质管理，严格审批条件，完善审批手续；要加大对互联网地图服务的监管力度，对应当但尚未取得测绘资质证书的单位，依法责令其暂停互联网地图服务，通信管理部门依法予以协助。工商部门要配合主管部门依法查处未进行登记或者超出经营许可范围的地理信息市场违法行为。新闻出版部门要加强对地图出版、印刷等活动的审批工作；从事互联网地图出版活动的单位，应依法取得互联网出版服务许可。对外国的组织或者个人来华测绘申请，有关部门要加强协作，对外方背景、测绘内容和真实目的等进行严格审查。 <br><br>    （四）加强地理信息市场动态监管。进一步完善测绘行政执法体制，加强市、县测绘行政能力建设，提高地理信息市场监管能力。测绘部门要会同工商、通信管理、新闻出版、保密等部门，建立动态检查制度，采取形式多样的检查方式，加大对地理信息市场的监督检查力度。重点加强对互联网地图服务、导航定位等新兴地理信息服务领域的监管。开展监管新技术、新方法研究，创新监管手段，加强对地理信息市场的全过程监管。积极探索建立地理信息市场监督员制度。建立部门间地理信息市场联合监管机制，不定期召开联席会议，及时交流信息，部署协调重大专项行动，研究解决地理信息市场监管中出现的新情况、新问题。 <br><br>    （五）建立市场监测预警机制。测绘部门要会同相关部门加强地理信息市场统计、分析，强化对地理信息市场的监测和预警，并及时将相关情况通报有关部门。建立以测绘资质管理为核心的地理信息市场监管信息系统，逐步建立测绘资质管理、测绘行政执法、测绘项目备案、测绘质量监督、基础测绘成果提供等管理措施间的联动机制。 <br><br>    （六）进一步加大联合执法力度。针对涉外、涉军、涉密、涉证、涉网等“五涉”案件违法主体多元、违法领域宽泛、违法途径多样的特点，继续做好重点领域违法案件查处工作。测绘、通信管理、国家安全、工商管理、新闻出版、保密、军队等相关部门要进一步健全联合查办案件的协作机制，形成执法合力，及时查处违法行为，提高执法办案质量和效率。对违法从事涉密测绘活动，或对涉密地理信息数据保管不善、造成泄密的资质单位，要依法撤消其资质；对不具有测绘资质违法从事涉密测绘活动的单位，要依法加大处罚力度；对情节严重触犯刑法的，依法移交司法机关追究刑事责任。各地区各部门要对地理信息市场典型违法案件予以公布，建立地理信息市场行政执法表彰奖励和责任追究制度。 <br><br>   （七）加大涉密地理信息保密监管力度。严格控制涉密测绘成果流向，狠抓涉密测绘成果使用、保管单位的保密管理，切实做好涉密测绘成果回收工作，形成对涉密测绘成果生产、流通、保管全过程的保密监管机制。要有效整合各方面力量，尽快研制一批安全实用的产品，提高涉密地理信息保密防护水平，提高针对互联网地理信息泄露涉密地理信息行为的检查监管能力。要改进和完善保密技术措施，着力做好军事、外事、科研、重大工程建设等活动中涉密地理信息的安全保密防范工作。保密部门要会同有关部门依法查处地理信息泄密案件，重点打击为境外机构、组织、人员窃取、刺探、收买、非法提供涉密地理信息的违法行为。 <br><br>    （八）加快地理信息市场法制建设。深入开展针对地理信息市场管理的立法调研，抓紧制定或修订有关地理信息市场管理的法规规章，建立健全地理信息市场监管制度。测绘部门要尽快研究出台遥感影像公开使用管理规定，制定地理信息要素细化分层方案；测绘和保密部门要共同修订《测绘管理工作国家秘密范围的规定》，完善涉密测绘成果提供和使用的有关规章制度。进一步加强地理信息市场相关法律法规的贯彻落实工作，把依法管理的各项要求真正落实到地理信息管理的各环节。 <br><br>    （九）加强法制宣传教育。大力开展对有关部门、单位和相关人员的法制宣传教育，重点加强对地理信息数据使用者的宣传教育，增强安全保密意识、依法测绘意识、依法使用地理信息数据意识。通过开展“以案说法”等活动，发挥查办案件的警示教育作用，提升各方面自觉维护地理信息安全的共识。改进宣传方法，将集中宣传与日常宣传相结合，重点宣传与普遍宣传相结合，充分利用广播、电视、报刊、互联网等媒体，强化地理信息关系国家安全和利益的宣传教育，提高全社会的国家安全意识。 <br><br>    （十）积极优化市场发展环境。各部门根据职责分工，查找本部门负责的、影响地理信息市场健康发展的主要问题，有针对性地解决产业发展中暴露出来的深层次矛盾。加大地理信息产业扶持力度，优化发展环境，协调出台有关政府采购、投融资、资源共享、产业基地建设等方面的优惠政策。探索建立地理信息市场信用体系，适时开展地理信息产业单位征信工作，建立资信优秀单位激励制度，发挥示范引导效用，培育“公平、公正、健康、有序”的市场环境。 <br><br>    三、加强地理信息市场监管的保障措施 <br><br>    （十一）加强组织领导。地理信息市场专项整治工作结束后，测绘行政主管部门要会同通信管理、国家安全、工商管理、新闻出版、保密、军队等有关部门，以地理信息市场监管联席会议及其办公室的形式，继续负责统筹协调本级监管机制的建设工作。各部门要切实承担起市场监管长效机制建设的责任，既要严格履行职责、各司其职、各负其责，又要相互支持、积极配合、协调统一、合力监管，实现市场监管规范化、常态化。 <br><br>    （十二）加强监管力量建设。各部门要以强化法制意识、提高管理能力和服务效率为重点，采取切实有效措施，大力加强执法队伍建设，规范执法行为，提高执法水平。要不断总结监管经验，创新监管思路，大胆探索监管模式和工作方法，提高监管效果。要改善地理信息市场监管的执法装备和检验监测条件，为执法办案提供必要的保障。 <br><br>    （十三）健全社会监管体系。各部门要制定措施，通过支持地理信息相关社团组织制定自律公约等途径，教育、引导地理信息产业单位自觉遵守法律法规，开展诚信经营。鼓励社会公众参与市场监督，建立违法违规举报制度和市场监管信息反馈制度。要充分发挥舆论监督作用，在全社会形成人人关心和参与规范地理信息市场秩序的良好氛围。 <br><br>    测绘局 工业和信息化部 国家安全部 工商总局 <br><br>    新闻出版总署 保密局 总参测绘局 <br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政办〔2006〕26号<BR>&nbsp;&nbsp;【发布日期】2006-03-31<BR>&nbsp;&nbsp;【生效日期】2006-03-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=3810" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府办公厅转发省农村信用社联合社关于实施社会主义新农村建设金融服务计划意见的通知<br><br></font>(皖政办〔2006〕26号)</p><br><br> <br>各市、县人民政府，省政府各部门、各直属机构：<br><br>    建设社会主义新农村是党的十六届五中全会提出的一项重大历史任务，是从根本上解决“三农”问题、实现城乡统筹发展的重要战略部署。省农村信用社从我省实际出发制定了《安徽省农村信用社联合社关于实施社会主义新农村建设金融服务计划的意见》，经省政府同意，现转发给你们，请结合各自职能，配合支持各级农村信用社，认真抓好落实,为推进社会主义新农村建设,实现全省奋力崛起作出积极的贡献。<br><br>                                        安徽省人民政府办公厅<br>                                        二○○六年三月三十一日<br><br><br>                  关于实施社会主义新农村建设金融服务计划的意见<br>                    （安徽省农村信用社联合社二○○六年三月）<br><br>    一、实施“金融服务计划”的指导思想和总体目标<br><br>    社会主义新农村建设金融服务计划（以下简称“金融服务计划”）是全省农村信用社“十一五”乃至更长一段时间促进新农村建设的总体方案和工作要求。实施“金融服务计划”的指导思想是：以促进新农村建设为主线，以改革为动力，面向“三农”、面向中小企业、面向县域经济，不断提高农村金融服务水平，在严格控制风险的基础上，努力增加信贷投入，积极调整信贷结构，满足农民有效贷款需求，缓解农村地区和县域中小企业贷款难问题，促进农民增收和农村经济、县域经济发展，为新农村建设提供有力的金融支撑。<br><br>    “十一五”期间实施“金融服务计划”的总体目标是：到2010年末，全省农村信用社各项存款余额达到1500亿元以上，力争超过1600亿元；各项贷款余额达到1100亿元以上，力争超过1200亿元；坚持服务“三农”的宗旨，确保新增贷款的70%以上用于支持“三农”。<br><br>    二、“金融服务计划”的主要内容<br><br>    围绕农民增收、农业结构调整、农村“千村百镇”示范工程、农村经济和县域中小企业发展，合理配置农村信用社金融资源，创新服务方式和品种，拓展业务领域，加大信贷投入，改进金融服务，全面体现农村信用社的正确市场定位。重点实施“五大工程”：<br><br>    （一） 农民致富信贷支持工程。围绕农民增收目标，结合本地农业结构调整规划，以小额农贷作为主打品种，面向农户，开展多种形式的农民致富信贷支持工程。今后5年，全省农村信用社新增农户贷款300亿元以上，其中农户小额信用贷款余额增加150亿元以上，贷款支持的农户超过800万户；每年累放农户贷款不少于450亿元。<br><br>    各县联社要进一步规范和推广农户小额信用贷款、农户联保贷款和农村合作经济组织贷款。要进一步改进农户小额信用贷款管理，合理安排信贷资金，对信用观念强、资信状况良好、有可靠收入来源的农户和个体经营户，采取“一次核定、随用随贷、余额控制、周转使用”的办法，确定贷款额度，核发贷款证，简化贷款手续；对专业户、致富能手、特色农业和创汇农业加大贷款授信额度，推动适度规模经营和区域特色产业的发展；根据农业生产周期和投资收益周转期科学合理确定贷款期限，对生产周期长、投资大、回报慢的可适当开办中长期贷款；对入股社员和不同经营项目实行优惠利率和差别利率政策。在严格控制风险的前提下，将小额信用贷款对象由传统的种养户向加工户、个体工商户、科技示范户等扩展，扩大支持和服务的范围。探索推广联保贷款方式，发展农户联保小组，提倡不同经营项目之间交叉担保，主要支持种植业、养殖业和加工业、多种经营、个体工商户等贷款。<br><br>    （二） 全民创业信贷支持工程。积极响应省委、省政府的号召，把支持县域全民创业作为自身业务发展的着力点之一，作为提供社区金融服务的一项重要内容，实施好全民创业信贷支持工程。各县联社要尽可能全面地了解农民创业的意愿，制定支持农民创业的信贷计划，创新贷款品种，安排一定数量的信贷资金，对农民自我创业、外出务工人员返乡创业给予贷款支持。同时，积极探索实施县域城镇居民创业贷款和再就业贷款，逐步解决自主创业中的融资难问题。<br><br>    （三） 中小企业信贷促进工程。把支持中小企业发展作为业务拓展的重点之一，加大对各类中小企业特别是民营企业的贷款支持力度。“十一五”期间，全省农村信用社每年新增贷款的30%以上要用于中小企业特别是小企业；每个县联社每年与20户以上中小企业新建业务关系；5年用于中小企业的贷款余额增加150亿元以上，支持中小企业5000户以上。<br><br>    各县联社要切实转变经营理念，认真研究制定支持中小企业的措施、办法，创新中小企业贷款管理机制，建立与中小企业联系制度，建立辖区内中小企业信息档案，及时掌握中小企业生产、销售、资金和资信情况，主动开展对中小企业的贷款营销，改进服务手段与方式，发掘和培育新的优质客户群体。对贷款需求量大，但产品技术含量高、经济效益优、市场前景好的股份制企业、民营企业、招商引进的企业、“三外”企业，要充分利用社团贷款等方式，加大信贷投入，巩固和扩大优质客户资源。<br><br>    （四） 农业产业化信贷促进工程。从服务“三农”的高度，加大对农业产业化发展的信贷支持力度，培育壮大龙头企业，促进全省农业产业化水平的提升。“十一五”期间，全省农村信用社用于农业产业化企业信贷投入要达到80亿元以上，支持农业产业化企业不少于500家。<br><br>    各县联社要从过去单一支持种养业的“小农模式”中解脱出来，树立“大农业”观念，适当集中信贷资金，创新信贷担保手段和担保方法，实行风险可控的授信制度，重点支持一批市场前景好、发展潜力大、带动能力强的“农字号”龙头企业项目，提高信贷支农的层次，带动农产品增值增效。通过提供金融服务和信贷支持等手段，参与引导和支持农民发展各类专业合作经济组织，支持龙头企业、合作组织与农户的有机结合，支持与龙头企业配套、有稳定产销关系的农产品基地、出口基地建设，推动区域农业形成“基地+农户”集约化经营和规模经营优势。<br><br>    （五） 农村市场建设信贷支持工程。我省是全国农村商品流通改革和市场建设试点省。全省农村信用社要充分认识农村市场建设的重要意义，全力支持农村市场建设，增加对农村市场建设的信贷投入，重点支持农村商品流通改革试点企业特别是农产品经营和流通企业，支持实施“万村千乡市场工程”，积极推广“商家乐”等多种商家贷款方式，培育各类市场特别是农产品流通市场，促进农村第三产业发展。<br><br>    三、实施“金融服务计划”的保障措施<br><br>    为保证“金融服务计划”的顺利实施，达到预期目标，重点要落实好以下保障措施：<br><br>    （一） 继续深化农村信用社改革。进一步加大农村信用社改革力度。建立以股份合作制为主要模式的新型产权制度，加快以县为单位的统一法人改革，积极组建农村合作银行，不断完善法人治理结构，为实践服务“三农”的宗旨提供制度保障。<br><br>    进一步转换农村信用社经营机制。积极稳妥地推进劳动用工制度、薪酬制度等改革，建立新的灵活高效的运行机制；转变经营理念，牢固树立服务“三农”的意识，改进服务手段，提高服务水平，增强发展活力，为实施“金融服务计划”提供机制保障。<br><br>    进一步完善内控机制。要坚持市场规则，坚持按金融规律办事，强化信贷等基础管理，加强内控制度建设，严密防范金融风险，保证信贷资金安全有效使用，保证可持续实施“金融服务计划”。<br><br>    （二） 建立实施“金融服务计划”的工作机制。制定实施“金融服务计划”的工作方案。各县联社要根据本意见，在调查研究的基础上，结合当地实际和新农村建设规划，将“金融服务计划”纳入联社五年发展规划，并制定切实可行的具体实施方案，明确目标，突出重点，细化措施，体现创新和特色。同时，将“金融服务计划”纳入每年的工作计划，通过具有当地特色的方式认真组织实施。<br><br>    建立实施“金融服务计划”的责任制。各县联社要根据实施方案，层层建立工作责任制，实行“一把手”负责制，制定考核办法，严格兑现奖惩。省联社对各县联社实施“金融服务计划”情况进行检查督促，每年对实施情况进行考核，对支持社会主义新农村建设贡献大的县联社给予表彰，对工作不力的县联社予以通报批评。<br><br>    （三） 加强与有关部门和机构的合作。各县联社要认真学习研究地方党委政府关于新农村建设的规划和部署，掌握工作动态，积极融入当地新农村建设。要加强与农业、商务等涉农部门和中小企业管理部门的联系，建立密切的工作协作关系，共同推动新农村建设和县域经济发展。要积极探索与工商联、行业协会、商会等组织和机构的合作，共同与相关企业建立多种形式的信用共同体，扩大对县域中小企业的贷款服务。加强与担保机构的业务合作，建立稳固的担保贷款服务体系，提高为农户和中小企业服务的效率。<br><br>    （四） 创建良好的农村金融生态环境。全省农村信用社要在当地政府的统一领导下，加强与有关部门配合，共同推进县域信用环境建设，特别是推进信用乡镇、信用村、信用农户和诚信企业建设，创造良好的农村金融生态环境。要进一步加大宣传力度，全面倡导合法、守信经营，提高农户、农村经济组织和中小企业的诚信度，促进农村社会信用环境和投资环境逐步改善。各县联社要依靠乡镇政府和村“两委”，全面建立农户经济档案，评定信用等级、贷款额度和信用户，及时发放贷款证，并结合登记、年检、评定工作，制定对信用户的优惠措施，包括提高授信额度、利率下浮、延长期限等，引导更多的农户成为名副其实的信用户,打牢信用村、信用乡的基础。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

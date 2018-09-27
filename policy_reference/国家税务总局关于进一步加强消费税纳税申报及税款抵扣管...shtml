@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函[2006]769号<BR>&nbsp;&nbsp;【发布日期】2006-08-15<BR>&nbsp;&nbsp;【生效日期】2006-08-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200609061406483382" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于进一步加强消费税纳税申报及税款抵扣管理的通知<br><br></font>(国税函[2006]769号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br>    为进一步加强消费税纳税申报及消费税税款抵扣的管理，现将消费税纳税申报表的修改事项及消费税税款抵扣政策的有关管理规定通知如下：?<br>    一、关于消费税纳税申报表?<br>    调整和完善消费税政策后，总局已对综合征管软件消费税申报表的部分栏目填报内容及栏目间逻辑关系进行了调整（申报表见附件），请各省根据调整内容，及时修改印制消费税纳税申报表。消费税纳税申报表调整内容如下：?<br>    （一）修改消费税申报表第5、6、7、8、9栏内容?<br>1.将第5栏“当期准予扣除外购应税消费品买价”修改为“当期准予扣除外购应税消费品买价(数量)”。?<br>    2.将第6栏“期初库存外购应税消费品买价”修改为“期初库存外购应税消费品买价（数量）”。?<br>    3.将第7栏“当期购进外购应税消费品买价”修改为“当期购进外购应税消费品买价（数量）”。?<br>    4.将第8栏“期末库存外购应税消费品买价”修改为“期末库存外购应税消费品买价（数量）”。?<br>    5.将第9栏“外购应税消费品适用税率”修改为“外购应税消费品适用税率（单位税额）”。?<br>    （二）修改消费税纳税申报表第10栏内容?<br>    将第10栏“10=5×9”修改为“10=5×9或10=5×9（1-减征幅度）”。?<br>    填报第10栏时，准予抵扣项目无减税优惠的按10=5×9的逻辑关系填报；准予抵扣项目有减税优惠的按10=5×9（1-减征幅度）的逻辑关系填报。目前准予抵扣且有减税优惠的项目为石脑油、润滑油，减征幅度为70%。?<br>    （三）修改消费税纳税申报表第19栏内容?<br>    将第19栏“19=15-17+20+21+22”修改为“19=15-26-27”。<br>    （四）关于第26栏填报问题?<br>    将第26栏调整为“26=3×4或26=3×4×减征幅度”。?<br>    全额免税的应税消费品按“26=3×4”填报，减征税款的应税消费品按“26=3×4×减征幅度” 填报，目前有减税优惠的项目为石脑油、润滑油，润滑油、燃料油减征幅度为70%。?<br>    二、关于消费税税款抵扣的管理?<br>    （一）从商业企业购进应税消费品连续生产应税消费品，符合抵扣条件的，准予扣除外购应税消费品已纳消费税税款。?<br>    （二）主管税务机关对纳税人提供的消费税申报抵扣凭证上注明的货物，无法辨别销货方是否申报缴纳消费税的，可向销货方主管税务机关发函调查该笔销售业务缴纳消费税情况，销货方主管税务机关应认真核实并回函。经销货方主管税务机关回函确认已缴纳消费税的，可以受理纳税人的消费税抵扣申请，按规定抵扣外购项目的已纳消费税。<br>??<br>    附件：消费税纳税申报表<br> <br><br>国家税务总局    <br>二○○六年八月十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】莆田市<BR>&nbsp;&nbsp;【发布文号】莆政办明电〔2007〕55号<BR>&nbsp;&nbsp;【发布日期】2007-08-23<BR>&nbsp;&nbsp;【生效日期】2007-08-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/sqswj/pt/200709/t20070913_33333.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>莆田市人民政府办公室关于政府网站建设运行情况的通报<br><br></font>(莆政办明电〔2007〕55号)</p><br>    <br><br>各县（区）人民政府（管委会），市直各单位：<br><br>    近年来，市县（区）及市直部门政府网站相继建立，并通过互联网直接面对社会开通运行，从运行的情况看，各级各部门政府网站建设及管理有成绩、有特色，但与省政府办公厅的要求还有不小的差距。现将近期对市本级、县（区）及各部门政府网站的检查情况通报如下：<br><br>    一、市本级政府网站建设情况<br><br>    今年6月21日，经改版后的“中国莆田”人民政府网站（www.putian.gov.cn），严格按照省政府办公厅关于政府网站保障方案的设置要求，做到了有栏目就有一定的内容、点击不超过三层，并增加了多个“与民互动”栏目和一些必要栏目，基本上呼应了政府门户网站内容保障方案的要求。但仍有一些栏目内容必须完善充实。<br><br>    二、市直单位及县区网站建设情况<br><br>    据统计，目前市直部门已经建立部门网站的共有36个（司法局、粮食局、国税局、检察院、计生委、体育局、民宗局、财政局、档案局、消防支队、国土资源局、人事局、地震局、外经贸局、农业局、建设局、工商局、教育局、公安局、旅游局、科技局、行政服务中心、招投标中心、气象局、公路局、出入境检验检疫局、劳动保障局、海洋与渔业局、发改委、质量技术监督局、城乡规划局、物价局、城管执法局、统计局、文化出版局、港务局），其中统计局、文化出版局、港务局3个网站近期还无法接通；正在建站的单位有13个（监察局、民政局、卫生局、外侨办、林业局、审计局、经贸委、环保局、交通局、安监局、粮食局、地税局、水利局）。<br><br>    截至8月上旬，已建立的县（区、管委会）政府网站的有：仙游县、荔城区、城厢区、涵江区；未建立的有：秀屿区政府、湄洲岛管委会及湄洲湾北岸经济开发区管委会。<br><br>    三、存在的主要共性问题<br><br>    经过检查和评估，市直单位及各县（区、管委会）政府网站存在的主要问题有：<br><br>    （一）多数部门及县区网站只有静态功能的介绍，动态信息交流栏目设置不多。<br><br>    （二）多数网站信息更新不及时、服务功能不健全、发布的信息无时效价值，部分站点新闻信息甚至半年以上没有更新。<br><br>    （三）部分单位还存在网站服务器外挂托管在私人公司，运行质量难于保障，存在安全隐患。<br><br>    （四）部分部门网站至今没有按照政府门户网站内容保障方案的要求设置，还存在域名不规范现象。<br><br>    （五）多数单位没有设立专门的信息化工作队伍及专业技术人员，网站建设和管理滞后，职能不够明确。<br><br>    四、工作要求<br><br>    根据市领导的要求，为切实做好我市各级各部门政府网站建设，迎接省政府办公厅的检查评比，请各县区及市直单位务必高度重视，认真按照莆政办[2007]85号文件要求，做到以下几点<br><br>    （一）对照存在的问题，在8月27日前进行一次认真地自查整改。<br><br>    （二）尽快指定专人进行整改补充，切实抓好各自网站的建设和管理工作。<br><br>    （三）要进一步加强领导，建立长效工作机制。8月下旬，省市政府办将再次进行全市政府门户网站的绩效评估，并公布评估结果。<br><br>    莆田市人民政府办公室<br><br>    二OO七年八月二十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

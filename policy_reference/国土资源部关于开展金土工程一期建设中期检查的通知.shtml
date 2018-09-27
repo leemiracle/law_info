@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国土资源部<BR>&nbsp;&nbsp;【发布文号】国土资信办发〔2007〕8号<BR>&nbsp;&nbsp;【发布日期】2007-07-09<BR>&nbsp;&nbsp;【生效日期】2007-07-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mlr.gov.cn/zwgk/zfgw/zfwj/200710/t20071017_88366.htm" target=_blank>国土资源部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国土资源部关于开展金土工程一期建设中期检查的通知<br> <br></font>(国土资信办发〔2007〕8号)</p><br><br><br>各省、自治区、直辖市国土资源厅（国土环境资源厅、国土资源局、国土资源和房屋管理局、房屋土地资源管理局），计划单列市国土资源行政主管部门，新疆生产建设兵团国土资源局，金土工程一期建设覆盖的试点城市国土资源行政主管部门：<br><br>    为全面了解全国金土工程一期建设进展情况，保证金土工程按期完成，依据《关于印发全国金土工程建设总体方案的通知》（国土资发〔2006〕23号）和《关于开展金土工程一期建设的通知》（国土资发〔2006〕208号）的精神，部金土工程办公室决定于2007年7～8月对各地金土工程一期建设情况进行中期检查。现将有关事宜通知如下：<br><br>    一、检查内容<br><br>    主要对照《金土工程一期建设方案》和部批复的各地金土工程建设方案的内容，对各地金土工程一期建设的执行情况进行检查。重点对金土工程一期覆盖的64个节点建设情况进行检查，包括：<br><br>    1.金土工程一期的项目立项、经费落实和组织实施情况；<br><br>    2.建设用地审批、建设用地预审、矿业权等业务应用系统的建设情况；<br><br>    3.土地利用现状、土地利用规划、土地开发整理规划、农用地分等、矿业权、矿产资源储量、矿产资源规划等数据库的建设情况；<br><br>    4.各节点单位局域网建设及省―市―县联网情况；<br><br>    5.各试点单位数据中心软硬件环境及安全系统建设情况。<br><br>    二、工作安排<br><br>    本次检查分三个阶段进行：<br><br>    1.自查阶段（2007年7月10日～8月5日）<br><br>    各地首先按照《金土工程一期建设方案》和部批复的本地金土工程建设方案所确定的建设任务和进度进行自查，包括工程基本概况、项目立项与资金落实、组织领导与实施管理、系统建设与应用成效、数据库建设与整合、网络基础设施与安全保障、存在问题与建议等。<br><br>    各省（自治区）负责对所辖试点城市（不含计划单列市）的金土工程建设情况进行检查，一并形成自查报告；计划单列市自行开展检查形成自查报告。各地在2007年8月5日前将自查报告以正式文件（连同电子文档）报送部金土工程办公室。<br><br>    2.现场抽查（2007年8月6日～8月25日）<br><br>    部金土工程办公室根据各地自查情况，对部分地区金土工程建设进展情况及存在的突出问题进行现场检查与调研，一并研究推进工程建设的措施。<br><br>    3.总结阶段（2007年8月26日～8月31日）<br><br>    部金土工程办公室将检查结果汇总报部信息化领导小组，并通报全国。<br><br>    联系人：高晓桦<br><br>    电话：010-66558619<br><br>    地址：北京市西城区阜内大街64号100812<br><br>    邮件：xhgao@infomail.mlr.gov.cn<br><br>二○○七年七月九日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

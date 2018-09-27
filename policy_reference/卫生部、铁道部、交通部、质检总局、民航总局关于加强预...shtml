@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部、铁道部、交通部、质检总局、民航总局<BR>&nbsp;&nbsp;【发布文号】卫应急发〔2005〕247号<BR>&nbsp;&nbsp;【发布日期】2005-06-17<BR>&nbsp;&nbsp;【生效日期】2005-06-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10037" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部、铁道部、交通部、质检总局、民航总局关于加强预防控制传染病 境外传入和通过交通工具传播的通知<br><br></font>(卫应急发〔2005〕247号)</p><br><br><br>各省、自治区、直辖市卫生厅局、铁路局、交通厅局、各直属出入境检验检疫局、民航地区管理局： <br><br>    为预防控制传染病传播和蔓延，保障人民群众的身体健康，维持正常的生产、生活和交通秩序，根据有关法律法规，现就加强预防控制传染病境外传入和通过交通工具传播的有关事项通知如下： <br><br>    一、加强领导，密切配合，建立完善防控措施联动机制 <br><br>    各级卫生、铁路、交通、检验检疫、民航部门要重视预防传染病境外传入和通过交通工具传播工作，行政管理部门要建立信息沟通渠道和联动协调机制；各级企事业单位要制定和完善防控措施，共同协防，有效控制传染病境外输入和通过交通工具传播。 <br><br>    二、建立疫情通报制度 <br><br>    国内发生重大传染病疫情后，疫情所在地的省、自治区、直辖市卫生行政部门除向卫生部报告外，应当及时向当地的铁路、交通、检验检疫、民航行政主管部门通报疫情。卫生部定期向铁道部、交通部、质检总局、民航总局通报疫情;有重大疫情出现时，随时通报。各部门接到疫情通报后，应当及时通知本系统内卫生主管机构和有关交通工具的营运单位，按质检、卫生行政部门的要求采取相应的防控措施。 <br><br>    境外传染病疫情可能对我国造成影响的，出入境检验检疫部门要及时向卫生、铁路、交通、民航行政主管部门通报境外疫情以及相应的对策。 <br><br>    卫生行政部门在接到输入性传染病病例或疑似传染病病例报告时，应在12小时内通报当地的出入境检验检疫机构；出入境检验检疫机构在对入境人员的检疫查验中发现输入性传染病病例或疑似传染病病例时，也应在12小时内通报当地卫生行政部门。 <br><br>    交通工具上发生疫情时，铁路、交通、民航行政主管部门除在各系统内逐级上报外，应向同级卫生行政部门、出入境检验检疫部门报告。 <br><br>    三、实行健康告知制度 <br><br>    境外传染病疫情可能对我国造成影响时，出入境检验检疫部门应按照《国境卫生检疫法》及其实施细则的有关规定，对前往疫区的人员提供有关疫情信息和国际旅行卫生保健咨询服务，必要时可提供预防性治疗药物及预防接种；对来自或经过传染病疫区并有发热、腹泻等症状的出入境人员，检疫人员可根据流行病学调查或医学检查做出初步判断后，发给“就诊方便卡”，告知其尽快到相应的或指定的医疗机构就诊，并应主动向医生报告其旅行史等，以便及时得到诊治和控制传染病传播。医疗机构对持有“就诊方便卡”的人员应优先诊治。 <br><br>    四、建立旅客健康巡查制度 <br><br>    传染病流行期间，在往返境外疫区和驶离国内疫情发生地的交通工具上，铁路、交通、民航部门要建立旅客健康异常情况登记制度。交通工具负责人应指定专人负责巡查旅客健康状况；发现旅客中出现发热、腹泻等症状的病人，交通工具负责人要按有关规定及时向到达地或始发地的出入境检验检疫部门报告，同时，登记患者及其随行人员姓名、家庭住址等，并提供给前来实施出入境卫生检疫的检疫人员。需要车、船、飞机在前方港、站临时停靠时，国家质检总局或卫生行政主管部门应与交通工具的行政主管部门协商。 <br><br>    旅客办理登车、船、机手续时，交通站点应采取适当的形式进行健康宣传和旅行健康通报；如旅客报告自身健康异常，应立即通知检疫部门或卫生部门进行检查；检疫部门或卫生部门认为存在传染病传播可能的，应劝阻其登乘交通工具，并采取相应的防控措施。 <br><br><br><br>    在动物鼠疫流行疫区有停靠站的交通工具上，要有专人负责巡查旅客健康状况；发现从动物鼠疫流行疫区停靠站上车的旅客中出现发热病人时，要登记患者及其随行人员姓名、家庭住址，并及时向前方停靠点报告。 <br><br>    五、建立传染病人交接制度 <br><br>    交通工具上发现传染病疫情时，在交通工具上应采取适当的隔离措施以及在车船上采取通风等措施，对与病人同舱或同一车厢的乘客和其他与病人有密切接触的人员，登记姓名、住址、联系方式，并在前方指定的停靠点将传染病人、疑似传染病人和其密切接触者以及其他需要跟踪观察的旅客、乘务员名单，移交前来接收的医疗卫生单位。往返境外的交通工具上发现传染病疫情时，交通工具负责人应按规定及时向到达地或始发地的出入境检验检疫部门报告，并将传染病病人、疑似传染病病人等移交前来实施出入境卫生检疫的检疫人员。 <br><br>    接到交通工具发现传染病人或疑似传染病人的报告后，机场、车站、港口要及时与医疗卫生单位做好传染病人或疑似传染病人的交接工作。医疗卫生单位要提前到达机场、车站、港口，配备必要的设备、药品，并做好个人防护工作。出入境检验检疫机构要与当地医疗卫生机构建立和完善有关口岸传染病病人的交接、诊疗、流调、信息反馈等协作机制，当接到往返境外的交通工具负责人报告发现或在入境检疫查验中发现传染病病人或疑似传染病病人时，要及时与医疗卫生机构做好上述病人的交接等工作。 <br><br>病人交接后，交通工具需继续前行的，医疗卫生单位应在交通工具出发前，对交通工具进行消毒处理，并向乘务员告知有关事项。往返境外的交通工具需继续前行的，由出入境检验检疫部门或其指定的卫生处理单位对交通工具进行消毒处理。 <br><br>    六、完善医疗卫生设施，建立传染病定点医疗制度 <br><br>    机场、车站、港口要配备必要的医疗卫生设施，一旦发现传染病人或疑似病人，要对传染病人、疑似传染病人和密切接触者实行就地隔离和观察。没有隔离条件的，机场、车站、港口要积极与当地医疗卫生机构建立病人转移机制，当地卫生行政部门应指定机场、车站、港口附近的医疗卫生机构作为发现传染病人或疑似病人的隔离观察场所，并与机场、车站、港口建立快速转移通道，确保传染病人、疑似传染病人的及时隔离，保证旅客的健康和交通运输的正常安全运行。 <br><br>    机场、车站、港口所在地的医疗卫生机构，要积极主动配合铁路、交通、检验检疫、民航系统内医疗卫生机构的工作，必要时给予技术、设备、人员、诊断、治疗等方面的支持。机场、车站、港口所在地卫生行政部门要建立和完善传染病定点医疗机构，负责转运机场、车站、港口隔离和观察的传染病人、疑似病人和密切接触者。 <br><br>    七、加强人员培训和健康教育 <br><br>    对机场、车站、港口相关人员开展相关专业知识培训，使他们掌握重点传染病的防控和治疗知识。 <br><br>    加强对铁路、交通、民航运输系统非医务人员有关传染病知识宣传和培训，增强工作人员的防病意识和能力，提高发现可疑传染病人的敏感性。 <br><br>    八、完善预案和应急程序 <br><br>    根据《国家突发公共卫生事件应急预案》，结合传染病境外传入和通过交通工具传播的特点，制定和完善部门协调联控的预案和应急程序，加强预案的培训和联合演练，有序、有效控制传染病的传入和传播。 <br><br>    九、加强监督检查 <br><br>    根据实际情况，五部局每年组织一到两次督导检查，并就存在的问题联合下发通报，促进各项防病措施的落实。 <br><br>卫生部     铁道部     交通部 <br>质检总局            民航总局 <br>二○○五年六月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

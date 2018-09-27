@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交水发[2007]755号<BR>&nbsp;&nbsp;【发布日期】2007-12-28<BR>&nbsp;&nbsp;【生效日期】2007-12-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhuzhan/zhengwugonggao/jiaotongbu/shuiluyunshu/200801/t20080109_457955.html" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于开展2008年国内水路运输业及水路运输服务业核查工作的通知<br><br></font>(交水发[2007]755号)</p><br> <br>  <br>各省、自治区、直辖市交通厅（委）、上海市港口管理局，长江、珠江航务管理局，中远、中海、长航、中外运集团，部救捞局、各直属打捞局：<br><br>    根据《行政许可法》、《水路运输管理条例》的有关规定，为加强国内水路运输市场监督管理，规范从业者经营行为，打击非法经营，保护合法经营者利益，维护水运市场秩序，促进我国航运业健康、有序发展，经研究，决定自2008年1月1日至4月30日，在全国集中开展2008年度国内水路运输业及水路运输服务业核查工作。现就有关事项通知如下：<br>    一、核查对象及内容<br>    年度核查对象为已取得国内水路运输业、水路运输服务业经营资格的经营人及其经营的运输船舶。核查内容主要包括：<br>    （一）核查经营人是否存在违法、违规经营行为，是否按规定交纳有关规费。重点核查经营人有无超越经营范围、有无违反规定使用票据等行为。<br>    （二）核查《国内船舶运输经营资质管理规定》（交通部令2001年第1号）要求的公司经营资质条件的保持情况。在核查经营资质条件的保持情况时，要重点核查企业主要管理人员是否到位，是否满足最低运力规模要求，是否存在船舶“挂而不管”行为；要现场核查企业实际在岗人员与已在管理部门备案的主要管理人员是否相符及其劳动合同、相关证书是否真实有效，杜绝企业主要管理人员在船上或其他企业兼职现象。<br>    （三）核查运输船舶是否具有经营资格、相关证书是否齐全、有效，是否存在报废船舶继续营运的情况，有无违章行为及发生事故。<br>    （四）了解经营人的生产经营情况和存在的主要问题以及对行业管理部门的意见和建议。<br>    二、核查具体事项<br>    （一）年度核查《核查报告书》、核查程序等内容参照交通部《关于开展2000年水路运输行业年审工作的通知》（交水发〔1999〕664号）执行。<br>    （二）为确保不影响经营人的正常经营活动，在其上缴《船舶营业运输证》核查期间，可由核查单位根据需要发给《待理证》，有效期不得超过30天（且不得超过2008年4月30日）。<br>    （三）经审核合格的经营人，其《水路运输（服务）许可证》审核记录的有效期统一注明从2008年1月1日至2009年4月30日。新核发船舶审核记录的有效期统一至2009年4月30日（但不得超过营运证的有效期）。对审核合格的船舶，由审核机关对其《船舶营运证》核发新的审核记录页。对未落实安全管理责任、“挂而不管”的船舶不得核发该记录页。<br>    三、工作分工<br>    各级交通主管部门或其委托的航运管理机构（以下统称“交通主管部门”）负责本辖区年度核查工作。具体分工如下：<br>    （一）经我部及长江、珠江航务管理局批准从事跨省运输的水路运输经营人，由经营人所在地地（市）级交通主管部门负责组织逐户上门核查，省级交通主管部门对核查情况进行现场抽查，部水运司及长江、珠江航务管理局视情况参加抽查。部属各打捞局的年度核查工作由部水运司负责。<br>    （二）中央航运企业集团及其控股子公司，由公司所在地省级交通主管部门对其进行核查并签署意见；审查合格的，由部水运司或长江航务管理局按管理权限在其《水路运输许可证》上加盖年审章并为其船舶核发《船舶年审合格证》。请各中央航运企业积极配合当地交通主管部门做好年度核查工作。<br>    （三）省内水路运输经营人、内河个体运输户及水路运输服务业经营人的核查权限和形式由各省级交通主管部门确定。<br>    四、工作要求<br>    （一）本次年度核查工作政策性强、涉及面广、工作量大。各有关单位要高度重视，加强领导，周密组织，务求实效。<br>    （二）各交通主管部门要依法行政，增强服务意识，规范服务行为，提高工作效率。要认真贯彻落实政务公开的有关要求，采用适当方式将核查要求、工作程序等内容告知经营人。<br>    （三）要严格执法，及时纠正违法违规行为，对达不到要求的，不予办理相关手续。对安全管理制度和责任不落实的经营人，要明确提出整改意见；对达不到经营资质条件要求的，要责令限期整改，经过整改仍达不到资质条件的，报相应管理部门取消其经营资格。对在规定期限内无故不参加核查或拒不接受核查的经营人，要依照有关规定，给予相应处罚。<br>    （四）要严肃工作纪律和严格遵守廉政规定，严禁滥用职权，徇私舞弊；要严格遵守有关规定，严禁借核查名义乱收费或搭车收费。 <br>    （五）各单位要通过年度核查，做好企业、船舶等基础信息的收集和整理工作，为完善全国水运基础信息做好前期准备工作。目前，我部已完成了全国水路运政管理信息系统的升级改造工作，将在年度核查期间在部分单位试用。试用单位要通过年度核查完善信息系统基础信息。<br>    （六）为掌握各地核查工作情况，请各省（区、市）交通主管部门在核查结束后，将核查工作总结于2008年5月底前报部水运司。长江、珠江水系各有关省（区、市）应同时分别抄报长江、珠江航务管理局。总结及汇总表除以书面形式报送外，还要以电子软盘或电子邮件报送（E-mail:sysgnc@moc.gov.cn）。<br>    （七）请各省(区、市)于2008年1月31日前将我部《关于进一步加强国内船舶运输经营资质管理的通知》（交水发〔2006〕91号）要求的每年下半年开展的跨省运输企业经营资质抽查工作总结书面报部。<br><br>中华人民共和国交通部<br>二OO七年十二月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

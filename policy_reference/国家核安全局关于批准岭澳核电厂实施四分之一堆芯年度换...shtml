@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安发〔2007〕19号<BR>&nbsp;&nbsp;【发布日期】2007-02-13<BR>&nbsp;&nbsp;【生效日期】2007-02-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/haqwj/200702/t20070215_100973.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家核安全局关于批准岭澳核电厂实施四分之一堆芯年度换料申请的通知<br><br></font>(国核安发〔2007〕19号)</p><br> <br><br>大亚湾核电运营管理有限责任公司：<br><br>    <br>    你公司《关于岭澳核电站先进燃料管理项目执照申请的请示》（广核运〔2005〕24号）收悉。<br>    <br>    根据《中华人民共和国民用核设施安全监督管理条例》及其实施细则的要求，我局对你公司提交的共13批执照申请文件进行了审评，认为你公司对岭澳核电厂实施四分之一堆芯年度换料的申请是可以接受的，现批准该换料方案。鉴于我国目前尚缺乏高燃耗的运行经验和研究基础、并参考目前法国的实践，对于岭澳核电厂第六、七循环中全M5 AFA3G燃料组件的燃耗限值暂以52GWd/tU进行控制。<br>    <br>    你公司应认真履行审评中的承诺，并在技术规格书、安全相关系统和设备定期试验监督要求等运行文件经我局批准后方可正式实施换料工作。此外,你公司应做好以下工作：<br>    <br>    一、根据国内外运行经验以及高燃耗限值的国际实践提交有关资料，以进一步论证后续循环中全M5 AFA3G燃料组件的燃耗限值为57GWd/tU的可行性，并报我局审查。<br>    <br>    二、在2007年9月前用ORIGEN-S程序提供的堆芯积存量对一回路源项进行核算，并提交以核算后源项为基础的环境影响专题报告，更加准确地评价正常运行和事故工况下辐射后果。<br>    <br>    三、根据岭澳核电厂运行许可证的要求提交岭澳核电厂最终安全分析报告的中文版，并在该报告中对四分之一堆芯年度换料方案的相关内容进行升版，以切实反映岭澳核电厂的实际状态。<br>    <br>    <br><br>二○○七年二月十三日<br><br><br>附件：<br>核安全与环境专家委员会部分委员关于岭澳核电厂四分之一堆芯年度<br><br> <br><br>换料方案审评的会议纪要<br><br><br>    <br>    2007年2月5日，国家核安全局（NNSA）在北京召开了核安全与环境专家委员会部分委员会议（与会委员名单见附录一）。会议对岭澳核电厂四分之一堆芯年度换料方案审评中的主要问题以及审评意见进行审议咨询。国防科工委系统二司、国家环保总局核与辐射安全中心（NSC），国家环保总局广东核与辐射安全监督站、大亚湾核电运营管理有限责任公司（DNMC）、中国核动力研究设计院等单位的代表参加了会议（与会代表名单见附录二）。<br>    <br>    委员们听取了DNMC关于岭澳核电厂四分之一堆芯年度换料方案的总体情况、NSC关于该方案的审评情况的汇报，并对有关问题进行了认真的讨论，现纪要如下：<br>    <br>    1.NSC对岭澳核电厂四分之一堆芯年度换料项目的审评工作深入细致，其审评结论是合适的，建议NNSA批准该申请。<br>    <br>    2.关于全M5 AFA3G燃料组件燃耗限值问题，NSC认真审查了DNMC提出57GWd/tU的申请值后认为，鉴于我国目前尚缺乏高燃耗的运行经验和研究基础、以及目前的法国实践，对于岭澳核电厂第六、七循环暂以52GWd/tU进行控制，同时DNMC应根据国内外运行经验以及高燃耗限值的国际实践提交有关资料，以进一步论证后续燃料循环的全M5 AFA3G燃料组件的燃耗限值为57GWd/tU的可行性，并报NNSA审查批准。委员们同意NSC的意见。<br>    <br>    3.关于燃料熔化温度限值、氧化膜厚度限值，M5包壳周向应变限值的问题，委员们同意NSC的审评意见，认为燃料熔化温度限值为 、氧化膜厚度限值为100 、M5包壳周向应变限值为1.0％是适宜的。<br>    <br>    4.关于混合堆芯（AFA2G组件的复用）的问题，参考法国以及国内的混合堆芯的运行经验，在岭澳核电厂四分之一堆芯年度换料的过渡循环（六至九循环）中，对使用过的AFA2G燃料组件进行有条件的复用是可行的，同时DNMC应在入堆前及出堆后进行详细检查，并加强对过渡循环的运行监督。<br>    <br>    5.关于源项问题，相对于现有的岭澳核电厂最终安全分析报告中的内容，目前提供的核素更全面完整。DNMC应使用ORIGEN-S程序提供的堆芯积存量对一回路源项进行核算，并提交以核算后的源项为基础的环境影响专题报告，更加准确地评价正常运行和事故工况下的辐射影响。<br>    <br>    附录一:<br><br>    <br>    出席会议的核安全与环境专家委员会委员<br><br> <br><br>序号<br> 姓 名<br> 单  位<br> 职称/职务<br> <br>1<br> 欧阳予<br> 中国核工业集团公司<br> 院士/委员会副主席<br> <br>2<br> 赵成昆<br> 国家核安全局<br> 研究员<br> <br>3<br> 林诚格<br> 国家核安全局<br> 研究员<br> <br>4<br> 马  一<br> 核工业第二设计研究院<br> 研究员<br> <br>5<br> 徐玉明<br> 国防科工委<br> 研究员<br> <br>6<br> 钟万里<br> 国家核安全局<br> 研究员<br> <br>7<br> 蔡剑平<br> 上海核工程研究设计院<br> 研究员<br> <br>8<br> 张森如<br> 中国核动力研究设计院<br> 研究员<br> <br>9<br> 俞尔俊<br> 国家环保总局核与辐射安全中心<br> 研究员<br> <br>10<br> 任俊生<br> 中国广东核电集团有限公司<br> 研究员<br> <br><br><br><br>    <br>    附录二:<br>        <br><br>出席会议代表<br><br> <br><br>序号<br> 姓  名<br> 单      位<br> 职称/职务<br> <br>1<br> 王  俊<br> 国家环保总局核安全司<br> 副司长<br><br>委员会秘书长<br> <br>2<br> 蒋  帆<br> 国家环保总局核安全司核电二处<br> 助理调研员<br> <br>3<br> 侯  伟<br> 国家环保总局核安全司核电一处<br> 副处长<br> <br>4<br> 殷德健<br> 国家环保总局核安全司核电二处<br> 项目官员<br> <br>5<br> 翁方检<br> 国家环保总局核安全司核电二处<br> 项目官员<br> <br>6<br> 苟  峰<br> 国防科工委系统二司<br> 项目官员<br> <br>7<br> 汤  搏<br> 国家环保总局核与辐射安全中心<br> 副主任<br> <br>8<br> 杨  堤<br> 国家环保总局核与辐射安全中心<br> 室主任<br> <br>9<br> 张春明<br> 国家环保总局核与辐射安全中心<br> 室副主任<br> <br>10<br> 陶书生<br> 国家环保总局核与辐射安全中心<br> 工程师<br> <br>11<br> 石俊英<br> 国家环保总局核与辐射安全中心<br> 高  工<br> <br>12<br> 王小海<br> 国家环保总局核与辐射安全中心<br> 高  工<br> <br>13<br> 陈召林<br> 国家环保总局核与辐射安全中心<br> 高  工<br> <br>14<br> 周善元<br> 国家环保总局核与辐射安全中心<br> 研究员<br> <br>15<br> 刘新华<br> 国家环保总局核与辐射安全中心<br> 研究员<br> <br>16<br> 王瑞平<br> 国家环保总局广东核与辐射安全监督站<br> 副主任<br> <br>17<br> 郭利民<br> 大亚湾核电运营管理有限责任公司<br> 总经理助理<br> <br>18<br> 肖  岷<br> 大亚湾核电运营管理有限责任公司<br> 总  工<br> <br>19<br> 焦  萍<br> 大亚湾核电运营管理有限责任公司<br> 副处长<br> <br>20<br> 张  洪<br> 大亚湾核电运营管理有限责任公司<br> 高  工<br> <br>21<br> 李伟才<br> 大亚湾核电运营管理有限责任公司<br> 工程师<br> <br>22<br> 厉井钢<br> 大亚湾核电运营管理有限责任公司<br> 工程师<br> <br>23<br> 卢向晖<br> 大亚湾核电运营管理有限责任公司<br> 工程师<br> <br>24<br> 陈政文<br> 大亚湾核电运营管理有限责任公司<br> 工程师<br> <br>25<br> 李冬生<br> 中国核动力研究设计院<br> 研究员<br> <br>26<br> 刘昌文<br> 中国核动力研究设计院<br> 高  工<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

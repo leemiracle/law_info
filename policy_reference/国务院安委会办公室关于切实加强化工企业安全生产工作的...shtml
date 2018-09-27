@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办〔2008〕22号<BR>&nbsp;&nbsp;【发布日期】2008-09-05<BR>&nbsp;&nbsp;【生效日期】2008-09-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-09/05/content_287544.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于切实加强化工企业安全生产工作的紧急通知<br><br></font>(安委办〔2008〕22号)</p><br><br><br>各省、自治区、直辖区及新疆生产建设兵团安全生产委员会，有关中央企业：<br><br>    2008年8月26日6时45分，位于广西壮族自治区河池市宜州市的广西维尼纶股份有限责任公司有机车间发生一起连续爆炸的恶性事故，造成20人死亡、60人受伤，周边3公里内约1.15万名居民被紧急疏散。事故发生后，国务院领导同志高度重视并作出重要批示，要求有关部门制定中小化工企业行业准入标准、安全标准、环保标准和从业人员资格条件，落实责任制，严格督促检查，确保化工企业安全生产。为贯彻落实国务院领导同志批示精神，切实加强对化工企业安全监管工作，现就有关要求紧急通知如下： <br><br>    一、督促化工企业进一步加大对储罐区等重大危险源的安全监控力度。要督促企业完善构成重大危险源的储罐区的安全监控设施，剧毒和易燃易爆化学品储罐必须安装液位、温度、压力超限和可燃气体泄漏报警仪表，并定期校验，确保仪表准确、可靠。完善并严格执行储罐操作规程。危险化学品储罐进出物料和进行切水操作时必须安排专人监控，防止跑料、串料。制定和完善储罐区安全监控责任制，明确要求，落实责任，定期全面检查，及时发现和消除事故隐患，确保安全生产。对其他重大危险源和重点部位也要按照完善监测监控和报警仪表、完善并严格执行操作规程、落实监控责任的要求，进一步加大安全监控力度。 <br><br>    二、加强化工企业技术改造安全监督管理。各级安全监管部门在加强企业大型技术改造和设备更新安全监管的同时，要高度重视对企业小型技术改造和设备更新的监督检查工作。企业技术改造和设备更新必须严格执行《安全生产法》及《危险化学品建设项目安全许可实施办法》（国家安全监管总局令第8号）。企业进行的小型技术改造和设备更新方案必须经过充分论证，布局必须符合安全规范要求，设计、施工必须由具有相应资质的单位承担，投用前要组织严格的安全验收。严禁没有设计资质的企业技术人员自行承担技术改造的设计工作，严禁没有相应资质的单位承担技术改造的设备制造和安装任务。 <br><br>    三、各级安全监管部门要督促指导企业继续深入开展隐患排查治理工作。企业的隐患排查工作要做到全员参与、全过程检查、全面覆盖，要“横向到边、纵向到底”，不漏查隐患，不留有死角。查出的隐患要明确整改责任单位，限期整改。一时难以整改的隐患，要切实做到“五落实”（即落实责任、措施、经费、期限、应急预案）。要督促指导企业建立和完善定期隐患排查治理的体制、机制，建立隐患排查治理的组织机构和定期、分级检查制度，保证隐患治理资金及时投入，把隐患排查治理作为一项重要工作纳入日常管理工作中，确保能够及时发现和消除生产过程中出现的隐患。各级安全监管部门要通过开展化工企业安全检查和安全生产百日督查专项行动“回头看”，检查化工企业隐患治理体制机制建立和完善情况、查出的隐患整改情况。从2009年开始，对没有建立和严格执行隐患排查治理制度的企业、没有及时发现重大隐患的企业要依法进行处罚，推动化工企业建立安全生产长效机制。 <br><br>    四、加大化工企业淘汰落后、改造提升的力度，提高企业的本质安全水平。各级安全监管部门要指导化工企业开展本质安全化改造，特别是小化工企业要通过实施安全技术改造，装备集散控制系统和紧急停车系统，提高自动化控制水平。首先要对涉及剧毒化学品、易燃易爆化学品、危险气态化学品（液氨）、使用危险工艺（硝化、氧化、磺化、氯化、重氮化）的化工装置自动化装备水平提出要求，确保选用安全可靠的自动化控制仪表、联锁保护系统，配备必要的有毒有害、易燃易爆气体泄漏报警系统和火灾报警系统，提高装置安全可靠性。要严格限定危险化学品储存数量，从源头上降低储存设施的风险。 <br><br>    五、着力推动企业进一步落实安全生产主体责任。通过推动化工企业全面开展安全生产标准化工作，监督指导化工企业完善和严格执行安全生产责任制和安全生产管理制度，加大安全投入，加强从业人员的安全教育和操作技能培训，定期开展隐患排查治理，加大对重大危险源的监控力度，加强夜间和节假日干部、技术人员值班力量。认真做好应急工作，特别是要根据有关要求，采取措施，防止事故状态下被污染的“清净下水”外排造成环境污染。各级安全监管部门要加大对违法违规企业的行政处罚力度，严肃查处事故，严格责任追究，深刻吸取事故教训，推动企业切实落实安全生产主体责任，促进化工企业安全生产形势进一步稳定好转。 <br><br>    六、地方各级政府和有关部门要高度重视中小化工企业安全生产工作，认真贯彻落实国务院领导同志的重要批示精神，研究制定本地区化工行业安全发展规划，制定中小化工企业行业准入标准、安全标准、环保标准和从业人员资格条件，合理规划化工产业布局；加强对中小化工企业安全生产监督检查，进一步落实安全生产责任制；研究制定化工行业产业政策和监管措施，进一步淘汰能耗高、污染重、不具备安全生产条件、不符合产业政策的小化工企业，促进化工行业安全发展，推动化工行业安全生产形势持续稳定好转。<br><br>国务院安全生产委员会办公室<br>二○○八年九月五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、财政部、国家电监会<BR>&nbsp;&nbsp;【发布文号】发改价格[2007]2655号<BR>&nbsp;&nbsp;【发布日期】2007-09-30<BR>&nbsp;&nbsp;【生效日期】2007-09-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2007tongzhi/t20071010_163967.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、财政部、国家电监会关于进一步贯彻落实差别电价政策有关问题的通知<br><br></font>(发改价格[2007]2655号)</p><br> <br><br>各省、自治区、直辖市发展改革委、经贸委（经委）、物价局、财政厅（局），各区域电监局、城市电监办，国家电网公司、南方电网公司：<br><br>    今年6月份，国务院部署了对高耗能、高排放行业的专项大检查。从检查结果看，各地贯彻落实差别电价政策工作取得了显著成效，但进展很不平衡。其中，河北、福建、江西、宁夏、新疆等省（区）只对部分高耗能行业执行了差别电价政策；云南省尚未执行2007年差别电价标准；四川、湖北等省仍以大用户直供电和协议供电等名义对部分高耗能企业实行电价优惠。为确保差别电价政策的全面贯彻落实，经国务院批准，现将有关事项通知如下：<br>    一、加强对高耗能企业的甄别工作<br>    各省（区、市）发展改革、经贸、价格、电监等部门要按照省级人民政府确定的职责分工，以国家电网公司、南方电网公司供电营业区范围内的高耗能企业名单（见附件）为基础，连同地方电网供电营业区内的高耗能企业，对本地区高耗能企业进行逐个甄别，将其区分为允许鼓励类、限制类和淘汰类企业，并在当地主要媒体上向社会公告。各地要在2007年12月1日前将甄别后的所有高耗能企业名单和执行差别电价情况，报国家发展改革委和国家电监会备案。国家电网公司、南方电网公司应要求所属省级电网公司，严格按照省级人民政府有关部门确定的企业名单，全面、及时地将差别电价政策落实到位。<br>    二、调整差别电价收入用途<br>    将电网企业执行差别电价增加的电费收入全额上缴地方国库，纳入省级财政预算，实行“收支两条线”管理，专项用于支持当地经济结构调整和节能减排工作。电网企业已经收取但尚未上缴中央国库的差别电价收入，改为全额上缴地方国库。各省级地方财政部门应根据本地区情况，研究制定差别电价收入的具体管理办法，促进差别电价政策和节能减排措施的实施。<br>    三、取消对高耗能企业的优惠电价政策<br>    （一）取消国家出台的对电解铝、铁合金和氯碱企业的电价优惠政策。1999年，原国家计委和财政部曾联合发文对13家产能规模在5万吨以上的电解铝企业用电价格平均每千瓦时优惠2分钱左右；2000－2005年，国家发展改革委在调整终端用户销售电价时，对符合国家产业政策的电解铝、铁合金、氯碱企业用电价格比其它工业企业平均每千瓦时累计少提价约2分钱。为引导高耗能行业发展，促使其节能降耗，决定取消上述电价优惠政策。<br>    1、对铁合金行业的电价优惠，自2007年10月20日起全部取消。国家发展改革委颁发的各省（区、市）现行销售电价表中在大工业电价下单列“电石、电炉铁合金、电解烧碱、合成氨、电炉黄磷”电价的，执行该类电价；没有单列上述高耗能行业电价的，执行大工业电价，不再另行优惠。<br>    2、电解铝行业的用电价格，在销售电价表中单列或注明实行优惠的，原则上应在2007年内予以取消，改为执行大工业电价下的“电石、电炉铁合金、电解烧碱、合成氨、电炉黄磷”类电价；若单列的电解铝行业电价与上述电价价差每千瓦时大于5分钱的，2007年内先取消电价优惠5分钱，其余优惠原则上2008年内取消。<br>    3、对氯碱行业的电价优惠，原则上2008年内取消。<br>    取消电解铝、氯碱两个行业电价优惠的具体实施意见，国家发展改革委、国家电监会另行下达。<br>    （二）立即停止执行各地自行出台的对高耗能企业的优惠电价措施。对仍在以大用户直供电和协议用电名义自行对高耗能企业实行优惠的四川、湖北等省，要在收到本通知之日起，立即停止对高耗能企业的电价优惠行为。没有按照要求取消优惠的，国家发展改革委将调减其电力建设规模和相应的电力项目。调出规划的电力项目不予办理核准手续。<br>    四、加强监督检查<br>    今年四季度国家发展改革委、国家电监会将组织开展全国电力价格专项检查，重点检查各地贯彻落实差别电价政策情况；电网企业提高、降低或变相降低标准向有关高耗能企业收取差别电价等价格违法行为。对存在问题严重的地区或企业，将通过新闻媒体公开曝光，并提请国务院通报批评。<br><br>    附件：2007年国家电网企业供电的高耗能企业名单<br><br>国家发展改革委<br>财政部<br>国 家 电 监 会<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2007〕88号<BR>&nbsp;&nbsp;【发布日期】2007-08-23<BR>&nbsp;&nbsp;【生效日期】2007-08-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yg07/ezbf/200711/t20071121_39313.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于进一步明确岳家嘴小区职工住宅分配销售等有关问题的通知<br><br></font>(鄂政办发〔2007〕88号)</p><br><br><br>省政府各部门：<br><br>    根据《国务院办公厅转发建设部等部门关于调整住房供应结构稳定住房价格意见的通知》（国办发〔2006〕37号）和省委、省政府有关会议精神，在《省人民政府办公厅关于印发岳家嘴省直机关公务员住宅小区住房销售管理意见的通知》（鄂政办发〔2006〕14号）规定的原则基础上，参照中央和国家机关的做法，经省人民政府同意，现就进一步明确岳家嘴小区（以下简称小区）职工住宅分配销售等有关问题通知如下：<br><br>    一、购房资格确认<br><br>    根据鄂政办发〔2006〕14号文件规定，在武汉市内的省直党、政、群机关和参照公务员管理的省直事业单位在编在册无房和住房面积未达到职级面积标准的职工，按照个人申请、单位审查公示的程序，可以申请购买小区住房。经省编办核编、省直房改办审核后，将符合购房资格条件的职工名单在省人民政府门户网站上公示，接受省直机关广大干部职工监督。<br><br>    二、销售价格<br><br>    经省物价局测算，核定小区住房基准价格为每平方米2480元。职工购买小区住房，职级标准内的面积价格为每平方米2480元，超过职级标准15平方米内的面积价格为每平方米2728元，超过职级标准15平方米以上的面积价格为每平方米3346元；公摊面积按职级标准面积和超职级标准面积的份额比例分别计价，并根据楼层适当调节。<br><br>    三、住房分配<br><br>    小区住房分配严格按照分房范围、对象和条件，统筹安排，统一排序。坚持“无房职工优先”的原则，各职级住房优先分配给无房户（以任现职级起始时间和参加工作时间先后排序），再分配给面积未达标户（以缺面积多少和任现职级起始时间、参加工作时间先后排序）。<br><br>    小区第1期可供分配的住房共616套，其中：厅级干部住房184套，处级干部住房206套，科级及科级以下干部职工住房226套，一次性向经审核符合购房条件的无房和住房面积未达标的职工分配。<br><br>    四、选房排序<br><br>    取得购买小区住房资格的职工，按下列原则排列选房顺序号并在省人民政府门户网站上公示：<br><br>    （一）按正厅、副厅，正处、副处，正科、副科、科级以下（含工勤人员）对应的职级顺序选房，同职级领导职务和非领导职务同等待遇。<br><br>    （二）各职级在编和在册职工统一排序。<br><br>    （三）各职级无房和面积未达标职工统一排序。<br><br>    （四）各职级按任现职级起始年月和参加工作年月先后排序，首先按任现职级起始年月排序，任现职级起始年月在先排前，在后排后；任现职级起始年月相同的，按参加工作起始年月排序，参加工作起始年月在先排前，在后排后；任现职级起始年月和参加工作起始年月均相同，按现场摸号的方式确定排序号。<br><br>    （五）厅级、处级、科级及科级以下职工按选房顺序号选择对应户型住房。<br><br>    （六）取得购买小区住房资格的职工和每期住房配售职工名单，经省人民政府门户网站公示后予以确定。如本人自愿放弃的，不得再参与小区后续住房配售。<br><br>    五、住房补贴发放<br><br>    根据国家有关文件规定，对在汉省直机关职工住房补贴标准进行调整（通知另文下发）。购买小区住房的新老职工，其住房补贴在购房时按新标准一次性发放，原已领取住房补贴的职工据实扣减。省直机关职工住房分配货币化领导小组办公室、省财政厅、省编办要组织工作专班，加强协调配合，保证在职工签订购房合同前，完成对购房职工住房补贴的审核工作。符合补贴条件的职工在正式签订购房合同后，补贴资金一次性发放到位。<br><br>    六、住房销售与办证<br><br>    省人民政府委托省机关事务管理局具体组织实施小区住房销售与办证工作。<br><br>    （一）印制《湖北省直机关职工住宅买卖合同》，内容条款参照《中央国家机关职工住宅买卖合同》文本拟制。由省直单位经济适用住房发展中心代表甲方与购房职工签订购房合同。<br><br>    （二）登记办证。职工缴清购房款后，按现行房改售房程序在武汉市房地产交易互换登记发证省直分中心办理产权登记手续，发放《房屋所有权证》和《国有土地使用权证》，权证附记栏内填写“湖北省直机关统建职工住宅”、“按经济适用住房产权管理”进行注记。<br><br>    （三）面积未达标职工在签订购买新房合同时交出旧房《房屋所有权证》和《国有土地使用权证》，办理退房手续。领取新房钥匙后，必须在6个月内交出腾退的旧住房。<br><br>    七、未达标住房的回收与管理<br><br>    凡购买岳家嘴小区住房的面积未达标职工，原购面积未达标公有住房必须腾退。腾退的住房由省机关事务管理局统一组织回收和管理，回收价格即原购住房价款。回收的旧住房视不同情况进行处置：部分住房统一纳入售房调配计划，向符合购买条件的职工出售；部分住房用于省直机关干部周转用房；属规划要拆除的住房，届时按计划拆除。<br><br>    八、加强组织领导<br><br>    分配销售岳家嘴小区职工住宅、回收处置旧公有住房、调整职工住房补贴等工作政策性强、涉及面广，事关省直机关广大干部职工的切身利益。省直各有关部门和单位要进一步提高认识，加强组织领导，严明工作纪律，确保各项工作顺利实施。<br><br>    （一）省人民政府决定成立岳家嘴小区职工住宅分配销售领导小组（成员名单附后），具体负责小区住房分配销售等工作。<br><br>    （二）严肃工作纪律，加强监督检查。对违反规定隐瞒或虚假申报、不按规定及时腾退旧住房等行为，必须严肃查处，除收回已售住房外，还要依法依规追究责任。<br><br>    （三）请武汉市积极配合做好小区职工住宅销售办证等工作。<br><br>    此前省政府有关文件要求与本通知不一致的，以本通知为准。<br><br>湖北省人民政府办公厅<br>二○○七年八月二十三日<br><br><br>岳家嘴小区职工住宅分配销售领导小组成员名单<br><br>    组长：李新华 省政府副秘书长<br><br>    副组长：王传豪 省机关事务管理局局长<br><br>    成员：胡志强 省委组织部秘书长<br><br>    南金德 省直机关工委副书记<br><br>    张建动 省直机关工委纪委书记<br><br>    饶志国 省编办副主任<br><br>    骆培云 省机关事务管理局副局长<br><br>    方才金 省机关事务管理局纪检组长<br><br>    领导小组办公室设在省机关事务管理局。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

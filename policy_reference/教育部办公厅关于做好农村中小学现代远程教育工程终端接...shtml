@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教基厅［2005］17号<BR>&nbsp;&nbsp;【发布日期】2005-11-10<BR>&nbsp;&nbsp;【生效日期】2005-11-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info19172.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于做好农村中小学现代远程教育工程终端接收站点接收软件配备工作的通知<br><br></font>(2005年11月10日  教基厅［2005］17号)</p><br><br><br>    根据全国农村党员干部现代远程教育试点工作领导协调小组办公室《关于做好专用频道资源管理软件应用工作的通知》（远通字［2005］10号），由中国教育电视台组织研发的中国远程教育资源管理软件系统（以下简称专用频道资源管理软件）被确定为农村党员干部现代远程教育专用频道资源管理软件。目前主前端播出采用西安通视、以泰智和、专用频道资源管理软件三套播出系统并播的方式，将于2006年6月底前改为采用专用频道资源管理软件的单套播出。为保证依托农村中小学开展农村党员干部现代远程教育的终端站点能接收到农村党员干部教育节目，做到农村中小学现代远程教育工程与农村党员干部现代远程教育工程的有机结合，现就做好农村中小学现代远程教育工程终端接收站点接收软件配备工作通知如下：<br><br>    一、农村中小学校接收国家基础教育资源中心资源依旧采用远教卫星IP教学资源接收软件，接收农村党员干部教育节目的接收软件一律采用专用频道资源管理软件。农村中小学现有站点已安装西安通视、以泰智和接收软件的，要妥善卸载这两个接收软件，安装和调试好专用频道资源管理接收软件；未安装接收软件的，要尽快配送并安装调试好专用频道资源管理软件；正在建设终端接收站点的地区和学校，要尽快配送安装专用频道资源管理软件，以便与其他软件、硬件一起安装调试。专用频道资源管理软件的供应、安装、维护、升级一律免费。<br><br>    二、获得专用频道资源管理软件方式<br><br>    1.卫星数据广播方式。10月20日开始，在农村党员干部现代远程教育IP数据专用频道中的课件频道中广播，在农村中小学节目传输通道中广播。<br><br>    2.网站下载方式。10月20日开始，可从中国教育电视台网站下载。网址是：http://www.cetv.edu.cn或http://www.cetv.cn。<br><br>    3.邮寄方式。11月中旬，根据项目省需求，中国教育电视台通过邮寄方式，向各项目省配送光盘套件。<br><br>    三、在安装使用过程中，如遇到问题，可通过四种方式咨询<br><br>    1.电话方式。设立了800全国免费服务电话（号码：800－810－1126）和普通电话（号码：010－66490887）。<br><br>    2.电子邮件方式。设立了专用电子邮件：fuwu@cetv.edu.cn。<br><br>    3.论坛服务方式。在中国教育电视台网站上设立专用讨论区，可以反映在安装使用过程中出现的问题。<br><br>    4.即时通讯（MSN）服务方式。设立专用的MSN帐号cetvfuwu@hotmail.com，咨询有关问题。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

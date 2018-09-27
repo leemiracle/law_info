@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2005〕79号<BR>&nbsp;&nbsp;【发布日期】2005-06-22<BR>&nbsp;&nbsp;【生效日期】2005-06-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=522" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于进一步推进市州政府软件正版化工作的通知<br><br></font>(甘政办发〔2005〕79号)</p><br> <br> <br>各市、自治州人民政府：<br><br>    去年以来，全省政府系统按照《甘肃省人民政府办公厅关于使用正版软件的通知》(甘政办函〔2004〕23号，以下简称《通知》)要求，大力推进使用正版软件工作，取得了阶段性成效。省政府各部门使用软件的自查、清查及正版软件采购工作已全面完成，正版软件更换工作正在有序进行。为进一步推进市州政府软件正版化工作，确保今年年底如期完成各项工作任务，现就有关事项通知如下：<br><br>    一、进一步提高认识，切实加强对使用正版软件工作的组织领导。  <br>    各市州政府要从落实科学发展观、保护知识产权、改善投资环境、整顿和规范社会主义市场经济秩序、维护政府形象的高度，充分认识使用正版软件的重要意义，切实将使用正版软件工作作为改进机关作风、坚持依法行政的一项重要内容，纳入议事日程，加强对使用正版软件工作的组织领导。加快实施软件正版化工作方案，确保各项工作任务落到实处。<br><br>    二、立即组织开展自查清理工作。<br>    各市州政府要按照《通知》要求，立即组织开展自查清理工作，尽快摸清本级政府各部门现有计算机(包括台式电脑、笔记本电脑)、服务器和所安装使用正版或盗版操作系统软件、办公软件、杀毒软件数量，以及获得合法书面授权证书的情况。各市州政府务必于7月10日前将《市州政府软件正版化工作情况统计表》(附件1)报省政府使用正版软件工作领导小组，并抄送省版权局。8月10日前将《市州政府软件正版化工作自查汇总表》(附件2)报省政府使用正版软件工作领导小组，并抄送省版权局。国务院软件正版化部际联席会议办公室将于7月中旬在我省举办“地市级人民政府使用正版软件工作培训班”，届时由省版权局负责通知各市州政府组织人员参加培训。<br><br>    三、落实责任，做好正版软件政府集中采购工作。<br>    各市州政府使用正版软件工作领导小组在抓好软件清查核实工作的同时，要加强组织协调，落实各有关部门的责任，确保使用正版软件工作顺利进行。版权部门要加强对使用正版软件工作的监督检查。财政部门负责制定正版软件政府集中采购方案，落实采购经费，组织正版软件政府集中采购。集中采购正版软件经费确有困难的市州政府，务必于7月10日前向省政府使用正版软件工作领导小组写出专题报告，申请捐赠软件。经审批同意后，由省政府使用正版软件工作领导小组负责协调提供正版化软件。<br><br>    四、加强督查，确保各项工作任务落到实处。<br>    省政府使用正版软件工作领导小组将于近期组织省政府办公厅和省版权局、省财政厅等部门和省软件行业协会，对各市州政府部门开展软件正版化工作进展情况进行督查。今年年底，省政府使用正版软件工作领导小组还将对各市州政府使用正版软件工作的完成情况进行检查验收。<br>    各市州政府使用正版软件工作领导小组要组织力量，对本级政府所属部门使用正版软件自查情况进行核查，确保本地区软件正版化工作不留死角，不走过场，扎实有效地推进。<br><br>    附件：1、市州政府软件正版化工作情况统计表<br>          2、市州政府软件正版化工作自查汇总表<br>  <br>二○○五年六月二十二日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

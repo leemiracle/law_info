@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】内蒙古自治区<BR>&nbsp;&nbsp;【发布文号】内政办字〔2006〕320号<BR>&nbsp;&nbsp;【发布日期】2006-10-09<BR>&nbsp;&nbsp;【生效日期】2006-10-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.nmg.gov.cn/pages/20061113/200611132712210655.htm" target=_blank>内蒙古自治区 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>内蒙古自治区“十一五”期间主要污染物排放总量控制计划<br><br></font>(内政办字〔2006〕320号)</p><br><br>  <br>各盟行政公署、市人民政府，自治区各有关委、办、厅、局，各有关企业单位：<br>    经自治区人民政府同意，现将自治区环境保护局制定的《内蒙古自治区“十一五”期间主要污染物排放总量控制计划》（以下简称《控制计划》）印发给你们，并提出如下意见，请一并执行。<br>    一、“十一五”期间确定的各盟市主要污染物排放控制指标是约束性指标，各盟市必须严格执行，不得突破。<br>    二、各盟市要将主要污染物排放控制指标纳入本地区经济社会发展“十一五”规划和年度计划，分解落实到基层和重点排污单位。各地区要制定实施方案，落实工程措施和资金，严格实行排污许可制度，加强执法监督，加大对各种违法排污行为的监督检查力度。要切实转变经济增长方式，从源头上减少污染，确保总量控制目标的实现。<br>    三、“十一五”期间，减少二氧化硫排放总量的主要工程措施是加快和强化现役及新建燃煤电厂脱硫设施建设与运行监管，逐步淘汰耗能高的落后小机组；减少化学需氧量排放总量的主要工程措施是加快和强化城市污水处理设施建设与运行管理。各地区、各有关部门要加大工业污染源治理力度，严格执法，实现污染物稳定达标排放。新、扩、改建项目要采用先进技术，严格执行“三同时”制度，促进产业结构优化升级，实现增产不增污或增产减污。在电力、冶金、建材、化工、造纸、纺织印染和食品酿造等重点行业推行清洁生产，发展循环经济，降耗减污。<br>    四、自治区各有关部门要各司其职，各负其责，密切配合，加强对《控制计划》完成情况的指导、支持和监督。自治区环境保护局、统计局、发展和改革委员会每半年要向社会公布各盟市主要污染物的排放总量，并会同自治区监察厅对《控制计划》完成情况进行年度检查和考核，检查和考核结果要及时报自治区人民政府。2008年和2010年要分别对《控制计划》完成情况进行中期评估和期末考核，评估和考核结果向社会公布。 <br><br>2006年10月9日<br><br><br>内蒙古自治区“十一五”期间主要污染物排放总量控制计划<br><br>    为贯彻落实《中华人民共和国国民经济和社会发展第十一个五年规划纲要》和《国务院关于落实科学发展观加强环境保护的决定》（国发〔2005〕39号）精神，根据《国务院关于“十一五”期间全国主要污染物排放总量控制计划的批复》（国函〔2006〕70号）的统一要求，制定本计划。<br>    一、总量控制目标<br>    （一）二氧化硫排放总量。根据环境统计，2005年全区二氧化硫排放总量为145.6万吨，其中电力排放74.77万吨。根据国家削减3.8％的控制目标，2010年全区二氧化硫总量控制目标为140.0万吨，其中电力排放68.7万吨。<br>    （二）化学需氧量排放总量。根据环境统计，2005年全区废水排放量5.6亿吨（工业废水占44％、生活污水占55％），其中，化学需氧量（COD）排放量29.7万吨（工业COD排放量占52.06％、生活COD排放量占47.94％）。按照国家削减6.7％的控制目标，2010年化学需氧量排放量控制目标为27.7万吨。<br>    二、分配原则<br>    按照“整体控制、总量削减、突出重点、分区要求”的原则，综合考虑区域的环境质量状况、环境容量、经济发展水平、工业布局、工程削减能力等因素进行二氧化硫排放总量分配；综合考虑流域的水质情况、排放基数、环境容量、排放强度、工程削减能力等因素进行化学需氧量排放总量分配，确保重点流域国控断面水质改善。<br>    三、分配依据<br>    （一）二氧化硫排放总量<br>    1.排放基数和排放强度。<br>    2.区域的环境质量状况、环境容量。<br>    3.新建电厂从严控制排放总量，现役电厂脱硫能力和经济合理性。<br>    4.其他工业污染源达标排放。<br>    （二）化学需氧量排放总量<br>    1.排放基数和排放强度。<br>    2.新增工业点源全部达标排放。<br>    3.按照现状污水处理能力及发展需求制定不同的污水处理率。总体污水处理率不低于60％。<br>    四、分配结果<br><br>内蒙古自治区“十一五”期间二氧化硫排放总量分配表<br><br>单位：万吨/年<br><br>行政区域 总量分配指标 在2005年基础上削减比例% <br>   区域总量指标 其中电力 其中非电力 自治区预留 总量 电力 <br>全区 140.0 60.7 64.3 15.0 3.8 8.16 <br>呼和浩特 9.4 6.4 3.0    18.76 36.00 <br>包头市 18.0 5.0 13.0    6.30 15.25 <br>乌海市 8.6 4.5 4.1    28.63 33.82 <br>赤峰市 18.0 12.2 5.8    18.96 27.38 <br>通辽市 9.6 3.7 5.9    -11.50 30.19 <br>鄂尔多斯市 20.1 9.4 10.7    28.60 27.69 <br>呼伦贝尔市 10.0 4.7 5.3    -1.11 -95.83 <br>兴安盟市 1.8 0.7 1.1    -19.21 -75.00 <br>锡林郭勒盟 8.3 4.7 3.6    -27.69 -135.00 <br>乌兰察布市 9.3 6.1 3.2    31.52 40.78 <br>巴彦淖尔市 8.0 2.5 5.5    15.43 -47.06 <br>阿拉善盟<br> 3.9<br> 0.8<br> 3.1<br>    -38.79<br> -300.00+<br> <br><br><br>内蒙古自治区“十一五”期间化学需氧量排放总量分配表<br><br>单位：万吨/年<br><br>全区 2005年化学需氧量排放量 总量目标 自治区预留 在2005年基础上削减比例% <br>呼和浩特 29.73 22.7 5.0 6.70 <br>包头市 2.43 2.3    5.19 <br>乌海市 2.94 2.7    8.15 <br>赤峰市 1.04 0.8    23.16 <br>通辽市 1.80 1.6    11.10 <br>鄂尔多斯市 1.83 1.5    17.91 <br>呼伦贝尔市 2.30 2.5    -8.53 <br>兴安盟市 1.81 1.8    0.80 <br>锡林郭勒盟 3.68 1.7    53.84 <br>乌兰察布市 1.76 1.6    9.34 <br>巴彦淖尔市 1.44 1.6    -11.47 <br>阿拉善盟<br> 8.02 4.0    50.14 <br>阿拉善盟<br> 0.67 0.6    10.20 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

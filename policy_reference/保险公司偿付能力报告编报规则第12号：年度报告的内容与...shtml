@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2007〕4号<BR>&nbsp;&nbsp;【发布日期】2007-01-17<BR>&nbsp;&nbsp;【生效日期】2007-01-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_7678/41938.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>保险公司偿付能力报告编报规则第12号：年度报告的内容与格式<br><br></font>(保监发〔2007〕4号)</p><br>     <br><br>各保险公司：<br><br>    为加强偿付能力监管，科学评估保险公司的偿付能力，我会研究制定了《保险公司偿付能力报告编报规则第10号：子公司、合营企业和联营企业》、《保险公司偿付能力报告编报规则第11号：动态偿付能力测试（人寿保险公司）》、《保险公司偿付能力报告编报规则第12号：年度报告的内容与格式》和《保险公司偿付能力报告编报规则第13号：季度报告》，并对《保险公司偿付能力报告编报规则第2号：货币资金和结构性存款》进行了修订，更名为《保险公司偿付能力报告编报规则第2号：投资资产》。现予印发，请遵照执行。<br><br>中国保险监督管理委员会<br>二○○七年一月十七日<br><br><br>保险公司偿付能力报告编报规则第12号：年度报告的内容与格式<br>    <br>    引言<br>    1．本规则规范保险公司偿付能力年度报告（以下简称“年度报告”）的内容与格式。<br>    2．本规则不涉及将保险集团视作单一报告主体的年度报告的编报。<br>    <br>    年度报告的内容<br>    3．年度报告的内容包括：<br>    （1）董事会和管理层声明；<br>    （2）外部机构独立意见；<br>    （3）基本信息；<br>    （4）管理层的讨论与分析；<br>    （5）内部风险管理说明；<br>    （6）最低资本；<br>    （7）实际资本；<br>    （8）动态偿付能力测试。<br>    4．董事会和管理层声明包括以下内容：<br>    （1）董事会和管理层对年度报告所载内容真实、准确、完整、合规的保证和承担法律责任的承诺；<br>    （2）董事长和有关高级管理人员的签名及公司的印章；<br>    （3）董事会对年度报告的审议情况。如果公司董事无法保证年度报告内容的真实性、准确性、完整性、合规性或对此存有异议的，应当单独陈述其意见和理由。<br>    5．对外部机构独立意见的说明包括以下内容：<br>    （1）对年度报告有关内容审计意见的说明，包括审计意见的类型和会计师事务所出具非标准无保留审计意见的原因；<br>    （2）对年度报告有关内容审核意见的说明，包括审核意见的类型和会计师事务所出具非标准无保留审核意见的原因；<br>    （3）对外部机构出具的其他独立意见的说明；<br>    （4）报告期内外部机构的更换情况。<br>    6．基本信息包括以下内容：<br>    （1）主要经营指标和偿付能力指标； <br>    （2）股权结构、股东及其变动情况； <br>    （3）董事、监事和高级管理人员的基本情况、薪酬情况、变更情况；<br>    （4）子公司、合营企业和联营企业的基本情况；<br>    （5）违规情况。<br>    7．管理层的讨论与分析包括以下内容：<br>    （1）主要经营情况分析；<br>    （2）报告期内偿付能力变动原因分析；<br>    （3）报告年度偿付能力的实际值与上年动态偿付能力测试中按照基本情景计算的报告年度偿付能力的预测值之间的差异及出现较大差异的原因分析；<br>    （4）年度报告与第4季度偿付能力报告中的偿付能力数据差异情况及出现较大差异的原因分析；<br>    （5）报告期内的重大事项说明。<br>    8．本规则第7条中的重大事项包括：<br>    （1）重大保险合同；<br>    （2）重大再保险合同；<br>    （3）重大赔付事项；<br>    （4）重大投资损失；<br>    （5）重大融资活动；<br>    （6）重大关联交易；<br>    （7）重大诉讼；<br>    （8）重大担保；<br>    （9）其他重大事项。<br>    9．内部风险管理说明包括以下内容：<br>    （1）内部风险管理的组织架构；<br>    （2）内部风险管理关键环节的说明；<br>    （3）公司面临的主要风险的分析。<br>    10．最低资本部分包括以下内容：<br>    （1）最低资本计算表；<br>    （2）最低资本的明细表；<br>    （3）最低资本报表附注。<br>    11．实际资本部分包括以下内容：<br>    （1）实际资本表、认可资产表、认可负债表；<br>    （2）实际资本变动表、综合收益表；<br>    （3）实际资本的明细表；<br>    （4）实际资本报表附注。<br>    12．动态偿付能力测试部分包括以下内容：<br>    （1）动态偿付能力测试表；<br>    （2）动态偿付能力测试明细表；<br>    （3）动态偿付能力测试报表附注。<br>    <br>    年度报告的格式<br>    13．年度报告依次由封面、扉页、目录、正文和封底组成。<br>    14．年度报告的封面应当载明保险公司的法定中英文名称、“偿付能力报告”字样以及报告期。<br>    15．年度报告的扉页应当载明公司名称、法定代表人、注册地址、注册资本、经营保险业务许可证号、开业时间、经营范围、偿付能力报告联系人及其联系方式等。<br>    16．年度报告的正文应当按照本规则第3条规定的内容顺序排列。<br>    17．年度报告的封面、扉页、目录和正文的格式应当在以下方面符合中国保险监督管理委员会（以下简称“中国保监会”）的规定：<br>    （1）页面排版；<br>    （2）文字和数字规格；<br>    （3）报表格式；<br>    （4）页码编制。<br>    18．年度报告的纸质文本应当按照中国保监会规定的纸张规格和装订方式制作，年度报告的电子文本应当按照中国保监会规定的电子文件类型制作。<br>    <br>    附则<br>    19．本规则自2007年年度报告编报起施行。<br>    <BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

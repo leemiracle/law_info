@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展和改革委员会<BR>&nbsp;&nbsp;【发布文号】国家发展和改革委员会公告2004年第76号<BR>&nbsp;&nbsp;【发布日期】2004-12-16<BR>&nbsp;&nbsp;【生效日期】2005-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/b/b200412221.htm" target=_blank>国家发展和改革委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>铁合金行业准入条件<br><br></font>(国家发展和改革委员会公告2004年第76号)</p><br><br><br>    为遏制电石、铁合金、焦化行业低水平重复建设和盲目扩张趋势，促进产业结构升级，规范行业发展，维护市场竞争秩序，依据国家有关法律法规和产业政策要求，我委会同有关部门制定了《电石行业准入条件》、《铁合金行业准入条件》、《焦化行业准入条件》，现予以公告。<br><br>    各有关部门在对电石、铁合金、焦化生产建设项目进行投资管理、土地供应、环境评估、信贷融资、电力供给等工作中要以行业准入条件为依据。<br><br>    附件：一、《电石行业准入条件》<br>          二、《铁合金行业准入条件》<br>          三、《焦化行业准入条件》<br><br>                                          中华人民共和国国家发展和改革委员会<br>                                                二○○四年十二月十六日<br><br><br>铁合金行业准入条件<br><br>    为遏制铁合金行业低水平重复建设和盲目发展，促进产业结构升级，根据国家有关法律法规和产业政策，按照调整结构、有效竞争、降低消耗、保护环境和安全生产的原则，对铁合金生产企业提出如下准入条件。<br><br>    一、工艺与装备<br><br>    （一）铁合金矿热电炉采用矮烟罩半封闭型或全封闭型，容量为25000KVA及以上（中西部具有独立运行的小水电及矿产资源优势的国家确定的重点贫困地区，单台矿热电炉容量≥12500KVA），变压器选用有载电动多级调压的三相或三个单相节能型设备，实现操作机械化和控制自动化。中低碳锰铁和中低微碳铬铁等精炼电炉，可根据产品特点选择炉型，容量一般不得低于3000KVA。锰铁高炉容积为300立方米及以上。<br><br>    （二）原料处理、熔炼、装卸运输等所有产生粉尘部位，均配备除尘及回收处理装置，并安装省级环保部门认可的烟气和废水等在线监测装置。各类铁合金电炉、高炉配备干法袋式或其它先进适用的烟气净化收尘装置。湿法净化除尘过程产生的污水经处理后进入闭路循环利用或达标后排放。采用低噪音设备和设置隔声屏障等进行噪声治理。所有防治污染设施必须与铁合金建设项目主体工程同时设计、同时施工、同时投产使用。<br><br>    （三）配备火灾、雷击、设备故障、机械伤害、人体坠落等事故防范设施，以及安全供电、供水装置和消除有毒有害物质设施。所有安全生产和安全检查设施必须与铁合金建设项目主体工程同时设计、同时施工、同时投产使用。<br><br>    二、能源消耗<br><br>    主要铁合金产品单位冶炼电耗：硅铁（FeSi75）不高于8500千瓦时/吨、硅钙合金（Ca28Si60）不高于12000千瓦时/吨、高碳锰铁不高于2600千瓦时/吨、硅锰合金不高于4200千瓦时/吨、中低碳锰铁不高于580千瓦时/吨、高碳铬铁不高于2800千瓦时/吨、硅铬合金不高于4800千瓦时/吨、中低微碳铬铁不高于1800千瓦时/吨，高炉锰铁焦比不高于1600千克/吨。对使用低品位粉矿原料，单位电耗上浮不高于15%。<br><br>    三、资源消耗<br><br>    （一）主元素回收率：硅铁（FeSi75）Si>92%，硅钙合金（Ca28Si60）Si>50%、Ca≥33%，高碳锰铁Mn≥78%，硅锰合金Mn≥82%，中低碳锰铁Mn≥80%，高炉锰铁Mn≥82%，高碳铬铁Cr>92%，硅铬合金 Cr≥94%，中低微碳铬铁Cr≥80%。<br><br>    （二）水循环利用率95%以上。<br><br>    （三）硅铁和硅系铁合金电炉烟气回收利用微硅粉纯度SiO2>92%。<br><br>    四、环境保护<br><br>    （一）铁合金熔炼炉大气污染物排放应符合现行《国家工业炉窑大气污染物排放标准》（GB9078-1996）（新的国家标准颁布后按新标准执行）。<br><br>    主要指标为：1997年1月1日以前安装的炉窑，环境一类地区低于100毫克/立方米，环境二类地区低于150毫克/立方米，环境三类地区低于250毫克/立方米；1997年1月1日以后安装的炉窑，环境一类地区禁止排放，环境二类地区低于100毫克/立方米，环境三类地区低于200毫克/立方米。无组织排放，有车间厂房的低于25毫克/立方米，露天（或有顶无围墙）低于5毫克/立方米。凡是向已有地方排放标准的区域排放大气污染物的，应当执行地方排放标准。<br><br>    （二）水污染物排放应符合国家《钢铁工业水污染排放标准》（GB13456-92）（铁合金）（新的国家标准颁布后按新标准执行）。<br><br>    主要指标为：PH值6-9、悬浮物低于70毫克/升、挥发酚低于0.5毫克/升、化学需氧量（CODcr）低于100毫克/升、油类低于10毫克/升、六价铬低于0.5毫克/升、氨氮低于15毫克/升、锌低于2.0毫克/升、氰化物低于0.5毫克/升。凡是向已有地方污染物排放标准的水体排放污染物的，应当执行地方污染物排放标准。<br><br>    五、监督与管理<br><br>    （一）新建和改扩建铁合金项目必须符合上述准入条件，铁合金项目的投资管理、土地批租、贷款融资等也必须依据上述准入条件。现有铁合金生产企业也要通过技术改造达到环保、能耗、资源消耗、安全生产等方面的准入条件。<br><br>    （二）各级铁合金行业主管部门和有关执法部门负责对当地生产企业执行铁合金行业准入条件的情况进行监督检查。中国铁合金工业协会协助国家有关部门，做好监督和管理工作。<br><br>    （三）对不符合准入条件的新建和改扩建铁合金项目，金融机构不得提供信贷支持，电力企业停止供电，环保部门不得办理环保审批手续。地方人民政府或相关主管部门依法决定撤消或者责令关闭的企业，工商行政管理部门依法责令其办理变更登记或者注销登记。<br><br>    （四）国家发展和改革委员会定期公告符合准入条件的铁合金生产企业名单。<br><br>    六、附则<br><br>    （一）本准入条件适用于中华人民共和国境内（台湾、香港、澳门特殊地区除外）所有类型的铁合金行业生产企业。<br><br>    （二）电石炉、黄磷炉、炼铁高炉等设备如需转炼铁合金及不同铁合金品种相互转炼，也适用本准入条件。<br><br>    （三）本准入条件自2005年1月1日起实施，由国家发展改革委员会负责解释，并根据行业发展情况和宏观调控要求进行修订。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

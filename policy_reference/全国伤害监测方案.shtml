@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-08-31<BR>&nbsp;&nbsp;【生效日期】2005-08-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=10477&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>全国伤害监测方案</font></p><br><br><br>    一、背景<br><br>    世界卫生组织将疾病分为传染性疾病、慢性非传染性疾病和伤害。伤害是由于能量（机械能、电能、化学能、热能、电离辐射等）突然或短暂地作用于人体，超过机体的耐受能力而导致的机体损伤。据世界卫生组织统计，伤害每年导致全球500多万人死亡和更多人的残疾，为大多数国家居民的前5位死亡原因之一，伤害导致的失能调整寿命年（DALY）损失占各类疾病总损失的12.4％，是全球各国面临的一个重要的公共卫生问题。我国每年约有70～80万人死于各种伤害，占死亡总数的11％，居死因顺位第5位。而且，每年需急诊和住院治疗的伤害患者估计可能超过2000万人。伤害由于其高发生率和高致残率消耗着大量的卫生资源，给国家、社会、家庭和个人带来了沉重的疾病负担。<br><br>    伤害基础性信息是伤害预防与控制的基础，世界上越来越多的国家认识到伤害的严重性以及预防与控制的迫切性，伤害的监测系统在发达国家（如：美国、澳大利亚、新西兰等）及部分发展中国家（如：以色列、菲律宾、乌干达等）已先后建立并不断完善，我国迄今尚未建立伤害发生的监测系统。<br><br>    伤害由于其发生原因的特殊性使得伤害信息的收集应该具有其具体的特征和方式。为此，世界卫生组织总部和美国CDC 联合出版了《伤害监测指南》，详细阐述了伤害监测的基本概念、原则，建立伤害监测系统的步骤、方法，以及有关国家伤害监测系统的具体实例等。我国伤害预防控制工作的开展起步较晚，伤害基础性信息的收集工作就显得尤为重要。通过持续、系统地收集、分析、解释和发布伤害相关的信息，能够实现对伤害流行情况和疾病负担详细和全面的描述，从而为制定伤害干预措施，评价干预效果，制定伤害预防与控制策略，合理配置卫生资源提供可靠的依据。<br><br>    伤害相关信息有不同的来源，其中包括社区调查、家庭医生记录、急诊室记录、住院病历记录、重症监护病房记录以及死亡登记等。其中的社区入户调查覆盖的信息量最大，包括所调查的居民从无伤害到因伤害死亡的各种类型伤害；而急诊室为基础的伤害监测主要是医疗单位诊治的所有伤害。从伤害监测的可行性和可操作性的角度出发，大多数国家使用的是以急诊室为基础的伤害监测，同时根据需要结合其他形式。在美国、加拿大、澳大利亚等国家，以网络为基础的病例报告系统为伤害监测提供了有利条件。<br><br>    目前我国已经建立了比较完善的死因监测系统，同时，国家相关部门也开展了不同类型伤害的信息收集工作，如道路交通伤害、职业伤害等。但是，从伤害发生的角度出发，全面收集伤害基础性信息的工作尚不完善。为探索以急诊室为基础建立伤害监测系统在我国的可行性，中国疾病预防控制中心慢性非传染性疾病预防控制中心（以下简称“中国疾控中心慢病中心”）从2003年至2004年在我国11个省/市70家医院开展了全国伤害监测试点工作。通过在我国城乡不同地理位置，不同经济发展地区以及不同级别医院开展伤害病例收集工作，探索了以急诊室为基础收集伤害发生信息的工作模式，了解了当地伤害发生的基本情况以及在一年中的变化形式，收集伤害病例9万余个。试点工作发现，我国的医疗机构的管理模式不同于其它发达国家，包含所有相关科室的急诊室并不普遍，因此，单纯以急诊室为基础开展伤害监测能导致大量的漏报而造成监测信息不准确。为此，调整了监测方式，监测对象更改为因伤害到医院所有相关科室就诊的患者。本次试点总结了经验，发现不足，为在建立全国伤害监测系统奠定了基础。<br><br>    二、目的<br><br>    掌握全国伤害发生的分布特征及变化趋势，为制定相关政策、评价伤害干预效果提供依据。<br><br>    三、监测对象及监测方式<br><br>    监测对象：在哨点医院就诊被诊断为伤害的首诊患者。<br><br>    监测方式：全国伤害监测采用哨点监测方式，以年度为单位持续进行。<br><br>    四、监测点选点方法<br><br>    （一）选点原则<br><br>    1．采用多阶段分层随机抽样的方法；<br><br>    2．兼顾城乡、地理分布及经济发展的差异；<br><br>    3．结合当地伤害预防控制工作基础。<br><br>    （二）具体选点方法<br><br>    参照全国疾病监测点抽样框架，随机抽取43个县（市、区）作为全国伤害监测点，并结合当地实际情况进行适当调整。其中，农村点23个，城市点20个。监测点名单见附表1<br><br>    附表1. 全国伤害监测点一览表<br><br>    序号<br> 城市点<br> 农村点<br> <br>1<br> 安徽省马鞍山市*<br> 安徽省肥西县<br> <br>2<br> 北京市通州区<br> 重庆市大足县<br> <br>3<br> 大连市沙河口区<br> 福建省惠安县<br> <br>4<br> 甘肃省兰州市<br> 甘肃省敦煌市<br> <br>5<br> *广东省珠海市*<br> 广东省南雄市<br> <br>6<br> 广西自治区桂林市秀峰区<br> 贵州省施秉县<br> <br>7<br> 河北省秦皇岛市海港区<br> 海南省定安县<br> <br>8<br> 河南省洛阳市*<br> 河北省藁城市<br> <br>9<br> 湖南省株洲市卢淞区<br> 湖北省天门市<br> <br>10<br> 江苏省南京市浦口区<br> 湖南省洪江市<br> <br>11<br> 宁夏自治区银川市新庆区<br> 黑龙江省宝清县<br> <br>12<br> 青海省西宁市城中区<br> 吉林省德惠市<br> <br>13<br> 青岛市市北区<br> 江苏省张家港市<br> <br>14<br> 上海市松江区<br> 江西省武宁县<br> <br>15<br> 深圳市* <br> 辽宁省凤城市<br> <br>16<br> 四川省成都市青羊区<br> 内蒙古自治区开鲁县<br> <br>17<br> 天津市红桥区<br> 宁波慈溪市<br> <br>18<br> 新疆自治区乌鲁木齐市天山区<br> 山东省蓬莱市<br> <br>19<br> 西藏自治区<br> 山西省平定县<br> <br>20<br> 厦门市<br> 陕西省眉县<br> <br>21<br>  <br> 四川省米易县<br> <br>22<br>  <br> 云南省曲靖县<br> <br>23<br>  <br> 浙江省常山县<br> <br><br>    注：带*监测点为原伤害监测城市试点地区，选点以市为单位，西藏自治区、厦门市监测地区待定。<br><br>    （三）哨点医院的确定<br><br>    1．城市监测哨点医院的确定： <br><br>    城市监测点卫生部门选择所辖二级以上医院3家，其中包括1家三级医院，并上报省级、国家级工作组确认。 <br><br>    2．农村监测哨点医院的确定： <br><br>    农村监测点卫生部门选择当地所辖医院中门诊量最大的医院1家，随机抽取中心乡卫生院1家，普通乡卫生院1家，并上报省级、国家级工作组确认。<br><br>    五、监测内容和方法<br><br>    全国伤害监测使用由中国疾控中心慢病中心统一制定的《全国伤害监测报告卡》，由各监测哨点医院医生/护士填报。《全国伤害监测报告卡》内容主要包括：<br><br>    1．伤害患者一般信息：如姓名，性别，年龄，身份证号码，户籍，文化程度，职业等。<br><br>    2．伤害事件的基本情况：如伤害发生的时间，患者就诊的时间，伤害发生的地点、原因、意图，伤害发生时的活动等。<br><br>    3．伤害临床信息：如伤害的严重程度、结局、临床诊断、性质、部位等。<br><br>    4．填报人信息。<br><br>    六、监测工作流程<br><br>    1．中国疾控中心慢病中心设计、制定、印刷《全国伤害监测方案》、《全国伤害监测工作手册》，编制数据录入软件，并下发至全国伤害监测系统所辖各省、自治区、直辖市、计划单列市疾控中心。<br><br>    2．中国疾控中心慢病中心就《全国伤害监测方案》、《全国伤害监测工作手册》及数据录入软件对有关省、自治区、直辖市、计划单列市、县（市、区）级疾控中心伤害监测工作人员进行一级培训。<br><br>    3．有关省、自治区、直辖市、计划单列市、县（市、区）疾控中心对各哨点医院伤害监测管理人员进行二级培训。<br><br>    4．各哨点医院相关工作管理人员对伤害监测报告卡填报人员就相关内容进行三级培训。<br><br>    5．监测点县（市、区）级疾控中心负责收集当地伤害监测哨点医院填报的伤害病例报告卡，录入数据库，每季度上报所属省、自治区、直辖市、计划单列市疾控中心，并负责伤害病例报告卡的保存和管理。<br><br>    6．全国各省、自治区、直辖市、计划单列市疾控中心每季度将监测数据库报送中国疾控中心慢病中心。<br><br>    7．中国疾控中心慢病中心对全国所有伤害监测点的资料进行分析，对结果进行解释，撰写并发布全国伤害监测年度报告。<br><br>    8．中国疾控中心慢病中心定期召开全国伤害监测工作会议，总结、完善监测工作。<br><br>    七、质量控制<br><br>    1．重视组织工作<br><br>    国家、省、县（市、区）各级疾控中心及监测哨点医院，应分别成立各自的监测工作组，各级监测工作组明确职责，分级承担各自所辖区域内的监测质量的全程控制工作，并进行年终考评。<br><br>    2．统一质量控制方法<br><br>    对培训、监测对象确认、报告卡填写、数据管理等制定统一的质量控制方案；<br><br>    3．加强工作督导<br><br>    各级监测工作组承担各自所辖区域内的医院伤害监测的督导任务。定期开展漏报、错报、漏录、错录调查，评估监测系统的运行情况，保证数据质量。<br><br>    八、组织领导和各级职责<br><br>    在卫生部的领导下，中国疾控中心慢病中心负责协调、组织实施及经费安排，相关省、自治区、直辖市、计划单列市卫生厅（局）和疾控中心负责当地伤害监测工作的实施。<br><br>    （一）中国疾控中心慢病中心<br><br>    1．负责制定、修订全国伤害监测方案，实施计划和经费预算，经上级部门批准后实施。<br><br>    2．成立全国伤害监测专家咨询委员会和技术指导组，为监测工作提供技术咨询和技术指导，参与现场督导、质量控制和评价。<br><br>    3．负责伤害监测点的确定。<br><br>    4．负责组织全国伤害监测工作的筹备和实施。<br><br>    5．制定全国伤害监测培训方案和计划，编制培训资料，组织开展一级培训，对二级和三级培训提供技术指导。<br><br>    6．开展现场督导，及时协调解决出现的问题。<br><br>    7．汇总、分析监测资料，编制和发布监测报告。<br><br>    8．制定全国伤害监测数据分级管理要求，提供统一的数据管理程序，负责全国监测资料和数据的保存与管理。<br><br>    （二）省级疾控中心<br><br>    各省、自治区、直辖市、计划单列市疾控中心成立相应的省级伤害监测工作组。省级伤害监测工作组由省级疾控中心伤害监测相关科室人员组成。主要负责：<br><br>    1．根据全国伤害监测工作方案和工作手册，制定当地的伤害监测实施方案，组织开展本省、自治区、直辖市、计划单列市的伤害监测工作。<br><br>    2．根据本省、自治区、直辖市、计划单列市实际情况制定监测相关人员培训要求，定期组织开展培训。<br><br>    3．负责日常技术指导，定期开展现场督导，检查本省、自治区、直辖市、计划单列市监测工作开展情况，及时协调解决伤害监测工作中出现的问题；参与中国疾控中心慢病中心组织的伤害监测工作省际联合督导检查。<br><br>    4．制定本省、自治区、直辖市、计划单列市伤害监测质控计划，定期组织质控检查；收集本省/自治区/直辖市监测数据，审核数据质量，按时上报。<br><br>    5．定期分析本省、自治区、直辖市、计划单列市监测数据，提供有关部门参考利用，并反馈各监测点。<br><br>    6．负责省级监测资料的保存和管理。<br><br>    （三）县（市、区）级疾控中心<br><br>    1．按要求参加全国伤害监测各项培训工作。<br><br>    2．按照全国伤害监测方案和工作手册的要求，按时收集、审核、录入和上报监测资料。<br><br>    3．及时反馈现场调查中出现的问题。<br><br>    4．对监测哨点医院定期进行督导检查，及时发现和解决工作中的问题。<br><br>    （四）全国伤害监测哨点医院<br><br>    1．按要求参加全国伤害监测各项培训工作。<br><br>    2．根据《全国伤害监测方案》和工作手册要求，开展伤害监测工作。<br><br>    3．提供伤害患者住院病历信息。<br><br>    4．发现监测工作中存在的问题，及时反馈当地疾控中心（卫生防疫站）。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、国土资源部<BR>&nbsp;&nbsp;【发布文号】财综[2008]74号<BR>&nbsp;&nbsp;【发布日期】2008-11-26<BR>&nbsp;&nbsp;【生效日期】2008-11-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://zhs.mof.gov.cn/zonghesi/zhengwuxinxi/zhengcefabu/200812/t20081201_93315.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、国土资源部关于加强土地出让收支预算编制工作的通知<br> <br></font>(财综[2008]74号)</p><br><br><br>各省、自治区、直辖市、计划单列市财政厅（局）、国土资源厅（局），新疆生产建设兵团财务局、国土资源局：<br><br>    2006年底，《国务院办公厅关于规范国有土地使用权出让收支管理的通知》（国办发[2006]100号）明确规定，自2007年1月1日起，国有土地使用权出让收入（以下简称土地出让收入）全额纳入基金预算管理，收入全额缴入地方国库，支出一律通过基金预算安排。同时要求，各地要建立健全年度土地出让收支预算管理制度，按照规定程序向同级人民政府报告，并依法向同级人民代表大会报告。从各地实际执行情况看，目前只有少数市县按照规定编制了土地出让收支预算，大部分市县尚未开展预算编制工作。为将国务院有关要求落到实处，现就加强土地出让收支预算编制工作的有关事宜通知如下：<br><br>    一、确保土地出让收入及时足额缴入地方国库<br><br>    市县国土资源管理部门和财政部门应当督促国有土地使用权受让人按照合同或协议规定，及时足额将土地出让收入全额缴入地方国库，不得拖欠应缴的土地出让收入；对于应缴未缴的土地出让收入，要督促国有土地使用权人限期补缴。实施非税收入收缴改革的地方，要严格按照规定在10个工作日内，将已经缴入非税收入汇缴专户的土地出让收入及时划转地方国库，不得滞压应缴地方国库资金。要坚决纠正在相关部门设立过渡性账户征收土地出让收入的现象，取消相关部门设立的过渡性账户，确保土地出让收入及时入库。<br><br>    二、进一步明确土地出让收支预算编制主体<br><br>    建立健全土地出让收支预算制度，不仅是国务院的明确要求，也是全面、客观、完整反映地方财政预算收支状况的一项重要内容。地方各级财政、国土资源管理部门要高度重视这项工作，进一步明确本部门负责牵头编制土地出让收支预算的主体，并将责任落实到具体处或科（室），保障本地区土地出让收支预算编制工作的顺利进行。<br><br>    三、抓紧部署开展土地出让收支预算编制工作<br><br>    土地出让收支管理主要属于市县级地方事务。市县财政部门、国土资源管理部门要严格按照国办发〔2006〕100号文件的规定，抓紧开展土地出让收支预算编制工作，要在同级人民政府向同级人民代表大会报告2009年财政收支预算的同时，按规定程序以政府性基金预算收支附表形式报告本级土地出让收支预算。各省、自治区、直辖市、计划单列市财政、国土资源管理部门要加强对所辖市县土地出让收支预算编制工作的指导，部署各市县尽快开展土地出让收支预算编制工作，将其作为规范土地出让收支管理的一项重要内容来抓。要抓紧研究出台本地区土地出让收支预算编制办法，确定编制范围，明确编制方法，规范编制流程，报财政部、国土资源部备案。同时，要建立相应的督查机制，加大对市县土地出让收支预算编制情况的监督检查。各省、自治区、直辖市、计划单列市财政、国土资源管理部门要在市县编制2009年土地出让收支预算的基础上，汇总编制2009年各省、自治区、直辖市、计划单列市土地出让收支预算，按照规定程序向本省、自治区、直辖市、计划单列市人民政府报告，并于2008年12月31日前报财政部、国土资源部备案。2008年年底前，财政部、国土资源部将结合国有土地使用权出让专项清理工作，对各地土地出让收支预算编制情况进行监督检查。<br><br>    四、土地出让收支预算编制严格遵循“以收定支、收支平衡”的原则<br><br>    编制土地出让收支预算，关键是合理确定土地出让收入规模。地方各级国土资源管理部门应当根据本地区土地利用计划和土地供应计划确定的土地供应规模、供应结构、供应时间等，及时向同级财政部门提供土地出让收入预算测算情况。土地利用计划下达时间滞后于土地收支预算编制工作的地区，地方各级财政部门可参照本地区前三年土地供应规模、土地供应结构、地价水平以及土地出让收支状况，综合考虑下年度土地调控政策和土地市场运行状况，合理确定下年度土地出让收入规模。编制土地出让支出预算严格遵循“以收定支、收支平衡”的原则，土地出让支出预算根据以往年度结余和预计年度土地出让收入情况，按照年度土地征收计划、拆迁计划以及规定的用途、支出范围和支出标准等因素确定，支出预算不得高于收入规模（包括以往年度结余和预计年度土地出让收入）。<br><br>    五、保障土地出让支出严格按照预算执行<br><br>    在预算执行过程中，土地出让收入超出预算的，原则上不调整当年支出预算，不予追加土地出让支出规模，超收收入在以后年度安排使用。土地出让收入未完成预算的，按照收支平衡的原则，依照规定程序相应压缩土地出让支出规模。鉴于处置原划拨土地、改变土地用途、调整土地使用条件等情形偶发性较强，因此形成的土地出让收入难以准确估算，对由此造成土地出让收入超出预算的，可按照收支平衡的原则，依照规定程序调整土地出让支出预算。土地出让支出必须严格按照批准的预算执行，资金拨付严格按照财政国库管理制度的有关规定执行。对于未列入土地出让支出预算的项目，地方各级财政部门一律不得使用土地出让收入安排支出。<br><br>    本通知自印发之日起施行。各省、自治区、直辖市、计划单列市财政、国土资源管理部门收到本通知后，要抓紧制定具体实施办法，报财政部、国土资源部备案。<br><br>                                                 财政部 国土资源部<br>                                              二○○八年十一月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

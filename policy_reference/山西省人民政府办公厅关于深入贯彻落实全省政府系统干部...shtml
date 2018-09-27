@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】山西省<BR>&nbsp;&nbsp;【发布文号】晋政办发〔2006〕44号<BR>&nbsp;&nbsp;【发布日期】2006-07-03<BR>&nbsp;&nbsp;【生效日期】2006-07-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shanxigov.cn/gb/zgsx/zwgk/zcfg/bgtwj/jzbf/userobject1ai40731.html" target=_blank>山西省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>山西省人民政府办公厅关于深入贯彻落实全省政府系统干部大会精神开展机关行政效能建设活动的通知<br><br></font>(晋政办发〔2006〕44号)</p><br><br><br>各市、县人民政府,省人民政府各委、厅,各直属机构:<br>    为深入贯彻落实全省政府系统干部大会精神,切实改进工作作风,优化政务环境,进一步规范政府机关及其公务员的公共服务行为,提高行政效率和服务质量,加快我省对外开放步伐,为圆满完成我省“十一五”规划的各项工作任务提供有力的保障,根据省人民政府常务会议的决定,自2006年7月起,用两个月左右的时间,集中时间、精力在全省政府系统开展以贯彻《山西省人民政府关于改进机关作风优化政务环境全面提高政府公信力和执行力的决定》(晋政发〔2006〕18号)为主要内容的机关行政效能建设活动。现将有关事项通知如下:<br>    一、指导思想<br>    以邓小平理论和“三个代表”重要思想为指导,全面落实科学发展观;以优化政务环境为目标,以责任追究为手段,提高行政机关工作人员的素质,提高行政效能,努力建设依法规范、高效优质、民主公开和清正廉洁行政、人民满意的政府。<br>    二、工作目标<br>    进一步深化行政审批制度改革,精简(下放)行政许可(审批)事项;加快审批速度,优化审批程序,减少审批环节,缩短审批时间,提高办结效率和质量,推进政府职能转变;建立和实行首办负责制、行政首长问责制、限时办结制、行政不作为和过错追究制,实施效能监察,全方位推进政府的行政效能建设。<br>    三、总体安排和方法步骤<br>    本次活动分为四个阶段进行,时间安排为两个月左右。<br>    第一阶段:学习动员(10天时间)。各市、县人民政府、省人民政府各部门(单位)都要召开动员大会,进行广泛深入的思想发动,由政府主要负责同志动员,对本地、本部门、本单位的活动做出具体安排。要以《中华人民共和国行政许可法》为基本教材,重点学习省委书记张宝顺、省长于幼军在全省对外开放工作会议上的讲话,学习于幼军省长在省人民政府第七次全体(扩大)会议和本次全省政府系统干部大会上的讲话,学习《中共山西省委山西省人民政府关于进一步扩大对外开放的决定》(晋发〔2006〕10号)、《山西省人民政府关于改进机关作风优化政务环境全面提高政府公信力和执行力的决定》和《山西省行政机关及其工作人员行政过错责任追究暂行办法》(晋政发〔2006〕19号)。通过学习培训,使广大干部进一步深化对优化发展环境,加强效能建设,全面提高政府公信力和执行力重要意义的认识,进一步增强诚信意识、大局意识、服务意识、效率意识,全面提高政治和业务素质。要综合运用领导干部深入讲、先进典型示范带、干部集中精力学、开展讨论议等灵活多样的学习方式,提高学习质量。集中学习时间一般不少于30个学时。<br>    第二阶段:查找问题,建章立制(20天时间)。各级、各部门要采取召开座谈会、问卷调查、设置意见箱等形式,广泛征求机关干部、基层单位、服务对象和社会各界的意见,对照优化发展环境、加强效能建设,全面提高政府公信力和执行力的要求,本着“深入找问题、重点找原因”的态度,认真总结近年来的工作情况,查找工作中存在的问题,找准问题的症结,抓住重点,突破难点,提出改进机关作风、提高行政效能的办法和措施。在此基础上,按照《山西省人民政府关于改进机关作风优化政务环境全面提高政府公信力和执行力的决定》和《山西省行政机关及其工作人员行政过错责任追究暂行办法》的要求,进一步建立和完善符合本部门(单位)实际的岗位责任制、首办负责制、行政首长问责制、限时办结制、服务承诺制、行政不作为和过错追究制等一系列规章制度,使机关效能建设走上制度化、规范化的轨道。<br>    第三阶段:整改提高(20天时间)。各级、各部门要针对征求的意见和查找出的问题,对照建立的规章制度,制定整改措施,完善内部工作流程和制度等。在此基础上,全面落实各项规章制度,切实提高行政效能,提高服务质量和水平。<br>    第四阶段:督促检查,总结验收(10天时间)。省人民政府派出督查组,对各市人民政府、省人民政府各部门(单位)的优化政务环境,加强行政效能建设工作进行检查验收。<br>    四、具体要求<br>    优化政务环境,加强行政效能建设,是进一步深化行政体制改革,转变政府职能,扩大对外开放的必然要求,是实施中部崛起战略,确保“十一五”规划顺利实施的有力保障。这项工作面广量大,任务艰巨,影响全局,关系长远,意义重大。各级、各部门务必高度重视,精心组织,狠抓落实,努力把优化政务环境,加强行政效能建设工作这项全面提高政府公信力和执行力的基础工程做好。<br>    (一)提高认识,加强领导。省人民政府决定成立由省委常委、常务副省长范堆相任组长,省人民政府秘书长李政文、省监委主任王俊忠任副组长,省人民政府有关部门负责同志参加的省人民政府行政效能建设领导组,领导组办公室设在省监委,具体负责指导、监督全省政府系统各部门(单位)的落实工作。<br>    各市人民政府和省人民政府系统各部门(单位)要健全工作机制,建立相应工作机构,各单位主要负责同志要亲自挂帅,常务副职具体组织实施。活动期间,省人民政府各位领导将根据工作分工,深入分管部门检查指导,听取汇报,确保活动效果。<br>    (二)省人民政府系统各部门(单位)要精心组织建立完善工作制度及落实工作。从2006年9月起,省人民政府行政效能建设领导组办公室将经常派出明查暗访组,深入基层进行实地检查,并及时受理企业和群众的投诉,对贯彻落实会议精神不力、敷衍搪塞单位的负责人以及存在行政不作为、行政过错等行政行为的当事人,一经发现查实,将严格按《山西省人民政府关于改进机关作风优化政务环境全面提高政府公信力和执行力的决定》和《山西省行政机关及其工作人员行政过错责任追究暂行办法》的有关规定追究责任,切实使行政效能建设的各项制度和措施真正落到实处。<br>    (三)本次活动结束后,各市人民政府、省人民政府各部门(单位)要将活动开展情况于2006年9月5日前书面报告省人民政府。 <br><br>                                                 二○○六年七月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

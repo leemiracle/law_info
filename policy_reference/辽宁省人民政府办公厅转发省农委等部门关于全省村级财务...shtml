@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】辽宁省<BR>&nbsp;&nbsp;【发布文号】辽政办发〔2004〕67号<BR>&nbsp;&nbsp;【发布日期】2004-07-20<BR>&nbsp;&nbsp;【生效日期】2004-07-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ln.gov.cn/communique/govfiles/office/38_24381.htm" target=_blank>辽宁省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>辽宁省人民政府办公厅转发省农委等部门关于全省村级财务实行会计委托代理制指导意见的通知<br> <br></font>(辽政办发〔2004〕67号)</p><br><br><br>各市人民政府，省政府各厅委、各直属机构：?<br><br>    经省政府同意，现将省农委、省财政厅、省民政厅、省监察厅《关于全省村级财务实行会计委托代理制的指导意见》转发给你们，请结合本地区、本部门实际，认真贯彻执行。?????<br><br>二○○四年七月二十日??<br>    <br><br>    关于全省村级财务实行会计委托代理制的指导意见<br><br>    为规范我省村级财务管理，强化监督制约机制，促进农业生产和农村经济的健康发展，保证税费改革的顺利进行，根据《中共辽宁省委辽宁省人民政府关于印发〈辽宁省农村税费改革试点方案〉的通知》(辽委发〔2003〕17号)和省纪委九届四次全会精神，特提出如下指导意见：?<br>    一、积极引导和实行村会计委托代理制。我省目前普遍实行的“村财乡代管”制度，在解决农村财务管理混乱问题和从源头上预防和治理腐败，发挥了积极作用。为规范村级财务管理，强化监督制约机制，根据我省实际，将“村财乡代管”引导过渡为“村会计委托代理制”(以下简称“代理制”)的时机已经成熟。“代理制”即：在坚持村集体资产所有权、使用权、管理权不变的前提下，村集体经济组织的财务收支活动、会计核算经村集体经济组织成员大会或村民大会讨论通过，委托乡(镇)代理单位代为管理并正式签订授权委托书。委托书样式由省农业行政主管部提供。?<br>    二、实行村会计委托代理，要充分尊重农民意愿。严禁在违背农民意愿的情况下，以行政命令强行推广“代理制”。各地要根据实际情况，不搞“一刀切”。对未经村集体经济组织成员大会或村民大会通过的村，可暂不实行“代理制”。在代理过程中，如经县(区)人民政府认定发现有关部门擅自违反委托书规定，有侵犯集体和农民的合法权益等行为，可按照规定程序解除委托关系。村委会换届选举或新的村委会成立后，应由乡(镇)、村对委托代理事项重新确认，如无违反委托代理事项问题的，应继续代理；委托代理期满，需经村集体经济组织成员大会或村民大会重新进行讨论通过，并重新签订授权委托书。?<br>    三、坚持“五不变”和“三不准”原则。“五不变”是村集体经济组织资金的所有权、使用权、会计核算内容、资金使用方向和村民代表决定权不变。“三不准”是不准平调、挪用，拆借村集体资金。承担村级财务代理的单位只是代村集体经济组织理财，管理村级财务活动，并进行会计核算。资金使用仍由村集体经济组织自主决定，任何单位和个人不得用任何方式平调、挪用和拆借村集体经济组织的资金。<br>    四、充分保障农民的民主权利。实行“代理制”要符合党的村民自治政策，符合村委会组织法。要保障农民对村集体资产的所有权，不能侵占农民的利益；要保障村委会或村集体经济组织等对村集体资产的管理权和使用权；要保障农民对“代理制”的监督权。代理单位要将所代理的村级财务，按照有关规定，定期向村民公开。<br>    五、精心组织，周密部署，稳步推行。“代理制”工作涉及面广、政策性强，各地要加强组织和宣传工作。要做好“代理制”前期的清产核资和审计工作，认真清理债权债务，要明确责任并向村民公开。在此基础上，搞好账簿登记，做到账账、账表、账册、账实相符。要有计划稳步推行“代理制”工作。有条件的地区，村会计委托代理可探索由乡镇财政资金统管机构代理。?<br>    六、建立健全规章制度，实现“代理制”管理的规范化。要严格执行会计核算的相关法律法规，建立健全章制度，强化监督，规范运行。建立健全财务审批制度、财会人员岗位责任制、现金管理制度、账务处理等规章制度。以利代理部门按章为村集体经济组织理好财、服好务。<br>    七、加强对农村会计人员的管理和业务培训，不断提高业务素质和管理水平。各级农业主管部门及财政部门要加强对村级财务代理单位和财务人员的管理，完善监督检查机制，做到责任明确、监督到位。严格实行财会人员持证上岗制度、年度考核制度。要定期开展财务业务培训，实统一计划、分级培训，使乡、村财会人员熟悉和掌握财会知识，了解国家有关财经纪律和制度，不断提高工作能力和业务水平。有条件的地方要加快推进农村财会核算电算化工作，保证会计核算的及时性、准确性。?<br>    八、加强对“代理制”工作的监督和管理。各级纪检监察机关和农业、财政等有关部门要各司其职，密切配合，强化对实行“代理制”的村集体经济组织资金的监管力度。要充分尊重和发挥农民的监督作用，村委会或村集体经济组织、村民理财小组等对村级财务代理情况有权进行审查。要建立严格的审计监督机制，加强监督检查。县以上农经管理部门要定期对村级财务代理情况进行财务审计，发现问题，及时解决。要明确责任制度，对擅自平调、挪用和拆借集体经济组织资金等违反有关财务规定的行为，要追究主管领导和当事人的行政责任和经济责任。?<br><br>省农委?<br>省财政厅?<br>省民政厅?<br>省监察厅?<br>二○○四年七月十六日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

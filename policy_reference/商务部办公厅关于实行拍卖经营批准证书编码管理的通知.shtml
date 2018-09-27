@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部<BR>&nbsp;&nbsp;【发布文号】商建字[2005]6号<BR>&nbsp;&nbsp;【发布日期】2005-02-24<BR>&nbsp;&nbsp;【生效日期】2005-02-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/b/d/200503/20050300020229.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部办公厅关于实行拍卖经营批准证书编码管理的通知<br><br></font>(商建字[2005]6号)</p><br><br><br>各省、自治区、直辖市、新疆生产建设兵团商务主管部门： <br><br>    为规范拍卖业管理，根据商务部《拍卖管理办法》（商务部令2004年第24号），决定对拍卖经营批准证书实行统一编码管理。现将有关事项通知如下： <br>    一、拍卖经营批准证书编码编排结构及其规则 <br>    拍卖经营批准证书编码由16位阿拉伯数字组成，编排结构如下表： <br><br>具体编排规则： <br>    （一）省别号（第1-2位） <br>    11-北京市，12-天津市，13-河北省，14-山西省，15-内蒙古自治区，21-辽宁省，22-吉林省，23-黑龙江省，31-上海市，32-江苏省，33-浙江省，34-安徽省，35-福建省，36-江西省，37-山东省，41-河南省，42-湖北省，43-湖南省，44-广东省，45-广西壮族自治区，46-海南省，51-重庆市，52-四川省，53-贵州省，54-云南省，55-西藏自治区，61-陕西省，62-甘肃省，63-青海省，64-宁夏回族自治区，65-新疆维吾尔自治区，66-新疆生产建设兵团。 <br>    （二）顺序号（第3-6位） <br>    表示省、自治区、直辖市、新疆生产建设兵团商务主管部门（以下简称省级商务主管部门）批准设立的拍卖企业先后顺序，用阿拉伯数字表示。如：第36个，顺序号填写“0036”；第105个，顺序号填写“0105”。 <br>    （三）组织形式代码（第7位） <br>    1-有限责任公司 <br>    2-股份有限公司 <br>    （四）内、外资代码（第8位） <br>    1-中资企业 <br>    2-外资企业 <br>    3-中外合资经营企业 <br>    4-中外合作经营企业 <br>    （五）分公司序号（第9-12位） <br>    拍卖企业分公司的经营批准证书编码前8位与拍卖企业相同。第9-10位表示拍卖企业设立该分公司的顺序，用阿拉伯数字表示。第11-12位表示该分公司所在省（自治区、直辖市、新疆生产建设兵团），编码规则同省别号。如“0711”表示某拍卖企业设立的第七家分公司，该分公司设在北京。拍卖企业填写“0000”。 <br>    （六）年序号（第13-16位） <br>    表示省级商务主管部门批准设立拍卖企业及其分公司的时间，以年为单位，由公元年号组成。如：1991年批准设立的，填写“1991”。 <br>    二、拍卖经营批准证书编码的管理 <br>    （一）拍卖经营批准证书到期，拍卖企业及其分公司申请换证时，原编码不变。 <br>    （二）拍卖经营批准证书正、副本遗失或者损毁的，拍卖企业及其分公司申请补发时，原编码不变。 <br>    （三）拍卖企业及其分公司变更机构名称、法定代表人、经营范围、注册资本以及在本省内变更住所等事项，且组织形式、内外资性质没有变化的，换发新证时，经营批准证书编码不变。 <br>    （四）拍卖企业发生组织形式变更或者内外资性质变化的，拍卖企业及其分公司的经营批准证书作废，重新编码，换发新证。 <br>    （五）拍卖企业终止营业（解散、被撤销或者破产）的，其经营批准证书及编码作废。 <br>    分公司撤销或者被撤销的，其经营批准证书及编码作废。 <br>    （六）因合并、分立而存续的拍卖企业，原编码不变；因合并、分立而解散的拍卖企业，原编码作废；因合并、分立而新设立的拍卖企业，重新编码，核发新证。 <br>    上述规定自印发之日起施行。 <br><br><br>                                                            商务部办公厅 <br>                                                            二○○五年二月二十四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

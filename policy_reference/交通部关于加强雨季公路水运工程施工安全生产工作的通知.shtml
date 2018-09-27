@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通部<BR>&nbsp;&nbsp;【发布文号】交质监发[2005]322号<BR>&nbsp;&nbsp;【发布日期】2005-07-20<BR>&nbsp;&nbsp;【生效日期】2005-07-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhengwu/zhengwu/t20050803_25749.htm" target=_blank>交通部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通部关于加强雨季公路水运工程施工安全生产工作的通知<br><br></font>(交质监发[2005]322号)</p><br> <br>  <br>各省、自治区交通厅，北京、重庆市交通委员会，天津市市政工程局，上海市市政工程管理局，新疆生产建设兵团交通局：<br><br>    为有效遏制重大生产事故的高发势头，安全监管总局要求各部门进一步加强行业管理，及时发现并消灭苗头性问题。交通行业公路、水运工程施工现场点多面广，施工环境复杂，且又进入雨季，极易发生山洪和地质灾害。为切实保证公路水运工程建设的安全实施，现就有关事项通知如下。<br><br>    一、高度重视，全面落实责任制。各级交通主管部门一定要把行业的安全生产监管同千家万户的幸福联系起来，同构建和谐交通的目标联系起来，完善安全监管制度，落实安全生产责任制。开展对在建工程易发地质灾害的关键部位及高空、带电、爆破等危险作业的检查，加大对防灾和事故隐患的监督力度。加强对施工人员的岗前培训和现场安全技术交底，加强工程施工机械、设备的维修保养，防止因机械失灵诱发安全事故，发现隐患应及时处理并建立档案记录。<br><br>    二、制定防灾预案，掌握安全生产的主动权。各级交通主管部门要根据本地区工程和气候特点，制定防灾预案，同时建设单位要制定项目防灾预案，施工单位制定合同段防灾预案，落实责任人，完善值班制度，强化值班管理。各单位主管安全的领导要靠前指挥，及时掌握雨情汛情等气候动态，一旦发生事故，主管领导要在第一时间赶赴现场，启动预案，组织救援。<br><br>    三、加强复杂条件下的工程建设项目全过程安全生产管理。设计阶段应采用先进手段准确判定地质情况，开展灾害调查，设计方案应尽可能避免陡边坡、高路堤和深路堑。对复杂地质构造、不利的自然环境和施工工艺、材料可能危及施工生产安全和从业者健康的应提出专项措施。工程招标文件中应明确施工安全评估意见的工程处置措施。施工阶段施工组织设计中应制定安全技术措施，对危险性较大的分部分项工程编制专项施工方案，必要时，还应进行安全验算或组织专家论证和审查，经施工单位负责人、监理工程师签字后实施。建设各方的临时办公、居住用地要避开崩塌、滑坡、泥石流、岩溶塌陷等灾害易发区，确保建设者生命财产安全。<br><br>    认真排查高速公路隧道施工安全隐患，重点检查是否有完善的地质预报和施工安全监控措施，是否严格按规范及时支护衬砌，确保隧道施工安全。<br><br>    四、采取措施，加强劳动保护。施工企业要根据气温情况合理安排工作时间，特别是高空、深井、焊接以及水上作业项目，必须避开高温时段进行。人员住宿条件应符合有关标准规定，保证生活用水用电，做好暑期传染病的防控工作。<br><br>    五、注重地质环境，避免工程施工引发新的地质灾害。在切坡、开挖、爆破等工序实施前应查明作业面附近山体情况，必要时，做好预加固、防排水等辅助施工措施和施工过程监测预警等工作。<br><br>    六、加强宣传教育，进一步提高参建单位和人员的防灾、避险意识和能力。要责成建设单位在所有公路水运在建项目上，开展安全生产宣传教育活动，提高参建单位和人员的安全意识，确保施工现场人员都掌握安全生产要点，自觉做到“三不伤害”，提高防灾、防汛、防暑和避险能力。<br><br>中华人民共和国交通部<br>二○○五年七月二十日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

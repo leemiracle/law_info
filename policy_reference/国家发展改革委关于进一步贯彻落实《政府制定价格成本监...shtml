@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改价格[2006]2368号<BR>&nbsp;&nbsp;【发布日期】2006-11-03<BR>&nbsp;&nbsp;【生效日期】2006-11-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20061110_92687.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于进一步贯彻落实《政府制定价格成本监审办法》有关问题的通知<br><br></font>(发改价格[2006]2368号)</p><br><br><br>各省、自治区、直辖市及计划单列市发展改革委（物价局）：<br>    为进一步贯彻落实《政府制定价格成本监审办法》（国家发展改革委42号令），切实加强价格主管部门成本监审工作，现将有关事项通知如下：<br>    一、加强成本监审配套法规建设。各地要按照42号令的规定，结合本地情况抓紧制订实施细则，修订颁布本地区成本监审目录，规定各级价格主管部门成本监审职责，明确经营者权利和义务，增强成本监审的法律效力。<br>    二、规范成本监审工作程序。要按照《政府制定价格行为规则》和《政府制定价格成本监审办法》的规定，完善工作制度，规范定价程序。凡列入成本监审目录的商品和服务，未经成本监审的，不得制定或调整价格。需要举行价格听证的，必须进行成本监审，成本监审报告应提前印发听证代表。<br>    三、提高成本监审工作质量。对成本监审办法中已明确规定了审核标准的，要严格按照标准进行审核；没有明确规定的，要抓紧制定审核标准。暂时没有规定标准的而又需要进行成本监审的，要加强与各方面的沟通，按照公平合理的原则进行审核，确保定价成本的合理性。委托下级价格主管部门成本监审机构开展的成本监审项目，上级价格主管部门要按照“谁委托、谁负责”的原则，加强监审全过程的指导、督查。对被委托人提交的成本监审报告，应当采取预审、抽查等方式对其进行审查，确保监审质量。<br>    四、强化对垄断行业的成本监管。抓紧制订各行业定价成本监审办法，明确定价成本构成、审核标准和方法，并向社会公布；在做好定调价成本监审工作的同时，应当统筹安排监审力量，进行定期成本监审。对重要商品价格和收费，要建立定期成本监审制度和定价成本公布办法，加强成本约束。<br>    五、加强对成本监审行为的监督检查。各级价格主管部门要加强对下级价格主管部门成本监审行为的监督，纠正未按规定进行成本监审而制定价格的行为，严禁将成本监审职能社会化以及在成本监审时向经营者收取费用。<br>    六、加强成本监审基础工作。健全成本监审组织机构。通过内部调配和社会招考，将知识结构合理、素质高、能力强的干部充实到成本监审队伍中来。要切实加强干部的学习和培训，提高成本监审队伍整体素质。要积极向当地财政部门申请解决成本监审工作经费，改善工作条件，适应成本监审工作的需要。要在推进成本监审方法规范化、内容标准化、表式统一化的基础上，加快成本监审信息管理系统建设。<br><br>中华人民共和国国家发展和改革委员会<br>二○○六年十一月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

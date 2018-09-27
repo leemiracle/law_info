@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-05-26<BR>&nbsp;&nbsp;【生效日期】2006-05-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.csrc.gov.cn/cn/jsp/detail.jsp?infoid=1150186756100&type=CMS.STD&path=ROOT%3ECN%3E%D0%C2%CE%C5%B5%BC%B6%C1" target=_blank>中国证券监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国证券监督管理委员会关于加强资金申购和承销业务管理有关问题的通知</font></p><br>  <br><br>各证券公司：<br><br>    我会于5月18日颁布实施了《首次公开发行股票并上市管理办法》，拟于近期开始核准新股发行；上海、深圳证券交易所分别颁布了资金申购实施办法，对新股发行恢复资金申购明确了具体要求和业务流程。各证券公司应高度重视新股发行资金申购工作，加强组织领导，切实防范风险，保护投资者权益。现就有关问题通知如下：<br><br>    一、各证券公司应加强对资金申购实施办法等有关文件的学习，掌握有关资金申购业务规则和操作流程，周密部署并严格落实各项准备工作，同时要加强对客户的宣传和解释工作，做好对投资者申购新股的服务保障工作。<br><br>    在新股申购期间，证券公司应调派熟悉资金申购业务的骨干加强对客户较多证券营业部的支持和辅导，确保所有营业网点均能做好资金申购业务的服务工作。<br><br>    二、各证券公司应切实做好新股申购的资金安排，确保所有客户均能全额申购新股，确保新股申购资金按时足额划付到中国证券登记结算有限责任公司。<br><br>    三、各证券公司应切实做好新股发行资金申购的技术准备工作，提前对技术系统进行测试，并做好有关应急预案。<br><br>    四、证券公司自营申购新股的，必须使用已经报备的证券自营账户，严禁使用客户或他人的账户进行申购；必须使用自有资金和依法筹集的资金，严禁挪用客户交易结算资金进行申购。<br><br>    各证券公司应加强对下属营业网点代理新股申购业务的管理，防止出现上述违规行为。<br><br>    五、证券公司不得自营申购本公司所承销的股票，也不得变相以他人名义申购本公司所承销的股票。<br><br>    六、证券公司未清理的违规资产管理业务不得参与新股发行资金申购，合规的定向资产管理业务和经我会批准设立的集合理财计划可以参与新股发行资金申购。<br><br>    七、各证券公司要加强对承销业务的风险控制，以包销方式承销证券的，应符合以下规定：<br><br>    （一）充分考虑公司的净资本和流动性状况，根据自身的净资本充足情况确定最大的承销业务规模，确保公司每单承销业务都有足够净资本来支撑；<br><br>    （二）必须进行实质性承销，严禁通过签订补充协议等方式进行虚假承销；<br><br>    （三）因包销剩余股票导致单只股票规模超比例的，应自该股票上市之日起逐步卖出该股票，期间不得买入该股票，导致自营总规模超比例的，应同时限制买入其他股票，直至公司自营业务规模符合规定标准；<br><br>    （四）在签定承销协议之日起五个工作日内，向公司注册地证监局报备承销协议、承销项目的风险评估及包销风险的应对方案。<br><br>    八、在新股申购过程中遇到重大问题时，证券公司应及时向公司注册地证监局和我会报告。<br><br>    九、证券公司违反本通知规定或资金申购业务出现重大风险的，我会将按有关规定，严肃追究公司和相关人员的责任。<br><br>二○○六年五月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

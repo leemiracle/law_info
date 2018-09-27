@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理总局办公厅<BR>&nbsp;&nbsp;【发布文号】食药监办科〔2017〕43号<BR>&nbsp;&nbsp;【发布日期】2017-03-28<BR>&nbsp;&nbsp;【生效日期】2017-03-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/WS01/CL1605/171311.html" target=_blank>国家食品药品监督管理总局办公厅 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>总局办公厅关于印发食品快速检测方法评价技术规范的通知 </strong><br />&nbsp;食药监办科〔2017〕43号</p>
+<p style="text-align: center;">&nbsp;</p>
+<p>各省、自治区、直辖市食品药品监督管理局，新疆生产建设兵团食品药品监督管理局，中国食品药品检定研究院：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为保证食品快速检测方法评价工作的科学性和规范性，食品药品监管总局组织制定了《食品快速检测方法评价技术规范》，现予印发，请遵照执行。对于在执行中发现的问题，请及时向食品药品监管总局科技标准司反馈。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联 系 人：张敏<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系电话：010-88331033</p>
+<p style="text-align: right;"><br />食品药品监管总局办公厅<br />2017年3月28日</p>
+<p style="text-align: right;">&nbsp;</p>
+<p>附件：食品快速检测方法评价技术规范.doc</p>
+<p><br />食品快速检测方法评价技术规范</p>
+<p>1  目的<br />&nbsp;为保证食品快速检测方法评价工作科学合理、标准统一，特制定本规范。<br />2  适用范围<br />&nbsp;本规范适用于食品药品监管部门组织开展的食品（含食用农产品）中农兽药残留、非法添加、真菌毒素、食品添加剂、污染物质等定性快速检测方法及相关产品的技术评价。<br />3  评价指标<br />3.1  灵敏度<br />3.2  特异性<br />3.3  假阴性率和假阳性率<br />3.4  与参比方法一致性分析<br />4  评价方法<br />&nbsp;最低检出水平（检出限）设置对于禁用物质或者无残留限量的物质应小于或者等于参比方法的检出限水平，对于存在国家标准限值规定的物质应小于或等于限值规定。所有参数需要在不同种类或者类型的食品中测定的实际结果进行统计。<br />4.1  灵敏度<br />&nbsp;灵敏度是指方法在实验条件下达到的实际最低检出水平时，检出阳性结果的阳性样品数占总阳性样品数的百分比，具体计算要求见附表，评价中可描述为该百分比下方法的检出限。<br />4.2  特异性<br />&nbsp;特异性是指方法在实验条件下达到的实际最低检出水平时，检出阴性结果的阴性样品数占总阴性样品数的百分比，具体计算要求见附表，评价中可描述为方法检出限下不存在干扰的百分比。<br />4.3  假阴性率和假阳性率<br />&nbsp;假阴性率是指方法在实验条件下达到的实际最低检出水平时，阳性样品中检出阴性结果的最大概率（以百分比计），具体计算要求见附表，计算结果为方法最大假阴性率的结果。<br />&nbsp;假阳性率是指方法在实验条件下达到的实际最低检出水平时，阴性样品中检出阳性结果的最大概率（以百分比计），具体计算要求见附表，计算结果为方法最大假阳性率的结果。<br />4.4  与参比方法一致性分析<br />&nbsp;快速检测方法应与方法中规定的参比方法进行一致性比较。与参比方法一致性分析统计方法常见卡方检验，具体可见附表中显著性差异（2）所示，一般：<br />2=（a-b-1）2/（a+b）<br />a：样品被待确认方法证实为阳性而参比方法检验为阴性的数目；<br />b：样品被待确认方法证实为阴性而参比方法检验为阳性的数目。<br />2&lt;3.84表示待确认方法与参比方法的阳性确证比率在95%的置信区间内没有显著性差异。但是如果待确认方法比参比方法存在更高的回收率，则以上两种方法的阳性确证比率存在显著性差异是可以接受的。<br />2&gt;3.84表示两种方法的阳性确认比率在95%的置信区间内有显著性差异。<br />&nbsp;如果能够证实待确认方法灵敏度优于参比方法，则两种阳性比例的显著性差异可以接受。<br />&nbsp;在考察与参比方法的一致性分析中，也需要考察在检出限或者报告限度水平附近的检测结果与浓度之间的趋势一致性。<br />5  评价步骤<br />5.1  拟定评价技术方案<br />&nbsp;在比较快速检测方法与待评价方法的适用范围、性能指标和要求等符合性情况的基础上，评价机构应针对待评价食品快速检测方法及相关产品制定评价方案。应包括但不限于：方案实施程序、评价内容及依据、评价比较用参考限值标准及方法标准、参考样品制备、参考值选择、参考样品定值及依据、参考样品编码及说明、测试程序、结果判断及统计方式、结论出具等，最终结论的出具应附相关判别依据，并给出相应判别指标。<br />5.2  盲样制备<br />&nbsp;试验评价需使用盲样检测进行。试验评价盲样涉及空白、阴性、阳性样品等均应进行实验室测定赋值，并出具均匀性和稳定性结果，相应盲样的均匀性和稳定性测试结果计算的重复性相对标准偏差，应为参比方法要求对应浓度应符合重复性相对标准偏差的1/3。可使用有证标准物质、参考物质或者质量控制品等进行溯源参考，测定完成后的各类样品应进行随机编号处理，形成盲样。用于试验评价的盲样或者质量控制样品，可自行制备，应符合：<br />1)基质符合性和与实际食品样品所含物质成分相似性；<br />2)考虑成分存在的浓度水平，应涵盖涉及产品的检出水平、标准限量值（标准规定值）、对应标准的检出水平等，选择多个水平进行测定；<br />3) 根据标准方法规定的食品类别或者评价范围适用的食品，盲样制备时应重点考虑典型样品基质或相似基质，结合相关食品类别和测定目标物存在形式，按照食品宏观组分进行区分，综合考虑蛋白、脂肪、水分、糖分、高聚物或者多聚体物质、色泽、酸碱性等影响检测的组分进行区分选择，必要时应按照食品生产工艺制备添加样品；<br />4)对于多种成分检测，应选择其分析成分进行分类比较（结构类似程度、危害程度等），综合选择几种代表性成分进行评价；对于易于获得的成分组合，尽可能考虑全部进行试验评价；<br />5)盲样测定方式按照单位样品量以及添加目标物的情况，样品处理可以采用部分样品、全量处理等方式进行。盲样必须进行批内均匀性检查，对于一定时间范围内检测的样品，需要进行稳定性检查，保证在评价期限内样品稳定，以上均需评价机构提供检测报告。<br />5.3  试验测试<br />5.3.1 试验评价可按照方法前期验证结果（如有），进行浓度水平和基质设计，应比较空白检测、对照检测、标准方法平行对照检测等内容，附带考察方法操作环境、方法用时、操作难易等情况；对于多检测规格产品，应根据其实际规格制定具体评价浓度范围和水平，并在结果判断中注明适用检测范围。<br />5.3.2 评价应进行双盲检测，对待评价食品快速检测方法和用于比较的参比方法平行利用盲样进行测试，并对样品进行平行测定，分别计算获得平均检测结果，用于方法间一致性评价，检测过程中应利用根据检测物在食品中实际可能存在的水平，设置质量控制样品，考察检测稳定性。实验中测试样品包括但不限于：<br />1) 食品基质空白样品；<br />2) 测试水平一般应包括标准方法检出水平（或者标准限量值）的0.5、1、2倍水平或者其他可检测区分的水平（不少于3个）；或者方法标称检出限0.5、1、2倍水平或者其他可检测区分的水平（不少于3个）；<br />3) 依据相关分析检测统计计量要求，一般检测样品每种基质空白及每个浓度水平不得少于50例，对于非法添加等重点项目的检测，可考虑在低浓度水平设置为100例，以便更好地评价出假阳性率和假阴性率；<br />4) 如存在或易获得，应进行阳性样品复核测试；<br />5) 针对多成分方法，每种典型物质均需有检测结果和相应评价参数结果；<br />6) 应给出差异比较结果，具备数值的应有统计识别结论，统计方法可根据实际情况进行设定，但需说明理由。<br />6  评价结果及报告出具<br />6.1  评价结果<br />&nbsp;评价结果应计算快速检测方法可检出限度水平的灵敏度、特异性、假阴性率、假阳性率以及检测结果与参与方法的一致性。一般可考虑（但不限定）每个基质每个浓度水平应在数据采集数不少于50例情况下，获得假阴性率和假阳性率的结果。食品快速检测方法技术评价机构应根据项目实际情况给出上述指标评价结果，并提供具有统计意义的说明。<br />6.2  报告出具<br />&nbsp;专业技术评价机构应出具技术评价报告，对评价整体情况和结果进行汇总整理和分析，报告中应有被评价的食品快速检测方法或相关产品是否符合国家有关规定或产品标称的结论。</p>
+<p>&nbsp;附表：快速检测方法性能指标计算表</p>
+<p><br />&nbsp;附表<br />&nbsp;快速检测方法性能指标计算表</p>
+<p>&nbsp;样品情况a 检测结果b 总数<br />&nbsp;阳性 阴性 <br />&nbsp;阳性 N11 N12 N1.=N11+N12<br />阴性 N21 N22 N2.=N21+N22<br />总数 N.1=N11+N21 N.2=N12+N22 N=N1.+N2.或N.1+N.2<br />显著性差异（2） 2=（N12-N21-1）2/（N12+N21），<br />&nbsp;自由度（df）=1<br />灵敏度（p+，%） p+=N11/N1.<br />特异性（p-，%） p-=N22/N2.<br />假阴性率（pf-，%） pf-=N12/N1.=100-灵敏度<br />&nbsp;假阳性率（pf+，%） pf+=N21/N2.=100-特异性<br />&nbsp;相对准确度，%c （N11+N22）/(N1.+N2.)<br />注：<br />a由参比方法检验得到的结果或者样品中实际的公议值结果；<br />b由待确认方法检验得到的结果。灵敏度的计算使用确认后的结果。<br />N：任何特定单元的结果数，第一个下标指行，第二个下标指列。例如：N11表示第一行，第一列，N1.表示所有的第一行，N.2表示所有的第二列；N12表示第一行，第二列。<br />C为方法的检测结果相对准确性的结果，与一致性分析和浓度检测趋势情况综合评价。</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局办公厅<BR>&nbsp;&nbsp;【发布文号】环办〔2008〕12号<BR>&nbsp;&nbsp;【发布日期】2008-02-01<BR>&nbsp;&nbsp;【生效日期】2008-02-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/huanban/200802/t20080202_117986.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局办公厅关于贯彻落实《电子废物污染环境防治管理办法》的通知<br> <br></font>(环办〔2008〕12号)</p><br><br><br>各省、自治区、直辖市环境保护局（厅）：<br><br>    为防治电子废物污染环境，加强电子废物拆解利用处置的环境管理，国家环保总局于2007年9月27日发布了《电子废物污染环境防治管理办法》（环保总局令第40号，以下简称《办法》），自2008年2月1日起施行。现将贯彻落实《办法》的有关工作通知如下：<br><br>    一、有针对性地开展宣传贯彻工作<br><br>    各级环保部门应当结合本地区实际情况，组织有关监督管理人员认真学习贯彻《办法》；要重点针对电子废物产生单位和拆解利用处置单位进行宣传和培训，推动企业知法守法。<br><br>    设区的市级以上地方环境保护行政主管部门（以下简称“市级以上环保部门”）对列入电子废物拆解利用处置单位名录（包括临时名录）的，应当通过政府网站等方式予以公告，定期调整（样式见附件一），同时分送上一级和下一级环保部门，并向列入目录（包括临时名录）的单位（包括个体工商户）签发有关列入名录的通知单（样式见附件二）。<br><br>    2008年2月1日起，禁止任何个人和未列入电子废物拆解利用处置单位名录（包括临时名录）的单位（包括个体工商户）从事拆解、利用、处置电子废物的活动。<br><br>    2008年2月1日前已经从事拆解、利用、处置电子废物活动的单位（包括个体工商户）（以下简称“老企业”），根据本《办法》可安排120天过渡期。在《办法》施行120日后仍未申请或经申请但不符合列入上述名录（包括临时名录）条件的老企业，不得继续从事拆解、利用、处置电子废物的活动。<br><br>    二、加强电子废物处置项目的环境管理<br><br>    凡新建、改建、扩建拆解、利用、处置电子废物的项目，必须执行环境影响评价制度。环境影响评价文件应当包括本《办法》所要求的有关工艺和废物处置方案等内容。<br><br>    对需要进行试运行的项目，审批环境影响评价文件的环保部门，可同意该项目在设备调试和试运行期间拆解利用处置一定数量的电子废物，调试和试运行期一般不超过三个月。<br><br>    电子废物拆解利用处置单位（包括个体工商户），应当在办理营业执照前报批环境影响评价文件。<br><br>    市级以上环保部门应当按照本《办法》对拆解利用处置电子废物项目的建设单位（包括个体工商户）进行环境保护措施验收或对老企业申请列入临时目录进行书面审查和现场核查（申请书样式见附件三，相关证明文件的说明见附件四，工作程序见附件五）。<br><br>    环境保护措施验收应当包括本《办法》所要求的有关人员、经营情况记录簿、环境监测、废物处置等方面的内容。<br><br>    三、加强日常监督管理<br><br>    县级以上环保部门应当加强对临时名录和名录内的拆解利用处置电子废物单位（包括个体工商户）的监督检查，监督性抽查和监测一年不得少于一次。要突出重点，加强对工业电子废物产生单位的管理，从源头遏制电子废物无序流动的局面。要开展专项执法活动，打击非法拆解处置利用电子废物的行为。要进一步依法强化对电子类危险废物的全过程监督管理。<br><br>    各级环保部门应当于每年3月31日前将本地区上一年度电子废物污染防治管理情况（包括临时名录和名录发布情况）报上一级环保部门。<br><br>    2008年，国家环保总局将组织对相关地区执行本《办法》的情况进行监督检查。<br><br>    附件：1.电子废物拆解利用处置单位名录公告样式<br><br>          2.电子废物拆解利用处置单位通知单样式<br><br>          3.电子废物拆解利用处置单位申请书样式<br><br>          4.有关条件的证明材料及其说明<br><br>          5.电子废物拆解利用处置单位名录管理工作程序<br><br>二○○八年二月一日<br><br><br>附件四：<br><br>有关条件的证明材料及其说明<br><br>    （一）关于已依法办理工商登记手续，取得营业执照的证明材料。如：工商营业执照。<br><br>    （二）关于环境保护设施已经环境保护行政主管部门竣工验收合格的证明材料。如：环保部门关于环境保护设施的竣工验收文件。<br><br>    （三）关于已经符合或者经过整改符合本办法规定的环境保护措施验收条件的证明材料。如：有关技术人员的资质资料；有关培训制度和计划及执行记录；电子废物经营情况记录簿制度及执行记录；日常环境监测制度及执行记录；不能完全拆解、利用或者处置的电子废物以及其他固体废物或者液态废物的妥善利用或者处置方案及执行记录；电子废物分类、包装、车辆以及其他收集设备的照片及其说明；防范因火灾、爆炸、化学品泄漏等引发的突发环境污染事件的应急机制及其执行记录。<br><br>    （四）关于能够达到电子废物拆解利用处置环境保护技术规范和管理要求的证明材料。如有关工艺和技术路线的设计文件，施工和监理记录；等。<br><br>    （五）污染物排放及所产生固体废物或者液态废物的利用或者处置符合环境保护设施竣工验收时的要求。如：现有设施最近一年内的环境监测报告；所产生固体废物或者液态废物的利用或者处置情况。<br><br>附件五：<br><br>电子废物拆解利用处置单位名录管理工作程序<br><br>    一、电子废物拆解利用处置单位临时名录管理<br><br>    （一）申请单位<br><br>    1、2008年2月1日后，即《电子废物污染环境防治管理办法》（以下简称“《办法》”）实施后新建、改建、扩建拆解、利用、处置电子废物项目建设单位（包括个体工商户）（以下简称“新企业”）。<br><br>    2、2008年2月1日前，即《办法》施行前已经从事拆解、利用、处置电子废物活动的单位（包括个体工商户）（以下简称“老企业”）。<br><br>    （二）受理单位<br><br>    申请单位所在地设区的市级以上地方人民政府环境保护行政主管部门（以下简称“市级以上环保部门”）。<br><br>    （三）申请材料<br><br>    申请单位应填写申请书（注明申请类别，即新企业申请环境保护措施验收或老企业申请列入临时名录（申请书样式见附件三），提交有关条件的证明材料（有关说明见附件四）。<br><br>    申请材料（包括申请书和证明材料）应格式规范，统一编制页码，可附电子文件；所有证明材料所附的复印件均应加盖申请单位公章，并注明与原件相符字样。<br><br>    （四）申请受理、材料审查和现场核查<br><br>    市级以上环保部门首先应对申请材料进行初步审查，对材料齐全、符合要求的予以受理。申请材料不齐全或者不符合要求的，不予受理。<br><br>    对新企业申请环境保护措施验收的，市级以上环保部门应自受理申请之日起，在《建设项目环境保护管理条例》规定的时限内，对申请单位进行环境保护措施验收。<br><br>    对老企业申请列入临时名录的，市级以上环保部门应自受理申请之日起，在本《办法》规定的时限内，对申请单位提交的申请材料进行审查，并对经营设施进行现场核查。<br><br>    要重点审查本《办法》所要求的有关人员、经营情况记录簿、环境监测、应急机制、废物处置、污染物排放等方面的内容。<br><br>    （五）临时名录管理<br><br>    市级以上环保部门应将符合条件的申请单位（包括个体工商户）列入拆解利用处置电子废物单位（包括个体工商户）临时名录，并向申请单位（包括个体工商户）签发有关列入电子废物拆解利用处置单位（包括个体工商户）临时名录的通知单（样式见附件二），并以公告形式向社会公布；对不符合条件的，书面通知申请单位并告知理由（样式见附件二）。<br><br>    二、电子废物拆解利用处置单位名录管理<br><br>    市级环保部门应根据监督抽查和监测情况定期审查电子废物拆解利用处置单位临时名录和名录。<br><br>    对列入电子废物拆解利用处置单位临时名录满三年，且符合本《办法》第七条所列条件的电子废物拆解利用处置单位（包括个体工商户），列入拆解利用处置电子废物单位名录，并签发有关列入电子废物拆解利用处置单位名录的通知单（样式附件二）。<br><br>    对列入电子废物拆解利用处置单位临时名录，但不符合本办法第七条所列条件的电子废物拆解利用处置单位（包括个体工商户），予以调整，不再保留于电子废物拆解利用处置单位临时名录中。<br><br>    对列入电子废物拆解利用处置单位名录，但不符合本办法第七条所列条件的电子废物拆解利用处置单位（包括个体工商户），予以调整，不再保留于电子废物拆解利用处置单位名录中。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2008〕309号<BR>&nbsp;&nbsp;【发布日期】2008-04-08<BR>&nbsp;&nbsp;【生效日期】2008-04-08<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7928415.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于应用评税技术核定房地产交易计税价格的意见<br> <br></font>(国税函〔2008〕309号)</p><br><br><br>江苏、浙江、重庆、青岛省（市）财政厅（局）、地方税务局，北京、辽宁、深圳省（市）地方税务局：<br>    2007年以来，各地按照税务总局房地产税收一体化管理和《国家税务总局关于个人转让房屋有关税收征管问题的通知》（国税发[2007]33号）的要求，针对一些地区房屋买卖双方通过订立虚假合同低报成交价格、不如实申报缴纳有关税收的问题，建立了房屋交易最低计税价格管理制度，加强了房屋交易计税价格管理。为深化房地产税收一体化管理工作，夯实交易环节税收征管基础，进一步提高计税价格管理水平，税务总局决定，先在北京、重庆、青岛、深圳、南京、杭州、丹东等城市开展应用评税技术核定计税价格工作，并提出以下工作意见：<br>    一、指导思想<br>    根据《中华人民共和国税收征收管理法》及《中华人民共和国契税暂行条例》的有关规定，对于房地产交易中纳税人申报的计税依据明显低于市场价格并且无正当理由的，参照市场价格核定计税价格，逐步将房地产评税技术应用到计税价格的核定工作中，增强核定工作的科学性和权威性，同时在实践中检验评税技术，推动相关税收改革。<br>    二、总体思路<br>    按照房地产评税原理，在测算房地产基准价格和价格影响因素修正系数的工作基础上，开发计税价格核定模块（以下简称“核定模块”），建立房地产交易计税价格核定应用功能，并将其应用到实际征管工作中核定计税价格，用核定结果与纳税人申报价格相比较，按照孰高原则确定计税价格，征收交易环节各项税收。在核定功能的应用过程中，通过定期评测核定效果，及时调整基准价格和价格影响因素修正系数，调整完善核定模块。同时，以公平、简便、有效化解征纳矛盾为原则，在现行税收法律法规框架下，制定适合本地情况的争议处理办法。<br>    三、工作内容<br>    （一）建立房地产交易计税价格核定应用功能<br>    开展此项工作的城市，应根据本地情况选择核定模块的建立方式。首先应考虑利用现有的系统资源：可移植使用现有评税系统中的模块，也可以根据评税原理，完善现有契税征管系统中的相应模块。不具备利用现有系统资源条件的，应根据评税原理重新设计核定模块，核定模块的模型与评税系统的模型间应存在对应关系。<br>    1.移植使用现有评税系统中的模块<br>    已开发评税系统的城市，可直接将评税系统中的评税模块移植应用到征管系统作为核定模块；或者以评税系统为基础，修改相关参数，简化数学模型，形成新的核定模块。<br>    2.根据评税原理，完善现有契税征管系统中的模块<br>    在契税征管系统中已开发应用核定模块的城市，应根据评税原理完善核定模块。<br>    3.以上条件均不具备的城市，可根据评税原理，重新设计核定模块。具体步骤为：<br>    （1）抽样采集数据信息<br>    采集覆盖本地各个区域的房地产数据信息，数据来源包括：从国土、房管等部门取得信息、在税收征管中取得信息、从房地产中介机构取得信息等。采集大批量房地产信息存在困难的，可分区域抽样取得信息。<br>    （2）测算基准价格和价格影响因素修正系数<br>    根据采集数据中的房地产价格构成情况，应用市场比较法原理，将数据分片区、分类别进行整理，测算分片区、分类别房地产基准价格及价格影响因素修正系数。<br>    （3）开发核定模块<br>    以方便征管为原则，按照税务总局规定的有关数据存储、传输标准，应用评税原理开发设计核定模块。<br>    （二）运行、完善房地产交易计税价格核定应用功能<br>    1.试运行核定应用功能<br>    选择部分交易环节税收征收窗口进行核定应用功能的试运行工作，用核定模块核定的价格作为参考计税价格，征收交易环节各项税收。<br>    2.测评核定效果<br>    （1）设置检测指标。选择能够对核定模块的核定结果进行量化评价和分析的检测指标，如：纳税人对于核定结果的投诉量，核定结果与市场交易价格的偏离值等。<br>    （2）采集标准数据。采集房地产成交案例作为检测的标准数据，各地可以根据本地情况确定数据采集量，但每个片区的标准数据一般应不少于5例。标准数据可来源于：房地产市场一手房价格，中介机构提供的二手房成交价格，房地产交易信息网发布的一手、二手房交易价格信息等。<br>    （3）检测核定结果。根据征管人员的反馈意见、纳税人对于核定结果的投诉量及个案的调整数量，确定核定模块的适用性；根据核定结果与市场价格水平的偏离程度，确定基准价格及价格影响因素修正系数设置的合理性。具体检测标准暂由各地根据市场状况和征管实际情况确定。<br>    3.调整完善核定应用功能<br>    根据核定应用功能试运行中发现的问题，适时调整基准价格及价格影响因素修正系数，并对核定模块中的数学模型进行调整。<br>    （三）制定计税价格争议解决机制<br>    按照公平、简便、有效化解征纳矛盾的原则，在现行税收法律法规框架下，制定适合本地情况的争议处理办法，建立争议解决机制：<br>    1.履行事前告知程序。在纳税人申报前，应向纳税人告知虚假申报所需承担的法律责任及相应处罚标准。<br>    2.纳税人对核定价格持有异议的，各地根据本地情况探索解决方式，如可采取：由征收机关指定具有公信力及资质等级的评估机构进行评估，参考评估结果，确定计税价格；由征收机关成立争议处理小组，派人员（两人以上）实地勘察房产情况，根据查看情况参照计算机核定价格，酌情确定计税价格；从银行等相关部门获取房产交易的资金往来记录作为计税依据等方式。<br>    （四）正式运行核定应用功能<br>    核定应用功能的各项检测指标达到标准后，在各交易环节税收征收窗口正式应用核定功能进行计税价格的核定工作。用核定价格与纳税人申报价格进行比较，按照孰高原则，取较大值为计税价格，征收交易环节各项税收。根据核定应用功能实际运行中出现的问题，定期调整核定模块的数学模型。<br>    设有评税部门的，征管部门应将核定应用功能的运行及调整情况，定期向评税部门反馈，提出调整完善评税系统的建议，以便及时研究评税系统模型的调整方案。（工作流程图见附件1）<br>    四、工作要求<br>    （一）加强组织领导，制定工作方案。开展此项工作的各城市要高度重视此项工作，加强组织领导，配备专门人员，明确工作责任，保障工作的顺利实施。要尽快制定本地具体的工作方案，明确工作范围、工作内容、工作步骤、工作进度安排、工作流程、人员组织和经费预算等。<br>    （二）加强部门配合，广泛采集信息。开展此项工作城市的财政、税务征收部门之间应加强工作沟通，协调好与国土、房管、建设等部门的关系，既要取得相关部门工作上的支持配合，又要主动工作。要广泛收集房地产信息，一方面，建立从国土、房管以及中介机构等部门取得信息的固定信息渠道；另一方面，在税收征管中积累信息，为核定模块提供数据支持。<br>    （三）做好内部协调，建立沟通机制。设有评税部门的，税收征管部门和评税部门要建立信息沟通机制。对于征管中出现的价格评估问题，评税部门应提供评税技术支持；对于核定模块的调整修正情况，税收征管部门要向评税部门及时反馈。<br>    （四）及时总结经验，定期报告情况。自2008年7月1日起，开展此项工作的各城市每季度初10日前要向总局书面报告工作进展情况。首次报告材料中应附送本地区工作方案。（报告内容提纲见附件2）<br>    附件：1.应用评税技术核定房地产交易计税价格工作流程图（略）<br>    2.关于应用评税技术核定房地产交易计税价格工作情况的报告提纲（略）<br><br>                                                    国家税务总局<br>                                                  二○○八年四月八日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】交通运输部<BR>&nbsp;&nbsp;【发布文号】交公路明电发（2008）0512号<BR>&nbsp;&nbsp;【发布日期】2008-05-12<BR>&nbsp;&nbsp;【生效日期】2008-05-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moc.gov.cn/zhuzhan/zhengwugonggao/jiaotongbu/daoluyunshu/200805/t20080513_486109.html" target=_blank>交通运输部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>交通运输部关于紧急应对并做好四川汶川地震抗灾救灾工作的紧急通知<br><br></font>(交公路明电发（2008）0512号)</p><br> <br>  <br>各省、自治区、直辖市交通厅（局、委），上海市市政工程管理局，天津市市政公路管理局：<br>    2008年5月12日14时28分，四川省汶川县发生7.8级强烈地震。地震发生后，胡锦涛总书记立即作出重要指示，要求尽快抢救伤员，保证灾区人民生命安全。温家宝总理已经赶赴灾区指导救灾工作。国家地震局启动了一级预案。为尽快抢通受损公路基础设施，做好灾区抗灾救灾工作，保障人民群众平安出行以及生活必需品的正常运输，交通运输部党组研究决定启动国家公路交通运输突发事件应急一级预案，现就有关事宜紧急通知如下：<br>    一、这次地震波及多个省份，涉及面广，对公路交通影响大，各级交通主管部门要认真贯彻学习锦涛总书记的重要指示和家宝总理重要讲话精神，充分认识公路交通运输在抗震抢险救灾工作中的极端重要性，要在党中央、国务院的领导下，把保护人民生命安全放在第一位，高度重视，精心组织，迅速组织力量赶赴灾区，全力保障交通运输畅通，保证救灾物资运输，帮助灾区做好抗震抢险救灾各项工作，战胜这场突然发生的特大地震灾害。特别是四川等灾区的交通主管部门，要在当地人民政府的统一领导和部署下，集中力量，调配本辖区内的公路工程机械，全力抢通受损的公路基础设施，特别是抢修受损的桥梁等重要设施，为抗灾救灾以及人员救援和物资运输等工作提供交通保障。<br>    二、灾区各级交通主管部门要立即启动应急响应，成立由主管领导牵头的专门工作班子，明确专人负责，严格执行24小时值班制度，值班人员要坚守岗位。各级领导干部要深入一线，率先垂范，带领广大交通干部职工做好抗震抢险救灾工作。各级公路机构要立即组织技术人员，加强对灾区以及通往灾区公路的巡查，尽快摸清公路交通的损毁情况。重点做好震区桥梁安全隐患的排查工作，加强对桥梁隧道等重要交通设施安全运行的监测，必要时配合公安部门实行限载、限量通行，以确保安全。同时加强航电枢纽受损情况的检查检测以及航道、港口运行监测和抢通维护，保障重点物资运输。受灾地区的航电枢纽应先停止运行，不得带病运行。在抗震抢险救灾期间，各地要加强对本地区公路网运行的监控和调度，及时了解公路抢通及交通通阻等有关情况，并于每天16：30前报部值班室，重大情况随时报告。<br>    三、灾区邻近省份的交通主管部门要树立大局意识，围绕抗震抢险救灾，全力开展相关支援工作。一是要全力确保通往灾区公路的畅通，优先保证抗震抢险救灾人员和物资的运输；二是要及时调集应急运力，在当地政府的统一部署下，做好救灾物资的运输组织工作；三是对灾区邻近省份的战备钢架桥，各相关交通主管部门要随时做好紧急调集运往灾区的准备。<br>    四、抗震抢险救灾期间，各省级交通主管部门和公路管理机构、高速公路经营管理单位要进一步做好公路出行信息服务工作，充分利用电视、广播、移动通信等媒体和公路沿线可变信息板，及时发布灾区及通往灾区的公路路况信息，引导社会公众及时调整出行路线，保证良好的公路交通秩序。此外，各路段的交通通阻信息还应及时通过部公路出行信息服务网更新发布。<br>    部联系人：燕科、吴春耕<br>    联系电话：010-65292772，65292752，65292222（传真）<br><br>二○○八年五月十二日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

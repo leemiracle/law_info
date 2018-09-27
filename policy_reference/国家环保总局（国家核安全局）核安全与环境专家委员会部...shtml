@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安函〔2008〕5号<BR>&nbsp;&nbsp;【发布日期】2008-01-25<BR>&nbsp;&nbsp;【生效日期】2008-01-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/haqwj/200802/t20080202_117950.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环保总局（国家核安全局）核安全与环境专家委员会部分委员会议纪要<br> <br></font>(国核安函〔2008〕5号)</p><br><br><br>核电秦山联营有限公司：<br>    <br>     2007年12月13日至14日，我局在北京组织召开了国家环保总局（国家核安全局）核安全与环境专家委员会部分委员会议，对秦山第二核电厂一、二号机组运行许可证申请和一号机组核辅助管道焊缝缺陷问题的审评结论进行了审议咨询。现将会议纪要印发你单位，请按要求做好相关工作。<br><br>    附件：国家环保总局（国家核安全局）核安全与环境专家委员会部分委员会议纪要<br><br>    二○○八年一月二十五日<br><br>    <br>    附件：<br><br>    国家环保总局（国家核安全局）核安全与环境专家委员会部分委员会议纪要<br>    <br>    2007年12月14日<br><br>    国家环保总局（国家核安全局）核安全与环境专家委员会部分委员会议于2007年12月13日至14日在北京召开，审议国家核安全局对秦山第二核电厂一、二号机组运行许可证申请、一号机组核辅助管道焊缝缺陷问题的审评和监督工作。<br>    <br>    专家委员会26位委员出席了会议（名单见附一）。参加本次会议的有来自国防科学技术工业委员会、浙江省环保局、中国核工业集团公司、国家环保总局上海核与辐射安全监督站、国家环保总局核与辐射安全中心、浙江省辐射环境监测站、机械科学研究总院核设备安全与可靠性中心、苏州核安全中心、核电秦山联营有限公司（以下简称联营公司）的代表，国家环保总局（国家核安全局）的有关人员出席了会议（名单见附二）。<br>    <br>    委员们听取了国家核安全局、国家环保总局核与辐射安全中心，核电秦山联营有限公司就上述两个议题的报告。<br>    <br>    委员们一致认为，国家核安全局及联营公司高度重视秦山第二核电厂一、二号机组运行许可证申请和一号机组核辅助系统管道焊缝缺陷问题的审评工作，投入了大量人力、物力，处理问题思路清晰、方法适当，意见明确，取得了显著成效。<br>    <br>    委员们就具体问题进行了认真讨论，并提出如下意见：<br>    <br>    一、秦山第二核电厂一、二号机组运行许可证申请的审评<br>    <br>    1．同意国家核安全局的审评意见，认为秦山第二核电厂一、二号机组已基本满足取得运行许可证所需的要求。<br>    <br>    2．同意国家核安全局的审评意见，认为将0.1作为高能管道假想破口位置的疲劳利用因子准则限值，以进一步审核原计算报告是必要的。<br>    <br>    3．联营公司应尽快向国家核安全局提交现实、合理、可行的主给水隔离工程方案供审查。在主给水可靠隔离方案实施之前，应进一步完善相应的措施，包括事故规程。<br>    <br>    4．国家核安全局针对秦山第二核电厂的泥沙淤积影响安全厂用水系统问题所提出的核安全监管要求是合适的，联营公司目前所采取防止泥沙淤积的措施是有效的。建议在进一步完善SEC泵的检查措施和加强监督的前提下，关闭该问题。<br>    <br>    5．同意国家核安全局对二号压力容器进出水接管安全端焊接接头问题的审评意见，认为根据第三次在役检查结果再确定后续在役检查的频度是合适的。<br>    <br>    二、秦山第二核电厂一号机组核辅助系统管道焊缝缺陷问题<br>    <br>    1．同意国家核安全局的审评意见，认为联营公司提交的秦山第二核电厂一号机组核辅助系统管道焊缝缺陷的处理方案和措施是合适的。<br>    <br>    2．针对一号机组核辅助管道焊缝缺陷疲劳及断裂力学评价，联营公司采用ASME XI有关标准是适当的。<br>    <br>    3．联营公司所采用的断裂力学裂纹假设模型，及所确定的预防性维修范围的保守性是适宜的。<br>    <br>    4．建议联营公司应在今后的工作中，采取有效措施，加强对核辅助管道焊缝的监督和检查；在机组运行中针对这一缺陷所反映出的问题，总结经验，吸取教训，提高核安全文化；同时注意国内、国际经验反馈，加强老化管理，不断完善缺陷的检查和评价手段，确保机组运行安全。<br>    <br>    此外，考虑到秦山基地核电的发展，委员们建议有关主管部门关注基地流出物排放（含温排水问题）控制的优化。<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

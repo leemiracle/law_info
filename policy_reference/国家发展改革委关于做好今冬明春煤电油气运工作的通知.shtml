@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改运行[2006]2942号<BR>&nbsp;&nbsp;【发布日期】2006-12-28<BR>&nbsp;&nbsp;【生效日期】2006-12-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/tz2006/t20070108_109360.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于做好今冬明春煤电油气运工作的通知<br><br></font>(发改运行[2006]2942号)</p><br><br><br>各省（区、市）经委（经贸委、工业办），北京、河北、河南、海南、西藏发展改革委（厅），铁道部、交通部、安监总局，煤炭工业协会、神华集团、中煤能源集团公司、中国华能集团公司、中国大唐集团公司、中国华电集团公司、中国国电集团公司、中国电力投资集团公司、国家电网公司、南方电网公司、中石化集团、中石油集团、海洋石油总公司：<br>    2007年元旦、春节将至，为深入贯彻中央经济工作会议精神，切实做好今冬明春煤电油气运生产供应工作，保障全国人民欢度节日和经济平稳运行，现将有关事项通知如下：<br>    一、加强统筹协调，及时解决运行中出现的问题<br>    各地经济运行部门要充分发挥运行协调机制的作用，根据本地区的实际情况和特点，加强对煤炭、电力、石油、天然气等供需情况的监测，及时掌握运行动态，注意苗头性、倾向性问题，会同铁路、交通等部门，采取切实措施，做好企业之间的互相衔接，及时解决煤电油气和运输工作中出现的重大问题，并按规定上报。同时，积极探索和完善适应市场经济的运行调节方式，保证有效供给，保障经济社会平稳发展。<br>    二、切实做好煤炭生产、运输协调，切实保证供应<br>    各产煤省（区、市）要引导煤炭企业以市场需求为导向，严格按核定能力组织生产，认真贯彻国家关于进一步做好煤矿整顿关闭工作的统一部署，严防非法和列入整顿关闭范围的煤矿擅自开工生产。煤炭企业要严格按照合同数量和质量组织供应，提高兑现率，切实保证居民采暖和发电用煤的供应。铁路、交通运输部门要加强与供需企业的沟通，做好运输安排和落实，在春运前后，对库存偏低的地区和企业，集中抢运煤炭。发电集团公司要督促所属电厂积极采购煤炭，主动与煤矿落实资源，尽可能增加库存。各地要加大煤炭经营监管力度，坚决打击非法经营、掺杂使假等行为，维护消费者合法权益。<br>    三、全力保障电力供应，做好电力需求侧管理工作<br>    认真落实我委《关于做好今冬明春电力运行工作的通知》（发改运行[2006]2014号文件）的部署。各地要认真做好电力电量平衡工作，确保节日期间医院、交通设施、人民群众生活等的用电。电力企业要统筹安排设备的运行和检修，加大余缺调剂力度，努力保障电网安全、平稳运行。供电企业要提高服务水平和质量，完善服务措施。各地要进一步加强电力需求侧管理，制定和完善好有序用电方案，必要时按照有保有限原则，合理引导避峰、错峰，统筹安排好电力供应，确保重点单位、重点企业的用电。<br>    四、努力增加石油天然气有效供给，引导合理需求<br>    各石油、天然气生产企业要通过各种经济、技术措施，努力提高原油、成品油、天然气产量，减少柴油出口。要根据采暖季石油、天然气需求特点，调整产品结构，增加资源供给，满足市场需求。各地要科学合理地引导用气需求，优先确保居民生活用气，力求解决公交及公共事业用气，其他用户根据轻重缓急排出序位表，并努力做好与油气生产企业的资源衔接，保障市场供应。<br>    五、认真做好春运期间客货运输，保障三峡船闸安全畅通<br>    各地政府和有关运输部门要高度重视春运工作，按照“以人为本，安全有序，方便快捷”的原则，组织运力，优先满足旅客运输。同时加强综合协调，保证经济运行和市场供应平稳有序，兼顾煤炭、石油、化肥、粮食等市场重点物资运输，在春运期间，有关企业要对生产原材料采取提前运输、储存的措施，避免出现断料停产。<br>    交通运输部门要努力保障三峡船闸安全畅通，加强对船闸的日常维护和江面巡逻指挥，保证船闸正常运行和船舶有序过闸。<br>    六、努力实现煤电油气生产和运输安全，完善应急机制<br>    冬春季节是容易发生安全生产事故的时期，工交生产及供应中的许多环节，都存在着容易发生事故的隐患，而且事故一旦发生，常常损失重大，波及面广，社会影响恶劣。各地区、各部门及企业在组织煤炭、电力、石油、天然气生产供应和运输工作时，要坚决贯彻落实党中央、国务院关于安全生产的指示精神，牢固树立“安全第一，预防为主”的方针。各安全责任主体要不断完善安全规章制度，落实各项安全责任，坚持行之有效的安全措施，把安全工作抓紧、抓实、抓细、抓好。<br>    各地要加强应急体系建设，编制和完善应急预案，应急预案完成后还要通过不断演习加以完善和检验。<br><br> <br><br>中华人民共和国国家发展和改革委员会<br>二○○六年十二月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

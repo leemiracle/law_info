@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院办公厅<BR>&nbsp;&nbsp;【发布文号】国办发〔2006〕90号<BR>&nbsp;&nbsp;【发布日期】2006-11-23<BR>&nbsp;&nbsp;【生效日期】2006-11-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gov.cn/zwgk/2006-12/01/content_459533.htm" target=_blank>中国政府网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院办公厅转发发展改革委等部门关于加强中小企业信用担保体系建设意见的通知<br><br></font>(国办发〔2006〕90号)</p><br><br><br>各省、自治区、直辖市人民政府，国务院各部委、各直属机构：<br><br>    发展改革委、财政部、人民银行、税务总局、银监会《关于加强中小企业信用担保体系建设的意见》已经国务院同意，现转发给你们，请认真贯彻执行。<br><br>                                                       国务院办公厅<br>                                                 二○○六年十一月二十三日<br> <br><br>关于加强中小企业信用担保体系建设的意见<br>发展改革委  财政部  人民银行<br>税务总局  银监会<br><br>    近年来，主要以中小企业为服务对象的中小企业信用担保机构快速发展，担保资金不断增加，业务水平和运行质量稳步提高，服务领域进一步拓展，为解决中小企业融资难和担保难等问题发挥了重要作用。但也要看到，目前中小企业信用担保体系建设还存在许多问题，主要是担保机构总体规模较小，实力较弱，抵御风险能力不强，行业管理不完善等，亟须采取有效措施加以解决。根据《中华人民共和国中小企业促进法》和《国务院关于鼓励支持和引导个体私营等非公有制经济发展的若干意见》（国发〔2005〕3号）的要求，为促进中小企业信用担保机构持续健康发展，现提出如下意见：<br>    一、建立健全担保机构的风险补偿机制<br>    （一）切实落实《中华人民共和国中小企业促进法》有关规定，在国家用于促进中小企业发展的各种专项资金（基金）中，安排部分资金用于支持中小企业信用担保体系建设。各地区也要结合实际，积极筹措资金，加大对中小企业信用担保体系建设的支持力度。<br>    （二）鼓励中小企业信用担保机构出资人增加资本金投入。对于由政府出资设立，经济效益和社会效益显著的担保机构，各地区要视财力逐步建立合理的资本金补充和扩充机制，采取多种形式增强担保机构的资本实力，提高其风险防范能力。<br>    （三）各地区、各部门要积极创造条件，采取多种措施，组织和推进中小企业信用担保体系建设，引导担保机构充分发挥服务职能，根据有关法律法规和政策，积极为有市场、有效益、信用好的中小企业开展担保业务，切实缓解中小企业融资难、担保难等问题。<br>    （四）为提高中小企业信用担保机构抵御风险的能力，各地区可根据实际，逐步建立主要针对从事中小企业贷款担保的担保机构的损失补偿机制。鼓励有条件的地区建立中小企业信用担保基金和区域性再担保机构，以参股、委托运作和提供风险补偿等方式支持担保机构的设立与发展，完善中小企业信用担保体系的增信、风险补偿机制。<br>    二、完善担保机构税收优惠等支持政策<br>    （五）继续执行《国务院办公厅转发国家经贸委关于鼓励和促进中小企业发展若干政策意见的通知》（国办发〔2000〕59号）中规定的对符合条件的中小企业信用担保机构免征三年营业税的税收优惠政策。同时，进一步研究完善促进担保机构发展的其他税收政策。<br>    （六）开展贷款担保业务的担保机构，按照不超过当年年末责任余额1%的比例以及税后利润的一定比例提取风险准备金。风险准备金累计达到其注册资本金30%以上的，超出部分可转增资本金。担保机构实际发生的代偿损失，可按照规定在企业所得税税前扣除。<br>    （七）为促进担保机构的可持续发展，对主要从事中小企业贷款担保的担保机构，担保费率实行与其运营风险成本挂钩的办法。基准担保费率可按银行同期贷款利率的50%执行，具体担保费率可依项目风险程度在基准费率基础上上下浮动30%-50%，也可经担保机构监管部门同意后由担保双方自主商定。<br>    三、推进担保机构与金融机构的互利合作<br>    （八）按照平等、自愿、公平及等价有偿、诚实信用的原则，鼓励、支持金融机构与担保机构加强互利合作。鼓励金融机构和担保机构根据双方的风险控制能力合理确定担保放大倍数，发挥各自优势，加强沟通协作，防范和化解中小企业信贷融资风险，促进中小企业信贷融资业务健康发展。<br>    （九）金融机构要针对中小企业的特点，创新与担保机构的合作方式，拓展合作领域，积极开展金融产品创新，推出更多适合中小企业多样化融资需求的金融产品和服务项目。政策性银行可依托中小商业银行和担保机构，开展以中小企业为主要服务对象的转贷款、担保贷款业务。<br>    （十）金融机构要在控制风险的前提下，合理下放对小企业贷款的审批权限，简化审贷程序，提高贷款审批效率。对运作规范、信用良好、资本实力和风险控制能力较强的担保机构承保的优质项目，可按人民银行利率管理规定适当下浮贷款利率。<br>    四、切实为担保机构开展业务创造有利条件<br>    （十一）担保机构开展担保业务中涉及工商、房产、土地、车辆、船舶、设备和其他动产、股权、商标专用权、专利权等抵押物登记和出质登记，凡符合要求的，登记部门要按照《中华人民共和国担保法》的规定为其办理相关登记手续。担保机构可以查询、抄录或复印与担保合同和客户有关的登记资料，登记部门要提供便利。<br>    （十二）登记部门要简化程序、提高效率，积极推进抵押物登记、出质登记的标准化和电子化，提高服务水平，降低登记成本。同时，担保机构办理代偿、清偿、过户等手续的费用，要按国家有关规定予以减免。在办理有关登记手续过程中，有关部门不得指定评估机构对抵押物（质物）进行强制性评估，不得干预担保机构正常开展业务。<br>    （十三）各部门和有关方面按照规定可向社会公开的企业信用信息，应向担保机构开放，支持担保机构开展与担保业务有关的信息查询。有条件的地方要建立互联互通机制，实现可公开企业信用信息与担保业务信息的互联互通和资源共享。<br>    五、加强对担保机构的指导和服务<br>    （十四）全国中小企业信用担保体系建设工作由发展改革委牵头，财政部、人民银行、税务总局、银监会参加，各部门要密切配合，加强沟通与协调，及时研究解决工作中的重大问题。地方各级人民政府要加强领导，提高认识，高度重视中小企业信用担保体系建设工作，将其纳入中小企业成长工程，积极采取措施予以推进。<br>    （十五）加强对担保机构经营的指导。各地区要指导和督促担保机构加强内部管理，规范经营行为，完善各种规章制度，努力提高经营水平和防控风险能力。要建立健全担保机构的信用评级制度，督促担保机构到有资质的评级机构进行信用评级，并将信用等级向社会公布。根据实际情况对担保机构实行备案管理，全面掌握担保机构经营状况，及时跟踪指导。<br>    （十六）积极为担保机构做好服务工作。各地区要组织开展面向中小企业信用担保机构的信息咨询、经验交流、业务培训、行业统计、权益保护、行业自律及对外交流等工作，切实推进担保机构自身建设和文化建设，促进担保机构持续健康发展。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

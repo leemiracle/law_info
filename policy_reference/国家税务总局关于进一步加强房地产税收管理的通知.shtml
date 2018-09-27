@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]82号<BR>&nbsp;&nbsp;【发布日期】2005-05-18<BR>&nbsp;&nbsp;【生效日期】2005-05-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200505251212086686" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于进一步加强房地产税收管理的通知<br><br></font>(国税发[2005]82号)</p><br><br><br>各省、自治区、直辖市和计划单列市财政厅（局）、国家税务局、地方税务局，扬州税务进修学院，局内各单位：?<br><br>    随着我国房地产业的快速发展，房地产税收收入大幅增长，已成为我国财政收入的重要来源，房地产税收的宏观调控作用日益重要。但是房地产税收涉及的税种多，征管的难度大，税源控管存在较多漏洞。为了提高房地产税收管理的科学化、精细化水平，进一步发挥税收的调控职能，促进房地产业的健康发展，有必要在现行管理体制下落实各项管理要求的同时，通过整合现有征管资源，实现信息共享，加强部门协调配合，搞好各征管环节连接，进一步加强房地产税收管理，即实施一体化管理。现将有关事项及要求通知如下：?<br><br>    一、房地产税收一体化管理的总体目标和要求。以契税管理先缴纳税款，后办理产权证书（简称“先税后证”）为把手，以信息共享、数据比对为依托，以优化服务、方便纳税人为宗旨，通过部门配合、环节控制，实现房地产业诸税种间的有机衔接，不断提高征管质量和效率。?<br><br>    目前，在土地使用权的出让和房地产开发、转让、保有诸环节分别征收营业税及城市维护建设税和教育费附加（以下简称营业税及附加）、企业所得税、外商投资企业和外国企业所得税、个人所得税（以下统称所得税）、土地增值税、城镇土地使用税、房产税、城市房地产税、印花税、耕地占用税、契税等税种。虽然各税种的纳税人、计税依据等税制要素不尽相同，但是税收征管所依据的基础信息大致相同。各级税务机关和征收契税的财政机关（以下统称征收机关），要加强申报管理，积极争取房地产管理等部门的配合与支持，充分掌握各税种征管所依据的基础信息；要加强征收机关之间的沟通协调，准确、快捷地传递信息，逐步实现各管理部门之间、各税种之间的信息共享，提高税源监控水平；同时要简化办税程序，优化纳税服务，方便纳税人。 ?<br><br>    二、以契税征管为把手，全面掌控税源信息。契税征收机关要会同房地产管理部门，严格执行“先税后证”的有关规定，把住房地产税收税源控管的关键环节，全面掌握、及时传递有关信息。?<br><br>    （一）规范契税申报管理。纳税人申报缴纳契税时，要填报总局统一制定的契税纳税申报表（另文下发），并附送购房发票、房地产转让合同和有效身份证件复印件等。征收机关要对纳税申报表及有关附件资料的完整性、准确性进行审核。审核无误后，办理征缴手续，开具统一的契税完税证明。?<br><br>   （二）契税征收机关要及时整理、归集房地产交易的有关信息。包括：转让方、中介方和承受方的名称、识别号码，房地产的转让价格、转让时间、面积、位置等信息。?<br><br>   （三）要建立信息传递机制，实现信息互通共享。征收契税的税务部门或岗位要将土地使用权承受方及其承受土地使用权的交易信息，及时传递给管理房地产开发环节有关税收的税务部门或岗位；要将房地产转让方及其房地产交易信息，及时传递给管理房地产转让环节有关税收的税务部门或岗位；要将房地产承受方及其承受房地产的有关交易信息，及时传递给管理房地产保有环节有关税收的税务部门或岗位。征收契税的财政部门要将获取的房地产交易信息集中传递给税务机关，税务机关再分解传递给有关税种的主管部门或岗位。同时，各税种主管税务机关或部门也要将实施有关税收管理过程中获取的房地产权属转移信息，及时传递给契税征收机关。?<br><br>   （四）各地可根据信息化水平、信息量大小、信息存储方式等情况确定适当的信息传递方式。有条件的地区应通过网络或软盘等电子介质传递信息；暂不具备条件的，也可用纸质的形式传递信息。?<br><br>    三、充分利用契税征管信息，加强房地产各环节的税收管理。主管税务机关要严格执行总局关于加强有关税种税收管理的各项规定，充分利用契税征管中获取的有关信息，明确责任人，跟踪掌握有关房地产税收的税源情况，提高管理质量和效率。?<br><br>   （一）要利用土地使用权交易信息，及时掌握承受土地使用权的单位或个人名称、土地坐落位置、价格、用途、面积等信息，了解或控制城镇土地使用税、耕地占用税税源，加强城镇土地使用税的征收管理；对占用耕地进行开发建设的，及时征收耕地占用税。?<br><br>   （二）要跟踪了解土地利用规划、计划投资、施工单位、出包合同或协议以及建设施工进度等情况，掌握从事建设施工、装饰装修的单位或个人应缴纳的营业税及附加、所得税、印花税等税种的税源情况，加强房地产开发建设过程中有关税收的征收管理。?<br><br>   （三）要跟踪了解并掌握房地产开发商发生的房地产开发成本、费用、商品房预售和实际销售、收款方式、收款时间等情况，并利用契税征管中获取的房地产开发商销售商品房的信息，对房地产开发企业缴税情况，进行纳税评估，发现问题，及时采取有效措施解决，加强房地产开发企业有关税收的税收管理。?<br><br>   （四）要利用契税征管中获取的房地产交易信息，掌握单位、个人在房地产二级市场转让房地产的有关税源信息，将转让方名称、识别号码，转让房地产的坐落地点、面积、价格与有关纳税申报资料进行比对分析。发现漏缴税款的，及时进行追缴，切实加强在房地产二级交易市场转让房地产的有关税收的管理。?<br><br>   （五）要采取多种方式跟踪了解承受方承受的房产的装饰装修情况，对承受的新建商品房还要跟踪了解物业管理情况，及时掌握有关税源，采取有效措施加强对实施装饰装修施工和物业管理的单位或个人应纳税收的征收管理。?<br><br>   （六）要利用房地产转让信息，掌握城镇土地使用税、房产税、城市房地产税税源变化情况，将承受方名称、识别号码，房地产的转让价格、类别等信息，与纳税人的纳税申报资料进行比对，对未申报或未如实申报的单位和个人，应及时进行催报催缴。要将契税征收中获取的房地产信息资料，作为长期的税源资料及时归入税源管理档案。?<br><br>   （七）要综合利用有关信息资料，加强对房地产出租应缴纳的营业税及附加、所得税、城镇土地使用税、房产税等税种的管理。对个人出租房屋的，应充分利用社会力量加强管理，如委托街道、居民委员会、流动人员管理机构等组织代征有关税收，并按规定付给手续费。实行委托代征的，税务机关对代征单位要加强业务指导，定期检查了解代征情况，及时研究代征工作中遇到的问题。?<br><br>    四、简化办税程序，方便纳税人。各地征收机关应根据实际情况，采取有效措施，简化办税程序，优化纳税服务，方便纳税人缴纳有关税收。对转让或承受房地产应缴纳的税收，如营业税及附加、个人所得税、土地增值税、印花税等，凡可在一个窗口一并征收的，可在交易双方办理产权过户或缴纳契税时一并征收。为了方便纳税人，及时掌握二手房交易价格情况，可在契税征收场所或房地产权属登记场所代开财产转让销售发票。?<br><br>    有条件的地方，要争取在办理房地产权属登记的场所开设房地产税收征收窗口，争取将金融机构引入征收场所，以节省纳税人的纳税时间和纳税成本。?<br><br>    五、逐步建立房地产税源信息数据库，通过信息比对堵塞税收漏洞。各地要利用税务机关现有的设备和资源，以当前契税征管中积累的信息为基础，对从房地产管理部门以及纳税申报过程中取得的信息进行整合归集，根据各地实际以省（市、区）或地区（市）或县（区、市）为单位逐步建立房地产税源信息数据库，充实、完善房地产企业户籍资料和其他纳税人户籍资料，做到数据集中，信息共享，方便查询，比对分析，促进管理。?<br><br>    各地要创造条件逐步实现利用计算机将税源数据库的信息，与纳税申报、税款入库情况进行多角度、多层次的比对，开展有关房地产税收的纳税评估，分析筛选存在的疑点，并及时组织调查核实。发现漏征漏管的，要采取相应措施进行处理。?<br><br>    六、加强领导，狠抓落实。实施房地产税收一体化管理，是整合管理资源、创新管理方式的重要举措，也是一项复杂的系统工程。各级征收机关要统一思想，提高认识，加强领导，广泛宣传，狠抓落实。要紧紧抓住契税征管这一关键环节，充实契税征管力量，加强人员培训，改善征管条件。要注重部门间的协调配合，广泛收集、有效利用涉税信息。各地要按照总局的工作要求，结合本地情况，总体设计，分步实施，由点到面，扎实推进，全面提升房地产税收管理水平。?<br><br>    七、本通知从2005年7月1日起实行。各地要将贯彻落实意见及时抄报总局。总局将选择部分省市跟踪了解本通知的贯彻落实情况。<br><br><br>国家税务总局    <br>二○○五年五月十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2003〕25号<BR>&nbsp;&nbsp;【发布日期】2003-07-16<BR>&nbsp;&nbsp;【生效日期】2003-07-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_7680/18960.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于加强银行代理人身保险业务管理的通知<br><br></font>(保监发〔2003〕25号)</p><br><br><br>各保监办，人民银行各分行、营业管理部、分行监管办、省会（首府）城市中心支行，各保险公司，各商业银行，邮政储汇局：<br><br>    近两年以来，各保险公司与商业银行（含邮政储汇部门、合作金融机构，下同）加强合作，由银行代理销售人身保险产品的业务（以下简称“银行代理人身保险业务”）得到了迅速发展。但在银行代理人身保险业务过程中，存在较为突出的误导问题，如不及时解决，将损害消费者的正当权益，严重影响银行代理人身保险业务的正常发展，危及银行和保险企业的信用，形成金融风险。为促进银行代理人身保险业务长期健康发展，经研究，决定加强对银行代理人身保险业务的管理。现将有关要求通知如下：<br><br>    一、各保险公司和商业银行应当充分认识加强银行代理人身保险业务管理的必要性和重要性，针对银行代理人身保险业务建立健全相应的内控制度并严格落实。<br><br>    二、各保险公司应在代理业务中加强与商业银行的信息沟通、合作，制订并落实相应的业务和财务管理、客户回访、售后服务等制度。<br><br>    三、各保险公司和商业银行应当切实加强银行代理人身保险产品的宣传和信息披露管理。银行代理人身保险产品的宣传和信息披露材料（以下简称宣传材料）由保险公司总公司按中国保监会的有关规定统一负责管理，其形式和内容不得违反中国保监会的有关规定。从事银行代理人身保险业务的商业银行总行和分支行要设立（或指定）部门或专人管理银行代理人身保险业务。保险公司、商业银行分支机构或其工作人员不得擅自印制宣传材料或变更其内容。<br><br>    四、各保险公司总公司负责确保宣传材料的合规性、客观性和真实性。保险监管部门在检查中若发现有违规宣传材料，将要求保险公司登报予以更正，并暂缓批准销售新的银行代理人身保险产品，追究有关高级管理人员的责任。<br><br>    五、各保险公司和商业银行在销售中应当客观公正地宣传银行代理人身保险产品。宣传内容应当符合以下要求：<br><br>    （一）不得将保险产品作为储蓄产品介绍。不得套用“本金”、“存入”等概念，不得将保险产品的利益与银行存款收益、国债收益等进行片面类比，不得将本公司产品与其他公司的相关产品进行片面对比。在宣传时应当全面介绍保险产品，尤其是其保障功能、保险利益的产生基础，并进行风险和费用提示。<br><br>    （二）向客户说明保险产品的经营主体是保险公司。在宣传内容上不得出现“银行和保险公司联合推出”、“银行推出”、“银行理财新业务”等类似字样，不得出现银行的标志、图案。<br><br>    （三）应当按保险条款对重要事项进行如实告知，不得夸大或变相夸大保险合同的利益。必须对退保费用、保单现金价值、犹豫期等事项进行明确告知。在向投保人解释时，不得承诺不确定收益或进行误导性演示，不得有虚假、欺瞒或不正当竞争的表述。<br><br>    六、各保险公司和商业银行应当加强对代理销售人员的培训，特别要对法律法规、职业道德和业务知识进行培训。<br><br>    七、保险公司应当在投保单显著位置标明投保人申明：“本人已认真阅读并理解本保险的条款”，各商业银行在代理销售人身保险产品时，应当让投保人认真阅读保险条款全文和产品说明书，并让投保人在申明上签名确认。<br><br>    八、各保险公司应统一清理现有的银行代理人身保险业务宣传资料，对不符合要求的应立即停止使用并销毁。<br><br>    九、各保监办和人民银行各分支行应当加强对银行代理人身保险业务的监督检查。对违反上述规定的机构和人员，依法进行处罚。<br><br>    十、各保监办和人民银行各分支行应当将本通知转发至辖区各保险公司和商业银行，并建立对银行代理人身保险业务的监管合作机制。各保险公司和商业银行要积极配合保监办和人民银行分支行的监管工作。<br><br>    二OO三年四月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

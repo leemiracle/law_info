@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发[2007]25号<BR>&nbsp;&nbsp;【发布日期】2007-03-05<BR>&nbsp;&nbsp;【生效日期】2007-03-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=800" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅批转省发改委省食品药品监管局关于省食品药品监督管理系统基础设施项目建设用地及相关费用意见的通知<br><br></font>(甘政办发[2007]25号)</p><br> <br> <br>各市、自治州人民政府，省政府有关部门：<br>    发改委、省食品药品监管局《关于省食品药品监督管理系统基础设施项目建设用地及相关费用的意见》已经省政府同意，现予批转，请认真贯彻执行。<br> <br>二○○七年三月五日 <br><br><br>关于省食品药品监督管理系统基础设施项目建设用地及相关费用的意见<br>(省发改委省食品药品监管局<br>二○○七年二月十四日)<br><br>    按照国家发改委《关于甘肃省食品药品监督管理系统基础设施建设项目实施方案的批复》(发改投资〔2006〕2729号)精神，我省实施的食品药品监督管理系统基础设施项目共有114个，其中省、市州、县区市食品药品监管局办公业务用房项目101个，省、市州药检所实验室改造项目13个。项目总建筑面积44734平方米，总投资11257万元(全部由中央投资安排解决)。目前，大部分建设项目前期工作进展顺利，但有24个需要新征建设用地的项目，由于建设用地及征地费无法落实，前期工作进展缓慢，影响了全省食品药品监督管理系统基础设施项目的整体推进。为加快项目前期工作进度，确保全省食品药品监督管理系统基础设施项目顺利进行，结合我省实际，现提出以下意见。<br>    一、按照国家规定，行政执法装备及药检所实验室设备、仪器由国家统一配置;项目建设用地及相关建设性费用由当地政府安排解决；行政执法机构办公业务用房建设可采用新建、合建和购置等方式解决。<br>    二、根据现行财政管理体制，项目所在市州、县区市政府应根据项目所需征地的数量，提供建设用地，产生的补偿费用由市州和县区市政府分级承担，分级负责，并协调组织建设用地单位办妥有关审批手续。对于省食品药品监管局业务办公楼、省药检所改造和兰州市及4个区级食品药品监管局业务办公楼7个联建项目所需建设用地，由省国土资源厅牵头，会同兰州市政府核定项目实际用地数量，并办理有关土地手续，联建项目征地费用由省发改委和兰州市政府各承担50％。<br>    三、我省食品药品监督管理系统基础设施项目属全额政府投资项目，在项目建设与实施过程中，各市州、县区市政府要按照相关政策规定，合理减免有关项目建设性收费，积极采取有效措施，切实落实项目各项建设条件，为全省食品药品监督管理系统基础设施项目顺利实施营造良好的建设环境。各级政府和项目单位要按照国家投资体制改革精神和《甘肃省政府投资项目管理暂行办法》有关规定，严格控制建设规模和项目投资，认真贯彻落实项目法人责任制、招标投标制、建设监理制和合同管理制，切实履行项目建设程序。   <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

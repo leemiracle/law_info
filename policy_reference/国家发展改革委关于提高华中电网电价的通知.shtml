@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改价格［2008］1681号<BR>&nbsp;&nbsp;【发布日期】2008-06-29<BR>&nbsp;&nbsp;【生效日期】2008-06-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2008tongzhi/t20080702_222227.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于提高华中电网电价的通知<br><br></font>(发改价格［2008］1681号)</p><br> <br><br>湖北、湖南、河南、江西、四川、重庆省（市）发展改革委、物价局、电力公司，华中电监局，郑州、长沙、成都电监办，华中电网公司：<br>    为缓解电力企业生产经营困难，保障电力供应，促进资源节约，根据《国家发展改革委关于提高电力价格有关问题的通知》（发改电〔2008〕207号）精神，决定适当提高华中电网电价水平。现将有关事项通知如下：<br>    一、适当调整上网电价<br>    （一）为缓解煤炭价格上涨的影响，适当提高发电企业上网电价。华中电网有关省（市）电网统调燃煤机组（含热电联产机组）上网电价（含税，下同）提价标准每千瓦时分别为：湖北省2.3分钱、湖南省1.8分钱、河南省2分钱、江西省1.5分钱、四川省2.09分钱、重庆市2.7分钱。同时适当提高部分电价偏低、亏损严重电厂的上网电价,有关电厂具体电价水平见附件一。<br>    （二）提高符合国家核准（审批）规定的新投产机组标杆上网电价。省级电网统一调度范围内，安装脱硫设施的新投产燃煤机组（含热电联产机组）上网电价每千瓦时分别调整为：湖北省0.405元、湖南省0.4205元、河南省0.3692元、江西省0.4元、四川省0.3687元、重庆市0.3643元。未安装脱硫设施的机组，上网电价在上述电价基础上每千瓦时扣减1.5分钱。新投产机组进入商业运营后，上网电价一律按上述价格执行。<br>    （三）三峡电站向华中有关省（市）送电价格每千瓦时分别提高为：湖北省0.2306元、湖南省0.2397元、江西省0.255元、河南省0.2389元、重庆市0.229元；落地电价每千瓦时分别提高为：湖北省0.2927元、湖南省0.3021元、江西省0.3179元、河南省0.3012元、重庆市0.291元。三峡电站送华中有关省（市）结算的输电价格和输电准许损耗率仍按发改价格[2003]1028号文件规定执行。<br>    （四）河南省中原燃气电力有限公司、郑州燃气发电有限公司暂执行临时上网电价每千瓦时0.48元。<br>    （五）二滩水电开发有限责任公司向重庆送电计划电量的电价调整为每千瓦时0.278元。重庆市小水电最低保护价提高为每千瓦时0.22元。<br>    （六）为鼓励水电资源开发，缓解水电企业成本增支压力，提高湖南省低价小水电上网电价每千瓦时1.5分钱；其它水电企业上网电价每千瓦时提高0.5分钱。<br>    二、为逐步理顺电网输配电价，补偿冰雪地震灾害造成的损失，湖北、湖南、河南、江西、四川、重庆省（市）电网输配电价每千瓦时分别提高0.45分钱、0.55分钱、0.2分钱、0.45分钱、0.21分钱和0.5分钱（均含华中电网公司输电费）。<br>    三、为促进可再生能源发展，可再生能源电价附加提高到每千瓦时2厘钱，其中，对居民生活用电和化肥生产用电仍维持原标准。<br>    四、适当提高销售电价水平。有关省（市）销售电价平均提价标准每千瓦时分别为：湖北省2.98分钱、湖南省2.5分钱、河南省2.67分钱、江西省2.1分钱、四川省1.33分钱、重庆市3分钱。各类用户电价具体调整标准见附件二至附件七。<br>    五、本次调价对居民生活用电、农业和化肥生产用电价格不作调整；四川省列入国家地震灾后重建规划的县（市、区）各类用电价格不作调整。<br>    六、适当调整销售电价结构。提高两部制电价中基本电价的比重；拉开各电压等级间的差价。河南省商业、非普工业用电价格实行同价；江西省工业园区工业电价与江西电网实行同价。<br>    七、以上电价调整自2008年7月1日起（抄见电量）执行。<br>    八、电力企业要加强管理，挖潜降耗，努力消化煤炭价格上涨等成本增支因素，确保电力供应安全稳定。<br>    九、各地价格主管部门要精心组织，周密安排，确保本通知规定的各项措施及时贯彻落实。执行中发现问题，请及时报告我委。<br><br>    附件一、华中电网部分电厂上网电价表<br>        二、湖北省电网销售电价表<br>        三、湖南省电网销售电价表<br>        四、河南省电网销售电价表<br>        五、江西省电网销售电价表<br>        六、四川省电网销售电价表<br>        七、重庆市电网销售电价表<br><br>国家发展改革委<br>二○○八年六月二十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

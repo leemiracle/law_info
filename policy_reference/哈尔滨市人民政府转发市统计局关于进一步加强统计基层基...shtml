@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈政综[2005]40号<BR>&nbsp;&nbsp;【发布日期】2005-11-16<BR>&nbsp;&nbsp;【生效日期】2005-11-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=969" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>哈尔滨市人民政府转发市统计局关于进一步加强统计基层基础建设意见的通知<br><br></font>(哈政综[2005]40号)</p> <br> <br><br>    各区、县(市)人民政府，市政府各委、办、局，中直、省属在哈单位： <br><br>    现将市统计局《关于进一步加强统计基层基础建设的意见》予以转发，请认真贯彻执行。 <br><br>    二○○五年十一月十六日 <br><br>    关于进一步加强统计基层基础建设的意见<br><br>    (哈尔滨市统计局 二○○五年十一月十五日)<br><br><br>    近年来，全市统计工作在市委、市政府的正确领导下，紧紧围绕“努力快发展，全面建小康，振兴哈尔滨”的工作主题，积极发挥统计信息、咨询和监督职能，深入推进统计改革，努力提高统计数据质量，为各级党政部门和领导科学决策提供了准确及时的数据依据和科学的分析预测。但是，随着经济社会快速发展、机构改革深入实施和在地统计的全面推进，我市统计工作特别是基层基础工作出现了许多新情况和新问题。一是在机构改革中，一些区县(市)、乡镇统计部门人员精简，基层统计机构撤并，个别单位不设统计岗位，造成基层统计数据采集缺少相应的机构、人员保证；二是非国有、民营等多种经济成分大量出现，统计调查对象呈现多元化、复杂化，基层统计工作任务明显增加与统计工作力量严重不足的矛盾相当突出；三是一些乡镇、街道及基层单位统计人员变动频繁，业务素质不高，难以完成统计工作任务；四是一些基层单位统计法制观念淡薄，受政绩、利益驱动等影响，对统计调查的配合程度明显降低，不及时报送统计资料及虚报浮夸、瞒报迟报的现象时有发生；五是政府统计与部门统计数据信息沟通不畅，有的部门不能及时向政府综合统计和所在区、县(市)统计部门报送或提供国民经济核算需要的部门行政记录；六是基层统计经费投入少，计算机等必要办公设备配备不足、档次低，不能满足网上报表和统计信息传输的需要。 <br><br>    为科学、有效地组织统计工作，保证统计资料的准确性和及时性，切实发挥统计在了解市情、指导国民经济和社会发展中的重要作用，现就进一步加强统计基层基础工作提出如下意见： <br><br>    一、支持统计发展建设，充分发挥统计职能作用。各地区、各部门和各单位要注重加强统计基层基础工作，保证统计信息、咨询、监督职能作用得到充分发挥。要进一步加强对统计工作的领导，关心、支持统计发展和建设，在业务经费、交通工具、信息化建设等方面给予必要的投入和保障，切实解决统计工作中存在的实际困难，为统计工作顺利开展创造良好环境。各级统计部门要充分发挥统计职能作用，以科学发展观为统领，在认真完成国家统计调查任务的基础上，围绕老工业基地振兴、民营经济发展、农业产业化、哈大齐工业走廊建设和建设节约型社会等经济社会发展重点，积极开展统计调查，注重反映经济运行中市场变化、结构调整、经济效益、科技进步等方面情况，加强对经济增长过程中能源、电力、水资源消耗和土地使用等可持续发展方面的监测，更好地满足各级党政部门和社会公众对统计信息的需求。 <br><br>    二、加强基层统计机构建设，健全统计工作网络。严格按照《统计法》的有关规定，建立健全基层统计机构，配齐、配强统计人员。各区、县(市)政府必须设立独立的统计机构；各行业管理部门和中直、省属单位要根据统计任务需要，配备必要的统计人员并指定统计负责人；各乡镇、街道办事处要配备精通业务的专职或兼职统计人员，履行综合统计职能，管理辖区内的统计事务；各行政村要确定专职或兼职人员负责统计工作；各企事业单位要设立统计机构或在有关机构中设置专职或兼职统计人员，负责本单位统计工作。 <br><br>    三、认真抓好统计队伍建设，提高统计人员素质。各地区、各部门、各单位和各级统计机构要采取切实措施加强统计队伍建设。各区、县(市)统计部门要把培养和引进高素质统计人才作为一项重要的基础工作，摆上日程。各部门、各单位和各乡镇、街道办事处要配备具有中等专业以上文化程度、热爱统计工作的人员负责统计工作。各部门、各单位要保持统计人员的相对稳定，不得随意变动，确需调整和调动的，要按照《统计法实施细则》的有关规定，征求所在区、县(市)或市统计机构的意见。各级统计部门要加强对基层统计人员统计基础、统计专业、统计调研分析和计算机应用等相关业务知识的培训，增强基层统计人员业务能力。要严格执行《统计从业资格认证办法》，强化基层统计人员的考核与培训，促使统计人员整体素质不断提高。 <br><br>    四、强化统计法律意识，创造良好统计工作环境。《统计法》规定，国家机关、社会团体、企业事业组织和个体工商户等统计调查对象，必须依照统计法和国家规定，如实提供统计资料，不得虚报、瞒报、拒报、迟报，不得伪造、篡改。各级领导干部要带头学习、执行《统计法》，支持和维护统计机构及人员依法独立开展统计调查、统计报告和统计监督。各级统计人员要认真贯彻执行《统计法》，牢固树立依法统计、科学统计观念，促使统计调查对象如实提供统计资料，依法制止虚报、瞒报、拒报、迟报统计资料的行为。各级统计机构要依据《统计法》和《哈尔滨市统计管理条例》的有关规定，采取经常性检查与专项检查相结合的办法，积极开展统计执法检查，加大对典型统计违法案件的曝光和查处力度，严肃查处统计虚报、浮夸和瞒报等各种统计违法行为。 <br><br>    五、加强政府统计与部门统计的沟通与联系，实现统计信息的共享。《统计法实施细则》规定，县级以上各级人民政府有关部门组织实施的部门统计调查，应当及时向本级人民政府统计机构报送基本统计资料或者综合统计资料。《哈尔滨市人民政府办公厅关于改革统计管理模式实施在地统计的通知》(哈政办发[2003]6号)也明确要求，市直各单位和中直、省属在哈单位以及各种类型的外商投资企业及分支机构，均应按在地统计要求，接受所在区、县(市)统计部门布置的统计调查任务；均应按在地统计要求向所在区、县(市)统计部门及时提供国民经济核算所需的有关会计和业务核算资料。各部门要严格按照《统计法实施细则》和在地统计要求，在向上级主管部门报送专业性统计资料的同时，抄送当地政府统计机构。各级政府统计机构要切实履行《统计法》赋予的指导、协调和管理职责，加强对部门执行《统计法》及统计制度情况的检查，以满足国民经济核算和各级政府宏观管理对统计信息的需求。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

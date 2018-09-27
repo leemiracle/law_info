@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局、交通运输部<BR>&nbsp;&nbsp;【发布文号】国税发[2009]46号<BR>&nbsp;&nbsp;【发布日期】2009-03-17<BR>&nbsp;&nbsp;【生效日期】2009-03-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/8967415.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局、交通运输部关于做好船舶车船税征收管理工作的通知<br> <br></font>(国税发[2009]46号)</p><br><br><br>各省、自治区、直辖市和计划单列市地方税务局、交通厅（局、委），西藏、宁夏、青海省（自治区）国家税务局，新疆生产建设兵团交通局，各直属海事局、地方海事局：<br>    《中华人民共和国车船税暂行条例》（以下简称条例）颁布实施以来，在各级税务部门的精心组织和有关方面的积极配合下，贯彻落实工作开展顺利。但是，部分地区对船舶车船税的征收和管理不够有力，存在一些问题和漏洞。为全面贯彻执行条例，做好船舶车船税的征收管理工作，根据《中华人民共和国税收征收管理法》的相关规定，经国家税务总局和交通运输部研究，现就做好船舶车船税的征收管理工作有关要求通知如下：<br>    一、提高认识，密切配合，做好船舶车船税的征收管理工作<br>    车船税属于地方收入的税种，对船舶征收车船税是做好车船税征管工作的重要内容，对于加强船舶管理，促进水上运输和相关事业的公平竞争和健康发展，维护地方政府的经济权益有着重要意义。我国船舶数量多、流动性大、分布面广，船舶车船税征管较为困难。各级税务和交通运输部门海事管理机构要加强协调配合，税务机关应主动争取海事管理机构的支持，各级海事管理机构要发挥船舶监督管理优势，通过向税务部门提供船舶信息和协助代征船舶车船税等方式，积极支持和配合税务机关做好船舶车船税的征收管理工作。<br>    二、健全管理机制，努力创造条件，积极开展船舶车船税委托代征工作<br>    为提高船舶车船税的征管质量和效率，降低税收成本，方便纳税人缴纳税款，凡在交通运输部直属海事管理机构登记管理的应税船舶，其车船税一律由船籍港所在地的税务部门委托当地交通运输部直属海事管理机构代征。各级税务部门要主动沟通联系，与海事管理机构协商船舶车船税委托代征的具体事宜；交通运输部各直属海事管理机构应积极配合当地税务部门，共同做好船舶车船税的委托代征工作。<br>    对于在各省、自治区、直辖市地方海事管理机构登记管理的船舶，各级税务部门应主动和当地地方海事管理机构协商，积极探索创新征管模式，根据当地实际情况和现有条件，因地制宜的采取委托代征或协助把关等方式，建立有效的社会协税护税控管机制。<br>    已实行委托代征的地区要建立健全委托代征工作管理机制。税务部门要会同海事管理机构制定船舶车船税代征管理办法，明确委托代征单位的纳税申报时间和内容、代征税款的解缴方式和具体期限、代征手续费的支付比例和支付方式、船舶信息交换等方面内容，明确各方职责，规范征管行为。<br>    三、依托信息手段，搭建畅通渠道，实现部门间信息共享<br>    各级地方税务部门应充分依托信息技术手段，与海事管理机构建立沟通协调机制，搭建畅通的信息交流渠道，实现部门间信息共享。通过与交通运输部门海事管理机构定期交换船舶的登记信息和纳税信息，建立船舶车船税的税源数据库，加强船舶车船税的源泉控管，堵塞征管漏洞。<br>    如开发委托代征船舶车船税信息系统，系统不仅要具备采集船舶基本信息、登记完税和减免税信息、计算代征税款金额、打印完税凭证、汇总税款解缴等功能，还要与税务征管系统定期交换数据，提高船舶车船税委托代征水平，确保船舶车船税委托代征工作顺利进行。<br><br>国家税务总局 交通运输部<br>二○○九年三月十七日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

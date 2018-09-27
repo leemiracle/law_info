@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2006]16号<BR>&nbsp;&nbsp;【发布日期】2006-01-25<BR>&nbsp;&nbsp;【生效日期】2006-01-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200602050824072396" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>饮食业、娱乐业税控收款机系统营业税“票表比对”管理操作规程<br><br></font>(国税发[2006]16号)</p><br><br><br>各省、自治区、直辖市和计划单列市地方税务局：<br>?<br>    现将《饮食业、娱乐业税控收款机系统营业税“票表比对”管理操作规程》印发给你们，请各地配合税控收款机系统的推行，认真贯彻落实。<br><br>    附件：1.比对异常转办单?<br>          2.营业税“票表比对”管理工作流程图<br><br>                                国家税务总局<br>                            二○○六年一月二十五日<br> <br><br>饮食业、娱乐业税控收款机系统营业税“票表比对”管理操作规程<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强对使用税控收款机的营业税纳税人的征收管理，规范“票表比对”业务规程，根据《<a href=javascript:ROF(37255,0) class=alink>中华人民共和国税收征收管理法</a>》和《<a href=javascript:ROF(18557,0) class=alink>中华人民共和国营业税暂行条例</a>》等有关税收法律、法规规定，制定本操作规程。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  本规程适用于使用税控收款机开具发票的所有饮食业、娱乐业营业税纳税人（以下简称“纳税人”）。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> “票表比对”管理是税务机关在推行税控收款机的基础上，在营业税申报征收环节，对营业税纳税人纳税申报信息与税控收款机开票信息之间的逻辑关系进行审核比对并对其审核结果做出处理的工作。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  “票表比对”管理的基本流程包括：营业税纳税申报数据和税控收款机开票数据采集；营业税纳税申报数据与同期税控收款机开票数据比对；票表比对结果的处理。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  地市级以上地方税务机关负责“票表比对”管理业务的指导、监督；区县级地方税务机关负责“票表比对”管理业务的组织实施。?<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  负责组织实施“票表比对”管理业务的区县级地方税务机关应设置申报征收岗位、异常情况处理岗位和复核岗位，负责“票表比对”管理各项工作的组织实施。其中：申报征收岗位、异常情况处理岗位为前台岗位，复核岗位为后台岗位。?<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  申报征收岗位主要负责营业税纳税申报数据和税控收款机IC卡开票数据的采集以及“票表比对”等工作。<br><br><br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  异常情况处理岗位主要负责对“票表比对”异常情况的核实及结果处理等工作。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  复核岗位主要负责“票表比对”结果处理的复核及向纳税评估或稽查部门的转办等工作。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  申报征收岗位进行“票表比对”，应采集以下数据： <br><br>    （一）营业税纳税申报有关数据；?<br><br>    （二）同期税控收款机IC卡记录的开票数据；?<br><br>    （三）主管税务机关要求报送的其他资料。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  申报征收岗位人员在受理纳税人纳税申报时，应读取纳税人报送的税控收款机IC卡开票信息，并将税控收款机IC卡开票信息与纳税人报送的营业税纳税申报信息进行下列内容的比对：?<br><br>    （一） 《娱乐业营业税纳税申报表》“应税收入”栏的“合计”金额，应大于或等于同一税款所属期内纳税人开具娱乐业税控发票的“金额”总计数；?<br><br>    （二） 《服务业营业税纳税申报表》“应税项目”中“饮食业”项目“应税收入”栏的金额，应大于或等于同一税款所属期内纳税人开具饮食业税控发票的“金额”总计数。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  申报征收岗位根据“票表比对”结果分下列情况处理：?<br><br>    （一）“票表比对”相符的，受理其纳税申报资料并对IC卡进行清零解锁；?<br><br>    （二）“票表比对”不符的，立即移交异常情况处理岗位处理。?<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  异常情况处理岗位人员对“票表比对”异常信息，应核实异常原因，并区别不同情况进行处理： ?<br><br>    （一）属于技术原因造成“票表比对”结果异常的，应受理其申报资料，并及时通知税控收款机技术部门进行维护；?<br><br>    （二）属于纳税人填报错误造成比对结果异常的，将申报资料退纳税人修改后重新申报； ?<br><br>    （三）除上述两种原因外，比对结果异常的，应受理纳税申报资料，但对纳税人的税控IC卡不予清零解锁，同时填写《比对异常转办单》（见附件1，下同）转复核岗位。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  复核岗位根据《比对异常转办单》所列内容进行复核，审核无误的在《比对异常转办单》上签署转办意见转交纳税评估部门处理。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 纳税评估部门接收《比对异常转办单》后，应采取案头分析、约谈举证、实地调查等方式进行核实。经核实不具有偷税等违法嫌疑、无需立案查处的，可以解除异常，在《比对异常转办单》上签署“解除异常，同意对税控IC卡进行解锁”意见后移交复核岗位；经核实后发现确有偷税等违法嫌疑仍不能解除异常的，需要移交稽查部门查处，在《比对异常转办单》上签署“移送稽查”意见后，移交稽查部门。?<br><br>    在上述纳税评估部门进行核实和稽查部门作出行政处理（处罚）决定前的过程中，如纳税人确需领购发票，纳税评估部门可以通知发票发售部门采取限制次供票量、增加供票次数的措施，并按照中途购票进行处理；同时通知异常情况处理岗位对税控IC卡进行解锁。?<br><br>    纳税评估部门应在7个工作日内将评估结果反馈至复核岗位或稽查部门。?<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  稽查部门接到《比对异常转办单》后，实施税务稽查。经查处可以解除异常的，在《比对异常转办单》上签署“解除异常，同意对税控IC卡进行解锁”意见后转交纳税评估部门，纳税评估部门再转交复核岗位。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 复核岗位接到纳税评估部门转来的注有“解除异常，同意对税控IC卡进行解锁”结果的《比对异常转办单》后，通知异常情况处理岗位对纳税人税控IC卡进行解锁，同时通知发票发售部门解禁发票供应。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  凡以前规定与本规程相抵触的，以本规程为准。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

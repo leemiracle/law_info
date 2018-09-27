@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】河南省<BR>&nbsp;&nbsp;【发布文号】豫政办 〔2007〕118号<BR>&nbsp;&nbsp;【发布日期】2007-11-30<BR>&nbsp;&nbsp;【生效日期】2007-11-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.henan.gov.cn/zwgk/system/2007/12/20/010051779.shtml" target=_blank>河南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>河南省人民政府办公厅关于将产品质量和食品安全监管工作纳入年度目标考核的通知<br>  <br></font>(豫政办 〔2007〕118号)</p><br>  <br>  <br>各省辖市人民政府,省人民政府有关部门:<br><br>    按照《国务院关于加强食品等产品质量安全监督管理的特别规定》(国务院令第503号)要求,省政府决定将产品质量和食品安全监管工作纳入年度目标考核,现将有关事宜通知如下:<br><br>    一、县级以上政府应当将产品质量和食品安全监督管理纳入政府工作年度目标考核,对本行政区域内的产品质量和食品安全监督管理负总责,统一领导、协调本行政区域内的监督管理工作,建立健全监督管理协调机制,加强对行政执法的协调、监督;统一领导、指挥产品安全突发事件应对工作,依法组织查处产品安全事故;建立监督管理责任制,对各监督管理部门进行评议、考核。<br><br>    二、县级以上政府及其部门要严格依照有关法律和《国务院关于加强食品等产品质量安全监督管理的特别规定》,履行监督管理职责,做到公开、公平、公正,严厉查处制售不符合法定要求产品的违法行为,完善行政执法与刑事司法衔接机制。各地、各部门要密切配合,搞好衔接,建立上下联动、部门联动、区域联动的工作机制。按照属地管理和“谁主管、谁负责”的原则,形成“地方政府对产品质量和食品安全负总责、监管部门各负其责、生产经营者作为第一责任人”的责任体系,形成“落实到乡镇、街道、村委,落实到机关、企业和店铺,覆盖全社会”的监管网络。牵头部门和配合部门都要在当地政府的统一指挥下,群策群力,积极工作,对重点产品、重点单位和重点区域,集中时间、集中力量联合打击查处。同时积极探索建立源头治理、综合治理的长效监管机制和责任追究制度。<br><br>    三、对产品质量和食品安全突出问题长期得不到解决或因此发生恶性事件的地方,或本行政区域内一年多次出现产品质量和食品安全事故、造成严重社会影响的,要依法依纪追究政府、部门主要负责人和直接负责的主管人员的责任。<br><br>    四、县级以上政府要统一领导、协调其监督管理部门按照各自职责重点加强对下述行业的监督管理,能否完成这些目标要作为县级以上政府对其监督管理部门和其下级政府评议、考核的重要依据。<br><br>    1.大中城市的农产品批发市场100%纳入质量安全监测范围;基本解决使用违禁农药兽药和饲料添加剂问题;杜绝违规生产、销售和使用甲胺磷等5种高毒农药。<br><br>    由农业部门负责。<br><br>    2.食品生产加工企业100%取得食品生产许可证;小作坊100%签订食品质量安全承诺书。<br><br>    由质量技术监督部门负责。<br><br>    3.县城以上城市的市场、超市100%建立进货索证索票制度;乡镇、街道、社区食杂店100%建立食品进货台账制度。<br><br>    由工商行政管理部门负责。<br><br>    4.彻底解决县城以上城市的餐饮经营单位、食品摊点无证照经营的问题;食堂和县城以上城市的餐饮经营单位100%建立原料进货索证制度;杜绝使用病死或者死因不明的畜、禽及其制品行为。<br><br>    由卫生部门负责。<br><br>    5.完成药品注册现场核查专项工作;基本解决挂靠经营、超方式和超范围经营药品问题;禁止并取缔以公众人物、专家名义证明疗效的药品广告。<br><br>    由食品药品监管部门负责。<br><br>    6.县城以上城市进点屠宰率实现100%,乡镇进点屠宰率达95%;县城以上城市所有市场、超市、集体食堂、餐饮单位销售和使用的猪肉100%来自定点屠宰企业。<br><br>    由商务部门负责。<br><br>    7.家用电器、儿童玩具、劳动防护用品、汽车配件、低压电器、建筑钢材、人造板、扣件、电线电缆、燃气器具等10类涉及人身健康和安全的产品生产企业100%建立质量档案;基本解决无证生产的问题;监督抽查合格率明显提高。<br><br>    由质量技术监督部门负责。<br><br>    8.非法进口的肉类、水果、废物100%退货或销毁;出口食品原料基地100%得到清查;出口食品运输包装100%加贴检验检疫标志。<br><br>    由出入境检验检疫部门负责。<br><br>    各省辖市政府及省直有关部门要高度重视,进一步明确任务和责任,加大目标管理力度,确保产品质量和食品安全。<br><br>河南省人民政府办公厅         <br>二○○七年十一月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

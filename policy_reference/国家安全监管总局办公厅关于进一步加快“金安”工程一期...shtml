@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总厅规划函〔2008〕239号<BR>&nbsp;&nbsp;【发布日期】2008-10-17<BR>&nbsp;&nbsp;【生效日期】2008-10-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-10/20/content_289683.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局办公厅关于进一步加快“金安”工程一期项目建设有关事项的通知<br><br></font>(安监总厅规划函〔2008〕239号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，各省级煤矿安全监察机构：<br><br>    国家安全生产信息系统(“金安”工程)一期项目将于2008年底完成，目前建设工作已进入总体集成阶段。按照计划，本项目将于10月底前完成国家安全监管总局到省级局节点的全部线路切换以及数据、语音、视频的开通，支持应用系统在省级节点的测试。原有视频会议系统将切换到新的网络上，原租用的联通线路将终止。对因新设备采购没有到位的部分省级安全监管局节点将利用其原有设备进行接入，以保障数据和视频业务的正常开通。到2008年底前，所有煤矿安全监察机构节点和省级安全监管局节点的软硬件系统全部投入运行；本期建设的地级和县级节点的也将联入系统，软硬件环境达到运行的基本要求。为确保上述进度目标的实现，针对目前项目建设实施中的有关问题，现就进一步加快“金安”工程一期项目建设有关事项通知如下： <br><br>    一、各省级局必须做好有关配合工作 <br><br>    各省级局要按照上述时间段的目标任务，配合承担系统总集成任务的中国电信集团系统集成有限责任公司、承担应用系统开发任务的中国软件与技术服务股份有限公司、承担安全系统的网御神州科技有限公司、承担项目监理的北京中百信工程咨询公司及其当地分支机构做好项目建设的相关工作。特别是省级安全监管局，一是要积极采取措施争取当地政务外网管理机构的支持，配合本项目集成商尽快完成电路接入(需通过租用本地数字电路实现电路接入的可参考aqxxh@chinasafety.gov.cn中《中国电信2M本地数字电路(租期3年)租用费折扣参考表》运营商洽谈租用服务)和机房基础准备工作；二是务必于10月31日前按照国家发展改革委批准的初步设计和国家安全监管总局“金安”工程项目办确定的新近设备选型配置和推荐的采购方式（见aqxxh@chinasafety.gov.cn中《国家安全生产信息系统（“金安”工程一期）网络设备总体采购协议设备变更的补充协议》和《国家安全生产信息系统（“金安”工程一期）服务器总体采购协议设备变更的补充协议》），完成本地所需要的服务器、网络设备、基础软件和安全系统等软硬件的采购（其中：中间件、数据库10月31日前不能采购的将不能享受总体协议的优惠折扣价）；三是积极配合应用系统开发单位开展应用系统的上线测试(拟选山西、江苏、湖南、宁夏、贵州五省区安全监管和煤矿安全监察系统，河北煤矿安全监察系统作为上线测试单位，有关工作详见附件3)和试运行工作；四是按照国家安全监管总局“金安”工程项目办的计划安排好专人参加项目必须的管理或技术培训，保障系统投入后的运行维护工作。 <br><br>    二、关于省级安全监管局采购设备的问题 <br><br>    （一）关于总体采购协议内软硬件的采购问题 <br><br>    按照国家发展改革委的批复要求和各省、自治区、直辖市的承诺，项目建设中涉及使用地方建设资金采购本节点所需的服务器、网络设备、数据库、中间件等软硬件，应依据国家安全监管总局与有关供货商签订的总体采购协议及本文附件1所列的更新设备型号和配置，通过中央政府采购网协议供货形式采购，或按照本省政府采购流程办理采购。PC机、移动终端和因有关产品停产或停止销售需要提供替代设备的，应依据总体采购协议关于“乙方提供的替代产品其性能规格不低于、价格不高于”的协议条款采购。 <br><br>    （二）关于总体采购协议以外软硬件的采购问题 <br><br>    根据《国家安全监管总局办公厅关于下达国家安全生产信息系统(“金安”工程)一期第二批建设资金及加快实施项目建设有关事项的通知》(安监总厅规划〔2008〕71号)，各省级安全监管局在组织设备采购时，要按照国家安全监管总局的总体采购协议进行，努力保障节点设备与整个系统的顺利集成和充分兼容。在依据总体采购协议与供货厂商签订供货合同前，必须确认所采购的设备符合系统集成商、国家安全监管总局项目办和本省级局三方共同确定的设备清单。对于有不兼容风险的设备，还必须经过测试，确定是否可以实现与本系统的完全兼容。各有关省级安全监管局在组织软硬件采购时，对于因特殊情况未能采购国家安全监管总局与有关供货商签定的总体采购协议内软硬件的，必须报国家安全监管总局“金安”工程项目办确认，必要时还需通过测试确认可行后方可实施，否则，必须采购总体采购协议内软硬件。 <br><br>    三、关于使用国家补助资金采购软硬件的问题 <br><br>    （一）使用国家补助资金采购软硬件的要求 <br><br>    国家补助建设省级和地级节点的投资已于2006年底下达到有关省财政厅（局）及新疆生产建设兵团财务局。未按《国家安全监管总局办公厅关于国家安全生产信息系统(“金安”工程)一期设备采购等若干实施事项的通知》(安监总厅规划〔2007〕182号)》要求采购有关设备的省级安全监管局，必须尽快做好采购工作。凡有国家补助资金的省级安全监管局，必须首先用于采购网络设备、安全系统设备、服务器及相关软件。 <br><br>    （二）使用国家补助资金采购县级节点软硬件需要办理的手续 <br><br>    根据安监总厅规划［2008］71号文件要求，凡有中央预算投资补助的省级安全监管局，要尽快向国家安全监管总局规划科技司提供下列资料：本局与供货单位的设备采购合同复印件（扫描电子版，发送至aqxxh2@chinasafety.gov.cn）；补助资金费用明细；资金收据(行政事业单位发票)；收款单位账号、户名、开户行。国家安全监管总局办公厅（财务司）将按照有关财务规定拨付补助资金。为保证项目有关节点的建设，各有关省级安全监管局在申请拨付国家补助资金时，还必须提供地方配套资金到位的财务凭据或用配套资金采购有关设备的合同。 <br><br>    四、关于机房和布线工程问题 <br><br>    目前，绝大部分省级局已完成了机房环境准备工作，未完成的海南省和新疆生产建设兵团务必抓紧完成。已完成机房环境准备的省级安全监管局要按有关规定在本地办理财务手续，省级煤矿安全监察局要尽快按照《国家安全监管总局办公厅关于开展“金安”工程一期详细设计等若干实施工作的通知》(安监总厅规划〔2007〕153号)要求，凭有关合同复印件（扫描电子版发至aqxxh2@chinasafety.gov.cn）、发票，向项目监理单位北京中百信工程咨询有限公司提出付款申请，经审核无误后，在国家安全监管总局办公厅（财务司）办理报销手续。 <br><br>    五、关于系统割接问题 <br><br>    国家安全监管总局核心节点到省级局的网络及传输通道将于10月底由原有系统（联通提供的线路）切换到新的系统（国家电子政务外网和中国电信提供的线路）。切换后，应用系统的测试、视频会议系统、IP电话将在新的系统运行（IP电话号码表编制后，将存入aqxxh@chinasafety.gov.cn)。请各省级局高度重视，按照本通知要求尽快落实项目建设有关工作，对于实施中遇到的问题要及时采取措施尽快解决，避免本地节点特别是视频会议终端不能联入新的系统，造成不能正常参加视频会议和不能利用应用系统开展工作的问题；对于本省级局无法解决的问题要及时报国家安全监管总局“金安”工程项目办。 <br><br>    请各省级安全监管局和煤矿安全监察机构务必加强领导，全力落实各阶段任务，并从组织、人员和技术上保障项目的建设进度。 <br><br>    附件：1.总体采购协议及设备变更协议情况表（略） <br><br>          2.“金安”工程一期应用系统测试(试用)工作的安排（略）<br><br>    国家安全生产监督管理总局办公厅   <br>    二○○八年十月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

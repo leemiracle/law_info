@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安全生产委员会办公室<BR>&nbsp;&nbsp;【发布文号】安委办[2006]21号<BR>&nbsp;&nbsp;【发布日期】2006-06-05<BR>&nbsp;&nbsp;【生效日期】2006-06-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-06/06/content_169798.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安全生产委员会办公室关于加强煤矿安全监控系统装备联网和维护使用工作的指导意见<br><br></font>(安委办[2006]21号)</p><br><br> <br>各省、自治区、直辖市及新疆生产建设兵团煤矿安全生产监督管理部门、煤炭行业管理部门，各省级煤矿安全监察机构、司法部直属煤矿管理局、神华集团公司、中煤能源集团公司：                         <br><br>    为认真贯彻2006年全国安全生产工作会议精神，坚决落实国务院第81次常务会议确定的瓦斯治理七项措施，进一步提高煤矿安全生产保障能力，现就煤矿安全监控系统装备、联网与使用工作提出以下指导意见： <br><br>    一、全面推进煤矿安全监控系统装备工作 <br><br>    1.所有瓦斯矿井必须装备安全监控系统。高瓦斯矿井、煤（岩）与瓦斯（二氧化碳）突出矿井和所有低瓦斯矿井必须装备安全监控系统。未装备安全监控系统的低瓦斯矿井，属于原国有重点煤矿范围的，应于2007年6月底前完成安全监控系统的装备；属于原国有地方和乡镇煤矿范围的，应于2008年底前完成装备。 <br><br>    2.新安装的安全监控系统必须符合《煤矿安全监控系统通用技术要求（AQ6201-2006）》（以下简称《通用技术要求》）。煤矿新装备的安全监控系统必须按《通用技术要求》制造，并取得新的煤矿矿用产品安全标志（以下简称MA标志）。相关制造厂家应按有关规定立即开展安全监控系统换标工作。按《通用技术要求》制造并取得新MA标志的煤矿安全监控系统目录及生产单位名单由矿用产品安全标志办公室及时予以公告（网址：www.aqbz.org）。 <br><br>    3.逐步改造煤矿在用安全监控系统。煤矿在用的安全监控系统原制造单位取得新的MA标志后，应与煤矿积极协商，共同制定方案，按新的MA标志证书确认的系统配置对煤矿在用系统进行更新改造。改造的重点：一是采用统一显示格式的系统软件；二是配置稳定性为15天以上的传感元件或传感器等关联设备，严禁使用未经国家授权的安全生产检测检验机构进行安全联检的关联设备。更新改造工作，原国有重点煤矿应于2007年底前完成，其他煤矿应在2008年底前完成。煤矿在用系统制造厂家未取得新的MA标志的，该系统应于2008年底前淘汰，在此之前，在用系统的制造厂家应继续为煤矿提供备件。 <br><br>    4.统一规划、严格准入。地方负责安全监控系统管理的部门应统一规划和协调辖区内煤矿安全监控系统的选型和装备工作；对未装备安全监控系统的低瓦斯矿井应制订装备计划，规定不同类型矿井的装备期限；对安全监控系统建设要加强监督指导，确保对每套监控系统都能做到科学设计、标准化施工、严格验收，合格一套运行一套。 <br><br>    二、强化煤矿安全监控系统的维护和维修工作 <br><br>    1.正确安装、使用安全监控系统。煤矿要在规定的地点和位置、按规定的要求安设相应类型的传感器，并根据生产环境的变化对传感器的布置进行及时调整。要认真进行系统的定期调校和断电闭锁装置功能测试,确保监控系统作用的充分发挥。 <br><br>    2.加强监控系统的维护和管理,保障系统正常运行。煤矿应建立健全安全监控系统管理规章制度，配备足够的维护、值班和技术人员，并经培训持证上岗；同时，应当根据矿井实际需要配备足够的备品、备件，保证监控系统不间断运行，地面监控室24小时有专人值班。各类小煤矿必须保证有专人负责系统的检查和维护，不具备调校、检修能力的，必须与区域性煤矿安全测控仪器技术服务机构签订技术服务协议。 <br><br>    3.建立区域性煤矿安全测控仪器技术服务机构。各省（区、市）应统一规划、合理布局，扶持建立一批主要面向中小型煤矿的区域性煤矿安全测控仪器技术服务机构（以下简称服务机构），负责各类煤矿安全测控仪器的调校、检修及申请承担安全计量器具检定等工作，同时为各类煤矿提供技术服务和技术指导。已建成的国有重点煤矿矿务局（公司）检修机构应进一步完善，提高装备和管理水平。 <br><br>    服务机构应依法运作，规范化服务。应建立健全各项管理制度，专业技术人员、管理和维修人员应经培训后持证上岗；建立健全质量管理体系和计量管理体系，配备足够的检修装备和专业技术人员，取得相关资质，依法开展有偿技术服务活动；建立传感器及其他测控仪器的调校、检修、检定等台账，对不按期调校、送检的小煤矿，应及时向当地煤炭行业管理部门和煤矿安全监管、监察机构报告。服务机构的日常业务须接受当地煤炭行业管理部门和煤矿安全监管、监察机构的监督与指导。 <br><br>    三、做好安全监控系统联网工作，强化网络运行管理 <br><br>    1.继续深入开展安全监控系统联网工作。目前，全国重点产煤县（市）中，高瓦斯和煤与瓦斯突出矿井联网工作已基本完成，各省（区、市）联网工作牵头部门应继续加强领导、明确责任、落实资金，在认真总结成功经验和做法的基础上，有效推进其他产煤县（市）安全监控系统联网工作。已完成联网且条件成熟的地区，应逐步开展低瓦斯矿井监控系统的联网工作，积极扩展安全监控覆盖范围。 <br><br>    2.煤矿企业要认真做好数据上传工作。各煤矿对本矿监控系统和网络日常管理工作负责，要按照有关要求实时上传数据，确保系统和网络正常运行。 <br><br>    3．进一步规范网络运行管理。实现区域联网的各产煤县（市）网络中心应配备足够的专业技术人员和具有高中以上文化程度的值班人员，经培训持证上岗；应建立健全值班制度、岗位责任制、瓦斯日报制度等各项管理制度，制订非正常情况处置程序和应急预案，努力实现标准化、科学化管理，确保网络正常运行并发挥其监测、控制和预警作用。各级网络中心必须24小时不间断值班，并确保与各矿调度室、各矿主要负责人间的通讯畅通，发现瓦斯超限、停风、馈电状态异常等情况时，按应急预案及时处理。 <br><br>    4.建立安全监控数据分析汇报制度。各网络中心每月应对系统运行和各矿井瓦斯超限等异常情况进行一次汇总分析，并将情况报当地政府有关部门及驻地煤矿安全监察机构。 <br><br>    四、加强煤矿安全监控系统的监管监察 <br><br>    1.科学指导，严格监管。负责煤矿安全监控工作的有关部门，要高度重视、不断加强对煤矿安全监控系统及网络运行的监督管理，通过建章立制，推动各类煤矿安全监控系统的使用和维护走上科学化、规范化轨道。要逐步推行安全监控系统的年检制度，将安全监控系统装备管理纳入煤矿安全生产许可证年检内容，对经检查不合格的，应暂扣其煤矿安全生产许可证,责令立即进行停产整改。 <br><br>    2. 依法监察、违法必究。煤矿安全监管、监察机构要将煤矿安全监控系统运行情况纳入监管监察工作计划，定期组织监督检查。要认真分析网络中心上报的煤矿瓦斯超限情况月度报表，有针对性地组织重点检查。对不按期将传感器送检调校的小煤矿，要重点进行监管监察。对未按规定装备安全监控系统或监控系统不能24小时连续运行，传感器安装地点不对、数量不足、数据不准、未按规定调校,断电闭锁装置失灵或未定期进行功能测试，以及测控数据没有遥传到地面中心站的矿井，应依法严肃查处。 <br><br>    3.发挥典型示范作用。地方政府各有关管理部门和驻地煤矿安全监察机构，要经常深入煤矿现场，及时发现并帮助解决安全监控系统使用管理中存在的各种倾向性、普遍性问题，并积极总结好的经验，树立先进典型，建立示范工程，推动煤矿安全技术整体水平的不断提高，进而促使煤矿安全生产形势的不断好转。 <br><br>    请各省级煤矿安全监管部门及时将本文转发到辖区内各煤矿企业。 <br><br>二00六年六月五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

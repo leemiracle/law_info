@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家电力监管委员会<BR>&nbsp;&nbsp;【发布文号】办市场[2004]3号<BR>&nbsp;&nbsp;【发布日期】2004-02-24<BR>&nbsp;&nbsp;【生效日期】2004-02-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.serc.gov.cn/djh/details.jsp?content_id=138" target=_blank>国家电力监管委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家电力监管委员会关于做好华东电力市场模拟运行准备工作的通知<br><br></font>(办市场[2004]3号)</p><br><br><br>国家电网公司，中国华能集团公司，中国大唐集团公司，中国华电集团公司，中国国电集团公司，中国电力投资集团公司，中国电力企业联合会，华东电网有限公司，上海、江苏、浙江、安徽省（市）电力公司，福建省电力有限公司，申能（集团）有限公司、浙江省能源集团有限公司，各有关发电公司：<br><br>    按照《华东电力市场试点方案》（电监市场[2003]42号），华东电力市场试点工作稳步推进。目前，《华东电力市场运营规则》、《华东电力市场监管实施意见》、《华东电力市场技术支持系统建设大纲》和《华东电力市场技术支持系统功能规范》基本形成，将陆续印发；有关市场建设的配套项目也已经启动，市场建设的各项工作正有序进行。<br><br>    根据华东电网的实际情况，按照华东电力市场试点工作的总体部署，经商国家电网公司和华东电网有限公司等有关单位，决定于2004年5月中旬启动华东电力市场模拟运行。现将有关事项通知如下：<br><br>    一、开展模拟运行的目的<br><br>    检验规则，积累经验；培育市场主体，熟悉规则；促进配套措施制度建设，为正式运行奠定基础。<br><br>    二、模拟运行的主要内容<br><br>    华东电力市场模拟运行，以年度合同和月度竞争为主。在此基础上，随着技术支持系统相应功能的完备，适时开展日前竞争和实时平衡。<br><br>    模拟运行期间，首先对市场注册、月度报价、交易排序、信息发布、监管程序等五个环节进行模拟，检验并完善市场运营规则和监管实施意见。条件具备时，再将调度、计量、结算等环节纳入模拟运行的范围。<br><br>    三、模拟运行前的准备工作<br><br>    审定《华东电力市场运营规则》、《华东电力市场监管实施意见》、《华东电力市场技术支持系统建设大纲》；组建电力调度交易机构；建设有关技术支持系统；筹建电力监管机构。<br><br>    四、工作分工<br><br>    根据《华东电力市场试点方案》的要求，国家电监会会同国家电网公司负责模拟运行工作的总体领导，组织审定市场运营规则、监管实施意见、技术支持系统建设大纲等文件，负责监管机构的筹建；国家电网公司负责指导协调华东电网有限公司和省（市）电力公司具体落实与模拟运行相关的项目、人员、资金等；华东电网有限公司具体负责华东电力市场模拟运行的各项准备工作；各省（市）电力公司、发电企业应积极参与相关文件的制订和相应的技术支持系统的配套建设。<br><br>    五、时间进度安排<br><br>    为保证华东电力市场按计划模拟运行，具体时间安排如下：<br><br>    1.   2004年2月底审定电力市场技术支持系统建设大纲；3月中旬审定监管实施意见、技术支持系统功能规范；4月中旬前审定市场运营规则。<br><br>    2.   4月份完成华东电力市场调度交易中心的组建。<br><br>    3.   4月底完成月度竞价技术支持系统（含省市电力公司、发电侧的配套设施）的建设、调试和验收。<br><br>    4.   5月上旬开展华东电力市场第二期培训。<br><br>    5.   5月18日开始模拟运行。<br><br>    请各有关单位按照分工，加强协作，按要求圆满完成模拟运行前的各项准备工作。<br><br> <br>二ОО四年二月二十四日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

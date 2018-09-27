@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政文〔2009〕25 号<BR>&nbsp;&nbsp;【发布日期】2009-01-14<BR>&nbsp;&nbsp;【生效日期】2009-01-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/szfwj/200901/t20090120_107939.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府关于进一步减轻企业负担促进经济发展的若干意见<br><br></font>(闽政文〔2009〕25 号)</p><br>    <br><br>各市、县（区）人民政府，省人民政府各部门、各直属机构，各大企业，各高等院校：<br><br>    为帮助我省企业积极应对国际金融危机影响，进一步减轻企业负担，促进全省经济持续健康发展，现结合我省实际提出如下意见，请认真贯彻落实。<br><br>    一、全面清理涉企行政事业性收费项目<br><br>    （一）取消和停止征收一批行政事业性收费项目。凡财政部、国家发展改革委公布于2009年1月1日取消和停止征收的100项行政事业性收费项目，我省一律取消和停止征收。我省出台的行政事业性收费项目，与国家公布取消和停止征收的收费项目相类似的，也一律予以取消和停止征收，包括取消交通主管部门征收的机动车维修经营许可证工本费、建设主管部门征收的建设工程质量监督费上级管理费、卫生主管部门征收的消毒药械及化妆品省级初审审批收费和食品卫生纠纷仲裁收费，停止征收国土资源主管部门的乡镇集体矿山企业和个体采矿登记费。<br><br>    （二）减征一批行政事业性收费和政府性基金。对经贸主管部门征收的新型墙体材料专项基金和物价主管部门征收的城市副食品价格调节基金，实行减半征收一年。对水利主管部门征收的江海堤防工程维护费，以及质监主管部门征收的电能表、水表、煤气表、医疗卫生计量器具、压力表、电子秤、企业温度计检定费和部分特种设备检验费，实行减半征收一年。水利主管部门征收的水土保持补偿费按规定收费标准最低限收取。质监主管部门征收的特种设备监督检验费与验收检验费不再同时收取。<br><br>    我省取消、停征、减征的行政事业性收费和政府性基金项目详见附件。<br><br>    （三）适当降低土地出让价格。各级人民政府可根据扩大内需情况和市场状况，适当降低工业用地的土地出让价格。其中以招拍挂方式出让的，在不低于国家统一规定工业用地最低出让价格的前提下，可适当调低出让底价；其他属于可协议出让用地，在不低于国家规定协议出让最低价标准的前提下，也可适当降低土地协议出让价格。<br><br>    （四）规范行政事业性收费行为。对清理后保留的行政事业性收费项目，必须向社会公布并在收费点公示。各收费单位向企业收取行政事业性收费时，必须持有价格主管部门制发的收费许可证，使用省级以上财政部门统一印（监）制的财政票据，按照有权部门公布的收费项目和收费标准进行收费，禁止超标准收费、擅自扩大收费范围、搭车收费。无法律法规规章依据的行政事业性收费项目，坚决予以取缔。<br><br>    二、规范市场中介组织、公共服务行业收费<br><br>    （五）规范市场中介组织、公共服务行业收费。市场中介组织要在工作、组织、经济、场所等方面与政府及其部门彻底分开。严禁利用行政权力强制企业到指定的中介服务机构办理检验、检测、鉴定、评估、咨询等相关业务。市场中介组织依法或接受委托授权实施认证、检验、鉴定以及举办资格考试等，必须严格执行国家收费规定。不得将中介服务收费与部门行政事业性收费相互捆绑，实施强制收费。严禁公共服务行业利用垄断地位强制企业接受指定服务、购买指定产品。规范各种经营服务性收费，由省物价局负责牵头提出具体管理办法报省政府批准后实施。<br><br>    三、加强对行政机关行政行为的监督<br><br>    （六）禁止利用监督检查向企业乱收费。行政机关对企业实施监督检查，不得干扰企业正常的生产经营活动，不得违规收取检查费用，也不得以任何形式将检查费用转嫁给企业。<br><br>    （七）规范检验、检测收费。行政机关依法对企业产品进行检验、检测需要抽取样品的，应当付费。依照法律、法规、规章规定需要由被检查企业无偿提供的，抽取的样品不得超过规定的数量。法定检验检测机构对同一批次产品依法作出的检验、检测结论或者鉴定结果，有关行政机关应当直接采用。<br><br>    （八）规范培训收费管理。各行政机关及其所属单位（含社会团体）或其授权、委托的有关机构凡举办面向企业的培训班，应当有法律、法规、规章或省级以上政府及其工作部门的规范性文件依据。培训经费已由财政或有关部门安排解决的，不得另行立项收费；财政或有关部门没有安排培训经费的，主办单位应于培训前向价格和财政部门提出收费申请，由价格和财政部门共同核定收费标准。培训办班应实行公示制度，主办单位应将有关培训政策和依据公布于醒目位置。<br><br>    （九）规范涉企评比达标表彰活动。禁止强制企业接受未经有权机关批准的考核、评比、评优、达标、升级、排序、表彰等活动。凡没有法律、行政法规依据和中央、国务院、省委、省政府文件明确规定的项目，以及要求企业出钱出物出工或者以各种名目收费的项目，或以开展活动为由违反有关财经制度的项目，一律予以撤销。在国家清理规范工作期间，各地区各部门一律不得举办新的评比达标表彰活动。除依据法律、行政法规和中央、国务院、省委、省政府文件或经中央、国务院、省委、省政府同意的项目外，各级各部门正在举办的各类评比达标表彰活动原则上暂停举办，并认真做好清理整顿工作，更不得借评比、表彰之名向企业收取费用。<br><br>    （十）严禁涉企摊派行为。严禁无偿占用企业的财物、强制或变相强制企业提供赞助或者捐赠。严禁强行向企业拉广告，强制企业订购书报刊物、音像制品等；严禁行政机关以及履行行政管理职能的事业单位及其工作人员到企业报销各种费用。<br><br>    四、加强督促检查，确保贯彻落实<br><br>    （十一）落实经费保障。取消、停征或减征一批行政事业性收费后，有关部门和单位依法履行行政管理职能或核发证照所需要的经费，由同级财政予以保障。其中，财政补助事业单位的经费支出，通过部门预算予以安排；自收自支事业单位的经费支出，通过安排其上级行政主管部门项目支出予以拨付。<br><br>    （十二）加强监督检查。各级政府、各有关部门要根据本意见认真制定具体实施方案，确保各项措施落实到位。要组织开展自查自纠，对本地区、本部门违规涉企收费行为进行专项整治，主动纠正违法违规涉企收费行为。省减轻企业负担工作领导小组办公室将组织对各地、各有关部门工作落实情况进行专项检查或重点抽查，对检查中发现的问题责令限期整改，检查结果将作为评议行风政风和效能建设考评的重要依据。<br><br>    （十三）严肃查处违法违纪行为。加大案件查处力度，对擅自设立行政事业性收费项目、扩大收费范围、提高收费标准等违法收费行为，依据有关法律法规予以查处，并依法追究有关人员的责任；构成犯罪的，依法追究刑事责任。企业因举报、投诉或抵制违规收费遭受不公正待遇或打击报复的，对有关责任人员要依法依规严肃查处。<br><br>    附件：取消、停征、减征的行政事业性收费和政府性基金<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

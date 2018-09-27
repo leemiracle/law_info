@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2009-11-27<BR>&nbsp;&nbsp;【生效日期】2009-11-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohwsjdj/s7885/200911/44746.htm" target=_blank>食品安全综合协调与卫生监督局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部办公厅关于进一步加强卫生监督与食品安全工作的通知<br><br></font></p><br><br><br>    各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，中国疾病预防控制中心、卫生部卫生监督中心：为贯彻落实党的十七大和十七届四中全会精神，推动深化医药卫生体制改革，进一步做好贯彻实施《食品安全法》和卫生监督工作，有效保障人民群众生命健康权益，现就进一步加强卫生监督与食品安全工作通知如下：<br><br>    一、认清形势，严格依法行政<br><br>    当前，我国正处在经济社会进一步发展的重要战略机遇期，同时也进入了矛盾凸显期和事故高发期，卫生监督和相关领域的公共卫生工作出现一系列新情况新问题。2008年以来，三鹿婴幼儿奶粉事件以及张海超职业病诊断事件等，集中暴露出我国食品安全、职业卫生等工作领域的薄弱环节。此外，非法行医和非法采供血现象在部分基层地区仍然顽固存在，一些危害人民群众身体健康和生命安全的违法行为尚未得到有效遏制。<br><br>    《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》中提出，要认真解决群众反映强烈的食品安全等方面的突出问题。2009年《食品安全法》实施后，地方卫生行政部门在做好各项卫生监督工作的同时，还要依照地方人民政府明确的职责范围，承担本行政区域的食品安全监督管理工作。卫生监督与食品安全工作的任务更加繁重，责任更加重大。<br><br>    各级卫生行政部门要进一步增强紧迫感和责任感，严格依法履行职责。同时要在当地政府的统一领导下，按照中央有关精神，加强体制改革，尽快理顺管理。在地方机构改革和职能调整过程中，各级卫生行政部门要在当地政府领导下，全面理解、认真贯彻中共中央国务院关于深化行政管理体制改革的精神, 切实加强组织领导，把维护人民群众生命健康作为改革的出发点和落脚点，按照精简、统一、效能的原则，进一步加强卫生行政执法综合管理。明确职责，落实监管责任，加强与相关部门的协调配合，提高行政效能，推进依法行政。<br><br>    二、认真履行职责，切实落实各项卫生监督工作<br><br>    各级卫生行政部门要明确本部门的责任范围，做好政府的参谋，不越位，不缺位，认真落实监管责任，避免在体制改革过程中出现履职不到位的情况。要充分认识卫生监督工作法规政策性强、专业技术性强、协调部门多和社会敏感度高的特点，认真完成法定的以及当地政府规定的职责。做好各项公共卫生监督管理和服务工作，切实加强劳动者健康监护和职业病诊断与鉴定；加强放射性职业病危害评价、医疗机构放射诊疗许可和放射防护以及放射工作人员职业健康管理的监督检查；加强饮用水卫生监管，开展饮用水水质和水性疾病监测工作，逐步建立健全城市饮用水卫生监测网络，消除饮用水卫生安全隐患；积极推行公共场所卫生监督量化分级管理制度；做好消毒产品及涉水产品的监督抽检；贯彻落实《传染病防治法》和《学校卫生工作条例》，建立健全传染病防治监督与学校卫生监督队伍和工作机制，明确工作重点，认真履行职责；加大执法力度，依法严肃查处非法行医和非法采供血行为。<br><br>    各级卫生行政部门和卫生监督机构要进一步树立全局意识，围绕中心，服务大局，创新卫生监督和食品安全监管工作思路，加强食品安全工作，提高综合协调能力，尤其是做好食品安全综合协调和食品安全事故报告及调查处理的组织工作。<br><br>    三、强化培训，加强卫生监督队伍建设<br><br>    卫生监督队伍作为一支专业的行政执法队伍，承担着各级卫生行政部门主要的法定监管职责。在国务院要求严格落实行政执法责任制的新形势下，各级卫生行政部门要下大力气切实加强卫生监督队伍建设，强化卫生监督人员培训，进一步提高卫生行政执法人员的思想政治素质、法律素质和专业技术水平。把反腐倡廉贯穿于日常工作的各个方面，推动卫生系统惩防体系的逐步完善，努力打造一支适应新形势、新任务要求，政治合格、作风过硬、业务精湛的卫生行政执法队伍。<br><br>    根据《中华人民共和国公务员法》和关于事业单位分类改革的指导思想，各级卫生行政部门要大力推进卫生监督机构参照公务员管理。尚未纳入公务员管理的，按照国务院关于事业单位实施绩效工资的要求，加强绩效考核和岗位责任制建设。充分调动卫生监督队伍积极性，提高卫生监督工作效能和水平，进一步强化服务意识，保障卫生监督执法的公正性和良好社会形象。<br><br>    各级卫生行政部门要以深化医药卫生体制改革为契机，加强卫生监督能力建设，积极探索有利于加强卫生行政综合执法、落实执法责任制的工作机制，严格执法程序和管理制度，进一步规范执法行为，树立良好的执法队伍社会形象。<br><br>     四、抓住机遇，完善卫生监督保障措施<br><br>    卫生监督体制改革是医药卫生体制改革的重要组成部分，各级卫生行政部门要将卫生监督体系建设作为公共卫生体系建设的重要内容，纳入深化医药卫生体制改革的总体框架，统筹规划，进一步完善政策措施，争取经费支持，加大投入，保证卫生监督体制改革和体系建设的顺利进行。要积极探索通过公共卫生服务均等化项目的实施，加强城市社区和农村乡镇的卫生监督服务能力建设，将各项公共卫生监督管理任务落实到基层，不断总结推广基层卫生监督工作网络建设的经验，充实基层卫生监督人员力量，改善基层工作条件，切实保障各项工作的落实。<br><br>    各地要深入贯彻落实《关于卫生监督体系建设的实施意见》（卫监督发[2006]223号），卫生监督机构所需经费全额纳入财政预算安排。卫生监督机构房屋基本建设、信息化建设和执法装备购置、更新等，应当纳入当地经济社会发展规划和公共卫生建设规划，作为深化医药卫生体制改革的重要内容，按照卫生部制定的标准，统筹规划实施。<br><br>    五、加强卫生监督相关公共卫生专业服务领域能力建设<br><br>    各级卫生行政部门要按照《食品安全法》和《卫生部关于加强卫生监督技术支持能力建设的意见》（卫监督发[2008]9号）等有关规定和要求，进一步明确各级疾病预防控制机构和职业病防治机构的职责任务。切实加强食品安全风险监测、食品安全事故流行病学调查、职业病防治、放射防护监测、饮用水监测、环境健康影响评价等业务能力建设。形成卫生监督和疾病预防控制机构、职防机构相互协调配合的工作机制。要抓住深化医药卫生体制改革的契机，积极协商政府相关部门，建立完善相关公共卫生领域的保障机制，确保各项卫生监督工作和食品安全工作的顺利开展。<br><br>    二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

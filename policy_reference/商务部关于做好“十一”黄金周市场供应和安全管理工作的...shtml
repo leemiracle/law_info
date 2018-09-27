@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-09-14<BR>&nbsp;&nbsp;【生效日期】2006-09-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mofcom.gov.cn/aarticle/h/redht/200609/20060903167946.html" target=_blank>商务部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部关于做好“十一”黄金周市场供应和安全管理工作的通知</font></p><br><br><br>各省、自治区、直辖市、计划单列市、新疆生产建设兵团商务主管部门，省会城市、自治区首府商务主管部门： <br><br>    “十一”黄金周和中秋佳节即将来临，为确保上市销售食品安全，稳定商品市场供应，保证广大人民群众过一个欢乐祥和的假日，现就有关事项通知如下： <br><br>    一、落实各项措施，力保上市销售食品安全 <br><br>    近期，影响食品安全的事件时有发生，威胁人民生命健康。各地商务主管部门要从构建和谐社会的高度，充分认识做好食品安全工作的重要意义，切实加强食品流通、餐饮服务和畜禽屠宰行业管理，做好食品安全宣传工作。各地商务主管部门要集中开展一次食品清仓查库活动，采取企业自查与主管部门抽查相结合的方式，重点检查批发市场、零售场所、商品仓库、畜禽屠宰加工企业和餐饮企业，主要内容是清查食品的生产日期、保质期、进货渠道、包装质量、加工卫生环境等，对于卫生质量有问题的商品，各地商务主管部门要督促企业销毁，并依法对相关企业进行处理。集中开展酒类、肉类市场专项检查，严厉打击私屠滥宰，严肃查处生产、加工、销售病害肉、注水肉、假酒、毒酒及改换过期食品包装标签等违法行为，严格实行不合格食品的退市、召回、销毁、公布制度，净化节假日市场。加大对屠宰厂（场）的监管力度，严把牲畜入厂关，加强动物产地检疫合格证的查验，要求屠宰厂（场）对牲畜运输工具、装卸器具及废弃物进行强化防疫消毒处理，尤其要坚决杜绝屠宰、销售病死猪，严防疫病通过屠宰环节再次传播。 <br><br>    二、高度重视，抓好流通领域安全生产工作 <br><br>    各地商务主管部门要配合当地安全生产主管部门，加强商场、市场等人员密集场所、易燃易爆单位、耐火等级低的密集建筑区消防安全专项治理工作，落实安全措施，消除事故隐患。要通过组织检查和企业自查相结合等形式，加强对商场（店）、宾馆、饭店、批发市场、集贸市场等经营场所的各项安全检查，确保疏散通道安全畅通，消防设施完好有效，防火应急预案切实可行。加强黄金周期间组织重大活动的安全防范工作，要加强营业高峰期、展览会、开业庆典和促销等经营活动的组织管理，认真做好安全和保卫工作，充分考虑大型促销等活动中潜在的人员拥挤、秩序混乱、疾病传播和人身伤害等不安全因素，完善防范应急预案，防止不安全事件发生。 <br><br>    三、精心筹备，保证节日市场商品供应充足 <br><br>    各地商务主管部门要根据《商务部关于印发<生活必需品市场供应突发事件应急预案>的通知》（商运发[2005]351号），完善节日市场供应应急预案，明确责任，组织商业企业增加生活必需品供应，确保假日期间生活必需品不出现断档、脱销现象。要加强对重要商品的储备管理，做好突发事件下的紧急动用工作。9月以来，国内食糖价格出现异常上涨，一些厂商惜售心理严重，为切实维护食糖市场稳定，各地商务主管部门要认真核实本地区食糖库存数量，做好紧急投放准备，并于9月23日前，将食糖储备库存情况报我部（市场运行调节司）。在保证市场供应充足的前提下，要根据今年两节重叠的特点，适应当地市场消费结构变化，增加名优特商品供应，力求品种丰富多样，档次结构合理，上市均衡有序。如果发生生活必需品价格暴涨、群众抢购等市场异常波动事件，各地商务主管部门要快速反应，采取积极有效措施妥善处理，同时立即上报上级主管部门，并直接向商务部报告。 <br><br>    四、启动生活必需品市场信息日报，加强市场监测分析 <br><br>    商务部将于2006年10月1日至7日启动城市生活必需品日报制度，节后自动恢复周报制度。各地商务主管部门要加强节假日期间市场监测，认真做好节日市场供求、消费品价格走势、热销商品、10月1日至6日零售、餐饮企业销售情况等分析，并于2006年10月7日11点前，将“十一”黄金周的市场运行分析材料报商务部（市场运行调节司）。 <br><br>        联系人：王晓飞 <br><br>        电话：010-85226350 <br><br>        传真：010-65252187 <br><br>        电子信箱：jiancechu@mofcom.gov.cn <br>   <br>                                                               商务部 <br>     <br>                                                        二00六年九月十四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

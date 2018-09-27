@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】〔2006〕种植（耕肥）24号<BR>&nbsp;&nbsp;【发布日期】2006-07-04<BR>&nbsp;&nbsp;【生效日期】2006-07-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20060704_641739.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部关于启用“测土配方施肥项目统计管理系统”的通知<br><br></font>(〔2006〕种植（耕肥）24号)</p><br><br><br>各省、自治区、直辖市、计划单列市农业(农牧、农林、农垦)厅(委、局)、新疆生产建设兵团农业局：<br><br>    2006年5月16日，我司下发了《关于对测土配方施肥项目进展情况进行定期统计的函》（〔2006〕种植(耕肥)21号），确定了统计调度指标和定期汇总上报时间。为了规范统计方法，提高工作效率，我司组织专家研究开发了“测土配方施肥项目统计管理系统”，目前已调试完毕，从即日起正式启用。现将有关事项函告如下：<br><br>    一、登陆网址<br><br>    （一）中国农业信息网。登陆步骤是：第一步，进入中国农业信息网首页（http://www.agri.gov.cn）；第二步，查找并点击进入“测土配方施肥”专栏；第三步，在“测土配方施肥”专栏中查找并点击进入测土配方施肥项目统计管理系统。<br><br>    （二）中国农技推广网。登陆步骤是：第一步，进入中国农技推广网首页（http://www.natesc.gov.cn）；第二步，查找并进入“测土配方施肥行动”专栏；第三步，在“测土配方施肥行动”专栏中查找并点击进入测土配方施肥项目统计管理系统。<br><br>    （三）直接进入。输入http://www.natesc.gov.cn/ctsfxmtj/网址，可直接进入测土配方施肥项目统计管理系统。<br><br>    安装了Windows系列操作系统、IE 6.0以上版本的浏览器、Office 2000以上版本的计算机, 通过Internet网可直接访问“测土配方施肥项目统计管理系统”。<br><br>    二、用户注册<br><br>    “测土配方施肥项目统计管理系统”是针对测土配方施肥项目统计管理设计的，承担测土配方施肥项目的省级单位和县级单位，为使用系统基础用户。<br><br>    用户注册时，可向系统管理单位电话申请，或在系统中“注册新用户”。操作步骤是：系统首页－－注册新用户－－填写申请表－－等待上级部门审核。<br><br>    在填写注册申请表时，必须如实填写用户所在省（市、区）所在县（市、旗、师、场）名称（省级土肥站人员只填写省、市区名称）、单位名称、联系电话、用户姓名等相关信息，如果填写内容不实，将得不到注册批准。<br><br>    为了保证系统数据安全，请用户将密码设为6个以上的数字或字母。<br><br>    三、数据填报<br><br>    进入系统主页，输入正确的用户名称和密码，进入系统首页，进行“报表管理(上传、下载、删除统计表格等) ”、“项目文档管理(上传、下载、删除项目文档等)”、“统计分析”、“数据提取”等操作。<br><br>    以“测土配方施肥项目进展情况统计表（季报）”为例，说明数据填报与上传步骤：<br><br>    第一步，下载报表模板。操作步骤是：系统主页－－报表模板下载－－测土配方施肥项目进展情况统计表（季报）－－报表模板保存到便于管理的本地计算机文件夹内。<br><br>    第二步，数据填报。操作步骤是：用Excel打开下载好的报表模板－－逐项填写报表数据－－以与报表模板不同的文件名保存统计电子表格。<br><br>    填报数据时，不得更改系统规定的统计项目的计量单位，或在填报数据后面加“万”、“千”等计量单位字样，造成所填数据计量单位与系统规定的计量单位不一致，从而导致填报数据失效。<br><br>    各项目县是数据填报主体单位，省级单位负责审核各项目县填报的数据，如果审核填报数据有误，应通知填报数据有误的项目县修改后重新上传。本系统可自动生成汇总数据，省级单位不再汇总上传本省数据，只填报上传省本级工作情况有关数据，如省本级财政投入情况、省本级直接化验样品数、化验项次及省本级直接举办的技术培训等数据。<br><br>    第三步，上传数据。将填写好的电子表格上传到系统中。操作步骤是：系统主页－－输入用户名称及密码进入系统－－统计报表管理之“上传、下载、删除项目进展统计表”－－点击“浏览”按钮找到需要上传的文件－－上传新的数据。<br><br>    四、数据管理<br><br>    （一）单位编码。所有统计报表中的单位编码按本系统中的最新规定为准填写，我司2006年5月16日下发了《关于对测土配方施肥项目进展情况进行定期统计的函》（〔2006〕种植(耕肥)21号）规定的编码同时废止。目前使用的编码与国家2006年规定的行政区域编码基本一致，如果有个别单位其编码不在本系统规定之内，请速与上级单位联系。<br><br>    单位编码查看操作步骤是：本系统主页－－单位编码查询。<br><br>    （二）数据上传时间。由于本系统开发较晚，未能赶上第二季度统计使用，为保证统计数据的完整性、连续性，请各项目县和各省于7月10日前将上半年统计数据填报上传到本系统中。<br><br>    今后数据上传时间，各填报单位一律在每季度末最后一个月的15日前完成统计填报工作，并同时上传。每年度最后一个季度要同时填报上传《测土配方施肥项目效益统计表(年报)》和《测土配方施肥项目农民满意程度调查表(年报)》。<br><br>    （三）数据删除。如果由于某些不可抗拒的因素，可以删除或修改已经上传的数据。删除数据的操作步骤是：本系统主页－－输入用户名称及密码进入系统－－统计报表管理之“上传、下载、删除项目进展统计表”－－勾选需要删除的表格－－删除勾选数据。<br><br>    （四）数据修改。操作步骤是：系统主页－－输入用户名称及密码进入系统－－统计报表管理之“上传、下载、删除项目进展统计表”－－下载数据－－保存到适当的文件－－用Excel打开并修改－－修改完毕后保存文件－－按上传数据的操作步骤重新上传文件。<br><br>    下载表格时，如果是直接“打开”的，修改后的保存只是保存到本地的计算机上，而不是保存到了服务器上，因此必须重新上传，才会将数据发送到服务器上。<br><br>    五、其他事项<br><br>    请各地及时将使用过程中发现的问题反馈部测土配方施肥工作办公室（种植业管理司）宣传验收组。<br><br>    联系电话：64194533    64194532（传真）     64193373<br><br>    电子信箱：water@agri.gov.cn    cetushifei@agri.gov.cn<br><br>    二○○六年七月四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

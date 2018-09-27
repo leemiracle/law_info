@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办农[2006]15号<BR>&nbsp;&nbsp;【发布日期】2006-03-27<BR>&nbsp;&nbsp;【生效日期】2006-03-27<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20060330_582521.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于2006年发展棉花生产的意见<br><br></font>(农办农[2006]15号)</p><br><br><br>各产棉省（自治区）农业（农林）厅（委员会）、新疆生产建设兵团农业局：<br><br>    为贯彻落实中央农村工作会议和全国农业工作会议精神，促进今年棉花生产稳定发展，切实提高综合生产能力，保障我国棉花产业安全，现提出如下意见。<br><br>    一、正确分析棉花产需形势<br><br>    （一）国内棉花供不应求。据国家统计局统计，2005年我国棉花种植面积7590万亩，总产量570万吨，分别比上年下降11％和9.8％；同期全国纱产量1440万吨，同比增长11.5％，棉花总消费量950万吨左右。纺织服装出口达1150亿美元，同比增长20.7％，连续三年保持20％以上的速度增长。<br><br>    （二）进口棉花急剧增加。目前，棉花已成为我国继大豆和食用油之后的第三大进口农产品。2001-2005五年共进口原棉566.6万吨（2001、2002、2003、2004分别为5.6万吨、17万吨、87万吨、190万吨和257万吨），其中2005年进口棉花占同期世界棉花贸易量的29％，占同期国内棉花消费量的27％。<br><br>    （三）棉花生产基础不牢。我国大部分棉田基础设施薄弱，远不能抵御洪涝灾害，棉花生产“靠天吃饭”的局面没有根本改变；棉田土壤有机质下降，养分失调，土质结构变差，耕地地力下降较为严重；棉田土壤中病菌积累增加，老棉区枯、黄萎病混生、蔓延暴发。同时，棉铃虫抗性增强，部分棉田非靶标害虫大发生等问题也对棉花生产造成一定的影响。<br><br>    （四）贸易环境有所改善。2005年在香港召开的WTO部长级会议决定从2006年起，发达国家全面取消棉花出口补贴，棉花的国内外价差将有所缩小，有利于扩大国内棉花生产。<br><br>    二、2006年棉花生产的指导思想和总体目标<br><br>    （五）指导思想。以恢复增加棉花播种面积为基础，以增加科技含量为支撑，以提高单产水平和纤维品质为重点，大力推广节本增效实用技术，不断提高棉花种植效益，提升棉花综合生产能力，为满足纺织工业发展原料需求和保障棉花产业安全做出贡献。<br><br>    （六）总体目标。力争棉花播种面积达到8000万亩左右，平均单产75公斤/亩以上，实现皮棉总产量600万吨以上。其中长江流域棉区稳定在2000万亩，黄河流域棉区恢复增加到4200万亩，西北内陆棉区适当扩大到1800万亩。进一步优化品种、品质结构，提高植棉效益和竞争力。<br><br>    三、恢复增加棉花种植面积<br><br>    （七）大力发展优势区域内的棉花生产。继续实施《全国棉花优势区域发展规划》，使棉花种植进一步由分散棉区向优势区域集中。各级农业部门要及时提供棉花供求信息，正确引导农民适当扩大棉花种植面积，稳定发展棉花生产。各棉花主产省（区）要在资金、项目、人员、技术等多方面予以重点扶持，确保优势区域内棉花生产稳定，努力提高优势区域内的棉花综合生产能力，带动周边地区棉花生产水平的提高。<br><br>    （八）努力提高复种指数。长江流域和黄河流域两大棉区要积极发展棉花与小麦、油菜、玉米套种，因地制宜地推广棉花与大蒜、马铃薯等其他作物的间种，提高耕地复种指数，实现棉花与粮食及其他作物的协调发展。为积极推进超早熟短季棉的试验示范，今年我部已将其列入国家级棉花区域试验。同时，在河北、山东、河南和新疆等省（区）开展栽培试验，研究超早熟短季棉的适宜区域、生长特性和配套栽培技术，为品种审定、推广提供依据。各有关农业部门要积极配合，做好相关技术储备，稳步推进超早熟短季棉的试验示范工作。<br><br>    （九）积极扩大宜棉区棉花面积。河北、山东等盐碱地较多的省份要采取积极措施，加大盐碱地改良力度，推广耐盐碱的棉花品种，增加盐碱地植棉面积。新疆棉区在水利条件相匹配的情况下，可以适当开垦荒地，扩大棉花种植。<br><br>    四、努力提高棉花单产水平<br><br>    （十）提高棉田地力。各地要根据中央和我部关于搞好“沃土工程”建设的要求，增加棉田土壤有机质投入，提高肥料和水资源的利用率，改造中低产田、防止水土退化。同时，配合“测土配方施肥行动”的实施，积极开展棉田耕地质量建设，改良土壤环境，提高棉田地力。<br><br>    （十一）推广优良品种。各地要加大抗病、抗虫优良品种的研发和推广力度，重点培育高抗棉铃虫和棉花枯黄萎病的新品种；加快杂交棉的推广步伐，扩大杂交棉种植面积；积极发展高品质棉，推行良种良法配套，充分发挥优良品种的增产潜能。<br><br>    （十二）做好科技入户工作。以实施“科技入户工程”为契机，围绕标准化棉花生产示范基地建设，大力开展品种展示示范，引导各地确定主推品种，提高优良品种和关键技术的到位率和入户率。在棉花生产关键时期，组织棉花专家组深入各主产区指导生产，切实解决生产中出现的实际问题。<br><br>    （十三）加大新技术示范力度。大力推进棉花简化栽培和节本增效技术的普及应用，减少用工，降低成本，增加效益。通过实施“棉花无土育苗移栽技术集成创新与推广”项目，研究其棉苗的生长发育规律和配套栽培技术，加快技术的转化应用。各地要结合本地实际，确定1-2项主推实用新技术，将优良品种与主推技术相配套，并组织多种形式的现场观摩会，促进主导品种与主推技术大面积应用，努力增加棉花生产的科技含量，提高棉花种植效益。<br><br>    五、着力改善棉花纤维品质<br><br>    （十四）调优品种结构。因地制宜地推广适纺高支纱和中支纱原棉品种的种植面积，调优棉花品种结构。长江流域重点发展纤维长度32mm左右、断裂比强度33以上、马克隆值3.8-5.0、适纺60支左右高支纱的高品质棉花品种。黄河流域及西北内陆棉区重点推广纤维长度30mm左右、断裂比强度30以上、马克隆值3.4-4.5、适纺32-40支左右中支纱的棉花品种。有条件的地区通过“订单”生产适纺低支纱的专用品种。<br><br>    （十五）推进规模种植。各棉花主产区要积极推行规模栽培，统一品种布局，努力实现“一乡一品”，搞好技术服务，切实提高原棉品质一致性。<br><br>    （十六）全程控制“三丝”。各产棉区要严格对采摘、晾晒、包装、运输等环节的“三丝”控制。今年，我部将在新疆开展防“三丝”标准化生产试点，着力探索解决我国棉花“三丝”的有效途径。各地都要采取有效措施，动员广大农民使用棉布包、袋摘拾棉花，从源头减少和控制“三丝”的混入。<br><br>    六、扎实做好当前棉花生产的重点工作<br><br>    （十七）认真搞好春耕备播工作。各地要认真组织，加强指导。切实搞好棉田整地保墒、造墒等工作，努力扩大棉田造墒面积；要备足备好良种、肥料、农膜、农药等生产资料，做好农机具检修；同时要抓好技术培训工作。<br><br>    （十八）切实加强棉种检疫和市场管理。各级农业部门要及早调剂棉种余缺，确保棉种供应充足，加强对棉种市场的监管力度，严禁假冒伪劣棉种流入市场。在棉种调运和调剂过程中，严格检疫检验制度，严防带菌种子流入非病区，特别是要加强对黄萎病菌的检验，努力控制黄萎病的发生，使其不再蔓延。<br><br>                                        农业部办公厅<br>                                      二○○六年三月二十七日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

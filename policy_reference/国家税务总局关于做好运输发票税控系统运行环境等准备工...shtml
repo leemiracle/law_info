@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2006]85号<BR>&nbsp;&nbsp;【发布日期】2006-06-09<BR>&nbsp;&nbsp;【生效日期】2006-06-09<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200606141458431398" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于做好运输发票税控系统运行环境等准备工作的通知<br><br></font>(国税发[2006]85号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    为加强运输发票的管理，总局决定，今年8月起在全国货物运输业推行运输发票税控系统。请各单位认真组织，尽快做好该系统推行的相关环境准备工作。具体要求如下：?<br>    一、 关于运输发票税控系统的说明及相应要求?<br>    运输发票税控系统是税控收款机模块二（带抵扣功能发票的税控管理）的一部分，包括税务端后台税控管理系统和企业端运输发票开票软件两部分。?<br>    （一）后台税控管理系统?<br>    后台税控管理系统实现了税控装置税控盘/传输盘的初始化、运输发票电子信息写盘、读取纳税人抄报信息、税控盘管理、运输发票认证、统计分析等功能。其中，运输发票税控系统密钥发行采用网络发行机制，总局已建立全国集中的发行中心。为保证密钥发行安全，总局将统一为每个省局配备一台税控专用密码机。各省必须与总局发行中心联网才可实现税控盘/传输盘的初始化、注销作废及运输发票跨省认证功能。?<br>    后台税控管理系统要求：采用省级集中方式部署，数据和处理均集中在省一级存储和运行，前端操作工作站分布在各个征收部门（办税服务厅）；系统采用J2EE三层架构设计开发，数据库采用ORACLE9i，中间件采用BEA公司Weblogic 8.1，浏览器为IE5.5以上；数据库服务器采用小型机服务器或PC服务器，中间件服务器采用小型机服务器或PC服务器；网络利用各地广域网。?<br>    （二）运输发票开票软件系统?<br>    货物运输业开票软件必须与税控装置税控盘/传输盘配合使用才可开具带税控码的运输发票。税控盘和传输盘是运输发票管理采用的税控装置，通过总局灌装中心灌装算法及密钥并通过后台管理系统初始化后的税控盘和传输盘方可投入使用。税控盘和传输盘安插在PC机USB口上即可使用，无需另配通用读卡器。<br>    运输发票开票软件包含企业自开、委托代开机构代开和税务机关代开三个版本：?<br>    1.运输发票开票软件（企业自开版）为单机版，纳税人免费使用该软件。?<br>    2.运输发票开票软件（委托代开版）除包含发票管理的基本功能外，还包括税票开具及管理功能，要求先缴税后开发票。软件为单机版。?<br>    3.运输发票开票软件（税务机关代开版）包含运输发票开具、生成抄报数据、回读监控信息等基本功能，还支持税票开具的功能，要求先缴税后开具发票。?<br>    货物运输业开票软件（税务机关代开版）是采用三层体系结构的网络版软件，安装要求为：数据库采用ORACLE9i，中间件采用BEA公司Weblogic 8.1，浏览器为IE5.5；按照省级集中部署；每个开票窗口PC机上需配置税控盘。?<br>    二、准备工作要求?<br>    （一）地税系统准备工作要求?<br>    1.后台管理系统?<br>    （1）网络?<br>    后台管理系统以省级集中方式部署，省局到区（县）征收大厅和税务所的网络要求全部贯通。根据总局前期资源调查的情况，大部分省份的网络条件满足。如果有单位网络条件不满足，应积极予以解决（如采取拨号方式）。?<br>    （2）服务器?<br>    根据前期运行环境调查情况，有的地方前期已配有的小型机能满足基本要求。各地应根据本省运输企业户数估算全省一定时期内货运发票开票明细数据的数据量，准备好相应的主机和存储设备。运输企业户数小的省份，可暂采用PC服务器。没有服务器的单位，应尽快购买服务器。?<br>    （3）数据库和中间件?<br>未购买数据库oracle9i、中间件weblogic8.1的单位应尽快购买。各地如需跟标采购数据库、中间件，有关跟标采购价格事宜，请与总局采购中心联系。?<br>    （4）税控专用密码机?<br>    运输发票税控系统与税控收款机管理系统将共用一台税控专用密码机，各地应根据《国家税务总局关于安装使用税控收款机管理系统软件有关问题的通知》（国税函〔2006〕216号）的有关要求准备税控专用密码机的安装使用环境。?<br>    （5）总局已下发接口规范及软件修改要求，详见《国家税务总局信息中心关于下发税控收款机管理系统（模块二）货物运输发票相关接口规范的通知》（信便函〔2006〕137号），请各地按此文件要求做好软件接口开发和部署工作。?<br>    （6）各单位应提前准备后台管理系统上线的初始数据和代码，包括：运输发票开票单位基本信息、代开票纳税人信息、票种核定信息、系统代码。?<br>    为确保总局统一组织的系统安装工作顺利进行，各地务必于6月20日前完成税务端所有环境准备工作。?<br>    2.运输发票开票软件?<br>    （1）各省地方税务局应要求自开票纳税人和委托代开机构在7月20日前完成运输发票开票软件的运行环境准备工作，具体包括：PC机、Windows 2000以上操作系统、针式票据打印机（运输发票大小为：241mm×177mm）、税控盘/传输盘等。?<br>    （2）运输发票开票软件（税务机关代开版）运行环境同后台管理系统，要求以省级集中方式部署，采用J2EE三层体系结构，数据库采用oracle9i，中间件采用Weblogic8.1,浏览器采用IE5.5以上。各省地方税务局应在6月20日前准备好有关环境。?<br>    （3）税控盘?<br>    北京握奇数据有限公司、北京旋极信息技术有限公司和武汉天喻信息产业股份有限公司等三家企业的税控盘产品已基本通过总局的符合性验证，目前正在湖南做进一步功能测试和性能测试。为确保推广进度，各省地方税务局应提前与这三家企业就产品型号、数量、服务和价格等事宜进行商谈，按照一省一家税控盘供货商的原则，先行与其中一家企业签订意向性协议，以加快税控盘的供货进度。三家企业的联系方式详见附件：《税控盘产品供货商名单及联系方式》。最终通过测试的产品品牌、型号等内容总局将另行下文通知。?<br>    各省地方税务局应要求自开票货运企业、代开税务机关、委托代征机关应在7月25日前购买到税控盘和传输盘，7月30日前完成税控盘初始化所有工作。?<br>    （二）国税系统准备工作要求?<br>    各省国税局应按照总局将公布的省级集中应用系统平台实施方案的要求，使用税控收款机系统的资源，规划部署运输发票税控系统的发票认证功能模块，同时对增值税专用发票扫描识别软件升级。由于省级集中应用系统平台实施推迟，要求各省国税局另行安排主机资源。?<br>    各省国税局应按《国家税务总局信息中心关于下发税控收款机管理系统（模块二）货物运输发票相关接口规范的通知》（信便函〔2006〕137号）要求，做好软件开发和部署工作。?<br>    各国税单位应于6月20日前准备好有关环境。?<br>    （三）总局负责工作?<br>    1.总局将于6月中旬组织全国各省的技术、业务人员举办后台管理系统和开票软件的师资培训。各地应在师资培训后，利用总局适时下发的培训专用系统和培训教材组织完成本省的后台管理系统和开票软件的技术和业务培训。?<br>    2.6月21日起，总局统一组织人员赴各地进行税务端系统安装，各地应提前准备好环境。安装具体时间安排另文通知。各地要于7月20日前完成税务端系统安装调试。?<br>    系统准备及部署的详细内容见《运输发票税控系统部署方案》,请各单位到总局技术支持网站（http://130.9.1.248）下载。<br>    3.总局将建立纳税人端开票软件技术支持呼叫中心，为自开票企业和委托代开机构提供运输发票开票软件的远程技术支持。对于需上门服务的特殊情况，由各地税务机关负责解决。?<br>如有问题，请及时与总局联系。?<br>    总局（信息中心）联系人及电话：黎德玲，010-63417695<br>    总局（集中采购中心）联系人及电话：胡雅丽，010-63417602<br>    <br>    附件：税控盘产品供货商名单及联系方式<br><br>国家税务总局<br>二○○六年六月九日<br> <br><br>附件?<br>税控盘产品供货商名单及联系方式<br>?<br>税控盘产品供货商的名单及联系方式如下：<br>公司名称：武汉天喻信息产业股份有限公司?<br>公司地址：武汉东湖开发区庙山小区华工大学科技园天喻信息大楼?<br>邮政编码：430223?<br>联系人：  王捷?<br>联系电话：027-87920389，010-87920386  13807196767?<br>传真：    027-87920306?<br>公司网址：http://www.whty.com.cn?<br><br>公司名称：北京旋极信息技术有限公司?<br>公司地址：北京市海淀区北四环中路229号海泰大厦1006室  ?<br>邮政编码：100083?<br>联系人：  陈宇飞?<br>联系电话：010-62391870，010-82883933-681?<br>公司网址：http://www.watertek.com?<br>?<br>公司名称：北京握奇数据有限公司?<br>公司地址：北京市朝阳区首都机场路万红西街2号?<br>邮政编码：100015?<br>联系人：  陈杰?<br>联系电话：010-64722288-8854，010-64726134?<br>13601361327?<br>公司网址：http://www.watchdata.com.cn<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】哈尔滨市<BR>&nbsp;&nbsp;【发布文号】哈政办综[2006]85号<BR>&nbsp;&nbsp;【发布日期】2006-11-22<BR>&nbsp;&nbsp;【生效日期】2006-11-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.harbin.gov.cn/hrbzfw/hrbnews_zb/display_dz.php?id=1327" target=_blank>哈尔滨市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>哈尔滨市人民政府办公厅转发市公安局关于在全市开展治安管理信息系统建设实施意见的通知 <br><br></font>(哈政办综[2006]85号)</p> <br><br><br>    各区、县（市）人民政府，市政府有关委、办、局：? <br><br>    经市政府同意，现将市公安局《关于在全市开展治安管理信息系统建设的实施意见》予以转发，请认真贯彻执行。 <br>??   <br>    哈尔滨市人民政府办公厅 <br><br>    二○○六年十一月二十二日   <br>??? <br><br>     关于在全市开展治安管理信息系统建设的实施意见 <br><br>     哈尔滨市公安局 <br><br>    （二○○六年十一月十日） <br><br>    为进一步加强治安管理，打造“平安哈尔滨”，按照公安部和省公安厅的工作部署，决定在全市范围内开展治安管理信息系统建设工作，特提出如下实施意见： <br><br>    一、指导思想 <br><br>    以“三个代表”重要思想为指导，全面落实科学发展观，紧紧围绕打造“平安哈尔滨”、构建和谐社会的公安工作总目标，坚持资源开发与使用管理并重、把使用放在首位的方针，以提高社会治安管理效率为核心，以公共信息资源综合利用和共享为重点，加快管理创新，推进技术进步，切实加强对行业场所的阵地控制作用，及时发现和打击违法犯罪活动，更好地履行公安机关职责，维护社会稳定和政治安定。 <br><br>    二、责任分工   <br><br>    全市治安管理信息系统建设由市公安局负责推广建设；市信息产业局和市财政局等相关部门负责协助做好各项保障工作；各区、县（市）公安机关负责具体落实网络建设任务。市公安局成立哈尔滨市治安管理信息系统建设领导小组，网络建设办公室设在市公安局治安支队。 <br><br>    三、建设内容 <br>     <br>    （一）市公安局治安管理信息中心 <br><br>    设在市公安局治安支队，包括后台机房、监控中心和服务窗口三个部分，主要负责各子系统硬件支撑和信息加工处理与共享。?   <br><br>    （二）四个子系统 <br><br>    1.旅馆业治安管理信息系统。建设范围为哈尔滨市行政区域内所有接待旅客住宿的宾馆、旅馆、饭店、酒店、招待所、办事处、度假村和洗浴场所等。 <br><br>    2.公章刻制业治安管理信息系统。建设范围为哈尔滨市行政区域内所有具备刻制公章资质的刻字企业。 <br><br>    3.旧货业治安管理信息系统。建设范围为哈尔滨市行政区域内所有典当业、寄卖业、废旧金属收购业、机动车交易及报废汽车回收业、旧手机及旧计算机（含外部设备）交易业，以及开锁业。 <br><br>    4.危险物品储存库监控报警系统。建设范围为哈尔滨市行政区域内的危险物品（含枪支、弹药、爆炸、剧毒、放射性物品）储存库。 <br><br>    四、建设单位 <br><br>    旅馆业治安管理信息系统建设，按照《黑龙江省人民政府办公厅转发省公安厅关于在全省旅馆业建立治安管理系统意见的通知》（黑政办发〔2001〕49号）关于“授权黑龙江省达因信息技术有限公司为全省唯一指定公司”之规定执行；危险物品储存库监控报警系统由黑龙江移动通信有限责任公司承建；公章刻制业治安管理系统和旧货业治安管理系统的承建单位由招标确定。 <br><br>    五、建设资金 <br><br>    市公安局治安管理信息中心建设资金由市财政承担；旅馆业治安管理子系统建设资金由参加网络建设的旅馆业户承担，前台主机由旅馆业户自备；公章刻制业治安管理子系统建设资金由市财政承担，其中系统安装调试和培训费由业户承担；旧货业治安管理子系统建设资金由参加网络建设的业户承担；危险物品储存库监控报警子系统建设资金由参加网络建设的单位（企业）承担。 <br><br>    六、时间安排 <br><br>    全市治安管理信息系统建设自2006年12月1日启动，2007年底前全部建成投入使用。从2007年1月1日起，开办和经营旅馆业、公章刻制业、旧货业的单位和个人必须加入治安管理信息系统。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

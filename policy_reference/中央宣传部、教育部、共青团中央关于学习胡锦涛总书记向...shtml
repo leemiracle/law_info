@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中央宣传部、教育部、共青团中央<BR>&nbsp;&nbsp;【发布文号】教思政〔2007〕10号<BR>&nbsp;&nbsp;【发布日期】2007-05-28<BR>&nbsp;&nbsp;【生效日期】2007-05-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info28636.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中央宣传部、教育部、共青团中央关于学习胡锦涛总书记向中国青年群英会致信精神的通知<br><br></font>(教思政〔2007〕10号)</p><br><br><br>各省、自治区、直辖市党委宣传部、教育工作部门、教育厅（教委）、团委，新疆生产建设兵团党委宣传部、教育局、团委，教育部直属各高等学校：<br><br>    今年5月4日，胡锦涛总书记致信中国青年群英会，代表党中央向全国广大团员和各族青年致以节日的问候，向新中国成立以来各个时期的青年英模致以崇高的敬意。胡锦涛总书记殷切希望全国广大团员和各族青年牢记党和人民的重托，自觉担负起时代的重任，以英雄楷模为榜样，努力成为理想远大、信念坚定的新一代，品德高尚、意志顽强的新一代，视野开阔、知识丰富的新一代，开拓进取、艰苦创业的新一代。<br><br>    胡锦涛总书记的贺信，在全国广大青年学生中引起强烈反响。中央宣传部、教育部、共青团中央决定，在全国广大青年学生中深入开展学习贯彻贺信精神活动，引导青年学生按照“四个新一代”要求树立正确发展方向。现将有关工作和要求通知如下： <br><br>    一、深刻认识贺信的重大意义，组织广大青年学生认真学习、深刻领会贺信精神 <br><br>    胡锦涛总书记在信中充分肯定了一代又一代青年为社会主义革命、建设、改革事业做出的重要贡献，高度评价了一大批可歌可泣的青年英模取得的突出业绩，对全国广大团员和各族青年提出了殷切的希望。贺信给全国广大青年以巨大鼓舞，进一步指明了青年学生健康成长的方向，对新形势下进一步做好教育引导青年学生的工作，具有十分重要的意义。各地各部门一定要把组织广大青年学生认真学习贯彻贺信精神作为当前的一项重要任务来抓。要开展丰富多彩的学习活动，采取生动有效的学习方式，帮助广大青年学生准确理解和掌握贺信精神。要引导青年学生深刻认识青年只有在党的领导下，积极投身人民创造历史的火热实践，坚持与时代同步伐、与祖国共命运、与人民齐奋斗，才能拥有壮丽的青春，才能实现人生的美好理想。要引导青年学生深刻认识自身担负的时代重任，与全国人民一道，奋勇承担全面建设小康社会、加快推进社会主义现代化的历史任务，奋力开创中华民族伟大复兴的光明前景。要引导青年学生深刻认识党对青年健康成长的新要求，努力成为理想远大、信念坚定的新一代，品德高尚、意志顽强的新一代，视野开阔、知识丰富的新一代，开拓进取、艰苦创业的新一代。要引导广大青年学生深刻认识以胡锦涛同志为总书记的党中央对青年一代的高度重视、亲切关怀和殷切期望，进一步增强投身全面建设小康社会、构建社会主义和谐社会伟大实践的责任感和使命感，在建设中国特色社会主义的伟大事业中创造新的时代业绩。<br><br>    二、按照“四个新一代”要求，教育和引导广大青年学生健康成长<br><br>    贺信明确提出了青年要努力成为“四个新一代”的要求，为当代青年健康成长进一步指明了方向。各级宣传、教育部门和共青团组织要紧密结合工作实际，从培养社会主义事业合格建设者和可靠接班人的高度出发,围绕建设社会主义核心价值体系，按照“四个新一代”的要求引导广大青年学生健康成长。<br><br>    要用中国特色社会主义的共同理想引领青年学生，帮助青年学生牢固树立振兴中华的远大理想和跟党走中国特色社会主义道路的坚定信念，牢固树立正确的世界观、人生观、价值观，把个人的奋斗与祖国的发展紧密结合起来，在推动科学发展、促进社会和谐的宏伟进程中实现人生价值，努力成为理想远大、信念坚定的新一代。<br><br>    要在广大青年学生中深入开展公民道德教育和民族精神教育，大力弘扬社会主义荣辱观。广泛开展社会公德、职业道德和家庭美德教育，深入开展中华民族优良传统和中国革命传统教育，着力培养青年良好的道德品质，引导广大青年学生树立民族自尊心、自信心和自豪感，努力成为品德高尚、意志顽强的新一代。<br><br>    要以青年学生全面发展为目标，深入进行素质教育。引导青年学生在中国特色社会主义事业的伟大实践中，在时代和社会的发展进步中汲取营养，发奋学习，掌握现代科学文化知识，提高综合素质，不断攀登科技高峰，在运用科学技术推动生产力发展中充分发挥生力军作用，努力成为视野开阔、知识丰富的新一代。<br><br>    要坚持用以改革创新为核心的时代精神激励青年学生，培养广大青年学生的爱国情怀、改革精神和创新能力。激励青年学生创新创业，着力激发和培养青年创新创业的意识和能力，激励各行各业的青年立足岗位，锐意进取，大胆创新，激励广大青年学生到祖国和人民最需要的地方去，开拓创业，建功成才，努力成为开拓进取、艰苦创业的新一代。<br><br>    三、切实加强组织领导，把贯彻落实贺信精神各项工作抓实抓好<br><br>    各级宣传部门要充分运用宣传舆论手段，加强对广大青年学生学习贯彻贺信精神的宣传引导，努力营造学习贯彻的浓厚氛围。要在各类媒体开辟重点栏目，刊登重点文章，宣传好贺信的内容和精神，宣传好各地各校组织广大青年学生学习贯彻贺信的活动，宣传好青年群体中涌现出的先进事迹和典型人物。<br><br>    各级教育部门和学校要继续深入贯彻落实中发〔2004〕16号和8号文件精神，加强素质教育，大力开展社会实践、校园文化活动，加强对在校青年学生的思想政治教育，教育引导广大在校青年学习贯彻贺信精神。要充分发挥教育系统特别是高校人才资源和理论研究优势，围绕贺信深入开展理论研究和探索，为深入贯彻落实贺信精神提供理论支持。<br><br>    各级共青团组织要充分发挥自身组织优势，组织广大团员青年开展学习贯彻贺信精神系列活动。要把“四个新一代”要求贯穿到团的各项工作和建设中，落实和体现在共青团组织青年、引导青年、服务青年、维护青年合法权益的方方面面。要发挥各级学联、学生会、研究生会、学生社团等学生自治组织的桥梁和纽带作用，积极引导广大团员青年自觉学习贯彻贺信精神，按照“四个新一代要求”健康成长成才。<br><br>    要深入挖掘、大力宣传和表彰弘扬青年学生中涌现出的先进事迹和典型人物，用身边人身边事教育青年，感动社会。要紧密结合青年学生的实际，发掘、培养和树立可亲、可敬、可信、可学的榜样。要注重树立青年学生身边的榜样，典型要突出鲜明的时代性，要立足真实性，要着眼于弘扬崇高的精神，要采用喜闻乐见的方式来进行宣传，激发广大青年学生学习榜样的自觉行为，使榜样的力量转化为催人上进的内在力量。                            <br><br>中央宣传部<br>教  育  部<br>共青团中央<br><br>二○○七年五月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

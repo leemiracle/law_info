@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国人民银行、财政部、中国证券监督管理委员会<BR>&nbsp;&nbsp;【发布文号】证监发[2005]59号<BR>&nbsp;&nbsp;【发布日期】2005-06-30<BR>&nbsp;&nbsp;【生效日期】2005-06-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://news.xinhuanet.com/zhengfu/2005-07/26/content_3268614.htm" target=_blank>国务院法制办公室 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国人民银行、财政部、中国证券监督管理委员会关于证券公司个人债权及客户证券交易结算资金收购有关问题的通知<br><br></font>(证监发[2005]59号)</p><br><br><br>中国人民银行各分行、营业管理部、省会（首府）城市中心支行，大连、青岛、宁波、厦门、深圳市中心支行；各省、自治区、直辖市、计划单列市财政厅（局）；中国证监会各省、自治区、直辖市、计划单列市监管局： <br><br>    为进一步落实被处置证券公司个人债权及客户证券交易结算资金收购工作，根据《<a href=javascript:ROF(97282,0) class=alink>个人债权及客户证券交易结算资金收购意见</a>》（以下简称《收购意见》）及《个人债权及客户证券交易结算资金收购实施办法》（以下简称《实施办法》），现就证券公司个人债权及客户证券交易结算资金收购工作中的有关问题通知如下： <br><br>    一、客户与证券公司签订委托理财协议后，无论是否有过交易记录，如委托理财资金未独立存放，与被处置证券公司其他资金混同使用，则认定委托理财资金被挪用。 <br><br>    二、多名个人资金集合后以单一个人或虚拟自然人名义与证券公司签订委托理财协议，认定为个人委托理财，按单一个人债权处理。但若同一合同项下该部分个人同时又分别与证券公司或其所属证券营业部直接签订协议，则以个人直接协议为依据进行个人债权的登记、甄别确认和收购。 <br><br>    三、公告处置日前委托理财或借贷关系已经终止，同时公司有真实资金转入的，客户资金账户内资金余额属于客户证券交易结算资金。证券公司或营业部虚增客户资金账户内资金，没有真实资金转入的，不能认定为客户证券交易结算资金。 <br><br>    四、个人债权收购金额以截止公告处置日的当期未结清合同约定的本金余额为准，当期未结清合同中证券公司已支付的高息，从收购本金中扣除。 <br><br>    五、同一委托理财协议下，债权人同时在被处置证券公司的不同地区的营业机构开户，或同时在被处置证券公司和其他证券公司的营业机构开户，应当区别账户性质，以该委托理财协议为准，由协议载明的被处置证券公司的开户营业机构所在地政府负责甄别确认。协议没有载明开户营业部的，由被处置证券公司注册地的地方政府负责甄别确认和收购。 <br><br>    六、三方监管委托理财中存在配比资金等与委托理财资金混同情况，或违背合同投资约定的，认定为权属不清晰。权属不清晰或资产被挪用的三方监管委托理财中的个人债权部分，纳入收购范围，由监管方证券营业部所在地政府负责甄别确认和收购。 <br><br>    七、对于挪用的正常经纪类个人客户的证券，由托管清算机构负责甄别确认，报证监会审查后向人民银行申请再贷款，按《收购意见》中关于个人债权的规定予以收购。《收购意见》中关于地方政府负责甄别和筹集10%资金的规定不适用本条。 <br><br>    八、监管部门或托管清算机构对被处置证券公司实施保护性冻结的权属清晰、未被挪用的个人委托理财（含三方监管委托理财），经托管清算机构核实并确认后，予以解冻，客户账户内的资产不纳入收购范围，不作为清算财产。 <br><br>    九、各托管清算机构应严格按照《收购意见》和《实施办法》登记个人债权，对个人债权登记资料的真实性、一致性进行审查，严把登记关。托管清算机构在向甄别确认小组报送个人债权登记材料时，应对登记过程中发现的疑点问题详细说明，并积极配合甄别确认工作。 <br><br>    十、甄别确认小组要严格按照《收购意见》及《实施办法》规定的标准和程序对个人债权进行甄别确认，对托管清算机构报告的疑点、问题和大额个人债权应严格审查。20万元（含20万元）以上的大额个人债权人不能提供合法收入证明的，应书面说明收入来源和不能提供合法收入证明的合理原因，并就收入的合法性做出承诺，对承诺的真实性承担法律责任。如收入来源为借款，应由最终提供资金者出具合法收入证明或公证部门的收入公证书。 <br><br>    十一、对于未按时登记的个人债权，可以在托管清算机构确定的延长期内补充登记。债权人应书面说明未及时登记的理由。地方政府甄别确认小组应对补充登记的个人债权进行甄别确认。 <br><br>    十二、个人债权甄别确认过程中发生的费用，由各地方政府承担。 <br><br>    十三、个人债权收购过程中要做好资料移交及档案管理工作：（1）各托管清算机构除自行留存外，还应向所托管的证券公司营业部所在地政府个人债权甄别确认小组和当地证监局移交相关个人债权登记资料；（2）托管清算机构应将被托管证券公司的个人债权登记资料汇总后，向所托管的证券公司法人机构所在地政府个人债权甄别确认小组、当地证监局移交有关登记资料；（3）各地政府债权甄别确认小组在甄别确认工作结束后，对相应债权登记资料的原件要妥善保存，其他相关单位要妥善保存复印件。 <br><br>    十四、各地政府应严格按照《收购意见》及《实施办法》加快个人债权甄别确认工作，准备好地方收购资金，并尽快将甄别确认结果及其明细情况、甄别确认过程中存在的问题等反馈托管清算机构和当地证监局。地方政府在个人债权甄别确认过程中发现通过隐瞒真相、虚构事实等欺诈方式，骗取收购资金的行为，要依法严肃查处。 <br><br>    十五、托管清算机构应将各地个人债权甄别确认情况连同有关材料一并报告证监会，向证监会提出再贷款申请。托管清算机构申请再贷款时应向证监会提交以下材料：（1）申请再贷款金额；（2）个人债权登记、甄别确认情况；（3）政府资金到位情况；（4）被处置证券公司总部、各分支机构所需收购个人债权金额的明细表；（5）甄别确认小组的确认报告及经确认的个人债权明细表。 <br><br>    十六、托管清算机构应对客户证券交易结算资金进行甄别确认，并将甄别确认情况及证监会认可的中介机构对客户证券交易结算资金进行专项审计的报告一并报送证监会，向证监会提出再贷款申请。托管清算机构申请再贷款时应向证监会提交以下材料：（1）申请再贷款金额；（2）客户证券交易结算资金甄别确认情况及账户明细；（3）被处置证券公司总部、各分支机构所需弥补客户证券交易结算资金的明细表；（4）第三方存管实施的相关情况。 <br><br>    十七、托管清算机构在个人债权登记及客户证券交易结算资金甄别确认过程中发现涉嫌违法犯罪线索或骗取收购资金的行为，应立即移交专案组或公安机关处理。 <br><br>    十八、证监会对个人债权收购及客户证券交易结算资金甄别确认过程中发现的涉嫌违法违规行为要及时立案稽查。涉嫌犯罪的，应及时移交公安部门。 <br><br>    十九、各地政府在坚持“谁集资、谁负责”、集资机构承担相应责任的基础上，可根据实际情况决定是否帮助集资企业筹措资金收购机构名义个人债权。地方政府帮助筹措资金收购机构名义个人债权的，应进行严格的甄别，同时要严肃处理集资机构的违法行为，追究集资机构和证券公司主要负责人及相关责任人的法律责任。自行处理机构名义个人债权的集资机构及其负责人，可适当从轻或免于处罚。对机构债权人弄虚作假，将机构债权虚报为机构名义个人债权并要求收购的，地方政府在查实后要严厉追究其法律责任。     <br><br>中国人民银行 <br>财 政 部 <br>中国证券监督管理委员会 <br>二○○五年六月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

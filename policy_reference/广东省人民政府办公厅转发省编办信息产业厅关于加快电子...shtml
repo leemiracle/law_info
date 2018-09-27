@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广东省<BR>&nbsp;&nbsp;【发布文号】粤府办〔2004〕116号<BR>&nbsp;&nbsp;【发布日期】2004-12-17<BR>&nbsp;&nbsp;【生效日期】2004-12-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gd.gov.cn/gov_files/wj_title.asp?id=964" target=_blank>广东省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广东省人民政府办公厅转发省编办信息产业厅关于加快电子政务建设推进行政管理创新意见的通知<br><br></font>(粤府办〔2004〕116号)</p><br><br><br>各地级以上市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构： <br><br>    省编办、信息产业厅《关于加快电子政务建设推进行政管理创新的意见》业经省人民政府同意，现转发给你们，请认真组织实施。实施中遇到的问题，请迳向省编办、信息产业厅反映。 <br><br>广东省人民政府办公厅<br>二○○四年十二月十七日     <br><br><br>关于加快电子政务建设推进行政管理创新的意见<br>省编办  省信息产业厅<br>（二○○四年十月二十日）<br><br>    根据党的十六届三中全会提出的“发展电子政务，提高服务和管理水平”的精神和《关于印发2003年省政府重点抓好的十件大事和十项工程的通知》（粤府办〔2003〕15号）关于深化行政管理体制改革的要求，现就加快电子政务建设推进行政管理创新提出如下意见： <br><br>    一、加快电子政务建设推进行政管理创新的重要意义 <br>    信息化是当今世界经济和社会发展的大趋势，电子政务正逐步成为创新行政管理方式、提高行政管理效能的有效手段。加快电子政务建设推进行政管理创新，是完善社会主义市场经济体制、推进改革开放和社会主义现代化建设的迫切需要。我省电子政务建设经过近20年的发展，取得了显著的成绩。但目前仍存在观念滞后、力度不足、协调不够等问题，在一定程度上制约了我省电子政务建设的推进与行政管理体制改革的深化。因此，必须结合政府职能转变和机构改革，加快推进电子政务建设，促进行政管理方式创新，进一步提高政府管理水平。 <br><br>    二、指导思想、目标和原则 <br>    （一）加快电子政务建设推进行政管理创新的指导思想。 <br>    以邓小平理论、“三个代表”重要思想和党的十六大精神为指导，树立和落实科学发展观，适应完善社会主义市场经济体制和社会主义现代化建设的要求，通过积极推广和应用信息技术，创新行政管理方式，实现政府职能的科学配置、组织结构的优化整合以及行政管理流程的合理重组。 <br>    （二）加快电子政务建设推进行政管理创新的目标。 <br>    通过电子政务建设推动政府职能转变，进一步提高行政决策水平和行政管理效能，推动建立行为规范、运转协调、公正透明、廉洁高效的行政管理体制。 <br>    （三）加快电子政务建设推进行政管理创新的原则。 <br>    1．树立电子政务新理念。电子政务建设要以行政管理创新为目标，以行政管理为核心，以信息技术为支撑，树立通过电子政务建设，促进行政管理体制创新的理念。 <br>    2．需求主导，突出重点。以政府职能转变为中心，以群众、企业和其他社会组织对行政管理服务的需求为导向，以提高政府经济调节、市场监管、社会管理和公共服务能力为重点，有针对性地选择试点，开展各项信息系统建设和技术应用开发工作，坚持经济效益和社会效益相统一的原则，协调有序，稳步推进。 <br>    3．统筹规划，资源共享。制定总体规划，统一技术标准，合理配置资源，分类指导，分步实施。充分应用全省电子政务统一平台，促进信息资源和业务系统的整合，逐步实现资源共享。同时采取有效措施，确保国家秘密安全。 <br><br>    三、主要任务 <br>    （一）合理界定政府事权，构筑多层次的电子政务体系。 <br>    在明确政府职能定位、合理划分事权的基础上，应用信息技术手段优化政府组织结构和管理模式，构筑多层次的政务体系： <br>    省级政府重点开展政府内部网络建设，建立信息收集、反馈分析和决策支持系统，提高行政决策的科学性和有效性。 <br>    市、县级政府以内部网络为基础，整合规范业务部门，优化行政管理流程，建立以管理社会和服务群众为中心的电子政务体系，提高社会管理和公共服务的水平。 <br>    乡镇、街道着重于公开政务信息，简化办事流程，提供高效、便捷的社区公共服务，发挥基层组织的社区管理和服务功能。 <br>    （二）优化管理流程，创新管理模式。 <br>    在职能交叉的部门和领域中运用系统分析方法，将职能进一步分解和细化，优化行政管理流程，促使政府职能转变；构建互连互通、资源共享的网络化协同工作平台，各部门在统一的工作平台上按明确的分工和程序实施管理，实现行政管理协调统一。 <br>    根据各职能部门的业务性质，设计不同的电子政务运作模式： <br>    1．经济调节部门重点建立健全经济运行监测的网络运行机制，完善政务信息网络，增加决策透明度和公众参与度；建立高效的公文运转机制，加强相关部门的信息共享和功能互补。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

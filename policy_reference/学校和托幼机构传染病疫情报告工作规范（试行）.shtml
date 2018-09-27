@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫办疾控发〔2006〕65号<BR>&nbsp;&nbsp;【发布日期】2006-04-06<BR>&nbsp;&nbsp;【生效日期】2006-04-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11794&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>学校和托幼机构传染病疫情报告工作规范（试行）<br><br></font>(卫办疾控发〔2006〕65号)</p><br><br><br>各省、自治区、直辖市卫生厅局、教育厅（教委），新疆生产建设兵团卫生局、教育局：<br><br>    根据《<a href=javascript:ROF(96085,0) class=alink>中华人民共和国传染病防治法</a>》、《<a href=javascript:ROF(10885,0) class=alink>学校卫生工作条例</a>》的规定以及卫生部办公厅、教育部办公厅关于加强学校传染病防治工作的通知（卫办疾控发［2005］8号）要求，为了进一步加强学校传染病疫情等突发公共卫生事件相关信息的报告工作，卫生部会同教育部制定了《学校和托幼机构传染病疫情报告工作规范（试行）》，现予印发，请遵照执行。<br><br>二○○六年四月六日<br><br><br>学校和托幼机构传染病疫情报告工作规范（试行）<br><br>    根据《传染病防治法》和《学校卫生工作条例》的规定，为了使全国各类中小学校（以下简称学校）和托幼机构的传染病疫情等突发公共卫生事件报告工作统一、有序，特制定本工作规范。<br><br>    一、相关部门职责<br><br>    （一）教育行政部门<br><br>    1、负责对学校和托幼机构传染病疫情等突发公共卫生事件报告工作的督促与检查；<br><br>    2、负责与卫生行政部门共同组织开展学校和托幼机构有关人员传染病防控及传染病疫情等突发公共卫生事件报告工作相关知识的培训；<br><br>    3、协助同级卫生行政部门制定本地区学校和托幼机构传染病疫情等突发公共卫生事件监测与报告工作相关要求或规范；<br><br>    4、加强与卫生行政部门的沟通，及时了解本地区学校和托幼机构传染病疫情等突发公共卫生事件相关信息。<br><br>    （二）卫生行政部门<br><br>    1、根据本工作规范，负责制定本地区学校和托幼机构传染病疫情等突发公共卫生事件监测与报告工作相关要求或规范；<br><br>    2、配合同级教育行政部门开展对学校和托幼机构传染病疫情等突发公共卫生事件监测与报告工作的督促与检查；<br><br>    3、与同级教育行政部门共同组织开展学校和托幼机构传染病防控及传染病疫情等突发公共卫生事件监测与报告工作相关知识的培训；<br><br>    4、负责及时向同级教育行政部门通报本地区学校和托幼机构传染病疫情等突发公共卫生事件相关信息。<br><br>    （三）疾病预防控制机构<br><br>    1、负责为学校和托幼机构开展传染病疫情等突发公共卫生事件防控、疫情监测与报告工作提供技术支持，并定期到学校进行经常性的技术指导；<br><br>    2、负责对学校或托幼机构发生的传染病疫情等突发公共卫生事件开展流行病学调查工作，并提出防控措施与建议；<br><br>    3、协助学校和托幼机构对其全体师生进行传染病防控、疫情监测与报告相关知识的宣传与培训；<br><br>    4、负责及时将涉及本地区学校和托幼机构传染病疫情等突发公共卫生事件信息告知学校和托幼机构，并指导学校和托幼机构具体落实传染病防控措施。<br><br>    （四）学校和托幼机构<br><br>    1、负责建立、健全本单位传染病疫情等突发公共卫生事件的发现、收集、汇总与报告管理工作制度；<br><br>    2、负责指定专人或兼职教师负责本单位内传染病疫情等突发公共卫生事件、因病缺勤等健康信息的收集、汇总与报告工作；<br><br>    3、协助疾病预防控制机构对本单位发生的传染病疫情等突发公共卫生事件进行调查和处理，接受教育行政部门与卫生行政部门对学校传染病疫情等突发公共卫生事件的督促、检查；<br><br>    4、负责组织开展对本单位全体人员传染病防治知识的宣传教育；<br><br>    5、学校校长或者托幼机构主要领导是传染病疫情等突发公共卫生事件报告的第一责任人。<br><br>    二、学校和托幼机构传染病疫情等突发公共卫生事件报告人（以下简称学校疫情报告人）<br><br>    （一）学校疫情报告人的设置要求<br><br>    1、工作认真负责，责任心强；<br><br>    2、了解传染病防控相关知识，专（兼）职卫生保健人员优先考虑；<br><br>    3、必须为学校或者托幼机构的在编人员。<br><br>    （二）学校疫情报告人职责<br><br>    1、在校长的领导下，具体负责本单位传染病疫情和疑似传染病疫情等突发公共卫生事件报告工作；<br><br>    2、协助本单位建立、健全传染病疫情等突发公共卫生事件监测、发现及报告相关工作制度及工作流程；<br><br>    3、定期对全校（托幼机构）学生的出勤、健康情况进行巡查；<br><br>    4、负责指导全校（托幼机构）学生的晨检工作。<br><br>    三、学校和托幼机构传染病疫情监测与报告<br><br>    各类中小学校和托幼机构应当建立由学生到教师、到学校疫情报告人、到学校（托幼机构）领导的传染病疫情发现、信息登记与报告制度。<br><br>    （一）学校和托幼机构传染病疫情监测<br><br>    学校和托幼机构应当建立学生晨检、因病缺勤病因追查与登记制度。学校和托幼机构的老师发现学生有传染病早期症状、疑似传染病病人以及因病缺勤等情况时，应及时报告给学校疫情报告人。学校疫情报告人应及时进行排查，并将排查情况记录在学生因病缺勤、传染病早期症状、疑似传染病病人患病及病因排查结果登记日志（见附表）上。<br><br>    1、晨检晨检应在学校疫情报告人的指导下进行，由班主任或班级卫生员对早晨到校的每个学生进行观察、询问，了解学生出勤、健康状况。发现学生有传染病早期症状（如发热、皮疹、腹泻、呕吐、黄疸等）以及疑似传染病病人时，应当及时告知学校疫情报告人，学校疫情报告人要进行进一步排查，以确保做到对传染病病人的早发现、早报告。<br><br>    2、因病缺勤班主任应当密切关注本班学生的出勤情况，对于因病缺勤的学生，应当了解学生的患病情况和可能的病因，如有怀疑，要及时报告给学校疫情报告人。学校疫情报告人接到报告后应及时追查学生的患病情况和可能的病因，以做到对传染病病人的早发现。<br><br>    （二）学校传染病疫情报告<br><br>    1、报告内容及时限<br><br>    （1）在同一宿舍或者同一班级，1天内有3例或者连续3天内有多个学生（5例以上）患病，并有相似症状（如发热、皮疹、腹泻、呕吐、黄疸等）或者共同用餐、饮水史时，学校疫情报告人应当在24小时内报出相关信息。<br><br>    （2）当学校和托幼机构发现传染病或疑似传染病病人时，学校疫情报告人应当立即报出相关信息。（3）个别学生出现不明原因的高热、呼吸急促或剧烈呕吐、腹泻等症状时，学校疫情报告人应当在24小时内报出相关信息。<br><br>    （4）学校发生群体性不明原因疾病或者其它突发公共卫生事件时，学校疫情报告人应当在24小时内报出相关信息。<br><br>    2、报告方式<br><br>    当出现符合本工作规范规定的报告情况时，学校疫情报告人应当以最方便的通讯方式（电话、传真等）向属地疾病预防控制机构（农村学校向乡镇卫生院防保组）报告，同时，向属地教育行政部门报告。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

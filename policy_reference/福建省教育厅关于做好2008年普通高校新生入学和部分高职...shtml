@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省教育厅<BR>&nbsp;&nbsp;【发布文号】闽教学〔2008〕37号<BR>&nbsp;&nbsp;【发布日期】2008-09-11<BR>&nbsp;&nbsp;【生效日期】2008-09-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200809/t20080916_90704.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省教育厅关于做好2008年普通高校新生入学和部分高职高专院校补充录取有关工作的通知<br> <br></font>(闽教学〔2008〕37号)</p><br> <br><br>各设区市教育局，各普通高校：<br><br>    为了做好我省普通高校新生入学和部分高职高专院校补充录取工作，进一步加强学籍学历管理，规范高校的招生行为，消除高等教育学籍学历管理中的问题和隐患，现将有关工作要求通知如下：<br><br>    一、认真做好高校新生入学资格的复查工作<br><br>    新生必须持经省级招办核准录取的高校录取通知书，按学校有关要求和规定的期限到校办理入学注册手续。因故不能按期入学报到者，应当书面向学校提出请假申请。未经请假或逾期未注册者，除因不可抗力等正当事由以外，视为放弃入学资格。新生入学后，高校要认真做好新生入学资格复查工作，认真核对新生录取信息，包括新生本人及其姓名、考生号、身份证号等。凡背离国家招生体制、未经生源地省级招办办理录取手续而擅自招收入校的学生一律不予新生学籍电子注册。<br><br>    二、加强国家高等教育学籍学历政策的宣传工作<br><br>    新生入学期间，各高校要积极开展国家高等教育学籍学历政策的教育和宣传活动，要把教育部印发的《高校学生获得学籍及毕业证书政策告知》（大型宣传报，已分发到各高校）张贴到学校新生报到处、宣传橱窗、图书馆、食堂等学生集中的公共场所，使每个学生都清楚学籍电子注册、学籍学历取得等要“经过省级招办办理录取手续，入学复查合格、进行学籍电子注册才能获得学籍”，“具有学籍的学生才能获得国家承认的毕业证书”以及各类学生毕业时将取得的毕业证书内容格式等基本程序与政策。<br><br>    各高校要认真处理学生经指定程序查询后反馈的意见，对在指定网站不能查到学生本人学籍电子注册信息的，要及时核实，属于工作遗漏的，要及时联系生源地省级招办补报录取信息，对反映信息有误的，按有关规定给予纠正。学校所举办的各类自考助学班或其他学历与非学历教育的办学形式要向学生明示办学性质，对新生入学前后可能出现的个别学校或中介等混淆学历与非学历教育的违规招生等情况，要按照国家学籍学历管理政策及时予以澄清并做好善后工作。<br><br>    三、及时完成未报到新生录取信息的核销工作<br><br>    各高职高专院校对未经过法定入学报到程序或明确表示放弃入学资格的考生应及时进行学籍核销，并填写《福建省2008年高职高专院校未入学报到考生花名册》（附件1）、《福建省2008年高职高专院校未入学报到考生情况统计表》（附件2）和《福建省2008年高等教育补充录取分专业招生计划》（附件3）。凡在《福建省2008年高职高专院校未入学报到考生花名册》中的考生学籍将予以注销，不再进行新生学籍电子注册。各高职高专院校应将填写好的附件1、附件2和附件3于9月17日前寄达（或送达）省教育厅高校学生处，作为核实本校需要补充录取计划的依据，凡逾期未报送的视为已完成招生计划，不需参加补充录取。凡虚报招生计划执行情况的，将在明年安排的招生计划基数中进行相应扣减。<br><br>    各高校要严格执行招生规定，严禁院校以新生报到率不理想、办学尚有余力或先入学再补办录取手续等为由，在未经生源地省级招办正式办理录取（含补录取）手续之前，擅自招收落榜考生进校“跟读”。如发现违规行为，将视情况给予相应的行政处罚。<br><br>    四、规范做好高职高专院校补充录取工作<br><br>    为了确保高职高专院校能够较好地完成招生计划，安排9月下旬进行部分省内高职高专院校的补充录取工作。补充录取工作按今年我省普通高等学校招生制定的各项政策（包括照顾政策）、最低录取控制分数线以及具体实施办法规定执行。参加补充录取的高校仅限于未完成省教育厅、省发改委闽教发〔2008〕52号文下达招生计划的高职高专院校（含招收专科的民办本科院校），“高职单招”以及公办本科院校的专科层次不再进行补充录取。<br><br>    五、组织开展对新生入学相关工作的检查<br><br>    有关设区市教育局要按照教育部及我厅有关文件的要求，在近期组织人员对属地的民办院校新生入学相关工作进行检查，特别是对学校招生行为及学籍电子注册工作进行指导、督促和检查，认真落实高校新生学籍电子注册工作和相关宣传落实情况，了解新生对学籍电子注册、学籍学历政策知晓程度，及时发现并妥善处理招生、学籍方面的问题和隐患，我厅将视情况组织对部分院校进行抽查。<br><br>    附件：<br><br>    1、福建省2008年高职高专院校未入学报到考生花名册<br>    2、福建省2008年高职高专院校未入学报到考生情况统计表<br><br>    3、福建省2008年高等教育补充录取分专业招生计 <br><br>    福建省教育厅<br><br>    二○○八年九月十一日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】广州市<BR>&nbsp;&nbsp;【发布文号】穗府办[2006]9号<BR>&nbsp;&nbsp;【发布日期】2006-04-06<BR>&nbsp;&nbsp;【生效日期】2006-04-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gz.gov.cn/vfs/content/content2.jsp?contentId=277903&catId=214" target=_blank>广州市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>广州市人民政府办公厅转发市信息办关于全面推进社区信息化建设与应用意见的通知<br><br></font>(穗府办[2006]9号)</p><br><br><br>各区、县级市人民政府，市政府各部门、各直属机构：<br><br>    市信息办制定的《关于全面推进社区信息化建设与应用的意见》业经市人民政府同意，现印发给你们，请认真贯彻执行。执行中遇到的问题，请径向市信息办反映。<br><br>广州市人民政府办公厅<br>二○○六年四月六日<br><br><br>关于全面推进社区信息化建设与应用的意见<br>市信息办(二OO六年三月十四日)<br><br>    为贯彻落实中央和省关于加强社区建设的要求，现就全面推进社区信息化建设与应用提出如下意见：<br><br>    一、指导思想<br><br>    以邓小平理论和“三个代表”重要思想为指导，牢固树立和落实科学发展观，坚持信息化服务于构建平安和谐社区、惠及全体市民的发展方向，增强社区服务功能，提高市民信息能力，营造适宜创业发展和生活居住的城市环境。<br><br>    二、工作目标<br><br>    整合各类信息系统和资源，推广统――的社区信息平台，推动电子政务公共服务延伸到街道、社区，加强常住人口和流动人口的信息化管理，完善和发展社区服务。<br><br>    三、主要任务<br><br>    (一)建设和完善信息化应用环境。建成覆盖市一区(县级市)一街道一社区居委会的四级信息网络体系。各区(县级市)在2006年底前建成延伸到各社区居委会的信息网络，2008年底社区居委会工作人员人均配备电脑1台。<br><br>    (二)利用信息化手段开展公共服务。将电子政务公共服务逐步延伸到街道、社区，完善供各街道、社区居委会使用的电子政务社区应用系统，增加服务内容，扩大服务范围，提高服务质量。继续推动政企共填数字鸿沟行动、信息无障碍工作。2008年前在市区共建100个上网服务站，为低收入水平家庭成员提供免费上网服务。社区居委会要积极配合，促进市民提高信息能力，帮助市民方便地获取公共服务。<br><br>    (三)开展数据建设工作。围绕业务工作需要进行数据建设，逐步建立数据采集和更新机制。各区(县级市)要采集、维护和更新常住人口、流动人口、企业和房屋等基础数据，支撑市、区(县级市)两级政府数据中心及有关部门的业务应用系统，并不断提高数据准确率，2008年前准确率要达到100％。区(县级市)信息中心要加强指导，根据统一技术标准和数据规范，协调社区信息资源的采集整理工作。<br><br>    (四)提高社区居委会干部信息能力。积极开展社区居委会干部基础信息技术和电子政务社区应用系统的培训和考核工作，使居委会干部熟练掌握计算机的使用方法，熟练使用电子政务社区应用系统，并能进行日常的更新维护和信息内容的安全管理工作。区(县级市)要组织实习大学生、青年志愿者和义工队伍与社区居委会建立信息技术培训帮扶关系，让社区居委会干部尽快掌握信息化基本知识和技能。2008年底实现居委会干部能够上网用网。<br><br>    (五)重视积极健康的网络文化建设。大力倡导和宣传网络文明，强化网络道德约束，积极引导广大社区群众自觉抵制不良信息内容的侵蚀，自觉抵制网络滥用行为和低俗之风。<br><br>    四、保障措施<br><br>    (一)深化认识。信息化服务于构建和谐社会、惠及全民，是中国特色信息化道路的重要特征。提升国民信息能力，为建设学习型社会奠定基础是中国特色信息化道路的重要内容。要充分认识信息化是运用信息技术开发利用信息资源、促进信息交流和知识共享、提高经济增长质量、推动经济社会发展转型的历史进程，加快推动社区信息化建设和应用具有十分重要的意义。<br><br>    (二)统一平台。整合进入社区的信息系统和各类信息资源，建设统一的社区信息平台。各类应用系统必须按照统一标准规范接入社区信息平台和推广应用。区(县级市)政府数据中心、各类应用系统的基础数据和业务数据要进行同步互动更新，避免数据不――致，减少重复劳动，更好地为市民提供综合服务。<br><br>    (三)组织保障。市信息化工作领导小组领导、协调全市的社区信息化建设工作。市信息办负责制定统一的标准规范，指导推进全市统一的社区信息平台和接口建设并组织推广。区(县级市)政府组织辖区内的社区信息化建设与应用工作，区(县级市)信息中心负责组织推广和技术指导工作，街道和社区负责基础数据建设和业务系统应用工作。<br><br>    (四)经费落实。为确保全市社区信息化王作的顺利推进，市安排专项经费，支持全市统一社区信息平台开发、升级与试点的组织实施以及推广培训、系统整合和对接软件统一使用标准规范的制定等工作。各区(县级市)要安排专项经费用于社区信息平台应用环境建设，具体包括信息中心网络平台的完善，街道、居委会计算机、网络设备及配套用品的购置、安装和维护等。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

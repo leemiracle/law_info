@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫监督发〔2006〕446号<BR>&nbsp;&nbsp;【发布日期】2006-11-16<BR>&nbsp;&nbsp;【生效日期】2006-11-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/16866.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于2006年酸奶等六类食品国家卫生监督抽检情况的通报<br>  <br></font>（卫监督发〔2006〕446号）</p><br><br><br>各省、自治区、直辖市卫生厅局、新疆生产建设兵团卫生局，中国疾病预防控制中心：<br>    根据2006年国家健康相关产品卫生监督抽检工作安排，我部组织部分省、自治区、直辖市对市售的酸奶、膨化食品、酱腌菜、蜜饯、桶装水和麦片类食品进行国家卫生监督抽检。现将监督抽检情况通报如下：<br>一、抽检结果<br>（一）酸奶。<br>    内蒙古、浙江、福建、湖南、广东、广西和宁夏7个省、自治区对市售的酸奶进行了监督抽检，共抽查酸奶173份。抽查指标为蛋白质、乳酸菌数、苯甲酸、山梨酸、甜味剂（甜蜜素、糖精钠）和色素（包括胭脂红、柠檬黄、靛蓝、苋菜红）等。依据《酸乳卫生标准》（ＧＢ19302－2003）和《食品添加剂使用卫生标准》（ＧＢ2760）判定，所抽检173份酸奶样品中有170份合格，合格率为98．3％；3份不合格，其中，乳酸菌数量低于卫生标准的2份，蛋白质含量低于卫生标准的1份。<br>（二）膨化食品。<br>    河北、辽宁、江苏、湖北、云南、海南、贵州和青海8个省对市售的膨化食品进行了监督抽检，共抽查膨化食品175份。抽查指标为砷、铅、菌落总数、大肠菌群和色素。依据《膨化食品卫生标准》（ＧＢ17401－2003）和《食品添加剂使用卫生标准》（ＧＢ2760）判定，所抽检175份膨化食品样品中有172份合格，合格率为98．3％；3份不合格，均为微生物指标超标，其中，大肠菌群超标的3份，菌落总数超标的1份。<br>（三）酱腌菜。<br>    河北、黑龙江、江苏、湖北、海南、贵州、青海7个省、自治区分别对商场（超市）和集贸市场销售的酱腌菜进行了监督抽检，共抽查酱腌菜285份，其中，在商场（超市）抽查161份，在集贸市场抽查124份。抽查指标为铅、亚硝酸盐、糖精钠、甜蜜素、山梨酸、苯甲酸和大肠菌群。依据《酱腌菜卫生标准》（ＧＢ2714－2003）和《食品添加剂使用卫生标准》（ＧＢ2760）判定，所抽检285份酱腌菜样品中有246份合格，合格率为86．3％；39份不合格，其中，食品添加剂超标的37份，铅含量超标的1份，亚硝酸盐超标的1份。<br>（四）蜜饯。<br>    北京、河北、吉林、福建、江西、广东、重庆、陕西8个省、直辖市分别对商场（超市）和集贸市场销售的蜜饯类食品进行了监督抽检，共抽查蜜饯334份，其中，在商场（超市）抽查175份，在集贸市场抽查159份。抽查指标为铅、糖精钠、苯甲酸、山梨酸、色素、甜蜜素、二氧化硫和霉菌。依据《蜜饯卫生标准》（ＧＢ14884－2003）和《食品添加剂使用卫生标准》（ＧＢ2760）判定，所抽检334份蜜饯样品中有189份合格，合格率为56．6％；145份不合格，其中，食品添加剂超标的129份，霉菌超标的16份。在129份食品添加剂超标的样品中，二氧化硫超标的46份，苯甲酸超标的23份，糖精钠超标的29份，甜蜜素超标的48份。<br>（五）桶装水。<br>    山西、内蒙古、黑龙江、辽宁、河北、安徽、福建、江西、河南、湖南、四川、甘肃、云南和宁夏14个省、自治区对各地桶装水批发配送点（店）销售的矿泉水、纯净水、饮用水进行了监督抽检，共抽查桶装水520份。抽查指标为菌落总数、大肠菌群、霉菌和电导率。依据《瓶（桶）装饮用纯净水卫生标准》（ＧＢ17324－2003）、《瓶（桶）装饮用水卫生标准》（ＧＢ19298－2003）和《饮用天然矿泉水》（ＧＢ8537－1995）判定，所抽检520份桶装水样品中有347份合格，合格率为66．7％；173份不合格，其中，菌落总数超标的160份，纯净水电导率不合格的32份。<br>（六）麦片类食品。<br>    山西、福建、江西、广西和新疆5个省、自治区对各地商场、超市和集贸市场销售的麦片类食品进行了监督抽检，共抽查麦片类食品177份。抽查指标为菌落总数、大肠菌群、霉菌、黄曲霉毒素Ｂ1和铅。依据《麦片类卫生标准》（ＧＢ19640－2005）判定，所抽检177份麦片类食品样品中有151份合格，合格率为85．3％；26份不合格，均为微生物指标超标，其中，大肠菌群超标的24份，霉菌指标不合格的5份。<br>二、存在问题<br>    （一）集贸市场的食品卫生问题仍然突出。本次监督抽检发现，在商场和超市抽检的蜜饯类和酱腌菜类食品合格率均明显高于在集贸市场抽检的食品。商场（超市）的蜜饯类食品合格率为69．7％（122／175），集贸市场的蜜饯类食品合格率为42．1％（67／159）；商场（超市）的酱腌菜合格率为91．9％（148／161），集贸市场的酱腌菜合格率为79．0％（98／124）。集贸市场的食品卫生问题应当引起有关监管部门的重视。<br>    （二）部分食品生产加工企业的生产过程缺乏有效卫生质量控制。本次抽检桶装水的合格率只有66．7％，主要问题是微生物超标；麦片类和膨化食品中的不合格食品也全都是微生物指标超标。这反映出部分食品加工企业生产过程的卫生控制不严，消毒程序不能满足要求，应当引起食品生产企业和有关监管部门的重视。<br>    （三）蜜饯和酱腌菜生产中不规范使用食品添加剂问题严重。本次抽检发现43．4％的蜜饯类食品和13．0％的酱腌菜产品存在滥用食品添加剂的问题，这也是上述产品卫生不合格的主要原因。食品生产加工企业和有关监管部门应当继续关注食品添加剂的合理使用问题。特此通报。<br>二○○六年十一月十六日 <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

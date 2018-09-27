@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政〔2007〕47号<BR>&nbsp;&nbsp;【发布日期】2007-05-15<BR>&nbsp;&nbsp;【生效日期】2007-05-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=4109" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于进一步鼓励软件产业发展的若干意见<br><br></font>(皖政〔2007〕47号)</p><br><br> <br>    各市、县人民政府，省政府各部门、各直属机构：<br>      软件产业是国民经济和社会信息化的基础性、战略性产业，是优化产业结构、加速经济崛起的先导性产业。为进一步促进我省软件产业又好又快地发展，现提出如下意见：<br>    <br>    一、发展思路和目标 <br>    “十一五”时期我省软件产业的发展思路：坚持“以信息化带动工业化”的方针，以提高软件企业创新能力、增强软件企业的核心竞争力为中心，重点扶持一批有核心技术的软件企业和良好市场前景的软件产品；加大软件产业结构调整力度，大力发展嵌入式软件系统，不断增强系统集成能力，提高软件服务业水平，促进软件外包、出口；继续改善产业发展环境，鼓励资源整合，发挥行业优势，积极招商引资；加快公共平台建设，努力打造行业发展支撑体系，促进软件产业又好又快发展。<br>    发展目标：培育一批骨干龙头软件企业，到“十一五”末，形成一批具有品牌优势和较强市场竞争力的优秀软件产品，具有年销售收入1亿元以上骨干企业20家，其中5亿元以上企业6家，全省软件产业销售收入100亿元，年均增长35%。<br>    <br>    二、发展重点<br>    1.加快特色产业园区建设。在加快现有园区建设，进一步完善园区配套体系，提高园区综合服务功能的同时，打造一批新的特色园区。汽车电子软件园：以奇瑞、江汽等自主品牌汽车整车生产为依托，加强汽车电子软件产品研发，提高汽车电子软件本地化配套水平；出口外包软件园：对园区软件出口或外包骨干企业给予政策上的重点扶持，促进软件外包人才培训中心、外包业务服务中心等中介服务平台建设，将合肥逐步建成软件“出口加工区”。嵌入式软件园：以提升传统产业和满足数字家电、移动终端发展需要为目标，建立较为完善的嵌入式软件开发平台，支持一批能形成规模效益的嵌入式软件生产企业加快发展。高校软件园：支持有条件的高等院校设立高校软件园，培育由产学研项目派生出的产业化项目，并接受合作单位入园发展。<br>    2.优先发展面向重点行业的应用软件。包括工业制造、数字广播电视及家电、汽车、交通、电力、农业、通讯、食品安全、环境保护、电子政务、电子商务等行业领域的应用软件系统。<br>    3.加快发展语音产业。发挥科大讯飞国际领先的语音技术优势，将我省建成国内最大的语音软件研发生产基地。创建国家语音技术工程实验室，组建语音平台、语音数码、无线增值业务、口语评测及语言学习等研发中心，实现语音产品开发、生产的系列化、工程化。<br>    4.着力构建软件技术支撑平台。推进软件构件库、软件工具库、软件综合服务与管理平台、软件开发实验平台、软件测试与安全评估平台建设。<br>    5.重点发展为本省信息化服务的软件产品。配合“861”行动计划、“数字安徽”建设，为全省国民经济和社会信息化发展提供软件技术、产品和服务支撑。<br>    <br>    三、政策措施<br>    1.加强对软件产业发展工作的领导和协调。建立由省政府分管负责同志为召集人，省信息产业厅、省发展改革委、省经委、省科技厅、省财政厅、省人事厅、省商务厅、省国税局、省地税局、省统计局等部门负责同志参加的省软件产业发展联席会议制度，研究、协调、解决软件产业发展中的重大问题。<br>    2.加大对软件产业发展的投入力度。省财政将逐步加大省信息产业发展专项资金的投入，重点支持软件产业的发展。省级科技、企业技术改造等方面的专项资金向软件产业倾斜，支持软件产业发展。鼓励社会资金投资软件产业。<br>    3.加强软件园区建设和管理工作。合肥、芜湖市要加强合肥软件园、芜湖软件园管理机构的建设，切实为园区内软件企业的发展做好服务。鼓励特色软件产业园区发展，给予相应的政策支持。建立省级软件园区的申报审批制度，对于获得批准的省级软件园，省信息产业发展专项资金和省级其他相关专项资金将给予支持。<br>    4.鼓励支持软件企业提高技术创新能力。积极建立和完善国家和省级软件工程（技术）研究中心，鼓励软件企业建立技术中心，构建软件企业、高等院校、科研院所相结合的软件技术创新平台和支撑体系。对财务核算制度健全、实行查账征税的软件企业研究开发新产品、新技术、新工艺所发生的技术开发费，按规定予以税前扣除。软件企业在一个纳税年度实际发生的技术开发费，在按规定实行100％扣除的基础上，允许再按当年实际发生额的50％在企业所得税税前扣除。企业年度实际发生的技术开发费当年不足抵扣的部分，可在以后年度企业所得税应纳税所得额中结转抵扣，抵扣的期限最长不得超过5年。软件企业2006年1月1日以后新购进的用于研究开发的仪器和设备，单位价值在30万元以下的，可以一次或分次计入成本费用，在企业所得税税前扣除，其中达到固定资产标准的应单独管理，不再提取折旧；单位价值在30万元以上的，允许其采取双倍余额递减或年数总和法实行加速折旧，具体折旧办法一经确定，不得随意变更。软件企业从事技术转让、技术开发业务和与之相关的技术咨询、技术服务取得的收入，免征营业税。科研机构、高等院校转化职务科技成果以股份或出资比例等股权形式给予科技人员个人奖励，经主管税务机关审核后，暂不征收个人所得税。<br>    5.加强软件人才队伍建设。重点建设示范性软件学院和软件职业技术学院，加强对高层次软件技术人才和管理人才的培养。鼓励省内高等院校、科研院所、软件企业开展国际交流活动，积极组织从事软件教育的大学教师出国培训，在省管专家中适当扩大软件人才的比例。加强软件技术人才的继续教育，鼓励软件企业、大专院校、科研院所采取多种形式开展软件人才培训。对企业当年提取并实际使用的职工教育经费，在计税工资总额2.5%以内的部分，可在企业所得税前扣除。<br>    6.支持软件企业建立智力、技术、管理要素参与分配的激励机制。建立股票期权等激励制度，通过奖励股权、出售股权和技术折股等方式，稳定优秀人才，确保软件企业的长远发展。<br>    7.鼓励以软件技术成果投资兴办软件企业。技术成果经评估确认后，其作价出资额可占到企业注册资本的35%；比例超过35%且作价金额超过100万元的，须经投资各方约定；登记注册资本在50万元以下的，其注册资本中高新技术作价的部分，经全体股东确认，可不经评估直接注册。<br>    8.鼓励、引导各行业软件开发部门转变经营机制，走社会化、专业化、企业化的发展道路。积极开展软件产业化试点工作，支持汽车、机械、电力、建筑建材等行业的软件开发和信息技术应用服务部门的软件产业化。大力发展与传统产业结合，符合传统产业改造需求的软件产品。<br>    9.积极开拓国际市场。认真落实鼓励软件出口的有关政策，支持软件企业通过服务外包、工程承包、项目承包、开拓国际应用服务市场等多种方式，扩大软件出口，增强企业国际竞争力。大力吸引境外企业来我省兴办出口型软件企业。对软件出口企业，按现行外贸出口促进政策的有关规定予以支持。进一步完善软件出口管理办法，按现行出口退税政策对软件企业给予优惠，软件企业可享受便捷通关等服务。简化软件从业人员出入境审批手续，实行一次审批、年内多次有效的办法，方便其赴境外培训、考察和开展国际业务交流活动。对通过CMM（能力成熟度模型）、CMMI（能力成熟度集成）认证的软件企业，从中小企业国际市场开拓资金和省信息产业发展专项资金中给予不低于认证费用30%的补助。<br>    10.鼓励采用国产软件产品和服务。政府采购优先使用国产软件产品和服务，涉及国家安全的系统必须使用国产软件和设备。对使用财政性资金的建设项目，在质量、性能、服务等同等条件下优先购置、使用本省软件产品和软件技术，优先享受省信息产业发展专项资金的支持。在实施省信息技术推广应用示范工程中，对使用本省软件产品和服务的单位，从信息产业发展专项资金中给予一定补贴或贷款贴息。<br>    11.大力培育和规范软件市场。继续开展软件正版化工作，各级政府机构和企事业单位必须使用正版软件。加大知识产权保护力度，严厉打击软件侵权盗版行为，规范软件行业市场秩序。<br>    12.充分发挥软件行业协会和各类中介机构的协调咨询服务作用。省软件行业协会要采取多种形式，加强政府与软件企业之间的沟通交流，主动为企业服务。及时宣传政府以及各部门出台的各项政策和措施，做好“双软认定”受理和初审、软件产业发展研究等工作。<br>    13.进一步营造良好的软件产业发展环境。各级政府要切实转变职能，强化服务，按照支撑体系健全、企业待遇公平、优惠政策透明、办事简捷高效、保障条件完备的要求，为软件产业发展创造良好的政策环境、法制环境、市场环境和人才环境。<br>    <br>                                                 安徽省人民政府<br>                                              二○○七年五月十五日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

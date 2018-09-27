@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2007-11-17<BR>&nbsp;&nbsp;【生效日期】2007-11-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/newshtml/20653.htm" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>卫生部关于加强布鲁氏菌病防治工作的通知</font></p><br> <br>  <br>省、自治区、直辖市卫生、畜牧兽医（农业、农牧、动物卫生监管）厅（局、办），新疆生产建设兵团卫生局、农业局：<br><br>    近年来，由于多种因素影响，我国人间和畜间布鲁氏菌病（以下简称布病）疫情持续快速上升，部分地区呈暴发和流行之势，防治形势十分严峻。1996年-2005年，全国人间布病发病率从0.09/10万上升到1.50/10万，10年间上升了16.7倍。2006年，全国共报告发病19013例，远远超过历史发病人数最多的1963年（12097例）。发病数居前十位的省份依次为内蒙古、黑龙江、山西、河北、陕西、吉林、辽宁、新疆、河南和山东，10省份报告病例数占全国报告病例总数的98.15%。截至2007年9月底，全国共报告布病病例18116例，较2006年同期（17644例）上升了2.68%。<br><br>    自2000年以来，全国兽医部门检出的布病阳性牲畜数量也逐年增加。2001年-2004年，每年有24-28个省份报告检出布病阳性牲畜，平均血检阳性率0.4%，局部地区阳性率超过5%。据不完全统计，2005年，全国共报告畜间布病疫点351个，报告发病牲畜总数7768头；2006年，全国共报告畜间布病疫点1178个，报告发病牲畜总数7123头。<br><br>    综合分析当前全国布病疫情，主要有以下几个特点：一是疫情波及范围广。目前，除重庆、贵州和海南外，其他28个省（区、市）均有人间布病疫情报告，以奶牛、羊主产区疫情较重，且疫情呈现出从牧区、半牧区向农区甚至城市蔓延的趋势。二是疫情与奶牛、羊只流动情况关系较大。近几年，我国奶业迅速发展，奶牛大范围流动，部分地区奶牛布病疫情上升较快，有些无疫地区亦出现了疫情。三是新发病人主要分布在牧区和半农半牧区，以畜牧养殖、加工人员居多。四是病人症状趋于典型。上世纪80年代，我国布病临床表现多呈轻症经过，典型病例少见；90年代以后，布病患者大多为重症病人，病情较80年代有明显差异，严重危害人民群众的身体健康。<br><br>    为有效控制布病疫情，保护人民群众身体健康，促进畜牧业良性发展，现就加强布病防治工作通知如下：<br><br>    一、进一步强化政府领导和各部门的职责。各级卫生、农业部门要在党委、政府领导下，认真履行职责，密切协作，切实加强布病防治工作管理。要根据疫情控制工作需要，积极向党委、政府建议，成立由党委或政府领导牵头、有关部门负责同志参加的布病防治领导小组，共同做好布病防治工作。<br><br>    二、加强布病防治能力建设。各地要进一步加大布病防治经费投入，全力保障疫情监测和疫情处理等防控工作所需的设备和经费，切实落实牲畜检疫和阳性畜扑杀配套经费。布病疫情较重的省（区、市）的疾病预防控制和动物疫病预防控制机构，要设立专门机构承担布病防治工作，并切实加强对布病防治人员的专业技能培训，提高其业务水平。<br><br>    三、做好疫情监测和通报工作。各地卫生、农业部门要在做好国家级监测点常规监测的同时，根据本地实际情况联合开展布病监测工作。重点省份要设立省级监测点，收集和分析布病疫情资料,掌握流行规律。卫生部和农业部将每月通报布病等人畜共患病疫情信息。各省（区、市）卫生和农业部门也要建立疫情通报制度，并分析布病监测信息。发生疫情时，当地卫生和农业部门要及时、主动通报信息。<br><br>    四、落实畜间布病防控措施。各级农业部门要按照《布鲁氏菌病防治技术规范》要求，认真落实牲畜免疫、消毒和检疫等综合防控措施，重点加强家畜养殖场（区）、牲畜交易市场和屠宰场等生产流通环节的监督管理，严格执行牲畜检疫和消毒措施，严禁疫畜及其产品流向市场。要教育养殖户科学饲养家畜，引导其对新进的牲畜实行隔离观察，经检查健康后再混群养殖；实行人畜分离，减少人与牲畜的接触。<br><br>    五、加强疫情联合调查处理工作。各级卫生和农业部门接到疫情报告后，要立即组织人员联合开展疫情调查和疫点、疫区处理，防止疫情传播和蔓延。各级卫生部门要对急、慢性布病病人进行系统、规范的治疗。<br><br>    六、强化对防控工作的督导检查。各级卫生、农业部门要建立布病等人畜共患病防治联合督查机制，对辖区内布病防治工作落实情况进行督导检查。各级卫生、农业监督机构要进一步加大《传染病防治法》和《动物防疫法》等法律法规的执法监督力度，对未按规定及时采取防控措施的单位和个人，依法追究其法律责任。<br><br>    七、大力开展健康教育和健康促进工作。各级卫生、农业部门要组织开展多种形式的健康教育和健康促进活动，普及布病防治知识，提高基层医务人员对布病的认识程度，强化公众特别是高危人群的自我防护意识。                                           <br><br>                                               二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

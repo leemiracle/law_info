@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国证券监督管理委员会<BR>&nbsp;&nbsp;【发布文号】证监基金字[2006]176号<BR>&nbsp;&nbsp;【发布日期】2006-08-24<BR>&nbsp;&nbsp;【生效日期】2006-08-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.csrc.gov.cn/cn/jsp/detail.jsp?infoid=1156500551100&type=CMS.STD&path=ROOT%3ECN%3E%B7%A8%C2%C9%B7%A8%B9%E6%3E%B2%BF%C3%C5%B9%E6%D5%C2" target=_blank>中国证券监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国证券监督管理委员会关于实施《合格境外机构投资者境内证券投资管理办法》有关问题的通知<br> <br></font>(证监基金字[2006]176号)</p><br> <br><br>各境外投资者、托管银行、证券公司、上海证券交易所、深圳证券交易所、中国证券登记结算有限责任公司：<br><br>    为进一步完善合格境外机构投资者（以下简称合格投资者）试点工作，现将实施《合格境外机构投资者境内证券投资管理办法》（以下简称《管理办法》）的有关问题通知如下：<br><br>    一、申请合格投资者资格的，应当达到下列资产规模等条件：<br><br>    （一）基金管理机构：经营资产管理业务5年以上，最近一个会计年度管理的证券资产不少于50亿美元；<br><br>    （二）保险公司：成立5年以上，最近一个会计年度持有证券资产不少于50亿美元；<br><br>    （三）证券公司：经营证券业务30年以上，实收资本不少于10亿美元，最近一个会计年度管理的证券资产不少于100亿美元；<br><br>    （四）商业银行：在最近一个会计年度，总资产在世界排名前100名以内，管理的证券资产不少于100亿美元；<br><br>    （五）其他机构投资者（养老基金、慈善基金会、捐赠基金、信托公司、政府投资管理公司等）：成立5年以上，最近一个会计年度管理或持有的证券资产不少于50亿美元。<br><br>    二、申请合格投资者资格的，应当向中国证监会报送下列申请文件（一份正本和一份副本）：<br><br>    （一）申请表 (附件1)；<br><br>    （二）主要负责人员基本情况表（附件2）； <br><br>    （三）投资计划书；<br><br>    （四）资金来源说明书；<br><br>    （五）最近3年是否受到监管机构重大处罚的说明；<br><br>    （六）所在国家或地区核发的营业执照（复印件）；<br><br>    （七）所在国家或地区监管机构核发的金融业务许可证（复印件）；<br><br>    （八）公司章程（复印件）；<br><br>    （九）与托管人签订的托管协议草案；<br><br>    （十）最近3年经审计的财务报表；<br><br>    （十一）中国证监会要求的其他文件。<br><br>    前款规定的文件，由申请人的法定代表人（法定代表人是指经申请人董事会授权或按申请人公司章程规定或者符合申请人所在国家或者地区法律规定，可以代表申请人办理合格投资者境内证券投资管理有关事宜的自然人，如董事会主席或者首席执行官等）的授权代表签署的，应当出具该法定代表人对其授权代表的授权委托书。<br><br>    该授权委托书以及第一款规定的第（六）、（七）、（八）项文件须经申请人所在国家或地区法定认可的公证机构或律师出具公证书，或经中华人民共和国驻该国的使、领馆认证。第一款规定的第（三）、（四）、（五）项文件凡用外文书写的，应当附有中文译本。<br><br>    申请人应当在人民币特殊账户开立后5个工作日内向证监会报送正式托管协议。<br><br>    三、合格投资者证券投资业务许可证长期有效，法律法规或者中国证监会另有规定以及中国证监会依法取消其证券投资业务许可证的除外。<br><br>    四、申请合格投资者托管人资格的，应向中国证监会报送下列文件（一份正本和一份副本）：<br><br>    （一）申请表(附件3)；<br><br>    （二）托管人资格申请书（须加盖公章或由法定代表人签字）；<br><br>    （三）中国银监会同意申请人开办合格投资者境内证券投资托管业务的批复(复印件)；<br><br>    （四）金融业务许可证副本(复印件)及营业执照副本(复印件)；<br><br>    （五）实收资本证明文件；<br><br>    （六）境内托管部门基本情况（包括人员配备、安全保障措施等）；<br><br>    （七）有关托管业务的管理制度(主要包括托管业务管理办法、内部风险控制制度、岗位职责与操作规程、员工行为规范、会计核算办法以及信息系统管理制度等)；<br><br>    （八）拥有高效、快速、安全、可靠技术系统的说明及有关证明；<br><br>    （九）中国证监会、国家外汇局根据审慎监管原则要求的其他文件。<br><br>    五、合格投资者托管人出现下列情形之一的，须予以更换：<br><br>    （一）合格投资者有充分理由认为更换托管人更符合其利益的；<br><br>    （二）中国证监会、国家外汇局根据审慎监管原则，认定托管人不能继续履行托管人职责的。<br><br>    新任托管人、原任托管人应当在原任托管人退任后3个工作日内将有关情况报中国证监会、国家外汇局备案。<br><br>    六、合格投资者应当委托托管人向中国证券登记结算有限责任公司（以下简称中国结算公司）申请开立多个证券账户，申请开立的证券账户应当与国家外汇局批准的人民币特殊账户一一对应。<br><br>    合格投资者应当按照中国结算公司的业务规则，开立和使用证券账户，并对其开立的证券账户负管理责任。<br><br>    七、合格投资者应当以自身名义申请开立证券账户。为客户提供资产管理服务的，应当开立名义持有人账户。合格投资者应按要求报告名义持有人账户内权益拥有人的投资情况（附件4）。<br><br>    八、合格投资者为其管理的公募基金、保险资金、养老基金、慈善基金、捐赠基金、政府投资资金等长期资金申请开立证券账户时，账户名称可以设置为“合格投资者+基金（或保险资金等）”。账户资产属“基金（保险资金等）”所有，独立于合格投资者和托管人。<br><br>    九、合格投资者在经批准的投资额度内，可以投资于下列人民币金融工具：<br><br>    （一）在证券交易所挂牌交易的股票；<br><br>    （二）在证券交易所挂牌交易的债券；<br><br>    （三）证券投资基金；<br><br>    （四）在证券交易所挂牌交易的权证；<br><br>    （五）中国证监会允许的其他金融工具。<br><br>    合格投资者可以参与新股发行、可转换债券发行、股票增发和配股的申购。<br><br>    十、境外投资者的境内证券投资，应当遵循下列持股比例限制：<br><br>    （一）单个境外投资者通过合格投资者持有一家上市公司股票的，持股比例不得超过该公司股份总数的10%；<br><br>    （二）所有境外投资者对单个上市公司A股的持股比例总和，不超过该上市公司股份总数的20%。<br><br>    境外投资者根据《外国投资者对上市公司战略投资管理办法》对上市公司战略投资的，其战略投资的持股不受上述比例限制。<br><br>    十一、境外投资者的境内证券投资达到信息披露要求的，作为信息披露义务人，应通过合格投资者向交易所提交信息披露内容。合格投资者有义务确保其名下的境外投资者严格履行信息披露的有关规定。<br><br>    十二、合格投资者可以自行或委托托管人、境内证券公司、上市公司董事会秘书、上市公司独立董事或其名下的境外投资者等行使股东权利。<br><br>    十三、合格投资者行使股东权利时，应向上市公司出示下列证明文件：<br><br>    （一）合格投资者证券投资业务许可证原件或者复印件；<br><br>    （二）证券账户卡原件或复印件；<br><br>    （三）具体权利行使人的身份证明；<br><br>    （四）若合格投资者授权他人行使股东权利的，除上述材料外，还应提供授权代表签字的授权委托书（合格投资者授权其名下境外投资者行使股东权利的，应提供相应的经合格投资者授权代表签字的持股说明）。<br><br>    十四、合格投资者作为名义持有人，可以根据其名下境外投资者的持股进行部分或分拆投票。<br><br>    十五、每个合格投资者可分别在上海、深圳证券交易所委托3家境内证券公司进行证券交易。<br><br>    十六、本通知自2006年9月1日起施行。<br><br>附件：1. 合格境外机构投资者资格申请表<br><br>2. 主要负责人员基本情况表<br><br>3. 合格境外机构投资者托管人资格申请表<br><br>4. 名义持有人账户季度报表（内容及格式）<br><br>                    中国证券监督管理委员会  <br>                    二○○六年八月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

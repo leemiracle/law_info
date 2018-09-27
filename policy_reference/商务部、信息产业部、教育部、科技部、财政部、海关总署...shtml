@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】商务部、信息产业部、教育部、科技部、财政部、海关总署、国家税务总局、国家统计局、国家外汇管理局<BR>&nbsp;&nbsp;【发布文号】商服贸发[2006]520号<BR>&nbsp;&nbsp;【发布日期】2006-09-19<BR>&nbsp;&nbsp;【生效日期】2006-09-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200610081446121263" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商务部、信息产业部、教育部、科技部、财政部、海关总署、国家税务总局、国家统计局、国家外汇管理局关于发展软件及相关信息服务出口的指导意见<br><br></font>(商服贸发[2006]520号)</p><br><br><br>各省、自治区、直辖市、计划单列市及新疆生产建设兵团商务主管部门，信息产业厅(局)，教育厅(教委、教育局)，科技厅(委、局)，财政厅(局)，海关总署广东分署，各直属海关，国家税务局，地方税务局，统计局，外汇管理局：<br>    软件产业是国民经济发展的基础性、战略性产业。近年来，我国软件产业规模迅速扩大，占世界软件产业份额逐步提高，软件及相关信息服务出口稳步增长，为国民经济建设和社会发展做出了重要贡献。但我国软件及相关信息服务出口中存在的自主创新能力弱、国际化人才缺乏、市场开拓能力不强、产业链不完善等问题也日益突出，越来越制约着我国软件及相关信息服务出口质量和效益的提高，也日益影响着我国新兴服务贸易的持续健康发展。<br>    抓住以软件及相关信息服务外包为代表的全球新一轮产业转移机遇，发挥优势，突出重点，提高我国软件及信息服务业国际竞争力，大力促进我国新兴服务贸易发展，是转变对外贸易增长方式，提高出口质量和效益的迫切需要，也是贯彻落实科学发展观，实现“十一五”规划提出的到2010年服务贸易总额达到4000亿美元发展目标的重要举措，是实现我国从“贸易大国”向“贸易强国”跨越的重要途径。<br>    商务部、信息产业部、教育部、科技部、财政部、海关总署、税务总局、统计局、外汇局联合制定了《关于发展软件及相关信息服务出口的指导意见》，现印发你们，请结合实际认真组织落实，做好各项工作。<br><br>                             商务部 信息产业部 教育部<br>                              科技部 财政部 海关总署 <br>                              税务总局 统计局 外汇局<br>                               二○○六年九月十九日<br><br><br>关于发展软件及相关信息服务出口的指导意见<br><br>    为完成“国民经济和社会发展第十一个五年规划纲要”提出的2010年服务贸易总额达到4000亿美元的发展目标，早日实现从“贸易大国”向“贸易强国”的历史性跨越，抓住当前新一轮全球产业转移和结构调整的机遇，积极扩大软件及相关信息服务出口，推动转变外贸增长方式，促进我国新兴服务贸易的发展，现提出以下意见：<br>    一、明确软件及相关信息服务出口的发展目标<br>    (一)承接国外软件和信息服务外包(简称软件外包)日渐成为我国软件及相关信息服务出口的重要形式。软件外包的实质是软件和信息服务产业链各环节的专业化分工，本文所称“软件及相关信息服务外包”特指国内服务供应商提供相应的软件及基于IT的关联服务，以满足国外最终用户自身相关业务需求的服务形式。<br>    (二)各部门加强合作与协调，研究适合软件和信息服务出口特点的管理与服务模式，共同为软件和信息服务出口创造良好的政策和产业环境，促进软件和信息服务出口的稳步发展，争取到2010年软件及相关信息服务出口总额超过100亿美元，出口年均增速不低于25％，形成一批具有自主品牌、自主知识产权的软件出口产品，培育一批具有全球竞争力的软件及相关信息服务出口骨干企业。<br>    二、积极培育出口促进和服务体系<br>    (三)确定一批具有技术研发优势，或产业基础优势，或市场开拓优势的重点联系企业，充分发挥优势企业的示范带动作用，实施大企业战略，提高我国软件企业的总体实力和国际竞争力。<br>    (四)加强对软件产业基地和出口基地的服务，指导建立公共技术服务平台、公共商务信息服务平台、境外知识产权咨询中心等，不断提高服务于企业的层次和水平。<br>    (五)鼓励具备条件的地方发挥产业、市场和人才集聚优势，加大对软件及相关信息服务出口的扶持力度，逐步形成出口梯队，充分发挥出口促进和带动作用，不断优化区域布局和产业环境。<br>    三、完善税收扶持政策<br>    (六)加强对软件出口现行各项鼓励政策的宣传，充分发挥政策的引导和扶持效应。软件企业出口软件、进口自用设备等按照现行有关规定享受税收优惠政策。<br>    (七)财税部门牵头，会同有关部门，结合软件及相关信息服务出口的趋势和特点，继续研究适用的税收鼓励政策。各部门协同配合，规范软件及相关信息服务出口模式，简化管理程序。<br>    (八)对软件和相关信息服务出口所必需的暂时进口货物，可按照海关的有关规定予以延期出境。<br>    四、完善财政金融支持政策<br>    (九)各相关部门通过现有资金渠道，继续加大对国家级软件产业基地和软件出口基地的资金投入，并根据基地的发展情况逐年增加。<br>    (十)加强资金支持和引导力度，利用中央外贸发展基金、国家高技术研究发展计划(863计划)，鼓励软件企业自主创新、采用国际标准实施软件开发过程管理，加大对企业开拓国际市场和境外知识产权保护的支持力度。<br>    (十一)鼓励国家政策性银行为软件和信息服务出口项目提供中短期流动资金贷款，并针对软件企业特点给予扶持。鼓励政策性信用保险公司为企业提供出口收汇保障、商账追收服务和保险项下的贸易融资便利。<br>    (十二)加大对软件及相关信息服务企业的支持，允许软件及相关信息服务企业根据实际经营需求保留外汇。<br>    五、加强软件出口的统计分析<br>    (十三)加强软件出口的统计分析，完善软件出口合同登记系统，对软件出口实行实时、有效的管理。软件出口合同登记继续执行原外经贸部、科技部、信息产业部、统计局、外汇局等五部门联合印发的《软件出口管理和统计办法》(外经贸技发[2001]604号)，统计数据将作为各地及有关企业享受各项软件出口促进优惠政策的依据。<br>    (十四)进一步细化软件及相关信息服务出口统计标准，研究嵌入式软件出口和以互联网传输方式进行的软件出口的统计方法，建立部门间出口数据分析及交流制度，为管理和决策提供数据支持。<br>    六、建立适应软件及相关信息服务出口发展需要的实用型人才培养体系<br>    (十五)以软件企业人才需求为目标，完善以示范性软件学院和示范性软件职业技术学院为核心的实用型人才培养机制，促进软件职业教育体系建设，加强从业人员在职培训和资格培训工作，逐步建立符合软件及相关信息服务出口发展要求的软件人才结构。<br>    (十六)依托国家级软件出口基地和各类软件园区，发挥基地政策试点和示范作用，由政府、园区、企业合作，创新软件及信息外包人才培训模式。在条件成熟的地区，试点建立国家级“软件外包人才培训基地”。<br>    (十七)鼓励国内外相关中介培训机构开展合作，借鉴国外先进的软件人才培训模式。参照国际惯例建立软件人才评估标准，建立软件人才信息平台。<br>    七、加强知识产权保护<br>    (十八)各部门协同配合，推动软件及相关信息服务企业诚信体系建设，提高企业诚信度，完善行业诚信制度建设，减少由人员流动带来的知识产权泄密。<br>    (十九)鼓励国内外中介机构加强交流与合作，通过多种方式，为软件及相关信息服务出口企业提供客户资信评估服务。<br>    (二十)继续积极推行软件正版化。鼓励软件出口基地设立境外知识产权信息服务平台，支持和指导软件企业到境外申请专利、著作权、商标等知识产权，对申请和维护费用、代理费用等给予补贴。<br>    八、加强国际交流合作<br>    (二十一)加强政府间软件领域的对话与合作，与条件成熟的重点国家和地区在双边联(混)委会机制下设立“软件工作组”，建立长效合作机制，落实政府间合作协议。<br>    (二十二)充分发挥我国外使(领)馆经商处(室)作用，加强对驻在国软件及相关信息服务产业发展情况的综合调研，掌握国际软件和信息服务外包的发展趋势和特点，推动国外发包企业与我国软件企业建立业务联系。<br>    (二十三)与国外知名展会主办机构建立实质性工作联系和信息交换机制，加强对软件企业参加境外软件展会、论坛和研讨会的协调和指导，统一对外树立中国软件业的整体良好形象。<br>    (二十四)完善中国软件及相关信息服务出口专门网站，提供国内外软件和信息服务的政策法规、市场准入、项目需求、人才交流等信息。<br>    (二十五)为软件企业人员在办理出国护照及签证手续上提供便利，依法为参与软件领域重大国际交流合作活动的软件专业人员提供进出境通关便利。<br><br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

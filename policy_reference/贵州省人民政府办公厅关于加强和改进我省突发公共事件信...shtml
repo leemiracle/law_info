@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发〔2007〕52号<BR>&nbsp;&nbsp;【发布日期】2007-06-18<BR>&nbsp;&nbsp;【生效日期】2007-06-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1455" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅关于加强和改进我省突发公共事件信息报告工作的意见<br><br></font>（黔府办发〔2007〕52号）</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构：<br>        近年来，我省突发公共事件信息报告工作（以下简称“信息报告”）总的情况是好的，为有效应对突发公共事件发挥了重要作用。但是，有的地区和部门还存在报告不及时、内容不完整、程序不规范、信息报告主体之间缺乏有效沟通等问题，甚至存在漏报、瞒报信息的现象。为进一步贯彻落实党中央、国务院的有关要求，加强和改进信息报告工作，根据《国务院办公厅印发关于加强和改进突发公共事件信息报告工作意见等文件的通知》（国办发〔2006〕105号）的精神，结合我省实际，经省人民政府同意，提出如下意见：<br>        一、充分认识加强信息报告工作的重要性<br>        信息报告是应急管理工作的重要环节，信息报告渠道畅通与否和传递效率高低，直接影响到对突发公共事件的预测预警、应急处置、善后恢复等各项工作。及时、准确的信息报告，有利于掌握突发公共事件的动态和发展趋势，采取积极有效的措施，最大限度地减少事故和灾害的发生以及造成的损失，保护人民群众的生命和财产安全。各地区、各部门要高度重视，切实采取有力措施做好信息报告工作，为积极有效应对突发公共事件创造条件。<br>       二、信息报告的责任主体<br>       （一）根据分类管理、分级负责，条块结合、属地管理为主的应急管理体制，突发公共事件发生地人民政府是信息报告的责任主体。突发公共事件发生单位有责任及时向当地人民政府报告突发公共事件信息，同时向上级主管部门报告。跨行政区域的突发公共事件发生后，上级行政主管部门要及时汇总、报告相关信息。<br>       （二）各地、各部门要按照各自职责和报告标准，负责向上一级人民政府报告突发公共事件信息或与突发公共事件密切相关的信息。<br>       （三）省直有关部门按规定或要求向国家有关部门报告突发公共事件信息，必须同时报省人民政府，并注明已报送上级主管部门。<br>       （四）各乡镇人民政府、街道办事处要充分利用设在乡村和社区的综合治理、卫生、民政、司法、计生等方面的信息报告员及时报告突发公共事件的信息。<br>        三、信息报告的内容和方式<br>        （一）突发公共事件分为自然灾害、事故灾难、公共卫生事件、社会安全事件四大类，突发公共事件信息实行分级报告。各地、各部门要按照《贵州省人民政府办公厅紧急重大情况信息报送标准（试行）》（以下简称《信息报送标准》）的规定，及时向省人民政府报告突发公共事件信息。可能引发特别重大、重大等突发公共事件的预测预警信息也要向省人民政府报告。<br>   （二）事件本身比较敏感或发生在敏感地区、敏感时间，或可能演化为特别重大、重大等突发公共事件的信息，不受分级或相关标准限制。有关内容由各地区、各部门结合实际具体确定。<br>       （三）信息报告的内容要简明、准确，应包括以下要素：时间、地点、信息来源、事件起因和性质、基本过程、已造成的后果、影响范围、事件发展趋势、处置情况、拟采取的措施以及下一步工作建议等。对突发公共事件及处置的新进展、可能衍生的新情况及时续报；突发公共事件处置结束后，要进行终报。<br>       （四）重特大突发公共事件处置过程中，现场指挥机构负责人或授权专人与省人民政府应急管理办公室（省人民政府总值班室）保持密切联络，及时、主动报告有关情况。其他级别突发公共事件现场指挥机构也应设信息报告人员，具体负责对信息的收集、汇总、报告。<br>       （五）重特大突发公共事件或领导关心、群众关注的敏感事件的处置过程中，一方面，各地政府要高度关注事件的处置进展情况，随时向上级政府续报处置进展情况；另一方面，参与事件处置的各相关单位，在根据职责分工做出重要决策时，要及时向有关单位通报并向当地政府续报。<br>       （六）加强信息核实工作，统一上报口径，提高信息的准确性。各有关部门在向国家有关部门报告信息前，要及时主动地与有关单位联系沟通，核实相关情况，统一上报口径；对于难以把握的重要数据或重要情况，要以当地政府或业务主管部门提供的数据或重要情况为准。<br>       （七）省政府应急平台未建成并投入使用前，各地区、各部门通过传真向省人民政府报告突发公共事件信息。紧急情况下，可先通过电话口头报告，再书面报告。涉密信息的报送遵守相关规定。<br>        四、信息报告的时限<br>       （一）按照《信息报送标准》，达到规定标准及以上的突发公共事件发生后，市级人民政府（行署）、省有关部门要立即向省人民政府报告，最迟不得超过2小时。同时，将情况及时通报相关部门和可能受事件影响的地区。重特大突发公共事件发生后或遇特殊情况，县级人民政府在向市级人民政府（行署）报告的同时，可直接向省人民政府及相关主管部门报告。<br>       （二）对于个别情况特殊确实难以在发生后2小时内向省人民政府报告的，市级人民政府（行署）应在接到事件报告后2小时内报至省人民政府，并说明具体原因。<br>       （三）各地、各部门要做好信息报告传真机的更新、保养和维护工作，确保信息传输畅通。各地、各部门在接到本意见的1个月内，必须将信息报告传真机的传输时间调准，确保省人民政府接收到的纸质传真信息上显示的时间与实际接收到的时间相一致，以此作为认定各地、各部门信息传递时间的客观依据。<br>       （四）有关法律法规对突发公共事件信息报告另有规定的，从其规定。<br>        五、拓宽信息报告渠道<br>        （一）充分发挥新闻媒体的优势和作用，及时收集和掌握突发公共事件信息及相关社会动态。新闻媒体要按照有关规定和程序及时、准确、客观报道突发公共事件的情况及各级党委、政府应对处置的情况。<br>        （二）各地区、各部门要注意从互联网、境外媒体的报道中获取有关突发公共事件和社会热点问题的信息，对其中反映的重要情况及时核实，并视情况报告。<br>        （三）各地人民政府、各有关部门可结合实际情况，建立开放的信息报告平台，接受公众的信息报告，经核实后视情况报告。<br>        六、加强业务培训，努力提高信息报告质量<br>        省人民政府应急管理办公室要抓好市（州、地）人民政府（行署）应急办和省直有关部门应急机构或履行应急管理职责处（室）的信息工作人员的业务培训。各地区、各部门在努力做到及时、准确报告信息的同时，要进一步加强信息编报的业务学习、经验总结和规律探索，逐步建立健全信息工作培训制度，采取多种方式，定期或不定期地对信息工作人员进行业务培训，不断提高信息报告的质量。<br>        七、建立健全信息报告情况通报制度和责任追究制度<br>        对各地区、各部门报告信息的情况，省人民政府办公厅将定期和不定期进行检查。对能够及时准确报告信息、报告质量高的予以表扬；对迟报、漏报以及报告质量差的进行通报批评，并要求查找原因，提出整改措施。对因迟报、漏报造成损失或重大影响，以及有意瞒报的，作为事件调查处理的一项重要内容，依据有关规定，追究相关人员的责任。<br>        八、加强领导，全面提高信息报告工作的水平<br>        各地区、各部门要高度重视，切实加强对信息报告工作的领导，要结合实际，依据应急预案和本意见，研究制订本地区、本部门信息报告的具体办法，把责任落实到岗位、落实到人。要加强对基层信息报告工作的指导，结合实际，积极探索在企业、社区、农村、学校等基层单位设立信息报告员，建立风险隐患报告激励机制等。要建立健全工作机制，努力提高信息报告的质量。各地区、各部门要认真落实信息报告工作制度，查找薄弱环节，不断总结经验，研究提出改进措施。要选派政治素质好、业务水平高、责任心强的干部从事信息报告工作。<br><br>                                                            贵州省人民政府办公厅<br>                                                            二○○七年六月十八日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

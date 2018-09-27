@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家测绘局<BR>&nbsp;&nbsp;【发布文号】国测图发〔2009〕6号<BR>&nbsp;&nbsp;【发布日期】2009-12-28<BR>&nbsp;&nbsp;【生效日期】2009-12-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.china.com.cn/policy/txt/2009-12/29/content_19152139_2.htm" target=_blank>中国网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家测绘局关于加强互联网地图管理工作的通知 <br><br></font>(国测图发〔2009〕6号)</p><br><br><br>    各省、自治区、直辖市、计划单列市测绘行政主管部门，新疆生产建设兵团测绘主管部门，局属有关单位：<br><br>    互联网地图作为信息时代国家版图的主要表现形式之一，体现了国家在主权方面的意志和在国际社会中的政治、外交立场，具有严密的科学性、严肃的政治性和严格的法定性，并事关国家安全。为加强互联网地图管理，规范互联网地图编制和服务，根据《中华人民共和国测绘法》等法律、法规和规定，现就有关事项通知如下：<br><br>    一、互联网地图服务单位应当依法取得相应的互联网地图服务测绘资质，并在资质许可的范围内提供互联网地图服务。<br><br>    二、互联网地图服务单位提供增值服务（包括浏览、搜索、导航、定位、标注、复制、链接、发送、转发、引用、嵌入、下载等）必须使用经测绘行政主管部门审核批准的互联网地图。<br><br>    三、互联网地图的编制（包括编辑加工、格式转换、质量测评）、更新等活动，必须由取得相应电子地图编制或者导航电子地图制作专业范围测绘资质的单位承担。<br><br>    编制、更新互联网地图，必须遵守公开地图内容表示等有关地图管理规定。<br><br>    四、互联网地图服务单位引进的境外地图必须按相关进口地图的规定管理。<br><br>    五、提供互联网地图服务的数据库服务器不得设在境外（含港澳台地区）。<br><br>    六、互联网地图必须由相应互联网地图编制单位按照地图审核有关管理规定送审。未经依法审核批准的互联网地图，一律不得公开登载、传输。<br><br>    互联网地图审图号有效期为2年。审图号有效期内地图表示内容发生变化或审图号到期前，应重新送审，取得新的审图号。<br><br>    七、任何单位或个人不得在互联网上登载危害国家主权和民族尊严的地图，不得在互联网上传输、标注可能危害国家主权、安全的地理信息。<br><br>    八、互联网地图服务单位的地图安全审校人员应不断增强国家版图意识和地理信息安全保密意识，认真对用户上传标注的兴趣点和其他新增兴趣点进行审查，确保所有信息符合国家公开地图内容表示等有关规定。<br><br>    不得公开的兴趣点，任何单位或个人不得以任何形式进行存储、记录、传播。<br><br>    地图安全审校人员须经省级以上测绘行政主管部门培训考核合格，持证上岗。<br><br>    九、互联网地图服务单位应采取有效措施规范用户上传标注行为，及时发布相关警示信息。互联网地图服务中出现的泄密等安全问题，互联网地图服务单位应当承担相应的法律责任。<br><br>    十、互联网地图服务单位每6个月应将新增兴趣点送交审核批准互联网地图的测绘行政主管部门备案。<br><br>    十一、在互联网上登载、复制、发送、转发、引用、嵌入互联网地图，必须在相应页面显著位置标明地图审图号和著作权信息，并应经互联网地图著作权人的同意。<br><br>任何单位或个人不得复制、链接、发送、转发、引用、嵌入未经依法审核批准的互联网地图。<br><br>    十二、各省级测绘行政主管部门要按属地化（互联网信息服务许可证号或备案号）管理原则，强化对互联网地图及其运行系统（平台）的日常监管和跟踪检查，建立跟踪监管系统，加强对互联网地图服务从业人员培训，及时依法查处各种违法违规行为。<br><br>    附件：互联网地图审查要求<br><br>    国家测绘局<br><br>    二○○九年十二月二十八日<br><br>    附件：<br><br>    互联网地图审查要求<br><br>    一、互联网地图是指登载在互联网上或者通过互联网发送的基于服务器地理信息数据库形成的具有实时生成、交互控制、数据搜索、属性标注等特性的电子地图。包括二维地图以及影像地图、三维虚拟现实地图、实景（街景）地图等。<br><br>    二、互联网地图采用离线和在线审查相结合的形式进行。互联网地图送审单位应构建好相应互联网地图服务运行系统（平台），并提供基于互联网的内部网址和登录账号用于在线审查。<br><br>    三、送审互联网地图，应提交下列材料：<br><br>    （一）地图审核申请表；<br><br>    （二）地图数据来源、生产方式、数据范围、数据尺度、数据格式、服务方式等情况的书面说明材料；<br><br>    （三）导航电子地图制作或电子地图编制的测绘资质证书复印件；<br><br>    （四）互联网地图服务单位的互联网地图服务资质证书复印件；<br><br>    （五）互联网地图数据及浏览软件；<br><br>    （六）常用格式的兴趣点电子文档和待确认的涉密兴趣点。兴趣点电子文档应当包括位置信息、名称、类别、说明注记等内容；<br><br>    （七）在线审查的内部网址和登录账号；<br><br>    （八）利用涉及国家秘密的测绘成果编制的互联网地图，应提交国家测绘局批准进行保密技术处理的文件、指定机构进行保密技术处理的证明文件复印件。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

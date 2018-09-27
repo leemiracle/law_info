@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2008〕45号<BR>&nbsp;&nbsp;【发布日期】2008-07-03<BR>&nbsp;&nbsp;【生效日期】2008-07-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/zwgk/zfxxgk/zfwj/ezbfwj/ezbf2008/200809/t20080926_79060.shtml" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于保护与发展湖北地方戏曲的通知<br><br></font>(鄂政办发〔2008〕45号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br><br>    我省是楚文化的发祥地，具有悠久的历史文化传统和丰富的文化资源，得天独厚的地理位置和深厚的文化底蕴孕育了汉剧、楚剧、荆州花鼓戏、黄梅戏、南剧等20多个地方戏剧种，被全国戏剧界誉为“戏剧大省”。近年来，由于文化传播方式多元化的影响、舞台艺术消费方式和营销方式的变化，湖北地方戏曲的保护与发展面临着新的挑战，遇到了一些自身难以克服的困难和问题。为进一步做好湖北地方戏曲保护与发展工作，经省人民政府同意，现就有关问题通知如下：<br><br>    一、充分认识保护与发展湖北地方戏曲的重要意义<br><br>    湖北地方戏曲是全省人民在长期生产生活实践中创造、与群众生活密切相关、深受群众喜爱的独特艺术形式，具有鲜明地域特色和民族风格，是我国优秀民族文化的典型代表。新中国成立以来，我省先后推出了《宇宙锋》、《葛麻》、《养命的儿子》、《十二月等郎》等优秀剧目，涌现出陈伯华、沈云陔、熊剑啸等深受群众喜爱的著名表演艺术家，汉剧、楚剧、荆州花鼓戏、黄梅戏等4个地方戏曲剧种被列入国家级非物质文化遗产名录，山二黄等14个地方戏曲剧种被列为省级非物质文化遗产名录。保护与发展湖北地方戏曲，建设社会主义先进文化，对于继承优秀传统文化、繁荣文艺事业、打造优秀民族文化品牌，激发广大人民群众热爱生活、热爱家乡的深厚感情，促进全省经济社会又好又快发展，构建社会主义和谐社会，具有深远的历史意义和重大的现实意义。<br><br>    各地、各部门要以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，坚持“保护为主，抢救第一，合理利用，继承发展”的指导方针，加强抢救、保护和继承，深化改革，注重创新，提高艺术水平，增强剧种活力，不断丰富中国戏曲艺术宝库，促进我省文艺事业全面繁荣。<br><br>    二、积极扶持湖北地方戏曲发展<br><br>    （一）加大对地方戏曲保护与发展的投入力度。省文化部门要结合我省实际，抓紧制定地方戏曲近期和中、远期保护规划。设立湖北地方戏曲保护与发展项目资金，纳入省财政年度部门预算，主要用于举办全省性地方戏曲重大艺术活动、地方戏曲特色剧团和特色剧种的资助、地方戏曲传统剧目的挖掘、整理与创新以及重点剧目的创作生产，地方戏曲资料遗产的收集整理与保护，地方戏曲后备人才的培养，地方戏曲的对外宣传和展示活动等。各市、州、县人民政府要统筹预算内外财力，保障地方戏院团各项事业发展经费，确保地方戏院团演职员工资全额发放。对参加全省文化体制改革的专业艺术院团，转制为企业的，可根据国家和省的有关政策规定，将其纳入社会保险范围，解决好广大演职员的后顾之忧。<br><br>    （二）扶持地方戏院团持续发展。地方戏院团特别是市、县级地方戏院团主要承担传承、保护和发展地方戏艺术，组织完成地方党委、政府各类指令性公益演出活动，送戏下乡，服务广大人民群众等职能。各地、各有关部门应积极推进地方戏院团改革，鼓励地方戏院团贴近群众，服务基层，加快发展。要逐步增加对实行挂省牌、以市（州）管理为主体制的省黄梅戏剧院（黄冈市）、省实验荆州花鼓戏剧院（潜江市）、省豫剧团（襄樊市襄阳区）的财政投入，加强重点院团业务建设，不断壮大实力，在弘扬民族文化、保护与发展地方戏曲方面继续发挥好示范作用。<br><br>    （三）加强地方戏曲剧种后备人才培养。各地要制订地方戏培养人才、留住人才和吸引人才的政策措施，为地方戏的保护与发展增添后劲。要充分发挥省属艺术院校（含中等艺术学校）培养地方戏人才方面的优势，加强师资队伍建设，为地方戏院团培养后继人才。各有关部门对地方戏专业设置、地方戏院团招考录用特殊人才等工作，要给予政策性指导、倾斜和支持。对于地方戏专业的优秀学生，可适当减免学费。各级文化部门要指导地方戏院团加强对地方戏从业人员的培训，通过举办各专业短期培训班、选送中青年业务骨干到大专院校进修等方式，提高其艺术素养和专业水平。<br><br>    （四）加强地方戏曲的理论研究和保护工作。以武汉音乐学院和省艺术研究所为骨干，进一步加强全省地方戏研究队伍的专业化建设，提高研究成果的学术水平及应用价值。对优秀传统剧目及中老年艺术家的保留剧目，以各种形式加以保存，逐步使一批优秀传统剧目得到恢复，切实做好地方戏曲的传承和保护工作。<br><br>    三、营造保护与发展湖北地方戏曲的良好氛围<br><br>    各地、各有关部门要积极利用广播、电视、电影、网络和图书、报刊、音像电子出版物等媒体，加大对地方戏各类艺术活动、剧目生产、人才队伍建设等方面工作的宣传力度，营造弘扬民族文化、保护和发展地方戏曲的良好氛围。广泛开展多种形式的推广普及活动，支持地方戏曲进校园、进社区、进企业，支持地方戏院团送戏下乡。积极拓展对外文化交流和市场性演出，扩大地方戏的影响，培养新的观众群体。各级文化部门要指导地方戏院团加强业务建设，结合各剧种艺术资源状况，切实做好地方戏的保护、继承与创新工作，创作生产一批我省地方戏曲新的代表性剧目，推出新一代领军人物，逐步形成湖北地方戏曲的品牌优势。<br><br>    从2008年开始，每3年举办一届“湖北地方戏曲艺术节”，各地方戏剧种选送剧目参演，形成我省地方戏的品牌活动。各地可根据剧种及艺术品种特色，举办区域性的地方戏汇演、比赛等活动，全面推动我省地方戏院团的创作、演出和人才培养工作。<br><br>湖北省人民政府办公厅<br>二○○八年七月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

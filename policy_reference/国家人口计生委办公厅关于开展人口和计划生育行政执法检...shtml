@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家人口计生委<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-10-14<BR>&nbsp;&nbsp;【生效日期】2005-10-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinapop.gov.cn/zwgk/zwdt/t20051227_54695.htm" target=_blank>国家人口计生委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家人口计生委办公厅关于开展人口和计划生育行政执法检查的通知</font></p><br><br><br>各省、自治区、直辖市人口计生委，计划单列市、新疆生产建设兵团人口计生委：<br><br>    《人口与计划生育法》实施三年以来，各级人口和计划生育部门按照《人口与计划生育法》及相关法律法规的规定，依法行政，文明执法，维护人民群众的合法权益，取得了明显的成效。目前大多数地区已经基本杜绝了“七个不准”现象的发生。但是在个别地方，由于违法行政引发的群体事件或恶性案件仍时有发生，强迫结扎上环、株连亲属、集中办班、限制人身自由等现象仍屡禁不止，有的甚至在国际上引起负面影响，授人以柄。这些问题虽然发生在少数地方，但却直接影响着人口和计划生育工作的形象；影响着党群干群关系；影响着社会稳定和政治安定。为深入贯彻实施全国人口和计划生育依法行政工作座谈会精神，规范基层人口和计划生育行政执法工作，切实维护人民群众的合法权益，提高人口和计划生育依法行政水平，我委决定从十月下旬开始，在全国范围内开展人口和计划生育行政执法检查工作。现将主要事项通知如下：<br><br>     一、执法检查的指导思想和目的<br><br>    以 “三个代表”重要思想为指导，按照构建社会主义和谐社会、建设法治政府的总体要求，根据《人口与计划生育法》及相关法律法规规定，以规范行政执法、维护公民合法权益为重点，对人口和计划生育行政执法体系建设、行政执法主要环节进行检查，进一步推进人口和计划生育依法行政，转变思想作风、领导作风和工作作风，密切党群干群关系，树立人口计生工作良好形象，促进人口和计划生育工作稳定、持续、健康发展。<br><br>    二、执法检查的重点内容<br><br>     （一）行政执法责任制建设和落实情况。重点检查行政执法人员持证上岗制度、行政执法程序制度、行政执法公示制度、执法过错责任追究制度、执法案卷评查制度等有关行政执法制度的建设以及逐级落实情况。<br><br>     （二）清理规范性文件的情况。主要是各级规范性文件有无越权作出乱收费、乱罚款或随意增加育龄群众义务等内容的规定，是否定期清理规范性文件并对违背法律法规作出的规定及时予以废止。是否制定了规范性文件备案制度及执行情况。<br><br>     （三）行政管理规范情况。是否按照法定的程序和条件对再生育审批、非医学需要的中期以上人工终止妊娠审批等进行办理许可或审批；在办理生育服务证、发放独生子女父母光荣证、发放流动人口婚育证明等有关证明、进行病残儿鉴定、计划生育手术并发症鉴定及处理等是否依照有关法规规章进行，有无违法违纪情况。<br><br>     （四）奖惩落实情况。是否依照人口与计划生育“一法三规”的规定，对实行计划生育的公民落实奖励优待政策；对违法公民严格依照社会抚养费征收及行政处罚程序进行处理；社会抚养费征收和罚款实行“收支两条线”情况。<br><br>     （五）行政监督情况。监督机制是否健全，人口计生行政执法程序、行政执法责任制、行政执法评议考核制度以及行政执法检查制度落实情况；政务公开、信息公开制度建设与落实渠道；近三年来的行政复议、行政应诉和信访情况，群众复议和上访渠道是否畅通，有无妨碍群众行使权利的情况；是否有严重违反人口与计划生育法律法规和群众工作纪律，侵犯公民人身权、财产权行为；《人口与计划生育法》实施以来发生的重大、恶性案件情况及其查处、责任追究的情况。<br><br>     （六）行政执法队伍建设情况。重点检查法制工作机构建设和人员配备情况；行政执法人员进行岗前培训、持证上岗情况；法制宣传培训情况。<br><br>     （七）贯彻落实国务院《全面推进依法行政实施纲要》和《人口计生委关于进一步推进人口和计划生育依法行政的意见》（以下简称纲要和意见）、全国人口和计划生育依法行政工作座谈会情况（以下简称会议）。重点检查纲要和意见学习培训情况、会议精神传达贯彻情况；成立推进依法行政领导小组、制定五年规划和年度工作计划、组织部署情况；推进人口和计划生育依法行政的新举措等。<br><br>     请各地根据以上七条主要内容，结合本地实际情况，制定具体检查方案。<br><br>    三、执法检查的步骤和要求<br><br>    本次执法检查采取自查与抽查相结合的方式。<br><br>     （一）自查。2005年10月下旬－11月底，各省、自治区、直辖市人口计生委要根据本地实际情况，结合年终人口与计划生育目标责任考核，认真开展自查。要采取积极有效措施，查找存在的问题和薄弱环节，制定整改措施。各省、自治区、直辖市人口计生委还要主动向本地人大建议，以地方人大的名义、计生委积极配合开展执法检查工作。<br><br>    各省、自治区、直辖市人口计生委要对此次执法检查情况进行汇总，并将文字材料及电子版，于2005年12月20日前报送国家人口计生委政法司。<br><br>     （二）抽查。我委将在今年底或明年初适当时候抽查部分省。具体时间和地点另行通知。抽查采取召开座谈会、查阅文件档案、进村入户调查相结合的方式进行。抽查结束后，将把抽查结果向被抽查的省反馈并通报全国。<br><br>二00五年十月十四日<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

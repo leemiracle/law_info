@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2007]240号<BR>&nbsp;&nbsp;【发布日期】2007-04-28<BR>&nbsp;&nbsp;【生效日期】2007-04-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W4245/A64020356.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>体外诊断试剂说明书编写指导原则<br><br></font>(国食药监械[2007]240号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    《体外诊断试剂注册管理办法（试行）》（国食药监械〔2007〕229号）已于2007年4月19日发布，2007年6月1日施行。为指导体外诊断试剂的临床研究及说明书编写工作，国家局组织制定了《体外诊断试剂临床研究技术指导原则》及《体外诊断试剂说明书编写指导原则》。现予印发，请参照执行。<br><br>                                                        国家食品药品监督管理局<br>                                                        二○○七年四月二十八日<br><br><br>体外诊断试剂说明书编写指导原则<br><br>    体外诊断试剂说明书承载了产品预期用途、试验方法、对试验结果的解释、注意事项等重要信息，是指导使用者正确操作、临床医生准确理解和合理应用试验结果的重要技术性文件。<br>    本指导原则基于国家食品药品监督管理局《药品说明书和标签管理规定》、《医疗器械说明书、标签和包装标识管理规定》的有关要求，参考EMEA、FDA、IFCC等有关体外诊断试剂说明书撰写方面的文献，同时借鉴了按药品注册管理的工作经验，对说明书编写的格式及各项内容的撰写进行了详细的说明。其目的是为编写体外诊断试剂说明书进行原则性的指导，同时，也为注册管理部门审核说明书提供技术参考。<br>    由于诊断试剂产品发展快、专业跨度大、临床使用目的差别大，不同临床使用目的产品的说明书内容不尽完全相同。注册申请人应根据产品特点及临床使用目的编写说明书，以便于关注者获取准确的信息。<br><br>    一、体外诊断试剂说明书格式<br>    ××××说明书<br>    【产品名称】<br>    通用名称：<br>    商品名称：<br>    英文名称：<br>    【包装规格】<br>    【预期用途】<br>    【检验原理】<br>    【主要组成成份】<br>    【储存条件及有效期】<br>    【适用仪器】<br>    【样本要求】<br>    【检验方法】<br>    【参考值（参考范围）】<br>    【检验结果的解释】<br>    【检验方法的局限性】<br>    【产品性能指标】<br>    【注意事项】<br>    【参考文献】<br>    【生产企业】<br>    【医疗器械生产企业许可证编号】<br>    【医疗器械注册证书编号】<br>    【产品标准编号】<br>    【说明书批准及修改日期】<br><br>    二、各项内容撰写的说明<br>    【产品名称】<br>    1．通用名称：<br>    通用名应当符合《体外诊断试剂注册管理办法（试行）》中的命名原则。《中国生物制品规程》收载的品种，其通用名、英文名应与《中国生物制品规程》一致。<br>    2．商品名称：<br>    同时标注通用名称和商品名称时，应当分行，不得连写，并且商品名称的文字不得大于通用名称文字的两倍。不得使用夸大、断言产品功效的绝对化用语，不得违反其他法律、法规的规定。<br>    【包装规格】<br>    注明可测试的样本数，如××测试/盒、××人份/盒、××ml。<br>    【预期用途】<br>    详细说明产品的预期用途，如定性或定量测定、筛查、自测、确认等。说明与预期用途相关的临床适应症背景情况，说明相关的临床或实验室诊断方法等。<br>    【检验原理】<br>    详细说明试验原理、方法，必要时可采用图示方法描述。<br>    【主要组成成份】<br>    1．对于产品中包含的试剂组份：①说明名称、数量、每个组成成份在反应体系中的比例或浓度，如果对于正确的操作很重要，应提供其生物学来源、活性及其他特性。②明确说明不同批号试剂盒中各组份是否可以互换。<br>    2．对于产品中不包含，但对该试验必须的试剂组份：生产企业应列出此类试剂的名称、纯度，提供稀释或混合方法及其他相关信息。<br>    3．对于标准品（校准品）和质控品：①说明主要组成成份及其生物学来源。②注明标准品（校准品）的定值及其溯源性。③注明质控品的允许范围。<br>    【储存条件及有效期】<br>    1．说明产品的储存条件如：2-80C、-180C以下、防止冷冻等。其他影响稳定性的条件如：光线，湿度等也必须说明。如果打开包装后产品或工作液的稳定性不同于原包装产品，则打开包装后产品或工作液的储存条件也必须注明。<br>    2．有效期：说明在储存条件下的有效期。如果打开包装后产品或工作液的稳定性不同于原包装产品，打开包装后产品或工作液的有效期也必须注明。<br>    【适用仪器】<br>    说明可适用的仪器，并提供与仪器有关的所有信息以便用户能够作出最好的选择。<br>    【样本要求】<br>    应在以下几方面进行说明：<br>    1．在样本收集过程中的特别注意事项。<br>    2．为保证样本各组份稳定所必需的抗凝剂或保护剂。<br>    3．已知的干扰物。<br>    4．能够保证样本稳定的储存、处理和运输方法。<br>    【检验方法】<br>    为保证试验的正确进行，应在以下几方面对试验的每一步进行详细说明：<br>    1．试剂配制：各试剂组份的稀释、混合及其他必要的程序。<br>    2．必须满足的试验条件：如pH值、温度、每一步试验所需的时间、波长、最终反应产物的稳定性等。试验过程中必须注意的事项。<br>    3．校准程序（如果需要）：标准品（校准品）的准备和使用，标准曲线的绘制方法。<br>    4．质量控制程序：质控品的使用、质量控制方法。<br>    5．试验结果的计算，包括对每个系数及对每个计算步骤的解释。如果可能，应举例说明。<br>    【参考值（参考范围）】<br>    说明参考值（参考范围），并简要说明参考值（参考范围）的确定方法。<br>    【检验结果的解释】<br>    说明可能对试验结果产生影响的因素；说明在何种情况下需要进行确认试验。<br>    【检验方法的局限性】<br>    说明该检验方法的局限性。<br>    【产品性能指标】<br>    说明该产品的主要性能指标。<br>    【注意事项】<br>    注明必要的注意事项，如本品仅用于体外诊断等。<br>    如该产品含有人源或动物源性物质，应给出具有潜在感染性的警告。<br>    【参考文献】<br>    注明引用的参考文献。<br>    【生产企业】<br>    系指该产品的生产企业，按下列方式列出：<br>    企业名称：<br>    地址：<br>    （须标详细地址；注册地址和生产地址不同的，应分别列出。）<br>    邮政编码：<br>    电话和传真号码：<br>    网址：<br>    进口产品还应有售后服务单位的名称、地址、联系方式。<br>    【医疗器械生产企业许可证编号】<br>    境内医疗器械生产企业应注明生产企业许可证编号。<br>    【医疗器械注册证书编号】<br>    注明该产品的注册证书编号<br>    【产品标准编号】<br>    注明该产品的产品标准编号。<br>    【说明书批准日期及修改日期】<br>    注明该产品说明书的批准日期。如曾进行过说明书的变更申请时，还应该同时注明说明书的修改日期。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

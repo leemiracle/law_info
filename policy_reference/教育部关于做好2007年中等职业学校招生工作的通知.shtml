@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教职成〔2007〕1号<BR>&nbsp;&nbsp;【发布日期】2007-04-18<BR>&nbsp;&nbsp;【生效日期】2007-04-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info27627.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于做好2007年中等职业学校招生工作的通知<br><br></font>(教职成〔2007〕1号)</p><br><br><br>各省、自治区、直辖市教育厅（教委）、招生委员会办公室，计划单列市教育局，新疆生产建设兵团教育局：<br><br>    近年来，各地坚持以邓小平理论和“三个代表”重要思想为指导，以科学发展观统领教育工作全局，认真调整高中阶段教育结构，重点发展中等职业教育，不断扩大中等职业学校招生规模，连续两年实现扩大招生100万人的工作目标，2006年中等职业教育招生总量达到近750万人。为进一步巩固扩大中等职业教育改革发展成果，2007年中等职业教育招生规模要在2006年的基础上再扩大招生50万人，达到800万人，基本实现《国务院关于大力发展职业教育的决定》提出的中等职业教育与普通高中招生规模大体相当的目标。这是一个战略性的结构调整，对于加快职业教育发展，使职业教育更好地满足经济社会发展对高素质劳动者和技能型人才的需求，具有决定性的意义。为此，现就做好2007年中等职业学校招生工作的有关事项通知如下：<br><br>    一、各地要切实加强对高中阶段教育学校招生工作的统筹和领导。要严格执行《教育部关于统筹管理高中阶段教育学校招生工作的通知》（教职成〔2005〕3号）的有关规定，加大高中阶段教育结构的调整力度，按照普通高中与中等职业学校招生比例大体相当的要求，分别确定本地区2007年普通高中和中等职业学校的招生计划。要对高中阶段教育各类学校招生实行统一管理，把技工学校和实施学历教育的民办中等职业学校纳入当地整个中等职业教育招生规划。各地教育行政部门要坚决将高中阶段教育学校招生录取的具体工作从行政业务中分离出来，将高中阶段教育学校招生工作统一交由各地招生工作专门机构负责。各地招生工作专门机构都要建立高中阶段教育学校招生工作办公室。各地教育行政部门要加强对招生专门机构的业务指导，建立招生工作目标考核责任制，督促其认真贯彻落实高中阶段教育招生政策、完成招生任务，协调解决招生工作中的有关问题。<br><br>    二、各地要切实做好中等职业学校招生服务工作。要积极创新高中阶段教育学校招生工作机制和办法，努力为初中毕业生升学创造多样化的选择机会，引导初中毕业生合理分流，促进普通高中和中等职业教育协调发展。各地要及时向考生和社会公布高中阶段教育各类学校招生计划和招生信息，加强初中毕业生报名和填报志愿的指导和服务工作，对应届初中毕业生实行一考多分流，统一组织录取。有条件的地区可以实行中等职业学校提前招生、优先录取。中等职业学校招生可多次补录，可面向往届初、高中毕业生或具有同等学力的人员自主招生，招生结束后报招生部门和教育行政部门注册备案。允许有条件的中等职业学校跨省招生。<br><br>    要建立高中阶段教育学校招生和学生学籍管理信息系统，加快推进中等职业学校招生网上录取工作和学生电子注册制度的建设，2008年实现计算机网上录取。<br><br>    三、各地要按照《教育部关于中等职业学校面向未升学高中毕业生开展职业教育与培训的意见》（教职成〔2006〕3号）要求，广泛宣传，积极引导，采取有效措施，进一步做好中等职业学校招收未升学普通高中毕业生工作。对接受一年教育的，学校发给中等职业教育学历证书，并报各地省级教育行政部门和招生部门备案，纳入当地年度中等职业学校招生计划和年度招生统计范围；对参加短期职业技能培训的，课程结束并通过考核的，学校发给职业技能培训证书，并帮助他们取得相应的职业资格证书。<br><br>    四、继续按照《教育部财政部劳动保障部关于开展东部对西部、城市对农村中等职业学校联合招生合作办学工作的意见》（教职成〔2003〕6号）的要求，大力开展东部对西部、城市对农村中等职业学校联合招生合作办学工作。应采取灵活多样的合作形式和办学模式，提倡学生一年级在中西部学习，二、三年级到东部学习专业技能和顶岗实习。2007年，全国东西部联合招生合作办学的招生规模要达到50万人以上。各地要加强对跨省招生和联合招生合作办学工作的管理和指导，每年2月底前，各省级教育行政部门须向我部报送本省（区、市）跨省招生学校和招生数，由我部汇总下达，生源所在地省级教育行政部门、招生部门负责组织生源和招生录取工作。未经省级教育行政部门上报我部的学校不得跨省招生。<br><br>    五、进一步规范五年制高职招生工作。各地要认真贯彻《教育部关于进一步办好五年制高等职业技术教育的几点意见》（教职成〔2002〕2号）精神，严格确定招生专业，严格控制招生规模，规范招生行为。中等职业学校不得单独举办五年制高职教育。各地五年制高职招生计划不得突破当年本省（区、市）高职(专科)招生总数的5%。各地高职院校对口招收中等职业学校毕业生数不得突破当年本省（区、市）中等职业学校毕业生总数的5%。<br><br>    六、加强高中阶段教育学校招生工作的规范管理，严肃招生纪律。各地要进一步规范招生机构和招生行为，严禁违规招生，严打非法招生中介和招生欺诈行为。未经省级高中阶段教育招生领导小组同意，任何机构不得从事高中阶段学历教育招生工作；未经当地教育行政部门公示的中等职业学校不得招生；任何学校不得委托任何个人或中介机构组织参与招生。中等职业学校不得与非学历教育机构联合或合作举办学历教育班。各初中学校不得通过向中等职业学校推荐生源收取费用。各中等职业学校不得以任何形式实行有偿招生。对违反高中阶段教育招生政策、扰乱招生秩序、非法办学、非法招生、有偿招生、违反国家有关规定乱收费的，要追究当事人及主管单位负责人的责任，并予以严肃处理；构成犯罪的,由司法部门追究其刑事责任。<br><br>    七、建立健全中等职业学校国家助学金制度，是国家大力发展中等职业教育的重大举措，对于促进教育公平，扩大中等职业学校招生规模，推进高中阶段教育健康协调发展具有重要意义。自2007年起，中央财政和地方财政将进一步加大投入力度，扩大中等职业学校国家助学金的资助范围，提高资助强度，使家庭经济困难的学生都有机会接受中等职业教育，这是继全部免除农村义务教育阶段学杂费之后，促进教育公平的又一件大事。各地要加强宣传工作，使国家的这项政策家喻户晓。中等职业学校在向学生发录取通知书时，要同时寄发中等职业教育国家助学金申请表和申请指南。<br><br>    国家鼓励和支持东部和中西部地区中等职业学校联合招生、合作办学，符合资助条件的中西部学生到东部地区学校接受职业教育，中央财政按照国务院规定的分担比例将应负担的经费拨付东部地区，其余部分由东部地区地方财政承担。<br><br>    各地要按照本通知要求，认真组织实施2007年中等职业学校招生工作，确保完成今年中等职业学校招生目标任务，努力开创中等职业学校招生工作新局面。各地要将中等职业学校招生工作中出现的有关情况和问题，及时报我部职业教育与成人教育司。 <br><br>二○○七年四月十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

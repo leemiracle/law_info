@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】甘肃省<BR>&nbsp;&nbsp;【发布文号】甘政办发〔2004〕137号<BR>&nbsp;&nbsp;【发布日期】2004-12-03<BR>&nbsp;&nbsp;【生效日期】2004-12-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gansu.gov.cn/ZfgbZxwjQw.asp?ID=398" target=_blank>甘肃省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>甘肃省人民政府办公厅关于全面推进财政国库集中收付管理制度改革的通知<br><br></font>(甘政办发〔2004〕137号)</p><br> <br> <br>省直各部门：<br><br>    根据党中央、国务院和省委、省政府关于推行财政国库集中收付制度改革的精神和总体部署，从2002年11月份起，按照“先行试点、逐步推开”的原则，我省先后选择了三批省直单位开展了国库集中收付制度改革试点工作。经过有关部门的共同努力，改革试点工作取得了阶段性成效，财政预算执行的严肃性、规范性得到加强，财政资金支付效率不断提高。为了认真贯彻落实《甘肃省人民政府办公厅关于转发〈甘肃省财政国库管理制度改革试点实施方案〉的通知》(甘政办发〔2001〕127号)精神，确保实现“十五”期间在全省建立现代财政国库管理制度的目标，省政府决定从2005年1月份开始，在省直所有部门全面开展财政国库集中收付制度改革工作。现将有关事项通知如下：<br>      <br>    一、提高认识，进一步增强深化财政国库管理制度改革的责任感和紧迫感<br><br>    建立和完善以国库单一帐户体系为基础、资金缴拨以国库集中收付为主要形式的财政国库管理制度，是党中央、国务院做出的一项重大财政管理制度改革，是社会主义市场经济条件下建立公共财政框架的必然要求，也是规范国家预算执行和政府性资金管理最彻底、最完善、最可靠的模式。推行这项改革，对于进一步加强财政资金监管，提高资金使用效益，从源头上预防腐败具有非常重要的意义。省直各部门要进一步提高认识，牢固树立大局观，认真落实科学发展观，把思想统一到省委、省政府确定的改革方针上来，坚决克服畏难情绪，增强责任感和紧迫感，积极支持改革，参与改革，确保财政国库集中收付制度改革的顺利推进和取得实效。<br><br>    二、严格执行政策，扎扎实实推进财政国库集中收付制度改革<br><br>    继续按照《甘肃省人民政府办公厅关于转发〈甘肃省财政国库管理制度改革试点实施方案〉的通知》(甘政办发〔2001〕127号)以及省财政厅、人行兰州中心支行制定的《甘肃省财政国库管理制度改革试点资金支付管理暂行办法》(甘财发〔2002〕15号)、《甘肃省预算外资金收入收缴管理改革试点实施办法》(甘财发〔2002〕19号)的要求，全面推进财政国库集中收付制度改革。省直各部门要认真学习有关文件精神，严格执行政策，确保各项政策、制度落到实处。<br><br>    (一)实行财政国库集中收付改革的资金范围：<br><br>    1、财政预算内资金；<br><br>    2、纳入预算管理的政府性基金；<br><br>    3、纳入财政专户管理的预算外资金；<br><br>    4、其他财政性资金。<br><br>    属于统借统还的世界银行、亚洲开发银行等国际组织和外国政府贷款的支付，按相关规定执行，其国内配套的财政性资金支付纳入改革范围。<br><br>    (二)建立财政国库单一帐户体系。<br><br>    建立国库单一帐户体系是财政国库集中收付制度改革的核心内容。省直各部门要认真落实《甘肃省人民政府关于印发〈甘肃省机关事业单位银行帐户管理暂行办法〉的通知》(甘政发〔2003〕47号)和财政国库集中收付制度改革相关政策规定，继续清理部门(单位)的各类银行帐户，严格管理单位帐户，规范建立国库单一帐户体系，为推行财政国库集中收付制度奠定基础。<br><br>    (三)全面推行以财政直接支付为主、预算单位授权支付为辅的集中支付方式。<br><br>    推行国库集中收付制度，必须要切实解决好财政资金层层拨付、使用效率较低的问题。今后凡是纳入改革范围的部门(单位)，要全面实行以财政直接支付为主、预算单位授权支付为辅的集中支付方式，在确保财政资金安全的基础上，实行财政资金拨付“直通车”方式，切实方便用款单位，努力提高财政资金的使用效益。<br><br>    (四)继续深化政府非税收入收缴改革试点。<br><br>    政府非税收入收缴改革是建立财政国库集中收付制度的重要内容。省直各执收、执罚部门要坚持依法行政，亮证执法，认真贯彻落实“收支两条线”规定，严格管理各项政府非税收入。省财政厅要继续深化和推进非税收入收缴改革试点工作，努力扩大改革试点范围，建立科学收缴政府非税收入的机制，不断提高财政专户管理水平，增强政府宏观调控能力，力争2005年将所有省直执收、执罚部门纳入非税收入收缴改革的范围。<br><br>    三、精心组织，相互配合，确保改革目标顺利实现<br><br>    全面推进财政国库集中收付制度改革，必须加强领导，精心组织，周密部署。省财政厅作为具体负责财政国库管理制度改革实施工作的部门，要主动加强与各部门的联系，强化服务意识，提高办事效率，为各部门提供方便、快捷、高效、规范的服务，充分调动各部门参与改革的积极性。要认真总结改革试点工作经验，进一步改进和完善各项制度办法，建立健全网络信息化平台，不断提高财政管理水平。要继续加强政策宣传，切实做好财务人员业务培训工作，让广大财务人员熟练掌握新的政策规定，增强财务人员的责任感和工作主动性。<br><br>    省直各有关部门要积极配合和大力支持财政部门的工作，努力为财政国库集中收付管理制度改革创造条件。要建立领导负总责、分管领导具体抓、财务部门负责落实的工作责任制，切实做好本部门及所属单位的改革工作。要严格执行财政国库集中收付制度改革的有关规定，建立健全单位内部财务会计管理制度，进一步加强财政财务管理，切实提高资金的使用效益。<br><br>    监察、审计部门要继续加强对财政国库集中收付制度改革工作的监督检查，及时反馈发现的问题，为政府决策提供依据。 <br> <br>二○○四年十二月三日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

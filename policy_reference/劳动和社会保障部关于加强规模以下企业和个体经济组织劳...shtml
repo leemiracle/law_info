@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】劳动和社会保障部<BR>&nbsp;&nbsp;【发布文号】劳社部函［2006］93号<BR>&nbsp;&nbsp;【发布日期】2006-06-22<BR>&nbsp;&nbsp;【生效日期】2006-06-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.molss.gov.cn/gb/zxwj/2006-07/28/content_125784.htm" target=_blank>劳动和社会保障部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>劳动和社会保障部关于加强规模以下企业和个体经济组织劳动保障统计工作的通知<br><br></font>(劳社部函［2006］93号)</p><br><br> <br>各省、自治区、直辖市劳动和社会保障厅（局）：<br><br>    近年来，各级劳动保障部门高度重视统计工作，不断完善统计制度，改进统计方法，加强统计分析，发挥了重要的基础服务作用，为科学决策提供了有力支持。随着我国社会主义市场经济体制的建立，经济结构和就业方式发生了深刻变化，统计工作面临着许多新的情况和问题。在去年全国人大《劳动法》执法检查中发现，劳动保障统计工作基础比较薄弱，对规模以下企业和个体经济组织（以下简称“规模以下单位”）的劳动保障情况掌握不够全面，有些方面甚至存在数据“空白”。为加强规模以下单位劳动保障统计工作，现就有关问题通知如下：<br><br>    一、充分认识加强规模以下单位劳动保障统计工作的重要性<br><br>    劳动保障政策制定需要准确、及时、全面的统计数据支撑。随着我国经济社会的发展，规模以下单位已成为我国就业再就业的增长点、社会保险扩面的重点和劳动关系调整的难点。加强规模以下单位统计工作，准确、及时、全面地掌握劳动保障情况，不仅是做好劳动保障工作的需要，也是促进国民经济和社会发展的需要。<br><br>    规模以下单位数量多、情况复杂，既包括不同经济类型的企业，又包括不同行业的企业，要获得劳动用工、职业培训、劳动合同签订、工资支付、工时休假、劳动争议、各种社会保险参保与缴费等方面的劳动保障数据，统计难度比较大。各级劳动保障部门要提高对做好统计工作特别是规模以下单位劳动保障统计工作重要性的认识，明确工作责任，积极创造条件，充分利用现有资源，切实搞好规模以下单位的劳动保障统计工作。<br><br>    二、改进统计方法，多渠道获取规模以下单位的统计数据<br><br>    各级劳动保障部门要从本地区实际出发，因地制宜、分类指导，不断拓宽统计渠道，采取灵活多样、科学有效的统计方法，摸清规模以下单位劳动保障情况。<br><br>    （一）通过劳动保障行政记录获取统计数据。行政记录是客观反映劳动保障情况的有效途径。要通过企业年检、劳动保障专项检查、集体合同审查、社会保险参保缴费登记等多种途径，获取规模以下单位劳动保障情况数据。大力推进企业特别是规模以下单位劳动保障诚信制度建设，建立诚信档案，开展诚信等级评价，逐步建立健全企业劳动保障情况数据库。积极推行劳动用工登记制度，全面掌握规模以下单位就业、培训、社会保险和劳动关系等劳动保障情况。<br><br>    （二）通过抽样调查获取统计数据。抽样调查是根据部分数据对总体数量特征做出估计的一种重要的统计方法。在对规模以下单位难以进行全面统计调查的情况下，采用抽样调查等方法，可以通过科学推算获取总体的统计数据。在抽样调查过程中，要对不同经济类型和不同行业的规模以下单位进行分组，采取简单随机抽样、对称等距抽样等抽样方法，按照一定的抽样比例进行统计调查。规模以下单位数量少于10000户的城市，抽样比例不得低于10％；多于10000户的城市，抽样比例不得低于1％。要周密制定调查方案，科学设计调查问卷，并对调查人员进行培训，通过实施现场调查，获取第一手资料，确保原始数据的真实、准确。<br><br>    （三）通过街道社区劳动保障工作平台获取统计数据。开展统计工作是街道社区劳动保障工作平台的一项重要职能。要健全统计指标体系，规范统计业务流程，明确统计工作的任务和要求。街道社区劳动保障工作平台要逐步摸清本辖区内就业、失业人员和规模以下单位的情况，建立起就业、失业人员状况和企业基本情况的统计台帐。通过街道社区劳动保障工作人员入户或深入企业开展问卷调查等方式，了解本地区规模以下单位的劳动保障情况。<br><br>    （四）通过金保工程获取统计数据。金保工程是获取劳动保障统计数据的重要手段。要以金保工程建设为契机，全面提升劳动保障统计工作的信息化水平。针对规模以下单位劳动保障统计工作的特殊性，统筹考虑金保工程数据库建设，健全基础信息指标体系，规范指标名称，统一指标定义，将企业用工、劳动合同签订和工资支付等情况纳入金保工程业务流程中。在完善相关指标体系和工作流程的同时，要对数据库资料及时更新，实时反映情况，为劳动保障决策提供数据支持。对于信息化水平较高的地区，要率先利用金保工程获取规模以下单位劳动保障统计数据。<br><br>    三、加强部门协作，共同搞好规模以下单位劳动保障统计工作<br><br>    搞好规模以下单位劳动保障统计工作，涉及范围广，工作难度大，需要各部门密切配合，加强协作。按照《国务院办公厅关于建立劳动力调查制度的通知》（国办发[2004]72号）要求，各级劳动保障部门要主动与统计部门联系，针对规模以下单位的特殊性，积极配合做好调查问卷设计、组织开展调查等工作，及时获取劳动保障有关的数据。认真贯彻执行劳动保障部、国家统计局和国家工商行政管理总局《关于印发＜城镇就业人员变动数据测算暂行办法＞的通知（劳社部发[2004]9号）要求，完善就业、社会保险、劳动关系等统计指标体系，进一步明确工作分工，健全协调机制，探索建立规模以下单位劳动保障统计工作的长效机制，使劳动保障统计数据真正做到准确、及时、全面。<br><br>附：国家统计局规模以下企业划分标准<br><br>劳动和社会保障部<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

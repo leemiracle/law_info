@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福州市<BR>&nbsp;&nbsp;【发布文号】榕政办〔2008〕180号<BR>&nbsp;&nbsp;【发布日期】2008-10-30<BR>&nbsp;&nbsp;【生效日期】2008-10-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/sqswj/fz/200811/t20081104_97438.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福州市人民政府办公厅关于2008年第三季度全市网站建设维护情况的通报<br><br></font>(榕政办〔2008〕180号)</p><br><br><br>各县（市）区人民政府，市直各有关单位：<br><br>    9月17日,省政府办公厅召开全省政府网站建设和管理工作视频会议，对今年我省政府网站建设和管理工作进行部署，要求全省各级政府及其部门要加快网站整改步伐。国家工业和信息化部近期将对我市8县（市）区政府网站进行随机评估检测，省政府办公厅也已下发《关于印发2008年福建省政府网站绩效评估实施方案的通知》（闽政办[2008]165号）文件，定于今年11-12月组织开展全省县（市）区政府网站评估工作，明年1月发布评估报告和结果。根据政府网站建设的新要求，今年第三季度，市数字办按照全市网站建设绩效评估标准（见附件一），结合国家工信部和省政府网站评估的重点，进一步加强对全市各级政府网站的监督、检查。总的情况看，第三季度全市政府网站建设管理的整体水平较第二季度有所下滑。现将2008年第三季度全市网站检查情况通报如下：??<br><br>    一、第三季度全市网站建设管理情况<br><br>    从36个市直部门网站的检查情况看，政务信息公开情况，达到A类、B类标准的网站分别为9个、25个，分别占市直部门网站总量比重的25%、69.4%；在线办事情况，达到A类、B类标准的网站分别为17个、18个，分别占市直部门网站总量比重的47.2%、50%；公众参与情况，有35个网站达到B类标准，占市直部门网站总量比重的97.2%；网站设计情况，达到A类、B类标准的网站分别为27个、8个，分别占市直部门网站总量比重的75%、22.2%。?<br><br>    从13个县（市）区政府网站的检查情况看，政务信息公开情况，达到A类、B类标准的网站分别为3个、8个，分别占县（市）区政府网站总量比重的23.1%、61.5%；在线办事情况，有11个网站达到B类标准，占县（市）区政府网站总量比重的84.6%；公众参与情况，有13个网站都达到B类标准；网站设计情况，所有县(市)区政府网站都达到了B类以上标准，其中达到A类的有10个，占县(市)区政府网站总量比重的76.9%。<br><br>    今年是实施《政府信息公开条例》的第一年，政府信息公开栏目建设是今年国家、省网站评估的重点。为此，市数字办重点检查了政府信息公开栏目的建设情况，发现存在不少问题：一是部分网站的政府信息公开栏目信息量少，有些目录类别无内容；二是部分网站的信息多是2006、2007年的历史信息，08年以来的信息量少；三是依托“中国福州”门户网站建设的部分政府部门子网站，其政府信息公开栏目中部门信息更新不及时，时效性较差。以上问题在国家工信部组织的全国地市级政府网站日常检测评估报告中也有所描述。<br><br>    此外，市数字办还重点对上个季度通报中发现的问题进行再检查，发现一些问题仍未得到有效解决，如市公安局网站部分页面依然出现代码错误、局长信箱还是无法点击（国家工业和信息化部日常监测报告中指出）；市消防支队网站页面在本次检查中无法访问；市土地发展中心网站投资环境栏目无法进入；市质监局网站机构设置栏目无内容等；部分网站栏目无内容开天窗、链接无法点击、页面出错等现象依然存在。<br><br>    二、下一阶段重点工作<br><br>    一是要做好政府网站的整改工作。各县（市）区政府、市直有关单位要切实做好政府网站的自查自纠工作，针对网站有栏目无内容、信息量少、更新不及时、网站无效链接、页面错误等现象进行及时整改。特别是对网站检查具体情况一览表（附件三）备注项中指出的不足要马上整改，努力提高全市政府网站的建设管理水平，力争在今年全省网站评比中有1-2家县（市）区政府网站成为全省绩效评估优秀的县级政府网站。<br><br>    二是要做好“中国福州”门户网站信息更新、报送工作。今年以来，部分参与门户网站维护的部门和依托门户网站建设子网站的部门在信息报送、更新工作上出现较明显的滞后，这将影响门户网站的绩效评估。各有关部门要对照《福州市人民政府办公厅关于印发“中国福州”门户网站栏目维护分工表的通知》（榕政办〔2005〕186号）等文件的要求，对本部门负责的子网站、子网页维护情况进行自查，该更新信息的要及时更新，该报送信息的要及时报送。信息报送人员发生变动的，要将新的人员名单报送市数字办。<br><br>    三是要深化百件实事网上办栏目。根据10月7日国家工信部组织召开的2008年中国政府网站绩效评估指标体系征求意见会有关精神，百件实事网上办栏目仍是今年的评估重点。目前“中国福州”门户网站的百件实事网上办栏目中的部分服务信息不完整，或过于陈旧。各有关部门要根据百件实事网上办更新责任表（附表四）的要求，特别是必要内容栏中的要求，在11月5日（星期三）之前向市数字办报送本部门负责的百件实事网上办相关内容。查询类的服务，要提供链接地址；信息类的服务，要提供2008年的最新数据。更新内容以电子文档的形式发到email： fz83342590@126.com ，联系人：林旭；联系电话：83300001。<br><br>        二○○八年十月三十日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

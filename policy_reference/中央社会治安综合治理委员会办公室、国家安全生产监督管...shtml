@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中央社会治安综合治理委员会办公室、国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总协调[2006]67号<BR>&nbsp;&nbsp;【发布日期】2006-04-18<BR>&nbsp;&nbsp;【生效日期】2006-04-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-05/10/content_165568.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中央社会治安综合治理委员会办公室、国家安全生产监督管理总局关于在安全生产领域深入开展平安创建活动的意见<br><br></font>(安监总协调[2006]67号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团社会治安综合治理委员会办公室、安全生产监督管理局：<br><br><br>    为深入贯彻党的十六届五中全会和全国安全生产工作会议精神，落实中共中央办公厅、国务院办公厅转发的《中央政法委员会、中央社会治安综合治理委员会关于深入开展平安建设的意见》中提出的有关安全生产的具体要求，充分发挥各地安全监管部门在平安建设中的职能作用，通过平安企业等多种形式创建活动，促进全国安全生产的长治久安，现提出以下几点意见： <br><br>    一、 充分认识在安全生产领域开展平安创建活动的重要性 <br><br>    安全生产关系人民群众生命财产安全，关系改革开放、经济发展和社会稳定的大局。在安全生产领域开展平安创建活动是国民经济健康平稳发展的必然要求，是贯彻落实科学发展观的重要举措，是平安建设活动的重要内容，也是构建社会主义和谐社会的基础工作。当前，国民经济持续快速健康发展，全国安全生产形势呈现总体稳定趋于好转的态势，但形势依然十分严峻。一些重特大事故造成人员伤亡和财产损失，给经济发展和社会稳定带来严重负面影响；一些事故发生后因群众安置、损失赔偿、工伤待遇等方面处理不周导致矛盾激化，有的演变成重大的社会治安问题；一些事故背后存在着官商勾结、权钱交易等腐败问题，严重破坏了执政党和政府的社会形象。中央将安全生产纳入“平安建设”，有利于深化社会治安综合治理工作，确保经济发展与社会稳定的大局。同时，依靠社会治安综合治理工作机制和群防群治网络组织促进安全生产工作的开展，有利于落实“安全发展”的指导原则，有利于贯彻落实“安全第一、预防为主、综合治理”的方针，有利于促进国民经济持续、快速、健康、协调发展。各级安全监管部门要深刻认识“平安创建”工作对安全生产工作的促进作用，增强做好安全生产工作的责任感、紧迫感和使命感，认真履行职责，积极参与“平安建设”，共同落实“平安建设”各项措施。 <br><br>    二、 加强组织领导，落实安全生产责任 <br><br>    搞好安全生产，领导重视是关键。各级安全监管部门要充分认识加强安全生产工作的长期性、艰巨性、复杂性，在各级党委、政府的领导下，加强领导，转变作风，狠抓落实。要坚持把实现安全发展、保障人民群众生命财产安全和健康作为关系全局的重大责任。要坚持“谁主管、谁负责”的原则，采取有力措施，落实行政首长负责制，落实政府及其有关部门的监管责任；落实企业的安全生产主体责任，尤其是法定代表人负责制。要完善安全生产管理的体制机制，严格执行安全生产的各项规章制度，把安全生产的各项要求落到实处。要配合有关部门把安全生产控制指标的实施情况纳入各地社会治安综合治理考核内容，建立安全生产激励约束机制，对安全生产工作先进单位的党政领导要予以表彰，对发生重特大事故，造成重大人员伤亡和财产损失，严重影响社会稳定的单位和领导要严肃追究责任。 <br><br>    三、 坚持预防为主，实现标本兼治，政策治本 <br><br>    实现安全生产重在预防，重在治本，标本兼治，综合治理。各级社会治安综合治理部门和安全监管部门要把开展“平安建设”与贯彻落实“安全第一、预防为主、综合治理”的安全生产方针结合起来，积极探索有利于本地区安全生产的治本之策。要认真做好事故隐患排查和专项治理工作,牢记“隐患险于明火”。各级社会治安综合治理部门要积极协调配合有关部门和单位做好事故隐患排查，安全监管部门要紧紧依靠当地党委、政府和社会治安综合治理部门，组织、督促、引导企业经常深入地开展隐患排查整改工作，及时协调和解决本地区存在的重大事故隐患和其他安全生产突出问题，尤其是搞好煤矿瓦斯治理和整顿关闭，促进安全生产专项整治工作的顺利进行。要加强安全生产宣传教育，充分利用社会治安综合治理现有的工作机制和工作网络，组织开展对本地区从业人员、社区居民和劳务输出人员安全生产知识普及宣传教育，重点宣传安全生产法律法规基本知识、火灾自防自救知识和逃生等安全常识，增强其依法维护安全生产权益的意识，努力提高广大职工和居民的安全防范技能。各级安全监管部门要会同有关部门联合执法、严格执法，严肃查处责任事故，按照“四不放过”的原则依法认真查处事故，严厉追究事故责任者的责任，严厉打击非法行为，尤其要严厉查处事故背后的腐败行为。各级社会治安综合治理委员会要对依法处理的落实情况进行监督，协助安全监管部门做好重特大事故的善后处理工作，做好灾民安置、恢复生产生活秩序等工作，防止引发群体性事件，维护生产秩序。 <br><br>    四、 注重实效，建立有效的工作机制 <br><br>    安全生产是一项复杂的系统工程。2004年国务院《关于进一步加强安全生产工作的决定》提出，要构建“政府统一领导，部门依法监管，企业全面负责，群众参与监督，全社会广泛支持”的工作格局，经过几年的努力，安全生产齐抓共管的局面初步形成。中央社会治安综合治理委员会将安全生产纳入“平安建设”之中，为各地进一步推动安全生产工作提供了新的途径，各级安全生产监管部门要在地方党委、政府领导下，在各级社会治安综合治理部门的配合与支持下，结合安全生产工作的特点，注重实效，进一步完善安全生产齐抓共管的工作机制。 <br><br>    一是建立信息交流机制。各级社会治安综合治理委员会办公室要与安全监管部门及相关单位每半年召开一次联席会议，定期分析本地区安全生产形势，深入把握安全生产的规律性和特点，抓紧解决安全生产中的突出矛盾和问题，充分发挥和利用好社会治安综合治理现有工作机制和手段，及时加以协调解决，预防和减少事故的发生，确保安全生产和社会稳定，实现安全、和谐发展。要建立彼此间经常性的信息交流通报制度，安全监管部门要将安全生产重大问题向社会治安综合治理委员会办公室进行通报，各级社会治安综合治理委员会办公室要会同安全生产监管部门组织开展“平安建设”专项检查活动。 <br><br>    二是大力开展基层安全生产创建活动。要将开展基层安全生产创建活动作为推动“平安建设”的切入点，积极推动各地创建安全生产示范县（乡镇、街村、社区）活动，有计划逐步推进安全生产示范城市、示范省的创建活动，并组织进行验收和评比。 <br><br>    三是加强舆论宣传和引导。各级安全监管部门要会同综治部门联合组织开展群众性的安全生产法律知识和基本知识的普及教育活动，进一步提高公众的安全意识。要充分利用当地主流媒体，加强对安全生产工作宣传报道力度，大力宣传安全生产与“平安建设”的重大意义和主要任务，宣传本地在安全生产综合治理方面创造的典型经验和做法。对一些重特大典型案例要予以曝光。通过舆论宣传和引导，努力营造重视安全生产的社会氛围。 <br><br>    四是发动和依靠人民群众参与和监督安全生产。各级社会治安综合治理部门要发动群众参与本地区、本单位、本社区安全生产事故隐患排查，对本地区企业安全生产管理中违法、违纪和违规现象进行举报，并建立举报奖励制度，在企业职工中广泛开展维权岗活动，充分调动广大人民群众参与和监督安全生产的积极性。<br><br>  二00六年四月十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

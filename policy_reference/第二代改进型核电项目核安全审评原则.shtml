@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家核安全局<BR>&nbsp;&nbsp;【发布文号】国核安函〔2007〕28号<BR>&nbsp;&nbsp;【发布日期】2007-04-29<BR>&nbsp;&nbsp;【生效日期】2007-04-29<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/gw/haqwj/200705/t20070509_103477.htm" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>第二代改进型核电项目核安全审评原则<br> <br></font>(国核安函〔2007〕28号)</p><br><br> <br>中国核工业集团公司，中国广东核电集团公司，中国电力投资集团公司，核工业第二研究设计院，上海核工程研究设计院，中国核动力研究设计院，深圳中广核工程设计有限公司，国家环保总局核与辐射安全中心，苏州核安全中心，核设备安全与可靠性中心：<br><br>    为确保核安全，实现第二代改进型核电项目审评工作的规范化和标准化，我局在征求各方意见并通过核安全与环境专家委员会审议的基础上，编制了《第二代改进型核电项目核安全审评原则》。现印发给你们，请遵照执行。<br><br>附件：第二代改进型核电项目核安全审评原则<br><br>国家核安全局<br>二○○七年四月二十九日<br> <br><br>附件：<br><br>第二代改进型核电项目核安全审评原则<br><br>    本文中第二代改进型核电项目是指以我国国内已建成的百万千瓦级压水堆核电站为参考电站，采用经验证的技术和设计，并采取有效的设计改进措施，使其安全水平比参考电站有进一步提高的核电项目。<br><br>    为了确保核安全，规范和指导第二代改进型核电项目的设计、建造及核安全审评工作，我局特制定如下核安全审评原则：<br><br>    一、国家相关法律、行政法规<br><br>    我国发布的有关环境保护和核电厂安全的所有法律、行政法规均须遵照执行。<br><br>    二、部门规章<br><br>    我局发布的或与国务院其他部门联合发布的部门规章，均须遵照执行。<br><br>    在《核动力厂设计安全规定》（HAF102-2004）中，在概率安全评价（PSA）、严重事故、安全评价的独立验证三个方面做如下规定：<br><br>    1、按照HAF102-2004的要求开展有关的PSA工作，应完成内部事件一级PSA，并逐步完善一级PSA，开展二、三级PSA。<br><br>    2、关于严重事故的对策，应在PSA工作的基础上，结合有关安全研究和同类核电厂的实践，确定可能导致严重事故的主要事件序列，在此基础上采取合理可行的预防和缓解措施，例如严重事故工况下的可燃气体控制措施、防止高压熔融物喷射的措施、防止安全壳旁路的措施，并开发严重事故管理指南等。<br><br>    3、对于影响核电厂安全的重大设计改进，以其可能产生的影响为重点，开展安全评价的独立验证工作。<br><br>   三、核安全导则<br><br>    凡国家核安全局颁布的，在第二代改进型核电项目申请受理时有效的核安全导则，均应参照执行。在实际工作中可采用不同于核安全导则规定的方法和方案，但必须向国家核安全局证明所采用的方法和方案至少具有与核安全导则相同的安全水平，不会对核电厂厂区人员和公众增加风险。<br><br>    对于核安全导则《核动力厂安全评价与验证》（HAD102/17－2006）中关于确定论事故分析的要求，可以采用参考电站的分析方法和假设，且分析到与参考电站相同的状态。<br><br>    为进一步提高第二代改进型核电项目的安全水平，并为新导则的修订、实施积累经验，第二代改进型核电项目应积极参考使用国际原子能机构已正式发布的新版导则。<br><br>    四、设计和建造的标准<br><br>    第二代改进型核电项目设计和建造的标准原则上应采用法国RCC系列标准，并适当考虑设计自主化、设备本地化引起的标准适应性替代问题，具体的标准和版本如下：<br><br>    1、RCC-P 900MWe压水堆核电站系统设计和建造规则（1991第四版加1995修订）。<br><br>    2、RCC-M 压水堆核岛机械设备设计和建造规则（2000版及2002年补遗）。<br><br>    3、RCC-E 压水堆核电站核岛电气设备设计和建造规则（1993版，其中数字化仪控部分应采用国际上普遍适用的设计、制造、安装和鉴定标准，或遵照RCC-E2002版）。<br><br>    4、RCC-I 压水堆核电站防火设计和建造规则（1983版加1987年应用）。对1997版适用的部分积极加以参照。<br><br>    5、RCC-C 900MWe压水堆核电厂燃料组件设计和建造规则（1998版）。<br><br>    6、RSEM 压水堆核电厂在役检查规则（1997版加2000修订）。<br><br>    7、RCC-G 900MWe核电站土建设计和建造规则（1986版）。<br><br>    关于RCC-G的补充要求：对于保持原有设计的子项，应以适用的新标准（如EJ/T系列）对典型厂房开展对比核算工作。对于新设计子项，应选择适用的新版标准（如EJ/T系列）设计，对于EJ/T中未涵盖的内容，可根据具体情况，经我局同意后，补充参考国内外适用的规范和标准的相关要求。<br><br>    五、关于设备本地化和多国采购<br><br>    在设备本地化和多国采购过程中，应满足RCC系列标准的要求；如遇到实际困难而采用其他标准，应分析论证其满足安全要求，并处理好不同系列标准之间的接口。<br><br>    六、对同类核电厂安全审评遗留的问题必须妥善加以解决；对法国同类核电厂实施的改进项目进行跟踪、分析，并充分采纳适用的项目，对于不采纳的改进项目，应进行必要的论证。<br><br>    七、根据放射性废物最小化原则，明确废物最小化目标值，制定废物最小化具体措施。通过技术经济比较，对第二代改进型核电项目的废物管理方案进行优化设计，采用净化效果好，减容因子高、二次废物少、经过验证和安全、可靠、经济的放射性废物处理、控制技术和设备。<br><br>    八、对第二代改进型核电项目的辐射防护设计进行优化分析，使原有按RCC-P规则实施的辐射放射设计，在进行合理的适当的设计改进之后，满足国标《电离辐射防护与辐射源安全基本标准》（GB18871-2002）的辐射防护设计要求。这具体包括：<br><br>    1、提出职业照射剂量约束的建议值。在最优化分析基础上，提出集体剂量目标值。<br><br>    2、从防护和安全的角度对设计进行优化分析，确定屏蔽设计剂量目标值；<br><br>    3、按国标《电离辐射防护与辐射源安全基本标准》（GB18871-2002）的分区要求，对原有分区准则进行复核，修订辐射分区剂量率边界值，对控制区的进出应在设计上体现有效的控制措施；<br><br>    九、气、液态放射性流出物监测系统，应遵守国家有关标准要求。测量方法和仪器的探测上限应满足事故工况的要求，探测灵敏度应小于相应浓度或剂量标准的十分之一。<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

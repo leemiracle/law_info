@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总管一〔2008〕42号<BR>&nbsp;&nbsp;【发布日期】2008-02-28<BR>&nbsp;&nbsp;【生效日期】2008-02-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-02/29/content_274486.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局关于加强冶金有色行业安全监管工作的通知<br><br></font>(安监总管一〔2008〕42号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：<br><br>    2007年，国民经济继续持续快速发展，冶金有色行业产品产量继续保持了大幅度增长。2007年粗钢产量4.89亿吨，同比增长16.7%，是2002年的2.65倍，连续12年保持世界第一；十种有色金属产量2360万吨，同比增长23.1%，是2002年的2.33倍，连续6年保持世界第一。 <br><br>    据统计，2007年冶金行业发生事故261起，死亡300人，死亡人数同比上升22.95%；有色行业发生事故105起，死亡122人，死亡人数同比上升17.31%。特别是发生了辽宁铁岭市清河特殊钢有限责任公司“4.18”钢水包倾覆特别重大事故和山东魏桥创业集团有限公司“8.19”铝液外溢爆炸重大事故，均是冶金有色行业多年来死亡人数较多的事故，安全生产形势十分严峻。 <br><br>    根据国家安全监管总局2008年工作要点的要求，2008年冶金有色行业安全监管工作重点是：贯彻落实“隐患治理年”要求，深入开展隐患排查治理工作；以起重、吊运、冶炼、铸造、煤气等生产环节（部位）的排查治理为重点，狠抓隐患整改落实，建立长效机制，完善应急救援预案，强化日常监管，加强基础工作，遏制死亡人数上升、事故多发的势头，努力实现事故总量稳中有降的工作目标。为进一步做好冶金有色行业安全监管工作，现提出如下要求： <br><br>    一、深化隐患排查治理工作。各地要认真贯彻执行《安全生产事故隐患排查治理暂行规定》（国家安全监管总局令第16号），在2007年开展隐患排查治理专项行动的基础上，按照国务院办公厅《关于进一步开展安全生产隐患排查治理工作的通知》（国办发明电〔2008〕15号）、国家安全监管总局《关于印发金属和非金属矿山、尾矿库、冶金有色、石油天然气开采、危险化学品、烟花爆竹、机械制造等行业（领域）企业2008年安全生产隐患排查治理工作实施意见的通知》(安监总协调〔2008〕35号)的要求，将隐患排查治理工作纳入2008年的中心工作，深化冶金有色行业隐患排查治理工作。要认真分析和把握今年安全生产的规律和特点，抓住“两会”、“奥运会”、第四季度三个重要时段，精心组织，周密部署，明确责任。指导督促各冶金有色企业将隐患排查治理工作贯穿到全年安全生产过程的各个环节，建立隐患排查治理责任制，落实责任人和整改资金，对2007年排查出来的重大隐患及时进行整改销号。 <br><br>    二、夯实安全基础，解决突出问题。各地要在开展隐患排查治理的同时，督促企业着重做好： <br><br>    （一）修改、补充、完善以安全生产责任制为核心，包括安全教育培训、安全检查、隐患整改、安全措施计划、安全投入、设备设施安全管理、职业危害防护、危险源管理、安全考核奖惩、伤亡事故报告与处理、安全生产档案管理等各项安全生产管理制度、岗位操作规程和技术规程。企业制定执行的各项安全生产管理制度、岗位操作规程和技术规程等必须符合现行的法律、法规和安全标准的要求，满足安全生产的需要，实行职业健康安全管理体系的企业应保障体系的有效运行和持续改进。 <br><br>    （二）强化安全教育，消除“三违”行为。据对部分冶金企业统计，因“三违”行为造成的死亡人数占总死亡人数的60%以上。冶金有色企业特别是非公有制企业和中小企业要着力解决企业职工安全教育不到位，一线职工特别是农民工缺乏基本的安全知识和防护技能等问题。进一步强化企业职工的“三级”安全教育，组织典型事故分析、讨论，深刻吸取事故教训，增强职工安全意识，实现由“要我安全”向“我要安全”、“我会安全”的安全观念转变。要建立举报“三违”奖励机制，严肃处理“三违”行为，通过规范作业者的安全行为，逐步减少和消除“三违”行为。 <br><br>    （三）加强对重点时段和环节的安全管理。各冶金有色企业要着力做好重要设备设施停产检修、生产与基建技改同时作业时段的安全组织管理、安全措施落实和复产检查验收工作；强化对企业改制期间、改制后一段时期及已列入淘汰落后生产能力仍在生产的安全管理；加强相关方施工队伍的安全监管。 <br><br>    （四）完善应急救援预案，提高防控较大事故的能力。冶金有色企业危险、有害因素多，属于风险性较大的行业。各冶金有色企业要进一步做好做实危险源辩识工作，加强对煤气管网、煤气柜、制氧、压力管道、压力容器等危险源（点）的监控，特别是对在用时间长、即将报废的对安全生产影响大的重要设备、关键设施的检修维护。认真修改完善重点部位和关键工艺环节的应急救援预案，预案应有应急组织机构、报告程序、应急联络方式、应急处置方案和应急物资储备等重要内容，能够满足隔离、疏散、抢险、救援需要，定期进行预案演练和持续改进。 <br><br>    三、加大监管力度，提高监管水平。各地要继续贯彻落实国家安全监管总局《关于印发进一步加强冶金行业安全生产工作的指导意见的通知》（安监总管一字〔2005〕172号）有关要求，将产量大、企业数量多，尤其是小企业多、事故多发的地区作为监管重点，采取包片、包点等形式，加强日常督促检查，对检查出的安全生产隐患，下达限期整改指令，逾期未进行整改或整改不到位的，加大处罚力度；对漠视安全生产，拒不履行安全生产主体责任，已排查出重大安全生产隐患而不及时采取治理措施的企业和主要负责人，要依法严厉处罚。各冶金有色重点省（区、市）和企业集中地区要加强对安全监管人员的业务知识和工作技能培训，不断提高监管水平和能力。 <br><br>    四、积极推动冶金企业安全标准化工作。各地要认真贯彻落实《国家安全监管总局关于印发冶金企业安全标准化考评办法（试行）及安全管理炼铁炼钢考评标准的通知》（安监总管一〔2008〕23号）要求，做好冶金企业安全标准化考评标准的宣传贯彻工作；结合本地区实际情况，开展试点，积极推动冶金企业安全标准化工作；加强源头安全管理，提高企业安全管理水平和作业现场本质安全度。 <br><br>    五、建立和完善基础统计工作。各地要全面掌握冶金有色企业重大隐患和重大危险源的基本现状，建立和完善重大隐患治理和重大危险源监控制度，要把排查出的安全生产重大隐患和重大危险源登记、建档造册，建立数据库，切实做到责任清、情况明、数字准。要明确记录重大安全隐患的基本情况、类型、主体责任单位、形成原因、整改措施、整改时限等内容和重大危险源监控措施。 <br><br>二○○八年二月二十八日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

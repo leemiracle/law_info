@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】沈阳市人民政府<BR>&nbsp;&nbsp;【发布文号】沈政办发[2009]74号<BR>&nbsp;&nbsp;【发布日期】2009-10-30<BR>&nbsp;&nbsp;【生效日期】2009-10-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.shenyang.gov.cn/web/assembly/action/browsePage.do?channelID=1158644667228&contentID=1261379932470" target=_blank>沈阳市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>沈阳市人民政府办公厅转发市农委关于推进农业信息化建设意见的通知<br><br></font>（沈政办发[2009]74号）</p>  <br> <br> <br>    各区、县（市）人民政府，市政府各部门，各直属机构：<br><br>    经市政府同意，现将市农委《关于推进农业信息化建设的意见》转发给你们，请认真组织落实。<br><br>    沈阳市人民政府办公厅<br><br>    二○○九年十月三十日<br><br>    关于推进农业信息化建设的意见<br><br>    为深入贯彻党的十七大精神，全面落实科学发展观，加快运用信息技术改造传统农业，促进农业发展、农民增收，根据《工业和信息化部关于印发农村综合信息服务站建设和服务基本规范（试行）》（工信部信〔2009〕256号）、省农委《关于联合推进农业信息服务重点项目的通知》（辽农〔2009〕290号）要求，现就推进我市农业信息化建设提出意见如下：<br><br>    一、指导思想<br><br>    坚持以科学发展观为统领，充分发挥农业网站的窗口和桥梁作用，统筹规划、整合资源，建立以沈阳市农业信息网和其他涉农部门网站为支撑，以县级农业信息服务平台为枢纽，以各乡镇信息服务站为节点，上联部、省、市，下联县、乡、村级信息服务点、农业产业化龙头企业、农产品批发市场、农民专业合作社、种养大户和广大农户，基本覆盖全市农户的农村信息服务网络，进一步促进我市现代农业发展和农民增收，推动农村经济又好又快发展。<br><br>    二、主要任务<br><br>    （一）搭建“二个平台”。<br><br>    1.全市统一的农业信息共享服务平台。按照省“大金农”信息网络平台建设方案的总体思路，以沈阳市农业信息网为枢纽，充分整合全市涉农网站和涉农信息资源，建成可以进行网上查询地理信息、科技致富等信息，可以交流种、养、加工各类农产品技术，可以提供农产品产、供、销渠道，可以发布产业结构调整、招商引资信息和成果，面向“三农”及各涉农部门的统一综合信息服务和交换平台。<br><br>    2.移动电子政务信息平台。充分利用覆盖广大农村的移动网络、手机用户等受众资源，整合市、县、乡、村四级政务信息资源，以农村政务信息化为切入点，以农村信息机为载体，以MAS（农信通）业务为实施方式，在全市村镇推广新型电子政务（电脑+MAS+手机）平台建设，将农村信息服务延伸至移动终端，及时向农民提供生产技术、政策法规、医疗等公共服务信息，推进村务公开，提升政令上传下达的准确性和及时性，发展基层民主政治意识，保障农民的知情权、参与权、决策权、监督权。<br><br>    （二）开发“三个系统”。<br><br>    1.农产品质量安全监测管理系统。建立开放的农产品网上查询系统，对无公害农产品、绿色食品、有机食品及农药、肥料、兽药、饲料和农机具等进行监管，提供“一站式”窗口服务，实现网上行政审批、认证和溯源管理，对全市农产品产前、产中、销售过程进行全程质量跟踪。建立城乡LED屏农业信息发布系统，发布农产品质量安全、产地及零售价格、农业科技等信息，确保全市农产品质量安全信息公开透明。<br><br>    2.精准农业（PA）系统。利用全球定位系统（GPS）技术、遥感技术（RS）和地理信息系统（GIS）技术，开发应用精准农业系统，用以监测农作物产量、分布及土壤成分、性质、分布，为常规种植、设施农业、养殖等提供精准农业技术支撑，确保播种、浇灌、施肥、施药等生产环节科学合理，节约费用、降低成本，增加产量、提高效益。<br><br>    3.农产品供求及价格监控系统。建立覆盖全市重要农产品交易市场的网上农产品供求及价格监测系统，实时采集各农产品交易市场供求、价格信息，定期接收各地上报的农产品价格信息，通过动态对比分析，为各级领导决策及企业、农民营销提供科学依据。<br><br>    （三）实施“四项工程”。<br><br>    1.信息化乡村建设工程。在现有农业信息化网络体系基础上，充分整合农村电话网、互联网、广电网、移动通信网等资源，建立以市、县为主的市、县、乡、村四级农业信息服务网络，实现1县1个信息中心、1乡1个中心站、1村1个信息点、1站1套工作制度、1站1套工作设备、1站1名信息员。全市建成农村信息示范站100个，完成农村信息员计算机及网络基础知识培训，普及农业信息采集、发布、上报等基本技能，对1万名农村中青年农民进行信息应用能力培训。鼓励社会各界投资建设服务性质的农民网吧，发展以各级涉农部门为主的横向网络，拓展以向农村企业、种养殖业大户及市场延伸为主的边缘信息网络。<br><br>    2.互动电视（IPTV）进村入户工程。2009年在有条件的地区试点建设互动电视，利用互动电视的网络交互式功能，以电视加机顶盒等模式向家庭用户提供包括数字电视等在内的涉农交互式信息服务，扩大农业信息覆盖面。试点成功后，制定优惠的资费标准，进行推广普及，到2012年IPTV进村入户率达10%以上。<br><br>    3.县域涉农产业信息化工程。充分发挥农业龙头企业、重点农产品贸易市场、农业产业化基地、农民合作组织、农业专业经济协会、农村经纪人的价值链带动作用，通过建设特色农业网站和公共服务平台等信息化手段，将分散的资源和农业企业、农贸市场、农业经纪人有机结合，实现小生产与大市场的对接，加快定单农业的发展，形成产业化经营，推动农业产业链的协调发展，推进县域经济特色产业聚集地和企业信息化建设。<br><br>    4.“百万农民上网”工程。各地区和有关部门、单位要继续落实由省农村经济委员会、信息产业厅共同组织实施的“百万农民上网”工程，推进全省农业信息化进程，确保农民真正受益。<br><br>    三、保障措施<br><br>    （一）高度重视，加强领导。加快农业信息化建设是发展现代农业，推进农业、农村产业结构调整，促进农民增收的迫切要求，也是转变政府职能、提高政府决策管理与服务水平的必然选择。因此，各地区和有关部门、单位要高度重视，加强领导，制定工作方案，落实工作责任，在政策上倾斜、在经费上支持、在人员上保证，确保高质量、按时限完成农业信息化建设任务。<br><br>    （二）多元融资，保证投入。市本级财政每年要适当安排专项资金用于农业信息化建设，各地区也要安排一定资金对农业信息化建设的重点项目给予支持。同时，要进一步完善以政府投入为主导、社会投入为主体的多元化融资体制，确保农业信息化研究、基础设施建设、农业信息项目建设和人员培训等的需要。<br><br>    （三）建章立制，规范管理。农业管理部门要制定具体的信息服务管理办法，明确各级农业服务机构职责分工、服务内容和建设标准，建立健全农业和农村经济信息公开发布制度，运用市场机制广泛开展社会化信息服务，实现信息采集、整理、分析、预测和对外发布的规范化管理，全面提高服务“三农”能力和水平。<br><br>    （四）充分论证，严格审核。对“二个平台”、“三个系统”、“四项工程”等农业信息化建设项目，要严格履行项目申报程序，由相关部门进行可行性论证，将工程预算报市基本建设工程预决算审核中心审核，经市人民政府批准后方可实施，以确保工程质量。<br><br>    （五）加强协调，密切配合。农业信息化建设工作涉及面广、难度大，各地区和相关部门、单位要团结协作，密切配合，稳步推进。农业管理部门在建好市、县两级农业信息服务中心的基础上，要重点加强对乡镇信息服务站的领导与管理。发展改革、财政、经济和信息、科技等部门要加大对农业信息化建设的政策支持力度。鼓励移动、电信、联通等信息服务企业加大投资力度，加强对农业信息化建设的指导和支持。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

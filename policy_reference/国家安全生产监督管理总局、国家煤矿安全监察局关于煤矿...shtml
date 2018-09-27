@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局、国家煤矿安全监察局<BR>&nbsp;&nbsp;【发布文号】安监总煤矿[2006]171号<BR>&nbsp;&nbsp;【发布日期】2006-08-16<BR>&nbsp;&nbsp;【生效日期】2006-08-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-08/21/content_188950.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局、国家煤矿安全监察局关于煤矿水害防治安全督查情况的通报<br><br></font>(安监总煤矿[2006]171号)</p><br><br><br>    各产煤省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局、煤矿安全监管部门、煤炭行业管理部门，各省级煤矿安全监察机构，司法部直属煤矿管理局，神华集团公司、中煤能源集团公司： <br><br>    为进一步加强雨季煤矿水害防治工作，遏制近期煤矿水害事故多发的势头，国家煤矿安全监察局组成七个督查组从7月15日至27日对山西、四川、贵州、内蒙古、黑龙江、河南、河北等七个省（区）进行了煤矿水害防治安全督查，共督查了14个地（市）、16户国有重点煤矿企业，深入现场和井下抽查了41对矿井（其中：国有重点煤矿10个，国有地方和乡镇煤矿31个）。督查结束后，已先后以国务院安委会办公室名义向相关省（区）印发了整改督办函。 <br><br>    从督查情况看，七省（区）党委、政府高度重视煤矿安全生产工作，将水害防治列入重点工作之中，认真安排部署雨季“三防”和煤矿防治水工作，及时转发国办和有关部委局的文件并下发文件对雨季防治水工作提出具体要求。特别是认真落实国务院安委会办公室关于雨季“三防”工作的要求和全国煤矿水害防治工作座谈会精神，督促本地区及相关部门积极开展水患排查和雨季“三防”督查工作；煤矿企业水文地质基础工作开始得到重视；煤矿安全监管部门和监察机构将水害防治列为雨季安全执法的重点内容。在各有关方面的共同努力下，煤矿防治水工作取得了一定成效。各督查组在督查中也发现了一些问题，比较有代表性的主要有以下五个方面： <br><br>    一是水害防治和雨季“三防”工作不到位。一些地区和煤矿对防治水工作有所忽视，防范意识差，未将水害防治列入重要议事日程，防汛机构、人员、设备物资、应急预案落实不到位。内蒙古自治区准格尔旗金利煤矿“7.13”洪水淹井事故发生后，自治区政府发出了关于做好煤矿矿井防洪工作的紧急通知，鄂尔多斯市也制定了煤矿全面停产撤人、排查隐患、分片包矿、责任到人的紧急措施。但在市、旗两级煤炭管理部门7月14日到鄂托克旗棋盘井矿业公司三号井现场检查时发现仍有117人在井下作业，立即要求该矿停产撤人，但在检查人员走后该矿仍然组织88名矿工在井下作业，检查组返回复检时发现问题马上通知工人升井，工人升井2小时后洪水暴发，矿井被淹，险些造成一起特别重大伤亡事故。 <br><br>    二是小煤矿水文地质基础工作相当薄弱。许多小煤矿防治水机构和专职人员不健全，企业没有水害防治总体规划，矿井缺乏必要的基础图纸资料，井下采掘工程不能及时填绘，井上下采掘工程平面图与实际误差较大，有的小煤矿根本就没有图纸，无法科学合理指导煤矿安全生产工作。一些小煤矿既不了解本矿井存在的水患，也不了解相邻矿井的水文地质情况，盲目组织采掘生产和工程施工，导致水害事故。 <br><br>    三是水害防治措施不落实。一些煤矿企业没有认真坚持“预测预报，有疑必探，先探后掘，先治后采”的十六字原则，“防、堵、疏、排、截”五项综合治理措施未能真正落实到位，矿井排水系统和设备不符合《煤矿安全规程》要求。许多小煤矿虽配备了探放水钻机，但由于现场技术管理不到位，实际并未使用，配备的钻机仅是为了应付检查。如贵州省安顺市紫云县偏坡院煤矿在“7.15”透水事故发生前已知道相邻关闭的煤矿有老窑积水，也购买了两台探水钻机，但未按规定进行探放水，而引发透水事故，死亡18人。 <br><br>    四是超层越界开采，破坏防隔水煤柱。督查中发现小煤矿超层越界和非法生产比较普遍，一些小煤矿在国有大矿范围开采或盗采国有大矿的边界保护煤柱。7月12日，黑龙江省双鸭山市金鑫煤矿擅自开采防水和防沙隔离煤柱导致溃沙事故，造成6人被困，经全力抢救才得以生还。 <br><br>    五是专业技术人员配备不足，从业人员不适应工作要求。一些煤矿企业地质、水文地质、测量等专业人才严重匮乏，部分从业人员未经培训上岗。即使在水害威胁较严重的煤矿，相关专业技术人员也不足。防治水工作存在“无人管、不会管”的状况。一些煤矿透水事故在发生前，有明显的透水预兆，但由于煤矿地质和水文地质人员缺乏，从业人员不懂透水预兆知识和防治水害的专业知识，不能采取有效的措施和及时撤出，使本可避免的透水事故发生。 <br><br>    从全国情况看，今年1-7月份，发生煤矿水害事故53起、死亡259人。其中，3-9人重大透水事故20起、死亡104人；10人以上特大透水事故4起、死亡114 人。特别是进入7月份以来，山西、贵州、湖南等地水害事故多发。7月14日至16日，湖南省受第4号强热带风暴的影响，衡阳、郴州等地发生了特大洪涝灾害，造成113对矿井被淹和138对矿井开采水平被淹，事先做了大量预防工作，人员预先撤离，仍造成地面6人死亡、井下8人失踪。目前正值雨季，结合煤矿水害防治安全督查情况，现提出如下要求： <br><br>    一、进一步提高对水害防治工作重要性的认识 <br><br>    煤矿水害是仅次于瓦斯爆炸的重大灾害，在重特大事故中所占比重大。地方政府、煤矿企业和各级煤矿安全监管部门、煤矿安全监察机构要充分认识做好煤矿水害防治工作的重要性和紧迫性，提高认识，加强领导，将水害防治监管监察工作摆上重要议事日程。要贯彻落实全国煤矿水害防治工作座谈会和安委办明电〔2006〕14号、安监总煤矿〔2006〕98号文件的有关精神，认真分析研究本单位、本辖区矿井水害防治的现状和加强此项工作的措施，有效遏制煤矿重特大水害事故的发生。 <br><br>    二、进一步落实煤矿企业防治水害的主体责任 <br><br>    水文地质条件复杂或水害隐患严重的企业，必须设立专门防治水机构，配备专职水文地质技术人员；加强现场、技术管理和水文地质基础工作。要贯彻“预测预报，有疑必探，先探后掘，先治后采”的水害防治原则，落实“防、堵、疏、排、截”五项综合治理措施。所有煤矿都要配备探放水设备并使其真正发挥作用，严禁用探煤钻代替探水钻进行探放水。要查明矿井或采区水文地质条件；收集、调查或核对相邻煤矿及废弃老窑的情况，编制《矿井综合水文地质图》等基础图纸，为防治水工作提供真实可靠的基础资料。 <br><br>    三、加强雨季“三防”工作，加大水害隐患排查和治理力度 <br><br>    各煤矿企业要进一步认真检查是否落实了雨季“三防”工作方案、储备了充足的防排水设备和物资，确保领导、组织、预案、物料、资金落实到位。凡在雨季未落实水害防治措施的煤矿，要立即停止生产，将井下人员全部撤到地面，确保安全度汛。要积极开展水患排查和治理活动，对受老空水、底板奥灰水或溶洞水威胁的矿井和水体下采煤的矿井进行重点排查、治理，凡存在严重水患而未采取有效措施的，要立即停止生产，严禁违法违规组织生产。 <br><br>    四、严厉打击超层越界和非法开采行为 <br><br>    超层越界和非法开采是导致水害事故的重要原因之一。煤矿安全监管部门和监察机构要协同国土资源、行业管理部门定期组织开展联合执法活动，严肃查处煤矿超层越界和非法开采行为。要督促煤矿企业绘制真实可靠的井上下采掘工程平面图，为煤矿水害防治和应急救援工作提供真实可靠的基础资料。对超层越界、非法开采和开采保安煤柱的煤矿，由地方各级政府依法实施关闭。 <br><br>    五、进一步加大水害防治的监管、监察力度 <br><br>    煤矿安全监管部门要认真履行对煤矿水害的日常监管工作职责，对辖区内重大水害隐患要登记建档，重点跟踪，督促企业认真落实水害防治责任制。煤矿安全监察机构要定期对老窑水、岩溶水和雨季水害进行监察，对发现的重大隐患及时下达监察指令并通报地方政府督促企业落实整改。对发生水害事故的矿井要认真调查事故原因，严肃追究事故责任，公布处理结果，接受社会舆论监督。要严格执行有关法律法规的规定，坚决关闭水患严重难以治理的各类煤矿，进一步提升煤矿整体安全水平，促进煤炭工业的健康发展。 <br><br>国家安全生产监督管理总局 国家煤矿安全监察局 <br>    二○○六年八月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

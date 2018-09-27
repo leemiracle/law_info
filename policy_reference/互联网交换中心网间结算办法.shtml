@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】信息产业部<BR>&nbsp;&nbsp;【发布文号】信部电[2007]557号<BR>&nbsp;&nbsp;【发布日期】2007-12-01<BR>&nbsp;&nbsp;【生效日期】2007-12-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mii.gov.cn/art/2008/01/07/art_525_35761.html" target=_blank>信息产业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>互联网交换中心网间结算办法<br><br></font>（信部电[2007]557号）</p><br><br> <br><font class='zhang'>第一章</font> 总则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为促进互联网骨干网的网间互联和公平竞争，保障网间结算的实施，维护各互联单位的合法权益，制定本办法。<br> <br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法适用于通过信息产业部指定的互联网交换中心（以下简称交换中心）进行互联的互联网骨干网之间的结算。<br>  <br><font class='zhang'>第二章</font> 结算原则<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 各互联单位在进行互联网骨干网网间互联时，应依照本办法协商确定结算方式和结算费用。互联单位在协商结算时，应充分考虑网络规模、流量等因素。<br> <br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 中国电信集团公司、中国网络通信集团公司、中国教育和科研计算机网之外的互联单位，在与中国电信集团公司、中国网络通信集团公司进行互联网骨干网网间互联时，应依据网间数据通信速率，按照不高于本办法确定的标准（见附录），向中国电信集团公司、中国网络通信集团公司支付结算费用。非经营性互联单位结算费用标准减半。<br> <br>    除前款所述情形外，互联双方可自行协商确定结算方式和结算费用。<br> <br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 互联双方不能就网间结算达成一致的，按照《电信网间互联争议协调处理办法》（信息产业部令第15号），由信息产业部协调、做出行政决定。<br> <br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 结算在互联单位总部之间实施。结算双方应以协议方式明确双方的权利和义务及其他相关事宜，并报信息产业部备案。<br> <br><font class='zhang'>第三章</font> 结算数据采集及费用计算<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 结算按月进行，每月1日零时起至每月最后一日24时为当月结算周期。<br> <br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 结算数据采集点为直接与交换中心交换机相连的各互联单位的路由器。各互联单位应为结算数据采集提供必要的条件。<br> <br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 对于在交换中心进行互联结算的收费方网络A和付费方网络B，交换中心按每5分钟一次的频率，采集从A到B以及从B到A的数据通信速率，得到两组数据，分别将5%的最高值去掉，余下的最高值的算术平均值作为结算速率，并按照本办法确定的标准计算结算费用金额。<br> <br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 各交换中心将结算数据汇总，由北京交换中心于每月第7个工作日前向各互联单位提供上月结算费用金额和结算速率等相关原始数据。<br> <br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 各互联单位依据交换中心提供的结算费用金额进行结算。<br> <br><font class='zhang'>第四章</font> 结算数据核对和争议处理<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 互联单位可于每月第14个工作日之前（核对申请期）向交换中心书面提交对上月数据的核对申请，并提供相关技术信息。<br> <br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 下列数据核对申请视为无效，交换中心可不予受理：<br>    （一）数据采集和统计方法与本办法不符的；<br>    （二）超过核对申请期的。<br> <br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 交换中心应在收到有效的数据核对申请后1个月内，与提出申请的互联单位共同分析原因、完成复核，并出具书面结果。<br> <br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 数据复核期间，互联单位应依据交换中心提供的结算数据按时结算，待复核完成后，从下一结算周期中冲抵。<br> <br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 各方应当保证结算数据的真实性。任何一方有权对另一方的弄虚作假等违规行为向信息产业部提出申诉，并提交相关证据。信息产业部应进行调查并做出处理。<br> <br><font class='zhang'>第五章</font> 附则<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 本办法自2007年12月1日起施行。《互联网交换中心网间结算办法》（信部电[2006]648号）同时废止。<br> <br> <br>附录：互联网交换中心结算标准<br><br>    结算费用（元/月）= 1000（元/Mbps月）×结算速率（Mbps）<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

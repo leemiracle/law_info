@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】科学技术部、总装备部、财政部<BR>&nbsp;&nbsp;【发布文号】国科发计字〔2006〕329号<BR>&nbsp;&nbsp;【发布日期】2006-07-31<BR>&nbsp;&nbsp;【生效日期】2006-07-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.most.gov.cn/tztg/t20060808_35313.htm" target=_blank>科学技术部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家高技术研究发展计划（863计划）管理办法<br><br></font>(国科发计字〔2006〕329号)</p><br><br><br>各有关单位：<br><br>    为保证国家高技术研究发展计划（以下简称“863计划”）的顺利实施，加强计划管理的科学性、规范性、高效性和公正性，按照《关于国家科技计划实施课题制管理的暂行规定》、《国家科技计划管理暂行规定》、《国家科技计划项目管理暂行办法》和《关于国家科技计划管理改革的若干意见》等的要求，科技部、总装备部和财政部对《国家高技术研究发展计划（863计划）管理办法》（国科发计字[2001]632号）进行了修订。<br><br>    现将修订后的《国家高技术研究发展计划（863计划）管理办法》印发给你们，请在863计划的组织实施中遵照执行。《国家高技术研究发展计划（863计划）管理办法》（国科发计字[2001]632号）同时废止<br><br>                                        科 学 技 术 部     总 装 备 部   财政部 <br>                                            二ＯＯ六年七月三十一日<br><br><br>国家高技术研究发展计划（863计划）管理办法<br><br>    <font class='zhang'>第一章</font>  总  则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为贯彻落实《<a href=javascript:ROF(108032,0) class=alink>国家中长期科学和技术发展规划纲要（2006―2020年）</a>》（以下简称《纲要》），保证国家高技术研究发展计划（以下简称863计划）的顺利实施，实现科学、规范、高效和公正的管理，根据《<a href=javascript:ROF(36667,0) class=alink>国家科技计划管理暂行规定</a>》和《<a href=javascript:ROF(36668,0) class=alink>国家科技计划项目管理暂行办法</a>》等的要求，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  863计划是解决事关国家长远发展和国家安全的战略性、前沿性和前瞻性高技术问题，发展具有自主知识产权的高技术，统筹高技术的集成和应用，引领未来新兴产业发展的计划，主要支持《纲要》提出的前沿技术和部分重点领域中的重大任务。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  863计划按照研究开发任务的性质，选择若干高技术领域作为发展重点，领域内设置专题和项目，采取分类管理的方式。专题以前沿技术研究为导向，以提高原始性创新能力和获取自主知识产权为目标；项目以国家战略需求为导向，以提高集成创新能力和形成战略产品原型或技术系统为目标。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  科技部、总装备部会同财政部制定计划管理办法，科技部牵头负责，并会同总装备部组织实施。计划分年度落实各领域的战略目标、任务和经费。863计划的管理原则为：<br><br>    （一）明确目标，突出重点。863计划面向国家重大战略需求，鼓励自主创新，力争重点突破。<br><br>    （二）明确权责，规范管理。863计划实行政府决策与专家评审相结合的立项制度，建立健全评审专家遴选制度、问责制度、回避制度、信用制度和公告制度，保证项目立项的科学、公正与公平。<br><br>    （三）统筹协调，联合推进。863计划的实施充分发挥部门、行业、地方、企业和各方面专家的作用，并统筹项目、人才和基地建设。<br><br>    （四）定期评估，注重绩效。863计划定期对领域、专题和项目的执行情况与绩效进行第三方独立评估，并将评估结果作为研究内容和经费调整的重要依据。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  863计划经费由中央财政专项拨款支持。加强对经费使用的监督检查，计划经费独立核算、专款专用。<br><br>    <font class='zhang'>第二章</font>  管理机构及职能<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  科技部和总装备部是863计划的组织实施部门。主要职责是：<br><br>    （一）制订计划发展战略、目标和战略任务；<br><br>    （二）确定技术领域及领域内任务设置；<br><br>    （三）组建863计划专家委员会和领域专家组；<br><br>    （四）建立备选项目库，审定项目立项建议，批复立项；<br><br>    （五）编制年度计划及年度预算；<br><br>    （六）督促、检查计划的实施，协调并处理项目执行中的重大问题。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  组织实施部门设立863计划联合办公室（以下简称“联办”）。联办的主要职责是：<br><br>    （一）提出重大事项决策建议； <br><br>    （二）编制年度计划； <br><br>    （三）协调计划进度；<br><br>    （四）组织对计划执行的评估工作；<br><br>    （五）组织协调跨领域活动；<br><br>    （六）综合管理计划专家库和基地。<br><br>    联办设常设办事机构负责处理日常工作。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  各领域设立领域办公室（以下简称“领域办”），负责本领域的组织实施和监督。领域办设在组织实施部门。民口各领域办吸纳国务院主要相关部门参加。领域办的主要职责是：<br><br>    （一）研究提出本领域的战略目标和发展重点；<br><br>    （二）研究提出本领域专题设置和项目立项建议；<br><br>    （三）编制本领域年度计划；<br><br>    （四）审核项目和专题课题申请指南（标书）；<br><br>    （五）批准专题课题立项，审核项目课题立项建议；<br><br>    （六）提出重大项目主要承担单位、总体专家组人员组成建议，组织对重大项目实施方案的论证；<br><br>    （七）组织对项目、专题的评估和验收；<br><br>    （八）签订或委托签订课题任务合同书。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  863计划设立计划专家委员会，对计划的战略决策和实施进行咨询与监督。计划专家委员会成员由组织实施部门聘任，实行任期制，每届任期三年，最多担任两届。计划专家委员会主要职责是：<br><br>    （一）对计划发展战略和计划目标、战略任务和部署等重大事项的决策提供咨询意见和建议；<br><br>    （二）对计划的实施进行监督。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  各领域设立领域专家组，为本领域的战略决策和组织实施提供咨询与技术指导。领域专家组由部门和地方推荐，组织实施部门选聘，计划专家委员会成员不参加领域专家组。领域专家组实行任期制，每届任期三年，最多担任三届。领域专家组的主要职责是：<br><br>    （一）组织本领域技术发展战略与预测研究，对领域的目标和任务提供决策咨询；<br><br>    （二）参与编制项目和专题课题申请指南（标书）；<br><br>    （三）审议专题课题和项目立项建议；<br><br>    （四）参与项目实施方案的论证；<br><br>    （五）参与对项目（课题）执行情况的检查、评估和验收工作；<br><br>    （六）承担领域重要技术发展问题的咨询工作。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  863计划设立专家库。专家库中的专家参与863计划的实施，发挥同行评议的作用。专家库中的专家通过国务院有关部门和地方推荐，由组织实施部门核准后统一入库。专家库中的专家根据需要可参加以下工作：<br><br>    （一）课题的评议和评审工作；<br><br>    （二）项目（课题）执行情况的检查、评估和验收工作；<br><br>    （三）对计划管理提出意见和建议。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  组织实施部门所属的相关中心（以下简称“相关中心”）接受组织实施部门的委托，在领域办的指导下，承担863计划的过程管理和基础性工作，主要包括： <br><br>    （一）承担专题课题申请指南的组织编制工作；<br><br>    （二）承担专题和项目课题申请书的受理和形式审查工作；<br><br>    （三）承担专题课题评议、评审的组织工作，提出立项建议；<br><br>    （四）承担项目课题评审或评标的组织工作，提出立项建议；<br><br>    （五）承担课题任务合同书的审核工作；<br><br>    （六）承担课题检查和验收的组织工作；<br><br>    （七）承担项目和专题的信息与文档的管理工作，每年向领域办报告专题和项目的执行情况；<br><br>    （八）承担领域专家组的支撑和服务工作。<br><br>    <font class='zhang'>第三章</font>  专题管理<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  各领域下设若干专题，专题以前沿技术的研究开发为主。领域办组织研究提出本领域专题设置、专题目标和主要任务等建议，经联办组织综合审议后，报组织实施部门批准。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  专题下设课题，课题原则上不设子课题。课题通过公开、公平的竞争机制确定，主要程序如下：<br><br>    （一）公开发布课题申请指南；<br><br>    （二）同行专家通讯评议；<br><br>    （三）同行专家会议评审；<br><br>    （四）领域办批准。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  根据领域年度计划和专题战略目标，相关中心每年组织领域专家组成员和同行专家研究编制课题申请指南，由领域办审核发布。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  相关中心从计划专家库中随机抽取同行专家对课题申请进行通讯评议或会议评审。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  相关中心根据评议评审结果提出课题立项建议，领域专家组对立项建议进行审议，领域办批准。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  为了鼓励创新，各领域可安排适当比例的非共识课题。对于在评议过程中出现的非共识课题，由领域专家组成员署名推荐，直接列入课题立项建议，报领域办批准。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  课题责任人填报课题任务合同书，相关中心负责审核，领域办与课题责任人签订课题任务合同书。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  课题立项结果向社会公布。对未被批准的课题申请，由相关中心向课题申请者做出书面通知。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  相关中心组织领域专家组成员和专家库中的专家，对课题进行检查，并根据检查情况提出课题调整建议，经领域专家组审议后，报领域办批准。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  相关中心组织领域专家组成员和专家库中的专家，对课题进行验收，验收结果分为通过验收、不通过验收和结题三种。<br><br>    课题形成的国家秘密技术，按照《科学技术保密规定》进行管理。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  由于不可抗拒的客观原因，需要终止或调整的课题，由课题责任人向相关中心提出书面申请，经领域专家组审核后，报领域办批准。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  领域办委托专业评估机构，对专题实施情况进行独立评估，并根据评估结果提出专题调整建议，经联办会签后，报组织实施部门批准。<br><br>    专题任务结束后，领域办组织对专题进行总结，并进行绩效考评。<br><br>    <font class='zhang'>第四章</font>  项目管理<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  863计划各领域的项目包括重大项目和重点项目两类。重大项目以形成原型样机或重大技术系统为目标，重点项目以突破核心技术、开发单项战略产品原型或解决中试中的重要工艺问题为目标。项目一般下设课题，课题由法人单位承担。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  根据部门、地方提出的重大科技需求，结合本领域技术发展趋势，以及专题课题成果，领域办组织研究提出项目立项建议。立项建议主要包括：项目的目标和具体指标要求、主要研究内容、技术路线等。重大项目应同时提出主要承担单位建议。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  重大项目立项建议由联办组织进行综合审议，由组织实施部门批准；重点项目立项建议经联办会签报组织实施部门批准。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  重大项目的任务落实：<br><br>    （一）项目主要课题承担单位推荐总体专家组人选，经领域办审核后，报组织实施部门批准。总体专家组负责提出项目实施方案建议、项目的总体集成和技术协调，参加项目课题的验收。<br><br>    （二）总体专家组根据批准的重大项目立项建议，研究提出重大项目实施方案建议。实施方案应包括具体目标、任务分解、进度计划及课题承担单位选择方式建议等内容。<br><br>    （三）领域办组织领域专家组成员、专家库中的专家和相关产业界专家对重大项目实施方案进行论证，通过论证的实施方案报组织实施部门批复。<br><br>    （四）项目课题通过招标或择优委托的方式确定承担单位，由总体专家组负责编制课题指南或标书，由领域办审核后发布。<br><br>    （五）相关中心组织课题承担单位的招标或择优评审，提出课题承担单位建议，在征求总体专家组意见后报领域办审核，由组织实施部门批准。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  重点项目的任务落实：<br><br>    （一）领域办组织领域专家组成员和专家库中的专家编制重点项目指南或标书，经组织实施部门批准后，由领域办发布。<br><br>    （二）相关中心组织重点项目的评审或评标，提出课题承担单位和项目牵头单位建议。<br><br>    （三）领域办组织领域专家组对课题承担单位和项目牵头单位建议进行咨询审议，审核后报组织实施部门批复。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  领域办与课题承担单位签订课题任务合同书，保密课题应同时签订保密协定，按照保密规定进行管理；非保密课题的立项结果向社会公开。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  相关中心组织专家库中的专家对项目课题的实施进行检查，提出课题调整建议，经领域办审核后，报组织实施部门批准。<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a>  由于不可抗拒的客观原因需要调整或终止的课题，由课题承担单位向相关中心提出书面申请，经领域办审核后，报组织实施部门批准。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a>  对与部门、行业及地方关联度大、示范性强的项目，可以委托有关部门或地方政府作为项目主持单位，负责项目的组织实施。领域办根据项目特点，提出项目主持单位建议，报组织实施部门批准。项目主持单位是项目的责任主体。<br><br>    （一）项目主持单位组织提出项目实施方案，经领域办组织论证后，报组织实施部门批复。<br><br>    （二）项目主持单位通过招标或择优委托的方式，确定课题承担单位。<br><br>    （三）项目主持单位与课题承担单位签订课题任务合同书，报领域办备案。<br><br>    （四）项目主持单位落实项目约定支付的匹配经费和其它配套条件，协调并处理项目执行过程中的有关事项。<br><br>    （五）项目主持单位负责督促、检查课题的执行情况，并向领域办提交项目年度执行和进展情况报告。<br><br>    （六）项目主持单位根据课题执行情况对课题进行调整，报领域办备案。<br><br>    （七）项目主持单位组织课题验收，并负责准备项目验收相关材料和向领域办提出项目验收申请。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a>  领域办委托专业评估机构对项目执行情况进行中期评估，委托专业监理机构对工程性项目进行全程监理。根据评估结论和监理意见，领域办提出项目调整建议，经联办会签后，报组织实施部门批准。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a>  课题由相关中心或项目主持单位组织验收；项目由领域办组织验收，并进行绩效考评。项目形成的国家秘密技术，按照《科学技术保密规定》进行管理。<br><br>    <font class='zhang'>第五章</font>  基地管理<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a>  863计划统筹考虑项目、人才和基地建设，在通过项目（课题）对创新人才和团队持续支持的同时，形成一批具有国际水平的863计划研究开发基地。863计划研究开发基地是承担863计划研发任务中取得突出成绩、拥有优秀创新团队和较强研发实力的单位。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a>  在计划实施过程中，通过项目（课题）对863计划研究开发基地优先和持续支持，凝聚和培养一批高水平的研究开发人才队伍，形成开放、流动、竞争、协作的机制，实现研究开发资源的有效配置和共享，为我国高技术持续发展奠定良好基础。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a>  联办负责组织基地的认定工作。在领域办推荐或国务院有关部门（地方）组织申报的基础上，联办组织专家评审，提出基地的认定建议，报组织实施部门批准。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a>  基地实行期限制，进行动态管理。联办组织对基地的评估和考核工作。组织实施部门根据评估和考核结果，对基地进行动态调整。联办负责基地的综合管理和协调，并委托部门或地方对基地进行具体管理。<br><br>    <font class='zhang'>第六章</font>  知识产权和资产管理<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a>  863计划管理机构、课题依托单位和课题承担单位要加强知识产权管理，严格执行科技部《关于加强国家科技计划知识产权管理工作的规定》（国科发政字[2003]94号）。863计划课题形成的知识产权，其归属、使用和管理按照《关于国家科研计划项目研究成果知识产权管理的若干规定》（国办发[2002]30号）执行。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a>  建立规范、健全的项目科学数据和科技报告档案。项目（课题）承担单位应按照科技部有关科学数据共享和科技计划项目信息管理的规定和要求，按时上报项目（课题）有关科研资料和数据。<br><br>    863计划项目（课题）实施形成的研究成果，包括论文、专著、专利、软件、数据库等，均应标注“863计划资助”。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a>  课题研究过程中形成的无形资产，由课题依托单位负责管理和使用。课题研究成果转化及无形资产使用产生的经济效益按《中华人民共和国促进科技成果转化法》和国家有关规定执行。<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a>  用863计划经费购置或试制的固定资产属于国有资产，资产的管理按照国家有关规定执行。<br><br>    <font class='zhang'>第七章</font>  评估与监督<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a>  组织实施部门委托专业评估机构，定期对863计划领域、专题和项目的执行情况与绩效进行第三方独立评估。评估结果作为对领域、专题和项目的研究内容和经费进行调整以及改进和完善计划管理的重要依据。<br><br>    <a name='45'><font class='TiaoNoA'>第四十五条</font></a>  在项目（课题）立项、检查、验收等环节中，对涉及到组织管理者、专家自身及单位利益的事项，实行回避制度。<br><br>    <a name='46'><font class='TiaoNoA'>第四十六条</font></a>  863计划实行信用管理制度，科学记录、管理和使用信用信息。<br><br>    （一）对项目（课题）申请者在申报过程中的信用状况进行客观记录；<br><br>    （二）对课题负责人、课题依托单位、课题承担单位、项目责任主体在项目（课题）执行和验收过程中信用状况进行客观记录；<br><br>    （三）对专家参与项目（课题）评议、评审、评估、检查和验收等过程中的信用状况进行客观记录。<br><br>    <a name='47'><font class='TiaoNoA'>第四十七条</font></a>  组织实施部门对在863计划研究开发和管理工作中做出突出成绩的人员或单位，给予表彰。<br><br>    <a name='48'><font class='TiaoNoA'>第四十八条</font></a>  对于在申请、评议、评审、评估、检查、执行和验收过程中发现的弄虚作假、徇私舞弊行为，以及违规操作或因主观原因未能完成合同规定的任务并造成重大损失者，863计划实行责任追究制度。情节较轻的，公开通报直接责任者，终止相关项目（课题）合同，清理账目与资产；情节较重的，在一定时期内，取消直接责任者承担863计划任务的资格；构成违纪的，建议相关管理部门对直接责任者给予行政（纪律）处分。<br><br>    <font class='zhang'>第八章</font>  附  则<br><br>    <a name='49'><font class='TiaoNoA'>第四十九条</font></a>  863计划专项经费管理办法另行制定。<br><br>    <a name='50'><font class='TiaoNoA'>第五十条</font></a>  本办法自发布之日起施行。《国家高技术研究发展计划（863计划）管理办法》（国科发计字[2001]632号）同时废止。<br><br>    <a name='51'><font class='TiaoNoA'>第五十一条</font></a>  组织实施部门依照本办法制定相应的实施细则。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

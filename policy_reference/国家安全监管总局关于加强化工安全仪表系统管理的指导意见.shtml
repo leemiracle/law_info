@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总管三〔2014〕116号<BR>&nbsp;&nbsp;【发布日期】2014-11-13<BR>&nbsp;&nbsp;【生效日期】2014-11-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/newpage/Contents/Channel_5330/2014/1119/243084/content_243084.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>国家安全监管总局关于加强化工安全仪表系统管理的指导意见</strong></p>
+<p style="text-align: center;">安监总管三〔2014〕116号</p>
+<p>&nbsp;</p>
+<p>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为加强化工安全仪表系统管理，防止和减少危险化学品事故发生，现提出以下指导意见：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、充分认识加强化工安全仪表系统管理工作的重要性</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）化工安全仪表系统（SIS）包括安全联锁系统、紧急停车系统和有毒有害、可燃气体及火灾检测保护系统等。安全仪表系统独立于过程控制系统（例如分散控制系统等），生产正常时处于休眠或静止状态，一旦生产装置或设施出现可能导致安全事故的情况时，能够瞬间准确动作，使生产过程安全停止运行或自动导入预定的安全状态，必须有很高的可靠性（即功能安全）和规范的维护管理，如果安全仪表系统失效，往往会导致严重的安全事故，近年来发达国家发生的重大化工（危险化学品）事故大都与安全仪表失效或设置不当有关。根据安全仪表功能失效产生的后果及风险，将安全仪表功能划分为不同的安全完整性等级（SIL1-4，最高为4级）。不同等级安全仪表回路在设计、制造、安装调试和操作维护方面技术要求不同。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 目前，我国安全仪表系统及其相关安全保护措施在设计、安装、操作和维护管理等生命周期各阶段，还存在危险与风险分析不足、设计选型不当、冗余容错结构不合理、缺乏明确的检验测试周期、预防性维护策略针对性不强等问题，规范安全仪表系统管理工作亟待加强。随着我国化工装置、危险化学品储存设施规模大型化、生产过程自动化水平逐步提高，同步加强和规范安全仪表系统管理，十分紧迫和必要。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、加强化工安全仪表系统管理的基础工作</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）加快安全仪表系统功能安全相关技术和管理人才的培养。化工设计、施工单位和危险化学品生产、储存单位要组织对相关负责人、工艺和仪表等工程技术人员开展安全仪表专业培训，普及功能安全相关知识，学习有关标准规范。要针对安全仪表系统全生命周期不同的环节，分别对设计、安装调试和操作维护管理人员进行具有针对性的培训，使相关人员熟练掌握安全仪表系统、风险分析和控制、风险降低等相关专业技术。各化工设计单位要利用一年左右的时间，培养一支胜任安全仪表系统功能安全设计的技术骨干队伍。涉及&ldquo;两重点一重大&rdquo;（即重点监管危险化学品、重点监管危险化工工艺和危险化学品重大危险源）在役生产装置的化工企业和危险化学品储存单位要加快人才培养工作，培养一批具备专业技术能力、掌握相关标准规范的工程技术人员，满足开展和加强化工安全仪表系统功能安全管理工作的需要。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （三）进一步完善化工安全仪表系统技术标准和认证体系。加快制修订化工安全仪表系统技术标准体系。要组织研究、规划我国化工功能安全技术标准体系，有关部门和单位要制定工作计划，组织制定符合我国化工行业企业安全发展现状的功能安全相关技术标准及应用指南。推动形成并完善符合中国国情的功能安全认证体制机制。依据《电气\电子\可编程电子安全相关系统的功能安全》（GB/T20438）和《过程工业领域安全仪表系统的功能安全》（GB/T21109），逐步建立相关人员、产品以及组织机构功能安全认证服务体系。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、进一步加强安全仪表系统全生命周期的管理</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （四）设计安全仪表系统之前要明确安全仪表系统过程安全要求、设计意图和依据。要通过过程危险分析，充分辨识危险与危险事件，科学确定必要的安全仪表功能，并根据国家法律法规和标准规范对安全风险进行评估，确定必要的风险降低要求。根据所有安全仪表功能的功能性和完整性要求，编制安全仪表系统安全要求技术文件。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （五）规范化工安全仪表系统的设计。严格按照安全仪表系统安全要求技术文件设计与实现安全仪表功能。通过仪表设备合理选择、结构约束（冗余容错）、检验测试周期以及诊断技术等手段，优化安全仪表功能设计，确保实现风险降低要求。要合理确定安全仪表功能（或子系统）检验测试周期，需要在线测试时，必须设计在线测试手段与相关措施。详细设计阶段要明确每个安全仪表功能（或子系统）的检验测试周期和测试方法等要求。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （六）严格安全仪表系统的安装调试和联合确认。应制定完善的安装调试与联合确认计划并保证有效实施，详细记录调试（单台仪表调试与回路调试）、确认的过程和结果，并建立管理档案。施工单位按照设计文件安装调试完成后，企业在投运前应依据国家法律法规、标准规范、行业和企业安全管理规定以及安全要求技术文件，组织对安全仪表系统进行审查和联合确认，确保安全仪表功能具备既定的功能和满足完整性要求，具备安全投用条件。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （七）加强化工企业安全仪表系统操作和维护管理。化工企业要编制安全仪表系统操作维护计划和规程，保证安全仪表系统能够可靠执行所有安全仪表功能，实现功能安全。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 要按照符合安全完整性要求的检验测试周期，对安全仪表功能进行定期全面检验测试，并详细记录测试过程和结果。要加强安全仪表系统相关设备故障管理（包括设备失效、联锁动作、误动作情况等）和分析处理，逐步建立相关设备失效数据库。要规范安全仪表系统相关设备选用，建立安全仪表设备准入和评审制度以及变更审批制度，并根据企业应用和设备失效情况不断修订完善。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （八）逐步完善安全仪表系统管理制度和内部规范。企业要制定和完善安全仪表系统相关管理制度或企业内部技术规范，把功能安全管理融入企业安全管理体系，不断提升过程安全管理水平。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 四、高度重视其他相关仪表保护措施管理</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （九）加强过程报警管理，制定企业报警管理制度并严格执行。与安全仪表功能安全完整性要求相关的报警可以参照安全仪表功能进行管理和检验测试。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十）加强基本过程控制系统的管理，与安全完整性要求相关的控制回路，参照安全仪表功能进行管理和检验测试，并保证自动控制回路的投用率。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十一）严格按照相关标准设计和实施有毒有害和可燃气体检测保护系统，为确保其功能可靠，相关系统应独立于基本过程控制系统。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 五、从源头加快规范新建项目安全仪表系统管理工作</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十二）从2016年1月1日起，大型和外商独资合资等具备条件的化工企业新建涉及&ldquo;两重点一重大&rdquo;的化工装置和危险化学品储存设施，要按照本指导意见的要求设计符合相关标准规定的安全仪表系统。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十三）从2018年1月1日起，所有新建涉及&ldquo;两重点一重大&rdquo;的化工装置和危险化学品储存设施要设计符合要求的安全仪表系统。其他新建化工装置、危险化学品储存设施安全仪表系统，从2020年1月1日起，应执行功能安全相关标准要求，设计符合要求的安全仪表系统。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 六、积极推进在役安全仪表系统评估工作</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十四）涉及&ldquo;两重点一重大&rdquo;在役生产装置或设施的化工企业和危险化学品储存单位，要在全面开展过程危险分析（如危险与可操作性分析）基础上，通过风险分析确定安全仪表功能及其风险降低要求，并尽快评估现有安全仪表功能是否满足风险降低要求。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十五）企业应在评估基础上，制定安全仪表系统管理方案和定期检验测试计划。对于不满足要求的安全仪表功能，要制定相关维护方案和整改计划，2019年底前完成安全仪表系统评估和完善工作。其他化工装置、危险化学品储存设施，要参照本意见要求实施。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 七、工作要求</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十六）各有关企业和单位要按照相关法律法规、标准规范及本指导意见的要求，完善企业安全仪表系统管理制度和体系，加大资金投入，保障新建装置安全仪表系统达到功能安全标准的要求。对在役装置安全仪表系统不满足功能安全要求的，要列入整改计划限期整改，努力消除潜在的事故隐患，降低事故风险，遏制事故发生，切实提升企业本质安全水平。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （十七）地方各级安全监管部门要尽快开展调查研究，制定工作目标，确定试点单位，明确进度要求，指导和督促企业加强化工过程安全仪表系统及其相关安全保护措施的管理。要将安全仪表系统功能安全评估、安全仪表系统管理制度落实、人员培训开展等情况纳入安全监督检查内容。省级安全监管局要每年汇总相关检查情况，并于每年2月底前报送国家安全监管总局监管三司。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 请各省级安全监管局及时将本指导意见精神传达至本辖区各级安全监管部门及有关企业和设计单位。</p>
+<p>&nbsp;</p>
+<p style="text-align: right;">国家安全监管总局</p>
+<p style="text-align: right;">2014年11月13日</p>
+<p>&nbsp;</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

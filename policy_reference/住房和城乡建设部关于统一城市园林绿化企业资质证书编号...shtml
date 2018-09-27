@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】住房和城乡建设部<BR>&nbsp;&nbsp;【发布文号】建城园函[2008]154号<BR>&nbsp;&nbsp;【发布日期】2008-09-10<BR>&nbsp;&nbsp;【生效日期】2008-09-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mohurd.gov.cn/zcfg/jswj/csjs/200809/t20080912_176867.htm" target=_blank>住房和城乡建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>住房和城乡建设部关于统一城市园林绿化企业资质证书编号等的通知<br> <br></font>(建城园函[2008]154号)</p><br><br>  <br>各省、自治区建设厅、直辖市园林绿化局（建委），新疆生产建设兵团建设局：<br><br>    为进一步规范全国城市园林绿化企业资质行政许可行为，加强对城市园林绿化企业的监督管理，现就统一城市园林绿化企业资质证书编号等通知如下：<br><br>    一、关于全国各级城市园林绿化企业资质证书的统一管理<br><br>    （一）统一证书编号<br><br>    我部《关于园林绿化企业资质就位和升级的通知》（建城园函[2008]26号）发出后，各地方主管部门都来电要求统一证书编号。经研究决定，凡2008年（含）以后核准（包括资质就位核准）的各级企业一律采用全国统一城市园林绿化企业资质证书编号，具体要求如下：<br><br>    证书编号分为4部分，从左至右依次为：1）城市园林绿化企业资质（简称“城园绿证”）的拼音缩写；2）各省、市、自治区汉字简称（见附件1）；3）证书流水号（按顺序编排，共四位数）；4）资质等级（分别以壹、贰、叁大写汉字表示）。<br><br>    图示：<br><br>例如：<br><br>    1）安徽省第21号一级企业资质证书编号为“CYLZ.皖.0021.壹”。<br><br>    2）北京市某城市园林绿化二级资质企业通过升级核查成为北京市第89号一级资质企业，其证书号为CYLZ・京・0089・壹；原二级资质证书编号同时作废。<br><br>    2007年核查合格发证的73家城市园林绿化一级企业在有效期内继续沿用原有证书编号，待证书有效期满后将按重新核定的等级换发新编号的资质证书（73家企业名单和现有证书编号见附件2）。<br><br>    （二）关于编号管理<br><br>    各级建设主管部门都需在实施城市园林绿化企业资质证书统一编号管理之后，建立专门的管理档案，保留所有核发资质证书的复印件；及时上网公布已发证书的编号信息以及变更信息，同时建立相应的信息数据库。其中，城市园林绿化一级企业资质证书编号管理由我司负责，二、三级园林绿化企业资质证书编号管理由各省、自治区建设厅、直辖市园林绿化局（建委）负责。<br><br>    （三）统一证书印制<br><br>    凡2008年（含）以后核准（包括资质就位核准）的各级城市园林绿化企业，其资质证书（一正五副）都需按我部管理要求统一印制。其中，一级企业资质证书由我司负责落实印制数量和相关资费，二、三级企业资质证书由各省、自治区建设厅、直辖市园林绿化局（建委）负责。<br><br>    二、关于取消使用诚信经营手册<br><br>    《诚信经营手册》的使用旨在记录城市园林绿化企业基本情况、企业经营业绩和行政处罚的具体情况。但大多数地方建设主管部门和企业都反映在执行过程中存在着种种困难，根本达不到预期的管理功效。经研究决定，自本通知发布之日起各级城市园林绿化企业不再使用《诚信经营手册》。<br><br>    三、关于城市园林绿化企业项目经理的说明<br><br>    《关于建筑业企业项目经理资质管理制度向建造师执业资格制度过渡有关问题的通知》（建市[2003]86号）规定：建筑业企业项目经理资质管理制度向建造师执业资格制度过渡的时间定为五年，即从国发〔2003〕5号文印发之日起至2008年2月27日止。针对各地的咨询，特对城市园林绿化企业项目经理问题做如下说明：<br><br>    （一）“项目经理”出自《建筑施工企业项目经理资质管理办法》，是指受企业法定代表人委托对工程项目施工过程全面负责的项目管理者，是建筑施工企业法定代表人在工程项目上的代表人。对于城市园林绿化施工企业未曾有关于项目经理的任何规定和要求。因此，对于城市园林绿化企业没有执行项目经理资质管理的行政许可依据。<br><br>    （二）经广泛调查研究，在园林绿化施工项目招投标管理过程中，全国只有极少数大型建设项目对园林绿化施工企业有项目经理方面的要求。<br><br>    因此，在尚未建立风景园林师执业资格制度之前，城市园林绿化施工企业不执行项目经理资质管理制度，也暂不执行建造师执业资格制度。如在园林绿化施工项目招投标管理过程中需要对企业项目负责人提出相应要求，可参照我部最新颁发的“城市园林绿化企业资质标准”中相关要求执行。<br><br>                                        住房和城乡建设部<br>                                        二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

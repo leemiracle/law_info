@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总规划〔2007〕198号<BR>&nbsp;&nbsp;【发布日期】2007-09-26<BR>&nbsp;&nbsp;【生效日期】2007-09-26<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-10/09/content_262482.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局关于安全评价机构建设的指导意见<br><br></font>(安监总规划〔2007〕198号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，各省级煤矿安全监察机构，各在京直属事业单位、社团组织，各安全评价机构及有关单位： <br><br>    安全评价作为安全生产监管工作的重要技术保障手段和支撑力量之一，在安全生产工作中得到了广泛的实践和应用。随着近年来的迅速发展壮大，对建立企业安全生产长效机制，实现安全生产管理的“关口前移，预防为主”，促进企业安全生产发挥了重要作用，得到了社会广泛的认可。从整体上看，随着国民经济的快速发展，以及区域经济发展的不平衡，安全评价发展过程中出现了某些地域、行业分布失衡等结构性的、深层次的问题。为进一步加强和规范对安全评价工作的监督管理，宏观调控安全评价机构数量，保证安全评价机构科学、规范、健康、有序发展，根据《安全生产 “十一五”规划》（国办发〔2006〕53号）和《国家安全监管总局关于加强和规范安全评价工作监管的若干意见》（安监总规划〔2007〕59号）要求及有关法律法规，现就安全评价机构适度发展提出以下指导意见： <br><br>    一、安全评价机构发展的基本思路和总体目标 <br><br>    （一）基本思路。按照“整体规划、合理布局、总量控制、适度发展”的基本思路。结合各地区行业的分布和差异、国民经济的发展水平，在稳步发展高风险生产行业安全评价机构的同时，适度发展其他行业的安全评价机构，解决行业和地区发展的不平衡问题。一是坚持地区和行业分布合理，注重区域内行业和机构数量平衡，邻近区域间互补，根据安全生产工作的实际，需要逐步实现无空白地区和空白行业；二是坚持区域经济发展和机构数量发展相协调，调控评价机构的发展数量；三是坚持特殊行业、领域适度发展，满足部分行业安全生产管理的需要；四是坚持指导和监管相结合的原则，实现统筹兼顾、科学规划、规范管理。 <br><br>    （二）总体目标。重点发展专业能力较强的评价机构，加快形成一批技术实力雄厚，具有评、学、研于一体的规模性安全评价机构。到2010年，全国安全评价机构发展的总量控制在：甲级资质200家、乙级资质500家，总体达到安全评价机构发展与市场需求相平衡。 <br><br>    二、保障条件和措施 <br><br>    （一）整体规划，严格资质审批制度。 <br><br>    1.整体规划。国家安全监管总局根据各地区区域经济结构、发展水平和安全生产工作的实际需要，研究制定安全评价机构地区、行业、数量方面的整体规划，制定并分别下达安全评价机构发展和控制计划。 <br><br>    2.总量控制。严格落实《安全评价机构管理规定》（原国家安全监管局令第13号）及相关规定和要求，行政许可工作坚持公开、公正、公平、透明的原则，根据现有安全评价机构行业、地区分布，结合各地区情况，有重点的开展安全评价机构资质受理、审核和审批工作。按照国家安全监管总局下达的总量控制计划，严格资质审查，严格专业配置，维持总量平衡。 <br><br>    3.适度发展。适度发展与控制本区域内的乙级资质安全评价机构。对乙级资质机构超过总量控制计划的地区，要采取有效措施进行整合，使其在2010年底之前达到总量控制计划。对于新审批的乙级资质机构，应按规定及时向国家安全监管总局备案。 <br><br>    4.严格审批制度。对于通过行业管理部门和行业协会申报甲级资质的安全评价机构，必须经所在地省级安全监管部门或煤矿安全监察机构签署意见后报国家安全监管总局审批。 <br><br>    （二）依法行政，进一步加强和规范监督管理工作。 <br><br>    1.规范安全评价行政许可和监督管理工作。依法开展安全评价行政许可与监管，任何单位和个人不得以任何理由擅自设立法律法规之外的行政许可事项，不得限制外省（区、市）甲级评价机构到本地区开展评价活动。对在资质审批中把关不严以及不按规定进行乙级资质审批和备案的地区，国家安全监管总局将暂停其乙级资质的审批权。 <br><br>    2.严格执行国家安全监管总局党组提出的廉洁从政各项要求，认真贯彻落实“九条纪律”和 “双五条规定”。机关公务员一律不得以任何形式参与安全中介活动，国家安全监管总局及省级安全监管部门、煤矿安全监察机构党组任命的事业单位干部，一律不得在中介机构任职、兼职。 <br><br>    3.对于直属事业单位、各类协会、学会等行业组织性质的安全评价机构，按照市场经济的客观要求，必须与所属单位彻底脱钩，成立独立承担法律责任的工商企业法人，避免不公平、恶性竞争等不良现象发生，切实发挥中介机构第三方客观、独立、公正作用。 <br><br>    4.健全安全评价监督管理和处罚制度，进一步完善中介机构和从业人员能进能出、优胜劣汰管理机制，加强安全评价机构专项督查和年度考核工作，建立安全评价机构违法违规黑名单制度，对有违规现象的安全评价机构进行重点监控，对存在问题的要及时查处。 <br><br>    （三）推动安全评价行业组织建设，督促安全评价机构建立自我约束机制。 <br><br>    坚持“政企分开、政事分开、政资分开、政府与中介机构分开”的原则，推进行业自律建设和诚信建设，强化行业自律意识，规范安全评价行为。促进评价机构建立自我约束机制，认真贯彻落实安全评价过程控制相关规定，严把安全评价报告质量关，不断提高从业人员业务水平，充分发挥安全生产技术支撑作用。 <br><br>    （四）推动安全评价从业人员职业化建设，提高从业人员专业素质。 <br><br>    经过多年来安全评价理论研究与实践应用，安全评价为安全生产领域知识技能型人才开辟了一个新型的就业渠道，已经成为了一个新兴的为安全生产提供专业技术服务的新职业，其从业人员已经形成了一支稳定的社会群体。因此，要加快推动在国家职业分类中设立安全评价师职业。同时，要积极做好安全评价从业人员继续教育工作，改进和完善继续教育培训办法和考核办法，增强其针对性、实用性，不断提高从业人员业务水平和技术能力。 <br><br>    （五）加快安全评价领域的信息化建设，提高工作效率和服务质量。 <br><br>    搭建安全评价机构管理咨询综合服务网络平台，加强政务信息公开。一方面强化对安全评价机构的监督管理，拓宽监管渠道，加强对安全评价机构的业务指导；另一方面为社会提供信息咨询，并及时向评价机构和企业提供最新出台的安全生产法律法规和政策信息，自觉接受社会各界对安全评价工作的监督。 <br><br>    各地区要根据本指导意见，结合本地区工作实际，认真贯彻落实安全评价机构发展的总体目标、保障条件和措施，避免盲目发展，注重实效，正确引导安全评价机构树立服务意识和责任意识，努力提高安全评价工作的监管水平。 <br><br>    二○○七年九月二十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

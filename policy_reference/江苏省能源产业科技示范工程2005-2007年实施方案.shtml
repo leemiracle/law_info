@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】江苏省<BR>&nbsp;&nbsp;【发布文号】苏政办发〔2005〕91号<BR>&nbsp;&nbsp;【发布日期】2005-08-23<BR>&nbsp;&nbsp;【生效日期】2005-08-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.jiangsu.gov.cn/gb/zgjs/zpd/tszf/zcfg/zxfg/userobject1ai50335.html" target=_blank>江苏省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>江苏省能源产业科技示范工程2005-2007年实施方案<br><br></font>(苏政办发〔2005〕91号)</p><br>     <br><br>各市、县人民政府，省各委、办、厅、局，省各直属单位：<br><br>    省科技厅制定的《江苏省能源产业科技示范工程2005-2007年实施方案》已经省人民政府同意，现转发给你们，请认真组织实施。<br><br>    二○○五年八月二十三日<br>     <br><br>江苏省能源产业科技示范工程2005-2007年实施方案<br>（省科技厅  2005年8月）<br><br>    为加快能源产业技术创新，推动能源产业快速发展，特制定江苏省能源产业科技示范工程2005-2007年实施方案。<br>    一、指导思想和主要目标<br>    2005-2007年实施全省能源产业科技示范工程的指导思想是：坚持以“三个代表”重要思想和科学发展观为指导，围绕实现富民强省、“两个率先”目标，立足我省能源产业发展实际，集成各级各类科技发展计划，按照政府引导、市场运作的原则，重点支持一批具有比较优势的新能源与节能技术开发及产业化项目，着力提高我省能源产业的科技创新能力，全面推进新能源和节能技术的综合推广应用，为缓解我省能源紧张问题提供科技支撑。主要目标是：到2007年，在太阳能利用、半导体照明、新型动力型电池、清洁能源、节能等领域重大关键技术开发方面取得重要进展并实现产业化，建设一批具有较强竞争力的新能源企业，使新能源产业成为我省高新技术产业新的增长点。 <br>    二、重点任务<br>    （一）组织实施太阳能综合利用技术开发与应用示范工程<br>    1．太阳能光伏电池技术开发与应用。围绕推进太阳能热利用技术升级，开展薄膜太阳能电池等前瞻性技术研究，加强表面绒毛制作、电池表面钝化、选择性扩散等关键技术开发及应用，单晶硅、多晶硅太阳能光伏电池规模化生产的平均转化效率分别达到17%、16%以上。推进基础材料和关键设备的国产化，支持多晶硅锭铸造、单晶硅圆拉制、硅片切割等关键材料，以及单晶硅圆拉制炉、太阳能电池防反射膜生产装备等关键设备开发。建立太阳能光伏电池工程技术中心、性能测试中心等重点研究机构和公共技术平台，切实提高太阳能光伏电池产业的自主创新能力。加大新技术应用和推广力度，实施太阳能光伏照明和光伏屋顶并网电站示范项目，扩大太阳能光伏电池组件的生产规模，培育一批产量达50兆瓦以上的太阳能光伏电池组件生产企业。<br>    2．太阳能热利用技术开发与应用。大力推进太阳能中低温（100℃以下）利用技术的新产品开发，加快太阳能热利用与建筑设计一体化、太阳能热利用与热管热泵集成应用、新型太阳能热集成器与聚光技术、太阳能空调等重大技术开发应用，实施一批太阳能热利用与建筑一体化示范性项目。加强太阳能中高温（100-300℃）利用技术的应用产品开发，组织开展定日镜等太阳能热发电技术研究开发。积极推进太阳能干燥、太阳能供热等太阳能热利用技术在生产生活中的应用开发。<br>    （二）组织实施半导体照明技术开发与应用示范工程<br>    1．大功率（1-5W）半导体照明器件核心技术开发与应用。以1-3W半导体照明器件批量化生产技术攻关为重点，支持宽禁带高温半导体产业化、半导体照明器件制备封装、白光稀土发光材料制备等技术开发，建立在国内居领先水平的大功率半导体照明芯片制备和封装生产线，建成半导体照明用三基色稀土发光材料制备生产线，基本实现1-3W半导体照明器件的规模化生产。积极推进1-3W半导体照明专用芯片和1W半导体照明专用芯片自主设计并实现规模化生产应用，突破3W半导体照明专用芯片设计技术，为进入规模化生产和下游应用形成成熟的技术储备。把5W半导体照明器件作为该领域的研究重点，加强多芯片叠装、外延材料生长、快速散热等核心技术的研究开发，努力形成5W半导体照明器件技术开发成果。<br>    2．半导体照明产品开发与应用。围绕半导体照明器件与灯具集成技术研究，支持1-3W半导体照明灯具结构设计与散热、半导体照明系统的匹配和控制、太阳能与高亮度半导体照明集成应用等技术开发。选择基础较好的骨干企业，支持建设半导体特种照明灯具的批量生产装备，实现半导体照明技术的商业化应用。加快推进半导体照明的应用示范，利用现已成熟的高亮度(0.5-1W)半导体照明技术，加快半导体照明在公共设施领域的示范与推广，建立一批应用示范项目，降低城市亮化系统的能耗水平。<br>    （三）组织实施新型动力型电池技术开发与应用示范工程<br>    1．镍氢电池。结合实施国家电动汽车科技专项，在进一步开发氢氧化镍、混合稀土系合金、高容量储氢合金等关键材料低成本技术的同时，重点支持快速充电技术、电池管理系统等配套技术的开发，加强镍氢动力电池在城市公交、电动助力车、轨道交通等方面的应用配套技术开发，尽快为镍氢电池的商业化应用提供成熟的成套技术。积极推进镍氢动力电池的商业化应用，支持国家科技专项承担单位建立镍氢动力型电池规模化生产线，推进镍氢动力型电池在城市交通领域的应用。<br>    2．锂离子电池。加强锂离子电池的长寿命、高功率和高安全性等关键技术开发，支持有条件的骨干企业实现规模化生产。同时，推进锂离子正极材料、负极材料、电解质、专用隔膜等关键材料低成本和规模化生产技术开发，培育一批关键材料生产骨干企业。<br>    3．燃料电池。以甲醇直接燃烧燃料电池和质子交换膜型燃料电池为主攻方向，积极培育燃料电池的批量化生产项目。同时，支持新型电催化剂、电解质膜、双电极板等燃料电池关键材料的生产技术开发，以及燃料电池发动机等应用配套技术产品开发，使我省尽快形成燃料电池产品的研发与生产优势。<br>    （四）组织实施清洁能源技术开发与应用示范工程<br>    1．生物质能技术开发与应用。加快生活垃圾能源化利用技术开发，支持填埋气化、高温熔融焚烧、抑制二恶咽等技术研究，开发投资少、运行成本低的城市生活垃圾能源化利用的成套设备，在有条件的城市建立一批城市生活垃圾能源化利用的示范项目。积极开发生物质秸杆气化发电和秸杆气化集中供气的绿色工艺技术，组织力量对气化炉等关键装备进行联合攻关，重点支持适用于乡镇、发电量大于2000KW的秸杆气化发电系统装备和供气户数大于500户的气化系统装备，为推进秸杆资源化利用形成良好的技术储备。积极开展生物质畜禽粪便制取沼气后发电技术研究，组织力量对沼气发电机组等关键设备攻关改造。大力推进农村沼气的技术开发与利用，建成一批全秸杆制取沼气的试验性应用示范项目。<br>    2．风能利用技术开发与应用。支持风能利用领域的国际科技合作与交流，积极引进国外智力和技术，为我省沿海地区建设一批风力发电项目提供科技支持。加强对国外风力发电装备技术的消化吸收，围绕兆瓦级风力发电机组国产化的技术需求，支持机组总体设计技术、变桨变速器、风轮设计及制造、电机设计及控制等关键技术攻关，努力提高兆瓦级风力发电机组的自主创新能力。<br>    （五）组织实施关键节能技术开发与应用示范工程<br>    1．电网、电器节能技术开发与应用。推进大容量变流元件、快速响应智能单元等输变电系统的新型节电技术及设备的应用，支持开发高压直流输电技术及关键设备。同时，推进热管、变频等节能技术在工业装备、家用电器产品中的应用。<br>    2．工业生产节能技术开发与应用。大力支持冶炼、煅烧、化工等生产过程综合优化节能技术开发，高温空气燃烧技术、纯氧或富氧燃烧等工业炉窑节能技术开发，循环流化床、水煤浆锅炉、燃烧优化控制系统等节煤技术开发，降低工业产值单位能耗水平。<br>    3．能量梯度利用技术开发与应用。支持开发中低热值可燃气发电及多联供技术，重点开发燃气轮机、燃气冷热空调机组等装备技术，组织一批工业余热利用的热电联供示范项目，提高我省钢铁、水泥、火电等行业的工业余热利用水平。<br>    三、主要措施<br>    （一）提高组织程度。各地要根据我省能源产业科技示范工程的总体目标和重点任务，因地制宜地制定相应的实施计划，有机衔接工程实施的各项工作。加强新能源领域跨学科、跨专业的联合科技攻关，引导省内新能源骨干企业建立产业技术发展联盟，提高能源产业技术创新水平。加强新能源与节能知识的普及宣传和技术推广，提高全民节能意识。省有关部门要定期对能源产业科技示范工程实施情况进行统计、分析、监测和评价。<br>    （二）加大投入力度。各级各类科技发展计划优先支持能源产业科技示范工程建设，省科技成果转化资金将新能源和节能列为重点支持范围。积极引导企业及社会资金对能源科技发展的投入，发挥风险投资在推动能源产业发展中的作用，努力形成多元化的投入体系。<br>    （三）加快人才队伍建设。扩大与中科院等研究机构和高校的合作，吸引新能源和节能领域的国内外科技人才来苏创新创业。通过实施基础研究等科技计划，加快新能源和节能领域人才培养步伐。选聘省内外新能源和节能领域专家成立省能源产业科技示范工程专家组，加强对实施能源产业科技示范工程的咨询指导，提高能源产业科技示范工程的科学性和有效性。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

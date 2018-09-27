@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院安委会办公室<BR>&nbsp;&nbsp;【发布文号】安委办〔2008〕15号<BR>&nbsp;&nbsp;【发布日期】2008-07-24<BR>&nbsp;&nbsp;【生效日期】2008-07-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-07/28/content_285217.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国务院安委会办公室关于深入贯彻落实全国煤矿瓦斯治理现场会精神的通知<br><br></font>(安委办〔2008〕15号)</p><br><br><br>各产煤省、自治区、直辖市及新疆生产建设兵团安全生产委员会： <br><br>    经国务院同意，7月8日至9日，国务院安全生产委员会在辽宁省召开了全国煤矿瓦斯治理现场会（以下简称现场会）。张德江副总理出席会议并作重要讲话，就进一步做好当前和今后一个时期煤矿瓦斯治理工作作出部署。会议总结了近年来煤矿瓦斯治理工作的经验，分析了存在的问题，明确了瓦斯治理的指导原则、工作思路、目标任务、工作重点和工作措施，提出了构建“通风可靠、抽采达标、监控有效、管理到位”的瓦斯综合治理工作体系。为认真贯彻落实会议精神，把煤矿瓦斯治理攻坚战扎实有效推向深入，现就有关要求通知如下： <br><br>    一、深入学习和贯彻落实现场会精神，进一步统一思想，提高认识 <br><br>    张德江副总理在现场会上的重要讲话，从科学发展观的高度，深刻阐述了抓好煤矿安全生产和瓦斯治理工作的重大意义；明确指出了煤矿安全是安全生产工作的重中之重，瓦斯治理是煤矿安全生产的关键环节；充分肯定了近年来煤矿瓦斯治理攻坚战所取得的明显成效；深刻分析了煤矿瓦斯治理工作中存在的突出问题和薄弱环节，提出了认真落实瓦斯治理的经济政策、高度重视瓦斯隐患排查治理、切实加强瓦斯防控现场管理、加快建立瓦斯防治科技支撑体系和进一步做好安全监管监察工作等五个方面的工作要求。各地区及其各有关部门、各单位、各煤矿企业要认真组织学习，领会精神实质，尽快把会议精神特别是张德江副总理的重要讲话精神传达贯彻下去，进一步统一思想认识，克服盲目乐观情绪，认清面临的形势任务，不断深化对煤矿瓦斯治理工作重要性的认识，深化对构建“通风可靠、抽采达标、监控有效、管理到位”瓦斯综合治理工作体系重要意义的认识，增强抓好煤矿安全生产和瓦斯治理工作的责任感、紧迫感，坚定不移地把瓦斯治理攻坚战扎实有效推向深入，力求取得更大的实效。 <br><br>    二、着力构建“通风可靠、抽采达标、监控有效、管理到位”瓦斯综合治理工作体系 <br><br>    全国煤矿瓦斯治理现场会提出的构建“通风可靠、抽采达标、监控有效、管理到位”的瓦斯综合治理工作体系，是煤矿瓦斯治理实践经验的概括总结，是对瓦斯治理规律认识的深化，是治理防范瓦斯灾害的基本要求，是把瓦斯治理工作推向新阶段的重要举措。“通风可靠”的基本要求是系统合理、设施完好、风量充足、风流稳定；“抽采达标”的基本要求是多措并举、应抽尽抽、抽采平衡、效果达标；“监控有效”的基本要求是装备齐全、数据准确、断电可靠、处置迅速；“管理到位”的基本要求是责任明确、制度完善、执行有力、监督严格。地方各级政府安委会要把瓦斯综合治理工作体系建设纳入安全生产工作的重要议事日程，作为制度建设的重要内容，在深入分析本地区煤矿瓦斯治理工作的现状及存在的突出问题，查找差距，分析原因的基础上，按照统筹规划、分步实施、总体推进的原则，研究制定构建瓦斯治理工作体系规划，并结合实际制定相应的考核标准，落实每个产煤市（地）、县（市）和煤矿企业完成规划目标的时限，分期分批组织实施，建设一批煤矿瓦斯治理示范县和示范矿井。各煤矿企业要紧紧抓住通风系统、抽采利用、监测监控、现场管理四个关键环节，逐矿查找差距，针对存在的问题，进一步加大安全投入、完善配套设施、落实相关责任，通过努力，尽快建立健全稳定可靠的矿井通风系统、科学合理的瓦斯抽采体系、有效管用的监测监控网络和严格规范的现场管理制度。 <br><br>    三、加强领导，明确责任，扎扎实实抓落实，全面提升煤矿瓦斯治理工作水平 <br><br>    当前，深化煤矿瓦斯治理工作的思路、目标、任务和要求已经明确，关键在落实，要抓紧、抓实、抓出成效。各地区要切实加强对煤矿瓦斯治理工作的组织领导，落实政府安全生产监管主体责任，实行政府行政首长负责制，地方各级政府主要领导同志要亲自抓煤矿安全生产，分管领导要负起责任，把瓦斯治理放在煤矿安全工作更加突出的位置，进一步强化对煤矿瓦斯治理工作的监管责任，加大政策扶持引导力度，支持煤矿搞好瓦斯治理和安全技术改造，加快建立瓦斯防治科技支撑体系，结合本地区煤层地质条件和瓦斯赋存特点，组织开发一批先进适用技术，推广一批技术成熟的装备。地方各级政府安委会要充分发挥综合协调作用，调动各方面积极性，按照现场会提出的五条具体要求，逐条进行细化分解，逐项落实责任单位和责任人，定期进行考核。督促有关部门深入实际调查研究，对瓦斯抽采利用各项政策没有落实到位的要分析原因，研究对策，排除障碍，尽快把政策落到实处。抓住本地区瓦斯治理工作存在的突出问题和薄弱环节，组织专家对瓦斯灾害严重的矿井逐矿进行“会诊”，一矿一策，逐矿突破。要深化瓦斯隐患排查治理，建立健全瓦斯隐患分级排查、上报、治理、监控机制，重大隐患实行政府部门挂牌督办。明确煤矿企业法定代表人是瓦斯治理的第一责任人，督促煤矿企业把瓦斯隐患排查治理责任落实到每个矿井、区队、班组，落实到每个环节、每道工序，确保瓦斯治理工作取得实效。 <br><br>    四、深入调研，摸清底数，尽快制定煤矿瓦斯治理和利用规划 <br><br>    按照“努力实现到2010年煤矿瓦斯事故死亡人数比2007年下降20%以上，有效控制重特大瓦斯事故、坚决遏制百人以上事故的目标”、“力争到2010年煤层气抽采量达到100亿立方米以上”的要求，地方各级政府要组织有关部门，在深入调查研究、摸清底数、分析现状和问题的基础上，结合实施《煤矿安全生产“十一五”规划》、《煤层气（煤矿瓦斯）开发利用“十一五”规划》，尽快研究制定煤矿瓦斯治理和利用“十一五”后三年规划，明确本地区瓦斯治理工作的目标、任务、重点和保障措施，紧紧抓住关键环节，确定瓦斯治理和利用的重点工程，落实具体的项目和资金，提出分步骤达到的要求。各产煤市（地）、县（市）和重点煤矿企业也要按照上述要求，尽快制定本行政区域或本企业煤矿瓦斯治理和利用“十一五”后三年规划。 <br><br>    五、进一步强化对瓦斯治理工作的监管监察 <br><br>    地方各级煤炭行业管理部门要切实加强煤矿安全管理，按规定组织开展煤矿瓦斯等级鉴定，严把审核批准关，严格按标准和规范确定矿井瓦斯等级；要严肃认真地搞好矿井生产能力核定工作，把构建瓦斯治理工作体系的要求特别是矿井通风、瓦斯抽采能力等作为生产能力核定的重要内容和约束指标；要积极推进煤矿企业瓦斯治理工作体系尽快建设到位。地方各级煤矿安全监管部门要进一步加大煤矿安全的日常监督检查，煤矿新建和改扩建项目，瓦斯治理工程不配套的，不得立项建设；存在重大瓦斯隐患难以治理的小煤矿，要予以关闭；要督促煤矿企业认真排查治理重大瓦斯隐患、落实瓦斯治理各项措施，切实做好从业人员安全教育培训，提高防范瓦斯灾害的技能。驻各地煤矿安全监察机构要依法履行国家监察职责，把煤矿瓦斯治理列入重点监察计划，组织开展对高瓦斯、煤与瓦斯突出矿井的专项监察和定期监察；严格煤矿建设项目“三同时”，对通风系统、瓦斯抽采、安全监控等瓦斯治理工程不配套的矿井，不得通过安全设施设计审查和竣工验收；严把煤矿安全许可关，对存在重大瓦斯隐患没有整改的煤矿，不得换发安全生产许可证；对瓦斯隐患严重、排查治理不力的，要予以行政处罚或停产整改；对因工作不力酿成事故的，要依法严肃追究责任。地方各级煤炭行业管理、煤矿安全监管部门和驻地煤矿安全监察机构要按照各自职责，齐心协力、密切配合，共同推进煤矿瓦斯治理工作。 <br><br>    六、加大宣传工作力度，营造有利于煤矿瓦斯治理的舆论氛围 <br><br>    各地区及其各有关部门、各煤矿企业，要充分发挥广播、电视、报刊、网络等媒体的作用，采用多种形式，广泛宣传全国煤矿瓦斯治理现场会精神和构建煤矿瓦斯综合治理工作体系的重要意义，要及时发现和总结推广瓦斯治理的先进经验和技术，抓好典型引路，尽快建成一批煤矿瓦斯治理示范县、示范矿井。探索适合自身实际、体现自身特色的好做法，着力解决瓦斯治理工作中遇到的新矛盾、新问题，实现再创新、再推动。开展瓦斯治理科普活动，营造有利于煤矿瓦斯治理的良好氛围。 <br><br>    请各产煤省（区、市）安委会将此通知转发至各有关成员单位各产煤市（地）、县（市）和各煤矿企业，并于8月20日前将贯彻落实全国煤矿瓦斯治理现场会精神情况报国务院安委会办公室。 <br><br>    国务院安全生产委员会办公室 <br><br>    二○○八年七月二十四日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

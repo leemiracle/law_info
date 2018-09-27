@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财库[2008]62号<BR>&nbsp;&nbsp;【发布日期】2008-09-02<BR>&nbsp;&nbsp;【生效日期】2008-09-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://gks.mof.gov.cn/guokusi/redianzhuanti/guokujizhongzhifuguanli/200809/t20080916_75223.html" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于《中央财政国库集中支付银行代理业务综合考评暂行办法》的补充通知<br> <br></font>(财库[2008]62号)</p><br>     <br><br>各中央财政国库集中支付代理银行：<br><br>    为了进一步做好中央财政国库集中支付银行代理业务综合考评工作，建立健全有效的激励和约束机制，根据《中央财政国库集中支付银行代理业务综合考评暂行办法》（财库[2006]41号，以下简称《办法》），结合代理业务发展的新情况和新问题，现将有关事项补充通知如下：<br><br>    一、关于综合考评业务范围的界定<br><br>    纳入中央财政国库集中支付银行代理业务综合考评范围的，除财政直接支付业务和财政授权支付业务外，还包括中央补助地方专项资金国库集中支付动态监控业务和公务卡相关业务。<br><br>    二、关于中央补助地方专项资金国库集中支付动态监控业务和公务卡相关业务的考评<br><br>    （一）中央补助地方专项资金国库集中支付动态监控业务的考评包括：代理银行是否及时、规范、准确地向财政国库动态监控系统反馈专项资金指定账户支付信息；相关信息要素是否齐全；是否按照要求与监控系统对账等。<br><br>    （二）公务卡相关业务的考评是对代理银行作为公务卡发卡银行，在公务卡业务的组织管理、资金支付和信息反馈等方面进行考核评价。包括：<br><br>    1.代理银行是否按照公务卡管理有关规定，定制公务卡，并及时为预算单位工作人员办理公务卡。<br><br>    2.代理银行是否按照公务卡管理有关规定，及时、准确、规范地为预算单位和持卡人办理公务卡支付、还款等有关业务。<br><br>    3.代理银行是否按照公务卡管理有关规定，及时、准确向财政国库动态监控系统反馈零余额账户向公务卡账户的划款信息和公务卡向商户付款的明细支付信息，向持卡人反馈资金还款信息。<br><br>    4.代理银行是否按照公务卡管理要求，及时开发公务卡支持系统，并通过及时对公务卡支持系统进行维护、升级等措施确保系统运行安全、高效、便捷。<br><br>    5.其他违反公务卡管理有关规定的行为。<br><br>    对于代理银行违反上述考评规定的行为，财政部国库管理部门对照《办法》相应条款，实行扣分处理。<br><br>    三、关于年度业务规模大小标准的划分<br><br>    《办法》第十九、二十和二十一条规定：对于代理银行违规行为，区分年度业务规模大小按次扣分。其中，年度业务规模大小的划分标准是：银行年度代理业务规模占总规模的比重高于平均水平的代理银行为年度业务规模相对较大的代理银行，低于平均水平的代理银行为年度业务规模相对较小的代理银行。年度业务规模较大的代理银行按下限扣分；年度业务规模较小的代理银行按上限扣分。<br><br>    银行年度代理业务规模占总规模的比重，由银行年度代理财政直接（授权）支付金额占财政部年度财政直接（授权）支付总金额的比重与年度代理财政直接（授权）支付笔数占财政部年度财政直接（授权）支付总笔数的比重，算术平均后得出。<br><br>    四、关于代理银行协议履行问题的收集<br><br>    根据《办法》第十八条有关规定，进一步健全和完善代理银行协议履行问题的收集工作机制：<br><br>    （一）建立业务检查制度。财政部国库管理部门对代理银行业务处理能力、内控管理和业务操作的规范性等进行检查，同时不定期走访中央预算单位，对代理银行协议履行问题实施考评。<br><br>    （二）设立意见反映电话和意见箱。中央预算单位可拨打010-68552297，68552046或发送电子邮件至YHWT＠mof.gov.cn，向财政部国库管理部门反映或投诉代理银行服务质量问题。<br><br>    五、关于综合考评结果的运用<br><br>    财政部国库管理部门根据年度综合考评结果，在中央一级预算单位和中央财政国库集中支付代理银行范围内对代理业务水平等级为优或良的代理银行进行通报表扬。财政部国库管理部门将综合考评结果、有关扣分情况、业务代理手续费浮动情况、预算单位对代理银行的意见和有关管理建议反馈代理银行。代理银行应对综合考评揭示和反映的问题，予以关注和改进，并及时向财政部国库管理部门报送有关工作改进情况。<br>    <br>财政部<br>二○○八年九月二日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

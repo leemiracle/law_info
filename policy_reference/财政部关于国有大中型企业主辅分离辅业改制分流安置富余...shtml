@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部<BR>&nbsp;&nbsp;【发布文号】财企[2005]78号<BR>&nbsp;&nbsp;【发布日期】2005-05-17<BR>&nbsp;&nbsp;【生效日期】2005-05-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mof.gov.cn/news/20051011_2124_9255.htm" target=_blank>财政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部关于国有大中型企业主辅分离辅业改制分流安置富余人员有关财务问题的通知<br><br></font>(2005年5月17日    财企[2005]78号)</p><br><br><br>各省、自治区、直辖市、计划单列市财政厅(局)，各中央管理企业：<br><br>    近年来，国有大中型企业实施主辅分离辅业改制分流安置富余人员(以下简称“主辅分离改制分流”)涉及的企业财务处理事项，按照我部《关于印发〈企业公司制改建有关国有资本管理与财务处理的暂行规定〉的通知》(财企[2002]313号)和《关于〈企业公司制改建有关国有资本管理与财务处理的暂行规定〉有关问题的补充通知》(财企[2005]12号)的规定执行，较好地解决了实施过程中的主要问题，推动了企业改制工作的顺利进行。为了进一步推动国有大中型企业主辅分离改制分流工作的开展，规范主辅分离改制分流过程中的财务行为，现将有关事项通知如下：<br><br>    一、关于内部退养人员预留净资产问题<br><br>    企业对内退人员符合国家规定的生活费、社会保险费，可以在主辅分离改制时，从国有净资产中预先做出安排，作为对企业承担内退人员管理责任的资产补偿。预留资产按照“资产随人走”的原则，由负责内退人员管理的单位负责管理，承担相应的管理责任。<br><br>    企业在改制分流完成后，向内退人员支付相关费用时，按照我部《关于〈企业公司制改建有关国有资本管理与财务处理的暂行规定〉有关问题的补充通知》(财企[2005]12号)的规定，先从预提的国有净资产中列支，如仍有不足，不足部分由承担内退人员管理责任的单位在管理费用中列支。<br><br>    内退人员相关费用的开支标准，应当符合劳动和社会保障部门的相关规定。<br><br>    二、关于资产损失处理<br><br>    企业在主辅分离改制分流工作中，应当按照财政部《关于建立健全企业应收款项管理制度的通知》(财企[2002]513号)和《企业资产损失财务处理暂行办法》(财企[2003]233号)规定的处理权限和确认原则，处理发生的资产损失。<br><br>    三、关于剩余净资产的处理<br><br>    主辅分离改制分流工作中，原主体企业划出的改制资产在安置职工后有剩余的，可以采取投资、出售、出租等方式，原主体企业应当加强剩余净资产的财务管理，按照有偿使用的原则，并按国家有关规定进行财务处理。<br><br>    四、改制期间净资产损益的处理<br><br>    主辅分离改制分流过程中，自评估基准日到改制企业设立登记日的有效期内，改制企业资产的管理责任，应当在改制方案中予以明确。自评估基准日到改制企业设立登记日的有效期内，改制企业因实现利润或者发生亏损引起净资产的增减变化，按照《财政部关于印发〈企业公司制改建有关国有资本管理与财务处理的暂行规定〉的通知》(财企[2002]313号)的规定执行。对人、财、物、账等已与原主体分离，且改制方案中已明确由改制企业进行试运营管理的，可以按改制方案的约定由改制企业承担。<br><br>    五、流动负债余额处理<br><br>    企业主辅分离改制分流工作中，有关应付工资、应付福利费、职工教育经费等流动负债余额的处理，按照《财政部关于〈企业公司制改建有关国有资本管理与财务处理的暂行规定〉有关问题的补充通知》(财企[2005]12号)的有关规定执行，并在改制方案中加以明确。<br><br>    六、原主体企业与改制单位的关系问题<br><br>    改制单位应当与主体企业在资产、业务、机构、人员、财务等方面彻底分离，发生的经济业务往来，应当按照市场独立主体之间的正常经济业务对待，公平交易，按照财务制度规定进行核算。改制单位从工商注册或变更登记之日起，相关的费用开支应当由改制单位负担。主体企业对改制单位的扶持政策应当在遵循上述规定的前提下安排。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

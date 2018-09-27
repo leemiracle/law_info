@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省教育厅<BR>&nbsp;&nbsp;【发布文号】闽教学〔2008〕41号<BR>&nbsp;&nbsp;【发布日期】2008-11-13<BR>&nbsp;&nbsp;【生效日期】2008-11-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/zwgk/zxwj/bmwj/200811/t20081120_99937.htm" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省教育厅关于做好2009年高等教育春季毕业生学历证书电子注册工作的通知<br> <br></font>(闽教学〔2008〕41号)</p><br><br><br>各有关高校、高等教育学生培养单位：<br><br>    为进一步做好2009年我省高等教育春季毕（结）业生（以下简称毕业生）学历证书电子注册工作，现将2009年毕业生学历证书电子注册工作有关事项通知如下：<br><br>    一、2009年毕业生电子注册的办理对象<br><br>    1. 成人高等教育2006年春季入学的三年制专科和2007年春季入学的二年制专升本的毕业生。<br><br>    2. 网络教育2009届春季毕业生。<br><br>    这部分毕业生考生号必须按照“特殊类别新生入学注册考生号编码规则”（见附件1）进行编制。<br><br>    3. 研究生教育按培养计划获得毕（结）业资格的2009届春季毕业生。<br><br>    4. 其他因特殊原因准予在2009年春季取得毕（结）业资格的毕（结）业生。<br><br>    二、关于毕业生毕业资格的审核工作<br><br>    1. 2009届春季毕业生毕业资格将不组织预审核，各有关高校应在2008年12月31日前对本校2009届春季毕业生毕业资格进行自查。<br><br>    2. 各成人高校应提前做好成人高等教育专升本毕业生的前置学历审查工作，1982年以前出生的成人高等教育专升本毕业生前置学历无法网上查询的，应出具可在中国高等教育学生信息网（www.chsi.com.cn）上查询的“中国高等教育学历认证报告”<br><br>    3．毕业生学历证书电子注册数据今年开始实行网上传输注册，各有关高校（培养单位）应将学籍学历管理平台下载的本校当年录取数据与本校毕业生数据进行比对，查无录取数据的请及时要求生源地招办给予补报，终审时仍无录取数据的发给退函，不予注册。<br><br>    4. 在自查过程中若发现毕业生个人信息与录取数据不一致的，应依据公安机关提供的有效证明材料审核。在校期间的学籍异动信息，应具有校级部门的正式学籍异动文件（转学的学生应具有省级行政部门的有效批文）。<br><br>    5. 为确保2009届春季毕业生学历证书网上电子照片的准确，各有关高校（培养单位）应于2008年12月31日前，组织本校毕业生做好网上核对个人电子照片的工作。<br><br>    三、关于往届学历数据毕（结）业结论的变更及补报工作<br><br>    1. 往届结业证书换发为毕业证书的，由各高校直接在学籍学历信息管理平台（http://xjxl.chsi.com.cn/）修改，并以纸质形式报送书面材料。<br><br>    2. 漏报补报、错误更正等数据，必须以学校正式公函形式写清补报及更正原因，同数据光盘和学校签字盖章的书面材料一并于每年10月上报。<br><br>    四、关于学历证书电子注册数据的终审工作<br><br>    1. 毕业时间统一按照2009年填写，电子注册编号中的毕业年份应编为“2009”。<br><br>    2. 毕业生数据应为DBF格式，并以光盘报送，数据库格式按《毕业生电子注册上报DBF格式数据库结构说明》（见附件2）。<br><br>    3. 毕业生基本信息与教育部数据库不一致的，由学校统一出具证明材料。其他有学籍异动情况（升留级、转学、更名、转专业等）的毕业生须提供相关证明材料（如学校文件、户籍证明等）。<br><br>    4. 需要上报的各类材料应按《学历证书电子注册上报材料一览表》（见附件3）填写顺序装订。以免终审时由于材料缺失导致毕业生毕业资格审核不通过。<br><br>    5. 前置学历无法网上查询但持有“中国高等教育学历认证报告”的，应在数据库的备注栏内填写认证报告编号。<br><br>    6. 拟定于2009年2月召开2009届春季毕业生学历证书电子注册工作会议，布置2009届春季毕业生学历证书电子注册终审工作，集中审核2009届春季毕业生学历证书电子注册数据，有关会议时间另文通知。<br><br>    福建省教育厅<br>    二○○八年十一月十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

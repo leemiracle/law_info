@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总危化〔2007〕76号<BR>&nbsp;&nbsp;【发布日期】2007-04-14<BR>&nbsp;&nbsp;【生效日期】2007-04-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2007-04/17/content_231506.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局关于进一步开展氯酸钾专项治理工作的通知<br><br></font>(安监总危化〔2007〕76号)</p><br><br>  <br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局：     <br><br>    自2006年7月国家安全监管总局、国家质检总局《关于开展禁止违规使用氯酸钾生产烟花爆竹专项治理工作的通知》（安监总危化〔2006〕154号）实施以来，各级安全监管部门会同质检部门认真组织开展禁止违规使用氯酸钾生产烟花爆竹专项治理工作（以下简称氯酸钾专项治理工作），取得了初步成效。一是摸清了全国氯酸钾生产企业的生产和销售基本情况；二是组织开展了烟花爆竹药物抽检，严肃查处了一批违规使用氯酸钾生产烟花爆竹的生产企业，违规使用氯酸钾生产烟花爆竹现象得到了遏制；三是一些烟花爆竹燃放"禁改限"城市明确禁止含氯酸钾的产品进入市场，产品抽检合格率提高；四是替代氯酸钾的安全型新药物得到了进一步推广应用。 <br><br>    但是，目前仍有一些烟花爆竹生产企业存在侥幸心理，仍然违规使用氯酸钾生产烟花爆竹，增加了事故风险；部分地区对氯酸钾专项治理工作重视不够，有畏难情绪，持观望态度，对违规使用氯酸钾行为的处罚力度不够；氯酸钾销售没有得到有效监管，给不法分子非法生产烟花爆竹以可乘之机。禁止违规使用氯酸钾生产烟花爆竹和从原材料供应方面抑制非法生产烟花爆竹的任务仍十分艰巨。 <br><br>    为了巩固氯酸钾专项治理工作成果，继续保持高压势态，禁止违规使用氯酸钾生产烟花爆竹，提高烟花爆竹生产本质安全水平，同时从原材料供应方面抑制非法生产烟花爆竹现象，有效预防爆炸事故发生，促进烟花爆竹安全生产形势的稳定好转，国家安全监管总局决定进一步开展氯酸钾生产、经营、使用专项治理工作。现将2007年氯酸钾专项治理工作的有关事项和要求通知如下： <br><br>    一、工作目标和治理范围 <br><br>    （一）工作目标 <br><br>    通过深入开展氯酸钾专项治理工作，进一步督促氯酸钾生产企业完善安全生产条件，建立和完善氯酸钾安全监管制度，有效监控氯酸钾销售流向，严格禁止违规使用氯酸钾生产烟花爆竹行为，降低烟花爆竹生产过程中的事故风险，预防爆炸事故发生。 <br><br>    1.通过对氯酸钾生产、经营企业进行监督检查，严肃查处违规销售氯酸钾行为，促使氯酸钾生产、经营企业严格遵守有关规定，从源头上防止违规使用氯酸钾生产烟花爆竹和非法生产烟花爆竹行为。 <br><br>    2. 通过组织开展药物抽检，严厉查处违规使用氯酸钾生产烟花爆竹行为，切实落实禁止违规使用氯酸钾生产烟花爆竹的规定，降低烟花爆竹生产过程中的事故风险，预防爆炸事故发生。 <br><br>    3. 建立规范的氯酸钾销售、购买、使用登记制度，掌握氯酸钾生产、经营企业氯酸钾销售流向和烟花爆竹生产企业氯酸钾购买、使用情况。 <br><br>    （二）治理范围 <br><br>    氯酸钾生产企业、经营企业，烟花爆竹生产企业、批发经营企业。 <br><br>    二、工作任务 <br><br>    （一）对氯酸钾生产企业的安全生产条件和流向登记情况进行全面检查 <br><br>    有氯酸钾生产企业的地区，省级安全监管局要组织有关专家对氯酸钾生产企业进行全面检查，检查的重点：是否具备安全生产条件，建立氯酸钾销售流向登记制度和登记档案的情况，有无违规销售氯酸钾行为等。要依法关闭不具备安全生产条件和有严重违法违规行为的氯酸钾生产企业。同时，安徽、福建、江西、河南、湖南、广西、重庆、四川等重点地区还要组织对氯酸钾经营企业进行全面摸底和检查，重点检查氯酸钾销售流向登记制度和登记档案建立情况以及有无违规销售氯酸钾行为。请相关省级安全监管局于6月30日前将检查和摸底情况书面报告国家安全监管总局。 <br><br>    国家安全监管总局将组织对重点地区的氯酸钾生产经营企业进行抽查。 <br><br>    （二）继续组织开展烟花爆竹药物抽检工作 <br><br>    1. 2007年二季度和四季度，国家安全监管总局将组织2-3次烟花爆竹药物抽检，抽检企业数量将比2006年大幅度增加，抽检范围扩大到烟花爆竹批发经营企业。 <br><br>    2. 各省级安全监管局要制订本年度烟花爆竹药物安全抽检工作计划，组织开展本地区的烟花爆竹药物抽检工作。2007年，各地区组织抽检的覆盖率应达到本地区烟花爆竹生产企业的20%以上。 <br><br>    （三）建立氯酸钾销售、购买和使用登记制度和登记档案 <br><br>    1. 氯酸钾生产、经营企业和生产烟雾类、摩擦类的烟花爆竹企业分别按照《氯酸钾销售流向登记表》、《氯酸钾购买登记表》和《氯酸钾领用登记表》（见附表1、2、3）建立氯酸钾销售、购买和使用登记档案，如实记录氯酸钾销售、购买和使用情况，并每月将登记档案报送企业所在地县级安全监管部门备案。县级安全监管部门将有关情况汇总后逐级上报至省级安全监管局。 <br><br>    2. 各省级安全监管局要组织对现有生产烟雾类、摩擦类的烟花爆竹企业的许可范围和生产能力进行认真复核，于2007年6月30日前公告名单，并结合实际采取出具购买氯酸钾证明和限定购买数量等手段，加强对这类烟花爆竹企业的监管。 <br><br>    3. 烟花爆竹经营企业应对购进产品严格把关、验收，确保不购进含氯酸钾的产品。各级安全监管部门加强对烟花爆竹经营企业的监督检查。 <br><br>    三、工作要求 <br><br>    （一）各级安全监管部门要进一步提高认识，高度重视氯酸钾专项治理工作，切实加强组织领导，落实责任。要及时向当地人民政府汇报，取得政府的支持，并与有关部门密切配合，采取综合治理、联合执法等手段，确保工作落到实处；要建立长效机制，不断巩固和扩大专项治理工作成果。 <br><br>    （二）要加大氯酸钾专项治理工作的宣传力度，督促企业认真组织开展自查和整改；及时公布烟花爆竹药物抽检和对违规单位的处罚情况，起到警示作用；建立举报制度，接受群众监督。 <br><br>    （三）对违规使用氯酸钾的烟花爆竹生产企业要严格按照安监总危化〔2006〕154号文件的要求，依法从严从重处罚。对没有按照要求建立购买、销售、使用登记制度或登记档案记录不真实的生产烟雾类、摩擦类的烟花爆竹企业和氯酸钾生产、经营企业，要依法处以罚款，责令其停产停业整顿，情节严重的，吊销相关许可证。 <br><br>    （四）凡是发现烟花爆竹生产企业违规使用氯酸钾以及发现使用氯酸钾非法生产烟花爆竹的，都要认真追查氯酸钾的来源。对违规销售氯酸钾的单位，按照《危险化学品安全管理条例》以及安监总危化〔2006〕154号文件规定，依法从严处罚；再次发现此类违法行为或造成严重后果的，吊销相关许可证。 <br><br>    （五）加强监督检查，发现烟花爆竹经营企业购进含氯酸钾烟花爆竹的，按照有关规定给予经济或行政处罚，情节严重的，依法吊销经营许可证。 <br><br>    （六）各级安全监管部门要积极争取财政、科技部门的支持，鼓励和支持安全型新药物研究开发和推广应用。 <br><br>    （七）各省级安全监管局氯酸钾专项治理工作总结报告请于2007年12月31日前报送国家安全监管总局。 <br><br>    附表：1. 氯酸钾销售流向登记表 <br><br>    2. 氯酸钾购买登记表 <br><br>    3. 氯酸钾领用登记表 <br><br>     <br><br>    二○○七年四月十四日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2007〕131号<BR>&nbsp;&nbsp;【发布日期】2007-01-28<BR>&nbsp;&nbsp;【生效日期】2007-01-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480498/n575817/5061461.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于中墨两国政府税收协定及其议定书若干条文解释的通知<br><br></font>(国税函〔2007〕131号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    我国政府同墨西哥合众国政府签订的关于对所得避免双重征税和防止偷漏税的协定及其议定书（以下分别简称“协定”和“议定书”），从2007年1月1日起执行。现对协定和议定书若干条文解释如下：<br>    一、关于“常设机构”条款?<br>    协定该条第三款未对缔约国一方企业通过其雇员到缔约国另一方提供劳务活动构成常设机构做出规定，但不妨碍根据该条第一款对有关企业是否构成常设机构进行判定。?<br>    二、关于“股息”条款?<br>    该条第三款“以及按照分配利润的公司是其居民的缔约国法律，视同股份所得同样征税的其他公司权利取得的所得”是指，依照国内税收法规将其他名义的所得调整为股息性质的所得。?<br>    三、关于“利息”条款?<br>    （一）适用协定问题?<br>    根据该条第七款和议定书第三条，外国居民设在中国境内的常设机构或固定基地向墨西哥居民支付的利息，应适用中墨税收协定，中国享有对该利息的征税权。如上述利息支付给第三国居民设在墨西哥的常设机构或固定基地，则应适用中国与该第三国之间的税收协定，不适用于中墨税收协定。?<br>    （二）反避税规定?<br>    该条第八款中“特殊关系”一语指，按照协定“联属企业”条款和国内法的有关规定判定支付利息的人与受益所有人之间或者他们与其他人之间存在关联关系。该解释同样适用于协定第十二条“特许权使用费”第六款。?<br>    对存在“特殊关系”的利息（特许权使用费）支付，税务机关有权对违反公平交易原则的价格进行调整。 ?<br>    四、关于“特许权使用费”条款<br>    （一）定义?<br>    根据该条第三款，“特许权使用费”一语既包括一般意义上的特许权使用费（含设备租金），也包括新增加的两项内容：一是因使用传输的信息或信号而支付的所得，即通过卫星、电缆、光纤或同类技术传输或向公众传输电视或无线广播，接受或有权接受图像或声音（或兼而有之），或使用或有权使用图像或声音（或兼而有之）而支付的任何报酬；二是转让任何与生产、使用或销售有关的权利与财产取得的收益。?<br>    （二）适用协定问题?<br>    根据该条第五款和议定书第三条，外国居民设在中国境内的常设机构或固定基地向墨西哥居民支付的特许权使用费，应适用中墨税收协定，中国享有对该特许权使用费的征税权。如上述特许权使用费支付给第三国居民设在墨西哥的常设机构或固定基地，则应适用中国与该第三国之间的税收协定，不适用于中墨税收协定。?<br>    五、关于“财产收益”条款?<br>    该条第二款“主要……由……不动产组成”应理解为公司资产的50%（不含）以上为不动产。?<br>    该条第三款含义为，转让中国（或墨西哥）一方居民公司的股票（权益）取得收益，不论其控股比例大小，中国（或墨西哥）均拥有征税权。?<br>    六、关于“独立个人劳务”条款<br>    根据议定书第一条，协定第十四条第一款第（一）项规定的固定基地依照协定第五条“常设机构”规定的原则处理。墨西哥居民个人在华从事专业性劳务或其他独立性活动构成固定基地的，依照《中华人民共和国个人所得税法》及其实施条例的规定处理。?<br>    七、关于“董事费”条款<br>    根据该条规定，墨西哥居民作为中国居民公司的董事会或类似机构成员取得的董事费和其他类似款项，以及作为高级管理职位的职员取得的薪金、工资和其他类似报酬，中国享有征税权。<br>    八、关于“相互协商程序”条款<br>    该条的规定依照《关于印发〈中国居民（国民）申请启动税务相互协商程序暂行办法〉的通知》（国税发〔2005〕115号）的规定执行。?<br>    九、关于“情报交换”条款<br>    该条依照《国家税务总局关于印发〈国际税收情报交换工作规程〉的通知》（国税发〔2006〕70号）的规定执行。<br>    十、关于“反协定滥用”条款<br>    议定书第五条提及“资本弱化”、“受控外国公司”和“背对背贷款”的规定，依照国内有关法规和规定执行。<br>    十一、关于“利益限制”条款<br>    议定书第六条利益限制条款旨在防止纳税人对中墨税收协定的不正确适用。该条的规定按以下原则掌握。?<br>    （一）可以享受协定待遇的墨西哥居民法人?<br>    在中国，享受协定待遇的墨西哥居民法人应当符合权益构成比例要求，即其50%（不含）以上的权益直接或间接由以下一人或多人所有：（1）墨西哥居民个人；（2）墨西哥居民公司；（3）墨西哥政府、墨西哥行政区或地方当局。?<br>    如享受协定待遇的墨西哥居民法人取得的所得是来自中国的股息、利息或特许权使用费，还应当符合再支付比例要求，即：如果该墨西哥居民法人将其所得总额的50%（不含）以上作为股息、利息或特许权使用费直接或间接支付给非上述三种人，该墨西哥居民法人不得享受中墨税收协定待遇。?<br>    （二）如果墨西哥居民法人不符合上述第（一）款的要求，但能够证明公司的设立、收购和维持及其运作不是以获取本协定之利益为主要目的，则可以享受中墨税收协定待遇。?<br>    （三）墨西哥居民个人以及在墨西哥证券交易市场上市的墨西哥居民公司不受以上限制。<br>    （四）虽有以上规定，各地在受理中墨税收协定待遇申请时，如认为所得支付存在重大避税嫌疑，可要求中国境内支付人（或代理人、纳税人）附加提供墨西哥居民法人权益构成比例的证明材料或其他相关资料，经确认符合本文件第十一条第（一）款第1项规定的，应允许享受中墨协定待遇。如认为不符合本文件第十一条第（一）款第1项规定，或有充分理由认为该墨西哥居民法人不满足再支付比例要求的，可提起情报交换请求或相互协商建议，逐级上报至国家税务总局。?<br>    本解释仅适用于中墨税收协定。各地在执行中如遇到新问题，应及时报告税务总局。<br><br>国家税务总局<br>二○○七年一月二十八日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

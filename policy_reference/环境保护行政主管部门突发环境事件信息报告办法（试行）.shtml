@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】环发〔2006〕50号<BR>&nbsp;&nbsp;【发布日期】2006-03-31<BR>&nbsp;&nbsp;【生效日期】2006-03-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/eic/649086798147878912/20060405/16784.shtml" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>环境保护行政主管部门突发环境事件信息报告办法（试行）<br><br></font>(环发〔2006〕50号)</p><br><br><br>各省、自治区、直辖市环境保护局（厅），新疆生产建设兵团、计划单列市环境保护局： <br><br>    为规范突发环境事件的信息报告程序，提高环境保护行政主管部门应对突发环境事件的能力，保障人民群众生命健康和财产安全，我局制定了《环境保护行政主管部门突发环境事件信息报告办法（试行）》（以下简称《办法》），现印发给你们，请遵照执行。 <br><br>    总局办公厅负责突发环境事件接报工作。 <br><br>    电话：010-66556006，66556007 <br><br>    传真：010-66556010 <br><br>    E－mail：zhibanshi@sepa.gov.cn<br><br>    附件：环境保护行政主管部门突发环境事件信息报告办法（试行）<br><br>    二○○六年三月三十一日<br><br><br>附件：环境保护行政主管部门突发环境事件信息报告办法（试行）<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为规范突发环境事件的信息报告程序，提高环境保护行政主管部门应对突发环境事件的能力，保障人民群众生命健康和财产安全，依据有关环境保护法律法规和《国家突发环境事件应急预案》，制定本办法。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本办法所称突发环境事件，是指突然发生，造成或者可能造成重大人员伤亡、重大财产损失和对全国或者某一地区的经济社会稳定、政治安定构成重大威胁和损害，有重大社会影响的涉及公共安全的环境事件。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 各级环境保护行政主管部门应当制定和完善突发环境事件应急预案，并建立相应信息报送制度。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 各级环境保护行政主管部门应当按照职责范围，做好本辖区突发环境事件的处理工作，及时、准确地向同级人民政府和上级环境保护行政主管部门报告辖区内发生的突发环境事件信息。 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 在得知突发环境事件发生后，事发地环境保护行政主管部门应当立即派人赶赴现场调查了解情况，采取措施努力控制污染和生态破坏事故继续扩大，对突发环境事件的性质和类别作出初步认定，并把初步认定的情况及时报同级人民政府和上级环境保护行政主管部门。紧急情况下，可直接向国家环境保护总局报告，并同时报送省级环境保护行政主管部门。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 突发环境事件的分级标准按照《国家突发环境事件应急预案》的规定执行。分级标准见附。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 一般（Ⅳ级）突发环境事件，事发地环境保护行政主管部门应在发现或得知突发环境事件后1小时内，向同级人民政府和上一级环境保护行政主管部门报告。 <br><br>    较大(Ⅲ级)、重大（Ⅱ级）、特别重大（Ⅰ级）突发环境事件，市(区)、县级环境保护行政主管部门应当在发现或得知突发环境事件后1小时内，报告同级人民政府和省级环境保护行政主管部门。省级环境保护行政主管部门在接到报告后，除认为需对突发环境事件进行必要核实外，应当立即报告国家环境保护总局。需要对突发环境事件进行核实的，原则上应在1小时内完成。 <br><br>    特别重大（Ⅰ级）突发环境事件，事发地环境保护行政主管部门在依照本条前两款规定报告的同时，应当向国家环境保护总局报告。 <br><br>    国家环境保护总局在接到重大（Ⅱ级）、特别重大（Ⅰ级）突发环境事件报告后，应当立即向国务院总值班室报告。 <br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 当突发环境事件发生初期无法按突发环境事件分级标准确认等级时，报告上应注明初步判断的可能等级。随着事件的续报，可视情核定突发环境事件等级并报告应报送的部门。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 突发环境事件的报告分为初报、续报和处理结果报告三类。 <br><br>    初报在发现和得知突发环境事件后上报；续报在查清有关基本情况后随时上报；处理结果报告在突发环境事件处理完毕后上报。 <br><br>    初报可用电话或传真直接报告，主要内容包括：突发环境事件的类型、发生时间、发生地点、初步原因、主要污染物质和数量、人员受害情况、自然保护区受害面积和濒危物种生存环境受到破坏程度、事件潜在危害程度等初步情况。 <br><br>    续报可通过网络或书面报告，视突发环境事件进展情况可一次或多次报告。在初报的基础上报告突发环境事件有关确切数据、发生的原因、过程、进展情况、危害程度及采取的应急措施、措施效果等基本情况。 <br><br>    处理结果报告采用书面报告，处理结果报告在初报和续报的基础上，报告处理突发环境事件的措施、过程和结果，突发环境事件潜在或间接的危害及损失、社会影响、处理后的遗留问题、责任追究等详细情况。处理结果报告应当在突发环境事件处理完毕后立即报送。 <br><br>    核与辐射事件的信息报告在按照本办法规定报告的同时，还须按照有关核安全法律法规的规定报告。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 突发环境事件可能波及相邻省级行政区域的，事发地省级环境保护行政主管部门应当在向国家环境保护总局报告的同时，及时通报可能波及的其他省级环境保护行政主管部门。接到突发环境事件通报的有关省级环境保护行政主管部门，应视情况及时报告本级人民政府。 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 在突发环境事件信息报告工作中，各级环境保护行政主管部门不按照规定报告或者在报告中弄虚作假，致使事故扩大或者延误事故处理的，按照有关规定，由其所在单位或者上级主管机关对有关责任人给予行政处分，构成犯罪的，由司法机关依法追究刑事责任。 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 因环境问题引发的群体性事件信息报告工作，参照本办法执行。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 各省级环境保护行政主管部门应当于每年1月10日前，将本辖区内上一年度发生的突发环境事件的统计分析情况上报国家环境保护总局。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 本办法自发布之日起实施，《报告环境污染与破坏事故的暂行办法》（环办字〔1987〕317号）同时废止。            <br><br>    附：突发环境事件分级标准（摘自《国家突发环境事件应急预案》）<br><br>     <br><br>    附：<br><br>    突发环境事件分级标准 <br><br>    （摘自《国家突发环境事件应急预案》）<br><br>    1、特别重大环境事件（Ⅰ级）： <br><br>    （1）死亡30人以上，或中毒（重伤）100人以上； <br><br>    （2）因环境事件需疏散、转移群众5万人以上，或直接经济损失1000万元以上； <br><br>    （3）区域生态功能严重丧失或濒危物种生存环境遭到严重污染，或因环境污染使当地正常的经济、社会活动受到严重影响； <br><br>    （4）因环境污染使当地正常的经济、社会活动受到严重影响； <br><br>    （5）利用放射性物质进行人为破坏事件，或1、2类放射源失控造成大范围严重辐射污染后果； <br><br>    （6）因环境污染造成重要城市主要水源地取水中断的污染事故； <br><br>    （7）因危险化学品（含剧毒品）生产和贮运中发生泄漏，严重影响人民群众生产、生活的污染事故； <br><br>    （8）造成跨国（界）的环境污染事件。 <br><br>    2、重大环境事件（Ⅱ级）： <br><br>    （1）发生10人以上、30人以下死亡，或中毒（重伤）50人以上，100人以下； <br><br>    （2）区域生态功能部分丧失或濒危物种生存环境受到污染； <br><br>    （3）因环境污染使当地经济、社会活动受到较大影响，疏散转移群众1万人以上、5万人以下的； <br><br>    （4）1、2类放射源丢失、被盗或失控； <br><br>    （5）因环境污染造成重要河流、湖泊、水库以及沿海水域大面积污染，或县级以上城镇水源地取水中断的污染事件。 <br><br>    3、较大环境事件(Ⅲ级)： <br><br>    （1）发生3人以上、10人以下死亡，或中毒（重伤）10人以上、50人以下； <br><br>    （2）因环境污染造成跨地级行政区纠纷，使当地经济、社会活动受到影响； <br><br>    （3）3类放射源丢失、被盗或失控。 <br><br>    4、一般环境事件（Ⅳ级）： <br><br>    （1）发生3人以下死亡，中毒（重伤）10人以下； <br><br>    （2）因环境污染造成跨县级行政区域纠纷，引起群体性影响的； <br><br>    （3）4、5类放射源丢失、被盗或失控。 <br><br>    上述分级标准有关数量的表述中，“以上”含本数，“以下”不含本数。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

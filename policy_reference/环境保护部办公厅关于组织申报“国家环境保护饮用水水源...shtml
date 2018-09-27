@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】环境保护部<BR>&nbsp;&nbsp;【发布文号】环办函〔2009〕717号<BR>&nbsp;&nbsp;【发布日期】2009-07-16<BR>&nbsp;&nbsp;【生效日期】2009-07-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/bbgth/200907/t20090724_156739.htm" target=_blank>环境保护部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>环境保护部办公厅关于组织申报“国家环境保护饮用水水源地保护重点实验室”和“国家环境保护地下水环境污染模拟与控制重点实验室”的通知<br><br></font>(环办函〔2009〕717号)</p><br><br><br>各省、自治区、直辖市环境保护厅（局），新疆生产建设兵团环境保护局，直属科研单位，有关单位：<br><br>    为全面提升环境科技创新与支撑能力，贯彻实施《国家环境保护重点实验室“十一五”专项规划》，经研究决定，对“国家环境保护饮用水水源地保护重点实验室”和“国家环境保护地下水环境污染模拟与控制重点实验室”公开发布指南，通过择优委托确定建设依托单位。现将有关事项通知如下：<br><br>    一、建设方向<br><br>    1、饮用水水源地保护<br><br>    针对饮用水水源地环境保护，开展饮用水水源地污染调查、评估与风险识别技术研究；研发饮用水水源地污染控制和水质改善技术；开展饮用水水源地环境管理的相关政策法规、技术标准和水质基准研究，为饮用水水源地环境保护提供关键技术和管理支撑。<br><br>    2、地下水环境污染模拟与控制<br><br>    围绕我国地下水环境污染防治，开展地下水污染过程模拟研究，建立地下水环境污染风险识别技术体系；开展地下水污染控制关键技术研究，提出地下水环境污染防治技术体系；开展地下水污染调查、评价和修复技术标准与规范研究，建立地下水环境污染监管技术体系，为地下水环境污染防治提供关键技术和管理支撑。<br><br>    二、申报条件<br><br>    1、符合本通知规定的建设方向。<br><br>    2、具有较强的科研实力和高水平的科研队伍。依托单位有明显的学科特色和优势，有承担国家重大科研任务的能力和业绩，有高水平的学科带头人和结构合理的科研队伍，学术思想活跃，学术气氛良好，具备国内外学术交流与合作的条件和能力。<br><br>    3、具有良好的科研实验条件。实验室科研用房较集中，实验室面积在1000平方米以上，具有较先进的仪器设备，仪器设备总价原则上不低于1500万元。<br><br>    4、具有良好的建设与运行条件。依托单位保证建设期间购置仪器设备的经费不低于500万元，建设期间和建成后每年提供不低于50万元的运行经费，并提供必要的建设与运行条件。<br><br>    三、具体要求<br><br>    1、依托单位需按照建设方向和申报条件，整合本单位资源，使拟建重点实验室成为环境科学基础研究和应用基础研究、聚集和培养优秀科技人才、开展学术交流的重要基地，成为服务于环境管理的科技创新平台。<br><br>    2、依托单位请按照《国家环境保护重点实验室管理办法》，认真编写《国家环境保护饮用水水源地保护（或地下水环境污染模拟与控制）重点实验室建设申请书》（见附件）。<br><br>    3、我部将按照宁缺毋滥的原则，每个建设方向择优遴选不超过1个实验室。请依托单位和主管部门对照建设方向和申报条件，认真衡量，严格把关。<br><br>    4、申报截止时间：2009年9月30日（以邮戳时间为准）。申请书需盖依托单位和主管部门公章，一式三份，由主管部门正式函报我部，并提供申请书及附件的电子文本，逾期我部将不予受理。<br><br>    5、申报工作结束后，环境保护部将按照公开、公正和公平原则，组织同行专家进行评审。重点审查实验室建设方向、已有工作基础、实验条件、科研水平、人才结构、队伍状况、内部管理机制以及依托单位和主管部门的支持力度等。评审以实验室汇报、会议答辩、现场考察等多种方式进行，依托单位需提前做好准备。<br><br>    6、本通知将在环境保护部网站上公布，网址：http://www.mep.gov.cn/tech<br><br>    四、其他<br><br>    联系地址：北京市西城区西直门内南小街115号 环境保护部科技标准司<br><br>    邮政编码：100035<br><br>    联系人：常明 王泽林<br><br>    电话：（010）84913890，66556209<br><br>    E - mail：changming@craes.org.cn <br><br>    附件：国家环境保护XXXX重点实验室建设申请书<br><br>    二○○九年七月十六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

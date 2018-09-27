@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】全国假日旅游部际协调会议办公室<BR>&nbsp;&nbsp;【发布文号】假日办[2005]9号<BR>&nbsp;&nbsp;【发布日期】2005-08-17<BR>&nbsp;&nbsp;【生效日期】2005-08-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cnta.gov.cn/ss/wz_view.asp?id=15495" target=_blank>国家旅游局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>全国假日旅游部际协调会议办公室关于开展2005年“十一”黄金周预报统计工作有关事项的通知<br><br></font>(假日办[2005]9号)</p><br><br><br>北京、上海、天津、重庆、承德、秦皇岛、沈阳、大连、长春、吉林、哈尔滨、南京、无锡、苏州、杭州、宁波、黄山、厦门、南昌、瑞金、青岛、洛阳、武汉、长沙、张家界、韶山、广州、深圳、桂林、海口、三亚、成都、广安、贵阳、遵义、昆明、西安、延安、银川等39个指定重点旅游城市假日旅游协调机构办公室，平遥古城、五台山、千山、周庄、同里古镇、花果山、普陀山、乌镇、千岛湖、九华山、武夷山、庐山、井冈山、泰山、曲阜三孔、嵩山少林、云台山、武当山、三峡大坝、南岳衡山、峨眉山、九寨沟、黄龙、玉龙雪山、布达拉宫、华山、敦煌莫高窟、塔尔寺、天山天池等29个指定重点旅游景区假日旅游指挥或协调机构：<br>    为了确保今年“十一”旅游黄金周预报统计工作的顺利进行，现将有关具体要求通知如下：<br>    一、关于“旅假日综1表”的填报要求<br>    按照《“黄金周”旅游信息统计调查制度》（以下简称《“黄金周”调查制度》）的要求，纳入全国“黄金周”假日旅游预报统计范围的指定重点旅游城市和景区，可以在每次黄金周前重新核报“旅假日综1表”。本次“黄金周”填报“旅假日综1表”的要求如下：<br>    （一）直辖市和计划单列市填报三个重点监测的市内景点，其他城市填报两个重点监测的市内景点；各城市填报的监测景点名称和顺序，经全国假日办核准后不得更改。<br>    （二）对于最佳和最大日接待量变动较大（增加或减少10%以上）的监测景点，要求重新核定其最大和最佳日接待量，并将核定的依据和方案一并传真报送全国假日办统计预报中心。全国假日办统计预报中心的联系传真为：010-65201030、65201031、65201032、65201033、65201034、65201035、65201036；联系人为：曾博伟、赵成；联系电话为：010-65201613，65201612。<br>    （三）请各指定重点旅游城市和景区将核定后的“旅假日综1表”，以传真方式（要求加盖假日办公章并经假日办领导签字），于9月12日前报全国假日办统计预报中心。同时，请在传真中附上统计预报签发人、负责人和填报人的姓名、联系电话、传真、通讯地址和邮政编码。<br><br>    二、9月20日进行“十一”黄金周统计预报模拟测试<br>    为了保障假日旅游预报网络系统在“十一”黄金周预报统计期间顺利运行，全国假日办决定于2005年9月20日，组织纳入全国“十一”黄金周统计预报范围的39个重点旅游城市和29个重点旅游景区，进行模拟填报测试。要求以上城市和景区的假日旅游协调机构于9月20日下午15时--17时，将反映当天实际情况的旅假日综2表----“黄金周”旅游信息预报表和当地“黄金周”接待情况概述，通过点击http://www.cnta.gov.cn（中国旅游网）中的“假日旅游预报”模块，进行填报提交（进入密码同前）。<br><br>    三、预报统计工作的具体时间安排<br>    按照《“黄金周”调查制度》的规定，要求各指定重点旅游城市和景区于9月24日至9月30日（“黄金周”前7天至前1天）每天17时前，填报旅假日综2表和“黄金周”期间本地旅游情况的总体概述；于10月1日至10月7日每天17时前，填报旅假日综3表和当日接待情况总体概述。要求各指定重点旅游城市于10月8日8时前以传真方式填报旅假日综5表；要求各省（自治区）于10月8日12时前以传真方式（传真号码同上文）填报旅假日综6表。综5、6表上报时要求加盖假日办公章并经假日办领导签字。<br><br>    四、关于向中央电视台提供电视资料录像片的要求<br>    为了更好地反映各指定重点旅游城市和景区的形象，请各地继续主动提供生动、丰富、实用的电视资料录像片（请不要使用带台标和以前拍摄的录像带）。具体要求如下：<br>    （一）请各城市和景区安排当地电视台，拍摄一些假日旅游协调指挥部门的工作场景、拟在 “十一”黄金周期间开展的旅游活动场所的场景（所有的场景都要有旅游者的画面）、纳入监测网的各景点场景和游客集中活动的场景。<br>    （二）送交中央电视台录像带的规格必须是专业录像带（不接受其他录像带和光盘），时间要求不超过30分钟。录像带的盒内请附上拍摄场记。<br>    （三）请各城市和景区于9月15日前，以邮政特快专递方式将录像带邮寄到国家旅游局旅游促进与国际联络司信息处，地址：北京建内大街甲9号；邮政编码：100740；联系人：方言；联系电话：010-65201832。<br>    特此通知。<br><br>                                              全国假日旅游部际协调会议办公室<br>                                                  二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

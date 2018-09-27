@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】环境保护部<BR>&nbsp;&nbsp;【发布文号】环发〔2008〕69号<BR>&nbsp;&nbsp;【发布日期】2008-07-24<BR>&nbsp;&nbsp;【生效日期】2008-07-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/info/bgw/bwj/200807/t20080729_126647.htm" target=_blank>环境保护部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>环境保护部关于加强环境影响评价机构及从业人员管理的通知<br><br></font>(环发〔2008〕69号)</p><br><br> <br>各省、自治区、直辖市环境保护局（厅），各环境影响评价机构：<br><br>    近年来，随着我国国民经济的快速发展和环境管理的不断深化，环境影响评价业务量明显上升。与此同时，环境影响评价队伍建设呈现良好发展态势,环境影响评价机构及从业人员规模持续扩大，环境影响评价工程师职业资格制度稳步推进，环境影响评价工作水平进一步提升，为环境影响评价制度的执行发挥了重要的技术支持作用。但是，在环境影响评价工作中仍然存在一些问题。如，部分环境影响评价机构工作质量不高，内部管理松散，出借资质以及人员“挂靠”等，影响了环境影响评价法律制度的严肃性，干扰了环境影响评价市场秩序。为加强环境影响评价机构及从业人员管理，促进环境影响评价队伍健康发展，现将有关要求通知如下：<br><br>    一、加强环境影响评价机构及从业人员考核与监督，建立国家与地方环保部门上下联动的管理机制<br><br>    各级环境保护行政主管部门应加强对辖区内开展业务的环境影响评价机构及从业人员的业务指导，在环境影响评价文件审批过程中，对环境影响评价机构及从业人员的工作质量进行日常考核，并定期在当地环境保护政府网站公布考核结果；对日常考核中存在《建设项目环境影响评价资质管理办法》（原国家环境保护总局令第26号）第三十八条所列情形的环境影响评价文件，应予退回，计入环境影响评价机构日常考核结果，向上级环境保护行政主管部门报告，并对编制该环境影响评价文件的机构和相关人员提出处罚建议。<br><br>    各省级环境保护行政主管部门应设专人负责环境影响评价机构及从业人员管理工作，组织开展辖区内环境影响评价机构及从业人员的业务培训和技术交流，定期开展辖区内环境影响评价机构年度考核，检查其工作条件、人员条件、管理机制、工作质量等情况，并于次年三月底前将环境影响评价机构日常考核和年度考核结果报送我部。<br><br>    各级环境保护行政主管部门应努力营造公平、公正的环境影响评价工作氛围，做好引导和服务，不得干涉建设单位自主选择环境影响评价机构；不得限制外系统、外地区环境影响评价机构在本地区承接环境影响评价业务；鼓励建设单位采取公开招标的方式，选择环境影响评价机构。同时，各级环境保护行政主管部门应按照有关规定，加大对辖区内外埠环境影响评价机构的分支机构或办事机构的监督管理力度,杜绝个人或无资质机构从事环境影响评价业务。我部将于近期在政府网站建立《全国环境影响评价资质管理系统》，进一步方便公众查询各环境影响评价机构资质、业绩及其专职技术人员等情况，并接受社会监督。<br><br>    二、规范申报和审查程序,严格环境影响评价资质审查<br><br>    我部审查环境影响评价资质申请机构申报材料时，向申请机构所在地省级环境保护行政主管部门征求意见的，各省级环境保护行政主管部门应对申请机构的办公条件、专职人员、内部管理以及工作业绩等情况进行全面核查，并综合考虑当地环境影响评价机构行业、地域分布和申请机构专业特点，结合申请机构综合实力和日常表现，及时向我部反馈书面意见。首次申请资质、申请调整评价范围、申请晋升资质等级以及因改制、分立或合并等原因申请名称变更的机构，亦可先行征求所在地省级环境保护行政主管部门意见。<br><br>    环境影响评价资质申请机构要防止资质申请的盲目性和随意性，如实提交有关材料和反映真实情况，并对其申请材料内容的真实性负责。环境保护行政主管部门在对申请材料内容进行核查过程中，确需申请机构补充提交相关材料的，申请机构应按要求一次性补齐。申请晋升甲级资质的机构，一般应具备五年以上环境影响评价工作经历，并具有良好的工作业绩；申请扩大评价范围的机构，一般应在现有评价范围工作一年以上;同一法定代表人的机构和同一出资人设立或控股的机构只可申请一个环境影响评价资质。<br><br>    三、健全环境影响评价工作质量保证体系，提升环境影响评价机构内部管理水平<br><br>    环境影响评价机构须建立健全内部管理和质量保证体系，实行环境影响评价工程师和环境影响评价机构双重把关的环境影响评价文件质量审核机制，并认真分析、审核协作单位提供的相关技术报告和监测数据，严格执行环境影响评价资质证书使用、环境影响评价文件编制规范和专职技术人员签字等相关要求。<br><br>    环境影响评价机构承接的环境影响评价业务，必须与所具备的资质等级和评价范围相一致。承接环境影响评价业务时，必须与建设单位签订书面委托合同或协议，并严格执行国家规定的收费标准，严禁借用和出借资质证书。书面委托合同或协议不得由其分支机构、办事机构代签或通过个人、其他中介机构签订。两个或两个以上环境影响评价机构合作编制的环境影响评价文件，应由主持机构的环境影响评价工程师作为项目负责人。<br><br>    环境影响评价机构应对所承接项目建立完整档案，档案中应包括环境影响评价文件纸件和电子件、环境保护行政主管部门相关批复文件、项目委托合同或协议、环境监测报告以及公众参与材料等相关文件和资料的原件。<br><br>    环境影响评价机构应及时掌握本机构环境影响评价从业人员情况和所承接项目情况，严格执行年度业绩报告制度，于每年三月底前将上年度《建设项目环境影响评价机构年度业绩报告表》报我部，同时抄报所在地省级环境保护行政主管部门。<br><br>    四、开展专项检查工作，加强环境影响评价工程师职业资格登记管理<br><br>    针对目前部分环境影响评价机构专职技术人员“挂靠”现象，我部将开展环境影响评价工程师职业资格登记情况专项清理整顿工作，对登记在兼职单位或非供职单位的“挂靠”环境影响评价工程师予以清理，并对存在此类问题的环境影响评价机构资质予以重新审查。<br><br>    专项清理整顿工作分自查、复核和抽查三个阶段。2008年9月底前，各环境影响评价机构完成自查。2008年10月底前，省级环境保护行政主管部门完成本辖区环境影响评价机构自查情况的复核，将复核中发现的问题及处理建议报我部。我部将适时进行抽查。 <br><br>二○○八年七月二十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】贵州省<BR>&nbsp;&nbsp;【发布文号】黔府办发 〔2009〕 32号<BR>&nbsp;&nbsp;【发布日期】2009-04-01<BR>&nbsp;&nbsp;【生效日期】2009-04-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gzgov.gov.cn/pages/zcfg/showzcfg.asp?id=1719" target=_blank>贵州省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>贵州省人民政府办公厅关于加快整合技改煤矿建设进度进一步做好安全生产工作的通知<br><br></font>(黔府办发 〔2009〕 32号)</p><br><br> <br>各自治州、市人民政府，各地区行署，各县（自治县、市、市辖区、特区）人民政府，省政府各部门、各直属机构：<br>    近年来，按照国家、省的统一部署和保障煤炭供应的要求，我省绝大多数整合技改煤矿积极组织建设，并采取保留一套独立生产系统的过渡措施缓解电煤供求矛盾，对保障全省经济社会发展发挥了积极作用。但是，部分整合技改煤矿建设进度缓慢，特别是少数业主假借保留一套独立生产系统的名义，重生产，轻整合技改，弄虚作假，在关闭煤矿内非法生产，造成安全事故频发，给人民生命财产造成重大损失。为进一步加快推进全省整合技改煤矿建设进度，认真做好保留一套独立生产系统安全生产工作，经省人民政府同意，现就有关事项通知如下：<br>    一、加强县乡工作力度。各产煤县（市、区）、乡（镇）要立即成立加快推进煤矿整合技改建设进度和做好保留一套独立生产系统安全工作领导小组（以下简称县、乡领导小组），由县、乡政府主要负责人任组长，同级煤管、安全监管、国土资源、公安、工商、环保、劳动保障、监察、电力等部门主要负责人为成员，负责督促辖区内整合技改煤矿加快建设进度，对保留一套独立生产系统安全监管负直接责任，严厉打击非法、违法违规生产行为。<br>    各县、乡领导小组每月必须对本辖区整合技改煤矿建设进度和保留一套独立生产系统安全生产情况组织一次全面检查。凡达不到安全生产条件、超层越界的，存在瓦斯突出、自燃发火、水害威胁等重大安全生产隐患的，与整合技改工程发生关联的，转让和劳务承包的，取消保留一套独立生产系统的资格。乡领导小组组长每月至少一次深入井下，检查整合技改煤矿建设进度和保留一套独立生产系统安全生产情况。<br>    二、落实主体责任。煤矿企业法定代表人是安全生产第一责任人，必须全面落实安全生产主体责任，每月至少组织一次全面隐患排查排除治理，并向县、乡领导小组上报隐患排查排除治理情况。煤矿整合技改建设和保留一套独立生产系统必须在同一法人主体下组织实施，并将保留一套独立生产系统按生产煤矿安全生产要求进行管理。<br>    三、签订目标责任。各整合技改煤矿要于2009年4月15日前与乡领导小组签订建设进度目标责任书，责任书签订后由乡领导小组报县领导小组备案。各整合技改煤矿务必按省批准的设计方案和工期要求编制施工进度表和安全生产措施进行施工建设，只能提前，不得延后，整合技改煤矿凡是一个季度内未完成进度的，停止其保留一套独立生产系统的生产；半年内未完成进度的，取消其保留一套生产系统的资格。各市（州、地）政府（行署）于2009年4月30日前对责任书签订和执行情况进行督促检查，并将有关情况报省人民政府。<br>    四、实行挂牌管理。保留一套独立生产系统必须经省批准，经县领导小组组织检查验收合格后现场挂牌，准予供电、火工品供应、煤炭准运准销和正常组织生产。否则，摘牌停产整顿。挂牌工作必须在2009年4月20日前完成。不符合安全生产条件被摘牌的，公安机关不得提供火工品，供电部门不得提供生产用电，煤炭管理部门不得提供煤炭准运准销证，严厉打击非法违法生产行为。对不履行其职责的地方政府和有关部门，要严肃追究当事人和负责人责任。<br>    五、建立举报监督和工作报告制度。各市（州、地）政府（行署）每月10日前将辖区内所有整合技改煤矿、保留一套独立生产系统有关情况上报省煤管局、省安全监管局。省煤管局、省安全监管局和各市（州、地）将所有整合技改煤矿建设进度、保留一套独立生产系统安全生产情况、各煤矿挂牌等有关情况在网络上向社会进行动态公示，接受社会监督。查实对非法违法生产、重大安全生产隐患的举报，要给予奖励。（省国土资源厅举报电话0851-6821919，省煤管局举报电话0851-6891328，省安全监管局举报电话0851-6824213）<br>    六、严肃事故责任追究。凡保留一套独立生产系统矿井发生一次较大以上安全事故的，取消该保留一套独立生产系统资格，按事故调查有关规定追究责任，所在乡（镇）所有保留一套独立生产系统矿井全部停产整顿，停产整顿及复产验收由县（市、区）组织实施。凡保留一套独立生产系统矿井一年内发生二起较大安全事故的县，所在县保留一套独立生产系统矿井全部停产整顿，停产整顿及复产验收由市（州、地）组织实施。<br>    七、定期检查和抽查。省相关部门、各市（地、州）政府（行署）要定期组织对整合技改煤矿和保留一套独立生产系统矿井进行检查和抽查。对检查中发现不按本通知执行的，要依法取消整合技改和保留一套独立生产系统的资格。<br>    <br>                                                                  贵州省人民政府办公厅<br>                                                                  二○○九年四月一日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

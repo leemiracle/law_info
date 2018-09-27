@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】福建省<BR>&nbsp;&nbsp;【发布文号】闽政办[2007]47号<BR>&nbsp;&nbsp;【发布日期】2007-03-28<BR>&nbsp;&nbsp;【生效日期】2007-03-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.fj.gov.cn/gazette/display.jsp?id=12474" target=_blank>福建省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>福建省人民政府办公厅转发国务院办公厅关于严厉打击非法发行股票和非法经营证券业务有关问题的通知<br><br></font>(闽政办[2007]47号)</p><br><br><br>各市、县（区）人民政府，省人民政府各部门、各直属机构：<br><br>    现将《国务院办公厅关于严厉打击非法发行股票和非法经营证券业务有关问题的通知》（国办发〔2006〕99号）转发给你们，并结合我省实际，提出以下意见，请一并贯彻执行。<br><br>    一、提高思想认识。近年来，非法发行股票和非法经营证券业务（下称非法证券活动）在我省福州、三明、宁德、莆田、泉州等地区时有发生，2006年福建证监局就接到此类投诉99件，涉及非法中介机构78家。其主要形式：一是以“证券投资咨询公司”、“产权经纪公司”、“外国资本公司或集团公司驻中国代表处”等名义，未经法定机关批准，向社会公众非法买卖或代理买卖未上市公司股票;二是以“证券投资咨询公司”为名义，未经法定机关批准，利用互联网非法向社会公众从事证券投资咨询、证券投资基金销售或委托理财业务;三是非法中介机构通常采用公告、广播、电传信息、电话、说明会、联谊会、推荐会、朋友介绍等方式，编造虚假信息，以高额回报为诱饵，诈骗群众钱财。非法证券活动欺骗性强、手段隐蔽、社会危害性大；如打击不力，将影响我省经济社会稳定和金融安全。各级各部门要从构建社会主义和谐社会和“平安福建”，全面推进海峡西岸经济区建设的高度，充分认识非法证券活动的危害性，提高维护金融安全的敏锐性，增强打击非法证券活动的责任感，结合新修订的《公司法》和《证券法》的贯彻实施，加强联合执法，严肃查处案件，制订风险处置预案，建立健全防范和打击非法证券活动的长效机制，有效打击和遏制非法证券活动。<br><br>    二、加强组织领导。根据国务院办公厅有关文件要求，建立由福建证监局、省公安厅、省工商局，人民银行福州中心支行、福建银监局并邀请省法院、省检察院等有关单位参加的省打击非法证券活动联席会议制度，并根据需要不定期召开工作会议，省政府分管副秘书长和福建证监局局长为召集人。联席会议的主要职责是：（一）贯彻落实国务院和国家有关机关及省委、省政府关于整治非法证券活动的决定和部署，根据国家有关法律法规组织制定整治非法证券活动的有关文件，提供政策解释，保证及时有效地查处案件。（二）根据相关单位的要求，组织对涉嫌非法证券活动进行性质认定，并由有关部门做出认定结论。（三）指导、配合各设区市（不含厦门）人民政府建立整治非法证券活动协调机制，指导、督促地方人民政府和相关部门按照整治非法证券活动工作要求，做好相关工作。（四）组织指导整治非法证券活动宣传和投资者教育。（五）协调解决打击非法证券活动工作中出现的问题，并加强有关部门、各地区间信息沟通与交流。（六）完成省人民政府交办的其他事项。联席会议办公室设在福建证监局。各地非法证券活动查处和善后工作按属地原则，由所在地人民政府负责；涉及多个设区市的，由公司注册地的设区市人民政府牵头负责；福建证监局、省直有关部门和相关设区市要予以积极支持配合。涉嫌犯罪的，应及时移送公安机关立案查处，并依法追究刑事责任。未构成犯罪的，由福建证监局、工商行政管理部门根据各自职责依法作出行政处罚。<br><br>    三、重视宣传教育。各级政府各有关部门要以近期我省金融机构开展的“打击非法金融活动，维护百姓合法金融权益”专项宣传活动为契机，广泛利用报纸、电视、广播和互联网等传媒，多方位、多角度地宣传国家的相关法规、政策，以及非法证券活动的表现形式、特点、典型案例等，提高广大投资者的风险意识和识别能力，自觉做到知法、守法，维护自身合法权益。<br><br>福建省人民政府办公厅<br>二○○七年三月二十八日<br><br><br>国务院办公厅关于严厉打击非法发行股票<br>和非法经营证券业务有关问题的通知<br>国办发〔2006〕99号<br><br>各省、自治区、直辖市人民政府，国务院各部委、各直属机构：<br><br>    近年来，非法发行股票和非法经营证券业务（以下简称非法证券活动）在我国部分地区时有发生，个别地区甚至出现蔓延势头，严重危害社会稳定和金融安全。为贯彻落实公司法和证券法有关规定，维护证券市场正常秩序和广大投资者的合法权益，经国务院同意，现就严厉打击非法证券活动有关问题通知如下：<br><br>    一、提高认识，统一思想，坚决遏制非法证券活动蔓延势头<br><br>    非法证券活动具有手段隐蔽、欺骗性强、蔓延速度快、易反复等特点，涉及人数众多，投资者多为退休人员、下岗职工等困难群众，容易引发群体事件。当前，非法证券活动的主要形式为：一是编造公司即将在境内外上市或股票发行获得政府部门批准等虚假信息，诱骗社会公众购买所谓“原始股”；二是非法中介机构以“投资咨询机构”、“产权经纪公司”、“外国资本公司或投资公司驻华代表处”的名义，未经法定机关批准，向社会公众非法买卖或代理买卖未上市公司股票；三是不法分子以证券投资为名，以高额回报为诱饵，诈骗群众钱财。<br><br>    地方各级人民政府、国务院有关部门要进一步统一思想，高度重视，充分认识非法证券活动的危害性，增强政治责任感。要完善打击非法证券活动的政策法规和联合执法机制，查处一批大案要案，依法追究有关人员的责任，建立健全防范和打击非法证券活动的长效机制，从根本上遏制非法证券活动蔓延势头。<br><br>    二、明确分工，加强配合，形成打击非法证券活动的执法合力<br><br>    为加强组织领导，由证监会牵头，公安部、工商总局、银监会并邀请高法院、高检院等有关单位参加，成立打击非法证券活动协调小组，负责打击非法证券活动的组织协调、政策解释、性质认定等工作。协调小组办公室设在证监会。证监会要组织专门机构和得力人员，明确职责，加强沟通，与相关部门和省级人民政府建立反应灵敏、配合密切、应对有力的工作机制。<br><br>    非法证券活动查处和善后处理工作按属地原则由各省、自治区、直辖市及计划单列市人民政府负责。非法证券活动经证监会及其派出机构认定后，省级人民政府要负责做好本地区案件查处和处置善后工作。涉及多个省（区、市）的，由公司注册地的省级人民政府牵头负责，相关省（区、市）要予以积极支持配合。发现涉嫌犯罪的，应及时移送公安机关立案查处，并依法追究刑事责任。未构成犯罪的，由证券监管部门、工商行政管理部门根据各自职责依法作出行政处罚。<br><br>    地方各级人民政府要高度重视，统筹安排，周密部署，建立起群众举报、媒体监督、日常监管和及时查处相结合的非法证券活动防范和预警机制，制订风险处置预案。对近年来案件多发的地区，有关地方人民政府要迅速开展查处、取缔工作，果断处置，集中查处一批典型案件并公开报道，震慑犯罪分子，教育人民群众，维护社会稳定。<br><br>    三、明确政策界限，依法进行监管<br><br>    （一）严禁擅自公开发行股票。向不特定对象发行股票或向特定对象发行股票后股东累计超过200人的，为公开发行，应依法报经证监会核准。未经核准擅自发行的，属于非法发行股票。<br><br>    （二）严禁变相公开发行股票。向特定对象发行股票后股东累计不超过200人的，为非公开发行。非公开发行股票及其股权转让，不得采用广告、公告、广播、电话、传真、信函、推介会、说明会、网络、短信、公开劝诱等公开方式或变相公开方式向社会公众发行。严禁任何公司股东自行或委托他人以公开方式向社会公众转让股票。向特定对象转让股票，未依法报经证监会核准的，转让后，公司股东累计不得超过200人。<br><br>    （三）严禁非法经营证券业务。股票承销、经纪（代理买卖）、证券投资咨询等证券业务由证监会依法批准设立的证券机构经营，未经证监会批准，其他任何机构和个人不得经营证券业务。<br><br>    违反上述三项规定的，应坚决予以取缔，并依法追究法律责任。<br><br>    证监会要根据公司法和证券法有关规定，尽快研究制订有关公开发行股票但不在证券交易所上市的股份有限公司（以下简称非上市公众公司）管理规定，明确非上市公众公司设立和发行的条件、发行审核程序、登记托管及转让规则等，将非上市公众公司监管纳入法制轨道。<br><br>    四、加强舆论引导和对投资者教育<br><br>    证监会、公安部等有关部门要指导地方各级人民政府，广泛利用报纸、电视、广播、互联网等传媒手段，多方位、多角度地宣传非法证券活动的表现形式、特点、典型案例及其严重危害，提高广大投资者对非法证券活动的风险意识和辨别能力，预防非法证券活动的发生，防患于未然。<br><br>中华人民共和国国务院办公厅<br>二○○六年十二月十二日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

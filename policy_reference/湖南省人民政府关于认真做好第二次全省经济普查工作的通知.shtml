@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖南省<BR>&nbsp;&nbsp;【发布文号】湘政发〔2008〕6号<BR>&nbsp;&nbsp;【发布日期】2008-04-14<BR>&nbsp;&nbsp;【生效日期】2008-04-14<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hunan.gov.cn/zwgk/zfwj/szfwj/200805/t20080505_106092.htm" target=_blank>湖南省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖南省人民政府关于认真做好第二次全省经济普查工作的通知<br> <br></font>(湘政发〔2008〕6号)</p><br><br>  <br>各市州、县市区人民政府，省政府各厅委、各直属机构： <br>    为了贯彻落实《国务院关于开展第二次全国经济普查的通知》（国发〔2007〕35号）精神，组织好第二次全省经济普查工作，现将有关事项通知如下： <br>    一、普查的意义和目的 <br>    全面调查了解全省第二产业和第三产业的发展规模及布局；了解产业组织、产业结构、产业技术现状以及各生产要素的构成；摸清全省各类企业和单位能源消耗的基本情况；建立健全覆盖国民经济各行业的基本单位名录库、基础信息数据库和统计电子地理信息系统。通过普查，进一步夯实统计基础，特别是加强服务业统计基础，完善国民经济核算和节能减排统计制度，为深入贯彻落实科学发展观，加强和改善宏观调控，科学制定全省中长期发展规划，提供科学准确的统计信息支持，更好地为各级政府宏观管理和科学决策服务。 <br>    二、普查的对象和范围 <br>    此次经济普查的对象是在我省境内从事第二产业和第三产业的全部法人单位、产业活动单位和个体经营户。具体范围包括：采矿业，制造业，电力、燃气及水的生产和供应业，建筑业，交通运输、仓储和邮政业，信息传输、计算机服务和软件业，批发和零售业，住宿和餐饮业，金融业，房地产业，租赁和商务服务业，科学研究、技术服务和地质勘查业，水利、环境和公共设施管理业，居民服务和其他服务业，教育，卫生、社会保障和社会福利业，文化、体育和娱乐业，以及公共管理与社会组织等。 <br>    三、普查的内容和时间 <br>    普查的内容主要包括单位基本属性、从业人员、财务状况、生产经营情况、生产能力、能源消耗、科技活动情况等。 <br>    普查的标准时点是2008年12月31日，时期资料为2008年度。 <br>    四、普查的组织和实施 <br>    为了加强组织领导，省人民政府决定成立湖南省第二次经济普查领导小组，负责普查的组织和实施。普查领导小组办公室设在省统计局，具体负责普查工作的日常组织协调。领导小组各成员单位要协同配合，各负其责。省委宣传部负责协调普查宣传动员方面的事项，省财政厅负责协调普查经费方面的事项，省发改委负责协调普查物资保障方面的事项，省工商局、省国税局和省地税局负责协调企业和个体工商户名录库方面的事项，省编办负责协调机关和事业单位名录方面的事项，省民政厅负责协调社团和非企业单位名录方面的事项，省质监局负责协调组织机构代码方面的事项，监察厅负责协调查处各级政府及其普查工作人员在普查工作中违法违纪行为的事项，省政府其他有关部门，也要按照全省统一部署，各司其职、各负其责、通力协作、密切配合。中央在湘系统、省直属系统，可单独组织或会同省第二次经济普查领导小组办公室共同组织本系统的经济普查工作。 <br>    各市州、县市区人民政府要成立相应的普查领导小组及其办公室，认真做好辖区内的经济普查工作。对于普查工作中遇到的困难和问题，要及时采取措施，切实予以解决。要充分发挥街道办事处和居民委员会、乡镇政府和村民委员会的作用，广泛动员和组织社会力量积极参与并认真配合做好普查工作。 <br>    五、普查的经费保障 <br>    根据国务院有关规定，普查所需经费由中央和地方各级人民政府共同负担，并列入相应年度的财政预算，各市州、县市区人民政府要切实落实普查经费，按时拨付，确保到位。 <br>    六、普查的工作要求 <br>    各级人民政府要认真组织实施，切实防止人为干扰普查工作的现象。所有普查对象必须严格按照《中华人民共和国统计法》和《全国经济普查条例》的规定，按时、如实地填报普查表。任何单位和个人不得以“挂牌保护”等借口拒绝阻扰普查员入户进行普查登记，任何单位和个人不得虚报、瞒报、拒报、迟报、伪造、篡改普查数据。统计执法机构和监察部门要加大对普查工作中出现的违法违纪现象的查处力度，公安机关对普查过程中出现的违法犯罪行为要依法及时处理，保证普查工作依法进行。经济普查取得的单位和个人资料，严格限定用于普查目的，不作为任何单位对普查对象实施处罚的依据。各级普查机构及其工作人员，对在普查中所知悉的国家秘密和普查对象的商业秘密，履行保密义务。 <br>    加强宣传工作。经济普查是一项重大的国情国力普查。各级普查机构要充分利用互联网、广播、电视和报刊等多种媒介，充分发挥移动、联通公司网络公益短信的优势，广泛深入地宣传经济普查的重要意义及有关要求，宣传普查工作中涌现出的典型事迹以及违法违纪案件查处情况等。通过宣传，教育广大普查人员依法开展普查，号召广大普查对象依法配合普查工作，为普查工作的顺利实施创造良好的舆论环境。 <br><br>湖南省人民政府 <br>二○○八年四月十四日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-10-25<BR>&nbsp;&nbsp;【生效日期】2006-10-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cbrc.gov.cn/mod_cn00/jsp/cn004002.jsp?infoID=2835&type=1" target=_blank>中国银行业监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商业银行合规风险管理指引</font></p><br><br><br>    <font class='zhang'>第一章</font> 总  则 <br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a>  为加强商业银行合规风险管理，维护商业银行安全稳健运行，根据《<a href=javascript:ROF(90481,0) class=alink>中华人民共和国银行业监督管理法</a>》和《<a href=javascript:ROF(90483,0) class=alink>中华人民共和国商业银行法</a>》，制定本指引。 <br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a>  在中华人民共和国境内设立的中资商业银行、外资独资银行、中外合资银行和外国银行分行适用本指引。 <br><br>    在中华人民共和国境内设立的政策性银行、金融资产管理公司、城市信用合作社、农村信用合作社、信托投资公司、企业集团财务公司、金融租赁公司、汽车金融公司、货币经纪公司、邮政储蓄机构以及经银监会批准设立的其他金融机构参照本指引执行。 <br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a>  本指引所称法律、规则和准则，是指适用于银行业经营活动的法律、行政法规、部门规章及其他规范性文件、经营规则、自律性组织的行业准则、行为守则和职业操守。 <br><br>    本指引所称合规，是指使商业银行的经营活动与法律、规则和准则相一致。 <br><br>    本指引所称合规风险，是指商业银行因没有遵循法律、规则和准则可能遭受法律制裁、监管处罚、重大财务损失和声誉损失的风险。 <br><br>    本指引所称合规管理部门，是指商业银行内部设立的专门负责合规管理职能的部门、团队或岗位。 <br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a>  合规管理是商业银行一项核心的风险管理活动。商业银行应综合考虑合规风险与信用风险、市场风险、操作风险和其他风险的关联性，确保各项风险管理政策和程序的一致性。 <br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a>  商业银行合规风险管理的目标是通过建立健全合规风险管理框架，实现对合规风险的有效识别和管理，促进全面风险管理体系建设，确保依法合规经营。 <br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a>  商业银行应加强合规文化建设，并将合规文化建设融入企业文化建设全过程。 <br><br>    合规是商业银行所有员工的共同责任，并应从商业银行高层做起。 <br><br>    董事会和高级管理层应确定合规的基调，确立全员主动合规、合规创造价值等合规理念，在全行推行诚信与正直的职业操守和价值观念，提高全体员工的合规意识，促进商业银行自身合规与外部监管的有效互动。 <br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a>  银监会依法对商业银行合规风险管理实施监管，检查和评价商业银行合规风险管理的有效性。<br><br>    <font class='zhang'>第二章</font> 董事会、监事会和高级管理层的合规管理职责 <br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a>  商业银行应建立与其经营范围、组织结构和业务规模相适应的合规风险管理体系。 <br><br>    合规风险管理体系应包括以下基本要素： <br><br>    （一）合规政策； <br><br>    （二）合规管理部门的组织结构和资源； <br><br>    （三）合规风险管理计划； <br><br>    （四）合规风险识别和管理流程； <br><br>    （五）合规培训与教育制度。 <br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a>  商业银行的合规政策应明确所有员工和业务条线需要遵守的基本原则，以及识别和管理合规风险的主要程序，并对合规管理职能的有关事项做出规定，至少应包括： <br><br>    （一）合规管理部门的功能和职责； <br><br>    （二）合规管理部门的权限，包括享有与银行任何员工进行沟通并获取履行职责所需的任何记录或档案材料的权利等； <br><br>    （三）合规负责人的合规管理职责； <br><br>    （四）保证合规负责人和合规管理部门独立性的各项措施，包括确保合规负责人和合规管理人员的合规管理职责与其承担的任何其他职责之间不产生利益冲突等； <br><br>    （五）合规管理部门与风险管理部门、内部审计部门等其他部门之间的协作关系； <br><br>    （六）设立业务条线和分支机构合规管理部门的原则。 <br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a>  董事会应对商业银行经营活动的合规性负最终责任，履行以下合规管理职责： <br><br>    （一）审议批准商业银行的合规政策，并监督合规政策的实施； <br><br>    （二）审议批准高级管理层提交的合规风险管理报告，并对商业银行管理合规风险的有效性作出评价，以使合规缺陷得到及时有效的解决； <br><br>    （三）授权董事会下设的风险管理委员会、审计委员会或专门设立的合规管理委员会对商业银行合规风险管理进行日常监督； <br><br>    （四）商业银行章程规定的其他合规管理职责。 <br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a>  负责日常监督商业银行合规风险管理的董事会下设委员会应通过与合规负责人单独面谈和其他有效途径，了解合规政策的实施情况和存在的问题，及时向董事会或高级管理层提出相应的意见和建议，监督合规政策的有效实施。 <br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a>  监事会应监督董事会和高级管理层合规管理职责的履行情况。 <br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a>  高级管理层应有效管理商业银行的合规风险，履行以下合规管理职责： <br><br>    （一）制定书面的合规政策，并根据合规风险管理状况以及法律、规则和准则的变化情况适时修订合规政策，报经董事会审议批准后传达给全体员工； <br><br>    （二）贯彻执行合规政策，确保发现违规事件时及时采取适当的纠正措施，并追究违规责任人的相应责任； <br><br>    （三）任命合规负责人，并确保合规负责人的独立性； <br><br>    （四）明确合规管理部门及其组织结构，为其履行职责配备充分和适当的合规管理人员，并确保合规管理部门的独立性； <br><br>    （五）识别商业银行所面临的主要合规风险，审核批准合规风险管理计划，确保合规管理部门与风险管理部门、内部审计部门以及其他相关部门之间的工作协调； <br><br>    （六）每年向董事会提交合规风险管理报告，报告应提供充分依据并有助于董事会成员判断高级管理层管理合规风险的有效性； <br><br>    （七）及时向董事会或其下设委员会、监事会报告任何重大违规事件； <br><br>    （八）合规政策规定的其他职责。 <br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a>  合规负责人应全面协调商业银行合规风险的识别和管理，监督合规管理部门根据合规风险管理计划履行职责，定期向高级管理层提交合规风险评估报告。合规负责人不得分管业务条线。 <br><br>    合规风险评估报告包括但不限于以下内容：报告期合规风险状况的变化情况、已识别的违规事件和合规缺陷、已采取的或建议采取的纠正措施等。 <br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a>  商业银行应建立对管理人员合规绩效的考核制度。商业银行的绩效考核应体现倡导合规和惩处违规的价值观念。 <br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a>  商业银行应建立有效的合规问责制度，严格对违规行为的责任认定与追究，并采取有效的纠正措施，及时改进经营管理流程，适时修订相关政策、程序和操作指南。 <br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a>  商业银行应建立诚信举报制度，鼓励员工举报违法、违反职业操守或可疑行为，并充分保护举报人。 <br><br>    <font class='zhang'>第三章</font>  合规管理部门职责 <br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a>  合规管理部门应在合规负责人的管理下协助高级管理层有效识别和管理商业银行所面临的合规风险，履行以下基本职责： <br><br>    （一）持续关注法律、规则和准则的最新发展，正确理解法律、规则和准则的规定及其精神，准确把握法律、规则和准则对商业银行经营的影响，及时为高级管理层提供合规建议； <br><br>    （二）制定并执行风险为本的合规管理计划，包括特定政策和程序的实施与评价、合规风险评估、合规性测试、合规培训与教育等； <br><br>    （三）审核评价商业银行各项政策、程序和操作指南的合规性，组织、协调和督促各业务条线和内部控制部门对各项政策、程序和操作指南进行梳理和修订，确保各项政策、程序和操作指南符合法律、规则和准则的要求； <br><br>    （四）协助相关培训和教育部门对员工进行合规培训，包括新员工的合规培训，以及所有员工的定期合规培训，并成为员工咨询有关合规问题的内部联络部门； <br><br>    （五）组织制定合规管理程序以及合规手册、员工行为准则等合规指南，并评估合规管理程序和合规指南的适当性，为员工恰当执行法律、规则和准则提供指导； <br><br>    （六）积极主动地识别和评估与商业银行经营活动相关的合规风险，包括为新产品和新业务的开发提供必要的合规性审核和测试，识别和评估新业务方式的拓展、新客户关系的建立以及客户关系的性质发生重大变化等所产生的合规风险； <br><br>    （七）收集、筛选可能预示潜在合规问题的数据，如消费者投诉的增长数、异常交易等，建立合规风险监测指标，按照风险矩阵衡量合规风险发生的可能性和影响，确定合规风险的优先考虑序列； <br><br>    （八）实施充分且有代表性的合规风险评估和测试，包括通过现场审核对各项政策和程序的合规性进行测试，询问政策和程序存在的缺陷，并进行相应的调查。合规性测试结果应按照商业银行的内部风险管理程序，通过合规风险报告路线向上报告，以确保各项政策和程序符合法律、规则和准则的要求； <br><br>    （九）保持与监管机构日常的工作联系，跟踪和评估监管意见和监管要求的落实情况。 <br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a>  商业银行应为合规管理部门配备有效履行合规管理职能的资源。合规管理人员应具备与履行职责相匹配的资质、经验、专业技能和个人素质。 <br><br>    商业银行应定期为合规管理人员提供系统的专业技能培训，尤其是在正确把握法律、规则和准则的最新发展及其对商业银行经营的影响等方面的技能培训。 <br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a>  商业银行各业务条线和分支机构的负责人应对本条线和本机构经营活动的合规性负首要责任。 <br><br>    商业银行应根据业务条线和分支机构的经营范围、业务规模设立相应的合规管理部门。 <br><br>    各业务条线和分支机构合规管理部门应根据合规管理程序主动识别和管理合规风险，按照合规风险的报告路线和报告要求及时报告。 <br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a>  商业银行应建立合规管理部门与风险管理部门在合规管理方面的协作机制。 <br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a>  商业银行合规管理职能应与内部审计职能分离，合规管理职能的履行情况应受到内部审计部门定期的独立评价。 <br><br>    内部审计部门应负责商业银行各项经营活动的合规性审计。内部审计方案应包括合规管理职能适当性和有效性的审计评价，内部审计的风险评估方法应包括对合规风险的评估。 <br><br>    商业银行应明确合规管理部门与内部审计部门在合规风险评估和合规性测试方面的职责。内部审计部门应随时将合规性审计结果告知合规负责人。 <br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a>  商业银行应明确合规风险报告路线以及合规风险报告的要素、格式和频率。 <br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a>  商业银行境外分支机构或附属机构应加强合规管理职能，合规管理职能的组织结构应符合当地的法律和监管要求。 <br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a>  董事会和高级管理层应对合规管理部门工作的外包遵循法律、规则和准则负责。 <br><br>    商业银行应确保任何合规管理部门工作的外包安排都受到合规负责人的适当监督，不妨碍银监会的有效监管。 <br><br>    <font class='zhang'>第四章</font>  合规风险监管 <br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a>  商业银行应及时将合规政策、合规管理程序和合规指南等内部制度向银监会备案。 <br><br>    商业银行应及时向银监会报送合规风险管理计划和合规风险评估报告。 <br><br>    商业银行发现重大违规事件应按照重大事项报告制度的规定向银监会报告。 <br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a>  商业银行任命合规负责人，应按有关规定报告银监会。商业银行在合规负责人离任后的十个工作日内，应向银监会报告离任原因等有关情况。 <br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a>  银监会应定期对商业银行合规风险管理的有效性进行评价，评价报告作为分类监管的重要依据。 <br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a>  银监会应根据商业银行的合规记录及合规风险管理评价报告，确定合规风险现场检查的频率、范围和深度，检查的主要内容包括： <br><br>    （一）商业银行合规风险管理体系的适当性和有效性； <br><br>    （二）商业银行董事会和高级管理层在合规风险管理中的作用； <br><br>    （三）商业银行绩效考核制度、问责制度和诚信举报制度的适当性和有效性； <br><br>    （四）商业银行合规管理职能的适当性和有效性。 <br><br>    <font class='zhang'>第五章</font>  附则 <br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a>  本指引由银监会负责解释。 <br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a>  本指引自发布之日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】卫生部<BR>&nbsp;&nbsp;【发布文号】卫疾控发〔2006〕55号<BR>&nbsp;&nbsp;【发布日期】2006-02-13<BR>&nbsp;&nbsp;【生效日期】2006-02-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moh.gov.cn/public/open.aspx?n_id=11643&seq=按群索引" target=_blank>卫生部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>疟疾突发疫情应急处理预案<br><br></font>(卫疾控发〔2006〕55号)</p><br><br><br>各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局，各有关单位：<br><br>    《疟疾暴发疫情应急处理预案（试行）》印发2年来，对于规范各地疟疾突发疫情应急处理和防控工作起到了积极作用。为了更好地贯彻落实《中华人民共和国传染病防治法》和《国家突发公共卫生事件应急预案》，结合各地在预案试行期间发现的问题，我部在广泛征求各省和专家意见的基础上，对预案进行了修订。现将修订后的《疟疾突发疫情应急处理预案》印发给你们，请结合本地实际贯彻执行。原卫生部办公厅印发的《疟疾暴发疫情应急处理预案（试行）》同时废止。<br><br>附件：疟疾突发疫情应急处理预案<br><br>二○○六年二月十三日<br><br><br>附件：疟疾突发疫情应急处理预案<br><br>    疟疾是严重危害人民健康的重要虫媒传染病，我国有21个省、自治区、直辖市（以下简称省）存在疟疾传播。目前，云南、海南两省的疟疾流行仍较为严重，中部地区的苏鲁豫皖鄂5省疟疾流行尚未得到有效控制，部分地区出现疫情回升或局部暴发流行，许多省受到输入性恶性疟的威胁。由于疟疾具有传播快、流行易反复等特点，在全国多数地区疟疾流行因素尚未根本改变的情况下，出现暴发疫情或疫情复燃的潜在威胁依然存在。为有效预防和及时控制疟疾的突发疫情，保障人民群众的身体健康和生命安全，维护社会稳定和经济发展，特制订本预案。<br><br>    1．总则<br><br>    1．1目的有效预防和及时控制疟疾突发疫情，指导和规范突发疫情的应急处理工作，最大限度地减少突发疫情造成的危害，保障人民身体健康和生命安全。<br><br>    1．2工作原则疟疾突发疫情的应急处理工作，应贯彻预防为主的方针，坚持统一指挥、分级负责、快速反应、科学应对、依法管理的原则。1．3编制依据本预案以《中华人民共和国传染病防治法》、《突发公共卫生事件应急条例》、《国家突发公共卫生事件应急预案》和《突发公共卫生事件与传染病疫情监测信息报告管理办法》等为依据编制。1．4适用范围本预案适用于全国疟疾突发疫情的应急处理工作。<br><br>    2．突发疫情的判定与分级<br><br>    2．1突发疫情判定凡出现以下情况之一时，视为疟疾突发疫情，应启动应急处理工作：<br><br>    2．1．1近3年无疟疾病例发生的乡（镇），1个月内同一行政村发现5例及以上当地感染的疟疾病例，或发现输入性恶性疟继发病例；<br><br>    2．1．2近3年有疟疾病例发生的乡（镇），1个月内同一行政村发现10例及以上当地感染的疟疾病例，或发现2例及以上恶性疟死亡病例。2．2凡符合以下条件者，即可终止应急处理工作：<br><br>    2．2．1疫点及其周围相邻居民点的疟疾确诊及疑似病例得到规范治疗，采取了必要的媒介控制措施，建立、健全了疫情监测和报告网络，能及时发现和报告疫情；<br><br>    2．2．2自启动应急处理工作之日起，连续30天的疟疾发病人数比此前同期减少50％以上，且周围无新出现突发疫情的行政村；<br><br>    2．2．3根据流行病学调查和病原学监测结果，证实疫情趋于稳定，经上一级专家的考查和认可后，可终止应急处理工作，转入常规防治和监测。<br><br>    2．3突发疫情分级<br><br>    Ⅰ级：在2个及以上相邻省份的毗邻地区出现10起及以上突发疫情，疫情波及2个及以上市（地、州），且有大范围蔓延趋势。<br><br>    Ⅱ级：在1个省内的2个及以上毗邻市（地、州）出现5起及以上突发疫情，疫情波及2个及以上县（市、区），且有扩大蔓延趋势。<br><br>    Ⅲ级：在2个及以上毗邻的县（市、区）出现突发疫情，且有蔓延趋势。<br><br>    Ⅳ级：在1个县（市、区）范围内出现突发疫情。<br><br>    3．应急响应<br><br>    3．1突发疫情报告<br><br>    各级各类医疗机构和疾病预防控制机构发现疟疾突发疫情时，应当在2小时内向所在地县级人民政府卫生行政部门报告，接到报告的卫生行政部门应当在2小时内向本级人民政府报告，同时通过“突发公共卫生事件报告管理信息系统”进行网络直报。任何单位和个人不得瞒报、漏报、缓报。<br><br>    3．2突发疫情分级响应程序Ⅰ级：由卫生部组织有关专家进行分析论证，提出启动或终止本预案的建议，报国务院批准后实施。Ⅱ级：由省级人民政府卫生行政部门组织有关专家进行分析论证，提出启动或终止本预案的建议，报省级人民政府批准后实施，并向国务院卫生行政部门报告。Ⅲ级：由设区的市（地、州）级人民政府卫生行政部门组织有关专家进行分析论证，提出启动或终止本预案的建议，报市（地、州）级人民政府批准后实施，并向上一级人民政府卫生行政部门报告，跨市（地、州）的两个县（市、区）参照Ⅱ级突发疫情执行。Ⅳ级：由县（市、区）级人民政府卫生行政部门组织有关专家进行分析论证，提出启动或终止本预案的建议，报县级人民政府批准后实施，并向上一级人民政府卫生行政部门报告。3．3应急组织疟疾突发疫情发生后，根据分级响应程序，在当地人民政府的统一领导下，成立由各相关部门组成的疟疾突发疫情应急处理工作领导小组，负责本行政区域内疟疾突发疫情应急处理工作的组织管理、指挥和协调；卫生行政部门成立突发疫情应急处理技术指导小组，负责制定本行政区域内医疗救治、疫情控制和调查评估等相关工作。<br><br>    4．紧急处置<br><br>    4．1现场处置<br><br>    4．1．1治疗病人：对所有发现的疑似、临床诊断和确诊疟疾病例，应及时进行规范的抗疟治疗。<br><br>    4．1．1．1间日疟病人：可采用氯喹加伯氨喹8天疗法进行治疗。Ａ．间日疟和恶性疟混合流行区：以氯喹成人总剂量（基质）1．5ｇ分3天口服，同时加服伯氨喹成人总剂量（基质）180ｍｇ，分8天口服。Ｂ．单一间日疟流行区：以氯喹成人总剂量（基质）1．2ｇ分3天口服，同时加服伯氨喹成人总剂量（基质）180ｍｇ，分8天口服。<br><br>    4．1．1．2恶性疟病人治疗，可选用口服青蒿琥酯、蒿甲醚、双氢青蒿素或双氢青蒿素加磷酸哌喹等青蒿素类药物及其复方制剂进行治疗，但第1、2天均各加服伯氨喹22．5ｍｇ顿服。<br><br>    4．1．1．3重症疟疾的治疗，可选用蒿甲醚、咯萘啶、青蒿琥酯钠等注射液进行肌内或静脉注射，在患者症状减轻后，加服伯氨喹45ｍｇ，分2天口服。<br><br>    4．1．2人群预防服药在出现间日疟突发疫情的地区，对发病率在10％以上的乡、村，可根据情况对病人家属及其周围人群采用成人顿服哌喹600ｍｇ或氯喹（基质）0．3ｇ进行预防性服药，必要时可以乡、村或村民小组为单位，进行全民预防服药。在出现恶性疟突发疫情的地区，可根据情况对高危人群（进入突发疫情的地区的旅游、外来务工人员等）采用成人顿服哌喹600ｍｇ进行预防性服药。<br><br>    4．1．3媒介控制在媒介按蚊密度有异常升高时应实施媒介控制措施。可根据不同情况，以乡、村或村民小组为单位，采用拟除虫菊酯类杀虫剂对人、畜房进行喷洒或浸泡／喷洒蚊帐灭蚊，浸泡／喷洒蚊帐剂量为20－30ｍｇ／ｍ  2。<br><br>    4．1．4个人防护教育群众正确使用蚊帐，尽量避免野外露宿，减少人蚊接触；突发疫情应急处理工作人员进入现场开展防治工作时应注意做好个人防护，必要时服用预防药物。<br><br>    4．2流行病学调查突发疫情的调查由县级卫生行政部门组织，县级疾病预防控制机构具体实施。县级疾病预防控制机构接到突发疫情报告后，应在24小时内到达现场开展调查。<br><br>    4．2．1确定调查点以分层随机抽样的方式按报告发病率的高低和与疫点的距离，确定若干个调查点。<br><br>    4．2．2个案调查由专业人员对每个疟疾病例（包括疑似病例、临床诊断病例、确诊病例）进行个案调查，由疾病预防控制机构逐级上报。<br><br>    4．2．3疫情核查核查乡村各医疗卫生机构的疫情报表、发热病人血检登记表、抗疟药处方和发热病人血片标本，并通过疫区居民现场走访调查、疟疾病人个案调查、居民或小学生带虫调查等方法确定突发疫情的范围、强度和疟原虫种类。<br><br>    4．2．4蚊媒调查进行媒介按蚊调查，确定主要传播媒介（情况紧急时媒介调查可推迟进行）。<br><br>    4．2．5发热病人血检县（市、区）、乡（镇）卫生医疗机构应对所有发热病人进行登记和血检疟原虫，并对虫种进行鉴定。<br><br>    5．保障措施<br><br>    5．1组织保障各级人民政府要加强对疟疾突发疫情应急处理工作的领导，及时安排落实突发疫情应急处理所需的人员、经费和物资，成立应急处理队伍，为突发疫情应急处理工作提供保障。各级卫生行政部门应建立相应的应急处理人力资源库，并按突发疫情的级别制定人力资源调配计划，组织疾病预防和医疗机构专家，开展现场流行病学调查、疫情处理和病人救治工作。<br><br>    5．2通讯与信息保障各级疾病预防控制机构要加强疟疾监测信息报告管理系统的维护和管理，做好对监测数据的核对、分析和报告工作。设立疟疾突发疫情报告、举报电话；各级疾病预防控制机构设立咨询电话并向社会公开。<br><br>    5．3物资保障国家和各省卫生行政部门要指定有关疾病预防控制机构，做好疟疾突发疫情应急处理的物资储备。应急储备物资应妥善保管，指定专人负责，并及时补充更新。应急储备物资应包括：抗疟疾治疗药品：氯喹、伯氨喹、哌喹、咯萘啶、青蒿素类制剂等；灭蚊药品：拟除虫菊酯类杀虫剂，如溴氰菊酯、氯氰菊酯及氟氯氰菊酯等；设备及器材：显微镜、解剖镜、快速诊断试剂盒，以及其他与应急处理和救治有关的器材等；出现疟疾突发疫情时，各省（自治区、直辖市）人民政府根据应急处理工作需要，可以征用社会物资统筹使用。<br><br>    5．4技术保障<br><br>    5．4．1宣传教育利用各种宣传媒体开展疟疾预防和控制知识的宣传教育。<br><br>    5．4．2培训各级卫生行政部门应组织对疟疾突发疫情应急处理工作管理的培训，各级疾病预防控制机构负责组织相关的技术培训。<br><br>    5．4．3演习各级卫生行政部门应根据本地区疟疾防治工作实际，制定疟疾突发疫情应急处理演习计划，并组织实施。<br><br>    本预案由卫生部制定并解释，自发布之日起实施。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

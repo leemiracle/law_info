@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家外汇管理局<BR>&nbsp;&nbsp;【发布文号】汇发【2008】72号<BR>&nbsp;&nbsp;【发布日期】2008-12-22<BR>&nbsp;&nbsp;【生效日期】2008-12-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.safe.gov.cn/model_safe/laws/law_detail.jsp?ID=80404000000000000,27&id=4" target=_blank>国家外汇管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家外汇管理局关于在全国范围推广上线直接投资外汇业务信息系统境外投资模块有关事项的通知<br><br></font>(汇发【2008】72号)</p><br><br><br>国家外汇管理局各省、自治区、直辖市分局、外汇管理部，深圳、大连、青岛、厦门、宁波市分局；各政策性银行、国有商业银行、股份制商业银行：<br><br>    为改进境外直接投资外汇管理方式，便利境内企业、银行及会计师事务所办理境外直接投资项下外汇业务，完善境外直接投资外汇收支统计监测，国家外汇管理局在前段完成“直接投资外汇业务信息系统”（以下简称“系统”）外商投资模块（以下简称“FDI模块”）全国推广上线运行的基础上，从2008年10月份起分别在辽宁（含大连）、吉林、黑龙江和浙江（含宁波）开始境外直接投资模块（以下简称“ODI模块”）的试点运行。<br>    ODI模块涵盖境外股权投资、境外放款及特殊目的公司返程投资等主要业务内容，延续了FDI模块的方式和特点，在外汇局、银行、企业、会计师事务所之间实行联网操作管理和数据交换，采用IC卡外汇登记证替代纸质外汇登记证，实现了管理方式变革的平稳过渡，并确保了管理数据、统计监测和实际业务的准确性和延续性。根据ODI模块在上述试点地区稳定运行的情况，国家外汇管理局决定于2009年1月1日起将ODI模块在全国推广上线。现就有关事项通知如下：<br>    一、自2009年1月1日起，境内企业、个人从事境外直接投资项下涉及的外汇业务，均需凭IC卡外汇登记证，通过系统ODI模块，向所在地国家外汇管理局分支机构（以下简称“外汇局”）和外汇指定银行（以下简称“银行”）办理。其中，对于ODI模块推广上线后新启动的境外投资项目，相关企业、个人应直接向外汇局领取IC卡外汇登记证，外汇局、银行通过ODI模块为其办理相应的审查、登记、核准或备案手续；对于ODI模块推广上线时已在外汇局登记在案的境外投资项目，相关企业和个人应配合所在地外汇局按照《直接投资外汇业务信息系统ODI模块数据补录入操作原则》（见附件1）的要求，先将其以前办理过的审查、登记、核准或备案等业务补录入ODI模块，然后，向外汇局领取IC卡外汇登记证，并凭IC卡外汇登记证通过ODI模块继续办理后续的外汇业务。<br>    二、2009年1月1日至2月28日为ODI模块在全国上线运行的过渡期。各分局、外汇管理部及辖内银行应当在该过渡期结束前，完成本地区所有既存境外投资项目已办理的审查、登记、核准或备案等业务补录入ODI模块的相关工作。<br>    三、尚未与国家外汇管理局直接投资外汇业务信息系统建立网络连接的银行，应按照《直接投资外汇业务信息系统网络接入原则》（见附件2）的要求，抓紧建立其办理业务的网点与国家外汇管理局之间的网络连接※，并根据《直接投资外汇业务信息系统对银行设备的要求》（见附件3），相应配备办理直接投资外汇业务所需的计算机及IC卡读/写设备。<br>    四、已完成上述网络连接及设备配备的银行应填写《直接投资外汇业务信息系统银行网点信息登记表》（见附件4），按属地原则报所在地外汇局备案。<br>    各分局、外汇管理部应认真审核辖内银行上报的《直接投资外汇业务信息系统银行网点信息登记表》，对其办理境外直接投资外汇业务的系统开通、业务员操作技能等准备情况进行验收，并按验收结果在系统中进行“外汇指定银行准入信息登记”操作。<br>    五、ODI模块推广上线后，各银行应针对ODI模块运行情况，及时制定相应的数据管理和信息反馈制度，于2009年1月底前报所在地外汇局备案。银行在为企业及个人办理境外投资项下外汇收支及汇兑业务时，应首先提醒和督促其及时到所在地外汇局领取或换领IC卡外汇登记证，同时完成填报相关的历史业务信息和数据。<br>    六、ODI模块推广上线后，各分局、外汇管理部应根据《国家外汇管理局直接投资外汇业务信息系统内部管理制度（试行）》及相关业务操作规程的要求，针对ODI模块运行情况及时完善本单位业务操作流程和内控制度，并于2009年2月底前报国家外汇管理局资本项目管理司和信息中心备案。<br>    七、保税监管区域企业直接投资项下外汇业务均需通过系统办理。银行应按照保税监管区域外汇管理规定，在《保税监管区域外汇登记证》上记录直接投资项下收付汇、结售汇及外汇账户等情况。<br>    八、各分局、外汇管理部应及时汇总和分析辖内分支机构、银行以及企业、个人就ODI模块运行反馈的意见和建议，并向国家外汇管理局直接投资外汇业务信息系统推广办公室反馈。<br><br> <br><br>※2009年1月4日起，全国（含试点地区）外汇局及银行分支机构系统ODI模块与FDI模块运行访问地址统一为：http://100.1.64.1，端口为：80；系统ODI模块测试和培训环境的访问地址为：http://100.1.64. 22，端口为：80。同时，试点期间ODI模块运行访问地址（http://100.1.64.30）停用。<br><br> <br><br>    联系电话：<br><br>业务支持<br> 技术支持<br> <br>胡俊伟<br> 010－68402519<br> 王鹏<br> 010-68402467<br><br>010-68402520<br> <br>李彩虹<br> 010－68402518<br> 熊伟<br> 010-68402027<br> <br>陈<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

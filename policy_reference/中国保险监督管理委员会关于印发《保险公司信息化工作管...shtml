@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员<BR>&nbsp;&nbsp;【发布文号】保监发〔2009〕133号<BR>&nbsp;&nbsp;【发布日期】2009-12-29<BR>&nbsp;&nbsp;【生效日期】2010-01-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/web/site0/tab68/i119728.htm" target=_blank>中国保险监督管理委员 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于印发《保险公司信息化工作管理指引（试行）》的通知 <br><br></font>(保监发〔2009〕133号)</p><br><br><br>    各保监局，各保险公司、保险资产管理公司：<br><br>    为加强保险公司信息化工作管理，提高保险业信息化工作水平，中国保险监督管理委员会制定了《保险公司信息化工作管理指引（试行）》。现印发给你们，请遵照执行。<br><br>    中国保险监督管理委员会<br><br>    二○○九年十二月二十九日 <br><br>    保险公司信息化工作管理指引（试行）<br><br>    一、总 则<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为加强保险公司信息化工作管理，促进信息化工作规范化与标准化建设，提高保险业信息化工作水平，根据《<a href=javascript:ROF(133793,0) class=alink>中华人民共和国保险法</a>》及国家有关法律法规，制定本指引。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本指引适用于在中华人民共和国境内依法设立的保险公司和保险资产管理公司。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 本指引所称信息化工作，是指计算机、通信、网络等现代信息技术在保险公司业务处理、经营管理等方面的应用，包括相应的信息化组织架构建立、制度建设，以及基础环境建设等工作。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 各公司应把信息化工作纳入公司全面发展框架进行统筹考虑，建立有效的信息化治理机制，明确信息化工作决策权归属，实现信息资源的合理利用，确保信息化工作与业务发展目标一致；加强信息系统风险管理，确保信息系统安全、稳定运行。<br><br>    实现信息化工作集中管理的保险集团（控股）公司，可以集团（控股）公司为单位对信息化工作统筹规划执行。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 中国保监会依法对保险公司信息化工作实施监督管理。<br><br>    二、组织管理与规划<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 各公司是信息化工作规划、建设、管理和安全的责任主体。公司法定代表人或主要负责人对此负有最终责任。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 各公司应建立信息化工作委员会，明确其工作职责和工作制度。定期或根据需要召开工作会议，对信息化工作重大事项决策研判，并提交公司最高决策层批准实施。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 信息化工作委员会负责人应由公司高级管理人员担任，组成人员应包括信息技术、业务、财务、人事、发展规划和风险控制等部门的负责人。有条件的公司可聘请外部专家参加。<br><br>    信息化工作委员会应下设办公室，负责落实和协调信息化工作委员会的具体事宜。办公室原则上应设置在信息技术部门。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 各公司应设立首席信息官或指定公司高级管理人员作为信息化工作的直接责任人。直接责任人应负责公司信息化建设工作，并参与公司经营、管理和决策，其任职条件应符合监管部门规定。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 各公司应建立组织结构合理、人员岗位分工明确的信息技术部门。信息技术部门负责信息化工作相关的规划、建设、管理和运维等工作。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 各公司应结合信息化工作特点和内部控制要求，明确信息化工作中各相关部门及各级分支机构的职责，加强对分支机构信息化工作的指导和管理，将信息化工作相关的权利和责任落实到位。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 各公司应制定明确的信息化工作制度、标准和操作流程，定期或根据需要及时进行更新、发布。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 各公司应根据公司业务发展战略，制订明确的信息化工作规划。规划应具有开放性和前瞻性，符合公司经营管理的需要，并确保信息化建设的稳定性和延续性。规划应经过信息化工作委员会的审批，并提交公司最高决策层批准实施。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 各公司应建立信息化规划定期审查、评估和修订机制，规划的审查、评估工作至少每年一次，修订后的规划应经信息化工作委员会审批，并提交公司最高决策层批准实施。<br><br>    三、基础环境与信息系统建设<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 各公司信息化建设、管理及信息化工作中涉及的数据信息,应符合国家及行业的有关规范、标准和监管部门要求。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 各公司应实现数据信息集中管控，建立健全数据管理的有效机制，提高数据资产价值的利用能力和水平。 <br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 各保险集团（控股）公司可根据业务管理、风险管控等需要，对下属各子公司信息化建设统筹协调管理，提高信息资源的利用率。<br><br>    实现信息化工作集中管理的保险集团（控股）公司，应确保集团内各法人机构之间的信息系统及相关硬件、网络等有效安全隔离，并符合国家及监管部门有关要求。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 各公司应按照有效性、可用性和安全性的原则，对信息化基础设施和信息系统的功能、性能和安全保障等方面做出规定并按规定实施，至少保证满足公司未来两年的业务发展要求。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 各公司应根据信息化发展需要，建设相应的计算机中心机房和灾备机房，自建、共建或租用第三方的机房建设均应符合国家相关规范标准和监管部门要求。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 各公司应全面梳理公司经营管理流程，建立与经营管理相适应的信息系统，加强信息系统间的集成与整合，实现财务、业务等核心系统的无缝对接，提高系统的协同工作水平。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 各公司应运用信息技术加强内部控制与合规建设，促进内部控制流程与信息系统的有机结合，实现对各项业务和事项的自动控制，减少人为操控因素。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 新开发的系统或经过重大改造的系统在上线运行前，应对功能与性能进行严格测试，并通过安全评测。经过一般性改造的系统在上线运行前应遵循审慎原则，做好相关测试工作。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 各公司应加强知识产权保护工作，优先采购自主可控的硬件设备和软件产品，严禁侵权盗版；根据自身实际情况，积极研发具有自主知识产权的信息产品，并采取有效措施保护公司信息化工作成果。<br><br>    四、安全保障与风险控制<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 各公司应加强信息安全与信息系统的同步规划和同步建设，构建完善的信息安全保障体系。应通过管理机制和技术手段，确保信息系统安全，保证重要信息的可用、保密、完整及真实，保障业务活动的连续性。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 各公司应按照“谁主管、谁负责，谁运营、谁负责，谁使用、谁负责”的原则，明确信息安全各相关方的责任，加强人员管理，强化信息安全意识，全面落实信息安全管理责任制。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 各公司应建立健全信息安全监控体系和报告机制，明确风险预警标准，加强信息安全的监控和预警，提高风险防范处置能力。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 各公司应按照国家有关规定和监管要求，对信息系统进行安全等级划分，按照安全等级实施信息系统安全等级保护。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 各公司应制订重要数据的备份制度和策略，实施有效的数据备份措施，并按照监管部门有关要求，推进信息系统灾难恢复建设工作。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 各公司应建立信息系统重大突发事件的应急处理机制，制定应急预案。应急预案要明确启动机制、责任人员、处置流程、具体方案和外部资源，并根据工作实际进行动态调整和定期应急演练，确保应急预案的可操作性。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 各公司应建立外联网络接入标准和安全规范，明确审批机制、风险评估机制及对应的风险控制措施，加强外联网络的接入管理。对门户网站、电子商务等互联网系统进行统一规划、统一管理，采取必要技术手段和管理措施确保相应信息系统安全。<br><br>    <a name='31'><font class='TiaoNoA'>第三十一条</font></a> 各公司应加强信息化工作外包服务管理，不得将信息化管理责任外包。应按照监管部门要求，结合外包服务实际需要，制订外包服务的基本规范，确保对信息系统安全的控制能力。<br><br>    五、发展环境<br><br>    <a name='32'><font class='TiaoNoA'>第三十二条</font></a> 各公司应结合信息化工作规划实施的需要，制定信息化工作经费预算，并保障信息化工作经费预算的执行，确保信息化建设的正常有效开展。<br><br>    <a name='33'><font class='TiaoNoA'>第三十三条</font></a> 各公司应根据自身实际并结合信息化工作的特点，合理配备信息技术人员，制定并实施有利于公司可持续发展的信息化人力资源政策，鼓励建立信息技术专业职级体系。<br><br>    <a name='34'><font class='TiaoNoA'>第三十四条</font></a> 各公司应积极探索、建立并实施信息化工作投入产出的评价体系，完善信息化工作绩效考核机制。<br><br>    <a name='35'><font class='TiaoNoA'>第三十五条</font></a> 各公司应加强信息化工作相关研究，建立创新激励机制，鼓励科技创新。有条件的公司可探索建立科技创新基金。<br><br>    <a name='36'><font class='TiaoNoA'>第三十六条</font></a> 各公司应将全体员工信息化培训列入培训计划，培训至少每两年一次。新员工上岗前，应经过信息化相关培训和考核。<br><br>    <a name='37'><font class='TiaoNoA'>第三十七条</font></a> 各公司应根据履行职责的需要，每年开展信息技术人员的专业技能培训和业务培训。<br><br>    <a name='38'><font class='TiaoNoA'>第三十八条</font></a> 各公司应积极参与行业信息技术交流活动，提高行业信息化工作水平。<br><br>    <a name='39'><font class='TiaoNoA'>第三十九条</font></a> 各公司应支持行业信息标准化工作，确保行业信息标准的贯彻落实。 <br><br>    六、审计与备案<br><br>    <a name='40'><font class='TiaoNoA'>第四十条</font></a> 各公司应建立信息化工作的风险评估机制和信息系统审计制度，由独立于信息技术部门的有关部门负责审计工作，至少每两年进行一次审计。审计结果应在审计完成后三个月内报保监会备案。<br><br>    鼓励公司在符合国家有关法律、法规和监管要求情况下，聘请具备相应资质的外部机构进行外部审计和风险评估。<br><br>    <a name='41'><font class='TiaoNoA'>第四十一条</font></a> 各公司应于每年第一季度向保监会报送信息化工作报告。报告内容包括上一年度信息化工作情况与本年度信息化工作计划。<br><br>    <a name='42'><font class='TiaoNoA'>第四十二条</font></a> 各公司应按监管部门有关要求及时向保监会报告信息化工作重大事项。<br><br>    七、附 则<br><br>    <a name='43'><font class='TiaoNoA'>第四十三条</font></a> 本指引由中国保监会负责解释。<br><br>    <a name='44'><font class='TiaoNoA'>第四十四条</font></a> 本指引自2010年1月1日起施行。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

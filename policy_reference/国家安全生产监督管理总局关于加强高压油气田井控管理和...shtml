@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全生产监督管理总局<BR>&nbsp;&nbsp;【发布文号】安监总管一〔2006〕103号<BR>&nbsp;&nbsp;【发布日期】2006-05-31<BR>&nbsp;&nbsp;【生效日期】2006-05-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2006-06/05/content_169305.htm" target=_blank>国家安全生产监督管理总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全生产监督管理总局关于加强高压油气田井控管理和防硫化氢中毒工作的意见<br><br></font>(安监总管一〔2006〕103号)</p><br><br><br>各省、自治区、直辖市及新疆生产建设兵团安全生产监督管理局，有关中央企业：<br><br>    近年来，在各方面的共同努力下，石油天然气安全生产总体形势稳定。但是，随着石油天然气勘探开发力度的加大，由此带来的安全生产风险也在不断增加，全国相继发生了多起重特大井喷失控、硫化氢中毒事故，造成大量人员伤亡或导致大量群众疏散，给社会带来了严重不良影响。高压油气田井喷失控和硫化氢中毒事故的频繁发生，已经成为影响石油天然气安全生产的突出问题。为防范重特大事故的发生，保障石油天然气安全生产，现就加强高压油气田井控管理和防硫化氢中毒工作提出以下意见。 <br><br>    一、坚持“安全发展”的原则，落实企业安全生产主体责任 <br><br>    安全生产关系人民群众生命财产安全，关系改革发展和稳定的大局。人的生命是最宝贵的，发展不能以牺牲人的生命为代价。高度重视和切实抓好安全生产工作，是坚持立党为公、执政为民的必然要求，是贯彻落实科学发展观的必然要求。各石油天然气企业要牢固树立以人为本的理念，进一步提高做好石油天然气安全生产工作重要性的认识，坚持发展速度服从于安全生产，成本效益服从安全质量，确保安全投入，决不允许为控制成本而减少和弱化安全措施，决不允许因追求工程进度而忽略安全生产的任何程序和环节，坚持把工作抓细抓实抓好，切实做到科学发展、安全发展。 <br><br>    企业是安全生产责任主体，主要负责人对本单位的安全生产工作全面负责。各石油天然气企业要建立健全以岗位责任为主要内容，以主要负责人为中枢的安全责任体系，把安全责任分解落实到所属各部门、班组、岗位和人员，做到横向到边、纵向到底，不留死角；健全、完善标准规范、管理体系和运行机制，全面落实安全责任；结合实际，实施安全生产工作绩效量化考核，严格奖惩，建立有效的激励约束机制。 <br><br>    二、加强生产组织，严格对高压油气田的安全监管 <br><br>    安全生产工作是一项系统工程，涉及勘探开发的全过程。各石油天然气企业要将井控管理和防硫化氢工作贯穿于钻井、地质、测井、录井、试油（气）、修井、采油（气）等作业的设计和施工全过程；在开发高压、高含硫、高危地区的油气田时，以安全生产为前提，合理规划，全面评估开发方案；根据不同的地质条件、地质构造、储气机理、地表环境等特点，强化地质勘探、施工组织、现场管理、生产工艺流程、设备设施选用、应急预案编制与演练等方面的工作，配足井控设施、设备和硫化氢监测仪器、仪表；建立严格的技术管理制度和施工设计审批程序，对钻井、试油和井下作业，特别是井控、固井、射孔和压裂等环节的施工设计、技术措施实行严格的技术论证和审批程序；对完钻探井和开发井的工程质量、废弃井处理、探井转开发井等进行严格的安全风险评估。 <br><br>    地方各级安全监管部门要高度重视石油天然气安全监管工作，加强安全监管力量，配备相应的专业监管人员，建立相关的技术支撑体系，将高压、高含硫、高危地区油气田的安全监管工作纳入重要议事日程；组织专业技术讲座、培训，提高安全监管人员的业务水平和履职能力；严格安全审查和行政许可工作，加强现场监督检查，严肃处理各种违反安全生产法律、法规的行为，督促企业全面落实主体责任。 <br><br>    三、严格执行“三同时”制度，规范安全生产许可工作 <br><br>    《安全生产法》、《安全生产许可证条例》及《非煤矿矿山建设项目安全设施设计审查与竣工验收办法》（原国家安全监管局令第18号）等国家有关法律、行政法规和规章对安全生产审查、许可工作做出了明确规定。石油天然气建设项目安全设施必须与主体工程同时设计、同时施工、同时投入生产和使用，按有关规定编制安全预评价报告、安全专篇和验收评价报告，履行安全设施设计审查和竣工验收手续。安全设施设计未经安全监管部门审查同意，不得施工；未经验收合格，不得投入生产和使用。 <br><br>    石油天然气生产单位以及提供物探、测井、录井、钻井、井下作业、储运等专业技术工程服务的单位都应按《非煤矿矿山企业安全生产许可证实施办法》（原国家安全监管局令第9号）等规定办理安全生产许可证，在今年6月30日前未取得安全生产许可证的，不得继续从事专业技术工程服务。石油天然气生产单位不得将专业技术工程承包给未取得安全生产许可证的单位。因将工程承包给未取得安全生产许可证的单位而导致事故的，要严肃追究甲、乙双方及有关人员的责任。 <br><br>    四、依靠科技进步，提高本质安全水平和事故防范能力 <br><br>    积极整合我国石油天然气安全技术研究力量，建立一支高素质的石油天然气安全技术研究队伍。在石油天然气安全生产技术咨询、应急救援、检测检验、立法、培训、评价等方面，积极发挥有关科研院所、行业协会、中介组织等作用，逐步形成完整的技术支撑体系。按照国家的整体部署，实施产学研相结合，积极推广和应用安全生产科技新成果，采用科技含量较高、安全性能可靠的新技术、新工艺、新设备和新材料，提高抵御事故风险的能力，提升本质安全水平。各石油天然气企业应针对本企业在工艺技术、材料应用技术等方面存在的重大问题，加大科技投入，组织有关科研单位、技术专家进行攻关，力争在解决关键技术问题上取得成效。 <br><br>    要积极研究和支持石油天然气安全生产法律法规建设，提出石油天然气安全生产的法律体系建设目标的意见和建议，特别要针对井喷等事故多发的突出问题，制定防硫化氢中毒、防井喷失控等相关部门规章，修订相关标准，适时把一些推荐性标准转化为强制性标准。各石油天然气企业要认真贯彻落实相关的法律、法规和标准，积极采用国际先进的技术标准，根据新的国家标准和行业标准重新审查本企业的勘探开发技术规范和相关标准，从技术上遏制井喷失控、硫化氢中毒等事故的发生。 <br><br>    五、加强职工安全教育培训，推动安全文化建设 <br><br>    各石油天然气企业要围绕防井喷失控、防硫化氢中毒，大力宣传落实《钻井井控技术规程》（SY/T6426-2005）等新标准、新规程，强化新技术、新工艺应用和新标准实施的安全培训，使职工及时掌握新的知识和技能；以各种监督人员、基层管理人员和操作人员为重点，加强安全培训工作，从事钻井生产、技术和安全管理等有关人员、在硫化氢环境中作业人员必须按规定经过井控技术培训、硫化氢监测技术和人身安全防护措施的培训，经考试合格，取得相应证书后方可上岗。 <br><br>    采取多种形式，加强全员安全意识教育和管理人员社会责任教育，努力实现“零伤害、零事故、零污染”的目标；认真解决职工实际困难，充分调动人人参与安全管理的主观能动性，积极培养企业安全文化，使职工由“要我安全”向“我要安全”转变，自觉把各项规章制度落实到实际工作中，使安全生产成为一种信念、一种企业文化，促进安全生产基本要素的落实。 <br><br>    六、完善应急救援体系，严肃事故调查处理 <br><br>    各石油天然气企业要加强应急救援工作，完善应急救援队伍、装备、物资、技术等资源的配置和装备，分级、分层编写事故应急预案，增强预案的科学性和可操作性；加强与当地政府、有关部门的联系，以及对可能受到影响的周边群众进行宣传教育，提高应急工作水平；坚持预防为主、平战结合，搞好各种工况下的防喷演习和应急演练，并针对演练中发现的问题，及时进行总结，修订完善预案，提高应急处置能力。 <br><br>    各石油天然气企业要树立井喷失控就是责任事故、事故是可防可控的观念，从抓未遂事故、轻伤事故和重伤事故入手，实事求是，深入调查，认真分析原因，举一反三，及时采取防范措施，减少一般死亡事故，防范重特大事故。进一步规范伤亡事故和复杂险情逐级报告制度，对于发生的伤亡事故或社会影响较大、涉险达50人以上以及媒体披露的特大伤害未遂事故，要按照规定的程序、时限等要求报告安全监管部门。对于死亡事故，按照分级管理的原则，各级安全监管部门要会同有关部门，按照“四不放过”的原则，认真查处，严肃责任追究，督促落实防范措施。 <br><br>    七、开展安全专项督查，消除事故隐患 <br><br>    国家安全监管总局已将防硫化氢中毒和防井喷失控列为今后几年的重点工作任务之一。今年下半年，国家安全监管总局将组织中国石油、中国石化、中国海洋石油及相关省（区、市）安全监管局对高压、高含硫、高危油气田及近年发生过井喷失控事故、硫化氢中毒事故的油气田进行抽查。重点检查关键设备、主要措施和制度落实情况。 <br><br>    请各石油天然气企业根据实际情况，组织防硫化氢中毒和防井喷失控的自查，对油藏工程、钻井工程、试油和井下作业等进行事故隐患排查，要重点检查井场、站点和集输系统的安全设施、安全距离是否符合有关标准、规程的要求。对于可能危及安全的隐患，要立即进行整改；不能立刻进行整改的必须立即停工，同时制定出具体的整改方案，明确隐患整改负责人和整改时间表，确保整改措施落实到位。 <br><br>    请各级安全监管部门、各石油天然气企业认真贯彻执行。<br><br>二○○六年五月三十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

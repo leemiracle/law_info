@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委、国家税务总局<BR>&nbsp;&nbsp;【发布文号】发改企业[2006]563号<BR>&nbsp;&nbsp;【发布日期】2006-04-03<BR>&nbsp;&nbsp;【生效日期】2006-04-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200604101100574373" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委、国家税务总局关于中小企业信用担保机构免征营业税有关问题的通知<br><br></font>(发改企业[2006]563号)</p><br><br><br>各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委、经贸委(经委)、中小企业局、地方税务局：<br>    为贯彻落实《中华人民共和国中小企业促进法》、《国务院办公厅转发国家经贸委关于鼓励和促进中小企业发展若干政策意见的通知》(国办发[2000]59号)和国家发展改革委和国家税务总局《关于继续做好中小企业信用担保机构免征营业税有关问题的通知》(发改企业[2004]303号)以及国务院领导关于促进中小企业信用担保机构发展的有关批示精神，现就继续做好中小企业信用担保机构免征营业税工作有关问题通知如下：<br>   一、信用担保机构免税基本条件<br>    (一)经政府授权部门(中小企业政府管理部门)同意，依法登记注册为企业法人，且主要从事为中小企业提供担保服务的机构。<br>    (二)不以营利为主要目的，担保业务收费标准报经所在地人民政府中小企业主管部门和同级人民政府物价部门批准。<br>    (三)具备健全的内部管理制度和为中小企业提供担保的能力，经营业绩突出，对受保项目具有完善的事前评估、事中监控、事后追偿与处置机制；注册资金超过2000万元。<br>    (四)对中小企业累计贷款担保金额占其累计担保业务总额的80％，对单个受保企业提供的担保余额不超过担保机构自身实收资本总额的10％，并且其单笔担保责任金额最高不超过4000万元人民币。<br>    (五)担保资金与担保贷款放大比例不低于3倍，并且其代偿额占担保资金比例不超过5％。<br>    (六)接受所在地政府中小企业管理部门的监管，按照要求向所在地政府中小企业管理部门报送担保业务情况和财务会计报表。<br>    享受三年营业税减免政策期限已满的担保机构，仍符合上述条件的，可以继续申请减免税。    <br>    二、免税程序<br>    由担保机构自愿申请，经省级中小企业管理部门和省级地方税务部门审核、推荐后，由国家发展改革委和国家税务总局审核批准并下发免税名单，名单内的担保机构应持有关文件到主管税务机关申请办理免税手续，各地税务机关按照国家发展改革委和国家税务总局下发的名单审核批准并办理免税手续后，担保机构可以享受营业税免税政策。<br>    三、免税期限<br>    营业税免税期限为三年，免税时间自担保机构主管税务机关办理免税手续之日起计算。<br>    四、各省、自治区、直辖市、计划单列市中小企业管理部门、地方税务局要根据本通知要求，按照公开、公正原则，认真做好本地区中小企业信用担保机构审核推荐工作。<br>    五、各省、自治区、直辖市、计划单列市中小企业管理部门、地方税务局要根据实际情况，对前期信用担保机构营业税减免工作落实情况及实施效果开展监督检查，对享受营业税减免政策的中小企业信用担保机构实行动态管理。对于违反规定，不符合减免条件的担保机构，一经发现要如实上报国家发展改革委并国家税务总局取消其继续享受免税的资格。<br>    六、请各省、自治区、直辖市、计划单列市中小企业管理部门会同地方税务局认真做好有关工作，将下列材料以书面形式一式二份于2006年6月15日前报国家发展改革委中小企业司和国家税务总局流转税司。<br>    (一)前四批中小企业信用担保机构营业税减免工作的成效、存在问题及建议。<br>    (二)符合免税条件的中小企业信用担保机构名单(此名单应经过公示)。<br>    (三)符合免税条件的中小企业信用担保机构登记表(见附表)、营业执照和公司章程复印件。<br>    (四)经审查前四批不符合免税条件的中小企业信用担保机构取消名单及理由。<br>    联系单位：国家发展改革委中小企业司<br>    联系人：张海鹰<br>    联系电话：68535638<br>    附件：中小企业信用担保机构登记表<br><br>                              国家发展改革委 国家税务总局<br>                                二○○六年四月三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

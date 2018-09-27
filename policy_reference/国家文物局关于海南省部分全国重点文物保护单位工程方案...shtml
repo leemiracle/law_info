@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家文物局<BR>&nbsp;&nbsp;【发布文号】办保函〔2008〕674号<BR>&nbsp;&nbsp;【发布日期】2008-08-04<BR>&nbsp;&nbsp;【生效日期】2008-08-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sach.gov.cn/tabid/337/InfoID/15030/Default.aspx" target=_blank>国家文物局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家文物局关于海南省部分全国重点文物保护单位工程方案修改意见的函<br> <br></font>(办保函〔2008〕674号)</p><br>    <br><br> 海南省文物保护管理办公室：<br><br>    你办2008年所报以下方案存在较大缺陷，需进一步修改完善：<br><br>    一、中共琼崖第一次代表大会旧址安全防范系统工程设计方案；<br><br>    二、丘浚墓安全防范系统工程设计方案；<br><br>    三、丘浚故居安全防范系统工程设计方案；<br><br>    四、海瑞墓安全防范系统工程设计方案。<br><br>    请你局组织具有相应资质的单位根据专家评审意见（附后）对每个方案进行认真修改，由你局审核后分别报批。<br><br>    专此。<br><br>    附件：海南省文物保护工程方案修改意见<br><br>                                                            国家文物局<br>                                                        二○○八年八月四日<br>     <br><br>附件：海南省文物保护工程方案修改意见<br><br>    一、关于中共琼崖第一次代表大会旧址安防、消防、防雷系统设计方案<br><br>    1、安防系统<br><br>    （一）增加GB50394―2007《入侵报警系统工程设计规范》、GB50395―2007《视频安防监控系统工程设计规范》、GB50396―2007《出入口控制系统工程设计规范》、GB50311―2007《建筑与建筑群综合布线系统工程设计规范》作为设计依据，并按规范要求对方案进行调整。<br><br>    （二）优化系统配置，减少冗余设备使用，如门禁系统建议使用主机控制功能替代、安防器材的配置可以适当减少等，同时减少前端设备如摄像机、探测器的用量，以避免对文物建筑本体的过多干扰。<br><br>    （三）处警响应时间应由30MIN改为3MIN。<br><br>    （四）补充工程施工造成文物本体干扰的保护措施。<br><br>    2、消防系统<br><br>    （一）补充当地消防管理部门审核意见书。<br><br>    （二）补充“吉林市亚声安全防范工程有限公司”消防资质证明。<br><br>    （三）进一步完善勘察报告，补充市政供水、消火栓、管径大小、水压及水量等资料，以明确是否满足防火要求。<br><br>    3、防雷系统<br><br>    （一）补充当地消防管理部门审核意见书。<br><br>    （二）补充“吉林市亚声安全防范工程有限公司”防雷资质证明。<br><br>    （三）防雷接地体应按照规范要求，设在非行人通道上，以杜绝跨步电压伤人。<br><br>    （四）防雷接地体、引线等设备的安装应尽量避免对文物环境和风貌的干扰。<br><br>    二、关于丘浚墓安防、消防、防雷系统设计方案<br><br>    1、安防系统<br><br>    （一）增加GB50394―2007《入侵报警系统工程设计规范》、GB50395《视频安防监控系统工程设计规范》、GB50396―2007《出入口控制系统工程设计规范》、GB50311―2007《建筑与建筑群综合布线系统工程设计规范》作为设计依据，并按规范对方案进行调整。<br><br>    （二）系统整体配置过高，设备用量过大，不符合对文物本体最小干预的原则，并增加了后期维护成本。应对户外石质文物采取声音探测手段，取消振动报警设备；减少户外摄像机数量；此外，泛光灯属景观灯，不能纳入安防设计。室内摄像机布置、用量和辅助光源等也应当优化配置，以提高系统的利用率。<br><br>    1、消防系统<br><br>    （一）补充“吉林市亚声安全防范工程有限公司”消防资质证明。<br><br>    （二）丘浚墓均为野外石质文物，原则上不需要安装消防设施；陈列室、库房、丘公祠、碑廊等为非文物建筑，其消防系统应首先报当地消防管理部门审核通过后再报审。<br><br>    3、防雷系统<br><br>    （一）方案中未提供具体的防雷系统设计内容，不符合报审条件，补充当地气象部门审核意见书后重新报审。<br><br>    （二）补充设计单位“吉林市亚声安全防范工程有限公司”防雷设计资质证明。<br><br>    三、关于丘浚故居安防、消防、防雷系统设计方案<br><br>    1、安防系统<br><br>    （一）取消GA/368―2001、GA/T367―2001、GA/394―2002规范，增加GB50394―2007《入侵报警系统工程设计规范》、GB50395―2007《视频安防监控系统工程设计规范》、GB50396―2007《出入口控制系统工程设计规范》、GB50311―2007《建筑与建筑群综合布线系统工程设计规范》标准，并按照新国家标准的要求对方案进行调整。<br><br>    （二）系统整体配置过高，设备用量过大，不符合对文物本体最小干预的原则，并增加了后期维护成本；同时，室内已安装了巡更系统，再增加报警探测功能将造成人为误报。鉴于室内无文物陈列，建议减少室内的安防监控，重点提高周界防护能力。<br><br>    （三）对施工应提出具体的规范措施，避免造成文物建筑的破坏。<br><br>    2、消防系统<br><br>    （一）补充设计单位消防设计资质证明、当地消防管理部门的审核意见。<br><br>    （二）取消室内消火栓设计，以避免对文物本体的直接破坏。<br><br>    3、防雷系统<br><br>    （一）补充设计单位防雷设计资质证明、当地气象部门对本方案的审核意见。<br><br>    （二）避雷针建设高度18米，且距离与文物本体过近，将严重影响文物环境，应采用高效短针等设备。<br><br>    四、关于海瑞墓安防、消防、防雷系统设计方案的批复<br><br>    1、安防系统<br><br>    （一）取消GA/368―2001、GA/T367―2001、GA/394―2002规范，增加GB50394―2007《入侵报警系统工程设计规范》、GB50395―2007《视频安防监控系统工程设计规范》、GB50396―2007《出入口控制系统工程设计规范》、GB50311―2007《建筑与建筑群综合布线系统工程设计规范》标准，并按照新国家标准的要求对方案进行调整。<br><br>    （二）系统整体配置过高，设备用量过大，不符合对文物本体最小干预的原则，并增加了后期维护成本；同时，室内已安装了巡更系统，再增加报警探测功能将造成人为误报。鉴于室内无文物陈列，应减少室内的安防监控，重点提高周界防护能力。<br><br>    （三）对施工应提出具体的规范措施，避免造成文物建筑的破坏。<br><br>    2、消防系统<br><br>    （一）补充设计单位消防设计资质证明、当地消防管理部门对本方案的审核意见。<br><br>    （二）取消室内消火栓设计，以避免对文物本体的直接破坏。<br><br>    （三）消防水池及泵房选址位置与文物本体过近，应暂缓修建消防水池，改为采用极早期空气检测预警系统。<br><br>    3、防雷系统<br><br>    （一）补充设计单位防雷设计资质证明、当地气象部门对本方案的审核意见。<br><br>    （二）避雷针建设距离文物本体过近，将严重影响文物环境，应采用高效短针等设备。<br><br>    （三）避雷带支架安装混凝土支座墩以及在琉璃瓦件上打孔安装有违文物保护的原则，应改用卡箍。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

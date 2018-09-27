@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2004〕155号<BR>&nbsp;&nbsp;【发布日期】2004-12-28<BR>&nbsp;&nbsp;【生效日期】2004-12-28<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_5397/19413.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>保险公司偿付能力报告编报规则――问题解答第2号：次级债、可转换债券、股票和境外外汇投资资产<br><br></font>(保监发〔2004〕155号)</p><br><br><br>各保险公司：<br><br>    随着保险公司融资渠道和投资渠道的不断拓宽，保险公司偿付能力报告编报中出现了一些新的资产和负债项目，需要及时明确其认可标准，以便科学、准确地评估保险公司的偿付能力。经研究，我会制定了《保险公司偿付能力报告编报规则――问题解答第2号：次级债、可转换债券、股票和境外外汇投资资产》，现予印发，请遵照执行。<br><br>    附件：保险公司偿付能力报告编报规则――问题解答第2号：次级债、可转换债券、股票和境外外汇投资资产.DOC<br><br>    二○○四年十二月二十八日<br> <br><br>保险公司偿付能力报告编报规则--问题解答第2号：<br>次级债、可转换债券、股票和境外外汇投资资产<br><br>问：最近中国保监会允许保险公司购买商业银行和保险公司发行的次级债，保险公司应当如何在偿付能力报告中认可自己持有的次级债？如何披露相关信息？<br>答：保险公司持有的次级债应当按照以下标准进行认可：<br>（1）保险公司根据中国保监会的规定持有的商业银行和其他保险公司发行的次级债为认可资产，但超过比例限制持有的部分为非认可资产。保险公司应当以次级债的账面价值（指账面余额扣减计提的减值或跌价准备之后的金额，下同）作为其认可价值。<br>（2）如果发行人已经逾期3个月以上未支付或保险公司预期发行人将无法支付次级债的利息，保险公司应当对持有的所有该发行人的次级债全额计提减值准备，并将其应收利息确认为非认可资产。如果发行人随后全额支付了所欠利息，且保险公司有恰当的证据（如发行人的现金流和盈利能力有明显改善）合理预期发行人能够支付以后的本息，则可以将计提的减值准备转回，并在偿付能力报表附注中披露相关证据。<br>保险公司持有的次级债在认可资产表的"金融债券"项目中反映。保险公司应当在偿付能力报表附注中披露：（1）报告期内次级债的增减情况；（2）可能影响次级债本息可收回性的重大事项；（3）报告期内将次级债重新确认为认可资产（如有）的证据。 <br>保险公司应当在偿付能力报告明细表SDA（见附件1）中披露发行人和次级债合同的相关信息，以及次级债的认可价值等信息。<br><br>问：保险公司如何在偿付能力报告中认可和反映定向募集的次级债？<br>答：保险公司根据《保险公司次级定期债务管理暂行办法》（保监会令〔2004〕10号）定向募集的次级债，应当在到期日前将次级债按以下折算比例确认为认可负债，认可价值为次级债的账面价值（包括一次还本付息次级债的应计利息）与相应折算比例的乘积:<br>剩余年限在4年（含4年）以上        0<br>剩余年限在3－4年（含3年）的      20％<br>剩余年限在2－3年（含2年）的      40％<br>剩余年限在1－2年（含1年）的      60％<br>剩余年限在1年以内的               80％<br>分期付息次级债的应付利息为认可负债，以账面价值作为其认可价值。<br>如果保险公司提前偿还某合同下的全部（或部分）次级债，则应当从合同双方确定提前偿还之日起，将所要偿还的次级债本息确认为认可负债，该合同下未偿还的次级债本息仍按上述折算比例确认为认可负债。<br>保险公司应当在认可负债表的"卖出回购证券"项目与"其他负债"项目之间增加"应付次级债"项目反映次级债确认为认可负债的价值。保险公司应当在偿付能力报表附注中披露报告期内次级债的募集情况和影响次级债本息偿付能力的重大事项，并在偿付能力报告明细表SDL（见附件2）中披露债权人和次级债合同的相关信息，以及次级债的账面价值和认可价值等信息。<br><br>问：可转换债券（以下简称"可转债"）是否属于认可资产？在认可资产表中如何反映？<br>    答：可转债为认可资产，但违反中国保监会规定比例限制持有的可转债为非认可资产。无论公司管理层是否有意长期持有可转债，保险公司均应以可转债的账面价值与市价的低者作为其认可价值。可转债在认可资产表的"企业债券"项目中反映。<br><br>问：保险公司根据《保险机构投资者股票投资管理暂行办法》（保监会令〔2004〕12号）持有的股票应当如何认可？如何披露相关信息？<br>答：保险公司根据《保险机构投资者股票投资管理暂行办法》持有的股票为认可资产。无论公司管理层是否有意长期持有，保险公司均应以股票的账面价值与市价的低者作为其认可价值。由于被投资公司业绩下滑、人为操纵股价等因素使保险公司持有的股票成为《保险机构投资者股票投资管理暂行办法》第十四条所规定的禁止投资的股票，保险公司应当将其确认为非认可资产。<br>保险公司除了应当在认可资产表的"股权投资"项目中反映股票投资的认可价值外，还应当在偿付能力报告明细表SK（见附件3）中披露股票投资的被投资人、持股比例、取得时间、账面价值、市价、认可价值等信息。<br><br>问：保险公司外汇资金境外运用所取得的投资资产如何认可？在认可资产表中如何反映？ <br>    答：保险公司根据《保险外汇资金境外运用管理暂行办法》（保监会令〔2004〕9号）取得的外汇投资资产为认可资产，其中：<br>（1）保险公司在中资商业银行的境外分行和外国银行的存款以账面价值作为其认可价值，在认可资产表的"存款"项目中反映。<br>（2）保险公司购买的债券以账面价值作为其认可价值。保险公司购买的中国政府在境外发行的债券和外国政府债券在认可资产表的"政府债券"项目中反映，购买的国际金融组织债券在认可资产表的"金融债券"项目中反映，购买的中国企业在境外发行的债券和外国公司债券按债券类别在认可资产表的"企业债券"或"金融债券"项目中反映。<br>（3）保险公司购买的货币市场产品应当按照成本与市价孰低法计价，在认可资产表的"其他投资资产"项目中反映。<br>保险公司持有的下列境外外汇投资资产为非认可资产：<br>（1）违反中国保监会规定比例限制持有的境外外汇投资资产；<br>（2）由于当地的外汇管制、政治动乱、战争、金融危机等原因而导致保险公司对其支配或处置受到限制的境外外汇投资资产。<br>保险公司应当在偿付能力报告明细表FIA（见附件4）中披露外汇资金余额、国家外汇管理局批准的投资付汇额度、外汇资金境外运用的投资品种、国别、信用等级、到期日、利率、账面价值、认可价值等信息。<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监办[2007]233号<BR>&nbsp;&nbsp;【发布日期】2007-04-23<BR>&nbsp;&nbsp;【生效日期】2007-04-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64020064.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于开展特殊药品监控信息网络试运行工作的通知<br> <br></font>(国食药监办[2007]233号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为贯彻实施《麻醉药品和精神药品管理条例》，提高对特殊药品监管的效能，国家食品药品监督管理局（以下称国家局）委托中信21世纪有限公司承建特殊药品监控信息网络系统（以下称特药网络系统）。中信21世纪有限公司初步设计完成特药网络系统后，国家局组织了多次论证并在部分企业开展试点，现该系统已基本具备了对特殊药品日常监管工作所需的流向跟踪、异常预警、计划管理、信息传递、统计、系统管理等功能。为进一步推进特药网络系统建设，国家局计划于2007年4月～6月在部分省（市）进行特药网络系统建设试运行。现将有关事宜通知如下：<br><br>    一、工作目标<br>    （一）探索在试运行地区对麻醉药品和第一类精神药品制剂及小包装原料药的生产、流通、库存等信息实行实时监控。<br>    （二）实现试运行范围内已有省级特药网络系统与国家特药网络系统数据交换。<br>    （三）对特药网络系统的功能进行检验和完善。<br>    （四）为特药网络系统向全国推广积累经验。<br><br>    二、试运行范围<br>    （一）试运行地区<br>    北京市、河北省、山西省、辽宁省、上海市、福建省、安徽省、湖北省、重庆市、云南省、青海省<br>    （二）试运行单位<br>    1．试运行地区的省级、设区的市级（食品）药品监督管理局。<br>    2．部分麻醉药品和第一类精神药品定点生产企业（名单见附件1）。<br>    3．试运行地区的麻醉药品和第一类精神药品定点经营企业。<br><br>    三、工作内容及要求<br>    参加试运行的定点生产、经营企业对麻醉药品和第一类精神药品进行赋码、扫码并利用特药网络系统报送相关数据；省级、设区的市级（食品）药品监督管理局利用特药网络系统对麻醉药品和第一类精神药品的流向进行监控。<br><br>    （一）已经完成试点的定点生产、经营企业继续利用特药网络系统报送数据。<br>    （二）参加试运行的其他定点生产企业应当于2007年6月10日前完成生产线改造，并对所生产的麻醉药品和第一类精神药品制剂及小包装原料药开始赋码、数据采集，通过特药网络系统报送数据。所需设备（见附件2）由企业自主采购。<br>    （三）参加试运行的其他定点经营企业应当于2007年5月20日前完成数据采集准备工作，并对所经营的已赋码麻醉药品和第一类精神药品制剂及小包装原料药开始扫码、数据采集，通过特药网络系统报送数据。所需设备（见附件2）由企业自主采购。<br>在省级特药网络系统与国家特药网络系统对接之前，河北省、福建省、重庆市的区域性批发企业仍按照原渠道和方式报送数据。<br>    （四）参加试运行的省级、设区的市级（食品）药品监督管理局于2007年5月20日起开始利用特药网络系统进行基础数据维护，并对药品流向进行监控。所需设备见附件2。<br>其中已有省级特药网络系统的，在继续使用原网络系统的同时，应当于2007年6月10日前，完成与国家特药网络系统的对接，并实现数据交换和麻醉药品、第一类精神药品流向的监控。<br>    （五）国家局组织对试运行单位的相关人员进行培训（培训方案见附件3），具体培训工作委托中信21世纪有限公司承担。各相关单位应按照要求派人参加培训。<br>    （六）国家局将组织对试运行情况进行总结，进一步完善特药网络系统功能，以便向全国推广。<br><br>    四、其它事宜<br>    国家局将对参加试运行的省级（食品）药品监督管理局给予一定的经费支持，承担已有的省级特药网络系统与国家特药网络系统对接所发生的费用，承担试运行期间的密钥费；企业自行承担所发生的其他相关费用。<br><br>    建设特药网络系统既是贯彻实施《麻醉药品和精神药品管理条例》的相关规定，也是利用现代化手段加强特殊药品监管、提高监管效能的必然要求。参加试运行的单位要高度重视，成立专门领导小组并指定专人负责。要明确责任，周密安排，狠抓落实，严格按照国家局的工作部署，完成相关工作任务，确保试运行工作的顺利进行。<br><br>    在试运行过程中有何问题和建议，请及时联系和反馈。<br>    联 系 人：李卫华、杨  霆<br>    国家局药品安全监管司<br>    联系电话：（010）88331008、88331018<br>    传    真：（010）68336683<br>    电子邮件：liwh@sda.gov.cn、yangting1018@sohu.com<br>    联 系 人：隆  青<br>    中信21世纪有限公司<br>    联系电话：（010）58259103<br>    传    真：（010）58259111<br>    电子邮件：longqing@95001111.com<br><br><br>    附件：1．麻醉药品和第一类精神药品生产企业名单<br>          2．特药网络系统用户配置基本需求<br>          3．特药网络系统试运行培训方案<br><br><br>                                                        国家食品药品监督管理局<br>                                                        二○○七年四月二十三日<br> <br>附件2：<br>                          特药网络系统用户配置基本需求<br><br>    一、省级、设区的市级（食品）药品监督管理局<br>    具备计算机和互联网接入条件。其中：计算机要求有USB接口，显示器支持1024*768的分辨率，安装IE6.0或以上版本浏览器。<br><br>    二、定点生产企业<br>    （一）配置生产线赋码设备、条码采集设备、工控计算机。<br>    （二）具备计算机和互联网接入条件。其中：计算机要求为CPU P4 1.2G或以上，内存256M或以上，硬盘剩余空间200M或以上，有USB接口，显示器支持1024*768分辨率，安装Windows XP或Windows2000系统及IE6.0或以上版本浏览器。<br><br>    三、定点经营企业<br>    配置条码采集设备，具备计算机和互联网接入条件。其中计算机要求同定点生产企业。<br><br><br>附件3：<br>                           特药网络系统试运行培训方案<br><br>    一、培训目标<br>    通过培训，使试运行单位相关人员掌握特药网络系统的操作规范，入网流程及需要开展的相关工作。使相关人员能够正确使用该系统；使企业的软件维护人员掌握系统客户端的安装、参数设置和软件升级等操作。<br><br>    二、培训范围<br>    省级、设区的市级（食品）药品监督管理局：特药网络系统的使用人员和省级局负责基础数据维护人员。<br>    定点生产企业：分管生产的企业负责人、生产主管人员、药品仓库业务主管、软件系统维护人员；<br>    定点经营企业：分管麻醉药品和第一类精神药品经营的企业负责人、药品仓库业务主管、软件系统维护人员。<br><br>    三、培训方式<br>    进行集中培训，采取讲解和上机操作相结合的方式。<br><br>    四、培训内容<br>    药监局：信息管理、计划管理、运输监控、预警管理、流向查询、库存查询、统计报表等。<br>    定点生产企业：生产线赋码标准、仓库数据采集标准、客户端安装维护、企业信息管理、药监码管理、关联关系上传、入出库信息上报、药品信息查询、入网流程、系统相关规范<br>定点经营企业：仓库数据采集标准、客户端安装维护、企业信息管理、入出库信息上报、药品信息查询、入网流程、系统相关规范<br><br>    五、培训材料<br>    （一）软件使用手册：药监局端、生产企业端和经营企业端的软件使用手册；<br>    （二）软件安装手册：企业客户端安装手册；<br>    （三）其它相关材料。<br><br>    六、其他事项<br>    陆续对定点生产企业、定点经营企业和药监局的相关人员进行培训，具体培训安排国家局将另行通知。<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监市[2006]107号<BR>&nbsp;&nbsp;【发布日期】2006-03-16<BR>&nbsp;&nbsp;【生效日期】2006-03-16<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64008709.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于医用诊断X射线设备等产品质量监督抽验结果的通报<br><br></font>(国食药监市[2006]107号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    根据2005年国家医疗器械质量监督抽验计划，国家局组织对医用诊断X射线设备、X射线计算机体层摄影设备、体外冲击波碎石机、呼吸机、红外乳腺检查仪、红外治疗设备、微波治疗设备、麻醉机和吸引器类产品进行了质量监督抽验。现将抽验情况通报如下：<br><br>    一、抽验情况<br>    （一）医用诊断X射线设备<br>此次共抽验21家生产企业的21台产品。依据国家标准GB9706.1－1995《医用电气设备第一部分：安全通用要求》、GB9706.3－2000《医用电气设备第2部分：诊断X射线发生装置的高压发生器安全专用要求》、GB9706.12－1997《医用电气设备第一部分：安全通用要求三、并列标准诊断X射线设备辐射防护通用要求》及GB9706.14－1997《医用电气设备第2部分：X射线设备附属设备安全专用要求》进行检验。检验项目为：电源熔断器标记、保护接地端子的符号、导线绝缘的颜色等32项指标。经检验，17台产品被检验项目合格，4台产品被检验项目不合格（见附件）。<br>    （二）X射线计算机体层摄影设备（CT）<br>    此次共抽验2家生产企业的2台产品。依据国家标准GB9706.1－1995《医用电气设备第一部分：安全通用要求》和GB9706.18－2000《医用电气设备第2部分：X射线计算机体层摄影设备安全专用要求》进行检验。检验项目为：电源熔断器标记、保护接地端子的符号、导线绝缘的颜色等20项指标。经检验，2台产品被检验项目合格（见附件）。<br>    （三）体外冲击波碎石机<br>    此次共抽验10家生产企业的10台产品。依据行业标准YY0001－90《体外冲击波碎石机通用技术条件》、国家标准GB9706.22－2003《医用电气设备第2部分：体外引发碎石设备安全专用要求》、GB9706.1－1995《医用电气设备第1部分：安全通用要求》及注册产品标准（企业标准）进行检验。检验项目为：第二焦点冲击波脉宽、第二焦点冲击波前沿、控制器件和仪表的标记等15项指标。经检验，6台产品被检验项目合格，4台产品被检验项目不合格（见附件）。<br>    （四）呼吸机<br>    此次共抽验10家生产企业和4家经营企业的14台产品，涉及14家标示生产企业。依据国家标准GB9706.1－1995《医用电气设备第一部分：安全通用要求》、行业标准YY91108－1999《气动呼吸机》、YY91041－1999《电动呼吸机》、YY0042－91《高频喷射呼吸机》及注册产品标准（企业标准）进行检验。检验项目为：呼吸频率、呼吸相时间比、潮气量调节范围（喷气量）等17项指标。经检验，10台产品被检验项目合格，4台产品被检验项目不合格（见附件）。<br>    （五）红外乳腺检查仪<br>    此次共抽验5家生产企业的5台产品。依据国家标准GB9706.1-1995《医用电气设备第一部分：安全通用要求》、行业标准YY0324-2000《红外乳腺检查仪》及注册产品标准（企业标准）进行检验。检验项目为：正常工作温度下电介质强度、正常工作温度下连续漏电流、保护接地阻抗等7项指标。经检验，4台产品被检验项目合格，1台产品被检验项目不合格（见附件）。<br>    （六）红外治疗设备<br>    此次共抽验6家生产企业的6台产品。依据国家标准GB9706.1-1995《医用电气设备第一部分：安全通用要求》、行业标准YY0323-2000《红外治疗设备安全专用要求》及注册产品标准（企业标准）进行检验。检验项目为：正常工作温度下电介质强度、正常工作温度下连续漏电流、保护接地阻抗等7项指标。经检验，3台产品被检验项目合格，3台产品被检验项目不合格（见附件）。<br>    （七）微波治疗设备<br>    此次共抽验11家生产企业和1家经营企业的12台产品，涉及12家标示生产企业。依据国家标准GB9706.1-1995《医用电气设备第一部分：安全通用要求》和GB9706.6-1992《医用电气设备微波治疗设备专用安全要求》进行检验。检验项目为:正常工作温度下电介质强度、正常工作温度下连续漏电流、保护接地阻抗等7项指标。经检验，12台产品被检验项目合格（见附件）。<br>    （八）麻醉机<br>    此次共抽验6家生产企业的6台产品。依据行业标准YY0320-2000《麻醉机》进行检验。检验项目为：边和角、控制开关、管道进口接头等20项指标。经检验，3台产品被检验项目合格，3台产品被检验项目不合格（见附件）。  <br>    （九）吸引器类产品<br>    此次共抽验9家生产企业和1家经营企业的12台产品。其中，电动吸引器8台，脚踏吸引器4台，共涉及9家标示生产企业。<br>    电动吸引器依据国家标准GB9706.1－1995《医用电气设备第一部分：安全通用要求》、行业标准YY0100－1993《电动吸引器》进行检验。检验项目为：正常工作温度下电介质强度、正常工作温度下连续漏电流、保护接地阻抗等9项指标。经检验，6台产品被检验项目合格，2台产品被检验项目不合格（见附件）。<br>    脚踏吸引器依据行业标准YY0101－1993《脚踏吸引器》进行检验。检验项目为：极限负压值、气密性、脚踏力等3项指标。经检验，3台产品被检验项目合格，1台产品被检验项目不合格（见附件）。<br><br>    二、处理要求<br>    对此次监督抽验不合格的产品及企业，有关省（区、市）食品药品监督管理部门应依照《医疗器械监督管理条例》的规定予以查处，责令生产企业限期整改，切实强化质量控制，严禁不合格产品出厂；对已上市的不合格产品要采取必要的纠正措施，保证其安全有效。<br>    有关问题查处情况，请于2006年4月30日前报国家食品药品监督管理局药品市场监督司。<br><br>    附件：国家医疗器械质量公告（[2006]第3期，总第26期）<br><br>                                                        国家食品药品监督管理局<br>                                                         二○○六年三月十六日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

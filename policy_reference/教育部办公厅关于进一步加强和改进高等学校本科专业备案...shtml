@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】教高厅〔2007〕2号<BR>&nbsp;&nbsp;【发布日期】2007-06-21<BR>&nbsp;&nbsp;【生效日期】2007-06-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info30103.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于进一步加强和改进高等学校本科专业备案和审批管理工作的通知<br><br></font>(教高厅〔2007〕2号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局，有关部门（单位）教育司（局），部属各高等学校：<br><br>    为贯彻落实《教育部关于进一步深化本科教学改革，全面提高教学质量的若干意见》（教高〔2007〕2号），加强专业设置管理，引导高校本科专业设置更好地适应国家经济社会发展需要，促进高等学校提高教育教学质量和办出特色，现就近期高等学校本科专业备案和审批工作提出以下改进意见：<br><br>    一、认真做好专业设置和建设规划工作。各地、各部门、各高等学校要从国家经济社会发展对人才的实际需求出发，认真分析毕业生就业状况及发展趋势，根据学校的办学优势和特色，加大专业结构调整力度，优化人才培养结构，认真制订好“十一五”期间专业设置和建设规划。反对因人设事，不搞平衡照顾，已连续四年不招生的专业应予撤销。<br><br>    二、加强专业建设，严格控制年度专业增设总量。高等学校要在《普通高等学校本科专业目录》（以下简称《目录》）内大力培育优势明显、特色鲜明的专业，加大建设力度，逐步形成品牌。新建本科院校首批设置的本科专业原则上不超过6个，举办本科教育未满三年（含三年）的本科院校，年度增设专业数一般不超过5个，且不得增设《目录》外专业。其他高等学校年度增设专业数一般不超过3个。对专业平均年招生规模不足60人的高等学校，在申请新增专业时，每增加一个新专业，应同时撤销一个旧专业。<br><br>    三、注重拓宽专业口径，灵活设置专业方向，严格《目录》外专业的论证程序。要根据国家对各专业建设的要求，在进一步拓宽专业口径的基础上，在高年级灵活设置专业方向。严格控制增设新的《目录》外专业，高校申请设置新的《目录》外专业，必须按《目录》外专业论证程序进行论证，并在提交规定的申报材料同时，将电子版的申报材料（文件名称应为：学校名称加专业名称）发至Zhangqg@moe.edu.cn。教育部学科发展与专业设置专家委员会秘书处(设在高等教育司综合处)就此将征求相关教学指导委员会委员的意见。<br><br>    四、从2007年开始，高等学校申请备案、审批的专业申报截止时间调整为每年8月31日（比原规定时间提前2个月）。各地、各部门、各高等学校要据此合理安排好专业申报工作。专业备案、审批工作每年集中进行一次，其他时间原则上不受理专业备案和审批事宜。<br><br>    五、从2007年开始，专业备案和审批工作试用新的报表进行申报：<br><br>    1.学校主管部门将所属高等学校年度申报的专业进行汇总，填写《年度高等学校专业设置汇总表》（见附件1），一式两份报教育部。教育部直属高校填写《年度高等学校专业设置汇总表》后，一式两份直接报教育部。<br><br>    2.高等学校凡申请增设、调整专业，均须填写《高等学校增设专业申请表（试行）》（见附件2）。申请设置由教育部审批的专业，需将《高等学校增设专业申请表（试行）》及有关材料一式两份报教育部。其中设置医学类、中医学类、公安类专业，应附省级卫生、公安等相关行政部门对增设专业意见的文件。<br><br>    六、完善新建院校专业设置的管理办法。各地、各部门在向教育部申请设置新的高等学校的同时，应报送学校拟设专业情况。拟新建的本科院校申报专业时间和申请表格，按本文及专业设置有关规定执行，并须在学校名称一栏中注明“拟新设置”。教育部将在批准设置新本科院校的文件上同时下达该校首批设置的专业名称。<br><br>    七、从严掌握第二学士学位专业和高职高专临床医学类、公安类专业，以及非师范专科学校申请设置高职高专教育类专业的审批。此类专业的申报时间和申请表格，按本文及有关规定执行。<br><br>    附件：1.年度高等学校专业设置汇总表<br><br>          2.高等学校增设专业申请表（试行）                  <br><br>教育部办公厅<br><br>二○○七年六月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

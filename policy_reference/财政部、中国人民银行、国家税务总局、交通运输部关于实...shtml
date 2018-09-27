@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】财政部、中国人民银行、国家税务总局、交通运输部<BR>&nbsp;&nbsp;【发布文号】财预[2008] 479号<BR>&nbsp;&nbsp;【发布日期】2008-12-24<BR>&nbsp;&nbsp;【生效日期】2008-12-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/8750837.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>财政部、中国人民银行、国家税务总局、交通运输部关于实施成品油价格和税费改革有关预算管理问题的通知<br> <br></font>(财预[2008] 479号)</p><br><br><br>国务院各部委、各直属机构，总后勤部，高法院，高检院，各省、自治区、直辖市及计划单列市财政厅（局）、国家税务局、地方税务局、交通厅（局、委），新疆生产建设兵团财务局，中国人民银行上海总部、各分行、营业管理部、省会（首府）城市中心支行、大连、青岛、宁波、厦门、深圳中心支行：<br>    根据《国务院关于实施成品油价格和税费改革的通知》（国发[2008]37号），为做好成品油消费税的征收入库工作，加强成品油消费税资金分配和使用的管理，提高资金效益，现就提高成品油消费税单位税额后有关预算管理事宜通知如下：<br>    一、预算管理方式<br>    自2009年1月1日起，取消公路养路费、航道养护费、公路运输管理费、公路客货运附加费、水路运输管理费、水运客货运附加费等六项收费，并逐步有序取消政府还贷二级公路收费。原通过上述收费收入安排的人员支出以及公路养护和建设、公路运输和站场建设与养护、航道养护和水路管理及中央本级替代性等方面的支出纳入一般预算管理，由财政部门通过部门预算或经财政部门批准的列支渠道予以保障。<br>    二、收入预算级次和分配原则<br>    （一）成品油消费税和进口成品油消费税为中央收入，全部缴入中央财政。<br>    （二）提高成品油消费税税额后，由此相应增加的地方增值税、城市维护建设税、教育费附加收入由国库部门根据财政部核定的比例自动划转中央财政。<br>    （三）新增成品油消费税连同由此相应增加的增值税、城市维护建设税和教育费附加收入具有专项用途，不作为经常性财政收入，不计入对地方“两税”返还，不计入现有与支出挂钩项目的测算基数。除由中央本级安排的替代航道养护费等支出外，其余由中央财政通过规范的财政转移支付方式分配给地方。<br>    三、政府收支分类科目的修订<br>    （一）收入分类<br>    1.在101类“税收收入”02款“消费税”01项“国内消费税”下新增07目“成品油消费税”、21目“成品油消费税退税”。在02项“进口消费品消费税”下新增02目“进口成品油消费税”、21目“进口成品油消费税退税”。<br>    2.在101类“税收收入”01款“增值税”01项“国内增值税”下增设52目“成品油价格和税费改革增值税划出”和53目“成品油价格和税费改革增值税划入”；在09款“城市维护建设税”下增设21项“成品油价格和税费改革城市维护建设税划出”和22项“成品油价格和税费改革城市维护建设税划入”；在103类“非税收入”02款“专项收入”03项“教育费附加收入”下增设02目“成品油价格和税费改革教育费附加收入划出”和03目“成品油价格和税费改革教育费附加收入划入”。<br>    3.在103类“非税收入”99款“其他收入”下新增60项“成品油价格和税费改革清退补缴收入”。<br>    4.删除103类“非税收入”01款“政府性基金收入”下10项“养路费收入”、11项“公路客货运附加费收入”及目级科目、12项“燃油附加费收入”、13项“水运客货运附加费”。删除02款“专项收入”下07项“内河航道养护费收入”、08项“公路运输管理费收入”、09项“水路运输管理费收入”。删除04款“行政事业性收费收入”42项“交通运输行政事业性收费收入”下51目“长江干线航道养护费”。<br>    5.在110类“转移性收入”02款“财力性转移支付收入”下新增15项“成品油价格和税费改革转移支付补助收入”、16项“成品油价格和税费改革专项上解收入”。<br>    （二）支出功能分类科目<br>    1.删除214类“交通运输”01款“公路水路运输”下15项“养路费支出”、16项“公路运输管理费支出”、17项“公路客货运附加费支出”、34项“水运客货运附加费支出”、35项“内河航道养护费支出”。将36项“水路运输管理费支出”名称修改为“水路运输管理支出”。新增39项“取消政府还贷二级公路收费专项支出”，反映专项用于各地逐年有序解决已经取消的政府还贷二级收费公路债务偿还、人员安置、养护管理和公路建设等方面的支出。<br>    2.在230类“转移性支出”02款“财力性转移支付”下新增15项“成品油价格和税费改革转移支付补助支出”、16项“成品油价格和税费改革专项上解支出”。<br>    四、预算收入缴库和调库<br>    （一）成品油消费税由国家税务局组织征收，进口成品油的消费税由海关系统负责征收。<br>    （二）在国家税务局（海关系统）征收成品油消费税时，应单独开具缴款书缴入中央国库。预算科目栏填写101020107目“成品油消费税”（101020202目“进口成品油消费税”），“级次”栏填写“中央100%”。<br>    （三）国库部门根据101020107目“成品油消费税”入库金额，按财政部核定的比例（增值税为3.6%、城市维护建设税为6.9%、教育费附加收入为3.0%）和省（区、市）以下政府增值税、城市维护建设税、教育费附加收入分享比例，将地方因提高消费税税额增加的增值税、城市维护建设税和教育费附加收入划转入中央国库；根据101020121目“成品油消费税退税”金额，按财政部核定的比例（增值税为3.6%、城市维护建设税为6.9%、教育费附加收入为3.0%）和省（区、市）以下政府增值税、城市维护建设税、教育费附加收入分享比例，将划转到中央国库的增值税、城市维护建设税和教育费附加收入退还至地方国库。<br>    （四）101020202目“进口成品油消费税”、101020221目“进口成品油消费税退税”不参与划转手续。<br>    五、资金拨付<br>    2009年1月1日起，取消公路养路费等六项收费。为解决交通部门在养护管理、人员安置、公路水运建设等方面支出需要，中央财政已通过资金调度方式向地方财政提前拨付了一定额度资金，2009年起，按月向地方财政拨付资金。地方财政部门要按照财政国库管理制度有关规定将中央财政拨付的资金及时足额拨付给相关部门和单位。<br>    六、以前年度税费超缴、欠缴、漏缴及结余处理<br>    （一）以前年度超缴、欠缴、漏缴的成品油消费税按修订后的科目分别办理清退和补缴手续。<br>    （二）预征2009年以及2008年12月31日以前超缴、欠缴、漏缴的公路养路费等六费，通过1039960项“成品油价格和税费改革清退补缴收入”办理清退和补缴手续。<br>    （三）以前年度公路养路费、公路客货运附加费、燃油附加费、水运客货运附加费、长江干线航道养护费的滚存结余，全部作为一般预算当年收入，缴入“成品油价格和税费改革清退补缴收入”科目，并按原规定用途安排相关支出。基金预算（财政专户会计）冲减“基金预算结余”（“预算外结余”），同时财政总预算会计记“一般预算收入”。<br>    七、其他<br>    （一）各省（区、市）财政厅（局）要根据本通知要求，按照“资金属性不变、资金用途不变、地方预算程序不变、地方事权不变”的原则，结合本地实际，制定本地区实施成品油价格和税费改革有关预算管理办法，确保改革顺利实施。<br>    （二）地方政府原从公路养路费等收费中安排的水利建设基金、公安机关交通管理经费等支出，按原相关规定由地方财政从中央财政安排的成品油价格和税费改革转移支付资金中安排。<br>    （三）本通知自2009年1月1日起执行。<br>    附件：2009年政府收支分类科目修订情况<br><br>财政部 中国人民银行 国家税务总局 交通运输部<br>二OO八年十二月二十四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家发展改革委<BR>&nbsp;&nbsp;【发布文号】发改财金[2008]7号<BR>&nbsp;&nbsp;【发布日期】2008-01-02<BR>&nbsp;&nbsp;【生效日期】2008-01-02<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sdpc.gov.cn/zcfb/zcfbtz/2008tongzhi/t20080104_183406.htm" target=_blank>国家发展改革委 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家发展改革委关于推进企业债券市场发展、简化发行核准程序有关事项的通知<br><br></font>(发改财金[2008]7号)</p><br> <br><br>各省、自治区、直辖市及计划单列市、新疆生产建设兵团发展改革委，有关部门，有关中央企业：<br>    为进一步推动企业债券市场化发展，扩大企业债券发行规模，经国务院同意，对企业债券发行核准程序进行改革，将先核定规模、后核准发行两个环节，简化为直接核准发行一个环节。现将有关事项通知如下：<br>    一、中华人民共和国境内注册登记的具有法人资格的企业申请发行企业债券，应按照《证券法》、《公司法》、《企业债券管理条例》等法律法规及有关文件规定的条件和程序，编制公开发行企业(公司)债券申请材料（见附件一、二），报国家发展改革委核准。<br>    本通知所称企业债券，是指企业依照法定程序公开发行并约定在一定期限内还本付息的有价证券，包括依照公司法设立的公司发行的公司债券和其他企业发行的企业债券。上市公司发行的公司债券按其他有关规定执行。<br>    二、企业公开发行企业债券应符合下列条件：<br>    （一）股份有限公司的净资产不低于人民币3000万元，有限责任公司和其他类型企业的净资产不低于人民币6000万元；<br>    （二）累计债券余额不超过企业净资产（不包括少数股东权益）的40%；<br>    （三）最近三年可分配利润（净利润）足以支付企业债券一年的利息；<br>    （四）筹集资金的投向符合国家产业政策和行业发展方向，所需相关手续齐全。用于固定资产投资项目的，应符合固定资产投资项目资本金制度的要求，原则上累计发行额不得超过该项目总投资的60%。用于收购产权（股权）的，比照该比例执行。用于调整债务结构的，不受该比例限制，但企业应提供银行同意以债还贷的证明；用于补充营运资金的，不超过发债总额的20%；<br>    （五）债券的利率由企业根据市场情况确定，但不得超过国务院限定的利率水平；<br>    （六）已发行的企业债券或者其他债务未处于违约或者延迟支付本息的状态；<br>    （七）最近三年没有重大违法违规行为。<br>    三、完善企业债券市场化约束机制，企业可发行无担保信用债券、资产抵押债券、第三方担保债券。<br>    四、中央直接管理企业的申请材料直接申报；国务院行业管理部门所属企业的申请材料由行业管理部门转报；地方企业的申请材料由所在省、自治区、直辖市、计划单列市发展改革部门转报。<br>    公开发行企业（公司）债券申请材料应真实、准确、完整，凡对投资者作出购买债券决策有重大影响的信息均应披露，发行人及参与债券发行的各有关方应承担相应的责任。<br>    五、国家发展改革委受理企业发债申请后，依据法律法规及有关文件规定，对申请材料进行审核。符合发债条件、申请材料齐全的直接予以核准。申请材料存在不足或需要补充有关材料的，应及时向发行人和主承销商提出反馈意见。发行人及主承销商根据反馈意见对申请材料进行补充、修改和完善，重要问题应出具文件进行说明。<br>    国家发展改革委自受理申请之日起3个月内（发行人及主承销商根据反馈意见补充和修改申报材料的时间除外）作出核准或者不予核准的决定，不予核准的，应说明理由。<br>    六、债券筹集资金必须按照核准的用途，用于本企业的生产经营，不得擅自挪作他用。不得用于弥补亏损和非生产性支出，也不得用于房地产买卖、股票买卖以及期货等高风险投资。<br>    推进企业债券市场发展，需要不断优化市场基础环境。提高企业偿债意识，强化信息披露。充分发挥中介机构作用，形成由市场识别风险、承担风险、控制风险的有效机制，推动企业债券市场协调可持续发展。在信息披露、信用评级、承销组团、利率确定、财务审计、法律意见等方面仍需按现行规定认真执行。<br><br>    附件：一、公开发行企业（公司）债券申请材料目录<br>          二、企业（公司）债券募集说明书目录<br><br>中华人民共和国国家发展和改革委员会<br>二○○八年一月二日<br> <br><br>附件一：<br><br>公开发行企业（公司）债券申请材料目录<br><br><br>    一、发行申请材料的纸张、封面及份数<br>    （一）纸张<br>    应采用幅面为210×297毫米规格的纸张（A4纸张规格）。<br>    （二）封面<br>    1、标有“××××公开发行企业（公司）债券申请材料”字样。按照《公司法》设立的公司制企业发行企业债券可称为公司债券。<br>    2、申请企业名称、住所、联系电话、联系人、邮政编码。<br>    3、主承销商名称、住所、联系电话、联系人、邮政编码。<br>    4、申报时间。<br>    （三）份数<br>    申请材料为一份原件及电子文档。<br>    二、发行申请材料目录<br>    （一）国务院行业管理部门或省级发展改革部门转报发行企业债券申请材料的文件；<br>    （二）发行人关于本次债券发行的申请报告；<br>    （三）主承销商对发行本次债券的推荐意见（包括内审表）；<br>    （四）发行企业债券可行性研究报告，包括债券资金用途、发行风险说明、偿债能力分析等；<br>    （五）发债资金投向的有关原始合法文件；<br>    （六）发行人最近三年的财务报告和审计报告（连审）及最近一期的财务报告；<br>    （七）担保人最近一年财务报告和审计报告及最近一期的财务报告（如有）；<br>    （八）企业（公司）债券募集说明书；<br>    （九）企业(公司)债券募集说明书摘要；<br>    （十）承销协议；<br>    （十一）承销团协议；<br>    （十二）第三方担保函（如有）；<br>    （十三）资产抵押有关文件（如有）；<br>    （十四）信用评级报告；<br>    （十五）法律意见书；<br>    （十六）发行人《企业法人营业执照》（副本）复印件；<br>    （十七）中介机构从业资格证书复印件；<br>    （十八）本次债券发行有关机构联系方式；<br>    （十九）其他文件。<br><br><br>附件二：<br><br>×××企业（公司）债券募集说明书<br>基本格式<br><br>    募集说明书应包括封面、扉页、目录、释义和正文内容等部分。<br>    募集说明书扉页应包括以下内容：①发行人或发行人董事会声明；如：“发行人或发行人董事会已批准本期债券募集说明书及其摘要，发行人领导成员或全体董事承诺其中不存在虚假记载、误导性陈述或重大遗漏，并对其真实性、准确性、完整性承担个别和连带的法律责任”。②企业负责人和主管会计工作的负责人、会计机构负责人声明；如：“企业负责人和主管会计工作的负责人、会计部门负责人保证本期债券募集说明书及其摘要中财务报告真实、完整”。③主承销商勤勉尽责声明；④投资提示；如“凡欲认购本期债券的投资者，请认真阅读本募集说明书及其有关的信息披露文件，并进行独立投资判断。主管部门对本期债券发行所作出的任何决定，均不表明其对债券风险作出实质性判断。”“凡认购、受让并持有本期债券的投资者，均视同自愿接受本募集说明书对本期债券各项权利义务的约定”。“债券依法发行后，发行人经营变化引致的投资风险，投资者自行负责”。⑤其他重大事项或风险提示；⑥本期债券基本要素；债券名称、发行总额、期限、利率、发行方式、发行对象、信用级别、担保等。<br>    募集说明书释义应在目录次页排印，对募集说明书中的有关机构简称、代称、专有名词、专业名词进行准确、简要定义。<br><br>    募集说明书的主要内容目录如下：<br><br>    第一条  债券发行依据<br>    本次发行的审批文件文号<br>    第二条  本次债券发行的有关机构<br>    主要包括：本次发行涉及的机构的名称、法定代表人、经办人员、办公地址、联系电话、传真、邮政编码等。<br>    第三条  发行概要<br>    主要包括：债券名称、发行总额、期限、利率、还本付息、发行价格、发行方式、发行对象、发行期、认购托管、承销方式、信用级别、担保、重要提示等。<br>    第四条  承销方式<br>    第五条  认购与托管<br>    第六条  债券发行网点<br>    第七条  认购人承诺<br>    第八条  债券本息兑付办法<br>    第九条  发行人基本情况<br>    主要包括：发行人概况；历史沿革；股东情况；公司治理和组织结构；发行人与母公司、子公司等投资关系；主要控股子公司情况；发行人领导成员或董事、监事及高级管理人员情况等。<br>    第十条  发行人业务情况<br>    主要包括：发行人所在行业现状和前景；发行人在行业中的地位和竞争优势；发行人主营业务模式、状况及发展规划。<br>    第十一条  发行人财务情况<br>    主要包括：发行人最近三年及最近一期主要财务数据及资产负债表、利润及利润分配表、现金流量表；发行人财务分析（包括营运能力分析、盈利能力分析、偿债能力分析和现金流量分析等）。<br>    第十二条  已发行尚未兑付的债券<br>    第十三条  筹集资金用途<br>    主要包括：发债资金投向概况，如项目审批、核准或备案情况、收购合同或意向书签订情况、以债还贷情况、补充营运资金情况等。发债募集资金使用计划及管理制度。<br>    第十四条  偿债保证措施<br>    主要包括：担保人基本情况、财务情况（主要财务数据及财务报表）、资信情况、担保函主要内容。采用资产抵押担保的，应提供抵押资产的评估、登记、保管和相关法律手续、保障投资者履行权利的有关制度安排等情况。<br>    发行人制定的偿债计划及保障措施，包括偿债专户、偿债基金以及违约时拟采取的具体偿债措施和赔偿方式。<br>    第十五条  风险与对策<br>    主要包括：与本期债券有关的风险与对策；与行业相关的风险与对策；与发行人有关的风险与对策。<br>    第十六条  信用评级<br>    主要包括信用评级报告的内容概要以及跟踪评级安排等。<br>    第十七条  法律意见<br>    主要包括法律事务所对本期债券的合法合规性及信息披露文件的真实性、完整性等出具的法律意见的概要。<br>    第十八条  其他应说明的事项<br>    第十九条  备查文件<br>    包括备查文件清单、查阅地点、方式、联系人等。<br><br><br>    注：募集说明书摘要的格式原则上仍为上述十九条，各条内容进行简化。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

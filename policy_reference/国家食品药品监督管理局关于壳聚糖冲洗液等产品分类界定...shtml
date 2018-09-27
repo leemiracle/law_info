@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家食品药品监督管理局<BR>&nbsp;&nbsp;【发布文号】国食药监械[2006]111号<BR>&nbsp;&nbsp;【发布日期】2006-03-17<BR>&nbsp;&nbsp;【生效日期】2006-03-17<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sda.gov.cn/cmsweb/webportal/W945325/A64008083.html" target=_blank>国家食品药品监督管理局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家食品药品监督管理局关于壳聚糖冲洗液等产品分类界定的通知<br> <br></font>(国食药监械[2006]111号)</p><br><br> <br>各省、自治区、直辖市食品药品监督管理局（药品监督管理局）：<br><br>    为适应各地对医疗器械监督管理工作的需要，现将数字化手术控制系统等产品的分类界定通知如下：<br><br>    一、壳聚糖冲洗液：用于口腔手术中及术后冲洗患牙粘附的细菌与杂物。作为Ⅲ类医疗器械管理。<br><br>    二、输液报警器：用于输液结束时报警。由敏感头（插入输液瓶，接触药液）、报警器组成。作为Ⅲ类医疗器械管理。<br><br>    三、洁牙粉：主要成分为碳酸氢钠、二氧化硅、柠檬香料，用于齿面清扫。作为Ⅲ类医疗器械管理。<br><br>    四、热化疗灌注机（不含药）：用于人体肿瘤灌注治疗。消除术后存在的亚临床病灶，中晚期恶性肿瘤引起的胸、腹水。作为Ⅲ类医疗器械管理。<br><br>    五、温液仪：由主机和一次性温液导管组成。用于加温血液和液体至人体正常体温，通过一次性温液导管输注至患者。作为Ⅲ类医疗器械管理。<br><br>    六、数字震动感觉阈值检查仪：由主机和检测手柄组成，用于在局部提供震动，通过病人对震动做出的反应，辅助诊断病人是否有神经感应系统疾病。作为Ⅱ类医疗器械管理。<br><br>    七、医用原子吸收光谱仪：用于医院对人体血液中微量元素进行定量测量。作为Ⅱ类医疗器械管理。<br><br>    八、全定量胶体金智能检测仪：利用数字图像处理技术以计算机软件分析、调解功能，对胶体金试剂条的反应结果进行定量分析。作为Ⅱ类医疗器械管理。<br><br>    九、关节矫形器：用于重复压迫损伤、腕管综合症、脚底筋膜炎、跟腱炎、脚底挛缩、三头肌紧缩及糖尿病足等症状的保护与预防。作为Ⅱ类医疗器械管理。<br><br>    十、助听器分析仪：用于测试助听器、调频系统及真耳测试。为真人佩带助听器进行实时的各项主要参数进行调试与验配。作为Ⅱ类医疗器械管理。<br><br>    十一、透析机系统软件：从与透析机配套使用的重量测量和血压测量系统获取数据，提供带有图表和统计学评估的报告。作为Ⅱ类医疗器械管理。<br><br>    十二、无线体温计：将温度传感器集成到感测单元中，贴于患者腹部，通过接收器实时接收患者体温并通过网络传输供医院His系统调用。作为Ⅱ类医疗器械管理。<br><br>    十三、波前像差仪：用于测量人眼的波前像差，对人眼整个屈光系统的光学特性进行分析。作为Ⅱ类医疗器械管理。<br><br>    十四、便携活塞式呼吸设备：通过患者吹起后气流推动设备活塞上升，得到呼气峰流速值，辅助检查肺功能。用于哮喘患者在家庭进行监测。作为Ⅱ类医疗器械管理。<br><br>    十五、一次性使用气管麻醉导管：由导管和接头组成。导管采用医用PVC材料，接头采用ABS塑料制作。注射时，药液通过接头、导管由微孔射出，喷洒于气管内黏膜表面麻醉。作为Ⅱ类医疗器械管理。<br><br>    十六、辅助听觉装置：用于在噪杂的环境中，听清对方谈话或远处声音。作为Ⅱ类医疗器械管理。<br><br>    十七、下肢连续被动产品：用于治疗预防关节纤维化和硬化、改善和康复关节软骨、腱、韧带和软组织、促进浮肿的吸收。作为Ⅱ类医疗器械管理。<br><br>    十八、一次性使用宫腔麻醉探针：由导管和接头组成。导管采用PVC材料，接头采用ABS塑料制作。注射时，药液通过接头、导管由微孔射出，喷洒于子宫内黏膜、宫颈内口黏膜表面麻醉。还可测量宫腔深度。作为Ⅱ类医疗器械管理。<br><br>    十九、直形种植牙系统手术工具：包括扭力扳手、种植体深度量尺、方向指示器、延长器、手机连接器、螺丝起、接点式六方螺丝起、覆盖螺丝起、种植体螺丝起、种植体连接器、开口扳手、棘轮扳手、扭力扳手、棘轮延长器、修复螺丝起系列（大六方螺丝起、接点式螺丝起、四方螺丝起、基台螺丝起、TG基庄螺丝起、印膜顶盖螺丝起、TG六方基台螺丝起、O－环基台螺丝起、DAL－RO基台螺丝起）、覆盖螺丝磨刀、手用骨磨刀、种植体扳手适配器。可重复使用。作为Ⅰ类医疗器械管理。<br><br>    二十、医用保护材料：用于固定于肋骨断裂胸腔体表（不直接接触创伤处），稳定胸腔断裂肋骨。作为Ⅰ类医疗器械管理。<br><br>    二十一、钠电极调整液：用于电解质分析仪钠电极的日常保养和调整。作为Ⅰ类医疗器械管理。<br><br>    二十二、外伤冲洗连接管：用于外部伤口冲洗时连接在外部冲洗防护罩与冲洗器之间。作为Ⅰ类医疗器械管理。<br><br>    二十三、尿道悬吊带手术用手柄：用于尿道悬吊带手术过程中，把穿孔使用的针固定穿在手柄的槽上，使用过程中不与人体发生接触。作为Ⅰ类医疗器械管理。<br><br>    二十四、产妇消毒巾：供妇女经期或产妇产后使用的外用生理卫生用品，无药物治疗作用。不作为医疗器械管理。<br><br>    二十五、医院检验科管理软件：用于统一检验报告格式，统计检验科的各种管理数据，加强检验科的经济管理。不作为医疗器械管理。<br><br>    二十六、静态平衡仪：用于运动员的重心平衡训练，也可用于健身中心和医院康复科。在静止状态下对受试者的左右重心控制能力进行训练，达到稳定身体重心目的。不作为医疗器械管理。<br><br>    二十七、头枕：使病人脸部可以舒适的置于其中，并设置开口供气管插管插入口中。不作为医疗器械管理。<br><br>    二十八、防水装置：用于保护石膏、绷带。使用于石膏、绷带外面，避免在洗浴时淋湿石膏、绷带而造成感染。不作为医疗器械管理。<br><br>    二十九、一次性手术器械袋：不含器械。不作为医疗器械管理。<br><br>    三十、细胞分离系统：用于单核细胞体外离心浓缩。不作为医疗器械管理。<br><br>    上述凡界定为医疗器械的产品，从2007年2月1日起执行调整后的类别。从发文之日起，有关食品药品监督管理部门可受理该类产品的注册申请。<br><br>国家食品药品监督管理局<br>二○○六年三月十七日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

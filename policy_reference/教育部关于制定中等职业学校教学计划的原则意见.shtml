@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教职成[2009]2号<BR>&nbsp;&nbsp;【发布日期】2009-01-06<BR>&nbsp;&nbsp;【生效日期】2009-01-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/00/info1234920737013100.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部关于制定中等职业学校教学计划的原则意见<br><br></font>(教职成[2009]2号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），各计划单列市教育局，新疆生产建设兵团教育局：<br><br>    教学计划是指导和管理学校教学工作的主要依据。为了贯彻落实《国务院关于大力发展职业教育的决定》精神，深化职业教育教学改革，全面提高职业教育质量，更好地指导中等职业学校教学计划的制定工作，规范中等职业学校教学计划管理，保证高素质劳动者和技能型人才培养的规格和质量，现提出如下意见：<br><br>    一、指导思想<br><br>    以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，全面贯彻党的教育方针，全面实施素质教育，落实《国务院关于大力发展职业教育的决定》的要求，坚持以服务为宗旨、以就业为导向，以能力为本位，以学生为主体，立德树人，促进人才培养模式的改革创新，提高学生的综合素质和职业能力，使中等职业教育更好地适应经济社会发展对高素质劳动者和技能型人才培养的要求。<br><br>    二、基本原则 <br><br>    1.坚持以就业为导向，面向社会、面向市场，围绕经济社会发展和职业岗位能力的要求，确定专业培养目标、课程设置和教学内容。<br><br>    2.坚持德育为先，把社会主义核心价值体系融入教育教学全过程，引导学生树立中国特色社会主义共同理想，弘扬民族精神、时代精神，加强以爱岗敬业、诚实守信为重点的职业道德教育。<br><br>    3.坚持“做中学、做中教”，突出职业教育特色，高度重视实践和实训教学环节，强化学生的实践能力和职业技能培养，提高学生的实际动手能力。<br><br>    4.坚持工学结合、校企合作、顶岗实习的人才培养模式，正确处理公共基础课程与专业技能课程之间的关系，合理确定学时比例，确保中等职业教育培养目标的实现。<br><br>    5.坚持统一性与灵活性相结合，在严格执行国家有关规定的基础上，地方和学校可根据区域经济、行业特点和社会发展需求，在课程设置、教学安排、教学手段和方法上有一定的灵活性。三、招生对象与学制<br><br>    全日制中等职业学校学历教育主要招收初中毕业生或具有同等学力者，基本学制以3年为主；招收普通高中毕业生或同等学力者，基本学制以1年为主。<br><br>    要建立更加灵活多样、满足学生需求的学习制度，积极推行学分制等弹性学习制度，建立“学分银行”，允许学生采用半工半读、工学交替等方式，分阶段完成学业。<br><br>    四、培养目标与要求<br><br>    中等职业学校培养与我国社会主义现代化建设要求相适应，德、智、体、美全面发展，具有综合职业能力，在生产、服务一线工作的高素质劳动者和技能型人才。他们应当热爱社会主义祖国，能够将实现自身价值与服务祖国人民结合起来；具有基本的科学文化素养、继续学习的能力和创新精神；具有良好的职业道德，掌握必要的文化基础知识、专业知识和比较熟练的职业技能，具有较强的就业能力和一定的创业能力；具有健康的身体和心理；具有基本的欣赏美和创造美的能力。<br><br>    各专业的教学计划应按照培养目标的总体要求，进一步明确本专业的具体培养目标。<br><br>    五、课程设置与要求<br><br>    中等职业教育是高中阶段教育的重要组成部分，其课程设置分为公共基础课程和专业技能课程两类。<br><br>    公共基础课程包括德育课、文化课、体育与健康课、艺术课及其他选修公共课程。其任务是引导学生树立正确的世界观、人生观和价值观，提高学生思想政治素质、职业道德水平和科学文化素养；为专业知识的学习和职业技能的培养奠定基础，满足学生职业生涯发展的需要，促进终身学习。课程设置和教学应与培养目标相适应，注重学生能力的培养，加强与学生生活、专业和社会实践的紧密联系。<br><br>    德育课，语文、数学、外语（英语等）、计算机应用基础课，体育与健康课，艺术（或音乐、美术）课为必修课，学生应达到国家规定的基本要求。物理、化学等其他自然科学和人文科学类课程，可作为公共基础课程列为必修课或选修课，也可以多种形式融入专业课程之中。学校还应根据需要，开设关于安全教育、节能减排、环境保护、人口资源、现代科学技术、管理等方面的选修课程或专题讲座（活动）。公共基础课程必修课的教学大纲由国家统一制定。<br><br>    专业技能课程的任务是培养学生掌握必要的专业知识和比较熟练的职业技能，提高学生就业、创业能力和适应职业变化的能力。应当按照相应职业岗位（群）的能力要求，采用基础平台加专门化方向的课程结构，设置专业技能课程。课程内容要紧密联系生产劳动实际和社会实践，突出应用性和实践性，并注意与相关职业资格考核要求相结合。专业技能课程教学应根据培养目标、教学内容和学生的学习特点，采取灵活多样的教学方法。部分基础性强、规范性要求高、覆盖专业面广的大类专业基础课程的教学大纲由国家统一制定。<br><br>    实习实训是专业技能课程教学的重要内容，是培养学生良好的职业道德，强化学生实践能力和职业技能，提高综合职业能力的重要环节。要大力推行工学结合、校企合作、顶岗实习。学校和实习单位要按照专业培养目标的要求和教学计划的安排，共同制定实习计划和实习评价标准，组织开展专业教学和职业技能训练，并保证学生顶岗实习的岗位与其所学专业面向的岗位群基本一致。重视校内教学实习和实训，特别是生产性实训。要在加强专业实践课程教学、完善专业实践课程体系的同时，积极探索专业理论课程与专业实践课程的一体化教学。<br><br>    六、教学计划的基本内容与时间安排<br><br>    （一）基本内容：<br><br>    1．专业名称、招生对象与学制<br><br>    2．培养目标、人才规格<br><br>    3．教学内容与教学要求<br><br>    4. 教学活动时间分配表<br><br>    5．课程设置与教学时间安排表<br><br>    （二）时间安排：<br><br>    每学年为52周，其中教学时间40周（含复习考试），假期12周。周学时一般为28。顶岗实习一般按每周30小时（1小时折1学时）安排。三年总学时数约为3000－3300。<br><br>    实行学分制的学校，一般16－18学时为1个学分，三年制总学分不得少于170。军训、社会实践、入学教育、毕业教育等活动，以1周为1学分，共5学分。<br><br>    公共基础课程学时一般占总学时的三分之一，累计总学时约为一学年。允许不同地区、不同学校、不同专业根据人才培养的实际需要在规定的范围内适当调整，上下浮动，但必须保证学生修完公共基础课程的必修内容和学时。<br><br>    专业技能课程学时一般占总学时的三分之二，其中顶岗实习累计总学时约为一学年。要认真落实《中等职业学校学生实习管理办法》的规定和要求，在确保学生实习总量的前提下，学校可根据实际需要，集中或分阶段安排实习时间。<br><br>    招收普通高中毕业生的专业，教学时间安排由各地根据实际情况确定。实习实训累计总学时不少于半学年。<br><br>    对文化基础要求较高或对职业技能要求较高的专业，可根据需要对课时比例作适当的调整。实行弹性学习制度的学校（专业），可根据实际情况安排教学活动的时间。<br><br>    教学计划的课程设置中应设立选修课程，其教学时数占总学时的比例应不少于10%。<br><br>    七、教学计划管理<br><br>    我部负责制定中等职业学校教学计划的原则意见，并组织制定国家重点建设专业教学指导方案等专业建设规范性文件。<br><br>    省级教育行政部门负责本《原则意见》和国家重点建设专业教学指导方案的实施，并按照本《原则意见》的要求，结合地方和行业经济发展的实际需要，加强与行业部门的合作，组织开发具有地方特色的其他专业的教学指导方案，报我部备案。<br><br>    中等职业学校应按照本《原则意见》的要求，依据国家和省级教育行政部门发布的教学指导方案，制定实施性教学计划。各级教育行政部门要加强对学校实施性教学计划制定工作的指导及执行的管理监督。<br><br>    2000年我部印发的《关于制定中等职业学校教学计划的原则意见》（教职成〔2000〕2号）自本文下发之日起停止执行。<br><br>中华人民共和国教育部<br>二○○九年一月六日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

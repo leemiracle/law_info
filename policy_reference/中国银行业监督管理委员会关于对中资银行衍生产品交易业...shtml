@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2005-03-22<BR>&nbsp;&nbsp;【生效日期】2005-03-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=90986" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国银行业监督管理委员会关于对中资银行衍生产品交易业务进行风险提示的通知</font></p><br><br><br>各银监局，各政策性银行、国有商业银行、股份制商业银行：<br><br>    2004年10月，中国航油新加坡公司在从事衍生产品交易时造成了5.54亿美元巨额亏损（以下简称中航油事件），反映了衍生产品交易存在巨大风险。为认真从中吸取教训，进一步提高风险防范意识，健康地发展衍生产品业务，更好地为客户提供服务，严格落实《金融机构衍生产品交易业务管理暂行办法》和《商业银行市场风险管理指引》的各项规定，对衍生产品交易业务的信用风险、市场风险、流动性风险、操作风险和法律风险进行有效管理，现再次就衍生产品交易风险管理提示如下：<br><br>    一、严格执行授权和止损制度。中国航油新加坡公司在衍生产品交易过程中，严重违反内控程序，授权和止损制度形同虚设，导致巨额亏损。各行应引以为戒，在进行衍生产品交易时必须严格执行既定的分级授权和敞口风险管理制度，任何重大的交易或新的衍生产品业务都应得到董事会的批准，或得到由董事会指定的高级管理层的同意。在因市场变化或决策失误出现账面浮亏时，要严格执行既定的止损制度。<br><br>    二、健全内部控制，完善公司治理。<br><br>    （一）各行董事会应定期对现行的衍生产品风险管理政策和程序进行评价，确保其与机构的资本实力、管理水平一致。<br><br>    （二）各行负责衍生产品业务风险管理和控制的高级管理人员必须与负责衍生产品交易或营销的高级管理人员分开，不得相互兼任。<br><br>    （三）各行从事风险计量、监测和控制的工作人员必须与从事衍生产品交易或营销的人员分开，不得相互兼任；风险计量、监测或控制人员可直接向高级管理层报告风险状况。<br><br>    （四）各行要书面明确衍生产品交易主管和交易员的权限以及责任，实行严格的问责制，对在交易活动中有越权或违规行为的交易员及其主管，要有明确的惩处制度。<br><br>    （五）各行要按照《金融机构衍生产品交易业务管理暂行办法》、《商业银行市场风险管理指引》等要求尽快完善各项内部制度。<br><br>    （六）各行要制定合理的成本和资产分析测算制度和激励约束机制，不得将衍生产品交易和风险管理人员的薪酬与衍生产品交易盈利简单挂钩，避免其过度追求利益而增加交易风险。<br><br>    （七）各行应对衍生产品交易主管和交易员实行定期轮岗和强制带薪休假制度。<br><br>    三、提高风险监测能力。对衍生产品交易风险缺乏足够的监测能力是积聚风险隐患的重要原因，各行要大力吸引和留住风险识别、计量方面的人才，健全前、中、后台自动连接的业务处理系统和实时的风险管理系统，按照“逐日盯市”原则对衍生产品敞口头寸进行市值重估，并建立衍生产品市值重估准备金。对在流动性不强的市场（如柜台交易市场）上创造和交易的衍生产品，更要对市值重估的频率和质量进行检查。<br><br>    随着衍生产品交易风险管理技术的发展，各行要高度重视正确使用、评估和修正定量的风险模型，尤其在进行非标准的场外衍生产品交易时，要对定量风险模型所使用的市场参数深入研究和验证，保证其正确性，不简单套用国外金融市场或境外交易对手提供的模型及参数。<br><br>    总行及授权从事衍生产品交易的分行，在衍生产品交易系统和风险管理系统必须自动连结，分行不得有游离于总行监控之外的衍生产品头寸。<br><br>    四、加强检查，建立风险报告制度。各行内审部门要定期对衍生产品交易业务风险管理制度的执行情况进行检查。在开展衍生产品交易业务出现重大风险时，迅速采取有效措施，坚决制止损失继续扩大，同时将有关情况及时报告监管机构。<br><br>    获准开办和拟开办衍生产品交易业务的银行近期要对照上述要求进行深入自查，形成自查报告，并于2005年4月30日前上报直接监管的监管机构。自查报告的内容包括自查中发现的风险隐患和相应的整改措施。<br><br>    各银监局要积极了解辖内各银行业金融机构开展衍生产品交易业务的品种和敞口情况，对日常监管和各行自查发现的重大问题，要及时上报；对于未获批准擅自从事衍生产品交易的银行业金融机构，要依法进行处罚，并追究有关人员的责任。<br><br>    请各银监局将本文转发至辖内各城市商业银行、农村商业银行和农村合作银行。<br><br><br>中国银行业监督管理委员会<br>二○○五年三月二十二日<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

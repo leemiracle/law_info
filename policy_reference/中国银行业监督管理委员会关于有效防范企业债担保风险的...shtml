@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】银监发〔2007〕75号<BR>&nbsp;&nbsp;【发布日期】2007-10-12<BR>&nbsp;&nbsp;【生效日期】2007-10-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cbrc.gov.cn/chinese/home/jsp/docView.jsp?docID=20071102D5284B879FC64A31FFE572889E70A600" target=_blank>中国银行业监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国银行业监督管理委员会关于有效防范企业债担保风险的意见<br><br></font>(银监发〔2007〕75号)</p><br> <br><br>各银监局，各政策性银行、国有商业银行、股份制商业银行，邮政储蓄银行，银监会直接监管的信托公司、财务公司、租赁公司：<br><br>    近年来，企业债券发行规模快速增长，债券品种和发行主体日益多样化，对构建多层次资本市场、提高金融资源配置效率、深化国有企业改革起到了重要作用。但部分银行存在忽视企业信用风险、盲目为企业发债提供担保的问题。为有效防范企业债券发行担保风险，保障银行资产安全，现就有关问题提出以下意见：<br><br>    一、严格区分直接融资和间接融资市场不同的利益主体，防止侵害存款人利益<br><br>    债券市场是直接融资市场，与以银行作为中介的间接融资市场有本质区别。直接融资市场以企业信用为基础，需保护投资人利益；间接融资市场以银行信用为基础，主要保护存款人利益。企业发债强调的是企业资信和还款能力，应与银行授信严格区分。按照我国现行债券发行审批要求，发债企业须聘请其他独立经济法人依法对企业债进行担保，担保人应承担连带担保责任。若银行为企业债券提供担保，一旦债券到期不能偿付，银行将代为承担偿付责任，这实质掩盖了债券真实风险，以银行信用代替或补充了企业信用。一方面，这可能引发发债企业和债券投资者双方的道德风险，难以建立市场化定价机制，不利于培育发债主体和投资者风险意识，有悖于国家大力发展债券市场、促进直接融资的初衷。另一方面，银行为企业发债提供担保，担保费率远低于贷款利率，而承担的信用风险却与贷款无异，甚至因缺乏严格的审批程序和有效的监控措施会高于贷款风险。还要间接承担额外的交易对手风险以及市场风险。银行担保保护了债券投资人利益，却使债券市场的各类风险转移至银行系统，可能损害银行股东利益和存款人资金安全。<br><br>    二、充分认识企业债担保风险，防止偿债风险的跨业转移<br><br>    现阶段我国债券市场尚不发达，债券发行人信用水平不高，债券发行申请、审批、债券资金运用监督、信息披露等制度有待健全，债券到期偿付风险较高，各银行应充分认识为企业债提供担保的风险。一是目前企业债发行市场化程度不高，中介机构发展相对滞后，部分评级公司的专业性、公信力不强，相关法律审查、会计审计的独立性不够，难以准确评判企业债真实风险和发挥有效监督。二是发债企业信息披露要求得不到有效落实，担保银行对发债企业资金使用和经营情况缺乏有效监控手段，企业一旦改变债券资金用途或发生其他影响偿债能力的事件，银行难以及时采取有效措施化解风险。如部分企业发债所筹资金违规流入股市和房市，增大了银行担保风险。三是个别银行未将对客户的担保纳入统一授信管理，未按照《商业银行授信尽职工作指引》要求对被担保企业进行严格审查，甚至存在为维持客户关系放松担保条件要求等问题，需要引起高度关注。<br><br>    三、加强债券担保管理，健全或有负债风险问责制<br><br>    以项目债为主的企业债券，债券期限较长，一般为5至10年，长的可达20年，多投放于较大的固定资产投资项目、技术改造项目，还款来源通常为项目租金收入、经营收入，受国家宏观调控政策、地区经济发展等因素影响较大，项目能否如期建成和按期偿还债券本息均存在较大风险，银行履行偿付责任概率较高。<br><br>    各银行（公司总部）要进一步完善融资类担保业务的授权授信制度，将该类业务审批权限上收至各银行总行（公司总部）。即日起要一律停止对以项目债为主的企业债进行担保，对其他用途的企业债券、公司债券、信托计划、保险公司收益计划、券商专项资产管理计划等其他融资性项目原则上不再出具银行担保；已经办理担保的，要采取逐步退出措施，及时追加必要的资产保全措施。<br><br>    四、加强担保等表外业务的授信管理，严格责任追究<br><br>    各银行应当按照《商业银行授权授信管理暂行办法》要求，将担保等表外或有负债业务纳入统一授信管理，严格准入条件，严格担保审查，严格授权制度。对未纳入授信统一额度管理的客户，不得办理担保业务。对银行违反规定办理企业债担保业务的，或因未达到尽职要求形成风险的，银行监管部门将严厉追究有关机构和责任人责任。<br><br>    各银监局要将本意见转发至辖内各银监分局和城市商业银行、农村商业银行、农村合作银行、城乡信用社；各政策性银行、国有商业银行、股份制商业银行要立即将本意见转发至各分支机构。<br><br>二○○七年十月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

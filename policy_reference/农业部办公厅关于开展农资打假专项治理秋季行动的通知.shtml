@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】农业部<BR>&nbsp;&nbsp;【发布文号】农办市[2005]29号<BR>&nbsp;&nbsp;【发布日期】2005-09-06<BR>&nbsp;&nbsp;【生效日期】2005-09-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.agri.gov.cn/xztz/t20050913_457967.htm" target=_blank>农业部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>农业部办公厅关于开展农资打假专项治理秋季行动的通知<br><br></font>(农办市[2005]29号)</p><br><br><br>各省、自治区、直辖市农业（农林、农牧、农垦、畜牧兽医、渔业）厅（局、委、办），新疆生产建设兵团农业局：<br><br>    今年以来，各地根据我部的统一部署，深入开展农资打假专项治理行动，取得了明显成效。总体来看，农资市场秩序继续好转，有力地保障了农业生产安全，维护了农民切身利益。但是，与实现农资市场秩序根本好转的目标相比，还存在不小差距，假劣农资坑农害农事件仍时有发生。为认真贯彻落实全国农业厅局长座谈会精神，巩固专项治理已经取得的成果，进一步把农资打假专项治理行动推向深入，我部决定于9、10月份集中开展农资打假专项治理秋季行动，现就有关事项通知如下：<br><br>    一、统一思想，加强领导<br><br>    当前，农业生产即将进入秋冬种的关键时期，农资生产经营也将进入全年的第二个购销旺季。与此同时，近一段时间，淡水养殖产品孔雀石绿残留问题引起社会和媒体高度关注。集中开展农资打假专项治理秋季行动，既是确保全年农资打假和监管工作达到预期效果，保障农产品质量安全的重要措施，也是确保明年农业生产开局顺利，实现明年夏粮丰产和农民增收的主要基础工作。各地要高度重视，加强领导，严格落实属地管理原则，在年初制定的总体方案基础上，采取有针对性的措施，狠抓落实，为确保秋冬种生产安全进行和淡水养殖产业健康发展打下坚实基础。<br><br>    二、行动重点<br><br>    秋季行动以种子、农药、肥料、兽药为重点。各地可在全面推进农资打假专项治理行动的同时，结合当地农业生产实际情况，针对当地突出问题，确定具体重点产品。主要开展以下工作：<br><br>    （一）大力整顿农资生产企业。一是以种子生产经营档案检查和资质检查为重点，对种子生产经营企业进行全面检查，对政企不分或生产经营档案不符合有关条件的，要抓紧督促整改，从源头把好种子质量关。二是对农药生产企业进行一次全面检查，严肃查处无农药登记证、农药生产许可证和农药生产批准证书而生产农药的违法行为，彻底捣毁发现的黑窝点。三是结合测土配方施肥秋季行动，加大对配方肥生产企业的监管力度，推进配方肥质量追溯管理制度的建立，确保配方肥产品质量。<br><br>    （二）广泛组织开展质量抽检。各地要在建立健全农资质量例行定期监测和动态抽检相结合制度的同时，增加投入，提高抽检密度，扩大抽检范围，依法及时公布抽检结果，曝光一批违法违规企业和不合格产品，引导农民放心消费。一是结合秋播供种，以小麦、油菜、蔬菜种子为重点产品，重点抽检发芽率、净度、水分等质量指标。二是根据秋季用药实际情况，以蔬菜、果树、水稻用农药混配产品和小麦包衣拌种产品为重点，重点检测产品有效成分含量是否符合标准，及产品中是否含禁限用高毒剧毒农药和未登记成分。三是针对秋季用肥量较大的状况，以复混肥料、复合肥料、微生物肥料、叶面肥料和有机肥料为重点产品，严肃查处有效成分含量严重不足、掺杂使假、以假充真的肥料产品。<br><br>    （三）全面开展市场检查。紧紧抓住农资批发市场、专业市场和集散地，对农资生产经营单位和产品进行一次全面排查。种子突出对生产经营假冒伪劣种子，无种子生产许可证、经营许可证以及伪造、变造、买卖许可证生产经营种子，推广未经审定通过品种或品种侵权等违法行为的查处力度。特别要对代销种子和销售不再分装包装种子的单位加强跟踪监督。农药以产品标签为突破口，突出检查中文通用名未标注或不规范、擅自扩大防治对象、冒用登记证号、商品名未登记或与登记不符、生产厂名与登记不符、毒性标识错误、登记证过期未续展、无农药类别颜色标志带、剂型与登记不符、有效含量与登记不符、无生产日期或生产批号等违法违规行为。肥料突出查处无肥料登记证、一证多用、假冒伪造登记证，及包装、标识、宣传不规范等违法违规行为，加大对生产销售伪劣肥料源头的打击力度，严防伪劣肥料流入市场。<br><br>    （四）加强对假劣水产养殖用药、苗种和饲料的查处。按照《兽药管理条例》、《水产苗种管理办法》以及《水产品质量安全管理规定》，以孔雀石绿为重点，对影响水产品质量安全的劣质水产养殖用药、苗种、饲料等生产资料进行查处。水产养殖用药、水产苗种和饲料生产企业主要检查是否具备生产许可证（批准文号），产品是否符合国家或地方质量标准。销售企业主要检查是否销售“孔雀石绿”等禁用及假劣水产养殖用药。<br><br>    （五）抓紧清理农业系统所属生产经营主体。要按照政企分开、政事分开的要求，对农业系统所属经营主体，或者以农业部门名义挂牌经营种子、农药、肥料等农资的单位和门店，抓紧进行一次全面清理整顿。严格执行有关法律法规规定，对不具备农资经营条件的，限期整改；逾期仍达不到有关要求的，坚决依法取消经营资格。同时，要规范经营行为，加强行业自律，切实为农业生产和农民群众服务。<br><br>    （六）继续推进毒鼠强专项整治。在切实加强杀鼠剂日常监管的同时，结合鼠害防治工作，继续加大对毒鼠强等违禁剧毒鼠药的打击力度。一是以农村、偏远山区、城乡结合部为重点，广泛开展毒鼠强等违禁剧毒鼠药清缴活动，继续推进换购工作。对杀鼠剂市场生产经营单位进行一次全面排查，重点调查有无新的窝点和销售渠道。二是认真组织开展秋季农区统一灭鼠工作，设立一批灭鼠示范区，宣传推广先进灭鼠经验、方法和知识，提高鼠害综合防治效果。<br><br>    三、有关要求<br><br>    （一）加强部门协调与配合。农资打假专项治理秋季行动工作任务重、责任大。一方面，各地要认真贯彻国务院依法行政纲要，落实行政执法责任制，搞好县级农业综合执法试点，强化农业社会化服务的执法监督体系，完善上下联动机制，建立跨区域合作机制，密切协作，统一行动，形成农业执法合力。另一方面，要加强与公安、工商、质监等部门之间的配合，开展联合执法，加强信息沟通，提高农资监管齐抓共管的整体效能。<br><br>    （二）加大农资执法监管的力度。各地要集中力量，加大农资执法力度，加强行政执法与刑事司法的衔接，切实抓住一批制假售假的典型案例，依法惩治一批违法犯罪分子，决不姑息迁就。加大对违法违规行为的通报力度，必要时可公开曝光，或邀请新闻媒体介入进行跟踪报道，提高农资执法监管的震慑力，维护农资执法监管的权威性和严肃性。<br><br>    （三）加强秋季行动的宣传报道。充分利用各种方式，加大秋季行动的宣传力度，积极营造良好的工作氛围。要普及农资法律法规，引导农资诚信守法经营，提高农民群众的维权意识，发动群众参与，充分发挥社会和舆论监督作用。要宣传推介一批适合当地的农资品种，扶持一批优势企业和产品，挤压假劣产品的市场生存空间。<br><br>    各地在秋季行动中，要加强信息统计和报送工作，完善相关制度建设，及时报告重大情况。要认真总结秋季行动的成效、经验、问题以及意见和建议，并将总结材料于10月底报送我部整顿和规范市场经济秩序领导小组办公室（农业部市场与经济信息司），同时报送秋季行动（9、10月份）农资打假大要案统计表和农资打假情况统计表（见附件1和附件2，1-9月份数据不再单独报送）。我部将适时组织开展督查活动，通报检查结果。<br><br>    联系电话：010-64192678，64192694<br><br>    传真：010-64193157<br><br>    电子邮件：nybdjb@agri.gov.cn<br><br>农业部办公厅<br>二○○五年九月六日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

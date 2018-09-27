@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政〔2008〕98号<BR>&nbsp;&nbsp;【发布日期】2008-12-13<BR>&nbsp;&nbsp;【生效日期】2008-12-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ahzwgk.gov.cn/XxgkNewsHtml/OA001/200812/OA001010502200812003.html" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于尾矿库安全监督管理的通告<br><br></font>(皖政〔2008〕98号)</p><br> <br><br>    尾矿库是筑坝拦截谷口或围地构成的、用以贮存金属非金属矿山进行矿石选别排出尾矿的场所。因安全管理不够等原因，尾矿库有可能发生安全生产事故。为进一步加强尾矿库安全生产工作，保障人民群众生命财产安全，现通告如下：<br><br>    一、尾矿库标准按《尾矿库安全技术规程》规定执行。<br><br>    二、尾矿库按全库容和坝高分五个等别，一等库指二等库具备提高等别条件的尾矿库；二等库指全库容≥10000万立方米、坝高≥100米的尾矿库；三等库指1000万立方米≤全库容＜10000万立方米、60米≤坝高＜100米的尾矿库；四等库指100万立方米≤全库容＜1000万立方米、30米≤坝高＜60米的尾矿库；五等库指全库容＜100万立方米、坝高＜30米的尾矿库。尾矿库失事将使下游重要城镇、工矿企业或铁路干线遭受严重灾害者，其设计等别可提高一等。<br><br>    三、尾矿库安全度分为四级，即危库、险库、病库和正常库。危库指安全没有保障，随时可能发生垮坝事故的尾矿库；险库指安全设施存在严重隐患，若不及时处理将会导致垮坝事故的尾矿库；病库指安全设施不完全符合设计规定，但基本符合安全生产条件的尾矿库；正常库指同时满足排洪能力、安全超高及最小干滩长度、排水系统构筑物、尾矿坝稳定安全系数、坝体渗流控制等符合设计要求，工况正常，安全生产管理机构和规章制度健全的尾矿库。按照《尾矿库安全技术规程》规定，尾矿库下游不宜建设居住、生产等设施，严禁在库区和尾矿坝上进行乱采、滥挖、爆破等非法作业。<br><br>    四、尾矿库所属企业是安全生产责任主体，负责建库、生产运行、闭库及闭库后的安全管理，企业法定代表人是尾矿库安全生产第一责任人。尾矿库企业应建立健全安全生产责任制，设置安全管理机构并配备专业安全管理人员，加强职工安全教育培训，保证安全资金投入，建立危险源监控和隐患排查治理制度，加强对排洪设施、尾矿坝监测、监控，制定应急救援预案，并进行预案演练。 <br><br>    五、尾矿库所在地各级政府（包括乡镇政府）负有安全监督管理的领导职责。政府安全监管部门是本地尾矿库安全生产监管直接责任人。各级政府负责合理规划尾矿库选址，组织督促对尾矿库下游不符合安全距离范围的居民区、重要建筑物等实施搬迁避让等安全措施，打击取缔非法尾矿库，关闭不具备安全生产条件、严重污染环境的尾矿库。对无主管企业（单位或出资人不明确）的尾矿库，所在地的县级政府主要负责人为第一责任人，并指定政府安全监管部门为尾矿库管理直接责任人。<br><br>    六、尾矿库周边居民群众有权了解尾矿库安全运行状况、存在的危险性、安全防范措施和事故应急措施；有义务积极配合尾矿库企业应急预案演练工作；遇到重大险情时，服从当地政府组织的撤离行动，必要时实施搬迁避让等安全措施。<br><br>    七、欢迎社会各界监督和举报尾矿库安全隐患，举报电话：0551―4672911、2871122（工作日），0551―4673119（非工作日）。<br><br>    特此通告。<br><br> 安徽省人民政府<br>二○○八年十二月十三日<br> <br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

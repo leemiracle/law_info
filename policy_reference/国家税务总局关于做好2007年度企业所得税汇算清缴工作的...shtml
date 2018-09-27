@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税函〔2008〕264号<BR>&nbsp;&nbsp;【发布日期】2008-03-24<BR>&nbsp;&nbsp;【生效日期】2008-03-24<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n480462/n480513/n480902/7796327.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于做好2007年度企业所得税汇算清缴工作的补充通知<br> <br></font>(国税函〔2008〕264号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br>    为保证2007年度企业所得税汇算清缴工作顺利进行，做好企业所得税法实施的衔接工作，现就2007年度内资企业所得税汇算清缴的有关问题补充通知如下：<br>    一、关于汇率变动损益的所得税处理问题<br>    企业外币货币性项目因汇率变动导致的计入当期损益的汇率差额部分，相当于公允价值变动，按照《财政部 国家税务总局关于执行〈企业会计准则〉有关企业所得税政策问题的通知》（财税[2007]80号）第三条规定执行，在未实际处置或结算时不计入当期应纳税所得额。在实际处置或结算时，处置或结算取得的价款扣除其历史成本后的差额，计入处置或结算期间的应纳税所得额。<br>    二、关于股权投资转让所得和损失的所得税处理问题<br>    （一）企业因收回、转让或清算处置股权投资而发生的权益性投资转让损失，可以在税前扣除，但每一纳税年度扣除的股权投资损失，不得超过当年实现的股权投资收益和股权投资转让所得，超过部分可向以后纳税年度结转扣除。企业股权投资转让损失连续向后结转5年仍不能从股权投资收益和股权投资转让所得中扣除的，准予在该股权投资转让年度后第6年一次性扣除。<br>    （二）根据《国家税务总局关于企业股权投资业务若干所得税问题的通知》（国税发[2000]118号）、《国家税务总局关于做好已取消和下放管理的企业所得税审批项目后续管理工作的通知》（国税发[2004]82号）规定精神，企业在一个纳税年度发生的转让、处置持有5年以上的股权投资所得、非货币性资产投资转让所得、债务重组所得和捐赠所得，占当年应纳税所得50%及以上的，可在不超过5年的期间均匀计入各年度的应纳税所得额。<br>    三、关于职工福利费税前扣除问题<br>    2007年度的企业职工福利费，仍按计税工资总额的14%计算扣除，未实际使用的部分，应累计计入职工福利费余额。2008年及以后年度发生的职工福利费，应先冲减以前年度累计计提但尚未实际使用的职工福利费余额，不足部分按新企业所得税法规定扣除。企业以前年度累计计提但尚未实际使用的职工福利费余额已在税前扣除，属于职工权益，如果改变用途的，应调整增加应纳税所得额。<br>    四、关于金融企业呆账损失税前扣除问题<br>    （一）金融企业符合下列条件之一的债权或股权，可以认定为呆账损失，经税务机关审批后，准予在企业所得税前扣除。<br>    1.金融企业对借款人和担保人诉诸法律后，因借款人和担保人主体资格不符或消亡，同时又无其他债务承担人，被法院驳回起诉或裁定免除（或部分免除）债务人责任，或因借款合同、担保合同等权利凭证遗失或法律追溯失效，法院不予受理或不予支持，金融企业经追偿后确实无法收回的债权。<br>    2.金融企业经批准采取打包出售、公开拍卖、招标等市场方式出售、转让股权、债权，其出售转让价格低于账面价值的差额。<br>    3.金融企业因内部人员操作不当、金融案件原因形成的损失，经法院裁决后应由金融企业承担的金额或经公安机关立案侦察3年以上仍无法追回的金额。<br>    4.银行卡被伪造、冒用、骗领而发生的应由银行承担的净损失，经法院裁决后应由金融企业承担的金额或经公安机关立案侦察3年以上仍无法追回的金额。<br>    5.由于借款人和担保人不能偿还到期债务，逾期3年以上，且经金融企业诉诸法律，法院对借款人和担保人强制执行，借款人和担保人均无财产可执行，经法院裁定中止执行后，符合《企业财产损失所得税前扣除管理办法》（国家税务总局第13号令）第二十一条第五款规定情形的金额。<br>    （二）金融企业符合下列条件之一的银行卡透支款项，可以认定为呆账损失，经税务机关审批后，准予在企业所得税前扣除。<br>    1.持卡人和担保人依法宣告破产，财产经法定清偿后，未能还清的透支款项。<br>    2.持卡人和担保人死亡或依法宣告失踪或者死亡，以其财产或遗产清偿后，未能还清的款项。<br>    3.经诉讼或仲裁并经强制执行程序后，仍无法收回的透支款项。<br>    4.持卡人和担保人因经营管理不善、资不抵债，经有关部门批准关闭、工商行政管理部门注销，以其财产清偿后，仍未能还清的透支款项。<br>    5.5000元以下，经追索2年以上，仍无法收回的透支款项。<br>    （三）金融企业符合下列条件之一的助学贷款，可以认定为呆账损失，经税务机关审批后，准予在企业所得税前扣除。<br>    1.借款人死亡，或者依照《中华人民共和国民法通则》的规定宣告失踪或者死亡，或丧失完全民事能力或劳动力，无继承人或受遗赠人，在依法处置其助学贷款抵押物（质押物）及借款人的私有财产，并向担保人追索连带责任后，仍未能归还的贷款。<br>    2.经诉讼并经强制执行程序后，在依法处置其助学贷款抵押物（质押物）及借款人的私有财产，并向担保人追索连带责任后，仍未能归还的贷款。<br>    （四）金融企业上述已作为呆账损失税前扣除的债权或损失，在以后年度全部或部分收回时，应当计入收回年度的应纳税所得额。<br>    （五）金融企业在申报扣除上述呆账损失时，必须按要求提供具有法律效力的外部证据及证明材料、具有法定资质的中介机构的经济鉴证证据及证明材料和特定事项的企业内部证据及证明材料等能够证明呆账损失确属已实际发生的合法证据和证明材料。<br>    （六）此前符合上述规定的金融企业呆账损失按本通知规定执行。<br>    五、关于经批准的金融企业工效挂钩工资税前扣除问题<br>    （一）经财政部、国家税务总局批准实行工效挂钩工资税前扣除政策的金融企业，应以2006年度工资税前扣除限额为基数，按照工资总额增长低于经济效益增长、工资总额增长低于劳动生产率增长原则，计算2007年度工资税前扣除限额，并向主管税务机关报送相关计算过程和材料。<br>    （二）计算工资税前扣除限额时，经济效益指标为利润总额和应纳企业所得税额（分别计算）；劳动生产率指标按不同行业分别确定：保险公司为人均保额（或附加保费），其它金融企业为人均主营业务收入。<br><br>国家税务总局<br>二○○八年三月二十四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

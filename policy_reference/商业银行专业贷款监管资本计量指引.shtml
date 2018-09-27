@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国银行业监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2008-09-18<BR>&nbsp;&nbsp;【生效日期】2008-10-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cbrc.gov.cn/chinese/home/jsp/docView.jsp?docID=200810170D14AE6910E038E6FF06B4DC18740400" target=_blank>中国银行业监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>商业银行专业贷款监管资本计量指引</font></p><br><br><br>机关各部门、各监事会办公室，各银监局，各政策性银行、国有商业银行、股份制商业银行，邮政储蓄银行：?<br><br>    为推动新资本协议实施准备工作，确保2010年底新资本协议如期实施，银监会制定了第一批新资本协议实施监管指引，包括《商业银行银行账户信用风险暴露分类指引》、《商业银行信用风险内部评级体系监管指引》、《商业银行专业贷款监管资本计量指引》、《商业银行信用风险缓释监管资本计量指引》和《商业银行操作风险监管资本计量指引》（以下简称5个监管指引），现印发给你们，并就有关事项通知如下：?<br><br>    一、5个监管指引是新资本协议实施配套监管制度的重要组成部分，银监会将陆续发布其它监管指引。5个监管指引中，有关监管资本的计量方法自银行获得银监会批准实施新资本协议之日起施行，有关风险暴露分类、内部评级体系、专业贷款评级、信用风险缓释管理和操作风险管理的监管要求和技术规范自2008年10月1日起施行。?<br><br>    二、实施新资本协议银行应对照5个监管指引进行达标评估，确保监管合规。5个监管指引确立的相关技术规范和监管标准是新资本协议银行应达到的最低要求。新资本协议银行应对照5个指引逐条进行合规性评估，对未达标的领域和环节，应制定切实可行的限期达标方案。对监管标准尚不明确的，新资本协议银行应主动与监管部门沟通，尽早达成共识。从2008年第四季度起，新资本协议银行应根据银监会发布的相关监管指引按季进行达标评估，建立详细的达标评估文档。新资本协议银行应于2008年底前向银监会提交首轮5个监管指引达标评估报告。?<br><br>    三、加强相关培训工作，为新资本协议实施提供人才保障。监管部门、银监局和新资本协议银行要以5个监管指引发布为契机，加强对监管人员和从业人员的培训。银监会负责会机关监管人员、银监局负责人以及新资本协议银行董事和高管层的培训。各银监局负责辖内监管人员的培训。新资本协议银行的培训范围应覆盖各层级高级管理人员、主要业务条线员工、风险管理条线所有员工。?<br><br>    四、全面开展定量影响测试，加强对新资本协议实施准备工作的监督检查。从2009年开始，银监会将对新资本协议银行进行定量影响测算，持续监测实施新资本协议对资本充足率的影响。新资本协议银行要做好相关数据和信息系统的准备工作。监管部门和银监局要将新资本协议银行实施准备情况列入今后几年监管工作的重点，建立与新资本协议银行的定期会晤机制，持续监督实施准备工作进展。2009年上半年完成对两家新资本协议银行的现场评估，2009年下半年完成对计划2010年底开始实施新资本协议的银行的第一轮现场评估。?<br><br>    五、请各银监局将5个监管指引转发给辖内城市商业银行、农村商业银行、农村合作银行和外资法人银行。银监会鼓励暂不准备实施新资本协议的银行参照5个监管指引改进风险管理。<br><br>中国银行业监督管理委员会<br>二○○八年九月十八日<br><br><br>商业银行专业贷款监管资本计量指引<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为规范专业贷款监管资本计量，加强对专业贷款风险管理，根据《<a href=javascript:ROF(114078,0) class=alink>中华人民共和国银行业监督管理法</a>》、《<a href=javascript:ROF(90483,0) class=alink>中华人民共和国商业银行法</a>》等法律法规，制定本指引。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 本指引适用于《中国银行业实施新资本协议指导意见》确定的新资本协议银行和自愿实施新资本协议的其他商业银行。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 商业银行实施新资本协议，应按照本指引要求计量专业贷款的监管资本要求。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 本指引所称专业贷款是指按照《商业银行银行账户信用风险暴露分类指引》确定为项目融资、物品融资、商品融资和产生收入的房地产等风险暴露。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 商业银行可以采用内部评级法或监管映射法计量专业贷款的信用风险和监管资本要求。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 商业银行采用内部评级法的，专业贷款内部评级体系应达到《商业银行信用风险内部评级体系监管指引》的要求，并且在估计违约风险暴露时，还应充分考虑债务人违约后，为促使贷款所形成的资产投入运营而继续发放贷款的影响，以确保风险估计的审慎性。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 商业银行采用内部评级法的，应按照《商业银行资本充足率计算规则》计量专业贷款的监管资本要求。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 商业银行专业贷款内部评级体系若未能达到《商业银行信用风险内部评级体系监管指引》的要求，应采用监管映射法计量专业贷款的资本要求。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 商业银行可以对专业贷款中的一个或多个子类采用监管映射法，对其他子类采用内部评级法，但不得同时对同一子类的风险暴露采用不同的方法。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 商业银行采用监管映射法的，专业贷款的内部评级体系应达到以下要求：<br><br>    （一）商业银行应对专业贷款采用一维评级，评级应同时考虑债务人的特征和债项特征以及两者之间的相关性，直接反映预期损失。<br><br>    （二）商业银行应最少设置4个非违约级别和1个违约级别。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 商业银行采用监管映射法的，专业贷款评级应考虑以下因素：<br><br>    （一）项目融资评级应考虑财务状况、政治和法律环境、交易特点、项目发起人或债务人实力和担保安排等5方面因素。项目融资监管评级标准详见附件1。<br><br>    （二）物品融资评级应考虑财务状况、政治和法律环境、交易特点、操作风险、资产特征、项目发起人实力和担保安排等7方面因素。物品融资的监管评级标准详见附件2。<br><br>    （三）商品融资评级应考虑财务状况、政治和法律环境、资产特征、项目发起人实力和担保安排等5方面因素。商品融资监管评级标准详见附件3。<br><br>    （四）产生收入的房地产评级应考虑财务状况、资产特征、项目发起人或开发商实力和担保安排等4方面因素。产生收入的房地产监管评级标准详见附件4。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 商业银行采用监管映射法的，应将专业贷款的内部评级结果映射到“优”、“良”、“中”、“差”和“违约”5个监管评级。商业银行应参照内部评级与外部评级的映射关系、监管评级与外部评级的映射关系，确保内部评级与监管评级映射关系的一致性和稳定性。<br><br>    （一）监管评级“优”，对应外部评级BBB-或以上。<br><br>    （二）监管评级“良”，对应外部评级BB+ 或 BB。<br><br>    （三）监管评级“中”，对应外部评级BB- 或 B+。<br><br>    （四）监管评级“差”，对应外部评级B 到 C-。<br><br>    （五）监管评级“违约”，不适用于与外部评级映射。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 上条所称的优、良、中、差和违约5个监管评级的含义分别是：<br><br>    （一）监管评级“优”是指贷款所形成的资产未来所产生的现金流充足且稳定，市场竞争能力和发起人实力强，并落实了全面担保安排，即使在经济和行业面临持续、严重问题时，承贷主体仍能偿还债务。<br><br>    （二）监管评级“良”是指贷款所形成的资产未来所产生的现金流充足且稳定，市场竞争能力和发起人实力良好，并落实了全面担保安排，但在经济和行业面临持续、严重问题时，承贷主体可能无法全额偿还债务。<br><br>    （三）监管评级“中”是指贷款所形成的资产未来所产生的现金流充足，但市场竞争能力和发起人实力一般，担保安排存在缺陷，导致现金流不够稳定，承贷主体抵御经济衰退和行业波动的能力很弱。<br><br>    （四）监管评级“差”是指贷款所形成的资产未来所产生的现金流不确定性很大，市场竞争能力和发起人实力差，承贷主体偿债能力很大程度上依赖于经济状况和市场需求出现好转，否则承贷主体可能违约。<br><br>    （五）监管评级“违约”是指，按照《商业银行信用风险内部评级体系监管指引》的违约定义，承贷主体已经违约。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 商业银行采用监管映射法的，若专业贷款的内部评级标准与监管评级标准不一致，应记录两者之间的差异，并向监管部门解释差异存在的原因和合理性，证明内部评级与监管评级的映射关系，确保两者的主要特征相一致。商业银行应保证其内部评级推翻，不会使映射过程失效。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 专业贷款的5个监管评级分别对应特定的风险权重，具体如下：<br><br>    （一）监管评级“优”，风险权重为70%。<br><br>    （二）监管评级“良”，风险权重为90%。<br><br>    （三）监管评级“中”，风险权重为115%。<br><br>    （四）监管评级“差”，风险权重为250%。<br><br>    （五）监管评级“违约”，风险权重为0%。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 如果商业银行或监管部门认为，产生收入的房地产贷款的未来房地产出租收入、销售收入或土地出让收入的波动性较大，可提高其风险权重：<br><br>    （一）监管评级“优”，风险权重为95%。<br><br>    （二）监管评级“良”，风险权重为120%。<br><br>    （三）监管评级“中”，风险权重为140%。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 符合下列条件之一的专业贷款，监管评级为“优”的风险权重为50%；监管评级为“良”的风险权重为70%：<br><br>    （一）贷款剩余期限不足2.5年。<br><br>    （二）监管部门认定，商业银行授信和评级标准比监管评级标准更为审慎。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 专业贷款的5个监管评级分别对应特定的预期损失比例，具体如下：<br><br>    （一）监管评级“优”，预期损失比例为0.4%。<br><br>    （二）监管评级“良”，预期损失比例为0.8%。<br><br>    （三）监管评级“中”，预期损失比例为2.8%。<br><br>    （四）监管评级“差”，预期损失比例为8%。<br><br>    （五）监管评级“违约”，预期损失比例为50%。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 符合下列条件之一的专业贷款，监管评级为“优”的预期损失比例为0%，监管评级为“良”的预期损失率比例0.4%：<br><br>    （一）贷款剩余期限不足2.5年。<br><br>    （二）监管部门认定，商业银行授信和评级标准比监管评级标准更为审慎。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 附件1、附件2、附件3和附件4为本指引的组成部分。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 本指引采用标准普尔的评级符号，但对商业银行选用外部信用评级公司不做规定，商业银行可自行选择评级公司的评级结果，并保持连续性。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 本指引由中国银行业监督管理委员会负责解释。 <br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 本指引自2008年10月1日起施行；有关监管资本要求的计算规则自获得中国银行业监督管理委员会批准实施新资本协议之日起施行。 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

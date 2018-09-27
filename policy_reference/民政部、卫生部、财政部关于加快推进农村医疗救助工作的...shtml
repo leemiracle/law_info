@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】民政部、卫生部、财政部<BR>&nbsp;&nbsp;【发布文号】民发[2005]121号<BR>&nbsp;&nbsp;【发布日期】2005-08-15<BR>&nbsp;&nbsp;【生效日期】2005-08-15<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.mca.gov.cn/article//zwgk/fvfg/zdshbz/200712/20071200005816.shtml" target=_blank>民政部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>民政部、卫生部、财政部关于加快推进农村医疗救助工作的通知<br>    <br></font>(民发[2005]121号)</p><br><br><br>各省、自治区、直辖市民政厅（局）、卫生厅（局）、财政厅（局），新疆生产建设兵团民政局、卫生局、财务局： <br><br>    农村医疗救助工作开展一年多来，各地认真贯彻落实民政部、卫生部、财政部《关于实施农村医疗救助的意见》（民发〔2003〕158号）和财政部、民政部《关于印发<农村医疗救助基金管理试行办法>的通知》（财社〔2004〕1号）精神，大力推进农村医疗救助工作，取得了较大成效。但是也遇到一些新情况和新问题，如各地工作进展不均衡，一些地区工作进展缓慢，医疗救助资金筹集不足，资金供需矛盾突出；一些地区在实施过程中出现了政策不公开、管理不规范等问题。为进一步推动农村医疗救助工作，现就有关事项通知如下： <br><br>    一、加大工作力度，确保完成预定工作目标 <br><br>    力争2005年在全国基本建立起规范、完善的农村医疗救助制度，是农村医疗救助工作的近期目标。各地要根据这一要求，采取有效措施，切实把这项工作抓紧、抓好、抓实。尚未建立农村医疗救助制度的地区，要抓紧进行调查研究，结合当地实际，制定具体工作方案。2005年底以前，各省、自治区、直辖市所辖有农业人口的县（市、区）的农村医疗救助工作方案务必全部出台；不能按时完成工作目标的，由省级民政部门会同卫生、财政部门上报有关情况，说明原因。各地民政部门要结合民政统计工作，及时、准确上报救助人数、救助基金支付等农村医疗救助工作进展情况，民政部将联合有关部门予以定期通报。同时，各地医疗救助工作成效将作为民政部、财政部分配中央财政农村医疗救助补助资金的重要因素。 <br><br>    二、总结经验、积极探索，把救助制度落到实处 <br><br>    解决农村贫困农民的因病致贫、因病返贫问题需要政府有关部门和医疗服务机构密切协作，积极探索行之有效的措施办法。要进一步规范救助审批程序，对符合救助条件的农村特困群众要及时受理申请、办结审批手续并及时发放救助金；要结合本地实际，借鉴一些地方采取的预先垫付医药费、医疗服务机构减免医药费、降低或取消农村医疗救助起付线等办法，使特困群众得到更多的实惠；要做好与新型农村合作医疗制度的衔接，在开展新型农村合作医疗制度试点工作的地区，资助符合条件的农村五保户、贫困户家庭成员和其他贫困农民参加当地新型农村合作医疗，享受相应的医药费报销待遇，并对因患大病经合作医疗补助后个人负担医疗费用过高，影响家庭基本生活的，再给予适当的医疗救助；要针对农村困难群众家庭收入低、生活困难的实际，各地在新型农村合作医疗试点工作中，给予农村医疗救助对象更多的政策优惠；要加强对定点医疗机构的监管，积极推行药品集中采购，规范服务行为，提高服务质量，控制医药费用的不合理增长，减轻农民的医药费用负担。通过采取综合措施，最大程度地缓解农村困难群众就医难的问题。 <br><br>    三、加大投入，规范管理，为农村医疗救助提供资金保障 <br><br>    资金是实施农村医疗救助的保障。要进一步加大投入，缓解资金供需矛盾。各地要根据党中央、国务院《关于进一步加强农村卫生工作的决定》（中发〔2002〕13号）中关于“省、市（地）、县级财政都要根据实际需要和财力情况安排资金，对农村贫困家庭给予医疗救助资金支持”的要求，按照农村医疗救助工作方案，做好资金测算，加大财政投入；中央财政将根据各地农村医疗救助工作情况加大资金投入，以支持中西部农村医疗救助工作的开展；要大力开展社会捐赠，多渠道募集资金，做大医疗救助基金总量。要进一步规范管理，财政预算安排的医疗救助资金应与其他渠道筹集的资金一并存入社会保障基金财政专户中的农村医疗救助基金专账，实行专账管理、专款专用；要根据量入为出、收支平衡的原则，合理使用资金，结余资金要结转使用，不得截留、挪用。同时，为保障农村医疗救助工作的顺利开展，地方各级财政部门要统筹考虑，合理安排农村医疗救助工作经费，对救助对象审核工作给予必要的支持。 <br><br>    四、统一思想，提高认识，切实加强对农村医疗救助工作的领导 <br><br>    农村医疗救助是一项惠及农村特困群众的新工作、新任务，各地要从贯彻“三个代表”重要思想、落实科学发展观、构建社会主义和谐社会的高度，充分认识实施农村医疗救助的重要意义。把实施农村医疗救助作为建立城乡社会救助体系的重要内容，摆上重要议事日程，为其提供必要的工作环境和条件。各级民政、卫生、财政部门要在当地政府的统一领导下，协调配合，尽职尽责，加强督促检查和业务指导，推动农村医疗救助实行政务公开，建立救助工作档案，接受有关部门和社会的监督检查，切实保障救助工作公开、公正、公平。 <br><br>    各地、各部门要结合本地实际，采取切实可行的措施，狠抓督促落实。工作进展中的有关情况和问题，请及时上报上级有关部门。 <br><br>民政部 卫生部 财政部 <br>二ОО五年八月十五日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

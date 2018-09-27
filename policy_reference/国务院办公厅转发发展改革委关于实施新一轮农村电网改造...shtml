@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国务院<BR>&nbsp;&nbsp;【发布文号】国办发〔2011〕23号<BR>&nbsp;&nbsp;【发布日期】2011-05-10<BR>&nbsp;&nbsp;【生效日期】2011-05-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gov.cn/zwgk/2011-05/16/content_1864674.htm" target=_blank>中国政府网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p style="text-align: center;"><strong>国务院办公厅转发发展改革委关于实施新一轮农村电网改造升级工程意见的通知</strong></p>
+<p style="text-align: center;"><strong>国办发〔2011〕23号</strong></p>
+<p><br />各省、自治区、直辖市人民政府，国务院各部委、各直属机构：<br />    发展改革委《关于实施新一轮农村电网改造升级工程的意见》已经国务院同意，现转发给你们，请认真贯彻执行。<br />    实施新一轮农村电网改造升级工程，是贯彻落实《中共中央国务院关于加大统筹城乡发展力度进一步夯实农业农村发展基础的若干意见》（中发〔2010〕1号）要求，加强农村电力基础设施建设，加快改善农村民生，缩小城乡公共事业发展差距的重要举措，各有关部门和地方各级人民政府要高度重视，加强组织领导，完善工作机制，落实责任，周密安排，扎实工作，切实完成好农村电网改造升级各项任务。<br />                                                          国务院办公厅<br />                                                       二○一一年五月十日</p>
+<p>&nbsp;</p>
+<p>关于实施新一轮农村电网<br />改造升级工程的意见<br />发展改革委</p>
+<p>    农村电网是农村重要的基础设施，关系农民生活、农业生产和农村繁荣。自1998年实施农村电网改造、农村电力管理体制改革、城乡用电同网同价以来，我国农村电网结构明显增强，供电可靠性显著提高，农村居民用电价格大幅降低，为农村经济社会发展创造了良好条件。但是，受历史、地理、体制等因素制约，目前我国农村电网建设仍存在许多矛盾和问题。中西部偏远地区农村电网改造面低，农业生产供电设施以及独立管理的农场、林场、小水电自供区等电网大部分没有改造，部分地区还没有实现城乡用电同网同价，一些已改造过的农村电网与快速增长的用电需求不相适应，又出现了新的线路&ldquo;卡脖子&rdquo;和设备&ldquo;过负荷&rdquo;问题。必须抓紧实施新一轮农村电网改造升级工程，进一步提升农村电网供电可靠性和供电能力，满足农民生活、农业生产用电需要。现就新一轮农村电网改造升级工作提出以下意见。<br />    一、总体思路和主要目标<br />    （一）总体思路。以邓小平理论和&ldquo;三个代表&rdquo;重要思想为指导，深入贯彻落实科学发展观，统筹城乡发展，适应农村用电快速增长需要，按照统一规划、分步实施，因地制宜、突出重点，经济合理、先进适用，深化改革、加强管理的原则，加快农村电网建设和改造，深化农村电力体制改革，实现城乡用电同网同价目标，构筑经济、优质、安全的新型农村供电体系，促进农村经济社会持续健康发展。<br />    （二）主要目标。&ldquo;十二五&rdquo;期间，全国农村电网普遍得到改造，农村居民生活用电得到较好保障，农业生产用电问题基本解决，县级供电企业&ldquo;代管体制&rdquo;全面取消，城乡用电同网同价目标全面实现，基本建成安全可靠、节能环保、技术先进、管理规范的新型农村电网。<br />    二、工作重点<br />    （一）对未改造地区的农村电网（包括农场、林场及其他独立管理地区的电网），按照新的建设标准和要求进行全面改造，彻底解决遗留的农村电网未改造问题。<br />    （二）对已进行改造，但因电力需求快速增长出现供电能力不足、供电可靠性较低问题的农村电网，按照新的建设标准和要求实施升级改造，提高电网供电能力和电能质量。<br />    （三）根据各地区农业生产特点和农村实际情况，因地制宜，对粮食主产区农田灌溉、农村经济作物和农副产品加工、畜禽水产养殖等供电设施进行改造，满足农业生产用电需要。<br />    （四）按照统筹城乡发展要求，在实现城乡居民用电同网同价基础上，实现城乡各类用电同网同价，进一步减轻农村用电负担。<br />    三、配套政策措施<br />    （一）加大资金支持力度。中西部地区农村电网改造升级工程项目资本金主要由中央安排，东部地区农村电网改造升级工程项目资本金由项目法人自筹解决。鼓励项目法人加大资金筹措力度，加快农村电网改造升级步伐。<br />    （二）完善农网还贷资金管理。继续执行每千瓦时电量加收2分钱的农网还贷资金政策，专项用于农村电网建设与改造升级工程贷款的还本付息。有关部门要加强监管，指导督促电网企业严格按照国家有关规定征收、使用农网还贷资金，同时，要积极研究农网还贷资金统筹使用机制，加强对中西部地区的扶持，建立对农村电网建设改造、运营维护持续投入的长效机制。<br />    （三）深化农村电力体制改革。全面取消县级电网企业&ldquo;代管体制&rdquo;，按照建立现代企业制度要求和公平自愿原则，通过无偿划转、股份制改造等多种形式，建立有利于促进农村电力健康发展的体制机制。地方管理的电网企业也要深化改革，鼓励与大电网企业通过各种形式的合作或融合，提高供电能力和服务水平。<br />    四、工作要求<br />    （一）编制改造升级规划。各省（区、市）人民政府要根据本地区农村经济社会发展需要，按照因地制宜、实事求是、量力而行的原则，编制农村电网改造升级&ldquo;十二五&rdquo;规划，明确发展目标、工作任务、建设重点、建设方案和投资需求，对本地区农村电网改造升级工作作出周密部署。<br />    （二）加强工程质量管理。发展改革委要制定农村电网改造升级项目管理办法和技术规范，加强项目监管和质量抽查，确保工程质量。国家电网公司、中国南方电网有限责任公司及有关地方电网企业要加强项目前期工作，严格执行基本建设程序和相关管理制度，努力把农村电网改造升级建成精品工程。</p><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

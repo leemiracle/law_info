@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2006]78号<BR>&nbsp;&nbsp;【发布日期】2006-06-05<BR>&nbsp;&nbsp;【生效日期】2006-06-05<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200606081124518773" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于推行增值税防伪税控一机多票系统的通知<br><br></font>(国税发[2006]78号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局：?<br><br>    为加强增值税管理，堵塞税收漏洞，总局决定将增值税一般纳税人开具的普通发票纳入增值税防伪税控系统管理，自2006年6月中旬开始统一推行增值税防伪税控一机多票系统（以下简称一机多票系统），具体推行范围、推行步骤等见《增值税防伪税控一机多票系统推行方案》（附后，以下简称《推行方案》）。<br><br>    一机多票系统推行工作任务繁重，各地税务机关要严格按照《国家税务总局关于增值税防伪税控一机多票系统有关情况的通报》（国税函〔2006〕517号）中的有关要求，积极组织，认真部署，确保《推行方案》的顺利实施。<br><br>??附件：增值税防伪税控一机多票系统推行方案<br><br>                                      国家税务总局<br>                                   二○○六年六月五日<br> <br><br>附件??<br>增值税防伪税控一机多票系统推行方案<br><br>    一、推行范围?<br>    （一）原则上已经使用防伪税控开票系统的企业全部推行一机多票系统；?<br>    （二）商业零售企业、经销水、电、气、暖的企业可自行决定是否使用一机多票系统；?<br>    （三）新认定的增值税一般纳税人直接推行一机多票系统（不纳入推行范围的除外）。<br>    二、推行实施的软硬件要求?<br>    （一）软件要求?<br>    1、税务端?<br>    防伪税控税务端网络版V4.35（小版本号为4.35.03）。?<br>    2、企业端?<br>    对于使用原Windows版、原DOS版开票系统的企业升级为一机多票开票系统软件，版本号为6.10（小版本号为6.10.16.18）；对于新纳入防伪税控的企业直接安装一机多票开票系统软件6.10版本。?<br>    3、接口补丁?<br>    总局将对一机多票系统与金税工程（综合征管软件）衔接的发票发售一体化、一窗式比对、清零解锁等接口进行试运行后统一下发升级。有特殊需求的单位在取得接口标准后自行解决相关问题。?<br>    （二）硬件要求?<br>    1、税务端?<br>    防伪税控税务端网络版省级资源集中统一规划。?<br>    2、企业端?<br>    企业端专用设备：对于使用原Windows版的企业，对其开票金税卡进行重新加载，原32K税控IC卡解锁后仍可沿用；对于使用原DOS版开票系统的企业，对其开票金税卡进行重新加载，同时原2K税控IC卡需要更换为大容量IC卡；对于新纳入防伪税控的企业直接安装使用支持一机多票的开票金税卡与IC卡。<br>    三、推行步骤?<br>    推行工作分三个阶段进行：?<br>    第一阶段：推行月开具专用发票和普通发票量在630份以下Windows版企业（全国约143万户）。?<br>    第二阶段：推行月开具专用发票量和普通发票量在630份以上的Windows版企业（全国约1万户）企业。这部分企业既可以更换成64K容量的IC卡，也可以不换卡而多次抄报税，具体方式由企业自行选择。?<br>    第三阶段：再推行Dos版企业（全国约22万户）。?<br>    各地要按照上述推行范围和推行步骤，以保证各项工作顺利推进为前提，结合当地实际制定具体推行方案，请各地于6月20日前将推行计划上报总局流转税管理司。?<br>    四、职责分工<br>    （一）推行工作由流转税管理部门牵头，具体负责推行的组织工作和业务管理工作；?<br>    （二）信息中心负责做好推行工作所涉及税务系统内部的技术支持工作； ?<br>    （三）航天信息公司负责提供培训师资、金税卡加载、软件升级以及纳税人端技术支持和服务工作。?<br>    五、培训工作?<br>    培训工作由税务机关负责组织，航天信息公司和各地服务单位负责提供培训师资，对使用Windows版开票系统企业的培训不收取费用。?<br>    基层税务机关应提前通知纳税人参加升级培训。?<br>    （一）培训内容：系统新增功能、特点、操作方法、注意事项等内容，具体内容见《增值税防伪税控一机多票系统培训提纲》（附件1）；?<br>    （二）培训师资：航天信息公司负责培训各地市服务单位的培训师资，由各地市服务单位的培训师资向纳税人进行培训。<br>    六、实施工作?<br>    各基层税务机关负责组织实施工作。工作项目包括：?<br>    （一） 编制本地区具体推行计划?<br>    按照总局的推行步骤，将推行工作细化到每一户企业和每一个工作日。?<br>    1、根据本地升级设备和工作人员的实际情况均匀地安排进度，防止企业在升级现场长时间排队等候。?<br>    2、企业户数较多的地区，可以向航天信息公司增购相关专用设备。?<br>    （二）做好推行防伪税控一机多票系统的宣传工作，争取当地政府和纳税人的理解和支持，营造良好的推行氛围。?<br>    （三）事前告知纳税人?<br>    税务机关应事先书面告知纳税人升级加载一机多票系统的具体事项（可在企业培训时发放），具体内容包括升级加载的时间、地点，纳税人需要准备的资料以及注意事项等。通知模版见附件2。?<br>    （四）加载升级?<br>    1、成立工作组。由于这项工作持续时间较长，涉及的部门和岗位也较多，因此要成立专门工作组，由单位“一把手”亲自挂帅，统一协调指挥；明确加载升级现场的负责人，负责统一调度；明确各部门和岗位分工制度，防止相互推诿。?<br>    2、结合当地实际情况设立加载升级的场地，其中发行、发售、报税等可以在原岗位完成，也可以安置在金税卡加载现场。<br>    3、向纳税人提供升级流程图，明确工作流程、岗位、地点和注意事项，确保升级工作有序进行。升级流程图的模版见附件3。?<br>    4、实行加载升级工作交接单制度。为分清责任、杜绝差错，实行加载升级工作交接单制度，按照工作流程明确企业、服务单位、税务机关各岗位的职责，记载工作完成情况。加载升级工作交接单模版见附件4。?<br>    5、加强安全管理。包括：?<br>    （1）加载安全：执行加载操作前应采取防止突然断电的保护措施，如：使用UPS电源保护器等，避免加载过程中突然断电，造成金税卡永久性损坏。?<br>    （2）数据安全：包括报税信息、购票信息、发行信息的完整性和准确性，要防止报税数据丢失，防止购票信息、发行信息发生错误，保证金税工程的运行质量。?<br>    （3）系统安全：要严格按照《增值税防伪税控系统管理办法》的要求管理和使用发行、发售和报税系统。?<br>    （4）财产安全：做好加载升级现场的防火、防盗等防护工作。<br>    七、监督指导工作?<br>    建立推广实施中的报告制度（包括进展情况、存在问题及解决建议等）。总局将随时掌握各地推行情况，并进行督查。各省级税务机关要经常性地检查指导下级税务机关推行工作进度，总结和推广好的经验，发现问题要及时妥善解决。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

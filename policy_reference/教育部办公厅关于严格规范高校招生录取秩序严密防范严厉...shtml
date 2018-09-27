@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部办公厅<BR>&nbsp;&nbsp;【发布文号】教学厅〔2007〕7号<BR>&nbsp;&nbsp;【发布日期】2007-07-19<BR>&nbsp;&nbsp;【生效日期】2007-07-19<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/info30987.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于严格规范高校招生录取秩序严密防范严厉打击中介招生诈骗的通知<br><br></font>(教学厅〔2007〕7号)</p><br><br><br> 各省、自治区、直辖市教育厅（教委）、高校招生委员会办公室：<br> <br>    为进一步落实今年高校招生重点治理任务，加大防范和严惩高校体制外招生，打击中介招生诈骗活动的工作力度，确保高校招生录取正常秩序，现就有关要求通知如下：<br> <br>    一、严格审查普通高校招生资格。除经我部批准具有2007年普通高等学历教育招生资格的普通高校、独立学院和分校办学点外，其他任何学校和单位均不得招收普通高等学历教育学生，也不得挂靠具有招生资格的学校招生。省级教育行政部门不得为无普通高等学历教育招生资格的高校安排计划参与招生，并要反复提醒考生注意了解招生学校确实是具有普通高等学历教育招生资格的高校。<br> <br>    二、严格督查民办高校切实按章程招生。未经省级教育行政部门同意，民办高校不得在招生录取过程中擅自调整、变更本校招生章程和招生广告有关内容。民办高校的法定代表人要对本校招生章程执行情况和广告发布情况负责。独立学院的举办者要加强对独立学院招生全过程的监督。各省级教育行政部门要督促民办高校按照此前经省级教育行政部门审核备案的招生章程执行，并对其招生广告发布情况进行检查。严禁民办高校发布与经过审核备案的内容不相一致的章程或广告、混淆学历教育与非学历教育、违规承诺录取等方式吸引欺骗考生入学。<br> <br>    三、严禁高等学校违规录取考生。各省级教育行政部门、高等学校要严格执行招生计划。未经我部同意，不得擅自扩大本省（区、市）、本校本科和高职（专科）招生规模，严禁超计划招生。严禁高校组织在校学生（学员）、雇用社会人员、委托中学教师或中介机构组织生源和介入招生录取工作。严禁高校避开省级招办违规录取学生。严禁高校在任何时间以任何理由或名义向考生或家长收取与录取挂钩的任何费用。<br> <br>    四、认真做好录取考生信息确认工作。2007年对独立学院、民办高校录取的参加全国统考的本科层次考生，各省级招办要根据录取考生名单，统一印制《录取考生信息确认表》，确保内容准确无误，并加盖省级招办录取专用章，原则上三日内向有关高校寄送录取考生名册和录取考生信息确认表。高校负责将《录取考生信息确认表》连同录取通知书直接寄送被录取考生。同时，省级招办还要采取措施，确保所有考生均可通过其所提供的途径查询和确认本人的录取结果。<br> <br>    五、加强对涉嫌招生诈骗的查处。各省级招办要建立和完善高校招生网络有害信息监察制度，一经发现涉嫌招生录取中介诈骗行为的信息，凡涉及本行政区域内高校的，必须立即核查，并通报省级公安机关网监部门予以处理；涉及非本行政区域内的，立即报告我部（高校学生司）。各省级招办和高校要积极配合当地公安机关严厉打击各类招生诈骗活动，妥善处理因诈骗事件可能引发的事端。<br> <br>    六、做好新生学籍电子注册数据准备工作。为确保今年录取考生顺利完成新生学籍电子注册，各省级招办须在9月1日之前按规定向我部全面、准确、规范上报各高校在本行政区域内录取的所有考生（包括统考、保送、单独考试录取的考生等）录取数据库，实施高职（专科）层次补录的省份应在9月30日前完成补录工作，并及时上报补录数据。对高校违反规定录取的考生和省级招办未报送录取数据的考生，将一律不予新生学籍电子注册。<br> <br>    七、做好防范、打击招生中介诈骗宣传工作。各省级招办和高校要把防止招生诈骗宣传工作纳入重要议事日程，加大工作力度，采取生动、有效的形式，主动宣传高校招生政策、程序和纪律，并且要把有关方面查处的非法招生中介诈骗典型案例向考生及家长进行反复、广泛的宣传教育，促使考生和家长认清非法招生中介的虚假欺骗性质，避免上当受骗。请各省级招办把本省（区、市）该项宣传工作实施方案于7月底前报我部（高校学生司）。<br> <br>    八、我部将对招生管理不严，办学秩序混乱，违规体制外招生和乱收费，以及出现严重不稳定事件的高校，建立招生、办学秩序不良记录档案，视情节严重程度予以下年度限制招生或暂停招生处理，并通过新闻媒体予以曝光。对违法违纪招生案件，要严格追究有关当事人和主管领导的责任，对发生与招生录取挂钩乱收费的高校，要先责令其主要负责人停职检查，再进行组织处理，对参与非法招生中介活动的工作人员，有关部门和高校必须依法依纪作出严肃处理。<br> <br>    请各省级教育行政部门速将本通知转发本行政区域内有关高校。<br><br>教育部办公厅<br>二○○七年七月十九日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

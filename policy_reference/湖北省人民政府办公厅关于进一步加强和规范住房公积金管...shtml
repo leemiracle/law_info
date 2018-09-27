@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】湖北省<BR>&nbsp;&nbsp;【发布文号】鄂政办发〔2006〕94号<BR>&nbsp;&nbsp;【发布日期】2006-09-30<BR>&nbsp;&nbsp;【生效日期】2006-09-30<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.hubei.gov.cn/yghb/yg04/yg04c/200612/t12123.htm" target=_blank>湖北省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>湖北省人民政府办公厅关于进一步加强和规范住房公积金管理工作的通知<br><br></font>(鄂政办发〔2006〕94号)</p><br><br><br>各市、州、县人民政府，省政府各部门：<br><br>    自国务院修订的《住房公积金管理条例》（以下简称《条例》）和《湖北省住房公积金管理实施办法》（省政府令第272号，以下简称《办法》）施行以来，全省住房公积金管理工作取得较大进展，对维护住房公积金所有者的合法权益、促进城镇住房建设、提高城镇居民的居住水平起到了重要的保障作用。但在实际工作中，各地不同程度地存在决策机制不健全、管理机构调整进展缓慢、挤占挪用住房公积金等问题，严重影响了住房公积金管理工作的顺利开展。为进一步加强和规范住房公积金管理，确保住房公积金安全运行，经省人民政府同意，现就有关问题通知如下：<br><br>    一、进一步明确职责，健全住房公积金决策机制<br>    住房公积金管理委员会（以下简称管委会）作为住房公积金管理的决策机构，其职责履行的好坏直接关系到住房公积金事业的健康发展。各市、州、直管市及神农架林区要进一步规范管委会及其工作机构设置，严格工作制度，健全议事规则。管委会主任要对公积金决策负总责，住房公积金管理中心主任对决策的执行负责。管委会要认真履行工作职责，每半年听取一次管理中心工作情况的汇报，定期召开专门会议，及时审议住房公积金缴存比例、归集使用计划及执行情况、财务收支预决算，以及增值收益分配等重大事项。管委会决策情况要形成会议纪要，及时报省建设厅、省财政厅等部门备案。要加强对管委会委员履行职责的考核和政策培训，提高决策能力，强化委员的责任意识。要根据工作需要和人员变动情况,及时调整和充实管委会组成人员并向社会公布。<br><br>    二、限期完成住房公积金管理机构调整工作<br>    《办法》明确规定，各市、州、直管市及神农架林区应当按照精简、效能的原则，设立一个住房公积金管理中心，县（市、区）不设立住房公积金管理中心，视资金归集情况设立住房公积金管理中心的办事机构。住房公积金管理中心是直属市（州）人民政府管理的独立事业单位，不得挂靠任何部门或单位，不得与其他部门或单位合署办公。各市、州、直管市及神农架林区人民政府要高度重视，加大住房公积金管理机构调整工作力度，严格依法行政，确保2006年10月底前将住房公积金管理机构调整为直属政府的独立事业单位。已设立管理中心的县（市、区），要调整为市（州）管理中心的办事处，纳入市（州）管理中心统一管理；经批准设立的分中心要严格按照有关规定，实现与管理中心统一决策、统一制度、统一管理、统一核算，按照管理中心的授权办理住房公积金业务。县（市、区）管理机构和分中心的调整工作必须于11月底前完成。在调整过程中，要严格控制编制,超编人员由当地政府负责妥善安置。凡逾期仍不能按要求完成机构调整的，要追究有关责任人的责任。<br><br>    三、加快回收挤占挪用资金和单位、项目贷款<br>    各地、各有关部门要充分认识回收挤占挪用资金和单位、项目贷款的重要性，高度重视挤占挪用资金和单位、项目贷款的清收工作，采取得力措施，力争在2006年11月底前全部收回。要按照“谁审批、谁负责”的原则，逐一落实回收责任人，列出明细，逐笔清理。凡是由各级政府批准的单位、项目贷款和挤占挪用资金，由本级政府负责回收和归还；行政及企事业单位的贷款和挤占挪用资金以及个人借款，要采取行政、经济和法律等多种手段进行清收。对已形成损失难以收回的企业贷款，要按规定纳入核销程序。对清收不力或因决策失误致使发放的单位、项目贷款和挤占挪用资金难以收回，以及《条例》施行后发生挤占挪用的，要依纪依规追究有关责任单位和责任人的责任。涉嫌犯罪的，要及时移送司法机关追究其刑事责任。<br><br>    四、加大住房公积金归集力度，不断提高住房公积金覆盖率<br>    住房公积金归集是推进住房公积金制度建设，维护住房公积金所有者合法权益的基础性工作。各地要不断加大住房公积金归集力度，全面开展对各类机关、企事业单位建立和缴存公积金情况的检查，摸清底数。对应建未建的，通过宣传、归集执法、部门协作等手段，做好催建催缴工作，做到应建尽建、应缴尽缴。要及时将财政拨款单位的职工住房公积金补贴足额列入财政预算，确保财政拨款单位尤其是县、乡机关单位和职工尽快建立住房公积金制度。要加强对非公有制经济单位的征缴工作，积极探索在进城务工人员、城镇个体工商户、自由职业人员中建立住房公积金制度。对尚未建立公积金制度的县（市、区），要加强督办，确保2006年11月底前全面建立，以切实维护广大职工的合法权益。要严格按照《条例》的要求，杜绝单位自行归集管理住房公积金的行为。凡自行归集管理住房公积金的单位，必须于11月底前将归集的住房公积金交由所在市（州）住房公积金管理中心管理。<br>要根据住房公积金基本保障的性质和国家有关规定，合理确定住房公积金缴存比例和缴存基数。各地单位和职工住房公积金缴存比例不得低于职工上一年度月平均工资的5%，原则上不高于12%；缴存公积金的工资基数不应超过所在市（州）统计部门公布的上一年度职工月平均工资的3倍。未按照规定程序报经省政府批准的缴存比例应立即调整，对部分行业、单位利用多缴住房公积金变相逃税的行为要坚决纠正。<br><br>    五、大力发展住房公积金个人贷款业务<br>    各地要进一步加强对职工住房贷款需求的分析，查找影响个贷业务发展的原因，有针对性地解决存在的问题；要制订符合本地实际的贷款政策和管理办法，鼓励职工申请使用住房公积金贷款，努力拓展住房公积金贷款对象。要发挥住房公积金的政策优势，合理引导和支持城镇中低收入家庭的住房消费，重点支持住房困难的中低收入职工购房；要创新贷款品种，在规范化管理的基础上，积极发展二手房、经济适用房、集资合作建房等个人贷款；要树立服务理念，强化服务意识，优化业务流程，简化贷款手续，限定办理时限，推行灵活多样的还款方式，最大限度地为职工个人提供贷款服务；要切实维护缴存职工申请住房公积金贷款的合法权益，对受托银行、房地产企业误导、阻扰、歧视职工使用住房公积金贷款的行为，有关部门要采取措施予以纠正，并记入企业、单位信用档案；要健全风险防范机制，提高风险管理水平，优化担保方式，规范贷款担保行为，推进住房公积金贷款业务规范健康发展。<br><br>    六、切实加强对住房公积金管理工作的监管<br>    省建设厅、省财政厅等部门要严格履行《条例》和《办法》所赋予的监管职责，加强沟通和协调，切实落实联合督查调研、举报受理、定期通报和信息披露等制度；要统筹规划，尽快建立全省统一的住房公积金管理信息系统，规范住房公积金运行行为，实现对住房公积金运行管理的实时监控。省建设厅要健全监管机构，充实监管力量，加强现场检查稽核和对违纪违规行为的查处力度，抓好全省住房公积金管理法规、政策执行情况的监督，不断提升监管水平。省财政厅要组织各级财政部门加强住房公积金的财政监管，建立对住房公积金归集、提取和使用的全过程监督机制，重点加强对住房公积金使用方向、预决算执行情况和财务管理工作的监督。各市、州、直管市及神农架林区人民政府要加强对公积金管理中心负责人的监管。任命管理中心负责人必须符合国家规定的任职条件，任职资格要报经省建设厅确认，按干部管理权限任命。要建立完善对管理中心负责人的考核和责任追究制度。管理中心主任不得兼任其他行政、事业单位和经济组织的职务，已兼任的限期于2006年10月底前纠正。<br><br>    各市、州、直管市及神农架林区人民政府要站在践行“三个代表”重要思想的高度，充分认识加强和规范住房公积金管理工作的重要性，严肃纪律，明确责任，切实加强领导，采取得力措施，狠抓落实。年底前，要将贯彻落实本通知的情况向省政府写出专题报告。省建设厅要会同省财政厅、省审计厅、省监察厅、人行武汉分行等部门在11月底前进行全面检查，检查结果上报省政府，并向全省通报。<br><br>湖北省人民政府办公厅<br>二○○六年九月三十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

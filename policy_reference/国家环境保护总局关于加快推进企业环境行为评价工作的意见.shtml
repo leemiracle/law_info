@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家环境保护总局<BR>&nbsp;&nbsp;【发布文号】环发〔2005〕125号<BR>&nbsp;&nbsp;【发布日期】2005-11-21<BR>&nbsp;&nbsp;【生效日期】2005-11-21<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhb.gov.cn/eic/649086798147878912/20051124/13170.shtml" target=_blank>国家环境保护总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家环境保护总局关于加快推进企业环境行为评价工作的意见<br><br></font>(环发〔2005〕125号)</p><br><br>     <br>各省、自治区、直辖市环境保护局（厅），副省级城市环境保护局，解放军环境保护局，新疆生产建设兵团环境保护局：<br><br>    公开企业环境信息是保障公众环境知情权的重要措施，是促进工业污染防治工作的重要手段，是环境政策和管理制度的改革与创新。2003年以来，我局与世界银行合作，在部分省、市开展企业环境行为评价试点工作，对促进企业遵守环保法律法规、加强污染治理，推动公众参与等起到了积极作用。为贯彻落实胡锦涛总书记关于“要积极创造条件，完善公众参与的法律保障，为各种社会力量参与人口资源环境工作搭建平台”的指示精神，我局决定在全国推广试点工作经验，加快推进企业环境行为评价工作，现提出以下意见。 <br><br>    一、充分认识开展企业环境行为评价的重要性 <br><br>    加强企业环境监管，提高工业污染防治水平是环保工作的重点。近年来，各地通过调整产业结构，加大环保执法力度，工业污染防治取得较大进展，工业产品的污染排放强度下降，环境污染加剧的趋势得到初步控制。但是，企业超标排污现象仍时有发生，工业污染物排放情况日趋复杂，因环境污染引发的纠纷、群体性事件逐年增多，加强企业环境监管仍是一项长期和紧迫的任务。充分运用法律、行政、经济和信息等各种监管手段，特别是发挥公众参与和社会监督的作用，是当前提高环境监管效率、促进企业污染防治的有效措施。 <br><br>    随着人民生活水平的提高，公众环境意识普遍增强，要求政府、企业公开环境信息，接受社会监督的愿望日益迫切。企业环境行为评价是环保部门将企业遵守环保法律法规的情况，以直观明了的形式向社会公开的环境管理手段。开展企业环境行为评价有利于增强企业的环境守法和社会责任意识，有利于保障人民群众的环境权益，化解因污染问题引发的环境纠纷，促进环保部门改进工作方式、提高环境管理水平。各级环保部门要充分认识实施企业环境行为评价的重要意义，切实把这项工作抓紧抓好。 <br><br>    二、明确企业环境行为评价工作的目标和原则 <br><br>    从2006年起，各省、自治区、直辖市要选择部分地区开展试点工作，有条件的地区要全面推行企业环境行为评价；到2010年前，全国所有城市全面推行企业环境行为评价，并纳入社会信用体系建设。 <br><br>    开展企业环境行为评价，应当坚持以下原则： <br><br>    ――统筹规划，扎实推进。要提高认识，明确职责，制定工作计划，做好宣传动员、机构建设、人员培训、部门协调等各项基础工作，有步骤地推进企业环境行为评价。 <br><br>    ――因地制宜，突出重点。要结合本地区实际情况，把对当地经济社会和环境影响大、社会普遍关注的企业作为环境行为评价的重点对象，采取切实可行的评价方式，确保评价工作的积极效果。 <br><br>    ――程序严密，公正透明。要认真制定企业环境行为评价工作程序，并严格执行，力求评价过程公开、评价方法科学、评价结果公正。 <br><br>    ――动态管理，持续改进。要及时跟踪企业和社会各界对评价情况的反应，不断改进工作，建立配套的奖惩措施，促进环保部门提高评价工作水平，引导企业不断改善环境行为。 <br><br>    三、认真做好企业环境行为评价的组织实施 <br><br>    企业环境行为评价是由环保部门根据企业的环境信息，按照一定的程序和指标，对其环境行为进行综合评价定级。评价结果通常分为很好、好、一般、差和很差，为方便公众了解和辩识，以绿色、蓝色、黄色、红色和黑色分别进行标示，并向社会公布。 <br><br>    绿色：企业达到国家或地方污染物排放标准和环境管理要求，通过ISO14001认证或者通过清洁生产审核，模范遵守环境保护法律法规。 <br><br>    蓝色：企业达到国家或地方污染物排放标准和环境管理要求，没有环境违法行为。 <br><br>    黄色：企业达到国家或地方污染物排放标准，但超过总量控制指标，或有过其他环境违法行为。 <br><br>    红色：企业做了控制污染的努力，但未达到国家或地方污染物排放标准，或者发生过一般或较大环境事件。 <br><br>    黑色：企业污染物排放严重超标或多次超标，对环境造成较为严重影响，有重要环境违法行为或者发生重大或特别重大环境事件。 <br><br>    各省、自治区、直辖市环保部门要统一组织和指导本行政区企业的环境行为评价工作。地市级环保部门负责组织实施本行政区企业的环境行为评价工作，并向社会公布评价结果。 <br><br>    （一）建立机构 <br><br>    环保部门开展企业环境行为评价工作，要成立工作机构，负责组织实施。要积极争取当地政府的支持，成立由政府领导、有关部门参加的企业环境行为评价工作领导小组；组织有关专家成立技术组，负责技术指导。 <br><br>    （二）确定评价对象 <br><br>    企业环境行为评价对象应当包括：严重超标和超总量控制指标排污的企业、使用有毒有害原材料的企业、群众反映强烈的排污企业、在当地有重要影响的企业（包括服务业企业）和其它重点污染源。参加环境行为评价企业的主要污染物排放总量之和要达到当地工业排污总量的80%以上。有条件的地方，可以探索将第三产业纳入企业环境行为评价范围。 <br><br>    （三）确定企业环境行为评价标准 <br><br>    企业环境行为评价指标体系，包括企业污染物排放行为、环境管理行为、环境社会行为、环境守法或违法行为等方面。各地要按照《企业环境行为评价技术指南》（见附件，以下简称《指南》），选择适合当地情况的环境行为评价标准类别（A类或B类）。 <br><br>    （四）实施步骤 <br><br>    企业环境行为评价的实施可以分为准备、评价、公开、持续实施等四个阶段。在准备阶段，做好组织领导和宣传动员工作；在评价阶段，做好数据核实和部门协调工作；在公开阶段，做好结果反馈和效果评估工作；在持续实施阶段，做好政策制定和制度衔接工作。企业环境行为评价周期一般为半年或一年，有条件的地区可以缩短评价周期并增加公布频次。 <br><br>    在实施过程中，为保证评价的客观、公正，环保部门要切实抓好评价工作中的几个重要环节：将初步评价结果书面告知有关企业，做好复审工作；认真核定企业环境行为评价结果，并在政府网站或当地主要媒体上进行公示，征求社会各方面意见；当企业环境行为发生较大变化时，应及时重新评定并公布；定期组织企业所在地单位和居民代表，参加企业污染控制情况报告会，听取企业治理污染情况报告，以便实施公众监督。 <br><br>    四、加强企业环境行为评价工作的领导 <br><br>    各级环保部门要高度重视企业环境行为评价工作，加强组织协调，将评价工作纳入年度工作计划并给予必要的经费保证。可将企业环境行为评价结果通报国土、工商、银行及证券监管等部门，并积极将评价结果纳入社会信用体系或建设环境信用体系；应组织和帮助评价结果属于一般、差和很差的企业制定有针对性的整改计划，并督促和帮助其认真落实，尽快改善环境行为。 <br><br>    企业环境行为评价工作涉及环境监测、监察、统计、污染控制等各方面。各级环保部门要加强环保基础工作，按照企业环境行为评价工作的需要，建立企业环境行为数据库和相应的管理信息系统，以保证数据来源的合法性及数据的准确性。 <br><br>    各级环保部门要积极探索制定有利于推进企业环境行为评价的政策措施。对于环境行为评价结果连续两年为绿色的企业，可优先安排环保专项资金项目、清洁生产示范项目、循环经济试点项目，申请上市或再融资的，可免除环保核查；对于环境行为评价结果为红色和黑色的企业要实行限期治理；连续两次以上评价结果为黑色的企业，应责令其停产整治，仍然达不到环保要求的，应报请同级人民政府实施关闭。<br><br>    附件：企业环境行为评价技术指南<br><br>    二○○五年十一月二十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

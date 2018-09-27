@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】浙江省<BR>&nbsp;&nbsp;【发布文号】浙政办发〔2006〕124号<BR>&nbsp;&nbsp;【发布日期】2006-09-20<BR>&nbsp;&nbsp;【生效日期】2006-09-20<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.gov.cn/zwgk/2006-10/18/content_416141.htm" target=_blank>中国政府网 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>浙江省人民政府办公厅关于在省政府门户网站开展网上值班试点的通知<br><br></font>(浙政办发〔2006〕124号)</p><br><br><br>各市、县（市、区）人民政府，省政府直属各单位：<br>    为贯彻落实温家宝总理在加强政府自身建设推进政府管理创新电视电话会议上的讲话精神，切实转变和完善政府职能，提高行政效能，建设服务型政府，提升政府服务公众的能力，省政府决定在省政府门户网站上开通网上值班室，并开展网上值班试点工作。现将有关事项通知如下：<br>    一、网上值班室功能<br>    网上值班室是利用信息技术在省政府门户网站上建立的互动交流平台，主要实现政策咨询、监督投诉、业务交流三大功能，是政府联系群众、联系基层的新型渠道。公众通过省政府门户网站提供的公众版“浙江政务通”软件提出问题或投诉；政府部门通过公务员版“浙江政务通”软件登录网上值班室，受理公众投诉，提供即时咨询服务；政府部门之间通过“浙江政务通”软件相互进行业务交流。<br>    二、试点单位<br>    确定省发改委、省经贸委、省教育厅、省公安厅、省民政厅、省人事厅、省劳动保障厅、省国土资源厅、省建设厅、省交通厅、省农业厅、省卫生厅、省人口计生委、省地税局、省环保局、省工商局为试点单位。<br>    三、试点工作要求<br>    各试点单位要充分认识开通网上值班室的重要性，确定一名领导为网上值班试点工作负责人，落实人员，从10月16日开始承担网上值班工作。<br>    各试点单位要将网上值班和其他咨询、服务方式结合起来，在不增加人员的情况下，充分调动各下属呼叫中心、咨询中心或办事大厅的积极性，安排熟悉本单位业务工作并具有一定计算机操作能力的人员进行网上值班，切实做好网上值班工作。要定期对群众反映问题的数量、内容及办理情况进行统计，对群众反映的热点问题进行归纳整理，并以电子文档的形式提交省政府门户网站。对业务较复杂的单位，可以根据分工设立多个值班岗位。<br>    四、其他事项<br>    （一）各试点单位要在10月10日前将网上值班试点工作负责人和值班人员名单通过电子政务内网邮件系统报省政府办公厅电子政务办公室。各试点单位值班人员通过省电子政务外网资源共享网站（http://res.zhejiang.gov.cn）下载“浙江政务通”软件。省政府办公厅电子政务办公室将通过电子政务内网邮件系统把“浙江政务通”操作手册和登录用户名、口令发送给各试点单位，请注意查收。<br>    （二）省政府办公厅将定期对各试点单位值班人员在线时间及问题回复情况进行督查、考核，考核结果将作为电子政务年度工作任务完成情况的指标之一，列入省政府目标责任制考核范围。<br>    （三）在试点工作基础上，省政府将要求省政府直属各单位逐步开展网上值班工作，请各单位做好准备工作。     <br>    附件：网上值班室值班人员工作规则<br><br>                                                      二○○六年九月二十日<br> <br><br>附件：网上值班室值班人员工作规则<br><br>    为切实做好省政府门户网站网上值班工作，特制定网上值班室值班人员工作规则。<br>    一、网上值班时间与省级机关作息时间一致，值班人员在岗期间应保证“浙江政务通”软件处于在线状态,及时回答群众提出的问题。不能立即答复问题的要及时转办。<br>    二、值班期间不得长时间离开岗位。短暂离开岗位时应将“浙江政务通”软件状态变更为“离开”。遇到多名提问人同时提出问题时，应将状态变更为“忙碌”。对值班人员离线期间系统自动记录的问题，应在下一个工作日及时进行处理。<br>    三、对本单位联系方式、办事规则、基本业务等内容的咨询，值班人员应予以明确答复，或告知提问人准确获取信息的途径。<br>    四、对属于本单位业务范围内比较复杂的咨询和需要调查证实的投诉，应及时转交相关责任人或责任部门处理，并将答复时限及结果查询方法告知提问人。也可通过“浙江政务通”软件将问题转至省政府门户网站“在线咨询”、“监督投诉”系统处理，并将受理编号与结果查询方法告知提问人。<br>    五、对属于其他单位职能范围的问题，应明确告知提问人其他单位的联系方式。涉及党委、人大、政协、部队、法院、检察院或市、县（市、区）政府工作职责范围的事项，应建议提问人直接向有关单位反映。<br>    六、对有关全省经济社会发展的重要意见建议、社会生活中的热点难点问题，以及涉及到多个单位业务范畴的问题，可转至省政府门户网站“省长信箱”系统处理，并告知提问人受理编号与结果查询方法。<br>    七、为避免围绕某一热点问题的咨询过于密集，导致值班人员无法及时回复，各单位应针对近期工作热点提前在省政府门户网站“政务论坛”安排专场咨询，集中解答群众的疑问，并在网上值班室上做好预告工作。<br>    八、为保证网上值班效率，对提问人提交的各类问候语、无实际内容的闲聊、与政府职责无关的或内容表述不清的问题，值班人员可不予回答。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

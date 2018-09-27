@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2008〕2号<BR>&nbsp;&nbsp;【发布日期】2008-01-10<BR>&nbsp;&nbsp;【生效日期】2008-01-10<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_405/61968.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于加强交强险管理有关工作的通知<br><br></font>(保监发〔2008〕2号)</p><br><br><br>各中资产险公司、各保监局、中国保险行业协会：<br><br>    为进一步提高机动车交通事故责任强制保险（以下简称交强险）运行的水平，加强交强险业务管理，提高交强险服务质量，强化交强险核算和信息披露制度，保护被保险人和交通事故受害人的合法权益，现就有关问题通知如下：<br><br>    一、要改进交强险理赔服务方式<br><br>    （一）各从事交强险业务的保险公司（以下简称保险公司）必须采取有效措施，简化理赔手续和流程、缩短结案周期、完善抢救费用垫付机制，不断提高交强险理赔服务质量。<br><br>    （二）中国保险行业协会应组织各保险公司及时修订《交强险承保理赔实务规程》，规范各公司承保、理赔服务行业标准，并从2008年2月1日起在全国范围内全面实施交强险无责财产赔付简化处理机制。<br><br>    （三）已实施道路交通事故快速处理机制地区，要及时总结当地有效做法和有益经验，逐步完善运行机制及操作实务流程，使之更好地发挥作用。<br><br>    二、要加强交强险核算管理<br><br>    保险公司要严格按照有关法律、法规的要求，遵循“及时、准确、公平、透明”的原则，建立健全交强险财务核算、外部审计和信息披露制度。完善内部控制、改进业务流程、落实岗位责任制、提高信息系统运行水平、加强财务人员专业培训，逐步形成核算管理的长效机制，确保交强险业务的各项核算要求落到实处。<br><br>    三、要加大交强险成本控制力度<br><br>    （一）各保险公司应采取措施加大对交强险各项成本的管控力度，压缩交强险费用率水平，切实降低交强险总体费用水平，减少投保人负担。<br><br>    （二）交强险费用率水平高于行业平均水平的公司，必须对交强险费用情况进行详细分析核查，制定严格预算，并采取有力措施控制交强险成本。<br><br>    四、要改进交强险信息披露方式<br><br>    （一）各保险公司要按法律法规的规定聘请专业水平高、社会公信力强的会计师事务所对交强险业务情况进行独立的第三方审计。<br><br>    （二）从2008年会计年度起，各保险公司每年应按照会计年度聘请注册会计师对交强险业务进行审计；并在每年的4月30日前，将上一年度经注册会计师审计的交强险专题财务报告一式四份报中国保监会，并同时报送报告电子版。<br><br>    （三）保监会收到保险公司上报的交强险专题财务报告后十个工作日内未提出异议的，各保险公司须在五个工作日内通过保监会指定信息披露媒体披露本公司交强险专题财务报告摘要，同时通过公司网站披露专题财务报告全文，接受社会监督。<br><br>    （四）保险公司应逐步细化交强险专题财务报告中《交强险经营费用明细表》项目，并在报表附注中对费用项目内容进行说明。<br><br>    五、要做好新旧交强险切换工作<br><br>    （一）交强险责任限额、费率方案（2008版）从2008年2月1日零时起实行。对截至2008年2月1日零时保险期间尚未结束的交强险保单，在2008年2月1日零时后发生道路交通事故的，按照新的责任限额执行；在2008年2月1日零时前发生道路交通事故的，仍按原责任限额执行。<br><br>    （二）各公司要做好系统衔接、保单印制等工作，确保交强险新的责任限额、费率方案按时执行。<br><br>    （三）各保险公司现行的交强险保险单最迟可沿用至2008年3月31日。但应当在保单的特别约定栏注明：“保险人按照中国保监会公布的交强险责任限额（2008版）承担保险责任”等类似字样。<br><br>    六、要加强交强险重要环节监管<br><br>    （一）各保监局要将辖区内交强险费用水平偏高的分支机构列为重点检查对象。对经查实存在“虚列费用”的保险公司分支机构，要依法及时进行严肃处理。<br><br>    （二）各保监局要加强对辖区内保险公司分支机构交强险数据真实性的检查力度，重点检查交强险保费收入和已决赔款确认、未决赔案估损、专属费用指认、共同费用分摊等环节，全面准确反映经营结果。<br><br>    （三）各保监局、各保险公司要高度重视交强险理赔服务投诉，及时解决各类矛盾纠纷，加强对社会各界反映情况研究，及时解答各类疑惑。对于服务质量差、信访投诉多的分支机构及相关责任人及时警示，对于违法违规机构和人员依法严肃查处。<br><br>    （四）各保监局要加强查处工作，对存在严重违法违规行为的保险公司分支机构，要依法采取“责令停止接受交强险新业务”、“责令撤换责任人”、“吊销经营保险业务许可证”等严肃处理措施。<br><br>                                        二○○八年一月十日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

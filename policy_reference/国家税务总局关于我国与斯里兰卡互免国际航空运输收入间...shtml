@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发[2005]38号<BR>&nbsp;&nbsp;【发布日期】2005-03-18<BR>&nbsp;&nbsp;【生效日期】2005-03-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.law-lib.com/law/law_view.asp?id=90981" target=_blank>法律图书馆新法规速递 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于我国与斯里兰卡互免国际航空运输收入间接税换函生效执行的通知<br><br></font>(国税发[2005]38号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局、地方税务局：<br><br>    中华人民共和国政府和斯里兰卡民主社会主义共和国政府关于互免国际航空运输收入间接税的换函（见附件），自二○○五年三月一日起生效执行。<br><br>附件：中华人民共和国政府与斯里兰卡民主社会主义共和国政府关于互免国际航空运输收入间接税的换函<br><br><br>国家税务总局 <br>二○○五年三月十八日 <br><br><br>附件<br><br>中华人民共和国政府与斯里兰卡民主社会主义共和国政府关于互免国际航空运输收入间接税的换函<br><br>中华人民共和国?<br>北京市海淀区羊坊店西路5号?<br>国家税务总局局长?<br>谢旭人??<br><br>阁下：?<br>    我荣幸地提及斯里兰卡民主社会主义共和国政府指定的航空企业在中华人民共和国开展空运业务免除中华人民共和国征收的营业税和其他间接税而通过外交渠道进行的磋商。?<br>    考虑到当前斯里兰卡并未对国际航空运输业务征收类似于营业税的间接税，我特提出下列安排：?<br>    一、斯里兰卡民主社会主义共和国政府指定的航空企业在中华人民共和国开展航空运输业务和从事航空运输业务销售而从中华人民共和国取得的收入应当免除对毛收入和（或）流转额征收的营业税和所有间接税。?<br>    二、上述第一款提及的免税同样适用于中华人民共和国政府指定的航空企业在斯里兰卡民主社会主义共和国开展航空运输业务和从事航空运输业务销售取得的收入。?<br>    如果阁下接受上述（条款），我荣幸地建议，本信函及阁下确认中华人民共和国政府接受斯里兰卡民主社会主义共和国政府所提上述方案的复函将视为构成两国税务当局之间的一项谅解。该谅解将自阁下复函之日起生效。?<br>    顺致崇高敬意。<br><br>斯里兰卡民主社会主义共和国?<br>国内收入局局长?<br>兰克斯・帕・里・维拉辛贺<br>二○○五年一月二十七日<br><br><br><br>斯里兰卡民主社会主义共和国?<br>国内收入局局长?<br>兰克斯・帕・里・维拉辛贺<br><br>阁下：?<br>    我荣幸地收到阁下2005年1月27日的来函，内容如下：?<br>    “阁下：?<br>    我荣幸地提及斯里兰卡民主社会主义共和国政府指定的航空企业在中华人民共和国开展空运业务免除中华人民共和国征收的营业税和其他间接税而通过外交渠道进行的磋商。?<br>    考虑到当前斯里兰卡并未对国际航空运输业务征收类似于营业税的间接税，我特提出下列安排：?<br>    一、斯里兰卡民主社会主义共和国政府指定的航空企业在中华人民共和国开展航空运输业务和从事航空运输业务销售而从中华人民共和国取得的收入应当免除对毛收入和（或）流转额征收的营业税和所有间接税。?<br>    二、上述第一款提及的免税同样适用于中华人民共和国政府指定的航空企业在斯里兰卡民主社会主义共和国开展航空运输业务和从事航空运输业务销售取得的收入。?<br>    如果阁下接受上述（条款），我荣幸地建议，本信函及阁下确认中华人民共和国政府接受斯里兰卡民主社会主义共和国政府所提上述方案的复函将视为构成两国税务当局之间的一项谅解。该谅解将自阁下复函之日起生效。?<br>    顺致崇高敬意。”?<br>    我谨代表中华人民共和国政府同意阁下来函中提出的建议。<br>    我愿借此机会向阁下致以崇高敬意。<br><br><br>中华人民共和国国家税务总局局长<br>谢旭人<br>二○○五年三月一日<br><br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

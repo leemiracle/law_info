@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部办公厅<BR>&nbsp;&nbsp;【发布文号】建办质[2007]63号<BR>&nbsp;&nbsp;【发布日期】2007-12-06<BR>&nbsp;&nbsp;【生效日期】2007-12-06<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/zcfg/jswj/gczl/200712/t20071210_136829.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>建设部办公厅关于切实做好今冬明春建设系统安全生产、防灾减灾和应急管理工作的通知<br><br></font>(建办质[2007]63号)</p><br> <br> <br>  各省、自治区建设厅，北京市建委、市政管委、园林绿化局、水务局、交通委，上海市建设交通委、水务局，天津市建委、市容委，重庆市建委、市政管委、交通委，山东、江苏省建管局，海南省水务局，新疆生产建设兵团建设局，中央管理的有关企业：<br><br>    冬季来临，强冷空气等不利气象条件时有发生，为切实做好今冬明春特别是元旦、春节期间建设系统安全生产、防灾减灾和应急管理工作，现将有关事项通知如下：<br><br>    一、加强组织领导，落实各项安全责任。各地建设主管部门要高度重视冬季防风防雪工作，加强与气象部门的沟通，密切关注天气变化情况，全面落实建设系统各项防灾措施。要进一步加强和改进安全管理工作，认真落实建设主管部门的监督责任，强化工程建设各参建主体特别是业主和总承包商的主体责任，着力提高一线人员的安全生产意识和能力。<br><br>    二、加强冬季建筑施工安全监管。各地要结合实际，督促施工单位根据冬季施工特点，组织编制有针对性的冬季施工方案，采取有效的保暖、防冻、防滑措施，合理安排工期，遇有恶劣天气，应立即停止室外作业。加强对电气焊接等动火作业管理，严禁工程冬季保温使用明火，严格管理各类易燃、易爆物品，合理有效配置消防器材，严防发生火灾、爆炸事故。<br><br>    三、保障城市公共交通运营安全。加强对城市公共交通（包括出租汽车）企业的安全管理、安全运营服务工作的监管。督促企业针对冬春季运营的特点，加强对一线工作人员和有关管理人员的安全生产动员和宣传教育，树立“安全第一”的思想，做到“安全行驶，文明驾车”，严禁酒后和疲劳驾驶车辆。完善日常安全检查制度，加强对车站、车辆、设备的安全巡查，及时排除事故隐患。加强城市轨道交通安全运营服务保障，认真做好安全防护系统的火灾报警、自动灭火、环控通风、应急照明、安检监控、安全疏散等设施的维护和保养，确保其完好有效。加强对公交场站等客流集散点易燃、易爆等危险品的查堵工作，确保客运安全。<br><br>    四、进一步做好非职业性一氧化碳中毒防范工作。各地建设主管部门要根据卫生部、建设部等六部门《关于今年入冬以来非职业性一氧化碳中毒情况的通报》（卫发电[2007]86号）和建设部等十部门《关于加强非职业性一氧化碳中毒防范工作的通知》（建城[2006]274号）要求，会同或配合有关部门积极做好相关工作，特别是要加强对燃气管道、燃气燃烧器具的定期检查，对不符合安全条件的，要组织及时更换；积极推广使用燃气泄漏报警和一氧化碳浓度报警等预防装置；广泛开展燃气使用安全常识和一氧化碳中毒防范知识的普及教育，切实增强公众特别是农民工的防范意识和能力。<br><br>    五、确保城市供水排水供热安全。注重原水、制水和输配水等各个环节的管理和监督，重点加强对原水环节的监控。要特别注重各类化工企业和危险化学品泄漏造成的水污染对城市供水安全的影响，建立饮用水源水预警机制。加强对容易发生有毒有害、易燃易爆气体事故的排水管网、泵站和污水污泥处理区域的监测和安全防范。北方地区要落实供水管网冬季防冻裂措施，完善相关应急预案，发生事故立即抢修。冬季供热地区要督促供热企业加强安全生产管理，组织对锅炉的安全排查，保证用煤质量，防止发生大面积停暖事故，保障城镇供热安全。<br><br>    六、全面检查危旧房屋和重点建筑。认真组织各类危旧房屋的排查工作，对排查出的危险房屋，要督促房屋产权人及使用人依法采取处理使用、停止使用和整体拆除等措施，确保使用安全。北方地区要督促房屋的产权人、使用人和管理单位及时清扫大跨度轻型屋盖积雪，防止发生垮塌事故。<br><br>    七、加强对风景名胜区的冬季安全监管。重点做好景区防火工作；要及时组织人力清扫冰雪路面，防止发生人身伤亡事故。加强对公园景点和园林施工的安全监管，加强公园景点巡查，重点做好游乐设施、冰面、路面的安全防范及公园防火工作。<br><br>    八、完善应急预案，提高应急处理水平。针对冬季天气、环境特点，做好应急物资、人力的保障工作。健全节假日值班制度，确保信息畅通。要进一步完善冬季事故抢险和处置工作方案。确保事故及时妥善处置，最大限度地控制或减少事故损失。<br><br>    九、落实事故和灾害信息报送制度。进一步落实建设部《关于进一步加强建设系统安全事故快报工作的通知》（建质[2006]110号）、《关于通过统一网络平台上报建设系统安全事故的通知》（建办质[2006]43号）和《关于开展涉及建设领域自然灾害信息上报工作的通知》（建办质函[2006]757号），严格按照事故类别和自然灾害级别，及时通过建设系统安全事故和自然灾害快报系统如实上报。<br><br>中华人民共和国建设部办公厅<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

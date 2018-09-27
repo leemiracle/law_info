@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部、中国气象局<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2007-08-31<BR>&nbsp;&nbsp;【生效日期】2007-08-31<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/level3.jsp?tablename=603&infoid=32340" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部、中国气象局关于做好2007年秋季中小学和幼儿园气象灾害防御工作的通知</font></p><br><br><br>各省、自治区、直辖市教育厅（教委）、气象局，新疆生产建设兵团教育局、气象局：<br><br>    我国是自然灾害多发国家，尤其是近年来，随着全球气候变暖，暴雨、雷电、洪涝、台风、山体滑坡和泥石流、龙卷风、地震等自然灾害频发，对未成年学生、幼儿的人身安全和学校财产安全构成了严重威胁，也严重干扰了部分地区学校的正常教育教学秩序。今年以来，安徽天长市龙卷风、淮河流域洪涝灾害、重庆开县雷击、云南普洱地震等自然灾害，共造成了9名学生死亡，42名学生受伤，学校校舍、设施和教学仪器设备等财产损失严重。根据气象部门对天气气候形势的分析，今秋许多地区仍处于气象灾害多发区，防灾减灾的任务依然繁重。为深入贯彻落实国务院领导同志批示精神，加强气象灾害预警与防御工作，根据《国务院办公厅关于进一步加强气象灾害防御工作的意见》（国办发〔2007〕49号）有关要求，现就今年秋季开学后切实做好中小学幼儿园气象灾害防御工作的有关要求通知如下：<br><br>    一、各地教育行政、气象部门要加强沟通与联系，通过电视、报纸、广播、短信、电子显示屏等多种手段，及时向学校、幼儿园发布气象灾害及地质等相关灾害预警，将重大灾害性天气预报及地质灾害气象等级预报等信息，快速准确地传达到每一所中小学和幼儿园。<br><br>    二、努力提高中小学生和幼儿对气象灾害的防范意识。各级教育行政部门与气象部门要加强合作，努力将气象灾害防御知识纳入国民教育体系，建立防御气象灾害的长效机制。要加大对中小学生气象科普和防灾减灾知识的宣传力度，广泛宣传和警示，科学指导预防。各级气象部门要积极发放中国气象局编印的《气象防灾宣传活页》和《气象防灾卡通宣传册》，尽快发放《中小学生气象防灾应急避险指南》。各地教育行政部门要配合有关部门采取有效措施，切实提高学校师生和家长防范自然灾害的意识。<br><br>    三、认真做好预防暴雨、洪涝、雷电、台风、山体滑坡和泥石流等灾害工作。易发灾害地区各级教育行政部门要督促和指导本行政区域内中小学和幼儿园提前做好各项预防工作。开学初对本行政区域内特别是农村地区的中小学和幼儿园的校舍、厕所、围墙和校内防雷等各类安全设施等进行一次全面排查，对存在的安全隐患要限期整改，被鉴定为D级危房的校舍要立即停用，学生立即撤出，一般危房要及时加固。对春夏经洪水浸泡、地震破坏的危房，要及时进行维修，未经改造加固的，一律不得使用，严防“灾后灾”发生。<br><br>    四、各地教育行政部门要认真制订并落实应急预案。开学后各地要结合实际集中开展安全教育活动，组织师生做好逃生演练，切实提高师生防灾避灾的能力。持续高温地区要在开学初通过加强管理、开展专题教育等多种形式，预防学生在游泳时发生溺水事故。各地教育行政部门要密切与气象、地质、地震、公安、交通、卫生等部门的联系，在遇到突发自然灾害后，要立即启动应急预案，积极配合有关部门迅速开展救助工作，最大限度地避免学生和幼儿伤亡。<br><br>教育部  中国气象局<br>二○○七年八月三十一日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

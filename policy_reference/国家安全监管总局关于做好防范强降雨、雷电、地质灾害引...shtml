@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家安全监管总局<BR>&nbsp;&nbsp;【发布文号】安监总明电〔2008〕20号<BR>&nbsp;&nbsp;【发布日期】2008-06-03<BR>&nbsp;&nbsp;【生效日期】2008-06-03<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinasafety.gov.cn/2008-06/03/content_282179.htm" target=_blank>国家安全监管总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家安全监管总局关于做好防范强降雨、雷电、地质灾害引发次生事故的通知<br><br></font>(安监总明电〔2008〕20号)</p><br><br><br>四川、陕西、甘肃、山西、河北、河南、山东、江苏、云南、广东、海南省安全生产监督管理局、省级煤矿安全监察局（煤矿安监系统广东、海南除外），有关中央企业：<br><br>    根据中国气象局值班快报，6月5日至6日，四川、甘肃南部、陕西南部等地震灾区将有一次中雨天气过程，累计降雨量有10-25毫米，局部地区可达30-50毫米，并伴有局地雷雨大风等强对流天气。此次降水过程给救灾救援工作带来不利影响，要特别注意采取防雷电、防风等措施。 <br><br>    另据中国气象局网站信息，未来3天华北中南部、山东的部分地区、云南西部和中南部、华南大部有大雨或暴雨，并可能伴有短时雷雨大风等强对流天气； 6月3日山西省部分地区可能发生较强的雷电活动，出现雷电灾害可能性比较大。 <br><br>    为加强防范应对工作，避免和减少因大雨、雷电和地质灾害引发生产安全事故，现特向上述地区安全监管监察部门和有关中央企业提出以下要求： <br><br>    1.相关地方的安全监管局、煤矿安全监察机构和中央企业要立即启动相关应急预案，加强监测监控，通知有关生产经营单位安排好必要的抢险队伍和救援装备、物资，做好各项应急准备工作；认真做好强降雨可能造成的淹井、滑坡、泥石流等次生、衍生灾害的防范应对工作。 <br><br>    2.立即通知可能受影响的煤矿、非煤矿山企业加强防洪设施检查，尤其是对采空区上方的防洪检查，做好防洪准备；受洪水威胁的矿井，要停止井下作业，撤出井下人员；加强对露天矿山边坡的监控，防止发生滑坡。 <br><br>    3.密切监控受影响范围内各类尾矿库，检查防排洪设施，做好防范因强降雨和地质灾害造成垮坝、溃坝的各项工作；通知下游受影响范围内的群众做好防范准备，一旦发生险情立即采取措施、组织疏散。 <br><br>    4.督促铁路、民航、水运、长途汽车客运等行业企业做好相关防范工作，确保安全运营。 <br><br>    5.督促危险化学品生产储运企业加强检查，做好防雷电工作。 <br><br>    6.油库储罐等重大危险源要对接地装置全面检查；雷雨天气应停止装卸油料，必要时切断电源。 <br><br>    7.督促建筑施工企业加强防范，尤其是铁路、道路、隧道、桥梁等施工单位要做好防洪、防淹、防突水、突泥、防滑坡等工作；建筑企业要停止塔吊等高空室外作业。 <br><br>    8.有关电网、通讯公司要做好应急准备，一旦发生由滑坡、雷击等灾害造成线路受损，要及时采取措施，防止大面积停电和通讯中断。 <br><br>    9.各单位要切实做好应急值守和信息报送工作。<br><br>国家安全生产监督管理总局<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

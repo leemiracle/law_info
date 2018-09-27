@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教基一厅[2009]1号<BR>&nbsp;&nbsp;【发布日期】2009-02-18<BR>&nbsp;&nbsp;【生效日期】2009-02-18<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/42/info1235727704721742.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于中小学幼儿园安全工作2009年第1号预警通知<br><br></font>(教基一厅[2009]1号)</p><br><br><br>各省、自治区、直辖市教育厅（教委），新疆生产建设兵团教育局：<br><br>    目前我国大部分地区已进入春季，正是山洪、暴雨、雷击、泥石流、山体滑坡、地震等各类气象和地质灾害多发期，各地学校亟待对此加强防范。各地要把安全工作作为学校教育工作的重中之重，认真部署安排，确保学校安全稳定和学生、幼儿安全，并为2009年“两会”的召开营造良好的氛围。现就有关要求通知如下： <br><br>    一、开展中小学安全检查及整改工作。各地教育行政部门和学校要在近期对本行政区域内学校，尤其是农村寄宿制学校和边远山区学校的校舍、厕所、围墙以及校园周边环境、地质、地理条件进行一次全面检查，重点检查学校消防、门卫、宿舍值班和夜间巡逻等管理制度是否落实。针对干旱地区的学校，要重点加强对校内用电、用火设施的排查和改造，彻底消除火灾隐患。针对雨水多发的农村山区，特别是进入汛期，当地教育行政部门要积极会同有关部门，加强监测、预报、预警工作，对学校周边存在地质灾害隐患的要提前加固山体、修建挡土墙，对学校选址存在重大山洪、泥石流、山体滑坡、地震等自然灾害隐患的，要调整上课时间，或转移到安全地方。地震灾区要加强对学校的食品、饮用水、环境以及周边治安秩序的管理，重点检查学校在建工程是否存在安全隐患。<br><br>    二、高度重视大型集体活动的安全管理工作。各地教育行政部门要严格管理制度，坚持谁批准，谁负责的原则。学校要做好春游、参观考察、社会实践等外出活动的各项安排和应急预案，活动中必须有学校领导带队和足够的教师负责管理，要积极争取交通管理部门和卫生部门的指导和帮助，做到严密组织、精心安排，把安全工作贯穿于活动的全过程。要注意交通安全，凡承载学生出游的车、船等交通工具，必须经交通部门检查、许可，严禁农用拖拉机、三轮汽车、低速货车、拼装车和报废车搭载学生，严禁车辆船只超速、超载行驶。<br><br>    三、深入开展安全教育和演练活动。今年3月30日是第十四个“全国中小学生安全教育日”，各地要根据当地实际和事故发生特点确定活动主题，有针对性地开展安全教育和演练活动，尤其要主动与地质、气象和消防部门加强沟通，积极开展防震减灾和消防安全的宣传教育、紧急疏散和逃生演练，不断增强师生防灾减灾意识和防范能力。为给广大师生提供更丰富的教育资源，我部将制作的《春季开学后中小学安全教育专题片》放到教育部政府门户网站上，供各地下载并组织学生进行收看和学习。<br><br>    四、切实加强“两会”期间的安全管理工作。各地要加强对学校管理工作的指导，制订专门应急预案，落实各项防范措施，在第一时间快速反应，妥善处理紧急、重要事项或重大突发事件，把不稳定因素解决在萌芽状态，切实保障“两会”期间的安全和稳定。要严格执行“两会”期间值班和信息通报制度。 <br><br>    各地接到本通知后，要迅速把通知内容传达到本行政区域内每一所中小学和幼儿园，切实做好各项工作。<br><br>教育部办公厅<br><br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】教育部<BR>&nbsp;&nbsp;【发布文号】教思政厅[2009]3号<BR>&nbsp;&nbsp;【发布日期】2009-06-22<BR>&nbsp;&nbsp;【生效日期】2009-06-22<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.moe.gov.cn/edoas/website18/05/info1247016283012705.htm" target=_blank>教育部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>教育部办公厅关于开展全国高校学生“我爱我的祖国”主题暑期社会实践活动的通知<br><br></font>(教思政厅[2009]3号)</p><br><br><br>各省、自治区、直辖市党委教育工作部门、教育厅（教委），新疆生产建设兵团教育局，部属各高等学校：<br><br>    为贯彻落实《中共中央办公厅转发〈中央宣传部关于围绕庆祝新中国成立60周年深入开展群众性爱国主义教育活动的意见〉的通知》精神，扎实开展“我爱我的祖国”主题教育活动，深入推动高等学校学习实践科学发展观活动，认真做好今年大学生暑期社会实践工作，现就开展全国高校学生“我爱我的祖国”主题暑期社会实践活动的有关要求通知如下：<br><br>    一、指导思想<br><br>    以邓小平理论和“三个代表”重要思想为指导，深入贯彻落实科学发展观，遵循高校学生成长规律和教育规律，结合不同类别、不同层次的学生实际，以形式多样的活动为载体，把暑期社会实践与庆祝新中国成立60周年活动相结合，与服务国家保增长保民生保稳定的要求相结合，与迎国庆讲文明树新风活动相结合，与学生党员践行科学发展观活动相结合，引导广大学生深入基层、深入群众、深入实际，充分展示他们的思想、热情和行动，充分表现他们对于国家、人民、民族的关心和热爱，引导他们把深入实践作为成长成才的必由之路，把奉献社会作为不懈追求的优良品德，在实践中受教育、长才干、作贡献，树立正确的世界观、人生观、价值观，努力成长为德智体美全面发展的中国特色社会主义合格建设者和可靠接班人。<br><br>    二、活动内容<br><br>    1．深入开展学生党员践行科学发展观活动。各地各高校要组织学生党员和入党积极分子广泛开展践行科学发展观主题社会实践活动，通过参观各地改革开放成果展览、考察国家重点工程项目和新农村建设典型、访谈改革开放事业见证人，加深对新中国成立60周年特别是改革开放30年来巨大变化的了解和认识，坚定共产主义远大理想和中国特色社会主义信念。要充分引导学生党员和入党积极分子结合自身专业特点与优势，在服务基层、服务农村的实践过程中树立科学发展理念，增强贯彻落实科学发展观的自觉性和坚定性。特别要引导即将进入毕业年级的学生党员和入党积极分子的学习实践活动，把开展学习实践活动与加强就业服务和指导结合起来，引导他们树立正确的就业观、成才观、价值观。要将把学生党员参与暑期社会实践的成果，作为检验各地各高校学习实践科学发展观活动成效的重要指标之一。     2．深入开展各种形式的志愿服务活动。各地各高校要鼓励学生走出校门、走向社会，开展适合自身特点的志愿服务活动。以讲文明树新风的志愿服务活动为载体，组织开展普及文明风尚志愿服务，更好地传播文明理念，倡导团结互助精神，引导人们知礼仪、重礼节、讲道德；组织参加科技、文体、法律、卫生、社会治安、保护生态环境等志愿服务，为普及科学知识，传播先进文化，营造和谐环境服务。以扶危济困的志愿服务活动为载体，大力弘扬我国扶危济困、助人为乐的传统美德，把生活困难群众和老年人、残疾人作为重点对象，积极组织学生开展送温暖、献爱心志愿服务活动，努力为困难群众排忧解难。以大型社会活动顺利进行的志愿服务为载体，开展公共秩序和赛会保障等志愿服务活动，努力创造规范有序的社会公共秩序，为大型社会活动的顺利进行提供保障。以应急救援的志愿服务活动为载体，动员学生志愿者广泛普及防灾避险、疏散安置、急救技能等应急处置知识，参与重大自然灾害和突发事件的抢险救援、卫生防疫、群众安置、设施抢修和心理安抚等工作，组织学生到地震灾区特别是受灾严重的乡镇、村和临时安置点支教，对中小学生进行学业辅导，并组织开展健康有益的文体活动。要引导学生把对党和祖国的热爱化作关爱家庭、关爱他人、奉献家乡、奉献社会的实际行动，引导学生运用所学知识和技能服务人民，奉献社会，培养为人民服务的道德观，弘扬社会主义道德风尚，使志愿服务逐步成为大学生的自觉行动和生活方式。 <br><br>    3．深入开展社会调查和社会服务工作。各地各高校要把实践教学作为课堂教学的重要环节，组织学生紧密联系当前我国改革发展稳定的实际，开展社会调查，提出解决问题的意见和建议，形成调研成果。要根据地方需求，组建专业优势互补的博士生、硕士生服务团队，扎实开展社会服务，为经济社会发展献技献智。要引导广大学生深入基层、深入农村、深入西部，了解国际形势发展变化特别是国际金融危机冲击对我国的影响，了解我国社会主义初级阶段的基本国情和发展的阶段性特征，了解中央的决策部署和保增长、保民生、保稳定的重大举措，更好地认识国情，增强变挑战为机遇的信心和勇气，增强同舟共济、共渡难关的意志和决心。     4．深入开展“红色之旅”学习参观活动。各地各高校要组织学生到革命纪念地、改革开放前沿和经济社会发展成效显著的地方学习参观，了解中国革命、建设和改革开放的历史和成就，增强学生对党的感情，对中国特色社会主义的热爱，激发他们全面建设小康社会、实现中华民族伟大复兴的责任感。要充分发挥博物馆、纪念馆、展览馆、烈士陵园等爱国主义教育基地的教育作用。学习参观要突出教育主题，增强教育效果，力戒形式主义，避免走过场。     三、工作要求<br><br>    1．高度重视，加强领导。开展全国高校学生“我爱我的祖国”主题暑期社会实践活动，是新形势下加强和改进大学生思想政治教育的有效途径，是深入开展“我爱我的祖国”主题教育活动的重要载体。各地各高校要高度重视，充分认识这项活动的重要意义，切实加强领导，统筹安排部署，抓好工作落实。各高校要成立由分管校领导牵头的大学生暑期社会实践领导小组，创新思路，探索载体，不断提高社会实践的针对性、实效性和吸引力、感染力。要加强安全教育，制定安全预案，确保师生参加社会实践安全。     2．完善机制，确保实效。各地各高校要本着合作共建、双向受益的原则，从地方建设发展的实际需求和学生锻炼成长的需要出发，建立多种形式的社会实践基地。要对学生参加社会实践提出具体时间和任务要求，制定切实可行的考核办法和激励机制，及时召开总结会，表彰社会实践先进集体和个人。要把学生社会实践与教师社会实践结合起来，鼓励专业教师参与、指导学生社会实践。要让更多的学校党政干部、思想政治理论课和哲学社会科学课教师、辅导员和班主任参加学生社会实践活动，要把他们参加和指导学生社会实践计入工作量，作为考评的重要依据，充分调动他们参与社会实践的主动性与积极性，确保社会实践活动真正取得实效。<br><br>    3．加强宣传，营造氛围。各地各高校要把全国高校学生“我爱我的祖国”主题暑期社会实践活动的宣传摆上重要日程，列入计划，积极协助新闻单位，充分利用报刊、广播、电视、互联网等新闻媒体，开辟专题、专栏，组织力量深入一线采访报道学生在社会实践活动中的生动事迹和感人故事。各高校要通过校内报刊、广播、电视、简报和图片展等方式，积极主动地开展宣传工作，及时上报工作材料，交流工作经验，推动全国高校学生“我爱我的祖国”主题暑期社会实践活动不断深入开展。<br><br>    请各地、各直属高校将开展活动的有关情况及时报我部思想政治工作司。<br><br>教育部办公厅<br>二○○九年六月二十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

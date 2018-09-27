@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】浙江省<BR>&nbsp;&nbsp;【发布文号】浙政办发〔2005〕59号<BR>&nbsp;&nbsp;【发布日期】2005-07-12<BR>&nbsp;&nbsp;【生效日期】2005-07-12<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.zhejiang.gov.cn/gb/node2/node50/node52/node68/node118/node1612/userobject11ai8425.html" target=_blank>浙江省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>浙江省人民政府办公厅关于加强工业节水工作的通知<br> <br></font>(浙政办发〔2005〕59号)</p><br> <br> <br>各市、县（市、区）人民政府，省政府直属各单位：<br><br>    为缓解我省水资源供需矛盾，提高工业用水利用效率，遏制水环境恶化的势头，促进工业经济与水资源和环境的协调发展，经省政府同意，现就加强工业节水工作有关事项通知如下:<br><br>    一、充分认识工业节水工作的重要意义<br><br>    水是重要的战略资源。目前，我省水资源年平均总量约为955亿立方米，人均水资源量约为2100立方米，水资源总体并不富裕；水资源分布不均衡，部分地区供需矛盾突出，区域性、水质性和工程性缺水并存，将成为我省经济社会发展的主要瓶颈之一。<br><br>    我省工业用水量占全省总用水量的25%左右；工业用水重复利用率不到50%，低于国内约55%的平均水平，与世界先进水平相差20个百分点；工业废水排放量约占废水排放总量的60%。同时，不少企业节水意识淡薄，节水技术推广速度缓慢，用水设备落后，节水管理水平不高。省内地区间、行业间、企业间用水效率参差不齐，工业节水潜力很大。<br><br>    加强工业节约用水是缓解我省水资源供需矛盾、减少工业污水排放的必然选择，是建设先进制造业基地、走新型工业化道路的内在要求，是转变经济增长方式、发展工业循环经济、建设资源节约型社会的重要内容，也是深入实施“八八战略”、建设“平安浙江”、构建社会主义和谐社会的战略任务。<br><br>    二、工业节水工作的指导思想、总体目标和重点任务<br><br>    (一)指导思想。以科学发展观为指导，深入实施“八八战略”，着力建设先进制造业基地和“生态浙江”，坚持“节约优先，治污为本，提高用水效率”的方针，以企业为主体，市场为导向，转变经济增长方式，依靠技术进步，完善政策法规，强化节水管理，加快建设节水型工业，促进工业经济与水资源和环境的协调发展。<br><br>    (二)总体目标。到2007年，争取工业增加值每增长1%，取水量增长平均控制在0.16%以内；工业用水重复利用率达到65%左右，其中重点行业达到75%左右；万元工业增加值废水排放量下降20%；年取水量超过30万立方米的用水企业有30%达到国家节水型企业标准。<br><br>    (三)重点任务。推动重点行业节约用水。重点推动火力发电、纺织印染、石油化工、医药、造纸、冶金、食品加工等七大高耗水行业的节约用水工作，加强行业定额用水管理，提高行业整体水资源利用效率。<br>推进重点企业节约用水。省重点推动年用水量30万立方米以上的用水企业节水工作；各市、县（市、区）应根据本地实际，选择一批用水量较大的企业作为工作重点。<br><br>    推广节水技术、工艺与产品。在高耗水行业、重点用水企业生产过程中，推广节水工艺、技术和设备，提高用水效率；推广废水重复利用技术，提高水的循环利用率；推广利用雨水、污水等水资源，实现废水资源化；开发和利用海水等非传统水资源，替代淡水资源；开发、生产和推广低水耗的用水产品，降低水耗；加快淘汰落后的高耗水工艺、设备和产品。<br><br>    三、推进工业节水工作的主要措施<br><br>    (一)加快调整产业结构与布局。根据地区水资源条件和行业结构特点，合理调整产业结构布局，优化水资源配置。将发展节水型工业与产业结构调整、建设先进制造业基地有机结合起来，发展符合国家产业政策、水资源消耗少、用水效率高的产业。加快运用高新技术改造传统产业，组织实施以提高用水效率为核心的节水示范工程。<br><br>   （二）依法淘汰落后的高耗水工艺、设备和产品。禁止生产、销售落后的高耗水设备和产品，对在生产经营中使用落后的高耗水工艺、设备和产品要依法查处，坚决淘汰。加大监督检查的力度，加强对重点企业生产用水定额的管理，建立企业用水监管制度，根据节水规划、用水定额和用水计划，加强对重点用水企业的考核，实行节奖超罚。重点水资源保护区、缺水地区要严格限制引进和新上高污染、高耗水工业项目。<br><br>    （三）强化工业节水源头管理。严格执行《中华人民共和国水法》和《浙江省水资源管理条例》，强化工业用水项目源头管理，取水量较高的新建和改扩建工业项目必须制定节水措施，在项目可行性研究报告中，应当包括合理用水的专题论证内容，无合理用水的专题论证内容或审查达不到合理用水标准的，不予批准建设。工业节水设施项目必须与主体工程同时设计、同时施工、同时投入运行，项目建成后，达不到合理用水标准的，不予验收。<br><br>    (四)严格用水器具市场准入制度。执行国家用水器具及用水设备的标准，规范和清理整顿用水器具的生产及经营秩序，落实国家工业节水鼓励类、限制类和淘汰类产业政策，推荐使用节水型技术、节水设备（产品），扩大节水产品的市场份额。<br><br>    （五）全面推行清洁生产。针对水质性缺水日趋严重的状况，结合生态省建设，全面推行工业企业清洁生产。高耗水、高废水排放企业，都要积极实施清洁生产。<br><br>    在实施清洁生产过程中，要将节约用水和减少污水排放作为重要内容；清洁生产审核验收标准应当包括工业用水重复利用和废水排放等相关指标。高耗水企业申报省级绿色企业应达到国家《节水型企业（单位）目标导则》有关要求。<br><br>    （六）推动节水技术进步。加大高耗水行业和重点用水企业节水技术改造的力度，针对存在的问题，组织科技攻关，开发先进的节水型或无水型技术与产品，推广国家和省鼓励的节水技术、工艺和产品；优先支持工业节约用水技术创新和推广项目。当前重点推广的技术、工艺与产品是：工业用水重复利用，冷却、热力和工艺系统，洗涤节水，工业给水和废水处理，非常规水资源利用，工业输用水管网、设备防漏和快速堵漏修复，工业用水计量和低水耗的用水设备、产品等。有条件的地方，要积极采用分质供水措施。<br><br>    （七）制定积极的扶持政策。2005―2007年，省级财政安排一定的资金，用于工业节水技术改造示范、先进节水技术与工艺的推广、重大节水项目的补助、节水先进企业的奖励等。各地也应根据财力情况安排资金支持本地区工业节水；落实国家工业企业节水技术改造国产设备投资和以废水为原料生产产品的减免税费优惠政策。各级政府要推行绿色采购，优先采购符合国家和省里公布目录的节水产品，倡导节水型消费。<br><br>    （八）创建节水型工业示范企业。根据国家《节水型企业（单位）目标导则》有关规定，积极创建节水型工业企业。按照节水型企业有关标准，对用水单位的组织、管理、计量、设施、指标等项内容进行严格审核和评定，树立典型，以点带面，全面推动工业企业节水工作。<br><br>    企业应发挥推动工业节水的主体作用。工业企业要强化用水和节水的基础管理。高耗水企业要根据国家、地方和行业的节水规划制定节水规章制度，健全用水台账及原始记录等统计制度，安装取（用）水计量器具，每3年进行一次水平衡测试，及时发现问题，减少用水单耗。要采取行之有效的节水措施，挖掘节水潜力，提高用水效率。<br><br>    （九）加强工业节水宏观管理。各有关部门要大力宣传和认真贯彻节水法律、法规和方针政策；编制工业节水（中）长期规划；完善工业企业主要产品（重点是七大高耗水行业）用水定额；完善工业节水指标体系建设，加快建立节水标准，培育和发展节水产业。要及时总结和推广节水企业的先进经验，开展工业节水管理、技术推介和交流活动。对在工业节水技术创新、推广应用先进节水技术以及在节水管理工作中成绩突出的单位和个人，要给予表彰。要加强节水监管队伍建设，保障节水法律、法规的贯彻实施。<br><br>    （十）加强对工业节水工作的领导。各级政府、各有关部门要转变观念，高度重视工业节水工作，切实加强领导，突出重点，明确任务，落实责任，扎扎实实做好工业节水的推进工作。各级经贸部门要切实履行工业节水组织、协调与监管职能，会同有关部门，做好本地区的工业节水工作。各级发改、财政、建设、科技、水利、环保、工商、质量技监和统计等部门要各司其职，相互配合，共同做好工业节水工作。有关行业协会要配合政府，做好本行业内的节水工作。<br><br>               <br>                             二○○五年七月十二日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

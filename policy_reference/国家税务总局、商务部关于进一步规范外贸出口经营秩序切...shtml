@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局、商务部<BR>&nbsp;&nbsp;【发布文号】国税发[2006]24号<BR>&nbsp;&nbsp;【发布日期】2006-02-13<BR>&nbsp;&nbsp;【生效日期】2006-02-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/view.jsp?code=200602221112384304" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局、商务部关于进一步规范外贸出口经营秩序切实加强出口货物退（免）税管理的通知<br><br></font>(国税发[2006]24号)</p><br><br><br>各省、自治区、直辖市和计划单列市国家税务局，商务主管部门：<br>    为确保我国外贸出口的持续健康稳定发展，进一步规范外贸出口经营秩序，严禁出口企业从事“四自三不见”等不规范的出口业务，严格出口货物退（免）税管理，防范和打击骗取出口退税的违法犯罪活动，现将有关问题通知如下：?<br>    一、出口企业要规范出口经营行为，进一步建立和完善内部管理制度，加强对业务人员的素质教育，严格按照正常的贸易程序开展出口业务。出口企业要实质参与出口交易活动，确保出口业务的真实性，严格遵守国家有关出口退税法律法规。?<br>    二、为维护我国正常外贸经营秩序，确保国家出口退税机制的平稳运行，避免国家财产损失，凡自营或委托出口业务具有以下情况之一者，出口企业不得将该业务向税务机关申报办理出口货物退（免）税：  ?<br>    （一）出口企业将空白的出口货物报关单、出口收汇核销单等出口退（免）税单证交由除签有委托合同的货代公司、报关行，或由国外进口方指定的货代公司（提供合同约定或者其他相关证明）以外的其他单位或个人使用的；?<br>    （二）出口企业以自营名义出口，其出口业务实质上是由本企业及其投资的企业以外的其他经营者（或企业、个体经营者及其他个人）假借该出口企业名义操作完成的；?<br>    （三）出口企业以自营名义出口，其出口的同一批货物既签订购货合同，又签订代理出口合同（或协议）的；?<br>    （四）出口货物在海关验放后，出口企业自己或委托货代承运人对该笔货物的海运提单（其他运输方式的，以承运人交给发货人的运输单据为准，下同）上的品名、规格等进行修改，造成出口货物报关单与海运提单有关内容不符的；?<br>    （五）出口企业以自营名义出口，但不承担出口货物的质量、结汇或退税风险的，即出口货物发生质量问题不承担外方的索赔责任（合同中有约定质量责任承担者除外）；不承担未按期结汇导致不能核销的责任（合同中有约定结汇责任承担者除外）；不承担因申报出口退税的资料、单证等出现问题造成不退税责任的；?<br>    （六）出口企业未实质参与出口经营活动、接受并从事由中间人介绍的其他出口业务，但仍以自营名义出口的；?<br>    （七）其他违反国家有关出口退税法律法规的行为。?<br>    三、出口企业凡从事本通知第二条所述业务之一并申报退（免）税的，一经发现，该业务已退（免）税款予以追回，未退（免）税款不再办理。骗取出口退税款的，由税务机关追缴其骗取的退税款，并处骗取退税款一倍以上五倍以下罚款；并由省级以上（含省级）税务机关批准，停止其半年以上出口退税权。在停止出口退税权期间，对该企业自营、委托或代理出口的货物，一律不予办理出口退（免）税。涉嫌构成犯罪的，移送司法机关依法追究刑事责任。?<br>    四、各级税务机关、商务主管部门要进一步加强协作，做好政策宣传工作，积极引导出口企业从事正常的出口贸易，规范外贸经营程序，加强出口货物退（免）税管理。主管出口退（免）税的税务机关继续按现行规定的申报、审核、审批要求，做好出口企业正常出口货物的退（免）税申报、审核、审批管理。同时，税务机关和商务主管部门要加强信息沟通与交流，密切注意骗税新动向，对已发现的违法、违规行为，要严肃处理，不得以任何理由姑息、纵容出口企业从事违反国家有关规定、违背正常出口经营程序的出口业务。?<br>    五、本通知自2006年3月1日起执行（以出口货物报关单〔出口退税专用〕上注明的出口日期为准）。<br><br>                              国家税务总局 商务部<br>                              二○○六年二月十三日<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

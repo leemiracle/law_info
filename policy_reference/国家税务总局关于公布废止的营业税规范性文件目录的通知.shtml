@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家税务总局<BR>&nbsp;&nbsp;【发布文号】国税发〔2009〕29号<BR>&nbsp;&nbsp;【发布日期】2009-03-04<BR>&nbsp;&nbsp;【生效日期】2009-03-04<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.chinatax.gov.cn/n8136506/n8136593/n8137537/n8138502/8895758.html" target=_blank>国家税务总局 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家税务总局关于公布废止的营业税规范性文件目录的通知<br> <br></font>(国税发〔2009〕29号)</p><br><br><br>各省、自治区、直辖市和计划单列市地方税务局，北京、西藏、宁夏、青海省（自治区、直辖市）国家税务局：?<br>    《中华人民共和国营业税暂行条例》（中华人民共和国国务院令第540号）和《中华人民共和国营业税暂行条例实施细则》（中华人民共和国财政部国家税务总局令第52号）已经公布并于2009年1月1日起施行。为保证条例和细则的顺利实施，国家税务总局对现行营业税规范性文件进行了清理，现将废止的规范性文件和文件条款目录予以公布，自2009年1月1日起执行。<br>    一、 全文废止的规范性文件（34件）?<br>    1.《国家税务总局关于金融企业往来业务计税依据问题的通知》（国税发〔1994〕087号）?<br>    2.《国家税务总局海洋石油税务管理局关于JHN石油作业公司出租“海皇”号油轮应否征收营业税问题的批复》（国税油函〔1994〕16号）?<br>    3.《国家税务总局关于外国或港、澳、台非航空运输企业以包机从事国际运输业务有关税收问题的通知》（国税发〔1994〕019号）?<br>    4.《国家税务总局关于外商投资企业、外国企业及外籍个人适用税种问题的通知》（国税发〔1994〕123号）?<br>    5.《国家税务总局关于外商承包工程作业和提供劳务征收流转税有关政策衔接问题的通知》（国税发〔1994〕 214号）?<br>    6.《国家税务总局关于商品检验鉴定收费是否征收营业税问题的复函》（国税函发〔1995〕420号）?<br>    7.《国家税务总局关于公路养路费、增容费收入征收营业税问题的批复》（国税函发〔1995〕651号）?<br>    8.《国家税务总局关于中国银行外汇收入计征营业税问题的函》（国税函〔1996〕618号）?<br>    9.《国家税务总局关于境内远洋运输企业将船舶租给境外单位使用缴纳营业税问题的通知》（国税发〔1996〕126号）?<br>    10.《国家税务总局关于江苏省送变电工程公司承建的输变电工程营业税纳税地点问题的批复》（国税函〔1996〕68号）?<br>    11.《国家税务总局关于银行委托贷款业务代扣代缴营业税问题的函》（国税函〔1997〕74号）?<br>    12.《国家税务总局关于新疆库鄯输油管道运输业务营业税纳税地点的通知》（国税函〔1997〕645号）?<br>    13.《国家税务总局关于上海电气集团总公司承建南川市火力发电厂征收营业税的通知》（国税函〔1998〕8号）?<br>    14.《国家税务总局关于外国企业向境内转让无形资产取得收入征收营业税问题的通知》（国税发〔1998〕4号）?<br>    15.《国家税务总局关于上海电气（集团）总公司承建南川市火力发电厂工程设备不征收营业税的通知》（国税函〔1998〕329号）?<br>    16.《国家税务总局关于航空运输业营业税纳税人问题的通知》（国税发〔1998〕210号）?<br>    17.《国家税务总局关于西北航空公司甘肃公司缴纳营业税问题的批复》（国税函〔1998〕566号）?<br>    18.《国家税务总局关于金融企业外汇转贷中发生掉期业务营业税处理问题的批复》（国税函〔1998〕736号）?<br>    19.《国家税务总局关于管道铺设工程营业税营业额问题的批复》（国税函〔1998〕762号）?<br>    20.《国家税务总局关于工业企业安装铝合金门窗征收营业税问题的批复》（国税函〔1998〕765号）?<br>    21.《国家税务总局关于外国企业向我国转让无形资产征收营业税问题的批复》（国税函〔1998〕797号）?<br>    22.《国家税务总局关于运输企业的承包费收入征收营业税的批复》（国税函〔1999〕120号）?<br>    23.《国家税务总局关于维修大型成套装置征收营业税的批复》（国税函〔1999〕257号）?<br>    24.《国家税务总局关于建筑业营业税营业额问题的批复》（国税函〔1999〕586号）?<br>    25.《国家税务总局关于境内单位外派员工取得收入应否征收营业税问题的批复》（国税函〔1999〕830号）?<br>    26.《国家税务总局关于石材加工企业承包建筑装饰工程征税问题的批复》（国税函〔1999〕940号）?<br>    27.《国家税务总局关于金融业营业税若干问题的通知》（国税发〔2000〕6号）?<br>    28.《国家税务总局关于如何认定建筑业营业税纳税义务人问题的批复》（国税函〔2000〕247号）?<br>    29.《国家税务总局关于外资金融机构若干营业税政策问题的通知》（国税发〔2000〕135号）?<br>    30.《国家税务总局关于长城宽带网络服务有限公司征收营业税问题的通知》（国税函〔2000〕902号）?<br>    31.《国家税务总局关于长距离输送管道工程是否征收营业税问题的通知》（国税函〔2001〕695号）?<br>    32.《国家税务总局关于教育部考试中心承办TSE、GMAT等海外考试项目有关税务问题的复函》（国税函〔2002〕195号）?<br>    33. 《国家税务总局关于香港文汇报广告业务营业税问题的通知》（国税函〔2003〕433号）?<br>    34.《国家税务总局关于溪洛渡大坝工程营业税纳税地点问题的批复》（国税函〔2007〕770号）?<br>    二、部分条款废止的规范性文件（19件）?<br>    1.《海洋石油税务管理局关于地方劳务公司为外国石油公司提供劳务服务税收征收管理问题的批复》（国税油函〔1994〕008号）第一条?<br>    2.《国家税务总局关于营业税若干征税问题的通知》（国税发〔1994〕159号）第一条、第七条?<br>    3.《国家税务总局关于香港公司包机运输税收问题的通知》（国税发〔1995〕128号）营业税内容?<br>    4.《国家税务总局关于印发〈营业税问题解答（之一）〉的通知》（国税函发〔1995〕156号）第一条、第三条、第五条、第八条、第十九条?<br>    5.《国家税务总局关于国家教委考试中心举办涉外考试收费有关税收问题的复函》（国税函发〔1995〕108号）第一条?<br>    6.《国家税务总局关于外国企业出租中国境内房屋、建筑物取得租金收入税务处理问题的通知》（国税发〔1996〕212号）营业税内容?<br>    7.《国家税务总局关于技术转让征收营业税问题的批复》（国税函〔1996〕743号）第一条?<br>    8.《国家税务总局关于海洋石油若干税收政策问题的通知》（国税发〔1997〕44号）营业税内容?<br>    9.《国家税务总局关于水利部门所属勘察设计单位征收营业税问题的通知》（ 国税函〔1999〕728号） 第一条?<br>    10.《国家税务总局关于从事咨询业务的外商投资企业和外国企业税务处理问题的通知》（国税发〔2000〕 82号）营业税内容?<br>    11.《国家税务总局关于国际航空电讯协会从中国境内会员收取费用有关税收处理问题的通知》（国税函〔2001〕217号） 营业税内容?<br>    12.《国家税务总局关于转让著作权征收营业税问题的通知》（国税发〔2001〕44号）“如受托方所转让的无形资产不在我国境内使用，根据《中华人民共和国营业税暂行条例实施细则》第七条第（四）款的规定不征营业税”的规定?<br>    13.《国家税务总局关于印发〈金融保险业营业税申报管理办法〉的通知》（国税发〔2002〕9号） 附件第十二条、第十七条、第二十五条?<br>    14.《国家税务总局关于贷款业务征收营业税问题的通知》（国税发〔2002〕13号） 第二条?<br>    15.《国家税务总局关于纳税人销售自产货物提供增值税劳务并同时提供建筑业劳务征收流转税问题的通知》（国税发〔2002〕117号）第一条第二款“不征收营业税”和第五款“同时，签订建设工程施工总承包合同的单位和个人，应扣缴提供建筑业劳务的单位和个人取得的建筑业劳务收入的营业税”的规定、第二条、第三条?<br>    16.《国家税务总局关于加强货物运输业税收征收管理的通知》（国税发〔2003〕121号）  附件1第三条、第七条、第十四条?<br>    17.《国家税务总局关于国际航空电讯协会从中国境内收取费用有关税收处理问题的补充通知》（国税函〔2003〕703号）营业税内容?<br>    18.《国家税务总局关于外国企业在华提供信息系统的运行维护及咨询服务征税问题的批复》（国税函〔2005〕912号） 营业税内容?<br>    19.《国家税务总局关于印发〈营业税纳税人纳税申报办法〉的通知》（国税发〔2005〕202号） 附件第三条。<br><br>国家税务总局<br>二○○九年三月四日 <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

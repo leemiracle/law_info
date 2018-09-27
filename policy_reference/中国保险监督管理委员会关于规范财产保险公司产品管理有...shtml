@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】中国保险监督管理委员会<BR>&nbsp;&nbsp;【发布文号】保监发〔2008〕106号<BR>&nbsp;&nbsp;【发布日期】2008-11-23<BR>&nbsp;&nbsp;【生效日期】2008-11-23<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.circ.gov.cn/Portal0/InfoModule_405/87992.htm" target=_blank>中国保险监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>中国保险监督管理委员会关于规范财产保险公司产品管理有关工作的通知<br><br></font>(保监发〔2008〕106号)</p><br><br><br>各财产保险公司，各保监局，中国保险行业协会：<br><br>    为贯彻落实规范财产保险市场秩序的工作部署，解决部分保险产品中存在的不规范问题，推动财产保险市场的稳定、健康、规范发展，根据2008年全国保险监管工作会议和《关于印发〈中国保监会关于进一步规范财产保险市场秩序工作方案〉的通知》（保监发〔2008〕70号）精神，现就进一步加强和规范财产保险公司产品管理的有关工作通知如下：<br><br>    一、各财产保险公司应立即对本公司所有正在使用的保险产品（包括分支机构在保监局备案的保险条款、费率）开展全面清理、自查和整改。凡存在如下问题之一的保险产品，应立即停止使用，如需继续使用的，应作出修改，并重新报保监会备案：<br><br>    （一）存在侵害消费者利益、有失公平性原则的内容的；<br><br>    （二）“有条款、无费率”的，或者有费率但费率已不再适应市场实际情况的；<br><br>    （三）存在其他违反法律、法规和保监会有关规定的内容的。<br><br>    各财产保险公司应于2008年12月31日前完成上述清理整改工作，并将修订后的保险产品重新报保监会备案。报送备案产品时，除提交规定的备案材料外，还应同时提交保险产品整改情况的清单，包括被整改保险产品的名称、备案号、备案时间、备案监管机关以及处理结果（被修改或被废止）。<br><br>    二、各财产保险公司应督促分支机构及时将本公司有关保险产品清理整改情况向所在地保监局报告，并切实承担起监督分支机构严格执行经审批或备案的保险条款、费率的管理责任。<br><br>    三、各保监局应加大对未依法履行保险条款和费率变更申报程序即擅自修改保险责任范围、保险费率行为的检查和处罚力度。在2008年12月31日保险产品清理整改工作结束后，如发现有继续使用本通知第一条所列的有问题保险产品的，保监局应对其进行重点检查，并依法、从严、从速作出处罚。<br><br>    四、中国保险行业协会应积极组织专业人才力量，研究借鉴国际保险市场上的成熟经验和技术，收集、统计和分析全行业历年来的经营数据，研究制定标准化的指导条款、测算有关商业风险的纯风险损失率数据并予以公布，逐步解决长期以来我国保险公司在开发设计有关保险条款、费率过程中（特别是大型商业风险项目）缺乏基础数据、缺乏经营经验的问题，探索和推进保险条款、费率的标准化、规范化和科学化工作。<br><br>    本通知自发布之日起实施。执行中如有问题，请及时与我会联系。<br><br>                                        中国保险监督管理委员会<br>                                        二○○八年十一月二十三日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】安徽省<BR>&nbsp;&nbsp;【发布文号】皖政〔2006〕94号<BR>&nbsp;&nbsp;【发布日期】2006-11-13<BR>&nbsp;&nbsp;【生效日期】2006-11-13<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.ah.gov.cn/zfgb/gbcontent.asp?id=3951" target=_blank>安徽省 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>安徽省人民政府关于2006年度全省科学技术奖励的决定<br><br></font>(皖政〔2006〕94号)</p><br><br> <br>各市、县人民政府，省政府各部门、各直属机构：<br><br>    为认真贯彻党的十六届六中全会和全国科学技术大会精神，大力实施创新推动战略，提高自主创新能力，省政府决定，对2006年度为发展我省科学技术事业、促进经济建设和社会进步作出显著贡献的科学技术人员予以奖励：授予袁亮同志省重大科技成就奖，授予马丁・范・加斯博格先生省技术合作奖，授予“基于风险评价的石化装置与城市燃气储配系统承压设备安全保障关键技术研究”等11项成果省科学技术奖一等奖，授予“安徽电网电磁辐射监测研究及评价”等37项成果省科学技术奖二等奖，授予“安徽省重大农业气象灾害定量监测评估与防御对策研究”等124项成果省科学技术奖三等奖。<br>    希望获奖人员再接再厉，勇攀高峰，为推进全省科技事业发展再创佳绩，再立新功。全省广大科技工作者要向获奖人员学习，以科学发展观为指导，发扬创新、拼搏、团结、奉献的精神，在科技创新中多出成果，在促进成果转化中多做贡献，支撑和引领经济社会发展，不断提升科技创新能力和经济竞争力，为建设创新型安徽、推进跨越式发展、实现奋力崛起而努力奋斗。<br><br>附件：2006年度安徽省科学技术奖获奖项目<br><br>                                              安徽省人民政府<br>                                           二○○六年十一月十三日<br>                                           <br>附件：2006年度安徽省科学技术奖获奖项目<br><br>重大科技成就奖（1人）袁亮<br><br>技术合作奖（1人）马丁・范・加斯博格<br><br> 一等奖（11项）<br>1?基于风险评价的石化装置与城市燃气储配系统承压设备安全保障关键技术研究<br>2?HFC4GA1汽油发动机产品研究与开发<br>3?可视化钢管高速检测技术与系统 <br>4?淮河临淮岗洪水控制工程总体布置研究<br>5?综放开采三维矿压场研究及工程应用<br>6?C波段双基气象雷达系统<br>7?城市空气质量监测子站系统<br>8?张拉锚跨丝股法施工悬索桥关键技术研究<br>9?量子通信的理论与实验研究<br>10?复杂无机结构功能材料的构筑、自组装原理及性能研究<br>11?精确放疗相关科学问题研究<br><br>二等奖（37项）<br>1?安徽电网电磁辐射监测研究及评价<br>2?HFF6120K35/6121K35 系列豪华客车<br>3?大型浮法玻璃熔窑投料设备的研制和国产化<br>4?YH24―1000/2000 封头液压机<br>5?婴儿纸尿裤成型加工包装生产设备<br>6?瓦氏黄颡鱼养殖技术与产业化研究<br>7?怀远石榴新品种选育与配套栽培技术研究<br>8?皖西山区野生薇菜有机食品开发技术研究<br>9?鲜食葡萄安全、高品质栽培技术<br>10?淮河流域纳污能力及限制排污总量研究<br>11?炼焦煤资源配置与焦炭质量预测控制技术 <br>12?马钢高炉高配比使用高铝矿的研究<br>13?近终形异型连铸坯裂纹形成原因及质量控制技术研究<br>14?煤田三维地震资料微机可视化与解释系统的研究<br>15?安徽及邻区地震构造环境研究及未来地震危险性综合预测<br>16?黄山风景区提水供水生态消防系统工程<br>17?中高压电极箔有机酸化成工艺研究<br>18?重组人干扰素α2b系列制剂的研制及产业化<br>19?制备聚丙烯酰胺关键技术的研发和产业化<br>20?双加压稀硝工艺及间接法生产浓硝酸<br>21?无机膜分离催化剂新技术在万吨级加氢法对氨基苯酚生产中开发应用 <br>22?抗污染耐高温易撕盖膜<br>23?新型高品质超柔软聚氨酯高分子合成革<br>24?JAC―格尔发重型载货汽车系列产品开发<br>25?大型风力发电用交直交并网变流器<br>26?六氟化硫气体质量全过程监控研究<br>27?电网运行方式在线分析技术支持系统<br>28?上海F1赛车场赛道路基工程施工技术研究<br>29?软土地基处理新工艺的研究―干振复合桩复合地基<br>30?眼表重建的基础与临床应用系列研究<br>31?内源性褪黑素在肺癌患者肠外支持治疗中的变化及与免疫功能关系<br>32?近端胆管癌肝门上入路手术的临床应用研究<br>33?去顶减压加带蒂大网膜包裹治疗成人多囊肾的临床研究<br>34?基于硅基光电集成的多孔硅纳米结构的制备和发光机理研究<br>35?大别造山带周缘盆地沉积及对造山带演化制约的研究<br>36?低维纳米材料的溶液生长机理和微结构研究<br>37?混合局部连接递归神经网络控制方法的研究<br><br>三等奖（124项）<br>1?安徽省重大农业气象灾害定量监测评估与防御对策研究<br>2?HFF6104GK63城市客车<br>3?特大型节能轴流潜水电泵<br>4?QBZ―120+30矿用隔爆型双回路真空电磁起动器<br>5?微波部件焊接工程化技术<br>6?开流矿渣微粉管磨机<br>7?柴油水分离沉淀器<br>8?离心萃取机<br>9?全自动氦质谱检漏仪<br>10?高温排风机关键技术研究<br>11?安徽省烤烟平衡施肥技术研究<br>12?天麻种麻非共生繁殖和移栽技术<br>13?翘嘴红<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

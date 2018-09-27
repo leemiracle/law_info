@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】建设部办公厅<BR>&nbsp;&nbsp;【发布文号】建办城函[2008]116号<BR>&nbsp;&nbsp;【发布日期】2008-03-11<BR>&nbsp;&nbsp;【生效日期】2008-03-11<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cin.gov.cn/zcfg/jswj/csjs/200803/t20080314_146403.htm" target=_blank>建设部 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>建设部办公厅关于做好2008年国家级风景名胜区监管信息系统建设暨推进数字化景区试点工作的通知<br> <br></font>(建办城函[2008]116号)</p><br> <br> <br>  各省、自治区建设厅，直辖市建委（园林局）：<br><br>    为进一步搞好2008年国家级风景名胜区监管信息系统建设，加快推进风景名胜区数字化试点工作，现就有关事项通知如下：<br><br>    一、总体目标<br><br>    根据建设部有关风景名胜区工作的总体要求，今年国家级风景名胜区监管信息系统暨数字化景区试点工作的目标是：以国家级风景名胜区监管信息系统管理平台为依托，积极推进部、省、景区三级监管信息系统的网络化、规范化运行，强化遥感监测核查在风景名胜区规划实施和资源保护方面的技术支撑和应用，加快推进数字化景区试点建设工作，促进风景名胜区的健康发展。<br><br>    二、主要工作任务<br><br>    （一）督促尚未完成遥感数据采集的16个国家级风景名胜区加大采集力度，力争年内全面完成国家级风景名胜区遥感数据本底库建设。<br><br>     （二）总结风景名胜区监管信息系统管理平台试运行经验，充实完善平台内容，确保平台的稳定运行，切实发挥平台在信息发布、网络传输、共享服务等方面的集成作用。<br><br>    （三）依照《国家级风景名胜区监督管理信息系统建设管理办法（试行）》（建城[2007]247号）的有关规定，做好国家级风景名胜区遥感监测核查抽检工作。<br><br>    （四）组织数字化景区试点阶段性工作总结与验收，积极推动数字化技术在风景名胜区管理中的实际应用。<br><br>    （五）组织开展国家级风景名胜区宏观战略层面的、数字化管理系统的基础理论和可行性研究，为全面推动风景名胜区管理科学化、信息化，实现又好又快发展奠定坚实基础。<br><br>    三、具体工作要求<br><br>    根据国家级风景名胜区监管信息系统和数字化景区试点建设工作的进度要求，2008年的监管信息系统工作重点将转向系统平台应用、推广和推进数字化景区建设，景区监管工作面临的任务也更加繁重和艰巨。各级建设主管部门和国家级风景名胜区管理机构，要进一步加大对景区监管工作的组织领导，精心谋划，专门部署，落实责任，切实把监管信息系统和数字化景区建设试点工作抓紧、抓好，抓出成效。<br><br>    （一）密切协作，确保国家级风景名胜区监管信息系统管理平台共建工作。各级风景名胜区主管部门和管理机构要加强对平台建设有关工作的组织协调，安排专人专机保障平台在本地区、本单位的有效实施。要按照统一部署，组织监管信息系统管理员参加培训学习，保障监管信息系统技术工作的有效延伸和整体工作进度。目前还有少数景区监管信息系统建设缺项（主要是软件配置），今年内要补齐。<br><br>    （二）加大风景名胜区遥感监测核查、自查工作力度。从今年开始，部里将加强对风景名胜区规划实施和资源保护情况的监管，有计划、有针对性的对部分国家级风景名胜区进行监测核查和现场检查。被抽检的国家级风景名胜区管理机构要积极配合，认真做好核查、自查工作。对核查、自查工作不力、问题严重的，依照有关规定通报批评，公开曝光，严肃处理。<br><br>    （三）做好数字化景区试点建设验收准备工作。各数字化景区试点管理机构要认真做好数字化建设阶段工作总结，尚未完成数字化建设总体方案编制和评审的试点景区，要加快工作进度。2008年6月30日前仍未完成总体方案评审的，将取消其数字化景区试点资格。各项数字化建设工作进展良好的试点景区，要认真检查一期建设实施情况，对照工作要求，及时总结，查缺补漏，做好验收准备工作，推动后续建设工作的顺利开展。<br><br>    （四）扩大试点范围，认真落实推进数字化景区建设的各项工作要求。在总结经验的基础上，适当扩大试点范围。对新的数字化试点景区确定，继续采用景区管理机构自主申报、省级主管部门审核推荐的办法择优选取。进一步探索扩大数字化景区建设的工作领域，积极会同相关方面组织开展相关基础理论和专项课题研究。按照国家“十一五”科技支撑计划的统一安排，指导有关科研单位探讨风景名胜区在资源营销、旅游宣传、导游服务等方面适应现代服务业发展需要的新型数字化旅游服务模式，研究推进数字旅游服务示范工程建设，为深化数字化景区的建设和服务领域提供科技支撑和示范经验。<br><br>    各地在实施工作中遇到的具体情况和问题，请及时与我部城市建设司（建设部风景名胜区管理办公室）联系。<br><br>    联系人及电话：安 超  010-58934361，58934579（传真）<br><br>    电子信箱：ac4361＠126.com<br><br>中华人民共和国建设部办公厅<br>二<BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

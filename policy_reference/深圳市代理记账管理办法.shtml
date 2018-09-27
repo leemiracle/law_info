@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】深圳市财政局<BR>&nbsp;&nbsp;【发布文号】深财会〔2005〕55号<BR>&nbsp;&nbsp;【发布日期】2005-07-07<BR>&nbsp;&nbsp;【生效日期】2005-08-01<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.sz.gov.cn/zhengfu/gongbao/showgb.asp?rowid=200507190000000006" target=_blank>深圳市 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>深圳市代理记账管理办法<br><br></font>（深财会〔2005〕55号  2005年7月7日）</p><br><br><br>    为加强我市代理记账机构的管理，规范代理记账业务，促进代理记账行业的健康发展，根据《中华人民共和国会计法》、《深圳市会计条例》和财政部《代理记账管理办法》等相关规定，我局制定了《深圳市代理记账管理办法》，现予印发，自2005年8月1日起施行。<br><br><br>深圳市代理记账管理办法<br><br>    <a name='1'><font class='TiaoNoA'>第一条</font></a> 为了加强我市代理记账机构的管理，规范代理记账业务，促进代理记账行业的健康发展，根据《<a href=javascript:ROF(33875,0) class=alink>中华人民共和国会计法</a>》、《深圳市会计条例》、财政部《<a href=javascript:ROF(99996,0) class=alink>代理记账管理办法</a>》等相关规定，制定本办法。<br><br>    <a name='2'><font class='TiaoNoA'>第二条</font></a> 设立代理记账机构，以及委托人委托代理记账机构办理代理记账业务，适用本办法。<br><br>    本办法所称代理记账机构是指从事代理记账业务的中介机构。<br><br>    本办法所称委托人是指委托代理记账机构办理会计业务的单位。<br><br>    本办法所称代理记账是指代理记账机构接受委托办理会计业务。<br><br>    <a name='3'><font class='TiaoNoA'>第三条</font></a> 申请设立除会计师事务所以外的代理记账机构，应当由市、区财政部门（以下简称审批机关）批准，并领取由财政部统一印制的代理记账许可证书。<br><br>    区财政部门负责本辖区内代理记账机构的审批，不得跨区域审批。<br><br>    <a name='4'><font class='TiaoNoA'>第四条</font></a> 设立代理记账机构，除国家法律、行政法规另有规定外，应当符合下列条件：<br><br>    （一）3名以上持有会计从业资格证书的专职从业人员；<br><br>    （二）主管代理记账业务的负责人具有会计师以上专业技术职务资格；<br><br>    （三）有固定的办公场所；<br><br>    （四）有健全的代理记账业务规范和财务会计管理制度。<br><br>    <a name='5'><font class='TiaoNoA'>第五条</font></a> 申请代理记账资格，应当向审批机关提交申请报告并附送下列材料：<br><br>    （一）《代理记账许可申请表》；<br><br>    （二）机构的协议或者章程；<br><br>    （三）所有从业人员身份证明、会计从业资格证书，主管代理记账业务的负责人具备会计师以上专业技术职务资格的证明材料；<br><br>    （四）主管代理记账业务的负责人、持有会计从业资格证书的专职从业人员在机构专职从业的书面承诺；<br><br>    （五）办公地址及办公用房产权或者使用权证明；<br><br>    （六）代理记账业务规范和财务会计管理制度；<br><br>    （七）工商行政管理部门核准机构名称的有关材料。<br><br>    <a name='6'><font class='TiaoNoA'>第六条</font></a> 审批机关应当自受理申请之日起20日内决定批准或者不批准。20日内不能作出决定的，经审批机关负责人批准可延长10日，并应当将延长期限的理由告知申请人。<br><br>    <a name='7'><font class='TiaoNoA'>第七条</font></a> 审批机关经审查符合法定条件的，应当自作出批准决定之日起10日内向申请人下达批准文件、颁发代理记账许可证书。审批机关决定不予批准的，应当向申请人下达书面决定，说明理由，并告知申请人享有依法申请行政复议或者提起行政诉讼的权利。<br><br>    区财政部门作出批准决定的，应当自作出决定之日起30日内将批准文件连同《批准设立代理记账机构有关情况表》抄送市财政部门。<br><br>    市财政部门发现批准不当的，应当自收到抄送材料30日内书面通知区财政部门重新审查。<br><br>    <a name='8'><font class='TiaoNoA'>第八条</font></a> 申请人经批准取得代理记账许可证书后，应当依法办理工商登记。<br><br>    <a name='9'><font class='TiaoNoA'>第九条</font></a> 代理记账机构应当在办公场所的显著位置放置代理记账许可证书。<br><br>    <a name='10'><font class='TiaoNoA'>第十条</font></a> 代理记账机构名称、主管代理记账业务负责人、办公地点发生变更的，应当依法向审批机关办理变更登记。<br><br>    <a name='11'><font class='TiaoNoA'>第十一条</font></a> 对迁出原辖区而变更办公场所的代理记账机构，原管辖的区财政部门应当在其办理变更事项后30日内，将其档案移交其现管辖的区财政部门。<br><br>    <a name='12'><font class='TiaoNoA'>第十二条</font></a> 依法应当设置会计账簿但不具备设置会计机构或会计人员条件的单位，应当委托代理记账机构办理会计业务。<br><br>    <a name='13'><font class='TiaoNoA'>第十三条</font></a> 代理记账机构可以接受委托，受托办理委托人的下列业务：<br><br>    （一）根据委托人提供的原始凭证和其他资料，按照国家统一的会计制度的规定进行会计核算，包括审核原始凭证、填制记账凭证、登记会计账簿、编制财务会计报告等；<br><br>    （二）对外提供财务会计报告；<br><br>    （三）向税务机关提供税务资料；<br><br>    （四）委托人委托的其他会计业务。<br><br>    <a name='14'><font class='TiaoNoA'>第十四条</font></a> 委托人委托代理记账机构代理记账，应当在相互协商的基础上，订立书面委托合同。委托合同除应具备法律规定的基本条款外，应当明确下列内容：<br><br>    （一）委托人、受托人对会计资料真实性、完整性承担的责任；<br><br>    （二）会计资料传递程序和签收手续；<br><br>    （三）编制和提供财务会计报告的要求；<br><br>    （四）会计档案的保管要求及相应责任；<br><br>    （五）委托人、受托人终止委托合同应当办理的会计交接事宜。<br><br>    <a name='15'><font class='TiaoNoA'>第十五条</font></a> 委托代理记账的委托人应当履行下列义务：<br><br>    （一）对本单位发生的经济业务事项，应当填制或者取得符合国家统一的会计制度规定的原始凭证；<br><br>    （二）应当配备专人负责日常货币收支和保管；<br><br>    （三）及时向代理记账机构提供真实、完整的原始凭证和其他相关资料；<br><br>    （四）对于代理记账机构退回的要求按照国家统一的会计制度规定进行更正、补充的原始凭证，应当及时予以更正、补充。<br><br>    <a name='16'><font class='TiaoNoA'>第十六条</font></a> 代理记账机构及其从业人员应当履行下列义务：<br><br>    （一）加强执业管理，建立健全内部管理制度，保证工作质量，防范风险，遵守《深圳市会计条例》对代理记账机构的执业规定。<br><br>    （二）按照委托合同办理代理记账业务，遵守有关法律、行政法规和国家统一的会计制度的规定；<br><br>    （三）对在执行业务中知悉的商业秘密应当保密；<br><br>    （四）对委托人示意其作出不当的会计处理，提供不实的会计资料，以及其他不符合法律、行政法规和国家统一的会计制度规定的要求，应当拒绝；<br><br>    （五）对委托人提出的有关会计处理原则问题应当予以解释。<br><br>    <a name='17'><font class='TiaoNoA'>第十七条</font></a> 代理记账机构为委托人编制的财务会计报告，经代理记账机构负责人和委托人签名并盖章后，按照有关法律、行政法规和国家统一的会计制度的规定对外提供。<br><br>    <a name='18'><font class='TiaoNoA'>第十八条</font></a> 委托人对代理记账机构在委托合同约定范围内的行为承担责任。<br><br>    代理记账机构对其专职从业人员和兼职从业人员的业务活动承担责任。<br><br>    <a name='19'><font class='TiaoNoA'>第十九条</font></a> 审批机关对代理记账机构及其从事代理记账业务情况实施监督检查。<br><br>    <a name='20'><font class='TiaoNoA'>第二十条</font></a> 代理记账机构应当于每年4月30日之前，向审批机关报送下列材料：<br><br>    （一）《代理记账机构基本情况表》；<br><br>    （二）营业执照、办公用房产权或者使用权证明；<br><br>    （三）专职及兼职从业人员身份证明、会计从业资格证书、会计专业技术职务资格证书；<br><br>    （四）如有变更事项的还须填写《代理记账机构变更事项情况表》。<br><br>    <a name='21'><font class='TiaoNoA'>第二十一条</font></a> 代理记账机构采取欺骗手段获得代理记账许可证书的，由审批机关撤销其代理记账资格。<br><br>    代理记账机构在经营期间达不到本办法规定的设立条件的，由审批机关责令其在不超过2个月的期限内整改；逾期仍达不到规定条件的，由审批机关撤回代理记账资格。<br><br>    <a name='22'><font class='TiaoNoA'>第二十二条</font></a> 代理记账机构有下列情形之一的，审批机关应当办理注销手续，并收回批准证书或予以公告：<br><br>    （一）代理记账机构依法终止的；<br><br>    （二）代理记账机构的行政许可被依法撤销或撤回的；<br><br>    （三）法律、法规规定的应当注销行政许可的其他情形。<br><br>    <a name='23'><font class='TiaoNoA'>第二十三条</font></a> 代理记账机构有下列情形之一的，由审批机关责令其改正，拒不改正的，予以公告：<br><br>    （一）违反本办法第九条、第十条规定的；<br><br>    （二）违反本办法第十五条、第二十条规定又不向审批机关说明原因的。<br><br>    <a name='24'><font class='TiaoNoA'>第二十四条</font></a> 代理记账机构及其从事代理记账业务人员在办理业务中违反会计法律、行政法规和国家统一的会计制度规定的，由审批机关依据《中华人民共和国会计法》及相关法规的规定处理。<br><br>    代理记账机构违反本办法和国家有关规定造成委托人会计核算混乱、损害国家和委托人利益，委托人故意向代理记账机构隐瞒真实情况或者委托人会同代理记账机构共同提供不真实会计资料的，应当承担相应法律责任。<br><br>    <a name='25'><font class='TiaoNoA'>第二十五条</font></a> 对于未经批准从事代理记账业务的，由审批机关责令其改正，并予以公告。<br><br>    <a name='26'><font class='TiaoNoA'>第二十六条</font></a> 审批机关及其工作人员在实施行政管理过程中，滥用职权、玩忽职守、徇私舞弊的，依法给予行政处分；构成犯罪的，依法追究刑事责任。<br><br>    <a name='27'><font class='TiaoNoA'>第二十七条</font></a> 代理记账机构遗失代理记账许可证书的，应在深圳市内公开发行的报刊刊登遗失声明，向审批发证机关提交补办申请和刊登遗失声明的报刊原件，自申请之日起20日内，经审批机关核实后予以补发。<br><br>    <a name='28'><font class='TiaoNoA'>第二十八条</font></a> 本办法规定的审批期限均以工作日计算，不含法定节假日。<br><br>    <a name='29'><font class='TiaoNoA'>第二十九条</font></a> 外商投资代理记账机构的申请按照本办法和其他有关规定办理。<br><br>    <a name='30'><font class='TiaoNoA'>第三十条</font></a> 本办法自2005年8月1日起施行。<br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>

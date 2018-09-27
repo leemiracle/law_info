@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="法治，法律，司法，法院，律师，法学院，学术，案件，审判，法制媒体，法治新闻，人民法院报，最高人民法院，法院网，中国法院网，全国法院门户网站" />
+<meta name="description" content="中国法院网是经最高人民法院批准成立，经国务院新闻办公室批准从事登载新闻业务的综合性新闻网站，并经国家广电总局批准自办视频播放业务。中国法院网是世界最大的法律网站、法律新闻网站,为社会提供最丰富的法律资讯、最权威的法院信息、最快捷的案件报道。" />
+<meta name="viewport" content="width=1200" />
+    <title>中国法院网</title>
+    
+    <link href="/style/chinacourt.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/share/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+<script type="text/javascript" src="/share/jquery/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/jimageresize/common.js"></script>
+<script type="text/javascript" src="/share/jquery/plugins/datetime/jclock.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+    $("img[resize_width]").jResizeImages();
+    $("img[resize_height]").jResizeImages();
+    $('li#login').load('/system/session/check');
+    $('span#localtime').jclock();
+});
+function ROF (law_content_id,p){ window.open("/system/law/detail/id/"+(law_content_id+1),"_blank");};
+//]]>
+
+</script>    </head>
+    <body>
+         <div id="detailheader">
+    	<div class=" detailnav">
+            <ul>
+                    <li class="hover"><a href="/index.shtml">中国法院网首页</a></li>
+		            <li><a href="/article/index/id/MzAwNAAhogAA.shtml">新闻</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMiAOAAA%3D.shtml">审判</a></li>
+		            <li><a href="/article/index/id/MzAwNDAoNyAOAAA%3D.shtml">执行</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNiAOAAA%3D.shtml">评论</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMSAOAAA%3D.shtml">时讯</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwNSAOAAA%3D.shtml">法学</a></li>
+		            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">地方法院</a></li>
+		            <li><a href="http://bbs.chinacourt.org" target="_blank">论坛</a></li>
+		            <li><a href="http://blog.chinacourt.org" target="_blank">博客</a></li>
+                </ul>
+            <div class="login" id="login3"><li id="login"></li></div>
+        </div>
+    </div>
+         <!-- 模版 system/law/detail.php 开始 --><div class="container">
+	<div class="main law_detail">
+    	<div class="address"><a href="/">首页</a> &gt; <a href="/law.shtml">法律文库查询</a></div>
+		<div class="law_content">
+			 <span class=STitle>&nbsp;&nbsp;【发布单位】国家认证认可监督管理委员会<BR>&nbsp;&nbsp;【发布文号】<BR>&nbsp;&nbsp;【发布日期】2006-05-25<BR>&nbsp;&nbsp;【生效日期】2006-05-25<BR>&nbsp;&nbsp;【失效日期】<BR>&nbsp;&nbsp;【所属类别】政策参考<BR>&nbsp;&nbsp;【文件来源】<A href="http://www.cnca.gov.cn/20040420/article/06-06/10261.htm" target=_blank>国家认证认可监督管理委员会 </A><BR></span><!--chinacourt.org--><BR><div class = "content_text"><p align='center'><font class='MTitle'>国家认证认可监督管理委员会公告2006年第13号</font></p><br> <br><br>      为贯彻落实《中华人民共和国认证认可条例》和《实验室和检查机构资质认定管理办法》（国家质检总局86号局长令发布），规范实验室和检查机构资质认定工作，国家认监委决定，自2006年7月1日起，启用实验室和检查机构的资质认定证书。现将有关事项公告如下：<br>      一、资质认定证书包括四种形式：<br>      计量认证证书：对向社会出具具有证明作用的数据和结果的实验室颁发，使用CMA标志；<br>      审查认可证书：对向社会出具具有证明作用的数据和结果的检查机构颁发，使用CMA标志；<br>      验收证书：对质量技术监督系统质量（纤维）检验机构颁发，使用CAL标志；<br>      授权证书：对国家认监委授权的国家产品质量监督检验中心、省级质量技术监督部门授权的产品质量监督检验站颁发，使用CAL标志。<br>      二、资质认定证书（格式见附件）由国家认监委统一制定，各省级质量技术监督局按照统一编号方法执行 。  <br>      三、计量认证证书编号采用11位数字式编号方法：<br>      XXXX (发证年份)  XX  (发证机关代码)  XXXX  (发证机关发证流水号)  X(实验室领域分类代码)<br>                              <br>      第1―4位数：发证年号；<br>      第5―6位数：发证机关代码；<br>      31个省（区、市）的代码规定为：<br>      01北京  02天津  03河北  04山西  05内蒙古  06辽宁<br>      07 吉林  08 黑龙江  09上海  10 江苏  11浙江 12安徽<br>      13 福建  14 江西  15山东  16 河南  17湖北  18 湖南  <br>      19 广东  20 广西  21 海南  22重庆  23 四川  24贵州<br>      25 云南  26 西藏   27陕西   28甘肃  29青海  30宁夏  <br>      31新疆  <br>      国家认监委颁证的，代码为00<br>      第7―10位数，发证机关的发证流水号。<br>      第11位是实验室领域分类字母代码，具体代码是：<br>      A―机械汽车 B―化工 C―轻纺商贸  D―电力 E―有色冶金 <br>      F―水利海洋供排水  G―国土资源  H―信息产业  J―石油 <br>      K―科研教育  L―安全生产  M―建材  N―铁道  P―交通    <br>      Q―食品、微生物  R―建设工程及室内空气  S―卫生医药 <br>      T―煤炭  U―环保  V―农牧鱼林  W―国防科工  X―公安<br>      Y―计量校准  Z―质检系统及其他  <br>      验收证书编号方法是：<br>      国家认监委验收的省级（含副省级市、计划单列市）质检机构：（年份）国认监验字XXX 号；<br>      国家认监委验收的省级纤维检验机构：（年份）国认监纤验字XXX号<br>      省级质量技术监督局验收的机构：（年份）（省/区/市简称）质监验字XXX号；<br>      授权证书编号方法是：<br>      国家认监委授权的机构：（年份）国认监认字XXX号；<br>      省级质量技术监督局授权的机构：（年份）（省简称）质监认字XXX号；<br>      对检查机构的资质认定编号方式采用计量认证编号方式，最后一位字母为I 。<br>      四、CMA、CAL标志图形沿用原设计式样。<br>      五、资质认定证书自2006年7月1日正式启用，各发证机关停止发放原版计量认证、验收、授权等证书。已经获证机构证书尚未到期的，应于2007年1月1日前到发证机关办理证书更换手续。2007年1月1日后，原有计量认证、验收、授权等证书失效。 <br><br>      附件： 资质认定证书格式<br><br>二○○六年五月二十五日<br> <br><BR></div>		</div>
+        <div class="disclaimer">免责声明：本库所有资料均来源于网络、报刊等公开媒体，本文仅供参考。如需引用，请以正式文件为准。</div>
+	</div>
+</div>
+
+<div class="clear"></div><!-- system/law/detail.php 结束 -->
+<div id="footer">
+
+
+	<div class="footer_nav">
+    	<ul>
+            <li><a href="/article/detail/2009/04/id/353385.shtml" target="_blank">联系我们</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2011/01/id/353386.shtml" target="_blank">广告服务</a></li>
+            <i>|</i>
+            <li><a href="/system/system/sitenav" target="_blank">网站地图</a></li>
+            <i>|</i>
+            <li><a href="/article/detail/2014/09/id/1439094.shtml" target="_blank">法律声明</a></li>
+            <i>|</i>
+            <li><a href="/article/index/id/MzAwNDAwMyAOAAA%3D.shtml">建网须知</a></li>
+            <i>|</i>
+            <li><a href="http://www.chinacourt.org/system/system/zxzp.shtml" target="_blank">招聘</a></li>
+        </ul>
+    </div>
+    
+    <div class="message">
+    	
+        <div class="logo"></div>
+    
+        <div class="copyright">
+        互联网新闻信息服务许可证 (1012006040)<i>|</i>网上传播视听节目许可证 (0108276)<i>|</i>违法和不良信息举报电话：18210690310<i>|</i>京ICP备17032772号<br />
+中国法院国际互联网站版权所有，未经协议授权禁止下载使用或建立镜像&nbsp;&nbsp;&nbsp;Copyright  ©  2017 by www.chinacourt.org  All Rights Reserved.
+        </div>
+        
+        <div class="right conac">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?c32eb45d9f69afbc206e06d63e668e75";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+            </script>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+
+    </body>
+</html>
