@@ -9,6 +9,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
+from pyquery import pyquery as pq
 
 ua = UserAgent()
 user_agent = ua.chrome
@@ -18,13 +19,17 @@ headers = {
     'From': ''  # This is another valid field
 }
 
+
 def craw_country_law():
-    base = 'https://www.chinacourt.org/'
+    # 维基法律列表:https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B3%95%E5%BE%8B%E5%88%97%E8%A1%A8
+    base = 'https://www.chinacourt.org'
     base_uri = base + '/law.shtml'
-    ret = requests.get(base_uri)  # index info
+    headers['From'] = base
+    ret = requests.get(base_uri, headers=headers)  # index info
+
     doc = BeautifulSoup(ret.text, 'html.parser')
     projects = {'立法追踪': 'law_follow', '国家法律法规': "chinese_law", '地方法规': 'local_law', '司法解释': "explain_law", '中外条约': "law_between_chinese_and", '政策参考': 'policy_reference'}
-    project = '司法解释'
+    project = '政策参考'
     sub_uri = ''
     for link in doc.find_all('a'):
         if link.text == project:
@@ -47,7 +52,7 @@ def craw_country_law():
             last_index = int(infos[-1].partition('.')[0])
             break
     print(last_index)
-    for i in range(last_index, 0, -1):
+    for i in range(625, 0, -1):
         uri = base + content_uri + '/' + str(i)+suffix
         print(uri)
         headers['From'] = base
@@ -56,12 +61,15 @@ def craw_country_law():
         hrefs = soup.select('li > span > a')
         headers['From'] = uri
         for law_href in hrefs:
-            law_uri = law_href.get('href')
-            law_name = law_href.text
-            print(law_name, law_uri)
-            content = requests.get(base + law_uri, headers=headers)
-            with open('{}/'.format(projects[project]) +law_name +'.shtml', "w") as f:
-                f.write(content.text)
+            try:
+                law_uri = law_href.get('href')
+                law_name = law_href.text
+                print(law_name, law_uri)
+                content = requests.get(base + law_uri, headers=headers)
+                with open('{}/'.format(projects[project]) +law_name +'.shtml', "w") as f:
+                    f.write(content.text)
+            except Exception as e:
+                pass
             time.sleep(0.5)
 
     # 国家法律法规/地方法规/司法解释/中外条约/政策参考
@@ -72,7 +80,10 @@ def craw_country_law():
 
 
 def main():
-    # https://www.chinacourt.org/law.shtml 法律法规信息库
+    # 法律法规信息库: https://www.chinacourt.org/law.shtml
+    # 党政机关公文处理工作条例(公文处理):http://www.gov.cn/zwgk/2013-02/22/content_2337704.htm
+    # 中华人民共和国法律列表: https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B3%95%E5%BE%8B%E5%88%97%E8%A1%A8
+    # 政府工作报告:http://www.gov.cn/guowuyuan/baogao.htm
     craw_country_law()
 
 
