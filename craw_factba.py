@@ -145,7 +145,7 @@ def parse_factba_json(q="trump", media="video", length=500):
     count = 0
     not_slug_num = 0
 
-    page = 1
+    # page = 1
     ret = dict()
     factba_base_uri = "https://factba.se/transcript/{slug}"
     already_done = set()
@@ -160,6 +160,7 @@ def parse_factba_json(q="trump", media="video", length=500):
         startdate = str(endate_time-datetime.timedelta(days=interval)).split(" ")[0]
 
         next_sum_record = length
+        page = 1
         while next_sum_record >= 0:
             uri = "https://factba.se/json/json-20170612.php?q={q}&media={media}&type=&startdate={startdate}&enddate={enddate}&sort=desc&f=&t=se&l={length}&p={page}"\
                 .format(q=q, media=media, length=length, page=page, startdate=startdate, enddate=enddate)
