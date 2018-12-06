@@ -13,6 +13,7 @@ import json
 from you_get.extractors.youtube import YouTube
 from you_get.processor.ffmpeg import ffprobe_get_media_duration
 
+# todo you_get common.getoutputfilename=自定义（覆盖），从而实现重命名
 COUNT = 0
 
 video_dic = dict()
