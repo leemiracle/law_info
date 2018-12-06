@@ -4,6 +4,7 @@
 @Time    : 18-11-29
 @Author  : leemiracle
 """
+import datetime
 import time
 
 import requests
@@ -17,6 +18,11 @@ from you_get.processor.ffmpeg import ffprobe_get_media_duration
 COUNT = 0
 
 video_dic = dict()
+
+proxies = {
+  "http": "socks5://127.0.0.1:1080",
+  "https": "socks5://127.0.0.1:1080",
+}
 
 
 # def analysis_transcript(string):
@@ -164,6 +170,8 @@ def parse_factba_json(q="trump", media="video", length=500):
             if data:
                 page += 1
                 for dic in data:
+                    if "slug" not in dic:
+                        continue
                     slug = dic["slug"]
                     record_title = dic["record_title"]
                     youtube_url = dic["url"]
@@ -183,6 +191,17 @@ def parse_factba_json(q="trump", media="video", length=500):
         finally_ret = json.dumps(ret)
         with open("video_trump.json", "w+") as f:
             f.write(finally_ret)
+
+def analysis_check_(url):
+    s = requests.get(url, proxies=proxies)
+    e = pq(s.text)
+    not_al = e("div.media.topic-media-row.mediahover.not-trump")
+    number_not = len(not_al)
+    al = e("div.media.topic-media-row.mediahover:not(.not-trump)")
+    number_ = len(al)
+    print(number_, number_not)
+    rate = float(number_)/float(number_+number_not)
+    return rate > 0.9
 
 
 if __name__ == '__main__':
