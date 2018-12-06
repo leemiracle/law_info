@@ -134,6 +134,55 @@ def main():
         f.write(write_json)
     # print(json.dumps(all_))
 
+def parse_factba_json(q="trump", media="video", length=500):
+    page = 1
+    ret = dict()
+    factba_base_uri = "https://factba.se/transcript/{slug}"
+    already_done = set()
+
+    endate_time = datetime.datetime.utcnow()
+    enddate = str(endate_time)
+    interval = 15
+    # data = None
+    limit = "1980-01-01"
+    while limit <= enddate:
+        enddate = str(endate_time).split(" ")[0]
+        startdate = str(endate_time-datetime.timedelta(days=interval)).split(" ")[0]
+        print("时间间隔：{} {}".format(startdate, enddate))
+        next_sum_record = length
+        while next_sum_record >= 0:
+            uri = "https://factba.se/json/json-20170612.php?q={q}&media={media}&type=&startdate={startdate}&enddate={enddate}&sort=desc&f=&t=se&l={length}&p={page}"\
+                .format(q=q, media=media, length=length, page=page, startdate=startdate, enddate=enddate)
+            r = requests.get(uri, proxies=proxies)
+            result = r.text
+            print(result)
+            result = json.loads(result)
+            data = result["combo"]["data"]
+            next_sum_record = result["combo"]["filtered"] - page*length
+            print(len(data))
+            if data:
+                page += 1
+                for dic in data:
+                    slug = dic["slug"]
+                    record_title = dic["record_title"]
+                    youtube_url = dic["url"]
+                    factba_uri = factba_base_uri.format(slug=slug)
+                    print(factba_uri)
+                    if (factba_uri not in already_done) and analysis_check_(factba_uri):
+                        ret.update({factba_uri : {
+                            'youtube_url': youtube_url,
+                            "title": record_title
+                        }})
+                        print("ret: {}".format(len(ret.keys())))
+                        time.sleep(1)
+                    already_done.add(factba_uri)
+            else:
+                break
+        endate_time = endate_time-datetime.timedelta(days=interval)
+        finally_ret = json.dumps(ret)
+        with open("video_trump.json", "w+") as f:
+            f.write(finally_ret)
+
 
 if __name__ == '__main__':
     main()
