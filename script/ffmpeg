@@ -1,0 +1,2 @@
+# 把视频索引前移, 不压缩音频, 长宽最大为720像素,并按最大比例等比缩放视频[长和宽必须是2的倍数]
+ffmpeg -y -i video.mp4 -movflags faststart -c:v libx264 -c:a copy -vf "scale='if(gt(iw, ih), min(iw, 720), min(ceil(iw*720/ih/2)*2, ih))':'if(gt(ih, iw), min(ih, 720), min(ceil(ih*720/iw/2)*2, iw))'" -crf 24 video_bak.mp4

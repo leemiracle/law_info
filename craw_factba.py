@@ -144,13 +144,15 @@ def main():
 def parse_factba_json(q="trump", media="video", length=500):
     count = 0
     not_slug_num = 0
+    filter_number = 0
 
-    # page = 1
+    page = 1
     ret = dict()
     factba_base_uri = "https://factba.se/transcript/{slug}"
     already_done = set()
 
-    endate_time = datetime.datetime.utcnow()
+    # endate_time = datetime.datetime.utcnow()
+    endate_time = datetime.datetime.strptime("2018-01-25", "%Y-%m-%d")
     enddate = str(endate_time)
     interval = 15
     # data = None
@@ -160,16 +162,25 @@ def parse_factba_json(q="trump", media="video", length=500):
         startdate = str(endate_time-datetime.timedelta(days=interval)).split(" ")[0]
 
         next_sum_record = length
+        combo_number = 0
         page = 1
         while next_sum_record >= 0:
             uri = "https://factba.se/json/json-20170612.php?q={q}&media={media}&type=&startdate={startdate}&enddate={enddate}&sort=desc&f=&t=se&l={length}&p={page}"\
                 .format(q=q, media=media, length=length, page=page, startdate=startdate, enddate=enddate)
             r = requests.get(uri, proxies=proxies)
-            result = r.text
-            # print(result)
-            result = json.loads(result)
-            data = result["combo"]["data"]
-            next_sum_record = result["combo"]["filtered"] - page*length
+            try:
+                result = r.text
+                # print(result)
+                result = json.loads(result)
+                data = result["combo"]["data"]
+                combo_number = result["combo"]["filtered"]
+                next_sum_record = combo_number - page*length
+            except Exception as e:
+                print(str(e))
+                print("Exception: {}".format(result))
+                page += 1
+                continue
+
             # print(len(data))
             if data:
                 page += 1
@@ -191,15 +202,17 @@ def parse_factba_json(q="trump", media="video", length=500):
                             "title": record_title
                         }})
                         # print("ret: {}".format())
-                        time.sleep(1)
+                        time.sleep(0.3)
                     already_done.add(factba_uri)
             else:
                 break
-        print("时间间隔：{} {}, {}, {}, {}".format(startdate, enddate, count, not_slug_num, len(ret.keys())))
-        endate_time = endate_time-datetime.timedelta(days=interval-1)
+        filter_number+=combo_number
+        print("时间间隔：{} {}, {}, {}, {}, {}".format(startdate, enddate, count, not_slug_num, len(ret.keys()), filter_number))
+        endate_time = endate_time-datetime.timedelta(days=interval)
         finally_ret = json.dumps(ret)
         with open("video_trump.json", "w+") as f:
             f.write(finally_ret)
+
 
 def analysis_check_(url):
     s = requests.get(url, proxies=proxies)
@@ -208,9 +221,96 @@ def analysis_check_(url):
     number_not = len(not_al)
     al = e("div.media.topic-media-row.mediahover:not(.not-trump)")
     number_ = len(al)
-    print(number_, number_not)
-    rate = float(number_)/float(number_+number_not)
+    # print(number_, number_not)
+    rate = float(number_)/float(number_+number_not) if number_>0 else 0
     return rate > 0.9
+
+
+def concat_json():
+    paths = os.listdir("./")
+    ret = dict()
+    for s in paths:
+        if "video_trump" in s and s.endswith(".json"):
+            with open(s, "r+") as f:
+                txt = f.read()
+            json_ = json.loads(txt)
+            ret.update(json_)
+    print(len(ret))
+    ret = json.dumps(ret)
+    with open("trump_result.json", "w+") as f:
+        f.write(ret)
+
+def download_():
+    global output_filename
+    file_num = 127
+    ret = dict()
+    has_not_trump_ = dict()
+    with open("trump_result.json", "r+") as f:
+        json_ = f.read()
+        json_ = json.loads(json_)
+    keys = sorted(list(json_.keys()))
+    try:
+        for i, k in enumerate(keys):
+            v = json_[k]
+            title = v["title"].strip()
+            uri = v["youtube_url"]
+            file_name = format(file_num, "06d")
+            output_filename = file_name
+            if title.startswith("Weekly Address"):
+                (_, size) = download_youtube(uri, proxies=None)
+                file_num += 1
+                e = pq(url=k)
+                al_not = e("div.media.topic-media-row.mediahover.not-trump")
+                if len(al_not) == 0:
+                    # print(k)
+                    al = e("div.media.topic-media-row.mediahover:not(.not-trump)")
+                    contents = []
+                    for l in al:
+                        d = decompress_content(l)
+                        contents.append(d)
+                    ret.update({
+                        file_name: {
+                            "youtube_url": uri,
+                            "title": title,
+                            "size": size,
+                            "contents": contents,
+                            "factba_uri": k
+                        }
+                    })
+                else:
+                    contents = []
+                    for l in al_not:
+                        d = decompress_content(l)
+                        contents.append(d)
+                    has_not_trump_.update({
+                        file_name: {
+                            "youtube_url": uri,
+                            "title": title,
+                            "size": size,
+                            "contents": contents,
+                            "factba_uri": k
+                        }
+                    })
+    except Exception as e:
+        print(e)
+    finally:
+        with open("trump_video_result.json", "w+") as f:
+            json_ret_ = json.dumps(ret)
+            f.write(json_ret_)
+        with open("trump_has_not_video_result.json", "w+") as f:
+            has_not_trump_ = json.dumps(has_not_trump_)
+            f.write(has_not_trump_)
+
+
+def decompress_content(element):
+    body = str(element.xpath('.//div[@class="transcript-text-block"]/a')[0].text_content())  # 文本
+    time_slice = str(element.xpath('.//div[@class="timecode-block"]')[0].text_content())  # 片段在视频中的起止时间
+    tags = []
+    e_tags = element.xpath('.//div[@class="tag-block"]/div')
+    for t in e_tags:
+        tag = str(t.text_content())
+        tags.append(tag)
+    return {"time_slice":time_slice, "body":body, "tags": tags}
 
 
 if __name__ == '__main__':
